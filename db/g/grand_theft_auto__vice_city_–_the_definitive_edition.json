@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -670,9 +670,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 10304,
+  "EOS_Progressed": 10307,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10330,6 +10330,11 @@
       "Time": "2023-09-24T09:04:31.7282006+00:00",
       "NumProgressed": 10304,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-24T10:05:24.2561312+00:00",
+      "NumProgressed": 10307,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10357,7 +10362,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH04",
@@ -10421,7 +10426,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH12",
@@ -10445,7 +10450,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "ACH15",
@@ -10469,7 +10474,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH18",
@@ -10501,7 +10506,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4740
+      "UsersEstimate": 4741
     },
     {
       "ID": "ACH22",
@@ -10517,7 +10522,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "ACH24",
@@ -10573,7 +10578,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH31",
@@ -10612,7 +10617,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10304,
+      "Progressed": 10307,
       "Completed": 58
     }
   ],
@@ -10620,8 +10625,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-23T11:02:04.6600568+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:04:31.7281999+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:05:24.2561306+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:00:44.2994475+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:04:31.7282867+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:02:38.7594724+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:05:24.2562659+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 889,
+  "EOS_Progressed": 890,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -2260,6 +2260,11 @@
       "Time": "2023-09-23T23:05:24.2072555+00:00",
       "NumProgressed": 889,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T10:05:36.3258587+00:00",
+      "NumProgressed": 890,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2295,7 +2300,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2343,7 +2348,7 @@
       "Name": "Street Style",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CultivairChests1",
@@ -2391,7 +2396,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2431,7 +2436,7 @@
       "Name": "Rail Rat",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "HexlockGift",
@@ -2469,9 +2474,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 125
     },
     {
       "ID": "NoCritterSump",
@@ -2517,9 +2522,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 178
     },
     {
       "ID": "ParryRepeated1",
@@ -2694,7 +2699,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 889,
+      "Progressed": 890,
       "Completed": 5
     }
   ],
@@ -2702,8 +2707,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:04:39.8224433+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:05:36.325858+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:57:44.7327074+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:04:39.822502+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:58:09.3665592+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:05:36.3259277+00:00"
 }

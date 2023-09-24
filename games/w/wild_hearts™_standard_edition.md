@@ -25,12 +25,12 @@
 | Axer of Auspice | 45.00% | ~15 |
 | Karakuri Trail | 42.00% | ~14 |
 | Artful Assister | 39.00% | ~13 |
+| Reincarnation Cycle Stopper | 39.00% | ~13 |
 | Left Arm Leverager | 36.00% | ~12 |
 | Single Minded | 36.00% | ~12 |
 | Mighty Marmelizer | 36.00% | ~12 |
 | Kemono at Heart | 36.00% | ~12 |
 | Team Hunter | 36.00% | ~12 |
-| Reincarnation Cycle Stopper | 36.00% | ~12 |
 | Fair Means or Foul | 33.00% | ~11 |
 | Snare Specialist | 33.00% | ~11 |
 | Karakuri Isle | 30.00% | ~10 |
@@ -43,17 +43,17 @@
 | Relentless Kemono Hunter | 24.00% | ~8 |
 | Volatile Vocation | 24.00% | ~8 |
 | Superlative View | 24.00% | ~8 |
+| Quintessence of Form | 24.00% | ~8 |
 | Haven Hunter | 24.00% | ~8 |
 | Canyon of Karakuri | 21.00% | ~7 |
 | Karakuri Fortress | 21.00% | ~7 |
-| Quintessence of Form | 21.00% | ~7 |
 | Vanquisher of the Volatile | 18.00% | ~6 |
 | Tender Touch | 15.00% | ~5 |
 | Big Spender | 15.00% | ~5 |
 | Bewitched by Bathing | 9.00% | ~3 |
 | Tsukumo Whisperer | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 448)  
+Progressed: 33 (Ranked 449)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -32,23 +32,23 @@
 | Ancient Powers | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
+| Sponsor | 3.00% | ~3 |
 | Wayseeker | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
 | The End | 3.00% | ~3 |
 | Unveiling the Truth | 3.00% | ~3 |
-| Sponsor | 2.00% | ~2 |
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |
 | Knowledge is King | 2.00% | ~2 |
 | Wizard | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
+| Explorer by Heart | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |
 | Fashionista | 1.00% | ~1 |
 | Bookworm | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
 | Collector | 0.00% | ~0 |
-| Explorer by Heart | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 86 (Ranked 391)  

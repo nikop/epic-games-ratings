@@ -25,12 +25,12 @@
 | Keep it Up, rookie! | 8.00% | ~7 |
 | The Deep Frozen Conqueror | 7.00% | ~6 |
 | The Paradox Coordinate Conqueror | 7.00% | ~6 |
+| The Hypergravitational Abyss Conqueror | 7.00% | ~6 |
 | Antaeus | 7.00% | ~6 |
 | The Sunken City Conqueror | 6.00% | ~5 |
 | The Infinite Train Conqueror | 6.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 6.00% | ~5 |
 | The Inactivated Frozen Conqueror | 6.00% | ~5 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~5 |
 | Hell of a Fight | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | Death Bringer Conqueror | 4.00% | ~4 |
@@ -41,10 +41,10 @@
 | Breaking the Limit | 3.00% | ~3 |
 | The Truth? | 3.00% | ~3 |
 | Break Through the Forbidden | 2.00% | ~2 |
+| Pumped Up | 2.00% | ~2 |
 | Proliferation | 2.00% | ~2 |
 | Burn After Reading | 2.00% | ~2 |
 | Alloy Rangers, Assemble! | 1.00% | ~1 |
-| Pumped Up | 1.00% | ~1 |
 | Easy Peasy | 1.00% | ~1 |
 | Clean Sweep | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |

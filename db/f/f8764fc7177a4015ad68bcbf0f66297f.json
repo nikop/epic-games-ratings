@@ -2,10 +2,10 @@
   "ID": "f8764fc7177a4015ad68bcbf0f66297f",
   "Name": "Dealer\u0027s Life 2",
   "ProductSlug": "dealers-life-2-843075",
-  "Ranking_EOS_Progress": 634,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2022-02-15T18:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-18T17:57:11.5991321+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:59:27.9081236+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:09:08.7504756+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:00:41.5944135+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:09:49.3142299+00:00"
 }

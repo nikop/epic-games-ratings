@@ -2,10 +2,10 @@
   "ID": "863fd6c97b804caea4ce44ffc99b0226",
   "Name": "Last Words",
   "ProductSlug": "last-words-5a83dd",
-  "Ranking_EOS_Progress": 634,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T11:57:10.6878643+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:00:12.7579166+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:04:30.5415229+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:01:49.8654438+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:05:22.5327688+00:00"
 }

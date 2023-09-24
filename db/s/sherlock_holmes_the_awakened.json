@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.9,
   "EosHistory": [
@@ -2445,6 +2445,11 @@
       "Time": "2023-09-23T23:09:11.6426548+00:00",
       "NumProgressed": 666,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-09-24T10:09:30.3594878+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2456,7 +2461,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MQ01_2",
@@ -2472,7 +2477,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "MQ02_2",
@@ -2496,7 +2501,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "MQ03_1",
@@ -2504,7 +2509,7 @@
       "Name": "Fond Memories",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "MQ03_2",
@@ -2520,7 +2525,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "MQ03_4",
@@ -2544,7 +2549,7 @@
       "Name": "Going Once...",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "MQ04_2",
@@ -2560,7 +2565,7 @@
       "Name": "The New World",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "MQ05_1",
@@ -2568,7 +2573,7 @@
       "Name": "Open Sesame",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "MQ05_2",
@@ -2584,7 +2589,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "MQ05_4",
@@ -2592,7 +2597,7 @@
       "Name": "Knives Out",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "MQ06_1",
@@ -2648,7 +2653,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "MQ08_2",
@@ -2679,7 +2684,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 26
     }
   ],
@@ -2687,8 +2692,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-14T06:02:12.3857175+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:08:25.3162409+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:09:30.3594872+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.3905914+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:59:45.3256698+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:08:25.3162774+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:01:11.1289778+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:09:30.359566+00:00"
 }

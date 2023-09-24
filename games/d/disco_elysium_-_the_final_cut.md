@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,026 |
-| Biggest Communism Builder | 24.00% | ~30,879 |
-| The World's Most Laughable Centrist | 20.00% | ~25,733 |
+| Goodest Of The Good Cops | 28.00% | ~36,027 |
+| Biggest Communism Builder | 24.00% | ~30,881 |
+| The World's Most Laughable Centrist | 20.00% | ~25,734 |
 | Il Coppo Del'Arte! | 18.00% | ~23,160 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,586 |
-| Hyperstellar Law Official | 16.00% | ~20,586 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,013 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,013 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,726 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,153 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,587 |
+| Hyperstellar Law Official | 16.00% | ~20,587 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,014 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,014 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,727 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,154 |
 | Unbelievably Boring **** | 9.00% | ~11,580 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,580 |
-| Enemy Of The Physical Realm | 8.00% | ~10,293 |
+| Enemy Of The Physical Realm | 8.00% | ~10,294 |
 | Hardie's Heroes | 6.00% | ~7,720 |
 | The Lawbringer | 4.00% | ~5,147 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,147 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,664 (Ranked 71)  
+Progressed: 128,669 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 28 (0.02%) (Ranked 265)
 | 2023-09-21 | 128,453 | 28 |
 | 2023-09-22 | 128,529 | 28 |
 | 2023-09-23 | 128,639 | 28 |
-| 2023-09-24 | 128,664 | 28 |
+| 2023-09-24 | 128,669 | 28 |
 ## Awards
 Max (Character Customization): 724  (Ranked 167)  
 Sum: 1,090 (Ranked 238)  

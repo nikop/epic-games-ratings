@@ -2,10 +2,10 @@
   "ID": "24d1afd359944b9b8bba6ca383675514",
   "Name": "The Library of Babel",
   "ProductSlug": "library-of-babel-7cedb5",
-  "Ranking_EOS_Progress": 634,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-07T00:00:00+00:00",
     "PcReleaseDate": "2023-04-07T00:00:00+00:00",
@@ -330,8 +330,8 @@
   "FirstSeenRating": "2023-04-08T15:56:55.3694388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:05.3760645+00:00",
   "LastChanged": "2023-04-08T15:56:55.3694389+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:09:13.3013923+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:09:56.007466+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3958574+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:58:53.271915+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:09:13.3014176+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:59:51.5531152+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:09:56.007492+00:00"
 }

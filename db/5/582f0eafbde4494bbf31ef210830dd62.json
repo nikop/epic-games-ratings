@@ -2,10 +2,10 @@
   "ID": "582f0eafbde4494bbf31ef210830dd62",
   "Name": "Infection Free Zone",
   "ProductSlug": "infection-free-zone-f9c219",
-  "Ranking_EOS_Progress": 634,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-21T11:57:28.1761006+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:57:57.6665671+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:03:22.7489973+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:58:31.4621955+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:03:42.8167025+00:00"
 }

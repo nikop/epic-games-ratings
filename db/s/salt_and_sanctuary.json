@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533899,
+  "EOS_Progressed": 533901,
   "EOS_Completed": 1554,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19739,6 +19739,11 @@
       "Time": "2023-09-24T09:03:58.6561223+00:00",
       "NumProgressed": 533899,
       "NumCompleted": 1554
+    },
+    {
+      "Time": "2023-09-24T10:04:34.8981715+00:00",
+      "NumProgressed": 533901,
+      "NumCompleted": 1554
     }
   ],
   "TotalAchievements": 37,
@@ -19806,7 +19811,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443136
+      "UsersEstimate": 443138
     },
     {
       "ID": "HONED",
@@ -20006,7 +20011,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341695
+      "UsersEstimate": 341697
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -20045,15 +20050,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533899,
+      "Progressed": 533901,
       "Completed": 1554
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:03:58.6561218+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:04:34.8981709+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:57:08.4546795+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:03:58.6562553+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:57:08.1328091+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:04:34.8984179+00:00"
 }

@@ -15,7 +15,7 @@ Rating: 4.27 (Ranked 823)
 | Future of the Franchise | 25.00% | ~290 |
 | Change of Scenery | 20.00% | ~232 |
 | Throwin’ Dots | 18.00% | ~209 |
-| Pro Bowler | 17.00% | ~197 |
+| Pro Bowler | 18.00% | ~209 |
 | Primetime | 15.00% | ~174 |
 | Already in Progress | 15.00% | ~174 |
 | Unblockable | 10.00% | ~116 |

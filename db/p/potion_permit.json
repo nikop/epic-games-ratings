@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1597,
+  "EOS_Progressed": 1598,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2118,6 +2118,11 @@
       "Time": "2023-09-24T06:06:30.9545724+00:00",
       "NumProgressed": 1597,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-24T10:06:36.6753421+00:00",
+      "NumProgressed": 1598,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -2129,7 +2134,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2137,7 +2142,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2175,9 +2180,9 @@
       "ID": "ACHIEVEMENTS_07",
       "SetID": "d4o538a",
       "Name": "K.O.!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 687
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2185,7 +2190,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2193,7 +2198,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2217,7 +2222,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -2257,7 +2262,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2265,7 +2270,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2273,7 +2278,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -2289,7 +2294,7 @@
       "Name": "Fishing Guru",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -2321,7 +2326,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -2385,7 +2390,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -2393,7 +2398,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2432,7 +2437,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1597,
+      "Progressed": 1598,
       "Completed": 9
     }
   ],
@@ -2440,8 +2445,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:05:19.779153+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:06:36.6753416+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:26.423195+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:59:07.7230418+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:05:19.7791944+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:00:11.0914555+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:06:36.6754408+00:00"
 }

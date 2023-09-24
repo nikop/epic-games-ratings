@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 353,
+  "EOS_Progressed": 354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1112,6 +1112,11 @@
       "Time": "2023-09-23T22:06:20.2717116+00:00",
       "NumProgressed": 353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T10:08:07.9057001+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1553,9 +1558,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "POPULATION_2",
@@ -1754,7 +1759,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 353,
+      "Progressed": 354,
       "Completed": 0
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:06:19.4849108+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:08:07.9056996+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:12.0994806+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:00:54.7239846+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:06:19.4850033+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:02:58.184498+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:08:07.9057794+00:00"
 }

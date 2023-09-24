@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9369,7 +9369,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 48993,
+  "EOS_Progressed": 48994,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
@@ -23389,6 +23389,11 @@
       "Time": "2023-09-24T09:05:27.0019174+00:00",
       "NumProgressed": 48993,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T10:06:47.4456679+00:00",
+      "NumProgressed": 48994,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -23488,7 +23493,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10778
+      "UsersEstimate": 10779
     },
     {
       "ID": "CutTreeFirst",
@@ -23552,7 +23557,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 36745
+      "UsersEstimate": 36746
     },
     {
       "ID": "HorseJumps",
@@ -23584,7 +23589,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 24496
+      "UsersEstimate": 24497
     },
     {
       "ID": "Mission",
@@ -23600,7 +23605,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 18617
+      "UsersEstimate": 18618
     },
     {
       "ID": "Money",
@@ -23608,7 +23613,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 25966
+      "UsersEstimate": 25967
     },
     {
       "ID": "NumBeehives",
@@ -23624,7 +23629,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19597
+      "UsersEstimate": 19598
     },
     {
       "ID": "NumPlaceables",
@@ -23648,7 +23653,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10778
+      "UsersEstimate": 10779
     },
     {
       "ID": "NumVehiclesSmall",
@@ -23656,7 +23661,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28416
+      "UsersEstimate": 28417
     },
     {
       "ID": "PetDog",
@@ -23743,15 +23748,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 48993,
+      "Progressed": 48994,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-09-24T06:57:30.7170568+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:05:27.001917+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:06:47.4456674+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:05.7383674+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:57:25.7150618+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:05:27.0020382+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:57:35.3520562+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:06:47.4458531+00:00"
 }

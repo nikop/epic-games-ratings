@@ -5,33 +5,33 @@ Rating: 4.73 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,181 |
-| Newcomers | 79.00% | ~10,460 |
-| A Burden of Blood | 74.00% | ~9,798 |
-| Protector's Duty | 70.00% | ~9,268 |
-| In our Wake | 68.00% | ~9,003 |
-| Alchemist | 68.00% | ~9,003 |
-| Leaving all Behind | 65.00% | ~8,606 |
-| Felons | 62.00% | ~8,209 |
-| A Sea of Promises | 61.00% | ~8,076 |
-| Tales and Revelations | 57.00% | ~7,547 |
-| Bloodline | 53.00% | ~7,017 |
-| The Cradle of Centuries | 49.00% | ~6,488 |
-| The Life We Deserve | 46.00% | ~6,090 |
-| Night guard | 43.00% | ~5,693 |
+| Under a New Sun | 92.00% | ~12,183 |
+| Newcomers | 79.00% | ~10,461 |
+| A Burden of Blood | 74.00% | ~9,799 |
+| Protector's Duty | 70.00% | ~9,269 |
+| In our Wake | 68.00% | ~9,005 |
+| Alchemist | 68.00% | ~9,005 |
+| Leaving all Behind | 65.00% | ~8,607 |
+| Felons | 62.00% | ~8,210 |
+| A Sea of Promises | 61.00% | ~8,078 |
+| Tales and Revelations | 57.00% | ~7,548 |
+| Bloodline | 53.00% | ~7,018 |
+| The Cradle of Centuries | 49.00% | ~6,489 |
+| The Life We Deserve | 46.00% | ~6,091 |
+| Night guard | 43.00% | ~5,694 |
 | Nothing Left | 39.00% | ~5,164 |
-| Healing our Wounds | 37.00% | ~4,899 |
-| Dying Sun | 33.00% | ~4,369 |
+| Healing our Wounds | 37.00% | ~4,900 |
+| Dying Sun | 33.00% | ~4,370 |
 | Improved crossbow | 27.00% | ~3,575 |
 | King Hugo | 25.00% | ~3,310 |
 | Mercy | 24.00% | ~3,178 |
 | Effective instruments | 22.00% | ~2,913 |
 | Perfect shot | 22.00% | ~2,913 |
 | Perfect throw | 22.00% | ~2,913 |
-| Knights! | 21.00% | ~2,780 |
+| Knights! | 21.00% | ~2,781 |
 | Handful of pockets | 13.00% | ~1,721 |
 | Pocket laboratory | 12.00% | ~1,589 |
-| Not a toy anymore | 11.00% | ~1,456 |
+| Not a toy anymore | 11.00% | ~1,457 |
 | Herbalist | 8.00% | ~1,059 |
 | Fighter | 8.00% | ~1,059 |
 | Ornithologist | 5.00% | ~662 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 162)
 | Old protector | 2.00% | ~265 |
 | Malignant | 1.00% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,240 (Ranked 129)  
+Progressed: 13,242 (Ranked 129)  
 Completed: 47 (0.35%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 47 (0.35%) (Ranked 178)
 | 2023-09-21 | 13,150 | 47 |
 | 2023-09-22 | 13,179 | 47 |
 | 2023-09-23 | 13,226 | 47 |
-| 2023-09-24 | 13,240 | 47 |
+| 2023-09-24 | 13,242 | 47 |
 ## Awards
 Max (Great Boss Battles): 420  (Ranked 214)  
 Sum: 645 (Ranked 292)  

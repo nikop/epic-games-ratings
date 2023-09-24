@@ -2,10 +2,10 @@
   "ID": "82a817396ef64fe19488d713f1356030",
   "Name": "Alder Choke",
   "ProductSlug": "alder-choke-9aaf15",
-  "Ranking_EOS_Progress": 634,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:01:07.7104524+00:00",
-  "LastUpdate_Ratings": "2023-09-24T09:00:51.9852609+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:04:39.1647047+00:00"
+  "LastUpdate_Ratings": "2023-09-24T10:02:52.3174565+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:05:35.2280079+00:00"
 }

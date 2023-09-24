@@ -2,10 +2,10 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -803,6 +803,11 @@
       "Time": "2023-09-24T03:04:18.1028285+00:00",
       "NumProgressed": 169,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T10:05:02.3697442+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -812,9 +817,9 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "avaricerite",
@@ -828,9 +833,9 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ball_collector",
@@ -886,7 +891,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "easy_victory",
@@ -902,7 +907,7 @@
       "Name": "Graduation",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -980,9 +985,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "scrap_collector",
@@ -1061,7 +1066,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 1
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-09-24T09:04:17.3241053+00:00",
+  "LastChanged_Achievements": "2023-09-24T10:05:02.3697434+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:00.9282587+00:00",
-  "LastUpdate_Ratings": "2023-09-24T08:58:04.9203002+00:00",
-  "LastUpdate_Achievements": "2023-09-24T09:04:17.3241331+00:00"
+  "LastUpdate_Ratings": "2023-09-24T09:58:40.9681775+00:00",
+  "LastUpdate_Achievements": "2023-09-24T10:05:02.3697738+00:00"
 }

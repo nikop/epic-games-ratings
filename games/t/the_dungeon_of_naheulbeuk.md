@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,169 |
-| Where's that freaking Dwarf? | 5.00% | ~11,318 |
-| Alt+F4 | 5.00% | ~11,318 |
-| Déjà vu | 4.00% | ~9,054 |
+| Sowwy! | 31.00% | ~70,175 |
+| Where's that freaking Dwarf? | 5.00% | ~11,319 |
+| Alt+F4 | 5.00% | ~11,319 |
+| Déjà vu | 4.00% | ~9,055 |
 | A beer, two curses, three companions | 3.00% | ~6,791 |
 | Sock! SOCK! | 3.00% | ~6,791 |
 | GG EZ | 3.00% | ~6,791 |
@@ -41,9 +41,9 @@ Number of Ratings: 118  (23.09.2022)
 | Team Building Exercise | 1.00% | ~2,264 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,037 |
 | Lust and Debauchery | 0.80% | ~1,811 |
-| Dead for good | 0.70% | ~1,584 |
-| Gargantua | 0.70% | ~1,584 |
-| Material Girl | 0.70% | ~1,584 |
+| Dead for good | 0.70% | ~1,585 |
+| Gargantua | 0.70% | ~1,585 |
+| Material Girl | 0.70% | ~1,585 |
 | In Navalu's footsteps | 0.60% | ~1,358 |
 | We come in peace | 0.50% | ~1,132 |
 | Lëgal Legend | 0.50% | ~1,132 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~226 |
 | Dwarf Candy | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,352 (Ranked 58)  
+Progressed: 226,371 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 3 (0.00%) (Ranked 291)
 | 2023-09-21 | 225,765 | 3 |
 | 2023-09-22 | 225,994 | 3 |
 | 2023-09-23 | 226,270 | 3 |
-| 2023-09-24 | 226,352 | 3 |
+| 2023-09-24 | 226,371 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 276)  
 Sum: 383 (Ranked 327)  
