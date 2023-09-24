@@ -9,18 +9,19 @@ Rating: 4.50 (Ranked 570)
 | Advancement | 0.60% | ~156 |
 | Meticulously Efficient | 0.60% | ~156 |
 | Discovery | 0.50% | ~130 |
+| Fully Upgraded | 0.50% | ~130 |
 | Solo Capture | 0.50% | ~130 |
 | Back Off | 0.40% | ~104 |
 | Clutch Capture | 0.40% | ~104 |
 | I collect Spores, Molds, and Fungi | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
-| Fully Upgraded | 0.40% | ~104 |
 | Swift Rift Removers | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
 | There you are! | 0.40% | ~104 |
 | Vaporous Expansion | 0.40% | ~104 |
 | Whoopsie | 0.40% | ~104 |
 | Animated | 0.30% | ~78 |
+| Daily Dose | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
 | Ghostbuster In Training | 0.30% | ~78 |
 | Icing on the Cake | 0.30% | ~78 |
@@ -32,8 +33,8 @@ Rating: 4.50 (Ranked 570)
 | Welcome to the Crew | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
 | Collector | 0.20% | ~52 |
-| Daily Dose | 0.20% | ~52 |
 | Diabolical | 0.20% | ~52 |
+| Escape Artist | 0.20% | ~52 |
 | Legions | 0.20% | ~52 |
 | Pesky Jerks | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |
@@ -43,7 +44,6 @@ Rating: 4.50 (Ranked 570)
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
-| Escape Artist | 0.10% | ~26 |
 | Fragile Panes | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
 | Liability | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 570)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,986 (Ranked 110)  
+Progressed: 25,989 (Ranked 110)  
 Completed: 58 (0.22%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 58 (0.22%) (Ranked 205)
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
 | 2023-09-23 | 25,986 | 58 |
+| 2023-09-24 | 25,989 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 254)  
 Sum: 2,329 (Ranked 188)  

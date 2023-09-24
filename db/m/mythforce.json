@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -689,9 +689,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3064,
+  "EOS_Progressed": 3067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5424,6 +5424,11 @@
       "Time": "2023-09-23T23:05:36.6259135+00:00",
       "NumProgressed": 3064,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T00:05:40.3407501+00:00",
+      "NumProgressed": 3067,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5460,7 +5465,7 @@
       "Name": "Death Becomes You",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -5484,7 +5489,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5556,7 +5561,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -5604,7 +5609,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -5619,15 +5624,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3064,
+      "Progressed": 3067,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-23T23:02:22.8356291+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:05:36.6259129+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:05:40.340749+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:02:22.8356298+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:05:36.6260018+00:00"
+  "LastUpdate_Ratings": "2023-09-24T00:02:18.1827345+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:05:40.3407935+00:00"
 }

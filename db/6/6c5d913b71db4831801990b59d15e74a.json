@@ -4,7 +4,7 @@
   "ProductSlug": "tenebris-pictura-76ffdf",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-31T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-17T09:05:31.1443475+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:49.1637834+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:00:00.7545727+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:09:01.5628104+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:59:53.9206327+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:09:02.1383243+00:00"
 }

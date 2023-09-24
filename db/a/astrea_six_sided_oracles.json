@@ -69,9 +69,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AnomalyMaster",
@@ -708,8 +708,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:05:17.6016363+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:05:21.4717774+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:01:40.4463992+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:05:17.6017584+00:00"
+  "LastUpdate_Ratings": "2023-09-24T00:01:36.5682205+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:05:21.4718685+00:00"
 }

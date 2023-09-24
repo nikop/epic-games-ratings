@@ -12,7 +12,7 @@ Rating: 3.97 (Ranked 960)
 | Battlefields Have Memories | 60.00% | ~6 |
 | Initiate | 60.00% | ~6 |
 | Thrada-Kul | 40.00% | ~4 |
-| Gravity-Challenged Rocks | 30.00% | ~3 |
+| Gravity-Challenged Rocks | 40.00% | ~4 |
 | Control is an Illusion | 20.00% | ~2 |
 | Socialite | 20.00% | ~2 |
 | Soldier | 20.00% | ~2 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 471,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 320,
-  "Ranking_EOS_Progress": 130,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -994,9 +994,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 12771,
+  "EOS_Progressed": 12773,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -11319,6 +11319,11 @@
       "Time": "2023-09-23T23:08:40.4487828+00:00",
       "NumProgressed": 12771,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-24T00:08:41.1675701+00:00",
+      "NumProgressed": 12773,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -11330,7 +11335,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10345
+      "UsersEstimate": 10346
     },
     {
       "ID": "ACH02",
@@ -11378,7 +11383,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "ACH08",
@@ -11609,7 +11614,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12771,
+      "Progressed": 12773,
       "Completed": 45
     }
   ],
@@ -11617,8 +11622,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-23T22:57:41.0329482+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:08:40.4487822+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:08:41.1675693+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:57:41.0329489+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:08:40.448886+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:57:39.2707908+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:08:41.1676592+00:00"
 }

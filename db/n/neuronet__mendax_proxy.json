@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -184,9 +184,9 @@
       "ID": "AN_ACQUIRED_TASTE",
       "SetID": "2d85n75",
       "Name": "An Acquired Taste",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AREAL_HEADACHE",
@@ -272,9 +272,9 @@
       "ID": "EVERYONE_NEEDS_ABREAK",
       "SetID": "2d85n75",
       "Name": "Everyone Needs a Break",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FIRST_DAY",
@@ -320,9 +320,9 @@
       "ID": "KNOCK_KNOCK",
       "SetID": "2d85n75",
       "Name": "Knock Knock",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
@@ -561,8 +561,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:05:42.8158359+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:05:46.4952518+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:11.7065799+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:57:39.9892566+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:05:42.8159149+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:57:38.5312204+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:05:46.4952983+00:00"
 }

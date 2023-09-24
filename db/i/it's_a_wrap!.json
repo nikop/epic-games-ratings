@@ -2,9 +2,9 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.25,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -396,6 +396,11 @@
       "Time": "2023-09-23T17:04:47.4739848+00:00",
       "NumProgressed": 89,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T00:05:27.2458407+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -406,7 +411,7 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 25,
       "UsersEstimate": 77
     },
@@ -519,14 +524,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:05:23.5288755+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:05:27.2458401+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:58.8476207+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:57:23.38504+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:05:23.5288975+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:57:20.7043167+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:05:27.245856+00:00"
 }

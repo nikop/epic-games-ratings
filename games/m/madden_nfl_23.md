@@ -1,33 +1,33 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.28 (Ranked 819)  
+Rating: 4.27 (Ranked 823)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 59.00% | ~645 |
-| Big Spender | 57.00% | ~624 |
-| MVP | 57.00% | ~624 |
-| Stud Finder | 48.00% | ~525 |
-| Dealmaker | 46.00% | ~503 |
-| ROTY | 37.00% | ~405 |
-| Roster Reshuffle | 34.00% | ~372 |
-| Future of the Franchise | 25.00% | ~274 |
-| Change of Scenery | 20.00% | ~219 |
-| Pro Bowler | 18.00% | ~197 |
-| Throwin’ Dots | 17.00% | ~186 |
-| Primetime | 15.00% | ~164 |
-| Already in Progress | 14.00% | ~153 |
-| Unblockable | 9.00% | ~98 |
+| Bragging Rights | 59.00% | ~650 |
+| MVP | 58.00% | ~639 |
+| Big Spender | 57.00% | ~628 |
+| Stud Finder | 48.00% | ~529 |
+| Dealmaker | 46.00% | ~507 |
+| ROTY | 37.00% | ~408 |
+| Roster Reshuffle | 34.00% | ~375 |
+| Future of the Franchise | 25.00% | ~276 |
+| Change of Scenery | 20.00% | ~220 |
+| Pro Bowler | 18.00% | ~198 |
+| Throwin’ Dots | 17.00% | ~187 |
+| Primetime | 15.00% | ~165 |
+| Already in Progress | 14.00% | ~154 |
+| Unblockable | 9.00% | ~99 |
 | Pocket Ace | 6.00% | ~66 |
 | Head-to-Head | 6.00% | ~66 |
 | Lockdown Corner | 4.00% | ~44 |
 | Gain Train | 1.00% | ~11 |
-| Ol' Reliable | 0.50% | ~5 |
-| Lockdown Leader | 0.50% | ~5 |
-| The Fortress | 0.50% | ~5 |
+| Ol' Reliable | 0.50% | ~6 |
+| Lockdown Leader | 0.50% | ~6 |
+| The Fortress | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,094 (Ranked 225)  
+Progressed: 1,102 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -36,6 +36,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 660 | 0 |
 | 2023-09-22 | 855 | 0 |
 | 2023-09-23 | 1,094 | 0 |
+| 2023-09-24 | 1,102 | 0 |
 ## Awards
 Max (Diverse Characters): 26  (Ranked 487)  
 Sum: 68 (Ranked 445)  
@@ -156,3 +157,4 @@ Diff (max vs sum): 42
 | 2023-09-18 | 4.28 | 25 | 66 |
 | 2023-09-20 | 4.28 | 26 | 67 |
 | 2023-09-22 | 4.28 | 26 | 68 |
+| 2023-09-24 | 4.27 | 26 | 68 |

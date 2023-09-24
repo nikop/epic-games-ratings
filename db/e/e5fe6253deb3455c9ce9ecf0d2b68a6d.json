@@ -775,9 +775,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "Island",
@@ -870,8 +870,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:08:23.3803333+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:08:24.2703641+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.6607347+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:58:56.3267022+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:08:23.3803495+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:58:48.7479428+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:08:24.2703815+00:00"
 }

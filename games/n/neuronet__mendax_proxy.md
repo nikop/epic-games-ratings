@@ -13,21 +13,21 @@
 | The Birds and the Bees | 50.00% | ~13 |
 | Busybody | 46.00% | ~12 |
 | Task Master | 46.00% | ~12 |
-| An Acquired Taste | 38.00% | ~10 |
+| An Acquired Taste | 42.00% | ~11 |
 | A Light in the Dark | 38.00% | ~10 |
 | Warning: Fragile | 38.00% | ~10 |
 | A Real Headache | 35.00% | ~9 |
 | A Total Riot | 35.00% | ~9 |
 | The Guardian | 35.00% | ~9 |
 | Endgame | 35.00% | ~9 |
+| Everyone Needs a Break | 35.00% | ~9 |
 | The Philosopher | 35.00% | ~9 |
+| Knock Knock | 35.00% | ~9 |
 | The Partner | 35.00% | ~9 |
 | Socially Acceptable Insanity | 35.00% | ~9 |
 | The Companion | 35.00% | ~9 |
 | They Flock to Him | 35.00% | ~9 |
 | The Counsellor | 35.00% | ~9 |
-| Everyone Needs a Break | 31.00% | ~8 |
-| Knock Knock | 31.00% | ~8 |
 | That One Doesn't Count | 31.00% | ~8 |
 | Blood Begets Blood | 27.00% | ~7 |
 | Full Coverage | 23.00% | ~6 |

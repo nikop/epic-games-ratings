@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -152,6 +152,11 @@
       "Time": "2023-09-23T23:08:11.5543038+00:00",
       "NumProgressed": 113,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T00:08:12.3870402+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -172,7 +177,7 @@
       "Name": "Establish Communications",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_eou2",
@@ -180,7 +185,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_eou3",
@@ -267,14 +272,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:08:11.5543032+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:08:12.3870393+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:58:59.7314515+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:08:11.5543205+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:58:52.0652305+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:08:12.3870531+00:00"
 }

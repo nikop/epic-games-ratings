@@ -7389,9 +7389,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61879,
+  "EOS_Progressed": 61880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23979,6 +23979,11 @@
       "Time": "2023-09-23T23:04:23.64381+00:00",
       "NumProgressed": 61879,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T00:04:28.2308218+00:00",
+      "NumProgressed": 61880,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -23990,7 +23995,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7425
+      "UsersEstimate": 7426
     },
     {
       "ID": "Apple of my eye",
@@ -24182,7 +24187,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10520
     },
     {
       "ID": "Kingslayer",
@@ -24350,7 +24355,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7425
+      "UsersEstimate": 7426
     },
     {
       "ID": "This is Sparta",
@@ -24397,15 +24402,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61879,
+      "Progressed": 61880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-23T18:03:07.1279914+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:04:23.6438093+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:04:28.2308211+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:03:06.0114342+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:04:23.6440423+00:00"
+  "LastUpdate_Ratings": "2023-09-24T00:03:10.9057367+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:04:28.2309648+00:00"
 }

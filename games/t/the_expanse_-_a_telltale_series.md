@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 33.00% | ~4,025 |
-| Stogie for Fogey | 27.00% | ~3,293 |
-| Captain Drummer | 27.00% | ~3,293 |
-| Martian Music | 26.00% | ~3,171 |
-| Celebrations are in Order | 25.00% | ~3,049 |
-| Spore Taste | 24.00% | ~2,927 |
-| The Pit and the Pirates | 22.00% | ~2,683 |
-| Drone Dodger | 22.00% | ~2,683 |
-| Doctor Approved | 19.00% | ~2,317 |
-| Thorston Mayer | 14.00% | ~1,708 |
-| Bottoms up! | 12.00% | ~1,464 |
-| Bosmang | 12.00% | ~1,464 |
-| Call it Even | 9.00% | ~1,098 |
-| Data Archivist | 8.00% | ~976 |
-| Heal Thy Medic | 8.00% | ~976 |
-| Data Logger | 7.00% | ~854 |
-| Khan's Revenge | 7.00% | ~854 |
-| Data Master | 6.00% | ~732 |
+| Impossible Objects | 33.00% | ~4,029 |
+| Stogie for Fogey | 27.00% | ~3,297 |
+| Captain Drummer | 27.00% | ~3,297 |
+| Martian Music | 26.00% | ~3,175 |
+| Celebrations are in Order | 25.00% | ~3,052 |
+| Spore Taste | 24.00% | ~2,930 |
+| The Pit and the Pirates | 22.00% | ~2,686 |
+| Drone Dodger | 22.00% | ~2,686 |
+| Doctor Approved | 19.00% | ~2,320 |
+| Thorston Mayer | 14.00% | ~1,709 |
+| Bottoms up! | 12.00% | ~1,465 |
+| Bosmang | 12.00% | ~1,465 |
+| Call it Even | 9.00% | ~1,099 |
+| Data Archivist | 8.00% | ~977 |
+| Heal Thy Medic | 8.00% | ~977 |
+| Data Logger | 7.00% | ~855 |
+| Khan's Revenge | 7.00% | ~855 |
+| Data Master | 6.00% | ~733 |
 | Miraculous Maya | 5.00% | ~610 |
 | Data Recoverer | 5.00% | ~610 |
 | Debris Spree | 4.00% | ~488 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 507)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,197 (Ranked 132)  
+Progressed: 12,210 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 11,365 | 0 |
 | 2023-09-22 | 11,791 | 0 |
 | 2023-09-23 | 12,197 | 0 |
+| 2023-09-24 | 12,210 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

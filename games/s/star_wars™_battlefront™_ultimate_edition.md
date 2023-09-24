@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~90 |
-| Off to a good start | 68.00% | ~69 |
+| New Recruit | 87.00% | ~90 |
+| Off to a good start | 67.00% | ~69 |
 | Do... or do not. There is no try | 46.00% | ~47 |
-| A good blaster at your side | 34.00% | ~35 |
+| A good blaster at your side | 35.00% | ~36 |
 | Great shot, kid! | 34.00% | ~35 |
 | Shoot first | 29.00% | ~30 |
 | The power of the Force | 28.00% | ~29 |
 | Collector | 28.00% | ~29 |
 | I suggest a new strategy | 27.00% | ~28 |
 | Tell Jabba that I've got his money | 25.00% | ~26 |
-| Scrap collector | 23.00% | ~23 |
-| A cunning warrior | 22.00% | ~22 |
-| What's the cargo? | 21.00% | ~21 |
-| Judge me by my size, do you? | 21.00% | ~21 |
-| Together we can rule the galaxy | 20.00% | ~20 |
-| Never tell me the odds! | 20.00% | ~20 |
-| A tremor in the Force | 19.00% | ~19 |
-| "Gonk? Gonk!" | 18.00% | ~18 |
-| Distinguished | 17.00% | ~17 |
-| Survivor | 17.00% | ~17 |
-| Support the troops | 17.00% | ~17 |
+| Scrap collector | 22.00% | ~23 |
+| A cunning warrior | 21.00% | ~22 |
+| What's the cargo? | 20.00% | ~21 |
+| Judge me by my size, do you? | 20.00% | ~21 |
+| Together we can rule the galaxy | 19.00% | ~20 |
+| Never tell me the odds! | 19.00% | ~20 |
+| A tremor in the Force | 18.00% | ~19 |
+| "Gonk? Gonk!" | 17.00% | ~18 |
+| Distinguished | 17.00% | ~18 |
+| Survivor | 17.00% | ~18 |
+| Support the troops | 17.00% | ~18 |
 | All right, I'll give it a try | 16.00% | ~16 |
 | Patience you must have | 16.00% | ~16 |
 | Not bad for a little furball | 15.00% | ~15 |
@@ -68,14 +68,15 @@
 | I never doubted you! | 1.00% | ~1 |
 | Crush them with one swift stroke… | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 372)  
-Completed: 1 (0.98%) (Ranked 132)  
+Progressed: 103 (Ranked 370)  
+Completed: 1 (0.97%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
+| 2023-09-24 | 103 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

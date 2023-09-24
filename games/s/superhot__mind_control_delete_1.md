@@ -1,7 +1,7 @@
 # SUPERHOT: Mind Control Delete
 [Store](https://store.epicgames.com/en-US/p/superhot-mind-control-delete)  
 [View Rawdata](../../db/s/superhot__mind_control_delete_1.json)  
-Rating: 4.59 (Ranked 417)  
+Rating: 4.60 (Ranked 399)  
 Number of Ratings: 34  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -41,3 +41,4 @@ Number of Ratings: 34  (23.09.2022)
 | 2023-04-30 | 4.64 | - | 0 | 0 |
 | 2023-05-26 | 4.58 | - | 0 | 0 |
 | 2023-09-16 | 4.59 | - | 0 | 0 |
+| 2023-09-24 | 4.60 | - | 0 | 0 |

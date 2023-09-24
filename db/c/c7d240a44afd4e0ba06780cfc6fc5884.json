@@ -4,7 +4,7 @@
   "ProductSlug": "pixeljunk-eden-2",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1190661+00:00",
-  "LastUpdate_Ratings": "2023-09-23T22:59:44.3702739+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:06:18.1244445+00:00"
+  "LastUpdate_Ratings": "2023-09-23T23:59:37.1693924+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:06:21.8436076+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lonesome-village",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-25T16:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-04-28T23:00:07.4661381+00:00",
   "LastChanged": "2023-04-28T23:00:07.4661382+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.2951088+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:02:15.099158+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:07:55.4204171+00:00"
+  "LastUpdate_Ratings": "2023-09-24T00:02:10.5403125+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:07:56.5493597+00:00"
 }

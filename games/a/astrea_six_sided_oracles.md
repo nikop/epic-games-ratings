@@ -13,7 +13,7 @@
 | Stellar Dismantler | 80.00% | ~4 |
 | Mind Illuminator | 60.00% | ~3 |
 | Wild's Keeper | 60.00% | ~3 |
-| Anomaly Destroyer | 20.00% | ~1 |
+| Anomaly Destroyer | 40.00% | ~2 |
 | Arch-Oracle | 20.00% | ~1 |
 | Astral Adventurer | 20.00% | ~1 |
 | Denying Destiny | 20.00% | ~1 |

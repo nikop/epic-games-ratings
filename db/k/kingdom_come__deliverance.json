@@ -7440,9 +7440,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802404,
+  "EOS_Progressed": 802405,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 823,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24840,6 +24840,11 @@
       "Time": "2023-09-23T23:05:35.533288+00:00",
       "NumProgressed": 802404,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-24T00:05:39.241773+00:00",
+      "NumProgressed": 802405,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -24931,7 +24936,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256769
+      "UsersEstimate": 256770
     },
     {
       "ID": "Bookworm",
@@ -24947,7 +24952,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96288
+      "UsersEstimate": 96289
     },
     {
       "ID": "Casanova",
@@ -25387,7 +25392,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88264
+      "UsersEstimate": 88265
     },
     {
       "ID": "Sniper",
@@ -25427,7 +25432,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96288
+      "UsersEstimate": 96289
     },
     {
       "ID": "TisButAScratch",
@@ -25459,7 +25464,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88264
+      "UsersEstimate": 88265
     },
     {
       "ID": "TrialAndError",
@@ -25506,15 +25511,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802404,
+      "Progressed": 802405,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-23T23:02:07.3424687+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:05:35.5332875+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:05:39.2417722+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:02:07.3424697+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:05:35.5335118+00:00"
+  "LastUpdate_Ratings": "2023-09-24T00:02:03.5588348+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:05:39.2419921+00:00"
 }

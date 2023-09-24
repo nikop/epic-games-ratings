@@ -9888,7 +9888,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 412558,
+  "EOS_Progressed": 412589,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 6947,
   "EOS_NewCompleters": 0,
@@ -27533,6 +27533,11 @@
       "Time": "2023-09-23T23:06:35.9643104+00:00",
       "NumProgressed": 412558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T00:06:39.6789619+00:00",
+      "NumProgressed": 412589,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -27936,7 +27941,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -27984,7 +27989,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8251
+      "UsersEstimate": 8252
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -28376,7 +28381,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8251
+      "UsersEstimate": 8252
     },
     {
       "ID": "achievement_forever_golden",
@@ -28544,7 +28549,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12377
+      "UsersEstimate": 12378
     },
     {
       "ID": "achievement_grand_coalition",
@@ -28568,7 +28573,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8251
+      "UsersEstimate": 8252
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -29112,7 +29117,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "achievement_my_true_friend",
@@ -29544,7 +29549,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8251
+      "UsersEstimate": 8252
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -29824,7 +29829,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12377
+      "UsersEstimate": 12378
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -30208,7 +30213,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16502
+      "UsersEstimate": 16504
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -30240,7 +30245,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12377
+      "UsersEstimate": 12378
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -30375,21 +30380,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 412558,
+      "Progressed": 412589,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 412558,
+      "Progressed": 412589,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-23T16:59:46.9875489+00:00",
-  "LastChanged_Achievements": "2023-09-23T23:06:35.9643094+00:00",
+  "LastChanged_Achievements": "2023-09-24T00:06:39.6789613+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:00:45.0565677+00:00",
-  "LastUpdate_Achievements": "2023-09-23T23:06:35.9663867+00:00"
+  "LastUpdate_Ratings": "2023-09-24T00:00:39.2413268+00:00",
+  "LastUpdate_Achievements": "2023-09-24T00:06:39.6803964+00:00"
 }
