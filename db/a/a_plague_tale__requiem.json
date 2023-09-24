@@ -6,9 +6,9 @@
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -454,7 +454,7 @@
   ],
   "EOS_Progressed": 13265,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -8982,9 +8982,9 @@
       "ID": "ACH_03",
       "SetID": "9d4cf4c",
       "Name": "A Burden of Blood",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9683
+      "UsersEstimate": 9816
     },
     {
       "ID": "ACH_04",
@@ -9255,8 +9255,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-21T20:01:06.4940624+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:05:18.7789782+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:04:46.4983532+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:58:09.5794736+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:05:18.7790382+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:58:02.0606277+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:04:46.4984117+00:00"
 }

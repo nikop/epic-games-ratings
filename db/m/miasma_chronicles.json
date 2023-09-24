@@ -3315,9 +3315,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 513
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -3371,9 +3371,9 @@
       "ID": "CHAOS_THEORY",
       "SetID": "9a4jnji",
       "Name": "Chaos Theory",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 234
     },
     {
       "ID": "COMMANDO",
@@ -3459,9 +3459,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 396
     },
     {
       "ID": "EXORCIST",
@@ -3515,9 +3515,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 703
     },
     {
       "ID": "GIANT_KILLER",
@@ -3724,8 +3724,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-23T02:13:50.9579032+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:06:01.7592528+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:05:19.3424612+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:51.2853046+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:02:15.3031887+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:06:01.7593038+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:01:10.5627045+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:05:19.3425106+00:00"
 }

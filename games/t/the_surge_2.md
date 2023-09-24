@@ -8,8 +8,8 @@ Rating: 4.24 (Ranked 846)
 | Rigged And Ready | 80.00% | ~1,641 |
 | Don't I Know You...? | 76.00% | ~1,559 |
 | Jailbreak | 65.00% | ~1,333 |
+| Suited and Booted | 39.00% | ~800 |
 | HEADSHOT! | 38.00% | ~779 |
-| Suited and Booted | 38.00% | ~779 |
 | Sleeping With The Fishes | 36.00% | ~738 |
 | Overheated | 30.00% | ~615 |
 | High Performance | 30.00% | ~615 |
@@ -35,12 +35,12 @@ Rating: 4.24 (Ranked 846)
 | Corrupted Beauty | 12.00% | ~246 |
 | Marked For Success | 12.00% | ~246 |
 | Sorry, Didn't See You There | 12.00% | ~246 |
+| Stimulating The Local Economy | 10.00% | ~205 |
 | Triplets | 10.00% | ~205 |
-| Stimulating The Local Economy | 9.00% | ~185 |
+| Defense in Depth | 9.00% | ~185 |
 | A Little Banged Up | 8.00% | ~164 |
 | Denying Prophecy | 8.00% | ~164 |
 | Following In Their Footsteps | 8.00% | ~164 |
-| Defense in Depth | 8.00% | ~164 |
 | Reverse Engineering | 7.00% | ~144 |
 | Reborn | 6.00% | ~123 |
 | Remote Surgery | 6.00% | ~123 |

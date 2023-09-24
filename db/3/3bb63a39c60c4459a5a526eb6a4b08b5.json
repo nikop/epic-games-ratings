@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 738,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -2706,6 +2706,11 @@
       "Time": "2023-09-24T18:05:52.9640651+00:00",
       "NumProgressed": 737,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T19:05:12.6787299+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2725,7 +2730,7 @@
       "Name": "Active Pause",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "BasicControls",
@@ -2733,15 +2738,15 @@
       "Name": "Basic Controls",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 184
     },
     {
       "ID": "BudgetFlight",
@@ -2749,7 +2754,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Calculated",
@@ -2829,7 +2834,7 @@
       "Name": "One Hundred",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Incredible",
@@ -2909,7 +2914,7 @@
       "Name": "Millionaire",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "NewRecord",
@@ -2917,7 +2922,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "NoTimeForModernization",
@@ -2925,7 +2930,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "NoWayBack",
@@ -2989,7 +2994,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Restructuring",
@@ -2997,7 +3002,7 @@
       "Name": "Restructuring",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Reviewer",
@@ -3052,14 +3057,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 738,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:05:52.9640646+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:05:12.6787296+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:48.9786266+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:00:07.2572697+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:05:52.9641041+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:59:29.1428244+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:05:12.6787802+00:00"
 }

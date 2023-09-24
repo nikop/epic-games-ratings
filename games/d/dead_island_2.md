@@ -5,54 +5,54 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,572 |
-| Dr. Reed, I Presume? | 2.00% | ~13,714 |
-| Git Gutte! | 2.00% | ~13,714 |
-| Bookworm | 2.00% | ~13,714 |
-| Break A Leg | 2.00% | ~13,714 |
-| But Doctor, I am Butcho | 2.00% | ~13,714 |
-| Slayer Squad | 2.00% | ~13,714 |
-| Can't Handle the Truth | 2.00% | ~13,714 |
-| Coup de Grâce | 2.00% | ~13,714 |
-| Like Riding a Bike | 2.00% | ~13,714 |
-| Hazardous Materials | 2.00% | ~13,714 |
-| Friends Like These | 2.00% | ~13,714 |
-| Hotel California | 2.00% | ~13,714 |
-| Apex Predator | 2.00% | ~13,714 |
-| Zombologist | 2.00% | ~13,714 |
-| A Patton Emerges | 2.00% | ~13,714 |
-| Stacking the Deck | 2.00% | ~13,714 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,714 |
-| This is My Weapon | 2.00% | ~13,714 |
-| Making Your Mark | 1.00% | ~6,857 |
-| Anger Management | 1.00% | ~6,857 |
-| Perks of the Job | 1.00% | ~6,857 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,857 |
-| Ooh, Shiny! | 1.00% | ~6,857 |
-| Humanity Distilled | 1.00% | ~6,857 |
-| I Am the Resurrection | 1.00% | ~6,857 |
-| Down with the Sickness | 1.00% | ~6,857 |
-| Our True Nature | 1.00% | ~6,857 |
-| Max Headroom | 0.90% | ~6,171 |
+| Hotel California | 3.00% | ~20,573 |
+| Welcome To Hell-A | 3.00% | ~20,573 |
+| Dr. Reed, I Presume? | 2.00% | ~13,715 |
+| Git Gutte! | 2.00% | ~13,715 |
+| Bookworm | 2.00% | ~13,715 |
+| Break A Leg | 2.00% | ~13,715 |
+| But Doctor, I am Butcho | 2.00% | ~13,715 |
+| Slayer Squad | 2.00% | ~13,715 |
+| Can't Handle the Truth | 2.00% | ~13,715 |
+| Coup de Grâce | 2.00% | ~13,715 |
+| Like Riding a Bike | 2.00% | ~13,715 |
+| Hazardous Materials | 2.00% | ~13,715 |
+| Friends Like These | 2.00% | ~13,715 |
+| Apex Predator | 2.00% | ~13,715 |
+| Zombologist | 2.00% | ~13,715 |
+| A Patton Emerges | 2.00% | ~13,715 |
+| Stacking the Deck | 2.00% | ~13,715 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,715 |
+| This is My Weapon | 2.00% | ~13,715 |
+| Making Your Mark | 1.00% | ~6,858 |
+| Anger Management | 1.00% | ~6,858 |
+| Perks of the Job | 1.00% | ~6,858 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,858 |
+| Ooh, Shiny! | 1.00% | ~6,858 |
+| Humanity Distilled | 1.00% | ~6,858 |
+| I Am the Resurrection | 1.00% | ~6,858 |
+| Down with the Sickness | 1.00% | ~6,858 |
+| Our True Nature | 1.00% | ~6,858 |
+| Max Headroom | 0.90% | ~6,172 |
 | Go, Bobcats! | 0.80% | ~5,486 |
 | Jumbo Keyring | 0.70% | ~4,800 |
 | Rising Star | 0.70% | ~4,800 |
-| Smorgasbord | 0.60% | ~4,114 |
+| Smorgasbord | 0.60% | ~4,115 |
 | On Safari | 0.50% | ~3,429 |
 | Not Even My Final Form | 0.50% | ~3,429 |
 | Internet Famous | 0.50% | ~3,429 |
 | Variety is the Spice of Death | 0.50% | ~3,429 |
 | Make it So | 0.40% | ~2,743 |
+| LA Influential | 0.40% | ~2,743 |
 | Gore Horse | 0.40% | ~2,743 |
-| LA Influential | 0.30% | ~2,057 |
 | Sole Survivor | 0.30% | ~2,057 |
 | Sharpest Tool in the Box | 0.30% | ~2,057 |
 | Survival Skills | 0.30% | ~2,057 |
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,719 (Ranked 22)  
-Completed: 2,172 (0.32%) (Ranked 187)  
+Progressed: 685,753 (Ranked 22)  
+Completed: 2,172 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,14 +208,14 @@ Completed: 2,172 (0.32%) (Ranked 187)
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
-| 2023-09-24 | 685,719 | 2,172 |
+| 2023-09-24 | 685,753 | 2,172 |
 ## Awards
-Max (Great Boss Battles): 6,175  (Ranked 57)  
-Sum: 9,191 (Ranked 92)  
+Max (Great Boss Battles): 6,188  (Ranked 57)  
+Sum: 9,204 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,175 |
+| This game has Great Boss Battles | 6,188 |
 | This game is Great for Beginners | 429 |
 | This game has Diverse Characters | 418 |
 | This game has Quickly Understood Controls | 400 |
@@ -383,4 +383,4 @@ Diff (max vs sum): -35
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
 | 2023-09-22 | 4.54 | 6,156 | 9,150 |
 | 2023-09-23 | 4.54 | 6,175 | 9,178 |
-| 2023-09-24 | 4.54 | 6,175 | 9,191 |
+| 2023-09-24 | 4.54 | 6,188 | 9,204 |

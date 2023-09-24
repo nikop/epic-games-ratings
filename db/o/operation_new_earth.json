@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1405,
+  "EOS_Progressed": 1406,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -5111,6 +5111,11 @@
       "Time": "2023-09-24T16:08:12.359369+00:00",
       "NumProgressed": 1405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T19:06:30.5512581+00:00",
+      "NumProgressed": 1406,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5250,7 +5255,7 @@
       "Name": "Lieutenant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5298,7 +5303,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5314,7 +5319,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5346,7 +5351,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5425,14 +5430,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1405,
+      "Progressed": 1406,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:07:35.3848586+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:06:30.5512578+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:59:53.9813694+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:07:35.3849034+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:59:20.6653158+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:06:30.5513033+00:00"
 }

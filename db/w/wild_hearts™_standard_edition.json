@@ -3,9 +3,9 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_38",
@@ -595,8 +595,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:03:42.656429+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:03:39.9629493+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:01:25.1256968+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:03:42.6564759+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:00:28.0740087+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:03:39.9629888+00:00"
 }

@@ -138,17 +138,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.70% | ~99 |
 | Egypt | 0.70% | ~99 |
 | Rome | 0.70% | ~99 |
+| Play a Network Game | 0.70% | ~99 |
 | Cataphract Archer | 0.70% | ~99 |
 | All Nations | 0.70% | ~99 |
 | Carthage - Ox Hide | 0.60% | ~85 |
 | Noble Difficulty | 0.60% | ~85 |
 | Old World Order | 0.60% | ~85 |
-| Play a Network Game | 0.60% | ~85 |
 | The Eternal Treaty | 0.50% | ~71 |
 | Persia | 0.50% | ~71 |
 | Capturing Cities | 0.50% | ~71 |
 | Ten Crowns | 0.50% | ~71 |
 | Three Man Chariot | 0.50% | ~71 |
+| Necropolis in Waset | 0.50% | ~71 |
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
@@ -157,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.40% | ~56 |
 | Siege Tower | 0.40% | ~56 |
 | Conquest Victory | 0.40% | ~56 |
-| Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
 | Patriarch St Paul | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,107 (Ranked 128)  
+Progressed: 14,108 (Ranked 128)  
 Completed: 5 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,7 +460,7 @@ Completed: 5 (0.04%) (Ranked 256)
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
-| 2023-09-24 | 14,107 | 5 |
+| 2023-09-24 | 14,108 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 265)  
 Sum: 1,817 (Ranked 207)  

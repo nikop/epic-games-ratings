@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 952)  
+Rating: 3.99 (Ranked 954)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.60% | ~820 |
 | Trash to Treasure | 0.60% | ~820 |
 | Royal Ransom | 0.60% | ~820 |
+| Seasoned Journeyman | 0.60% | ~820 |
 | Magical Harmony | 0.60% | ~820 |
 | A Notch Above the Rest | 0.50% | ~683 |
 | Cream of the Crop | 0.50% | ~683 |
@@ -69,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.50% | ~683 |
 | Miracle Alchemist | 0.50% | ~683 |
 | Laden with Loot | 0.50% | ~683 |
-| Seasoned Journeyman | 0.50% | ~683 |
 | Scourge of the Seas | 0.50% | ~683 |
 | Attrition Mission | 0.50% | ~683 |
 | Glittering Collection | 0.50% | ~683 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,656 (Ranked 69)  
+Progressed: 136,657 (Ranked 69)  
 Completed: 154 (0.11%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 154 (0.11%) (Ranked 230)
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
 | 2023-09-23 | 136,602 | 153 |
-| 2023-09-24 | 136,656 | 154 |
+| 2023-09-24 | 136,657 | 154 |
 ## Awards
 Max (Great for Beginners): 4,758  (Ranked 70)  
 Sum: 27,291 (Ranked 48)  

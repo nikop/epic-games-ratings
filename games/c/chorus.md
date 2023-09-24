@@ -14,7 +14,7 @@ Number of Ratings: 58  (23.09.2022)
 | Shields Down | 71.00% | ~858 |
 | Helping Hand | 67.00% | ~809 |
 | Safe Home | 66.00% | ~797 |
-| Paragon | 62.00% | ~749 |
+| Paragon | 63.00% | ~761 |
 | Old Days Born Anew | 61.00% | ~737 |
 | Full Arsenal | 56.00% | ~676 |
 | Controlled Demolition | 54.00% | ~652 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 94,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3272,7 +3272,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51733,
+  "EOS_Progressed": 51734,
   "EOS_Completed": 235,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 3,
@@ -12302,6 +12302,11 @@
       "Time": "2023-09-24T18:03:33.01224+00:00",
       "NumProgressed": 51733,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-24T19:03:32.9213612+00:00",
+      "NumProgressed": 51734,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12337,7 +12342,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40869
+      "UsersEstimate": 40870
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12425,7 +12430,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30522
+      "UsersEstimate": 30523
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -12433,7 +12438,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 23797
+      "UsersEstimate": 23798
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -12441,7 +12446,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20693
+      "UsersEstimate": 20694
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -12457,7 +12462,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19141
+      "UsersEstimate": 19142
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -12553,7 +12558,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30005
+      "UsersEstimate": 30006
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12577,7 +12582,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50181
+      "UsersEstimate": 50182
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12617,7 +12622,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36730
+      "UsersEstimate": 36731
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -12633,7 +12638,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19141
+      "UsersEstimate": 19142
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -12649,7 +12654,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27418
+      "UsersEstimate": 27419
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -12672,15 +12677,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51733,
+      "Progressed": 51734,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-24T13:59:20.6193401+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:03:33.0122396+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:03:32.9213608+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.4035697+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:00:08.1132159+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:03:33.0123095+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:59:29.7312165+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:03:32.9214331+00:00"
 }

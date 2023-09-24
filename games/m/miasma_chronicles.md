@@ -14,31 +14,31 @@ Rating: 4.42 (Ranked 683)
 | Croaked | 48.00% | ~703 |
 | Limp Richard | 48.00% | ~703 |
 | Exorcist | 48.00% | ~703 |
+| From Darkness to Light | 48.00% | ~703 |
 | Editor Adept | 47.00% | ~689 |
-| From Darkness to Light | 47.00% | ~689 |
 | Giant Killer | 45.00% | ~659 |
 | Sensei | 43.00% | ~630 |
 | Firestarter | 42.00% | ~615 |
 | The meaning of Kain | 41.00% | ~601 |
 | Technophobe | 40.00% | ~586 |
 | Recycler | 39.00% | ~571 |
-| Are you not entertained? | 34.00% | ~498 |
+| Are you not entertained? | 35.00% | ~513 |
 | Ganglord | 34.00% | ~498 |
 | Jarhead | 34.00% | ~498 |
 | Infiltrator | 34.00% | ~498 |
 | Pushing Daisy | 32.00% | ~469 |
 | Experienced | 31.00% | ~454 |
 | Hold The Line | 31.00% | ~454 |
-| Endgame | 26.00% | ~381 |
+| Endgame | 27.00% | ~396 |
 | Savior | 26.00% | ~381 |
 | There Can Be Only One! | 25.00% | ~366 |
 | Chain Killer | 22.00% | ~322 |
 | Silent but Violent | 22.00% | ~322 |
 | The Watchers | 22.00% | ~322 |
+| Chaos Theory | 16.00% | ~234 |
 | Commando | 16.00% | ~234 |
 | Dr Jones | 16.00% | ~234 |
 | Newtonian Knockout | 16.00% | ~234 |
-| Chaos Theory | 15.00% | ~220 |
 | Ruthless | 14.00% | ~205 |
 | Side Order | 11.00% | ~161 |
 | Chain Reaction | 9.00% | ~132 |

@@ -3,8 +3,8 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 210,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.4,
+  "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -512,6 +512,11 @@
       "Time": "2023-09-24T17:09:25.7162822+00:00",
       "NumProgressed": 208,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T19:09:09.7489173+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -532,7 +537,7 @@
       "Name": "Holey Moley",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_11",
@@ -540,15 +545,15 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_13",
@@ -564,7 +569,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_15",
@@ -580,7 +585,7 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_17",
@@ -588,7 +593,7 @@
       "Name": "Clean Sheet",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_18",
@@ -596,7 +601,7 @@
       "Name": "Perfect Round",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_2",
@@ -604,7 +609,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_3",
@@ -612,7 +617,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_4",
@@ -628,7 +633,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_6",
@@ -636,7 +641,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 38,
       "XP": 90,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_7",
@@ -644,15 +649,15 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 129
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_9",
@@ -660,20 +665,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 210,
       "Completed": 5
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:09:17.8269148+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:09:09.7489169+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:59:05.4816034+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:09:17.8269262+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:58:41.3841509+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:09:09.7489308+00:00"
 }

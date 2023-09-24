@@ -6,25 +6,25 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,042 |
-| A Grove Replanted | 53.00% | ~3,825 |
-| Fields Watered | 41.00% | ~2,959 |
-| Seekers Found | 41.00% | ~2,959 |
-| Settling the Skies | 41.00% | ~2,959 |
-| Wind Powered | 40.00% | ~2,887 |
+| A Small Community | 56.00% | ~4,043 |
+| A Grove Replanted | 53.00% | ~3,826 |
+| Fields Watered | 41.00% | ~2,960 |
+| Seekers Found | 41.00% | ~2,960 |
+| Settling the Skies | 41.00% | ~2,960 |
+| Wind Powered | 40.00% | ~2,888 |
 | It Takes a Village | 34.00% | ~2,454 |
 | On the Town | 28.00% | ~2,021 |
-| Daylight Found | 26.00% | ~1,876 |
-| Irons Scorched | 25.00% | ~1,804 |
-| Islands Connected | 25.00% | ~1,804 |
+| Daylight Found | 26.00% | ~1,877 |
+| Irons Scorched | 25.00% | ~1,805 |
+| Islands Connected | 25.00% | ~1,805 |
 | Harp Tuned | 23.00% | ~1,660 |
 | Pyre Ignited | 23.00% | ~1,660 |
 | Travelers Returned | 23.00% | ~1,660 |
 | Hopes Hoisted | 22.00% | ~1,588 |
-| Knowledge Shared | 20.00% | ~1,443 |
-| Relic Finder | 20.00% | ~1,443 |
-| Worthy of the Title | 19.00% | ~1,371 |
-| A Peaceful Respite | 14.00% | ~1,010 |
+| Knowledge Shared | 20.00% | ~1,444 |
+| Relic Finder | 20.00% | ~1,444 |
+| Worthy of the Title | 19.00% | ~1,372 |
+| A Peaceful Respite | 14.00% | ~1,011 |
 | A Learned Scholar | 13.00% | ~938 |
 | Prophecy Fulfilled | 13.00% | ~938 |
 | A Wanderer’s Guide | 11.00% | ~794 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~144 |
 | A True Challenge | 2.00% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,217 (Ranked 147)  
+Progressed: 7,219 (Ranked 147)  
 Completed: 53 (0.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 53 (0.73%) (Ranked 142)
 | 2023-09-21 | 7,206 | 53 |
 | 2023-09-22 | 7,211 | 53 |
 | 2023-09-23 | 7,212 | 53 |
-| 2023-09-24 | 7,217 | 53 |
+| 2023-09-24 | 7,219 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

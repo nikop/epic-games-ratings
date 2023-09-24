@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~503 |
+| Tell me your story | 76.00% | ~510 |
 | Don't judge a manhole by its cover | 60.00% | ~403 |
 | I just love stuff! | 42.00% | ~282 |
 | Keep 'em coming! | 42.00% | ~282 |
 | Big Spender | 39.00% | ~262 |
 | The things they print nowadays | 39.00% | ~262 |
-| That's gotta hurt | 36.00% | ~242 |
+| That's gotta hurt | 37.00% | ~248 |
 | The Ann Flores Combo Experience | 27.00% | ~181 |
 | I think it's broke | 26.00% | ~174 |
 | Club Star | 25.00% | ~168 |

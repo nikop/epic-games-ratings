@@ -27,6 +27,7 @@
 | Unepic Hero | 25.00% | ~2 |
 | Arch-Oracle | 13.00% | ~1 |
 | Astral Adventurer | 13.00% | ~1 |
+| Astral Seeker | 13.00% | ~1 |
 | Can't touch this | 13.00% | ~1 |
 | Denying Destiny | 13.00% | ~1 |
 | Favored by the Cosmos | 13.00% | ~1 |
@@ -34,6 +35,7 @@
 | Pocket Astrarium | 13.00% | ~1 |
 | Sadistic Plan | 13.00% | ~1 |
 | The Dark Moon | 13.00% | ~1 |
+| The Goddes Avatar | 13.00% | ~1 |
 | Wave Bender | 13.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
@@ -44,7 +46,6 @@
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
 | Artificer | 0.00% | ~0 |
-| Astral Seeker | 0.00% | ~0 |
 | Astral Tinkerer | 0.00% | ~0 |
 | Astrarium of Holding | 0.00% | ~0 |
 | Astrea's Saviors | 0.00% | ~0 |
@@ -79,7 +80,6 @@
 | The Ardent Prince | 0.00% | ~0 |
 | The Chaos Artisan | 0.00% | ~0 |
 | The Distorted Sage | 0.00% | ~0 |
-| The Goddes Avatar | 0.00% | ~0 |
 | The Raging Skies | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |

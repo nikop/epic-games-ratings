@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2422,
+  "EOS_Progressed": 2424,
   "EOS_Completed": 221,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 9.12,
   "EosHistory": [
@@ -6143,6 +6143,11 @@
       "Time": "2023-09-24T18:08:08.857368+00:00",
       "NumProgressed": 2422,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2023-09-24T19:06:56.3537349+00:00",
+      "NumProgressed": 2424,
+      "NumCompleted": 221
     }
   ],
   "TotalAchievements": 12,
@@ -6154,7 +6159,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "Bernard",
@@ -6178,7 +6183,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "Jacques a Dit",
@@ -6186,7 +6191,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "Jakob",
@@ -6218,7 +6223,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6249,7 +6254,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2422,
+      "Progressed": 2424,
       "Completed": 221
     }
   ],
@@ -6257,8 +6262,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:08:08.8573675+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:06:56.3537345+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:34.8068967+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:02:43.0660603+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:08:08.8574038+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:03:11.3234946+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:06:56.3537713+00:00"
 }

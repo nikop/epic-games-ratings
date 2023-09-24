@@ -2,7 +2,7 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 635,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -6522,10 +6522,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2989,
       "NumberOfAwardsMax": 327
+    },
+    {
+      "Time": "2023-09-24T18:58:24.5309287+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2999,
+      "NumberOfAwardsMax": 327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2989,
+  "NumberOfAwards": 2999,
   "NumberOfAwardsMax": 327,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6539,13 +6545,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 294
+      "Count": 296
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 297
+      "Count": 302
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -6557,7 +6563,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 293
+      "Count": 296
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6614,8 +6620,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-09-23T23:58:18.7199038+00:00",
+  "LastChanged": "2023-09-24T18:58:24.5309285+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.2657962+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:58:41.1716953+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:08:51.119657+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:58:24.5309291+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:08:09.4442874+00:00"
 }

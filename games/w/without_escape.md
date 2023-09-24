@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Never around when you need them | 45.00% | ~14 |
-| Became the new Maker | 23.00% | ~7 |
+| Never around when you need them | 44.00% | ~14 |
+| Became the new Maker | 22.00% | ~7 |
 | Where's the air conditioner? | 16.00% | ~5 |
-| Jumped into the void | 10.00% | ~3 |
+| Jumped into the void | 9.00% | ~3 |
 | You got all endings! | 3.00% | ~1 |
 | Did you think you would make it? | 3.00% | ~1 |
 | Stubbornness unleashed! | 3.00% | ~1 |
 | So nineties it hurts... | 3.00% | ~1 |
 | Still trying to escape? | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 452)  
-Completed: 1 (3.23%) (Ranked 74)  
+Progressed: 32 (Ranked 452)  
+Completed: 1 (3.12%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,3 +44,4 @@ Completed: 1 (3.23%) (Ranked 74)
 | 2023-08-24 | 29 | 1 |
 | 2023-09-03 | 30 | 1 |
 | 2023-09-05 | 31 | 1 |
+| 2023-09-24 | 32 | 1 |

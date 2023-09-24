@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1737,9 +1737,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14107,
+  "EOS_Progressed": 14108,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12157,6 +12157,11 @@
       "Time": "2023-09-24T18:03:15.248658+00:00",
       "NumProgressed": 14107,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T19:03:19.06947+00:00",
+      "NumProgressed": 14108,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13902,9 +13907,9 @@
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
       "SetID": "9201eeb",
       "Name": "Play a Network Game",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -14374,9 +14379,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -14535,21 +14540,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14107,
+      "Progressed": 14108,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14107,
+      "Progressed": 14108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T18:01:38.9338052+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:03:15.2486574+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:03:19.0694692+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:01:58.45538+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:03:15.2493992+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:00:54.8113595+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:03:19.0702732+00:00"
 }

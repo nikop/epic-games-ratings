@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.01,
+  "Rating": 4.02,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -256,15 +256,21 @@
       "Rating": 4.01,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-24T19:00:15.0262612+00:00",
+      "Rating": 4.02,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1239,
+  "EOS_NewPlayers": 1249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -622,6 +628,11 @@
       "Time": "2023-09-24T18:06:49.2866484+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T19:05:55.6483002+00:00",
+      "NumProgressed": 1269,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -642,7 +653,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_11",
@@ -650,7 +661,7 @@
       "Name": "Big Spender",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 340
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_12",
@@ -658,7 +669,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 340
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_13",
@@ -666,7 +677,7 @@
       "Name": "MVP",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 315
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_14",
@@ -674,7 +685,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 428
+      "UsersEstimate": 431
     },
     {
       "ID": "achievement_15",
@@ -722,7 +733,7 @@
       "Name": "Unblockable",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_20",
@@ -730,7 +741,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 692
+      "UsersEstimate": 698
     },
     {
       "ID": "achievement_21",
@@ -762,7 +773,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_6",
@@ -770,7 +781,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_7",
@@ -786,7 +797,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 315
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_9",
@@ -794,23 +805,23 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-09-23T03:59:07.1478372+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:06:49.2866475+00:00",
+  "LastChanged": "2023-09-24T19:00:15.0262606+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:05:55.6482999+00:00",
   "LastUpdate_AppInfo": "2023-09-21T02:12:03.9415691+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:01:09.7148942+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:06:49.2866622+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:00:15.0262615+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:05:55.6483142+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f774d8b9a9324124892868e7b5c71169",
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 113,
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 635,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 277,
   "RatingHistory": [
     {
@@ -821,6 +821,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 234,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-09-24T19:00:18.9520099+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 234,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
@@ -882,8 +888,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2023-09-24T14:00:06.1822621+00:00",
+  "LastChanged": "2023-09-24T19:00:18.9520097+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:25.4144512+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:01:14.1493274+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:04:08.6685736+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:00:18.9520102+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:03:52.359489+00:00"
 }

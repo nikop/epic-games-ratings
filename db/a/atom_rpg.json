@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1231,
+  "EOS_Progressed": 1232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2590,6 +2590,11 @@
       "Time": "2023-09-24T18:05:52.6563655+00:00",
       "NumProgressed": 1231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T19:05:12.4515953+00:00",
+      "NumProgressed": 1232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2601,7 +2606,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -2657,7 +2662,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "EXPERT_1",
@@ -2785,7 +2790,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -2849,7 +2854,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TRAVELER_1",
@@ -2888,15 +2893,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1231,
+      "Progressed": 1232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:05:52.656365+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:05:12.4515951+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:59:02.1316519+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:05:52.6563965+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:58:39.5333246+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:05:12.4516249+00:00"
 }

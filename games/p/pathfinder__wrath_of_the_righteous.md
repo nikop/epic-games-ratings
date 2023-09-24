@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 117)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,12 +21,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~570 |
 | Voice from Your Dreams | 5.00% | ~570 |
 | All Paths Open | 5.00% | ~570 |
+| Next-Door Play | 5.00% | ~570 |
 | Path of the Azata | 4.00% | ~456 |
 | The Legacy | 4.00% | ~456 |
 | Divide and Rule | 4.00% | ~456 |
 | Mythic Reinforcements | 4.00% | ~456 |
 | A Flame | 4.00% | ~456 |
-| Next-Door Play | 4.00% | ~456 |
 | Get the Toad | 4.00% | ~456 |
 | Heart of the Fallen Land | 3.00% | ~342 |
 | Path of the Trickster | 3.00% | ~342 |

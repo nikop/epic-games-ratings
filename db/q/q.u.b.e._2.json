@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1828,6 +1828,11 @@
       "Time": "2023-09-24T18:05:31.0645166+00:00",
       "NumProgressed": 431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T19:04:55.9046979+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2032,7 +2037,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_S4",
@@ -2040,7 +2045,7 @@
       "Name": "Power Glove",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_S5",
@@ -2071,15 +2076,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:05:31.0645159+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:04:55.9046972+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:00:59.5675375+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:05:31.0645389+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:00:08.26097+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:04:55.9047256+00:00"
 }

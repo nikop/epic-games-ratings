@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,10 +15,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3271,
+  "EOS_Progressed": 3272,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 88,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 89,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 5.93,
   "EosHistory": [
     {
@@ -5040,6 +5040,11 @@
       "Time": "2023-09-24T18:06:40.3439119+00:00",
       "NumProgressed": 3271,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-09-24T19:05:48.7355665+00:00",
+      "NumProgressed": 3272,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 24,
@@ -5147,7 +5152,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "21",
@@ -5155,7 +5160,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "22",
@@ -5187,15 +5192,15 @@
       "Name": "FRIENDLY",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1080
     },
     {
       "ID": "5",
@@ -5203,7 +5208,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "6",
@@ -5235,20 +5240,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3271,
+      "Progressed": 3272,
       "Completed": 194
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:06:40.3439115+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:05:48.7355662+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:57:43.8275434+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:06:40.3439507+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:57:42.4852212+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:05:48.7356058+00:00"
 }

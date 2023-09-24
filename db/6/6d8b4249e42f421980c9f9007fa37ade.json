@@ -770,9 +770,9 @@
       "ID": "Epic_SpendMoney_100000",
       "SetID": "ba1m2fc",
       "Name": "God of Wealth",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -786,9 +786,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Epic_Times_100",
@@ -841,8 +841,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:06:18.0927245+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:05:31.5930308+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:56.0035176+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:00:35.4225002+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:06:18.0927653+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:59:52.7173081+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:05:31.5930651+00:00"
 }

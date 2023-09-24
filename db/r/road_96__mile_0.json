@@ -3,7 +3,7 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -1334,6 +1334,11 @@
       "Time": "2023-09-24T12:03:47.2111021+00:00",
       "NumProgressed": 411,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T19:03:52.9776079+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1343,9 +1348,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 222
+      "UsersEstimate": 218
     },
     {
       "ID": "completeact2",
@@ -1353,7 +1358,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "completeact3",
@@ -1417,7 +1422,7 @@
       "Name": "Souvenirs",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "scoreminrankrp1",
@@ -1464,7 +1469,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 2
     }
   ],
@@ -1472,8 +1477,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:04:09.3677022+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:03:52.9776076+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:02:42.5034954+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:04:09.3677186+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:03:10.9454565+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:03:52.9776241+00:00"
 }

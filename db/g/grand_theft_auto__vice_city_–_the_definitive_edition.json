@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 10330,
+  "EOS_Progressed": 10331,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10381,6 +10381,11 @@
       "Time": "2023-09-24T18:05:18.5197556+00:00",
       "NumProgressed": 10330,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-24T19:04:46.2785294+00:00",
+      "NumProgressed": 10331,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10416,7 +10421,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH05",
@@ -10568,7 +10573,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "ACH24",
@@ -10600,7 +10605,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH28",
@@ -10663,7 +10668,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10330,
+      "Progressed": 10331,
       "Completed": 58
     }
   ],
@@ -10671,8 +10676,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-24T12:00:28.8282064+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:05:18.5197551+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:04:46.2785286+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:02:20.7664786+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:05:18.5198179+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:01:15.6018661+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:04:46.2787172+00:00"
 }

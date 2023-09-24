@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662524,
+  "EOS_Progressed": 662525,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15763,6 +15763,11 @@
       "Time": "2023-09-24T18:05:27.1441093+00:00",
       "NumProgressed": 662524,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-24T19:04:52.908004+00:00",
+      "NumProgressed": 662525,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15774,7 +15779,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477017
+      "UsersEstimate": 477018
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -15798,7 +15803,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39751
+      "UsersEstimate": 39752
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -15918,7 +15923,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92753
+      "UsersEstimate": 92754
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -15934,7 +15939,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39751
+      "UsersEstimate": 39752
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -16157,15 +16162,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662524,
+      "Progressed": 662525,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-24T18:05:27.1441088+00:00",
+  "LastChanged_Achievements": "2023-09-24T19:04:52.9080036+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-24T18:01:51.9815605+00:00",
-  "LastUpdate_Achievements": "2023-09-24T18:05:27.1442072+00:00"
+  "LastUpdate_Ratings": "2023-09-24T19:00:48.0520344+00:00",
+  "LastUpdate_Achievements": "2023-09-24T19:04:52.9081062+00:00"
 }
