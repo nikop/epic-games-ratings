@@ -253,9 +253,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_16",
@@ -389,9 +389,9 @@
       "ID": "achievement_30",
       "SetID": "2cpn27e",
       "Name": "Tender Touch",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_31",
@@ -595,8 +595,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:03:50.5775913+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:03:42.656429+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:01:21.5097218+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:03:50.5776271+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:01:25.1256968+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:03:42.6564759+00:00"
 }

@@ -14,7 +14,7 @@
 | Artistic fool | 34.00% | ~41 |
 | Open up wide | 33.00% | ~40 |
 | Let the boot talk | 32.00% | ~39 |
-| Chapter II | 27.00% | ~33 |
+| Chapter II | 28.00% | ~34 |
 | Handyman | 26.00% | ~31 |
 | Achoo!! | 26.00% | ~31 |
 | Chapter III | 24.00% | ~29 |
@@ -38,8 +38,8 @@
 | Where there is life, there is hope | 8.00% | ~10 |
 | It's nothing personal | 7.00% | ~8 |
 | Artistic master | 6.00% | ~7 |
+| Sadist | 6.00% | ~7 |
 | The hands of a healer | 6.00% | ~7 |
-| Sadist | 5.00% | ~6 |
 | Fartjokes! | 5.00% | ~6 |
 | Shut up clown! | 4.00% | ~5 |
 | Life is but a dream | 3.00% | ~4 |

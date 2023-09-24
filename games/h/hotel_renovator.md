@@ -15,8 +15,8 @@ Rating: 4.39 (Ranked 723)
 | Excellent service | 49.00% | ~510 |
 | Roll with it | 46.00% | ~479 |
 | Humble beginnings | 44.00% | ~458 |
+| Love is in the air | 44.00% | ~458 |
 | Fine, I'll do it myself | 43.00% | ~448 |
-| Love is in the air | 43.00% | ~448 |
 | Moving up | 41.00% | ~427 |
 | No need to call anyone | 39.00% | ~406 |
 | Big fortune | 32.00% | ~333 |

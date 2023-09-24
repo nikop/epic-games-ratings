@@ -10,8 +10,8 @@
 | Commencing of Quests | 79.00% | ~33 |
 | Charmed by the Hunt | 74.00% | ~31 |
 | Fusion Conjuror | 71.00% | ~30 |
+| Memory Rouser | 69.00% | ~29 |
 | Mountain Splitter | 69.00% | ~29 |
-| Memory Rouser | 67.00% | ~28 |
 | Man-Machine Master | 67.00% | ~28 |
 | Master of the Skies | 62.00% | ~26 |
 | Kemono Hunter | 62.00% | ~26 |
@@ -46,9 +46,9 @@
 | Karakuri Fortress | 26.00% | ~11 |
 | Relentless Kemono Hunter | 26.00% | ~11 |
 | Volatile Vocation | 26.00% | ~11 |
+| Tender Touch | 24.00% | ~10 |
 | Haven Hunter | 24.00% | ~10 |
 | Vanquisher of the Volatile | 21.00% | ~9 |
-| Tender Touch | 21.00% | ~9 |
 | Big Spender | 19.00% | ~8 |
 | Bewitched by Bathing | 14.00% | ~6 |
 | Tsukumo Whisperer | 10.00% | ~4 |

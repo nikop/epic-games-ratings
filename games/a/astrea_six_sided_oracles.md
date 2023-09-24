@@ -20,6 +20,7 @@
 | Unbeatable | 50.00% | ~4 |
 | Dice Specialist | 38.00% | ~3 |
 | Anomaly Destroyer | 25.00% | ~2 |
+| Heart Gate | 25.00% | ~2 |
 | Loyal Partner | 25.00% | ~2 |
 | Shard Spender | 25.00% | ~2 |
 | Star Killer | 25.00% | ~2 |
@@ -29,10 +30,10 @@
 | Can't touch this | 13.00% | ~1 |
 | Denying Destiny | 13.00% | ~1 |
 | Favored by the Cosmos | 13.00% | ~1 |
-| Heart Gate | 13.00% | ~1 |
 | Plague Doctor | 13.00% | ~1 |
 | Pocket Astrarium | 13.00% | ~1 |
 | Sadistic Plan | 13.00% | ~1 |
+| The Dark Moon | 13.00% | ~1 |
 | Wave Bender | 13.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
@@ -77,7 +78,6 @@
 | The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
 | The Chaos Artisan | 0.00% | ~0 |
-| The Dark Moon | 0.00% | ~0 |
 | The Distorted Sage | 0.00% | ~0 |
 | The Goddes Avatar | 0.00% | ~0 |
 | The Raging Skies | 0.00% | ~0 |

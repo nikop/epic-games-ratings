@@ -31,12 +31,12 @@ Number of Ratings: 281  (23.09.2022)
 | Rod and Troll | 2.00% | ~105 |
 | No Fin left to give | 1.00% | ~59 |
 | Taylor Made | 1.00% | ~59 |
+| Fish upon a Star | 0.70% | ~37 |
 | Head for Heights | 0.60% | ~35 |
-| Fish upon a Star | 0.60% | ~32 |
 | Lake Me up Before You Go Go | 0.50% | ~29 |
 | Golden Ridge Ranger | 0.40% | ~24 |
+| Trollsporet Tale Teller | 0.40% | ~21 |
 | Cache and Carry | 0.40% | ~21 |
-| Trollsporet Tale Teller | 0.30% | ~16 |
 | Buckaroo | 0.20% | ~12 |
 | Lost and Flounder | 0.10% | ~6 |
 | Norway Jose | 0.10% | ~5 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -7318,9 +7318,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 639
     },
     {
       "ID": "STORY_HANGAR",
@@ -7501,8 +7501,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-22T12:00:29.265171+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:08:57.0027705+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:08:50.1191044+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.2619756+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:02:04.0591894+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:08:57.0028303+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:02:06.346183+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:08:50.1191658+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -513,7 +513,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 15379,
+  "EOS_Progressed": 15380,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 1,
@@ -10748,6 +10748,11 @@
       "Time": "2023-09-24T17:05:18.4449748+00:00",
       "NumProgressed": 15379,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-24T18:05:10.4936968+00:00",
+      "NumProgressed": 15380,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10823,7 +10828,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "tpote_achievement_18",
@@ -10919,7 +10924,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "tpote_achievement_29",
@@ -10935,7 +10940,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "tpote_achievement_30",
@@ -11071,7 +11076,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "tpote_achievement_9",
@@ -11086,15 +11091,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15379,
+      "Progressed": 15380,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-23T22:58:53.6487582+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:05:18.4449743+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:05:10.4936963+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:59:09.919161+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:05:18.4450483+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:59:13.0754936+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:05:10.4937687+00:00"
 }

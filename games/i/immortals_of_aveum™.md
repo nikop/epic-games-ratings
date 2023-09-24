@@ -21,11 +21,11 @@ Rating: 4.00 (Ranked 948)
 | Resilience to Sin | 17.00% | ~2 |
 | A Familiar Nest | 17.00% | ~2 |
 | Geas Aristeya | 17.00% | ~2 |
+| A Perfect Cycle | 17.00% | ~2 |
 | Socialite | 17.00% | ~2 |
 | Armsman | 17.00% | ~2 |
 | Periapt Alizarin | 17.00% | ~2 |
 | Good Boy | 17.00% | ~2 |
-| A Perfect Cycle | 8.00% | ~1 |
 | Recruit | 8.00% | ~1 |
 | Lights Army | 8.00% | ~1 |
 | Scholar | 8.00% | ~1 |

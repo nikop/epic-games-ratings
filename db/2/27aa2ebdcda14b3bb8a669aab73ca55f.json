@@ -4,11 +4,11 @@
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 778,
   "Ranking_Popularity": 104,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -2160,18 +2160,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 4363,
       "NumberOfAwardsMax": 2325
+    },
+    {
+      "Time": "2023-09-24T17:58:23.6407937+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 4385,
+      "NumberOfAwardsMax": 2341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4363,
-  "NumberOfAwardsMax": 2325,
+  "NumberOfAwards": 4385,
+  "NumberOfAwardsMax": 2341,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2325
+      "Count": 2341
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2201,7 +2207,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 216
+      "Count": 222
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2240,8 +2246,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-09-24T14:58:06.3194053+00:00",
+  "LastChanged": "2023-09-24T17:58:23.6407936+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:02.5275904+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:58:24.6256799+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:06:42.8916789+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:58:23.6407942+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:06:35.1206701+00:00"
 }

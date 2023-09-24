@@ -238,12 +238,12 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-23 | 6,686 | 0 |
 | 2023-09-24 | 6,687 | 0 |
 ## Awards
-Max (Diverse Characters): 93  (Ranked 353)  
-Sum: 680 (Ranked 282)  
+Max (Diverse Characters): 94  (Ranked 353)  
+Sum: 681 (Ranked 282)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 93 |
+| This game has Diverse Characters | 94 |
 | This game is Relaxing | 89 |
 | This game is Highly Recommended | 86 |
 | This game has Quickly Understood Controls | 85 |
@@ -367,3 +367,4 @@ Diff (max vs sum): 71
 | 2023-09-14 | 4.17 | - | 93 | 678 |
 | 2023-09-16 | 4.17 | - | 93 | 679 |
 | 2023-09-22 | 4.17 | - | 93 | 680 |
+| 2023-09-24 | 4.17 | - | 94 | 681 |

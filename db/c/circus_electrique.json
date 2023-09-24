@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2023-09-23T23:05:44.2462063+00:00",
       "NumProgressed": 468,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T18:05:49.0841231+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -483,7 +488,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -579,7 +584,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -601,9 +606,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -627,7 +632,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -795,7 +800,7 @@
       "Name": "Self Defense",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -874,7 +879,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 1
     }
   ],
@@ -882,8 +887,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:05:56.8792135+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:05:49.0841224+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:25.9515822+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:01:42.9414853+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:05:56.8792521+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:01:46.829471+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:05:49.0841608+00:00"
 }

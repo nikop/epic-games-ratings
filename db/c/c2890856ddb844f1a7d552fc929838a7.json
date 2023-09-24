@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1953,9 +1953,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 328
     },
     {
       "ID": "AC27",
@@ -2122,8 +2122,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:06:01.7794341+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:05:53.6701793+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:00:11.071524+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:06:01.779472+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:00:13.0580257+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:05:53.6702169+00:00"
 }

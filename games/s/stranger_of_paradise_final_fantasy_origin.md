@@ -1,30 +1,30 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.51 (Ranked 550)  
+Rating: 4.51 (Ranked 549)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,238 |
-| No Escape | 86.00% | ~68,479 |
-| Seeker of Power | 85.00% | ~67,683 |
-| Hopes and Dreams | 82.00% | ~65,294 |
-| Lantern Smasher | 78.00% | ~62,109 |
-| The Pirate's Way | 74.00% | ~58,924 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,535 |
-| The King of the Dark Elves | 68.00% | ~54,146 |
+| Manifestation of the Soul | 97.00% | ~77,239 |
+| No Escape | 86.00% | ~68,480 |
+| Seeker of Power | 85.00% | ~67,684 |
+| Hopes and Dreams | 82.00% | ~65,295 |
+| Lantern Smasher | 78.00% | ~62,110 |
+| The Pirate's Way | 74.00% | ~58,925 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,536 |
+| The King of the Dark Elves | 68.00% | ~54,147 |
 | Memories of the Distant Past | 66.00% | ~52,554 |
-| Distortion's Progeny | 63.00% | ~50,165 |
+| Distortion's Progeny | 63.00% | ~50,166 |
 | Savant | 62.00% | ~49,369 |
 | A Landscape of Memory | 58.00% | ~46,184 |
 | The Wind's Light | 54.00% | ~42,999 |
-| Vague Remembrances | 49.00% | ~39,017 |
+| Vague Remembrances | 49.00% | ~39,018 |
 | The Fire's Light | 47.00% | ~37,425 |
 | Phantom Memories | 47.00% | ~37,425 |
 | Imbued Memories | 47.00% | ~37,425 |
-| The Earth's Light | 45.00% | ~35,832 |
-| Shared Recollections | 42.00% | ~33,443 |
+| The Earth's Light | 45.00% | ~35,833 |
+| Shared Recollections | 42.00% | ~33,444 |
 | The Water's Light | 40.00% | ~31,851 |
 | Path of the Sage | 40.00% | ~31,851 |
 | Malice Takes Root | 37.00% | ~29,462 |
@@ -32,19 +32,19 @@ Number of Ratings: 1,919  (23.09.2022)
 | Path of the Paladin | 37.00% | ~29,462 |
 | Path of the Breaker | 37.00% | ~29,462 |
 | Duty's Course | 36.00% | ~28,666 |
-| Path of the Liberator | 35.00% | ~27,869 |
-| Path of the Tyrant | 35.00% | ~27,869 |
-| Led by the Nose | 34.00% | ~27,073 |
-| Path of the Void Knight | 34.00% | ~27,073 |
+| Path of the Liberator | 35.00% | ~27,870 |
+| Path of the Tyrant | 35.00% | ~27,870 |
+| Led by the Nose | 34.00% | ~27,074 |
+| Path of the Void Knight | 34.00% | ~27,074 |
 | Terminus of Fate | 33.00% | ~26,277 |
 | Path of the Ninja | 33.00% | ~26,277 |
 | His Name Is Garland | 33.00% | ~26,277 |
 | Path of the Assassin | 32.00% | ~25,481 |
-| Seeker of Ultimate Power | 24.00% | ~19,110 |
+| Seeker of Ultimate Power | 24.00% | ~19,111 |
 | Artifact Collector | 22.00% | ~17,518 |
 | True Potential | 22.00% | ~17,518 |
 | Polymath | 22.00% | ~17,518 |
-| Origin of True Chaos | 20.00% | ~15,925 |
+| Origin of True Chaos | 20.00% | ~15,926 |
 | Master's Awakening | 19.00% | ~15,129 |
 | Jack-of-All-Trades | 19.00% | ~15,129 |
 | Cycle of Darkness | 16.00% | ~12,740 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,389 |
 | A Tale of Origins and Endings | 2.00% | ~1,593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,627 (Ranked 80)  
+Progressed: 79,628 (Ranked 80)  
 Completed: 2,176 (2.73%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,11 +210,11 @@ Completed: 2,176 (2.73%) (Ranked 82)
 | 2023-09-21 | 79,608 | 2,176 |
 | 2023-09-22 | 79,616 | 2,176 |
 | 2023-09-23 | 79,620 | 2,176 |
-| 2023-09-24 | 79,627 | 2,176 |
+| 2023-09-24 | 79,628 | 2,176 |
 ## Awards
-Max (Great Boss Battles): 765  (Ranked 161)  
+Max (Great Boss Battles): 765  (Ranked 162)  
 Sum: 1,577 (Ranked 219)  
-Diff (max vs sum): -58  
+Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |

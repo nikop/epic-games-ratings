@@ -1200,9 +1200,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18769,
+  "EOS_Progressed": 18770,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18235,6 +18235,11 @@
       "Time": "2023-09-24T17:06:01.3006386+00:00",
       "NumProgressed": 18769,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-24T18:05:53.3635851+00:00",
+      "NumProgressed": 18770,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 45,
@@ -18262,7 +18267,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5255
+      "UsersEstimate": 5256
     },
     {
       "ID": "BackToHell",
@@ -18286,7 +18291,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -18382,7 +18387,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "MoreThanHuman",
@@ -18430,7 +18435,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8258
+      "UsersEstimate": 8259
     },
     {
       "ID": "Perfection",
@@ -18470,7 +18475,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10135
+      "UsersEstimate": 10136
     },
     {
       "ID": "RunningWild",
@@ -18518,7 +18523,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11449
+      "UsersEstimate": 11450
     },
     {
       "ID": "SwordToAGunfight",
@@ -18574,7 +18579,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "WhereAreMyKeys",
@@ -18605,21 +18610,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 18769,
+      "Progressed": 18770,
       "Completed": 45
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 18769,
+      "Progressed": 18770,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-23T15:00:52.5746057+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:06:01.300638+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:05:53.3635844+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.6439511+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:01:44.9451174+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:06:01.3007474+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:01:48.7369028+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:05:53.3636935+00:00"
 }

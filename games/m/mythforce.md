@@ -1,36 +1,36 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 586)  
+Rating: 4.49 (Ranked 587)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 20.00% | ~623 |
-| Debuff Dogpile | 19.00% | ~592 |
-| Hit 'Em Where It Hurts | 19.00% | ~592 |
-| That'll Leave a Mark | 19.00% | ~592 |
-| Perk Shard Punch Card | 18.00% | ~561 |
-| Mushroom Madness! | 17.00% | ~530 |
-| Spending Spree | 15.00% | ~468 |
-| First Strike | 14.00% | ~436 |
-| Horder Better Faster Stronger | 14.00% | ~436 |
-| Everything Must Go! | 12.00% | ~374 |
-| Ten Steps from the Grave | 12.00% | ~374 |
-| Next Time on MythForce... | 10.00% | ~312 |
-| Cold-Blooded Critters | 8.00% | ~249 |
-| Death Becomes You | 7.00% | ~218 |
-| Flawless Victory | 6.00% | ~187 |
+| Faceroll the Bones | 20.00% | ~626 |
+| Debuff Dogpile | 19.00% | ~594 |
+| Hit 'Em Where It Hurts | 19.00% | ~594 |
+| That'll Leave a Mark | 19.00% | ~594 |
+| Perk Shard Punch Card | 18.00% | ~563 |
+| Mushroom Madness! | 17.00% | ~532 |
+| Spending Spree | 15.00% | ~469 |
+| First Strike | 14.00% | ~438 |
+| Horder Better Faster Stronger | 14.00% | ~438 |
+| Everything Must Go! | 12.00% | ~375 |
+| Ten Steps from the Grave | 12.00% | ~375 |
+| Next Time on MythForce... | 10.00% | ~313 |
+| Cold-Blooded Critters | 8.00% | ~250 |
+| Death Becomes You | 7.00% | ~219 |
+| Flawless Victory | 6.00% | ~188 |
 | The Harder They Fall | 5.00% | ~156 |
 | On this Episode! | 4.00% | ~125 |
 | Deadication | 3.00% | ~94 |
-| We've Got a Kaiju on the Field | 2.00% | ~62 |
-| Season Finale | 2.00% | ~62 |
+| We've Got a Kaiju on the Field | 2.00% | ~63 |
+| Season Finale | 2.00% | ~63 |
 | The Fourth Gate | 1.00% | ~31 |
 | Vexed Her | 0.30% | ~9 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,117 (Ranked 183)  
+Progressed: 3,128 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 2,900 | 0 |
 | 2023-09-22 | 2,956 | 0 |
 | 2023-09-23 | 3,064 | 0 |
-| 2023-09-24 | 3,117 | 0 |
+| 2023-09-24 | 3,128 | 0 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 456)  
 Sum: 274 (Ranked 354)  

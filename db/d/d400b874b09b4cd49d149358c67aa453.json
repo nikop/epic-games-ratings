@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -1108,9 +1108,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1131,8 +1131,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:06:02.1979591+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:05:54.1226914+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:38.1461116+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:00:33.0359049+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:06:02.1979789+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:00:33.9757179+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:05:54.1227102+00:00"
 }

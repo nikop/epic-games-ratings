@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10254,
+  "EOS_Progressed": 10255,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1556,6 +1556,11 @@
       "Time": "2023-09-24T00:09:23.2570233+00:00",
       "NumProgressed": 10254,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-24T18:03:18.9920166+00:00",
+      "NumProgressed": 10255,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1575,7 +1580,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1591,7 +1596,7 @@
       "Name": "autopilot",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1655,7 +1660,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -1711,7 +1716,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1759,7 +1764,7 @@
       "Name": "where is the stage?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1791,7 +1796,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9844
+      "UsersEstimate": 9845
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1807,7 +1812,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6152
+      "UsersEstimate": 6153
     },
     {
       "ID": "ACH_NIGHT",
@@ -1839,7 +1844,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1903,22 +1908,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7383
+      "UsersEstimate": 7384
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10254,
+      "Progressed": 10255,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:03:26.6100107+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:03:18.992016+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.7566421+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:01:31.0449611+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:03:26.610048+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:01:34.3446481+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:03:18.9920556+00:00"
 }

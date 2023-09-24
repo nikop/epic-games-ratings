@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 206,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
@@ -997,9 +997,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1109,9 +1109,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1180,8 +1180,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:09:19.8218115+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:09:12.0624078+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:57:29.25445+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:09:19.8218282+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:57:23.7817891+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:09:12.0624259+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,218 |
-| One HIT wonder | 35.00% | ~430 |
-| Wanderer | 35.00% | ~430 |
-| One shot, one kill | 28.00% | ~344 |
+| Atom Agent | 99.00% | ~1,219 |
+| One HIT wonder | 35.00% | ~431 |
+| Wanderer | 35.00% | ~431 |
+| One shot, one kill | 28.00% | ~345 |
 | Traveler | 25.00% | ~308 |
 | Head Burst | 19.00% | ~234 |
-| Explorer | 18.00% | ~221 |
-| Grave Robber | 18.00% | ~221 |
-| Double agent | 15.00% | ~184 |
-| Paranoia | 15.00% | ~184 |
+| Explorer | 18.00% | ~222 |
+| Grave Robber | 18.00% | ~222 |
+| Double agent | 15.00% | ~185 |
+| Paranoia | 15.00% | ~185 |
 | Kraina Grzybow | 10.00% | ~123 |
 | Love Guru | 9.00% | ~111 |
 | Savant | 9.00% | ~111 |
@@ -32,7 +32,7 @@ Number of Ratings: 54  (23.09.2022)
 | Neanderthal | 1.00% | ~12 |
 | It was worth a shot | 1.00% | ~12 |
 | Cosmic Horror | 1.00% | ~12 |
-| Ghostbuster | 0.70% | ~9 |
+| Ghostbuster | 0.60% | ~7 |
 | Tourist Korallov | 0.50% | ~6 |
 | Cheeki Breeki | 0.40% | ~5 |
 | Comrade Yogi | 0.40% | ~5 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,230 (Ranked 218)  
+Progressed: 1,231 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 1,211 | 0 |
 | 2023-09-22 | 1,216 | 0 |
 | 2023-09-23 | 1,223 | 0 |
-| 2023-09-24 | 1,230 | 0 |
+| 2023-09-24 | 1,231 | 0 |
 ## Awards
 Max (Character Customization): 50  (Ranked 408)  
 Sum: 50 (Ranked 458)  

@@ -14,8 +14,8 @@
 | A good beginning | 35.00% | ~72 |
 | True G4M3R | 35.00% | ~72 |
 | One last step | 33.00% | ~68 |
-| Cable guy | 30.00% | ~62 |
-| Champollion | 30.00% | ~62 |
+| Cable guy | 31.00% | ~64 |
+| Champollion | 31.00% | ~64 |
 | Half the way | 29.00% | ~60 |
 | In this together | 28.00% | ~58 |
 | Peace walker | 28.00% | ~58 |

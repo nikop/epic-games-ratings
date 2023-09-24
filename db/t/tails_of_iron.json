@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1928,
+  "EOS_Progressed": 1929,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -2743,6 +2743,11 @@
       "Time": "2023-09-24T04:03:44.6044015+00:00",
       "NumProgressed": 1928,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-24T18:03:46.9611969+00:00",
+      "NumProgressed": 1929,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2754,7 +2759,7 @@
       "Name": "Become King",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "Collect20Gold",
@@ -2770,7 +2775,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2810,7 +2815,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "CompleteChefsBook",
@@ -2874,7 +2879,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2906,7 +2911,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "Kill25Bugs",
@@ -2914,7 +2919,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "Kill25Frogs",
@@ -2930,7 +2935,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "MeetTheMoles",
@@ -2946,7 +2951,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "RepairChef",
@@ -2954,7 +2959,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "RepairSmith",
@@ -2993,22 +2998,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1928,
+      "Progressed": 1929,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 569,
-      "Completed": 569
+      "Progressed": 570,
+      "Completed": 570
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:04:05.1430941+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:03:46.9611966+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.8813304+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:02:05.1371509+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:04:05.1431228+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:02:07.1881694+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:03:46.96124+00:00"
 }

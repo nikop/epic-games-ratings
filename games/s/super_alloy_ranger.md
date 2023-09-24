@@ -40,10 +40,10 @@
 | The Truth? | 4.00% | ~4 |
 | Rapidfire | 4.00% | ~4 |
 | Air Interception | 4.00% | ~4 |
+| Proliferation | 3.00% | ~3 |
 | Burn After Reading | 3.00% | ~3 |
 | Break Through the Forbidden | 2.00% | ~2 |
 | Pumped Up | 2.00% | ~2 |
-| Proliferation | 2.00% | ~2 |
 | Alloy Rangers, Assemble! | 1.00% | ~1 |
 | Easy Peasy | 1.00% | ~1 |
 | Clean Sweep | 1.00% | ~1 |

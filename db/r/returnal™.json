@@ -2,20 +2,20 @@
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
   "ProductSlug": "returnal",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-15T16:00:00+00:00",
     "PcReleaseDate": "2023-02-15T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-02-22T19:57:26.9994274+00:00",
@@ -510,6 +510,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 77,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-09-24T18:00:13.4336444+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 77,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
@@ -536,8 +542,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2023-09-21T19:58:24.3764427+00:00",
+  "LastChanged": "2023-09-24T18:00:13.4336442+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:26.6392482+00:00",
-  "LastUpdate_Ratings": "2023-09-24T17:00:11.7731174+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:03:38.8216807+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:00:13.4336448+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:03:30.6389722+00:00"
 }

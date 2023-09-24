@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 445,
-  "EOS_Completed": 31,
+  "EOS_Completed": 32,
   "EOS_NewPlayers": 15,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.97,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 7.19,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1696,6 +1696,11 @@
       "Time": "2023-09-24T04:07:10.3185979+00:00",
       "NumProgressed": 445,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-09-24T18:07:33.360358+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 45,
@@ -1729,17 +1734,17 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 240
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1801,9 +1806,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "DevilPriest",
@@ -1961,9 +1966,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "PrincessThrone",
@@ -2067,13 +2072,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 445,
-      "Completed": 31
+      "Completed": 32
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:07:39.9949329+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:07:33.3603574+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:59:59.9009267+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:07:39.9949689+00:00"
+  "LastUpdate_Ratings": "2023-09-24T18:00:00.2507503+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:07:33.3603937+00:00"
 }

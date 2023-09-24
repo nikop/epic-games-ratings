@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 1207,
+  "EOS_Progressed": 1208,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -2088,6 +2088,11 @@
       "Time": "2023-09-24T13:08:40.3872031+00:00",
       "NumProgressed": 1207,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-24T18:06:34.0990225+00:00",
+      "NumProgressed": 1208,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 43,
@@ -2099,7 +2104,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "DieInPermadeath",
@@ -2115,7 +2120,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Finish5SideMissions",
@@ -2131,15 +2136,15 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "GatlingVsArmor",
       "SetID": "a6c395p",
       "Name": "Controlled Demolition",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 652
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2163,7 +2168,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "MasteryOfCombat",
@@ -2179,7 +2184,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MasteryOfWeapons",
@@ -2195,7 +2200,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -2211,7 +2216,7 @@
       "Name": "Power Chord",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -2225,9 +2230,9 @@
       "ID": "MissionDefenderOfTheWeak",
       "SetID": "a6c395p",
       "Name": "Payback",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 628
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2259,7 +2264,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -2291,7 +2296,7 @@
       "Name": "Rise as One",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "MissionOldFriend",
@@ -2299,7 +2304,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2315,7 +2320,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "MissionScavengingJob",
@@ -2323,7 +2328,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "MissionShipyard",
@@ -2339,7 +2344,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "MissionTemple",
@@ -2355,15 +2360,15 @@
       "Name": "Ascension",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "MissionTheiaStep1",
       "SetID": "a6c395p",
       "Name": "Origin",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 471
     },
     {
       "ID": "Overcharge",
@@ -2387,7 +2392,7 @@
       "Name": "Crash Test",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "RiteOfTheHunt",
@@ -2401,9 +2406,9 @@
       "ID": "RiteOfTheStar",
       "SetID": "a6c395p",
       "Name": "Two Birds",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 302
     },
     {
       "ID": "RiteOfTheStorm",
@@ -2427,7 +2432,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "WinARace",
@@ -2435,22 +2440,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1207,
+      "Progressed": 1208,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-09-24T17:06:41.8884942+00:00",
+  "LastChanged_Achievements": "2023-09-24T18:06:34.0990221+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.4828325+00:00",
-  "LastUpdate_Ratings": "2023-09-24T16:58:56.987555+00:00",
-  "LastUpdate_Achievements": "2023-09-24T17:06:41.8885316+00:00"
+  "LastUpdate_Ratings": "2023-09-24T17:58:59.1189685+00:00",
+  "LastUpdate_Achievements": "2023-09-24T18:06:34.0990585+00:00"
 }

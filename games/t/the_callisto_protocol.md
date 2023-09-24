@@ -13,6 +13,7 @@ Rating: 4.19 (Ranked 877)
 | Chew 'Em Up | 4.00% | ~639 |
 | Reforged | 4.00% | ~639 |
 | The Outer Way | 4.00% | ~639 |
+| Without A Paddle | 4.00% | ~639 |
 | In the Pipe, Five by Five | 4.00% | ~639 |
 | Crash Site | 4.00% | ~639 |
 | Full Circle | 4.00% | ~639 |
@@ -24,7 +25,6 @@ Rating: 4.19 (Ranked 877)
 | Terminated | 3.00% | ~479 |
 | Workplace Hazard | 3.00% | ~479 |
 | If the SHU Fits... | 3.00% | ~479 |
-| Without A Paddle | 3.00% | ~479 |
 | What Lies Beneath | 3.00% | ~479 |
 | Desperate Times | 3.00% | ~479 |
 | It's Time | 3.00% | ~117 |
