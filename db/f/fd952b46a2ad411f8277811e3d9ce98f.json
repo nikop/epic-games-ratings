@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15494,
+  "EOS_Progressed": 15526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11280,
+  "EOS_NewPlayers": 11311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2444,6 +2444,11 @@
       "Time": "2023-09-24T22:06:57.7023755+00:00",
       "NumProgressed": 15494,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T23:06:06.6947778+00:00",
+      "NumProgressed": 15526,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2456,7 +2461,7 @@
       "Name": "Soldier 47",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "firstKills_1",
@@ -2544,7 +2549,7 @@
       "Name": "Kar98 Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "kills_1",
@@ -2552,7 +2557,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 7592
+      "UsersEstimate": 7608
     },
     {
       "ID": "kills_100",
@@ -2568,7 +2573,7 @@
       "Name": "Master Soldier",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "lastBulletKills_1",
@@ -2592,7 +2597,7 @@
       "Name": "Baton Soldier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "mru2_wins_1",
@@ -2608,7 +2613,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1397
     },
     {
       "ID": "revives_25",
@@ -2616,7 +2621,7 @@
       "Name": "Royale Surgeon",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "silencedKills_25",
@@ -2703,13 +2708,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 15494,
+      "Progressed": 15526,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:06:57.7023751+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:06:06.6947774+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:57:58.8431268+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:06:57.7024041+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:57:45.8198537+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:06:06.694809+00:00"
 }

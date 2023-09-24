@@ -132,9 +132,9 @@
       "ID": "Seasonal",
       "SetID": "8ohdpka",
       "Name": "Seasonal",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TeeTime",
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:05:20.233764+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:04:50.4766401+00:00",
   "LastUpdate_AppInfo": "2023-09-21T02:57:12.6324917+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:02:05.8687663+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:05:20.2337738+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:00:51.3504226+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:04:50.4766503+00:00"
 }

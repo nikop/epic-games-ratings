@@ -34,12 +34,12 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~147 |
 | Laid back | 5.00% | ~147 |
 | Lines for days | 5.00% | ~147 |
-| Renaissance man | 5.00% | ~147 |
 | Trick shot marksman | 5.00% | ~147 |
 | Cops called! | 4.00% | ~117 |
 | G.O.A.T. status | 4.00% | ~117 |
 | Manny Destroys All | 4.00% | ~117 |
 | Prince of Philly | 4.00% | ~117 |
+| Renaissance man | 4.00% | ~117 |
 | Tank commander | 4.00% | ~117 |
 | We get it, you're good | 4.00% | ~117 |
 | Hoarder | 3.00% | ~88 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,933 (Ranked 184)  
+Progressed: 2,934 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,11 +202,11 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 2,892 | 0 |
 | 2023-09-22 | 2,904 | 0 |
 | 2023-09-23 | 2,922 | 0 |
-| 2023-09-24 | 2,933 | 0 |
+| 2023-09-24 | 2,934 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 398)  
-Sum: 472 (Ranked 309)  
-Diff (max vs sum): 89  
+Sum: 472 (Ranked 310)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 54 |

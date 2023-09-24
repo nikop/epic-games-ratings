@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
@@ -1681,6 +1681,11 @@
       "Time": "2023-09-23T23:06:20.8553763+00:00",
       "NumProgressed": 500,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-24T23:05:43.5612389+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1725,7 +1730,7 @@
       "Name": "Red Skeleton",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "YellowSkeleton",
@@ -1740,14 +1745,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:06:27.8389273+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:05:43.5612385+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.153897+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:59:28.1138794+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:06:27.8389414+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:58:50.9837261+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:05:43.5612533+00:00"
 }

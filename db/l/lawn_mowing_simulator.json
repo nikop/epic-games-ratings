@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 667639,
+  "EOS_Progressed": 667650,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2034,
+  "EOS_NewPlayers": 2030,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19844,6 +19844,11 @@
       "Time": "2023-09-24T22:09:12.9450964+00:00",
       "NumProgressed": 667639,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-24T23:09:21.3043059+00:00",
+      "NumProgressed": 667650,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -19855,7 +19860,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 534111
+      "UsersEstimate": 534120
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -19943,7 +19948,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 240350
+      "UsersEstimate": 240354
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -19967,7 +19972,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20029
+      "UsersEstimate": 20030
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -19975,7 +19980,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20029
+      "UsersEstimate": 20030
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -20095,7 +20100,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 206968
+      "UsersEstimate": 206972
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -20127,7 +20132,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40058
+      "UsersEstimate": 40059
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -20159,7 +20164,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100146
+      "UsersEstimate": 100148
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -20215,7 +20220,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46735
+      "UsersEstimate": 46736
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -20231,7 +20236,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20029
+      "UsersEstimate": 20030
     },
     {
       "ID": "RP_ESTEEMED",
@@ -20255,7 +20260,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120175
+      "UsersEstimate": 120177
     },
     {
       "ID": "RP_TRUSTED",
@@ -20286,15 +20291,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 667639,
+      "Progressed": 667650,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:09:12.9450959+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:09:21.3043056+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:41.5164995+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:01:59.2506108+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:09:12.9452146+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:00:45.3512041+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:09:21.3044258+00:00"
 }

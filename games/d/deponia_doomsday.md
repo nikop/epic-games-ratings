@@ -5,18 +5,18 @@ Rating: 4.57 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~364 |
-| And again, and again, and... | 64.00% | ~265 |
+| Huzza, he's back. | 87.00% | ~361 |
+| And again, and again, and... | 63.00% | ~261 |
 | Burn, Elysium, burn! | 62.00% | ~257 |
 | Kuvaq Minigame-Master | 61.00% | ~253 |
 | FunScore | 55.00% | ~228 |
-| Funtime's over | 53.00% | ~219 |
-| Chunky | 50.00% | ~207 |
-| Shall we play a game? | 49.00% | ~203 |
+| Funtime's over | 53.00% | ~220 |
+| Chunky | 50.00% | ~208 |
+| Shall we play a game? | 48.00% | ~199 |
 | Boat of love, boat of love | 48.00% | ~199 |
 | School's out | 43.00% | ~178 |
-| Elysian Minigame-Master | 38.00% | ~157 |
-| Scaffolding Expert | 37.00% | ~153 |
+| Elysian Minigame-Master | 38.00% | ~158 |
+| Scaffolding Expert | 37.00% | ~154 |
 | Sole Music | 36.00% | ~149 |
 | No man left behind! | 30.00% | ~124 |
 | Portals come in packs | 29.00% | ~120 |
@@ -30,8 +30,8 @@ Rating: 4.57 (Ranked 450)
 | Heading the inverter | 14.00% | ~58 |
 | Blast from the Past | 13.00% | ~54 |
 | Play it again, Ronny | 11.00% | ~46 |
-| Goat Team | 10.00% | ~41 |
-| Paradox! | 10.00% | ~41 |
+| Goat Team | 10.00% | ~42 |
+| Paradox! | 10.00% | ~42 |
 | Weapons 101 | 8.00% | ~33 |
 | Sadist | 8.00% | ~33 |
 | The customer is always right | 7.00% | ~29 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 450)
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 278)  
+Progressed: 415 (Ranked 278)  
 Completed: 6 (1.45%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 6 (1.45%) (Ranked 112)
 | 2023-09-21 | 406 | 6 |
 | 2023-09-22 | 408 | 6 |
 | 2023-09-23 | 413 | 6 |
-| 2023-09-24 | 414 | 6 |
+| 2023-09-24 | 415 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

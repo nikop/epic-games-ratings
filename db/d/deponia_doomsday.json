@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -366,6 +366,11 @@
       "Time": "2023-09-24T02:20:44.3875829+00:00",
       "NumProgressed": 414,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T23:03:52.0153316+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -375,9 +380,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 361
     },
     {
       "ID": "dep4_achievement_10",
@@ -415,9 +420,9 @@
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 199
     },
     {
       "ID": "dep4_achievement_15",
@@ -449,7 +454,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "dep4_achievement_19",
@@ -463,9 +468,9 @@
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 261
     },
     {
       "ID": "dep4_achievement_20",
@@ -521,7 +526,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "dep4_achievement_27",
@@ -561,7 +566,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "dep4_achievement_31",
@@ -569,7 +574,7 @@
       "Name": "Goat Team",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "dep4_achievement_32",
@@ -601,7 +606,7 @@
       "Name": "Paradox!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "dep4_achievement_36",
@@ -617,7 +622,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "dep4_achievement_5",
@@ -664,7 +669,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 6
     }
   ],
@@ -672,8 +677,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-23T08:58:33.5454881+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:04:11.1509117+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:03:52.0153313+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.7249609+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:59:36.1242866+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:04:11.1509355+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:58:56.6974849+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:03:52.015354+00:00"
 }

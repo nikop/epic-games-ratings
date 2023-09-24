@@ -460,7 +460,7 @@
   ],
   "EOS_Progressed": 13273,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -8998,9 +8998,9 @@
       "ID": "ACH_03",
       "SetID": "9d4cf4c",
       "Name": "A Burden of Blood",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9689
+      "UsersEstimate": 9822
     },
     {
       "ID": "ACH_04",
@@ -9271,8 +9271,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-24T21:58:12.3326453+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:05:25.0574462+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:04:54.3376708+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:58:12.3326457+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:05:25.057505+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:57:56.9160364+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:04:54.3377304+00:00"
 }

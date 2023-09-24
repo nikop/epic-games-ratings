@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4762,10 +4762,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9204,
       "NumberOfAwardsMax": 6188
+    },
+    {
+      "Time": "2023-09-24T22:57:11.557658+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9207,
+      "NumberOfAwardsMax": 6188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9204,
+  "NumberOfAwards": 9207,
   "NumberOfAwardsMax": 6188,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4785,7 +4791,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 400
+      "Count": 403
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4824,9 +4830,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 685828,
+  "EOS_Progressed": 685851,
   "EOS_Completed": 2172,
-  "EOS_NewPlayers": 3988,
+  "EOS_NewPlayers": 3996,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22549,6 +22555,11 @@
       "Time": "2023-09-24T22:07:49.9905955+00:00",
       "NumProgressed": 685828,
       "NumCompleted": 2172
+    },
+    {
+      "Time": "2023-09-24T23:06:47.6217741+00:00",
+      "NumProgressed": 685851,
+      "NumCompleted": 2172
     }
   ],
   "TotalAchievements": 45,
@@ -22568,7 +22579,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_ammo_ran",
@@ -22584,7 +22595,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -22608,7 +22619,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_bookworm",
@@ -22640,7 +22651,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -22720,7 +22731,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20575
+      "UsersEstimate": 20576
     },
     {
       "ID": "ach_impressive_aim",
@@ -22744,7 +22755,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -22776,7 +22787,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_magnum_opus",
@@ -22800,7 +22811,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_revival_tour",
@@ -22808,7 +22819,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_salvation",
@@ -22816,7 +22827,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_secrets_of_la",
@@ -22824,7 +22835,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "ach_skilled_up",
@@ -22848,7 +22859,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -22856,7 +22867,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6172
+      "UsersEstimate": 6173
     },
     {
       "ID": "ach_the_vcla",
@@ -22872,7 +22883,7 @@
       "Name": "Our True Nature",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -22896,7 +22907,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20575
+      "UsersEstimate": 20576
     },
     {
       "ID": "ach_well_known_survivor",
@@ -22919,22 +22930,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 685828,
+      "Progressed": 685851,
       "Completed": 2172
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 11369,
-      "Completed": 11369
+      "Progressed": 11392,
+      "Completed": 11392
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-24T19:01:20.4725933+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:07:49.990595+00:00",
+  "LastChanged": "2023-09-24T22:57:11.5576579+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:06:47.6217737+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:57:11.7397851+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:07:49.9907024+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:57:11.5576584+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:06:47.6218844+00:00"
 }

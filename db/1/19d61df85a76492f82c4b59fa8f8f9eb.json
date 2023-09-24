@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.22,
+  "EOS_Completed_Percentage": 10.19,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1506,6 +1506,11 @@
       "Time": "2023-09-18T20:08:33.2286836+00:00",
       "NumProgressed": 323,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-24T23:04:52.4684938+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 6,
@@ -1525,7 +1530,7 @@
       "Name": "File-cutter",
       "Percentage": 63,
       "XP": 165,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1555,23 +1560,23 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 165,
-      "UsersEstimate": 116
+      "UsersEstimate": 113
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:05:22.8622371+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:04:52.4684935+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.6602151+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:00:11.223867+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:05:22.8622509+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:59:22.5296481+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:04:52.4685077+00:00"
 }

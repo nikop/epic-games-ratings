@@ -9,6 +9,7 @@
 | Vintage Collector | 6.00% | ~2 |
 | Overkill | 6.00% | ~2 |
 | The Hunt | 6.00% | ~2 |
+| Law and Order | 6.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
 | Head of the Snake | 3.00% | ~1 |
 | Barbecue Time | 3.00% | ~1 |
@@ -19,7 +20,6 @@
 | Feel the Spark | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | For Science | 3.00% | ~1 |
-| Law and Order | 3.00% | ~1 |
 | Hammer Time | 3.00% | ~1 |
 | Escape From M.C. | 3.00% | ~1 |
 | Restore Honor | 3.00% | ~1 |

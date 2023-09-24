@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 79.00% | ~81,621 |
-| Dead-ball specialist | 68.00% | ~70,256 |
-| European Legend | 54.00% | ~55,792 |
-| Let the Games Begin | 53.00% | ~54,759 |
-| Multitasking | 53.00% | ~54,759 |
-| High Grades | 52.00% | ~53,725 |
-| A Moment of Your Time | 50.00% | ~51,659 |
-| Balanced Path | 50.00% | ~51,659 |
-| Aiming High | 47.00% | ~48,559 |
-| Tactical Tinkerer | 46.00% | ~47,526 |
-| Squad Building Connoisseur | 45.00% | ~46,493 |
-| The Winning Formula | 43.00% | ~44,427 |
-| Intuition and Execution | 43.00% | ~44,427 |
-| Parking the Bus | 33.00% | ~34,095 |
-| Safe House | 31.00% | ~32,029 |
-| The Chosen One | 26.00% | ~26,863 |
-| Best of Five | 25.00% | ~25,830 |
-| Football is Everything | 24.00% | ~24,796 |
-| Fresh Fit | 23.00% | ~23,763 |
-| Bring it on | 18.00% | ~18,597 |
-| Life-Like | 16.00% | ~16,531 |
-| Make the Grade | 14.00% | ~14,465 |
-| I Played Them All | 12.00% | ~12,398 |
-| Specialist | 12.00% | ~12,398 |
-| Teamwork works | 10.00% | ~10,332 |
-| First of Many | 10.00% | ~10,332 |
-| Momentous Achievement | 7.00% | ~7,232 |
-| Tune Your Club | 6.00% | ~6,199 |
-| Becoming Unplayable | 6.00% | ~6,199 |
-| Shop till you drop | 6.00% | ~6,199 |
-| On the way up | 6.00% | ~6,199 |
-| Volta's best | 5.00% | ~5,166 |
-| In Cahoots | 5.00% | ~5,166 |
-| Full-House | 4.00% | ~4,133 |
-| Sharing is Caring | 4.00% | ~4,133 |
-| Full wardrobe | 0.80% | ~827 |
-| Girl Power | 0.40% | ~413 |
-| Training Addict | 0.10% | ~103 |
-| Dazzling Personality | 0.10% | ~103 |
+| Power Shot | 79.00% | ~81,824 |
+| Dead-ball specialist | 68.00% | ~70,431 |
+| European Legend | 54.00% | ~55,931 |
+| Let the Games Begin | 53.00% | ~54,895 |
+| Multitasking | 53.00% | ~54,895 |
+| High Grades | 52.00% | ~53,859 |
+| A Moment of Your Time | 50.00% | ~51,788 |
+| Balanced Path | 50.00% | ~51,788 |
+| Aiming High | 47.00% | ~48,680 |
+| Tactical Tinkerer | 46.00% | ~47,644 |
+| Squad Building Connoisseur | 45.00% | ~46,609 |
+| The Winning Formula | 43.00% | ~44,537 |
+| Intuition and Execution | 43.00% | ~44,537 |
+| Parking the Bus | 33.00% | ~34,180 |
+| Safe House | 31.00% | ~32,108 |
+| The Chosen One | 26.00% | ~26,930 |
+| Best of Five | 25.00% | ~25,894 |
+| Football is Everything | 24.00% | ~24,858 |
+| Fresh Fit | 23.00% | ~23,822 |
+| Bring it on | 18.00% | ~18,644 |
+| Life-Like | 16.00% | ~16,572 |
+| Make the Grade | 14.00% | ~14,501 |
+| I Played Them All | 12.00% | ~12,429 |
+| Specialist | 12.00% | ~12,429 |
+| Teamwork works | 10.00% | ~10,358 |
+| First of Many | 10.00% | ~10,358 |
+| Momentous Achievement | 7.00% | ~7,250 |
+| Tune Your Club | 6.00% | ~6,214 |
+| Becoming Unplayable | 6.00% | ~6,214 |
+| Shop till you drop | 6.00% | ~6,214 |
+| On the way up | 6.00% | ~6,214 |
+| Volta's best | 5.00% | ~5,179 |
+| In Cahoots | 5.00% | ~5,179 |
+| Full-House | 4.00% | ~4,143 |
+| Sharing is Caring | 4.00% | ~4,143 |
+| Full wardrobe | 0.80% | ~829 |
+| Girl Power | 0.40% | ~414 |
+| Training Addict | 0.10% | ~104 |
+| Dazzling Personality | 0.10% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103,318 (Ranked 76)  
+Progressed: 103,575 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,10 +55,10 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 64,266 | 0 |
 | 2023-09-22 | 79,458 | 0 |
 | 2023-09-23 | 93,969 | 0 |
-| 2023-09-24 | 103,318 | 0 |
+| 2023-09-24 | 103,575 | 0 |
 ## Awards
 Max (Diverse Characters): 19,737  (Ranked 19)  
-Sum: 100,544 (Ranked 14)  
+Sum: 100,560 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -67,7 +67,7 @@ Diff (max vs sum): 5
 | This game has a Competitive Community | 13,025 |
 | This game has Amazing Characters | 11,382 |
 | This game is Extremely Fun | 10,962 |
-| This game has Competitive Players | 10,910 |
+| This game has Competitive Players | 10,926 |
 | This game has Amazing Storytelling | 10,730 |
 | This game has Quickly Understood Controls | 9,904 |
 ## Ratings History
@@ -336,4 +336,4 @@ Diff (max vs sum): 5
 | 2023-09-21 | 4.26 | 19,620 | 100,085 |
 | 2023-09-22 | 4.26 | 19,658 | 100,235 |
 | 2023-09-23 | 4.26 | 19,698 | 100,407 |
-| 2023-09-24 | 4.26 | 19,737 | 100,544 |
+| 2023-09-24 | 4.26 | 19,737 | 100,560 |

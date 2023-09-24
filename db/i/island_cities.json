@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 709,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 15.96,
+  "EOS_Completed_Percentage": 15.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2948,6 +2948,11 @@
       "Time": "2023-09-24T05:03:31.3145151+00:00",
       "NumProgressed": 708,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-24T23:03:47.5477466+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 22,
@@ -2959,7 +2964,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "LEVEL_002",
@@ -2967,7 +2972,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "LEVEL_003",
@@ -2975,7 +2980,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "LEVEL_004",
@@ -2983,7 +2988,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "LEVEL_005",
@@ -2999,7 +3004,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "LEVEL_007",
@@ -3023,7 +3028,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "LEVEL_010",
@@ -3031,7 +3036,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "LEVEL_011",
@@ -3079,7 +3084,7 @@
       "Name": "The beach is right there",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_017",
@@ -3087,7 +3092,7 @@
       "Name": "Commuting",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_018",
@@ -3095,7 +3100,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_019",
@@ -3103,7 +3108,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_020",
@@ -3134,7 +3139,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 709,
       "Completed": 113
     }
   ],
@@ -3142,8 +3147,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:04:05.486946+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:03:47.5477462+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.7877198+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:59:17.2822778+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:04:05.4869734+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:58:43.3935519+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:03:47.5477734+00:00"
 }

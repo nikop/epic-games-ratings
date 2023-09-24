@@ -10,8 +10,8 @@
 | Purification Pioneer | 100.00% | ~9 |
 | Endless Tricks | 89.00% | ~8 |
 | Sanctuary Guardian | 78.00% | ~7 |
+| Wild's Keeper | 78.00% | ~7 |
 | Mind Illuminator | 67.00% | ~6 |
-| Wild's Keeper | 67.00% | ~6 |
 | Stellar Dismantler | 56.00% | ~5 |
 | Sentinelphobic | 44.00% | ~4 |
 | Skeptical | 44.00% | ~4 |
@@ -22,6 +22,7 @@
 | Anomaly Destroyer | 22.00% | ~2 |
 | Heart Gate | 22.00% | ~2 |
 | Loyal Partner | 22.00% | ~2 |
+| Sadistic Plan | 22.00% | ~2 |
 | Shard Spender | 22.00% | ~2 |
 | Star Killer | 22.00% | ~2 |
 | Unepic Hero | 22.00% | ~2 |
@@ -33,7 +34,6 @@
 | Favored by the Cosmos | 11.00% | ~1 |
 | Plague Doctor | 11.00% | ~1 |
 | Pocket Astrarium | 11.00% | ~1 |
-| Sadistic Plan | 11.00% | ~1 |
 | The Dark Moon | 11.00% | ~1 |
 | The Goddes Avatar | 11.00% | ~1 |
 | Wave Bender | 11.00% | ~1 |

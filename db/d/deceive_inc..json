@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18136,
+  "EOS_Progressed": 18137,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10691,6 +10691,11 @@
       "Time": "2023-09-24T22:06:06.547869+00:00",
       "NumProgressed": 18136,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-24T23:05:26.9261435+00:00",
+      "NumProgressed": 18137,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10702,7 +10707,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5259
+      "UsersEstimate": 5260
     },
     {
       "ID": "0002",
@@ -10758,7 +10763,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "0009",
@@ -10934,7 +10939,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "0031",
@@ -10989,7 +10994,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18136,
+      "Progressed": 18137,
       "Completed": 3
     }
   ],
@@ -10997,8 +11002,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:06:06.5478685+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:05:26.9261431+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:58:39.2856028+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:06:06.5479367+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:58:15.3432128+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:05:26.9262505+00:00"
 }

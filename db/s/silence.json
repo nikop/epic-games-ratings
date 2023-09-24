@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -197,6 +197,11 @@
       "Time": "2023-09-22T12:06:21.3278467+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T23:06:25.2206545+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -238,9 +243,9 @@
       "ID": "0000_achv_gameovertwice",
       "SetID": "dhn82m5",
       "Name": "To err is human...",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "0000_achv_kickEverything",
@@ -342,23 +347,23 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
       "UsersEstimate": 65
     },
@@ -366,17 +371,17 @@
       "ID": "1006_achv_fixbomb",
       "SetID": "dhn82m5",
       "Name": "Handyman",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "1006_achv_pacifist",
       "SetID": "dhn82m5",
       "Name": "Pacifist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "2001_achv_shrooms",
@@ -408,7 +413,7 @@
       "Name": "Haute cuisine",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "2004_achv_abyss",
@@ -448,7 +453,7 @@
       "Name": "Master of Thermodynamics",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "2009_achv_deathwheel",
@@ -502,9 +507,9 @@
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -536,7 +541,7 @@
       "Name": "It\u0027s nothing personal",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "3017_achv_chapter3",
@@ -566,16 +571,16 @@
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
@@ -583,8 +588,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:07:21.1542592+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:06:25.2206541+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:44.1627709+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:58:50.6586455+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:07:21.1542894+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:58:23.3377082+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:06:25.2206851+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9205,
+  "EOS_Progressed": 9206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13462,6 +13462,11 @@
       "Time": "2023-09-24T22:08:11.7942762+00:00",
       "NumProgressed": 9205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T23:07:04.0161456+00:00",
+      "NumProgressed": 9206,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13473,7 +13478,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "10",
@@ -13521,7 +13526,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "16",
@@ -13601,7 +13606,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "25",
@@ -13609,7 +13614,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "26",
@@ -13641,7 +13646,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "3",
@@ -13721,7 +13726,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "39",
@@ -13737,7 +13742,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "40",
@@ -13793,7 +13798,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "47",
@@ -13841,7 +13846,7 @@
       "Name": "Sky Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "52",
@@ -13865,7 +13870,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "55",
@@ -13944,15 +13949,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9205,
+      "Progressed": 9206,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-22T19:56:57.4425059+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:08:11.7942759+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:07:04.0161447+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:18.1342921+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:58:09.9589053+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:08:11.7943767+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:57:55.0862853+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:07:04.0162457+00:00"
 }

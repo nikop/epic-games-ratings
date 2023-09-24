@@ -13,7 +13,7 @@ Rating: 4.00 (Ranked 950)
 | Battlefields Have Memories | 62.00% | ~8 |
 | Thrada-Kul | 54.00% | ~7 |
 | Gravity-Challenged Rocks | 46.00% | ~6 |
-| Soldier | 31.00% | ~4 |
+| Soldier | 38.00% | ~5 |
 | All the Major Food Groups | 31.00% | ~4 |
 | Beggars Would Ride | 23.00% | ~3 |
 | Control is an Illusion | 15.00% | ~2 |

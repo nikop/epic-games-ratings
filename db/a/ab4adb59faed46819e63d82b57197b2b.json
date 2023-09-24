@@ -4,7 +4,7 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-27T00:00:00+00:00",
@@ -716,8 +716,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:09:14.8320079+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:09:22.805815+00:00",
   "LastUpdate_AppInfo": "2023-09-21T17:57:07.2566661+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:59:06.193879+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:09:14.8320773+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:58:36.5914855+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:09:22.8058854+00:00"
 }

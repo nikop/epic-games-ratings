@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 3.00% | ~423 |
 | Strong Cities | 3.00% | ~423 |
 | Able Difficulty | 3.00% | ~423 |
+| Furious Family | 3.00% | ~423 |
 | Great Ziggurat | 3.00% | ~423 |
 | Ishtar Gate | 3.00% | ~423 |
 | Lighthouse | 3.00% | ~423 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 2.00% | ~282 |
 | Artisans | 2.00% | ~282 |
 | Sages | 2.00% | ~282 |
-| Furious Family | 2.00% | ~282 |
 | Acropolis | 2.00% | ~282 |
 | Apadana | 2.00% | ~282 |
 | Colossus | 2.00% | ~282 |

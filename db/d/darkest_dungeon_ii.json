@@ -7785,9 +7785,9 @@
       "Count": 936
     }
   ],
-  "EOS_Progressed": 118663,
+  "EOS_Progressed": 118664,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23760,6 +23760,11 @@
       "Time": "2023-09-24T22:07:04.5742813+00:00",
       "NumProgressed": 118663,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T23:06:12.3317682+00:00",
+      "NumProgressed": 118664,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -23779,7 +23784,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 62891
+      "UsersEstimate": 62892
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -23803,7 +23808,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 73571
+      "UsersEstimate": 73572
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -23811,7 +23816,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 80691
+      "UsersEstimate": 80692
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -23819,7 +23824,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 79504
+      "UsersEstimate": 79505
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -23835,7 +23840,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 73571
+      "UsersEstimate": 73572
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -23851,7 +23856,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 80691
+      "UsersEstimate": 80692
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -23955,7 +23960,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 43905
+      "UsersEstimate": 43906
     },
     {
       "ID": "combat_kill_gentry",
@@ -24011,7 +24016,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 21359
+      "UsersEstimate": 21360
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -24139,7 +24144,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 81877
+      "UsersEstimate": 81878
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -24163,7 +24168,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 110357
+      "UsersEstimate": 110358
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -24179,7 +24184,7 @@
       "Name": "FNG",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 34412
+      "UsersEstimate": 34413
     },
     {
       "ID": "inn_visit_all_variants",
@@ -24219,7 +24224,7 @@
       "Name": "Nope",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 56958
+      "UsersEstimate": 56959
     },
     {
       "ID": "run_victory_act01",
@@ -24227,7 +24232,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 79504
+      "UsersEstimate": 79505
     },
     {
       "ID": "run_victory_act02",
@@ -24290,15 +24295,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 118663,
+      "Progressed": 118664,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-09-24T18:58:39.1668958+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:07:04.5742809+00:00",
+  "LastChanged_Achievements": "2023-09-24T23:06:12.3317678+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:52.0269944+00:00",
-  "LastUpdate_Ratings": "2023-09-24T21:59:02.7539798+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:07:04.5744054+00:00"
+  "LastUpdate_Ratings": "2023-09-24T22:58:33.9407276+00:00",
+  "LastUpdate_Achievements": "2023-09-24T23:06:12.3318903+00:00"
 }
