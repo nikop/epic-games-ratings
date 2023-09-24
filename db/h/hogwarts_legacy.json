@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8034,9 +8034,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297215,
+  "EOS_Progressed": 297218,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -24994,6 +24994,11 @@
       "Time": "2023-09-24T05:06:08.5415813+00:00",
       "NumProgressed": 297215,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-24T06:07:40.3483938+00:00",
+      "NumProgressed": 297218,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -25005,7 +25010,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41610
+      "UsersEstimate": 41611
     },
     {
       "ID": "PFA_10",
@@ -25165,7 +25170,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8916
+      "UsersEstimate": 8917
     },
     {
       "ID": "PFA_29",
@@ -25181,7 +25186,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8916
+      "UsersEstimate": 8917
     },
     {
       "ID": "PFA_30",
@@ -25221,7 +25226,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8916
+      "UsersEstimate": 8917
     },
     {
       "ID": "PFA_35",
@@ -25229,7 +25234,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26749
+      "UsersEstimate": 26750
     },
     {
       "ID": "PFA_36",
@@ -25357,14 +25362,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26749
+      "UsersEstimate": 26750
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297215,
+      "Progressed": 297218,
       "Completed": 476
     }
   ],
@@ -25372,8 +25377,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-24T04:00:15.9228514+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:06:08.5415808+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:07:40.3483931+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:59:23.4881045+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:06:08.5417228+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:00:37.3470647+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:07:40.3486485+00:00"
 }

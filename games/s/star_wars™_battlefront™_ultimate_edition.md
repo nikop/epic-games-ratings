@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~101 |
-| Off to a good start | 66.00% | ~76 |
-| Do... or do not. There is no try | 46.00% | ~53 |
-| A good blaster at your side | 33.00% | ~38 |
+| New Recruit | 88.00% | ~102 |
+| Off to a good start | 66.00% | ~77 |
+| Do... or do not. There is no try | 47.00% | ~55 |
+| A good blaster at your side | 34.00% | ~39 |
 | Great shot, kid! | 31.00% | ~36 |
 | Shoot first | 27.00% | ~31 |
 | The power of the Force | 26.00% | ~30 |
 | Collector | 26.00% | ~30 |
 | I suggest a new strategy | 25.00% | ~29 |
-| Tell Jabba that I've got his money | 23.00% | ~26 |
-| Scrap collector | 23.00% | ~26 |
+| Tell Jabba that I've got his money | 23.00% | ~27 |
+| Scrap collector | 23.00% | ~27 |
 | A cunning warrior | 20.00% | ~23 |
 | What's the cargo? | 19.00% | ~22 |
 | Judge me by my size, do you? | 19.00% | ~22 |
 | Never tell me the odds! | 18.00% | ~21 |
 | "Gonk? Gonk!" | 17.00% | ~20 |
-| A tremor in the Force | 17.00% | ~20 |
 | Together we can rule the galaxy | 17.00% | ~20 |
-| Distinguished | 16.00% | ~18 |
-| Survivor | 16.00% | ~18 |
-| Support the troops | 16.00% | ~18 |
+| Distinguished | 16.00% | ~19 |
+| A tremor in the Force | 16.00% | ~19 |
+| Survivor | 16.00% | ~19 |
+| Support the troops | 16.00% | ~19 |
 | All right, I'll give it a try | 15.00% | ~17 |
 | Patience you must have | 15.00% | ~17 |
 | Not bad for a little furball | 14.00% | ~16 |
 | Determined | 13.00% | ~15 |
+| Best star-pilot in the galaxy | 13.00% | ~15 |
+| Impressive. Most impressive. | 13.00% | ~15 |
 | I've been waiting for you | 12.00% | ~14 |
 | When 900 years old you reach... | 12.00% | ~14 |
-| Best star-pilot in the galaxy | 12.00% | ~14 |
-| Impressive. Most impressive. | 12.00% | ~14 |
 | Don't underestimate the Force | 12.00% | ~14 |
 | City in the Clouds | 11.00% | ~13 |
 | That's no moon | 11.00% | ~13 |
 | Precision shot | 10.00% | ~12 |
-| This is a new day, a new beginning | 10.00% | ~12 |
-| Alternative solution | 10.00% | ~12 |
 | What will you become? | 10.00% | ~12 |
-| Disturbed tranquility | 10.00% | ~12 |
+| This is a new day, a new beginning | 9.00% | ~10 |
+| Alternative solution | 9.00% | ~10 |
+| Disturbed tranquility | 9.00% | ~10 |
 | The Force is strong with this one | 8.00% | ~9 |
 | The circle is now complete | 8.00% | ~9 |
 | Playing the objective | 7.00% | ~8 |
@@ -68,15 +68,15 @@
 | I never doubted you! | 0.90% | ~1 |
 | Crush them with one swift stroke… | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 363)  
-Completed: 1 (0.87%) (Ranked 137)  
+Progressed: 116 (Ranked 361)  
+Completed: 1 (0.86%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
-| 2023-09-24 | 115 | 1 |
+| 2023-09-24 | 116 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

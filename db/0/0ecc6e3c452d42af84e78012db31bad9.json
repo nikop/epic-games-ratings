@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3174,
+  "EOS_Progressed": 3175,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -6936,6 +6936,11 @@
       "Time": "2023-09-24T04:06:34.3772243+00:00",
       "NumProgressed": 3174,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-24T06:07:03.9049129+00:00",
+      "NumProgressed": 3175,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 16,
@@ -6947,7 +6952,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -6979,7 +6984,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "ach_architecture_completed",
@@ -6987,7 +6992,7 @@
       "Name": "Architecture - completed",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_architecture_unlocked",
@@ -6995,7 +7000,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ach_bomb",
@@ -7019,7 +7024,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "ach_food_completed",
@@ -7043,7 +7048,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "ach_magic_wand",
@@ -7051,7 +7056,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ach_no_boosters",
@@ -7065,23 +7070,23 @@
       "ID": "ach_tornado",
       "SetID": "3h4khpo",
       "Name": "Aeolus",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 889
+      "UsersEstimate": 857
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3174,
+      "Progressed": 3175,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:05:43.8833529+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:07:03.9049123+00:00",
   "LastUpdate_AppInfo": "2023-09-22T15:57:09.3671464+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:58:28.6456925+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:05:43.8834062+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:59:12.1758081+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:07:03.9050078+00:00"
 }

@@ -25,9 +25,75 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-24T06:04:17.7272778+00:00",
+  "TotalAchievements": 8,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_CHALLENGER",
+      "SetID": "2m9do4f",
+      "Name": "The Challenger",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_JOYFULGAME",
+      "SetID": "2m9do4f",
+      "Name": "Fun Game",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KINDGENERAL",
+      "SetID": "2m9do4f",
+      "Name": "A Kind General",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PROTECTOR",
+      "SetID": "2m9do4f",
+      "Name": "Unexpected",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RICHPEOPLE",
+      "SetID": "2m9do4f",
+      "Name": "Nouveau Riche",
+      "Percentage": 0,
+      "XP": 175,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SKY_GUARDIAN",
+      "SetID": "2m9do4f",
+      "Name": "Take it Easy!",
+      "Percentage": 0,
+      "XP": 175,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SKY_PROTECTOR",
+      "SetID": "2m9do4f",
+      "Name": "World Defender",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TROOP_SLAYER",
+      "SetID": "2m9do4f",
+      "Name": "Clear the Way",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2m9do4f",
@@ -37,8 +103,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T01:44:07.1414242+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:03:46.498719+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:04:17.7272753+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.1541926+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:57:44.4794662+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:03:46.4987221+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:58:06.0078018+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:04:17.7726599+00:00"
 }

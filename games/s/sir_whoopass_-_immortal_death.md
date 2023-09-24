@@ -15,7 +15,7 @@
 | Blurry depth perception | 82.00% | ~84 |
 | Up and down | 80.00% | ~82 |
 | Rolling, Rolling, Rolling | 75.00% | ~76 |
-| Fire-fighter! | 68.00% | ~69 |
+| Fire-fighter! | 69.00% | ~70 |
 | Oh, you're up to no gouda! | 64.00% | ~65 |
 | Meat grinder | 62.00% | ~63 |
 | Make Love not War-Craft a Mistlefoe | 61.00% | ~62 |
@@ -27,7 +27,7 @@
 | Cockadoodledoo! | 51.00% | ~52 |
 | Thats disgusting! | 48.00% | ~49 |
 | My pants squeak when I walk | 45.00% | ~46 |
-| Self assessed tax return | 42.00% | ~43 |
+| Self assessed tax return | 43.00% | ~44 |
 | Surprise!! | 42.00% | ~43 |
 | Haemochromatosis | 41.00% | ~42 |
 | Make America Grate Again | 37.00% | ~38 |
@@ -48,18 +48,18 @@
 | I cant stand still! | 23.00% | ~23 |
 | Master Butcher | 18.00% | ~18 |
 | Slimy... yet satisfying | 18.00% | ~18 |
+| Just wing it! | 17.00% | ~17 |
 | Deal with it | 17.00% | ~17 |
-| Just wing it! | 16.00% | ~16 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~14 |
 | Yeehaw!!! | 14.00% | ~14 |
 | You're looking mozzare-hella good! | 13.00% | ~13 |
 | Timber! | 11.00% | ~11 |
 | Free Of Chains | 11.00% | ~11 |
 | Grumpy Immortal | 10.00% | ~10 |
+| Spoiler alert! | 9.00% | ~9 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~9 |
 | I drink, but I'm not a drunk! | 9.00% | ~9 |
 | Scrambled Eggs | 9.00% | ~9 |
-| Spoiler alert! | 8.00% | ~8 |
 | I want to throw up! | 7.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~7 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~5 |

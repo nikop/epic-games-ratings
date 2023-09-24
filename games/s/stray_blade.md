@@ -29,20 +29,20 @@
 | A Deceiving Gift | 7.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~5 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
+| Ancient Powers | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
-| Ancient Powers | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
 | Wayseeker | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
 | The End | 3.00% | ~3 |
 | Unveiling the Truth | 3.00% | ~3 |
 | Sponsor | 2.00% | ~2 |
+| Mountain Lover | 2.00% | ~2 |
+| Forest Expert | 2.00% | ~2 |
 | Wizard | 2.00% | ~2 |
 | Globetrotter | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
-| Mountain Lover | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |
-| Forest Expert | 1.00% | ~1 |
 | Knowledge is King | 1.00% | ~1 |
 | Bookworm | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |

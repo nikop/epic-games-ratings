@@ -29,7 +29,7 @@
 | EXPERIENCED CREW | 8.00% | ~261 |
 | FRAMED! | 7.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,261 (Ranked 177)  
+Progressed: 3,261 (Ranked 178)  
 Completed: 193 (5.92%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |

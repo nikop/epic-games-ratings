@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467894,
+  "EOS_Progressed": 467895,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17024,6 +17024,11 @@
       "Time": "2023-09-24T04:05:27.7871926+00:00",
       "NumProgressed": 467894,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-24T06:05:50.1252335+00:00",
+      "NumProgressed": 467895,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -17075,7 +17080,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46789
+      "UsersEstimate": 46790
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -17123,7 +17128,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308810
+      "UsersEstimate": 308811
     },
     {
       "ID": "achievement_story_landa",
@@ -17459,7 +17464,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205873
+      "UsersEstimate": 205874
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -17666,21 +17671,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11828,
+      "Progressed": 11829,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467894,
+      "Progressed": 467895,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:52.275042+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:05:50.125233+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-24T05:00:32.6367625+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:52.2752375+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:02:21.2566233+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:05:50.1255048+00:00"
 }

@@ -1737,9 +1737,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14089,
+  "EOS_Progressed": 14091,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12102,6 +12102,11 @@
       "Time": "2023-09-24T04:04:22.934469+00:00",
       "NumProgressed": 14089,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T06:04:39.1941012+00:00",
+      "NumProgressed": 14091,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12601,7 +12606,7 @@
       "Name": "Intrepid",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -13025,7 +13030,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -14031,9 +14036,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 423
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -14393,7 +14398,7 @@
       "Name": "The Clergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -14480,21 +14485,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14089,
+      "Progressed": 14091,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14089,
+      "Progressed": 14091,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T18:01:38.9338052+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:01.3663962+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:04:39.1941008+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-24T05:00:05.1908908+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:01.3673785+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:01:41.5359915+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:04:39.1951053+00:00"
 }

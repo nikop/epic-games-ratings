@@ -41,9 +41,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~228 |
 | Your First Big Enemy | 2.00% | ~228 |
 | Truly Important Deed | 2.00% | ~228 |
-| Stay Underground | 2.00% | ~203 |
-| Hanged Man's Notes | 2.00% | ~203 |
-| Sarkoris Will Be Green | 2.00% | ~203 |
+| Stay Underground | 2.00% | ~204 |
+| Hanged Man's Notes | 2.00% | ~204 |
+| Sarkoris Will Be Green | 2.00% | ~204 |
 | The Final Threshold | 1.00% | ~114 |
 | Strategic Victory | 1.00% | ~114 |
 | Abyssal Conspiracy | 1.00% | ~114 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,392 (Ranked 136)  
+Progressed: 11,393 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 11,374 | 0 |
 | 2023-09-22 | 11,378 | 0 |
 | 2023-09-23 | 11,390 | 0 |
-| 2023-09-24 | 11,392 | 0 |
+| 2023-09-24 | 11,393 | 0 |
 ## Awards
 Max (Character Customization): 1,715  (Ranked 118)  
 Sum: 6,955 (Ranked 115)  

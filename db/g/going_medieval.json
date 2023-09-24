@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1280,9 +1280,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5925,
+  "EOS_Progressed": 5926,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9800,6 +9800,11 @@
       "Time": "2023-09-24T02:20:42.6387156+00:00",
       "NumProgressed": 5925,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-24T06:03:50.1498279+00:00",
+      "NumProgressed": 5926,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -9843,7 +9848,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -9859,7 +9864,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4266
+      "UsersEstimate": 4267
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -9899,7 +9904,7 @@
       "Name": "Food Chain",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "HUNT_WOLF_20",
@@ -9923,7 +9928,7 @@
       "Name": "Retribution",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -9931,7 +9936,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -9939,7 +9944,7 @@
       "Name": "Feast or Famine",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -9969,9 +9974,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4030
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -9979,7 +9984,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -10019,7 +10024,7 @@
       "Name": "Novice Researcher",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -10043,7 +10048,7 @@
       "Name": "Onward",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -10058,15 +10063,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5925,
+      "Progressed": 5926,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-21T15:01:07.3222764+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:03:34.5151433+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:03:50.1498275+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:21.8810446+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:57:36.6700198+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:03:34.5152439+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:57:52.4167849+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:03:50.1499071+00:00"
 }

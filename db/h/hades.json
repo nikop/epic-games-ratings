@@ -4525,9 +4525,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 704057,
+  "EOS_Progressed": 704058,
   "EOS_Completed": 6371,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -21260,6 +21260,11 @@
       "Time": "2023-09-24T05:04:23.02553+00:00",
       "NumProgressed": 704057,
       "NumCompleted": 6371
+    },
+    {
+      "Time": "2023-09-24T06:05:08.3013542+00:00",
+      "NumProgressed": 704058,
+      "NumCompleted": 6371
     }
   ],
   "TotalAchievements": 49,
@@ -21295,7 +21300,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 91527
+      "UsersEstimate": 91528
     },
     {
       "ID": "AchBuffedButterfly",
@@ -21319,7 +21324,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 225298
+      "UsersEstimate": 225299
     },
     {
       "ID": "AchClearAnyRun",
@@ -21351,7 +21356,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 91527
+      "UsersEstimate": 91528
     },
     {
       "ID": "AchClearHeatGate",
@@ -21375,7 +21380,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 626611
+      "UsersEstimate": 626612
     },
     {
       "ID": "AchCrushedThanatos",
@@ -21471,7 +21476,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 190095
+      "UsersEstimate": 190096
     },
     {
       "ID": "AchManyQuests",
@@ -21495,7 +21500,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443556
+      "UsersEstimate": 443557
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -21631,7 +21636,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499880
+      "UsersEstimate": 499881
     },
     {
       "ID": "AchWeaponClears",
@@ -21662,15 +21667,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 704057,
+      "Progressed": 704058,
       "Completed": 6371
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-23T13:03:15.6312674+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:23.0255296+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:05:08.3013538+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.4290692+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:58:13.6123791+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:23.0256709+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:58:50.9059554+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:05:08.3015063+00:00"
 }

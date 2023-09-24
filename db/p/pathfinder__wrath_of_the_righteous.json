@@ -3776,9 +3776,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11392,
+  "EOS_Progressed": 11393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12771,6 +12771,11 @@
       "Time": "2023-09-24T01:49:45.1888426+00:00",
       "NumProgressed": 11392,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T06:05:33.4991159+00:00",
+      "NumProgressed": 11393,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13654,7 +13659,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -13662,7 +13667,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -13670,7 +13675,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -13709,21 +13714,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10174,
+      "Progressed": 10175,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11392,
+      "Progressed": 11393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-23T09:59:41.2009033+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:40.7877003+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:05:33.4991153+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:59:53.7898279+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:40.7879168+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:01:25.970244+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:05:33.4995048+00:00"
 }

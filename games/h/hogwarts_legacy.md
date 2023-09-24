@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,610 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,611 |
 | First Class Student | 13.00% | ~38,638 |
 | Troll with the Punches | 13.00% | ~38,638 |
 | A Keen Sense of Spell | 12.00% | ~35,666 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 117)
 | Challenge Accepted | 10.00% | ~29,722 |
 | Loom for Improvement | 10.00% | ~29,722 |
 | Coasting Along | 10.00% | ~29,722 |
-| Followed the Butterflies | 9.00% | ~26,749 |
-| Rising From the Ashes | 9.00% | ~26,749 |
+| Followed the Butterflies | 9.00% | ~26,750 |
+| Rising From the Ashes | 9.00% | ~26,750 |
 | A Sallow Grave | 8.00% | ~23,777 |
 | The Spell Master | 8.00% | ~23,777 |
 | The Avenging Gazelle | 7.00% | ~20,805 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 117)
 | The Intrepid Explorer | 4.00% | ~11,889 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,889 |
 | The Wise Owl | 4.00% | ~11,889 |
-| Put Down Roots | 3.00% | ~8,916 |
-| The Auror's Apprentice | 3.00% | ~8,916 |
-| Floo Around the World | 3.00% | ~8,916 |
+| Put Down Roots | 3.00% | ~8,917 |
+| The Auror's Apprentice | 3.00% | ~8,917 |
+| Floo Around the World | 3.00% | ~8,917 |
 | The Good Samaritan | 2.00% | ~5,944 |
 | Rise to the Challenges | 2.00% | ~5,944 |
 | Finishing Touches | 2.00% | ~5,944 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,215 (Ranked 44)  
+Progressed: 297,218 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 476 (0.16%) (Ranked 214)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,215 | 476 |
+| 2023-09-24 | 297,218 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
 Sum: 44,148 (Ranked 30)  

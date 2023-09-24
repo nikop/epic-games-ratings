@@ -17,7 +17,7 @@
 | Kemono Hunter | 64.00% | ~21 |
 | Helpful Heart | 64.00% | ~21 |
 | Distance Devourer | 58.00% | ~19 |
-| Expert Conjuror | 55.00% | ~18 |
+| Expert Conjuror | 58.00% | ~19 |
 | Subsistence Skills | 52.00% | ~17 |
 | Bonds of Enmity | 48.00% | ~16 |
 | Counter Specialist | 45.00% | ~15 |

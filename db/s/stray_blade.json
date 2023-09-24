@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BEAR",
       "SetID": "7i20me3",
       "Name": "Mountain Lover",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_LIZARD",
@@ -574,9 +574,9 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_STAG",
       "SetID": "7i20me3",
       "Name": "Forest Expert",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIND_ALL_COLORS",
@@ -590,9 +590,9 @@
       "ID": "ACH_FIND_ALL_ELESSINE_SCHEMATICS",
       "SetID": "7i20me3",
       "Name": "Ancient Powers",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FIND_ALL_LORE_TABLETS",
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:09:33.0585489+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:09:40.3876263+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.6458275+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:59:29.511306+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:09:33.0585879+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:00:46.7797713+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:09:40.3876704+00:00"
 }

@@ -29,8 +29,8 @@ Rating: 4.85 (Ranked 41)
 | Does that say weakpoint? | 7.00% | ~286 |
 | NOW we got a kickass hideout! | 7.00% | ~183 |
 | Who's the boss now? | 6.00% | ~245 |
+| I have to read these things? | 6.00% | ~245 |
 | Perfecter Parry-er! | 6.00% | ~245 |
-| I have to read these things? | 5.00% | ~204 |
 | Well that was a rush! | 4.00% | ~164 |
 | Beat-hit mania | 4.00% | ~164 |
 | That's a lot of junk metal… | 4.00% | ~164 |
@@ -53,10 +53,10 @@ Rating: 4.85 (Ranked 41)
 | Easy Listening | 0.50% | ~20 |
 | Now this is how you fight like a team! | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
+| And the crowd goes wild! | 0.30% | ~12 |
 | Problem solved... wait, what? | 0.30% | ~12 |
 | With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
-| And the crowd goes wild! | 0.20% | ~8 |
 | I can't see this ever being a problem again | 0.20% | ~8 |
 | I am a good person who likes to help | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |

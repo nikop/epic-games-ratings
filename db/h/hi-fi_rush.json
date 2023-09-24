@@ -6814,9 +6814,9 @@
       "ID": "Ach011",
       "SetID": "12n4k20",
       "Name": "And the crowd goes wild!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "Ach012",
@@ -6894,9 +6894,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 245
     },
     {
       "ID": "Ach022",
@@ -7317,8 +7317,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:09.4284959+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:04:50.2404849+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:59:53.2313455+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:09.4286143+00:00"
+  "LastUpdate_Ratings": "2023-09-24T06:01:24.7832929+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:04:50.2406207+00:00"
 }

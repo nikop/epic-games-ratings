@@ -5,15 +5,15 @@ Rating: 4.19 (Ranked 877)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 19.00% | ~10,717 |
-| As Far Away As Possible | 12.00% | ~6,769 |
-| A Most Unstable Organism | 9.00% | ~5,076 |
-| No Time to Follow Protocol | 7.00% | ~3,948 |
-| Float Like a Butterfly... | 6.00% | ~3,384 |
-| Nano Connoisseur | 4.00% | ~2,256 |
-| In Two Places At Once | 4.00% | ~2,256 |
-| Pulling Your Weight | 2.00% | ~1,128 |
-| Reaping Rivals | 2.00% | ~1,128 |
+| Your Lucky Day | 19.00% | ~10,721 |
+| As Far Away As Possible | 12.00% | ~6,771 |
+| A Most Unstable Organism | 9.00% | ~5,078 |
+| No Time to Follow Protocol | 7.00% | ~3,950 |
+| Float Like a Butterfly... | 6.00% | ~3,386 |
+| Nano Connoisseur | 4.00% | ~2,257 |
+| In Two Places At Once | 4.00% | ~2,257 |
+| Pulling Your Weight | 2.00% | ~1,129 |
+| Reaping Rivals | 2.00% | ~1,129 |
 | fifteenth Time's the Charm | 0.50% | ~282 |
 | Gone Rogue | 0.20% | ~113 |
 | More Power to You | 0.20% | ~113 |
@@ -22,7 +22,7 @@ Rating: 4.19 (Ranked 877)
 | Runs for Your Money | 0.10% | ~56 |
 | Past Master | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,405 (Ranked 93)  
+Progressed: 56,427 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,14 +50,14 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 54,789 | 0 |
 | 2023-09-22 | 55,451 | 0 |
 | 2023-09-23 | 56,248 | 0 |
-| 2023-09-24 | 56,405 | 0 |
+| 2023-09-24 | 56,427 | 0 |
 ## Awards
-Max (Great for Beginners): 24  (Ranked 495)  
-Sum: 24 (Ranked 502)  
-Diff (max vs sum): -7  
+Max (Great for Beginners): 27  (Ranked 478)  
+Sum: 27 (Ranked 491)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 24 |
+| This game is Great for Beginners | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -76,3 +76,4 @@ Diff (max vs sum): -7
 | 2023-09-21 | 4.18 | 21 | 21 |
 | 2023-09-22 | 4.19 | 21 | 21 |
 | 2023-09-23 | 4.19 | 24 | 24 |
+| 2023-09-24 | 4.19 | 27 | 27 |

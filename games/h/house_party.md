@@ -19,9 +19,9 @@ Number of Ratings: 177  (23.09.2022)
 | IRL Let's Player | 1.00% | ~63 |
 | Newcomer: Vickie | 1.00% | ~63 |
 | Social Butterfly | 0.90% | ~56 |
-| Amy | 0.80% | ~50 |
 | Inspector | 0.80% | ~50 |
 | The Muse: Madison | 0.80% | ~50 |
+| Amy | 0.70% | ~44 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
 | The Crush | 0.70% | ~44 |
 | Amy: Scavenger Hunt | 0.60% | ~38 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,266 (Ranked 152)  
+Progressed: 6,267 (Ranked 152)  
 Completed: 3 (0.05%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 3 (0.05%) (Ranked 251)
 | 2023-09-21 | 6,240 | 3 |
 | 2023-09-22 | 6,253 | 3 |
 | 2023-09-23 | 6,265 | 3 |
-| 2023-09-24 | 6,266 | 3 |
+| 2023-09-24 | 6,267 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

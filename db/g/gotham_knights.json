@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3128,9 +3128,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72774,
+  "EOS_Progressed": 72775,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16458,6 +16458,11 @@
       "Time": "2023-09-24T05:05:36.7793162+00:00",
       "NumProgressed": 72774,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-24T06:06:53.7068651+00:00",
+      "NumProgressed": 72775,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16541,7 +16546,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ALL_VILLAIN",
@@ -16581,7 +16586,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13099
+      "UsersEstimate": 13100
     },
     {
       "ID": "CLAYFACE_3",
@@ -16589,7 +16594,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10188
+      "UsersEstimate": 10189
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16685,7 +16690,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7278
     },
     {
       "ID": "FREEZE_1",
@@ -16693,7 +16698,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21104
+      "UsersEstimate": 21105
     },
     {
       "ID": "FREEZE_1_5",
@@ -16717,7 +16722,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10188
+      "UsersEstimate": 10189
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16813,7 +16818,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37842
+      "UsersEstimate": 37843
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16821,7 +16826,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -16861,7 +16866,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24743
+      "UsersEstimate": 24744
     },
     {
       "ID": "MYSTERY_02",
@@ -16893,7 +16898,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13099
+      "UsersEstimate": 13100
     },
     {
       "ID": "MYSTERY_06",
@@ -16909,7 +16914,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10188
+      "UsersEstimate": 10189
     },
     {
       "ID": "MYSTERY_08",
@@ -16956,13 +16961,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72774,
+      "Progressed": 72775,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43054,
+      "Progressed": 43055,
       "Completed": 2667
     }
   ],
@@ -16970,8 +16975,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-24T03:57:16.0139151+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:05:36.7793157+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:06:53.7068647+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:57:11.3037456+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:05:36.7794548+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:57:16.4341313+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:06:53.707007+00:00"
 }

@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2045,9 +2045,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 703
     },
     {
       "ID": "AC41",
@@ -2102,8 +2102,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:58.7500423+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:05:58.9977949+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:58:55.2333681+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:58.7500921+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:59:53.2695121+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:05:58.9978838+00:00"
 }

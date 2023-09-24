@@ -1,29 +1,29 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 507)  
+Rating: 4.54 (Ranked 508)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,558 |
-| Dr. Reed, I Presume? | 2.00% | ~13,705 |
-| Git Gutte! | 2.00% | ~13,705 |
-| Bookworm | 2.00% | ~13,705 |
-| Break A Leg | 2.00% | ~13,705 |
-| But Doctor, I am Butcho | 2.00% | ~13,705 |
-| Slayer Squad | 2.00% | ~13,705 |
-| Can't Handle the Truth | 2.00% | ~13,705 |
-| Coup de Grâce | 2.00% | ~13,705 |
-| Like Riding a Bike | 2.00% | ~13,705 |
-| Hazardous Materials | 2.00% | ~13,705 |
-| Friends Like These | 2.00% | ~13,705 |
-| Hotel California | 2.00% | ~13,705 |
-| Apex Predator | 2.00% | ~13,705 |
-| Zombologist | 2.00% | ~13,705 |
-| A Patton Emerges | 2.00% | ~13,705 |
-| Stacking the Deck | 2.00% | ~13,705 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,705 |
-| This is My Weapon | 2.00% | ~13,705 |
+| Welcome To Hell-A | 3.00% | ~20,559 |
+| Dr. Reed, I Presume? | 2.00% | ~13,706 |
+| Git Gutte! | 2.00% | ~13,706 |
+| Bookworm | 2.00% | ~13,706 |
+| Break A Leg | 2.00% | ~13,706 |
+| But Doctor, I am Butcho | 2.00% | ~13,706 |
+| Slayer Squad | 2.00% | ~13,706 |
+| Can't Handle the Truth | 2.00% | ~13,706 |
+| Coup de Grâce | 2.00% | ~13,706 |
+| Like Riding a Bike | 2.00% | ~13,706 |
+| Hazardous Materials | 2.00% | ~13,706 |
+| Friends Like These | 2.00% | ~13,706 |
+| Hotel California | 2.00% | ~13,706 |
+| Apex Predator | 2.00% | ~13,706 |
+| Zombologist | 2.00% | ~13,706 |
+| A Patton Emerges | 2.00% | ~13,706 |
+| Stacking the Deck | 2.00% | ~13,706 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,706 |
+| This is My Weapon | 2.00% | ~13,706 |
 | Making Your Mark | 1.00% | ~6,853 |
 | Anger Management | 1.00% | ~6,853 |
 | Perks of the Job | 1.00% | ~6,853 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 507)
 | I Am the Resurrection | 1.00% | ~6,853 |
 | Down with the Sickness | 1.00% | ~6,853 |
 | Our True Nature | 1.00% | ~6,853 |
-| Max Headroom | 0.90% | ~6,167 |
+| Max Headroom | 0.90% | ~6,168 |
 | Jumbo Keyring | 0.70% | ~4,797 |
 | Go, Bobcats! | 0.70% | ~4,797 |
 | Rising Star | 0.70% | ~4,797 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~685 |
 | Bucket List | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,272 (Ranked 22)  
+Progressed: 685,293 (Ranked 22)  
 Completed: 2,170 (0.32%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 2,170 (0.32%) (Ranked 185)
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
-| 2023-09-24 | 685,272 | 2,170 |
+| 2023-09-24 | 685,293 | 2,170 |
 ## Awards
 Max (Great Boss Battles): 6,175  (Ranked 57)  
 Sum: 9,186 (Ranked 92)  

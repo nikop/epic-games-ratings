@@ -7,10 +7,10 @@
 | Remembering of the past | 27.00% | ~3 |
 | Black Hog Down | 27.00% | ~3 |
 | Ouch, that hurt! | 18.00% | ~2 |
+| Fight like an idiot | 18.00% | ~2 |
 | Slam-KABAM | 9.00% | ~1 |
 | Heavy Thoughts | 9.00% | ~1 |
 | A heavy thinker | 9.00% | ~1 |
-| Fight like an idiot | 9.00% | ~1 |
 | Flee like an idiot | 9.00% | ~1 |
 | Elementary, My Dear Dusty | 9.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |

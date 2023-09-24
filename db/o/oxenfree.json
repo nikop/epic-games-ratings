@@ -2,7 +2,7 @@
   "ID": "hibiscus",
   "Name": "Oxenfree",
   "ProductSlug": "oxenfree",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 634,
@@ -301,6 +301,6 @@
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
   "LastChanged": "2023-07-17T07:00:39.8946314+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:43.6131573+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:57:56.8756609+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:27.6762099+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:58:25.2757802+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:05:14.8268531+00:00"
 }

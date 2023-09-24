@@ -452,9 +452,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13230,
+  "EOS_Progressed": 13231,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -8892,6 +8892,11 @@
       "Time": "2023-09-24T03:04:37.5583267+00:00",
       "NumProgressed": 13230,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-24T06:05:23.2031368+00:00",
+      "NumProgressed": 13231,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -8903,7 +8908,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12172
+      "UsersEstimate": 12173
     },
     {
       "ID": "ACH_02",
@@ -8919,7 +8924,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9790
+      "UsersEstimate": 9791
     },
     {
       "ID": "ACH_04",
@@ -8927,7 +8932,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9261
+      "UsersEstimate": 9262
     },
     {
       "ID": "ACH_05",
@@ -8935,7 +8940,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8996
+      "UsersEstimate": 8997
     },
     {
       "ID": "ACH_06",
@@ -8959,7 +8964,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8070
+      "UsersEstimate": 8071
     },
     {
       "ID": "ACH_09",
@@ -8967,7 +8972,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "ACH_10",
@@ -9031,7 +9036,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "ACH_18",
@@ -9182,7 +9187,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13230,
+      "Progressed": 13231,
       "Completed": 47
     }
   ],
@@ -9190,8 +9195,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-21T20:01:06.4940624+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:33.4458941+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:05:23.2031362+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:57:34.8506329+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:33.4459724+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:57:49.9290867+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:05:23.2032742+00:00"
 }

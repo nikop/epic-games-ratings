@@ -662,9 +662,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "b36c5kb",
       "Name": "Shock Therapy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -694,9 +694,9 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "b36c5kb",
       "Name": "I Am The Night",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-24T05:04:06.5548635+00:00",
+  "LastChanged_Achievements": "2023-09-24T06:04:46.4642155+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:58:43.0558408+00:00",
-  "LastUpdate_Achievements": "2023-09-24T05:04:06.5549163+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:59:35.0823751+00:00",
+  "LastUpdate_Achievements": "2023-09-24T06:04:46.4642674+00:00"
 }

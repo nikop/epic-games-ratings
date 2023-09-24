@@ -25,13 +25,13 @@
 | Spirit of the past | 65.00% | ~213 |
 | Law student | 63.00% | ~207 |
 | Workout professional | 62.00% | ~203 |
-| Handyman | 60.00% | ~197 |
+| Handyman | 61.00% | ~200 |
 | Champion – starter pack | 60.00% | ~197 |
 | It's good to be alive | 60.00% | ~197 |
 | Own four walls | 60.00% | ~197 |
 | Employee of the year | 60.00% | ~197 |
 | Fight for life | 59.00% | ~194 |
-| Little hacker | 58.00% | ~190 |
+| Little hacker | 59.00% | ~194 |
 | Intriguing candies | 58.00% | ~190 |
 | Legal courier | 56.00% | ~184 |
 | Extreme neuropower! | 55.00% | ~180 |
