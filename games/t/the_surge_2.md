@@ -6,7 +6,7 @@ Rating: 4.24 (Ranked 846)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,638 |
-| Don't I Know You...? | 77.00% | ~1,576 |
+| Don't I Know You...? | 76.00% | ~1,556 |
 | Jailbreak | 65.00% | ~1,331 |
 | HEADSHOT! | 38.00% | ~778 |
 | Suited and Booted | 38.00% | ~778 |
@@ -16,15 +16,15 @@ Rating: 4.24 (Ranked 846)
 | Powered Up | 28.00% | ~573 |
 | Studied The Blade | 25.00% | ~512 |
 | Home Invasion | 23.00% | ~471 |
-| Luminary | 22.00% | ~450 |
-| It's a Trap | 22.00% | ~450 |
+| Luminary | 22.00% | ~451 |
+| It's a Trap | 22.00% | ~451 |
 | True Survivor | 21.00% | ~430 |
-| Offensive Defense | 20.00% | ~409 |
-| Shocking | 20.00% | ~409 |
+| Offensive Defense | 20.00% | ~410 |
+| Shocking | 20.00% | ~410 |
 | Court Martial | 19.00% | ~389 |
 | Clean Cut | 19.00% | ~389 |
 | Unforeseeable Consequences | 19.00% | ~389 |
-| Dead Again | 18.00% | ~368 |
+| Dead Again | 18.00% | ~369 |
 | Full Arsenal | 17.00% | ~348 |
 | Can't Trust Banks | 15.00% | ~307 |
 | Mommy Dearest | 14.00% | ~287 |
@@ -36,11 +36,11 @@ Rating: 4.24 (Ranked 846)
 | Marked For Success | 12.00% | ~246 |
 | Sorry, Didn't See You There | 12.00% | ~246 |
 | Triplets | 10.00% | ~205 |
-| Denying Prophecy | 9.00% | ~184 |
-| Defense in Depth | 9.00% | ~184 |
 | Stimulating The Local Economy | 9.00% | ~184 |
 | A Little Banged Up | 8.00% | ~164 |
+| Denying Prophecy | 8.00% | ~164 |
 | Following In Their Footsteps | 8.00% | ~164 |
+| Defense in Depth | 8.00% | ~164 |
 | Reverse Engineering | 7.00% | ~143 |
 | Reborn | 6.00% | ~123 |
 | Remote Surgery | 6.00% | ~123 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 846)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,047 (Ranked 195)  
+Progressed: 2,048 (Ranked 195)  
 Completed: 12 (0.59%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 12 (0.59%) (Ranked 152)
 | 2023-09-21 | 2,028 | 12 |
 | 2023-09-22 | 2,039 | 12 |
 | 2023-09-23 | 2,045 | 12 |
-| 2023-09-24 | 2,047 | 12 |
+| 2023-09-24 | 2,048 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

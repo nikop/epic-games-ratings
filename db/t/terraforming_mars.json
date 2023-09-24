@@ -4,7 +4,7 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 508,
   "Ranking_Popularity": 199,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 79,
@@ -2794,9 +2794,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 76788,
+  "EOS_Progressed": 76790,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -20064,6 +20064,11 @@
       "Time": "2023-09-24T07:05:34.6911451+00:00",
       "NumProgressed": 76788,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-09-24T08:06:04.2172929+00:00",
+      "NumProgressed": 76790,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 30,
@@ -20099,7 +20104,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 17661
+      "UsersEstimate": 17662
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -20123,7 +20128,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10750
+      "UsersEstimate": 10751
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -20171,7 +20176,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 24572
+      "UsersEstimate": 24573
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -20203,7 +20208,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 18429
+      "UsersEstimate": 18430
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -20227,7 +20232,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16893
+      "UsersEstimate": 16894
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -20235,7 +20240,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9983
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -20314,15 +20319,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 76788,
+      "Progressed": 76790,
       "Completed": 135
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-23T07:59:29.7705771+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:05:34.6911445+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:06:04.2172925+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:08.0322517+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:00:03.2474669+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:05:34.6912739+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:00:44.6905924+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:06:04.2174652+00:00"
 }

@@ -7,19 +7,19 @@
 | First Love | 41.00% | ~446 |
 | Clean Race | 39.00% | ~425 |
 | Hear That Roar! | 38.00% | ~414 |
-| Eat My Dust | 36.00% | ~392 |
+| Eat My Dust | 37.00% | ~403 |
 | Rivals to the End | 30.00% | ~327 |
 | We're Going to Need a Bigger Garage | 25.00% | ~272 |
 | I'm Here Too! | 23.00% | ~250 |
 | Bitter Rivalry | 23.00% | ~250 |
 | Champagne Spray | 20.00% | ~218 |
+| Restored and Ready | 18.00% | ~196 |
 | I Want One Too! | 18.00% | ~196 |
-| Restored and Ready | 17.00% | ~185 |
 | Legendary!!! | 17.00% | ~185 |
 | Quick Pit Stop | 17.00% | ~185 |
 | Go-Faster Stripes | 16.00% | ~174 |
 | We've Just Begun | 9.00% | ~98 |
-| Stamina Star | 7.00% | ~76 |
+| Stamina Star | 8.00% | ~87 |
 | Is It the Right Size? | 7.00% | ~76 |
 | Evangelist | 6.00% | ~65 |
 | Make It Your Own! | 4.00% | ~44 |

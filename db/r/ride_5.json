@@ -1648,17 +1648,17 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 196
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1920,9 +1920,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 403
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2023,8 +2023,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:05:08.2021221+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:05:33.1598733+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:01:36.4852465+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:05:08.2021745+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:02:35.9597129+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:05:33.1599627+00:00"
 }

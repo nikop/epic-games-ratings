@@ -1,12 +1,12 @@
 # Surviving Mars
 [Store](https://store.epicgames.com/en-US/p/surviving-mars)  
 [View Rawdata](../../db/s/surviving_mars.json)  
-Rating: 4.60 (Ranked 399)  
+Rating: 4.60 (Ranked 400)  
 Number of Ratings: 3,483  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 484  (Ranked 203)  
-Sum: 3,224 (Ranked 160)  
-Diff (max vs sum): 43  
+Sum: 3,224 (Ranked 159)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 484 |

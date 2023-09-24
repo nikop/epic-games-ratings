@@ -6,13 +6,13 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,386 |
-| I'll Be Back | 85.00% | ~3,966 |
-| Sorry, I Dropped This | 77.00% | ~3,593 |
-| First Day on the Job | 76.00% | ~3,546 |
-| Butcher's Bill | 55.00% | ~2,566 |
-| P.A.X | 37.00% | ~1,726 |
-| Hey Listen | 37.00% | ~1,726 |
+| On My Own Two Feet | 94.00% | ~4,387 |
+| I'll Be Back | 85.00% | ~3,967 |
+| Sorry, I Dropped This | 77.00% | ~3,594 |
+| First Day on the Job | 76.00% | ~3,547 |
+| Butcher's Bill | 55.00% | ~2,567 |
+| P.A.X | 37.00% | ~1,727 |
+| Hey Listen | 37.00% | ~1,727 |
 | OPERATOR | 36.00% | ~1,680 |
 | It's Blue Light | 33.00% | ~1,540 |
 | Most Wanted | 26.00% | ~1,213 |
@@ -67,14 +67,14 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~93 |
 | Gramophone Enthusiast | 2.00% | ~93 |
 | Bling-Bling | 1.00% | ~47 |
-| Sniffing Around | 0.80% | ~37 |
+| Sniffing Around | 0.70% | ~33 |
 | Modus Operandi | 0.70% | ~33 |
 | Suited and Booted | 0.70% | ~33 |
 | Tools of War | 0.70% | ~33 |
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,666 (Ranked 166)  
+Progressed: 4,667 (Ranked 166)  
 Completed: 16 (0.34%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 16 (0.34%) (Ranked 182)
 | 2023-09-21 | 4,658 | 16 |
 | 2023-09-22 | 4,660 | 16 |
 | 2023-09-23 | 4,665 | 16 |
-| 2023-09-24 | 4,666 | 16 |
+| 2023-09-24 | 4,667 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 468)  
 Sum: 29 (Ranked 484)  

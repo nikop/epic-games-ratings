@@ -11,33 +11,33 @@
 | GG EZ | 59.00% | ~53 |
 | Hydrophobia | 44.00% | ~40 |
 | Ka-Ching! | 37.00% | ~33 |
-| Stop Right There | 31.00% | ~28 |
+| Stop Right There | 32.00% | ~29 |
 | Get to the Point | 30.00% | ~27 |
 | Mr. Want It All | 19.00% | ~17 |
 | The Hidden Secret | 17.00% | ~15 |
 | Toe to Toe | 17.00% | ~15 |
 | Phew! | 14.00% | ~13 |
-| The Abyss Conqueror | 12.00% | ~11 |
+| The Abyss Conqueror | 13.00% | ~12 |
 | The Fortress Conqueror | 11.00% | ~10 |
+| Grand Escape | 11.00% | ~10 |
 | Space Warrior: Prologue | 11.00% | ~10 |
-| Grand Escape | 10.00% | ~9 |
+| he Ultra Fortress Conqueror | 8.00% | ~7 |
 | Keep it Up, rookie! | 8.00% | ~7 |
-| he Ultra Fortress Conqueror | 7.00% | ~6 |
+| The Deep Frozen Conqueror | 7.00% | ~6 |
+| The Paradox Coordinate Conqueror | 7.00% | ~6 |
 | Antaeus | 7.00% | ~6 |
 | The Sunken City Conqueror | 6.00% | ~5 |
-| The Deep Frozen Conqueror | 6.00% | ~5 |
 | The Infinite Train Conqueror | 6.00% | ~5 |
-| The Paradox Coordinate Conqueror | 6.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 6.00% | ~5 |
 | The Inactivated Frozen Conqueror | 6.00% | ~5 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~5 |
 | Hell of a Fight | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | Death Bringer Conqueror | 4.00% | ~4 |
+| Space Ranger: Prologue | 4.00% | ~4 |
 | Rapidfire | 4.00% | ~4 |
 | Air Interception | 4.00% | ~4 |
 | The Looping Space Conqueror | 3.00% | ~3 |
-| Space Ranger: Prologue | 3.00% | ~3 |
 | Breaking the Limit | 3.00% | ~3 |
 | The Truth? | 3.00% | ~3 |
 | Break Through the Forbidden | 2.00% | ~2 |

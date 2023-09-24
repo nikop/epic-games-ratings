@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37762,
+  "EOS_Progressed": 37765,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16647,6 +16647,11 @@
       "Time": "2023-09-24T05:03:54.2312049+00:00",
       "NumProgressed": 37762,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-24T08:04:25.1153555+00:00",
+      "NumProgressed": 37765,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16682,7 +16687,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "ach_combuoy",
@@ -16778,7 +16783,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13594
+      "UsersEstimate": 13595
     },
     {
       "ID": "ach_die10",
@@ -16794,7 +16799,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "ach_dive",
@@ -16850,7 +16855,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "ach_legacypupil",
@@ -16858,7 +16863,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ach_legacyrival",
@@ -16874,7 +16879,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ach_legacyshipmate",
@@ -16890,7 +16895,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ach_portbell",
@@ -17002,7 +17007,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ach_sweetheart",
@@ -17010,7 +17015,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6797
+      "UsersEstimate": 6798
     },
     {
       "ID": "ach_terror100",
@@ -17018,7 +17023,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "ach_terror90",
@@ -17026,7 +17031,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "ach_undercurrent",
@@ -17058,7 +17063,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "ach_year1",
@@ -17089,15 +17094,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37762,
+      "Progressed": 37765,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:04:10.2786681+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:04:25.1153547+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.9799405+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:58:11.1434825+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:04:10.2788215+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:58:32.2691151+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:04:25.1155186+00:00"
 }

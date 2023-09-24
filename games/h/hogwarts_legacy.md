@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 117)
 | The Sort Who Makes an Entrance | 14.00% | ~41,611 |
 | First Class Student | 13.00% | ~38,639 |
 | Troll with the Punches | 13.00% | ~38,639 |
-| A Keen Sense of Spell | 12.00% | ~35,666 |
+| A Keen Sense of Spell | 12.00% | ~35,667 |
 | A Talent for Spending | 11.00% | ~32,694 |
 | That's a Keeper | 11.00% | ~32,694 |
 | Grappling with a Graphorn | 10.00% | ~29,722 |
@@ -23,9 +23,9 @@ Rating: 4.76 (Ranked 117)
 | Rising From the Ashes | 9.00% | ~26,750 |
 | A Sallow Grave | 8.00% | ~23,778 |
 | The Spell Master | 8.00% | ~23,778 |
-| The Avenging Gazelle | 7.00% | ~20,805 |
-| Beast Friends | 7.00% | ~20,805 |
-| Flight the Good Flight | 7.00% | ~20,805 |
+| The Avenging Gazelle | 7.00% | ~20,806 |
+| Beast Friends | 7.00% | ~20,806 |
+| Flight the Good Flight | 7.00% | ~20,806 |
 | The Seeker of Knowledge | 6.00% | ~17,833 |
 | The Root of the Problem | 6.00% | ~17,833 |
 | Third Time's a Charm | 6.00% | ~17,833 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,220 (Ranked 44)  
+Progressed: 297,222 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,10 +208,10 @@ Completed: 476 (0.16%) (Ranked 214)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,220 | 476 |
+| 2023-09-24 | 297,222 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
-Sum: 44,151 (Ranked 30)  
+Sum: 44,154 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 11,339 |
 | This game is Great for Beginners | 1,096 |
 | This game has Amazing Storytelling | 1,061 |
-| This game has Diverse Characters | 1,050 |
+| This game has Diverse Characters | 1,053 |
 | This game is Relaxing | 1,050 |
 | This game is Extremely Fun | 1,044 |
 | This game has Amazing Characters | 1,022 |
@@ -414,4 +414,4 @@ Diff (max vs sum): -13
 | 2023-09-21 | 4.77 | 22,886 | 43,899 |
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
-| 2023-09-24 | 4.76 | 22,986 | 44,151 |
+| 2023-09-24 | 4.76 | 22,986 | 44,154 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2467,9 +2467,9 @@
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH037",
@@ -2587,8 +2587,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:05:56.9443285+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:06:30.8854678+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.6290536+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:01:30.6330214+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:05:56.9443811+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:02:26.5732103+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:06:30.8855696+00:00"
 }

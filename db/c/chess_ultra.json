@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208929,
+  "EOS_Progressed": 208930,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1386,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17978,6 +17978,11 @@
       "Time": "2023-09-24T07:07:15.5774161+00:00",
       "NumProgressed": 208929,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T08:08:03.4623383+00:00",
+      "NumProgressed": 208930,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -18037,7 +18042,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 114911
+      "UsersEstimate": 114912
     },
     {
       "ID": "Checkmate",
@@ -18061,7 +18066,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 146250
+      "UsersEstimate": 146251
     },
     {
       "ID": "DoubleCheck",
@@ -18077,7 +18082,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 117000
+      "UsersEstimate": 117001
     },
     {
       "ID": "Elo",
@@ -18245,7 +18250,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 25071
+      "UsersEstimate": 25072
     },
     {
       "ID": "TournamentAmateur",
@@ -18292,7 +18297,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 208929,
+      "Progressed": 208930,
       "Completed": 2
     }
   ],
@@ -18300,8 +18305,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:07:15.577415+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:08:03.4623377+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:04.336913+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:00:58.808288+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:07:15.5775399+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:01:49.095994+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:08:03.4625039+00:00"
 }

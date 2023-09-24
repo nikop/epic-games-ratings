@@ -48,8 +48,8 @@ Number of Ratings: 180  (23.09.2022)
 | Back to the future | 9.00% | ~152 |
 | Transport belt | 9.00% | ~152 |
 | Penny pincher | 9.00% | ~152 |
+| E.P.E.C. | 6.00% | ~101 |
 | Campaign shark | 5.00% | ~84 |
-| E.P.E.C. | 5.00% | ~84 |
 | Transport shark (Hard mode) | 4.00% | ~67 |
 | Antique | 4.00% | ~67 |
 | Cannot get enough | 4.00% | ~67 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,684 (Ranked 203)  
+Progressed: 1,684 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,9 +217,9 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-22 | 1,677 | 0 |
 | 2023-09-23 | 1,684 | 0 |
 ## Awards
-Max (Highly Recommended): 42  (Ranked 427)  
+Max (Highly Recommended): 42  (Ranked 428)  
 Sum: 286 (Ranked 349)  
-Diff (max vs sum): 78  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |

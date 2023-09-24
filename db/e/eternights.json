@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 213,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -675,17 +675,17 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:06:59.3882758+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:07:43.9770627+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:57:25.7066562+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:06:59.388296+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:57:38.5719935+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:07:43.9770865+00:00"
 }

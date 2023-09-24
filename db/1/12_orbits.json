@@ -2,9 +2,9 @@
   "ID": "89da53d6472d4b8f864f68e3bbd999a3",
   "Name": "12 orbits",
   "ProductSlug": "12-orbits-c48266",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-18T09:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -113,6 +113,11 @@
       "Time": "2023-09-18T21:07:01.523225+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T08:03:34.7891175+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-06-28T10:06:25.7215615+00:00",
@@ -187,7 +192,7 @@
       "ID": "ACHIEVEMENT_ColorManySpheresWithOneBlast",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Worth the trouble",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -219,7 +224,7 @@
       "ID": "ACHIEVEMENT_Fireworks",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Fireworks",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -235,7 +240,7 @@
       "ID": "ACHIEVEMENT_InstantKarma",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Instant Karma",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -243,7 +248,7 @@
       "ID": "ACHIEVEMENT_Modification",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Mix and match",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -324,7 +329,7 @@
     {
       "ID": "ahb97f7",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
@@ -332,8 +337,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
   "FirstSeenAchievements": "2023-06-14T13:12:06.2445404+00:00",
   "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:03:36.5643982+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:03:34.7891169+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.8724407+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:58:19.9671588+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:03:36.5644659+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:58:41.4521531+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:03:34.7891379+00:00"
 }

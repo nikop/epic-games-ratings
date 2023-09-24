@@ -5,22 +5,22 @@ Rating: 4.73 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,173 |
-| Newcomers | 79.00% | ~10,453 |
-| A Burden of Blood | 74.00% | ~9,792 |
-| Protector's Duty | 70.00% | ~9,262 |
-| Alchemist | 69.00% | ~9,130 |
-| In our Wake | 68.00% | ~8,998 |
-| Leaving all Behind | 65.00% | ~8,601 |
-| Felons | 62.00% | ~8,204 |
-| A Sea of Promises | 61.00% | ~8,072 |
-| Tales and Revelations | 57.00% | ~7,542 |
-| Bloodline | 53.00% | ~7,013 |
-| The Cradle of Centuries | 49.00% | ~6,484 |
-| The Life We Deserve | 46.00% | ~6,087 |
-| Night guard | 43.00% | ~5,690 |
-| Nothing Left | 39.00% | ~5,160 |
-| Healing our Wounds | 37.00% | ~4,896 |
+| Under a New Sun | 92.00% | ~12,175 |
+| Newcomers | 79.00% | ~10,455 |
+| A Burden of Blood | 74.00% | ~9,793 |
+| Protector's Duty | 70.00% | ~9,264 |
+| Alchemist | 69.00% | ~9,131 |
+| In our Wake | 68.00% | ~8,999 |
+| Leaving all Behind | 65.00% | ~8,602 |
+| Felons | 62.00% | ~8,205 |
+| A Sea of Promises | 61.00% | ~8,073 |
+| Tales and Revelations | 57.00% | ~7,543 |
+| Bloodline | 53.00% | ~7,014 |
+| The Cradle of Centuries | 49.00% | ~6,485 |
+| The Life We Deserve | 46.00% | ~6,088 |
+| Night guard | 43.00% | ~5,691 |
+| Nothing Left | 39.00% | ~5,161 |
+| Healing our Wounds | 37.00% | ~4,897 |
 | Dying Sun | 33.00% | ~4,367 |
 | Improved crossbow | 27.00% | ~3,573 |
 | King Hugo | 25.00% | ~3,308 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 162)
 | Old protector | 2.00% | ~265 |
 | Malignant | 1.00% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,232 (Ranked 129)  
+Progressed: 13,234 (Ranked 129)  
 Completed: 47 (0.36%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 47 (0.36%) (Ranked 176)
 | 2023-09-21 | 13,150 | 47 |
 | 2023-09-22 | 13,179 | 47 |
 | 2023-09-23 | 13,226 | 47 |
-| 2023-09-24 | 13,232 | 47 |
+| 2023-09-24 | 13,234 | 47 |
 ## Awards
 Max (Great Boss Battles): 420  (Ranked 214)  
 Sum: 645 (Ranked 292)  

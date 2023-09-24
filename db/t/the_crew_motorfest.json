@@ -2,12 +2,12 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 302,
-  "Ranking_Popularity": 427,
-  "Ranking_PopularitySum": 326,
+  "Ranking_Rating": 282,
+  "Ranking_Popularity": 414,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -17,7 +17,7 @@
       "isPrepurchase": "true"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-09-15T10:57:58.1384791+00:00",
@@ -276,12 +276,18 @@
       "Rating": 4.65,
       "NumberOfAwards": 386,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-09-24T08:01:54.320681+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 402,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 386,
-  "NumberOfAwardsMax": 42,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 402,
+  "NumberOfAwardsMax": 47,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -305,7 +311,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31
+      "Count": 47
     },
     {
       "Text": "This game has Diverse Characters",
@@ -362,8 +368,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-09-24T01:45:32.0712877+00:00",
+  "LastChanged": "2023-09-24T08:01:54.3206808+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:32.9943262+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:01:02.1345396+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:07:00.782894+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:01:54.3206818+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:07:45.7954082+00:00"
 }

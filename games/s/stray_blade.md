@@ -43,12 +43,12 @@
 | Wizard | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |
+| Fashionista | 1.00% | ~1 |
 | Knowledge is King | 1.00% | ~1 |
 | Bookworm | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
-| Fashionista | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 86 (Ranked 391)  

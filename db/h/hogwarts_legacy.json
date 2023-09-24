@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7960,10 +7960,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44151,
       "NumberOfAwardsMax": 22986
+    },
+    {
+      "Time": "2023-09-24T08:00:51.0080346+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44154,
+      "NumberOfAwardsMax": 22986
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44151,
+  "NumberOfAwards": 44154,
   "NumberOfAwardsMax": 22986,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8007,7 +8013,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1050
+      "Count": 1053
     },
     {
       "Text": "This game is Relaxing",
@@ -8040,9 +8046,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 297220,
+  "EOS_Progressed": 297222,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25010,6 +25016,11 @@
       "Time": "2023-09-24T07:06:54.2957653+00:00",
       "NumProgressed": 297220,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-09-24T08:07:38.2955228+00:00",
+      "NumProgressed": 297222,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 45,
@@ -25069,7 +25080,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20805
+      "UsersEstimate": 20806
     },
     {
       "ID": "PFA_16",
@@ -25085,7 +25096,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20805
+      "UsersEstimate": 20806
     },
     {
       "ID": "PFA_18",
@@ -25101,7 +25112,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20805
+      "UsersEstimate": 20806
     },
     {
       "ID": "PFA_2",
@@ -25141,7 +25152,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35666
+      "UsersEstimate": 35667
     },
     {
       "ID": "PFA_24",
@@ -25380,16 +25391,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297220,
+      "Progressed": 297222,
       "Completed": 476
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-24T07:00:07.5674208+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:06:54.2957647+00:00",
+  "LastChanged": "2023-09-24T08:00:51.0080345+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:07:38.2955222+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-24T07:00:07.5674215+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:06:54.2958938+00:00"
+  "LastUpdate_Ratings": "2023-09-24T08:00:51.0080354+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:07:38.2957192+00:00"
 }

@@ -1,36 +1,36 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 399)  
+Rating: 4.60 (Ranked 400)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,445 |
-| Having A Field Day | 75.00% | ~4,445 |
-| Reap What You Sow | 72.00% | ~4,267 |
-| The First Day | 68.00% | ~4,030 |
+| Get A Room | 75.00% | ~4,446 |
+| Having A Field Day | 75.00% | ~4,446 |
+| Reap What You Sow | 72.00% | ~4,268 |
+| The First Day | 69.00% | ~4,090 |
 | Green Thumb | 66.00% | ~3,912 |
 | Novice Researcher | 66.00% | ~3,912 |
 | Home Cooked Meal | 58.00% | ~3,438 |
-| Onward | 56.00% | ~3,319 |
+| Onward | 56.00% | ~3,320 |
 | Putting Food on the Table | 54.00% | ~3,201 |
 | The First Week | 54.00% | ~3,201 |
 | Beam Me Up | 51.00% | ~3,023 |
 | Studious Researcher | 51.00% | ~3,023 |
-| Feast or Famine | 45.00% | ~2,667 |
+| Feast or Famine | 45.00% | ~2,668 |
 | Adept Researcher | 44.00% | ~2,608 |
 | Retribution | 41.00% | ~2,430 |
 | ...And Don’t Come Back! | 41.00% | ~2,430 |
-| Fit For A King | 34.00% | ~2,015 |
+| Fit For A King | 34.00% | ~2,016 |
 | Luminary Researcher | 32.00% | ~1,897 |
 | Heating Up | 30.00% | ~1,778 |
-| Winter Is Coming | 27.00% | ~1,600 |
-| Winter Is Here | 24.00% | ~1,422 |
+| Winter Is Coming | 27.00% | ~1,601 |
+| Winter Is Here | 24.00% | ~1,423 |
 | Disassembled | 21.00% | ~1,245 |
 | A Party Now | 21.00% | ~1,245 |
 | Oh Deer! | 21.00% | ~1,245 |
-| All Year Round | 20.00% | ~1,185 |
+| All Year Round | 20.00% | ~1,186 |
 | Nothing Wasted | 13.00% | ~771 |
 | Don't Cry Wolf | 12.00% | ~711 |
 | Deerly Departed | 8.00% | ~474 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~119 |
 | Wabbit Season | 0.60% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,927 (Ranked 154)  
+Progressed: 5,928 (Ranked 154)  
 Completed: 14 (0.24%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 14 (0.24%) (Ranked 201)
 | 2023-09-21 | 5,883 | 14 |
 | 2023-09-22 | 5,898 | 14 |
 | 2023-09-23 | 5,924 | 14 |
-| 2023-09-24 | 5,927 | 14 |
+| 2023-09-24 | 5,928 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 322)  
 Sum: 985 (Ranked 243)  

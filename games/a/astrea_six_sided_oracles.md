@@ -22,6 +22,7 @@
 | Dice Specialist | 29.00% | ~2 |
 | Loyal Partner | 29.00% | ~2 |
 | Shard Spender | 29.00% | ~2 |
+| Star Killer | 29.00% | ~2 |
 | Arch-Oracle | 14.00% | ~1 |
 | Astral Adventurer | 14.00% | ~1 |
 | Can't touch this | 14.00% | ~1 |
@@ -30,7 +31,6 @@
 | Heart Gate | 14.00% | ~1 |
 | Plague Doctor | 14.00% | ~1 |
 | Sadistic Plan | 14.00% | ~1 |
-| Star Killer | 14.00% | ~1 |
 | Unepic Hero | 14.00% | ~1 |
 | Wave Bender | 14.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |

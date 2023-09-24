@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2775,6 +2775,11 @@
       "Time": "2023-09-24T07:05:05.1836969+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T08:05:29.6449784+00:00",
+      "NumProgressed": 1423,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2810,7 +2815,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Boy",
@@ -2818,7 +2823,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Commandos",
@@ -2912,9 +2917,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 498
     },
     {
       "ID": "High_noon",
@@ -2978,7 +2983,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Scout",
@@ -3025,15 +3030,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1423,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-24T07:05:05.1836963+00:00",
+  "LastChanged_Achievements": "2023-09-24T08:05:29.6449778+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-24T06:57:47.5291376+00:00",
-  "LastUpdate_Achievements": "2023-09-24T07:05:05.1837299+00:00"
+  "LastUpdate_Ratings": "2023-09-24T07:58:06.4704785+00:00",
+  "LastUpdate_Achievements": "2023-09-24T08:05:29.6450198+00:00"
 }

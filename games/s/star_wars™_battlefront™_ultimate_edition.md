@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~104 |
-| Off to a good start | 66.00% | ~78 |
-| Do... or do not. There is no try | 46.00% | ~54 |
-| A good blaster at your side | 34.00% | ~40 |
-| Great shot, kid! | 31.00% | ~37 |
+| New Recruit | 88.00% | ~106 |
+| Off to a good start | 66.00% | ~79 |
+| Do... or do not. There is no try | 47.00% | ~56 |
+| A good blaster at your side | 34.00% | ~41 |
+| Great shot, kid! | 30.00% | ~36 |
 | Shoot first | 27.00% | ~32 |
 | Collector | 26.00% | ~31 |
 | The power of the Force | 25.00% | ~30 |
-| I suggest a new strategy | 25.00% | ~30 |
-| Scrap collector | 24.00% | ~28 |
-| Tell Jabba that I've got his money | 23.00% | ~27 |
-| What's the cargo? | 19.00% | ~22 |
-| Judge me by my size, do you? | 19.00% | ~22 |
-| A cunning warrior | 19.00% | ~22 |
-| Never tell me the odds! | 18.00% | ~21 |
+| I suggest a new strategy | 24.00% | ~29 |
+| Tell Jabba that I've got his money | 23.00% | ~28 |
+| Scrap collector | 23.00% | ~28 |
+| A cunning warrior | 19.00% | ~23 |
+| What's the cargo? | 18.00% | ~22 |
+| Never tell me the odds! | 18.00% | ~22 |
+| Judge me by my size, do you? | 18.00% | ~22 |
 | "Gonk? Gonk!" | 17.00% | ~20 |
 | Together we can rule the galaxy | 17.00% | ~20 |
 | A tremor in the Force | 16.00% | ~19 |
@@ -26,11 +26,11 @@
 | Distinguished | 15.00% | ~18 |
 | All right, I'll give it a try | 15.00% | ~18 |
 | Support the troops | 15.00% | ~18 |
-| Impressive. Most impressive. | 14.00% | ~17 |
-| Not bad for a little furball | 14.00% | ~17 |
 | Patience you must have | 14.00% | ~17 |
-| Determined | 13.00% | ~15 |
-| Best star-pilot in the galaxy | 13.00% | ~15 |
+| Determined | 13.00% | ~16 |
+| Best star-pilot in the galaxy | 13.00% | ~16 |
+| Impressive. Most impressive. | 13.00% | ~16 |
+| Not bad for a little furball | 13.00% | ~16 |
 | I've been waiting for you | 12.00% | ~14 |
 | When 900 years old you reach... | 12.00% | ~14 |
 | Don't underestimate the Force | 12.00% | ~14 |
@@ -41,8 +41,8 @@
 | This is a new day, a new beginning | 9.00% | ~11 |
 | Alternative solution | 9.00% | ~11 |
 | Disturbed tranquility | 9.00% | ~11 |
-| The Force is strong with this one | 8.00% | ~9 |
-| The circle is now complete | 8.00% | ~9 |
+| The Force is strong with this one | 8.00% | ~10 |
+| The circle is now complete | 8.00% | ~10 |
 | Playing the objective | 7.00% | ~8 |
 | On the ball | 7.00% | ~8 |
 | You have your moments | 6.00% | ~7 |
@@ -68,15 +68,15 @@
 | I never doubted you! | 0.80% | ~1 |
 | Crush them with one swift stroke… | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 361)  
-Completed: 1 (0.85%) (Ranked 137)  
+Progressed: 120 (Ranked 361)  
+Completed: 1 (0.83%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
-| 2023-09-24 | 118 | 1 |
+| 2023-09-24 | 120 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
