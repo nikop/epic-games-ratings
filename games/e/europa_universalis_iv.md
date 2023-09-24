@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,506 |
+| Until death do us apart | 4.00% | ~16,507 |
 | That's a Grand Army | 3.00% | ~12,380 |
 | That is mine! | 3.00% | ~12,380 |
 | Victorious! | 3.00% | ~12,380 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,651 (Ranked 40)  
+Progressed: 412,673 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,18 +518,18 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 410,221 | 0 |
 | 2023-09-22 | 411,228 | 0 |
 | 2023-09-23 | 412,558 | 0 |
-| 2023-09-24 | 412,651 | 0 |
+| 2023-09-24 | 412,673 | 0 |
 ## Awards
 Max (Educational): 6,232  (Ranked 56)  
-Sum: 51,181 (Ranked 24)  
+Sum: 51,202 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,232 |
 | This game is Highly Recommended | 5,942 |
 | This game has Challenging Combat | 5,900 |
+| This game has Diverse Characters | 5,890 |
 | This game is Extremely Fun | 5,878 |
-| This game has Diverse Characters | 5,869 |
 | This game is Relaxing | 5,744 |
 | This game has Competitive Players | 5,564 |
 | This game has Amazing Storytelling | 5,211 |
@@ -788,3 +788,4 @@ Diff (max vs sum): 32
 | 2023-09-21 | 4.69 | - | 6,199 | 50,880 |
 | 2023-09-22 | 4.69 | - | 6,215 | 51,004 |
 | 2023-09-23 | 4.69 | - | 6,232 | 51,181 |
+| 2023-09-24 | 4.69 | - | 6,232 | 51,202 |

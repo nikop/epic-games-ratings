@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6449,
+  "EOS_Progressed": 6450,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2431,6 +2431,11 @@
       "Time": "2023-09-24T02:20:17.9194288+00:00",
       "NumProgressed": 6449,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T03:02:26.4913631+00:00",
+      "NumProgressed": 6450,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2475,7 +2480,7 @@
       "Name": "Upgraded Biogenerative Implant to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "CEUpgraded1",
@@ -2491,7 +2496,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "CreditsSpent50000",
@@ -2619,7 +2624,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "HAPurchased1",
@@ -2675,7 +2680,7 @@
       "Name": "Upgraded the Hand Cannon to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -2691,7 +2696,7 @@
       "Name": "Purchased Ice Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "IHBUpgraded1",
@@ -2731,7 +2736,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "LaserUpgraded1",
@@ -2803,7 +2808,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "MaxTowersKilled3",
@@ -2827,7 +2832,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "MinionKills2000",
@@ -2867,7 +2872,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "PlayerKills10",
@@ -2939,7 +2944,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "SEUpgraded1",
@@ -2971,7 +2976,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -2995,7 +3000,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "TPurchased1",
@@ -3019,7 +3024,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WCUpgraded1",
@@ -3034,14 +3039,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6449,
+      "Progressed": 6450,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:20:17.919428+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:02:26.4913626+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:16:44.1729125+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:20:17.9196047+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:59:11.8153709+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:02:26.4914429+00:00"
 }

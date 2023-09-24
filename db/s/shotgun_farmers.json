@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1549,9 +1549,9 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_sextaKill",
@@ -1621,9 +1621,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_all_koth_points",
@@ -1884,8 +1884,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:25:57.2023586+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:08:06.4925346+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4431883+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:19:12.7455353+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:25:57.2025074+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:01:35.0509569+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:08:06.4926014+00:00"
 }

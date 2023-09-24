@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 609,
+  "EOS_Progressed": 610,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2639,6 +2639,11 @@
       "Time": "2023-09-23T18:09:27.3297469+00:00",
       "NumProgressed": 609,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T03:08:14.4911267+00:00",
+      "NumProgressed": 610,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2826,15 +2831,15 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 61
     },
     {
       "ID": "PerfectGrade25",
@@ -2969,7 +2974,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 609,
+      "Progressed": 610,
       "Completed": 0
     }
   ],
@@ -2977,8 +2982,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:26:05.8763244+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:08:14.4911261+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.2940443+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:18:56.0338842+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:26:05.8764062+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:01:18.8929363+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:08:14.4911638+00:00"
 }

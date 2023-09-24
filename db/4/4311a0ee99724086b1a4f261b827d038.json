@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 488,
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 60,
@@ -284,9 +284,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 220773,
+  "EOS_Progressed": 220777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2347,
+  "EOS_NewPlayers": 2343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7269,6 +7269,11 @@
       "Time": "2023-09-24T02:24:00.3924699+00:00",
       "NumProgressed": 220773,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T03:06:17.5314903+00:00",
+      "NumProgressed": 220777,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -7369,7 +7374,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -7385,7 +7390,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -7393,7 +7398,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -7401,7 +7406,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -7465,7 +7470,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28700
+      "UsersEstimate": 28701
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -7481,7 +7486,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -7537,7 +7542,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55193
+      "UsersEstimate": 55194
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -7552,7 +7557,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 220773,
+      "Progressed": 220777,
       "Completed": 0
     }
   ],
@@ -7560,8 +7565,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-23T14:58:49.8982452+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:24:00.392469+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:06:17.5314898+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.9329368+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:16:31.2321581+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:24:00.3926246+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:59:00.1696989+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:06:17.5315423+00:00"
 }

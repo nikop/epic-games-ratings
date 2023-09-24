@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1646,9 +1646,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 195
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1678,9 +1678,9 @@
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "c7hf6a4",
       "Name": "Is It the Right Size?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 76
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2013,8 +2013,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:22:27.6829518+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:04:49.7900682+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:19:19.7085834+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:22:27.6830439+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:01:41.6044544+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:04:49.7901117+00:00"
 }

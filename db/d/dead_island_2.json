@@ -4794,10 +4794,10 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 685229,
+  "EOS_Progressed": 685237,
   "EOS_Completed": 2169,
-  "EOS_NewPlayers": 4085,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 4080,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22419,6 +22419,11 @@
       "Time": "2023-09-24T02:24:48.7314625+00:00",
       "NumProgressed": 685229,
       "NumCompleted": 2169
+    },
+    {
+      "Time": "2023-09-24T03:07:02.6293635+00:00",
+      "NumProgressed": 685237,
+      "NumCompleted": 2169
     }
   ],
   "TotalAchievements": 45,
@@ -22652,9 +22657,9 @@
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2741
     },
     {
       "ID": "ach_metropolitan",
@@ -22789,22 +22794,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 685229,
+      "Progressed": 685237,
       "Completed": 2169
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 10770,
-      "Completed": 10770
+      "Progressed": 10778,
+      "Completed": 10778
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-24T02:19:15.5598559+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:24:48.7314618+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:07:02.629363+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:19:15.5598568+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:24:48.7317182+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:01:37.730087+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:07:02.6294733+00:00"
 }

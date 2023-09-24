@@ -646,9 +646,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -726,9 +726,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:24:36.2106879+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:06:50.7655641+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:14:34.5535656+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:24:36.2107112+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:57:11.3044885+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:06:50.7655847+00:00"
 }

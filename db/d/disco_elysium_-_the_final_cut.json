@@ -1313,9 +1313,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128645,
+  "EOS_Progressed": 128647,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16973,6 +16973,11 @@
       "Time": "2023-09-24T02:21:12.4813478+00:00",
       "NumProgressed": 128645,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-24T03:03:38.2472256+00:00",
+      "NumProgressed": 128647,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17088,7 +17093,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20583
+      "UsersEstimate": 20584
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -17120,7 +17125,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20583
+      "UsersEstimate": 20584
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -17200,7 +17205,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18010
+      "UsersEstimate": 18011
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -17264,7 +17269,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18010
+      "UsersEstimate": 18011
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -17303,15 +17308,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128645,
+      "Progressed": 128647,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-22T00:00:36.6014482+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:21:12.4813471+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:03:38.247225+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.5946316+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:14:45.3678397+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:21:12.4815011+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:57:21.2750692+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:03:38.2473235+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.94,
+  "EOS_Completed_Percentage": 5.91,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -944,6 +944,11 @@
       "Time": "2023-09-23T21:08:24.8474153+00:00",
       "NumProgressed": 202,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-24T03:08:35.7037627+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 25,
@@ -1003,7 +1008,7 @@
       "Name": "Open door",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1011,7 +1016,7 @@
       "Name": "Free at last",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1019,7 +1024,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1043,7 +1048,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1051,7 +1056,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1059,7 +1064,7 @@
       "Name": "Rascal",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1099,15 +1104,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "PROGRESS_N1",
@@ -1115,23 +1120,23 @@
       "Name": "Welcome to the Tower",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "PROGRESS_N4",
@@ -1154,14 +1159,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:26:28.2030022+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:08:35.7037623+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:19:37.4144766+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:26:28.2030344+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:02:07.8589425+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:08:35.7037876+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.02 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,829 |
-| World Map | 79.00% | ~1,554 |
-| Temple of Eternals | 57.00% | ~1,121 |
-| Prestigious | 54.00% | ~1,062 |
-| Fellowship Power | 41.00% | ~806 |
-| Guild Power | 26.00% | ~511 |
-| Prestigious x10 | 23.00% | ~452 |
+| Victor | 93.00% | ~1,830 |
+| World Map | 79.00% | ~1,555 |
+| Temple of Eternals | 57.00% | ~1,122 |
+| Prestigious | 54.00% | ~1,063 |
+| Fellowship Power | 41.00% | ~807 |
+| Guild Power | 26.00% | ~512 |
+| Prestigious x10 | 23.00% | ~453 |
 | The game is on | 21.00% | ~413 |
 | Exotic Merchant | 19.00% | ~374 |
 | Dragon Clicker | 18.00% | ~354 |
-| Full Party | 17.00% | ~334 |
-| Inspection | 17.00% | ~334 |
-| Miner Clicker | 17.00% | ~334 |
-| Dragon Master | 16.00% | ~315 |
+| Full Party | 17.00% | ~335 |
+| Inspection | 17.00% | ~335 |
+| Miner Clicker | 17.00% | ~335 |
 | Enlightenment | 16.00% | ~315 |
+| Dragon Master | 15.00% | ~295 |
 | Hero inspection | 15.00% | ~295 |
 | Lieutenant | 15.00% | ~295 |
-| Milestone collector | 14.00% | ~275 |
-| Mysterious Rock | 14.00% | ~275 |
-| Natural Talent | 14.00% | ~275 |
-| Superior | 14.00% | ~275 |
-| The Unstoppable | 14.00% | ~275 |
+| Milestone collector | 14.00% | ~276 |
+| Mysterious Rock | 14.00% | ~276 |
+| Natural Talent | 14.00% | ~276 |
+| Superior | 14.00% | ~276 |
+| The Unstoppable | 14.00% | ~276 |
 | Scientist | 12.00% | ~236 |
 | Challenger | 11.00% | ~216 |
 | Daily Quest Completionist | 11.00% | ~216 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 946)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,967 (Ranked 196)  
+Progressed: 1,968 (Ranked 196)  
 Completed: 2 (0.10%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 2 (0.10%) (Ranked 232)
 | 2023-09-21 | 1,957 | 2 |
 | 2023-09-22 | 1,958 | 2 |
 | 2023-09-23 | 1,967 | 2 |
+| 2023-09-24 | 1,968 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 22  (Ranked 505)  
 Sum: 44 (Ranked 465)  

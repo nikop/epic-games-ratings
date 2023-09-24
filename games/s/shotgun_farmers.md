@@ -10,7 +10,7 @@
 | Triple Kill | 60.00% | ~176 |
 | No Asperascope | 57.00% | ~168 |
 | Survivor | 56.00% | ~137 |
-| Cornivore | 52.00% | ~153 |
+| Cornivore | 53.00% | ~156 |
 | I Believe I Can Fly | 50.00% | ~147 |
 | No Diggity | 43.00% | ~105 |
 | Early Survivor | 41.00% | ~100 |
@@ -22,7 +22,7 @@
 | Drinking Problem | 22.00% | ~65 |
 | Professional Survivor | 22.00% | ~54 |
 | Grave Digger | 22.00% | ~54 |
-| Pork Chop Express | 18.00% | ~53 |
+| Pork Chop Express | 19.00% | ~56 |
 | Carrocketeer | 17.00% | ~50 |
 | Skin Of Your Teeth | 16.00% | ~47 |
 | Oh My Gourd | 16.00% | ~39 |

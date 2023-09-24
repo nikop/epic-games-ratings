@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3964,9 +3964,9 @@
       "Count": 288
     }
   ],
-  "EOS_Progressed": 244786,
+  "EOS_Progressed": 244787,
   "EOS_Completed": 834,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -20959,6 +20959,11 @@
       "Time": "2023-09-24T02:26:28.1024836+00:00",
       "NumProgressed": 244786,
       "NumCompleted": 834
+    },
+    {
+      "Time": "2023-09-24T03:08:35.6729712+00:00",
+      "NumProgressed": 244787,
+      "NumCompleted": 834
     }
   ],
   "TotalAchievements": 39,
@@ -20970,7 +20975,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61196
+      "UsersEstimate": 61197
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -21026,7 +21031,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63644
+      "UsersEstimate": 63645
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -21034,7 +21039,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222755
+      "UsersEstimate": 222756
     },
     {
       "ID": "AchievementClownID",
@@ -21066,7 +21071,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44061
+      "UsersEstimate": 44062
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -21082,7 +21087,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80779
+      "UsersEstimate": 80780
     },
     {
       "ID": "AchievementGoatID",
@@ -21106,7 +21111,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46509
+      "UsersEstimate": 46510
     },
     {
       "ID": "AchievementINirvanaID",
@@ -21138,7 +21143,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 139528
+      "UsersEstimate": 139529
     },
     {
       "ID": "AchievementLootBoxID",
@@ -21218,7 +21223,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 122393
+      "UsersEstimate": 122394
     },
     {
       "ID": "AchievementStreakingID",
@@ -21242,7 +21247,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134632
+      "UsersEstimate": 134633
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -21250,7 +21255,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 115049
+      "UsersEstimate": 115050
     },
     {
       "ID": "AchievementTrinketID",
@@ -21266,7 +21271,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 159111
+      "UsersEstimate": 159112
     },
     {
       "ID": "AchievementWhaleID",
@@ -21281,7 +21286,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 244786,
+      "Progressed": 244787,
       "Completed": 834
     }
   ],
@@ -21289,8 +21294,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-24T02:16:34.1896898+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:26:28.1024827+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:08:35.6729708+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.6843433+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:16:34.1896906+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:26:28.1027201+00:00"
+  "LastUpdate_Ratings": "2023-09-24T02:59:02.9769022+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:08:35.6730727+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.24 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,636 |
-| Don't I Know You...? | 77.00% | ~1,575 |
-| Jailbreak | 66.00% | ~1,350 |
+| Rigged And Ready | 80.00% | ~1,637 |
+| Don't I Know You...? | 76.00% | ~1,555 |
+| Jailbreak | 65.00% | ~1,330 |
 | HEADSHOT! | 38.00% | ~777 |
 | Suited and Booted | 38.00% | ~777 |
-| Sleeping With The Fishes | 36.00% | ~736 |
+| Sleeping With The Fishes | 36.00% | ~737 |
 | Overheated | 30.00% | ~614 |
 | High Performance | 30.00% | ~614 |
 | Powered Up | 28.00% | ~573 |
-| Studied The Blade | 25.00% | ~511 |
-| Home Invasion | 23.00% | ~470 |
+| Studied The Blade | 25.00% | ~512 |
+| Home Invasion | 23.00% | ~471 |
 | Luminary | 22.00% | ~450 |
 | It's a Trap | 22.00% | ~450 |
-| True Survivor | 21.00% | ~429 |
+| True Survivor | 21.00% | ~430 |
 | Offensive Defense | 20.00% | ~409 |
 | Shocking | 20.00% | ~409 |
 | Court Martial | 19.00% | ~389 |
@@ -32,10 +32,10 @@ Rating: 4.24 (Ranked 846)
 | Where It All Began | 13.00% | ~266 |
 | Risk Tolerant | 13.00% | ~266 |
 | What A Catchy Song | 13.00% | ~266 |
-| Corrupted Beauty | 12.00% | ~245 |
-| Marked For Success | 12.00% | ~245 |
-| Sorry, Didn't See You There | 12.00% | ~245 |
-| Triplets | 10.00% | ~204 |
+| Corrupted Beauty | 12.00% | ~246 |
+| Marked For Success | 12.00% | ~246 |
+| Sorry, Didn't See You There | 12.00% | ~246 |
+| Triplets | 10.00% | ~205 |
 | Denying Prophecy | 9.00% | ~184 |
 | Defense in Depth | 9.00% | ~184 |
 | Stimulating The Local Economy | 9.00% | ~184 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 846)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,045 (Ranked 194)  
-Completed: 12 (0.59%) (Ranked 153)  
+Progressed: 2,046 (Ranked 194)  
+Completed: 12 (0.59%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,6 +187,7 @@ Completed: 12 (0.59%) (Ranked 153)
 | 2023-09-21 | 2,028 | 12 |
 | 2023-09-22 | 2,039 | 12 |
 | 2023-09-23 | 2,045 | 12 |
+| 2023-09-24 | 2,046 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

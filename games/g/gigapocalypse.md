@@ -52,9 +52,9 @@
 | Feast Time | 6.00% | ~11 |
 | Cheesy Chess | 5.00% | ~9 |
 | A Phony Clown | 4.00% | ~7 |
+| Duck Knight | 4.00% | ~7 |
 | Octopy Mayhem | 4.00% | ~7 |
 | Got'em Totem | 4.00% | ~7 |
-| Duck Knight | 3.00% | ~6 |
 | Hearty Meteor | 1.00% | ~2 |
 | Destroy Everything | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)

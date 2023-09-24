@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 488,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 175,
@@ -514,7 +514,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3468,
+  "EOS_Progressed": 3469,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
@@ -4699,6 +4699,11 @@
       "Time": "2023-09-24T00:06:58.9447774+00:00",
       "NumProgressed": 3468,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-24T03:06:13.0182676+00:00",
+      "NumProgressed": 3469,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4718,7 +4723,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "AncestorsPride_13",
@@ -4750,7 +4755,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "CrowdPleaser",
@@ -4798,7 +4803,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -4854,7 +4859,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "MasterofAurai_20",
@@ -4894,7 +4899,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4934,7 +4939,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4972,9 +4977,9 @@
       "ID": "ThePowerofFamily_2",
       "SetID": "c4hee28",
       "Name": "The Power of Family",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 590
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -5030,7 +5035,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5045,15 +5050,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3468,
+      "Progressed": 3469,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-24T02:23:55.5999039+00:00",
+  "LastChanged_Achievements": "2023-09-24T03:06:13.0182672+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:18:53.6090574+00:00",
-  "LastUpdate_Achievements": "2023-09-24T02:23:55.5999648+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:01:16.0543158+00:00",
+  "LastUpdate_Achievements": "2023-09-24T03:06:13.0183128+00:00"
 }
