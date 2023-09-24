@@ -317,7 +317,7 @@
 | 315 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.64 | 0 | 525 |
 | 315 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.64 | 0 | 525 |
 | 315 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 525 |
-| 315 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,973 | 60 |
+| 315 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,976 | 60 |
 | 315 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 118 | 326 |
 | 315 | [DOOM II](games/d/doom_ii.md) | 4.64 | 27 | 478 |
 | 315 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 525 |
@@ -435,7 +435,7 @@
 | 418 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 714 | 169 |
 | 418 | [Void Bastards](games/v/void_bastards.md) | 4.59 | 22 | 505 |
 | 418 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 220 | 267 |
-| 436 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,361 | 11 |
+| 436 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,405 | 11 |
 | 436 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 166 | 295 |
 | 436 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 525 |
 | 436 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 253 |
@@ -515,7 +515,7 @@
 | 507 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 381 |
 | 507 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 505 |
 | 507 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 525 |
-| 507 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 942 | 152 |
+| 507 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 944 | 152 |
 | 507 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 456 |
 | 507 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 96 | 349 |
 | 507 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 525 |
@@ -917,13 +917,13 @@
 | 912 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 525 |
 | 916 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 525 |
 | 917 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 525 |
+| 918 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 89 | 358 |
 | 918 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,515 | 101 |
-| 919 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 89 | 358 |
-| 919 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 525 |
-| 919 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 525 |
-| 919 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 525 |
-| 919 | [Obduction](games/o/obduction.md) | 4.09 | 53 | 401 |
-| 919 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 525 |
+| 920 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 525 |
+| 920 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 525 |
+| 920 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 525 |
+| 920 | [Obduction](games/o/obduction.md) | 4.09 | 53 | 401 |
+| 920 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 525 |
 | 925 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 525 |
 | 925 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 525 |
 | 925 | [Banished](games/b/banished.md) | 4.08 | 0 | 525 |
@@ -980,16 +980,16 @@
 | 978 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 525 |
 | 978 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 525 |
 | 980 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.81 | 0 | 525 |
-| 980 | [Poker Club](games/p/poker_club.md) | 3.81 | 43 | 425 |
+| 981 | [Poker Club](games/p/poker_club.md) | 3.80 | 43 | 425 |
 | 982 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,067 | 141 |
 | 982 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 525 |
 | 982 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.79 | 80 | 367 |
 | 985 | [Blood of Steel](games/b/blood_of_steel.md) | 3.78 | 0 | 525 |
-| 986 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.77 | 0 | 525 |
-| 986 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.77 | 0 | 525 |
-| 986 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 525 |
-| 986 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 525 |
-| 990 | [Spelldrifter](games/s/spelldrifter.md) | 3.74 | 0 | 525 |
+| 985 | [Spelldrifter](games/s/spelldrifter.md) | 3.78 | 0 | 525 |
+| 987 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.77 | 0 | 525 |
+| 987 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.77 | 0 | 525 |
+| 987 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 525 |
+| 987 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 525 |
 | 991 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 525 |
 | 992 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 525 |
 | 993 | [Adios](games/a/adios.md) | 3.55 | 0 | 525 |

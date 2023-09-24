@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 117,222 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 80,565 | 4.62 | 351 |
 | 10 | [VALORANT](games/v/valorant.md) | 71,829 | 4.53 | 523 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 61,361 | 4.58 | 436 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 61,405 | 4.58 | 436 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 45,259 | 4.61 | 372 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 38,314 | 4.74 | 146 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 37,719 | 4.49 | 586 |
@@ -59,7 +59,7 @@
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,175 | 4.54 | 507 |
 | 58 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,025 | 4.75 | 138 |
 | 59 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,013 | 4.79 | 92 |
-| 60 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,973 | 4.64 | 315 |
+| 60 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,976 | 4.64 | 315 |
 | 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,889 | 4.66 | 282 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,847 | 4.82 | 64 |
 | 63 | [Prey](games/p/prey.md) | 5,702 | 4.62 | 351 |
@@ -151,7 +151,7 @@
 | 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 962 | 4.76 | 117 |
 | 150 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 954 | 4.79 | 92 |
 | 151 | [Sonic Mania](games/s/sonic_mania.md) | 945 | 4.78 | 102 |
-| 152 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 942 | 4.54 | 507 |
+| 152 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 944 | 4.54 | 507 |
 | 153 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 881 | 4.44 | 653 |
 | 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 857 | 4.56 | 471 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 850 | 4.45 | 643 |
@@ -357,7 +357,7 @@
 | 354 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 92 | 4.83 | 57 |
 | 356 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 570 |
 | 357 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 90 | 4.67 | 260 |
-| 358 | [Armored Warfare](games/a/armored_warfare.md) | 89 | 4.09 | 919 |
+| 358 | [Armored Warfare](games/a/armored_warfare.md) | 89 | 4.10 | 918 |
 | 359 | [RAILGRADE](games/r/railgrade.md) | 88 | 4.55 | 488 |
 | 360 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 86 | 4.60 | 399 |
 | 361 | [Solitairica](games/s/solitairica.md) | 84 | 4.50 | 570 |
@@ -400,7 +400,7 @@
 | 398 | [Ranch Simulator](games/r/ranch_simulator.md) | 54 | 4.46 | 631 |
 | 398 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 54 | 4.65 | 302 |
 | 398 | [Session: Skate Sim](games/s/session__skate_sim.md) | 54 | 4.69 | 220 |
-| 401 | [Obduction](games/o/obduction.md) | 53 | 4.09 | 919 |
+| 401 | [Obduction](games/o/obduction.md) | 53 | 4.09 | 920 |
 | 401 | [The Escapists 2](games/t/the_escapists_2.md) | 53 | 4.58 | 436 |
 | 403 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 52 | 4.70 | 204 |
 | 403 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 52 | 4.66 | 282 |
@@ -425,7 +425,7 @@
 | 420 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 45 | 4.30 | 804 |
 | 420 | [STG Football](games/s/stg_football.md) | 45 | 4.43 | 670 |
 | 425 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 43 | 4.52 | 535 |
-| 425 | [Poker Club](games/p/poker_club.md) | 43 | 3.81 | 980 |
+| 425 | [Poker Club](games/p/poker_club.md) | 43 | 3.80 | 981 |
 | 427 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 42 | 4.65 | 302 |
 | 427 | [Transport Fever 2](games/t/transport_fever_2.md) | 42 | 4.69 | 220 |
 | 429 | [Coromon](games/c/coromon.md) | 41 | 4.66 | 282 |
