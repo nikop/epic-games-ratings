@@ -122,7 +122,7 @@
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,417 | 23 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 525 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,338 | 92 |
-| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 962 | 149 |
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 966 | 149 |
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 768 | 161 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 22,986 | 17 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,589 | 73 |
@@ -149,7 +149,7 @@
 | 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 525 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 815 | 157 |
 | 147 | [Haven](games/h/haven.md) | 4.74 | 0 | 525 |
-| 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 12,972 | 29 |
+| 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,106 | 28 |
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 697 | 172 |
 | 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 525 |
 | 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,128 | 51 |
@@ -466,7 +466,7 @@
 | 450 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 525 |
 | 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,962 | 81 |
 | 450 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 465 |
-| 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,595 | 20 |
+| 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,622 | 20 |
 | 450 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,778 | 116 |
 | 450 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 525 |
 | 450 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 67 | 387 |
@@ -672,7 +672,7 @@
 | 670 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 525 |
 | 670 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 41 | 429 |
 | 670 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 525 |
-| 670 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,038 | 28 |
+| 670 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,038 | 29 |
 | 670 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,210 | 135 |
 | 670 | [Predecessor](games/p/predecessor.md) | 4.43 | 174 | 288 |
 | 670 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 525 |
@@ -711,7 +711,7 @@
 | 692 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 377 |
 | 692 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,206 | 107 |
 | 692 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 525 |
-| 692 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,360 | 131 |
+| 692 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,362 | 131 |
 | 713 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,034 | 142 |
 | 713 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 525 |
 | 713 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 525 |
@@ -866,16 +866,16 @@
 | 863 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 525 |
 | 863 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 462 |
 | 863 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 525 |
+| 863 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 3,861 | 83 |
 | 863 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.21 | 161 | 298 |
 | 863 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 525 |
 | 863 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 371 |
-| 870 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 125 | 318 |
-| 870 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 525 |
-| 870 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 525 |
-| 870 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 506 |
-| 870 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 525 |
-| 870 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 3,861 | 83 |
-| 870 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 525 |
+| 871 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 125 | 318 |
+| 871 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 525 |
+| 871 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 525 |
+| 871 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 506 |
+| 871 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 525 |
+| 871 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 525 |
 | 877 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 408 |
 | 877 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.19 | 0 | 525 |
 | 877 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 460 |
