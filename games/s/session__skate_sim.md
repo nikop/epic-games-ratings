@@ -6,18 +6,18 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,756 |
-| Keeping it classy | 27.00% | ~790 |
-| Welcome to the family | 21.00% | ~614 |
+| You're free now! | 60.00% | ~1,757 |
+| Keeping it classy | 27.00% | ~791 |
+| Welcome to the family | 21.00% | ~615 |
 | The finer things in life | 19.00% | ~556 |
 | Backpacker | 14.00% | ~410 |
-| Go with the Flow | 13.00% | ~380 |
+| Go with the Flow | 13.00% | ~381 |
 | Plastic Surgeon | 10.00% | ~293 |
 | The flip trick crown jewel | 10.00% | ~293 |
 | The hard way | 10.00% | ~293 |
-| Good vibes | 9.00% | ~263 |
-| Keep the dream alive | 9.00% | ~263 |
-| Upfront shredder | 9.00% | ~263 |
+| Good vibes | 9.00% | ~264 |
+| Keep the dream alive | 9.00% | ~264 |
+| Upfront shredder | 9.00% | ~264 |
 | Fashionista | 7.00% | ~205 |
 | Finally he zips it | 7.00% | ~205 |
 | That pinch! | 7.00% | ~205 |
@@ -34,12 +34,12 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~146 |
 | Laid back | 5.00% | ~146 |
 | Lines for days | 5.00% | ~146 |
+| Renaissance man | 5.00% | ~146 |
 | Trick shot marksman | 5.00% | ~146 |
 | Cops called! | 4.00% | ~117 |
 | G.O.A.T. status | 4.00% | ~117 |
 | Manny Destroys All | 4.00% | ~117 |
 | Prince of Philly | 4.00% | ~117 |
-| Renaissance man | 4.00% | ~117 |
 | Tank commander | 4.00% | ~117 |
 | We get it, you're good | 4.00% | ~117 |
 | Hoarder | 3.00% | ~88 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,926 (Ranked 184)  
+Progressed: 2,928 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 2,892 | 0 |
 | 2023-09-22 | 2,904 | 0 |
 | 2023-09-23 | 2,922 | 0 |
-| 2023-09-24 | 2,926 | 0 |
+| 2023-09-24 | 2,928 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 398)  
 Sum: 471 (Ranked 310)  

@@ -2,7 +2,7 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 372,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 213,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1432,
+  "EOS_Progressed": 1433,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2800,6 +2800,11 @@
       "Time": "2023-09-24T15:05:14.2026516+00:00",
       "NumProgressed": 1432,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T16:05:57.50642+00:00",
+      "NumProgressed": 1433,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2923,7 +2928,7 @@
       "Name": "Grenadier",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Hard_Serpent",
@@ -2939,7 +2944,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "High_noon",
@@ -3027,7 +3032,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "We_were_not_here",
@@ -3043,22 +3048,22 @@
       "Name": "Your Answer",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1432,
+      "Progressed": 1433,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:05:14.2026507+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:05:57.506419+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:57:55.3864292+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:05:14.2026905+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:58:21.244337+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:05:57.5064575+00:00"
 }

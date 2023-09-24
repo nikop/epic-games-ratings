@@ -1,13 +1,13 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 400)  
+Rating: 4.60 (Ranked 399)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 29.00% | ~258 |
+| The Mysterious Stranger | 24.00% | ~214 |
 | Rail Rat | 24.00% | ~214 |
-| The Mysterious Stranger | 23.00% | ~205 |
 | Immaculate Aim | 21.00% | ~187 |
 | Make Up For Lost Time | 20.00% | ~178 |
 | Time Flies | 20.00% | ~178 |
@@ -25,11 +25,11 @@ Rating: 4.60 (Ranked 400)
 | The Betrayer | 18.00% | ~160 |
 | Golem Chaser | 18.00% | ~160 |
 | Right On Time | 17.00% | ~151 |
+| The Man Who Shattered Time | 17.00% | ~151 |
 | The Loose Cannon | 17.00% | ~151 |
 | Check Your Pulse | 17.00% | ~151 |
 | The Family Fortune | 17.00% | ~151 |
-| The Man Who Shattered Time | 16.00% | ~142 |
-| Street Style | 15.00% | ~134 |
+| Street Style | 16.00% | ~142 |
 | Treasure Trove | 14.00% | ~125 |
 | Cartographer | 14.00% | ~125 |
 | Whiz Kid | 13.00% | ~116 |

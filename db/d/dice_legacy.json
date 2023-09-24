@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1759,6 +1759,11 @@
       "Time": "2023-09-23T20:06:38.9154892+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T16:07:39.8258615+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1794,7 +1799,7 @@
       "Name": "Six Faces",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHALLENGE_GREATWINTER",
@@ -1826,7 +1831,7 @@
       "Name": "Charismatic Leader",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -1834,7 +1839,7 @@
       "Name": "Metropolis",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
@@ -1890,7 +1895,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2129,7 +2134,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1084,
       "Completed": 0
     }
   ],
@@ -2137,8 +2142,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:06:52.1728886+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:07:39.8258606+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.2364181+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:00:47.7998376+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:06:52.1729361+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:01:26.3841132+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:07:39.8259183+00:00"
 }

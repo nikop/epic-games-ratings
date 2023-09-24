@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3269,
+  "EOS_Progressed": 3270,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 5.93,
   "EosHistory": [
@@ -5030,6 +5030,11 @@
       "Time": "2023-09-24T15:06:28.1298207+00:00",
       "NumProgressed": 3269,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-09-24T16:07:14.563845+00:00",
+      "NumProgressed": 3270,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 24,
@@ -5041,7 +5046,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "10",
@@ -5129,7 +5134,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "20",
@@ -5183,9 +5188,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1079
     },
     {
       "ID": "5",
@@ -5193,7 +5198,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "6",
@@ -5209,7 +5214,7 @@
       "Name": "MASTER",
       "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "8",
@@ -5232,13 +5237,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3269,
+      "Progressed": 3270,
       "Completed": 194
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:06:28.1298187+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:07:14.5638442+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:57:29.3506776+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:06:28.1298693+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:57:53.8410745+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:07:14.5639035+00:00"
 }

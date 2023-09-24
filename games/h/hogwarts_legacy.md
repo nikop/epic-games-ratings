@@ -5,12 +5,12 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,613 |
-| First Class Student | 13.00% | ~38,641 |
-| Troll with the Punches | 13.00% | ~38,641 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,614 |
+| First Class Student | 13.00% | ~38,642 |
+| Troll with the Punches | 13.00% | ~38,642 |
 | A Keen Sense of Spell | 12.00% | ~35,669 |
-| A Talent for Spending | 11.00% | ~32,696 |
-| That's a Keeper | 11.00% | ~32,696 |
+| A Talent for Spending | 11.00% | ~32,697 |
+| That's a Keeper | 11.00% | ~32,697 |
 | Grappling with a Graphorn | 10.00% | ~29,724 |
 | The One Who Mastered Memories | 10.00% | ~29,724 |
 | The Hallowed Hero | 10.00% | ~29,724 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 117)
 | The Avenging Gazelle | 7.00% | ~20,807 |
 | Beast Friends | 7.00% | ~20,807 |
 | Flight the Good Flight | 7.00% | ~20,807 |
-| The Seeker of Knowledge | 6.00% | ~17,834 |
-| The Root of the Problem | 6.00% | ~17,834 |
-| Third Time's a Charm | 6.00% | ~17,834 |
-| Raising Expectations | 6.00% | ~17,834 |
+| The Seeker of Knowledge | 6.00% | ~17,835 |
+| The Root of the Problem | 6.00% | ~17,835 |
+| Third Time's a Charm | 6.00% | ~17,835 |
+| Raising Expectations | 6.00% | ~17,835 |
 | The Ends Petrify the Means | 5.00% | ~14,862 |
 | The Toast of the Town | 4.00% | ~11,890 |
 | Going Through the Potions | 4.00% | ~11,890 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,239 (Ranked 44)  
+Progressed: 297,243 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,16 +208,16 @@ Completed: 476 (0.16%) (Ranked 215)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,239 | 476 |
+| 2023-09-24 | 297,243 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
-Sum: 44,164 (Ranked 30)  
+Sum: 44,169 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 22,986 |
 | This game has Great Boss Battles | 11,339 |
-| This game is Great for Beginners | 1,096 |
+| This game is Great for Beginners | 1,101 |
 | This game has Amazing Storytelling | 1,061 |
 | This game has Diverse Characters | 1,053 |
 | This game is Relaxing | 1,050 |
@@ -414,4 +414,4 @@ Diff (max vs sum): -13
 | 2023-09-21 | 4.77 | 22,886 | 43,899 |
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
-| 2023-09-24 | 4.76 | 22,986 | 44,164 |
+| 2023-09-24 | 4.76 | 22,986 | 44,169 |

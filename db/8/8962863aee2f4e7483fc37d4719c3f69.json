@@ -2,7 +2,7 @@
   "ID": "8962863aee2f4e7483fc37d4719c3f69",
   "Name": "PAYDAY 3",
   "ProductSlug": "payday-3",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 973,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 635,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.81,
+  "Rating": 3.88,
   "RatingHistory": [
     {
       "Time": "2023-09-22T23:59:41.345092+00:00",
@@ -32,6 +32,12 @@
     {
       "Time": "2023-09-23T23:00:19.8960549+00:00",
       "Rating": 3.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-24T16:00:50.953678+00:00",
+      "Rating": 3.88,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -52,8 +58,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2023-09-23T23:00:19.8960547+00:00",
+  "LastChanged": "2023-09-24T16:00:50.9536777+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.9823418+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:00:13.6656168+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:06:22.2766474+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:00:50.9536786+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:07:07.9834108+00:00"
 }

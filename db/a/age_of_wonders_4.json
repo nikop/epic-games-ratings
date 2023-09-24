@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,7 +336,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5189,
+  "EOS_Progressed": 5190,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -6191,6 +6191,11 @@
       "Time": "2023-09-23T16:04:52.0349556+00:00",
       "NumProgressed": 5189,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T16:06:38.3951006+00:00",
+      "NumProgressed": 5190,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6218,7 +6223,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "12",
@@ -6242,7 +6247,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "15",
@@ -6402,7 +6407,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "33",
@@ -6418,7 +6423,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "35",
@@ -6458,7 +6463,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "4",
@@ -6554,7 +6559,7 @@
       "Name": "Here be Dragons",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "46",
@@ -6578,7 +6583,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "49",
@@ -6586,7 +6591,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "50",
@@ -6601,13 +6606,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5189,
+      "Progressed": 5190,
       "Completed": 4763
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5189,
+      "Progressed": 5190,
       "Completed": 6
     }
   ],
@@ -6615,8 +6620,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:05:53.6097537+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:06:38.3950997+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:14.6179541+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:57:46.1461277+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:05:53.6098384+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:58:10.3204031+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:06:38.3952003+00:00"
 }

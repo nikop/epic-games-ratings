@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 372,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 66,
@@ -5484,9 +5484,9 @@
       "Count": 414
     }
   ],
-  "EOS_Progressed": 177754,
+  "EOS_Progressed": 177772,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2182,
+  "EOS_NewPlayers": 2181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23089,6 +23089,11 @@
       "Time": "2023-09-24T15:07:12.7700938+00:00",
       "NumProgressed": 177754,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-24T16:08:01.1936867+00:00",
+      "NumProgressed": 177772,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23132,7 +23137,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28441
+      "UsersEstimate": 28444
     },
     {
       "ID": "Achievement_13",
@@ -23180,7 +23185,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44438
+      "UsersEstimate": 44443
     },
     {
       "ID": "Achievement_5",
@@ -23212,7 +23217,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 15998
+      "UsersEstimate": 15999
     },
     {
       "ID": "Achievement_9",
@@ -23220,22 +23225,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 177754,
+      "Progressed": 177772,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-24T15:01:28.0337375+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:07:12.7700931+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:08:01.1936857+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.9520016+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:01:28.0337386+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:07:12.7702146+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:02:20.2795982+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:08:01.1938351+00:00"
 }

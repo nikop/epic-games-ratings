@@ -5,38 +5,38 @@ Rating: 4.24 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,640 |
-| Don't I Know You...? | 76.00% | ~1,558 |
-| Jailbreak | 65.00% | ~1,332 |
+| Rigged And Ready | 80.00% | ~1,641 |
+| Don't I Know You...? | 76.00% | ~1,559 |
+| Jailbreak | 65.00% | ~1,333 |
 | HEADSHOT! | 38.00% | ~779 |
 | Suited and Booted | 38.00% | ~779 |
 | Sleeping With The Fishes | 36.00% | ~738 |
 | Overheated | 30.00% | ~615 |
 | High Performance | 30.00% | ~615 |
 | Powered Up | 28.00% | ~574 |
-| Studied The Blade | 25.00% | ~512 |
+| Studied The Blade | 25.00% | ~513 |
 | Home Invasion | 23.00% | ~472 |
 | Luminary | 22.00% | ~451 |
 | It's a Trap | 22.00% | ~451 |
-| True Survivor | 21.00% | ~430 |
+| True Survivor | 21.00% | ~431 |
 | Offensive Defense | 20.00% | ~410 |
 | Shocking | 20.00% | ~410 |
 | Court Martial | 19.00% | ~390 |
 | Clean Cut | 19.00% | ~390 |
 | Unforeseeable Consequences | 19.00% | ~390 |
 | Dead Again | 18.00% | ~369 |
-| Full Arsenal | 17.00% | ~348 |
+| Full Arsenal | 17.00% | ~349 |
 | Can't Trust Banks | 15.00% | ~308 |
 | Mommy Dearest | 14.00% | ~287 |
-| Bad Dog | 13.00% | ~266 |
-| Where It All Began | 13.00% | ~266 |
-| Risk Tolerant | 13.00% | ~266 |
-| What A Catchy Song | 13.00% | ~266 |
+| Bad Dog | 13.00% | ~267 |
+| Where It All Began | 13.00% | ~267 |
+| Risk Tolerant | 13.00% | ~267 |
+| What A Catchy Song | 13.00% | ~267 |
 | Corrupted Beauty | 12.00% | ~246 |
 | Marked For Success | 12.00% | ~246 |
 | Sorry, Didn't See You There | 12.00% | ~246 |
 | Triplets | 10.00% | ~205 |
-| Stimulating The Local Economy | 9.00% | ~184 |
+| Stimulating The Local Economy | 9.00% | ~185 |
 | A Little Banged Up | 8.00% | ~164 |
 | Denying Prophecy | 8.00% | ~164 |
 | Following In Their Footsteps | 8.00% | ~164 |
@@ -47,8 +47,8 @@ Rating: 4.24 (Ranked 846)
 | Turbo Booster | 6.00% | ~123 |
 | Juiced Up | 6.00% | ~123 |
 | Squid Pro Quo | 6.00% | ~123 |
-| Counter-Sniper | 5.00% | ~102 |
-| Shrimp Cocktail | 5.00% | ~102 |
+| Counter-Sniper | 5.00% | ~103 |
+| Shrimp Cocktail | 5.00% | ~103 |
 | Hello Darkness My Old Friend | 4.00% | ~82 |
 | Geronimo! | 4.00% | ~82 |
 | Homewrecker | 4.00% | ~82 |
@@ -61,9 +61,9 @@ Rating: 4.24 (Ranked 846)
 | Going Postal | 2.00% | ~41 |
 | The Easy Way Out | 2.00% | ~41 |
 | Loot, Pillage & Craft | 2.00% | ~41 |
-| Swiss Army Drone | 1.00% | ~20 |
+| Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,050 (Ranked 195)  
+Progressed: 2,051 (Ranked 195)  
 Completed: 12 (0.59%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 12 (0.59%) (Ranked 153)
 | 2023-09-21 | 2,028 | 12 |
 | 2023-09-22 | 2,039 | 12 |
 | 2023-09-23 | 2,045 | 12 |
-| 2023-09-24 | 2,050 | 12 |
+| 2023-09-24 | 2,051 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

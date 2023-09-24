@@ -990,9 +990,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226434,
+  "EOS_Progressed": 226447,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1658,
+  "EOS_NewPlayers": 1651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12125,6 +12125,11 @@
       "Time": "2023-09-24T15:03:46.7756043+00:00",
       "NumProgressed": 226434,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-24T16:04:36.2516575+00:00",
+      "NumProgressed": 226447,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12184,7 +12189,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9057
+      "UsersEstimate": 9058
     },
     {
       "ID": "Chapter2",
@@ -12584,7 +12589,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70195
+      "UsersEstimate": 70199
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12752,7 +12757,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "RangerEpic",
@@ -12839,21 +12844,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226434,
+      "Progressed": 226447,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226434,
+      "Progressed": 226447,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-22T23:00:48.1679541+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:03:46.7756037+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:04:36.2516569+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:01:54.4769981+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:03:46.7758008+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:02:51.7187463+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:04:36.2518849+00:00"
 }

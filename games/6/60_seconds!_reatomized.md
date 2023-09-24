@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 351)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,208 (Ranked 160)  
+Progressed: 5,208 (Ranked 161)  
 Completed: 1 (0.02%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -14,13 +14,13 @@
 | Challenge Mastered | 12.00% | ~91 |
 | Terminated III | 12.00% | ~91 |
 | Nanonic II | 10.00% | ~76 |
-| Starship Docks | 8.00% | ~60 |
-| Supply Run | 8.00% | ~60 |
+| Starship Docks | 8.00% | ~61 |
+| Supply Run | 8.00% | ~61 |
 | Nanonic III | 7.00% | ~53 |
+| Rookie | 7.00% | ~53 |
 | The Bigger They Are | 6.00% | ~45 |
 | Cybernetic | 6.00% | ~45 |
 | Fully Modded | 6.00% | ~45 |
-| Rookie | 6.00% | ~45 |
 | Up Close And Personal | 5.00% | ~38 |
 | Eden Heights | 4.00% | ~30 |
 | Outer Core | 4.00% | ~30 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756 (Ranked 239)  
+Progressed: 757 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-18 | 751 | 0 |
 | 2023-09-19 | 755 | 0 |
 | 2023-09-23 | 756 | 0 |
+| 2023-09-24 | 757 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

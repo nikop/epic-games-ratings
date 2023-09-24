@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -36,9 +36,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -596,6 +596,11 @@
       "Time": "2023-09-21T10:06:55.7950772+00:00",
       "NumProgressed": 161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T16:04:32.2441925+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -615,7 +620,7 @@
       "Name": "1 is all I need",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -631,7 +636,7 @@
       "Name": "Bullseye!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -647,13 +652,13 @@
       "Name": "Kill-streak",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 143
     },
@@ -663,7 +668,7 @@
       "Name": "Level Up!!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -685,9 +690,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -695,7 +700,7 @@
       "Name": "The Idol",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -703,7 +708,7 @@
       "Name": "The Blacksmith",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CLG_UNLOCK_10005",
@@ -711,7 +716,7 @@
       "Name": "The Bomber",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CLG_UNLOCK_10006",
@@ -781,9 +786,9 @@
       "ID": "PRG_ACCUM_GOLD",
       "SetID": "89cjc9l",
       "Name": "I\u0027m Rich",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "PRG_BOSS_BIRD",
@@ -799,7 +804,7 @@
       "Name": "The Flower",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -807,15 +812,15 @@
       "Name": "The Giant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -831,7 +836,7 @@
       "Name": "The Ninja",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -855,7 +860,7 @@
       "Name": "The Slime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "PRG_BOSS_THROWER",
@@ -863,7 +868,7 @@
       "Name": "The Thrower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -879,7 +884,7 @@
       "Name": "Villfir Forest",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -887,7 +892,7 @@
       "Name": "Duscot Steamcity",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1079,7 +1084,7 @@
       "Name": "Out of the Frying Pan...",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -1093,9 +1098,9 @@
       "ID": "PRG_NORMAL_10001",
       "SetID": "89cjc9l",
       "Name": "Ember",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1183,14 +1188,14 @@
       "Name": "Graduation!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 1
     }
   ],
@@ -1198,8 +1203,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:03:43.0701299+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:04:32.2441918+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:04.2719699+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:58:56.2515781+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:03:43.0702119+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:59:25.282141+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:04:32.2443193+00:00"
 }

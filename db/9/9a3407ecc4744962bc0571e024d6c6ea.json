@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1349,9 +1349,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 392
     },
     {
       "ID": "BoxingClever",
@@ -1453,9 +1453,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 506
     },
     {
       "ID": "SkeletonCrew",
@@ -1508,8 +1508,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:05:15.7019308+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:05:58.9636836+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.6025884+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:58:10.1503867+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:05:15.7019555+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:58:36.6614249+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:05:58.9637099+00:00"
 }

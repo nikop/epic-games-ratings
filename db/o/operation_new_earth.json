@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1404,
+  "EOS_Progressed": 1405,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -5106,6 +5106,11 @@
       "Time": "2023-09-24T14:06:19.6325545+00:00",
       "NumProgressed": 1404,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T16:08:12.359369+00:00",
+      "NumProgressed": 1405,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5237,7 +5242,7 @@
       "Name": "Sergeant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -5301,7 +5306,7 @@
       "Name": "Covert Operative",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -5371,9 +5376,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 337
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5420,14 +5425,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1404,
+      "Progressed": 1405,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:07:23.5581392+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:08:12.3593684+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:59:31.5464559+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:07:23.5582018+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:00:02.839861+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:08:12.3594322+00:00"
 }

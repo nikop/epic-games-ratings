@@ -964,9 +964,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2926,
+  "EOS_Progressed": 2928,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4889,6 +4889,11 @@
       "Time": "2023-09-24T07:03:30.7337177+00:00",
       "NumProgressed": 2926,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T16:04:06.4908297+00:00",
+      "NumProgressed": 2928,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5004,7 +5009,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -5028,7 +5033,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_HOARDER",
@@ -5044,7 +5049,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -5052,7 +5057,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5138,9 +5143,9 @@
       "ID": "ACH_RENAISSANCE-MAN",
       "SetID": "72olkc5",
       "Name": "Renaissance man",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -5252,7 +5257,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -5268,7 +5273,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5276,22 +5281,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2926,
+      "Progressed": 2928,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-23T04:00:36.1345295+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:03:18.9240241+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:04:06.490829+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:57:28.2140337+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:03:18.9243171+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:57:52.5217991+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:04:06.4909054+00:00"
 }

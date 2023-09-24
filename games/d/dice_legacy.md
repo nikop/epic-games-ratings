@@ -7,7 +7,7 @@ Rating: 4.27 (Ranked 823)
 | ---- | ---------- | ----- |
 | We made it | 38.00% | ~412 |
 | The City | 10.00% | ~108 |
-| Manipulating Fate | 9.00% | ~97 |
+| Manipulating Fate | 9.00% | ~98 |
 | Full house | 6.00% | ~65 |
 | Burn and Pillage | 6.00% | ~65 |
 | Hear me out | 6.00% | ~65 |
@@ -28,9 +28,9 @@ Rating: 4.27 (Ranked 823)
 | The Council | 1.00% | ~11 |
 | The Mad | 1.00% | ~11 |
 | Like the dream | 0.70% | ~8 |
-| Six Faces | 0.60% | ~6 |
-| Charismatic Leader | 0.60% | ~6 |
-| Metropolis | 0.60% | ~6 |
+| Six Faces | 0.60% | ~7 |
+| Charismatic Leader | 0.60% | ~7 |
+| Metropolis | 0.60% | ~7 |
 | The Great Winter | 0.50% | ~5 |
 | Red Tape | 0.50% | ~5 |
 | Knowledge is Power | 0.50% | ~5 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 823)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083 (Ranked 227)  
+Progressed: 1,084 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 1,072 | 0 |
 | 2023-09-22 | 1,079 | 0 |
 | 2023-09-23 | 1,083 | 0 |
+| 2023-09-24 | 1,084 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

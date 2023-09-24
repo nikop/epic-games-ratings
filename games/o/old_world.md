@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 1.00% | ~141 |
 | Via Recta Souk | 1.00% | ~141 |
 | Learn to Play 3 | 1.00% | ~141 |
+| Carthage | 1.00% | ~141 |
 | Power to the People | 1.00% | ~141 |
 | Assyrian Paganism | 1.00% | ~141 |
 | Building Wonders | 1.00% | ~141 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.90% | ~127 |
 | Hunters | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
-| Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
 | Turreted Elephant | 0.90% | ~127 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,102 (Ranked 128)  
+Progressed: 14,104 (Ranked 128)  
 Completed: 5 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,7 +460,7 @@ Completed: 5 (0.04%) (Ranked 256)
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
-| 2023-09-24 | 14,102 | 5 |
+| 2023-09-24 | 14,104 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 265)  
 Sum: 1,817 (Ranked 207)  

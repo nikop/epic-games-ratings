@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2346,9 +2346,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     },
     {
       "ID": "CultivairChests1",
@@ -2394,9 +2394,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 214
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2410,9 +2410,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 151
     },
     {
       "ID": "GadgetCompletion1",
@@ -2707,8 +2707,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:05:16.6608492+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:06:00.0585918+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:58:02.0438737+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:05:16.6609118+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:58:27.9647101+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:06:00.0586657+00:00"
 }

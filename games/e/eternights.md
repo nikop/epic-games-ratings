@@ -10,10 +10,10 @@
 | Novice Scavenger | 63.00% | ~136 |
 | Master Craftsman | 51.00% | ~110 |
 | First wall | 50.00% | ~108 |
-| Piggyback Expert | 48.00% | ~104 |
+| Piggyback Expert | 49.00% | ~106 |
 | Second wall | 34.00% | ~73 |
 | Expert Scavenger | 30.00% | ~65 |
-| Their Rock | 26.00% | ~56 |
+| Their Rock | 27.00% | ~58 |
 | Yuna's Promise | 25.00% | ~54 |
 | Stone Retriever | 25.00% | ~54 |
 | Find myself | 23.00% | ~50 |
@@ -27,8 +27,8 @@
 | Flawless | 5.00% | ~11 |
 | LOVEassistant | 4.00% | ~9 |
 | Dreamboat | 2.00% | ~4 |
+| True Player | 0.90% | ~2 |
 | Bond Lord | 0.50% | ~1 |
-| True Player | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 216 (Ranked 326)  
 Completed: 2 (0.93%) (Ranked 134)  

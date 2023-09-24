@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2050,
+  "EOS_Progressed": 2051,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2551,6 +2551,11 @@
       "Time": "2023-09-24T14:08:22.0945788+00:00",
       "NumProgressed": 2050,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-24T16:10:01.7111737+00:00",
+      "NumProgressed": 2051,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2570,7 +2575,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "ACHV_03",
@@ -2594,7 +2599,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACHV_06",
@@ -2626,7 +2631,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHV_10",
@@ -2698,7 +2703,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACHV_19",
@@ -2722,7 +2727,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHV_22",
@@ -2754,7 +2759,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_26",
@@ -2762,7 +2767,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACHV_27",
@@ -2802,7 +2807,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHV_32",
@@ -2818,7 +2823,7 @@
       "Name": "Swiss Army Drone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHV_34",
@@ -2858,7 +2863,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHV_39",
@@ -2866,7 +2871,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "ACHV_40",
@@ -2898,7 +2903,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHV_44",
@@ -2906,7 +2911,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHV_45",
@@ -2954,7 +2959,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHV_51",
@@ -3017,7 +3022,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2050,
+      "Progressed": 2051,
       "Completed": 12
     }
   ],
@@ -3025,8 +3030,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:09:07.2096784+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:10:01.711173+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.9693567+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:59:19.2402985+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:09:07.2097481+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:59:49.726831+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:10:01.7112619+00:00"
 }

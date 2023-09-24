@@ -5,23 +5,23 @@ Rating: 4.81 (Ranked 78)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,529 |
-| A Thorny Situation | 70.00% | ~3,384 |
-| ... And Spit Back Out | 59.00% | ~2,852 |
-| Break-Net Speed | 47.00% | ~2,272 |
-| Bramble Breaker | 43.00% | ~2,079 |
-| Miner 49er | 41.00% | ~1,982 |
-| Humble Collector | 39.00% | ~1,885 |
-| Calm Sailing | 32.00% | ~1,547 |
-| Open the Gate! | 29.00% | ~1,402 |
-| Mist Walker | 27.00% | ~1,305 |
-| Lumberjack | 23.00% | ~1,112 |
-| Oui, Chef! | 21.00% | ~1,015 |
-| Clear the Air | 14.00% | ~677 |
-| Botanical Breakthrough | 13.00% | ~628 |
-| Beach Comber | 11.00% | ~532 |
-| Higher Tax Bracket | 9.00% | ~435 |
-| Search for the Hairy Grell | 8.00% | ~387 |
+| Azoria Beckons | 73.00% | ~3,536 |
+| A Thorny Situation | 70.00% | ~3,391 |
+| ... And Spit Back Out | 59.00% | ~2,858 |
+| Break-Net Speed | 47.00% | ~2,277 |
+| Bramble Breaker | 43.00% | ~2,083 |
+| Miner 49er | 41.00% | ~1,986 |
+| Humble Collector | 39.00% | ~1,889 |
+| Calm Sailing | 33.00% | ~1,599 |
+| Open the Gate! | 29.00% | ~1,405 |
+| Mist Walker | 27.00% | ~1,308 |
+| Lumberjack | 23.00% | ~1,114 |
+| Oui, Chef! | 21.00% | ~1,017 |
+| Clear the Air | 14.00% | ~678 |
+| Botanical Breakthrough | 13.00% | ~630 |
+| Beach Comber | 11.00% | ~533 |
+| Higher Tax Bracket | 9.00% | ~436 |
+| Search for the Hairy Grell | 8.00% | ~388 |
 | Got to Catch Them All | 5.00% | ~242 |
 | Rumble in the Jumble | 5.00% | ~242 |
 | Fanatical Farmer | 5.00% | ~242 |
@@ -41,7 +41,7 @@ Rating: 4.81 (Ranked 78)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,834 (Ranked 164)  
+Progressed: 4,844 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 4,439 | 0 |
 | 2023-09-22 | 4,573 | 0 |
 | 2023-09-23 | 4,750 | 0 |
-| 2023-09-24 | 4,834 | 0 |
+| 2023-09-24 | 4,844 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

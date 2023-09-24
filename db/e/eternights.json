@@ -677,9 +677,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -749,9 +749,9 @@
       "ID": "ACHIEVEMENT_20_TruePlayer",
       "SetID": "9bke6f1",
       "Name": "True Player",
-      "Percentage": 0.5,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_21_PlushyBoy",
@@ -829,9 +829,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -868,8 +868,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:07:23.7898366+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:08:12.6042528+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:57:29.1026799+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:07:23.7898589+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:57:53.6375493+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:08:12.6042752+00:00"
 }

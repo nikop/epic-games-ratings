@@ -91,9 +91,9 @@
       "ID": "ACHIEVEMENT_2_4",
       "SetID": "4hcmnh5",
       "Name": "On the path of Greatness",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_2_5",
@@ -137,8 +137,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T19:06:16.4121929+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:07:44.4678539+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:08:34.829932+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.0141818+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:58:32.452712+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:07:44.4678632+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:58:58.6070988+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:08:34.8299445+00:00"
 }

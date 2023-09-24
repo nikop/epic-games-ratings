@@ -1976,9 +1976,9 @@
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 157
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2080,9 +2080,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 173
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2200,9 +2200,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 124
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2240,9 +2240,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 421
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2328,9 +2328,9 @@
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 74
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2392,9 +2392,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 206
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2495,8 +2495,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-24T15:08:00.5407435+00:00",
+  "LastChanged_Achievements": "2023-09-24T16:08:51.7530329+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:53.0416285+00:00",
-  "LastUpdate_Ratings": "2023-09-24T15:00:12.0794638+00:00",
-  "LastUpdate_Achievements": "2023-09-24T15:08:00.5408262+00:00"
+  "LastUpdate_Ratings": "2023-09-24T16:00:49.3131894+00:00",
+  "LastUpdate_Achievements": "2023-09-24T16:08:51.7531327+00:00"
 }
