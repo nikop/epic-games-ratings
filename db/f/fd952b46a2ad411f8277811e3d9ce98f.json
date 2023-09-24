@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13722,
+  "EOS_Progressed": 13894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9523,
+  "EOS_NewPlayers": 9694,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2354,6 +2354,11 @@
       "Time": "2023-09-24T04:06:32.925286+00:00",
       "NumProgressed": 13722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T05:05:42.7463599+00:00",
+      "NumProgressed": 13894,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2462,7 +2467,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 6998
+      "UsersEstimate": 7086
     },
     {
       "ID": "kills_100",
@@ -2470,7 +2475,7 @@
       "Name": "Rookie Riot",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "kills_1000",
@@ -2516,9 +2521,9 @@
       "ID": "revives_1",
       "SetID": "413a09o",
       "Name": "Toy Surgeon",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1389
     },
     {
       "ID": "revives_25",
@@ -2558,7 +2563,7 @@
       "Name": "Top Toy",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "top10_10",
@@ -2566,7 +2571,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -2598,7 +2603,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -2613,13 +2618,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 13722,
+      "Progressed": 13894,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:06:32.9252855+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:05:42.7463595+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:57:34.3119303+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:06:32.9253146+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:57:25.9069256+00:00",
+  "LastUpdate_Achievements": "2023-09-24T05:05:42.7463964+00:00"
 }

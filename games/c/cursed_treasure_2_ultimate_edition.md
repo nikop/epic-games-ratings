@@ -39,7 +39,7 @@
 | It's a Trap | 53.00% | ~90 |
 | Brilliant: Arcania | 50.00% | ~84 |
 | Deposition | 49.00% | ~83 |
-| Starry: Tanglewood | 46.00% | ~78 |
+| Starry: Tanglewood | 47.00% | ~79 |
 | Sing, My Angel | 43.00% | ~73 |
 | Starry: Arcania | 43.00% | ~73 |
 | The Coreland | 40.00% | ~68 |

@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527944,
+  "EOS_Progressed": 527945,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -17229,6 +17229,11 @@
       "Time": "2023-09-24T04:04:44.9838224+00:00",
       "NumProgressed": 527944,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-24T05:04:19.5788134+00:00",
+      "NumProgressed": 527945,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 57,
@@ -17256,7 +17261,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369561
+      "UsersEstimate": 369562
     },
     {
       "ID": "12",
@@ -17320,7 +17325,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327325
+      "UsersEstimate": 327326
     },
     {
       "ID": "2",
@@ -17536,7 +17541,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89750
+      "UsersEstimate": 89751
     },
     {
       "ID": "44",
@@ -17568,7 +17573,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327325
+      "UsersEstimate": 327326
     },
     {
       "ID": "48",
@@ -17616,7 +17621,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242854
+      "UsersEstimate": 242855
     },
     {
       "ID": "53",
@@ -17695,15 +17700,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527944,
+      "Progressed": 527945,
       "Completed": 478
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:04:44.9838219+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:04:19.5788128+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:31.7826677+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:00:42.8240032+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:04:44.983975+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:59:42.867207+00:00",
+  "LastUpdate_Achievements": "2023-09-24T05:04:19.5789628+00:00"
 }

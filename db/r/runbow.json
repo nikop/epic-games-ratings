@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249626,
+  "EOS_Progressed": 249627,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14819,6 +14819,11 @@
       "Time": "2023-09-24T04:04:37.0689146+00:00",
       "NumProgressed": 249626,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T05:04:12.2279369+00:00",
+      "NumProgressed": 249627,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14854,7 +14859,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52421
+      "UsersEstimate": 52422
     },
     {
       "ID": "blotbuster",
@@ -14886,7 +14891,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42436
+      "UsersEstimate": 42437
     },
     {
       "ID": "cantBeKeptDown",
@@ -15070,7 +15075,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124813
+      "UsersEstimate": 124814
     },
     {
       "ID": "notScared",
@@ -15150,7 +15155,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32451
+      "UsersEstimate": 32452
     },
     {
       "ID": "treeMedalist",
@@ -15197,7 +15202,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249626,
+      "Progressed": 249627,
       "Completed": 5
     }
   ],
@@ -15205,8 +15210,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:04:37.0689141+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:04:12.2279363+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.1432168+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:57:33.6277214+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:04:37.0690177+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:57:25.4145859+00:00",
+  "LastUpdate_Achievements": "2023-09-24T05:04:12.2280675+00:00"
 }

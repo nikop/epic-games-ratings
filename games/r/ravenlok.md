@@ -21,10 +21,10 @@
 | Piece of Cake | 42.00% | ~461 |
 | Gooey Delight! | 42.00% | ~461 |
 | Glimmer of Hope | 42.00% | ~461 |
+| The Guardian | 41.00% | ~450 |
 | Teacups for Toppy | 41.00% | ~450 |
 | Nightmare Fuel | 40.00% | ~439 |
 | Take Heart | 40.00% | ~439 |
-| The Guardian | 40.00% | ~439 |
 | Well Rested | 40.00% | ~439 |
 | Ancient Wisdom | 39.00% | ~428 |
 | All That Glistens | 39.00% | ~428 |

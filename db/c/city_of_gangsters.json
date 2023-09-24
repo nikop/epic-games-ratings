@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -631,9 +631,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 344699,
+  "EOS_Progressed": 344702,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18176,6 +18176,11 @@
       "Time": "2023-09-24T04:03:54.7100414+00:00",
       "NumProgressed": 344699,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-24T05:03:39.477875+00:00",
+      "NumProgressed": 344702,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18395,7 +18400,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158562
+      "UsersEstimate": 158563
     },
     {
       "ID": "ach028",
@@ -18803,7 +18808,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ach080",
@@ -18826,7 +18831,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 344699,
+      "Progressed": 344702,
       "Completed": 7
     }
   ],
@@ -18834,8 +18839,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-23T09:00:25.6768504+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:03:54.7100406+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:03:39.4778743+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:01:09.2031728+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:03:54.7101967+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:00:00.6863389+00:00",
+  "LastUpdate_Achievements": "2023-09-24T05:03:39.4780752+00:00"
 }

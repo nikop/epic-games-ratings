@@ -23,10 +23,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,366 |
 | Through Repetition, Perfection | 1.00% | ~1,366 |
 | Own the Means of Production | 1.00% | ~1,366 |
-| Demand for Supplies | 0.90% | ~1,229 |
-| Flooding the Market | 0.90% | ~1,229 |
-| Where it Hurts | 0.90% | ~1,229 |
-| Dungeon Imports | 0.90% | ~1,229 |
+| Demand for Supplies | 0.90% | ~1,230 |
+| Flooding the Market | 0.90% | ~1,230 |
+| Where it Hurts | 0.90% | ~1,230 |
+| Dungeon Imports | 0.90% | ~1,230 |
 | Gild-Gotten Goods | 0.80% | ~1,093 |
 | Accomplished Merchant | 0.80% | ~1,093 |
 | Did we pack lunch? | 0.80% | ~1,093 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,611 (Ranked 69)  
-Completed: 153 (0.11%) (Ranked 229)  
+Progressed: 136,612 (Ranked 69)  
+Completed: 154 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,10 +276,10 @@ Completed: 153 (0.11%) (Ranked 229)
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
 | 2023-09-23 | 136,602 | 153 |
-| 2023-09-24 | 136,611 | 153 |
+| 2023-09-24 | 136,612 | 154 |
 ## Awards
 Max (Great for Beginners): 4,755  (Ranked 70)  
-Sum: 27,286 (Ranked 48)  
+Sum: 27,288 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): 22
 | This game is Relaxing | 4,014 |
 | This game has Quickly Understood Controls | 4,001 |
 | This game has Diverse Characters | 3,893 |
-| This game is Highly Recommended | 3,751 |
+| This game is Highly Recommended | 3,753 |
 | This game has Easy Combat | 3,694 |
 | This game has Playful Visuals | 3,178 |
 | This game has Inclusive Character Customization | 22 |
@@ -534,4 +534,4 @@ Diff (max vs sum): 22
 | 2023-09-21 | 3.99 | - | 4,748 | 27,265 |
 | 2023-09-22 | 3.99 | - | 4,751 | 27,274 |
 | 2023-09-23 | 3.99 | - | 4,755 | 27,285 |
-| 2023-09-24 | 3.99 | - | 4,755 | 27,286 |
+| 2023-09-24 | 3.99 | - | 4,755 | 27,288 |

@@ -2674,9 +2674,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31184,
+  "EOS_Progressed": 31185,
   "EOS_Completed": 256,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -19749,6 +19749,11 @@
       "Time": "2023-09-24T04:08:36.2844606+00:00",
       "NumProgressed": 31184,
       "NumCompleted": 256
+    },
+    {
+      "Time": "2023-09-24T05:09:15.577241+00:00",
+      "NumProgressed": 31185,
+      "NumCompleted": 256
     }
   ],
   "TotalAchievements": 60,
@@ -19800,7 +19805,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6860
+      "UsersEstimate": 6861
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -19872,7 +19877,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15280
+      "UsersEstimate": 15281
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -19968,7 +19973,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13409
+      "UsersEstimate": 13410
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -19984,7 +19989,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11226
+      "UsersEstimate": 11227
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -19992,7 +19997,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12785
+      "UsersEstimate": 12786
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -20064,7 +20069,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -20088,7 +20093,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9043
+      "UsersEstimate": 9044
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -20152,7 +20157,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9043
+      "UsersEstimate": 9044
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -20160,7 +20165,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21517
+      "UsersEstimate": 21518
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -20208,7 +20213,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9355
+      "UsersEstimate": 9356
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -20239,15 +20244,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31184,
+      "Progressed": 31185,
       "Completed": 256
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-23T17:03:11.8766153+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:08:36.2844599+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:09:15.5772405+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.6938944+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:57:10.6341907+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:08:36.2845835+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:57:07.4428931+00:00",
+  "LastUpdate_Achievements": "2023-09-24T05:09:15.5773998+00:00"
 }

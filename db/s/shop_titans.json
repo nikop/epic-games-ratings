@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6170,10 +6170,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27286,
       "NumberOfAwardsMax": 4755
+    },
+    {
+      "Time": "2023-09-24T05:00:08.0640953+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27288,
+      "NumberOfAwardsMax": 4755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27286,
+  "NumberOfAwards": 27288,
   "NumberOfAwardsMax": 4755,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6223,13 +6229,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3751
+      "Count": 3753
     }
   ],
-  "EOS_Progressed": 136611,
-  "EOS_Completed": 153,
+  "EOS_Progressed": 136612,
+  "EOS_Completed": 154,
   "EOS_NewPlayers": 328,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -22311,6 +22317,11 @@
       "Time": "2023-09-24T04:05:38.4563344+00:00",
       "NumProgressed": 136611,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-09-24T05:05:00.8823677+00:00",
+      "NumProgressed": 136612,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 112,
@@ -22562,7 +22573,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "commonres03",
@@ -22594,7 +22605,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "craft03",
@@ -22626,7 +22637,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "damage02",
@@ -22946,7 +22957,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "loot02",
@@ -23217,15 +23228,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136611,
-      "Completed": 153
+      "Progressed": 136612,
+      "Completed": 154
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-24T01:45:37.1138419+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:05:38.4563339+00:00",
+  "LastChanged": "2023-09-24T05:00:08.0640951+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:05:00.8823671+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:01:19.5840626+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:05:38.4565327+00:00"
+  "LastUpdate_Ratings": "2023-09-24T05:00:08.0640959+00:00",
+  "LastUpdate_Achievements": "2023-09-24T05:05:00.882624+00:00"
 }

@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533884,
+  "EOS_Progressed": 533885,
   "EOS_Completed": 1554,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19714,6 +19714,11 @@
       "Time": "2023-09-24T04:04:20.9125158+00:00",
       "NumProgressed": 533884,
       "NumCompleted": 1554
+    },
+    {
+      "Time": "2023-09-24T05:03:59.6250542+00:00",
+      "NumProgressed": 533885,
+      "NumCompleted": 1554
     }
   ],
   "TotalAchievements": 37,
@@ -19781,7 +19786,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443124
+      "UsersEstimate": 443125
     },
     {
       "ID": "HONED",
@@ -19997,7 +20002,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85421
+      "UsersEstimate": 85422
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -20020,15 +20025,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533884,
+      "Progressed": 533885,
       "Completed": 1554
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-19T16:00:07.3346175+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:04:20.9125155+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:03:59.6250538+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
   "LastUpdate_Ratings": "2023-09-24T04:03:09.037073+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:04:20.9126136+00:00"
+  "LastUpdate_Achievements": "2023-09-24T05:03:59.6251833+00:00"
 }

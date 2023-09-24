@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 488)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,355 |
-| Pay 'n' Spray | 50.00% | ~6,392 |
-| All Dressed Up for San Fierro | 25.00% | ~3,196 |
-| The American Dream | 19.00% | ~2,429 |
-| School's Out | 18.00% | ~2,301 |
-| Smooth Moves | 17.00% | ~2,173 |
+| Getting Started | 81.00% | ~10,358 |
+| Pay 'n' Spray | 50.00% | ~6,394 |
+| All Dressed Up for San Fierro | 25.00% | ~3,197 |
+| The American Dream | 19.00% | ~2,430 |
+| School's Out | 18.00% | ~2,302 |
+| Smooth Moves | 17.00% | ~2,174 |
 | What happens in Las Venturas... | 15.00% | ~1,918 |
 | Today Was a Good Day | 15.00% | ~1,918 |
-| Horror of the Santa Maria | 11.00% | ~1,406 |
-| Liberty City State of Mind | 10.00% | ~1,278 |
+| Horror of the Santa Maria | 11.00% | ~1,407 |
+| Liberty City State of Mind | 10.00% | ~1,279 |
 | The End of the Line | 8.00% | ~1,023 |
 | Original Gangster | 8.00% | ~1,023 |
 | With Extra Dip | 7.00% | ~895 |
 | Saviour | 6.00% | ~767 |
 | They Can’t Stop All of Us | 5.00% | ~639 |
 | Rescue a Kitten Too? | 5.00% | ~639 |
-| What are the Odds | 4.00% | ~511 |
+| What are the Odds | 4.00% | ~512 |
 | Bike or Biker | 3.00% | ~384 |
 | What the City Needs | 3.00% | ~384 |
 | A Legitimate Business | 2.00% | ~256 |
@@ -37,11 +37,11 @@ Rating: 4.55 (Ranked 488)
 | Lucky Spinner | 1.00% | ~128 |
 | Not a Player | 1.00% | ~128 |
 | Chick Magnet | 1.00% | ~128 |
-| Remastered | 0.70% | ~89 |
+| Remastered | 0.70% | ~90 |
 | ...Here we go again | 0.50% | ~64 |
 | I Ain't No Buster | 0.30% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,784 (Ranked 131)  
+Progressed: 12,788 (Ranked 131)  
 Completed: 45 (0.35%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 45 (0.35%) (Ranked 179)
 | 2023-09-21 | 12,641 | 45 |
 | 2023-09-22 | 12,700 | 45 |
 | 2023-09-23 | 12,771 | 45 |
-| 2023-09-24 | 12,784 | 45 |
+| 2023-09-24 | 12,788 | 45 |
 ## Awards
 Max (Great Boss Battles): 306  (Ranked 237)  
 Sum: 424 (Ranked 317)  

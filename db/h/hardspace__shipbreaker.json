@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1714,6 +1714,11 @@
       "Time": "2023-09-23T04:04:12.0395551+00:00",
       "NumProgressed": 909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T05:04:56.6480874+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1723,9 +1728,9 @@
       "ID": "ACH_ACT_1_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act I Complete",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1821,7 +1826,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1861,7 +1866,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1885,7 +1890,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1893,7 +1898,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1901,7 +1906,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1909,7 +1914,7 @@
       "Name": "See you Space Cowboy",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_SOLIDARITY_FOREVER",
@@ -1933,14 +1938,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 0
     }
   ],
@@ -1948,8 +1953,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-24T04:05:33.2538911+00:00",
+  "LastChanged_Achievements": "2023-09-24T05:04:56.6480869+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:25.2041878+00:00",
-  "LastUpdate_Ratings": "2023-09-24T04:00:29.7298871+00:00",
-  "LastUpdate_Achievements": "2023-09-24T04:05:33.2539139+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:59:33.2183162+00:00",
+  "LastUpdate_Achievements": "2023-09-24T05:04:56.6481159+00:00"
 }

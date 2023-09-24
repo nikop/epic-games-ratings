@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~99 |
-| Off to a good start | 65.00% | ~73 |
-| Do... or do not. There is no try | 45.00% | ~51 |
-| A good blaster at your side | 34.00% | ~38 |
-| Great shot, kid! | 32.00% | ~36 |
-| The power of the Force | 27.00% | ~31 |
-| Collector | 27.00% | ~31 |
+| New Recruit | 88.00% | ~101 |
+| Off to a good start | 66.00% | ~76 |
+| Do... or do not. There is no try | 46.00% | ~53 |
+| A good blaster at your side | 33.00% | ~38 |
+| Great shot, kid! | 31.00% | ~36 |
 | Shoot first | 27.00% | ~31 |
-| I suggest a new strategy | 26.00% | ~29 |
-| Tell Jabba that I've got his money | 24.00% | ~27 |
+| The power of the Force | 26.00% | ~30 |
+| Collector | 26.00% | ~30 |
+| I suggest a new strategy | 25.00% | ~29 |
+| Tell Jabba that I've got his money | 23.00% | ~26 |
 | Scrap collector | 23.00% | ~26 |
 | A cunning warrior | 20.00% | ~23 |
-| What's the cargo? | 19.00% | ~21 |
-| Never tell me the odds! | 19.00% | ~21 |
-| Judge me by my size, do you? | 19.00% | ~21 |
-| "Gonk? Gonk!" | 18.00% | ~20 |
-| Together we can rule the galaxy | 18.00% | ~20 |
-| A tremor in the Force | 17.00% | ~19 |
+| What's the cargo? | 19.00% | ~22 |
+| Judge me by my size, do you? | 19.00% | ~22 |
+| Never tell me the odds! | 18.00% | ~21 |
+| "Gonk? Gonk!" | 17.00% | ~20 |
+| A tremor in the Force | 17.00% | ~20 |
+| Together we can rule the galaxy | 17.00% | ~20 |
 | Distinguished | 16.00% | ~18 |
 | Survivor | 16.00% | ~18 |
 | Support the troops | 16.00% | ~18 |
@@ -33,14 +33,14 @@
 | When 900 years old you reach... | 12.00% | ~14 |
 | Best star-pilot in the galaxy | 12.00% | ~14 |
 | Impressive. Most impressive. | 12.00% | ~14 |
-| City in the Clouds | 12.00% | ~14 |
-| That's no moon | 12.00% | ~14 |
 | Don't underestimate the Force | 12.00% | ~14 |
-| Precision shot | 11.00% | ~12 |
-| What will you become? | 11.00% | ~12 |
-| This is a new day, a new beginning | 10.00% | ~11 |
-| Alternative solution | 10.00% | ~11 |
-| Disturbed tranquility | 10.00% | ~11 |
+| City in the Clouds | 11.00% | ~13 |
+| That's no moon | 11.00% | ~13 |
+| Precision shot | 10.00% | ~12 |
+| This is a new day, a new beginning | 10.00% | ~12 |
+| Alternative solution | 10.00% | ~12 |
+| What will you become? | 10.00% | ~12 |
+| Disturbed tranquility | 10.00% | ~12 |
 | The Force is strong with this one | 8.00% | ~9 |
 | The circle is now complete | 8.00% | ~9 |
 | Playing the objective | 7.00% | ~8 |
@@ -52,12 +52,12 @@
 | When surrounded by war... | 5.00% | ~6 |
 | Onwards! | 5.00% | ~6 |
 | A New Hope | 4.00% | ~5 |
-| in a galaxy far, far away.... | 4.00% | ~5 |
 | Your journey has only started | 4.00% | ~5 |
 | Safety ain't the point of a joyride | 4.00% | ~5 |
 | Ackbar's Elite | 4.00% | ~5 |
 | I’ll take that bet | 4.00% | ~5 |
 | Stop that Droid | 4.00% | ~5 |
+| in a galaxy far, far away.... | 3.00% | ~3 |
 | Greed can be a very powerful ally | 3.00% | ~3 |
 | Don't get cocky | 2.00% | ~2 |
 | Master | 2.00% | ~2 |
@@ -68,15 +68,15 @@
 | I never doubted you! | 0.90% | ~1 |
 | Crush them with one swift stroke… | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 363)  
-Completed: 1 (0.88%) (Ranked 137)  
+Progressed: 115 (Ranked 363)  
+Completed: 1 (0.87%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 2 | 0 |
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
-| 2023-09-24 | 113 | 1 |
+| 2023-09-24 | 115 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
