@@ -6,14 +6,14 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,448 |
-| Having A Field Day | 75.00% | ~4,448 |
-| Reap What You Sow | 72.00% | ~4,270 |
-| The First Day | 68.00% | ~4,033 |
-| Green Thumb | 66.00% | ~3,914 |
-| Novice Researcher | 66.00% | ~3,914 |
-| Home Cooked Meal | 58.00% | ~3,440 |
-| Onward | 56.00% | ~3,321 |
+| Get A Room | 75.00% | ~4,449 |
+| Having A Field Day | 75.00% | ~4,449 |
+| Reap What You Sow | 72.00% | ~4,271 |
+| The First Day | 68.00% | ~4,034 |
+| Green Thumb | 66.00% | ~3,915 |
+| Novice Researcher | 66.00% | ~3,915 |
+| Home Cooked Meal | 58.00% | ~3,441 |
+| Onward | 56.00% | ~3,322 |
 | Putting Food on the Table | 54.00% | ~3,203 |
 | The First Week | 54.00% | ~3,203 |
 | Beam Me Up | 51.00% | ~3,025 |
@@ -24,21 +24,21 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 41.00% | ~2,432 |
 | Fit For A King | 34.00% | ~2,017 |
 | Luminary Researcher | 32.00% | ~1,898 |
-| Heating Up | 30.00% | ~1,779 |
-| Winter Is Coming | 27.00% | ~1,601 |
-| Winter Is Here | 24.00% | ~1,423 |
+| Heating Up | 30.00% | ~1,780 |
+| Winter Is Coming | 27.00% | ~1,602 |
+| Winter Is Here | 24.00% | ~1,424 |
 | Disassembled | 21.00% | ~1,246 |
 | A Party Now | 21.00% | ~1,246 |
 | Oh Deer! | 21.00% | ~1,246 |
 | All Year Round | 20.00% | ~1,186 |
 | Nothing Wasted | 13.00% | ~771 |
 | Don't Cry Wolf | 12.00% | ~712 |
-| Deerly Departed | 8.00% | ~474 |
+| Deerly Departed | 8.00% | ~475 |
 | Where Wolf? | 5.00% | ~297 |
 | Food Chain | 2.00% | ~119 |
 | Wabbit Season | 0.60% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,931 (Ranked 154)  
+Progressed: 5,932 (Ranked 154)  
 Completed: 14 (0.24%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 14 (0.24%) (Ranked 201)
 | 2023-09-21 | 5,883 | 14 |
 | 2023-09-22 | 5,898 | 14 |
 | 2023-09-23 | 5,924 | 14 |
-| 2023-09-24 | 5,931 | 14 |
+| 2023-09-24 | 5,932 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 322)  
 Sum: 985 (Ranked 243)  

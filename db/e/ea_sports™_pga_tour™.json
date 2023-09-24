@@ -571,9 +571,9 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_18",
@@ -657,8 +657,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:09:33.8206556+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:09:11.0841338+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:58:42.2335562+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:09:33.820669+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:58:12.1634601+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:09:11.0841512+00:00"
 }

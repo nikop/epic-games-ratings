@@ -21,10 +21,10 @@ Rating: 3.82 (Ranked 979)
 | A Stealthy Outlook | 7.00% | ~37 |
 | Catch You Later | 6.00% | ~32 |
 | Between the Covers | 5.00% | ~26 |
+| Antisocial Club | 5.00% | ~26 |
 | You Had One Job... | 5.00% | ~26 |
 | Den Mother | 5.00% | ~26 |
 | Everything Must Go! | 4.00% | ~21 |
-| Antisocial Club | 4.00% | ~21 |
 | Smart cookie | 4.00% | ~21 |
 | Paparazzi | 3.00% | ~16 |
 | Life of the Party | 3.00% | ~16 |

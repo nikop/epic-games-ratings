@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1426,
+  "EOS_Progressed": 1427,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2785,6 +2785,11 @@
       "Time": "2023-09-24T11:05:30.6312843+00:00",
       "NumProgressed": 1426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T12:04:46.2510653+00:00",
+      "NumProgressed": 1427,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2796,7 +2801,7 @@
       "Name": "Agent 47",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Auditor",
@@ -2876,7 +2881,7 @@
       "Name": "E1M1",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Everyone_is_here",
@@ -2908,7 +2913,7 @@
       "Name": "Grenadier",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "Hard_Serpent",
@@ -2972,7 +2977,7 @@
       "Name": "One by One",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Miner",
@@ -2980,7 +2985,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "MoskitoBite",
@@ -3012,7 +3017,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "We_were_not_here",
@@ -3035,15 +3040,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1426,
+      "Progressed": 1427,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:05:30.631284+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:04:46.2510647+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:57:53.3229833+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:05:30.6313186+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:57:36.7496129+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:04:46.2511023+00:00"
 }

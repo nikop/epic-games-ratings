@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3861,9 +3861,9 @@
       "ID": "achBuildTrainStation",
       "SetID": "dgl390n",
       "Name": "First train station",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1078
     },
     {
       "ID": "achCannotGetEnough",
@@ -4253,8 +4253,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-23T10:58:31.0400563+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:08:38.464155+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:07:08.5075684+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.8657884+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:58:21.3003685+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:08:38.4642445+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:57:56.4755132+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:07:08.5076422+00:00"
 }

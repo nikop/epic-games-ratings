@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2565,6 +2565,11 @@
       "Time": "2023-09-24T10:06:02.0878157+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T12:05:04.9483614+00:00",
+      "NumProgressed": 1227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2584,7 +2589,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -2632,7 +2637,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1215
     },
     {
       "ID": "EXPERT_1",
@@ -2648,7 +2653,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "GHOSTBUSTER",
@@ -2664,7 +2669,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "HEAD_BURST_1",
@@ -2696,7 +2701,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2736,7 +2741,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "PACIFIST",
@@ -2750,9 +2755,9 @@
       "ID": "PARANOIA",
       "SetID": "bf13m8j",
       "Name": "Paranoia",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 184
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2832,7 +2837,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "VVE",
@@ -2863,15 +2868,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:05:55.323399+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:05:04.948361+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:58:38.996798+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:05:55.323433+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:58:09.9931377+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:05:04.9483995+00:00"
 }

@@ -42,15 +42,15 @@ Number of Ratings: 58  (23.09.2022)
 | Retaliate | 22.00% | ~265 |
 | Mastery of Rites | 21.00% | ~253 |
 | Power Chord | 20.00% | ~241 |
+| Ascension | 20.00% | ~241 |
 | Crash Test | 20.00% | ~241 |
 | Rise as One | 19.00% | ~229 |
-| Ascension | 19.00% | ~229 |
 | Showoff | 15.00% | ~181 |
 | Radiation Area | 10.00% | ~121 |
 | Overcharged | 9.00% | ~109 |
 | At Least You Tried | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,206 (Ranked 219)  
+Progressed: 1,206 (Ranked 220)  
 Completed: 15 (1.24%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |

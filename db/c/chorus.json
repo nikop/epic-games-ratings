@@ -5,7 +5,7 @@
   "Ranking_Rating": 617,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 481,
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 112,
@@ -2342,9 +2342,9 @@
       "ID": "MissionTheArmadaStrikes",
       "SetID": "a6c395p",
       "Name": "Ascension",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 241
     },
     {
       "ID": "MissionTheiaStep1",
@@ -2438,8 +2438,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-20T15:02:51.9408959+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:06:35.6244531+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:05:35.7044756+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.4828325+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:58:36.4505155+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:06:35.6244893+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:58:07.6296106+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:05:35.7045181+00:00"
 }

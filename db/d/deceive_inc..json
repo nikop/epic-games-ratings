@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -10871,9 +10871,9 @@
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3987
+      "UsersEstimate": 4169
     },
     {
       "ID": "0029",
@@ -10952,8 +10952,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:06:04.0378649+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:05:11.4338329+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:58:16.2364187+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:06:04.037936+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:57:53.4587708+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:05:11.4339206+00:00"
 }

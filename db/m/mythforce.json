@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -695,9 +695,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3095,
+  "EOS_Progressed": 3097,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5485,6 +5485,11 @@
       "Time": "2023-09-24T11:05:44.115427+00:00",
       "NumProgressed": 3095,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T12:04:56.4130978+00:00",
+      "NumProgressed": 3097,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5537,7 +5542,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5553,7 +5558,7 @@
       "Name": "First Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5593,7 +5598,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5649,7 +5654,7 @@
       "Name": "Spending Spree",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5657,7 +5662,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5671,24 +5676,24 @@
       "ID": "MF_Ach_VexedHer",
       "SetID": "9b9n573",
       "Name": "Vexed Her",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3095,
+      "Progressed": 3097,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-24T01:47:09.2879439+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:05:44.1154266+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:04:56.4130972+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:03:11.0575769+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:05:44.1154633+00:00"
+  "LastUpdate_Ratings": "2023-09-24T12:00:41.3748031+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:04:56.4131424+00:00"
 }

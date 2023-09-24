@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24072,
+  "EOS_Progressed": 24073,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4948,6 +4948,11 @@
       "Time": "2023-09-23T22:08:11.1396199+00:00",
       "NumProgressed": 24072,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-24T12:07:24.8476258+00:00",
+      "NumProgressed": 24073,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4975,7 +4980,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18535
+      "UsersEstimate": 18536
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4991,7 +4996,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -5031,7 +5036,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -5063,7 +5068,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19980
+      "UsersEstimate": 19981
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -5079,7 +5084,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13721
+      "UsersEstimate": 13722
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5087,7 +5092,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14202
+      "UsersEstimate": 14203
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -5135,7 +5140,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -5151,7 +5156,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -5214,22 +5219,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24072,
+      "Progressed": 24073,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1365,
-      "Completed": 1365
+      "Progressed": 1366,
+      "Completed": 1366
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-22T19:00:44.5707796+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:09:09.8121242+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:07:24.8476254+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:33.5378459+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:01:28.41222+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:09:09.8121684+00:00"
+  "LastUpdate_Ratings": "2023-09-24T12:00:10.0351924+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:07:24.8476772+00:00"
 }

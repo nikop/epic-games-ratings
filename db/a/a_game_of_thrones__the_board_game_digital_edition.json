@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24671,
+  "EOS_Progressed": 24673,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -18105,6 +18105,11 @@
       "Time": "2023-09-24T11:07:43.7163364+00:00",
       "NumProgressed": 24671,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-09-24T12:06:27.342746+00:00",
+      "NumProgressed": 24673,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 22,
@@ -18138,9 +18143,9 @@
       "ID": "1018",
       "SetID": "9l3d3cl",
       "Name": "Unbowed, Unbent, Unbroken",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1234
     },
     {
       "ID": "1019",
@@ -18212,7 +18217,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "1028",
@@ -18236,7 +18241,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4934
+      "UsersEstimate": 4935
     },
     {
       "ID": "1031",
@@ -18252,7 +18257,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9868
+      "UsersEstimate": 9869
     },
     {
       "ID": "1033",
@@ -18291,15 +18296,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24671,
+      "Progressed": 24673,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:07:43.716336+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:06:27.3427455+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:59:12.6793272+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:07:43.7164262+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:58:34.0338468+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:06:27.3428624+00:00"
 }

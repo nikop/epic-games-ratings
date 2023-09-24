@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6459,
+  "EOS_Progressed": 6463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2472,6 +2472,11 @@
       "Time": "2023-09-24T11:03:40.8231689+00:00",
       "NumProgressed": 6459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T12:03:22.9163648+00:00",
+      "NumProgressed": 6463,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2492,7 +2497,7 @@
       "Name": "Upgraded Accelerated Reload to Level 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ArachnidKills1",
@@ -2508,7 +2513,7 @@
       "Name": "Purchased Blink Dash",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "BIUpgraded1",
@@ -2532,7 +2537,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "CreditsSpent50000",
@@ -2556,7 +2561,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "EAUpgraded1",
@@ -2596,7 +2601,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "GamesPlayed1",
@@ -2604,7 +2609,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2133
     },
     {
       "ID": "GamesPlayed10",
@@ -2628,7 +2633,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "GamesWon10",
@@ -2676,7 +2681,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "HAUpgraded1",
@@ -2692,7 +2697,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "HSPurchased1",
@@ -2820,7 +2825,7 @@
       "Name": "Destroyed 3 Inhibitors in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "MaxMinionKills150",
@@ -2828,7 +2833,7 @@
       "Name": "Eliminated 150 Minions in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "MaxNeutralKills150",
@@ -2892,7 +2897,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "NeutralKills200",
@@ -2964,7 +2969,7 @@
       "Name": "Purchased Rally Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "RFSPurchased1",
@@ -3075,7 +3080,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6459,
+      "Progressed": 6463,
       "Completed": 1
     }
   ],
@@ -3083,8 +3088,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-24T07:59:49.2549087+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:03:40.8231685+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:03:22.9163642+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-24T10:59:30.3492538+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:03:40.823245+00:00"
+  "LastUpdate_Ratings": "2023-09-24T11:58:46.4199901+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:03:22.9164638+00:00"
 }

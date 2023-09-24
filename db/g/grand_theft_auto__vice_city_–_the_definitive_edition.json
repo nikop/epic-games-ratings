@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 508,
-  "Ranking_Popularity": 368,
+  "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -656,23 +656,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-09-24T12:00:28.8282065+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79,
-  "NumberOfAwardsMax": 79,
+  "NumberOfAwards": 80,
+  "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 79
+      "Count": 80
     }
   ],
-  "EOS_Progressed": 10309,
+  "EOS_Progressed": 10315,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10340,6 +10346,11 @@
       "Time": "2023-09-24T11:05:21.5715506+00:00",
       "NumProgressed": 10309,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-24T12:04:39.6852817+00:00",
+      "NumProgressed": 10315,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10367,7 +10378,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ACH04",
@@ -10375,7 +10386,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH05",
@@ -10407,7 +10418,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH09",
@@ -10431,7 +10442,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH12",
@@ -10455,7 +10466,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4332
     },
     {
       "ID": "ACH15",
@@ -10511,7 +10522,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4745
     },
     {
       "ID": "ACH22",
@@ -10519,7 +10530,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "ACH23",
@@ -10527,7 +10538,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2579
     },
     {
       "ID": "ACH24",
@@ -10535,7 +10546,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH25",
@@ -10543,7 +10554,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH26",
@@ -10551,7 +10562,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH27",
@@ -10559,7 +10570,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH28",
@@ -10622,16 +10633,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10309,
+      "Progressed": 10315,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-23T11:02:04.6600568+00:00",
-  "LastChanged_Achievements": "2023-09-24T11:05:21.5715499+00:00",
+  "LastChanged": "2023-09-24T12:00:28.8282064+00:00",
+  "LastChanged_Achievements": "2023-09-24T12:04:39.6852813+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:02:04.190914+00:00",
-  "LastUpdate_Achievements": "2023-09-24T11:05:21.5716137+00:00"
+  "LastUpdate_Ratings": "2023-09-24T12:00:28.828207+00:00",
+  "LastUpdate_Achievements": "2023-09-24T12:04:39.6853713+00:00"
 }
