@@ -3054,18 +3054,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4550,
       "NumberOfAwardsMax": 2731
+    },
+    {
+      "Time": "2023-09-24T03:57:16.0139152+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4561,
+      "NumberOfAwardsMax": 2742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4550,
-  "NumberOfAwardsMax": 2731,
+  "NumberOfAwards": 4561,
+  "NumberOfAwardsMax": 2742,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2731
+      "Count": 2742
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3122,9 +3128,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72771,
+  "EOS_Progressed": 72772,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16442,6 +16448,11 @@
       "Time": "2023-09-24T03:06:01.7031333+00:00",
       "NumProgressed": 72771,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-24T04:06:25.1809948+00:00",
+      "NumProgressed": 72772,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16501,7 +16512,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16737
+      "UsersEstimate": 16738
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16693,7 +16704,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13826
+      "UsersEstimate": 13827
     },
     {
       "ID": "FREEZE_3",
@@ -16781,7 +16792,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11643
+      "UsersEstimate": 11644
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -16861,7 +16872,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16737
+      "UsersEstimate": 16738
     },
     {
       "ID": "MYSTERY_04",
@@ -16940,22 +16951,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72771,
+      "Progressed": 72772,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43051,
+      "Progressed": 43052,
       "Completed": 2667
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-24T01:41:53.1064876+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:06:01.7031328+00:00",
+  "LastChanged": "2023-09-24T03:57:16.0139151+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:06:25.1809943+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:57:04.4729773+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:06:01.7032406+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:57:16.0139157+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:06:25.1811024+00:00"
 }

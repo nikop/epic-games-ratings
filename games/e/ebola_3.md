@@ -15,12 +15,12 @@
 | Master of Unlocking ✔ | 10.00% | ~27 |
 | Survival ✔ | 9.00% | ~24 |
 | Thirst ✔ | 8.00% | ~21 |
+| Betty ✔ | 7.00% | ~19 |
 | City ✔ | 7.00% | ~19 |
 | Hospital ✔ | 7.00% | ~19 |
 | Fraternal help ✔ | 7.00% | ~19 |
 | Alice ✔ | 6.00% | ~16 |
 | Antivirus ✔ | 6.00% | ~16 |
-| Betty ✔ | 6.00% | ~16 |
 | Cheats ✔ | 6.00% | ~16 |
 | Food ✔ | 6.00% | ~16 |
 | King of survival ✔ | 6.00% | ~16 |

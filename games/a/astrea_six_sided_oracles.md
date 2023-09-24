@@ -21,6 +21,7 @@
 | Anomaly Destroyer | 29.00% | ~2 |
 | Dice Specialist | 29.00% | ~2 |
 | Loyal Partner | 29.00% | ~2 |
+| Shard Spender | 29.00% | ~2 |
 | Arch-Oracle | 14.00% | ~1 |
 | Astral Adventurer | 14.00% | ~1 |
 | Denying Destiny | 14.00% | ~1 |
@@ -28,7 +29,6 @@
 | Heart Gate | 14.00% | ~1 |
 | Plague Doctor | 14.00% | ~1 |
 | Sadistic Plan | 14.00% | ~1 |
-| Shard Spender | 14.00% | ~1 |
 | Star Killer | 14.00% | ~1 |
 | Unepic Hero | 14.00% | ~1 |
 | Wave Bender | 14.00% | ~1 |

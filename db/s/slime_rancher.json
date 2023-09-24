@@ -2,13 +2,13 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 64,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2017-08-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3365,6 +3365,6 @@
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
   "LastChanged": "2023-09-23T18:57:51.5770458+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.807136+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:57:44.1069872+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:05:25.1757631+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:57:54.3775591+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:05:49.0155349+00:00"
 }

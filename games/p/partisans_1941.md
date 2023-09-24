@@ -8,17 +8,17 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | E1M1 | 40.00% | ~568 |
 | War Never Changes | 40.00% | ~568 |
-| Grenadier | 39.00% | ~553 |
+| Grenadier | 39.00% | ~554 |
 | Heroes Never Die | 36.00% | ~511 |
-| Mosquito bite | 34.00% | ~482 |
+| Mosquito bite | 34.00% | ~483 |
 | Spice It Up | 30.00% | ~426 |
 | Agent 47 | 25.00% | ~355 |
 | You're Gonna Go Far, Kid | 25.00% | ~355 |
 | Bomberman | 25.00% | ~355 |
-| Death to the Oppressor! | 18.00% | ~255 |
+| Death to the Oppressor! | 18.00% | ~256 |
 | The Gang's All Here | 15.00% | ~213 |
 | Your Answer | 14.00% | ~199 |
-| One by One | 13.00% | ~184 |
+| One by One | 13.00% | ~185 |
 | The Big Bertha | 11.00% | ~156 |
 | Game Over | 10.00% | ~142 |
 | Lock, Stock | 7.00% | ~99 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,419 (Ranked 213)  
+Progressed: 1,420 (Ranked 213)  
 Completed: 1 (0.07%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 1 (0.07%) (Ranked 242)
 | 2023-09-21 | 1,405 | 1 |
 | 2023-09-22 | 1,413 | 1 |
 | 2023-09-23 | 1,419 | 1 |
+| 2023-09-24 | 1,420 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

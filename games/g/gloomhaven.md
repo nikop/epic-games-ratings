@@ -6,33 +6,33 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~2,121 |
-| A normal day in Gloomhaven | 31.00% | ~1,730 |
-| Overkill | 29.00% | ~1,618 |
-| Vaccine Incoming | 27.00% | ~1,507 |
-| Spread the plague | 25.00% | ~1,395 |
-| Get over here! | 22.00% | ~1,228 |
-| Just when I thought I was out... | 17.00% | ~949 |
-| Mine... All Mine... | 16.00% | ~893 |
-| Light of my life | 13.00% | ~726 |
-| Anatomy Lesson | 13.00% | ~726 |
-| You activated my trap card! | 12.00% | ~670 |
-| Augmented rat | 12.00% | ~670 |
-| Obstacle race | 12.00% | ~670 |
-| Doom and gloom | 11.00% | ~614 |
-| Precious! | 9.00% | ~502 |
-| Grizzled veteran | 8.00% | ~446 |
-| Pack leader | 7.00% | ~391 |
-| Pain is your friend | 7.00% | ~391 |
-| Play it again, Sam | 7.00% | ~391 |
-| Black death | 6.00% | ~335 |
-| Who's the Boss? | 5.00% | ~279 |
-| Quad damage | 5.00% | ~279 |
-| Dungeon Veteran | 4.00% | ~223 |
-| The Pro from Dover | 4.00% | ~223 |
-| Pretty lights! | 4.00% | ~223 |
-| Now you see me... | 4.00% | ~223 |
-| Power Up! | 3.00% | ~167 |
+| I'm not dead yet | 38.00% | ~2,130 |
+| A normal day in Gloomhaven | 31.00% | ~1,738 |
+| Overkill | 29.00% | ~1,626 |
+| Vaccine Incoming | 27.00% | ~1,514 |
+| Spread the plague | 25.00% | ~1,402 |
+| Get over here! | 22.00% | ~1,233 |
+| Just when I thought I was out... | 17.00% | ~953 |
+| Mine... All Mine... | 16.00% | ~897 |
+| Light of my life | 14.00% | ~785 |
+| Anatomy Lesson | 14.00% | ~785 |
+| You activated my trap card! | 12.00% | ~673 |
+| Augmented rat | 12.00% | ~673 |
+| Obstacle race | 12.00% | ~673 |
+| Doom and gloom | 11.00% | ~617 |
+| Precious! | 9.00% | ~505 |
+| Grizzled veteran | 8.00% | ~448 |
+| Pack leader | 7.00% | ~392 |
+| Pain is your friend | 7.00% | ~392 |
+| Play it again, Sam | 7.00% | ~392 |
+| Black death | 6.00% | ~336 |
+| Who's the Boss? | 5.00% | ~280 |
+| Quad damage | 5.00% | ~280 |
+| Now you see me... | 5.00% | ~280 |
+| Dungeon Veteran | 4.00% | ~224 |
+| The Pro from Dover | 4.00% | ~224 |
+| Pretty lights! | 4.00% | ~224 |
+| Power Up! | 3.00% | ~168 |
 | Merchant of doom | 2.00% | ~112 |
 | Caught off guard | 2.00% | ~112 |
 | Master Assassin | 2.00% | ~112 |
@@ -47,17 +47,17 @@ Number of Ratings: 68  (23.09.2022)
 | The Rat King | 0.70% | ~39 |
 | The Cephalophore | 0.70% | ~39 |
 | New Blood | 0.70% | ~39 |
-| From Gloom, only greed and death emerges | 0.60% | ~33 |
+| From Gloom, only greed and death emerges | 0.60% | ~34 |
+| Captain hooked | 0.50% | ~28 |
 | The Pacifist | 0.50% | ~28 |
 | Betray this | 0.40% | ~22 |
-| Captain hooked | 0.40% | ~22 |
 | A tough job | 0.40% | ~22 |
 | Born Support | 0.40% | ~22 |
 | Spoiler police! | 0.30% | ~17 |
 | Pull out the big guns | 0.30% | ~17 |
-| Crimson Tornado | 0.30% | ~17 |
 | Beware my power | 0.20% | ~11 |
 | The Jaws of victory! | 0.20% | ~11 |
+| Crimson Tornado | 0.20% | ~11 |
 | A cult following | 0.10% | ~6 |
 | Over your dead body | 0.10% | ~6 |
 | The Guildmaster | 0.10% | ~6 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~6 |
 | Murder Death Kill | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,581 (Ranked 156)  
+Progressed: 5,606 (Ranked 156)  
 Completed: 1 (0.02%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.02%) (Ranked 265)
 | 2023-09-21 | 3,873 | 0 |
 | 2023-09-22 | 4,676 | 1 |
 | 2023-09-23 | 5,424 | 1 |
-| 2023-09-24 | 5,581 | 1 |
+| 2023-09-24 | 5,606 | 1 |
 ## Awards
 Max (Character Customization): 3,532  (Ranked 89)  
 Sum: 8,221 (Ranked 99)  

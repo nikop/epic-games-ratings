@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.70% | ~956 |
 | Blank Page Syndrome | 0.70% | ~956 |
 | Efficient Floor Space | 0.70% | ~956 |
+| Flawless Fusion | 0.70% | ~956 |
 | Gem Expert | 0.70% | ~956 |
 | Helping Hand | 0.70% | ~956 |
 | Natural 20 | 0.70% | ~956 |
@@ -44,7 +45,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.60% | ~820 |
 | For the Hoard! | 0.60% | ~820 |
 | Power of Love | 0.60% | ~820 |
-| Flawless Fusion | 0.60% | ~820 |
 | Trash to Treasure | 0.60% | ~820 |
 | Royal Ransom | 0.60% | ~820 |
 | Magical Harmony | 0.60% | ~820 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,608 (Ranked 69)  
+Progressed: 136,611 (Ranked 69)  
 Completed: 153 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 153 (0.11%) (Ranked 229)
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
 | 2023-09-23 | 136,602 | 153 |
-| 2023-09-24 | 136,608 | 153 |
+| 2023-09-24 | 136,611 | 153 |
 ## Awards
 Max (Great for Beginners): 4,755  (Ranked 70)  
 Sum: 27,286 (Ranked 48)  

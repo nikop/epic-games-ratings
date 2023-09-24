@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SixSidedMastery",
@@ -713,8 +713,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:04:41.8863008+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:05:07.4109918+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:01:09.4946501+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:04:41.8863709+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:01:17.4997206+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:05:07.4110606+00:00"
 }

@@ -43,6 +43,7 @@ Number of Ratings: 37  (23.09.2022)
 | The King's new clothes II | 3.00% | ~129 |
 | Saint Florian | 3.00% | ~129 |
 | My precious... I | 3.00% | ~129 |
+| My precious... II | 3.00% | ~129 |
 | Cosmas and Damian | 3.00% | ~129 |
 | Builder III | 3.00% | ~129 |
 | A time consuming game IV | 3.00% | ~129 |
@@ -51,7 +52,6 @@ Number of Ratings: 37  (23.09.2022)
 | Five brews are a schnitzel | 2.00% | ~86 |
 | I like to build stuff... V | 2.00% | ~86 |
 | The King's new clothes III | 2.00% | ~86 |
-| My precious... II | 2.00% | ~86 |
 | My precious... III | 2.00% | ~86 |
 | Completionist II | 2.00% | ~86 |
 | Genius | 2.00% | ~86 |

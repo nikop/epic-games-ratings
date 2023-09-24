@@ -2,13 +2,13 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 152,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
     "PcReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ, CN"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 692,
   "RatingHistory": [
     {
@@ -3807,10 +3807,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 4098,
       "NumberOfAwardsMax": 942
+    },
+    {
+      "Time": "2023-09-24T04:01:33.3442112+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4099,
+      "NumberOfAwardsMax": 942
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4098,
+  "NumberOfAwards": 4099,
   "NumberOfAwardsMax": 942,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3884,7 +3890,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 233
+      "Count": 234
     }
   ],
   "EOS_Progressed": 0,
@@ -3898,8 +3904,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-09-24T01:45:47.817786+00:00",
+  "LastChanged": "2023-09-24T04:01:33.344211+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:50.2945568+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:01:25.5797833+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:07:41.4319893+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:01:33.3442116+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:08:01.4645558+00:00"
 }

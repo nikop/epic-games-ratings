@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 137,
@@ -670,9 +670,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 10293,
+  "EOS_Progressed": 10294,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10300,6 +10300,11 @@
       "Time": "2023-09-24T03:04:37.3072798+00:00",
       "NumProgressed": 10293,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-24T04:05:02.9243505+00:00",
+      "NumProgressed": 10294,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10487,7 +10492,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "ACH24",
@@ -10582,7 +10587,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10293,
+      "Progressed": 10294,
       "Completed": 58
     }
   ],
@@ -10590,8 +10595,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-23T11:02:04.6600568+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:04:37.3072794+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:05:02.9243501+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:01:32.1931902+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:04:37.3073437+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:01:39.6329279+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:05:02.9244164+00:00"
 }

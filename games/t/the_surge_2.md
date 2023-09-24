@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,637 |
-| Don't I Know You...? | 76.00% | ~1,555 |
-| Jailbreak | 65.00% | ~1,330 |
-| HEADSHOT! | 38.00% | ~777 |
-| Suited and Booted | 38.00% | ~777 |
+| Rigged And Ready | 80.00% | ~1,638 |
+| Don't I Know You...? | 77.00% | ~1,576 |
+| Jailbreak | 65.00% | ~1,331 |
+| HEADSHOT! | 38.00% | ~778 |
+| Suited and Booted | 38.00% | ~778 |
 | Sleeping With The Fishes | 36.00% | ~737 |
 | Overheated | 30.00% | ~614 |
 | High Performance | 30.00% | ~614 |
@@ -27,7 +27,7 @@ Rating: 4.24 (Ranked 846)
 | Dead Again | 18.00% | ~368 |
 | Full Arsenal | 17.00% | ~348 |
 | Can't Trust Banks | 15.00% | ~307 |
-| Mommy Dearest | 14.00% | ~286 |
+| Mommy Dearest | 14.00% | ~287 |
 | Bad Dog | 13.00% | ~266 |
 | Where It All Began | 13.00% | ~266 |
 | Risk Tolerant | 13.00% | ~266 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 846)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,046 (Ranked 194)  
+Progressed: 2,047 (Ranked 194)  
 Completed: 12 (0.59%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 12 (0.59%) (Ranked 152)
 | 2023-09-21 | 2,028 | 12 |
 | 2023-09-22 | 2,039 | 12 |
 | 2023-09-23 | 2,045 | 12 |
-| 2023-09-24 | 2,046 | 12 |
+| 2023-09-24 | 2,047 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

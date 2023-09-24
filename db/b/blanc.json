@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2730,
+  "EOS_Progressed": 2732,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3423,6 +3423,11 @@
       "Time": "2023-09-24T00:09:26.5386896+00:00",
       "NumProgressed": 2730,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T04:09:10.9462378+00:00",
+      "NumProgressed": 2732,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3442,7 +3447,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "FALLEN_TREE",
@@ -3474,7 +3479,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "SLIDERS",
@@ -3537,7 +3542,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2730,
+      "Progressed": 2732,
       "Completed": 6
     }
   ],
@@ -3545,8 +3550,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:08:30.8421271+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:09:10.9462374+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.7074849+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:57:24.5455942+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:08:30.8421514+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:57:35.0838933+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:09:10.9462615+00:00"
 }

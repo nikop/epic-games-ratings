@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.84,
+  "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -167,6 +167,11 @@
       "Time": "2023-09-24T02:25:09.3080807+00:00",
       "NumProgressed": 119,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T04:07:43.2829968+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -193,9 +198,9 @@
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_eou3",
@@ -211,7 +216,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_eou5",
@@ -225,9 +230,9 @@
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_eou7",
@@ -282,14 +287,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:07:22.5635513+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:07:43.2829961+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:58:37.2950802+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:07:22.5635599+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:58:44.2504875+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:07:43.2830058+00:00"
 }

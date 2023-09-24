@@ -6,28 +6,28 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 84.00% | ~23,545 |
-| Initial Capital | 74.00% | ~20,742 |
-| Moneybags | 53.00% | ~14,856 |
-| Junior Supply Officer | 53.00% | ~14,856 |
-| Naval Warfare. Arson | 40.00% | ~11,212 |
-| Naval Warfare. Ramming | 39.00% | ~10,932 |
-| Naval Constructor | 39.00% | ~10,932 |
-| Amateur | 38.00% | ~10,651 |
-| Naval Warfare. Tactics | 37.00% | ~10,371 |
-| Naval Warfare. Weaponry Basics | 29.00% | ~8,129 |
-| Naval Warfare. Lucky Shot | 25.00% | ~7,008 |
-| Naval Warfare. Flooding | 24.00% | ~6,727 |
-| Business Magnate | 23.00% | ~6,447 |
-| Battle Hero | 21.00% | ~5,886 |
-| Smooth Supply | 19.00% | ~5,326 |
-| Supply Officer | 18.00% | ~5,045 |
-| Warrior | 17.00% | ~4,765 |
-| Veteran | 11.00% | ~3,083 |
-| Chief Naval Architect | 6.00% | ~1,682 |
-| Shield | 6.00% | ~1,682 |
+| Junior Naval Designer | 84.00% | ~23,559 |
+| Initial Capital | 74.00% | ~20,755 |
+| Moneybags | 53.00% | ~14,865 |
+| Junior Supply Officer | 53.00% | ~14,865 |
+| Naval Warfare. Arson | 40.00% | ~11,219 |
+| Naval Warfare. Ramming | 39.00% | ~10,938 |
+| Naval Constructor | 39.00% | ~10,938 |
+| Amateur | 38.00% | ~10,658 |
+| Naval Warfare. Tactics | 37.00% | ~10,377 |
+| Naval Warfare. Weaponry Basics | 29.00% | ~8,134 |
+| Naval Warfare. Lucky Shot | 25.00% | ~7,012 |
+| Naval Warfare. Flooding | 24.00% | ~6,731 |
+| Business Magnate | 23.00% | ~6,451 |
+| Battle Hero | 21.00% | ~5,890 |
+| Smooth Supply | 19.00% | ~5,329 |
+| Supply Officer | 18.00% | ~5,048 |
+| Warrior | 17.00% | ~4,768 |
+| Veteran | 11.00% | ~3,085 |
+| Chief Naval Architect | 6.00% | ~1,683 |
+| Shield | 6.00% | ~1,683 |
 | Legend of the Seas | 5.00% | ~1,402 |
-| Important Missions | 4.00% | ~1,121 |
+| Important Missions | 4.00% | ~1,122 |
 | Senior Supply Officer | 3.00% | ~841 |
 | "Science of Victory" | 3.00% | ~841 |
 | Weather Beaten | 3.00% | ~841 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~28 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,030 (Ranked 109)  
+Progressed: 28,047 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 26,343 | 0 |
 | 2023-09-22 | 27,060 | 0 |
 | 2023-09-23 | 27,937 | 0 |
-| 2023-09-24 | 28,030 | 0 |
+| 2023-09-24 | 28,047 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,356  (Ranked 131)  
 Sum: 11,261 (Ranked 82)  

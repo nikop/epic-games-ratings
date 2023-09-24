@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 92.00% | ~93 |
-| MLG 360 no scope kill! | 92.00% | ~93 |
-| Are you ready to rumble? | 92.00% | ~93 |
-| That's what cheese said! | 86.00% | ~87 |
-| I like you...but I have to kill you... | 85.00% | ~86 |
-| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~85 |
-| Not so hip anymore! | 84.00% | ~85 |
-| Nerd | 84.00% | ~85 |
-| Blurry depth perception | 82.00% | ~83 |
-| Up and down | 80.00% | ~81 |
+| Tastes just like chicken! | 92.00% | ~94 |
+| MLG 360 no scope kill! | 92.00% | ~94 |
+| Are you ready to rumble? | 92.00% | ~94 |
+| That's what cheese said! | 86.00% | ~88 |
+| I like you...but I have to kill you... | 84.00% | ~86 |
+| Nerd | 84.00% | ~86 |
+| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~85 |
+| Not so hip anymore! | 83.00% | ~85 |
+| Blurry depth perception | 81.00% | ~83 |
+| Up and down | 79.00% | ~81 |
 | Rolling, Rolling, Rolling | 74.00% | ~75 |
 | Fire-fighter! | 68.00% | ~69 |
 | Oh, you're up to no gouda! | 63.00% | ~64 |
@@ -24,24 +24,24 @@
 | Honk honk! | 51.00% | ~52 |
 | Butcher | 51.00% | ~52 |
 | Spare Ribs | 51.00% | ~52 |
-| Cockadoodledoo! | 50.00% | ~50 |
-| Thats disgusting! | 48.00% | ~48 |
-| My pants squeak when I walk | 45.00% | ~45 |
-| Self assessed tax return | 43.00% | ~43 |
-| Surprise!! | 43.00% | ~43 |
-| Haemochromatosis | 42.00% | ~42 |
-| Make America Grate Again | 37.00% | ~37 |
-| Pasta Bolognese | 37.00% | ~37 |
-| You can't stop me, bro! | 35.00% | ~35 |
-| You are no match for me, Billy! | 34.00% | ~34 |
-| Catch the bus with me! | 34.00% | ~34 |
-| Karaoke king | 33.00% | ~33 |
-| I'm going to get a concussion | 31.00% | ~31 |
-| Meatballs, coming up! | 30.00% | ~30 |
-| Another one bites the iron | 30.00% | ~30 |
-| A Megapint...? | 26.00% | ~26 |
-| Hovering around | 25.00% | ~25 |
-| Kleptomaniac | 25.00% | ~25 |
+| Cockadoodledoo! | 50.00% | ~51 |
+| Thats disgusting! | 47.00% | ~48 |
+| My pants squeak when I walk | 44.00% | ~45 |
+| Self assessed tax return | 42.00% | ~43 |
+| Surprise!! | 42.00% | ~43 |
+| Haemochromatosis | 41.00% | ~42 |
+| Make America Grate Again | 36.00% | ~37 |
+| Pasta Bolognese | 36.00% | ~37 |
+| You can't stop me, bro! | 34.00% | ~35 |
+| You are no match for me, Billy! | 33.00% | ~34 |
+| Catch the bus with me! | 33.00% | ~34 |
+| Karaoke king | 32.00% | ~33 |
+| I'm going to get a concussion | 30.00% | ~31 |
+| Meatballs, coming up! | 29.00% | ~30 |
+| Another one bites the iron | 29.00% | ~30 |
+| A Megapint...? | 25.00% | ~26 |
+| Hovering around | 25.00% | ~26 |
+| Kleptomaniac | 25.00% | ~26 |
 | Ripe Meat Off The Bone! | 24.00% | ~24 |
 | You're not so Big anymore, Boi! | 23.00% | ~23 |
 | Your daily dose of Vitamin C. | 23.00% | ~23 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 375)  
+Progressed: 102 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,3 +125,4 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-19 | 99 | 0 |
 | 2023-09-20 | 100 | 0 |
 | 2023-09-21 | 101 | 0 |
+| 2023-09-24 | 102 | 0 |

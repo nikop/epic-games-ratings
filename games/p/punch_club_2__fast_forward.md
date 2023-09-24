@@ -19,7 +19,7 @@
 | First defeat | 73.00% | ~239 |
 | Fighting is cool | 70.00% | ~230 |
 | No bullying more | 70.00% | ~230 |
-| Hello, world! | 69.00% | ~226 |
+| Hello, world! | 70.00% | ~230 |
 | Pal of your father? | 67.00% | ~220 |
 | Employee of the month | 66.00% | ~216 |
 | Spirit of the past | 65.00% | ~213 |

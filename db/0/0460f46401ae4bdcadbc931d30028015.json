@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1136,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -552,6 +552,11 @@
       "Time": "2023-09-24T03:06:05.6853598+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T04:06:28.993039+00:00",
+      "NumProgressed": 1168,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -572,15 +577,15 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_11",
       "SetID": "aiin7da",
       "Name": "Big Spender",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 324
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_12",
@@ -588,23 +593,23 @@
       "Name": "Dealmaker",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 324
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 289
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_14",
       "SetID": "aiin7da",
       "Name": "ROTY",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 393
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_15",
@@ -612,7 +617,7 @@
       "Name": "Pocket Ace",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_16",
@@ -652,7 +657,7 @@
       "Name": "Unblockable",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_20",
@@ -660,7 +665,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 636
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_21",
@@ -676,7 +681,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_4",
@@ -692,7 +697,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_6",
@@ -700,7 +705,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_7",
@@ -716,7 +721,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 289
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_9",
@@ -724,14 +729,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1168,
       "Completed": 0
     }
   ],
@@ -739,8 +744,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-23T03:59:07.1478372+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:06:05.6853591+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:06:28.9930385+00:00",
   "LastUpdate_AppInfo": "2023-09-21T02:12:03.9415691+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:00:19.3099515+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:06:05.685378+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:00:25.6388767+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:06:28.9930539+00:00"
 }

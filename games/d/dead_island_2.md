@@ -1,11 +1,11 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 508)  
+Rating: 4.54 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,557 |
+| Welcome To Hell-A | 3.00% | ~20,558 |
 | Dr. Reed, I Presume? | 2.00% | ~13,705 |
 | Git Gutte! | 2.00% | ~13,705 |
 | Bookworm | 2.00% | ~13,705 |
@@ -24,20 +24,20 @@ Rating: 4.54 (Ranked 508)
 | Stacking the Deck | 2.00% | ~13,705 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,705 |
 | This is My Weapon | 2.00% | ~13,705 |
-| Making Your Mark | 1.00% | ~6,852 |
-| Anger Management | 1.00% | ~6,852 |
-| Perks of the Job | 1.00% | ~6,852 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,852 |
-| Ooh, Shiny! | 1.00% | ~6,852 |
-| Humanity Distilled | 1.00% | ~6,852 |
-| I Am the Resurrection | 1.00% | ~6,852 |
-| Down with the Sickness | 1.00% | ~6,852 |
-| Our True Nature | 1.00% | ~6,852 |
+| Making Your Mark | 1.00% | ~6,853 |
+| Anger Management | 1.00% | ~6,853 |
+| Perks of the Job | 1.00% | ~6,853 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,853 |
+| Ooh, Shiny! | 1.00% | ~6,853 |
+| Humanity Distilled | 1.00% | ~6,853 |
+| I Am the Resurrection | 1.00% | ~6,853 |
+| Down with the Sickness | 1.00% | ~6,853 |
+| Our True Nature | 1.00% | ~6,853 |
 | Max Headroom | 0.90% | ~6,167 |
 | Jumbo Keyring | 0.70% | ~4,797 |
 | Go, Bobcats! | 0.70% | ~4,797 |
 | Rising Star | 0.70% | ~4,797 |
-| Smorgasbord | 0.60% | ~4,111 |
+| Smorgasbord | 0.60% | ~4,112 |
 | On Safari | 0.50% | ~3,426 |
 | Not Even My Final Form | 0.50% | ~3,426 |
 | Internet Famous | 0.50% | ~3,426 |
@@ -47,12 +47,12 @@ Rating: 4.54 (Ranked 508)
 | LA Influential | 0.30% | ~2,056 |
 | Sole Survivor | 0.30% | ~2,056 |
 | Sharpest Tool in the Box | 0.30% | ~2,056 |
-| Survival Skills | 0.20% | ~1,370 |
+| Survival Skills | 0.20% | ~1,371 |
 | Donk! | 0.10% | ~685 |
 | Bucket List | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,237 (Ranked 22)  
-Completed: 2,169 (0.32%) (Ranked 185)  
+Progressed: 685,251 (Ranked 22)  
+Completed: 2,170 (0.32%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,16 +208,16 @@ Completed: 2,169 (0.32%) (Ranked 185)
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
-| 2023-09-24 | 685,237 | 2,169 |
+| 2023-09-24 | 685,251 | 2,170 |
 ## Awards
 Max (Great Boss Battles): 6,175  (Ranked 57)  
-Sum: 9,184 (Ranked 92)  
+Sum: 9,186 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,175 |
 | This game is Great for Beginners | 429 |
-| This game has Diverse Characters | 416 |
+| This game has Diverse Characters | 418 |
 | This game has Quickly Understood Controls | 400 |
 | This game is Relaxing | 385 |
 | This game has Amazing Storytelling | 358 |
@@ -383,4 +383,4 @@ Diff (max vs sum): -35
 | 2023-09-21 | 4.54 | 6,140 | 9,124 |
 | 2023-09-22 | 4.54 | 6,156 | 9,150 |
 | 2023-09-23 | 4.54 | 6,175 | 9,178 |
-| 2023-09-24 | 4.54 | 6,175 | 9,184 |
+| 2023-09-24 | 4.54 | 6,175 | 9,186 |

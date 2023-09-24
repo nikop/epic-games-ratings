@@ -9,9 +9,9 @@
 | Medal of Exploration I | 75.00% | ~215 |
 | Search and Rescue | 73.00% | ~210 |
 | Recruit | 71.00% | ~204 |
+| Quarian Ally | 66.00% | ~189 |
+| Honorarium of Corporate Service | 66.00% | ~189 |
 | Medal of Heroism | 65.00% | ~187 |
-| Quarian Ally | 65.00% | ~187 |
-| Honorarium of Corporate Service | 65.00% | ~187 |
 | Medal of Exploration II | 61.00% | ~175 |
 | Council Legion of Merit | 59.00% | ~169 |
 | Turian Ally | 58.00% | ~166 |
@@ -25,19 +25,19 @@
 | Colonial Savior | 48.00% | ~138 |
 | Soldier Ally | 47.00% | ~135 |
 | Sentinel Ally | 47.00% | ~135 |
+| Merciless | 46.00% | ~132 |
 | Scientist | 46.00% | ~132 |
 | Paramour I | 45.00% | ~129 |
 | Krogan Ally | 45.00% | ~129 |
-| Merciless | 45.00% | ~129 |
 | Head Hunter | 43.00% | ~123 |
 | Operative | 43.00% | ~123 |
 | Scholar | 43.00% | ~123 |
 | Veteran | 40.00% | ~115 |
 | Very Elusive | 40.00% | ~115 |
+| Power Full | 40.00% | ~115 |
 | Missing in Action | 39.00% | ~112 |
-| Power Full | 39.00% | ~112 |
+| Archivist | 38.00% | ~109 |
 | Completionist | 38.00% | ~109 |
-| Archivist | 37.00% | ~106 |
 | The Archangel | 37.00% | ~106 |
 | The Convict | 37.00% | ~106 |
 | The Krogan | 36.00% | ~103 |
@@ -46,9 +46,9 @@
 | Colony Defense | 35.00% | ~100 |
 | The Justicar | 33.00% | ~95 |
 | Broke, Blind, and Bedlam | 33.00% | ~95 |
+| The Quarian | 32.00% | ~92 |
 | Ghost Ship | 31.00% | ~89 |
 | The Assassin | 31.00% | ~89 |
-| The Quarian | 31.00% | ~89 |
 | Battlemaster | 31.00% | ~89 |
 | Ghost of the Father | 31.00% | ~89 |
 | The Cure | 31.00% | ~89 |
@@ -57,18 +57,18 @@
 | A Personal Touch | 30.00% | ~86 |
 | Cat's in the Cradle | 30.00% | ~86 |
 | Catharsis | 30.00% | ~86 |
+| Doppelganger | 30.00% | ~86 |
 | Fade Away | 30.00% | ~86 |
 | The Prodigal | 30.00% | ~86 |
 | Big Game Hunter | 30.00% | ~86 |
 | Digital Exorcist | 30.00% | ~86 |
 | Driven | 30.00% | ~86 |
 | Shopaholic | 30.00% | ~86 |
-| Doppelganger | 29.00% | ~83 |
 | Heart of Darkness | 29.00% | ~83 |
 | Bringer of War | 29.00% | ~83 |
 | Focused | 28.00% | ~80 |
 | Friend or Foe | 28.00% | ~80 |
-| Treason | 27.00% | ~77 |
+| Treason | 28.00% | ~80 |
 | Mobilizer | 27.00% | ~77 |
 | Suicide Mission | 26.00% | ~75 |
 | Untouchable | 25.00% | ~72 |
@@ -85,7 +85,7 @@
 | Savior | 20.00% | ~57 |
 | Lost and Found | 20.00% | ~57 |
 | Paramour II | 19.00% | ~55 |
-| Electronics Specialist | 18.00% | ~52 |
+| Electronics Specialist | 19.00% | ~55 |
 | Sabotage Specialist | 18.00% | ~52 |
 | Pathfinder | 18.00% | ~52 |
 | Tunnel Rat | 18.00% | ~52 |

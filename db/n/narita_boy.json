@@ -4,8 +4,8 @@
   "ProductSlug": "narita-boy",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-03-30T17:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:14.1182241+00:00",
   "LastChanged": "2023-03-31T05:58:14.1182242+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.8361507+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:57:10.255786+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:05:20.3672012+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:57:22.186622+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:05:44.4150285+00:00"
 }

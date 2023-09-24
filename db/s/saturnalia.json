@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -258,7 +258,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66625,
+  "EOS_Progressed": 66626,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
@@ -10868,6 +10868,11 @@
       "Time": "2023-09-24T03:08:27.7605274+00:00",
       "NumProgressed": 66625,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-24T04:09:07.9963029+00:00",
+      "NumProgressed": 66626,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -10879,7 +10884,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "ACH_BONFIRES",
@@ -10911,7 +10916,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -10927,7 +10932,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -10967,7 +10972,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -10975,7 +10980,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -11023,7 +11028,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "ACH_TOOLS",
@@ -11038,7 +11043,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 66625,
+      "Progressed": 66626,
       "Completed": 14
     }
   ],
@@ -11046,8 +11051,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:08:27.7605268+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:09:07.9963026+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:17.898974+00:00",
-  "LastUpdate_Ratings": "2023-09-24T03:00:06.0950379+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:08:27.7605988+00:00"
+  "LastUpdate_Ratings": "2023-09-24T04:00:13.1170315+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:09:07.9963644+00:00"
 }

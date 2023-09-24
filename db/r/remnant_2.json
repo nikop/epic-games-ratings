@@ -2346,10 +2346,10 @@
       "Count": 186
     }
   ],
-  "EOS_Progressed": 185496,
+  "EOS_Progressed": 185508,
   "EOS_Completed": 329,
-  "EOS_NewPlayers": 3466,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 3449,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -10006,6 +10006,11 @@
       "Time": "2023-09-24T03:06:49.7872048+00:00",
       "NumProgressed": 185496,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2023-09-24T04:07:12.0628167+00:00",
+      "NumProgressed": 185508,
+      "NumCompleted": 329
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -10018,7 +10023,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12985
+      "UsersEstimate": 12986
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -10042,7 +10047,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -10098,7 +10103,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14840
+      "UsersEstimate": 14841
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -10138,7 +10143,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12985
+      "UsersEstimate": 12986
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -10202,7 +10207,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16695
+      "UsersEstimate": 16696
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -10322,7 +10327,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14840
+      "UsersEstimate": 14841
     },
     {
       "ID": "Obtain_Traits_B",
@@ -10417,7 +10422,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 185496,
+      "Progressed": 185508,
       "Completed": 329
     }
   ],
@@ -10425,8 +10430,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-23T23:59:01.2972177+00:00",
-  "LastChanged_Achievements": "2023-09-24T03:06:49.7872041+00:00",
+  "LastChanged_Achievements": "2023-09-24T04:07:12.0628162+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.0716311+00:00",
-  "LastUpdate_Ratings": "2023-09-24T02:58:45.3336534+00:00",
-  "LastUpdate_Achievements": "2023-09-24T03:06:49.7872724+00:00"
+  "LastUpdate_Ratings": "2023-09-24T03:58:52.5614136+00:00",
+  "LastUpdate_Achievements": "2023-09-24T04:07:12.0628878+00:00"
 }
