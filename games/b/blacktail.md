@@ -14,12 +14,12 @@ Rating: 4.68 (Ranked 244)
 | Slavic squatter | 9.00% | ~62 |
 | Spirit animal | 8.00% | ~55 |
 | Gold rush | 7.00% | ~48 |
+| Liar Liar | 6.00% | ~41 |
 | A friend in need... | 6.00% | ~41 |
 | Extensive retelling | 5.00% | ~34 |
 | Sneak peek | 5.00% | ~34 |
 | Fishing fanatic | 5.00% | ~34 |
 | The word around is... | 5.00% | ~34 |
-| Liar Liar | 5.00% | ~34 |
 | The cycle acknowledged | 5.00% | ~34 |
 | Baba Yaga | 5.00% | ~34 |
 | Favorite | 4.00% | ~27 |

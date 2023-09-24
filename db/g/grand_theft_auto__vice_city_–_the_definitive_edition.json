@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 10320,
+  "EOS_Progressed": 10322,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10361,6 +10361,11 @@
       "Time": "2023-09-24T14:04:34.9773336+00:00",
       "NumProgressed": 10320,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-24T15:05:05.4482862+00:00",
+      "NumProgressed": 10322,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10444,7 +10449,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH11",
@@ -10476,7 +10481,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "ACH15",
@@ -10532,7 +10537,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4748
     },
     {
       "ID": "ACH22",
@@ -10643,7 +10648,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10320,
+      "Progressed": 10322,
       "Completed": 58
     }
   ],
@@ -10651,8 +10656,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-24T12:00:28.8282064+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:04:34.977333+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:05:05.4482853+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:01:02.6538313+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:04:34.9773972+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:01:58.6478102+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:05:05.4483699+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 303,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1737,9 +1737,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14098,
+  "EOS_Progressed": 14102,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12137,6 +12137,11 @@
       "Time": "2023-09-24T13:06:39.2671676+00:00",
       "NumProgressed": 14098,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T15:02:29.7801786+00:00",
+      "NumProgressed": 14102,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13084,7 +13089,7 @@
       "Name": "The Eternal Treaty",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
@@ -13796,7 +13801,7 @@
       "Name": "Persia",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -13930,9 +13935,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -14060,7 +14065,7 @@
       "Name": "Capturing Cities",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -14076,7 +14081,7 @@
       "Name": "Ten Crowns",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -14204,7 +14209,7 @@
       "Name": "Three Man Chariot",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -14242,9 +14247,9 @@
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Turreted Elephant",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -14298,9 +14303,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -14490,9 +14495,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
       "SetID": "9201eeb",
       "Name": "Patriarch St Paul",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA",
@@ -14515,21 +14520,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14098,
+      "Progressed": 14102,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14098,
+      "Progressed": 14102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T18:01:38.9338052+00:00",
-  "LastChanged_Achievements": "2023-09-24T13:06:39.2671672+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:02:29.7801772+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:00:43.0591536+00:00",
-  "LastUpdate_Achievements": "2023-09-24T13:06:39.2683694+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:01:35.6953633+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:02:29.7814073+00:00"
 }

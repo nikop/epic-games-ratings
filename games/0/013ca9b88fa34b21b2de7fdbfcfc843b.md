@@ -5,35 +5,35 @@ Rating: 4.81 (Ranked 78)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,521 |
-| A Thorny Situation | 70.00% | ~3,376 |
-| ... And Spit Back Out | 59.00% | ~2,846 |
-| Break-Net Speed | 47.00% | ~2,267 |
-| Bramble Breaker | 43.00% | ~2,074 |
-| Miner 49er | 41.00% | ~1,977 |
-| Humble Collector | 39.00% | ~1,881 |
-| Calm Sailing | 32.00% | ~1,543 |
-| Open the Gate! | 29.00% | ~1,399 |
-| Mist Walker | 27.00% | ~1,302 |
-| Lumberjack | 23.00% | ~1,109 |
-| Oui, Chef! | 21.00% | ~1,013 |
-| Clear the Air | 14.00% | ~675 |
-| Botanical Breakthrough | 13.00% | ~627 |
-| Beach Comber | 11.00% | ~531 |
-| Higher Tax Bracket | 9.00% | ~434 |
-| Search for the Hairy Grell | 8.00% | ~386 |
-| Got to Catch Them All | 5.00% | ~241 |
-| Rumble in the Jumble | 5.00% | ~241 |
-| Fanatical Farmer | 5.00% | ~241 |
-| Skilled | 5.00% | ~241 |
+| Azoria Beckons | 73.00% | ~3,529 |
+| A Thorny Situation | 70.00% | ~3,384 |
+| ... And Spit Back Out | 59.00% | ~2,852 |
+| Break-Net Speed | 47.00% | ~2,272 |
+| Bramble Breaker | 43.00% | ~2,079 |
+| Miner 49er | 41.00% | ~1,982 |
+| Humble Collector | 39.00% | ~1,885 |
+| Calm Sailing | 32.00% | ~1,547 |
+| Open the Gate! | 29.00% | ~1,402 |
+| Mist Walker | 27.00% | ~1,305 |
+| Lumberjack | 23.00% | ~1,112 |
+| Oui, Chef! | 21.00% | ~1,015 |
+| Clear the Air | 14.00% | ~677 |
+| Botanical Breakthrough | 13.00% | ~628 |
+| Beach Comber | 11.00% | ~532 |
+| Higher Tax Bracket | 9.00% | ~435 |
+| Search for the Hairy Grell | 8.00% | ~387 |
+| Got to Catch Them All | 5.00% | ~242 |
+| Rumble in the Jumble | 5.00% | ~242 |
+| Fanatical Farmer | 5.00% | ~242 |
+| Skilled | 5.00% | ~242 |
 | Flaming Hot Completos | 3.00% | ~145 |
 | Fae Farmer | 3.00% | ~145 |
 | Scattered Scroll Scrounger | 3.00% | ~145 |
 | I Now Pronounce You... | 3.00% | ~145 |
 | Azorian Anniversary | 3.00% | ~145 |
-| Chatty Neighbor | 2.00% | ~96 |
-| Right Tool For the Job | 2.00% | ~96 |
-| House Proud | 2.00% | ~96 |
+| Chatty Neighbor | 2.00% | ~97 |
+| Right Tool For the Job | 2.00% | ~97 |
+| House Proud | 2.00% | ~97 |
 | Angling Authority | 0.70% | ~34 |
 | Captain of Cozy | 0.70% | ~34 |
 | Cloverfield Island | 0.10% | ~5 |
@@ -41,7 +41,7 @@ Rating: 4.81 (Ranked 78)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,823 (Ranked 164)  
+Progressed: 4,834 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-21 | 4,439 | 0 |
 | 2023-09-22 | 4,573 | 0 |
 | 2023-09-23 | 4,750 | 0 |
-| 2023-09-24 | 4,823 | 0 |
+| 2023-09-24 | 4,834 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

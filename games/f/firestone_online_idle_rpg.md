@@ -5,8 +5,8 @@ Rating: 4.02 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,830 |
-| World Map | 79.00% | ~1,555 |
+| Victor | 93.00% | ~1,831 |
+| World Map | 79.00% | ~1,556 |
 | Temple of Eternals | 57.00% | ~1,122 |
 | Prestigious | 54.00% | ~1,063 |
 | Fellowship Power | 41.00% | ~807 |
@@ -18,8 +18,8 @@ Rating: 4.02 (Ranked 945)
 | Full Party | 17.00% | ~335 |
 | Inspection | 17.00% | ~335 |
 | Miner Clicker | 17.00% | ~335 |
+| Dragon Master | 16.00% | ~315 |
 | Enlightenment | 16.00% | ~315 |
-| Dragon Master | 15.00% | ~295 |
 | Hero inspection | 15.00% | ~295 |
 | Lieutenant | 15.00% | ~295 |
 | Milestone collector | 14.00% | ~276 |
@@ -28,26 +28,26 @@ Rating: 4.02 (Ranked 945)
 | Superior | 14.00% | ~276 |
 | The Unstoppable | 14.00% | ~276 |
 | Scientist | 12.00% | ~236 |
-| Challenger | 11.00% | ~216 |
-| Daily Quest Completionist | 11.00% | ~216 |
-| Doing My Part | 11.00% | ~216 |
-| Four Leaf Clover | 11.00% | ~216 |
-| Hunter | 11.00% | ~216 |
-| Mastery | 11.00% | ~216 |
-| Moving Up The Ladder | 11.00% | ~216 |
-| Relic Of The Past | 11.00% | ~216 |
-| Scroll Master | 11.00% | ~216 |
-| The power of Awakening | 11.00% | ~216 |
+| Challenger | 11.00% | ~217 |
+| Daily Quest Completionist | 11.00% | ~217 |
+| Doing My Part | 11.00% | ~217 |
+| Four Leaf Clover | 11.00% | ~217 |
+| Hunter | 11.00% | ~217 |
+| Mastery | 11.00% | ~217 |
+| Moving Up The Ladder | 11.00% | ~217 |
+| Relic Of The Past | 11.00% | ~217 |
+| Scroll Master | 11.00% | ~217 |
+| The power of Awakening | 11.00% | ~217 |
 | Frostfire Liberator | 10.00% | ~197 |
 | Here We Go Again | 9.00% | ~177 |
 | Master Enchanter | 9.00% | ~177 |
 | The father of Dragons | 9.00% | ~177 |
 | Trader | 9.00% | ~177 |
-| Crystal Mining | 8.00% | ~157 |
-| Dragon Slayer | 8.00% | ~157 |
-| Enchanting skill | 8.00% | ~157 |
-| The Expeditioner | 8.00% | ~157 |
-| Weekly Quest Completionist | 8.00% | ~157 |
+| Crystal Mining | 8.00% | ~158 |
+| Dragon Slayer | 8.00% | ~158 |
+| Enchanting skill | 8.00% | ~158 |
+| The Expeditioner | 8.00% | ~158 |
+| Weekly Quest Completionist | 8.00% | ~158 |
 | Blueprint Upgrades | 7.00% | ~138 |
 | Engineer Mastery | 7.00% | ~138 |
 | Lock And Load | 7.00% | ~138 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 945)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,968 (Ranked 196)  
+Progressed: 1,969 (Ranked 196)  
 Completed: 2 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 2 (0.10%) (Ranked 233)
 | 2023-09-21 | 1,957 | 2 |
 | 2023-09-22 | 1,958 | 2 |
 | 2023-09-23 | 1,967 | 2 |
-| 2023-09-24 | 1,968 | 2 |
+| 2023-09-24 | 1,969 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 22  (Ranked 505)  
 Sum: 44 (Ranked 465)  

@@ -10,11 +10,11 @@ Rating: 4.46 (Ranked 631)
 | The Kraken Wakes | 36.00% | ~1,318 |
 | It's Starting to Crack | 33.00% | ~1,208 |
 | Change the Channel | 30.00% | ~1,098 |
-| Lord of War | 29.00% | ~1,061 |
+| Lord of War | 29.00% | ~1,062 |
 | Taking it back | 28.00% | ~1,025 |
 | Resourceful | 26.00% | ~952 |
 | Target America | 26.00% | ~952 |
-| The Kraken Sleeps | 24.00% | ~878 |
+| The Kraken Sleeps | 24.00% | ~879 |
 | Liberté | 22.00% | ~805 |
 | Organ Grinder | 22.00% | ~805 |
 | As Quiet as a Mouse | 22.00% | ~805 |
@@ -26,11 +26,11 @@ Rating: 4.46 (Ranked 631)
 | Der Geist | 16.00% | ~586 |
 | Close Quarters | 15.00% | ~549 |
 | Brains of the Operation | 15.00% | ~549 |
-| Enemy at the Gates | 14.00% | ~512 |
-| Fields of Glory | 14.00% | ~512 |
-| Skirmisher | 14.00% | ~512 |
-| Die Nussknacker Sweet! | 14.00% | ~512 |
-| Snake in the Grass | 14.00% | ~512 |
+| Enemy at the Gates | 14.00% | ~513 |
+| Fields of Glory | 14.00% | ~513 |
+| Skirmisher | 14.00% | ~513 |
+| Die Nussknacker Sweet! | 14.00% | ~513 |
+| Snake in the Grass | 14.00% | ~513 |
 | No Stone Unturned | 13.00% | ~476 |
 | Opposing Force | 13.00% | ~476 |
 | Set Europe Ablaze | 13.00% | ~476 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 631)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,660 (Ranked 171)  
+Progressed: 3,661 (Ranked 171)  
 Completed: 11 (0.30%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 11 (0.30%) (Ranked 190)
 | 2023-09-21 | 3,649 | 11 |
 | 2023-09-22 | 3,652 | 11 |
 | 2023-09-23 | 3,658 | 11 |
-| 2023-09-24 | 3,660 | 11 |
+| 2023-09-24 | 3,661 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

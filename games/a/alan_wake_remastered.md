@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,762 |
-| Let There Be Light | 34.00% | ~22,474 |
-| Float Like a Butterfly | 32.00% | ~21,152 |
-| Nordic Walking | 26.00% | ~17,186 |
-| Bright Falls' Finest | 25.00% | ~16,525 |
-| Under a Thin Layer of Skin | 22.00% | ~14,542 |
-| Paging Mr. Wake | 19.00% | ~12,559 |
-| Park Ranger | 18.00% | ~11,898 |
-| Back! Back, I Say! | 17.00% | ~11,237 |
-| Finders Keepers | 17.00% | ~11,237 |
+| Follow the Light | 42.00% | ~27,763 |
+| Let There Be Light | 34.00% | ~22,475 |
+| Float Like a Butterfly | 32.00% | ~21,153 |
+| Nordic Walking | 26.00% | ~17,187 |
+| Bright Falls' Finest | 25.00% | ~16,526 |
+| Under a Thin Layer of Skin | 22.00% | ~14,543 |
+| Paging Mr. Wake | 19.00% | ~12,560 |
+| Park Ranger | 18.00% | ~11,899 |
+| Back! Back, I Say! | 17.00% | ~11,238 |
+| Finders Keepers | 17.00% | ~11,238 |
 | Sound and Fury | 16.00% | ~10,576 |
 | Damn Good Cup of Coffee | 16.00% | ~10,576 |
 | Wheels Within Wheels | 15.00% | ~9,915 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 9.00% | ~5,949 |
 | Tornado Wrangler | 8.00% | ~5,288 |
 | Departure | 8.00% | ~5,288 |
-| A Friend in Need | 8.00% | ~2,365 |
+| A Friend in Need | 8.00% | ~2,366 |
 | Drink 'Em Both Up | 6.00% | ~3,966 |
 | Hardboiled Writer | 6.00% | ~3,966 |
 | A Friend Indeed | 6.00% | ~1,774 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,099 (Ranked 89)  
+Progressed: 66,103 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 66 (0.10%) (Ranked 233)
 | 2023-09-21 | 65,931 | 66 |
 | 2023-09-22 | 65,981 | 66 |
 | 2023-09-23 | 66,060 | 66 |
-| 2023-09-24 | 66,099 | 66 |
+| 2023-09-24 | 66,103 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 117)
 | The Sort Who Makes an Entrance | 14.00% | ~41,613 |
 | First Class Student | 13.00% | ~38,641 |
 | Troll with the Punches | 13.00% | ~38,641 |
-| A Keen Sense of Spell | 12.00% | ~35,668 |
+| A Keen Sense of Spell | 12.00% | ~35,669 |
 | A Talent for Spending | 11.00% | ~32,696 |
 | That's a Keeper | 11.00% | ~32,696 |
 | Grappling with a Graphorn | 10.00% | ~29,724 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 117)
 | Challenge Accepted | 10.00% | ~29,724 |
 | Loom for Improvement | 10.00% | ~29,724 |
 | Coasting Along | 10.00% | ~29,724 |
-| Followed the Butterflies | 9.00% | ~26,751 |
-| Rising From the Ashes | 9.00% | ~26,751 |
+| Followed the Butterflies | 9.00% | ~26,752 |
+| Rising From the Ashes | 9.00% | ~26,752 |
 | A Sallow Grave | 8.00% | ~23,779 |
 | The Spell Master | 8.00% | ~23,779 |
 | The Avenging Gazelle | 7.00% | ~20,807 |
@@ -31,12 +31,12 @@ Rating: 4.76 (Ranked 117)
 | Third Time's a Charm | 6.00% | ~17,834 |
 | Raising Expectations | 6.00% | ~17,834 |
 | The Ends Petrify the Means | 5.00% | ~14,862 |
-| The Toast of the Town | 4.00% | ~11,889 |
-| Going Through the Potions | 4.00% | ~11,889 |
-| Room with a View | 4.00% | ~11,889 |
-| The Intrepid Explorer | 4.00% | ~11,889 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,889 |
-| The Wise Owl | 4.00% | ~11,889 |
+| The Toast of the Town | 4.00% | ~11,890 |
+| Going Through the Potions | 4.00% | ~11,890 |
+| Room with a View | 4.00% | ~11,890 |
+| The Intrepid Explorer | 4.00% | ~11,890 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,890 |
+| The Wise Owl | 4.00% | ~11,890 |
 | Put Down Roots | 3.00% | ~8,917 |
 | The Auror's Apprentice | 3.00% | ~8,917 |
 | Floo Around the World | 3.00% | ~8,917 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,237 (Ranked 44)  
+Progressed: 297,239 (Ranked 44)  
 Completed: 476 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 476 (0.16%) (Ranked 215)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,237 | 476 |
+| 2023-09-24 | 297,239 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
 Sum: 44,164 (Ranked 30)  

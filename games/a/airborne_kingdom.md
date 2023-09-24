@@ -1,26 +1,26 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.64 (Ranked 315)  
+Rating: 4.64 (Ranked 314)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,040 |
+| A Small Community | 56.00% | ~4,041 |
 | A Grove Replanted | 53.00% | ~3,824 |
-| Fields Watered | 41.00% | ~2,958 |
-| Seekers Found | 41.00% | ~2,958 |
-| Settling the Skies | 41.00% | ~2,958 |
+| Fields Watered | 41.00% | ~2,959 |
+| Seekers Found | 41.00% | ~2,959 |
+| Settling the Skies | 41.00% | ~2,959 |
 | Wind Powered | 40.00% | ~2,886 |
 | It Takes a Village | 34.00% | ~2,453 |
 | On the Town | 28.00% | ~2,020 |
 | Daylight Found | 26.00% | ~1,876 |
 | Irons Scorched | 25.00% | ~1,804 |
 | Islands Connected | 25.00% | ~1,804 |
-| Harp Tuned | 23.00% | ~1,659 |
-| Pyre Ignited | 23.00% | ~1,659 |
-| Travelers Returned | 23.00% | ~1,659 |
-| Hopes Hoisted | 22.00% | ~1,587 |
+| Harp Tuned | 23.00% | ~1,660 |
+| Pyre Ignited | 23.00% | ~1,660 |
+| Travelers Returned | 23.00% | ~1,660 |
+| Hopes Hoisted | 22.00% | ~1,588 |
 | Knowledge Shared | 20.00% | ~1,443 |
 | Relic Finder | 20.00% | ~1,443 |
 | Worthy of the Title | 19.00% | ~1,371 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~144 |
 | A True Challenge | 2.00% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,215 (Ranked 147)  
+Progressed: 7,216 (Ranked 147)  
 Completed: 53 (0.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 53 (0.73%) (Ranked 142)
 | 2023-09-21 | 7,206 | 53 |
 | 2023-09-22 | 7,211 | 53 |
 | 2023-09-23 | 7,212 | 53 |
-| 2023-09-24 | 7,215 | 53 |
+| 2023-09-24 | 7,216 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

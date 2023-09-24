@@ -4,8 +4,8 @@
   "ProductSlug": "shop-tycoon-prepare-your-wallet-e705ba",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-31T13:00:00+00:00",
     "PcReleaseDate": "2021-08-25T06:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-03T10:57:03.9520299+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:36.7070266+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:58:50.3378036+00:00",
+  "LastUpdate_Ratings": "2023-09-24T14:59:13.0178557+00:00",
   "LastUpdate_Achievements": "2023-09-24T14:02:17.6326058+00:00"
 }

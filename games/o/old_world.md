@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 4.00% | ~564 |
 | Hanging Gardens | 4.00% | ~564 |
 | Oracle | 4.00% | ~564 |
+| Judaism | 4.00% | ~564 |
 | Naming Landmarks | 4.00% | ~564 |
 | Trade Caravan | 4.00% | ~564 |
 | Ambitious | 3.00% | ~423 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 3.00% | ~423 |
 | Learn to Play 1 | 3.00% | ~423 |
 | Christianity | 3.00% | ~423 |
-| Judaism | 3.00% | ~423 |
 | Babylonian Paganism | 3.00% | ~423 |
 | Carthaginian Paganism | 3.00% | ~423 |
 | Greek Paganism | 3.00% | ~423 |
@@ -127,11 +127,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
+| Turreted Elephant | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
 | Learn to Play 4 | 0.80% | ~113 |
 | One True Faith | 0.80% | ~113 |
-| Turreted Elephant | 0.80% | ~113 |
+| No Undo | 0.80% | ~113 |
 | Old | 0.70% | ~99 |
 | Peacemaker | 0.70% | ~99 |
 | Cao'an | 0.70% | ~99 |
@@ -139,16 +140,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.70% | ~99 |
 | Cataphract Archer | 0.70% | ~99 |
 | All Nations | 0.70% | ~99 |
-| No Undo | 0.70% | ~99 |
 | Carthage - Ox Hide | 0.60% | ~85 |
 | Noble Difficulty | 0.60% | ~85 |
 | Old World Order | 0.60% | ~85 |
 | Play a Network Game | 0.60% | ~85 |
-| The Eternal Treaty | 0.50% | ~70 |
-| Persia | 0.50% | ~70 |
-| Capturing Cities | 0.50% | ~70 |
-| Ten Crowns | 0.50% | ~70 |
-| Three Man Chariot | 0.50% | ~70 |
+| The Eternal Treaty | 0.50% | ~71 |
+| Persia | 0.50% | ~71 |
+| Capturing Cities | 0.50% | ~71 |
+| Ten Crowns | 0.50% | ~71 |
+| Three Man Chariot | 0.50% | ~71 |
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
 | Learn to Play 5 | 0.40% | ~56 |
@@ -159,6 +159,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.40% | ~56 |
 | Necropolis in Waset | 0.40% | ~56 |
 | Pilgrimage | 0.40% | ~56 |
+| Patriarch St Paul | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
 | Silver Victory (Carthage 1) | 0.30% | ~42 |
 | Carthage - Riches and Influence | 0.30% | ~42 |
@@ -173,7 +174,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
 | Pantheon in Roma | 0.30% | ~42 |
-| Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
 | Blade of the Monkey | 0.20% | ~28 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,098 (Ranked 128)  
+Progressed: 14,102 (Ranked 128)  
 Completed: 5 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,7 +460,7 @@ Completed: 5 (0.04%) (Ranked 256)
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
-| 2023-09-24 | 14,098 | 5 |
+| 2023-09-24 | 14,102 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 265)  
 Sum: 1,817 (Ranked 207)  

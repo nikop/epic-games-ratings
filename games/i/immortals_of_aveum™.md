@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.97 (Ranked 960)  
+Rating: 4.00 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,15 +18,16 @@ Rating: 3.97 (Ranked 960)
 | Beggars Would Ride | 25.00% | ~3 |
 | Control is an Illusion | 17.00% | ~2 |
 | The Means to Save It | 17.00% | ~2 |
+| Resilience to Sin | 17.00% | ~2 |
 | Socialite | 17.00% | ~2 |
 | Armsman | 17.00% | ~2 |
-| Resilience to Sin | 8.00% | ~1 |
 | A Familiar Nest | 8.00% | ~1 |
 | Geas Aristeya | 8.00% | ~1 |
 | A Perfect Cycle | 8.00% | ~1 |
 | Recruit | 8.00% | ~1 |
 | Lights Army | 8.00% | ~1 |
 | Scholar | 8.00% | ~1 |
+| Best Dressed | 8.00% | ~1 |
 | Armaments Azure | 8.00% | ~1 |
 | Periapt Cerulean | 8.00% | ~1 |
 | Periapt Alizarin | 8.00% | ~1 |
@@ -39,7 +40,6 @@ Rating: 3.97 (Ranked 960)
 | Witch-Taker | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
 | Kitted Out | 0.00% | ~0 |
-| Best Dressed | 0.00% | ~0 |
 | Armaments Gules | 0.00% | ~0 |
 | Armaments Vert | 0.00% | ~0 |
 | Veteran | 0.00% | ~0 |
@@ -73,3 +73,4 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-07 | 3.97 | 0 | 0 |
 | 2023-09-11 | 3.94 | 0 | 0 |
 | 2023-09-12 | 3.97 | 0 | 0 |
+| 2023-09-24 | 4.00 | 0 | 0 |

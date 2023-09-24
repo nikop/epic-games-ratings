@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1071,
+  "EOS_Progressed": 1072,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3566,6 +3566,11 @@
       "Time": "2023-09-23T18:06:04.2490078+00:00",
       "NumProgressed": 1071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T15:05:43.8178016+00:00",
+      "NumProgressed": 1072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3745,7 +3750,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "elemental_stones_2",
@@ -3945,7 +3950,7 @@
       "Name": "Obsessed Carver 2",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "obsessed_carver_3",
@@ -3969,7 +3974,7 @@
       "Name": "Punctual 2",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "punctual_3",
@@ -4104,14 +4109,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1071,
+      "Progressed": 1072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:05:04.2696407+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:05:43.8178004+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:16.2179467+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:58:49.1270174+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:05:04.2697075+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:59:11.36761+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:05:43.8178902+00:00"
 }

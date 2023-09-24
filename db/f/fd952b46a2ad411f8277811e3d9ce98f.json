@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14986,
+  "EOS_Progressed": 15059,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10780,
+  "EOS_NewPlayers": 10853,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2404,6 +2404,11 @@
       "Time": "2023-09-24T14:05:48.1895605+00:00",
       "NumProgressed": 14986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T15:06:41.9076002+00:00",
+      "NumProgressed": 15059,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2510,9 +2515,9 @@
       "ID": "kills_1",
       "SetID": "413a09o",
       "Name": "Rookie Rumble",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 7643
+      "UsersEstimate": 7530
     },
     {
       "ID": "kills_100",
@@ -2568,7 +2573,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1355
     },
     {
       "ID": "revives_25",
@@ -2663,13 +2668,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 14986,
+      "Progressed": 15059,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:05:48.1895601+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:06:41.9075994+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:57:36.6219277+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:05:48.1895888+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:57:40.0633224+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:06:41.9076334+00:00"
 }

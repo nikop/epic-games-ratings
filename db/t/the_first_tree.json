@@ -2,13 +2,13 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 955,
+  "Ranking_Rating": 956,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36027,
+  "EOS_Progressed": 36030,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13834,6 +13834,11 @@
       "Time": "2023-09-24T14:04:06.8393577+00:00",
       "NumProgressed": 36027,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-24T15:04:28.9502889+00:00",
+      "NumProgressed": 36030,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 14,
@@ -13845,7 +13850,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "150stars",
@@ -13861,7 +13866,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9367
+      "UsersEstimate": 9368
     },
     {
       "ID": "allItems",
@@ -13893,7 +13898,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "completionist",
@@ -13925,7 +13930,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 9007
+      "UsersEstimate": 9008
     },
     {
       "ID": "firstItem",
@@ -13933,7 +13938,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27741
+      "UsersEstimate": 27743
     },
     {
       "ID": "roots",
@@ -13956,15 +13961,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36027,
+      "Progressed": 36030,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:04:06.8393574+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:04:28.9502883+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.0710228+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:58:06.120325+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:04:06.8394308+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:58:16.4905525+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:04:28.9503828+00:00"
 }

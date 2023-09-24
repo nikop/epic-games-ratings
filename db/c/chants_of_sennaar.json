@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 206,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
@@ -1021,9 +1021,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1037,9 +1037,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1125,9 +1125,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "PROGRESS_N1",
@@ -1157,9 +1157,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "PROGRESS_N5",
@@ -1180,8 +1180,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:08:17.6526573+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:09:01.8652404+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:57:12.5001555+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:08:17.6526755+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:57:09.9650754+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:09:01.8652636+00:00"
 }

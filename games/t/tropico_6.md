@@ -1,42 +1,42 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,986 |
-| Un-Lonely Island | 47.00% | ~2,498 |
-| The Beginning of a Servantship | 45.00% | ~2,391 |
-| Trade Is My Trait | 37.00% | ~1,966 |
-| Number 18 | 24.00% | ~1,275 |
+| Just One...More...Term... | 75.00% | ~3,988 |
+| Un-Lonely Island | 47.00% | ~2,499 |
+| The Beginning of a Servantship | 45.00% | ~2,393 |
+| Trade Is My Trait | 37.00% | ~1,967 |
+| Number 18 | 24.00% | ~1,276 |
 | We Don't Have Time For That | 19.00% | ~1,010 |
-| The Legend of Langostino | 17.00% | ~903 |
-| The Governator | 17.00% | ~903 |
-| Caribbean Comrade | 16.00% | ~850 |
-| The Dreamer of Dreams | 15.00% | ~797 |
+| The Legend of Langostino | 17.00% | ~904 |
+| The Governator | 17.00% | ~904 |
+| Caribbean Comrade | 16.00% | ~851 |
+| The Dreamer of Dreams | 15.00% | ~798 |
 | Go Sovereigns! | 11.00% | ~585 |
 | For Science! | 11.00% | ~585 |
-| Happy Ending? | 10.00% | ~531 |
-| Of Seals And Men | 10.00% | ~531 |
-| Shackadelic | 10.00% | ~531 |
+| Happy Ending? | 10.00% | ~532 |
+| Of Seals And Men | 10.00% | ~532 |
+| Shackadelic | 10.00% | ~532 |
 | Double Trouble | 8.00% | ~425 |
 | Firestarter | 8.00% | ~425 |
 | I Owe You Nothing | 7.00% | ~372 |
 | Make Tropico Great Again! | 7.00% | ~372 |
 | French Connection | 7.00% | ~372 |
 | Don't Panic! | 6.00% | ~319 |
+| Computer Says "No" | 6.00% | ~319 |
 | Beware The Betman | 6.00% | ~319 |
 | Viva Tropico! | 5.00% | ~266 |
-| Computer Says "No" | 5.00% | ~266 |
 | Watch The World Burn | 5.00% | ~266 |
 | Fairy Tale Come True | 5.00% | ~266 |
-| Been there, Done That | 3.00% | ~159 |
-| Apocalypso | 3.00% | ~159 |
-| Narcissist | 3.00% | ~159 |
-| Promising Endeavors | 3.00% | ~159 |
-| The Time For Wonders | 3.00% | ~159 |
+| Been there, Done That | 3.00% | ~160 |
+| Apocalypso | 3.00% | ~160 |
+| Narcissist | 3.00% | ~160 |
+| Promising Endeavors | 3.00% | ~160 |
+| The Time For Wonders | 3.00% | ~160 |
 | Chain Gang | 2.00% | ~106 |
 | One Does Not Simply Stage A Coup | 2.00% | ~106 |
 | Sublime Subliminal Supreme | 2.00% | ~106 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,314 (Ranked 159)  
+Progressed: 5,317 (Ranked 159)  
 Completed: 2 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2 (0.04%) (Ranked 256)
 | 2023-09-21 | 5,255 | 2 |
 | 2023-09-22 | 5,282 | 2 |
 | 2023-09-23 | 5,306 | 2 |
-| 2023-09-24 | 5,314 | 2 |
+| 2023-09-24 | 5,317 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
 Sum: 688 (Ranked 281)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9381,9 +9381,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49009,
+  "EOS_Progressed": 49015,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23426,6 +23426,11 @@
       "Time": "2023-09-24T14:05:32.5332687+00:00",
       "NumProgressed": 49009,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-24T15:06:21.076093+00:00",
+      "NumProgressed": 49015,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -23437,7 +23442,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7351
+      "UsersEstimate": 7352
     },
     {
       "ID": "BreedCows",
@@ -23453,7 +23458,7 @@
       "Name": "Three little piggies\u2026",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "BreedSheep",
@@ -23469,7 +23474,7 @@
       "Name": "Road Trip",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "CollectiblesAlpine",
@@ -23485,7 +23490,7 @@
       "Name": "Game on",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "CollectiblesUS",
@@ -23509,7 +23514,7 @@
       "Name": "Highly cultivated",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5391
+      "UsersEstimate": 5392
     },
     {
       "ID": "CultivateFirst",
@@ -23517,7 +23522,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 31366
+      "UsersEstimate": 31370
     },
     {
       "ID": "CutTree",
@@ -23525,7 +23530,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10782
+      "UsersEstimate": 10783
     },
     {
       "ID": "CutTreeFirst",
@@ -23533,7 +23538,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 29895
+      "UsersEstimate": 29899
     },
     {
       "ID": "DeliveryGrapes",
@@ -23565,7 +23570,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "FertilizeFirst",
@@ -23573,7 +23578,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 29405
+      "UsersEstimate": 29409
     },
     {
       "ID": "Harvested",
@@ -23581,7 +23586,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "HarvestedFirst",
@@ -23589,7 +23594,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 36757
+      "UsersEstimate": 36761
     },
     {
       "ID": "HorseJumps",
@@ -23613,7 +23618,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4901
+      "UsersEstimate": 4902
     },
     {
       "ID": "LoadedOldSavegame",
@@ -23621,7 +23626,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 24504
+      "UsersEstimate": 24508
     },
     {
       "ID": "Mission",
@@ -23637,7 +23642,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 18623
+      "UsersEstimate": 18626
     },
     {
       "ID": "Money",
@@ -23645,7 +23650,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 25975
+      "UsersEstimate": 25978
     },
     {
       "ID": "NumBeehives",
@@ -23661,7 +23666,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19604
+      "UsersEstimate": 19606
     },
     {
       "ID": "NumPlaceables",
@@ -23669,7 +23674,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 21564
+      "UsersEstimate": 21567
     },
     {
       "ID": "NumProductionPoints",
@@ -23677,7 +23682,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "NumVehiclesLarge",
@@ -23685,7 +23690,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10782
+      "UsersEstimate": 10783
     },
     {
       "ID": "NumVehiclesSmall",
@@ -23693,7 +23698,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28425
+      "UsersEstimate": 28429
     },
     {
       "ID": "PetDog",
@@ -23701,7 +23706,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 13723
+      "UsersEstimate": 13724
     },
     {
       "ID": "PlayTime",
@@ -23709,7 +23714,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 28915
+      "UsersEstimate": 28919
     },
     {
       "ID": "Sow",
@@ -23717,7 +23722,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5391
+      "UsersEstimate": 5392
     },
     {
       "ID": "SowFirst",
@@ -23725,7 +23730,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 30876
+      "UsersEstimate": 30879
     },
     {
       "ID": "Stones",
@@ -23733,7 +23738,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "TractorDriving",
@@ -23741,7 +23746,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 21074
+      "UsersEstimate": 21076
     },
     {
       "ID": "TruckDriving",
@@ -23749,7 +23754,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "VehicleRepaint",
@@ -23757,7 +23762,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12742
+      "UsersEstimate": 12744
     },
     {
       "ID": "VehicleRepair",
@@ -23765,7 +23770,7 @@
       "Name": "Fix me up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "WrappedBales",
@@ -23773,22 +23778,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7351
+      "UsersEstimate": 7352
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49009,
+      "Progressed": 49015,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-09-24T13:57:33.8363179+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:05:32.5332684+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:06:21.0760925+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:05.7383674+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:57:33.8363184+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:05:32.5333613+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:57:35.2550837+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:06:21.0762137+00:00"
 }

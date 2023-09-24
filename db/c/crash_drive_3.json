@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -471,6 +471,11 @@
       "Time": "2023-09-20T08:08:25.7055851+00:00",
       "NumProgressed": 382,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T15:04:08.4430755+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -482,7 +487,7 @@
       "Name": "Brace for impact!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -506,7 +511,7 @@
       "Name": "Car-Tapult",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "COIN_COLLECT",
@@ -650,7 +655,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -658,7 +663,7 @@
       "Name": "Anger Issues",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -722,7 +727,7 @@
       "Name": "Your Highness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEFT_LEVEL",
@@ -792,17 +797,17 @@
       "ID": "SPIN_1080",
       "SetID": "20koof9",
       "Name": "Feeling Dizzy?",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -810,7 +815,7 @@
       "Name": "Out of this League",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -832,9 +837,9 @@
       "ID": "USE_ROCKET",
       "SetID": "20koof9",
       "Name": "Rocketman",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "USE_TUNNEL",
@@ -896,9 +901,9 @@
       "ID": "WIN_ROBBER",
       "SetID": "20koof9",
       "Name": "In the Bag!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -921,7 +926,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 2
     }
   ],
@@ -929,8 +934,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:03:40.4512387+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:04:08.4430749+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:17.0711022+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:57:06.2463322+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:03:40.4512834+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:57:01.4583546+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:04:08.4431307+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.57 (Ranked 450)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 88.00% | ~364 |
-| And again, and again, and... | 63.00% | ~261 |
+| And again, and again, and... | 64.00% | ~265 |
 | Burn, Elysium, burn! | 62.00% | ~257 |
 | Kuvaq Minigame-Master | 61.00% | ~253 |
 | FunScore | 55.00% | ~228 |
@@ -15,12 +15,12 @@ Rating: 4.57 (Ranked 450)
 | Shall we play a game? | 49.00% | ~203 |
 | Boat of love, boat of love | 48.00% | ~199 |
 | School's out | 43.00% | ~178 |
+| Elysian Minigame-Master | 38.00% | ~157 |
 | Scaffolding Expert | 37.00% | ~153 |
-| Elysian Minigame-Master | 37.00% | ~153 |
 | Sole Music | 36.00% | ~149 |
-| No man left behind! | 29.00% | ~120 |
+| No man left behind! | 30.00% | ~124 |
 | Portals come in packs | 29.00% | ~120 |
-| Photo Friend | 25.00% | ~104 |
+| Photo Friend | 26.00% | ~108 |
 | Brainfreeze | 21.00% | ~87 |
 | Masseltov | 20.00% | ~83 |
 | And everything comes full circle. | 20.00% | ~83 |

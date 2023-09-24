@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -4930,9 +4930,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2259
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5058,9 +5058,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2642
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5082,8 +5082,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:05:50.9861764+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:06:45.5457615+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:00:49.7729432+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:05:50.9862229+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:01:42.522684+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:06:45.5458216+00:00"
 }

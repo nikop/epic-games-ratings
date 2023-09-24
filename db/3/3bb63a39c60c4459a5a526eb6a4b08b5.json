@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 736,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -2696,6 +2696,11 @@
       "Time": "2023-09-24T10:06:02.3978211+00:00",
       "NumProgressed": 735,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T15:05:40.269404+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2707,7 +2712,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ActivePause",
@@ -2723,7 +2728,7 @@
       "Name": "Basic Controls",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "BigPlane",
@@ -2859,7 +2864,7 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LinearNetwork",
@@ -2873,9 +2878,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 132
     },
     {
       "ID": "ManagementMaster",
@@ -2889,9 +2894,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 110
     },
     {
       "ID": "Millionaire",
@@ -2955,7 +2960,7 @@
       "Name": "Race Against Time",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Reaction",
@@ -3019,7 +3024,7 @@
       "Name": "Ten!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "TimeForManagement",
@@ -3035,21 +3040,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 736,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:05:01.3215621+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:05:40.2694031+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:48.9786266+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:59:19.9271841+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:05:01.3216015+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:59:44.3615751+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:05:40.2694558+00:00"
 }

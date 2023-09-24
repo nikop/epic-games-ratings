@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 951)  
+Rating: 3.99 (Ranked 952)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,16 +31,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.80% | ~1,093 |
 | Did we pack lunch? | 0.80% | ~1,093 |
 | Arcane Industries | 0.80% | ~1,093 |
-| On the Path to Greatness | 0.70% | ~956 |
-| Ascended | 0.70% | ~956 |
-| Research & Development | 0.70% | ~956 |
-| Vanity, Verily | 0.70% | ~956 |
-| Blank Page Syndrome | 0.70% | ~956 |
-| Efficient Floor Space | 0.70% | ~956 |
-| Flawless Fusion | 0.70% | ~956 |
-| Gem Expert | 0.70% | ~956 |
-| Helping Hand | 0.70% | ~956 |
-| Natural 20 | 0.70% | ~956 |
+| On the Path to Greatness | 0.70% | ~957 |
+| Ascended | 0.70% | ~957 |
+| Research & Development | 0.70% | ~957 |
+| Vanity, Verily | 0.70% | ~957 |
+| Blank Page Syndrome | 0.70% | ~957 |
+| Efficient Floor Space | 0.70% | ~957 |
+| Flawless Fusion | 0.70% | ~957 |
+| Gem Expert | 0.70% | ~957 |
+| Helping Hand | 0.70% | ~957 |
+| Natural 20 | 0.70% | ~957 |
 | Tax not Included | 0.60% | ~820 |
 | Fated Encounters | 0.60% | ~820 |
 | For the Hoard! | 0.60% | ~820 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,642 (Ranked 69)  
+Progressed: 136,646 (Ranked 69)  
 Completed: 154 (0.11%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,14 +276,14 @@ Completed: 154 (0.11%) (Ranked 230)
 | 2023-09-21 | 136,493 | 153 |
 | 2023-09-22 | 136,546 | 153 |
 | 2023-09-23 | 136,602 | 153 |
-| 2023-09-24 | 136,642 | 154 |
+| 2023-09-24 | 136,646 | 154 |
 ## Awards
-Max (Great for Beginners): 4,755  (Ranked 70)  
-Sum: 27,288 (Ranked 48)  
+Max (Great for Beginners): 4,758  (Ranked 70)  
+Sum: 27,291 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,755 |
+| This game is Great for Beginners | 4,758 |
 | This game is Relaxing | 4,014 |
 | This game has Quickly Understood Controls | 4,001 |
 | This game has Diverse Characters | 3,893 |
@@ -534,4 +534,4 @@ Diff (max vs sum): 22
 | 2023-09-21 | 3.99 | - | 4,748 | 27,265 |
 | 2023-09-22 | 3.99 | - | 4,751 | 27,274 |
 | 2023-09-23 | 3.99 | - | 4,755 | 27,285 |
-| 2023-09-24 | 3.99 | - | 4,755 | 27,288 |
+| 2023-09-24 | 3.99 | - | 4,758 | 27,291 |

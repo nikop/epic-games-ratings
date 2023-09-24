@@ -2,13 +2,13 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6176,11 +6176,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27288,
       "NumberOfAwardsMax": 4755
+    },
+    {
+      "Time": "2023-09-24T15:01:39.0099528+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27291,
+      "NumberOfAwardsMax": 4758
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27288,
-  "NumberOfAwardsMax": 4755,
+  "NumberOfAwards": 27291,
+  "NumberOfAwardsMax": 4758,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6199,7 +6205,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4755
+      "Count": 4758
     },
     {
       "Text": "This game has Easy Combat",
@@ -6232,9 +6238,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136642,
+  "EOS_Progressed": 136646,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22367,6 +22373,11 @@
       "Time": "2023-09-24T14:05:04.6280885+00:00",
       "NumProgressed": 136642,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-09-24T15:05:44.5178906+00:00",
+      "NumProgressed": 136646,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 112,
@@ -22386,7 +22397,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "advlevel03",
@@ -22426,7 +22437,7 @@
       "Name": "Ascended",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ascend02",
@@ -22490,7 +22501,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "blueprint03",
@@ -22506,7 +22517,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "boss01",
@@ -22570,7 +22581,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "collection02",
@@ -22786,7 +22797,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "furniture02",
@@ -22818,7 +22829,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "fuselegendary",
@@ -22842,7 +22853,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "gold01",
@@ -22898,7 +22909,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "help02",
@@ -23042,7 +23053,7 @@
       "Name": "Natural 20",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "master03",
@@ -23273,15 +23284,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136642,
+      "Progressed": 136646,
       "Completed": 154
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-24T05:00:08.0640951+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:05:04.6280882+00:00",
+  "LastChanged": "2023-09-24T15:01:39.0099523+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:05:44.5178896+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-24T14:00:47.2165414+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:05:04.6283078+00:00"
+  "LastUpdate_Ratings": "2023-09-24T15:01:39.0099533+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:05:44.5181462+00:00"
 }

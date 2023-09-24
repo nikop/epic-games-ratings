@@ -9,8 +9,8 @@
 | The great escape | 45.00% | ~93 |
 | The Preacher's fate | 44.00% | ~91 |
 | A new dawn | 40.00% | ~82 |
-| Scholar | 38.00% | ~78 |
-| The darkness | 36.00% | ~74 |
+| Scholar | 39.00% | ~80 |
+| The darkness | 37.00% | ~76 |
 | A good beginning | 35.00% | ~72 |
 | True G4M3R | 35.00% | ~72 |
 | One last step | 32.00% | ~66 |
@@ -19,9 +19,9 @@
 | Half the way | 29.00% | ~60 |
 | In this together | 28.00% | ~58 |
 | Peace walker | 28.00% | ~58 |
-| Open door | 24.00% | ~49 |
+| Open door | 25.00% | ~52 |
+| Feels like springtime | 24.00% | ~49 |
 | Free at last | 23.00% | ~47 |
-| Feels like springtime | 23.00% | ~47 |
 | Rascal | 23.00% | ~47 |
 | Alchemists Express | 22.00% | ~45 |
 | A Link to the Past | 18.00% | ~37 |

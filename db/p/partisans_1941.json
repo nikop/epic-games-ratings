@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1431,
+  "EOS_Progressed": 1432,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -2795,6 +2795,11 @@
       "Time": "2023-09-24T13:07:30.9212635+00:00",
       "NumProgressed": 1431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T15:05:14.2026516+00:00",
+      "NumProgressed": 1432,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2830,7 +2835,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Boy",
@@ -2838,7 +2843,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Commandos",
@@ -2886,7 +2891,7 @@
       "Name": "E1M1",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Everyone_is_here",
@@ -2958,7 +2963,7 @@
       "Name": "Spice It Up",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "KillAllM2",
@@ -3045,15 +3050,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1431,
+      "Progressed": 1432,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-24T14:04:41.5843946+00:00",
+  "LastChanged_Achievements": "2023-09-24T15:05:14.2026507+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-24T13:57:49.7682931+00:00",
-  "LastUpdate_Achievements": "2023-09-24T14:04:41.5844231+00:00"
+  "LastUpdate_Ratings": "2023-09-24T14:57:55.3864292+00:00",
+  "LastUpdate_Achievements": "2023-09-24T15:05:14.2026905+00:00"
 }
