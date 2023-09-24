@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1083,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1617,9 +1617,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "c7hf6a4",
       "Name": "Hear That Roar!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 412
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1769,9 +1769,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "c7hf6a4",
       "Name": "Romantic Races",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 32
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -1913,9 +1913,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 217
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2008,8 +2008,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:05:29.9588311+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:49:47.6950209+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:02:10.3613629+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:05:29.9588898+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:46:02.595079+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:49:47.6950766+00:00"
 }

@@ -342,17 +342,17 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "b36c5kb",
       "Name": "Rookie",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_02",
       "SetID": "b36c5kb",
       "Name": "Survivor",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -462,9 +462,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "b36c5kb",
       "Name": "Unfortunate Consequence",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -558,9 +558,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "b36c5kb",
       "Name": "Echoes Within STEM",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:04:39.9961032+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:49:04.7734707+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:59:29.8078301+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:04:39.9961566+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:43:50.8845515+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:49:04.7735215+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 303,
-  "Ranking_Popularity": 264,
+  "Ranking_Rating": 302,
+  "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 255,
@@ -1737,7 +1737,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14083,
+  "EOS_Progressed": 14086,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -12087,6 +12087,11 @@
       "Time": "2023-09-24T00:04:31.590448+00:00",
       "NumProgressed": 14083,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-24T01:48:57.8492841+00:00",
+      "NumProgressed": 14086,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12250,7 +12255,7 @@
       "Name": "Carthage - Ox Hide",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -12416,9 +12421,9 @@
       "ID": "ACHIEVEMENT_CLEOPATRAS_LOVE",
       "SetID": "9201eeb",
       "Name": "Cleopatra\u0027s Love",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
@@ -12434,7 +12439,7 @@
       "Name": "Ambitious",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -12482,7 +12487,7 @@
       "Name": "Brilliant",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -12538,7 +12543,7 @@
       "Name": "Fountainhead",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -12546,7 +12551,7 @@
       "Name": "Glorious",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -12610,7 +12615,7 @@
       "Name": "Keystone",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -12642,7 +12647,7 @@
       "Name": "Magnificent",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -12762,7 +12767,7 @@
       "Name": "Warrior",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -12778,7 +12783,7 @@
       "Name": "Wise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -12794,7 +12799,7 @@
       "Name": "Developing Cities",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -12810,7 +12815,7 @@
       "Name": "Strong Cities",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -12834,7 +12839,7 @@
       "Name": "Able Difficulty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -12882,7 +12887,7 @@
       "Name": "Noble Difficulty",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -13450,7 +13455,7 @@
       "Name": "Great Ziggurat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -13496,9 +13501,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
       "SetID": "9201eeb",
       "Name": "Adur Burzen-Mihr",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -13506,7 +13511,7 @@
       "Name": "Ishtar Gate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -13514,7 +13519,7 @@
       "Name": "Lighthouse",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -13562,7 +13567,7 @@
       "Name": "Pyramids",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -13618,7 +13623,7 @@
       "Name": "Learn to Play 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -13762,7 +13767,7 @@
       "Name": "Old World Order",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -13834,7 +13839,7 @@
       "Name": "Play a Network Game",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -13874,7 +13879,7 @@
       "Name": "Christianity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -13882,7 +13887,7 @@
       "Name": "Judaism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -13906,7 +13911,7 @@
       "Name": "Babylonian Paganism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -13914,7 +13919,7 @@
       "Name": "Carthaginian Paganism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -13930,7 +13935,7 @@
       "Name": "Greek Paganism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -13954,7 +13959,7 @@
       "Name": "Roman Paganism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -13962,7 +13967,7 @@
       "Name": "Zoroastrianism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -14018,7 +14023,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -14064,9 +14069,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -14136,9 +14141,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -14410,7 +14415,7 @@
       "Name": "The Great Mage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -14465,21 +14470,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14083,
+      "Progressed": 14086,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14083,
+      "Progressed": 14086,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-23T18:01:38.9338052+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:04:31.5904473+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:48:57.8492833+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:01:35.0524061+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:04:31.5914316+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:45:34.0845258+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:48:57.8502966+00:00"
 }

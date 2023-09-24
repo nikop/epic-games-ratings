@@ -6,30 +6,30 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,495 |
-| Gone Home | 93.00% | ~26,361 |
-| Wonderfalls | 87.00% | ~24,660 |
+| Everybody Gets One | 97.00% | ~27,496 |
+| Gone Home | 93.00% | ~26,362 |
+| Wonderfalls | 87.00% | ~24,661 |
 | Got to Catch a Few | 77.00% | ~21,826 |
-| Double Trapper | 75.00% | ~21,259 |
-| I'm Stuffed | 69.00% | ~19,558 |
+| Double Trapper | 75.00% | ~21,260 |
+| I'm Stuffed | 69.00% | ~19,559 |
 | Got to Catch a Lot | 66.00% | ~18,708 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,290 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,291 |
 | In the Arms of the Gramble | 59.00% | ~16,724 |
 | Know Thy Neighbor | 59.00% | ~16,724 |
-| Launch Party | 56.00% | ~15,873 |
-| Perf Dirt | 56.00% | ~15,873 |
-| Vacation's End | 52.00% | ~14,739 |
+| Launch Party | 56.00% | ~15,874 |
+| Perf Dirt | 56.00% | ~15,874 |
+| Vacation's End | 52.00% | ~14,740 |
 | Bossy Bugs | 46.00% | ~13,039 |
-| Survivor | 45.00% | ~12,755 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,188 |
+| Survivor | 45.00% | ~12,756 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,189 |
 | Sidetracked | 40.00% | ~11,338 |
 | Film Buff | 38.00% | ~10,771 |
 | Combo Meal | 38.00% | ~10,771 |
-| Midnight Snak | 36.00% | ~10,204 |
+| Midnight Snak | 36.00% | ~10,205 |
 | Candid Cryptid | 35.00% | ~9,921 |
-| Got to Catch Them All | 32.00% | ~9,070 |
-| Deep Impact | 23.00% | ~6,519 |
-| Grab Bag | 23.00% | ~6,519 |
+| Got to Catch Them All | 32.00% | ~9,071 |
+| Deep Impact | 23.00% | ~6,520 |
+| Grab Bag | 23.00% | ~6,520 |
 | Feeding Frenzy | 18.00% | ~5,102 |
 | Clothesline | 17.00% | ~4,819 |
 | Say Cheese! | 15.00% | ~4,252 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,268 |
 | Dapper Capper | 7.00% | ~1,984 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,345 (Ranked 108)  
+Progressed: 28,346 (Ranked 108)  
 Completed: 1,352 (4.77%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 1,352 (4.77%) (Ranked 55)
 | 2023-09-21 | 28,326 | 1,350 |
 | 2023-09-22 | 28,334 | 1,351 |
 | 2023-09-23 | 28,345 | 1,352 |
+| 2023-09-24 | 28,346 | 1,352 |
 ## Awards
 Max (Amazing Storytelling): 39  (Ranked 432)  
 Sum: 341 (Ranked 337)  

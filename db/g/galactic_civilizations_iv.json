@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -906,7 +906,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6686,
+  "EOS_Progressed": 6687,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -6381,6 +6381,11 @@
       "Time": "2023-09-23T23:06:00.124972+00:00",
       "NumProgressed": 6686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T01:50:17.1210293+00:00",
+      "NumProgressed": 6687,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6432,7 +6437,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4146
     },
     {
       "ID": "Control_All_Relics",
@@ -6496,7 +6501,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5215
+      "UsersEstimate": 5216
     },
     {
       "ID": "First_Race_Met",
@@ -6504,7 +6509,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4882
     },
     {
       "ID": "First_Ship_Designed",
@@ -6528,7 +6533,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5215
+      "UsersEstimate": 5216
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6608,7 +6613,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "Play_1000_Hours",
@@ -6712,7 +6717,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4146
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6728,7 +6733,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "War_Without_Translator",
@@ -6967,15 +6972,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6686,
+      "Progressed": 6687,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-22T11:59:38.3231569+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:06:04.0299972+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:50:17.1210288+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.9419907+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:00:47.5973808+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:06:04.0301188+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:44:53.5763037+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:50:17.121157+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 586,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 183,
@@ -621,10 +621,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 273,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-24T01:47:09.2879441+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 273,
+  "NumberOfAwards": 274,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -674,7 +680,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
@@ -689,9 +695,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3067,
+  "EOS_Progressed": 3070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5429,6 +5435,11 @@
       "Time": "2023-09-24T00:05:40.3407501+00:00",
       "NumProgressed": 3067,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T01:49:56.6010765+00:00",
+      "NumProgressed": 3070,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5441,7 +5452,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -5455,9 +5466,9 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 92
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -5473,7 +5484,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -5497,7 +5508,7 @@
       "Name": "First Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5521,7 +5532,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -5529,7 +5540,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -5537,7 +5548,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5553,7 +5564,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5577,7 +5588,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5591,9 +5602,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 460
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5624,15 +5635,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3067,
+      "Progressed": 3070,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-09-23T23:02:22.8356291+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:05:40.340749+00:00",
+  "LastChanged": "2023-09-24T01:47:09.2879439+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:49:56.6010758+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:02:18.1827345+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:05:40.3407935+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:47:09.2879447+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:49:56.601158+00:00"
 }

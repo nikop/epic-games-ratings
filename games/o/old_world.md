@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,31 +25,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~563 |
 | Oracle | 4.00% | ~563 |
 | Trade Caravan | 4.00% | ~563 |
-| Ambitious | 3.00% | ~422 |
-| Brilliant | 3.00% | ~422 |
-| Fountainhead | 3.00% | ~422 |
-| Glorious | 3.00% | ~422 |
-| Keystone | 3.00% | ~422 |
-| Magnificent | 3.00% | ~422 |
-| Warrior | 3.00% | ~422 |
-| Wise | 3.00% | ~422 |
-| Developing Cities | 3.00% | ~422 |
-| Strong Cities | 3.00% | ~422 |
-| Able Difficulty | 3.00% | ~422 |
-| Great Ziggurat | 3.00% | ~422 |
-| Ishtar Gate | 3.00% | ~422 |
-| Lighthouse | 3.00% | ~422 |
-| Pyramids | 3.00% | ~422 |
-| Learn to Play 1 | 3.00% | ~422 |
-| Christianity | 3.00% | ~422 |
-| Judaism | 3.00% | ~422 |
-| Babylonian Paganism | 3.00% | ~422 |
-| Carthaginian Paganism | 3.00% | ~422 |
-| Greek Paganism | 3.00% | ~422 |
-| Roman Paganism | 3.00% | ~422 |
-| Zoroastrianism | 3.00% | ~422 |
-| Naming Landmarks | 3.00% | ~422 |
-| The Great Mage | 3.00% | ~422 |
+| Ambitious | 3.00% | ~423 |
+| Brilliant | 3.00% | ~423 |
+| Fountainhead | 3.00% | ~423 |
+| Glorious | 3.00% | ~423 |
+| Keystone | 3.00% | ~423 |
+| Magnificent | 3.00% | ~423 |
+| Warrior | 3.00% | ~423 |
+| Wise | 3.00% | ~423 |
+| Developing Cities | 3.00% | ~423 |
+| Strong Cities | 3.00% | ~423 |
+| Able Difficulty | 3.00% | ~423 |
+| Great Ziggurat | 3.00% | ~423 |
+| Ishtar Gate | 3.00% | ~423 |
+| Lighthouse | 3.00% | ~423 |
+| Pyramids | 3.00% | ~423 |
+| Learn to Play 1 | 3.00% | ~423 |
+| Christianity | 3.00% | ~423 |
+| Judaism | 3.00% | ~423 |
+| Babylonian Paganism | 3.00% | ~423 |
+| Carthaginian Paganism | 3.00% | ~423 |
+| Greek Paganism | 3.00% | ~423 |
+| Roman Paganism | 3.00% | ~423 |
+| Zoroastrianism | 3.00% | ~423 |
+| Naming Landmarks | 3.00% | ~423 |
+| The Great Mage | 3.00% | ~423 |
 | Regicide | 2.00% | ~282 |
 | Hanging Gardens in Babylon | 2.00% | ~282 |
 | Beloved | 2.00% | ~282 |
@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 1.00% | ~141 |
 | Church of the Holy Sepulchre | 1.00% | ~141 |
 | Temple of Solomon | 1.00% | ~141 |
+| Adur Burzen-Mihr | 1.00% | ~141 |
 | Pantheon | 1.00% | ~141 |
 | Via Recta Souk | 1.00% | ~141 |
 | Learn to Play 3 | 1.00% | ~141 |
@@ -107,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 1.00% | ~141 |
 | Military Prestige | 1.00% | ~141 |
 | Dualism | 1.00% | ~141 |
+| Enlightenment | 1.00% | ~141 |
 | Gnosticism | 1.00% | ~141 |
 | Legalism | 1.00% | ~141 |
 | Redemption | 1.00% | ~141 |
@@ -121,11 +123,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.90% | ~127 |
 | Strong Difficulty | 0.90% | ~127 |
 | Hunters | 0.90% | ~127 |
-| Adur Burzen-Mihr | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
 | Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
-| Enlightenment | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
@@ -137,13 +137,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.70% | ~99 |
 | Egypt | 0.70% | ~99 |
 | Rome | 0.70% | ~99 |
+| Cataphract Archer | 0.70% | ~99 |
 | All Nations | 0.70% | ~99 |
 | No Undo | 0.70% | ~99 |
-| Carthage - Ox Hide | 0.60% | ~84 |
-| Noble Difficulty | 0.60% | ~84 |
-| Old World Order | 0.60% | ~84 |
-| Play a Network Game | 0.60% | ~84 |
-| Cataphract Archer | 0.60% | ~84 |
+| Carthage - Ox Hide | 0.60% | ~85 |
+| Noble Difficulty | 0.60% | ~85 |
+| Old World Order | 0.60% | ~85 |
+| Play a Network Game | 0.60% | ~85 |
 | The Eternal Treaty | 0.50% | ~70 |
 | Persia | 0.50% | ~70 |
 | Capturing Cities | 0.50% | ~70 |
@@ -162,6 +162,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
 | Silver Victory (Carthage 1) | 0.30% | ~42 |
 | Carthage - Riches and Influence | 0.30% | ~42 |
+| Cleopatra's Love | 0.30% | ~42 |
 | Great Difficulty | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
 | Event Level High | 0.30% | ~42 |
@@ -178,7 +179,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
 | Silver Victory (Carthage 2) | 0.20% | ~28 |
-| Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
 | Get the Hellas Out | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,083 (Ranked 127)  
+Progressed: 14,086 (Ranked 127)  
 Completed: 5 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -460,11 +460,11 @@ Completed: 5 (0.04%) (Ranked 255)
 | 2023-09-21 | 14,035 | 5 |
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
-| 2023-09-24 | 14,083 | 5 |
+| 2023-09-24 | 14,086 | 5 |
 ## Awards
-Max (Relaxing): 222  (Ranked 264)  
+Max (Relaxing): 222  (Ranked 265)  
 Sum: 1,817 (Ranked 207)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 222 |

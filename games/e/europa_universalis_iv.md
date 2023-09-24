@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,504 |
-| That's a Grand Army | 3.00% | ~12,378 |
-| That is mine! | 3.00% | ~12,378 |
-| Victorious! | 3.00% | ~12,378 |
-| Brothers in Arms | 2.00% | ~8,252 |
-| For the Glory | 2.00% | ~8,252 |
-| That's a Grand Navy | 2.00% | ~8,252 |
-| Seriously?! | 2.00% | ~8,252 |
+| Until death do us apart | 4.00% | ~16,505 |
+| That's a Grand Army | 3.00% | ~12,379 |
+| That is mine! | 3.00% | ~12,379 |
+| Victorious! | 3.00% | ~12,379 |
+| Brothers in Arms | 2.00% | ~8,253 |
+| For the Glory | 2.00% | ~8,253 |
+| That's a Grand Navy | 2.00% | ~8,253 |
+| Seriously?! | 2.00% | ~8,253 |
 | Cold War | 1.00% | ~4,126 |
 | Defender of the Faith | 1.00% | ~4,126 |
 | It's all about the money | 1.00% | ~4,126 |
 | The Princess is in this Castle | 1.00% | ~4,126 |
 | True Catholic | 1.00% | ~4,126 |
-| It's all about luck | 0.90% | ~3,713 |
-| Respected | 0.90% | ~3,713 |
-| Truly Divine Ruler | 0.90% | ~3,713 |
+| It's all about luck | 0.90% | ~3,714 |
+| Respected | 0.90% | ~3,714 |
+| Truly Divine Ruler | 0.90% | ~3,714 |
 | Blockader | 0.80% | ~3,301 |
 | Double the Love | 0.70% | ~2,888 |
 | Royal Authority | 0.70% | ~2,888 |
@@ -30,12 +30,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Agressive Expander | 0.50% | ~2,063 |
 | City of Cities | 0.50% | ~2,063 |
 | Combined Arms | 0.50% | ~2,063 |
-| Azur semé de lis or | 0.40% | ~1,650 |
-| Factionalism | 0.40% | ~1,650 |
-| Gentle Persuasion | 0.40% | ~1,650 |
-| Isn't this the way to India? | 0.40% | ~1,650 |
-| Queen of Conquest | 0.40% | ~1,650 |
-| This navy can take it all | 0.40% | ~1,650 |
+| Azur semé de lis or | 0.40% | ~1,651 |
+| Factionalism | 0.40% | ~1,651 |
+| Gentle Persuasion | 0.40% | ~1,651 |
+| Isn't this the way to India? | 0.40% | ~1,651 |
+| Queen of Conquest | 0.40% | ~1,651 |
+| This navy can take it all | 0.40% | ~1,651 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,238 |
 | Bright Spark | 0.30% | ~1,238 |
 | Down Under | 0.30% | ~1,238 |
@@ -314,6 +314,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The League of Mayapan | 0.10% | ~413 |
 | The Navigator | 0.10% | ~413 |
 | The Ostenders | 0.10% | ~413 |
+| The Pheasant Strut | 0.10% | ~413 |
 | The Power of Three | 0.10% | ~413 |
 | The Re-Reconquista | 0.10% | ~413 |
 | The Rising Sun | 0.10% | ~413 |
@@ -357,11 +358,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | No Trail of Tears | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
-| The Pheasant Strut | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,589 (Ranked 40)  
+Progressed: 412,632 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 410,221 | 0 |
 | 2023-09-22 | 411,228 | 0 |
 | 2023-09-23 | 412,558 | 0 |
-| 2023-09-24 | 412,589 | 0 |
+| 2023-09-24 | 412,632 | 0 |
 ## Awards
 Max (Educational): 6,232  (Ranked 56)  
 Sum: 51,181 (Ranked 24)  

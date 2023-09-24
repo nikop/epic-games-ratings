@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4752,
+  "EOS_Progressed": 4761,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2018,6 +2018,11 @@
       "Time": "2023-09-24T00:04:57.1084444+00:00",
       "NumProgressed": 4752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T01:49:19.3547982+00:00",
+      "NumProgressed": 4761,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -2030,7 +2035,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3476
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -2038,7 +2043,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3333
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -2046,7 +2051,7 @@
       "Name": "Calm Sailing",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1524
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -2054,7 +2059,7 @@
       "Name": "Open the Gate!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1381
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -2062,7 +2067,7 @@
       "Name": "Clear the Air",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -2070,7 +2075,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -2118,7 +2123,7 @@
       "Name": "Lumberjack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1095
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -2126,7 +2131,7 @@
       "Name": "Miner 49er",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1904
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -2134,7 +2139,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2238
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -2142,7 +2147,7 @@
       "Name": "Beach Comber",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -2166,7 +2171,7 @@
       "Name": "Humble Collector",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1857
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -2182,7 +2187,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2809
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -2190,7 +2195,7 @@
       "Name": "Mist Walker",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1285
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -2206,7 +2211,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2047
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -2214,7 +2219,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -2246,7 +2251,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 998
+      "UsersEstimate": 1000
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -2254,7 +2259,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -2309,7 +2314,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 4752,
+      "Progressed": 4761,
       "Completed": 0
     }
   ],
@@ -2317,8 +2322,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-23T07:59:29.7725955+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:04:57.1084437+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:49:19.3547977+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:00:26.5430828+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:04:57.1084945+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:44:38.599603+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:49:19.3548377+00:00"
 }

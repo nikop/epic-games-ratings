@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -389,9 +389,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -501,9 +501,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:03:29.2945067+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:48:12.1421272+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.4960842+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:59:49.3266474+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:03:29.2945326+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:44:05.982968+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:48:12.1421533+00:00"
 }

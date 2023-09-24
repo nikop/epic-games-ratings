@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1397,
+  "EOS_Progressed": 1399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5076,6 +5076,11 @@
       "Time": "2023-09-23T23:07:37.1348604+00:00",
       "NumProgressed": 1397,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T01:51:38.9309355+00:00",
+      "NumProgressed": 1399,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5191,7 +5196,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5263,7 +5268,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5343,7 +5348,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5390,14 +5395,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1397,
+      "Progressed": 1399,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:07:38.6943757+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:51:38.9309349+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:59:27.7562934+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:07:38.694445+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:43:49.3151542+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:51:38.9309971+00:00"
 }

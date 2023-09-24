@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6445,
+  "EOS_Progressed": 6447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2421,6 +2421,11 @@
       "Time": "2023-09-24T00:03:19.7428638+00:00",
       "NumProgressed": 6445,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T01:48:03.8171673+00:00",
+      "NumProgressed": 6447,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2545,7 +2550,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "GamesPlayed1",
@@ -2553,7 +2558,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "GamesPlayed10",
@@ -2625,7 +2630,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "HAUpgraded1",
@@ -2649,7 +2654,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "HSUPurchased1",
@@ -2697,7 +2702,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "InhibitorKills3",
@@ -2841,7 +2846,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "NeutralKills200",
@@ -2865,7 +2870,7 @@
       "Name": "10 Eliminations",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "PlayerKills100",
@@ -3024,14 +3029,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6445,
+      "Progressed": 6447,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:03:19.742863+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:48:03.8171666+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:59:30.2384371+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:03:19.7429636+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:43:51.2360947+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:48:03.8172855+00:00"
 }

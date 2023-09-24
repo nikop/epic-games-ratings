@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1941,6 +1941,11 @@
       "Time": "2023-09-23T04:06:04.6311972+00:00",
       "NumProgressed": 822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T01:52:11.4396922+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1976,7 +1981,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -1992,7 +1997,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2024,7 +2029,7 @@
       "Name": "Capraphobia",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2072,7 +2077,7 @@
       "Name": "Burnt Smell",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2232,7 +2237,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2240,7 +2245,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2328,7 +2333,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2344,7 +2349,7 @@
       "Name": "Night Snack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2352,7 +2357,7 @@
       "Name": "To Get Stronger",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2384,7 +2389,7 @@
       "Name": "The Last of Us",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2392,7 +2397,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2479,14 +2484,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:08:16.2042186+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:52:11.4396917+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:53.0416285+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:00:10.6981163+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:08:16.2043056+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:44:25.2603231+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:52:11.4397868+00:00"
 }

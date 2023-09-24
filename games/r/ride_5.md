@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Love | 41.00% | ~444 |
+| Hear That Roar! | 38.00% | ~412 |
 | Clean Race | 38.00% | ~412 |
-| Hear That Roar! | 37.00% | ~401 |
 | Eat My Dust | 36.00% | ~390 |
 | Rivals to the End | 30.00% | ~325 |
 | We're Going to Need a Bigger Garage | 25.00% | ~271 |
 | I'm Here Too! | 23.00% | ~249 |
 | Bitter Rivalry | 23.00% | ~249 |
-| Champagne Spray | 19.00% | ~206 |
+| Champagne Spray | 20.00% | ~217 |
 | I Want One Too! | 18.00% | ~195 |
 | Restored and Ready | 17.00% | ~184 |
 | Legendary!!! | 17.00% | ~184 |
@@ -26,12 +26,12 @@
 | Cherry Blossom and Temples | 3.00% | ~32 |
 | La Dolce Vita | 3.00% | ~32 |
 | The Road to Liberty | 3.00% | ~32 |
+| Romantic Races | 3.00% | ~32 |
 | Still Here | 3.00% | ~32 |
 | I Make the Rules! | 3.00% | ~32 |
 | Iconic! | 2.00% | ~22 |
 | Spoilt for Choice | 2.00% | ~22 |
 | Back in Blighty | 2.00% | ~22 |
-| Romantic Races | 2.00% | ~22 |
 | Rounding Off | 2.00% | ~22 |
 | My Work Here Is Done | 2.00% | ~22 |
 | I'll Be the Best! | 1.00% | ~11 |

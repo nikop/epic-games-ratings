@@ -9,9 +9,9 @@ Rating: 4.46 (Ranked 631)
 | Confirming Suspicions | 41.00% | ~1,500 |
 | The Kraken Wakes | 36.00% | ~1,317 |
 | It's Starting to Crack | 33.00% | ~1,207 |
-| Change the Channel | 30.00% | ~1,097 |
+| Change the Channel | 30.00% | ~1,098 |
 | Lord of War | 29.00% | ~1,061 |
-| Taking it back | 28.00% | ~1,024 |
+| Taking it back | 28.00% | ~1,025 |
 | Resourceful | 26.00% | ~951 |
 | Target America | 26.00% | ~951 |
 | The Kraken Sleeps | 24.00% | ~878 |
@@ -19,7 +19,7 @@ Rating: 4.46 (Ranked 631)
 | Organ Grinder | 22.00% | ~805 |
 | As Quiet as a Mouse | 22.00% | ~805 |
 | Sharpshooter | 21.00% | ~768 |
-| Explosive Efficiency | 18.00% | ~658 |
+| Explosive Efficiency | 18.00% | ~659 |
 | Just a Flesh Wound | 17.00% | ~622 |
 | Gunslinger | 17.00% | ~622 |
 | Climbing the Ladder | 16.00% | ~585 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 631)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,658 (Ranked 170)  
+Progressed: 3,659 (Ranked 170)  
 Completed: 11 (0.30%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 11 (0.30%) (Ranked 190)
 | 2023-09-21 | 3,649 | 11 |
 | 2023-09-22 | 3,652 | 11 |
 | 2023-09-23 | 3,658 | 11 |
+| 2023-09-24 | 3,659 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

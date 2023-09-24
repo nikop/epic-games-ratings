@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24643,
+  "EOS_Progressed": 24646,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -18060,6 +18060,11 @@
       "Time": "2023-09-24T00:07:47.3109193+00:00",
       "NumProgressed": 24643,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-09-24T01:51:46.3631463+00:00",
+      "NumProgressed": 24646,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 22,
@@ -18143,7 +18148,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "1025",
@@ -18183,7 +18188,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "1030",
@@ -18207,7 +18212,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9857
+      "UsersEstimate": 9858
     },
     {
       "ID": "1033",
@@ -18239,22 +18244,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24643,
+      "Progressed": 24646,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:07:47.3109187+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:51:46.3631454+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:59:12.8691749+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:07:47.311029+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:43:34.9689353+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:51:46.3633158+00:00"
 }

@@ -1,11 +1,11 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 507)  
+Rating: 4.54 (Ranked 508)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 3.00% | ~20,555 |
+| Welcome To Hell-A | 3.00% | ~20,557 |
 | Dr. Reed, I Presume? | 2.00% | ~13,704 |
 | Git Gutte! | 2.00% | ~13,704 |
 | Bookworm | 2.00% | ~13,704 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 507)
 | Down with the Sickness | 1.00% | ~6,852 |
 | Our True Nature | 1.00% | ~6,852 |
 | Max Headroom | 0.90% | ~6,167 |
-| Jumbo Keyring | 0.70% | ~4,796 |
-| Go, Bobcats! | 0.70% | ~4,796 |
-| Rising Star | 0.70% | ~4,796 |
+| Jumbo Keyring | 0.70% | ~4,797 |
+| Go, Bobcats! | 0.70% | ~4,797 |
+| Rising Star | 0.70% | ~4,797 |
 | Smorgasbord | 0.60% | ~4,111 |
 | On Safari | 0.50% | ~3,426 |
 | Not Even My Final Form | 0.50% | ~3,426 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~685 |
 | Bucket List | 0.10% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,182 (Ranked 22)  
-Completed: 2,169 (0.32%) (Ranked 186)  
+Progressed: 685,220 (Ranked 22)  
+Completed: 2,169 (0.32%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 2,169 (0.32%) (Ranked 186)
 | 2023-09-21 | 683,869 | 2,163 |
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
-| 2023-09-24 | 685,182 | 2,169 |
+| 2023-09-24 | 685,220 | 2,169 |
 ## Awards
 Max (Great Boss Battles): 6,175  (Ranked 57)  
 Sum: 9,178 (Ranked 93)  

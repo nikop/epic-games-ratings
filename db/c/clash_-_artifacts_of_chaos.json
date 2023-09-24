@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -474,8 +474,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:04:34.6008796+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:49:00.1194564+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:00.2700811+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:58:11.8008772+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:04:34.6008985+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:42:42.7619766+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:49:00.1194733+00:00"
 }

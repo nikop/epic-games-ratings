@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -3529,9 +3529,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 455184,
+  "EOS_Progressed": 455216,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4356,
+  "EOS_NewPlayers": 4311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21094,6 +21094,11 @@
       "Time": "2023-09-24T00:06:03.2537687+00:00",
       "NumProgressed": 455184,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-24T01:50:16.4772159+00:00",
+      "NumProgressed": 455216,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -21161,7 +21166,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18207
+      "UsersEstimate": 18209
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -21193,7 +21198,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -21249,7 +21254,7 @@
       "Name": "#1",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACH_PERSONAL",
@@ -21265,7 +21270,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -21273,7 +21278,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18207
+      "UsersEstimate": 18209
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -21329,7 +21334,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACH_STYLING",
@@ -21369,7 +21374,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22759
+      "UsersEstimate": 22761
     },
     {
       "ID": "ACH_WET_FEET",
@@ -21377,22 +21382,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18207
+      "UsersEstimate": 18209
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 455184,
+      "Progressed": 455216,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-23T23:01:29.2465132+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:06:03.2537681+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:50:16.4772151+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.5756553+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:01:24.3943146+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:06:03.2539+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:45:26.1387691+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:50:16.4773537+00:00"
 }

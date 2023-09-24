@@ -14,7 +14,7 @@
 | Busybody | 46.00% | ~12 |
 | Task Master | 46.00% | ~12 |
 | An Acquired Taste | 42.00% | ~11 |
-| A Light in the Dark | 38.00% | ~10 |
+| A Light in the Dark | 42.00% | ~11 |
 | Warning: Fragile | 38.00% | ~10 |
 | A Real Headache | 35.00% | ~9 |
 | A Total Riot | 35.00% | ~9 |

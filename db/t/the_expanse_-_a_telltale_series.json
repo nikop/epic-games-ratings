@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 133,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -100,15 +100,21 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-24T01:47:19.3519834+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12210,
+  "EOS_Progressed": 12232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1541,
+  "EOS_NewPlayers": 1558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6376,6 +6382,11 @@
       "Time": "2023-09-24T00:09:35.0221641+00:00",
       "NumProgressed": 12210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T01:53:39.7729425+00:00",
+      "NumProgressed": 12232,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6388,7 +6399,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "10",
@@ -6404,7 +6415,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2691
     },
     {
       "ID": "12",
@@ -6412,7 +6423,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 977
+      "UsersEstimate": 979
     },
     {
       "ID": "13",
@@ -6428,7 +6439,7 @@
       "Name": "Doctor Approved",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2324
     },
     {
       "ID": "15",
@@ -6436,7 +6447,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3303
     },
     {
       "ID": "16",
@@ -6452,7 +6463,7 @@
       "Name": "Spore Taste",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2936
     },
     {
       "ID": "18",
@@ -6460,7 +6471,7 @@
       "Name": "Bottoms up!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1468
     },
     {
       "ID": "19",
@@ -6468,7 +6479,7 @@
       "Name": "Martian Music",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3180
     },
     {
       "ID": "2",
@@ -6476,15 +6487,15 @@
       "Name": "Data Logger",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1835
     },
     {
       "ID": "21",
@@ -6492,7 +6503,7 @@
       "Name": "Drone Dodger",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2691
     },
     {
       "ID": "22",
@@ -6500,7 +6511,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "23",
@@ -6508,7 +6519,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 977
+      "UsersEstimate": 979
     },
     {
       "ID": "24",
@@ -6516,7 +6527,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 610
+      "UsersEstimate": 612
     },
     {
       "ID": "25",
@@ -6524,7 +6535,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "26",
@@ -6532,7 +6543,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1101
     },
     {
       "ID": "27",
@@ -6540,7 +6551,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1468
     },
     {
       "ID": "28",
@@ -6564,7 +6575,7 @@
       "Name": "Captain Drummer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3303
     },
     {
       "ID": "30",
@@ -6572,7 +6583,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "4",
@@ -6580,7 +6591,7 @@
       "Name": "Debris Spree",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "5",
@@ -6588,7 +6599,7 @@
       "Name": "Data Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "6",
@@ -6596,7 +6607,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3058
     },
     {
       "ID": "7",
@@ -6604,7 +6615,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "8",
@@ -6612,7 +6623,7 @@
       "Name": "Data Recoverer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 612
     },
     {
       "ID": "9",
@@ -6620,23 +6631,23 @@
       "Name": "Impossible Objects",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4037
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 12210,
+      "Progressed": 12232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-09-23T01:39:48.6418115+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:09:35.0221634+00:00",
+  "LastChanged": "2023-09-24T01:47:19.3519831+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:53:39.772942+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:02:31.6810166+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:09:35.0222375+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:47:19.3519838+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:53:39.7730044+00:00"
 }

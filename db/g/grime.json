@@ -4,10 +4,10 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 418,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 362,
+  "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -882,7 +882,7 @@
   ],
   "EOS_Progressed": 149634,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10511,8 +10511,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-09-23T16:59:01.8947767+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:06:54.9348715+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:51:00.9234804+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:23.4784106+00:00",
-  "LastUpdate_Ratings": "2023-09-23T23:59:35.6563853+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:06:54.9349918+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:43:55.2295305+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:51:00.9235782+00:00"
 }

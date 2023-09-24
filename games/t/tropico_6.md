@@ -1,19 +1,19 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,981 |
+| Just One...More...Term... | 75.00% | ~3,982 |
 | Un-Lonely Island | 47.00% | ~2,495 |
 | The Beginning of a Servantship | 45.00% | ~2,389 |
 | Trade Is My Trait | 37.00% | ~1,964 |
 | Number 18 | 24.00% | ~1,274 |
 | We Don't Have Time For That | 19.00% | ~1,009 |
-| The Legend of Langostino | 17.00% | ~902 |
-| The Governator | 17.00% | ~902 |
+| The Legend of Langostino | 17.00% | ~903 |
+| The Governator | 17.00% | ~903 |
 | Caribbean Comrade | 16.00% | ~849 |
 | The Dreamer of Dreams | 15.00% | ~796 |
 | Go Sovereigns! | 11.00% | ~584 |
@@ -26,9 +26,9 @@ Number of Ratings: 398  (23.09.2022)
 | I Owe You Nothing | 7.00% | ~372 |
 | Make Tropico Great Again! | 7.00% | ~372 |
 | French Connection | 7.00% | ~372 |
-| Don't Panic! | 6.00% | ~318 |
-| Computer Says "No" | 6.00% | ~318 |
-| Beware The Betman | 6.00% | ~318 |
+| Don't Panic! | 6.00% | ~319 |
+| Computer Says "No" | 6.00% | ~319 |
+| Beware The Betman | 6.00% | ~319 |
 | Viva Tropico! | 5.00% | ~265 |
 | Watch The World Burn | 5.00% | ~265 |
 | Fairy Tale Come True | 5.00% | ~265 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,308 (Ranked 158)  
+Progressed: 5,309 (Ranked 158)  
 Completed: 2 (0.04%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 2 (0.04%) (Ranked 255)
 | 2023-09-21 | 5,255 | 2 |
 | 2023-09-22 | 5,282 | 2 |
 | 2023-09-23 | 5,306 | 2 |
-| 2023-09-24 | 5,308 | 2 |
+| 2023-09-24 | 5,309 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
 Sum: 688 (Ranked 281)  

@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,146 |
-| Where's that freaking Dwarf? | 5.00% | ~11,314 |
-| Alt+F4 | 5.00% | ~11,314 |
-| Déjà vu | 4.00% | ~9,051 |
-| A beer, two curses, three companions | 3.00% | ~6,788 |
-| Sock! SOCK! | 3.00% | ~6,788 |
-| GG EZ | 3.00% | ~6,788 |
-| Speedrun | 3.00% | ~6,788 |
+| Sowwy! | 31.00% | ~70,151 |
+| Where's that freaking Dwarf? | 5.00% | ~11,315 |
+| Alt+F4 | 5.00% | ~11,315 |
+| Déjà vu | 4.00% | ~9,052 |
+| A beer, two curses, three companions | 3.00% | ~6,789 |
+| Sock! SOCK! | 3.00% | ~6,789 |
+| GG EZ | 3.00% | ~6,789 |
+| Speedrun | 3.00% | ~6,789 |
 | Livin' in a dwarven paradise | 2.00% | ~4,526 |
 | Way of the Wimp | 2.00% | ~4,526 |
 | The plot thickens... At the tavern | 2.00% | ~4,526 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,263 |
 | Thieves' Guild Accreditation | 1.00% | ~2,263 |
 | Team Building Exercise | 1.00% | ~2,263 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,036 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,037 |
 | Lust and Debauchery | 0.80% | ~1,810 |
 | Dead for good | 0.70% | ~1,584 |
 | Gargantua | 0.70% | ~1,584 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~226 |
 | Dwarf Candy | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,276 (Ranked 58)  
+Progressed: 226,292 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,11 +211,11 @@ Completed: 3 (0.00%) (Ranked 291)
 | 2023-09-21 | 225,765 | 3 |
 | 2023-09-22 | 225,994 | 3 |
 | 2023-09-23 | 226,270 | 3 |
-| 2023-09-24 | 226,276 | 3 |
+| 2023-09-24 | 226,292 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 276)  
-Sum: 383 (Ranked 326)  
-Diff (max vs sum): -50  
+Sum: 383 (Ranked 327)  
+Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 198 |

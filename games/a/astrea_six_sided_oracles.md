@@ -4,32 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dicesmithing Time! | 100.00% | ~5 |
-| Endless Tricks | 100.00% | ~5 |
-| Mechanical Buddy | 100.00% | ~5 |
-| Meissa's Savior | 100.00% | ~5 |
-| Purification Pioneer | 100.00% | ~5 |
-| Sanctuary Guardian | 80.00% | ~4 |
-| Stellar Dismantler | 80.00% | ~4 |
-| Mind Illuminator | 60.00% | ~3 |
-| Wild's Keeper | 60.00% | ~3 |
-| Anomaly Destroyer | 40.00% | ~2 |
-| Arch-Oracle | 20.00% | ~1 |
-| Astral Adventurer | 20.00% | ~1 |
-| Denying Destiny | 20.00% | ~1 |
-| Favored by the Cosmos | 20.00% | ~1 |
-| Heart Gate | 20.00% | ~1 |
-| Loyal Partner | 20.00% | ~1 |
-| Plague Doctor | 20.00% | ~1 |
-| Sadistic Plan | 20.00% | ~1 |
-| Sentinelphobic | 20.00% | ~1 |
-| Skeptical | 20.00% | ~1 |
-| Star Killer | 20.00% | ~1 |
-| Stellar Haste | 20.00% | ~1 |
-| The Corruption Goddess | 20.00% | ~1 |
-| Unbeatable | 20.00% | ~1 |
-| Unepic Hero | 20.00% | ~1 |
-| Wave Bender | 20.00% | ~1 |
+| Dicesmithing Time! | 100.00% | ~7 |
+| Endless Tricks | 100.00% | ~7 |
+| Mechanical Buddy | 100.00% | ~7 |
+| Meissa's Savior | 100.00% | ~7 |
+| Purification Pioneer | 100.00% | ~7 |
+| Sanctuary Guardian | 86.00% | ~6 |
+| Mind Illuminator | 71.00% | ~5 |
+| Wild's Keeper | 71.00% | ~5 |
+| Stellar Dismantler | 57.00% | ~4 |
+| Sentinelphobic | 43.00% | ~3 |
+| Skeptical | 43.00% | ~3 |
+| Stellar Haste | 43.00% | ~3 |
+| The Corruption Goddess | 43.00% | ~3 |
+| Unbeatable | 43.00% | ~3 |
+| Anomaly Destroyer | 29.00% | ~2 |
+| Dice Specialist | 29.00% | ~2 |
+| Loyal Partner | 29.00% | ~2 |
+| Arch-Oracle | 14.00% | ~1 |
+| Astral Adventurer | 14.00% | ~1 |
+| Denying Destiny | 14.00% | ~1 |
+| Favored by the Cosmos | 14.00% | ~1 |
+| Heart Gate | 14.00% | ~1 |
+| Plague Doctor | 14.00% | ~1 |
+| Sadistic Plan | 14.00% | ~1 |
+| Shard Spender | 14.00% | ~1 |
+| Star Killer | 14.00% | ~1 |
+| Unepic Hero | 14.00% | ~1 |
+| Wave Bender | 14.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -53,7 +55,6 @@
 | Boundless as Ocean | 0.00% | ~0 |
 | Can't touch this | 0.00% | ~0 |
 | Critical Twist | 0.00% | ~0 |
-| Dice Specialist | 0.00% | ~0 |
 | Eridanian Champion | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 | Eridanian Mastery | 0.00% | ~0 |
@@ -72,7 +73,6 @@
 | Purification Avatar | 0.00% | ~0 |
 | Reflexive Mind | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |
-| Shard Spender | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
@@ -85,9 +85,10 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 528)  
+Progressed: 7 (Ranked 513)  
 Completed: 0 (0.00%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-22 | 5 | 0 |
+| 2023-09-24 | 7 | 0 |

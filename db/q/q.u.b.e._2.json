@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 694,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 276,
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 424,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1952,9 +1952,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_HUB2",
@@ -1976,9 +1976,9 @@
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_PROPELL",
@@ -2048,8 +2048,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-24T00:05:30.2930992+00:00",
+  "LastChanged_Achievements": "2023-09-24T01:49:47.9458932+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-24T00:00:31.3656772+00:00",
-  "LastUpdate_Achievements": "2023-09-24T00:05:30.2931341+00:00"
+  "LastUpdate_Ratings": "2023-09-24T01:44:42.0661871+00:00",
+  "LastUpdate_Achievements": "2023-09-24T01:49:47.9459254+00:00"
 }
