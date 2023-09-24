@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1427,
+  "EOS_Progressed": 1431,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2790,6 +2790,11 @@
       "Time": "2023-09-24T12:04:46.2510653+00:00",
       "NumProgressed": 1427,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T13:07:30.9212635+00:00",
+      "NumProgressed": 1431,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2801,7 +2806,7 @@
       "Name": "Agent 47",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Auditor",
@@ -2833,15 +2838,15 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Commandos",
       "SetID": "85nb4h3",
       "Name": "Commandos",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Death_to_the_dictator",
@@ -2849,7 +2854,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Defense_Common",
@@ -2881,7 +2886,7 @@
       "Name": "E1M1",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "Everyone_is_here",
@@ -2889,7 +2894,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Experienced_strategist",
@@ -2913,7 +2918,7 @@
       "Name": "Grenadier",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Hard_Serpent",
@@ -2929,7 +2934,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 501
     },
     {
       "ID": "High_noon",
@@ -2953,7 +2958,7 @@
       "Name": "Spice It Up",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "KillAllM2",
@@ -2961,7 +2966,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Kultprosvet",
@@ -2985,7 +2990,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "MoskitoBite",
@@ -2993,7 +2998,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 487
     },
     {
       "ID": "Scout",
@@ -3017,7 +3022,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "We_were_not_here",
@@ -3040,15 +3045,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1427,
+      "Progressed": 1431,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:04:46.2510647+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:07:30.9212631+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:57:36.7496129+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:04:46.2511023+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:00:10.1868965+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:07:30.9213147+00:00"
 }

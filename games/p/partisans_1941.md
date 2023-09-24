@@ -6,39 +6,39 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 40.00% | ~571 |
-| Grenadier | 39.00% | ~557 |
-| War Never Changes | 39.00% | ~557 |
-| Heroes Never Die | 35.00% | ~499 |
-| Mosquito bite | 34.00% | ~485 |
-| Spice It Up | 30.00% | ~428 |
-| Agent 47 | 25.00% | ~357 |
-| Bomberman | 25.00% | ~357 |
-| You're Gonna Go Far, Kid | 24.00% | ~342 |
-| Death to the Oppressor! | 18.00% | ~257 |
-| The Gang's All Here | 15.00% | ~214 |
+| E1M1 | 40.00% | ~572 |
+| Grenadier | 39.00% | ~558 |
+| War Never Changes | 39.00% | ~558 |
+| Heroes Never Die | 35.00% | ~501 |
+| Mosquito bite | 34.00% | ~487 |
+| Spice It Up | 30.00% | ~429 |
+| Agent 47 | 25.00% | ~358 |
+| Bomberman | 25.00% | ~358 |
+| You're Gonna Go Far, Kid | 24.00% | ~343 |
+| Death to the Oppressor! | 18.00% | ~258 |
+| The Gang's All Here | 15.00% | ~215 |
 | Your Answer | 14.00% | ~200 |
 | One by One | 13.00% | ~186 |
 | The Big Bertha | 11.00% | ~157 |
 | Game Over | 10.00% | ~143 |
 | Lock, Stock | 7.00% | ~100 |
 | Payback Time | 7.00% | ~100 |
-| No Witness | 5.00% | ~71 |
+| No Witness | 5.00% | ~72 |
 | Strategist | 4.00% | ~57 |
 | Unbreakable Wall | 2.00% | ~29 |
 | Experienced Strategist | 2.00% | ~29 |
 | Do a Barrel Roll! | 1.00% | ~14 |
 | How?! | 1.00% | ~14 |
 | Tough as Nails | 0.50% | ~7 |
-| Commandos | 0.40% | ~6 |
+| Commandos | 0.30% | ~4 |
 | We Weren't There | 0.20% | ~3 |
 | Inspector General | 0.10% | ~1 |
 | Defense of Steel | 0.10% | ~1 |
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,427 (Ranked 213)  
-Completed: 1 (0.07%) (Ranked 242)  
+Progressed: 1,431 (Ranked 213)  
+Completed: 1 (0.07%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,7 +177,7 @@ Completed: 1 (0.07%) (Ranked 242)
 | 2023-09-21 | 1,405 | 1 |
 | 2023-09-22 | 1,413 | 1 |
 | 2023-09-23 | 1,419 | 1 |
-| 2023-09-24 | 1,427 | 1 |
+| 2023-09-24 | 1,431 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

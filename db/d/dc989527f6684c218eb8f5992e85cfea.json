@@ -3,8 +3,8 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11804,
+  "EOS_Progressed": 11807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10416,6 +10416,11 @@
       "Time": "2023-09-24T10:06:23.7583954+00:00",
       "NumProgressed": 11804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T13:08:17.6479664+00:00",
+      "NumProgressed": 11807,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -10427,7 +10432,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -10499,7 +10504,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -10626,14 +10631,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11804,
+      "Progressed": 11807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:05:19.3713034+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:08:17.6479661+00:00",
   "LastUpdate_AppInfo": "2023-09-23T01:36:02.081664+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:58:52.4448169+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:05:19.3713815+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:02:04.2689797+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:08:17.6480863+00:00"
 }

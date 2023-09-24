@@ -3,8 +3,8 @@
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2023-09-24T12:06:53.2547979+00:00",
       "NumProgressed": 217,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T13:10:30.7942081+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -792,7 +797,7 @@
       "Name": "Full load",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Island",
@@ -808,7 +813,7 @@
       "Name": "In the last second",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Master",
@@ -879,14 +884,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:06:53.2547973+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:10:30.7942078+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.6607347+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:58:18.6828687+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:06:53.2548115+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:01:10.9038752+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:10:30.7942252+00:00"
 }

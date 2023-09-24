@@ -6,48 +6,48 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~238,633 |
-| Into the Unknown | 35.00% | ~219,793 |
-| First Shot | 35.00% | ~219,793 |
-| Herzlich Wilkommen! | 33.00% | ~207,234 |
-| Good Night & Good Luck | 33.00% | ~207,234 |
-| Sancho Panza | 31.00% | ~194,674 |
-| Oh, So This Is How It Works! | 29.00% | ~182,114 |
-| Flag Burning | 27.00% | ~169,555 |
-| Can't Touch This! | 25.00% | ~156,995 |
-| Under Pressure | 24.00% | ~150,715 |
-| On the Trail of the Enemy | 24.00% | ~150,715 |
-| Light in the Darkness | 24.00% | ~150,715 |
-| It Wasn't That Hard, Was It? | 24.00% | ~150,715 |
-| Get Outta My House! | 23.00% | ~144,436 |
-| Night Hunter | 22.00% | ~138,156 |
-| Being All Social | 22.00% | ~138,156 |
-| After the Fall | 19.00% | ~119,316 |
-| We Will Be Heard! | 18.00% | ~113,037 |
-| Known Associate | 17.00% | ~106,757 |
-| Tunnel Entrance | 17.00% | ~106,757 |
-| Brush with Death | 16.00% | ~100,477 |
-| Debris and Ashes | 15.00% | ~94,197 |
-| Going Down | 15.00% | ~94,197 |
-| Family First | 15.00% | ~94,197 |
-| Your World, Your Rules | 14.00% | ~87,917 |
-| Death From Afar | 14.00% | ~87,917 |
-| Terminal Headache | 14.00% | ~87,917 |
-| Slowpoke! | 12.00% | ~75,358 |
-| Tickets, Please! | 7.00% | ~43,959 |
-| Parkour Master | 6.00% | ~37,679 |
-| Combat Master | 6.00% | ~37,679 |
-| Municipal Services | 5.00% | ~31,399 |
-| Ban Hammer | 5.00% | ~31,399 |
-| Modder | 5.00% | ~31,399 |
-| Tube Map | 4.00% | ~25,119 |
-| Don Quixote | 4.00% | ~25,119 |
-| Can't You Read the Signs? | 4.00% | ~25,119 |
-| Boot Licker | 4.00% | ~25,119 |
-| Tanning Salon | 3.00% | ~18,839 |
-| That's Teamwork! | 3.00% | ~18,839 |
-| Ironheart | 3.00% | ~18,839 |
-| You're Going Down! | 3.00% | ~18,839 |
+| You Never Forget Your First... | 38.00% | ~238,640 |
+| Into the Unknown | 35.00% | ~219,800 |
+| First Shot | 35.00% | ~219,800 |
+| Herzlich Wilkommen! | 33.00% | ~207,240 |
+| Good Night & Good Luck | 33.00% | ~207,240 |
+| Sancho Panza | 31.00% | ~194,680 |
+| Oh, So This Is How It Works! | 29.00% | ~182,120 |
+| Flag Burning | 27.00% | ~169,560 |
+| Can't Touch This! | 25.00% | ~157,000 |
+| Under Pressure | 24.00% | ~150,720 |
+| On the Trail of the Enemy | 24.00% | ~150,720 |
+| Light in the Darkness | 24.00% | ~150,720 |
+| It Wasn't That Hard, Was It? | 24.00% | ~150,720 |
+| Get Outta My House! | 23.00% | ~144,440 |
+| Night Hunter | 22.00% | ~138,160 |
+| Being All Social | 22.00% | ~138,160 |
+| After the Fall | 19.00% | ~119,320 |
+| We Will Be Heard! | 18.00% | ~113,040 |
+| Known Associate | 17.00% | ~106,760 |
+| Tunnel Entrance | 17.00% | ~106,760 |
+| Brush with Death | 16.00% | ~100,480 |
+| Debris and Ashes | 15.00% | ~94,200 |
+| Going Down | 15.00% | ~94,200 |
+| Family First | 15.00% | ~94,200 |
+| Your World, Your Rules | 14.00% | ~87,920 |
+| Death From Afar | 14.00% | ~87,920 |
+| Terminal Headache | 14.00% | ~87,920 |
+| Slowpoke! | 12.00% | ~75,360 |
+| Tickets, Please! | 7.00% | ~43,960 |
+| Parkour Master | 6.00% | ~37,680 |
+| Combat Master | 6.00% | ~37,680 |
+| Municipal Services | 5.00% | ~31,400 |
+| Ban Hammer | 5.00% | ~31,400 |
+| Modder | 5.00% | ~31,400 |
+| Tube Map | 4.00% | ~25,120 |
+| Don Quixote | 4.00% | ~25,120 |
+| Can't You Read the Signs? | 4.00% | ~25,120 |
+| Boot Licker | 4.00% | ~25,120 |
+| Tanning Salon | 3.00% | ~18,840 |
+| That's Teamwork! | 3.00% | ~18,840 |
+| Ironheart | 3.00% | ~18,840 |
+| You're Going Down! | 3.00% | ~18,840 |
 | Find Anything Interesting? | 2.00% | ~12,560 |
 | Revenants | 2.00% | ~12,560 |
 | Who Wants To Be a... | 2.00% | ~12,560 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~273 |
 | Connoisseur | 0.10% | ~273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627,981 (Ranked 27)  
-Completed: 63 (0.01%) (Ranked 275)  
+Progressed: 628,000 (Ranked 27)  
+Completed: 63 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,21 +229,21 @@ Completed: 63 (0.01%) (Ranked 275)
 | 2023-09-21 | 626,862 | 63 |
 | 2023-09-22 | 627,256 | 63 |
 | 2023-09-23 | 627,745 | 63 |
-| 2023-09-24 | 627,981 | 63 |
+| 2023-09-24 | 628,000 | 63 |
 ## Awards
 Max (Character Customization): 9,228  (Ranked 39)  
-Sum: 22,503 (Ranked 53)  
+Sum: 22,509 (Ranked 53)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 9,228 |
 | This game has Great Boss Battles | 5,530 |
 | This game is Great for Beginners | 995 |
-| This game is Highly Recommended | 911 |
+| This game is Highly Recommended | 915 |
 | This game has Diverse Characters | 904 |
 | This game has Amazing Characters | 884 |
 | This game has Amazing Storytelling | 858 |
-| This game is Extremely Fun | 848 |
+| This game is Extremely Fun | 850 |
 | This game has Quickly Understood Controls | 826 |
 | This game is Relaxing | 808 |
 | This game has a Creative Community | 711 |
@@ -506,4 +506,4 @@ Diff (max vs sum): -14
 | 2023-09-21 | 4.57 | - | 9,197 | 22,378 |
 | 2023-09-22 | 4.57 | - | 9,210 | 22,434 |
 | 2023-09-23 | 4.58 | - | 9,228 | 22,492 |
-| 2023-09-24 | 4.57 | - | 9,228 | 22,503 |
+| 2023-09-24 | 4.57 | - | 9,228 | 22,509 |

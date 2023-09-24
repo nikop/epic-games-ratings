@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 0.80% | ~208 |
-| Advancement | 0.60% | ~156 |
+| Stylish | 0.90% | ~234 |
+| Advancement | 0.70% | ~182 |
 | Meticulously Efficient | 0.60% | ~156 |
 | I collect Spores, Molds, and Fungi | 0.50% | ~130 |
 | Discovery | 0.50% | ~130 |
@@ -15,15 +15,16 @@ Rating: 4.50 (Ranked 570)
 | Back Off | 0.40% | ~104 |
 | Clutch Capture | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
+| Icing on the Cake | 0.40% | ~104 |
 | Swift Rift Removers | 0.40% | ~104 |
 | Teamwork | 0.40% | ~104 |
 | There you are! | 0.40% | ~104 |
 | Vaporous Expansion | 0.40% | ~104 |
 | Whoopsie | 0.40% | ~104 |
 | Animated | 0.30% | ~78 |
+| Daily Dose | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
 | Ghostbuster In Training | 0.30% | ~78 |
-| Icing on the Cake | 0.30% | ~78 |
 | Right back at ya | 0.30% | ~78 |
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
@@ -33,7 +34,6 @@ Rating: 4.50 (Ranked 570)
 | Welcome to the Crew | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
 | Collector | 0.20% | ~52 |
-| Daily Dose | 0.20% | ~52 |
 | Diabolical | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
 | Legions | 0.20% | ~52 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 570)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,006 (Ranked 110)  
-Completed: 58 (0.22%) (Ranked 205)  
+Progressed: 26,009 (Ranked 110)  
+Completed: 58 (0.22%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,7 +214,7 @@ Completed: 58 (0.22%) (Ranked 205)
 | 2023-09-21 | 25,942 | 58 |
 | 2023-09-22 | 25,960 | 58 |
 | 2023-09-23 | 25,986 | 58 |
-| 2023-09-24 | 26,006 | 58 |
+| 2023-09-24 | 26,009 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 255)  
 Sum: 2,330 (Ranked 188)  

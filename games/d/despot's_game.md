@@ -10,8 +10,8 @@ Rating: 4.50 (Ranked 570)
 | Party | 49.00% | ~209 |
 | Impossible Cube | 46.00% | ~196 |
 | Knowledge is Power | 44.00% | ~187 |
+| Through the Darkness | 43.00% | ~183 |
 | No Mercy | 42.00% | ~179 |
-| Through the Darkness | 42.00% | ~179 |
 | The Return of a Rat | 41.00% | ~175 |
 | Fat of the Earth | 35.00% | ~149 |
 | Last Man Standing | 32.00% | ~136 |
@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 570)
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 426 (Ranked 276)  
-Completed: 1 (0.23%) (Ranked 203)  
+Completed: 1 (0.23%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

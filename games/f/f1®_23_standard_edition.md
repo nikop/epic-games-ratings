@@ -5,58 +5,58 @@ Rating: 4.67 (Ranked 260)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~1,593 |
-| On the Top Step | 86.00% | ~1,473 |
-| Setting up for Success | 76.00% | ~1,302 |
-| Team Orders | 74.00% | ~1,268 |
-| Engineer | 54.00% | ~925 |
-| Familiar Faces | 47.00% | ~805 |
-| Going the Extra Mile | 42.00% | ~719 |
-| Sharing the Love | 38.00% | ~651 |
-| Hitting a Season | 35.00% | ~600 |
-| Challenge Yourself | 32.00% | ~548 |
-| Making History | 31.00% | ~531 |
-| A Dozen Pieces | 29.00% | ~497 |
-| Writing a new Chapter | 24.00% | ~411 |
-| Spring Cleaning | 23.00% | ~394 |
-| Network Success | 22.00% | ~377 |
-| Ups and Downs | 19.00% | ~325 |
-| Crucial Combo | 18.00% | ~308 |
-| Reduce | 18.00% | ~308 |
-| Oil and Water | 17.00% | ~291 |
-| One for the Book | 17.00% | ~291 |
-| Reuse | 16.00% | ~274 |
-| Proving Them Wrong | 16.00% | ~274 |
-| Gathering Dust | 15.00% | ~257 |
-| Hitting a Bullseye | 15.00% | ~257 |
-| Lightning Round the World | 14.00% | ~240 |
-| All in a Weekend's Work | 12.00% | ~206 |
-| Recycle | 12.00% | ~206 |
-| Tinkerer | 12.00% | ~206 |
-| Eagle Eye | 11.00% | ~188 |
-| Spinning Around | 11.00% | ~188 |
-| Undisputed Winner | 10.00% | ~171 |
-| Switcheroo | 10.00% | ~171 |
-| Friendly Competition | 8.00% | ~137 |
-| For all Those Back at the Factory | 7.00% | ~120 |
-| Living up to Expectations | 7.00% | ~120 |
-| Smooth Operator | 7.00% | ~120 |
-| Loyal Bond | 6.00% | ~103 |
-| Peak Performance | 5.00% | ~86 |
+| Getting on the Step | 93.00% | ~1,612 |
+| On the Top Step | 86.00% | ~1,490 |
+| Setting up for Success | 76.00% | ~1,317 |
+| Team Orders | 74.00% | ~1,282 |
+| Engineer | 53.00% | ~918 |
+| Familiar Faces | 47.00% | ~815 |
+| Going the Extra Mile | 42.00% | ~728 |
+| Sharing the Love | 38.00% | ~659 |
+| Hitting a Season | 35.00% | ~607 |
+| Challenge Yourself | 32.00% | ~555 |
+| Making History | 31.00% | ~537 |
+| A Dozen Pieces | 29.00% | ~503 |
+| Writing a new Chapter | 24.00% | ~416 |
+| Spring Cleaning | 23.00% | ~399 |
+| Network Success | 22.00% | ~381 |
+| Ups and Downs | 19.00% | ~329 |
+| Crucial Combo | 18.00% | ~312 |
+| Reduce | 18.00% | ~312 |
+| Oil and Water | 17.00% | ~295 |
+| One for the Book | 17.00% | ~295 |
+| Reuse | 16.00% | ~277 |
+| Proving Them Wrong | 16.00% | ~277 |
+| Gathering Dust | 15.00% | ~260 |
+| Hitting a Bullseye | 15.00% | ~260 |
+| Lightning Round the World | 14.00% | ~243 |
+| All in a Weekend's Work | 12.00% | ~208 |
+| Recycle | 12.00% | ~208 |
+| Tinkerer | 12.00% | ~208 |
+| Eagle Eye | 11.00% | ~191 |
+| Spinning Around | 11.00% | ~191 |
+| Undisputed Winner | 10.00% | ~173 |
+| Switcheroo | 10.00% | ~173 |
+| Friendly Competition | 8.00% | ~139 |
+| For all Those Back at the Factory | 7.00% | ~121 |
+| Living up to Expectations | 7.00% | ~121 |
+| Smooth Operator | 7.00% | ~121 |
+| Loyal Bond | 6.00% | ~104 |
+| Peak Performance | 5.00% | ~87 |
 | Hitting a Century | 4.00% | ~69 |
-| Seasoned Rookie | 3.00% | ~51 |
-| Wait, I know you? | 3.00% | ~51 |
-| Filling in the Gaps | 3.00% | ~51 |
-| Media Darling | 2.00% | ~34 |
+| Seasoned Rookie | 3.00% | ~52 |
+| Wait, I know you? | 3.00% | ~52 |
+| Filling in the Gaps | 3.00% | ~52 |
+| Media Darling | 2.00% | ~35 |
 | Under the Microscope | 1.00% | ~17 |
 | Saturday Night Drama | 1.00% | ~17 |
-| Ultimate Collector | 0.70% | ~12 |
+| Ultimate Collector | 0.80% | ~14 |
 | Golden Touch | 0.50% | ~9 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,713 (Ranked 204)  
-Completed: 0 (0.00%) (Ranked 291)  
+Progressed: 1,733 (Ranked 204)  
+Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 1,052 | 0 |
 | 2023-09-22 | 1,316 | 0 |
 | 2023-09-23 | 1,614 | 0 |
-| 2023-09-24 | 1,713 | 0 |
+| 2023-09-24 | 1,733 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

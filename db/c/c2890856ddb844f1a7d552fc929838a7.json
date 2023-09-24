@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-09-24T10:06:02.959926+00:00",
       "NumProgressed": 839,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T13:07:58.2232147+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1745,7 +1750,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "AC02",
@@ -1753,7 +1758,7 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "AC03",
@@ -1761,7 +1766,7 @@
       "Name": "Blood and Gold",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "AC04",
@@ -1769,7 +1774,7 @@
       "Name": "Blood and Iron",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "AC05",
@@ -1793,7 +1798,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "AC08",
@@ -1807,9 +1812,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 470
+      "UsersEstimate": 462
     },
     {
       "ID": "AC10",
@@ -1841,7 +1846,7 @@
       "Name": "Second Psalm.",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "AC14",
@@ -1873,7 +1878,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "AC18",
@@ -1881,7 +1886,7 @@
       "Name": "Acquired Taste",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "AC19",
@@ -1905,7 +1910,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "AC22",
@@ -1937,7 +1942,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "AC26",
@@ -1951,9 +1956,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 185
     },
     {
       "ID": "AC28",
@@ -1961,7 +1966,7 @@
       "Name": "The Punished One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "AC29",
@@ -1977,7 +1982,7 @@
       "Name": "The Anointed One",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "AC31",
@@ -2001,7 +2006,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "AC34",
@@ -2057,7 +2062,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "AC41",
@@ -2104,7 +2109,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 0
     }
   ],
@@ -2112,8 +2117,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:05:05.5765947+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:07:58.2232143+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:58:57.589021+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:05:05.5766421+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:02:11.7949451+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:07:58.2232725+00:00"
 }

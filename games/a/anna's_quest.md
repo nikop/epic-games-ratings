@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 81.00% | ~38 |
+| Escape artist | 83.00% | ~39 |
 | Book Worm | 60.00% | ~28 |
 | Ooh, it's shiny! | 60.00% | ~28 |
 | My lost nightingale | 53.00% | ~25 |
@@ -12,10 +12,10 @@
 | Back to the anvil | 47.00% | ~22 |
 | So soothing... | 45.00% | ~21 |
 | Mystery solved | 43.00% | ~20 |
+| Fussy eater | 43.00% | ~20 |
 | Kekekeke... | 43.00% | ~20 |
 | Roostwig has entered the building | 43.00% | ~20 |
 | Honey, honey, honey… | 40.00% | ~19 |
-| Fussy eater | 40.00% | ~19 |
 | Far away from home | 40.00% | ~19 |
 | NOW GO AWAY! | 40.00% | ~19 |
 | Sorry Grandpa | 40.00% | ~19 |

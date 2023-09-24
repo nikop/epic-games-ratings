@@ -5,24 +5,24 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,612 |
-| First Class Student | 13.00% | ~38,640 |
-| Troll with the Punches | 13.00% | ~38,640 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,613 |
+| First Class Student | 13.00% | ~38,641 |
+| Troll with the Punches | 13.00% | ~38,641 |
 | A Keen Sense of Spell | 12.00% | ~35,668 |
-| A Talent for Spending | 11.00% | ~32,695 |
-| That's a Keeper | 11.00% | ~32,695 |
-| Grappling with a Graphorn | 10.00% | ~29,723 |
-| The One Who Mastered Memories | 10.00% | ~29,723 |
-| The Hallowed Hero | 10.00% | ~29,723 |
-| The Hero of Hogwarts | 10.00% | ~29,723 |
-| The Defender of Dragons | 10.00% | ~29,723 |
-| Challenge Accepted | 10.00% | ~29,723 |
-| Loom for Improvement | 10.00% | ~29,723 |
-| Coasting Along | 10.00% | ~29,723 |
+| A Talent for Spending | 11.00% | ~32,696 |
+| That's a Keeper | 11.00% | ~32,696 |
+| Grappling with a Graphorn | 10.00% | ~29,724 |
+| The One Who Mastered Memories | 10.00% | ~29,724 |
+| The Hallowed Hero | 10.00% | ~29,724 |
+| The Hero of Hogwarts | 10.00% | ~29,724 |
+| The Defender of Dragons | 10.00% | ~29,724 |
+| Challenge Accepted | 10.00% | ~29,724 |
+| Loom for Improvement | 10.00% | ~29,724 |
+| Coasting Along | 10.00% | ~29,724 |
 | Followed the Butterflies | 9.00% | ~26,751 |
 | Rising From the Ashes | 9.00% | ~26,751 |
-| A Sallow Grave | 8.00% | ~23,778 |
-| The Spell Master | 8.00% | ~23,778 |
+| A Sallow Grave | 8.00% | ~23,779 |
+| The Spell Master | 8.00% | ~23,779 |
 | The Avenging Gazelle | 7.00% | ~20,806 |
 | Beast Friends | 7.00% | ~20,806 |
 | Flight the Good Flight | 7.00% | ~20,806 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 117)
 | The Nature of the Beast | 0.60% | ~1,783 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,230 (Ranked 44)  
-Completed: 476 (0.16%) (Ranked 214)  
+Progressed: 297,235 (Ranked 44)  
+Completed: 476 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,10 +208,10 @@ Completed: 476 (0.16%) (Ranked 214)
 | 2023-09-21 | 297,066 | 476 |
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
-| 2023-09-24 | 297,230 | 476 |
+| 2023-09-24 | 297,235 | 476 |
 ## Awards
 Max (Character Customization): 22,986  (Ranked 17)  
-Sum: 44,158 (Ranked 30)  
+Sum: 44,164 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -225,7 +225,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,022 |
 | This game is Highly Recommended | 1,009 |
 | This game has Quickly Understood Controls | 952 |
-| This game has Beautiful Visuals | 875 |
+| This game has Beautiful Visuals | 881 |
 | This game has a Creative Community | 671 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -414,4 +414,4 @@ Diff (max vs sum): -13
 | 2023-09-21 | 4.77 | 22,886 | 43,899 |
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
-| 2023-09-24 | 4.76 | 22,986 | 44,158 |
+| 2023-09-24 | 4.76 | 22,986 | 44,164 |

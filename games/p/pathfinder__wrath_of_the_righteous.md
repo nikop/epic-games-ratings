@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,848 |
+| Devoured by Darkness | 25.00% | ~2,849 |
 | A Spark | 18.00% | ~2,051 |
 | Burning City | 17.00% | ~1,937 |
 | Mythic Choices | 14.00% | ~1,595 |
 | Defender's Heart | 14.00% | ~1,595 |
 | Banner over the Citadel | 13.00% | ~1,481 |
 | Queen's Gratitude | 12.00% | ~1,367 |
-| Fifth Crusade | 8.00% | ~911 |
+| Fifth Crusade | 8.00% | ~912 |
 | Embrace of the Abyss | 6.00% | ~684 |
 | Path of the Angel | 6.00% | ~684 |
 | Demonic and Divine | 6.00% | ~684 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,393 (Ranked 136)  
-Completed: 0 (0.00%) (Ranked 291)  
+Progressed: 11,395 (Ranked 136)  
+Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,20 +280,20 @@ Completed: 0 (0.00%) (Ranked 291)
 | 2023-09-21 | 11,374 | 0 |
 | 2023-09-22 | 11,378 | 0 |
 | 2023-09-23 | 11,390 | 0 |
-| 2023-09-24 | 11,393 | 0 |
+| 2023-09-24 | 11,395 | 0 |
 ## Awards
-Max (Character Customization): 1,715  (Ranked 118)  
-Sum: 6,955 (Ranked 115)  
+Max (Character Customization): 1,718  (Ranked 118)  
+Sum: 6,959 (Ranked 115)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,715 |
+| This game has Inclusive Character Customization | 1,718 |
 | This game is Extremely Fun | 651 |
 | This game is Highly Recommended | 637 |
 | This game has Amazing Characters | 635 |
 | This game has Diverse Characters | 621 |
 | This game has Amazing Storytelling | 613 |
-| This game has Challenging Combat | 579 |
+| This game has Challenging Combat | 580 |
 | This game has Quickly Understood Controls | 570 |
 | This game is Relaxing | 548 |
 | This game has a Creative Community | 386 |
@@ -521,3 +521,4 @@ Diff (max vs sum): 3
 | 2023-09-19 | 4.76 | - | 1,714 | 6,948 |
 | 2023-09-22 | 4.76 | - | 1,715 | 6,952 |
 | 2023-09-23 | 4.76 | - | 1,715 | 6,955 |
+| 2023-09-24 | 4.76 | - | 1,718 | 6,959 |

@@ -1,12 +1,12 @@
 # Empires of the Undergrowth
 [Store](https://store.epicgames.com/en-US/p/empires-of-the-undergrowth)  
 [View Rawdata](../../db/e/empires_of_the_undergrowth.json)  
-Rating: 4.73 (Ranked 162)  
+Rating: 4.73 (Ranked 163)  
 Number of Ratings: 212  (23.09.2022)  
 ## Awards
 Max (Competitive Players): 45  (Ranked 421)  
-Sum: 411 (Ranked 319)  
-Diff (max vs sum): 102  
+Sum: 411 (Ranked 320)  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 45 |

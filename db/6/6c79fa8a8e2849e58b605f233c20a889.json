@@ -3,7 +3,7 @@
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2594,
+  "EOS_Progressed": 2595,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -6101,6 +6101,11 @@
       "Time": "2023-09-24T02:25:59.1947459+00:00",
       "NumProgressed": 2594,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-24T13:11:05.9556884+00:00",
+      "NumProgressed": 2595,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6120,7 +6125,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "BOT_DESTROYER",
@@ -6136,7 +6141,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "CONQUEROR",
@@ -6144,7 +6149,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6216,7 +6221,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "GUARD_MAKER",
@@ -6287,14 +6292,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2594,
+      "Progressed": 2595,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:07:18.3858084+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:11:05.955688+00:00",
   "LastUpdate_AppInfo": "2023-09-20T02:12:42.7144796+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:59:07.9352978+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:07:18.3858592+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:02:27.7325523+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:11:05.9557561+00:00"
 }

@@ -56,7 +56,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,098 (Ranked 224)  
-Completed: 4 (0.36%) (Ranked 177)  
+Completed: 4 (0.36%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

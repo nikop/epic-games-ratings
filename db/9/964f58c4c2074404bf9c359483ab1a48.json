@@ -6,7 +6,7 @@
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 10,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -1428,9 +1428,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1270748,
+  "EOS_Progressed": 1270769,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2899,
+  "EOS_NewPlayers": 2889,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14713,6 +14713,11 @@
       "Time": "2023-09-24T12:07:16.4517159+00:00",
       "NumProgressed": 1270748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T13:11:02.787451+00:00",
+      "NumProgressed": 1270769,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -14724,7 +14729,7 @@
       "Name": "Possess 1000 Props!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "100_corruption_kills",
@@ -14748,7 +14753,7 @@
       "Name": "100 Kills as a Ghost!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "100_ghost_wins",
@@ -14836,7 +14841,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 139782
+      "UsersEstimate": 139785
     },
     {
       "ID": "10_ghost_wins",
@@ -14844,7 +14849,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 101660
+      "UsersEstimate": 101662
     },
     {
       "ID": "10_hero_prop_kills",
@@ -14860,7 +14865,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 203320
+      "UsersEstimate": 203323
     },
     {
       "ID": "10_hunter_wins",
@@ -14868,7 +14873,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 76245
+      "UsersEstimate": 76246
     },
     {
       "ID": "10_prop_headshots",
@@ -14972,7 +14977,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12707
+      "UsersEstimate": 12708
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -14988,7 +14993,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50830
+      "UsersEstimate": 50831
     },
     {
       "ID": "50_riot_shield_kills",
@@ -15012,7 +15017,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 127075
+      "UsersEstimate": 127077
     },
     {
       "ID": "ghost_win",
@@ -15020,7 +15025,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 762449
+      "UsersEstimate": 762461
     },
     {
       "ID": "hunter_win",
@@ -15028,7 +15033,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 698911
+      "UsersEstimate": 698923
     },
     {
       "ID": "master_of_loadouts",
@@ -15052,14 +15057,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 292272
+      "UsersEstimate": 292277
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1270748,
+      "Progressed": 1270769,
       "Completed": 0
     }
   ],
@@ -15067,8 +15072,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-09-24T00:00:04.180048+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:07:16.4517153+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:11:02.7874506+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:57:00.8656259+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:59:09.1092491+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:07:16.4518259+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:02:29.1425911+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:11:02.7875881+00:00"
 }

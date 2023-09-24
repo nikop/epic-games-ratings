@@ -782,9 +782,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_skip_1",
@@ -821,8 +821,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:06:32.709814+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:10:01.2725854+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:12:48.3415052+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:58:58.4117299+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:06:32.7098269+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:02:13.0977474+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:10:01.272604+00:00"
 }

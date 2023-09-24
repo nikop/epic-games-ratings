@@ -36,8 +36,8 @@
 | Stress Testing - Wall Jumps | 0.00% | ~0 |
 | Byte-Sized Achievement | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 473)  
-Completed: 0 (0.00%) (Ranked 291)  
+Progressed: 18 (Ranked 474)  
+Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

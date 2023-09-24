@@ -3,7 +3,7 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 410,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -349,9 +349,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:03:29.1110591+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:05:34.193849+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.4960842+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:58:58.5185715+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:03:29.1110787+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:02:13.3015513+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:05:34.1938718+00:00"
 }

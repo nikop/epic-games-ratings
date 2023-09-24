@@ -6,8 +6,8 @@
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2226,9 +2226,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26006,
+  "EOS_Progressed": 26009,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13526,6 +13526,11 @@
       "Time": "2023-09-24T12:06:22.4887113+00:00",
       "NumProgressed": 26006,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-24T13:09:46.7067851+00:00",
+      "NumProgressed": 26009,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13535,9 +13540,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 182
     },
     {
       "ID": "Animated",
@@ -13607,9 +13612,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Diabolical",
@@ -13695,9 +13700,9 @@
       "ID": "Icing_Cake",
       "SetID": "819popo",
       "Name": "Icing on the Cake",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Legions",
@@ -13839,9 +13844,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 234
     },
     {
       "ID": "Summoner",
@@ -13944,7 +13949,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26006,
+      "Progressed": 26009,
       "Completed": 58
     }
   ],
@@ -13952,8 +13957,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-24T02:14:38.8403379+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:06:22.4887109+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:09:46.7067848+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:57:19.3822544+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:06:22.4888254+00:00"
+  "LastUpdate_Ratings": "2023-09-24T12:59:48.0172627+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:09:46.706951+00:00"
 }

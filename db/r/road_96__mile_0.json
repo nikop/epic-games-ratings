@@ -3,7 +3,7 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -1343,17 +1343,17 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 218
+      "UsersEstimate": 222
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "completeact3",
@@ -1472,8 +1472,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:03:47.2111016+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:06:08.4832641+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-24T12:03:08.8690238+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:03:47.2111225+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:04:50.5122368+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:06:08.4832894+00:00"
 }

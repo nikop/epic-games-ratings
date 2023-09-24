@@ -3,7 +3,7 @@
   "Name": "Deadwater Saloon",
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 547,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -567,8 +567,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:04:05.9748583+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:06:34.609438+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6163483+00:00",
-  "LastUpdate_Ratings": "2023-09-24T12:00:21.2412922+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:04:05.9749214+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:04:16.0869584+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:06:34.6095209+00:00"
 }

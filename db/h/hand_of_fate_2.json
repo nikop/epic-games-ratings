@@ -2,11 +2,11 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 25,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662511,
+  "EOS_Progressed": 662514,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15733,6 +15733,11 @@
       "Time": "2023-09-24T12:04:46.2900444+00:00",
       "NumProgressed": 662511,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-24T13:07:31.0364868+00:00",
+      "NumProgressed": 662514,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15744,7 +15749,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477008
+      "UsersEstimate": 477010
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -15752,7 +15757,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384256
+      "UsersEstimate": 384258
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -15984,7 +15989,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79501
+      "UsersEstimate": 79502
     },
     {
       "ID": "Achievement_32_Karma",
@@ -16127,15 +16132,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662511,
+      "Progressed": 662514,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:04:46.290044+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:07:31.0364864+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-24T12:00:05.4194163+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:04:46.2901681+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:03:54.2149767+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:07:31.0366431+00:00"
 }

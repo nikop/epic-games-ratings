@@ -62,8 +62,8 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 291)  
+Progressed: 98 (Ranked 378)  
+Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

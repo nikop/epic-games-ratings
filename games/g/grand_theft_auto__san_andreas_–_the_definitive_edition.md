@@ -1,22 +1,22 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 488)  
+Rating: 4.56 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,370 |
-| Pay 'n' Spray | 50.00% | ~6,401 |
-| All Dressed Up for San Fierro | 26.00% | ~3,329 |
-| The American Dream | 19.00% | ~2,432 |
-| School's Out | 18.00% | ~2,304 |
-| Smooth Moves | 17.00% | ~2,176 |
-| What happens in Las Venturas... | 15.00% | ~1,920 |
-| Today Was a Good Day | 15.00% | ~1,920 |
-| Horror of the Santa Maria | 11.00% | ~1,408 |
-| Liberty City State of Mind | 10.00% | ~1,280 |
-| The End of the Line | 8.00% | ~1,024 |
-| Original Gangster | 8.00% | ~1,024 |
+| Getting Started | 81.00% | ~10,374 |
+| Pay 'n' Spray | 50.00% | ~6,404 |
+| All Dressed Up for San Fierro | 25.00% | ~3,202 |
+| The American Dream | 19.00% | ~2,433 |
+| School's Out | 18.00% | ~2,305 |
+| Smooth Moves | 17.00% | ~2,177 |
+| What happens in Las Venturas... | 15.00% | ~1,921 |
+| Today Was a Good Day | 15.00% | ~1,921 |
+| Horror of the Santa Maria | 11.00% | ~1,409 |
+| Liberty City State of Mind | 10.00% | ~1,281 |
+| The End of the Line | 8.00% | ~1,025 |
+| Original Gangster | 8.00% | ~1,025 |
 | With Extra Dip | 7.00% | ~896 |
 | Saviour | 6.00% | ~768 |
 | They Can’t Stop All of Us | 5.00% | ~640 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 488)
 | ...Here we go again | 0.50% | ~64 |
 | I Ain't No Buster | 0.30% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,802 (Ranked 132)  
-Completed: 45 (0.35%) (Ranked 179)  
+Progressed: 12,807 (Ranked 133)  
+Completed: 45 (0.35%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,10 +198,10 @@ Completed: 45 (0.35%) (Ranked 179)
 | 2023-09-21 | 12,641 | 45 |
 | 2023-09-22 | 12,700 | 45 |
 | 2023-09-23 | 12,771 | 45 |
-| 2023-09-24 | 12,802 | 45 |
+| 2023-09-24 | 12,807 | 45 |
 ## Awards
 Max (Great Boss Battles): 306  (Ranked 237)  
-Sum: 424 (Ranked 317)  
+Sum: 425 (Ranked 317)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
@@ -209,7 +209,7 @@ Diff (max vs sum): -80
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 25 |
 | This game has Amazing Characters | 24 |
-| This game is Highly Recommended | 23 |
+| This game is Highly Recommended | 24 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -342,4 +342,4 @@ Diff (max vs sum): -80
 | 2023-09-21 | 4.55 | 303 | 399 |
 | 2023-09-22 | 4.55 | 305 | 403 |
 | 2023-09-23 | 4.56 | 306 | 404 |
-| 2023-09-24 | 4.55 | 306 | 424 |
+| 2023-09-24 | 4.56 | 306 | 425 |

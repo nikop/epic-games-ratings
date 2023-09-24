@@ -5,8 +5,8 @@
   "Ranking_Rating": 631,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Progress": 171,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3659,
+  "EOS_Progressed": 3660,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6864,6 +6864,11 @@
       "Time": "2023-09-24T01:48:12.440731+00:00",
       "NumProgressed": 3659,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-24T13:05:34.5490088+00:00",
+      "NumProgressed": 3660,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6875,7 +6880,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6955,7 +6960,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7011,7 +7016,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7043,7 +7048,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7099,7 +7104,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7107,7 +7112,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7123,7 +7128,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7187,7 +7192,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7267,7 +7272,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7347,7 +7352,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7442,13 +7447,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3610,
+      "Progressed": 3611,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3659,
+      "Progressed": 3660,
       "Completed": 11
     }
   ],
@@ -7456,8 +7461,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:03:29.4656065+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:05:34.5490083+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:59:02.6556204+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:03:29.4657135+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:02:20.4496582+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:05:34.5491428+00:00"
 }

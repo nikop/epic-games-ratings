@@ -6,7 +6,7 @@
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
@@ -3702,18 +3702,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6955,
       "NumberOfAwardsMax": 1715
+    },
+    {
+      "Time": "2023-09-24T13:03:45.8578437+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6959,
+      "NumberOfAwardsMax": 1718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6955,
-  "NumberOfAwardsMax": 1715,
+  "NumberOfAwards": 6959,
+  "NumberOfAwardsMax": 1718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1715
+      "Count": 1718
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3767,7 +3773,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 579
+      "Count": 580
     },
     {
       "Text": "This game has a Creative Community",
@@ -3776,9 +3782,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11393,
+  "EOS_Progressed": 11395,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12776,6 +12782,11 @@
       "Time": "2023-09-24T06:05:33.4991159+00:00",
       "NumProgressed": 11393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-24T13:07:32.8419636+00:00",
+      "NumProgressed": 11395,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12787,7 +12798,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "02_BurningCity",
@@ -12811,7 +12822,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -13714,21 +13725,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10175,
+      "Progressed": 10177,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11393,
+      "Progressed": 11395,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-09-23T09:59:41.2009033+00:00",
-  "LastChanged_Achievements": "2023-09-24T12:04:47.5470015+00:00",
+  "LastChanged": "2023-09-24T13:03:45.8578436+00:00",
+  "LastChanged_Achievements": "2023-09-24T13:07:32.8419632+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-24T11:59:59.3842554+00:00",
-  "LastUpdate_Achievements": "2023-09-24T12:04:47.5471886+00:00"
+  "LastUpdate_Ratings": "2023-09-24T13:03:45.8578442+00:00",
+  "LastUpdate_Achievements": "2023-09-24T13:07:32.8422376+00:00"
 }
