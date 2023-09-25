@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 688,
+  "EOS_Progressed": 689,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2023-09-24T17:06:24.7094038+00:00",
       "NumProgressed": 688,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T09:06:04.0898393+00:00",
+      "NumProgressed": 689,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1889,9 +1894,9 @@
       "ID": "Adventurer",
       "SetID": "2aagp3d",
       "Name": "Extensive retelling",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 28
     },
     {
       "ID": "BadApple",
@@ -2131,7 +2136,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "YagaProfessional",
@@ -2146,7 +2151,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 688,
+      "Progressed": 689,
       "Completed": 1
     }
   ],
@@ -2154,8 +2159,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:05:32.1271315+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:06:04.0898388+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.2653513+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:00:03.1286155+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:05:32.1271655+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:00:57.712569+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:06:04.0898671+00:00"
 }

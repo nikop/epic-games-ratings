@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4687,
+  "EOS_Progressed": 4688,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1657,
+  "EOS_NewPlayers": 1645,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1307,6 +1307,11 @@
       "Time": "2023-09-25T08:05:59.3130796+00:00",
       "NumProgressed": 4687,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-25T09:06:38.4432023+00:00",
+      "NumProgressed": 4688,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -1319,7 +1324,7 @@
       "Name": "First of Many",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 3843
+      "UsersEstimate": 3844
     },
     {
       "ID": "achievement_01_02",
@@ -1343,7 +1348,7 @@
       "Name": "Bzzzt",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "achievement_01_05",
@@ -1359,7 +1364,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2485
     },
     {
       "ID": "achievement_01_07",
@@ -1375,7 +1380,7 @@
       "Name": "Trophy Collector",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "achievement_01_09",
@@ -1447,7 +1452,7 @@
       "Name": "Whale of a Time",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "achievement_02_08",
@@ -1487,7 +1492,7 @@
       "Name": "Italy - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_03_05",
@@ -1559,7 +1564,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "achievement_04_03",
@@ -1599,7 +1604,7 @@
       "Name": "Nitro Saver",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "achievement_04_08",
@@ -1615,21 +1620,21 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 4687,
+      "Progressed": 4688,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:05:59.313079+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:06:38.4432017+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:00:21.5055537+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:05:59.3131173+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:01:20.0164937+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:06:38.443229+00:00"
 }

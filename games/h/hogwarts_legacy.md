@@ -23,9 +23,9 @@ Rating: 4.76 (Ranked 119)
 | Rising From the Ashes | 9.00% | ~26,758 |
 | The Avenging Gazelle | 8.00% | ~23,784 |
 | A Sallow Grave | 8.00% | ~23,784 |
+| Flight the Good Flight | 8.00% | ~23,784 |
 | The Spell Master | 8.00% | ~23,784 |
 | Beast Friends | 7.00% | ~20,811 |
-| Flight the Good Flight | 7.00% | ~20,811 |
 | The Seeker of Knowledge | 6.00% | ~17,838 |
 | The Root of the Problem | 6.00% | ~17,838 |
 | Third Time's a Charm | 6.00% | ~17,838 |

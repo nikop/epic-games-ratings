@@ -4,7 +4,7 @@
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 74,
@@ -3988,7 +3988,7 @@
       "Count": 288
     }
   ],
-  "EOS_Progressed": 245010,
+  "EOS_Progressed": 245011,
   "EOS_Completed": 836,
   "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 5,
@@ -21128,6 +21128,11 @@
       "Time": "2023-09-25T08:09:15.6085721+00:00",
       "NumProgressed": 245010,
       "NumCompleted": 836
+    },
+    {
+      "Time": "2023-09-25T09:09:05.493474+00:00",
+      "NumProgressed": 245011,
+      "NumCompleted": 836
     }
   ],
   "TotalAchievements": 39,
@@ -21139,7 +21144,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61252
+      "UsersEstimate": 61253
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -21203,7 +21208,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222959
+      "UsersEstimate": 222960
     },
     {
       "ID": "AchievementClownID",
@@ -21251,7 +21256,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80853
+      "UsersEstimate": 80854
     },
     {
       "ID": "AchievementGoatID",
@@ -21267,7 +21272,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129855
+      "UsersEstimate": 129856
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -21299,7 +21304,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 110254
+      "UsersEstimate": 110255
     },
     {
       "ID": "AchievementIntroID",
@@ -21315,7 +21320,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 34301
+      "UsersEstimate": 34302
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -21371,7 +21376,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 181307
+      "UsersEstimate": 181308
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -21387,7 +21392,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 122505
+      "UsersEstimate": 122506
     },
     {
       "ID": "AchievementStreakingID",
@@ -21403,7 +21408,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34301
+      "UsersEstimate": 34302
     },
     {
       "ID": "AchievementThroneID",
@@ -21435,7 +21440,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 159256
+      "UsersEstimate": 159257
     },
     {
       "ID": "AchievementWhaleID",
@@ -21450,7 +21455,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 245010,
+      "Progressed": 245011,
       "Completed": 836
     }
   ],
@@ -21458,8 +21463,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-25T07:59:08.1995951+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:09:15.6085717+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:09:05.4934736+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.6843433+00:00",
-  "LastUpdate_Ratings": "2023-09-25T07:59:08.1995957+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:09:15.6087084+00:00"
+  "LastUpdate_Ratings": "2023-09-25T08:59:49.2600384+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:09:05.4935809+00:00"
 }

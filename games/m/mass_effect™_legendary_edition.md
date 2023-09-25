@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~327 |
-| Spectre Inductee | 83.00% | ~292 |
+| Spectre Inductee | 84.00% | ~296 |
 | Medal of Exploration I | 76.00% | ~268 |
 | Search and Rescue | 74.00% | ~260 |
 | Recruit | 72.00% | ~253 |
@@ -27,8 +27,8 @@
 | Sentinel Ally | 46.00% | ~162 |
 | Scientist | 46.00% | ~162 |
 | Paramour I | 45.00% | ~158 |
+| Krogan Ally | 45.00% | ~158 |
 | Merciless | 45.00% | ~158 |
-| Krogan Ally | 44.00% | ~155 |
 | Head Hunter | 43.00% | ~151 |
 | Operative | 41.00% | ~144 |
 | Scholar | 41.00% | ~144 |
@@ -61,12 +61,12 @@
 | Revenge! | 30.00% | ~106 |
 | Shopaholic | 30.00% | ~106 |
 | Cat's in the Cradle | 29.00% | ~102 |
+| Digital Exorcist | 29.00% | ~102 |
 | Heart of Darkness | 29.00% | ~102 |
 | Driven | 29.00% | ~102 |
 | Focused | 28.00% | ~99 |
 | Doppelganger | 28.00% | ~99 |
 | Treason | 28.00% | ~99 |
-| Digital Exorcist | 28.00% | ~99 |
 | Bringer of War | 28.00% | ~99 |
 | First Aid Specialist | 26.00% | ~92 |
 | Friend or Foe | 26.00% | ~92 |

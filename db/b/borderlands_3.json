@@ -12302,10 +12302,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 369855,
       "NumberOfAwardsMax": 117325
+    },
+    {
+      "Time": "2023-09-25T08:59:08.6716786+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 369884,
+      "NumberOfAwardsMax": 117325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 369855,
+  "NumberOfAwards": 369884,
   "NumberOfAwardsMax": 117325,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12373,7 +12379,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 18086
+      "Count": 18115
     }
   ],
   "EOS_Progressed": 0,
@@ -12387,8 +12393,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-09-25T03:59:24.5746399+00:00",
+  "LastChanged": "2023-09-25T08:59:08.6716785+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.5483195+00:00",
-  "LastUpdate_Ratings": "2023-09-25T07:58:34.1690666+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:08:15.0682792+00:00"
+  "LastUpdate_Ratings": "2023-09-25T08:59:08.671679+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:08:10.5420195+00:00"
 }

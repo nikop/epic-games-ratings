@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 81.00% | ~180 |
-| Shelter Escape | 81.00% | ~180 |
-| The First Bond | 72.00% | ~160 |
+| New arm | 82.00% | ~182 |
+| Shelter Escape | 82.00% | ~182 |
+| The First Bond | 73.00% | ~162 |
 | Novice Scavenger | 65.00% | ~144 |
 | Master Craftsman | 53.00% | ~118 |
 | First wall | 52.00% | ~115 |

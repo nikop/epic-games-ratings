@@ -6,38 +6,38 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~290,734 |
-| Full garage | 60.00% | ~238,960 |
-| To the eyeballs! | 51.00% | ~203,116 |
-| Individual delivery | 46.00% | ~183,202 |
-| Non-Stop | 44.00% | ~175,237 |
-| Juggler | 36.00% | ~143,376 |
-| Forgot something | 35.00% | ~139,393 |
-| Close call! | 30.00% | ~119,480 |
-| Get out my way | 28.00% | ~111,514 |
-| Critical care | 26.00% | ~103,549 |
-| Common cause | 25.00% | ~99,566 |
-| Mega-railroad | 23.00% | ~91,601 |
-| Upgrade complete | 23.00% | ~91,601 |
-| Just in time! | 18.00% | ~71,688 |
-| Builder | 17.00% | ~67,705 |
-| Long Haul | 17.00% | ~67,593 |
-| Steam Age | 16.00% | ~63,723 |
-| Bridgemania | 14.00% | ~55,757 |
-| Multilevel road | 14.00% | ~55,757 |
-| Need to think | 14.00% | ~55,757 |
-| The Tortoise | 12.00% | ~47,792 |
-| Without a lunch break | 11.00% | ~43,809 |
-| Beginner | 10.00% | ~39,827 |
-| One way | 10.00% | ~39,827 |
-| Relocation | 10.00% | ~39,827 |
-| Just One More Valley | 9.00% | ~35,785 |
-| Industrial Age | 8.00% | ~31,861 |
-| Prick of conscience | 8.00% | ~31,861 |
+| Dealmaker | 73.00% | ~290,743 |
+| Full garage | 60.00% | ~238,967 |
+| To the eyeballs! | 51.00% | ~203,122 |
+| Individual delivery | 46.00% | ~183,208 |
+| Non-Stop | 44.00% | ~175,242 |
+| Juggler | 36.00% | ~143,380 |
+| Forgot something | 35.00% | ~139,397 |
+| Close call! | 30.00% | ~119,483 |
+| Get out my way | 28.00% | ~111,518 |
+| Critical care | 26.00% | ~103,552 |
+| Common cause | 25.00% | ~99,570 |
+| Mega-railroad | 23.00% | ~91,604 |
+| Upgrade complete | 23.00% | ~91,604 |
+| Just in time! | 18.00% | ~71,690 |
+| Builder | 17.00% | ~67,707 |
+| Long Haul | 17.00% | ~67,595 |
+| Steam Age | 16.00% | ~63,724 |
+| Bridgemania | 14.00% | ~55,759 |
+| Multilevel road | 14.00% | ~55,759 |
+| Need to think | 14.00% | ~55,759 |
+| The Tortoise | 12.00% | ~47,793 |
+| Without a lunch break | 11.00% | ~43,811 |
+| Beginner | 10.00% | ~39,828 |
+| One way | 10.00% | ~39,828 |
+| Relocation | 10.00% | ~39,828 |
+| Just One More Valley | 9.00% | ~35,786 |
+| Industrial Age | 8.00% | ~31,862 |
+| Prick of conscience | 8.00% | ~31,862 |
 | Missed it! | 7.00% | ~27,879 |
-| At the last moment! | 6.00% | ~23,896 |
-| Overseer | 6.00% | ~23,896 |
-| Jewelry accuracy | 5.00% | ~19,913 |
+| At the last moment! | 6.00% | ~23,897 |
+| Overseer | 6.00% | ~23,897 |
+| Jewelry accuracy | 5.00% | ~19,914 |
 | Bridge builder | 4.00% | ~15,931 |
 | Electrical Age | 4.00% | ~15,931 |
 | Highlander | 4.00% | ~15,931 |
@@ -47,15 +47,15 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~11,948 |
 | Sabotage | 3.00% | ~11,948 |
 | Squander | 3.00% | ~11,948 |
-| Test Batch | 3.00% | ~11,928 |
-| Astronomer | 2.00% | ~7,965 |
-| Globalisation Age | 2.00% | ~7,965 |
-| Innovator | 2.00% | ~7,965 |
-| Lucky vandal | 2.00% | ~7,965 |
-| The Hare | 2.00% | ~7,965 |
-| Vandal | 2.00% | ~7,965 |
-| Will work | 2.00% | ~7,965 |
-| Woodcutter | 2.00% | ~7,965 |
+| Test Batch | 3.00% | ~11,929 |
+| Astronomer | 2.00% | ~7,966 |
+| Globalisation Age | 2.00% | ~7,966 |
+| Innovator | 2.00% | ~7,966 |
+| Lucky vandal | 2.00% | ~7,966 |
+| The Hare | 2.00% | ~7,966 |
+| Vandal | 2.00% | ~7,966 |
+| Will work | 2.00% | ~7,966 |
+| Woodcutter | 2.00% | ~7,966 |
 | Occupied! | 2.00% | ~7,952 |
 | Achiever | 1.00% | ~3,983 |
 | Metro builder | 1.00% | ~3,983 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~398 |
 | World Zapper | 0.10% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,266 (Ranked 42)  
+Progressed: 398,278 (Ranked 42)  
 Completed: 15 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 15 (0.00%) (Ranked 292)
 | 2023-09-22 | 397,049 | 14 |
 | 2023-09-23 | 397,644 | 15 |
 | 2023-09-24 | 398,177 | 15 |
-| 2023-09-25 | 398,266 | 15 |
+| 2023-09-25 | 398,278 | 15 |
 ## Awards
 Max (Challenging Puzzles): 668  (Ranked 177)  
 Sum: 1,295 (Ranked 230)  

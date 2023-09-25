@@ -3,33 +3,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Evasive prey | 29.00% | ~2 |
-| What's in the box?! | 14.00% | ~1 |
-| In The Palm Of My Hand | 0.00% | ~0 |
+| Evasive prey | 43.00% | ~3 |
+| Foraged | 29.00% | ~2 |
+| What's in the box?! | 29.00% | ~2 |
+| Fair Prey | 29.00% | ~2 |
+| Wild Kids | 29.00% | ~2 |
+| In The Palm Of My Hand | 14.00% | ~1 |
+| Referee! | 14.00% | ~1 |
+| Fly Free | 14.00% | ~1 |
 | Bully of Bullies | 0.00% | ~0 |
 | Toys Are For Kids | 0.00% | ~0 |
 | Twenty-Six | 0.00% | ~0 |
 | Hospitalised | 0.00% | ~0 |
 | Paled | 0.00% | ~0 |
 | Schooled | 0.00% | ~0 |
-| Foraged | 0.00% | ~0 |
 | Merciful feat | 0.00% | ~0 |
 | Hunger | 0.00% | ~0 |
 | Far Ahead | 0.00% | ~0 |
 | No More Remains | 0.00% | ~0 |
-| Referee! | 0.00% | ~0 |
 | Signal interruption | 0.00% | ~0 |
 | Unladylike | 0.00% | ~0 |
 | Half hat | 0.00% | ~0 |
 | ...And Stay Dead! | 0.00% | ~0 |
 | Objection | 0.00% | ~0 |
-| Fair Prey | 0.00% | ~0 |
 | Sick Kids | 0.00% | ~0 |
 | Pale Kids | 0.00% | ~0 |
 | School Kids | 0.00% | ~0 |
-| Wild Kids | 0.00% | ~0 |
 | Post Industrial | 0.00% | ~0 |
-| Fly Free | 0.00% | ~0 |
 | Medicine ball | 0.00% | ~0 |
 | Mono Tones | 0.00% | ~0 |
 | Primetime Content Consumer | 0.00% | ~0 |

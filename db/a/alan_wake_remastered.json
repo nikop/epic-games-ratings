@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66166,
+  "EOS_Progressed": 66167,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15822,6 +15822,11 @@
       "Time": "2023-09-25T08:05:38.5773884+00:00",
       "NumProgressed": 66166,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T09:06:12.1051126+00:00",
+      "NumProgressed": 66167,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16105,7 +16110,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22496
+      "UsersEstimate": 22497
     },
     {
       "ID": "36",
@@ -16225,7 +16230,7 @@
       "Name": "Bright Falls Aficionado",
       "Percentage": 0.3,
       "XP": 110,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "51",
@@ -16368,21 +16373,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66166,
+      "Progressed": 66167,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29634,
+      "Progressed": 29635,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:05:38.5773881+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:06:12.1051121+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:00:13.0442122+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:05:38.5775448+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:01:08.8371519+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:06:12.10524+00:00"
 }

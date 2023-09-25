@@ -3,7 +3,7 @@
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.85,
+  "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -296,6 +296,11 @@
       "Time": "2023-08-26T01:41:56.2456904+00:00",
       "NumProgressed": 54,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T09:06:34.3984078+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -313,7 +318,7 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -321,7 +326,7 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -329,7 +334,7 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 90,
       "UsersEstimate": 10
     },
@@ -361,7 +366,7 @@
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -409,7 +414,7 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -417,7 +422,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
       "UsersEstimate": 20
     },
@@ -441,7 +446,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 20
     }
@@ -450,14 +455,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:05:56.1266103+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:06:34.3984074+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:15.3596765+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:00:16.2648666+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:05:56.1266235+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:01:13.3580075+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:06:34.3984204+00:00"
 }

@@ -3804,9 +3804,9 @@
       "Count": 505
     }
   ],
-  "EOS_Progressed": 10190,
+  "EOS_Progressed": 10191,
   "EOS_Completed": 233,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
@@ -13889,6 +13889,11 @@
       "Time": "2023-09-25T08:06:40.6634655+00:00",
       "NumProgressed": 10190,
       "NumCompleted": 233
+    },
+    {
+      "Time": "2023-09-25T09:07:30.3894266+00:00",
+      "NumProgressed": 10191,
+      "NumCompleted": 233
     }
   ],
   "TotalAchievements": 15,
@@ -13916,7 +13921,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 4789
+      "UsersEstimate": 4790
     },
     {
       "ID": "Chef_Cook",
@@ -13972,7 +13977,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7133
+      "UsersEstimate": 7134
     },
     {
       "ID": "Miner",
@@ -13988,7 +13993,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7031
+      "UsersEstimate": 7032
     },
     {
       "ID": "Renovator",
@@ -14019,7 +14024,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10190,
+      "Progressed": 10191,
       "Completed": 233
     }
   ],
@@ -14027,8 +14032,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-25T01:44:04.2794014+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:06:40.6634651+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:07:30.3894262+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:21.7536562+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:00:25.4960106+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:06:40.6635422+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:01:24.9710004+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:07:30.389483+00:00"
 }

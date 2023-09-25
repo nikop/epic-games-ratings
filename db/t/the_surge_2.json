@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2052,
+  "EOS_Progressed": 2053,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2561,6 +2561,11 @@
       "Time": "2023-09-24T20:08:28.3489307+00:00",
       "NumProgressed": 2052,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-25T09:09:11.8494951+00:00",
+      "NumProgressed": 2053,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2588,7 +2593,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHV_04",
@@ -2730,9 +2735,9 @@
       "ID": "ACHV_21",
       "SetID": "8p5mlmc",
       "Name": "Stimulating The Local Economy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHV_22",
@@ -2740,7 +2745,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHV_23",
@@ -2836,7 +2841,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHV_35",
@@ -2860,7 +2865,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHV_38",
@@ -2924,7 +2929,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHV_46",
@@ -3027,7 +3032,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2052,
+      "Progressed": 2053,
       "Completed": 12
     }
   ],
@@ -3035,8 +3040,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:09:20.8496427+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:09:11.8494946+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.9693567+00:00",
-  "LastUpdate_Ratings": "2023-09-25T07:59:02.6061412+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:09:20.8497164+00:00"
+  "LastUpdate_Ratings": "2023-09-25T08:59:43.4239027+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:09:11.84955+00:00"
 }

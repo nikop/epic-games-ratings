@@ -5,7 +5,7 @@
   "Ranking_Rating": 42,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 77,
@@ -7032,9 +7032,9 @@
       "ID": "Ach037",
       "SetID": "12n4k20",
       "Name": "We\u0027re Jammin\u0027",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 82
     },
     {
       "ID": "Ach038",
@@ -7327,8 +7327,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:04:28.3102948+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:04:45.2222234+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:00:29.0275729+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:04:28.3104308+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:01:29.5554883+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:04:45.2223189+00:00"
 }

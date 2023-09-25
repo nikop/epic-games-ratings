@@ -16,15 +16,15 @@ Rating: 4.24 (Ranked 846)
 | Powered Up | 28.00% | ~575 |
 | Studied The Blade | 25.00% | ~513 |
 | Home Invasion | 23.00% | ~472 |
-| Luminary | 22.00% | ~451 |
-| It's a Trap | 22.00% | ~451 |
+| Luminary | 22.00% | ~452 |
+| It's a Trap | 22.00% | ~452 |
 | True Survivor | 21.00% | ~431 |
-| Offensive Defense | 20.00% | ~410 |
-| Shocking | 20.00% | ~410 |
+| Offensive Defense | 20.00% | ~411 |
+| Shocking | 20.00% | ~411 |
 | Court Martial | 19.00% | ~390 |
 | Clean Cut | 19.00% | ~390 |
 | Unforeseeable Consequences | 19.00% | ~390 |
-| Dead Again | 18.00% | ~369 |
+| Dead Again | 18.00% | ~370 |
 | Full Arsenal | 17.00% | ~349 |
 | Can't Trust Banks | 15.00% | ~308 |
 | Mommy Dearest | 13.00% | ~267 |
@@ -35,9 +35,9 @@ Rating: 4.24 (Ranked 846)
 | Corrupted Beauty | 12.00% | ~246 |
 | Marked For Success | 12.00% | ~246 |
 | Sorry, Didn't See You There | 12.00% | ~246 |
-| Stimulating The Local Economy | 10.00% | ~205 |
 | Triplets | 10.00% | ~205 |
 | Defense in Depth | 9.00% | ~185 |
+| Stimulating The Local Economy | 9.00% | ~185 |
 | A Little Banged Up | 8.00% | ~164 |
 | Denying Prophecy | 8.00% | ~164 |
 | Following In Their Footsteps | 8.00% | ~164 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 846)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 196)  
+Progressed: 2,053 (Ranked 196)  
 Completed: 12 (0.58%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 12 (0.58%) (Ranked 153)
 | 2023-09-22 | 2,039 | 12 |
 | 2023-09-23 | 2,045 | 12 |
 | 2023-09-24 | 2,052 | 12 |
+| 2023-09-25 | 2,053 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

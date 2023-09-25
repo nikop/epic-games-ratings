@@ -888,9 +888,9 @@
       "ID": "achievement_26",
       "SetID": "b9pe172",
       "Name": "Krogan Ally",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_27",
@@ -936,9 +936,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_32",
@@ -1336,9 +1336,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_78",
@@ -1548,8 +1548,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-25T08:04:27.7237357+00:00",
+  "LastChanged_Achievements": "2023-09-25T09:04:44.4474367+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-25T07:59:08.558353+00:00",
-  "LastUpdate_Achievements": "2023-09-25T08:04:27.7239695+00:00"
+  "LastUpdate_Ratings": "2023-09-25T08:59:49.7493646+00:00",
+  "LastUpdate_Achievements": "2023-09-25T09:04:44.4476125+00:00"
 }

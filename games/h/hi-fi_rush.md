@@ -36,6 +36,7 @@ Rating: 4.85 (Ranked 42)
 | That's a lot of junk metal… | 4.00% | ~164 |
 | There's such a thing as TOO helpful | 4.00% | ~164 |
 | Chip-tuned | 2.00% | ~82 |
+| We're Jammin' | 2.00% | ~82 |
 | Wanna hear my playlist? | 2.00% | ~82 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~82 |
 | Check out my moves! | 2.00% | ~82 |
@@ -43,7 +44,6 @@ Rating: 4.85 (Ranked 42)
 | I think I deserve some praise, here! | 1.00% | ~41 |
 | I think I found your calling, Macaron | 1.00% | ~41 |
 | This is a breeze! | 1.00% | ~41 |
-| We're Jammin' | 1.00% | ~41 |
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
 | I hit things with a guitar really well. | 1.00% | ~41 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,092 (Ranked 169)  
+Progressed: 4,092 (Ranked 170)  
 Completed: 8 (0.20%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
