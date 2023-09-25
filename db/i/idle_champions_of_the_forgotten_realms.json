@@ -6862,10 +6862,10 @@
       "Count": 3437
     }
   ],
-  "EOS_Progressed": 229974,
+  "EOS_Progressed": 229979,
   "EOS_Completed": 2301,
-  "EOS_NewPlayers": 737,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 740,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -24352,6 +24352,11 @@
       "Time": "2023-09-25T02:22:15.7324736+00:00",
       "NumProgressed": 229974,
       "NumCompleted": 2301
+    },
+    {
+      "Time": "2023-09-25T04:06:40.5812192+00:00",
+      "NumProgressed": 229979,
+      "NumCompleted": 2301
     }
   ],
   "TotalAchievements": 524,
@@ -28523,7 +28528,7 @@
       "Name": "The Jungles of Doomspace",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "objective_completed_1406",
@@ -28539,7 +28544,7 @@
       "Name": "The Arena of Blood",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "objective_completed_1411",
@@ -28554,21 +28559,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 196248,
+      "Progressed": 196253,
       "Completed": 3509
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 229974,
+      "Progressed": 229979,
       "Completed": 2301
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-25T00:00:08.9947615+00:00",
-  "LastChanged_Achievements": "2023-09-25T03:06:11.8143796+00:00",
+  "LastChanged_Achievements": "2023-09-25T04:06:40.5812187+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:22.3012466+00:00",
-  "LastUpdate_Ratings": "2023-09-25T03:01:08.3008792+00:00",
-  "LastUpdate_Achievements": "2023-09-25T03:06:11.8204964+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:02:08.8772969+00:00",
+  "LastUpdate_Achievements": "2023-09-25T04:06:40.5845453+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -24,7 +24,7 @@
   "EOS_Progressed": 245,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 40,
-  "EOS_NewCompleters": 12,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 23.67,
   "EosHistory": [
     {
@@ -1272,9 +1272,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "FallDeath",
@@ -1375,8 +1375,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-25T03:04:39.2620541+00:00",
+  "LastChanged_Achievements": "2023-09-25T04:04:51.9416113+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:59:37.8441673+00:00",
-  "LastUpdate_Achievements": "2023-09-25T03:04:39.2620836+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:00:19.5461389+00:00",
+  "LastUpdate_Achievements": "2023-09-25T04:04:51.9416337+00:00"
 }

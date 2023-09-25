@@ -13,6 +13,7 @@ Rating: 4.50 (Ranked 572)
 | I collect Spores, Molds, and Fungi | 0.50% | ~130 |
 | Fully Upgraded | 0.50% | ~130 |
 | Teamwork | 0.50% | ~130 |
+| There you are! | 0.50% | ~130 |
 | Vaporous Expansion | 0.50% | ~130 |
 | Whoopsie | 0.50% | ~130 |
 | Animated | 0.40% | ~104 |
@@ -22,7 +23,6 @@ Rating: 4.50 (Ranked 572)
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
 | Swift Rift Removers | 0.40% | ~104 |
-| There you are! | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
 | Right back at ya | 0.30% | ~78 |

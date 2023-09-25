@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66158,
+  "EOS_Progressed": 66159,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15797,6 +15797,11 @@
       "Time": "2023-09-25T03:06:14.1726287+00:00",
       "NumProgressed": 66158,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T04:06:42.6922295+00:00",
+      "NumProgressed": 66159,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15808,7 +15813,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27786
+      "UsersEstimate": 27787
     },
     {
       "ID": "02",
@@ -15848,7 +15853,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11908
+      "UsersEstimate": 11909
     },
     {
       "ID": "07",
@@ -15904,7 +15909,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3969
+      "UsersEstimate": 3970
     },
     {
       "ID": "14",
@@ -15944,7 +15949,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3969
+      "UsersEstimate": 3970
     },
     {
       "ID": "19",
@@ -16343,21 +16348,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66158,
+      "Progressed": 66159,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29626,
+      "Progressed": 29627,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-25T03:06:14.172628+00:00",
+  "LastChanged_Achievements": "2023-09-25T04:06:42.6922287+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-25T03:00:52.0682694+00:00",
-  "LastUpdate_Achievements": "2023-09-25T03:06:14.1729208+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:01:47.7346094+00:00",
+  "LastUpdate_Achievements": "2023-09-25T04:06:42.692499+00:00"
 }

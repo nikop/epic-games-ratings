@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8061,
+  "EOS_Progressed": 8062,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9109,6 +9109,11 @@
       "Time": "2023-09-25T03:05:14.6592769+00:00",
       "NumProgressed": 8061,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-25T04:05:33.1867998+00:00",
+      "NumProgressed": 8062,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 29,
@@ -9144,7 +9149,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ACH05",
@@ -9224,7 +9229,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH15",
@@ -9240,7 +9245,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "ACH17",
@@ -9351,7 +9356,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8061,
+      "Progressed": 8062,
       "Completed": 52
     }
   ],
@@ -9359,8 +9364,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-25T03:05:14.659276+00:00",
+  "LastChanged_Achievements": "2023-09-25T04:05:33.1867993+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.067951+00:00",
-  "LastUpdate_Ratings": "2023-09-25T03:01:03.0000995+00:00",
-  "LastUpdate_Achievements": "2023-09-25T03:05:14.6594014+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:02:02.2506967+00:00",
+  "LastUpdate_Achievements": "2023-09-25T04:05:33.1869243+00:00"
 }

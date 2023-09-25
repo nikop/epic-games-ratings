@@ -162,9 +162,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -226,9 +226,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -266,9 +266,9 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 110,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -289,8 +289,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-25T03:07:40.1517816+00:00",
+  "LastChanged_Achievements": "2023-09-25T04:08:24.0879647+00:00",
   "LastUpdate_AppInfo": "2023-09-19T15:57:15.1386888+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:58:38.7787391+00:00",
-  "LastUpdate_Achievements": "2023-09-25T03:07:40.1517984+00:00"
+  "LastUpdate_Ratings": "2023-09-25T03:59:08.2869366+00:00",
+  "LastUpdate_Achievements": "2023-09-25T04:08:24.087982+00:00"
 }

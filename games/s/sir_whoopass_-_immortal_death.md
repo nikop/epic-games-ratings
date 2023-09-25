@@ -7,12 +7,12 @@
 | Tastes just like chicken! | 92.00% | ~95 |
 | MLG 360 no scope kill! | 92.00% | ~95 |
 | Are you ready to rumble? | 92.00% | ~95 |
-| That's what cheese said! | 85.00% | ~88 |
-| I like you...but I have to kill you... | 84.00% | ~87 |
+| That's what cheese said! | 86.00% | ~89 |
+| I like you...but I have to kill you... | 85.00% | ~88 |
+| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~87 |
+| Not so hip anymore! | 84.00% | ~87 |
 | Nerd | 84.00% | ~87 |
-| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~85 |
-| Not so hip anymore! | 83.00% | ~85 |
-| Blurry depth perception | 82.00% | ~84 |
+| Blurry depth perception | 83.00% | ~85 |
 | Up and down | 80.00% | ~82 |
 | Rolling, Rolling, Rolling | 74.00% | ~76 |
 | Fire-fighter! | 68.00% | ~70 |

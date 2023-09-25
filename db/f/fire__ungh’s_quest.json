@@ -588,9 +588,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "15_Coins",
@@ -668,9 +668,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "Level_completed_001_002",
@@ -716,17 +716,17 @@
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "Level_completed_008_005",
@@ -756,9 +756,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -797,8 +797,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-09-25T03:04:52.9469065+00:00",
+  "LastChanged_Achievements": "2023-09-25T04:05:07.6196312+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.6539902+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:59:15.1848528+00:00",
-  "LastUpdate_Achievements": "2023-09-25T03:04:52.9469375+00:00"
+  "LastUpdate_Ratings": "2023-09-25T03:59:53.3464306+00:00",
+  "LastUpdate_Achievements": "2023-09-25T04:05:07.6196531+00:00"
 }

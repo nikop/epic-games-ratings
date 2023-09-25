@@ -5,29 +5,29 @@ Rating: 4.27 (Ranked 823)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 58.00% | ~751 |
-| MVP | 57.00% | ~738 |
-| Big Spender | 55.00% | ~712 |
-| Stud Finder | 46.00% | ~595 |
-| Dealmaker | 44.00% | ~569 |
-| ROTY | 37.00% | ~479 |
-| Roster Reshuffle | 33.00% | ~427 |
-| Future of the Franchise | 23.00% | ~298 |
-| Change of Scenery | 19.00% | ~246 |
-| Throwin’ Dots | 18.00% | ~233 |
-| Pro Bowler | 18.00% | ~233 |
-| Primetime | 15.00% | ~194 |
-| Already in Progress | 15.00% | ~194 |
-| Unblockable | 10.00% | ~129 |
+| Bragging Rights | 58.00% | ~755 |
+| MVP | 57.00% | ~742 |
+| Big Spender | 55.00% | ~716 |
+| Stud Finder | 46.00% | ~599 |
+| Dealmaker | 44.00% | ~573 |
+| ROTY | 37.00% | ~482 |
+| Roster Reshuffle | 33.00% | ~430 |
+| Future of the Franchise | 23.00% | ~299 |
+| Change of Scenery | 19.00% | ~247 |
+| Throwin’ Dots | 18.00% | ~234 |
+| Pro Bowler | 17.00% | ~221 |
+| Primetime | 15.00% | ~195 |
+| Already in Progress | 15.00% | ~195 |
+| Unblockable | 10.00% | ~130 |
 | Pocket Ace | 6.00% | ~78 |
 | Head-to-Head | 6.00% | ~78 |
 | Lockdown Corner | 4.00% | ~52 |
 | Gain Train | 1.00% | ~13 |
-| Ol' Reliable | 0.50% | ~6 |
-| Lockdown Leader | 0.50% | ~6 |
-| The Fortress | 0.50% | ~6 |
+| Ol' Reliable | 0.50% | ~7 |
+| Lockdown Leader | 0.50% | ~7 |
+| The Fortress | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,294 (Ranked 217)  
+Progressed: 1,302 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,11 +37,11 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 855 | 0 |
 | 2023-09-23 | 1,094 | 0 |
 | 2023-09-24 | 1,248 | 0 |
-| 2023-09-25 | 1,294 | 0 |
+| 2023-09-25 | 1,302 | 0 |
 ## Awards
-Max (Diverse Characters): 26  (Ranked 488)  
+Max (Diverse Characters): 26  (Ranked 489)  
 Sum: 68 (Ranked 445)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |

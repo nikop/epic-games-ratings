@@ -8,7 +8,7 @@ Number of Ratings: 266  (23.09.2022)
 | ---- | ---------- | ----- |
 | Venture Outward | 76.00% | ~2,646 |
 | Ready for Winter | 65.00% | ~2,263 |
-| Ready for Summer | 52.00% | ~1,810 |
+| Ready for Summer | 52.00% | ~1,811 |
 | Cordon Bleu | 44.00% | ~1,532 |
 | Tapped! | 37.00% | ~1,288 |
 | Eureka | 32.00% | ~1,114 |
@@ -23,9 +23,9 @@ Number of Ratings: 266  (23.09.2022)
 | Strange amalgams | 12.00% | ~418 |
 | The Power of Faith | 12.00% | ~418 |
 | The Power of Freedom | 9.00% | ~313 |
-| Ace Detective | 8.00% | ~278 |
-| Gift from the Ancestors | 8.00% | ~278 |
-| Magic is a science | 8.00% | ~278 |
+| Ace Detective | 8.00% | ~279 |
+| Gift from the Ancestors | 8.00% | ~279 |
+| Magic is a science | 8.00% | ~279 |
 | House of Cards | 7.00% | ~244 |
 | Let ‘em eat magma! | 7.00% | ~244 |
 | The power of ambition | 7.00% | ~244 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,481 (Ranked 176)  
+Progressed: 3,482 (Ranked 176)  
 Completed: 4 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 4 (0.11%) (Ranked 229)
 | 2023-09-22 | 3,447 | 4 |
 | 2023-09-23 | 3,467 | 4 |
 | 2023-09-24 | 3,478 | 4 |
-| 2023-09-25 | 3,481 | 4 |
+| 2023-09-25 | 3,482 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 449)  
 Sum: 244 (Ranked 362)  

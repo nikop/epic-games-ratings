@@ -19,18 +19,18 @@ Number of Ratings: 58  (23.09.2022)
 | Full Arsenal | 56.00% | ~678 |
 | Controlled Demolition | 55.00% | ~666 |
 | Payback | 53.00% | ~642 |
-| Huntress | 52.00% | ~630 |
+| Huntress | 53.00% | ~642 |
 | Born to Drift | 51.00% | ~618 |
 | Relentless | 48.00% | ~581 |
 | The Path Forward | 45.00% | ~545 |
 | Disruption | 43.00% | ~521 |
 | Phoenix | 43.00% | ~521 |
 | Cult Slayer | 40.00% | ~484 |
-| Origin | 39.00% | ~472 |
+| Origin | 40.00% | ~484 |
 | It Was An Accident | 39.00% | ~472 |
 | Set in Motion | 38.00% | ~460 |
 | In the Eye of the Storm | 37.00% | ~448 |
-| The Crimson Void | 34.00% | ~412 |
+| The Crimson Void | 35.00% | ~424 |
 | The Nameless Dread | 34.00% | ~412 |
 | Time to Spear | 31.00% | ~375 |
 | Mastery of Weapons | 30.00% | ~363 |
