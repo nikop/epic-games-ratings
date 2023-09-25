@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~36,786 |
+| Own use | 75.00% | ~36,787 |
 | I read Shakespeare and stuff | 64.00% | ~31,391 |
-| Just a sprinkle | 63.00% | ~30,900 |
-| I'm stumped | 61.00% | ~29,919 |
+| Just a sprinkle | 63.00% | ~30,901 |
+| I'm stumped | 61.00% | ~29,920 |
 | Plant get enough | 60.00% | ~29,429 |
-| It's just the beginning | 59.00% | ~28,938 |
+| It's just the beginning | 59.00% | ~28,939 |
 | This is just my weekend vehicle | 58.00% | ~28,448 |
-| Hard work pays off | 53.00% | ~25,995 |
+| Hard work pays off | 53.00% | ~25,996 |
 | It's never too late to farm | 50.00% | ~24,524 |
-| All out of Land | 44.00% | ~21,581 |
+| All out of Land | 44.00% | ~21,582 |
 | Field Trip | 43.00% | ~21,091 |
-| I like to switch it up | 40.00% | ~19,619 |
-| Help me to help you | 38.00% | ~18,638 |
-| Ultimutt Pawesomeness | 28.00% | ~13,733 |
-| Van Gogh | 26.00% | ~12,752 |
+| I like to switch it up | 40.00% | ~19,620 |
+| Help me to help you | 38.00% | ~18,639 |
+| Ultimutt Pawesomeness | 28.00% | ~13,734 |
+| Van Gogh | 26.00% | ~12,753 |
 | You wood not believe it | 22.00% | ~10,791 |
 | Vehicle fleet | 22.00% | ~10,791 |
 | The plot thickens | 16.00% | ~7,848 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~196 |
 | Raisin the stakes | 0.30% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,048 (Ranked 95)  
+Progressed: 49,049 (Ranked 95)  
 Completed: 6 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,11 +208,11 @@ Completed: 6 (0.01%) (Ranked 276)
 | 2023-09-22 | 48,920 | 6 |
 | 2023-09-23 | 48,982 | 6 |
 | 2023-09-24 | 49,036 | 6 |
-| 2023-09-25 | 49,048 | 6 |
+| 2023-09-25 | 49,049 | 6 |
 ## Awards
 Max (Great for Beginners): 5,031  (Ranked 69)  
-Sum: 40,553 (Ranked 32)  
-Diff (max vs sum): 37  
+Sum: 40,553 (Ranked 33)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,031 |

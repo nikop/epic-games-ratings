@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 26,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 71,
@@ -1233,10 +1233,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1091,
       "NumberOfAwardsMax": 725
+    },
+    {
+      "Time": "2023-09-25T13:04:44.1308855+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1092,
+      "NumberOfAwardsMax": 725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1091,
+  "NumberOfAwards": 1092,
   "NumberOfAwardsMax": 725,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1250,7 +1256,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1319,9 +1325,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128766,
+  "EOS_Progressed": 128770,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17139,6 +17145,11 @@
       "Time": "2023-09-25T12:04:26.2224472+00:00",
       "NumProgressed": 128766,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-25T13:11:21.2285638+00:00",
+      "NumProgressed": 128770,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17182,7 +17193,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23178
+      "UsersEstimate": 23179
     },
     {
       "ID": "ACH_COP_BAD",
@@ -17206,7 +17217,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30904
+      "UsersEstimate": 30905
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -17214,7 +17225,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10301
+      "UsersEstimate": 10302
     },
     {
       "ID": "ACH_COP_DORK",
@@ -17230,7 +17241,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36054
+      "UsersEstimate": 36056
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -17262,7 +17273,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25753
+      "UsersEstimate": 25754
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -17294,7 +17305,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14164
+      "UsersEstimate": 14165
     },
     {
       "ID": "ACH_CUNO",
@@ -17366,7 +17377,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18027
+      "UsersEstimate": 18028
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -17430,7 +17441,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18027
+      "UsersEstimate": 18028
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -17469,15 +17480,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128766,
+      "Progressed": 128770,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-09-25T11:58:03.9445914+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:04:26.2224466+00:00",
+  "LastChanged": "2023-09-25T13:04:44.1308853+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:11:21.2285631+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.5946316+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:58:03.9445918+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:04:26.2225453+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:04:44.1308859+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:11:21.2288144+00:00"
 }

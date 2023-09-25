@@ -1,22 +1,22 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.42 (Ranked 684)  
+Rating: 4.41 (Ranked 693)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~154,202 |
-| Good Skills | 9.00% | ~138,782 |
-| Multiplier Master | 9.00% | ~138,782 |
-| Maverick | 7.00% | ~107,941 |
-| The Long Drift | 5.00% | ~77,101 |
+| Midnight Drifter | 10.00% | ~154,203 |
+| Good Skills | 9.00% | ~138,783 |
+| Multiplier Master | 9.00% | ~138,783 |
+| Maverick | 7.00% | ~107,942 |
+| The Long Drift | 5.00% | ~77,102 |
 | Drift Line Apprentice | 3.00% | ~46,261 |
 | Mad Skills | 3.00% | ~46,261 |
-| Bring the Cubic Ruckus | 2.00% | ~30,840 |
-| Jelly Donuts | 2.00% | ~30,840 |
-| Master Drifter | 2.00% | ~30,840 |
-| Spin Doctor | 2.00% | ~30,840 |
+| Bring the Cubic Ruckus | 2.00% | ~30,841 |
+| Jelly Donuts | 2.00% | ~30,841 |
+| Master Drifter | 2.00% | ~30,841 |
+| Spin Doctor | 2.00% | ~30,841 |
 | Hoon Airlines | 1.00% | ~15,420 |
 | Midnight Master | 1.00% | ~15,420 |
 | Sake Bombs | 0.90% | ~13,878 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,168 |
 | The Completionist | 0.10% | ~1,542 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,542,020 (Ranked 7)  
+Progressed: 1,542,030 (Ranked 7)  
 Completed: 693 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 693 (0.04%) (Ranked 256)
 | 2023-09-22 | 1,541,549 | 690 |
 | 2023-09-23 | 1,541,761 | 692 |
 | 2023-09-24 | 1,541,951 | 693 |
-| 2023-09-25 | 1,542,020 | 693 |
+| 2023-09-25 | 1,542,030 | 693 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -272,3 +272,4 @@ Completed: 693 (0.04%) (Ranked 256)
 | 2023-07-03 | 4.40 | - | 0 | 0 |
 | 2023-07-23 | 4.41 | - | 0 | 0 |
 | 2023-09-06 | 4.42 | - | 0 | 0 |
+| 2023-09-25 | 4.41 | - | 0 | 0 |

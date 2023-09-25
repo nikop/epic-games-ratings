@@ -1054,10 +1054,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 688,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-09-25T13:06:42.2366162+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 690,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 688,
+  "NumberOfAwards": 690,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1077,13 +1083,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1130,7 +1136,7 @@
   ],
   "EOS_Progressed": 5331,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10463,9 +10469,9 @@
       "ID": "ACH_EP_THEREFERENDUM",
       "SetID": "1p8ab95",
       "Name": "Apocalypso",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -10654,9 +10660,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-09-23T01:37:26.9632375+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:07:20.5350365+00:00",
+  "LastChanged": "2023-09-25T13:06:42.236616+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:14:56.6373745+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:59:41.7164494+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:07:20.5351047+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:06:42.2366168+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:14:56.6374792+00:00"
 }

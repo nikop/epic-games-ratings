@@ -676,9 +676,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 10357,
+  "EOS_Progressed": 10359,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10446,6 +10446,11 @@
       "Time": "2023-09-25T11:05:00.0430152+00:00",
       "NumProgressed": 10357,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-25T13:12:23.8629927+00:00",
+      "NumProgressed": 10359,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10545,7 +10550,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH13",
@@ -10561,7 +10566,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "ACH15",
@@ -10617,7 +10622,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4764
+      "UsersEstimate": 4765
     },
     {
       "ID": "ACH22",
@@ -10625,7 +10630,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "ACH23",
@@ -10633,7 +10638,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "ACH24",
@@ -10673,7 +10678,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH29",
@@ -10728,7 +10733,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10357,
+      "Progressed": 10359,
       "Completed": 58
     }
   ],
@@ -10736,8 +10741,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-24T12:00:28.8282064+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:05:16.6770409+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:12:23.8629922+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:57:15.9550516+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:05:16.6771089+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:03:44.8031595+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:12:23.8630928+00:00"
 }

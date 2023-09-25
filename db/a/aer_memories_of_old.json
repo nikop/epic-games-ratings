@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20827,
+  "EOS_Progressed": 20828,
   "EOS_Completed": 420,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -17345,6 +17345,11 @@
       "Time": "2023-09-25T12:05:09.8815527+00:00",
       "NumProgressed": 20827,
       "NumCompleted": 420
+    },
+    {
+      "Time": "2023-09-25T13:12:15.3228554+00:00",
+      "NumProgressed": 20828,
+      "NumCompleted": 420
     }
   ],
   "TotalAchievements": 20,
@@ -17380,7 +17385,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -17476,7 +17481,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16037
+      "UsersEstimate": 16038
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17515,15 +17520,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20827,
+      "Progressed": 20828,
       "Completed": 420
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:05:09.8815522+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:12:15.3228548+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:57:32.7848206+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:05:09.8816459+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:04:06.0145747+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:12:15.3230814+00:00"
 }

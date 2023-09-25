@@ -2,9 +2,9 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -701,6 +701,11 @@
       "Time": "2023-09-25T10:04:32.6933059+00:00",
       "NumProgressed": 500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T13:11:52.7117108+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -752,7 +757,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "TROP006",
@@ -776,7 +781,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "TROP009",
@@ -935,7 +940,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 3
     }
   ],
@@ -943,8 +948,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:04:51.6151475+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:11:52.71171+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7907321+00:00",
-  "LastUpdate_Ratings": "2023-09-25T12:01:26.0747306+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:04:51.6151672+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:08:51.4614038+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:11:52.7117515+00:00"
 }

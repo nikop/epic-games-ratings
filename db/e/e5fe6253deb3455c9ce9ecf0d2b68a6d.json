@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -806,6 +806,11 @@
       "Time": "2023-09-25T11:07:06.8092904+00:00",
       "NumProgressed": 228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T13:15:29.8212033+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -816,9 +821,9 @@
       "ID": "Collector",
       "SetID": "cjfnji1",
       "Name": "Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "Dangerous_dose",
@@ -858,7 +863,7 @@
       "Name": "In the last second",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Master",
@@ -929,14 +934,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:08:06.842897+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:15:29.8212024+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.6607347+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:59:09.5983652+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:08:06.8429094+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:06:05.5623197+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:15:29.8212293+00:00"
 }

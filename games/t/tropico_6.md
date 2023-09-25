@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~267 |
 | Watch The World Burn | 5.00% | ~267 |
 | Fairy Tale Come True | 5.00% | ~267 |
+| Apocalypso | 4.00% | ~213 |
 | Been there, Done That | 3.00% | ~160 |
-| Apocalypso | 3.00% | ~160 |
 | Narcissist | 3.00% | ~160 |
 | Promising Endeavors | 3.00% | ~160 |
 | The Time For Wonders | 3.00% | ~160 |
@@ -208,17 +208,17 @@ Completed: 2 (0.04%) (Ranked 256)
 | 2023-09-25 | 5,331 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
-Sum: 688 (Ranked 281)  
+Sum: 690 (Ranked 281)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 99 |
 | This game is Relaxing | 93 |
-| This game is Highly Recommended | 92 |
+| This game is Highly Recommended | 93 |
 | This game has Amazing Storytelling | 88 |
+| This game has Amazing Characters | 85 |
 | This game is Extremely Fun | 84 |
-| This game has Amazing Characters | 84 |
 | This game is Educational | 84 |
 | This game has a Creative Community | 64 |
 | This game has Obsessive Gameplay | 52 |
@@ -361,3 +361,4 @@ Diff (max vs sum): 61
 | 2023-09-17 | 4.65 | - | 98 | 686 |
 | 2023-09-18 | 4.65 | - | 98 | 687 |
 | 2023-09-23 | 4.65 | - | 99 | 688 |
+| 2023-09-25 | 4.65 | - | 99 | 690 |

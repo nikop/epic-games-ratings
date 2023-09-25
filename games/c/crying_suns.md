@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,860 |
+| The Shutdown | 66.00% | ~308,861 |
 | Jeef Skeejj | 44.00% | ~205,907 |
-| Careful planning | 39.00% | ~182,508 |
+| Careful planning | 39.00% | ~182,509 |
 | Second Coming | 33.00% | ~154,430 |
 | Jeef Skagg | 30.00% | ~140,391 |
-| Mother | 25.00% | ~116,992 |
+| Mother | 25.00% | ~116,993 |
 | In space, no one can hear you scream | 24.00% | ~112,313 |
-| Chapter I: Echoes | 22.00% | ~102,953 |
-| Excelsior Rule | 22.00% | ~102,953 |
+| Chapter I: Echoes | 22.00% | ~102,954 |
+| Excelsior Rule | 22.00% | ~102,954 |
 | Things persisted in not being what they seemed | 20.00% | ~93,594 |
 | Knightmare Frames | 15.00% | ~70,196 |
 | May His passing cleanse the world | 15.00% | ~70,196 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,078 |
 | The Crazy Repairman | 6.00% | ~28,078 |
 | The Weasel | 6.00% | ~28,078 |
-| Kill the Doctor | 5.00% | ~23,398 |
-| Forsaken | 5.00% | ~23,398 |
-| Mercy | 5.00% | ~23,398 |
-| Jericho Rule | 5.00% | ~23,398 |
+| Kill the Doctor | 5.00% | ~23,399 |
+| Forsaken | 5.00% | ~23,399 |
+| Mercy | 5.00% | ~23,399 |
+| Jericho Rule | 5.00% | ~23,399 |
 | Geno Rule | 3.00% | ~14,039 |
 | Hammer Rule | 3.00% | ~14,039 |
 | Survivor | 2.00% | ~9,359 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,970 (Ranked 37)  
+Progressed: 467,971 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 18 (0.00%) (Ranked 292)
 | 2023-09-22 | 467,804 | 18 |
 | 2023-09-23 | 467,884 | 18 |
 | 2023-09-24 | 467,949 | 18 |
-| 2023-09-25 | 467,970 | 18 |
+| 2023-09-25 | 467,971 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 269)  
 Sum: 239 (Ranked 364)  

@@ -11,11 +11,11 @@ Rating: 3.82 (Ranked 982)
 | Beat the Heat | 24.00% | ~127 |
 | A Familiar Face | 16.00% | ~84 |
 | Unexpected Consequences | 14.00% | ~74 |
+| Mind the Gap | 13.00% | ~69 |
 | F is for Feline | 13.00% | ~69 |
 | A Trip to Remember | 13.00% | ~69 |
 | Does Not Compute | 13.00% | ~69 |
 | Identity Theft | 12.00% | ~63 |
-| Mind the Gap | 12.00% | ~63 |
 | U Mad Bro? | 12.00% | ~63 |
 | Short Circuit | 11.00% | ~58 |
 | A Stealthy Outlook | 7.00% | ~37 |

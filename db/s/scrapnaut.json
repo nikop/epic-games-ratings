@@ -5,9 +5,9 @@
   "Ranking_Rating": 798,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1437,9 +1437,9 @@
       "ID": "ACH_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1486,8 +1486,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:04:29.3877225+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:11:25.0567034+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:18.5468177+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:57:39.1876085+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:04:29.387745+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:04:14.8312687+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:11:25.0567405+00:00"
 }

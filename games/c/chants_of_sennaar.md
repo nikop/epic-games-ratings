@@ -12,13 +12,13 @@
 | Scholar | 38.00% | ~80 |
 | The darkness | 37.00% | ~78 |
 | A good beginning | 36.00% | ~76 |
-| True G4M3R | 35.00% | ~74 |
+| True G4M3R | 36.00% | ~76 |
 | One last step | 33.00% | ~69 |
 | Cable guy | 31.00% | ~65 |
 | Peace walker | 30.00% | ~63 |
 | Half the way | 30.00% | ~63 |
 | Champollion | 30.00% | ~63 |
-| In this together | 28.00% | ~59 |
+| In this together | 29.00% | ~61 |
 | Open door | 25.00% | ~52 |
 | Feels like springtime | 25.00% | ~52 |
 | Rascal | 24.00% | ~50 |
@@ -31,7 +31,7 @@
 | Fashion victim | 13.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 210 (Ranked 332)  
-Completed: 12 (5.71%) (Ranked 49)  
+Completed: 13 (6.19%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,4 +98,4 @@ Completed: 12 (5.71%) (Ranked 49)
 | 2023-09-22 | 193 | 10 |
 | 2023-09-23 | 202 | 12 |
 | 2023-09-24 | 209 | 12 |
-| 2023-09-25 | 210 | 12 |
+| 2023-09-25 | 210 | 13 |

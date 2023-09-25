@@ -2,12 +2,12 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.87,
+  "Rating": 4.88,
   "RatingHistory": [
     {
       "Time": "2023-08-31T05:00:39.0192379+00:00",
@@ -92,6 +92,12 @@
     {
       "Time": "2023-09-17T09:05:10.2986007+00:00",
       "Rating": 4.87,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-25T13:07:06.2742314+00:00",
+      "Rating": 4.88,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2126,9 +2132,9 @@
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2023-09-17T09:05:10.2986005+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:05:47.4789239+00:00",
+  "LastChanged": "2023-09-25T13:07:06.2742312+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:13:01.5553529+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:59:59.0871568+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:05:47.4789612+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:07:06.2742321+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:13:01.5554442+00:00"
 }

@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74191,
+  "EOS_Progressed": 74192,
   "EOS_Completed": 774,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -17689,6 +17689,11 @@
       "Time": "2023-09-25T12:03:50.8928228+00:00",
       "NumProgressed": 74191,
       "NumCompleted": 774
+    },
+    {
+      "Time": "2023-09-25T13:10:55.7350342+00:00",
+      "NumProgressed": 74192,
+      "NumCompleted": 774
     }
   ],
   "TotalAchievements": 25,
@@ -17716,7 +17721,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13354
+      "UsersEstimate": 13355
     },
     {
       "ID": "Audiophile",
@@ -17740,7 +17745,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13354
+      "UsersEstimate": 13355
     },
     {
       "ID": "Butcher",
@@ -17756,7 +17761,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4452
     },
     {
       "ID": "Fair\u0027sFair",
@@ -17899,7 +17904,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74191,
+      "Progressed": 74192,
       "Completed": 774
     }
   ],
@@ -17907,8 +17912,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:03:50.8928224+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:10:55.7350339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:59:43.7825682+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:03:50.8929387+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:06:44.8047505+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:10:55.7351816+00:00"
 }

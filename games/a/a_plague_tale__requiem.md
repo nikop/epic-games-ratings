@@ -15,7 +15,7 @@ Rating: 4.73 (Ranked 163)
 | Felons | 62.00% | ~8,238 |
 | A Sea of Promises | 61.00% | ~8,105 |
 | Tales and Revelations | 57.00% | ~7,574 |
-| Bloodline | 52.00% | ~6,909 |
+| Bloodline | 53.00% | ~7,042 |
 | The Cradle of Centuries | 49.00% | ~6,511 |
 | The Life We Deserve | 46.00% | ~6,112 |
 | Night guard | 43.00% | ~5,713 |

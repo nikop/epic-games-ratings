@@ -152,9 +152,9 @@
       "ID": "FindAllPhantomKids",
       "SetID": "aph8hbk",
       "Name": "No More Remains",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "FootballGoal",
@@ -184,9 +184,9 @@
       "ID": "Governess",
       "SetID": "aph8hbk",
       "Name": "Unladylike",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "HalfHatsCollected",
@@ -232,9 +232,9 @@
       "ID": "KidsPaleCity",
       "SetID": "aph8hbk",
       "Name": "Pale Kids",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "KidsSchool",
@@ -256,9 +256,9 @@
       "ID": "MailMan",
       "SetID": "aph8hbk",
       "Name": "Post Industrial",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "PaperPlaneWindow",
@@ -350,8 +350,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:03:35.6301977+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:10:36.8407025+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:59:56.1004673+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:03:35.630219+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:07:00.6353415+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:10:36.8407464+00:00"
 }

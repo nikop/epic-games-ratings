@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -34,7 +34,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -2094,6 +2094,11 @@
       "Time": "2023-09-25T09:07:47.8931798+00:00",
       "NumProgressed": 469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T13:15:28.7528344+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2169,7 +2174,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2200,7 +2205,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 0
     }
   ],
@@ -2208,8 +2213,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-09-24T20:00:40.5546933+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:08:06.0082272+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:15:28.7528338+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.662019+00:00",
-  "LastUpdate_Ratings": "2023-09-25T12:02:09.4275011+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:08:06.0082446+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:09:17.9548318+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:15:28.7528775+00:00"
 }

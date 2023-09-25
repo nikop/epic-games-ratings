@@ -17,8 +17,8 @@
 | Kemono Hunter | 60.00% | ~26 |
 | Helpful Heart | 58.00% | ~25 |
 | Distance Devourer | 56.00% | ~24 |
+| Subsistence Skills | 56.00% | ~24 |
 | Expert Conjuror | 56.00% | ~24 |
-| Subsistence Skills | 53.00% | ~23 |
 | Bonds of Enmity | 49.00% | ~21 |
 | Flawless Crystal | 47.00% | ~20 |
 | Axer of Auspice | 47.00% | ~20 |
@@ -39,9 +39,9 @@
 | Artful Assister | 33.00% | ~14 |
 | Karakuri Minato | 33.00% | ~14 |
 | Human Believer | 30.00% | ~13 |
+| Quintessence of Form | 30.00% | ~13 |
 | Threaded Harmony | 30.00% | ~13 |
 | Superlative View | 28.00% | ~12 |
-| Quintessence of Form | 28.00% | ~12 |
 | Canyon of Karakuri | 26.00% | ~11 |
 | Karakuri Fortress | 26.00% | ~11 |
 | Relentless Kemono Hunter | 26.00% | ~11 |

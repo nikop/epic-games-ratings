@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 210,
-  "EOS_Completed": 12,
+  "EOS_Completed": 13,
   "EOS_NewPlayers": 42,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 6.19,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -984,6 +984,11 @@
       "Time": "2023-09-25T01:52:06.0890553+00:00",
       "NumProgressed": 210,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-25T13:16:08.5831488+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 25,
@@ -1001,9 +1006,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "META_ALL_LINK",
@@ -1105,9 +1110,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1195,13 +1200,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 210,
-      "Completed": 12
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:08:37.8875881+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:16:08.583148+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:57:36.9526007+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:08:37.8876087+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:04:11.9245895+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:16:08.5831988+00:00"
 }

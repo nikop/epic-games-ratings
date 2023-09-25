@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,7 +524,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3662,
+  "EOS_Progressed": 3663,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -6879,6 +6879,11 @@
       "Time": "2023-09-24T18:03:36.978235+00:00",
       "NumProgressed": 3662,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-25T13:10:50.2849349+00:00",
+      "NumProgressed": 3663,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6962,7 +6967,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -7008,9 +7013,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 623
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7058,7 +7063,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7138,7 +7143,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7194,7 +7199,7 @@
       "Name": "Tinkerer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -7202,7 +7207,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7218,7 +7223,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -7242,7 +7247,7 @@
       "Name": "Road Rage",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -7258,7 +7263,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7457,13 +7462,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3613,
+      "Progressed": 3614,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3662,
+      "Progressed": 3663,
       "Completed": 11
     }
   ],
@@ -7471,8 +7476,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:03:46.5908764+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:10:50.2849339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-25T12:00:05.3908028+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:03:46.5909636+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:07:14.4995501+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:10:50.2850611+00:00"
 }

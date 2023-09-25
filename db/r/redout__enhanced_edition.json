@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232484,
+  "EOS_Progressed": 232485,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
@@ -16953,6 +16953,11 @@
       "Time": "2023-09-25T11:07:01.1444461+00:00",
       "NumProgressed": 232484,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-25T13:15:21.627212+00:00",
+      "NumProgressed": 232485,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -17188,7 +17193,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51146
+      "UsersEstimate": 51147
     },
     {
       "ID": "TACTICIAN",
@@ -17212,7 +17217,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51146
+      "UsersEstimate": 51147
     },
     {
       "ID": "TUNINGMANIAC",
@@ -17228,22 +17233,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95318
+      "UsersEstimate": 95319
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232484,
+      "Progressed": 232485,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-25T12:07:40.1614987+00:00",
+  "LastChanged_Achievements": "2023-09-25T13:15:21.6272112+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:50.3170305+00:00",
-  "LastUpdate_Ratings": "2023-09-25T11:57:09.4287132+00:00",
-  "LastUpdate_Achievements": "2023-09-25T12:07:40.1615963+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:03:37.0959225+00:00",
+  "LastUpdate_Achievements": "2023-09-25T13:15:21.6274627+00:00"
 }

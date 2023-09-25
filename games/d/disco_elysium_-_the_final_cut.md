@@ -1,24 +1,24 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 26)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,054 |
-| Biggest Communism Builder | 24.00% | ~30,904 |
-| The World's Most Laughable Centrist | 20.00% | ~25,753 |
-| Il Coppo Del'Arte! | 18.00% | ~23,178 |
+| Goodest Of The Good Cops | 28.00% | ~36,056 |
+| Biggest Communism Builder | 24.00% | ~30,905 |
+| The World's Most Laughable Centrist | 20.00% | ~25,754 |
+| Il Coppo Del'Arte! | 18.00% | ~23,179 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,603 |
 | Hyperstellar Law Official | 16.00% | ~20,603 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,027 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,027 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,028 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,028 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,740 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,164 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,165 |
 | Unbelievably Boring **** | 9.00% | ~11,589 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,589 |
-| Enemy Of The Physical Realm | 8.00% | ~10,301 |
+| Enemy Of The Physical Realm | 8.00% | ~10,302 |
 | Hardie's Heroes | 6.00% | ~7,726 |
 | The Lawbringer | 4.00% | ~5,151 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,151 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,766 (Ranked 71)  
+Progressed: 128,770 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 28 (0.02%) (Ranked 266)
 | 2023-09-22 | 128,529 | 28 |
 | 2023-09-23 | 128,639 | 28 |
 | 2023-09-24 | 128,733 | 28 |
-| 2023-09-25 | 128,766 | 28 |
+| 2023-09-25 | 128,770 | 28 |
 ## Awards
 Max (Character Customization): 725  (Ranked 167)  
-Sum: 1,091 (Ranked 238)  
+Sum: 1,092 (Ranked 238)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +216,7 @@ Diff (max vs sum): -71
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 43 |
-| This game has Quickly Understood Controls | 41 |
+| This game has Quickly Understood Controls | 42 |
 | This game has Unique Visuals | 36 |
 | This game has Amazing Characters | 36 |
 | This game is Relaxing | 35 |
@@ -357,4 +357,4 @@ Diff (max vs sum): -71
 | 2023-09-15 | 4.87 | - | 723 | 1,088 |
 | 2023-09-21 | 4.87 | - | 723 | 1,089 |
 | 2023-09-22 | 4.87 | - | 724 | 1,090 |
-| 2023-09-25 | 4.87 | - | 725 | 1,091 |
+| 2023-09-25 | 4.87 | - | 725 | 1,092 |
