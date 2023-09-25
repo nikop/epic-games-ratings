@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -502,9 +502,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 296
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:08:21.7632808+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:08:38.310378+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.7988132+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:57:16.3474151+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:08:21.7633123+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:57:27.7730844+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:08:38.3104057+00:00"
 }

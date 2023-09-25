@@ -57,17 +57,17 @@
 | Pilgrim | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
 | 80Gb HDD | 5.00% | ~3 |
+| Galactic Captain | 5.00% | ~3 |
 | System Captain | 5.00% | ~3 |
 | Mysterious Skin | 5.00% | ~3 |
 | Beetle | 5.00% | ~3 |
 | Anger Management | 5.00% | ~3 |
+| Almost There II | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Golden Foundation | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
 | Golden Pest Control | 3.00% | ~2 |
-| Galactic Captain | 3.00% | ~2 |
-| Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Tovarish | 2.00% | ~1 |
 | Archer's Bronze Fate | 2.00% | ~1 |

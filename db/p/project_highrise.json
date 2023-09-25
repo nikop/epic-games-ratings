@@ -959,9 +959,9 @@
       "ID": "ach_art",
       "SetID": "b8gh1fi",
       "Name": "Artfully Done",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_art_large",
@@ -1624,8 +1624,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:04:49.5627841+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:05:07.4907145+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:32.8806259+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:01:01.8587833+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:04:49.5628778+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:02:08.9273611+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:05:07.4908009+00:00"
 }

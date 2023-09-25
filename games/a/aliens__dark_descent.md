@@ -5,17 +5,17 @@ Rating: 4.49 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,754 |
-| Snatched Out | 74.00% | ~2,516 |
-| Keep 'Em Coming | 73.00% | ~2,482 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,278 |
-| Call Me Snake | 62.00% | ~2,108 |
-| Something Lurks Under The Hills | 61.00% | ~2,074 |
-| This Was No Papercut | 59.00% | ~2,006 |
-| People Person | 56.00% | ~1,904 |
-| The Shrink Hates Me | 56.00% | ~1,904 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,802 |
-| First Steps Into Madness | 52.00% | ~1,768 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,755 |
+| Snatched Out | 74.00% | ~2,517 |
+| Keep 'Em Coming | 73.00% | ~2,483 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,279 |
+| Call Me Snake | 62.00% | ~2,109 |
+| Something Lurks Under The Hills | 61.00% | ~2,075 |
+| This Was No Papercut | 59.00% | ~2,007 |
+| People Person | 56.00% | ~1,905 |
+| The Shrink Hates Me | 56.00% | ~1,905 |
+| Use The Bumper, That's What It's For | 52.00% | ~1,769 |
+| First Steps Into Madness | 52.00% | ~1,769 |
 | Colonial Barrels | 50.00% | ~1,700 |
 | Harper's Hell | 45.00% | ~1,530 |
 | Making a Stand | 43.00% | ~1,462 |
@@ -30,13 +30,13 @@ Rating: 4.49 (Ranked 587)
 | The Passenger | 27.00% | ~918 |
 | Come on, You Wanna Live Forever? | 26.00% | ~884 |
 | The Spire | 25.00% | ~850 |
-| El Riesgo Siempre Vive | 24.00% | ~816 |
+| El Riesgo Siempre Vive | 23.00% | ~782 |
 | Stuff Of Nightmares | 22.00% | ~748 |
 | Excavating The Truth | 21.00% | ~714 |
 | One For Every Occasion | 20.00% | ~680 |
 | Frontliner | 20.00% | ~680 |
-| The Cable Guy | 20.00% | ~680 |
 | Abysmal Horrors | 20.00% | ~680 |
+| The Cable Guy | 19.00% | ~646 |
 | Bandage Lover | 18.00% | ~612 |
 | Regicide | 15.00% | ~510 |
 | This Went Smoothly | 13.00% | ~442 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 587)
 | Chalk It Up To Experience | 0.80% | ~27 |
 | This Ain't No Picnic | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,400 (Ranked 177)  
+Progressed: 3,401 (Ranked 177)  
 Completed: 3 (0.09%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 3 (0.09%) (Ranked 237)
 | 2023-09-22 | 3,356 | 3 |
 | 2023-09-23 | 3,374 | 3 |
 | 2023-09-24 | 3,392 | 3 |
-| 2023-09-25 | 3,400 | 3 |
+| 2023-09-25 | 3,401 | 3 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 469)  
 Sum: 29 (Ranked 485)  

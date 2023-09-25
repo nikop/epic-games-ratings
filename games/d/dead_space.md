@@ -1,36 +1,36 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.61 (Ranked 371)  
+Rating: 4.61 (Ranked 370)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~378 |
-| Welcome Aboard | 84.00% | ~341 |
-| Lab Rat | 71.00% | ~288 |
+| Marksman | 93.00% | ~379 |
+| Welcome Aboard | 84.00% | ~342 |
+| Lab Rat | 72.00% | ~293 |
 | All Systems Go | 60.00% | ~244 |
-| Brute Force | 60.00% | ~244 |
-| Cannon Fodder | 56.00% | ~227 |
-| Raise the Stakes | 54.00% | ~219 |
-| Autofire | 53.00% | ~215 |
-| True Believer | 50.00% | ~203 |
+| Brute Force | 59.00% | ~240 |
+| Cannon Fodder | 56.00% | ~228 |
+| Raise the Stakes | 54.00% | ~220 |
+| Autofire | 53.00% | ~216 |
+| True Believer | 50.00% | ~204 |
 | Story Teller | 49.00% | ~199 |
 | Surgeon | 44.00% | ~179 |
 | Exterminator | 43.00% | ~175 |
 | Greenhouse Effect | 43.00% | ~175 |
 | Freeze | 42.00% | ~171 |
-| Full Arsenal | 40.00% | ~162 |
-| Live with the Hot Ones | 36.00% | ~146 |
+| Full Arsenal | 40.00% | ~163 |
+| Live with the Hot Ones | 36.00% | ~147 |
 | S.O.S. | 35.00% | ~142 |
-| Get Off My Ship! | 33.00% | ~134 |
+| Get Off My Ship! | 34.00% | ~138 |
 | Strange Transmissions | 33.00% | ~134 |
-| Wreckage | 32.00% | ~130 |
+| Wreckage | 31.00% | ~126 |
 | A Cut Above | 29.00% | ~118 |
 | Keeper of the Faith | 28.00% | ~114 |
 | Betrayed | 27.00% | ~110 |
+| Front Toward Enemy | 27.00% | ~110 |
 | There's Always Peng! | 27.00% | ~110 |
 | Legend Teller | 26.00% | ~106 |
-| Front Toward Enemy | 26.00% | ~106 |
 | Exodus | 25.00% | ~102 |
 | Mindless Prey | 25.00% | ~102 |
 | Whole Again | 21.00% | ~85 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 371)
 | Maxed Out | 2.00% | ~8 |
 | Reunion | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 280)  
+Progressed: 407 (Ranked 280)  
 Completed: 2 (0.49%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 2 (0.49%) (Ranked 163)
 | 2023-09-22 | 225 | 1 |
 | 2023-09-23 | 301 | 1 |
 | 2023-09-24 | 373 | 2 |
-| 2023-09-25 | 406 | 2 |
+| 2023-09-25 | 407 | 2 |
 ## Awards
 Max (Great Boss Battles): 95  (Ranked 351)  
 Sum: 95 (Ranked 424)  

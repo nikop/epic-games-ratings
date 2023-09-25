@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 969)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 0.80% | ~706 |
-| Downed but Not Outed | 0.80% | ~706 |
+| First One’s Free | 0.80% | ~707 |
+| Downed but Not Outed | 0.80% | ~707 |
 | Neophyte Ninja | 0.70% | ~618 |
 | Too Old for This | 0.60% | ~530 |
 | Underworld Initiate | 0.50% | ~442 |
+| Fancy Pants | 0.50% | ~442 |
 | Roid Ranger | 0.40% | ~353 |
 | King of the Hill | 0.40% | ~353 |
-| Fancy Pants | 0.40% | ~353 |
 | Off the Rocks | 0.40% | ~353 |
 | Raider’s Ruin | 0.40% | ~353 |
 | Dragonslayer | 0.40% | ~353 |
@@ -47,7 +47,7 @@ Rating: 3.93 (Ranked 969)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,310 (Ranked 78)  
+Progressed: 88,314 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,14 +205,14 @@ Completed: 46 (0.05%) (Ranked 252)
 | 2023-09-22 | 88,112 | 46 |
 | 2023-09-23 | 88,195 | 46 |
 | 2023-09-24 | 88,263 | 46 |
-| 2023-09-25 | 88,310 | 46 |
+| 2023-09-25 | 88,314 | 46 |
 ## Awards
-Max (Diverse Characters): 455  (Ranked 208)  
-Sum: 2,190 (Ranked 196)  
-Diff (max vs sum): 12  
+Max (Diverse Characters): 458  (Ranked 207)  
+Sum: 2,193 (Ranked 196)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 455 |
+| This game has Diverse Characters | 458 |
 | This game has Quickly Understood Controls | 450 |
 | This game is Highly Recommended | 434 |
 | This game has Challenging Combat | 429 |
@@ -400,4 +400,4 @@ Diff (max vs sum): 12
 | 2023-09-22 | 3.93 | 452 | 2,167 |
 | 2023-09-23 | 3.93 | 452 | 2,173 |
 | 2023-09-24 | 3.93 | 455 | 2,182 |
-| 2023-09-25 | 3.93 | 455 | 2,190 |
+| 2023-09-25 | 3.93 | 458 | 2,193 |

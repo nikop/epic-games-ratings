@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6238,9 +6238,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136685,
+  "EOS_Progressed": 136688,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22463,6 +22463,11 @@
       "Time": "2023-09-25T14:05:19.2121665+00:00",
       "NumProgressed": 136685,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-09-25T15:05:37.1285325+00:00",
+      "NumProgressed": 136688,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 112,
@@ -23066,7 +23071,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "level03",
@@ -23186,7 +23191,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "quest02",
@@ -23346,7 +23351,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "workers03",
@@ -23369,15 +23374,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136685,
+      "Progressed": 136688,
       "Completed": 154
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-24T15:01:39.0099523+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:05:19.2121621+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:05:37.1285319+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:57:00.9056812+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:05:19.2123747+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:57:10.9673595+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:05:37.1287305+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 863,
   "Ranking_Popularity": 320,
-  "Ranking_PopularitySum": 268,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 94,
@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24750,
+  "EOS_Progressed": 24752,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 5,
@@ -18235,6 +18235,11 @@
       "Time": "2023-09-25T14:06:37.8736196+00:00",
       "NumProgressed": 24750,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-09-25T15:07:05.022108+00:00",
+      "NumProgressed": 24752,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 22,
@@ -18310,7 +18315,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "1024",
@@ -18382,7 +18387,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9900
+      "UsersEstimate": 9901
     },
     {
       "ID": "1033",
@@ -18390,7 +18395,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "1034",
@@ -18421,15 +18426,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24750,
+      "Progressed": 24752,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:06:37.8736191+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:07:05.0221075+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:59:16.0695869+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:06:37.8737113+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:59:33.806935+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:07:05.0221993+00:00"
 }

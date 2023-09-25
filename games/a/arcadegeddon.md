@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 90.00% | ~8,187 |
-| Photogenic | 86.00% | ~7,823 |
+| Let's Get This Party Started | 90.00% | ~8,188 |
+| Photogenic | 86.00% | ~7,824 |
 | Surge Gauntlet Jockey | 83.00% | ~7,551 |
 | Plug It In | 82.00% | ~7,460 |
 | Adventure Time | 78.00% | ~7,096 |
 | Playing With Power | 76.00% | ~6,914 |
-| Coup d'Etat | 58.00% | ~5,276 |
-| You're Fired | 56.00% | ~5,094 |
-| Get Furious | 55.00% | ~5,003 |
-| Hacks In Stacks | 55.00% | ~5,003 |
-| Gunplay And Cosplay | 54.00% | ~4,912 |
+| Coup d'Etat | 58.00% | ~5,277 |
+| You're Fired | 56.00% | ~5,095 |
+| Get Furious | 55.00% | ~5,004 |
+| Hacks In Stacks | 55.00% | ~5,004 |
+| Gunplay And Cosplay | 54.00% | ~4,913 |
 | Meching Enemies | 48.00% | ~4,367 |
 | Ticket Toddler | 44.00% | ~4,003 |
 | Booty Bashing | 39.00% | ~3,548 |
@@ -26,9 +26,9 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Ahead | 30.00% | ~2,729 |
 | The Full Monty | 30.00% | ~2,729 |
 | Guardian Angel | 28.00% | ~2,547 |
-| Poppin Noggins | 24.00% | ~2,183 |
-| Clips and Crits | 19.00% | ~1,728 |
-| Grey Goo | 17.00% | ~1,546 |
+| Poppin Noggins | 24.00% | ~2,184 |
+| Clips and Crits | 19.00% | ~1,729 |
+| Grey Goo | 17.00% | ~1,547 |
 | Boss of Bosses | 15.00% | ~1,365 |
 | The Final Blow | 14.00% | ~1,274 |
 | To Be Continued | 13.00% | ~1,183 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~36 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,097 (Ranked 142)  
+Progressed: 9,098 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 1 (0.01%) (Ranked 276)
 | 2023-09-22 | 9,072 | 1 |
 | 2023-09-23 | 9,084 | 1 |
 | 2023-09-24 | 9,092 | 1 |
-| 2023-09-25 | 9,097 | 1 |
+| 2023-09-25 | 9,098 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 391)  
 Sum: 462 (Ranked 315)  

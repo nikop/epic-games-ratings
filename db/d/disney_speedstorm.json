@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3276,
+  "EOS_Progressed": 3277,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
@@ -5065,6 +5065,11 @@
       "Time": "2023-09-25T14:05:49.6378765+00:00",
       "NumProgressed": 3276,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-09-25T15:06:08.0483618+00:00",
+      "NumProgressed": 3277,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 24,
@@ -5138,9 +5143,9 @@
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 524
     },
     {
       "ID": "18",
@@ -5156,7 +5161,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 15,
       "XP": 85,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "2",
@@ -5196,7 +5201,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "24",
@@ -5204,7 +5209,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "3",
@@ -5228,7 +5233,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "6",
@@ -5267,13 +5272,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3276,
+      "Progressed": 3277,
       "Completed": 195
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:05:49.6378761+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:06:08.0483612+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:57:50.0239841+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:05:49.6379142+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:58:06.5764982+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:06:08.0484169+00:00"
 }

@@ -3158,9 +3158,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72816,
+  "EOS_Progressed": 72818,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16598,6 +16598,11 @@
       "Time": "2023-09-25T14:05:54.5485174+00:00",
       "NumProgressed": 72816,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-25T15:06:12.8341995+00:00",
+      "NumProgressed": 72818,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16697,7 +16702,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10922
+      "UsersEstimate": 10923
     },
     {
       "ID": "CHALLENGES_1",
@@ -16713,7 +16718,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15291
+      "UsersEstimate": 15292
     },
     {
       "ID": "CLAYFACE_2",
@@ -16729,7 +16734,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10194
+      "UsersEstimate": 10195
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16793,7 +16798,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -16841,7 +16846,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15291
+      "UsersEstimate": 15292
     },
     {
       "ID": "FREEZE_2",
@@ -16857,7 +16862,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10194
+      "UsersEstimate": 10195
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16929,7 +16934,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14563
+      "UsersEstimate": 14564
     },
     {
       "ID": "HARLEY_4",
@@ -16953,7 +16958,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37864
+      "UsersEstimate": 37865
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16969,7 +16974,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -16977,7 +16982,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14563
+      "UsersEstimate": 14564
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16985,7 +16990,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20388
+      "UsersEstimate": 20389
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17001,7 +17006,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24757
+      "UsersEstimate": 24758
     },
     {
       "ID": "MYSTERY_02",
@@ -17025,7 +17030,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14563
+      "UsersEstimate": 14564
     },
     {
       "ID": "MYSTERY_05",
@@ -17041,7 +17046,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10922
+      "UsersEstimate": 10923
     },
     {
       "ID": "MYSTERY_07",
@@ -17049,7 +17054,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10194
+      "UsersEstimate": 10195
     },
     {
       "ID": "MYSTERY_08",
@@ -17073,7 +17078,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -17089,20 +17094,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72816,
+      "Progressed": 72818,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43096,
+      "Progressed": 43098,
       "Completed": 2667
     }
   ],
@@ -17110,8 +17115,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-25T09:57:57.5665408+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:05:54.548517+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:06:12.8341987+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:57:43.2992316+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:05:54.5486302+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:57:59.4182907+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:06:12.8343153+00:00"
 }

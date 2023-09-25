@@ -7,7 +7,7 @@ Number of Ratings: 101  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Our Man | 86.00% | ~511 |
-| Take-Off | 79.00% | ~469 |
+| Take-Off | 80.00% | ~475 |
 | Hokey-Pokey | 71.00% | ~422 |
 | Camellos | 56.00% | ~333 |
 | Bad Trip | 46.00% | ~273 |

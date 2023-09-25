@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -13913,9 +13913,9 @@
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 78
     },
     {
       "ID": "Surprise",
@@ -14018,8 +14018,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:06:33.7030492+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:06:50.8784155+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:57:52.8238088+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:06:33.7031365+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:58:10.7424805+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:06:50.8785058+00:00"
 }

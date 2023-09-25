@@ -1079,9 +1079,9 @@
       "ID": "PlayedFor10HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Captain",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PlayedFor1DayAchievement",
@@ -1335,9 +1335,9 @@
       "ID": "VisitOverlord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There II",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VisitOverlord1TimeAchievement",
@@ -1398,8 +1398,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:03:14.3687913+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:03:22.5045612+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:57:19.2658644+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:03:14.3689569+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:57:30.1164162+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:03:22.5047313+00:00"
 }

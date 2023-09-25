@@ -28,9 +28,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.90% | ~1,230 |
 | Where it Hurts | 0.90% | ~1,230 |
 | Gild-Gotten Goods | 0.90% | ~1,230 |
-| Accomplished Merchant | 0.80% | ~1,093 |
-| Did we pack lunch? | 0.80% | ~1,093 |
-| Arcane Industries | 0.80% | ~1,093 |
+| Accomplished Merchant | 0.80% | ~1,094 |
+| Did we pack lunch? | 0.80% | ~1,094 |
+| Arcane Industries | 0.80% | ~1,094 |
 | On the Path to Greatness | 0.70% | ~957 |
 | Ascended | 0.70% | ~957 |
 | Research & Development | 0.70% | ~957 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,685 (Ranked 69)  
+Progressed: 136,688 (Ranked 69)  
 Completed: 154 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 154 (0.11%) (Ranked 229)
 | 2023-09-22 | 136,546 | 153 |
 | 2023-09-23 | 136,602 | 153 |
 | 2023-09-24 | 136,667 | 154 |
-| 2023-09-25 | 136,685 | 154 |
+| 2023-09-25 | 136,688 | 154 |
 ## Awards
 Max (Great for Beginners): 4,758  (Ranked 70)  
 Sum: 27,291 (Ranked 48)  

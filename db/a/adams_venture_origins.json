@@ -4,7 +4,7 @@
   "ProductSlug": "adams-venture-origins-d4d541",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-01-10T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.2448699+00:00",
   "LastChanged": "2023-03-31T05:57:23.24487+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:39.4645004+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:57:28.7726787+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:06:05.4906195+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:57:41.6148047+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:06:23.2795057+00:00"
 }

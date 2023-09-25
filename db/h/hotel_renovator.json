@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1043,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-09-25T04:05:12.2828187+00:00",
       "NumProgressed": 1043,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-25T15:04:50.4671096+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1791,15 +1796,15 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1815,7 +1820,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1839,7 +1844,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1871,7 +1876,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1879,7 +1884,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1927,7 +1932,7 @@
       "Name": "Good start",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ACH_STAR_2",
@@ -1943,7 +1948,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_STAR_4",
@@ -1990,7 +1995,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1043,
+      "Progressed": 1044,
       "Completed": 15
     }
   ],
@@ -1998,8 +2003,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-25T06:59:46.3368187+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:04:32.5396928+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:04:50.4671091+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:14.2726698+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:00:02.7447475+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:04:32.5397177+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:00:20.1415251+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:04:50.4671348+00:00"
 }

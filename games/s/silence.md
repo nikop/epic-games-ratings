@@ -9,11 +9,11 @@
 | Haute cuisine | 48.00% | ~59 |
 | I didn't do it! | 41.00% | ~50 |
 | Demolition expert | 39.00% | ~48 |
+| Wooooooow! | 38.00% | ~46 |
 | Keep away from children | 37.00% | ~45 |
-| Wooooooow! | 37.00% | ~45 |
 | Artistic fool | 34.00% | ~41 |
 | Open up wide | 34.00% | ~41 |
-| Let the boot talk | 32.00% | ~39 |
+| Let the boot talk | 33.00% | ~40 |
 | Chapter II | 28.00% | ~34 |
 | Handyman | 25.00% | ~30 |
 | Achoo!! | 25.00% | ~30 |
@@ -31,7 +31,7 @@
 | Death is a part of life | 15.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~16 |
 | To err is human... | 11.00% | ~13 |
-| Useless but beautiful | 10.00% | ~12 |
+| Useless but beautiful | 11.00% | ~13 |
 | Nothing can stop me | 10.00% | ~12 |
 | Mumbo Jumbo | 10.00% | ~12 |
 | Lollipop | 8.00% | ~10 |

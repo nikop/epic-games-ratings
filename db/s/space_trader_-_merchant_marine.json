@@ -4,7 +4,7 @@
   "ProductSlug": "space-trader-merchant-marine-0426a8",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-11T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.9922174+00:00",
   "LastChanged": "2023-03-31T05:58:43.9922175+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:57.7741125+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:58:41.191172+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:05:52.3197773+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:58:57.382645+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:06:10.6327882+00:00"
 }

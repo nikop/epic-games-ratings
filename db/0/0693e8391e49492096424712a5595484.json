@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 447,
-  "EOS_Completed": 32,
+  "EOS_Completed": 33,
   "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.16,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 7.38,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1711,6 +1711,11 @@
       "Time": "2023-09-25T00:06:32.1374285+00:00",
       "NumProgressed": 447,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-09-25T15:06:48.905831+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 45,
@@ -1776,9 +1781,9 @@
       "ID": "BearSword",
       "SetID": "db30heh",
       "Name": "Full Deck",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "BeggarWomanCoin",
@@ -2082,13 +2087,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 447,
-      "Completed": 32
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-25T14:06:31.6935223+00:00",
+  "LastChanged_Achievements": "2023-09-25T15:06:48.9058303+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:59:32.3280974+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:06:31.6935612+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:59:50.7194018+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:06:48.9058685+00:00"
 }

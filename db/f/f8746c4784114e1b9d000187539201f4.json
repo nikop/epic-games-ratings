@@ -4,7 +4,7 @@
   "ProductSlug": "wyvia-1da7b7",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-18T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T02:12:42.5067658+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:59:46.6964316+00:00",
-  "LastUpdate_Achievements": "2023-09-25T14:03:15.0038506+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:00:04.7477899+00:00",
+  "LastUpdate_Achievements": "2023-09-25T15:03:23.1133026+00:00"
 }
