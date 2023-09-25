@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1090,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1784,6 +1784,11 @@
       "Time": "2023-09-25T03:06:49.0021813+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T16:07:57.0166449+00:00",
+      "NumProgressed": 1090,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2129,9 +2134,9 @@
       "ID": "WINMATCH_DIFF_LEGACY",
       "SetID": "6ohhfoc",
       "Name": "Like the dream",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
@@ -2145,16 +2150,16 @@
       "ID": "WINMATCH_DIFF_STANDARD",
       "SetID": "6ohhfoc",
       "Name": "Prophecy Fulfilled",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1090,
       "Completed": 0
     }
   ],
@@ -2162,8 +2167,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:06:26.2413287+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:07:57.0166442+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.2364181+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:00:41.319192+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:06:26.2413678+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:02:14.2603918+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:07:57.0167267+00:00"
 }

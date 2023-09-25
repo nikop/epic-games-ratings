@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4676,
+  "EOS_Progressed": 4677,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2516,6 +2516,11 @@
       "Time": "2023-09-25T15:04:40.0654856+00:00",
       "NumProgressed": 4676,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-25T16:05:26.48504+00:00",
+      "NumProgressed": 4677,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2583,7 +2588,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2615,7 +2620,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -2741,9 +2746,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3601
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2799,7 +2804,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -2871,7 +2876,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3062,15 +3067,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4676,
+      "Progressed": 4677,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:04:40.0654851+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:05:26.4850392+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:31.5942131+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:02:07.8757807+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:04:40.0655505+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:03:00.3994386+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:05:26.4851902+00:00"
 }

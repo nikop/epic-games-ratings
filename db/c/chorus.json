@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -2237,9 +2237,9 @@
       "ID": "MissionBuriedInATomb",
       "SetID": "a6c395p",
       "Name": "Uneasy Alliance",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 303
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -2469,8 +2469,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:06:03.8668223+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:07:24.8830667+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.4828325+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:59:01.6191284+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:06:03.866858+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:59:45.2267497+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:07:24.883145+00:00"
 }

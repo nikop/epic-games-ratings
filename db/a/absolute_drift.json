@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1542052,
+  "EOS_Progressed": 1542059,
   "EOS_Completed": 693,
-  "EOS_NewPlayers": 1140,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18239,6 +18239,11 @@
       "Time": "2023-09-25T15:07:12.2898023+00:00",
       "NumProgressed": 1542052,
       "NumCompleted": 693
+    },
+    {
+      "Time": "2023-09-25T16:08:47.5502802+00:00",
+      "NumProgressed": 1542059,
+      "NumCompleted": 693
     }
   ],
   "TotalAchievements": 20,
@@ -18346,7 +18351,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154205
+      "UsersEstimate": 154206
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -18370,7 +18375,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13878
+      "UsersEstimate": 13879
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -18409,15 +18414,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1542052,
+      "Progressed": 1542059,
       "Completed": 693
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:07:12.2898018+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:08:47.5502793+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.8511247+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:59:01.9941888+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:07:12.2898996+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:59:45.7640632+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:08:47.5504537+00:00"
 }

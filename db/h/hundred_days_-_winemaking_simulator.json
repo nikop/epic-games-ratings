@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 4937,
+  "EOS_Progressed": 4943,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4115,6 +4115,11 @@
       "Time": "2023-09-25T15:03:21.4531704+00:00",
       "NumProgressed": 4937,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-25T16:03:50.7051572+00:00",
+      "NumProgressed": 4943,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4127,7 +4132,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "a_10",
@@ -4175,7 +4180,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1829
     },
     {
       "ID": "a_19",
@@ -4199,7 +4204,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "a_21",
@@ -4215,7 +4220,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "a_23",
@@ -4223,7 +4228,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "a_25",
@@ -4231,7 +4236,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "a_26",
@@ -4277,9 +4282,9 @@
       "ID": "a_31",
       "SetID": "daiie3o",
       "Name": "King of white wines",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "a_32",
@@ -4374,7 +4379,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 4937,
+      "Progressed": 4943,
       "Completed": 6
     }
   ],
@@ -4382,8 +4387,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:03:21.4531699+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:03:50.7051567+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:00:56.2656033+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:03:21.4532041+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:02:33.7910747+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:03:50.7052026+00:00"
 }

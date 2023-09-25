@@ -7,11 +7,11 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,158 |
-| Man of politics | 35.00% | ~5,388 |
-| Friends of sorts | 33.00% | ~5,080 |
-| Yet another secret | 33.00% | ~5,080 |
-| Let there be darkness | 32.00% | ~4,926 |
-| End of Book One | 30.00% | ~4,618 |
+| Man of politics | 35.00% | ~5,389 |
+| Friends of sorts | 33.00% | ~5,081 |
+| Yet another secret | 33.00% | ~5,081 |
+| Let there be darkness | 32.00% | ~4,927 |
+| End of Book One | 30.00% | ~4,619 |
 | Wannabe knight | 24.00% | ~3,695 |
 | Garden of Eden | 24.00% | ~3,695 |
 | Full house | 24.00% | ~3,695 |
@@ -24,17 +24,17 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,155 |
 | Jack was here! | 14.00% | ~2,155 |
 | Exterminator | 13.00% | ~2,001 |
-| Whodunnit | 12.00% | ~1,847 |
-| Good midwife | 11.00% | ~1,693 |
-| Friar Tuck | 11.00% | ~1,693 |
-| First profit | 11.00% | ~1,693 |
-| Team player | 10.00% | ~1,539 |
-| Skilled merchant | 9.00% | ~1,385 |
-| Nothing but make-believe | 9.00% | ~1,385 |
-| Brother Marcus | 9.00% | ~1,385 |
-| The oath | 9.00% | ~1,385 |
-| The truth revealed | 9.00% | ~1,385 |
-| The End. | 9.00% | ~1,385 |
+| Whodunnit | 12.00% | ~1,848 |
+| Good midwife | 11.00% | ~1,694 |
+| Friar Tuck | 11.00% | ~1,694 |
+| First profit | 11.00% | ~1,694 |
+| Team player | 10.00% | ~1,540 |
+| Skilled merchant | 9.00% | ~1,386 |
+| Nothing but make-believe | 9.00% | ~1,386 |
+| Brother Marcus | 9.00% | ~1,386 |
+| The oath | 9.00% | ~1,386 |
+| The truth revealed | 9.00% | ~1,386 |
+| The End. | 9.00% | ~1,386 |
 | A cry for help | 7.00% | ~1,078 |
 | Silentium est aureum | 7.00% | ~1,078 |
 | Rebel without a cause | 6.00% | ~924 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~462 |
 | Boy of mystery | 2.00% | ~308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,394 (Ranked 127)  
+Progressed: 15,396 (Ranked 127)  
 Completed: 111 (0.72%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 111 (0.72%) (Ranked 143)
 | 2023-09-22 | 15,337 | 111 |
 | 2023-09-23 | 15,370 | 111 |
 | 2023-09-24 | 15,387 | 111 |
-| 2023-09-25 | 15,394 | 111 |
+| 2023-09-25 | 15,396 | 111 |
 ## Awards
 Max (Easy Puzzles): 150  (Ranked 303)  
 Sum: 192 (Ranked 384)  

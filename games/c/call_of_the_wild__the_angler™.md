@@ -9,8 +9,8 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Just Got Reel | 79.00% | ~4,652 |
 | Hey Good Hookin | 69.00% | ~4,063 |
 | I'm on a Boat! | 60.00% | ~3,533 |
+| Scaling up | 56.00% | ~3,297 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,238 |
-| Scaling up | 55.00% | ~3,238 |
 | More Fish in the Sea | 49.00% | ~2,885 |
 | Ready to Rod and Roll | 46.00% | ~2,708 |
 | Fish Out of Water | 36.00% | ~2,120 |
@@ -26,8 +26,8 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 8.00% | ~471 |
 | I'm the Captain Now | 6.00% | ~353 |
 | Big Fish Small Pond | 5.00% | ~294 |
+| The Beetles | 3.00% | ~177 |
 | Gonna Need a Bigger Boat | 3.00% | ~177 |
-| The Beetles | 2.00% | ~118 |
 | No Fin left to give | 2.00% | ~118 |
 | Rod and Troll | 2.00% | ~105 |
 | Taylor Made | 1.00% | ~59 |

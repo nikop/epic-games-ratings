@@ -5,26 +5,26 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,624 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,625 |
 | First Class Student | 13.00% | ~38,651 |
 | Troll with the Punches | 13.00% | ~38,651 |
 | A Keen Sense of Spell | 12.00% | ~35,678 |
 | A Talent for Spending | 11.00% | ~32,705 |
 | That's a Keeper | 11.00% | ~32,705 |
-| Grappling with a Graphorn | 10.00% | ~29,731 |
-| The One Who Mastered Memories | 10.00% | ~29,731 |
-| The Hallowed Hero | 10.00% | ~29,731 |
-| The Hero of Hogwarts | 10.00% | ~29,731 |
-| The Defender of Dragons | 10.00% | ~29,731 |
-| Challenge Accepted | 10.00% | ~29,731 |
-| Loom for Improvement | 10.00% | ~29,731 |
-| Coasting Along | 10.00% | ~29,731 |
-| Followed the Butterflies | 9.00% | ~26,758 |
-| Rising From the Ashes | 9.00% | ~26,758 |
-| The Avenging Gazelle | 8.00% | ~23,785 |
-| A Sallow Grave | 8.00% | ~23,785 |
-| Flight the Good Flight | 8.00% | ~23,785 |
-| The Spell Master | 8.00% | ~23,785 |
+| Grappling with a Graphorn | 10.00% | ~29,732 |
+| The One Who Mastered Memories | 10.00% | ~29,732 |
+| The Hallowed Hero | 10.00% | ~29,732 |
+| The Hero of Hogwarts | 10.00% | ~29,732 |
+| The Defender of Dragons | 10.00% | ~29,732 |
+| Challenge Accepted | 10.00% | ~29,732 |
+| Loom for Improvement | 10.00% | ~29,732 |
+| Coasting Along | 10.00% | ~29,732 |
+| Followed the Butterflies | 9.00% | ~26,759 |
+| Rising From the Ashes | 9.00% | ~26,759 |
+| The Avenging Gazelle | 8.00% | ~23,786 |
+| A Sallow Grave | 8.00% | ~23,786 |
+| Flight the Good Flight | 8.00% | ~23,786 |
+| The Spell Master | 8.00% | ~23,786 |
 | Beast Friends | 7.00% | ~20,812 |
 | The Seeker of Knowledge | 6.00% | ~17,839 |
 | The Root of the Problem | 6.00% | ~17,839 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 119)
 | The Intrepid Explorer | 4.00% | ~11,893 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,893 |
 | The Wise Owl | 4.00% | ~11,893 |
-| Put Down Roots | 3.00% | ~8,919 |
-| The Auror's Apprentice | 3.00% | ~8,919 |
-| Floo Around the World | 3.00% | ~8,919 |
+| Put Down Roots | 3.00% | ~8,920 |
+| The Auror's Apprentice | 3.00% | ~8,920 |
+| Floo Around the World | 3.00% | ~8,920 |
 | The Good Samaritan | 2.00% | ~5,946 |
 | Rise to the Challenges | 2.00% | ~5,946 |
 | Finishing Touches | 2.00% | ~5,946 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,784 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,314 (Ranked 44)  
+Progressed: 297,319 (Ranked 44)  
 Completed: 477 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 477 (0.16%) (Ranked 215)
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
 | 2023-09-24 | 297,283 | 477 |
-| 2023-09-25 | 297,314 | 477 |
+| 2023-09-25 | 297,319 | 477 |
 ## Awards
 Max (Character Customization): 23,029  (Ranked 17)  
-Sum: 44,287 (Ranked 30)  
+Sum: 44,288 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,012 |
 | This game has Quickly Understood Controls | 952 |
 | This game has Beautiful Visuals | 886 |
-| This game has a Creative Community | 671 |
+| This game has a Creative Community | 672 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -416,4 +416,4 @@ Diff (max vs sum): -13
 | 2023-09-22 | 4.77 | 22,916 | 43,979 |
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
 | 2023-09-24 | 4.76 | 22,986 | 44,172 |
-| 2023-09-25 | 4.76 | 23,029 | 44,287 |
+| 2023-09-25 | 4.76 | 23,029 | 44,288 |

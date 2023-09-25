@@ -5,33 +5,33 @@ Rating: 4.82 (Ranked 64)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,480 |
-| No more cages! | 92.00% | ~2,376 |
+| For Demacia | 96.00% | ~2,481 |
+| No more cages! | 92.00% | ~2,377 |
 | Everfrost | 79.00% | ~2,041 |
-| Pentakill | 78.00% | ~2,015 |
-| Dark Forest | 78.00% | ~2,015 |
-| The use of petricite | 75.00% | ~1,937 |
-| You can pet the dog | 62.00% | ~1,601 |
+| Pentakill | 78.00% | ~2,016 |
+| Dark Forest | 78.00% | ~2,016 |
+| The use of petricite | 75.00% | ~1,938 |
+| You can pet the dog | 62.00% | ~1,602 |
 | Big Helmet Bro | 38.00% | ~982 |
 | Thornbarrow | 38.00% | ~982 |
 | Clarion Cove | 38.00% | ~982 |
 | Elemental master | 36.00% | ~930 |
 | Past trauma | 36.00% | ~930 |
 | Ternmoat Headquarters | 36.00% | ~930 |
-| Cypress Glen Headquarters | 33.00% | ~852 |
+| Cypress Glen Headquarters | 33.00% | ~853 |
 | Petricite Burst | 32.00% | ~827 |
 | Old friend | 30.00% | ~775 |
 | Hijack | 29.00% | ~749 |
 | Devineur | 29.00% | ~749 |
-| Whispers in the Woods I | 27.00% | ~697 |
+| Whispers in the Woods I | 27.00% | ~698 |
 | Ancient power | 26.00% | ~672 |
 | I chose my shackles | 25.00% | ~646 |
 | Sacred Woods | 24.00% | ~620 |
 | Capelworth | 23.00% | ~594 |
 | Little light | 22.00% | ~568 |
 | Full equipped | 22.00% | ~568 |
-| Glyndemere | 21.00% | ~542 |
-| Iffighain Headquarters | 21.00% | ~542 |
+| Glyndemere | 21.00% | ~543 |
+| Iffighain Headquarters | 21.00% | ~543 |
 | Whispers in the Woods II | 18.00% | ~465 |
 | Quickmoore Headquarters | 18.00% | ~465 |
 | No more holding back | 17.00% | ~439 |
@@ -41,8 +41,8 @@ Rating: 4.82 (Ranked 64)
 | True power | 16.00% | ~413 |
 | Meltridge | 16.00% | ~413 |
 | The Central Headquarters | 16.00% | ~413 |
-| My heart and sword always for Demacia | 15.00% | ~387 |
-| Cloven Dell Headquarters | 15.00% | ~387 |
+| My heart and sword always for Demacia | 15.00% | ~388 |
+| Cloven Dell Headquarters | 15.00% | ~388 |
 | Embrace the darkness | 13.00% | ~336 |
 | Whispers in the Woods IV | 13.00% | ~336 |
 | I smell fear | 13.00% | ~336 |
@@ -55,11 +55,11 @@ Rating: 4.82 (Ranked 64)
 | Chains master | 10.00% | ~258 |
 | The great mage rebellion starts now | 10.00% | ~258 |
 | You can pet the... horse | 10.00% | ~258 |
-| Spellcrafting | 9.00% | ~232 |
+| Spellcrafting | 9.00% | ~233 |
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 0.90% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,583 (Ranked 190)  
+Progressed: 2,584 (Ranked 190)  
 Completed: 9 (0.35%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 9 (0.35%) (Ranked 180)
 | 2023-09-22 | 2,570 | 9 |
 | 2023-09-23 | 2,574 | 9 |
 | 2023-09-24 | 2,581 | 9 |
-| 2023-09-25 | 2,583 | 9 |
+| 2023-09-25 | 2,584 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

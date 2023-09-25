@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 100.00% | ~44 |
+| Budding Conjuror | 86.00% | ~38 |
 | Hidden History | 84.00% | ~37 |
-| Budding Conjuror | 84.00% | ~37 |
 | Commencing of Quests | 80.00% | ~35 |
 | Charmed by the Hunt | 75.00% | ~33 |
 | Fusion Conjuror | 70.00% | ~31 |
 | Memory Rouser | 68.00% | ~30 |
+| Man-Machine Master | 68.00% | ~30 |
 | Mountain Splitter | 68.00% | ~30 |
-| Man-Machine Master | 66.00% | ~29 |
 | Master of the Skies | 61.00% | ~27 |
 | Kemono Hunter | 61.00% | ~27 |
 | Helpful Heart | 59.00% | ~26 |

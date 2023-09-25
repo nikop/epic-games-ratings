@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2674,10 +2674,10 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31319,
+  "EOS_Progressed": 31320,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 580,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 579,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
     {
@@ -19914,6 +19914,11 @@
       "Time": "2023-09-25T15:08:25.842894+00:00",
       "NumProgressed": 31319,
       "NumCompleted": 259
+    },
+    {
+      "Time": "2023-09-25T16:09:34.2852644+00:00",
+      "NumProgressed": 31320,
+      "NumCompleted": 259
     }
   ],
   "TotalAchievements": 60,
@@ -19925,7 +19930,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 18165
+      "UsersEstimate": 18166
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -20013,7 +20018,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -20021,7 +20026,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5637
+      "UsersEstimate": 5638
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -20037,7 +20042,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15346
+      "UsersEstimate": 15347
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -20133,7 +20138,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13467
+      "UsersEstimate": 13468
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -20181,7 +20186,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8769
+      "UsersEstimate": 8770
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -20229,7 +20234,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7203
+      "UsersEstimate": 7204
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -20301,7 +20306,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10335
+      "UsersEstimate": 10336
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -20325,7 +20330,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21610
+      "UsersEstimate": 21611
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -20404,15 +20409,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31319,
+      "Progressed": 31320,
       "Completed": 259
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-23T17:03:11.8766153+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:08:25.8428935+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:09:34.2852637+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.6938944+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:57:56.0284268+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:08:25.8430218+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:58:10.4452452+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:09:34.2854357+00:00"
 }

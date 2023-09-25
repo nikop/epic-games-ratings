@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1418,
+  "EOS_Progressed": 1421,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5161,6 +5161,11 @@
       "Time": "2023-09-25T15:06:49.9150565+00:00",
       "NumProgressed": 1418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T16:08:30.1625229+00:00",
+      "NumProgressed": 1421,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5188,7 +5193,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_defeat_players_100",
@@ -5252,7 +5257,7 @@
       "Name": "Keeping Busy",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_headquarters_15",
@@ -5298,17 +5303,17 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 142
     },
     {
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 99
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -5348,7 +5353,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5410,9 +5415,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5428,7 +5433,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5450,9 +5455,9 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -5475,14 +5480,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1418,
+      "Progressed": 1421,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:06:49.9150557+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:08:30.1625221+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:59:45.5154661+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:06:49.9151032+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:00:42.7863954+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:08:30.1626119+00:00"
 }

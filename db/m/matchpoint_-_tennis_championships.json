@@ -4,8 +4,8 @@
   "ProductSlug": "matchpoint-tennis-championships-26d55a",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-07-07T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.1093379+00:00",
   "LastChanged": "2023-03-31T05:57:04.109338+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:51.5828143+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:57:12.2335129+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:06:39.1737841+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:57:15.184282+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:08:15.2416509+00:00"
 }

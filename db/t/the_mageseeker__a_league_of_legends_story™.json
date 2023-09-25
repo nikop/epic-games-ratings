@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2583,
+  "EOS_Progressed": 2584,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3705,6 +3705,11 @@
       "Time": "2023-09-25T02:20:48.0543185+00:00",
       "NumProgressed": 2583,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-25T16:05:08.8324254+00:00",
+      "NumProgressed": 2584,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 53,
@@ -3724,7 +3729,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -3780,7 +3785,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3788,7 +3793,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -3892,7 +3897,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3900,7 +3905,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3932,7 +3937,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3972,7 +3977,7 @@
       "Name": "Glyndemere",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4020,7 +4025,7 @@
       "Name": "You can pet the dog",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4060,7 +4065,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4068,7 +4073,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -4084,7 +4089,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -4092,7 +4097,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4100,7 +4105,7 @@
       "Name": "Spellcrafting",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -4139,7 +4144,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2583,
+      "Progressed": 2584,
       "Completed": 9
     }
   ],
@@ -4147,8 +4152,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:04:27.1010869+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:05:08.8324249+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:04.8253651+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:00:47.4631181+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:04:27.1011388+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:02:23.7400657+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:05:08.8324979+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "tribu-55feb1",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-01-05T23:00:00+00:00",
@@ -25,9 +25,123 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-25T16:07:19.3709868+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ARCH_ALL_CAMPS",
+      "SetID": "b5hi2io",
+      "Name": "Found all tribe camps",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_ALL_TIKBAL_RELIQ",
+      "SetID": "b5hi2io",
+      "Name": "Relics of Tikbal",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_FIND_TORD",
+      "SetID": "b5hi2io",
+      "Name": "Tord",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_FIRST_ALLIANCE",
+      "SetID": "b5hi2io",
+      "Name": "First Alliance",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_FIRST_ASSAULT",
+      "SetID": "b5hi2io",
+      "Name": "First Assault",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_FIRST_BUILDING",
+      "SetID": "b5hi2io",
+      "Name": "First Building",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_FIRST_CAMP",
+      "SetID": "b5hi2io",
+      "Name": "First tribe camp",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_FIRST_TRADE_ROUTE",
+      "SetID": "b5hi2io",
+      "Name": "First Trade Route",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_THREE_ALLIANCES",
+      "SetID": "b5hi2io",
+      "Name": "Diplomatic",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_THREE_ASSAULTS",
+      "SetID": "b5hi2io",
+      "Name": "War",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_THREE_TRADE_ROUTE",
+      "SetID": "b5hi2io",
+      "Name": "Businessman",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_TIKBAL_RELIQ",
+      "SetID": "b5hi2io",
+      "Name": "Relic of Tikbal",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_TUTORIAL",
+      "SetID": "b5hi2io",
+      "Name": "Tutorial",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCH_WIN_GAME",
+      "SetID": "b5hi2io",
+      "Name": "The Ruler",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b5hi2io",
@@ -37,8 +151,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T15:05:46.3823946+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:06:00.3206284+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:07:19.3709839+00:00",
   "LastUpdate_AppInfo": "2023-09-22T15:57:10.2090718+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:00:37.7576754+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:06:00.3206349+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:02:08.0819724+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:07:19.4305893+00:00"
 }

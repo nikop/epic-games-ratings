@@ -5,40 +5,52 @@ Rating: 4.63 (Ranked 333)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,985 |
-| Mods Please Ban | 77.00% | ~18,540 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,299 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,577 |
-| First Bounty Down | 59.00% | ~14,206 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,724 |
-| Luglox Genocide | 43.00% | ~10,354 |
-| Don't Knife The Hand That Feeds | 34.00% | ~8,187 |
-| Playing Card To Get | 33.00% | ~7,946 |
-| Creature Feature | 30.00% | ~7,223 |
-| Satisfied Gus-tomer | 28.00% | ~6,742 |
-| Cold-Blooded Driller | 28.00% | ~6,742 |
-| Are You Packin'? | 25.00% | ~6,020 |
-| RIP Davey Glutes | 25.00% | ~6,020 |
-| Sweezy Like Sunday Morning | 25.00% | ~6,020 |
-| G3 Graduation | 25.00% | ~6,020 |
-| Hardest Battle In The Game | 22.00% | ~5,297 |
-| Series Wrap on Suit-O | 22.00% | ~5,297 |
-| Lezduit! | 20.00% | ~4,816 |
-| Who's The Boss? | 20.00% | ~4,816 |
-| Self-Actualization | 19.00% | ~4,575 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,575 |
-| Legendary Bounty Hunter | 18.00% | ~4,334 |
-| Seeing All The Sights | 16.00% | ~3,852 |
-| Carried Stan's Load To Completion | 13.00% | ~3,130 |
-| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,889 |
-| Eatin' Good in the Neighborhood | 9.00% | ~2,167 |
-| Sequel-Bait | 8.00% | ~1,926 |
-| Gunning For Your Job | 7.00% | ~1,685 |
-| Playing Favorites | 6.00% | ~1,445 |
-| Epic Legendary Prize | 1.00% | ~241 |
-| A Starfish Is Born | 1.00% | ~241 |
+| Bring A Knife to a Gun Fight | 0.10% | ~24 |
+| Eye Scream, You Scream | 0.10% | ~24 |
+| We're All Very Impressed, Trust Me | 0.10% | ~24 |
+| First Bounty Down | 0.10% | ~24 |
+| Fallout Doesn't Let You Do This | 0.10% | ~24 |
+| Don't Knife The Hand That Feeds | 0.10% | ~24 |
+| Cardbored | 0.10% | ~1 |
+| Porch Pirate | 0.10% | ~1 |
+| Harper? I Barely Know Her! | 0.10% | ~1 |
+| We Came, We Chainsaw, We Conquered | 0.10% | ~1 |
+| Give Away All Your Money | 0.10% | ~1 |
+| It's Like The Santa Clause | 0.10% | ~1 |
+| Bathe With A Giant Nude Alien | 0.10% | ~1 |
+| Epic Legendary Prize | 0.00% | ~0 |
+| Playing Card To Get | 0.00% | ~0 |
+| Mods Please Ban | 0.00% | ~0 |
+| Luglox Genocide | 0.00% | ~0 |
+| Eatin' Good in the Neighborhood | 0.00% | ~0 |
+| Creature Feature | 0.00% | ~0 |
+| Satisfied Gus-tomer | 0.00% | ~0 |
+| Are You Packin'? | 0.00% | ~0 |
+| Lezduit! | 0.00% | ~0 |
+| RIP Davey Glutes | 0.00% | ~0 |
+| Sweezy Like Sunday Morning | 0.00% | ~0 |
+| A Starfish Is Born | 0.00% | ~0 |
+| Sequel-Bait | 0.00% | ~0 |
+| G3 Graduation | 0.00% | ~0 |
+| Legendary Bounty Hunter | 0.00% | ~0 |
+| Hardest Battle In The Game | 0.00% | ~0 |
+| Cold-Blooded Driller | 0.00% | ~0 |
+| Self-Actualization | 0.00% | ~0 |
+| Who's The Boss? | 0.00% | ~0 |
+| Gunning For Your Job | 0.00% | ~0 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.00% | ~0 |
+| Seeing All The Sights | 0.00% | ~0 |
+| Spent 15 Hours At The Alien Strip Club | 0.00% | ~0 |
+| Playing Favorites | 0.00% | ~0 |
+| Carried Stan's Load To Completion | 0.00% | ~0 |
+| Series Wrap on Suit-O | 0.00% | ~0 |
+| That's B.A.L.L., Folks | 0.00% | ~0 |
+| Mux Ado About Shipping | 0.00% | ~0 |
+| See Salt | 0.00% | ~0 |
+| Fall In Love With A Parasite | 0.00% | ~0 |
+| Meet Frasier from Frasier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,078 (Ranked 113)  
+Progressed: 24,080 (Ranked 113)  
 Completed: 12 (0.05%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +207,7 @@ Completed: 12 (0.05%) (Ranked 252)
 | 2023-09-22 | 24,070 | 12 |
 | 2023-09-23 | 24,072 | 12 |
 | 2023-09-24 | 24,074 | 12 |
-| 2023-09-25 | 24,078 | 12 |
+| 2023-09-25 | 24,080 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

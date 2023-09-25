@@ -2,13 +2,13 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.02,
+  "Rating": 4.03,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -278,6 +278,12 @@
       "Rating": 4.02,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-09-25T16:03:05.6391273+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -300,7 +306,7 @@
   ],
   "EOS_Progressed": 1969,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6350,9 +6356,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-09-23T22:00:01.7169424+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:05:59.8461766+00:00",
+  "LastChanged": "2023-09-25T16:03:05.6391271+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:07:18.2751108+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:02:10.9733091+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:05:59.8462666+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:03:05.6391277+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:07:18.27531+00:00"
 }

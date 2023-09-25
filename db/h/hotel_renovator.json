@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1802,9 +1802,9 @@
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 491
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2003,8 +2003,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-25T06:59:46.3368187+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:04:50.4671091+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:05:41.7887492+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:14.2726698+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:00:20.1415251+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:04:50.4671348+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:01:42.27778+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:05:41.7887903+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -5182,10 +5182,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 4657,
       "NumberOfAwardsMax": 632
+    },
+    {
+      "Time": "2023-09-25T15:58:02.393103+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 4660,
+      "NumberOfAwardsMax": 632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4657,
+  "NumberOfAwards": 4660,
   "NumberOfAwardsMax": 632,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5205,7 +5211,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 582
+      "Count": 585
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5280,8 +5286,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-09-25T03:57:45.1182062+00:00",
+  "LastChanged": "2023-09-25T15:58:02.3931029+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:22.764254+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:57:48.8318731+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:06:07.2466258+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:58:02.3931037+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:07:30.1951354+00:00"
 }

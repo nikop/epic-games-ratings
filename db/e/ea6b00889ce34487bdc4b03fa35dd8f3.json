@@ -2,10 +2,10 @@
   "ID": "ea6b00889ce34487bdc4b03fa35dd8f3",
   "Name": "Aerial Platforms",
   "ProductSlug": "aerial-platforms-119f15",
-  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-09-13T16:09:35.5621493+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T16:07:52.8614012+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -65,7 +70,7 @@
       "ID": "CompleteFirstLevel",
       "SetID": "dab3ahb",
       "Name": "Getting Started",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -138,13 +143,13 @@
     {
       "ID": "dab3ahb",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-16T19:01:22.6123387+00:00",
-  "LastChanged_Achievements": "2023-09-25T15:06:23.3028619+00:00",
+  "LastChanged_Achievements": "2023-09-25T16:07:52.8614005+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.7993177+00:00",
-  "LastUpdate_Ratings": "2023-09-25T14:02:17.2136899+00:00",
-  "LastUpdate_Achievements": "2023-09-25T15:06:23.3028688+00:00"
+  "LastUpdate_Ratings": "2023-09-25T15:57:09.0349976+00:00",
+  "LastUpdate_Achievements": "2023-09-25T16:07:52.861411+00:00"
 }
