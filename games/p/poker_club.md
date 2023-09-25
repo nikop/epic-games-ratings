@@ -1,27 +1,27 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.80 (Ranked 985)  
+Rating: 3.80 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~400,038 |
-| Handy | 41.00% | ~215,810 |
-| Cold Caller | 39.00% | ~205,283 |
-| A Bit On The Side | 26.00% | ~136,855 |
+| Pro Creation | 76.00% | ~400,041 |
+| Handy | 41.00% | ~215,812 |
+| Cold Caller | 39.00% | ~205,284 |
+| A Bit On The Side | 26.00% | ~136,856 |
 | Backdoor | 25.00% | ~131,592 |
-| Rank Amateur | 21.00% | ~110,537 |
-| Three Way | 18.00% | ~94,746 |
-| Deadly Assassin | 15.00% | ~78,955 |
-| Gutshot | 14.00% | ~73,691 |
+| Rank Amateur | 21.00% | ~110,538 |
+| Three Way | 18.00% | ~94,747 |
+| Deadly Assassin | 15.00% | ~78,956 |
+| Gutshot | 14.00% | ~73,692 |
 | Risk It For A Biscuit | 13.00% | ~68,428 |
 | Showoff | 13.00% | ~68,428 |
-| W.H.I.P. | 11.00% | ~57,900 |
+| W.H.I.P. | 11.00% | ~57,901 |
 | Bet Bet Bet | 9.00% | ~47,373 |
 | Blindman's Bluff | 9.00% | ~47,373 |
 | Poker Joker | 9.00% | ~47,373 |
-| Never Give Up | 8.00% | ~42,109 |
-| Total Knock Out | 8.00% | ~42,109 |
+| Never Give Up | 8.00% | ~42,110 |
+| Total Knock Out | 8.00% | ~42,110 |
 | Dog Eat Dog | 7.00% | ~36,846 |
 | Quack Quack | 7.00% | ~36,846 |
 | The Bigger They Are | 7.00% | ~36,846 |
@@ -51,7 +51,7 @@ Rating: 3.80 (Ranked 985)
 | Rounder | 0.10% | ~526 |
 | Top Dog | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,366 (Ranked 34)  
+Progressed: 526,370 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 2 (0.00%) (Ranked 292)
 | 2023-09-22 | 525,661 | 2 |
 | 2023-09-23 | 526,001 | 2 |
 | 2023-09-24 | 526,305 | 2 |
-| 2023-09-25 | 526,366 | 2 |
+| 2023-09-25 | 526,370 | 2 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 426)  
 Sum: 115 (Ranked 415)  

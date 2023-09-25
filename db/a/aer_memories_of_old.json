@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20823,
+  "EOS_Progressed": 20824,
   "EOS_Completed": 420,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -17330,6 +17330,11 @@
       "Time": "2023-09-25T09:05:04.1341788+00:00",
       "NumProgressed": 20823,
       "NumCompleted": 420
+    },
+    {
+      "Time": "2023-09-25T10:04:48.4411043+00:00",
+      "NumProgressed": 20824,
+      "NumCompleted": 420
     }
   ],
   "TotalAchievements": 20,
@@ -17405,7 +17410,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "FOUND_ERIN",
@@ -17469,7 +17474,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5830
+      "UsersEstimate": 5831
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17500,15 +17505,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20823,
+      "Progressed": 20824,
       "Completed": 420
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:05:04.1341784+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:04:48.4411038+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:57:40.2147593+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:05:04.1342689+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:57:45.9297543+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:04:48.4412255+00:00"
 }

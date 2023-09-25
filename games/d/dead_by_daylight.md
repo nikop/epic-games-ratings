@@ -6,33 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,083 |
-| Zealous | 6.00% | ~54,071 |
-| Skillful | 6.00% | ~54,071 |
-| Not half bad | 5.00% | ~45,059 |
-| Apt Survivor | 5.00% | ~45,059 |
-| Make Some Noise | 5.00% | ~45,059 |
-| No one left behind | 4.00% | ~36,047 |
-| Handyman | 4.00% | ~36,047 |
-| Nerves of steel | 4.00% | ~36,047 |
-| Survival Treasures | 4.00% | ~36,047 |
-| Sorted | 4.00% | ~36,047 |
-| The Grand Sacrifice | 3.00% | ~27,035 |
-| Agonizing Escape | 3.00% | ~27,035 |
-| Backdoor Escape | 3.00% | ~27,035 |
-| I've got your back | 3.00% | ~27,035 |
-| Medic | 3.00% | ~27,035 |
-| Perfect Escape | 3.00% | ~27,035 |
-| Perfect Killing | 3.00% | ~27,035 |
-| Bloody Millionaire | 3.00% | ~27,035 |
-| Risk it all | 3.00% | ~27,035 |
-| I | 3.00% | ~27,035 |
-| Engineer | 3.00% | ~27,035 |
-| Healthy Obsession | 3.00% | ~27,035 |
-| Resurgence | 3.00% | ~27,035 |
-| Preemptive Strike | 3.00% | ~27,035 |
-| Humanitarian | 3.00% | ~27,035 |
-| MU/TH/UR Dearest | 3.00% | ~27,035 |
+| It wakes | 7.00% | ~63,085 |
+| Zealous | 6.00% | ~54,073 |
+| Skillful | 6.00% | ~54,073 |
+| Not half bad | 5.00% | ~45,061 |
+| Apt Survivor | 5.00% | ~45,061 |
+| Make Some Noise | 5.00% | ~45,061 |
+| No one left behind | 4.00% | ~36,049 |
+| Handyman | 4.00% | ~36,049 |
+| Nerves of steel | 4.00% | ~36,049 |
+| Survival Treasures | 4.00% | ~36,049 |
+| Sorted | 4.00% | ~36,049 |
+| The Grand Sacrifice | 3.00% | ~27,037 |
+| Agonizing Escape | 3.00% | ~27,037 |
+| Backdoor Escape | 3.00% | ~27,037 |
+| I've got your back | 3.00% | ~27,037 |
+| Medic | 3.00% | ~27,037 |
+| Perfect Escape | 3.00% | ~27,037 |
+| Perfect Killing | 3.00% | ~27,037 |
+| Bloody Millionaire | 3.00% | ~27,037 |
+| Risk it all | 3.00% | ~27,037 |
+| I | 3.00% | ~27,037 |
+| Engineer | 3.00% | ~27,037 |
+| Healthy Obsession | 3.00% | ~27,037 |
+| Resurgence | 3.00% | ~27,037 |
+| Preemptive Strike | 3.00% | ~27,037 |
+| Humanitarian | 3.00% | ~27,037 |
+| MU/TH/UR Dearest | 3.00% | ~27,037 |
 | Blood on your hands | 2.00% | ~18,024 |
 | Apt Killer | 2.00% | ~18,024 |
 | Vulture | 2.00% | ~18,024 |
@@ -85,17 +85,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Selfless Survival | 0.90% | ~8,111 |
 | End of Days | 0.90% | ~8,111 |
 | Outrun the Overlap | 0.90% | ~8,111 |
-| Deep Cleansing | 0.80% | ~7,209 |
-| Texas BBQ | 0.80% | ~7,209 |
-| Game Over | 0.80% | ~7,209 |
-| Shrine Apparatus | 0.80% | ~7,209 |
-| Broken Bodies | 0.80% | ~7,209 |
-| Insult and Injury | 0.80% | ~7,209 |
-| Rebuilding The Borgo | 0.80% | ~7,209 |
-| Kitted Out | 0.80% | ~7,209 |
-| Party Crasher | 0.70% | ~6,308 |
-| Outrage | 0.70% | ~6,308 |
-| Hack the Mainframe | 0.70% | ~6,308 |
+| Deep Cleansing | 0.80% | ~7,210 |
+| Texas BBQ | 0.80% | ~7,210 |
+| Game Over | 0.80% | ~7,210 |
+| Shrine Apparatus | 0.80% | ~7,210 |
+| Broken Bodies | 0.80% | ~7,210 |
+| Insult and Injury | 0.80% | ~7,210 |
+| Rebuilding The Borgo | 0.80% | ~7,210 |
+| Kitted Out | 0.80% | ~7,210 |
+| Party Crasher | 0.70% | ~6,309 |
+| Outrage | 0.70% | ~6,309 |
+| Hack the Mainframe | 0.70% | ~6,309 |
 | Blood in your mouth | 0.60% | ~5,407 |
 | Whiffing to Success | 0.60% | ~5,407 |
 | Heavy Burden | 0.60% | ~5,407 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~901 |
 | Adept Ripley | 0.10% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 901,179 (Ranked 14)  
+Progressed: 901,217 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-22 | 895,442 | 49 |
 | 2023-09-23 | 898,059 | 49 |
 | 2023-09-24 | 900,602 | 49 |
-| 2023-09-25 | 901,179 | 49 |
+| 2023-09-25 | 901,217 | 49 |
 ## Awards
 Max (Diverse Characters): 33,007  (Ranked 15)  
 Sum: 256,882 (Ranked 11)  

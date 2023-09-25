@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -736,17 +736,17 @@
       "ID": "achievement_123",
       "SetID": "d252ncf",
       "Name": "Long Service Medal",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 125,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_125",
@@ -912,9 +912,9 @@
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_3",
@@ -1548,8 +1548,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:04:44.4474367+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:04:32.2479571+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:59:49.7493646+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:04:44.4476125+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:59:29.3985522+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:04:32.2481624+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66167,
+  "EOS_Progressed": 66169,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15827,6 +15827,11 @@
       "Time": "2023-09-25T09:06:12.1051126+00:00",
       "NumProgressed": 66167,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T10:05:44.0385816+00:00",
+      "NumProgressed": 66169,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15838,7 +15843,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27790
+      "UsersEstimate": 27791
     },
     {
       "ID": "02",
@@ -15846,7 +15851,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17203
+      "UsersEstimate": 17204
     },
     {
       "ID": "03",
@@ -15854,7 +15859,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17203
+      "UsersEstimate": 17204
     },
     {
       "ID": "04",
@@ -15950,7 +15955,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7278
+      "UsersEstimate": 7279
     },
     {
       "ID": "16",
@@ -15958,7 +15963,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "17",
@@ -15966,7 +15971,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "18",
@@ -16006,7 +16011,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9263
+      "UsersEstimate": 9264
     },
     {
       "ID": "23",
@@ -16046,7 +16051,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9263
+      "UsersEstimate": 9264
     },
     {
       "ID": "28",
@@ -16078,7 +16083,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11248
+      "UsersEstimate": 11249
     },
     {
       "ID": "32",
@@ -16086,7 +16091,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21173
+      "UsersEstimate": 21174
     },
     {
       "ID": "33",
@@ -16102,7 +16107,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7278
+      "UsersEstimate": 7279
     },
     {
       "ID": "35",
@@ -16158,7 +16163,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11248
+      "UsersEstimate": 11249
     },
     {
       "ID": "42",
@@ -16373,21 +16378,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66167,
+      "Progressed": 66169,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29635,
+      "Progressed": 29637,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:06:12.1051121+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:05:44.0385812+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:01:08.8371519+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:06:12.10524+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:00:32.1523996+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:05:44.0387448+00:00"
 }

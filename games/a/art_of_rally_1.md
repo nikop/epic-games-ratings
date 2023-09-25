@@ -6,20 +6,20 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,845 |
-| keep it tidy | 77.00% | ~7,896 |
+| light attack | 96.00% | ~9,846 |
+| keep it tidy | 77.00% | ~7,897 |
 | podium | 72.00% | ~7,384 |
-| medium attack | 60.00% | ~6,153 |
-| brail | 57.00% | ~5,845 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,307 |
+| medium attack | 60.00% | ~6,154 |
+| brail | 57.00% | ~5,846 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,308 |
 | grocery-getter | 40.00% | ~4,102 |
-| rwd only | 26.00% | ~2,666 |
-| food tour: pasta | 26.00% | ~2,666 |
+| rwd only | 26.00% | ~2,667 |
+| food tour: pasta | 26.00% | ~2,667 |
 | to finish first, first you must finish | 21.00% | ~2,154 |
 | autopilot | 21.00% | ~2,154 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,154 |
 | turbo | 20.00% | ~2,051 |
-| food tour: pretzel | 19.00% | ~1,948 |
+| food tour: pretzel | 19.00% | ~1,949 |
 | bicycle race | 15.00% | ~1,538 |
 | car wash | 15.00% | ~1,538 |
 | monster | 14.00% | ~1,436 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,255 (Ranked 138)  
+Progressed: 10,256 (Ranked 138)  
 Completed: 9 (0.09%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 9 (0.09%) (Ranked 237)
 | 2023-09-22 | 10,250 | 9 |
 | 2023-09-23 | 10,253 | 9 |
 | 2023-09-24 | 10,255 | 9 |
+| 2023-09-25 | 10,256 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

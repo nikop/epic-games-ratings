@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -282,6 +282,11 @@
       "Time": "2023-09-25T08:03:18.2340476+00:00",
       "NumProgressed": 180,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T10:03:20.2166548+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -294,7 +299,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_eou1",
@@ -310,7 +315,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_eou3",
@@ -397,14 +402,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:03:17.7215344+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:03:20.2166541+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:59:25.3656643+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:03:17.721548+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:59:08.0132181+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:03:20.2166694+00:00"
 }

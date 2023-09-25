@@ -1,14 +1,14 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 281)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~21,597 |
-| The Evilest Evil | 58.00% | ~18,154 |
-| Twistram is devastated | 57.00% | ~17,841 |
+| The Shadow strikes | 69.00% | ~21,598 |
+| The Evilest Evil | 58.00% | ~18,155 |
+| Twistram is devastated | 57.00% | ~17,842 |
 | The Gehenna Stones | 49.00% | ~15,337 |
 | No one has to die today! | 46.00% | ~14,398 |
 | Death and destruction! | 45.00% | ~14,085 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~626 |
 | Sacrifices! | 2.00% | ~626 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,300 (Ranked 107)  
+Progressed: 31,301 (Ranked 107)  
 Completed: 259 (0.83%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 259 (0.83%) (Ranked 139)
 | 2023-09-22 | 31,046 | 253 |
 | 2023-09-23 | 31,170 | 256 |
 | 2023-09-24 | 31,277 | 258 |
-| 2023-09-25 | 31,300 | 259 |
+| 2023-09-25 | 31,301 | 259 |
 ## Awards
 Max (Great for Beginners): 351  (Ranked 229)  
 Sum: 2,652 (Ranked 175)  

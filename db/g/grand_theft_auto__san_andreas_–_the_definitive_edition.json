@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1030,9 +1030,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12867,
+  "EOS_Progressed": 12868,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -11515,6 +11515,11 @@
       "Time": "2023-09-25T08:08:14.5214238+00:00",
       "NumProgressed": 12867,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-25T10:07:22.6448698+00:00",
+      "NumProgressed": 12868,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -11526,7 +11531,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10422
+      "UsersEstimate": 10423
     },
     {
       "ID": "ACH02",
@@ -11646,7 +11651,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "ACH17",
@@ -11805,7 +11810,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12867,
+      "Progressed": 12868,
       "Completed": 45
     }
   ],
@@ -11813,8 +11818,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-25T05:58:00.4592712+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:08:09.828745+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:07:22.6448694+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:58:15.95335+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:08:09.8288154+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:58:16.1392643+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:07:22.644949+00:00"
 }

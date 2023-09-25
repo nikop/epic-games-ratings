@@ -4,8 +4,8 @@
   "ProductSlug": "falling-frontier-cff16c",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.4346381+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:57:07.8940716+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:05:35.0775753+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:57:24.0172446+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:05:13.7421953+00:00"
 }

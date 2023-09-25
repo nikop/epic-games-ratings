@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 107,
@@ -2674,9 +2674,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31300,
+  "EOS_Progressed": 31301,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -19884,6 +19884,11 @@
       "Time": "2023-09-25T09:08:24.7323554+00:00",
       "NumProgressed": 31300,
       "NumCompleted": 259
+    },
+    {
+      "Time": "2023-09-25T10:08:14.6510547+00:00",
+      "NumProgressed": 31301,
+      "NumCompleted": 259
     }
   ],
   "TotalAchievements": 60,
@@ -19895,7 +19900,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 18154
+      "UsersEstimate": 18155
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -19911,7 +19916,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17841
+      "UsersEstimate": 17842
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -20295,7 +20300,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21597
+      "UsersEstimate": 21598
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -20374,15 +20379,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31300,
+      "Progressed": 31301,
       "Completed": 259
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-23T17:03:11.8766153+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:08:24.7323547+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:08:14.651054+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.6938944+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:57:50.2127043+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:08:24.7324813+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:57:53.7285063+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:08:14.6512143+00:00"
 }

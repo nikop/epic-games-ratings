@@ -8,7 +8,7 @@
 | Spectre Inductee | 84.00% | ~296 |
 | Medal of Exploration I | 76.00% | ~268 |
 | Search and Rescue | 74.00% | ~260 |
-| Recruit | 72.00% | ~253 |
+| Recruit | 73.00% | ~257 |
 | Quarian Ally | 67.00% | ~236 |
 | Medal of Heroism | 65.00% | ~229 |
 | Honorarium of Corporate Service | 65.00% | ~229 |
@@ -20,7 +20,7 @@
 | Charismatic | 55.00% | ~194 |
 | Soldier | 54.00% | ~190 |
 | Medal of Exploration III | 54.00% | ~190 |
-| Asari Ally | 52.00% | ~183 |
+| Asari Ally | 53.00% | ~187 |
 | Principled | 52.00% | ~183 |
 | Colonial Savior | 50.00% | ~176 |
 | Soldier Ally | 49.00% | ~172 |
@@ -107,12 +107,12 @@
 | Barrier Mastery | 11.00% | ~39 |
 | Combined Arms | 11.00% | ~39 |
 | Lift Mastery | 11.00% | ~39 |
+| Long Service Medal | 10.00% | ~35 |
 | Overload Specialist | 10.00% | ~35 |
 | Executioner | 10.00% | ~35 |
 | Patriot | 10.00% | ~35 |
 | Legend | 10.00% | ~35 |
 | Always Prepared | 9.00% | ~32 |
-| Long Service Medal | 9.00% | ~32 |
 | Hijacker | 8.00% | ~28 |
 | Paramour III | 8.00% | ~28 |
 | Bruiser | 8.00% | ~28 |

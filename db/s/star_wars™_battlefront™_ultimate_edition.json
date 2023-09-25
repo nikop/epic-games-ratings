@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 77,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -361,6 +361,11 @@
       "Time": "2023-09-25T08:05:22.2356934+00:00",
       "NumProgressed": 161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T10:05:27.5868326+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -429,7 +434,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_17",
@@ -443,9 +448,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_19",
@@ -453,7 +458,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_2",
@@ -469,7 +474,7 @@
       "Name": "Collector",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_21",
@@ -477,7 +482,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_22",
@@ -493,7 +498,7 @@
       "Name": "Determined",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_24",
@@ -517,7 +522,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_27",
@@ -597,7 +602,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_36",
@@ -677,7 +682,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_45",
@@ -861,7 +866,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_9",
@@ -876,13 +881,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 1
     }
   ],
@@ -890,8 +895,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:05:51.6863718+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:05:27.5868319+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:01:35.8400149+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:05:51.6864284+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:00:54.412289+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:05:27.5869016+00:00"
 }

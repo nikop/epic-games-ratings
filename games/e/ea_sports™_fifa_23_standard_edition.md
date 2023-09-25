@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 79.00% | ~82,945 |
-| Dead-ball specialist | 68.00% | ~71,396 |
-| European Legend | 54.00% | ~56,697 |
-| Let the Games Begin | 53.00% | ~55,647 |
-| Multitasking | 53.00% | ~55,647 |
-| High Grades | 52.00% | ~54,597 |
-| A Moment of Your Time | 50.00% | ~52,497 |
-| Balanced Path | 50.00% | ~52,497 |
-| Aiming High | 47.00% | ~49,347 |
-| Tactical Tinkerer | 46.00% | ~48,297 |
-| Squad Building Connoisseur | 45.00% | ~47,247 |
-| Intuition and Execution | 43.00% | ~45,147 |
-| The Winning Formula | 42.00% | ~44,097 |
-| Parking the Bus | 33.00% | ~34,648 |
-| Safe House | 31.00% | ~32,548 |
-| The Chosen One | 26.00% | ~27,298 |
-| Best of Five | 25.00% | ~26,248 |
-| Football is Everything | 24.00% | ~25,199 |
-| Fresh Fit | 22.00% | ~23,099 |
-| Bring it on | 18.00% | ~18,899 |
-| Life-Like | 16.00% | ~16,799 |
-| Make the Grade | 14.00% | ~14,699 |
-| I Played Them All | 12.00% | ~12,599 |
-| Specialist | 12.00% | ~12,599 |
-| Teamwork works | 10.00% | ~10,499 |
-| First of Many | 10.00% | ~10,499 |
-| Momentous Achievement | 7.00% | ~7,350 |
-| Tune Your Club | 6.00% | ~6,300 |
-| Becoming Unplayable | 6.00% | ~6,300 |
-| Shop till you drop | 6.00% | ~6,300 |
-| On the way up | 6.00% | ~6,300 |
-| Volta's best | 5.00% | ~5,250 |
-| In Cahoots | 5.00% | ~5,250 |
-| Full-House | 4.00% | ~4,200 |
-| Sharing is Caring | 4.00% | ~4,200 |
-| Full wardrobe | 0.80% | ~840 |
-| Girl Power | 0.40% | ~420 |
+| Power Shot | 78.00% | ~81,998 |
+| Dead-ball specialist | 68.00% | ~71,486 |
+| European Legend | 54.00% | ~56,768 |
+| Let the Games Begin | 53.00% | ~55,717 |
+| Multitasking | 53.00% | ~55,717 |
+| High Grades | 52.00% | ~54,666 |
+| A Moment of Your Time | 50.00% | ~52,563 |
+| Balanced Path | 50.00% | ~52,563 |
+| Aiming High | 47.00% | ~49,409 |
+| Tactical Tinkerer | 46.00% | ~48,358 |
+| Squad Building Connoisseur | 45.00% | ~47,307 |
+| Intuition and Execution | 43.00% | ~45,204 |
+| The Winning Formula | 42.00% | ~44,153 |
+| Parking the Bus | 33.00% | ~34,692 |
+| Safe House | 31.00% | ~32,589 |
+| The Chosen One | 26.00% | ~27,333 |
+| Best of Five | 25.00% | ~26,282 |
+| Football is Everything | 24.00% | ~25,230 |
+| Fresh Fit | 22.00% | ~23,128 |
+| Bring it on | 18.00% | ~18,923 |
+| Life-Like | 16.00% | ~16,820 |
+| Make the Grade | 14.00% | ~14,718 |
+| I Played Them All | 12.00% | ~12,615 |
+| Specialist | 12.00% | ~12,615 |
+| Teamwork works | 10.00% | ~10,513 |
+| First of Many | 10.00% | ~10,513 |
+| Momentous Achievement | 7.00% | ~7,359 |
+| Tune Your Club | 6.00% | ~6,308 |
+| Becoming Unplayable | 6.00% | ~6,308 |
+| Shop till you drop | 6.00% | ~6,308 |
+| On the way up | 6.00% | ~6,308 |
+| Volta's best | 5.00% | ~5,256 |
+| In Cahoots | 5.00% | ~5,256 |
+| Full-House | 4.00% | ~4,205 |
+| Sharing is Caring | 4.00% | ~4,205 |
+| Full wardrobe | 0.80% | ~841 |
+| Girl Power | 0.40% | ~421 |
 | Training Addict | 0.10% | ~105 |
 | Dazzling Personality | 0.10% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104,994 (Ranked 76)  
+Progressed: 105,126 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,17 +56,17 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 79,458 | 0 |
 | 2023-09-23 | 93,969 | 0 |
 | 2023-09-24 | 103,575 | 0 |
-| 2023-09-25 | 104,994 | 0 |
+| 2023-09-25 | 105,126 | 0 |
 ## Awards
 Max (Diverse Characters): 19,737  (Ranked 19)  
-Sum: 100,605 (Ranked 14)  
+Sum: 100,622 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 19,737 |
 | This game is Highly Recommended | 13,894 |
 | This game has a Competitive Community | 13,050 |
-| This game has Amazing Characters | 11,382 |
+| This game has Amazing Characters | 11,399 |
 | This game is Extremely Fun | 10,982 |
 | This game has Competitive Players | 10,926 |
 | This game has Amazing Storytelling | 10,730 |
@@ -338,4 +338,4 @@ Diff (max vs sum): 5
 | 2023-09-22 | 4.26 | 19,658 | 100,235 |
 | 2023-09-23 | 4.26 | 19,698 | 100,407 |
 | 2023-09-24 | 4.26 | 19,737 | 100,560 |
-| 2023-09-25 | 4.26 | 19,737 | 100,605 |
+| 2023-09-25 | 4.26 | 19,737 | 100,622 |

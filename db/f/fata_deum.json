@@ -4,8 +4,8 @@
   "ProductSlug": "fata-deum-157c7d",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:00:30.4896056+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:01:40.4229579+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:06:04.1758403+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:00:59.1870401+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:05:37.7757459+00:00"
 }

@@ -41,6 +41,7 @@
 | Rambo III | 6.00% | ~4 |
 | Diligent | 6.00% | ~4 |
 | Omicron Beta | 6.00% | ~4 |
+| No Peace | 6.00% | ~4 |
 | Food Poisoning | 6.00% | ~4 |
 | Wicked Sick | 6.00% | ~4 |
 | 50Gb HDD | 6.00% | ~4 |
@@ -50,7 +51,6 @@
 | Rambo IV | 5.00% | ~3 |
 | Curious | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
-| No Peace | 5.00% | ~3 |
 | Bird of Prey | 5.00% | ~3 |
 | Usurper II | 5.00% | ~3 |
 | Silver Foundation | 5.00% | ~3 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -695,9 +695,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3162,
+  "EOS_Progressed": 3163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5585,6 +5585,11 @@
       "Time": "2023-09-25T07:05:08.5984629+00:00",
       "NumProgressed": 3162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T10:05:11.500439+00:00",
+      "NumProgressed": 3163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5637,7 +5642,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -5645,7 +5650,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5725,7 +5730,7 @@
       "Name": "On this Episode!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -5757,7 +5762,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -5780,15 +5785,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3162,
+      "Progressed": 3163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-24T01:47:09.2879439+00:00",
-  "LastChanged_Achievements": "2023-09-25T09:05:32.3302527+00:00",
+  "LastChanged_Achievements": "2023-09-25T10:05:11.5004386+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-25T08:57:07.5661905+00:00",
-  "LastUpdate_Achievements": "2023-09-25T09:05:32.3302883+00:00"
+  "LastUpdate_Ratings": "2023-09-25T09:57:23.8083768+00:00",
+  "LastUpdate_Achievements": "2023-09-25T10:05:11.5004849+00:00"
 }
