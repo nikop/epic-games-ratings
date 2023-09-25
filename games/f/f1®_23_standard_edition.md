@@ -5,21 +5,21 @@ Rating: 4.67 (Ranked 261)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~1,760 |
-| On the Top Step | 86.00% | ~1,628 |
+| Getting on the Step | 93.00% | ~1,761 |
+| On the Top Step | 86.00% | ~1,629 |
 | Setting up for Success | 75.00% | ~1,420 |
-| Team Orders | 73.00% | ~1,382 |
-| Engineer | 54.00% | ~1,022 |
+| Team Orders | 73.00% | ~1,383 |
+| Engineer | 54.00% | ~1,023 |
 | Familiar Faces | 47.00% | ~890 |
 | Going the Extra Mile | 42.00% | ~795 |
-| Sharing the Love | 38.00% | ~719 |
+| Sharing the Love | 38.00% | ~720 |
 | Hitting a Season | 34.00% | ~644 |
 | Challenge Yourself | 32.00% | ~606 |
 | Making History | 31.00% | ~587 |
 | A Dozen Pieces | 29.00% | ~549 |
-| Writing a new Chapter | 24.00% | ~454 |
-| Spring Cleaning | 23.00% | ~435 |
-| Network Success | 23.00% | ~435 |
+| Writing a new Chapter | 24.00% | ~455 |
+| Spring Cleaning | 23.00% | ~436 |
+| Network Success | 23.00% | ~436 |
 | Reduce | 18.00% | ~341 |
 | Ups and Downs | 18.00% | ~341 |
 | Crucial Combo | 17.00% | ~322 |
@@ -37,7 +37,7 @@ Rating: 4.67 (Ranked 261)
 | Recycle | 11.00% | ~208 |
 | Switcheroo | 10.00% | ~189 |
 | Undisputed Winner | 9.00% | ~170 |
-| Friendly Competition | 8.00% | ~151 |
+| Friendly Competition | 8.00% | ~152 |
 | For all Those Back at the Factory | 7.00% | ~133 |
 | Loyal Bond | 6.00% | ~114 |
 | Living up to Expectations | 6.00% | ~114 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 261)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,893 (Ranked 200)  
+Progressed: 1,894 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 1,316 | 0 |
 | 2023-09-23 | 1,614 | 0 |
 | 2023-09-24 | 1,871 | 0 |
-| 2023-09-25 | 1,893 | 0 |
+| 2023-09-25 | 1,894 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

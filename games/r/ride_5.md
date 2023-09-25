@@ -10,8 +10,8 @@
 | Eat My Dust | 37.00% | ~413 |
 | Rivals to the End | 30.00% | ~335 |
 | We're Going to Need a Bigger Garage | 25.00% | ~279 |
+| I'm Here Too! | 23.00% | ~257 |
 | Bitter Rivalry | 23.00% | ~257 |
-| I'm Here Too! | 22.00% | ~246 |
 | Champagne Spray | 20.00% | ~223 |
 | Restored and Ready | 18.00% | ~201 |
 | I Want One Too! | 18.00% | ~201 |

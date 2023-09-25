@@ -42,8 +42,8 @@
 | The Convict | 36.00% | ~126 |
 | The Krogan | 36.00% | ~126 |
 | The Professor | 36.00% | ~126 |
+| Colony Defense | 35.00% | ~123 |
 | Galactic Explorer | 35.00% | ~123 |
-| Colony Defense | 34.00% | ~119 |
 | Broke, Blind, and Bedlam | 33.00% | ~116 |
 | The Justicar | 32.00% | ~112 |
 | Ghost Ship | 31.00% | ~109 |
@@ -71,10 +71,10 @@
 | First Aid Specialist | 26.00% | ~91 |
 | Friend or Foe | 26.00% | ~91 |
 | Mobilizer | 26.00% | ~91 |
+| Untouchable | 25.00% | ~88 |
 | Eye of the Hurricane | 25.00% | ~88 |
 | Suicide Mission | 25.00% | ~88 |
 | Weapon Specialist | 25.00% | ~88 |
-| Untouchable | 24.00% | ~84 |
 | Mission Accomplished | 24.00% | ~84 |
 | Against All Odds | 24.00% | ~84 |
 | A House Divided | 24.00% | ~84 |

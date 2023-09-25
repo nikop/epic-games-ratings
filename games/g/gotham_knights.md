@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,862 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,484 |
+| First Step Into the Knight | 52.00% | ~37,863 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,485 |
 | Loose Ends | 34.00% | ~24,756 |
-| To the Victor Go the Spoils | 29.00% | ~21,115 |
-| Knighthood | 28.00% | ~20,387 |
+| To the Victor Go the Spoils | 29.00% | ~21,116 |
+| Knighthood | 28.00% | ~20,388 |
 | Get ReQ'd | 25.00% | ~18,203 |
 | Whispered Words | 25.00% | ~18,203 |
 | The Batman Family | 23.00% | ~16,747 |
 | Lock and Key | 23.00% | ~16,747 |
 | Something in the Clay | 21.00% | ~15,291 |
 | Quartzer Life Crisis | 21.00% | ~15,291 |
-| Working Hard or Harley Working? | 20.00% | ~14,562 |
-| Unstoppable Force | 20.00% | ~14,562 |
-| Bad Apples in Every Orchard | 20.00% | ~14,562 |
+| Working Hard or Harley Working? | 20.00% | ~14,563 |
+| Unstoppable Force | 20.00% | ~14,563 |
+| Bad Apples in Every Orchard | 20.00% | ~14,563 |
 | Snow Problem | 19.00% | ~13,834 |
 | The Show Mud Go On | 18.00% | ~13,106 |
 | From Inside Gotham's Walls | 18.00% | ~13,106 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 890)
 | Seeking Asylum | 14.00% | ~10,194 |
 | Not On My Watch | 13.00% | ~9,466 |
 | Shock Til They Drop | 13.00% | ~9,466 |
-| End of an Era | 12.00% | ~8,737 |
-| Bulldozed | 12.00% | ~8,737 |
-| Gotham Knight | 12.00% | ~8,737 |
+| End of an Era | 12.00% | ~8,738 |
+| Bulldozed | 12.00% | ~8,738 |
+| Gotham Knight | 12.00% | ~8,738 |
 | Gotham City Confidential | 11.00% | ~8,009 |
 | Drone You Out | 10.00% | ~7,281 |
 | Out of Their League | 9.00% | ~6,553 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 890)
 | Family Meeting | 6.00% | ~4,369 |
 | A Worthy Successor | 6.00% | ~4,369 |
 | Expert Crime Fighter | 5.00% | ~3,641 |
-| Dressed to Impress | 4.00% | ~2,912 |
+| Dressed to Impress | 4.00% | ~2,913 |
 | A Momentum Occasion | 3.00% | ~2,184 |
 | Bat Out of Hell | 3.00% | ~2,184 |
 | Practice Makes Perfect | 2.00% | ~1,456 |
@@ -52,7 +52,7 @@ Rating: 4.18 (Ranked 890)
 | Batarang Collector | 1.00% | ~728 |
 | Claiming the Mural High Ground | 1.00% | ~728 |
 | Icebreaker | 0.80% | ~345 |
-| History Major | 0.80% | ~582 |
+| History Major | 0.80% | ~583 |
 | A Sophisticated Mallet | 0.80% | ~345 |
 | Read Owl About It | 0.70% | ~510 |
 | Gotham's Greatest Depths | 0.60% | ~259 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 890)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,812 (Ranked 84)  
+Progressed: 72,813 (Ranked 84)  
 Completed: 117 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,10 +225,10 @@ Completed: 117 (0.16%) (Ranked 215)
 | 2023-09-22 | 72,737 | 116 |
 | 2023-09-23 | 72,766 | 117 |
 | 2023-09-24 | 72,808 | 117 |
-| 2023-09-25 | 72,812 | 117 |
+| 2023-09-25 | 72,813 | 117 |
 ## Awards
 Max (Great Boss Battles): 2,742  (Ranked 96)  
-Sum: 4,566 (Ranked 139)  
+Sum: 4,568 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -239,7 +239,7 @@ Diff (max vs sum): -43
 | This game has Diverse Characters | 229 |
 | This game has Amazing Storytelling | 225 |
 | This game is Highly Recommended | 225 |
-| This game has Amazing Characters | 222 |
+| This game has Amazing Characters | 224 |
 | This game is Great for Beginners | 222 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -457,4 +457,4 @@ Diff (max vs sum): -43
 | 2023-09-22 | 4.18 | 2,731 | 4,543 |
 | 2023-09-23 | 4.18 | 2,731 | 4,548 |
 | 2023-09-24 | 4.18 | 2,742 | 4,565 |
-| 2023-09-25 | 4.18 | 2,742 | 4,566 |
+| 2023-09-25 | 4.18 | 2,742 | 4,568 |

@@ -3078,10 +3078,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4566,
       "NumberOfAwardsMax": 2742
+    },
+    {
+      "Time": "2023-09-25T04:57:34.0239818+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4568,
+      "NumberOfAwardsMax": 2742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4566,
+  "NumberOfAwards": 4568,
   "NumberOfAwardsMax": 2742,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3101,7 +3107,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 222
+      "Count": 224
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3146,7 +3152,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72812,
+  "EOS_Progressed": 72813,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 4,
@@ -16571,6 +16577,11 @@
       "Time": "2023-09-25T04:07:05.4626857+00:00",
       "NumProgressed": 72812,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-25T05:06:18.607969+00:00",
+      "NumProgressed": 72813,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16662,7 +16673,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8737
+      "UsersEstimate": 8738
     },
     {
       "ID": "APPLY_STATUS",
@@ -16718,7 +16729,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -16758,7 +16769,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8737
+      "UsersEstimate": 8738
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16806,7 +16817,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21115
+      "UsersEstimate": 21116
     },
     {
       "ID": "FREEZE_1_5",
@@ -16870,7 +16881,7 @@
       "Name": "History Major",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -16886,7 +16897,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25484
+      "UsersEstimate": 25485
     },
     {
       "ID": "HARLEY_2",
@@ -16902,7 +16913,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14562
+      "UsersEstimate": 14563
     },
     {
       "ID": "HARLEY_4",
@@ -16926,7 +16937,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37862
+      "UsersEstimate": 37863
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16950,7 +16961,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14562
+      "UsersEstimate": 14563
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -16958,7 +16969,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20387
+      "UsersEstimate": 20388
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -16998,7 +17009,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14562
+      "UsersEstimate": 14563
     },
     {
       "ID": "MYSTERY_05",
@@ -17030,7 +17041,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8737
+      "UsersEstimate": 8738
     },
     {
       "ID": "SECRET_CACHE",
@@ -17069,22 +17080,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72812,
+      "Progressed": 72813,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43092,
+      "Progressed": 43093,
       "Completed": 2667
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-25T02:14:15.4080923+00:00",
-  "LastChanged_Achievements": "2023-09-25T04:07:05.4626851+00:00",
+  "LastChanged": "2023-09-25T04:57:34.0239816+00:00",
+  "LastChanged_Achievements": "2023-09-25T05:06:18.6079684+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-25T03:57:59.8865342+00:00",
-  "LastUpdate_Achievements": "2023-09-25T04:07:05.4628144+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:57:34.0239824+00:00",
+  "LastUpdate_Achievements": "2023-09-25T05:06:18.6081127+00:00"
 }

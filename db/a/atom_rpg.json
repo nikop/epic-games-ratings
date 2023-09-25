@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1233,
+  "EOS_Progressed": 1234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2600,6 +2600,11 @@
       "Time": "2023-09-25T02:21:53.1175716+00:00",
       "NumProgressed": 1233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T05:05:29.8021588+00:00",
+      "NumProgressed": 1234,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2667,7 +2672,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "EXPERT_1",
@@ -2771,7 +2776,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "PACIFIST",
@@ -2898,15 +2903,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1233,
+      "Progressed": 1234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-25T04:06:08.1538077+00:00",
+  "LastChanged_Achievements": "2023-09-25T05:05:29.8021581+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-25T03:59:28.3570413+00:00",
-  "LastUpdate_Achievements": "2023-09-25T04:06:08.1538544+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:58:44.4908633+00:00",
+  "LastUpdate_Achievements": "2023-09-25T05:05:29.802216+00:00"
 }

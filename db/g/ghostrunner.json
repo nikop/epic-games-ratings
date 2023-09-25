@@ -1132,18 +1132,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 711,
       "NumberOfAwardsMax": 496
+    },
+    {
+      "Time": "2023-09-25T05:01:02.6046688+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 712,
+      "NumberOfAwardsMax": 497
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 711,
-  "NumberOfAwardsMax": 496,
+  "NumberOfAwards": 712,
+  "NumberOfAwardsMax": 497,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 496
+      "Count": 497
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1200,9 +1206,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18795,
+  "EOS_Progressed": 18796,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18290,6 +18296,11 @@
       "Time": "2023-09-25T04:06:09.3822858+00:00",
       "NumProgressed": 18795,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-25T05:05:31.0909705+00:00",
+      "NumProgressed": 18796,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 45,
@@ -18325,7 +18336,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 6766
+      "UsersEstimate": 6767
     },
     {
       "ID": "CantRunCantHide",
@@ -18437,7 +18448,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "MoreThanHuman",
@@ -18445,7 +18456,7 @@
       "Name": "More than human",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "Neuromancer",
@@ -18493,7 +18504,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "PreempativeStrike",
@@ -18501,7 +18512,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "PushItToTheLimit",
@@ -18525,7 +18536,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10149
+      "UsersEstimate": 10150
     },
     {
       "ID": "RunningWild",
@@ -18565,7 +18576,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "SwordRunner",
@@ -18573,7 +18584,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11465
+      "UsersEstimate": 11466
     },
     {
       "ID": "SwordToAGunfight",
@@ -18621,7 +18632,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 9961
+      "UsersEstimate": 9962
     },
     {
       "ID": "WaveOfMutilation",
@@ -18653,28 +18664,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 18795,
+      "Progressed": 18796,
       "Completed": 45
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 18795,
+      "Progressed": 18796,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
-  "LastChanged": "2023-09-23T15:00:52.5746057+00:00",
-  "LastChanged_Achievements": "2023-09-25T04:06:09.3822854+00:00",
+  "LastChanged": "2023-09-25T05:01:02.6046686+00:00",
+  "LastChanged_Achievements": "2023-09-25T05:05:31.0909698+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.6439511+00:00",
-  "LastUpdate_Ratings": "2023-09-25T04:02:18.6617251+00:00",
-  "LastUpdate_Achievements": "2023-09-25T04:06:09.3824867+00:00"
+  "LastUpdate_Ratings": "2023-09-25T05:01:02.6046694+00:00",
+  "LastUpdate_Achievements": "2023-09-25T05:05:31.0911166+00:00"
 }

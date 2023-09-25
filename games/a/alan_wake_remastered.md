@@ -1,28 +1,28 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,787 |
-| Let There Be Light | 34.00% | ~22,494 |
-| Float Like a Butterfly | 32.00% | ~21,171 |
-| Nordic Walking | 26.00% | ~17,201 |
-| Bright Falls' Finest | 26.00% | ~17,201 |
+| Follow the Light | 42.00% | ~27,788 |
+| Let There Be Light | 34.00% | ~22,495 |
+| Float Like a Butterfly | 32.00% | ~21,172 |
+| Nordic Walking | 26.00% | ~17,202 |
+| Bright Falls' Finest | 26.00% | ~17,202 |
 | Under a Thin Layer of Skin | 22.00% | ~14,555 |
-| Paging Mr. Wake | 19.00% | ~12,570 |
+| Paging Mr. Wake | 19.00% | ~12,571 |
 | Park Ranger | 18.00% | ~11,909 |
 | Back! Back, I Say! | 17.00% | ~11,247 |
 | Finders Keepers | 17.00% | ~11,247 |
-| Sound and Fury | 16.00% | ~10,585 |
-| Damn Good Cup of Coffee | 16.00% | ~10,585 |
+| Sound and Fury | 16.00% | ~10,586 |
+| Damn Good Cup of Coffee | 16.00% | ~10,586 |
 | Wheels Within Wheels | 15.00% | ~9,924 |
 | They're Heeeeeere! | 15.00% | ~9,924 |
 | Missed by a Mile | 15.00% | ~9,924 |
-| The Six-Gun Scribe | 14.00% | ~9,262 |
-| Collateral Carnage | 14.00% | ~9,262 |
+| The Six-Gun Scribe | 14.00% | ~9,263 |
+| Collateral Carnage | 14.00% | ~9,263 |
 | Heavy Metal | 13.00% | ~8,601 |
 | Iron Horse | 13.00% | ~8,601 |
 | Perchance to Dream | 13.00% | ~8,601 |
@@ -31,8 +31,8 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 12.00% | ~7,939 |
 | Thunder and Lightning | 12.00% | ~7,939 |
 | Two For the Price of One | 12.00% | ~7,939 |
-| The Lady of the Light | 11.00% | ~7,277 |
-| Energized! | 11.00% | ~7,277 |
+| The Lady of the Light | 11.00% | ~7,278 |
+| Energized! | 11.00% | ~7,278 |
 | Right of Way | 10.00% | ~6,616 |
 | What Light Through Yonder Window | 9.00% | ~5,954 |
 | Tornado Wrangler | 8.00% | ~5,293 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,159 (Ranked 89)  
+Progressed: 66,161 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 66 (0.10%) (Ranked 233)
 | 2023-09-22 | 65,981 | 66 |
 | 2023-09-23 | 66,060 | 66 |
 | 2023-09-24 | 66,142 | 66 |
-| 2023-09-25 | 66,159 | 66 |
+| 2023-09-25 | 66,161 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

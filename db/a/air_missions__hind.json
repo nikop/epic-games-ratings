@@ -4,7 +4,7 @@
   "ProductSlug": "air-missions-hind",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-27T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.3933638+00:00",
   "LastChanged": "2023-03-31T05:58:09.3933639+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:13.8787857+00:00",
-  "LastUpdate_Ratings": "2023-09-25T03:58:26.3249075+00:00",
-  "LastUpdate_Achievements": "2023-09-25T04:09:08.3771069+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:57:55.3612509+00:00",
+  "LastUpdate_Achievements": "2023-09-25T05:08:13.3847935+00:00"
 }

@@ -6,47 +6,47 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,068 |
-| Zealous | 6.00% | ~54,058 |
-| Skillful | 6.00% | ~54,058 |
-| Not half bad | 5.00% | ~45,048 |
-| Make Some Noise | 5.00% | ~45,048 |
-| No one left behind | 4.00% | ~36,039 |
-| Handyman | 4.00% | ~36,039 |
-| Nerves of steel | 4.00% | ~36,039 |
-| Apt Survivor | 4.00% | ~36,039 |
-| Survival Treasures | 4.00% | ~36,039 |
-| Sorted | 4.00% | ~36,039 |
-| The Grand Sacrifice | 3.00% | ~27,029 |
-| Agonizing Escape | 3.00% | ~27,029 |
-| Backdoor Escape | 3.00% | ~27,029 |
-| I've got your back | 3.00% | ~27,029 |
-| Medic | 3.00% | ~27,029 |
-| Perfect Escape | 3.00% | ~27,029 |
-| Perfect Killing | 3.00% | ~27,029 |
-| Bloody Millionaire | 3.00% | ~27,029 |
-| Risk it all | 3.00% | ~27,029 |
-| I | 3.00% | ~27,029 |
-| Engineer | 3.00% | ~27,029 |
-| Healthy Obsession | 3.00% | ~27,029 |
-| Resurgence | 3.00% | ~27,029 |
-| Preemptive Strike | 3.00% | ~27,029 |
-| Humanitarian | 3.00% | ~27,029 |
-| MU/TH/UR Dearest | 3.00% | ~27,029 |
-| Blood on your hands | 2.00% | ~18,019 |
-| Apt Killer | 2.00% | ~18,019 |
-| Vulture | 2.00% | ~18,019 |
-| II | 2.00% | ~18,019 |
-| III | 2.00% | ~18,019 |
-| Cherish your Life | 2.00% | ~18,019 |
-| Wounded Healer | 2.00% | ~18,019 |
-| First to the Punch | 2.00% | ~18,019 |
-| Every Last Drop | 2.00% | ~18,019 |
-| Close Shave | 2.00% | ~18,019 |
-| With Scars to Show | 2.00% | ~18,019 |
-| Flight to Freedom | 2.00% | ~18,019 |
-| Lifting The Fog | 2.00% | ~18,019 |
-| Second Act | 2.00% | ~18,019 |
+| It wakes | 7.00% | ~63,071 |
+| Zealous | 6.00% | ~54,061 |
+| Skillful | 6.00% | ~54,061 |
+| Not half bad | 5.00% | ~45,051 |
+| Apt Survivor | 5.00% | ~45,051 |
+| Make Some Noise | 5.00% | ~45,051 |
+| No one left behind | 4.00% | ~36,041 |
+| Handyman | 4.00% | ~36,041 |
+| Nerves of steel | 4.00% | ~36,041 |
+| Survival Treasures | 4.00% | ~36,041 |
+| Sorted | 4.00% | ~36,041 |
+| The Grand Sacrifice | 3.00% | ~27,030 |
+| Agonizing Escape | 3.00% | ~27,030 |
+| Backdoor Escape | 3.00% | ~27,030 |
+| I've got your back | 3.00% | ~27,030 |
+| Medic | 3.00% | ~27,030 |
+| Perfect Escape | 3.00% | ~27,030 |
+| Perfect Killing | 3.00% | ~27,030 |
+| Bloody Millionaire | 3.00% | ~27,030 |
+| Risk it all | 3.00% | ~27,030 |
+| I | 3.00% | ~27,030 |
+| Engineer | 3.00% | ~27,030 |
+| Healthy Obsession | 3.00% | ~27,030 |
+| Resurgence | 3.00% | ~27,030 |
+| Preemptive Strike | 3.00% | ~27,030 |
+| Humanitarian | 3.00% | ~27,030 |
+| MU/TH/UR Dearest | 3.00% | ~27,030 |
+| Blood on your hands | 2.00% | ~18,020 |
+| Apt Killer | 2.00% | ~18,020 |
+| Vulture | 2.00% | ~18,020 |
+| II | 2.00% | ~18,020 |
+| III | 2.00% | ~18,020 |
+| Cherish your Life | 2.00% | ~18,020 |
+| Wounded Healer | 2.00% | ~18,020 |
+| First to the Punch | 2.00% | ~18,020 |
+| Every Last Drop | 2.00% | ~18,020 |
+| Close Shave | 2.00% | ~18,020 |
+| With Scars to Show | 2.00% | ~18,020 |
+| Flight to Freedom | 2.00% | ~18,020 |
+| Lifting The Fog | 2.00% | ~18,020 |
+| Second Act | 2.00% | ~18,020 |
 | A bite for the Entity | 1.00% | ~9,010 |
 | Blood on your face | 1.00% | ~9,010 |
 | Escape Artist | 1.00% | ~9,010 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~901 |
 | Adept Ripley | 0.10% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 900,969 (Ranked 14)  
+Progressed: 901,016 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-22 | 895,442 | 49 |
 | 2023-09-23 | 898,059 | 49 |
 | 2023-09-24 | 900,602 | 49 |
-| 2023-09-25 | 900,969 | 49 |
+| 2023-09-25 | 901,016 | 49 |
 ## Awards
 Max (Diverse Characters): 33,007  (Ranked 15)  
 Sum: 256,843 (Ranked 11)  

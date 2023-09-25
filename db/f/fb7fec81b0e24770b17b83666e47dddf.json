@@ -4,7 +4,7 @@
   "ProductSlug": "spiritle-6e2c23",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-28T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-28T07:57:19.2052508+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:06.6060766+00:00",
-  "LastUpdate_Ratings": "2023-09-25T04:00:57.5375523+00:00",
-  "LastUpdate_Achievements": "2023-09-25T04:04:10.0424951+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:59:57.0409063+00:00",
+  "LastUpdate_Achievements": "2023-09-25T05:03:38.2332307+00:00"
 }

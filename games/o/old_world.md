@@ -127,11 +127,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
 | Kushite Cavalry | 0.90% | ~127 |
-| Turreted Elephant | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
 | Learn to Play 4 | 0.80% | ~113 |
 | One True Faith | 0.80% | ~113 |
+| Turreted Elephant | 0.80% | ~113 |
 | No Undo | 0.80% | ~113 |
 | Old | 0.70% | ~99 |
 | Peacemaker | 0.70% | ~99 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,117 (Ranked 129)  
+Progressed: 14,118 (Ranked 129)  
 Completed: 5 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,7 +461,7 @@ Completed: 5 (0.04%) (Ranked 256)
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
 | 2023-09-24 | 14,110 | 5 |
-| 2023-09-25 | 14,117 | 5 |
+| 2023-09-25 | 14,118 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 265)  
 Sum: 1,818 (Ranked 207)  

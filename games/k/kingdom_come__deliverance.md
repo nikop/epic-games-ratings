@@ -20,7 +20,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Thief | 12.00% | ~96,309 |
 | Sinner | 11.00% | ~88,283 |
 | Traveller | 11.00% | ~88,283 |
-| Convict | 10.00% | ~80,257 |
+| Convict | 10.00% | ~80,258 |
 | Haggler | 9.00% | ~72,232 |
 | McLovin | 7.00% | ~56,180 |
 | Runt | 7.00% | ~56,180 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~24,077 |
 | Ginger in a Pickle | 3.00% | ~24,077 |
 | Kingdom did not come | 3.00% | ~24,077 |
-| Completionist | 2.00% | ~16,051 |
-| Death by splinter | 2.00% | ~16,051 |
-| King Charming | 2.00% | ~16,051 |
-| Knightrider | 2.00% | ~16,051 |
-| Level Cap | 2.00% | ~16,051 |
-| Arena Master | 2.00% | ~16,051 |
-| Robber Baron | 2.00% | ~16,051 |
-| Talmberger | 2.00% | ~16,051 |
-| The End | 2.00% | ~16,051 |
+| Completionist | 2.00% | ~16,052 |
+| Death by splinter | 2.00% | ~16,052 |
+| King Charming | 2.00% | ~16,052 |
+| Knightrider | 2.00% | ~16,052 |
+| Level Cap | 2.00% | ~16,052 |
+| Arena Master | 2.00% | ~16,052 |
+| Robber Baron | 2.00% | ~16,052 |
+| Talmberger | 2.00% | ~16,052 |
+| The End | 2.00% | ~16,052 |
 | Woman's Lot | 1.00% | ~8,026 |
 | Chivalrous Soul | 1.00% | ~8,026 |
 | Spoilsport | 1.00% | ~8,026 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,574 (Ranked 16)  
+Progressed: 802,575 (Ranked 16)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-22 | 802,270 | 49 |
 | 2023-09-23 | 802,404 | 49 |
 | 2023-09-24 | 802,563 | 49 |
-| 2023-09-25 | 802,574 | 49 |
+| 2023-09-25 | 802,575 | 49 |
 ## Awards
 Max (Character Customization): 7,471  (Ranked 47)  
 Sum: 27,848 (Ranked 47)  

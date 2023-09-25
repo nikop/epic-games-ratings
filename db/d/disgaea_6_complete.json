@@ -4,7 +4,7 @@
   "ProductSlug": "disgaea-6-complete",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-28T17:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:38.8729744+00:00",
   "LastChanged": "2023-03-31T05:57:38.8729745+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:23.2287321+00:00",
-  "LastUpdate_Ratings": "2023-09-25T03:58:39.3319914+00:00",
-  "LastUpdate_Achievements": "2023-09-25T04:04:54.7876246+00:00"
+  "LastUpdate_Ratings": "2023-09-25T04:58:05.6775258+00:00",
+  "LastUpdate_Achievements": "2023-09-25T05:04:26.9186635+00:00"
 }

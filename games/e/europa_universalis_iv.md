@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,552 |
-| That's a Grand Army | 3.00% | ~12,414 |
-| That is mine! | 3.00% | ~12,414 |
-| Victorious! | 3.00% | ~12,414 |
+| Until death do us apart | 4.00% | ~16,553 |
+| That's a Grand Army | 3.00% | ~12,415 |
+| That is mine! | 3.00% | ~12,415 |
+| Victorious! | 3.00% | ~12,415 |
 | Brothers in Arms | 2.00% | ~8,276 |
 | For the Glory | 2.00% | ~8,276 |
 | That's a Grand Navy | 2.00% | ~8,276 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,724 |
 | Respected | 0.90% | ~3,724 |
 | Truly Divine Ruler | 0.90% | ~3,724 |
-| Blockader | 0.80% | ~3,310 |
+| Blockader | 0.80% | ~3,311 |
 | Double the Love | 0.70% | ~2,897 |
 | Royal Authority | 0.70% | ~2,897 |
 | Total Control | 0.70% | ~2,897 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413,805 (Ranked 40)  
+Progressed: 413,820 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1 (0.00%) (Ranked 292)
 | 2023-09-22 | 411,228 | 0 |
 | 2023-09-23 | 412,558 | 0 |
 | 2023-09-24 | 413,698 | 1 |
-| 2023-09-25 | 413,805 | 1 |
+| 2023-09-25 | 413,820 | 1 |
 ## Awards
 Max (Educational): 6,250  (Ranked 56)  
 Sum: 51,334 (Ranked 24)  
