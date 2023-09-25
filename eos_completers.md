@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.55% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.49% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.40% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -30,7 +30,7 @@
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.19% |
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.10% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
 | 32 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.89% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.16% |
@@ -62,7 +62,7 @@
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.06% |
 | 62 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.00% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
 | 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.69% |
@@ -126,7 +126,7 @@
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 125 | [Trifox](games/t/trifox.md) | 1.09% |
 | 126 | [Adios](games/a/adios.md) | 1.04% |
-| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 128 | [Sable](games/s/sable.md) | 1.01% |
 | 129 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 129 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
@@ -152,16 +152,16 @@
 | 150 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.60% |
 | 151 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.59% |
 | 152 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 152 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.58% |
 | 152 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
+| 154 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.57% |
 | 155 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 155 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 155 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 158 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 159 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.53% |
-| 161 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 161 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 160 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
+| 160 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.52% |
+| 160 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 163 | [Dead Space](games/d/dead_space.md) | 0.49% |
 | 164 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
 | 165 | [Them and Us](games/t/them_and_us.md) | 0.47% |
@@ -187,9 +187,9 @@
 | 184 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 184 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 187 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 187 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.32% |
-| 189 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 188 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 188 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 188 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.31% |
 | 191 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 191 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
 | 191 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
