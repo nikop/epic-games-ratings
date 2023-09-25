@@ -12,10 +12,10 @@
 | Covert Operative | 11.00% | ~155 |
 | Lieutenant | 9.00% | ~127 |
 | Getting Deployment | 9.00% | ~127 |
+| Stocking Up | 9.00% | ~127 |
 | On Target | 9.00% | ~127 |
 | Fighting for Survival | 8.00% | ~113 |
 | Keeping Busy | 8.00% | ~113 |
-| Stocking Up | 8.00% | ~113 |
 | Infantry Reporting | 8.00% | ~113 |
 | Silver Competitor | 7.00% | ~99 |
 | Factory Expansion | 7.00% | ~99 |

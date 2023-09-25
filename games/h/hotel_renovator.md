@@ -12,7 +12,7 @@ Rating: 4.41 (Ranked 694)
 | Let there be light | 60.00% | ~626 |
 | I think you dropped this | 55.00% | ~574 |
 | Soulmate? | 54.00% | ~563 |
-| Excellent service | 49.00% | ~511 |
+| Excellent service | 50.00% | ~522 |
 | Roll with it | 47.00% | ~490 |
 | Humble beginnings | 44.00% | ~459 |
 | Love is in the air | 44.00% | ~459 |
@@ -34,7 +34,7 @@ Rating: 4.41 (Ranked 694)
 | Top spot in town | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,043 (Ranked 229)  
-Completed: 15 (1.44%) (Ranked 113)  
+Completed: 15 (1.44%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

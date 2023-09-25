@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6515,
+  "EOS_Progressed": 6516,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2562,6 +2562,11 @@
       "Time": "2023-09-25T06:03:51.7371318+00:00",
       "NumProgressed": 6515,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T08:03:40.2479951+00:00",
+      "NumProgressed": 6516,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2852,9 +2857,9 @@
       "ID": "InhibitorKills30",
       "SetID": "12d07c7",
       "Name": "Destroyed 30 Inhibitors",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "LMGUpgraded1",
@@ -3165,7 +3170,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6515,
+      "Progressed": 6516,
       "Completed": 1
     }
   ],
@@ -3173,8 +3178,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-24T07:59:49.2549087+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:03:39.3848382+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:03:40.2479948+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:59:14.1307611+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:03:39.3849357+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:59:14.8605881+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:03:40.2480978+00:00"
 }

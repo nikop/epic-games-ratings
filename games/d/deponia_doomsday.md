@@ -5,45 +5,45 @@ Rating: 4.57 (Ranked 450)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~361 |
-| And again, and again, and... | 63.00% | ~261 |
-| Burn, Elysium, burn! | 62.00% | ~257 |
-| Kuvaq Minigame-Master | 61.00% | ~253 |
-| FunScore | 55.00% | ~228 |
-| Funtime's over | 53.00% | ~220 |
-| Chunky | 50.00% | ~208 |
-| Shall we play a game? | 48.00% | ~199 |
-| Boat of love, boat of love | 48.00% | ~199 |
-| School's out | 43.00% | ~178 |
-| Elysian Minigame-Master | 38.00% | ~158 |
-| Scaffolding Expert | 37.00% | ~154 |
-| Sole Music | 36.00% | ~149 |
-| No man left behind! | 30.00% | ~124 |
-| Portals come in packs | 30.00% | ~124 |
-| Photo Friend | 26.00% | ~108 |
-| Brainfreeze | 21.00% | ~87 |
-| Masseltov | 20.00% | ~83 |
-| And everything comes full circle. | 20.00% | ~83 |
-| Quickdraw | 15.00% | ~62 |
-| Thuna...? | 14.00% | ~58 |
-| Monstrous Harassment | 14.00% | ~58 |
-| Heading the inverter | 14.00% | ~58 |
+| Huzza, he's back. | 88.00% | ~368 |
+| And again, and again, and... | 63.00% | ~263 |
+| Burn, Elysium, burn! | 62.00% | ~259 |
+| Kuvaq Minigame-Master | 61.00% | ~255 |
+| FunScore | 55.00% | ~230 |
+| Funtime's over | 53.00% | ~222 |
+| Chunky | 50.00% | ~209 |
+| Shall we play a game? | 48.00% | ~201 |
+| Boat of love, boat of love | 48.00% | ~201 |
+| School's out | 43.00% | ~180 |
+| Scaffolding Expert | 37.00% | ~155 |
+| Elysian Minigame-Master | 37.00% | ~155 |
+| Sole Music | 36.00% | ~150 |
+| No man left behind! | 30.00% | ~125 |
+| Portals come in packs | 29.00% | ~121 |
+| Photo Friend | 26.00% | ~109 |
+| Brainfreeze | 21.00% | ~88 |
+| And everything comes full circle. | 20.00% | ~84 |
+| Masseltov | 19.00% | ~79 |
+| Quickdraw | 15.00% | ~63 |
+| Thuna...? | 14.00% | ~59 |
+| Monstrous Harassment | 14.00% | ~59 |
+| Heading the inverter | 14.00% | ~59 |
 | Blast from the Past | 13.00% | ~54 |
 | Play it again, Ronny | 11.00% | ~46 |
 | Goat Team | 10.00% | ~42 |
 | Paradox! | 10.00% | ~42 |
 | Weapons 101 | 8.00% | ~33 |
 | Sadist | 8.00% | ~33 |
-| The customer is always right | 7.00% | ~29 |
 | Distraction | 6.00% | ~25 |
+| The customer is always right | 6.00% | ~25 |
 | Pacifist | 6.00% | ~25 |
 | Apoca...huh? | 6.00% | ~25 |
 | Against better judgement | 6.00% | ~25 |
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415 (Ranked 278)  
-Completed: 6 (1.45%) (Ranked 112)  
+Progressed: 418 (Ranked 277)  
+Completed: 6 (1.44%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 6 (1.45%) (Ranked 112)
 | 2023-09-22 | 408 | 6 |
 | 2023-09-23 | 413 | 6 |
 | 2023-09-24 | 415 | 6 |
+| 2023-09-25 | 418 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

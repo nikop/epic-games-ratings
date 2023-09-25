@@ -6,9 +6,9 @@
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2948,11 +2948,11 @@
       "Count": 320
     }
   ],
-  "EOS_Progressed": 16706,
-  "EOS_Completed": 50,
+  "EOS_Progressed": 16707,
+  "EOS_Completed": 51,
   "EOS_NewPlayers": 68,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -11033,6 +11033,11 @@
       "Time": "2023-09-25T03:05:53.3663519+00:00",
       "NumProgressed": 16706,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-25T08:05:21.8046187+00:00",
+      "NumProgressed": 16707,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 50,
@@ -11074,9 +11079,9 @@
       "ID": "BeaverUtopia",
       "SetID": "cfbk359",
       "Name": "Beaver Utopia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "HarpyUtopia",
@@ -11443,15 +11448,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16706,
-      "Completed": 50
+      "Progressed": 16707,
+      "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-25T02:59:34.6522828+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:05:24.3229809+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:05:21.8046183+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.750828+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:59:09.5126053+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:05:24.3230752+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:59:10.0942669+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:05:21.8047036+00:00"
 }

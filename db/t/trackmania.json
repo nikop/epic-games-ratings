@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 281,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 635,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 6825,
   "RatingHistory": [
     {
@@ -10761,10 +10761,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 28306,
       "NumberOfAwardsMax": 3391
+    },
+    {
+      "Time": "2023-09-25T07:59:25.3802113+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 28308,
+      "NumberOfAwardsMax": 3391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28306,
+  "NumberOfAwards": 28308,
   "NumberOfAwardsMax": 3391,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -10838,7 +10844,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1444
+      "Count": 1446
     }
   ],
   "EOS_Progressed": 0,
@@ -10852,8 +10858,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-09-25T01:42:47.2573861+00:00",
+  "LastChanged": "2023-09-25T07:59:25.3802112+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.9547212+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:59:23.4942193+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:06:12.555302+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:59:25.3802118+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:06:07.4502744+00:00"
 }

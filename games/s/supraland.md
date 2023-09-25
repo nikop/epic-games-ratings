@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~719,773 |
+| Out of bed | 99.00% | ~719,774 |
 | The Blues | 85.00% | ~617,987 |
-| Fast | 66.00% | ~479,848 |
+| Fast | 66.00% | ~479,849 |
 | Healthbar | 55.00% | ~399,874 |
 | Force Cube | 53.00% | ~385,333 |
 | Double Jump | 48.00% | ~348,981 |
-| Regeneration | 47.00% | ~341,710 |
-| Triple Jump | 43.00% | ~312,628 |
+| Regeneration | 47.00% | ~341,711 |
+| Triple Jump | 43.00% | ~312,629 |
 | Climb the hill | 42.00% | ~305,358 |
 | Through the fire pipe | 39.00% | ~283,547 |
-| MacGuffin | 38.00% | ~276,276 |
+| MacGuffin | 38.00% | ~276,277 |
 | Just once | 37.00% | ~269,006 |
 | Armor | 30.00% | ~218,113 |
 | True holy spirit | 28.00% | ~203,572 |
@@ -29,8 +29,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Double Health | 18.00% | ~130,868 |
 | Buckle | 17.00% | ~123,597 |
 | Green Keycard | 17.00% | ~123,597 |
-| All Shells | 15.00% | ~109,056 |
-| Rattle Hag | 15.00% | ~109,056 |
+| All Shells | 15.00% | ~109,057 |
+| Rattle Hag | 15.00% | ~109,057 |
 | Beam | 14.00% | ~101,786 |
 | Health Drink | 13.00% | ~94,516 |
 | Helped a star | 13.00% | ~94,516 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~727 |
 | DLC: Top of the world | 0.10% | ~727 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,043 (Ranked 19)  
+Progressed: 727,044 (Ranked 19)  
 Completed: 738 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 738 (0.10%) (Ranked 233)
 | 2023-09-22 | 726,677 | 736 |
 | 2023-09-23 | 726,833 | 736 |
 | 2023-09-24 | 727,016 | 738 |
-| 2023-09-25 | 727,043 | 738 |
+| 2023-09-25 | 727,044 | 738 |
 ## Awards
 Max (Challenging Puzzles): 7,691  (Ranked 46)  
 Sum: 10,024 (Ranked 88)  

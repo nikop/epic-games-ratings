@@ -25,9 +25,499 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-25T08:03:59.3363566+00:00",
+  "TotalAchievements": 61,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ai_domination",
+      "SetID": "bdfo2p",
+      "Name": "Robot domination",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_death_variants",
+      "SetID": "bdfo2p",
+      "Name": "I AM THE DANGER.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_electric_variants",
+      "SetID": "bdfo2p",
+      "Name": "Thunderstruck",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_flaming_variants",
+      "SetID": "bdfo2p",
+      "Name": "Highway to hell",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_toasters_played",
+      "SetID": "bdfo2p",
+      "Name": "Everyone is here!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "burned_toasts_amateur",
+      "SetID": "bdfo2p",
+      "Name": "Burn toast, burn!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "burned_toasts_pro",
+      "SetID": "bdfo2p",
+      "Name": "I love the smell of burned bread in the morning",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "burned_toasts_semipro",
+      "SetID": "bdfo2p",
+      "Name": "Is it getting toasty in here?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "burners_striker",
+      "SetID": "bdfo2p",
+      "Name": "You got burned!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "clutch",
+      "SetID": "bdfo2p",
+      "Name": "The big clutch",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "confused_toasters",
+      "SetID": "bdfo2p",
+      "Name": "My head spins",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "defrosters_striker",
+      "SetID": "bdfo2p",
+      "Name": "That\u0027s cold.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "destroyed_toasters_amateur",
+      "SetID": "bdfo2p",
+      "Name": "Criminal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "destroyed_toasters_pro",
+      "SetID": "bdfo2p",
+      "Name": "Killing Machine",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "destroyed_toasters_semipro",
+      "SetID": "bdfo2p",
+      "Name": "Serial Killer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "destroyed_toasts_amateur",
+      "SetID": "bdfo2p",
+      "Name": "Path of destruction",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "destroyed_toasts_pro",
+      "SetID": "bdfo2p",
+      "Name": "I AM THE DESTROYER OF BREAD",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "destroyed_toasts_semipro",
+      "SetID": "bdfo2p",
+      "Name": "We\u0027re not here to eat toasts",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "domination",
+      "SetID": "bdfo2p",
+      "Name": "Domination",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "floppy_launch",
+      "SetID": "bdfo2p",
+      "Name": "Floppy Launch",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "goals_champion",
+      "SetID": "bdfo2p",
+      "Name": "Champion of the stadium",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "goals_legend",
+      "SetID": "bdfo2p",
+      "Name": "Toasterball legend",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "goals_rookie",
+      "SetID": "bdfo2p",
+      "Name": "Rookie athlete",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "jackpot_claustro",
+      "SetID": "bdfo2p",
+      "Name": "Deli Meat",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "jackpot_explosive",
+      "SetID": "bdfo2p",
+      "Name": "Fire in the hole!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "jackpot_lava",
+      "SetID": "bdfo2p",
+      "Name": "GET IN THE POOL RIGHT NOW!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "longest_match",
+      "SetID": "bdfo2p",
+      "Name": "The longest match ever",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "lore_master",
+      "SetID": "bdfo2p",
+      "Name": "Here for the lore",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "matches_amateur",
+      "SetID": "bdfo2p",
+      "Name": "Amateur toaster",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "matches_pro",
+      "SetID": "bdfo2p",
+      "Name": "Professional toaster",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "matches_semipro",
+      "SetID": "bdfo2p",
+      "Name": "Semi-pro toaster",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "old_school",
+      "SetID": "bdfo2p",
+      "Name": "Old School Cool",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "original_basket_city",
+      "SetID": "bdfo2p",
+      "Name": "Public hoop",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "original_breaking_jungle",
+      "SetID": "bdfo2p",
+      "Name": "Pitfall",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "original_icerink_castle",
+      "SetID": "bdfo2p",
+      "Name": "Yeti Sports",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "original_surf_beach",
+      "SetID": "bdfo2p",
+      "Name": "Wave Rider",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "pickedup_toasts_amateur",
+      "SetID": "bdfo2p",
+      "Name": "Pick that up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "pickedup_toasts_pro",
+      "SetID": "bdfo2p",
+      "Name": "RELOAAAAAAAAAAD!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "pickedup_toasts_semipro",
+      "SetID": "bdfo2p",
+      "Name": "No toast left behind",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "playing_the_clock",
+      "SetID": "bdfo2p",
+      "Name": "Playing the clock",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "streak_electric_ground",
+      "SetID": "bdfo2p",
+      "Name": "Jump around",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "streak_hell_belt",
+      "SetID": "bdfo2p",
+      "Name": "Treadmill",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sudden_death",
+      "SetID": "bdfo2p",
+      "Name": "Sudden Death",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "thank_you",
+      "SetID": "bdfo2p",
+      "Name": "Thank you \u003C3",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "trickshot",
+      "SetID": "bdfo2p",
+      "Name": "1080\u00B0 NO SCOPE",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "turboflip_goal",
+      "SetID": "bdfo2p",
+      "Name": "Crustiano Ronaltoast",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlocked_all_variants",
+      "SetID": "bdfo2p",
+      "Name": "Completionist",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_andrea",
+      "SetID": "bdfo2p",
+      "Name": "For the ancestors",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_anna",
+      "SetID": "bdfo2p",
+      "Name": "Surfin\u0027 to victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_edward",
+      "SetID": "bdfo2p",
+      "Name": "An impossible mission",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_felix",
+      "SetID": "bdfo2p",
+      "Name": "Meow!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_frank",
+      "SetID": "bdfo2p",
+      "Name": "For the sake of justice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_jack",
+      "SetID": "bdfo2p",
+      "Name": "Old but gold",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_johnny",
+      "SetID": "bdfo2p",
+      "Name": "The way of the survivor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_kasia",
+      "SetID": "bdfo2p",
+      "Name": "I\u0027m in.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_leni",
+      "SetID": "bdfo2p",
+      "Name": "Merry christmas y\u0027all",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_markus",
+      "SetID": "bdfo2p",
+      "Name": "Fight to the top",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_olivia",
+      "SetID": "bdfo2p",
+      "Name": "Agility run",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_smog",
+      "SetID": "bdfo2p",
+      "Name": "Unlimited power!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_sonny",
+      "SetID": "bdfo2p",
+      "Name": "On the road again",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "win_50_yuki",
+      "SetID": "bdfo2p",
+      "Name": "First class",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bdfo2p",
@@ -37,8 +527,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T08:03:11.942138+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:03:59.2417332+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:03:59.3363551+00:00",
   "LastUpdate_AppInfo": "2023-09-22T07:57:13.7426307+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:58:08.1044548+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:03:59.2417368+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:58:07.2443509+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:03:59.3760904+00:00"
 }

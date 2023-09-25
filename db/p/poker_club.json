@@ -736,9 +736,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 526359,
+  "EOS_Progressed": 526360,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1797,
+  "EOS_NewPlayers": 1786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18296,6 +18296,11 @@
       "Time": "2023-09-25T07:09:11.1138406+00:00",
       "NumProgressed": 526359,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-25T08:09:21.0075563+00:00",
+      "NumProgressed": 526360,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -18307,7 +18312,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 136853
+      "UsersEstimate": 136854
     },
     {
       "ID": "Backdoor",
@@ -18449,9 +18454,9 @@
       "ID": "Gutshot",
       "SetID": "7mgad4a",
       "Name": "Gutshot",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 68427
+      "UsersEstimate": 73690
     },
     {
       "ID": "Handy",
@@ -18459,7 +18464,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 215807
+      "UsersEstimate": 215808
     },
     {
       "ID": "HoldingYourOwn",
@@ -18555,7 +18560,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 400033
+      "UsersEstimate": 400034
     },
     {
       "ID": "ProPlayer",
@@ -18579,7 +18584,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 110535
+      "UsersEstimate": 110536
     },
     {
       "ID": "RegularPunter",
@@ -18659,14 +18664,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57899
+      "UsersEstimate": 57900
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 526359,
+      "Progressed": 526360,
       "Completed": 2
     }
   ],
@@ -18674,8 +18679,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-24T13:00:39.6616522+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:09:11.1138402+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:09:21.0075556+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.502046+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:58:22.7226914+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:09:11.1140011+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:58:21.3492839+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:09:21.0076996+00:00"
 }

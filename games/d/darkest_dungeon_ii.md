@@ -6,21 +6,21 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~110,381 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~84,269 |
-| A Clear Conscience | 69.00% | ~81,895 |
+| A Place to Lay Your Head | 93.00% | ~110,382 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~84,270 |
+| A Clear Conscience | 69.00% | ~81,896 |
 | Unleash Hell | 68.00% | ~80,709 |
 | Unfulfilled Desires | 68.00% | ~80,709 |
 | Funny Guy | 67.00% | ~79,522 |
 | Unshackled | 67.00% | ~79,522 |
 | Long Live the King | 66.00% | ~78,335 |
-| Resurrection | 62.00% | ~73,587 |
-| Wyrdly Reconstructed | 62.00% | ~73,587 |
-| Boxcar Kid | 60.00% | ~71,213 |
-| Rush Hour | 60.00% | ~71,213 |
-| To Grandmother's House | 60.00% | ~71,213 |
-| Serenity Now! | 53.00% | ~62,905 |
-| Hope Rekindled | 50.00% | ~59,344 |
+| Resurrection | 62.00% | ~73,588 |
+| Wyrdly Reconstructed | 62.00% | ~73,588 |
+| Boxcar Kid | 60.00% | ~71,214 |
+| Rush Hour | 60.00% | ~71,214 |
+| To Grandmother's House | 60.00% | ~71,214 |
+| Serenity Now! | 53.00% | ~62,906 |
+| Hope Rekindled | 50.00% | ~59,345 |
 | Ramble On | 49.00% | ~58,158 |
 | Nope | 48.00% | ~56,971 |
 | This Looks Familiar | 38.00% | ~45,102 |
@@ -28,14 +28,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Merry Time | 36.00% | ~42,728 |
 | Harvest Festival | 36.00% | ~42,728 |
 | Hot Air | 36.00% | ~42,728 |
-| Creep and Sleep | 33.00% | ~39,167 |
-| Overdue Notice | 32.00% | ~37,980 |
+| Creep and Sleep | 33.00% | ~39,168 |
+| Overdue Notice | 32.00% | ~37,981 |
 | Banishment | 31.00% | ~36,794 |
 | Whale | 31.00% | ~36,794 |
 | FNG | 29.00% | ~34,420 |
 | Predator | 25.00% | ~29,672 |
 | Reverse Banditry | 25.00% | ~29,672 |
-| Autodidact | 24.00% | ~28,485 |
+| Autodidact | 24.00% | ~28,486 |
 | Meat and Greet | 22.00% | ~26,112 |
 | Road Trip | 22.00% | ~26,112 |
 | Spelunker | 21.00% | ~24,925 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 17.00% | ~20,177 |
 | This Belongs in a Museum | 16.00% | ~18,990 |
 | Handled | 16.00% | ~18,990 |
-| Catch and Decease | 14.00% | ~16,616 |
+| Catch and Decease | 14.00% | ~16,617 |
 | Not Today! | 13.00% | ~15,430 |
 | Deprogramming | 13.00% | ~15,430 |
 | Shrine of Reflection | 12.00% | ~14,243 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~119 |
 | No Gravestone Left Unturned | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,689 (Ranked 73)  
+Progressed: 118,690 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,10 +220,10 @@ Completed: 1 (0.00%) (Ranked 292)
 | 2023-09-22 | 118,438 | 1 |
 | 2023-09-23 | 118,552 | 1 |
 | 2023-09-24 | 118,664 | 1 |
-| 2023-09-25 | 118,689 | 1 |
+| 2023-09-25 | 118,690 | 1 |
 ## Awards
 Max (Character Customization): 7,412  (Ranked 48)  
-Sum: 19,371 (Ranked 56)  
+Sum: 19,373 (Ranked 56)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,420 |
 | This game is Extremely Fun | 1,377 |
 | This game has Amazing Characters | 1,371 |
-| This game has Amazing Storytelling | 1,297 |
+| This game has Amazing Storytelling | 1,299 |
 | This game has Quickly Understood Controls | 1,280 |
 | This game has Unique Visuals | 1,253 |
 | This game has a Creative Community | 936 |
@@ -483,3 +483,4 @@ Diff (max vs sum): -8
 | 2023-09-22 | 4.68 | - | 7,409 | 19,349 |
 | 2023-09-23 | 4.68 | - | 7,410 | 19,363 |
 | 2023-09-24 | 4.68 | - | 7,412 | 19,371 |
+| 2023-09-25 | 4.68 | - | 7,412 | 19,373 |

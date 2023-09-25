@@ -26,12 +26,12 @@ Rating: 4.46 (Ranked 631)
 | Der Geist | 16.00% | ~586 |
 | Close Quarters | 15.00% | ~549 |
 | Brains of the Operation | 15.00% | ~549 |
+| No Stone Unturned | 14.00% | ~513 |
 | Enemy at the Gates | 14.00% | ~513 |
 | Fields of Glory | 14.00% | ~513 |
 | Skirmisher | 14.00% | ~513 |
 | Die Nussknacker Sweet! | 14.00% | ~513 |
 | Snake in the Grass | 14.00% | ~513 |
-| No Stone Unturned | 13.00% | ~476 |
 | Opposing Force | 13.00% | ~476 |
 | Set Europe Ablaze | 13.00% | ~476 |
 | Precision Is Key | 9.00% | ~330 |
@@ -78,7 +78,7 @@ Rating: 4.46 (Ranked 631)
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,662 (Ranked 171)  
-Completed: 11 (0.30%) (Ranked 191)  
+Completed: 11 (0.30%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

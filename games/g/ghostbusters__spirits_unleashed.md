@@ -22,6 +22,7 @@ Rating: 4.50 (Ranked 573)
 | Cultured | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
+| Summoner | 0.40% | ~104 |
 | Swift Rift Removers | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
@@ -29,7 +30,6 @@ Rating: 4.50 (Ranked 573)
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
-| Summoner | 0.30% | ~78 |
 | Terrifying | 0.30% | ~78 |
 | Welcome to the Crew | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
@@ -218,7 +218,7 @@ Completed: 58 (0.22%) (Ranked 206)
 | 2023-09-25 | 26,025 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 256)  
-Sum: 2,330 (Ranked 188)  
+Sum: 2,331 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -229,7 +229,7 @@ Diff (max vs sum): 68
 | This game is Extremely Fun | 231 |
 | This game has Diverse Characters | 230 |
 | This game is Highly Recommended | 226 |
-| This game is Relaxing | 225 |
+| This game is Relaxing | 226 |
 | This game has Quickly Understood Controls | 219 |
 | This game has Amazing Characters | 217 |
 | This game has Playful Visuals | 94 |
@@ -404,3 +404,4 @@ Diff (max vs sum): 68
 | 2023-09-22 | 4.50 | 256 | 2,328 |
 | 2023-09-23 | 4.50 | 256 | 2,329 |
 | 2023-09-24 | 4.50 | 256 | 2,330 |
+| 2023-09-25 | 4.50 | 256 | 2,331 |

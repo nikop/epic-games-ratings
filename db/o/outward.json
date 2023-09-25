@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3482,
+  "EOS_Progressed": 3483,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4754,6 +4754,11 @@
       "Time": "2023-09-25T04:07:16.3663921+00:00",
       "NumProgressed": 3482,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-25T08:06:01.0616425+00:00",
+      "NumProgressed": 3483,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4803,9 +4808,9 @@
       "ID": "CordonBleu_28",
       "SetID": "c4hee28",
       "Name": "Cordon Bleu",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1498
     },
     {
       "ID": "CrowdPleaser",
@@ -4821,7 +4826,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "Eureka_23",
@@ -4829,7 +4834,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4957,7 +4962,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4973,7 +4978,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4989,7 +4994,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5085,7 +5090,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5100,15 +5105,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3482,
+      "Progressed": 3483,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:06:05.670222+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:06:01.0616422+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-25T07:00:45.7617263+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:06:05.6702864+00:00"
+  "LastUpdate_Ratings": "2023-09-25T08:00:45.6348152+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:06:01.0617014+00:00"
 }

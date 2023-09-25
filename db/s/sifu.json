@@ -21260,9 +21260,9 @@
       "ID": "30_ComboMid",
       "SetID": "adcm20g",
       "Name": "I know Kung-Fu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 1431
     },
     {
       "ID": "31_ComboHigh",
@@ -21522,8 +21522,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-24T22:02:29.1121318+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:04:06.6098535+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:04:06.4022915+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:35.3893321+00:00",
-  "LastUpdate_Ratings": "2023-09-25T07:03:09.7097489+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:04:06.6100029+00:00"
+  "LastUpdate_Ratings": "2023-09-25T08:03:08.4426239+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:04:06.402435+00:00"
 }

@@ -6,49 +6,49 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,077 |
-| Zealous | 6.00% | ~54,066 |
-| Skillful | 6.00% | ~54,066 |
-| Not half bad | 5.00% | ~45,055 |
-| Apt Survivor | 5.00% | ~45,055 |
-| Make Some Noise | 5.00% | ~45,055 |
-| No one left behind | 4.00% | ~36,044 |
-| Handyman | 4.00% | ~36,044 |
-| Nerves of steel | 4.00% | ~36,044 |
-| Survival Treasures | 4.00% | ~36,044 |
-| Sorted | 4.00% | ~36,044 |
-| The Grand Sacrifice | 3.00% | ~27,033 |
-| Agonizing Escape | 3.00% | ~27,033 |
-| Backdoor Escape | 3.00% | ~27,033 |
-| I've got your back | 3.00% | ~27,033 |
-| Medic | 3.00% | ~27,033 |
-| Perfect Escape | 3.00% | ~27,033 |
-| Perfect Killing | 3.00% | ~27,033 |
-| Bloody Millionaire | 3.00% | ~27,033 |
-| Risk it all | 3.00% | ~27,033 |
-| I | 3.00% | ~27,033 |
-| Engineer | 3.00% | ~27,033 |
-| Healthy Obsession | 3.00% | ~27,033 |
-| Resurgence | 3.00% | ~27,033 |
-| Preemptive Strike | 3.00% | ~27,033 |
-| Humanitarian | 3.00% | ~27,033 |
-| MU/TH/UR Dearest | 3.00% | ~27,033 |
-| Blood on your hands | 2.00% | ~18,022 |
-| Apt Killer | 2.00% | ~18,022 |
-| Vulture | 2.00% | ~18,022 |
-| II | 2.00% | ~18,022 |
-| III | 2.00% | ~18,022 |
-| Cherish your Life | 2.00% | ~18,022 |
-| Wounded Healer | 2.00% | ~18,022 |
-| First to the Punch | 2.00% | ~18,022 |
-| Every Last Drop | 2.00% | ~18,022 |
-| Close Shave | 2.00% | ~18,022 |
-| Raccoon City Recruit | 2.00% | ~18,022 |
-| With Scars to Show | 2.00% | ~18,022 |
-| Flight to Freedom | 2.00% | ~18,022 |
-| A Fast Death | 2.00% | ~18,022 |
-| Lifting The Fog | 2.00% | ~18,022 |
-| Second Act | 2.00% | ~18,022 |
+| It wakes | 7.00% | ~63,079 |
+| Zealous | 6.00% | ~54,068 |
+| Skillful | 6.00% | ~54,068 |
+| Not half bad | 5.00% | ~45,057 |
+| Apt Survivor | 5.00% | ~45,057 |
+| Make Some Noise | 5.00% | ~45,057 |
+| No one left behind | 4.00% | ~36,045 |
+| Handyman | 4.00% | ~36,045 |
+| Nerves of steel | 4.00% | ~36,045 |
+| Survival Treasures | 4.00% | ~36,045 |
+| Sorted | 4.00% | ~36,045 |
+| The Grand Sacrifice | 3.00% | ~27,034 |
+| Agonizing Escape | 3.00% | ~27,034 |
+| Backdoor Escape | 3.00% | ~27,034 |
+| I've got your back | 3.00% | ~27,034 |
+| Medic | 3.00% | ~27,034 |
+| Perfect Escape | 3.00% | ~27,034 |
+| Perfect Killing | 3.00% | ~27,034 |
+| Bloody Millionaire | 3.00% | ~27,034 |
+| Risk it all | 3.00% | ~27,034 |
+| I | 3.00% | ~27,034 |
+| Engineer | 3.00% | ~27,034 |
+| Healthy Obsession | 3.00% | ~27,034 |
+| Resurgence | 3.00% | ~27,034 |
+| Preemptive Strike | 3.00% | ~27,034 |
+| Humanitarian | 3.00% | ~27,034 |
+| MU/TH/UR Dearest | 3.00% | ~27,034 |
+| Blood on your hands | 2.00% | ~18,023 |
+| Apt Killer | 2.00% | ~18,023 |
+| Vulture | 2.00% | ~18,023 |
+| II | 2.00% | ~18,023 |
+| III | 2.00% | ~18,023 |
+| Cherish your Life | 2.00% | ~18,023 |
+| Wounded Healer | 2.00% | ~18,023 |
+| First to the Punch | 2.00% | ~18,023 |
+| Every Last Drop | 2.00% | ~18,023 |
+| Close Shave | 2.00% | ~18,023 |
+| Raccoon City Recruit | 2.00% | ~18,023 |
+| With Scars to Show | 2.00% | ~18,023 |
+| Flight to Freedom | 2.00% | ~18,023 |
+| A Fast Death | 2.00% | ~18,023 |
+| Lifting The Fog | 2.00% | ~18,023 |
+| Second Act | 2.00% | ~18,023 |
 | A bite for the Entity | 1.00% | ~9,011 |
 | Blood on your face | 1.00% | ~9,011 |
 | Escape Artist | 1.00% | ~9,011 |
@@ -104,9 +104,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.60% | ~5,407 |
 | Triage | 0.60% | ~5,407 |
 | High Speed Pursuit | 0.60% | ~5,407 |
-| Looter | 0.50% | ~4,505 |
-| Power Moves | 0.50% | ~4,505 |
-| Death of Ignorance | 0.40% | ~3,604 |
+| Looter | 0.50% | ~4,506 |
+| Power Moves | 0.50% | ~4,506 |
+| Death of Ignorance | 0.40% | ~3,605 |
 | A feast for the Entity | 0.30% | ~2,703 |
 | In the void she walks | 0.30% | ~2,703 |
 | Mad House | 0.30% | ~2,703 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~901 |
 | Adept Ripley | 0.10% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 901,097 (Ranked 14)  
+Progressed: 901,132 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-22 | 895,442 | 49 |
 | 2023-09-23 | 898,059 | 49 |
 | 2023-09-24 | 900,602 | 49 |
-| 2023-09-25 | 901,097 | 49 |
+| 2023-09-25 | 901,132 | 49 |
 ## Awards
 Max (Diverse Characters): 33,007  (Ranked 15)  
 Sum: 256,882 (Ranked 11)  

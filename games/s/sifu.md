@@ -21,6 +21,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.20% | ~1,431 |
 | Qi Gong: Breath | 0.20% | ~1,431 |
 | Qi Gong: Essence | 0.20% | ~1,431 |
+| I know Kung-Fu | 0.20% | ~1,431 |
 | Old Child | 0.20% | ~1,431 |
 | Path of the Prospect | 0.20% | ~1,431 |
 | Rumble in the Hangar | 0.20% | ~1,431 |
@@ -44,7 +45,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.10% | ~715 |
 | The 36th Chamber of Kung-Fu | 0.10% | ~715 |
 | Master of the Phoenix Eye Fist | 0.10% | ~715 |
-| I know Kung-Fu | 0.10% | ~715 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~715 |
 | Sword Stained With Blood | 0.10% | ~715 |
 | Kung-Fu Tussle | 0.10% | ~715 |

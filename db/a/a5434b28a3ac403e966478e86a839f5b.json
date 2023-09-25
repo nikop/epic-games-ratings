@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 77,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -277,6 +277,11 @@
       "Time": "2023-09-25T03:03:21.1973333+00:00",
       "NumProgressed": 179,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T08:03:18.2340476+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -297,7 +302,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_eou2",
@@ -311,9 +316,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_eou4",
@@ -329,7 +334,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_eou6",
@@ -337,7 +342,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_eou7",
@@ -345,7 +350,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_eou8",
@@ -392,14 +397,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:03:17.0232879+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:03:18.234047+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:58:48.9468765+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:03:17.0233027+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:58:47.2710402+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:03:18.2340614+00:00"
 }

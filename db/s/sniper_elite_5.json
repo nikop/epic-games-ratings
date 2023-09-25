@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -526,7 +526,7 @@
   "Tags": [],
   "EOS_Progressed": 3662,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6912,9 +6912,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 513
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7471,8 +7471,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-25T07:03:44.9905384+00:00",
+  "LastChanged_Achievements": "2023-09-25T08:03:45.5231323+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:59:30.3165239+00:00",
-  "LastUpdate_Achievements": "2023-09-25T07:03:44.9906481+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:59:33.1632455+00:00",
+  "LastUpdate_Achievements": "2023-09-25T08:03:45.5232407+00:00"
 }
