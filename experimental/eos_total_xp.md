@@ -446,6 +446,7 @@
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [Power Vacuum](../games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 21 | 1,000 |
 | [Prehistoric Kingdom](../games/p/prehistoric_kingdom.md) | 22 | 1,000 |
+| [Primal Survivors](../games/5/50d797d4a45a495b94e4abc016ace565.md) | 10 | 1,000 |
 | [Prison Architect](../games/p/prison_architect.md) | 16 | 1,000 |
 | [Project Highrise](../games/p/project_highrise.md) | 88 | 1,000 |
 | [Project Nightmares Case 36: Henrietta Kedward](../games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 20 | 1,000 |

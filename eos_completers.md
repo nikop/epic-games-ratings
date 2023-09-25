@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.83% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.79% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -83,7 +83,7 @@
 | 81 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 82 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
-| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.69% |
+| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.68% |
 | 85 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.50% |
@@ -93,7 +93,7 @@
 | 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 92 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
 | 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.33% |
-| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
+| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.30% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 96 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.17% |
 | 97 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
@@ -126,7 +126,7 @@
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 125 | [Trifox](games/t/trifox.md) | 1.09% |
 | 126 | [Adios](games/a/adios.md) | 1.04% |
-| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
+| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 128 | [Sable](games/s/sable.md) | 1.01% |
 | 129 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 129 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
@@ -136,7 +136,7 @@
 | 134 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 135 | [Hades](games/h/hades.md) | 0.91% |
 | 136 | [Eternights](games/e/eternights.md) | 0.90% |
-| 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.88% |
+| 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.87% |
 | 138 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 139 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 140 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
@@ -147,9 +147,9 @@
 | 145 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.65% |
 | 146 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 147 | [Haven](games/h/haven.md) | 0.62% |
-| 147 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.62% |
 | 147 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.62% |
-| 150 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 149 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 149 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.61% |
 | 151 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.60% |
 | 152 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.59% |
 | 153 | [Grindstone](games/g/grindstone.md) | 0.58% |
@@ -186,8 +186,8 @@
 | 184 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
 | 184 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 184 | [The Surge](games/t/the_surge.md) | 0.34% |
-| 187 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.33% |
-| 188 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 187 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 187 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.32% |
 | 189 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 189 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -197,11 +197,11 @@
 | 195 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 195 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 197 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.27% |
-| 198 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
-| 198 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 198 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.25% |
-| 198 | [Filament](games/f/filament.md) | 0.25% |
-| 198 | [Scrapnaut](games/s/scrapnaut.md) | 0.25% |
+| 198 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.26% |
+| 199 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
+| 199 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 199 | [Filament](games/f/filament.md) | 0.25% |
+| 199 | [Scrapnaut](games/s/scrapnaut.md) | 0.25% |
 | 203 | [Going Medieval](games/g/going_medieval.md) | 0.24% |
 | 204 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 204 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.23% |
@@ -633,4 +633,4 @@
 | 292 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 292 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 292 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,291 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,292 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
