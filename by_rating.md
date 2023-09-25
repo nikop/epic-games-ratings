@@ -394,7 +394,7 @@
 | 372 | [RiME](games/r/rime.md) | 4.61 | 0 | 525 |
 | 372 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,081 | 139 |
 | 372 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 284 | 245 |
-| 372 | [Supraland](games/s/supraland.md) | 4.61 | 7,690 | 46 |
+| 372 | [Supraland](games/s/supraland.md) | 4.61 | 7,691 | 46 |
 | 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 525 |
 | 372 | [Witchfire](games/w/witchfire.md) | 4.61 | 0 | 525 |
 | 398 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 492 |
@@ -531,7 +531,7 @@
 | 521 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 496 |
 | 521 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 22 | 506 |
 | 521 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 525 |
-| 521 | [VALORANT](games/v/valorant.md) | 4.53 | 71,829 | 10 |
+| 521 | [VALORANT](games/v/valorant.md) | 4.53 | 72,021 | 10 |
 | 521 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 347 |
 | 534 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 0 | 525 |
 | 534 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 43 | 427 |
@@ -579,7 +579,7 @@
 | 572 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 356 |
 | 572 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 525 |
 | 572 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 256 | 255 |
-| 572 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,791 | 95 |
+| 572 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,795 | 95 |
 | 572 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 525 |
 | 572 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.50 | 374 | 224 |
 | 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 638 | 182 |
@@ -732,19 +732,19 @@
 | 723 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 525 |
 | 723 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 333 | 231 |
 | 723 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 0 | 525 |
-| 723 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.39 | 0 | 525 |
 | 723 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 525 |
-| 735 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 525 |
-| 735 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 525 |
-| 735 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.38 | 0 | 525 |
-| 735 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 583 | 189 |
-| 735 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.38 | 0 | 525 |
-| 735 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 296 |
-| 735 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 173 | 290 |
-| 735 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 74 | 377 |
-| 735 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 200 | 276 |
-| 735 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 525 |
-| 735 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 525 |
+| 734 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 525 |
+| 734 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 525 |
+| 734 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.38 | 0 | 525 |
+| 734 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 583 | 189 |
+| 734 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.38 | 0 | 525 |
+| 734 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 296 |
+| 734 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 173 | 290 |
+| 734 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 74 | 377 |
+| 734 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 0 | 525 |
+| 734 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 200 | 276 |
+| 734 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 525 |
+| 734 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 525 |
 | 746 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 525 |
 | 746 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 525 |
 | 746 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
