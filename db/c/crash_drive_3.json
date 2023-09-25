@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -802,9 +802,9 @@
       "ID": "SPIN_1080",
       "SetID": "20koof9",
       "Name": "Feeling Dizzy?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "STUNT_EVENT",
@@ -906,9 +906,9 @@
       "ID": "WIN_ROBBER",
       "SetID": "20koof9",
       "Name": "In the Bag!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -939,8 +939,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:04:13.3726253+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:04:26.8661315+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:17.0711022+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:57:31.7778153+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:04:13.3726847+00:00"
+  "LastUpdate_Ratings": "2023-09-25T22:57:56.5829068+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:04:26.8661908+00:00"
 }

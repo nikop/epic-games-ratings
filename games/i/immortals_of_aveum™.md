@@ -5,10 +5,10 @@ Rating: 4.00 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Enlisted | 73.00% | ~11 |
 | Unforeseen | 67.00% | ~10 |
 | Battlefields Have Memories | 67.00% | ~10 |
 | Maybe Engage a Little | 67.00% | ~10 |
-| Enlisted | 67.00% | ~10 |
 | No More Names | 60.00% | ~9 |
 | Initiate | 60.00% | ~9 |
 | Thrada-Kul | 47.00% | ~7 |

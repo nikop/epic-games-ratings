@@ -1669,10 +1669,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1819,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-09-25T23:01:29.599827+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1820,
+      "NumberOfAwardsMax": 223
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1819,
+  "NumberOfAwards": 1820,
   "NumberOfAwardsMax": 223,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1680,7 +1686,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1751,7 +1757,7 @@
   ],
   "EOS_Progressed": 14126,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13797,9 +13803,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -14634,9 +14640,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-09-25T22:02:08.2246986+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:03:27.1925005+00:00",
+  "LastChanged": "2023-09-25T23:01:29.5998269+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:03:51.516934+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-25T22:02:08.2246993+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:03:27.1934155+00:00"
+  "LastUpdate_Ratings": "2023-09-25T23:01:29.5998274+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:03:51.5177058+00:00"
 }

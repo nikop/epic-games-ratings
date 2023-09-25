@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9954,9 +9954,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 414479,
+  "EOS_Progressed": 414499,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6765,
+  "EOS_NewPlayers": 6771,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27834,6 +27834,11 @@
       "Time": "2023-09-25T22:06:06.2899131+00:00",
       "NumProgressed": 414479,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T23:06:19.2048056+00:00",
+      "NumProgressed": 414499,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -28845,7 +28850,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "achievement_grand_coalition",
@@ -30125,7 +30130,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -30509,7 +30514,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16579
+      "UsersEstimate": 16580
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -30541,7 +30546,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -30676,21 +30681,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 414479,
+      "Progressed": 414499,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 414479,
+      "Progressed": 414499,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-25T20:01:14.6704649+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:06:06.2899126+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:06:19.2048052+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-25T22:00:31.2089766+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:06:06.2914251+00:00"
+  "LastUpdate_Ratings": "2023-09-25T23:00:46.8463405+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:06:19.2058432+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.68,
+  "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1855,6 +1855,11 @@
       "Time": "2023-09-25T12:05:27.8749205+00:00",
       "NumProgressed": 672,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-25T23:05:18.6394801+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1867,7 +1872,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1875,7 +1880,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "_03_FinishAct1",
@@ -1889,17 +1894,17 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 249
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 229
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1937,9 +1942,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 155
     },
     {
       "ID": "_11_Completion_40",
@@ -1987,15 +1992,15 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 276
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2074,7 +2079,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 18
     }
   ],
@@ -2082,8 +2087,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-25T10:57:27.3767102+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:05:06.0218522+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:05:18.6394796+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:57:18.0338514+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:05:06.0218841+00:00"
+  "LastUpdate_Ratings": "2023-09-25T22:57:43.3264911+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:05:18.6395047+00:00"
 }

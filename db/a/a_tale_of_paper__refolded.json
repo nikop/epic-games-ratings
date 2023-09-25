@@ -4,7 +4,7 @@
   "ProductSlug": "a-tale-of-paper-refolded-edition-39dd94",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-08-19T16:00:00+00:00",
@@ -287,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.3457185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.9904198+00:00",
   "LastChanged": "2023-03-31T05:57:38.3457186+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:05:28.2132094+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:05:40.8525705+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:23.2826276+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:59:42.2431962+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:05:28.2132312+00:00"
+  "LastUpdate_Ratings": "2023-09-25T23:00:00.9123908+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:05:40.8525874+00:00"
 }

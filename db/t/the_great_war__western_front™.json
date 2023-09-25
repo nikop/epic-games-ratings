@@ -2,7 +2,7 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 267,
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2109,6 +2109,11 @@
       "Time": "2023-09-25T16:09:06.571704+00:00",
       "NumProgressed": 472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T23:07:16.143881+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2166,9 +2171,9 @@
       "ID": "KILL_1000_WITH_GAS",
       "SetID": "6kcl14p",
       "Name": "The Chemists\u0027 War",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -2215,7 +2220,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 0
     }
   ],
@@ -2223,8 +2228,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-09-24T20:00:40.5546933+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:07:23.8089236+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:07:16.1438803+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.662019+00:00",
-  "LastUpdate_Ratings": "2023-09-25T22:02:14.2636348+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:07:23.808963+00:00"
+  "LastUpdate_Ratings": "2023-09-25T23:03:06.0718785+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:07:16.1439019+00:00"
 }

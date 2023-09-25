@@ -16,12 +16,12 @@
 | Snow Fun! | 24.00% | ~92 |
 | The Collector | 23.00% | ~88 |
 | The Wild West | 23.00% | ~88 |
+| In the Bag! | 23.00% | ~88 |
 | You're it | 23.00% | ~88 |
 | To and Fro | 22.00% | ~84 |
 | Goodbye cruel world | 22.00% | ~84 |
 | Bag of Tricks | 22.00% | ~84 |
 | I see the light! | 22.00% | ~84 |
-| In the Bag! | 22.00% | ~84 |
 | First Come, First Serve | 21.00% | ~81 |
 | Disoriented | 21.00% | ~81 |
 | Take that Frosty! | 21.00% | ~81 |
@@ -30,9 +30,9 @@
 | Anger Issues | 20.00% | ~77 |
 | Your Highness | 20.00% | ~77 |
 | Event Amateur | 19.00% | ~73 |
+| Feeling Dizzy? | 18.00% | ~69 |
 | Drift King! | 17.00% | ~65 |
 | Feeling Hot Hot Hot! | 17.00% | ~65 |
-| Feeling Dizzy? | 17.00% | ~65 |
 | Ferry Good! | 17.00% | ~65 |
 | Assert Dominance | 17.00% | ~65 |
 | Speed of light | 17.00% | ~65 |

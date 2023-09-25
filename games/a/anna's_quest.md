@@ -14,11 +14,11 @@
 | Kekekeke... | 43.00% | ~21 |
 | Mystery solved | 41.00% | ~20 |
 | Fussy eater | 41.00% | ~20 |
+| Sorry Grandpa | 41.00% | ~20 |
 | Roostwig has entered the building | 41.00% | ~20 |
 | Honey, honey, honey… | 39.00% | ~19 |
 | Far away from home | 39.00% | ~19 |
 | NOW GO AWAY! | 39.00% | ~19 |
-| Sorry Grandpa | 39.00% | ~19 |
 | Game Over! | 37.00% | ~18 |
 | Show me your true self | 37.00% | ~18 |
 | A very special drink | 37.00% | ~18 |

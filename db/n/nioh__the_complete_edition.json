@@ -4,10 +4,10 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 450,
   "Ranking_Popularity": 44,
-  "Ranking_PopularitySum": 58,
+  "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -7052,10 +7052,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 18409,
       "NumberOfAwardsMax": 7908
+    },
+    {
+      "Time": "2023-09-25T22:59:25.5282409+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 18413,
+      "NumberOfAwardsMax": 7908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18409,
+  "NumberOfAwards": 18413,
   "NumberOfAwardsMax": 7908,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7105,7 +7111,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 793
+      "Count": 797
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7131,8 +7137,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-09-25T17:59:59.1047651+00:00",
+  "LastChanged": "2023-09-25T22:59:25.5282408+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:58.1739391+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:59:04.725858+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:07:27.2999932+00:00"
+  "LastUpdate_Ratings": "2023-09-25T22:59:25.5282414+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:07:19.7299807+00:00"
 }

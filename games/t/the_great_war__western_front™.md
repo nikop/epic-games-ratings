@@ -1,7 +1,7 @@
 # The Great War: Western Front™
 [Store](https://store.epicgames.com/en-US/p/the-great-war-western-front)  
 [View Rawdata](../../db/t/the_great_war__western_front™.json)  
-Rating: 4.05 (Ranked 938)  
+Rating: 4.05 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.05 (Ranked 938)
 | Das Ist Endgültig! | 17.00% | ~80 |
 | La Der des Ders | 16.00% | ~76 |
 | From the Pages of History | 8.00% | ~38 |
-| The Chemists' War | 6.00% | ~28 |
+| The Chemists' War | 5.00% | ~24 |
 | War with Friends | 3.00% | ~14 |
 | Nothing Can Stop Us! | 1.00% | ~5 |
 | A Student of History | 0.80% | ~4 |
@@ -18,7 +18,7 @@ Rating: 4.05 (Ranked 938)
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472 (Ranked 267)  
+Progressed: 473 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-22 | 447 | 0 |
 | 2023-09-23 | 461 | 0 |
 | 2023-09-24 | 467 | 0 |
-| 2023-09-25 | 472 | 0 |
+| 2023-09-25 | 473 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

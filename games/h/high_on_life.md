@@ -8,6 +8,7 @@ Rating: 4.63 (Ranked 333)
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
+| Creature Feature | 0.10% | ~24 |
 | Bring A Knife to a Gun Fight | 0.10% | ~24 |
 | RIP Davey Glutes | 0.10% | ~24 |
 | Sweezy Like Sunday Morning | 0.10% | ~24 |
@@ -16,6 +17,7 @@ Rating: 4.63 (Ranked 333)
 | First Bounty Down | 0.10% | ~24 |
 | G3 Graduation | 0.10% | ~24 |
 | Hardest Battle In The Game | 0.10% | ~24 |
+| Who's The Boss? | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
 | Don't Knife The Hand That Feeds | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
@@ -27,7 +29,6 @@ Rating: 4.63 (Ranked 333)
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
 | Epic Legendary Prize | 0.00% | ~0 |
 | Eatin' Good in the Neighborhood | 0.00% | ~0 |
-| Creature Feature | 0.00% | ~0 |
 | Satisfied Gus-tomer | 0.00% | ~0 |
 | Are You Packin'? | 0.00% | ~0 |
 | Lezduit! | 0.00% | ~0 |
@@ -36,7 +37,6 @@ Rating: 4.63 (Ranked 333)
 | Legendary Bounty Hunter | 0.00% | ~0 |
 | Cold-Blooded Driller | 0.00% | ~0 |
 | Self-Actualization | 0.00% | ~0 |
-| Who's The Boss? | 0.00% | ~0 |
 | Gunning For Your Job | 0.00% | ~0 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.00% | ~0 |
 | Seeing All The Sights | 0.00% | ~0 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 333)
 | Fall In Love With A Parasite | 0.00% | ~0 |
 | Meet Frasier from Frasier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,080 (Ranked 113)  
+Progressed: 24,081 (Ranked 113)  
 Completed: 12 (0.05%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 12 (0.05%) (Ranked 252)
 | 2023-09-22 | 24,070 | 12 |
 | 2023-09-23 | 24,072 | 12 |
 | 2023-09-24 | 24,074 | 12 |
-| 2023-09-25 | 24,080 | 12 |
+| 2023-09-25 | 24,081 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

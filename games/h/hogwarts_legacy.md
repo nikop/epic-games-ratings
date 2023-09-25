@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 118)
 | The Sort Who Makes an Entrance | 15.00% | ~44,601 |
 | First Class Student | 13.00% | ~38,654 |
 | Troll with the Punches | 13.00% | ~38,654 |
-| A Keen Sense of Spell | 12.00% | ~35,680 |
+| A Keen Sense of Spell | 12.00% | ~35,681 |
 | A Talent for Spending | 11.00% | ~32,707 |
 | That's a Keeper | 11.00% | ~32,707 |
 | Grappling with a Graphorn | 10.00% | ~29,734 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 118)
 | Challenge Accepted | 10.00% | ~29,734 |
 | Loom for Improvement | 10.00% | ~29,734 |
 | Coasting Along | 10.00% | ~29,734 |
-| Followed the Butterflies | 9.00% | ~26,760 |
-| Rising From the Ashes | 9.00% | ~26,760 |
+| Followed the Butterflies | 9.00% | ~26,761 |
+| Rising From the Ashes | 9.00% | ~26,761 |
 | The Avenging Gazelle | 8.00% | ~23,787 |
 | A Sallow Grave | 8.00% | ~23,787 |
 | Flight the Good Flight | 8.00% | ~23,787 |
@@ -31,12 +31,12 @@ Rating: 4.76 (Ranked 118)
 | Third Time's a Charm | 6.00% | ~17,840 |
 | Raising Expectations | 6.00% | ~17,840 |
 | The Ends Petrify the Means | 5.00% | ~14,867 |
-| The Toast of the Town | 4.00% | ~11,893 |
-| Going Through the Potions | 4.00% | ~11,893 |
-| Room with a View | 4.00% | ~11,893 |
-| The Intrepid Explorer | 4.00% | ~11,893 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,893 |
-| The Wise Owl | 4.00% | ~11,893 |
+| The Toast of the Town | 4.00% | ~11,894 |
+| Going Through the Potions | 4.00% | ~11,894 |
+| Room with a View | 4.00% | ~11,894 |
+| The Intrepid Explorer | 4.00% | ~11,894 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,894 |
+| The Wise Owl | 4.00% | ~11,894 |
 | Put Down Roots | 3.00% | ~8,920 |
 | The Auror's Apprentice | 3.00% | ~8,920 |
 | Floo Around the World | 3.00% | ~8,920 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,784 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,337 (Ranked 44)  
+Progressed: 297,339 (Ranked 44)  
 Completed: 477 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 477 (0.16%) (Ranked 215)
 | 2023-09-22 | 297,114 | 476 |
 | 2023-09-23 | 297,194 | 476 |
 | 2023-09-24 | 297,283 | 477 |
-| 2023-09-25 | 297,337 | 477 |
+| 2023-09-25 | 297,339 | 477 |
 ## Awards
 Max (Character Customization): 23,029  (Ranked 17)  
 Sum: 44,298 (Ranked 30)  

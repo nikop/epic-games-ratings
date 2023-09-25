@@ -250,9 +250,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 230201,
+  "EOS_Progressed": 230204,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16755,6 +16755,11 @@
       "Time": "2023-09-25T21:04:57.1598217+00:00",
       "NumProgressed": 230201,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-25T23:05:03.9076077+00:00",
+      "NumProgressed": 230204,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -16830,7 +16835,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82872
+      "UsersEstimate": 82873
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -16910,7 +16915,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78268
+      "UsersEstimate": 78269
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -16926,7 +16931,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50644
+      "UsersEstimate": 50645
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -16974,7 +16979,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39134
+      "UsersEstimate": 39135
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -16989,7 +16994,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230201,
+      "Progressed": 230204,
       "Completed": 5
     }
   ],
@@ -16997,8 +17002,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-24T16:59:25.0658821+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:04:50.9055052+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:05:03.9076073+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.470572+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:59:11.273703+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:04:50.9057025+00:00"
+  "LastUpdate_Ratings": "2023-09-25T22:59:32.3929407+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:05:03.9077147+00:00"
 }

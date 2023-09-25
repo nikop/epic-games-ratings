@@ -4,7 +4,7 @@
   "ProductSlug": "super-adventure-hand-62ec9a",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -66,9 +66,9 @@
       "ID": "ach_boss_defeated",
       "SetID": "8787m1a",
       "Name": "De-feet the Boss",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_boss_defeated_nodeath",
@@ -146,9 +146,9 @@
       "ID": "ach_stun_feet",
       "SetID": "8787m1a",
       "Name": "Take That!",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_thimble_apprentice",
@@ -170,9 +170,9 @@
       "ID": "ach_thimble_master",
       "SetID": "8787m1a",
       "Name": "Thimble Master",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_watch_wear",
@@ -193,8 +193,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:03:15.4582328+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:03:39.4157559+00:00",
   "LastUpdate_AppInfo": "2023-09-20T02:12:43.59716+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:58:24.0163409+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:03:15.4582606+00:00"
+  "LastUpdate_Ratings": "2023-09-25T22:58:46.3483206+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:03:39.4157669+00:00"
 }

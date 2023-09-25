@@ -124,12 +124,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.90% | ~127 |
 | Strong Difficulty | 0.90% | ~127 |
 | Hunters | 0.90% | ~127 |
+| Learn to Play 4 | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
 | Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
-| Learn to Play 4 | 0.80% | ~113 |
 | One True Faith | 0.80% | ~113 |
 | Turreted Elephant | 0.80% | ~113 |
 | No Undo | 0.80% | ~113 |
@@ -464,13 +464,13 @@ Completed: 5 (0.04%) (Ranked 257)
 | 2023-09-25 | 14,126 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
-Sum: 1,819 (Ranked 207)  
+Sum: 1,820 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 223 |
+| This game has Diverse Characters | 210 |
 | This game is Extremely Fun | 210 |
-| This game has Diverse Characters | 209 |
 | This game is Highly Recommended | 209 |
 | This game is Educational | 207 |
 | This game has Challenging Combat | 197 |
@@ -614,4 +614,4 @@ Diff (max vs sum): 58
 | 2023-09-21 | 4.65 | - | 221 | 1,813 |
 | 2023-09-22 | 4.65 | - | 221 | 1,814 |
 | 2023-09-23 | 4.65 | - | 222 | 1,817 |
-| 2023-09-25 | 4.65 | - | 223 | 1,819 |
+| 2023-09-25 | 4.65 | - | 223 | 1,820 |

@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 236,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -717,9 +717,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_8",
@@ -747,8 +747,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:08:23.4530441+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:09:24.9181032+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:58:56.1963318+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:08:23.4530614+00:00"
+  "LastUpdate_Ratings": "2023-09-25T22:59:15.4706688+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:09:24.9181162+00:00"
 }

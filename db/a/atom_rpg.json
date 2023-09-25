@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1238,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2625,6 +2625,11 @@
       "Time": "2023-09-25T22:05:21.7637383+00:00",
       "NumProgressed": 1238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T23:05:34.5678201+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2692,7 +2697,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "EXPERT_1",
@@ -2764,7 +2769,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -2788,7 +2793,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2860,7 +2865,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "SECRET_ROOM",
@@ -2908,7 +2913,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "WISHMASTER_1",
@@ -2923,15 +2928,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1238,
+      "Progressed": 1239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-25T22:05:21.7637378+00:00",
+  "LastChanged_Achievements": "2023-09-25T23:05:34.5678195+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:58:53.1625777+00:00",
-  "LastUpdate_Achievements": "2023-09-25T22:05:21.7638164+00:00"
+  "LastUpdate_Ratings": "2023-09-25T22:59:10.9266344+00:00",
+  "LastUpdate_Achievements": "2023-09-25T23:05:34.5678519+00:00"
 }
