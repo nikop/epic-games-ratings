@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66153,
+  "EOS_Progressed": 66155,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15787,6 +15787,11 @@
       "Time": "2023-09-25T01:49:02.0740409+00:00",
       "NumProgressed": 66153,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T02:22:17.7929569+00:00",
+      "NumProgressed": 66155,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15798,7 +15803,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27784
+      "UsersEstimate": 27785
     },
     {
       "ID": "02",
@@ -15966,7 +15971,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9261
+      "UsersEstimate": 9262
     },
     {
       "ID": "23",
@@ -15982,7 +15987,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7938
+      "UsersEstimate": 7939
     },
     {
       "ID": "25",
@@ -15998,7 +16003,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7938
+      "UsersEstimate": 7939
     },
     {
       "ID": "27",
@@ -16006,7 +16011,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9261
+      "UsersEstimate": 9262
     },
     {
       "ID": "28",
@@ -16022,7 +16027,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10585
     },
     {
       "ID": "30",
@@ -16030,7 +16035,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7938
+      "UsersEstimate": 7939
     },
     {
       "ID": "31",
@@ -16046,7 +16051,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21169
+      "UsersEstimate": 21170
     },
     {
       "ID": "33",
@@ -16070,7 +16075,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22492
+      "UsersEstimate": 22493
     },
     {
       "ID": "36",
@@ -16110,7 +16115,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6615
+      "UsersEstimate": 6616
     },
     {
       "ID": "41",
@@ -16158,7 +16163,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10585
     },
     {
       "ID": "47",
@@ -16333,21 +16338,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66153,
+      "Progressed": 66155,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29621,
+      "Progressed": 29623,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:49:02.0740405+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:22:17.792956+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:43:46.534767+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:49:02.0742054+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:16:51.7260611+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:22:17.7931506+00:00"
 }

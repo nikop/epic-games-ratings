@@ -4,7 +4,7 @@
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -306,8 +306,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:49:16.9708174+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:22:30.051684+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:17.3799353+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:43:54.5056905+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:49:16.9708417+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:16:58.2863784+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:22:30.0517075+00:00"
 }

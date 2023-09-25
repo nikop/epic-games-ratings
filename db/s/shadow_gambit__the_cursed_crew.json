@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 669,
+  "EOS_Progressed": 670,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.69,
   "EosHistory": [
@@ -1839,6 +1839,11 @@
       "Time": "2023-09-24T21:04:59.7387594+00:00",
       "NumProgressed": 669,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-25T02:21:36.7973235+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1851,7 +1856,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1859,7 +1864,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "_03_FinishAct1",
@@ -1867,7 +1872,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1875,7 +1880,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "_05_FinishAct2",
@@ -1931,7 +1936,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "_12_Completion_50",
@@ -1955,7 +1960,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "_15_Completion_80",
@@ -1995,7 +2000,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2058,7 +2063,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 669,
+      "Progressed": 670,
       "Completed": 18
     }
   ],
@@ -2066,8 +2071,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:48:13.3512635+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:21:36.7973227+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
   "LastUpdate_Ratings": "2023-09-25T01:45:05.9803671+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:48:13.3512913+00:00"
+  "LastUpdate_Achievements": "2023-09-25T02:21:36.7973567+00:00"
 }

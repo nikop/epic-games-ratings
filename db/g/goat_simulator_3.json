@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3982,10 +3982,10 @@
       "Count": 288
     }
   ],
-  "EOS_Progressed": 244993,
-  "EOS_Completed": 835,
-  "EOS_NewPlayers": 896,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 244994,
+  "EOS_Completed": 836,
+  "EOS_NewPlayers": 895,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -21092,6 +21092,11 @@
       "Time": "2023-09-25T01:52:06.6601248+00:00",
       "NumProgressed": 244993,
       "NumCompleted": 835
+    },
+    {
+      "Time": "2023-09-25T02:25:45.5131379+00:00",
+      "NumProgressed": 244994,
+      "NumCompleted": 836
     }
   ],
   "TotalAchievements": 39,
@@ -21167,7 +21172,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 222944
+      "UsersEstimate": 222945
     },
     {
       "ID": "AchievementClownID",
@@ -21183,7 +21188,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 19599
+      "UsersEstimate": 19600
     },
     {
       "ID": "AchievementCrashGameID",
@@ -21231,7 +21236,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129846
+      "UsersEstimate": 129847
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -21271,7 +21276,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 139646
+      "UsersEstimate": 139647
     },
     {
       "ID": "AchievementLootBoxID",
@@ -21303,7 +21308,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 93097
+      "UsersEstimate": 93098
     },
     {
       "ID": "AchievementRampID",
@@ -21335,7 +21340,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 181295
+      "UsersEstimate": 181296
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -21343,7 +21348,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19599
+      "UsersEstimate": 19600
     },
     {
       "ID": "AchievementStratosphereID",
@@ -21351,7 +21356,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 122496
+      "UsersEstimate": 122497
     },
     {
       "ID": "AchievementStreakingID",
@@ -21375,7 +21380,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134746
+      "UsersEstimate": 134747
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -21399,7 +21404,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 159245
+      "UsersEstimate": 159246
     },
     {
       "ID": "AchievementWhaleID",
@@ -21414,16 +21419,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 244993,
-      "Completed": 835
+      "Progressed": 244994,
+      "Completed": 836
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-24T15:59:56.4277815+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:52:06.6601242+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:25:45.5131373+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.6843433+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:42:27.3031526+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:52:06.6603124+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:15:47.459412+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:25:45.5132846+00:00"
 }

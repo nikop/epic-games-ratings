@@ -6,16 +6,16 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~945,383 |
-| I Need a Bigger Garage | 63.00% | ~661,768 |
-| Pump my Ride | 47.00% | ~493,700 |
-| Ghostbuster | 33.00% | ~346,641 |
-| Call Roadside Assistance | 18.00% | ~189,077 |
-| That Was Close | 18.00% | ~189,077 |
-| Quickie | 11.00% | ~115,547 |
-| California Dreamer | 7.00% | ~73,530 |
-| Can't Touch This | 5.00% | ~52,521 |
-| Comeback | 4.00% | ~42,017 |
+| The First of Many | 90.00% | ~945,402 |
+| I Need a Bigger Garage | 63.00% | ~661,782 |
+| Pump my Ride | 47.00% | ~493,710 |
+| Ghostbuster | 33.00% | ~346,648 |
+| Call Roadside Assistance | 18.00% | ~189,080 |
+| That Was Close | 18.00% | ~189,080 |
+| Quickie | 11.00% | ~115,549 |
+| California Dreamer | 7.00% | ~73,531 |
+| Can't Touch This | 5.00% | ~52,522 |
+| Comeback | 4.00% | ~42,018 |
 | Driver from Ipanema | 3.00% | ~31,513 |
 | Carménère Taster | 3.00% | ~31,513 |
 | Supersonic | 3.00% | ~31,513 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,504 |
 | Crocodile Hunter | 0.90% | ~9,454 |
 | Old Master | 0.90% | ~9,454 |
-| Volcano Surfer | 0.80% | ~8,403 |
-| Otaku | 0.80% | ~8,403 |
+| Volcano Surfer | 0.80% | ~8,404 |
+| Otaku | 0.80% | ~8,404 |
 | Survivor | 0.60% | ~6,303 |
 | King of the World | 0.60% | ~6,303 |
 | Getting Famous | 0.50% | ~5,252 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,050 |
 | Look Mom, No Hands! | 0.10% | ~1,050 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050,426 (Ranked 13)  
+Progressed: 1,050,447 (Ranked 13)  
 Completed: 435 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 435 (0.04%) (Ranked 256)
 | 2023-09-22 | 1,048,708 | 431 |
 | 2023-09-23 | 1,049,551 | 433 |
 | 2023-09-24 | 1,050,368 | 435 |
-| 2023-09-25 | 1,050,426 | 435 |
+| 2023-09-25 | 1,050,447 | 435 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 301)  
 Sum: 1,299 (Ranked 229)  

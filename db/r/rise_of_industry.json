@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737234,
+  "EOS_Progressed": 737237,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2109,
+  "EOS_NewPlayers": 2101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18026,6 +18026,11 @@
       "Time": "2023-09-25T01:50:43.5642348+00:00",
       "NumProgressed": 737234,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T02:25:10.7891943+00:00",
+      "NumProgressed": 737237,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 27,
@@ -18101,7 +18106,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 272777
+      "UsersEstimate": 272778
     },
     {
       "ID": "ach_demolish_trees",
@@ -18165,7 +18170,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 353872
+      "UsersEstimate": 353874
     },
     {
       "ID": "ach_produced",
@@ -18173,7 +18178,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 95840
+      "UsersEstimate": 95841
     },
     {
       "ID": "ach_products_moved",
@@ -18181,7 +18186,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 117957
+      "UsersEstimate": 117958
     },
     {
       "ID": "ach_raise_money",
@@ -18205,7 +18210,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 95840
+      "UsersEstimate": 95841
     },
     {
       "ID": "ach_setup_route_boat",
@@ -18245,14 +18250,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 140074
+      "UsersEstimate": 140075
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 737234,
+      "Progressed": 737237,
       "Completed": 3
     }
   ],
@@ -18260,8 +18265,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-09-10T12:00:55.773679+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:50:43.5642343+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:25:10.7891937+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:22.9529304+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:40:39.2339065+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:50:43.5643956+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:14:18.440411+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:25:10.7893217+00:00"
 }

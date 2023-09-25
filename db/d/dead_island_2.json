@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4830,10 +4830,10 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 685899,
+  "EOS_Progressed": 685911,
   "EOS_Completed": 2172,
-  "EOS_NewPlayers": 4003,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 4008,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22570,6 +22570,11 @@
       "Time": "2023-09-25T01:50:16.4129913+00:00",
       "NumProgressed": 685899,
       "NumCompleted": 2172
+    },
+    {
+      "Time": "2023-09-25T02:23:19.2371548+00:00",
+      "NumProgressed": 685911,
+      "NumCompleted": 2172
     }
   ],
   "TotalAchievements": 45,
@@ -22653,7 +22658,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "ach_defensive",
@@ -22717,7 +22722,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "ach_hazardous_materials",
@@ -22757,7 +22762,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "ach_investigator",
@@ -22909,7 +22914,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -22940,22 +22945,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 685899,
+      "Progressed": 685911,
       "Completed": 2172
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 11440,
-      "Completed": 11440
+      "Progressed": 11452,
+      "Completed": 11452
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-24T22:57:11.5576579+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:50:16.4129905+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:23:19.2371542+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:40:06.2893307+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:50:16.4132414+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:13:51.7876477+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:23:19.237318+00:00"
 }

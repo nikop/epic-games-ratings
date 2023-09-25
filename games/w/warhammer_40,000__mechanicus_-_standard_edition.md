@@ -6,19 +6,19 @@ Rating: 4.43 (Ranked 670)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~58,045 |
-| This is only the beginning | 19.00% | ~42,417 |
+| This is only the beginning | 19.00% | ~42,418 |
 | Knowledge is power | 12.00% | ~26,790 |
-| Power Ranger | 9.00% | ~20,092 |
-| Galvanic Rifle | 9.00% | ~20,092 |
-| Taser Goad | 9.00% | ~20,092 |
-| Radium Ready | 9.00% | ~20,092 |
-| Half a cog | 9.00% | ~20,092 |
+| Power Ranger | 9.00% | ~20,093 |
+| Galvanic Rifle | 9.00% | ~20,093 |
+| Taser Goad | 9.00% | ~20,093 |
+| Radium Ready | 9.00% | ~20,093 |
+| Half a cog | 9.00% | ~20,093 |
 | Watch them crumble | 6.00% | ~13,395 |
 | Competent Cohort | 4.00% | ~8,930 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,930 |
 | One with the Machine | 4.00% | ~8,930 |
-| Legio Cybernetica | 3.00% | ~6,697 |
-| Fleshy Disposal | 3.00% | ~6,697 |
+| Legio Cybernetica | 3.00% | ~6,698 |
+| Fleshy Disposal | 3.00% | ~6,698 |
 | Battle Servitor | 2.00% | ~4,465 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,465 |
 | Impatient destruction | 2.00% | ~4,465 |
@@ -27,9 +27,9 @@ Rating: 4.43 (Ranked 670)
 | Cohortus Maximus | 0.80% | ~1,786 |
 | Mother of Xenarites | 0.40% | ~893 |
 | False God | 0.30% | ~670 |
-| Hard | 0.20% | ~446 |
-| Sensory overload | 0.20% | ~446 |
-| Transonic Blur | 0.20% | ~446 |
+| Hard | 0.20% | ~447 |
+| Sensory overload | 0.20% | ~447 |
+| Transonic Blur | 0.20% | ~447 |
 | Sterile Perfection | 0.10% | ~223 |
 | Impossible | 0.10% | ~223 |
 | Melee Machine | 0.10% | ~223 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 670)
 | Perma-live | 0.10% | ~223 |
 | Purge the Heretek | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,249 (Ranked 59)  
+Progressed: 223,251 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,15 +198,15 @@ Completed: 5 (0.00%) (Ranked 292)
 | 2023-09-22 | 223,104 | 5 |
 | 2023-09-23 | 223,179 | 5 |
 | 2023-09-24 | 223,244 | 5 |
-| 2023-09-25 | 223,249 | 5 |
+| 2023-09-25 | 223,251 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 246)  
-Sum: 2,150 (Ranked 198)  
+Sum: 2,151 (Ranked 198)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 283 |
-| This game has Quickly Understood Controls | 277 |
+| This game has Quickly Understood Controls | 278 |
 | This game is Extremely Fun | 274 |
 | This game has Diverse Characters | 265 |
 | This game has Amazing Characters | 260 |
@@ -283,3 +283,4 @@ Diff (max vs sum): 48
 | 2023-09-21 | 4.43 | 283 | 2,146 |
 | 2023-09-22 | 4.43 | 283 | 2,149 |
 | 2023-09-23 | 4.43 | 283 | 2,150 |
+| 2023-09-25 | 4.43 | 283 | 2,151 |

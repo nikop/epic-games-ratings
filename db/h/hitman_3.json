@@ -9859,9 +9859,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1338034,
+  "EOS_Progressed": 1338035,
   "EOS_Completed": 2150,
-  "EOS_NewPlayers": 3073,
+  "EOS_NewPlayers": 3069,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27594,6 +27594,11 @@
       "Time": "2023-09-25T01:50:22.9302086+00:00",
       "NumProgressed": 1338034,
       "NumCompleted": 2150
+    },
+    {
+      "Time": "2023-09-25T02:23:24.4384133+00:00",
+      "NumProgressed": 1338035,
+      "NumCompleted": 2150
     }
   ],
   "TotalAchievements": 47,
@@ -27733,7 +27738,7 @@
       "Name": "Rise Up",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 173944
+      "UsersEstimate": 173945
     },
     {
       "ID": "ACH_017",
@@ -27797,7 +27802,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 481692
+      "UsersEstimate": 481693
     },
     {
       "ID": "ACH_025",
@@ -27845,7 +27850,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 441551
+      "UsersEstimate": 441552
     },
     {
       "ID": "ACH_031",
@@ -27869,7 +27874,7 @@
       "Name": "Console Cowboy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 133803
+      "UsersEstimate": 133804
     },
     {
       "ID": "ACH_034",
@@ -27973,22 +27978,22 @@
       "Name": "Last Stop",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 133803
+      "UsersEstimate": 133804
     }
   ],
   "AchievementSets": [
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1338034,
+      "Progressed": 1338035,
       "Completed": 2150
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-09-24T23:57:10.0678845+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:50:22.9302079+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:23:24.4384127+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:41.0229764+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:40:18.9333763+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:50:22.9304653+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:14:02.4534358+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:23:24.4385748+00:00"
 }

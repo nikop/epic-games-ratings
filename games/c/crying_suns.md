@@ -6,11 +6,11 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,852 |
+| The Shutdown | 66.00% | ~308,853 |
 | Jeef Skeejj | 44.00% | ~205,902 |
 | Careful planning | 39.00% | ~182,504 |
 | Second Coming | 33.00% | ~154,426 |
-| Jeef Skagg | 30.00% | ~140,387 |
+| Jeef Skagg | 30.00% | ~140,388 |
 | Mother | 25.00% | ~116,990 |
 | In space, no one can hear you scream | 24.00% | ~112,310 |
 | Chapter I: Echoes | 22.00% | ~102,951 |
@@ -31,20 +31,20 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~32,757 |
 | The Survivalists | 7.00% | ~32,757 |
 | The Tech Specialist | 7.00% | ~32,757 |
-| Chapter V: Memories of None | 6.00% | ~28,077 |
-| Meet your maker | 6.00% | ~28,077 |
-| The Impersonator | 6.00% | ~28,077 |
-| The Kid | 6.00% | ~28,077 |
-| The Evangelist | 6.00% | ~28,077 |
-| The Inquisitor | 6.00% | ~28,077 |
-| The Ace Pilot | 6.00% | ~28,077 |
-| The Tech Med | 6.00% | ~28,077 |
-| The Mech Soldier | 6.00% | ~28,077 |
-| The lucky charm | 6.00% | ~28,077 |
-| The Anonymous | 6.00% | ~28,077 |
-| The Smuggler | 6.00% | ~28,077 |
-| The Crazy Repairman | 6.00% | ~28,077 |
-| The Weasel | 6.00% | ~28,077 |
+| Chapter V: Memories of None | 6.00% | ~28,078 |
+| Meet your maker | 6.00% | ~28,078 |
+| The Impersonator | 6.00% | ~28,078 |
+| The Kid | 6.00% | ~28,078 |
+| The Evangelist | 6.00% | ~28,078 |
+| The Inquisitor | 6.00% | ~28,078 |
+| The Ace Pilot | 6.00% | ~28,078 |
+| The Tech Med | 6.00% | ~28,078 |
+| The Mech Soldier | 6.00% | ~28,078 |
+| The lucky charm | 6.00% | ~28,078 |
+| The Anonymous | 6.00% | ~28,078 |
+| The Smuggler | 6.00% | ~28,078 |
+| The Crazy Repairman | 6.00% | ~28,078 |
+| The Weasel | 6.00% | ~28,078 |
 | Kill the Doctor | 5.00% | ~23,398 |
 | Forsaken | 5.00% | ~23,398 |
 | Mercy | 5.00% | ~23,398 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,958 (Ranked 37)  
+Progressed: 467,959 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 18 (0.00%) (Ranked 292)
 | 2023-09-22 | 467,804 | 18 |
 | 2023-09-23 | 467,884 | 18 |
 | 2023-09-24 | 467,949 | 18 |
-| 2023-09-25 | 467,958 | 18 |
+| 2023-09-25 | 467,959 | 18 |
 ## Awards
 Max (Character Customization): 219  (Ranked 269)  
 Sum: 239 (Ranked 364)  

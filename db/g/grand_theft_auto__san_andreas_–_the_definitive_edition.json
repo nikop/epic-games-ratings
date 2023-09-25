@@ -1024,9 +1024,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12856,
+  "EOS_Progressed": 12858,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -11479,6 +11479,11 @@
       "Time": "2023-09-25T01:51:05.0121708+00:00",
       "NumProgressed": 12856,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-25T02:25:20.1471314+00:00",
+      "NumProgressed": 12858,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -11490,7 +11495,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10413
+      "UsersEstimate": 10415
     },
     {
       "ID": "ACH02",
@@ -11506,7 +11511,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH04",
@@ -11546,7 +11551,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6428
+      "UsersEstimate": 6429
     },
     {
       "ID": "ACH09",
@@ -11658,7 +11663,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "ACH23",
@@ -11706,7 +11711,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH29",
@@ -11714,7 +11719,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "ACH30",
@@ -11769,7 +11774,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12856,
+      "Progressed": 12858,
       "Completed": 45
     }
   ],
@@ -11777,8 +11782,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-24T23:57:38.7196524+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:51:05.0121701+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:25:20.1471306+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:40:57.6739134+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:51:05.0123264+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:14:30.777292+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:25:20.1472264+00:00"
 }

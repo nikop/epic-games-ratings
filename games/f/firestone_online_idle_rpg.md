@@ -46,10 +46,10 @@ Rating: 4.02 (Ranked 948)
 | Crystal Mining | 8.00% | ~158 |
 | Dragon Slayer | 8.00% | ~158 |
 | Enchanting skill | 8.00% | ~158 |
+| Engineer Mastery | 8.00% | ~158 |
 | The Expeditioner | 8.00% | ~158 |
 | Weekly Quest Completionist | 8.00% | ~158 |
 | Blueprint Upgrades | 7.00% | ~138 |
-| Engineer Mastery | 7.00% | ~138 |
 | Lock And Load | 7.00% | ~138 |
 | Missions Dedication | 7.00% | ~138 |
 | Sailor | 7.00% | ~138 |

@@ -5,18 +5,18 @@ Rating: 4.67 (Ranked 261)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~1,755 |
-| On the Top Step | 86.00% | ~1,623 |
-| Setting up for Success | 75.00% | ~1,415 |
+| Getting on the Step | 93.00% | ~1,756 |
+| On the Top Step | 86.00% | ~1,624 |
+| Setting up for Success | 75.00% | ~1,416 |
 | Team Orders | 73.00% | ~1,378 |
-| Engineer | 54.00% | ~1,019 |
+| Engineer | 54.00% | ~1,020 |
 | Familiar Faces | 47.00% | ~887 |
 | Going the Extra Mile | 42.00% | ~793 |
 | Sharing the Love | 38.00% | ~717 |
 | Hitting a Season | 34.00% | ~642 |
 | Challenge Yourself | 32.00% | ~604 |
 | Making History | 31.00% | ~585 |
-| A Dozen Pieces | 29.00% | ~547 |
+| A Dozen Pieces | 29.00% | ~548 |
 | Writing a new Chapter | 24.00% | ~453 |
 | Spring Cleaning | 23.00% | ~434 |
 | Network Success | 23.00% | ~434 |
@@ -30,8 +30,8 @@ Rating: 4.67 (Ranked 261)
 | Gathering Dust | 15.00% | ~283 |
 | Lightning Round the World | 14.00% | ~264 |
 | Hitting a Bullseye | 14.00% | ~264 |
-| All in a Weekend's Work | 12.00% | ~226 |
-| Tinkerer | 12.00% | ~226 |
+| All in a Weekend's Work | 12.00% | ~227 |
+| Tinkerer | 12.00% | ~227 |
 | Eagle Eye | 11.00% | ~208 |
 | Spinning Around | 11.00% | ~208 |
 | Recycle | 11.00% | ~208 |
@@ -43,7 +43,7 @@ Rating: 4.67 (Ranked 261)
 | Living up to Expectations | 6.00% | ~113 |
 | Smooth Operator | 6.00% | ~113 |
 | Peak Performance | 5.00% | ~94 |
-| Hitting a Century | 4.00% | ~75 |
+| Hitting a Century | 4.00% | ~76 |
 | Seasoned Rookie | 3.00% | ~57 |
 | Wait, I know you? | 3.00% | ~57 |
 | Filling in the Gaps | 3.00% | ~57 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 261)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,887 (Ranked 200)  
+Progressed: 1,888 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 1,316 | 0 |
 | 2023-09-23 | 1,614 | 0 |
 | 2023-09-24 | 1,871 | 0 |
-| 2023-09-25 | 1,887 | 0 |
+| 2023-09-25 | 1,888 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2864,18 +2864,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 10023,
       "NumberOfAwardsMax": 7690
+    },
+    {
+      "Time": "2023-09-25T02:19:09.5070809+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 10024,
+      "NumberOfAwardsMax": 7691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10023,
-  "NumberOfAwardsMax": 7690,
+  "NumberOfAwards": 10024,
+  "NumberOfAwardsMax": 7691,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 7690
+      "Count": 7691
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2938,9 +2944,9 @@
       "Count": 193
     }
   ],
-  "EOS_Progressed": 727028,
+  "EOS_Progressed": 727030,
   "EOS_Completed": 738,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -20493,6 +20499,11 @@
       "Time": "2023-09-25T01:50:09.6549427+00:00",
       "NumProgressed": 727028,
       "NumCompleted": 738
+    },
+    {
+      "Time": "2023-09-25T02:23:13.6200223+00:00",
+      "NumProgressed": 727030,
+      "NumCompleted": 738
     }
   ],
   "TotalAchievements": 98,
@@ -20536,7 +20547,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 218108
+      "UsersEstimate": 218109
     },
     {
       "ID": "BallShooter",
@@ -20720,7 +20731,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 348973
+      "UsersEstimate": 348974
     },
     {
       "ID": "FireFlies",
@@ -20736,7 +20747,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 283541
+      "UsersEstimate": 283542
     },
     {
       "ID": "FliesBeam",
@@ -20752,7 +20763,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 385325
+      "UsersEstimate": 385326
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -20760,7 +20771,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 181757
+      "UsersEstimate": 181758
     },
     {
       "ID": "Freed_from_Prison",
@@ -20864,7 +20875,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 399865
+      "UsersEstimate": 399867
     },
     {
       "ID": "Healthregen",
@@ -20872,7 +20883,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 341703
+      "UsersEstimate": 341704
     },
     {
       "ID": "HelpedAStar",
@@ -20888,7 +20899,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 305352
+      "UsersEstimate": 305353
     },
     {
       "ID": "Holy_Sword",
@@ -20896,7 +20907,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 167216
+      "UsersEstimate": 167217
     },
     {
       "ID": "Horticultural",
@@ -20944,7 +20955,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 269000
+      "UsersEstimate": 269001
     },
     {
       "ID": "MacGuffin",
@@ -21016,7 +21027,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 719758
+      "UsersEstimate": 719760
     },
     {
       "ID": "PanicLights",
@@ -21136,7 +21147,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 479838
+      "UsersEstimate": 479840
     },
     {
       "ID": "Strong",
@@ -21144,7 +21155,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 87243
+      "UsersEstimate": 87244
     },
     {
       "ID": "SuperSword",
@@ -21168,7 +21179,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 167216
+      "UsersEstimate": 167217
     },
     {
       "ID": "The_Blues",
@@ -21176,7 +21187,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 617974
+      "UsersEstimate": 617976
     },
     {
       "ID": "ThroughPipe",
@@ -21216,7 +21227,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 312622
+      "UsersEstimate": 312623
     },
     {
       "ID": "True_Holy_Spirit",
@@ -21287,15 +21298,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 727028,
+      "Progressed": 727030,
       "Completed": 738
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
-  "LastChanged": "2023-09-23T13:06:29.6381581+00:00",
-  "LastChanged_Achievements": "2023-09-25T01:50:09.6549421+00:00",
+  "LastChanged": "2023-09-25T02:19:09.5070807+00:00",
+  "LastChanged_Achievements": "2023-09-25T02:23:13.6200216+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.2601521+00:00",
-  "LastUpdate_Ratings": "2023-09-25T01:45:12.1885522+00:00",
-  "LastUpdate_Achievements": "2023-09-25T01:50:09.6553543+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:19:09.5070812+00:00",
+  "LastUpdate_Achievements": "2023-09-25T02:23:13.6202708+00:00"
 }

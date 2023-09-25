@@ -22,12 +22,12 @@
 | Alice ✔ | 6.00% | ~16 |
 | Antivirus ✔ | 6.00% | ~16 |
 | Cheats ✔ | 6.00% | ~16 |
+| Eva ✔ | 6.00% | ~16 |
 | Food ✔ | 6.00% | ~16 |
 | King of survival ✔ | 6.00% | ~16 |
 | All secrets revealed ✔ | 6.00% | ~16 |
 | Boss 1 ✔ | 5.00% | ~13 |
 | Brain ✔ | 5.00% | ~13 |
-| Eva ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
 | Secret ✔ | 4.00% | ~11 |
 | Group Alpha ✔ | 4.00% | ~11 |
