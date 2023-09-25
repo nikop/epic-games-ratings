@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2232,9 +2232,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26031,
+  "EOS_Progressed": 26033,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13607,6 +13607,11 @@
       "Time": "2023-09-25T19:07:42.4667348+00:00",
       "NumProgressed": 26031,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-25T21:07:10.7787357+00:00",
+      "NumProgressed": 26033,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13872,9 +13877,9 @@
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Seasoned",
@@ -13960,9 +13965,9 @@
       "ID": "Terrifying",
       "SetID": "819popo",
       "Name": "Terrifying",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Therapeutic",
@@ -14025,7 +14030,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26031,
+      "Progressed": 26033,
       "Completed": 58
     }
   ],
@@ -14033,8 +14038,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:07:25.3335636+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:07:10.7787352+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:58:10.1275106+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:07:25.3337057+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:58:00.9848121+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:07:10.7788478+00:00"
 }

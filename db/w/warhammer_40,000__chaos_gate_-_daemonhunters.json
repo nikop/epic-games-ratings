@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -734,7 +734,7 @@
   ],
   "EOS_Progressed": 3237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3627,9 +3627,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 97
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -3867,9 +3867,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 129
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -4067,9 +4067,9 @@
       "ID": "TentarusHive_Destroyed",
       "SetID": "2im8phi",
       "Name": "Hive Exterminator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
@@ -4089,8 +4089,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:04:31.5738401+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:04:28.5212011+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:57:15.5278285+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:04:31.573945+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:57:16.3968259+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:04:28.5212859+00:00"
 }

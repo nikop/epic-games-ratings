@@ -13,20 +13,20 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 5.00% | ~162 |
 | Blood for the Blood God! | 4.00% | ~129 |
 | Purging Spree | 4.00% | ~129 |
+| Bloodless | 4.00% | ~129 |
+| Surgical Excision | 3.00% | ~97 |
 | Friendly Fire | 3.00% | ~97 |
-| Bloodless | 3.00% | ~97 |
 | A Foul Creche | 3.00% | ~97 |
 | Honoured Battle-Brother | 2.00% | ~65 |
-| Surgical Excision | 2.00% | ~65 |
 | Hold Your Ground | 2.00% | ~65 |
 | The Emperor Protects | 2.00% | ~65 |
 | Nemesis Master | 2.00% | ~65 |
 | Gunmaster | 2.00% | ~65 |
 | Just a Scratch | 2.00% | ~65 |
+| Hive Exterminator | 2.00% | ~65 |
 | Corruption Cleanser | 1.00% | ~32 |
 | Efficient Killer | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
-| Hive Exterminator | 1.00% | ~32 |
 | Daemonkeeper | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
 | Exterminator | 0.80% | ~26 |

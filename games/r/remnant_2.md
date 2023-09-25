@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,777 |
-| The Killing Jar | 8.00% | ~14,913 |
-| Not Your Average Trait | 8.00% | ~14,913 |
-| Expanding Horizons | 7.00% | ~13,049 |
-| Quest for Survival | 7.00% | ~13,049 |
-| Gleaming the Cube | 6.00% | ~11,185 |
-| Not a Janitor | 6.00% | ~11,185 |
-| Familiar Face | 6.00% | ~11,185 |
-| Duality | 6.00% | ~11,185 |
-| Boss'n Up | 6.00% | ~11,185 |
-| Good, But Could Be Better! | 6.00% | ~11,185 |
-| Trait Chaser | 6.00% | ~11,185 |
-| Not So Special Now | 5.00% | ~9,321 |
-| Equal Measures | 5.00% | ~9,321 |
-| Blue Goddess | 5.00% | ~9,321 |
-| Top Performer | 5.00% | ~9,321 |
-| Shhh...It's a Secret | 5.00% | ~9,321 |
-| Almost There | 5.00% | ~9,321 |
-| Make Some Room | 5.00% | ~9,321 |
+| First of Many | 9.00% | ~16,779 |
+| The Killing Jar | 8.00% | ~14,914 |
+| Not Your Average Trait | 8.00% | ~14,914 |
+| Expanding Horizons | 7.00% | ~13,050 |
+| Quest for Survival | 7.00% | ~13,050 |
+| Gleaming the Cube | 6.00% | ~11,186 |
+| Not a Janitor | 6.00% | ~11,186 |
+| Familiar Face | 6.00% | ~11,186 |
+| Duality | 6.00% | ~11,186 |
+| Boss'n Up | 6.00% | ~11,186 |
+| Good, But Could Be Better! | 6.00% | ~11,186 |
+| Trait Chaser | 6.00% | ~11,186 |
+| Not So Special Now | 5.00% | ~9,322 |
+| Equal Measures | 5.00% | ~9,322 |
+| Blue Goddess | 5.00% | ~9,322 |
+| Top Performer | 5.00% | ~9,322 |
+| Shhh...It's a Secret | 5.00% | ~9,322 |
+| Almost There | 5.00% | ~9,322 |
+| Make Some Room | 5.00% | ~9,322 |
 | Chaos | 4.00% | ~7,457 |
 | Traitor | 4.00% | ~7,457 |
 | Forever is a Long Time Coming | 4.00% | ~7,457 |
@@ -35,28 +35,28 @@ Rating: 4.76 (Ranked 118)
 | The Web | 4.00% | ~7,457 |
 | Scrap Collector | 4.00% | ~7,457 |
 | All These Traits� | 4.00% | ~7,457 |
-| Am I Seeing This? | 3.00% | ~5,592 |
-| The Agenda | 3.00% | ~5,592 |
-| Tall Tales | 3.00% | ~5,592 |
-| Bad Moon Rising | 3.00% | ~5,592 |
-| Strapped | 3.00% | ~5,592 |
-| Edgelord | 3.00% | ~5,592 |
-| The Ultimate Weapon | 3.00% | ~5,592 |
-| No One Should Have All That Power | 3.00% | ~5,592 |
-| Crafty | 2.00% | ~3,728 |
-| Only Human | 2.00% | ~3,728 |
-| Red Room | 2.00% | ~3,728 |
-| The Collector | 2.00% | ~3,728 |
-| Scrap Hoarder | 2.00% | ~3,728 |
-| Carnage in C-Minor | 2.00% | ~3,728 |
-| Maxed Out! | 2.00% | ~3,728 |
-| Transmutate | 2.00% | ~3,728 |
+| Am I Seeing This? | 3.00% | ~5,593 |
+| The Agenda | 3.00% | ~5,593 |
+| Tall Tales | 3.00% | ~5,593 |
+| Bad Moon Rising | 3.00% | ~5,593 |
+| Strapped | 3.00% | ~5,593 |
+| Edgelord | 3.00% | ~5,593 |
+| The Ultimate Weapon | 3.00% | ~5,593 |
+| No One Should Have All That Power | 3.00% | ~5,593 |
+| Crafty | 2.00% | ~3,729 |
+| Only Human | 2.00% | ~3,729 |
+| Red Room | 2.00% | ~3,729 |
+| The Collector | 2.00% | ~3,729 |
+| Scrap Hoarder | 2.00% | ~3,729 |
+| Carnage in C-Minor | 2.00% | ~3,729 |
+| Maxed Out! | 2.00% | ~3,729 |
+| Transmutate | 2.00% | ~3,729 |
 | The Trigger | 1.00% | ~1,864 |
 | Cutting Edge | 1.00% | ~1,864 |
 | Proving Grounds | 1.00% | ~1,864 |
 | Ghost in the Machine | 0.90% | ~1,678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,413 (Ranked 65)  
+Progressed: 186,430 (Ranked 65)  
 Completed: 334 (0.18%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,17 +127,17 @@ Completed: 334 (0.18%) (Ranked 213)
 | 2023-09-22 | 184,861 | 323 |
 | 2023-09-23 | 185,431 | 328 |
 | 2023-09-24 | 186,027 | 332 |
-| 2023-09-25 | 186,413 | 334 |
+| 2023-09-25 | 186,430 | 334 |
 ## Awards
 Max (Great Boss Battles): 1,712  (Ranked 119)  
-Sum: 3,524 (Ranked 155)  
+Sum: 3,527 (Ranked 155)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,712 |
 | This game is Extremely Fun | 204 |
 | This game has Diverse Characters | 201 |
-| This game has Challenging Combat | 196 |
+| This game has Challenging Combat | 199 |
 | This game is Relaxing | 192 |
 | This game has Amazing Characters | 189 |
 | This game is Highly Recommended | 188 |
@@ -209,4 +209,4 @@ Diff (max vs sum): -36
 | 2023-09-22 | 4.76 | 1,678 | 3,409 |
 | 2023-09-23 | 4.76 | 1,701 | 3,458 |
 | 2023-09-24 | 4.76 | 1,701 | 3,494 |
-| 2023-09-25 | 4.76 | 1,712 | 3,524 |
+| 2023-09-25 | 4.76 | 1,712 | 3,527 |

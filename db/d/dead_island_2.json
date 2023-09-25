@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4848,10 +4848,10 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686298,
-  "EOS_Completed": 2173,
-  "EOS_NewPlayers": 3968,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 686317,
+  "EOS_Completed": 2174,
+  "EOS_NewPlayers": 3974,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22683,6 +22683,11 @@
       "Time": "2023-09-25T20:07:34.8217724+00:00",
       "NumProgressed": 686298,
       "NumCompleted": 2173
+    },
+    {
+      "Time": "2023-09-25T21:07:19.2119277+00:00",
+      "NumProgressed": 686317,
+      "NumCompleted": 2174
     }
   ],
   "TotalAchievements": 45,
@@ -22766,7 +22771,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "ach_defensive",
@@ -22830,7 +22835,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "ach_hazardous_materials",
@@ -22854,7 +22859,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20589
+      "UsersEstimate": 20590
     },
     {
       "ID": "ach_impressive_aim",
@@ -22870,7 +22875,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "ach_investigator",
@@ -22998,7 +23003,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5490
+      "UsersEstimate": 5491
     },
     {
       "ID": "ach_thesacrifice",
@@ -23022,7 +23027,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -23030,7 +23035,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20589
+      "UsersEstimate": 20590
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23038,7 +23043,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5490
+      "UsersEstimate": 5491
     },
     {
       "ID": "ach_well_trained",
@@ -23053,22 +23058,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686298,
-      "Completed": 2173
+      "Progressed": 686317,
+      "Completed": 2174
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 11839,
-      "Completed": 11839
+      "Progressed": 11858,
+      "Completed": 11858
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-25T19:57:28.2116089+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:07:34.8217715+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:07:19.211927+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:57:28.2116096+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:07:34.821939+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:57:29.0772758+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:07:19.2120688+00:00"
 }

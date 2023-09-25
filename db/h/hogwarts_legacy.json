@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8112,7 +8112,7 @@
       "Count": 672
     }
   ],
-  "EOS_Progressed": 297335,
+  "EOS_Progressed": 297337,
   "EOS_Completed": 477,
   "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 3,
@@ -25232,6 +25232,11 @@
       "Time": "2023-09-25T20:07:19.3195762+00:00",
       "NumProgressed": 297335,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-25T21:07:05.4520144+00:00",
+      "NumProgressed": 297337,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25243,7 +25248,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44600
+      "UsersEstimate": 44601
     },
     {
       "ID": "PFA_10",
@@ -25307,7 +25312,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20813
+      "UsersEstimate": 20814
     },
     {
       "ID": "PFA_18",
@@ -25602,7 +25607,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297335,
+      "Progressed": 297337,
       "Completed": 477
     }
   ],
@@ -25610,8 +25615,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-25T17:00:30.4424532+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:07:19.3195755+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:07:05.4520139+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-25T20:01:07.6074532+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:07:19.3197421+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:00:37.145158+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:07:05.4521539+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -467,9 +467,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -507,9 +507,9 @@
       "ID": "PET_DOG",
       "SetID": "7im05fi",
       "Name": "Overwhelmed Beast",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:07:25.741324+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:07:11.0108658+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.335605+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:59:30.7006612+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:07:25.7413415+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:59:09.8165654+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:07:11.0108811+00:00"
 }

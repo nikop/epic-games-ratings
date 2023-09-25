@@ -1,14 +1,14 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.61 (Ranked 369)  
+Rating: 4.61 (Ranked 370)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 94.00% | ~389 |
 | Welcome Aboard | 85.00% | ~352 |
 | Lab Rat | 72.00% | ~298 |
-| All Systems Go | 61.00% | ~253 |
+| All Systems Go | 62.00% | ~257 |
 | Brute Force | 61.00% | ~253 |
 | Cannon Fodder | 57.00% | ~236 |
 | Autofire | 54.00% | ~224 |
@@ -26,14 +26,14 @@ Rating: 4.61 (Ranked 369)
 | Strange Transmissions | 33.00% | ~137 |
 | Wreckage | 32.00% | ~132 |
 | A Cut Above | 30.00% | ~124 |
-| Keeper of the Faith | 28.00% | ~116 |
-| Betrayed | 27.00% | ~112 |
+| Keeper of the Faith | 29.00% | ~120 |
+| Betrayed | 28.00% | ~116 |
+| Legend Teller | 27.00% | ~112 |
 | Front Toward Enemy | 27.00% | ~112 |
 | There's Always Peng! | 27.00% | ~112 |
-| Legend Teller | 26.00% | ~108 |
 | Exodus | 25.00% | ~104 |
 | Mindless Prey | 25.00% | ~104 |
-| Whole Again | 21.00% | ~87 |
+| Whole Again | 22.00% | ~91 |
 | Set A Benchmark | 20.00% | ~83 |
 | Full Contact | 20.00% | ~83 |
 | Final Regeneration | 18.00% | ~75 |

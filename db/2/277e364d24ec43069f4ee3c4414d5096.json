@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 369,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 75,
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109088,
+  "EOS_Progressed": 109090,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 870,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12186,6 +12186,11 @@
       "Time": "2023-09-25T20:06:33.841028+00:00",
       "NumProgressed": 109088,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-25T21:06:04.1275431+00:00",
+      "NumProgressed": 109090,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -12205,7 +12210,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 82907
+      "UsersEstimate": 82908
     },
     {
       "ID": "EAwards_10",
@@ -12229,7 +12234,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15272
+      "UsersEstimate": 15273
     },
     {
       "ID": "EAwards_13",
@@ -12293,7 +12298,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 52362
+      "UsersEstimate": 52363
     },
     {
       "ID": "EAwards_20",
@@ -12588,7 +12593,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 109088,
+      "Progressed": 109090,
       "Completed": 42
     }
   ],
@@ -12596,8 +12601,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:06:33.8410273+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:06:04.1275427+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.3019497+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:59:36.2697089+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:06:33.8411695+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:59:13.1280829+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:06:04.1276639+00:00"
 }

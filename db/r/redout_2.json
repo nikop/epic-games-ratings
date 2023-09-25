@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1130,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -925,6 +925,11 @@
       "Time": "2023-09-24T08:06:07.4823047+00:00",
       "NumProgressed": 1130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T21:05:37.5323726+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -960,7 +965,7 @@
       "Name": "B-asic!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ALLMODULESS",
@@ -1088,7 +1093,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1232,7 +1237,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ONELIVERY",
@@ -1272,7 +1277,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1351,7 +1356,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1130,
+      "Progressed": 1131,
       "Completed": 0
     }
   ],
@@ -1359,8 +1364,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:05:52.4088243+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:05:37.5323721+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.7086726+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:58:35.0254058+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:05:52.408883+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:58:25.8057826+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:05:37.5324213+00:00"
 }

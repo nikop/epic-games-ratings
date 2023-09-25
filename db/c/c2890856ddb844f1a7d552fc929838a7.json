@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 844,
+  "EOS_Progressed": 845,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1756,6 +1756,11 @@
       "Time": "2023-09-25T16:06:40.8397184+00:00",
       "NumProgressed": 844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T21:05:29.4743642+00:00",
+      "NumProgressed": 845,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1776,7 +1781,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "AC02",
@@ -1784,7 +1789,7 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "AC03",
@@ -1792,7 +1797,7 @@
       "Name": "Blood and Gold",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "AC04",
@@ -1800,7 +1805,7 @@
       "Name": "Blood and Iron",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "AC05",
@@ -1808,7 +1813,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "AC06",
@@ -1816,7 +1821,7 @@
       "Name": "The Last Ascension",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "AC07",
@@ -1824,7 +1829,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "AC08",
@@ -1832,7 +1837,7 @@
       "Name": "Forged in Fire",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "AC09",
@@ -1872,7 +1877,7 @@
       "Name": "Second Psalm.",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "AC14",
@@ -1928,7 +1933,7 @@
       "Name": "Still Among Us",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "AC21",
@@ -1936,7 +1941,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "AC22",
@@ -1960,7 +1965,7 @@
       "Name": "The Work of a Master",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "AC25",
@@ -1976,7 +1981,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "AC27",
@@ -2008,7 +2013,7 @@
       "Name": "The Anointed One",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "AC31",
@@ -2030,9 +2035,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 507
     },
     {
       "ID": "AC34",
@@ -2064,7 +2069,7 @@
       "Name": "Storm of Death",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "AC38",
@@ -2072,7 +2077,7 @@
       "Name": "Edge of Orison",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "AC39",
@@ -2094,9 +2099,9 @@
       "ID": "AC41",
       "SetID": "l4abp0",
       "Name": "Happy New Year!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 110
     },
     {
       "ID": "AC42",
@@ -2135,7 +2140,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 844,
+      "Progressed": 845,
       "Completed": 0
     }
   ],
@@ -2143,8 +2148,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-25T13:07:06.2742312+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:05:42.945316+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:05:29.4743637+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.9594504+00:00",
-  "LastUpdate_Ratings": "2023-09-25T20:00:22.2316911+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:05:42.9453728+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:00:00.3325731+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:05:29.4744155+00:00"
 }

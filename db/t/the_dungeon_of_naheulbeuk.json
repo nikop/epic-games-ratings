@@ -996,9 +996,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 226719,
+  "EOS_Progressed": 226731,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1608,
+  "EOS_NewPlayers": 1613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12271,6 +12271,11 @@
       "Time": "2023-09-25T20:04:13.4593968+00:00",
       "NumProgressed": 226719,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T21:04:12.7125838+00:00",
+      "NumProgressed": 226731,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12282,7 +12287,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "100Fail",
@@ -12314,7 +12319,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "BookCollection",
@@ -12346,7 +12351,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "Chapter4",
@@ -12354,7 +12359,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "Chapter5",
@@ -12362,7 +12367,7 @@
       "Name": "The Great Library",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "Chapter6",
@@ -12682,7 +12687,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11336
+      "UsersEstimate": 11337
     },
     {
       "ID": "DwarfElf15Support",
@@ -12730,7 +12735,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70283
+      "UsersEstimate": 70287
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12754,7 +12759,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "EndGameCursed",
@@ -12778,7 +12783,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11336
+      "UsersEstimate": 11337
     },
     {
       "ID": "FollowBraztok",
@@ -12802,7 +12807,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "KillDungeonLich",
@@ -12962,7 +12967,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "WizardEpic",
@@ -12978,28 +12983,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226719,
+      "Progressed": 226731,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226719,
+      "Progressed": 226731,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-25T13:03:27.8694328+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:04:13.4593962+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:04:12.7125833+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:57:07.6353856+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:04:13.4595787+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:57:07.9039048+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:04:12.7127524+00:00"
 }

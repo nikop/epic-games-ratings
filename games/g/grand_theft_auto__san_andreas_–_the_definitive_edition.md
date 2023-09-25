@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,438 |
-| Pay 'n' Spray | 50.00% | ~6,443 |
-| All Dressed Up for San Fierro | 26.00% | ~3,350 |
-| The American Dream | 19.00% | ~2,448 |
-| School's Out | 18.00% | ~2,319 |
+| Getting Started | 81.00% | ~10,441 |
+| Pay 'n' Spray | 50.00% | ~6,445 |
+| All Dressed Up for San Fierro | 26.00% | ~3,351 |
+| The American Dream | 19.00% | ~2,449 |
+| School's Out | 18.00% | ~2,320 |
 | Smooth Moves | 17.00% | ~2,191 |
-| What happens in Las Venturas... | 15.00% | ~1,933 |
-| Today Was a Good Day | 15.00% | ~1,933 |
-| Horror of the Santa Maria | 11.00% | ~1,417 |
+| What happens in Las Venturas... | 15.00% | ~1,934 |
+| Today Was a Good Day | 15.00% | ~1,934 |
+| Horror of the Santa Maria | 11.00% | ~1,418 |
 | Liberty City State of Mind | 10.00% | ~1,289 |
 | The End of the Line | 8.00% | ~1,031 |
 | Original Gangster | 8.00% | ~1,031 |
@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 471)
 | Saviour | 6.00% | ~773 |
 | They Can’t Stop All of Us | 5.00% | ~644 |
 | Rescue a Kitten Too? | 5.00% | ~644 |
-| What are the Odds | 4.00% | ~515 |
+| What are the Odds | 4.00% | ~516 |
 | Bike or Biker | 3.00% | ~387 |
 | What the City Needs | 3.00% | ~387 |
 | A Legitimate Business | 2.00% | ~258 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 471)
 | ...Here we go again | 0.50% | ~64 |
 | I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,886 (Ranked 133)  
+Progressed: 12,890 (Ranked 133)  
 Completed: 47 (0.36%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 47 (0.36%) (Ranked 178)
 | 2023-09-22 | 12,700 | 45 |
 | 2023-09-23 | 12,771 | 45 |
 | 2023-09-24 | 12,846 | 45 |
-| 2023-09-25 | 12,886 | 47 |
+| 2023-09-25 | 12,890 | 47 |
 ## Awards
 Max (Great Boss Battles): 310  (Ranked 237)  
 Sum: 431 (Ranked 318)  

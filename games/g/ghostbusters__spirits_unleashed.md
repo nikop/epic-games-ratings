@@ -24,6 +24,7 @@ Rating: 4.50 (Ranked 572)
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
 | Summoner | 0.40% | ~104 |
+| Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
@@ -31,7 +32,6 @@ Rating: 4.50 (Ranked 572)
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
-| Terrifying | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
 | Collector | 0.20% | ~52 |
 | Diabolical | 0.20% | ~52 |
@@ -40,6 +40,7 @@ Rating: 4.50 (Ranked 572)
 | Pesky Jerks | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
+| Rivalry | 0.20% | ~52 |
 | Seasoned | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
@@ -52,12 +53,11 @@ Rating: 4.50 (Ranked 572)
 | Master Collector | 0.10% | ~26 |
 | Mycophile | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
-| Rivalry | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,031 (Ranked 111)  
+Progressed: 26,033 (Ranked 111)  
 Completed: 58 (0.22%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 58 (0.22%) (Ranked 205)
 | 2023-09-22 | 25,960 | 58 |
 | 2023-09-23 | 25,986 | 58 |
 | 2023-09-24 | 26,020 | 58 |
-| 2023-09-25 | 26,031 | 58 |
+| 2023-09-25 | 26,033 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 256)  
 Sum: 2,331 (Ranked 188)  

@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -697,9 +697,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -785,9 +785,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -808,8 +808,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:04:26.138747+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:04:23.6546019+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-25T20:00:34.7712639+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:04:26.1387657+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:00:11.2615071+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:04:23.6546201+00:00"
 }

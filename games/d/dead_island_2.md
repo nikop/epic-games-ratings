@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 506)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,589 |
-| Welcome To Hell-A | 3.00% | ~20,589 |
+| Hotel California | 3.00% | ~20,590 |
+| Welcome To Hell-A | 3.00% | ~20,590 |
 | Dr. Reed, I Presume? | 2.00% | ~13,726 |
 | Git Gutte! | 2.00% | ~13,726 |
 | Bookworm | 2.00% | ~13,726 |
@@ -34,14 +34,14 @@ Rating: 4.54 (Ranked 506)
 | Down with the Sickness | 1.00% | ~6,863 |
 | Our True Nature | 1.00% | ~6,863 |
 | Max Headroom | 0.90% | ~6,177 |
-| Go, Bobcats! | 0.80% | ~5,490 |
-| Rising Star | 0.80% | ~5,490 |
+| Go, Bobcats! | 0.80% | ~5,491 |
+| Rising Star | 0.80% | ~5,491 |
 | Jumbo Keyring | 0.70% | ~4,804 |
 | Smorgasbord | 0.60% | ~4,118 |
-| On Safari | 0.50% | ~3,431 |
-| Not Even My Final Form | 0.50% | ~3,431 |
-| Internet Famous | 0.50% | ~3,431 |
-| Variety is the Spice of Death | 0.50% | ~3,431 |
+| On Safari | 0.50% | ~3,432 |
+| Not Even My Final Form | 0.50% | ~3,432 |
+| Internet Famous | 0.50% | ~3,432 |
+| Variety is the Spice of Death | 0.50% | ~3,432 |
 | Make it So | 0.40% | ~2,745 |
 | LA Influential | 0.40% | ~2,745 |
 | Gore Horse | 0.40% | ~2,745 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 506)
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,298 (Ranked 22)  
-Completed: 2,173 (0.32%) (Ranked 187)  
+Progressed: 686,317 (Ranked 22)  
+Completed: 2,174 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,7 +209,7 @@ Completed: 2,173 (0.32%) (Ranked 187)
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
-| 2023-09-25 | 686,298 | 2,173 |
+| 2023-09-25 | 686,317 | 2,174 |
 ## Awards
 Max (Great Boss Battles): 6,204  (Ranked 57)  
 Sum: 9,227 (Ranked 92)  

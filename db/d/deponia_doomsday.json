@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -422,9 +422,9 @@
       "ID": "dep4_achievement_13",
       "SetID": "5d32b60",
       "Name": "Quickdraw",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "dep4_achievement_14",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-23T08:58:33.5454881+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:04:05.8829831+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:04:05.9377465+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.7249609+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:59:48.5831765+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:04:05.8830297+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:59:25.3513326+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:04:05.9377763+00:00"
 }

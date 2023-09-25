@@ -242,17 +242,17 @@
       "ID": "LC-03",
       "SetID": "ap2ljl4",
       "Name": "Bakery Business",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "LC-04",
       "SetID": "ap2ljl4",
       "Name": "Bakery Empire",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-05",
@@ -266,17 +266,17 @@
       "ID": "LC-06",
       "SetID": "ap2ljl4",
       "Name": "Adept Baker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "LC-07",
       "SetID": "ap2ljl4",
       "Name": "Expert Baker",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LC-08",
@@ -290,33 +290,33 @@
       "ID": "LC-09",
       "SetID": "ap2ljl4",
       "Name": "Verdant Greenhouse",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-10",
       "SetID": "ap2ljl4",
       "Name": "Luxury Kitchen",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-11",
       "SetID": "ap2ljl4",
       "Name": "Bustling Store",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-12",
       "SetID": "ap2ljl4",
       "Name": "The Famous Lemon Cake",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "LC-13",
@@ -371,8 +371,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-09-25T20:06:23.1552749+00:00",
+  "LastChanged_Achievements": "2023-09-25T21:05:54.7388121+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.4213518+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:58:52.9493426+00:00",
-  "LastUpdate_Achievements": "2023-09-25T20:06:23.1552906+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:58:43.1830011+00:00",
+  "LastUpdate_Achievements": "2023-09-25T21:05:54.7388254+00:00"
 }

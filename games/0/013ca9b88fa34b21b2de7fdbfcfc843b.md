@@ -5,24 +5,24 @@ Rating: 4.82 (Ranked 64)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,653 |
-| A Thorny Situation | 70.00% | ~3,503 |
-| ... And Spit Back Out | 59.00% | ~2,952 |
-| Break-Net Speed | 47.00% | ~2,352 |
-| Bramble Breaker | 43.00% | ~2,152 |
-| Miner 49er | 41.00% | ~2,052 |
-| Humble Collector | 39.00% | ~1,952 |
-| Calm Sailing | 33.00% | ~1,651 |
-| Open the Gate! | 29.00% | ~1,451 |
-| Mist Walker | 28.00% | ~1,401 |
-| Lumberjack | 24.00% | ~1,201 |
-| Oui, Chef! | 22.00% | ~1,101 |
+| Azoria Beckons | 73.00% | ~3,657 |
+| A Thorny Situation | 70.00% | ~3,506 |
+| ... And Spit Back Out | 59.00% | ~2,955 |
+| Break-Net Speed | 47.00% | ~2,354 |
+| Bramble Breaker | 43.00% | ~2,154 |
+| Miner 49er | 41.00% | ~2,054 |
+| Humble Collector | 39.00% | ~1,954 |
+| Calm Sailing | 33.00% | ~1,653 |
+| Open the Gate! | 29.00% | ~1,453 |
+| Mist Walker | 28.00% | ~1,403 |
+| Lumberjack | 24.00% | ~1,202 |
+| Oui, Chef! | 22.00% | ~1,102 |
 | Clear the Air | 14.00% | ~701 |
 | Botanical Breakthrough | 14.00% | ~701 |
-| Beach Comber | 12.00% | ~600 |
-| Search for the Hairy Grell | 9.00% | ~450 |
-| Higher Tax Bracket | 9.00% | ~450 |
-| Skilled | 6.00% | ~300 |
+| Beach Comber | 11.00% | ~551 |
+| Search for the Hairy Grell | 9.00% | ~451 |
+| Higher Tax Bracket | 9.00% | ~451 |
+| Skilled | 6.00% | ~301 |
 | Got to Catch Them All | 5.00% | ~250 |
 | Rumble in the Jumble | 5.00% | ~250 |
 | Fanatical Farmer | 5.00% | ~250 |
@@ -41,7 +41,7 @@ Rating: 4.82 (Ranked 64)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,004 (Ranked 164)  
+Progressed: 5,009 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-22 | 4,573 | 0 |
 | 2023-09-23 | 4,750 | 0 |
 | 2023-09-24 | 4,931 | 0 |
-| 2023-09-25 | 5,004 | 0 |
+| 2023-09-25 | 5,009 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

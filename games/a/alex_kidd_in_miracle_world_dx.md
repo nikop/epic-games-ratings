@@ -8,13 +8,13 @@
 | Magic Ball | 37.00% | ~110 |
 | Assailants | 27.00% | ~80 |
 | Prisoner | 24.00% | ~72 |
+| Adventurer | 21.00% | ~63 |
 | First Commander | 20.00% | ~60 |
-| Adventurer | 20.00% | ~60 |
 | Second Commander | 18.00% | ~54 |
 | Third Commander | 16.00% | ~48 |
 | Janken The Great | 11.00% | ~33 |
 | Pacifist | 11.00% | ~33 |
-| Overwhelmed Beast | 9.00% | ~27 |
+| Overwhelmed Beast | 10.00% | ~30 |
 | Radaxian Protector | 5.00% | ~15 |
 | Let's Talk | 2.00% | ~6 |
 | Stingy | 2.00% | ~6 |

@@ -37,7 +37,7 @@
 | Top Gun | 0.00% | ~0 |
 | You are special | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 585)  
+Progressed: 1 (Ranked 586)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
