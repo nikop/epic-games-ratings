@@ -55,7 +55,7 @@
 | 53 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 54 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.94% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.69% |
+| 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.76% |
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 58 | [ZZT!](games/z/zzt!.md) | 4.41% |
 | 59 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
@@ -157,8 +157,8 @@
 | 155 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 155 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 155 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
-| 155 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.56% |
-| 159 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 158 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 158 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.55% |
 | 160 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 161 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 161 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
@@ -170,8 +170,8 @@
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 170 | [Tchia](games/t/tchia.md) | 0.44% |
-| 171 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
-| 171 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
+| 171 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 172 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
