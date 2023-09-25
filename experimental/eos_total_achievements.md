@@ -498,6 +498,7 @@
 | [Rise of the Third Power](../games/r/rise_of_the_third_power.md) | 21 | 1,000 |
 | [Skeletal Avengers](../games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 21 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
+| [Super Hydorah](../games/0/0a17427d84184578bd1bc06a2f410a58.md) | 21 | 1,000 |
 | [Tchia](../games/t/tchia.md) | 21 | 1,000 |
 | [The Many Pieces of Mr. Coo](../games/t/the_many_pieces_of_mr._coo.md) | 21 | 1,000 |
 | [The Shapeshifting Detective](../games/t/the_shapeshifting_detective.md) | 21 | 1,000 |

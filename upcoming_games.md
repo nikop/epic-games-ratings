@@ -10,7 +10,7 @@
 | [Afterdream](games/3/35a8b1e4591b4348a302b12ba5d9ff9b.md) | 2023-09-28 | - |  | - | - |
 | [Diluvian Ultra](games/d/diluvian_ultra.md) | 2023-09-28 | - |  | - | - |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 3 | - | - |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 14,505 | - | - |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 14,595 | - | - |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-09-30 | - |  | - | - |
 | [Beacon's Bluff](games/1/1ca6e9728fe7438baed142359fbb70ed.md) | 2023-09-30 | - |  | - | - |
@@ -213,7 +213,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 15,907 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 15,939 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -467,6 +467,7 @@
 | [Warpath: Ace Shooter](games/5/5cc2d6d24d354c50a07d723feaa5e6dc.md) | 2099-01-01 | - |  | - | - |
 | [Wayfinder](games/w/wayfinder.md) | 2099-01-01 | - |  | - | - |
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | 2099-01-01 | - |  | - | - |
+| [Winter Survival](games/0/041ae72fbe004d19a36ee417318e7b94.md) | 2099-01-01 | - |  | - | - |
 | [WOLF IN THE CITY](games/d/d0ef2af009674dc483f87840027cb730.md) | 2099-01-01 | - |  | - | - |
 | [Wolfsbane](games/w/wolfsbane.md) | 2099-01-01 | - |  | - | - |
 | [WorldShards](games/9/9fc3b81795414dc991af6c884d05b058.md) | 2099-01-01 | - |  | - | - |
@@ -492,7 +493,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,279 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,280 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |

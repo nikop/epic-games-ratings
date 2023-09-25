@@ -553,6 +553,7 @@
 | [Super Adventure Hand](../games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15 | 1,000 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
+| [Super Hydorah](../games/0/0a17427d84184578bd1bc06a2f410a58.md) | 21 | 1,000 |
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
 | [Supraland Six Inches Under](../games/s/supraland_six_inches_under.md) | 53 | 1,000 |
