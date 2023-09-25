@@ -2,7 +2,7 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 109,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2023-09-25T00:07:05.4821275+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T03:07:53.0749576+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -843,7 +848,7 @@
       "Name": "In the last second",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Master",
@@ -914,14 +919,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:25:11.1361765+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:07:53.0749569+00:00",
   "LastUpdate_AppInfo": "2023-09-18T20:57:14.6607347+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:15:23.4435649+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:25:11.1361921+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:59:03.1091674+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:07:53.0749826+00:00"
 }

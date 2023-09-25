@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528021,
+  "EOS_Progressed": 528022,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -17329,6 +17329,11 @@
       "Time": "2023-09-25T01:47:44.2019776+00:00",
       "NumProgressed": 528021,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-25T03:04:57.3632891+00:00",
+      "NumProgressed": 528022,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 57,
@@ -17348,7 +17353,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237609
+      "UsersEstimate": 237610
     },
     {
       "ID": "11",
@@ -17420,7 +17425,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327373
+      "UsersEstimate": 327374
     },
     {
       "ID": "2",
@@ -17460,7 +17465,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36961
+      "UsersEstimate": 36962
     },
     {
       "ID": "24",
@@ -17540,7 +17545,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36961
+      "UsersEstimate": 36962
     },
     {
       "ID": "33",
@@ -17564,7 +17569,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264010
+      "UsersEstimate": 264011
     },
     {
       "ID": "36",
@@ -17572,7 +17577,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84483
+      "UsersEstimate": 84484
     },
     {
       "ID": "37",
@@ -17668,7 +17673,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327373
+      "UsersEstimate": 327374
     },
     {
       "ID": "48",
@@ -17795,15 +17800,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528021,
+      "Progressed": 528022,
       "Completed": 478
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:21:12.5538438+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:04:57.3632884+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:31.7826677+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:16:57.7562609+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:21:12.5540141+00:00"
+  "LastUpdate_Ratings": "2023-09-25T03:00:59.052117+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:04:57.3635692+00:00"
 }

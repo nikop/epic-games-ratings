@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40417,
+  "EOS_Progressed": 40420,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18354,6 +18354,11 @@
       "Time": "2023-09-25T02:22:03.4000685+00:00",
       "NumProgressed": 40417,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-25T03:05:56.7189859+00:00",
+      "NumProgressed": 40420,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18517,7 +18522,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "playerPaz",
@@ -18573,7 +18578,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10508
+      "UsersEstimate": 10509
     },
     {
       "ID": "sandboarder",
@@ -18637,7 +18642,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "vandal",
@@ -18661,7 +18666,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "windswept",
@@ -18676,15 +18681,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40417,
+      "Progressed": 40420,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:22:03.4000678+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:05:56.7189852+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:14:09.9338787+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:22:03.400217+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:57:40.096431+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:05:56.7191922+00:00"
 }

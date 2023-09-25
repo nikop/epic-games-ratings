@@ -631,9 +631,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 344876,
+  "EOS_Progressed": 344878,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18286,6 +18286,11 @@
       "Time": "2023-09-25T02:20:33.6538361+00:00",
       "NumProgressed": 344876,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-25T03:04:11.7841258+00:00",
+      "NumProgressed": 344878,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18401,7 +18406,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51731
+      "UsersEstimate": 51732
     },
     {
       "ID": "ach015",
@@ -18505,7 +18510,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158643
+      "UsersEstimate": 158644
     },
     {
       "ID": "ach028",
@@ -18521,7 +18526,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37936
+      "UsersEstimate": 37937
     },
     {
       "ID": "ach030",
@@ -18697,7 +18702,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37936
+      "UsersEstimate": 37937
     },
     {
       "ID": "ach052",
@@ -18936,7 +18941,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 344876,
+      "Progressed": 344878,
       "Completed": 7
     }
   ],
@@ -18944,8 +18949,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-23T09:00:25.6768504+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:20:33.6538356+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:04:11.7841249+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:17:17.056177+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:20:33.654051+00:00"
+  "LastUpdate_Ratings": "2023-09-25T03:01:21.4203575+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:04:11.7843506+00:00"
 }

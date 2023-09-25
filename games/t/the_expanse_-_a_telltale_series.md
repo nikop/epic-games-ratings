@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 548)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,274 |
-| Stogie for Fogey | 28.00% | ~3,520 |
-| Captain Drummer | 28.00% | ~3,520 |
-| Martian Music | 27.00% | ~3,394 |
-| Celebrations are in Order | 26.00% | ~3,268 |
-| Spore Taste | 25.00% | ~3,142 |
-| The Pit and the Pirates | 23.00% | ~2,891 |
-| Drone Dodger | 23.00% | ~2,891 |
-| Doctor Approved | 19.00% | ~2,388 |
+| Impossible Objects | 34.00% | ~4,275 |
+| Stogie for Fogey | 28.00% | ~3,521 |
+| Captain Drummer | 28.00% | ~3,521 |
+| Martian Music | 27.00% | ~3,395 |
+| Celebrations are in Order | 26.00% | ~3,269 |
+| Spore Taste | 25.00% | ~3,144 |
+| The Pit and the Pirates | 24.00% | ~3,018 |
+| Drone Dodger | 23.00% | ~2,892 |
+| Doctor Approved | 19.00% | ~2,389 |
 | Thorston Mayer | 15.00% | ~1,886 |
 | Bosmang | 15.00% | ~1,886 |
-| Bottoms up! | 12.00% | ~1,508 |
+| Bottoms up! | 12.00% | ~1,509 |
 | Call it Even | 11.00% | ~1,383 |
 | Data Archivist | 10.00% | ~1,257 |
-| Heal Thy Medic | 9.00% | ~1,131 |
+| Heal Thy Medic | 9.00% | ~1,132 |
 | Khan's Revenge | 8.00% | ~1,006 |
 | Data Logger | 7.00% | ~880 |
 | Miraculous Maya | 6.00% | ~754 |
 | Data Master | 6.00% | ~754 |
-| Data Recoverer | 5.00% | ~628 |
+| Data Recoverer | 5.00% | ~629 |
 | Debris Spree | 4.00% | ~503 |
 | Brother's Reaper | 3.00% | ~377 |
 | No Belter Left Behind | 3.00% | ~377 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 548)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,570 (Ranked 134)  
+Progressed: 12,574 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 11,791 | 0 |
 | 2023-09-23 | 12,197 | 0 |
 | 2023-09-24 | 12,539 | 0 |
-| 2023-09-25 | 12,570 | 0 |
+| 2023-09-25 | 12,574 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

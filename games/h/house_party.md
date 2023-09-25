@@ -20,8 +20,8 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 1.00% | ~63 |
 | Inspector | 0.90% | ~56 |
 | Social Butterfly | 0.90% | ~56 |
+| Amy | 0.80% | ~50 |
 | The Muse: Madison | 0.80% | ~50 |
-| Amy | 0.70% | ~44 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
 | The Crush | 0.70% | ~44 |
 | Amy: Scavenger Hunt | 0.60% | ~38 |

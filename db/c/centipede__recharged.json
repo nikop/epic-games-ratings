@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17354,
+  "EOS_Progressed": 17355,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
@@ -12362,6 +12362,11 @@
       "Time": "2023-09-25T01:48:11.5326599+00:00",
       "NumProgressed": 17354,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-09-25T03:05:24.0193209+00:00",
+      "NumProgressed": 17355,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 16,
@@ -12397,7 +12402,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "Eyes_On_Fire",
@@ -12469,7 +12474,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 8677
+      "UsersEstimate": 8678
     },
     {
       "ID": "Sole_Survivor",
@@ -12500,15 +12505,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17354,
+      "Progressed": 17355,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:21:35.3203077+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:05:24.0193201+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.0114311+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:14:33.0797336+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:21:35.3204033+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:58:07.9686463+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:05:24.0194771+00:00"
 }

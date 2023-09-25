@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hero | 72.00% | ~71 |
-| Now I'm Here | 69.00% | ~68 |
-| The Hitman | 54.00% | ~53 |
+| The Hero | 71.00% | ~71 |
+| Now I'm Here | 68.00% | ~68 |
+| The Hitman | 53.00% | ~53 |
 | Keep Yourself Alive | 49.00% | ~49 |
 | Misfire | 40.00% | ~40 |
 | All Dead, All Dead | 39.00% | ~39 |
@@ -21,8 +21,8 @@
 | Cool Cat | 2.00% | ~2 |
 | Good Company | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 377)  
-Completed: 1 (1.01%) (Ranked 128)  
+Progressed: 100 (Ranked 376)  
+Completed: 1 (1.00%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,6 +59,7 @@ Completed: 1 (1.01%) (Ranked 128)
 | 2023-09-16 | 97 | 1 |
 | 2023-09-17 | 98 | 1 |
 | 2023-09-24 | 99 | 1 |
+| 2023-09-25 | 100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

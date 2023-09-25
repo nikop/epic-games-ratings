@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37213,
+  "EOS_Progressed": 37215,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -17528,6 +17528,11 @@
       "Time": "2023-09-25T02:22:55.6434986+00:00",
       "NumProgressed": 37213,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-25T03:06:59.4370366+00:00",
+      "NumProgressed": 37215,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -17715,7 +17720,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -17723,7 +17728,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -17770,7 +17775,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37213,
+      "Progressed": 37215,
       "Completed": 25
     }
   ],
@@ -17778,8 +17783,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:22:55.643498+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:06:59.437036+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:47.3776756+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:15:08.4257715+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:22:55.6436604+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:58:47.3576581+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:06:59.4372159+00:00"
 }

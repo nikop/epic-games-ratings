@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144979,
+  "EOS_Progressed": 144982,
   "EOS_Completed": 276,
-  "EOS_NewPlayers": 1216,
+  "EOS_NewPlayers": 1217,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12096,6 +12096,11 @@
       "Time": "2023-09-25T02:25:49.4177328+00:00",
       "NumProgressed": 144979,
       "NumCompleted": 276
+    },
+    {
+      "Time": "2023-09-25T03:09:28.1822374+00:00",
+      "NumProgressed": 144982,
+      "NumCompleted": 276
     }
   ],
   "TotalAchievements": 31,
@@ -12115,7 +12120,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101485
+      "UsersEstimate": 101487
     },
     {
       "ID": "EAwards_10",
@@ -12139,7 +12144,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24646
+      "UsersEstimate": 24647
     },
     {
       "ID": "EAwards_13",
@@ -12155,7 +12160,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56542
+      "UsersEstimate": 56543
     },
     {
       "ID": "EAwards_15",
@@ -12163,7 +12168,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17397
+      "UsersEstimate": 17398
     },
     {
       "ID": "EAwards_16",
@@ -12179,7 +12184,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31895
+      "UsersEstimate": 31896
     },
     {
       "ID": "EAwards_18",
@@ -12187,7 +12192,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31895
+      "UsersEstimate": 31896
     },
     {
       "ID": "EAwards_19",
@@ -12203,7 +12208,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40594
+      "UsersEstimate": 40595
     },
     {
       "ID": "EAwards_20",
@@ -12211,7 +12216,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11598
+      "UsersEstimate": 11599
     },
     {
       "ID": "EAwards_21",
@@ -12291,7 +12296,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27546
+      "UsersEstimate": 27547
     },
     {
       "ID": "EAwards_30",
@@ -12323,7 +12328,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36245
+      "UsersEstimate": 36246
     },
     {
       "ID": "EAwards_7",
@@ -12339,7 +12344,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53642
+      "UsersEstimate": 53643
     },
     {
       "ID": "EAwards_9",
@@ -12347,14 +12352,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17397
+      "UsersEstimate": 17398
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 144979,
+      "Progressed": 144982,
       "Completed": 276
     }
   ],
@@ -12362,8 +12367,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-23T09:58:54.9188675+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:25:49.4177324+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:09:28.1822368+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:16:22.0011138+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:25:49.4178359+00:00"
+  "LastUpdate_Ratings": "2023-09-25T03:00:14.6083157+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:09:28.1823771+00:00"
 }

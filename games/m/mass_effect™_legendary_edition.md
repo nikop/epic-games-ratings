@@ -30,7 +30,7 @@
 | Merciless | 45.00% | ~157 |
 | Krogan Ally | 44.00% | ~154 |
 | Head Hunter | 42.00% | ~147 |
-| Operative | 41.00% | ~143 |
+| Operative | 42.00% | ~147 |
 | Scholar | 41.00% | ~143 |
 | Veteran | 40.00% | ~140 |
 | Power Full | 40.00% | ~140 |
@@ -122,10 +122,10 @@
 | Insanity I | 5.00% | ~17 |
 | Incineration Specialist | 5.00% | ~17 |
 | Shield Breaker | 4.00% | ~14 |
+| Stasis Mastery | 3.00% | ~10 |
 | Insanity II | 3.00% | ~10 |
 | Tactician | 3.00% | ~10 |
 | Warp Specialist | 3.00% | ~10 |
-| Stasis Mastery | 2.00% | ~7 |
 | Gunsmith | 2.00% | ~7 |
 | Insanity III | 2.00% | ~7 |
 | AI Hacking Specialist | 2.00% | ~7 |

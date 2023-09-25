@@ -2,9 +2,9 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -231,6 +231,11 @@
       "Time": "2023-09-24T13:07:02.5892701+00:00",
       "NumProgressed": 99,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T03:04:58.2669101+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -304,7 +309,7 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 68
     },
@@ -328,7 +333,7 @@
       "ID": "ACH_THE_HERO",
       "SetID": "ca3jj1k",
       "Name": "The Hero",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 50,
       "UsersEstimate": 71
     },
@@ -336,7 +341,7 @@
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 75,
       "UsersEstimate": 53
     },
@@ -369,7 +374,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 1
     }
   ],
@@ -377,8 +382,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:21:13.2964952+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:04:58.2669094+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:30.3484366+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:17:18.5327608+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:21:13.296508+00:00"
+  "LastUpdate_Ratings": "2023-09-25T03:01:23.3358493+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:04:58.2669303+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121289,
+  "EOS_Progressed": 121291,
   "EOS_Completed": 997,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1302,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17948,6 +17948,11 @@
       "Time": "2023-09-25T02:19:24.9866186+00:00",
       "NumProgressed": 121289,
       "NumCompleted": 997
+    },
+    {
+      "Time": "2023-09-25T03:03:26.7662116+00:00",
+      "NumProgressed": 121291,
+      "NumCompleted": 997
     }
   ],
   "TotalAchievements": 34,
@@ -17967,7 +17972,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 19406
+      "UsersEstimate": 19407
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -17975,7 +17980,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 50941
+      "UsersEstimate": 50942
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -18015,7 +18020,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 95818
+      "UsersEstimate": 95820
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -18031,7 +18036,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 67922
+      "UsersEstimate": 67923
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -18055,7 +18060,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 32748
+      "UsersEstimate": 32749
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -18063,7 +18068,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -18111,7 +18116,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 18193
+      "UsersEstimate": 18194
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -18127,7 +18132,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 32748
+      "UsersEstimate": 32749
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -18159,7 +18164,7 @@
       "Name": "Naacalvision",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 18193
+      "UsersEstimate": 18194
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -18167,7 +18172,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -18175,7 +18180,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -18207,7 +18212,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -18230,7 +18235,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 121289,
+      "Progressed": 121291,
       "Completed": 997
     }
   ],
@@ -18238,8 +18243,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-25T02:19:24.986618+00:00",
+  "LastChanged_Achievements": "2023-09-25T03:03:26.7662109+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:29.1830312+00:00",
-  "LastUpdate_Ratings": "2023-09-25T02:14:18.5238685+00:00",
-  "LastUpdate_Achievements": "2023-09-25T02:19:24.9867605+00:00"
+  "LastUpdate_Ratings": "2023-09-25T02:57:50.0371275+00:00",
+  "LastUpdate_Achievements": "2023-09-25T03:03:26.7664633+00:00"
 }
