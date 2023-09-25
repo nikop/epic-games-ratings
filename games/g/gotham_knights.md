@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,865 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,486 |
+| First Step Into the Knight | 52.00% | ~37,866 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,487 |
 | Loose Ends | 34.00% | ~24,758 |
-| To the Victor Go the Spoils | 29.00% | ~21,117 |
+| To the Victor Go the Spoils | 29.00% | ~21,118 |
 | Knighthood | 28.00% | ~20,389 |
-| Get ReQ'd | 25.00% | ~18,204 |
-| Whispered Words | 25.00% | ~18,204 |
+| Get ReQ'd | 25.00% | ~18,205 |
+| Whispered Words | 25.00% | ~18,205 |
 | The Batman Family | 23.00% | ~16,748 |
 | Lock and Key | 23.00% | ~16,748 |
 | Something in the Clay | 21.00% | ~15,292 |
@@ -19,7 +19,7 @@ Rating: 4.18 (Ranked 890)
 | Working Hard or Harley Working? | 20.00% | ~14,564 |
 | Unstoppable Force | 20.00% | ~14,564 |
 | Bad Apples in Every Orchard | 20.00% | ~14,564 |
-| Snow Problem | 19.00% | ~13,835 |
+| Snow Problem | 19.00% | ~13,836 |
 | The Show Mud Go On | 18.00% | ~13,107 |
 | From Inside Gotham's Walls | 18.00% | ~13,107 |
 | Protector of Gotham | 17.00% | ~12,379 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 890)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,818 (Ranked 84)  
+Progressed: 72,819 (Ranked 84)  
 Completed: 117 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,14 +225,14 @@ Completed: 117 (0.16%) (Ranked 215)
 | 2023-09-22 | 72,737 | 116 |
 | 2023-09-23 | 72,766 | 117 |
 | 2023-09-24 | 72,808 | 117 |
-| 2023-09-25 | 72,818 | 117 |
+| 2023-09-25 | 72,819 | 117 |
 ## Awards
-Max (Great Boss Battles): 2,742  (Ranked 96)  
-Sum: 4,569 (Ranked 139)  
+Max (Great Boss Battles): 2,746  (Ranked 96)  
+Sum: 4,573 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,742 |
+| This game has Great Boss Battles | 2,746 |
 | This game has Quickly Understood Controls | 234 |
 | This game is Relaxing | 234 |
 | This game is Extremely Fun | 234 |
@@ -457,4 +457,4 @@ Diff (max vs sum): -43
 | 2023-09-22 | 4.18 | 2,731 | 4,543 |
 | 2023-09-23 | 4.18 | 2,731 | 4,548 |
 | 2023-09-24 | 4.18 | 2,742 | 4,565 |
-| 2023-09-25 | 4.18 | 2,742 | 4,569 |
+| 2023-09-25 | 4.18 | 2,746 | 4,573 |

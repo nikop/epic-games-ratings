@@ -8,22 +8,22 @@ Rating: 4.61 (Ranked 369)
 | Marksman | 93.00% | ~379 |
 | Welcome Aboard | 85.00% | ~347 |
 | Lab Rat | 72.00% | ~294 |
-| All Systems Go | 60.00% | ~245 |
+| All Systems Go | 61.00% | ~249 |
 | Brute Force | 60.00% | ~245 |
-| Cannon Fodder | 56.00% | ~228 |
+| Cannon Fodder | 57.00% | ~233 |
 | Raise the Stakes | 54.00% | ~220 |
 | Autofire | 53.00% | ~216 |
 | Story Teller | 50.00% | ~204 |
 | True Believer | 50.00% | ~204 |
 | Surgeon | 45.00% | ~184 |
+| Freeze | 43.00% | ~175 |
 | Exterminator | 43.00% | ~175 |
 | Greenhouse Effect | 43.00% | ~175 |
-| Freeze | 42.00% | ~171 |
 | Full Arsenal | 40.00% | ~163 |
-| Live with the Hot Ones | 36.00% | ~147 |
+| Live with the Hot Ones | 37.00% | ~151 |
 | S.O.S. | 35.00% | ~143 |
 | Get Off My Ship! | 34.00% | ~139 |
-| Strange Transmissions | 33.00% | ~135 |
+| Strange Transmissions | 34.00% | ~139 |
 | Wreckage | 32.00% | ~131 |
 | A Cut Above | 30.00% | ~122 |
 | Keeper of the Faith | 28.00% | ~114 |

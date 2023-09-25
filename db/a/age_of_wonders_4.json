@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -322,6 +322,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-09-25T16:58:14.5238309+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
@@ -336,9 +342,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5190,
+  "EOS_Progressed": 5191,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6196,6 +6202,11 @@
       "Time": "2023-09-24T16:06:38.3951006+00:00",
       "NumProgressed": 5190,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-25T17:05:43.9452552+00:00",
+      "NumProgressed": 5191,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6606,22 +6617,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5190,
+      "Progressed": 5191,
       "Completed": 4763
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5190,
+      "Progressed": 5191,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:06:55.1407047+00:00",
+  "LastChanged": "2023-09-25T16:58:14.5238308+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:05:43.9452549+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:14.6179541+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:58:45.789779+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:06:55.140796+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:58:14.5238313+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:05:43.9453183+00:00"
 }

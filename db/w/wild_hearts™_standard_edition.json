@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -263,9 +263,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_16",
@@ -605,8 +605,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:04:32.938075+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:03:50.5619783+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:02:27.3833083+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:04:32.9381391+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:00:51.3652013+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:03:50.562013+00:00"
 }

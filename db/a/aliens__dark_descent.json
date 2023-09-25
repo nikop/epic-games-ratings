@@ -4983,9 +4983,9 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_MISSION_01",
@@ -5168,8 +5168,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:04:58.7346917+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:04:19.9200847+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.0106466+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:59:30.7031511+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:04:58.7347665+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:58:47.0978756+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:04:19.9201353+00:00"
 }

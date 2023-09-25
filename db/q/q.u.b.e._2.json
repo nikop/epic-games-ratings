@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1863,6 +1863,11 @@
       "Time": "2023-09-25T15:05:14.7810196+00:00",
       "NumProgressed": 443,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T17:05:15.4310007+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1883,7 +1888,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1891,7 +1896,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2065,9 +2070,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_S4",
@@ -2083,15 +2088,15 @@
       "Name": "Cogs in the Machine",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_SANDSTORM",
       "SetID": "232494e",
       "Name": "Lost in Space",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_STATUE",
@@ -2106,15 +2111,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:06:16.260089+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:05:15.4310002+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:01:57.7694983+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:06:16.2601291+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:00:30.5544573+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:05:15.4310243+00:00"
 }

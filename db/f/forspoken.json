@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40049,
+  "EOS_Progressed": 40051,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8897,6 +8897,11 @@
       "Time": "2023-09-25T16:07:10.5531097+00:00",
       "NumProgressed": 40049,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T17:05:55.1636185+00:00",
+      "NumProgressed": 40051,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8924,7 +8929,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -8972,7 +8977,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -9004,7 +9009,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -9012,7 +9017,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -9020,7 +9025,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -9028,7 +9033,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -9036,7 +9041,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -9060,7 +9065,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2803
+      "UsersEstimate": 2804
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9068,7 +9073,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9084,7 +9089,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "JUSTCOUNTER",
@@ -9124,7 +9129,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9148,7 +9153,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2803
+      "UsersEstimate": 2804
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9164,7 +9169,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "MAGIC_IVY",
@@ -9196,7 +9201,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2803
+      "UsersEstimate": 2804
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9204,7 +9209,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -9212,7 +9217,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "PARKOUR_TIME",
@@ -9220,7 +9225,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2803
+      "UsersEstimate": 2804
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9244,7 +9249,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "SPRING_ALL",
@@ -9331,22 +9336,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40049,
+      "Progressed": 40051,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4886,
-      "Completed": 4886
+      "Progressed": 4888,
+      "Completed": 4888
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:07:10.5531089+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:05:55.1636182+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:57:16.9612011+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:07:10.5532826+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:57:14.6421878+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:05:55.163692+00:00"
 }

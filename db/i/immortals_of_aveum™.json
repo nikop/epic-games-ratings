@@ -5,9 +5,9 @@
   "Ranking_Rating": 951,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -131,6 +131,11 @@
       "Time": "2023-09-24T22:05:20.9515115+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T17:05:02.749461+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -141,15 +146,15 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -157,7 +162,7 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -165,7 +170,7 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -173,7 +178,7 @@
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -181,7 +186,7 @@
       "ID": "achievement_14",
       "SetID": "18al4io",
       "Name": "Geas Aristeya",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -189,7 +194,7 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -197,7 +202,7 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -205,7 +210,7 @@
       "ID": "achievement_17",
       "SetID": "18al4io",
       "Name": "Lights Army",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -221,7 +226,7 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -229,9 +234,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_20",
@@ -277,7 +282,7 @@
       "ID": "achievement_26",
       "SetID": "18al4io",
       "Name": "Scholar",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -285,7 +290,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 69,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -293,7 +298,7 @@
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -309,7 +314,7 @@
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -317,7 +322,7 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 69,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -325,7 +330,7 @@
       "ID": "achievement_41",
       "SetID": "18al4io",
       "Name": "Armaments Azure",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -333,7 +338,7 @@
       "ID": "achievement_42",
       "SetID": "18al4io",
       "Name": "Armaments Gules",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -349,7 +354,7 @@
       "ID": "achievement_44",
       "SetID": "18al4io",
       "Name": "Periapt Cerulean",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -357,7 +362,7 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -365,7 +370,7 @@
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -373,7 +378,7 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 69,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -381,7 +386,7 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -389,7 +394,7 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 69,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -397,7 +402,7 @@
       "ID": "achievement_50",
       "SetID": "18al4io",
       "Name": "Veteran",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -437,7 +442,7 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 54,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -485,7 +490,7 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -493,7 +498,7 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -501,7 +506,7 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -509,7 +514,7 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 3
     }
@@ -518,7 +523,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
@@ -526,8 +531,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-24T15:01:08.8110463+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:05:59.2457294+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:05:02.7494606+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.7860154+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:02:38.961967+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:05:59.2458023+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:01:00.9995888+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:05:02.7494951+00:00"
 }

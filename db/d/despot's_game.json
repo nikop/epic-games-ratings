@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -420,6 +420,11 @@
       "Time": "2023-09-24T17:03:40.4329965+00:00",
       "NumProgressed": 427,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T17:03:42.7716588+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -461,9 +466,9 @@
       "ID": "collect-discounted-items1",
       "SetID": "799afm0",
       "Name": "Frugal",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "collect-discounted-items2",
@@ -479,7 +484,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "different-items1",
@@ -487,7 +492,7 @@
       "Name": "Party",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "different-items2",
@@ -511,7 +516,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "finished-quest-flight",
@@ -533,9 +538,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "finished-quest-pit",
@@ -559,7 +564,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "finished-quest-sci",
@@ -575,7 +580,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "finished-quest-sword",
@@ -599,7 +604,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "last-hero",
@@ -639,7 +644,7 @@
       "Name": "Great Hero",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "win-first-biom",
@@ -655,7 +660,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "win-koth-fights1",
@@ -710,7 +715,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 1
     }
   ],
@@ -718,8 +723,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:04:22.0722849+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:03:42.7716583+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.319837+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:57:09.5083754+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:04:22.0723153+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:57:09.3951804+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:03:42.7716825+00:00"
 }

@@ -996,7 +996,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 226666,
+  "EOS_Progressed": 226679,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1610,
   "EOS_NewCompleters": 0,
@@ -12251,6 +12251,11 @@
       "Time": "2023-09-25T16:04:52.0741865+00:00",
       "NumProgressed": 226666,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T17:04:15.0424564+00:00",
+      "NumProgressed": 226679,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12262,7 +12267,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "100Fail",
@@ -12294,7 +12299,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "BookCollection",
@@ -12326,7 +12331,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "Chapter4",
@@ -12334,7 +12339,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "Chapter5",
@@ -12662,7 +12667,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11333
+      "UsersEstimate": 11334
     },
     {
       "ID": "DwarfElf15Support",
@@ -12710,7 +12715,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70266
+      "UsersEstimate": 70270
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12734,7 +12739,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "EndGameCursed",
@@ -12758,7 +12763,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11333
+      "UsersEstimate": 11334
     },
     {
       "ID": "FollowBraztok",
@@ -12942,7 +12947,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "WizardEpic",
@@ -12958,28 +12963,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226666,
+      "Progressed": 226679,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226666,
+      "Progressed": 226679,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-25T13:03:27.8694328+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:04:52.0741858+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:04:15.042456+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:57:15.9406689+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:04:52.0745276+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:57:13.848449+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:04:15.0425918+00:00"
 }

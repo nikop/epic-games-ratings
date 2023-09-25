@@ -11,7 +11,7 @@
 | Winner's Circle | 60.00% | ~140 |
 | Holey Moley | 54.00% | ~126 |
 | Perfect Round | 51.00% | ~119 |
-| Bomb's Away | 49.00% | ~115 |
+| Bomb's Away | 50.00% | ~117 |
 | Competitor's Spirit | 43.00% | ~101 |
 | The Strongest Field in Golf | 36.00% | ~84 |
 | Ace in the Hole | 33.00% | ~77 |
@@ -19,7 +19,7 @@
 | A Tradition Unlike Any Other | 26.00% | ~61 |
 | Golf's Original Championship | 26.00% | ~61 |
 | A Passion for Excellence | 24.00% | ~56 |
-| The Ultimate Prize | 20.00% | ~47 |
+| The Ultimate Prize | 21.00% | ~49 |
 | Golfer Versus Golfer | 16.00% | ~37 |
 | Victory Lap | 10.00% | ~23 |
 ## Popularity (Based on EOS Achievements)

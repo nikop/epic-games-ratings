@@ -1403,9 +1403,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "FELIZ_2",
@@ -1515,9 +1515,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1772,8 +1772,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:08:39.6574386+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:07:08.2223322+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:12.0994806+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:57:24.3351232+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:08:39.6575351+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:57:20.4887976+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:07:08.2224099+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~384 |
-| Close call! | 71.00% | ~354 |
-| Builder | 52.00% | ~259 |
+| Getting started | 77.00% | ~385 |
+| Close call! | 71.00% | ~355 |
+| Builder | 52.00% | ~260 |
 | Pangs of conscience | 45.00% | ~225 |
 | Living it large! | 44.00% | ~220 |
 | Collector | 42.00% | ~210 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 265)  
+Progressed: 500 (Ranked 265)  
 Completed: 2 (0.40%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.40%) (Ranked 173)
 | 2023-09-22 | 493 | 2 |
 | 2023-09-23 | 495 | 2 |
 | 2023-09-24 | 496 | 2 |
-| 2023-09-25 | 499 | 2 |
+| 2023-09-25 | 500 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

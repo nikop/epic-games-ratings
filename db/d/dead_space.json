@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -1419,9 +1419,9 @@
       "ID": "achievement_21",
       "SetID": "222fo9l",
       "Name": "Live with the Hot Ones",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_22",
@@ -1491,9 +1491,9 @@
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_30",
@@ -1539,9 +1539,9 @@
       "ID": "achievement_35",
       "SetID": "222fo9l",
       "Name": "Freeze",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_36",
@@ -1579,9 +1579,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_40",
@@ -1675,9 +1675,9 @@
       "ID": "achievement_8",
       "SetID": "222fo9l",
       "Name": "Strange Transmissions",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_9",
@@ -1700,8 +1700,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-22T20:58:23.6909557+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:04:34.6265979+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:03:51.6571443+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:00:26.1905465+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:04:34.626647+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:59:25.1839112+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:03:51.6571811+00:00"
 }

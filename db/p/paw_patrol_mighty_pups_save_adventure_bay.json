@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "11",
       "SetID": "38ide56",
       "Name": "A Great Explorer",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "12",
@@ -217,9 +217,9 @@
       "ID": "13",
       "SetID": "38ide56",
       "Name": "Everything Under Control",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "14",
@@ -233,9 +233,9 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "16",
@@ -321,9 +321,9 @@
       "ID": "25",
       "SetID": "38ide56",
       "Name": "You Have Been Everywhere",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "26",
@@ -353,9 +353,9 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "3",
@@ -385,9 +385,9 @@
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "7",
@@ -426,8 +426,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:04:38.0506918+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:04:03.7726207+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:33.5455388+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:59:15.0292238+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:04:38.0507216+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:58:38.3658084+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:04:03.7726383+00:00"
 }

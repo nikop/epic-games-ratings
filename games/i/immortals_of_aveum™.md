@@ -5,36 +5,36 @@ Rating: 4.00 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Maybe Engage a Little | 69.00% | ~9 |
-| No More Names | 69.00% | ~9 |
-| Enlisted | 69.00% | ~9 |
-| Initiate | 69.00% | ~9 |
-| Unforeseen | 62.00% | ~8 |
-| Battlefields Have Memories | 62.00% | ~8 |
-| Thrada-Kul | 54.00% | ~7 |
-| Gravity-Challenged Rocks | 46.00% | ~6 |
-| Soldier | 38.00% | ~5 |
-| All the Major Food Groups | 31.00% | ~4 |
-| Beggars Would Ride | 23.00% | ~3 |
-| Control is an Illusion | 15.00% | ~2 |
-| The Means to Save It | 15.00% | ~2 |
-| Resilience to Sin | 15.00% | ~2 |
-| A Familiar Nest | 15.00% | ~2 |
-| Geas Aristeya | 15.00% | ~2 |
-| A Perfect Cycle | 15.00% | ~2 |
-| Recruit | 15.00% | ~2 |
-| Lights Army | 15.00% | ~2 |
-| Socialite | 15.00% | ~2 |
-| Armsman | 15.00% | ~2 |
-| Periapt Alizarin | 15.00% | ~2 |
-| Good Boy | 15.00% | ~2 |
-| Scholar | 8.00% | ~1 |
-| Best Dressed | 8.00% | ~1 |
-| Armaments Azure | 8.00% | ~1 |
-| Armaments Gules | 8.00% | ~1 |
-| Periapt Cerulean | 8.00% | ~1 |
-| Periapt Viridian | 8.00% | ~1 |
-| Veteran | 8.00% | ~1 |
+| Unforeseen | 64.00% | ~9 |
+| Battlefields Have Memories | 64.00% | ~9 |
+| Maybe Engage a Little | 64.00% | ~9 |
+| No More Names | 64.00% | ~9 |
+| Enlisted | 64.00% | ~9 |
+| Initiate | 64.00% | ~9 |
+| Thrada-Kul | 50.00% | ~7 |
+| Gravity-Challenged Rocks | 43.00% | ~6 |
+| Soldier | 36.00% | ~5 |
+| All the Major Food Groups | 29.00% | ~4 |
+| Beggars Would Ride | 21.00% | ~3 |
+| Control is an Illusion | 14.00% | ~2 |
+| The Means to Save It | 14.00% | ~2 |
+| Resilience to Sin | 14.00% | ~2 |
+| A Familiar Nest | 14.00% | ~2 |
+| Geas Aristeya | 14.00% | ~2 |
+| A Perfect Cycle | 14.00% | ~2 |
+| Recruit | 14.00% | ~2 |
+| Lights Army | 14.00% | ~2 |
+| Socialite | 14.00% | ~2 |
+| Armsman | 14.00% | ~2 |
+| Periapt Alizarin | 14.00% | ~2 |
+| Good Boy | 14.00% | ~2 |
+| Scholar | 7.00% | ~1 |
+| Best Dressed | 7.00% | ~1 |
+| Armaments Azure | 7.00% | ~1 |
+| Armaments Gules | 7.00% | ~1 |
+| Periapt Cerulean | 7.00% | ~1 |
+| Periapt Viridian | 7.00% | ~1 |
+| Veteran | 7.00% | ~1 |
 | Grand Magnus | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 951)
 | Fowl Play | 0.00% | ~0 |
 | Backtracker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 490)  
+Progressed: 14 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 3 | 0 |
 | 2023-09-23 | 10 | 0 |
 | 2023-09-24 | 13 | 0 |
+| 2023-09-25 | 14 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

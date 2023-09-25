@@ -14,10 +14,10 @@
 | A good beginning | 36.00% | ~76 |
 | True G4M3R | 35.00% | ~74 |
 | One last step | 33.00% | ~70 |
-| Cable guy | 31.00% | ~66 |
+| Cable guy | 32.00% | ~68 |
+| Peace walker | 30.00% | ~64 |
+| Half the way | 30.00% | ~64 |
 | Champollion | 30.00% | ~64 |
-| Peace walker | 29.00% | ~61 |
-| Half the way | 29.00% | ~61 |
 | In this together | 28.00% | ~59 |
 | Open door | 25.00% | ~53 |
 | Feels like springtime | 25.00% | ~53 |

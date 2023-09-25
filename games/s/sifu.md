@@ -11,6 +11,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 0.30% | ~2,146 |
 | Lightning Hands | 0.30% | ~2,146 |
 | Diligence as a goal | 0.30% | ~74 |
+| Fight the way you practice | 0.30% | ~74 |
 | The Hateful Pole Fighter | 0.20% | ~1,431 |
 | A Lady's Blood in the Snow | 0.20% | ~1,431 |
 | Lady Wing Chun | 0.20% | ~1,431 |
@@ -28,7 +29,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.20% | ~1,431 |
 | Project Arena | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
-| Fight the way you practice | 0.20% | ~49 |
 | Muk Yan Master | 0.10% | ~715 |
 | Tiger on Fire | 0.10% | ~715 |
 | Source of Flying Daggers | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,298 (Ranked 20)  
+Progressed: 715,299 (Ranked 20)  
 Completed: 12,902 (1.80%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 12,902 (1.80%) (Ranked 106)
 | 2023-09-22 | 715,211 | 12,900 |
 | 2023-09-23 | 715,246 | 12,900 |
 | 2023-09-24 | 715,285 | 12,901 |
-| 2023-09-25 | 715,298 | 12,902 |
+| 2023-09-25 | 715,299 | 12,902 |
 ## Awards
 Max (Great Boss Battles): 6,589  (Ranked 53)  
 Sum: 11,392 (Ranked 81)  

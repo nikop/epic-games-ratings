@@ -13760,10 +13760,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 472666,
       "NumberOfAwardsMax": 180396
+    },
+    {
+      "Time": "2023-09-25T16:57:32.7566858+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 473086,
+      "NumberOfAwardsMax": 180396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 472666,
+  "NumberOfAwards": 473086,
   "NumberOfAwardsMax": 180396,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -13777,7 +13783,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 99128
+      "Count": 99341
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13795,19 +13801,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 17997
+      "Count": 18051
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 17632
+      "Count": 17685
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 17001
+      "Count": 17056
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13843,7 +13849,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 17353
+      "Count": 17398
     },
     {
       "Text": "This game has a Creative Community",
@@ -13863,8 +13869,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-25T14:57:32.0400041+00:00",
+  "LastChanged": "2023-09-25T16:57:32.7566856+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:00.7311722+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:57:39.6339723+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:05:37.1765107+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:57:32.7566861+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:04:47.0311478+00:00"
 }

@@ -519,7 +519,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15396,
+  "EOS_Progressed": 15397,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -10819,6 +10819,11 @@
       "Time": "2023-09-25T16:05:54.7345212+00:00",
       "NumProgressed": 15396,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-25T17:04:59.7161448+00:00",
+      "NumProgressed": 15397,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10886,7 +10891,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "tpote_achievement_17",
@@ -10974,7 +10979,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "tpote_achievement_27",
@@ -11030,7 +11035,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "tpote_achievement_33",
@@ -11094,7 +11099,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "tpote_achievement_40",
@@ -11157,15 +11162,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15396,
+      "Progressed": 15397,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-24T23:58:24.5918651+00:00",
-  "LastChanged_Achievements": "2023-09-25T16:05:54.7345201+00:00",
+  "LastChanged_Achievements": "2023-09-25T17:04:59.716144+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-25T15:59:58.4746095+00:00",
-  "LastUpdate_Achievements": "2023-09-25T16:05:54.7346747+00:00"
+  "LastUpdate_Ratings": "2023-09-25T16:59:08.0462806+00:00",
+  "LastUpdate_Achievements": "2023-09-25T17:04:59.7162193+00:00"
 }

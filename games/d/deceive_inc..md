@@ -10,8 +10,8 @@ Rating: 4.56 (Ranked 471)
 | The Spy who eliminated me | 22.00% | ~3,991 |
 | Tomorrow Never Dyes | 21.00% | ~3,810 |
 | Never Say Loser Again | 19.00% | ~3,447 |
-| From the Vault with Love | 18.00% | ~3,265 |
-| For your Eyes only | 18.00% | ~3,265 |
+| From the Vault with Love | 18.00% | ~3,266 |
+| For your Eyes only | 18.00% | ~3,266 |
 | Assistant Accountant | 17.00% | ~3,084 |
 | Tailor-Made | 17.00% | ~3,084 |
 | You Only Live Twice | 16.00% | ~2,903 |
@@ -26,7 +26,7 @@ Rating: 4.56 (Ranked 471)
 | Keycards Royale | 10.00% | ~1,814 |
 | Dr. No Kill | 10.00% | ~1,814 |
 | In It to Win It | 9.00% | ~1,633 |
-| Security Supervisor | 6.00% | ~1,088 |
+| Security Supervisor | 6.00% | ~1,089 |
 | License to Thrill | 5.00% | ~907 |
 | Social of Solace | 3.00% | ~544 |
 | Live and let lie | 3.00% | ~544 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 471)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,141 (Ranked 121)  
+Progressed: 18,142 (Ranked 121)  
 Completed: 3 (0.02%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 3 (0.02%) (Ranked 266)
 | 2023-09-22 | 18,098 | 3 |
 | 2023-09-23 | 18,118 | 3 |
 | 2023-09-24 | 18,137 | 3 |
-| 2023-09-25 | 18,141 | 3 |
+| 2023-09-25 | 18,142 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
