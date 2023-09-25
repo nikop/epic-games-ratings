@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6274,
+  "EOS_Progressed": 6275,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5363,6 +5363,11 @@
       "Time": "2023-09-24T22:08:37.6820416+00:00",
       "NumProgressed": 6274,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T00:08:07.8286423+00:00",
+      "NumProgressed": 6275,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5430,7 +5435,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Bride",
@@ -5462,7 +5467,7 @@
       "Name": "Caught in the Act",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -5510,7 +5515,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "DoNotBurn",
@@ -5638,7 +5643,7 @@
       "Name": "Katherine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LCA",
@@ -5694,7 +5699,7 @@
       "Name": "Relentless",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Penguinfucker",
@@ -5782,7 +5787,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SuckerPunch",
@@ -5925,21 +5930,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3313,
+      "Progressed": 3314,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6274,
+      "Progressed": 6275,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:08:13.5662098+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:08:07.8286419+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:06.5804023+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:59:15.5005324+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:08:13.5662897+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:59:01.9469182+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:08:07.8287216+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -5496,9 +5496,9 @@
       "Count": 414
     }
   ],
-  "EOS_Progressed": 177895,
+  "EOS_Progressed": 177903,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2156,
+  "EOS_NewPlayers": 2160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23141,6 +23141,11 @@
       "Time": "2023-09-24T23:06:29.8591777+00:00",
       "NumProgressed": 177895,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-25T00:06:25.3073334+00:00",
+      "NumProgressed": 177903,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23160,7 +23165,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "Achievement_10",
@@ -23184,7 +23189,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28463
+      "UsersEstimate": 28464
     },
     {
       "ID": "Achievement_13",
@@ -23232,7 +23237,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44474
+      "UsersEstimate": 44476
     },
     {
       "ID": "Achievement_5",
@@ -23279,15 +23284,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 177895,
+      "Progressed": 177903,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-24T21:00:38.3639702+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:06:29.8591773+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:06:25.307333+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.9520016+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:00:36.9559775+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:06:29.8592677+00:00"
+  "LastUpdate_Ratings": "2023-09-25T00:00:21.1547915+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:06:25.3074246+00:00"
 }

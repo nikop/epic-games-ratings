@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2716,9 +2716,9 @@
       "ID": "KORALOV",
       "SetID": "bf13m8j",
       "Name": "Tourist Korallov",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KRAINA_GRZYBOW_1",
@@ -2900,8 +2900,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:05:20.0779279+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:05:16.1702722+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:58:34.2653192+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:05:20.0779591+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:58:18.7185305+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:05:16.1703049+00:00"
 }

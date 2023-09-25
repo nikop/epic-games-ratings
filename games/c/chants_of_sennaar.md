@@ -15,17 +15,17 @@
 | True G4M3R | 35.00% | ~73 |
 | One last step | 33.00% | ~69 |
 | Cable guy | 31.00% | ~65 |
-| Champollion | 30.00% | ~63 |
+| Champollion | 31.00% | ~65 |
+| Peace walker | 29.00% | ~61 |
 | Half the way | 29.00% | ~61 |
-| Peace walker | 28.00% | ~59 |
-| In this together | 27.00% | ~56 |
+| In this together | 28.00% | ~59 |
 | Open door | 25.00% | ~52 |
 | Feels like springtime | 24.00% | ~50 |
 | Free at last | 23.00% | ~48 |
 | Rascal | 23.00% | ~48 |
 | Alchemists Express | 22.00% | ~46 |
 | A Link to the Past | 19.00% | ~40 |
-| I did it | 16.00% | ~33 |
+| I did it | 17.00% | ~36 |
 | A great audience | 16.00% | ~33 |
 | For its own good | 15.00% | ~31 |
 | Fashion victim | 13.00% | ~27 |

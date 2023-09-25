@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -332,7 +332,7 @@
   ],
   "EOS_Progressed": 3392,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4791,9 +4791,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1798
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -5111,9 +5111,9 @@
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1933
     }
   ],
   "AchievementSets": [
@@ -5128,8 +5128,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:04:03.760266+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:04:05.9014773+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.0106466+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:58:20.0907046+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:04:03.7603128+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:58:08.3682245+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:04:05.9015259+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -1014,9 +1014,9 @@
       "ID": "GB_HONORS_STUDENT",
       "SetID": "8ga3kd9",
       "Name": "HONORS STUDENT",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -1151,8 +1151,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:04:10.843665+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:04:12.8851514+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:00:48.902916+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:04:10.8436854+00:00"
+  "LastUpdate_Ratings": "2023-09-25T00:00:32.9831932+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:04:12.8851736+00:00"
 }

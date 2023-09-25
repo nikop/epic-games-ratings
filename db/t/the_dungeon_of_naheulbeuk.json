@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -990,9 +990,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226557,
+  "EOS_Progressed": 226561,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1647,
+  "EOS_NewPlayers": 1642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12165,6 +12165,11 @@
       "Time": "2023-09-24T23:03:58.0215185+00:00",
       "NumProgressed": 226557,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T00:04:00.1809248+00:00",
+      "NumProgressed": 226561,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12624,7 +12629,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70233
+      "UsersEstimate": 70234
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12879,21 +12884,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226557,
+      "Progressed": 226561,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226557,
+      "Progressed": 226561,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-22T23:00:48.1679541+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:03:58.0215181+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:04:00.180924+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:00:55.8738033+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:03:58.021651+00:00"
+  "LastUpdate_Ratings": "2023-09-25T00:00:40.2155592+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:04:00.1810588+00:00"
 }

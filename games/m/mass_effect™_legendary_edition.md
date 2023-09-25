@@ -8,10 +8,10 @@
 | Spectre Inductee | 83.00% | ~289 |
 | Medal of Exploration I | 76.00% | ~264 |
 | Search and Rescue | 74.00% | ~258 |
-| Recruit | 72.00% | ~251 |
+| Recruit | 73.00% | ~254 |
 | Quarian Ally | 68.00% | ~237 |
-| Medal of Heroism | 65.00% | ~226 |
-| Honorarium of Corporate Service | 65.00% | ~226 |
+| Medal of Heroism | 66.00% | ~230 |
+| Honorarium of Corporate Service | 66.00% | ~230 |
 | Medal of Exploration II | 61.00% | ~212 |
 | Turian Ally | 59.00% | ~205 |
 | Council Legion of Merit | 58.00% | ~202 |
@@ -27,8 +27,8 @@
 | Sentinel Ally | 46.00% | ~160 |
 | Scientist | 46.00% | ~160 |
 | Paramour I | 45.00% | ~157 |
+| Krogan Ally | 45.00% | ~157 |
 | Merciless | 45.00% | ~157 |
-| Krogan Ally | 44.00% | ~153 |
 | Head Hunter | 42.00% | ~146 |
 | Operative | 41.00% | ~143 |
 | Scholar | 41.00% | ~143 |
@@ -68,12 +68,12 @@
 | Treason | 28.00% | ~97 |
 | Digital Exorcist | 28.00% | ~97 |
 | Bringer of War | 28.00% | ~97 |
+| Friend or Foe | 27.00% | ~94 |
 | First Aid Specialist | 26.00% | ~90 |
-| Friend or Foe | 26.00% | ~90 |
+| Weapon Specialist | 26.00% | ~90 |
 | Mobilizer | 26.00% | ~90 |
 | Eye of the Hurricane | 25.00% | ~87 |
 | Suicide Mission | 25.00% | ~87 |
-| Weapon Specialist | 25.00% | ~87 |
 | Untouchable | 24.00% | ~84 |
 | Mission Accomplished | 24.00% | ~84 |
 | Against All Odds | 24.00% | ~84 |
@@ -81,7 +81,7 @@
 | Giant Killer | 23.00% | ~80 |
 | World Shaker | 23.00% | ~80 |
 | Liberator | 23.00% | ~80 |
-| Savior | 21.00% | ~73 |
+| Savior | 22.00% | ~77 |
 | No One Left Behind | 20.00% | ~70 |
 | Pathfinder | 20.00% | ~70 |
 | Tunnel Rat | 20.00% | ~70 |

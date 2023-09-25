@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 324,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 10.19,
   "EosHistory": [
@@ -1528,9 +1528,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1575,8 +1575,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:04:52.4684935+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:04:48.9018545+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.6602151+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:59:22.5296481+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:04:52.4685077+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:59:09.7415044+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:04:48.9018675+00:00"
 }

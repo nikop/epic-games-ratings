@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~140 |
-| Off to a good start | 71.00% | ~109 |
-| Do... or do not. There is no try | 48.00% | ~74 |
-| A good blaster at your side | 36.00% | ~55 |
+| New Recruit | 90.00% | ~141 |
+| Off to a good start | 71.00% | ~111 |
+| Do... or do not. There is no try | 49.00% | ~77 |
+| A good blaster at your side | 36.00% | ~57 |
 | Great shot, kid! | 27.00% | ~42 |
-| The power of the Force | 25.00% | ~38 |
-| Scrap collector | 25.00% | ~38 |
-| Collector | 23.00% | ~35 |
-| I suggest a new strategy | 22.00% | ~34 |
-| Shoot first | 22.00% | ~34 |
+| Scrap collector | 25.00% | ~39 |
+| The power of the Force | 24.00% | ~38 |
+| Collector | 22.00% | ~35 |
+| I suggest a new strategy | 22.00% | ~35 |
+| Shoot first | 22.00% | ~35 |
 | Tell Jabba that I've got his money | 18.00% | ~28 |
 | All right, I'll give it a try | 18.00% | ~28 |
-| Together we can rule the galaxy | 17.00% | ~26 |
-| A cunning warrior | 17.00% | ~26 |
-| What's the cargo? | 16.00% | ~25 |
-| Never tell me the odds! | 15.00% | ~23 |
-| Survivor | 15.00% | ~23 |
-| Judge me by my size, do you? | 15.00% | ~23 |
+| Together we can rule the galaxy | 17.00% | ~27 |
+| A cunning warrior | 17.00% | ~27 |
+| What's the cargo? | 15.00% | ~24 |
+| Never tell me the odds! | 15.00% | ~24 |
+| Survivor | 15.00% | ~24 |
+| Judge me by my size, do you? | 15.00% | ~24 |
 | A tremor in the Force | 14.00% | ~22 |
 | "Gonk? Gonk!" | 13.00% | ~20 |
 | Best star-pilot in the galaxy | 13.00% | ~20 |
 | Impressive. Most impressive. | 13.00% | ~20 |
-| Distinguished | 12.00% | ~18 |
-| Patience you must have | 12.00% | ~18 |
-| Support the troops | 12.00% | ~18 |
-| Determined | 10.00% | ~15 |
-| Not bad for a little furball | 10.00% | ~15 |
+| Distinguished | 11.00% | ~17 |
+| Patience you must have | 11.00% | ~17 |
+| Support the troops | 11.00% | ~17 |
+| Determined | 10.00% | ~16 |
+| Not bad for a little furball | 10.00% | ~16 |
 | I've been waiting for you | 9.00% | ~14 |
 | When 900 years old you reach... | 9.00% | ~14 |
 | Don't underestimate the Force | 9.00% | ~14 |
-| Precision shot | 8.00% | ~12 |
-| City in the Clouds | 8.00% | ~12 |
-| That's no moon | 8.00% | ~12 |
-| What will you become? | 8.00% | ~12 |
+| Precision shot | 8.00% | ~13 |
+| City in the Clouds | 8.00% | ~13 |
+| That's no moon | 8.00% | ~13 |
+| What will you become? | 8.00% | ~13 |
 | This is a new day, a new beginning | 7.00% | ~11 |
 | Alternative solution | 7.00% | ~11 |
 | Disturbed tranquility | 7.00% | ~11 |
@@ -46,11 +46,11 @@
 | On the ball | 6.00% | ~9 |
 | The circle is now complete | 6.00% | ~9 |
 | Your journey has only started | 5.00% | ~8 |
-| You have your moments | 5.00% | ~8 |
 | Hold the line! | 4.00% | ~6 |
 | Safety ain't the point of a joyride | 4.00% | ~6 |
 | No such thing as luck | 4.00% | ~6 |
 | Do we take prisoners? | 4.00% | ~6 |
+| You have your moments | 4.00% | ~6 |
 | When surrounded by war... | 4.00% | ~6 |
 | Onwards! | 4.00% | ~6 |
 | A New Hope | 3.00% | ~5 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.60% | ~1 |
 | Crush them with one swift stroke… | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 348)  
-Completed: 1 (0.65%) (Ranked 145)  
+Progressed: 157 (Ranked 348)  
+Completed: 1 (0.64%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 1 (0.65%) (Ranked 145)
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
+| 2023-09-25 | 157 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

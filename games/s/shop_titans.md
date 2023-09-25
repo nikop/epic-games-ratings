@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 136,667 (Ranked 69)  
-Completed: 154 (0.11%) (Ranked 230)  
+Completed: 154 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

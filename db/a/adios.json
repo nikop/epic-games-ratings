@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -114,7 +114,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74158,
+  "EOS_Progressed": 74160,
   "EOS_Completed": 774,
   "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 13,
@@ -17634,6 +17634,11 @@
       "Time": "2023-09-24T23:03:45.6690102+00:00",
       "NumProgressed": 74158,
       "NumCompleted": 774
+    },
+    {
+      "Time": "2023-09-25T00:03:47.8435398+00:00",
+      "NumProgressed": 74160,
+      "NumCompleted": 774
     }
   ],
   "TotalAchievements": 25,
@@ -17661,7 +17666,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13348
+      "UsersEstimate": 13349
     },
     {
       "ID": "Audiophile",
@@ -17685,7 +17690,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13348
+      "UsersEstimate": 13349
     },
     {
       "ID": "Butcher",
@@ -17701,7 +17706,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4449
+      "UsersEstimate": 4450
     },
     {
       "ID": "Fair\u0027sFair",
@@ -17773,7 +17778,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "Nothing Left to Say",
@@ -17844,7 +17849,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74158,
+      "Progressed": 74160,
       "Completed": 774
     }
   ],
@@ -17852,8 +17857,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:03:45.6690098+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:03:47.8435394+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:59:10.5975175+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:03:45.6691063+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:58:54.5387414+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:03:47.8436356+00:00"
 }

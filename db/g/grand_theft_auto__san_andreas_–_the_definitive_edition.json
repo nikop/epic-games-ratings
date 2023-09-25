@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 471,
-  "Ranking_Popularity": 237,
-  "Ranking_PopularitySum": 319,
+  "Ranking_Popularity": 236,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -974,18 +974,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 426,
       "NumberOfAwardsMax": 306
+    },
+    {
+      "Time": "2023-09-24T23:57:38.7196525+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 430,
+      "NumberOfAwardsMax": 310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 426,
-  "NumberOfAwardsMax": 306,
+  "NumberOfAwards": 430,
+  "NumberOfAwardsMax": 310,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 306
+      "Count": 310
     },
     {
       "Text": "This game is Relaxing",
@@ -1018,9 +1024,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12846,
+  "EOS_Progressed": 12848,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -11463,6 +11469,11 @@
       "Time": "2023-09-24T23:08:10.7601198+00:00",
       "NumProgressed": 12846,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-25T00:08:05.0460724+00:00",
+      "NumProgressed": 12848,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -11474,7 +11485,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10407
     },
     {
       "ID": "ACH02",
@@ -11530,7 +11541,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6423
+      "UsersEstimate": 6424
     },
     {
       "ID": "ACH09",
@@ -11570,7 +11581,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "ACH14",
@@ -11753,16 +11764,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12846,
+      "Progressed": 12848,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-24T18:57:54.9462813+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:08:10.7601194+00:00",
+  "LastChanged": "2023-09-24T23:57:38.7196524+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:08:05.0460718+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:57:50.4059552+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:08:10.7601914+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:57:38.719653+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:08:05.0461407+00:00"
 }

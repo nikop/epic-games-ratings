@@ -4,8 +4,8 @@
   "ProductSlug": "super-adventure-hand-62ec9a",
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
     "PcReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -138,9 +138,9 @@
       "ID": "ach_save_littleone",
       "SetID": "8787m1a",
       "Name": "First Save",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_stun_feet",
@@ -193,8 +193,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-24T22:08:50.4079759+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:03:18.3384078+00:00",
   "LastUpdate_AppInfo": "2023-09-20T02:12:43.59716+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:58:07.129173+00:00",
-  "LastUpdate_Achievements": "2023-09-24T22:08:50.4079856+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:57:55.7274254+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:03:18.3384287+00:00"
 }

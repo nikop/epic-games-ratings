@@ -31,18 +31,18 @@
 | All That Glistens | 39.00% | ~429 |
 | Frog Facts! | 38.00% | ~418 |
 | Spellbound | 37.00% | ~407 |
+| Extinct Again! | 37.00% | ~407 |
 | All Skilled Up! | 37.00% | ~407 |
 | It's Pointy! | 37.00% | ~407 |
-| Extinct Again! | 36.00% | ~396 |
 | Bird of Prey | 36.00% | ~396 |
 | Stardust | 36.00% | ~396 |
 | Heartbreaker | 36.00% | ~396 |
 | Kidnapped! | 36.00% | ~396 |
 | Pull the Plug | 35.00% | ~385 |
+| Soul Slayer | 35.00% | ~385 |
 | All Heart | 35.00% | ~385 |
 | Trick Question! | 35.00% | ~385 |
 | Final Showdown | 35.00% | ~385 |
-| Soul Slayer | 34.00% | ~374 |
 | The Downfall | 34.00% | ~374 |
 | Spot of Tea? | 34.00% | ~374 |
 | Going Home | 34.00% | ~374 |

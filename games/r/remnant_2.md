@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,742 |
-| The Killing Jar | 8.00% | ~14,882 |
-| Not Your Average Trait | 8.00% | ~14,882 |
+| First of Many | 9.00% | ~16,743 |
+| The Killing Jar | 8.00% | ~14,883 |
+| Not Your Average Trait | 8.00% | ~14,883 |
 | Expanding Horizons | 7.00% | ~13,022 |
 | Quest for Survival | 7.00% | ~13,022 |
 | Gleaming the Cube | 6.00% | ~11,162 |
@@ -17,16 +17,15 @@ Rating: 4.76 (Ranked 119)
 | Boss'n Up | 6.00% | ~11,162 |
 | Good, But Could Be Better! | 6.00% | ~11,162 |
 | Trait Chaser | 6.00% | ~11,162 |
-| Not So Special Now | 5.00% | ~9,301 |
-| Equal Measures | 5.00% | ~9,301 |
-| Blue Goddess | 5.00% | ~9,301 |
-| Top Performer | 5.00% | ~9,301 |
-| Shhh...It's a Secret | 5.00% | ~9,301 |
-| Almost There | 5.00% | ~9,301 |
-| Make Some Room | 5.00% | ~9,301 |
+| Not So Special Now | 5.00% | ~9,302 |
+| Equal Measures | 5.00% | ~9,302 |
+| Blue Goddess | 5.00% | ~9,302 |
+| Top Performer | 5.00% | ~9,302 |
+| Shhh...It's a Secret | 5.00% | ~9,302 |
+| Almost There | 5.00% | ~9,302 |
+| Make Some Room | 5.00% | ~9,302 |
 | Chaos | 4.00% | ~7,441 |
 | Traitor | 4.00% | ~7,441 |
-| Forever is a Long Time Coming | 4.00% | ~7,441 |
 | Power Surge | 4.00% | ~7,441 |
 | The God Gambit | 4.00% | ~7,441 |
 | Dark Designs | 4.00% | ~7,441 |
@@ -36,6 +35,7 @@ Rating: 4.76 (Ranked 119)
 | Scrap Collector | 4.00% | ~7,441 |
 | All These Traits� | 4.00% | ~7,441 |
 | Am I Seeing This? | 3.00% | ~5,581 |
+| Forever is a Long Time Coming | 3.00% | ~5,581 |
 | The Agenda | 3.00% | ~5,581 |
 | Tall Tales | 3.00% | ~5,581 |
 | Bad Moon Rising | 3.00% | ~5,581 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Proving Grounds | 1.00% | ~1,860 |
 | Ghost in the Machine | 0.90% | ~1,674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,027 (Ranked 65)  
+Progressed: 186,034 (Ranked 65)  
 Completed: 332 (0.18%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 332 (0.18%) (Ranked 213)
 | 2023-09-22 | 184,861 | 323 |
 | 2023-09-23 | 185,431 | 328 |
 | 2023-09-24 | 186,027 | 332 |
+| 2023-09-25 | 186,034 | 332 |
 ## Awards
 Max (Great Boss Battles): 1,701  (Ranked 119)  
 Sum: 3,494 (Ranked 154)  

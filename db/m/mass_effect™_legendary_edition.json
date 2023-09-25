@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -641,9 +641,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_115",
@@ -729,9 +729,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 254
     },
     {
       "ID": "achievement_125",
@@ -817,9 +817,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_20",
@@ -873,9 +873,9 @@
       "ID": "achievement_26",
       "SetID": "b9pe172",
       "Name": "Krogan Ally",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_27",
@@ -1025,9 +1025,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_44",
@@ -1081,9 +1081,9 @@
       "ID": "achievement_5",
       "SetID": "b9pe172",
       "Name": "Honorarium of Corporate Service",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_50",
@@ -1281,9 +1281,9 @@
       "ID": "achievement_72",
       "SetID": "d252ncf",
       "Name": "Weapon Specialist",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_73",
@@ -1533,8 +1533,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:04:30.4535293+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:04:27.0981819+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:59:05.8397257+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:04:30.4537016+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:58:50.2867792+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:04:27.0983661+00:00"
 }

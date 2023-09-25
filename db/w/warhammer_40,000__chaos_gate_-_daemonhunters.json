@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 435,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3886,9 +3886,9 @@
       "ID": "MissionVictory_WoundedKnights",
       "SetID": "3jha1np",
       "Name": "Just a Scratch",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 65
     },
     {
       "ID": "NexusCompleted",
@@ -4084,8 +4084,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:04:14.207867+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:04:15.9800914+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:03:06.2702606+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:04:14.2079336+00:00"
+  "LastUpdate_Ratings": "2023-09-25T00:03:07.7489964+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:04:15.9801587+00:00"
 }

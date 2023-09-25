@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 209,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
@@ -988,25 +988,25 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1124,9 +1124,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1195,8 +1195,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-24T23:09:18.5977831+00:00",
+  "LastChanged_Achievements": "2023-09-25T00:09:12.0876514+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-24T22:57:24.2549598+00:00",
-  "LastUpdate_Achievements": "2023-09-24T23:09:18.5978005+00:00"
+  "LastUpdate_Ratings": "2023-09-24T23:57:12.712519+00:00",
+  "LastUpdate_Achievements": "2023-09-25T00:09:12.0876706+00:00"
 }

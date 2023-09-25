@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dicesmithing Time! | 100.00% | ~9 |
+| Endless Tricks | 100.00% | ~9 |
 | Mechanical Buddy | 100.00% | ~9 |
 | Meissa's Savior | 100.00% | ~9 |
 | Purification Pioneer | 100.00% | ~9 |
-| Endless Tricks | 89.00% | ~8 |
 | Sanctuary Guardian | 78.00% | ~7 |
 | Wild's Keeper | 78.00% | ~7 |
 | Mind Illuminator | 67.00% | ~6 |
-| Stellar Dismantler | 56.00% | ~5 |
+| Stellar Dismantler | 67.00% | ~6 |
 | Sentinelphobic | 44.00% | ~4 |
 | Skeptical | 44.00% | ~4 |
 | Stellar Haste | 44.00% | ~4 |
