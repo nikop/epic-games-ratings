@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,185 |
-| Powergamer | 27.00% | ~66,714 |
-| Barely scratched the surface | 25.00% | ~61,772 |
-| Write that down | 24.00% | ~59,301 |
-| Guns, lots of guns | 13.00% | ~32,121 |
+| I will finish what you started | 28.00% | ~69,187 |
+| Powergamer | 27.00% | ~66,716 |
+| Barely scratched the surface | 25.00% | ~61,774 |
+| Write that down | 24.00% | ~59,303 |
+| Guns, lots of guns | 13.00% | ~32,122 |
 | Collector | 12.00% | ~29,651 |
-| Elementary! | 9.00% | ~22,238 |
-| Pumpkin Jack | 8.00% | ~19,767 |
-| Wake up! | 8.00% | ~19,767 |
-| It's honest work | 7.00% | ~17,296 |
-| Griever | 7.00% | ~17,296 |
-| Me smart | 6.00% | ~14,825 |
-| Trash compactor | 6.00% | ~14,825 |
-| Good listener | 5.00% | ~12,354 |
-| Valedictorian | 5.00% | ~12,354 |
+| Elementary! | 9.00% | ~22,239 |
+| Pumpkin Jack | 8.00% | ~19,768 |
+| Wake up! | 8.00% | ~19,768 |
+| It's honest work | 7.00% | ~17,297 |
+| Griever | 7.00% | ~17,297 |
+| Me smart | 6.00% | ~14,826 |
+| Trash compactor | 6.00% | ~14,826 |
+| Good listener | 5.00% | ~12,355 |
+| Valedictorian | 5.00% | ~12,355 |
 | BOY! | 4.00% | ~9,884 |
 | Ka-ching! | 4.00% | ~9,884 |
 | So you like to read? | 4.00% | ~9,884 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~494 |
 | Memory 5 | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,088 (Ranked 51)  
+Progressed: 247,095 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,10 +217,10 @@ Completed: 7 (0.00%) (Ranked 292)
 | 2023-09-22 | 246,774 | 7 |
 | 2023-09-23 | 246,909 | 7 |
 | 2023-09-24 | 247,045 | 7 |
-| 2023-09-25 | 247,088 | 7 |
+| 2023-09-25 | 247,095 | 7 |
 ## Awards
-Max (Character Customization): 81  (Ranked 365)  
-Sum: 81 (Ranked 432)  
+Max (Character Customization): 81  (Ranked 366)  
+Sum: 81 (Ranked 433)  
 Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |

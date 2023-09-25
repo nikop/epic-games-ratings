@@ -11,9 +11,9 @@ Number of Ratings: 1,396  (23.09.2022)
 | Valley's Helper | 63.00% | ~6,425 |
 | Constructor | 51.00% | ~5,201 |
 | Renovator | 51.00% | ~5,201 |
-| Bestest Friend | 47.00% | ~4,793 |
-| Banker | 39.00% | ~3,977 |
-| Gardener | 31.00% | ~3,161 |
+| Bestest Friend | 47.00% | ~4,794 |
+| Banker | 39.00% | ~3,978 |
+| Gardener | 31.00% | ~3,162 |
 | Generous | 24.00% | ~2,448 |
 | Chef Cook | 17.00% | ~1,734 |
 | Miner | 9.00% | ~918 |
@@ -22,8 +22,8 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~510 |
 | Chit Chatter | 3.00% | ~306 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,198 (Ranked 139)  
-Completed: 234 (2.29%) (Ranked 94)  
+Progressed: 10,199 (Ranked 139)  
+Completed: 234 (2.29%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,7 +131,7 @@ Completed: 234 (2.29%) (Ranked 94)
 | 2023-09-22 | 10,063 | 229 |
 | 2023-09-23 | 10,124 | 231 |
 | 2023-09-24 | 10,176 | 233 |
-| 2023-09-25 | 10,198 | 234 |
+| 2023-09-25 | 10,199 | 234 |
 ## Awards
 Max (Great for Beginners): 966  (Ranked 149)  
 Sum: 7,596 (Ranked 106)  

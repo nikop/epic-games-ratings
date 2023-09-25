@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,11 +244,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36065,
+  "EOS_Progressed": 36066,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:12.9453937+00:00",
@@ -13919,6 +13919,11 @@
       "Time": "2023-09-25T13:11:45.7061322+00:00",
       "NumProgressed": 36065,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-25T14:04:19.8927094+00:00",
+      "NumProgressed": 36066,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 14,
@@ -14018,7 +14023,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27770
+      "UsersEstimate": 27771
     },
     {
       "ID": "roots",
@@ -14041,15 +14046,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36065,
+      "Progressed": 36066,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:11:45.7061315+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:04:19.8927084+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.0710228+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:05:23.806459+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:11:45.7063133+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:58:27.4046426+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:04:19.8927809+00:00"
 }

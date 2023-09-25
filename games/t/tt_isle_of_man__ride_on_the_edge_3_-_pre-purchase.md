@@ -35,11 +35,11 @@
 | The Joy of Discovery | 2.00% | ~3 |
 | The Immortal One | 2.00% | ~3 |
 | Shopping List | 2.00% | ~3 |
+| Made Father Proud | 2.00% | ~3 |
+| Win-Win! | 2.00% | ~3 |
 | Golden Ratio | 1.00% | ~1 |
 | Checklist | 1.00% | ~1 |
 | Time Is of the Essence | 1.00% | ~1 |
-| Made Father Proud | 1.00% | ~1 |
-| Win-Win! | 1.00% | ~1 |
 | Supersport Superfan | 1.00% | ~1 |
 | Superbike Superfan | 1.00% | ~1 |
 | Playing Favourites | 1.00% | ~1 |

@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1266,9 +1266,9 @@
       "ID": "adriana_recovery",
       "SetID": "69co12a",
       "Name": "Mom got better",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "adriana_sick",
@@ -1546,9 +1546,9 @@
       "ID": "lil_bobo_fight",
       "SetID": "69co12a",
       "Name": "Your first fight",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 285
     },
     {
       "ID": "met_casey",
@@ -1666,9 +1666,9 @@
       "ID": "prof_promotion_1",
       "SetID": "69co12a",
       "Name": "The die is cast",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "prof_promotion_2",
@@ -1801,8 +1801,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:16:10.5182283+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:08:19.2048745+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:09.0565974+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:07:14.6990953+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:16:10.5183079+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:47.3640818+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:08:19.2049492+00:00"
 }

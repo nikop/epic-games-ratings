@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 573,
-  "Ranking_Popularity": 269,
+  "Ranking_Rating": 572,
+  "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -584,18 +584,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 239,
       "NumberOfAwardsMax": 219
+    },
+    {
+      "Time": "2023-09-25T13:57:24.5204116+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 240,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 239,
-  "NumberOfAwardsMax": 219,
+  "NumberOfAwards": 240,
+  "NumberOfAwardsMax": 220,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -604,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467971,
+  "EOS_Progressed": 467973,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17164,6 +17170,11 @@
       "Time": "2023-09-25T13:12:53.2817886+00:00",
       "NumProgressed": 467971,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-25T14:05:08.4837782+00:00",
+      "NumProgressed": 467973,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -17191,7 +17202,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112313
+      "UsersEstimate": 112314
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -17263,7 +17274,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308861
+      "UsersEstimate": 308862
     },
     {
       "ID": "achievement_story_landa",
@@ -17351,7 +17362,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93594
+      "UsersEstimate": 93595
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -17359,7 +17370,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154430
+      "UsersEstimate": 154431
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17599,7 +17610,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205907
+      "UsersEstimate": 205908
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -17607,7 +17618,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140391
+      "UsersEstimate": 140392
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -17806,21 +17817,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11905,
+      "Progressed": 11907,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467971,
+      "Progressed": 467973,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:12:53.2817879+00:00",
+  "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:05:08.4837777+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:03:58.2576352+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:12:53.2821923+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:57:24.520412+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:05:08.4839266+00:00"
 }

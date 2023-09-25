@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37832,
+  "EOS_Progressed": 37834,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16762,6 +16762,11 @@
       "Time": "2023-09-25T13:11:29.1373205+00:00",
       "NumProgressed": 37832,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T14:04:07.9752643+00:00",
+      "NumProgressed": 37834,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16789,7 +16794,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6431
+      "UsersEstimate": 6432
     },
     {
       "ID": "ach_antiquarian10",
@@ -16901,7 +16906,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ach_die5",
@@ -16981,7 +16986,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "ach_legacysalvager",
@@ -17029,7 +17034,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ach_portdragon",
@@ -17061,7 +17066,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ach_portpearls",
@@ -17077,7 +17082,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ach_portrose",
@@ -17157,7 +17162,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ach_underpressure",
@@ -17204,15 +17209,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37832,
+      "Progressed": 37834,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:11:29.1373198+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:04:07.9752639+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.9799405+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:05:25.9852696+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:11:29.1374811+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:58:28.8104209+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:04:07.9753781+00:00"
 }

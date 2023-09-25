@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8008,10 +8008,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44261,
       "NumberOfAwardsMax": 23029
+    },
+    {
+      "Time": "2023-09-25T14:00:18.2916201+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44273,
+      "NumberOfAwardsMax": 23029
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44261,
+  "NumberOfAwards": 44273,
   "NumberOfAwardsMax": 23029,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8031,7 +8037,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 881
+      "Count": 886
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8061,7 +8067,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1050
+      "Count": 1057
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8088,9 +8094,9 @@
       "Count": 671
     }
   ],
-  "EOS_Progressed": 297309,
+  "EOS_Progressed": 297312,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25178,6 +25184,11 @@
       "Time": "2023-09-25T11:06:36.3985201+00:00",
       "NumProgressed": 297309,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-25T14:06:28.4197997+00:00",
+      "NumProgressed": 297312,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25189,7 +25200,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41623
+      "UsersEstimate": 41624
     },
     {
       "ID": "PFA_10",
@@ -25469,7 +25480,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14865
+      "UsersEstimate": 14866
     },
     {
       "ID": "PFA_42",
@@ -25517,7 +25528,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38650
+      "UsersEstimate": 38651
     },
     {
       "ID": "PFA_7",
@@ -25525,7 +25536,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38650
+      "UsersEstimate": 38651
     },
     {
       "ID": "PFA_8",
@@ -25548,16 +25559,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297309,
+      "Progressed": 297312,
       "Completed": 477
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-25T12:00:35.1073794+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:14:44.453965+00:00",
+  "LastChanged": "2023-09-25T14:00:18.2916199+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:06:28.4197992+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:07:52.3678652+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:14:44.4542055+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:00:18.2916205+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:06:28.4199094+00:00"
 }

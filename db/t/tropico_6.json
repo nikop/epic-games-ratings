@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1134,9 +1134,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5331,
+  "EOS_Progressed": 5332,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10324,6 +10324,11 @@
       "Time": "2023-09-25T11:06:44.7741362+00:00",
       "NumProgressed": 5331,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-25T14:06:37.0488892+00:00",
+      "NumProgressed": 5332,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10351,7 +10356,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -10375,7 +10380,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -10455,7 +10460,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -10463,7 +10468,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -10479,7 +10484,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -10495,7 +10500,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10607,7 +10612,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -10654,15 +10659,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5331,
+      "Progressed": 5332,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-25T13:06:42.236616+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:14:56.6373745+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:06:37.0488888+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:06:42.2366168+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:14:56.6374792+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:26.3382381+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:06:37.0489549+00:00"
 }

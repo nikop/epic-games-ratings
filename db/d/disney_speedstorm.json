@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -16,10 +16,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 3276,
-  "EOS_Completed": 194,
-  "EOS_NewPlayers": 89,
-  "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 5.92,
+  "EOS_Completed": 195,
+  "EOS_NewPlayers": 88,
+  "EOS_NewCompleters": 19,
+  "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -5060,6 +5060,11 @@
       "Time": "2023-09-25T01:49:15.37506+00:00",
       "NumProgressed": 3276,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-09-25T14:05:49.6378765+00:00",
+      "NumProgressed": 3276,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 24,
@@ -5263,12 +5268,12 @@
       "ID": "9p3jgda",
       "IsBase": true,
       "Progressed": 3276,
-      "Completed": 194
+      "Completed": 195
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:13:51.0577467+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:05:49.6378761+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:04:34.8111876+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:13:51.0578037+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:57:50.0239841+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:05:49.6379142+00:00"
 }

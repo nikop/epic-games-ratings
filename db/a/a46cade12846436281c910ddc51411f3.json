@@ -2,10 +2,10 @@
   "ID": "a46cade12846436281c910ddc51411f3",
   "Name": "Dros",
   "ProductSlug": "dros-6da0b2",
-  "Ranking_EOS_Progress": 483,
+  "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-11T01:30:00+00:00",
     "PcReleaseDate": "2023-07-20T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -96,6 +96,11 @@
       "Time": "2023-09-24T16:07:03.7949667+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T14:05:42.4364835+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T00:02:23.2553608+00:00",
@@ -106,7 +111,7 @@
       "ID": "BIGWINS",
       "SetID": "1k0m0ab",
       "Name": "Big Wins",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "CAPTAIN_ARM",
       "SetID": "1k0m0ab",
       "Name": "Handy Man",
-      "Percentage": 73,
+      "Percentage": 69,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -122,7 +127,7 @@
       "ID": "CATCHDROG_ZLOFF",
       "SetID": "1k0m0ab",
       "Name": "Engineer Zloff",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -130,7 +135,7 @@
       "ID": "CATCHMENT_SEAL",
       "SetID": "1k0m0ab",
       "Name": "Earth Seal",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -146,7 +151,7 @@
       "ID": "CATCH_PIPES_TUNNEL",
       "SetID": "1k0m0ab",
       "Name": "Hidden Refuge",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -154,7 +159,7 @@
       "ID": "CATCH_SOUNDPROOF",
       "SetID": "1k0m0ab",
       "Name": "Padded Hut",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -170,7 +175,7 @@
       "ID": "DLR_MEMBER",
       "SetID": "1k0m0ab",
       "Name": "Resistance Fighter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -186,7 +191,7 @@
       "ID": "DRINK_BLUE",
       "SetID": "1k0m0ab",
       "Name": "PRIMA BLUE",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -194,7 +199,7 @@
       "ID": "DRINK_GAZE",
       "SetID": "1k0m0ab",
       "Name": "PRIMA GAZE",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -202,7 +207,7 @@
       "ID": "DRINK_JOLT",
       "SetID": "1k0m0ab",
       "Name": "PRIMA JOLT",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -210,7 +215,7 @@
       "ID": "DRINK_RUSH",
       "SetID": "1k0m0ab",
       "Name": "PRIMA RUSH",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -218,7 +223,7 @@
       "ID": "DROSTOWN_TICKET",
       "SetID": "1k0m0ab",
       "Name": "Fair Trade",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -234,7 +239,7 @@
       "ID": "ENDING_NORMAL",
       "SetID": "1k0m0ab",
       "Name": "The Great Work",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -242,7 +247,7 @@
       "ID": "EPILOGUE_FLUTE",
       "SetID": "1k0m0ab",
       "Name": "Bounty: Collected",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "FILTRATION_SEAL",
       "SetID": "1k0m0ab",
       "Name": "Water Seal",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "FURN_PIRATE_FLAG",
       "SetID": "1k0m0ab",
       "Name": "Pirate Flag Barter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -290,7 +295,7 @@
       "ID": "JAILBREAK",
       "SetID": "1k0m0ab",
       "Name": "Jailbreak",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -314,7 +319,7 @@
       "ID": "MODERAT_EARTH",
       "SetID": "1k0m0ab",
       "Name": "Moderat Earth",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -322,7 +327,7 @@
       "ID": "MODERAT_FIRE",
       "SetID": "1k0m0ab",
       "Name": "Moderat Fire",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -346,7 +351,7 @@
       "ID": "NEWFLESH",
       "SetID": "1k0m0ab",
       "Name": "New Flesh",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -418,7 +423,7 @@
       "ID": "SPIRITEDVOICE",
       "SetID": "1k0m0ab",
       "Name": "A Spirited Voice",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     }
@@ -427,14 +432,14 @@
     {
       "ID": "1k0m0ab",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:13:40.9212253+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:05:42.436483+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:57:00.070168+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:06:44.7606542+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:13:40.9212807+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:27.9616357+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:05:42.4365082+00:00"
 }

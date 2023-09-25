@@ -554,9 +554,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 665900,
+  "EOS_Progressed": 665915,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 3355,
+  "EOS_NewPlayers": 3343,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18329,6 +18329,11 @@
       "Time": "2023-09-25T13:15:02.7588175+00:00",
       "NumProgressed": 665900,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T14:06:41.2859415+00:00",
+      "NumProgressed": 665915,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 52,
@@ -18340,7 +18345,7 @@
       "Name": "1000 KILLS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 53272
+      "UsersEstimate": 53273
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -18348,7 +18353,7 @@
       "Name": "100 KILLS",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 193111
+      "UsersEstimate": 193115
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -18356,7 +18361,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 106544
+      "UsersEstimate": 106546
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -18364,7 +18369,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 179793
+      "UsersEstimate": 179797
     },
     {
       "ID": "BIGUPS",
@@ -18404,7 +18409,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 166475
+      "UsersEstimate": 166479
     },
     {
       "ID": "CHAPTER2",
@@ -18412,7 +18417,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 126521
+      "UsersEstimate": 126524
     },
     {
       "ID": "CHAPTER3",
@@ -18420,7 +18425,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 106544
+      "UsersEstimate": 106546
     },
     {
       "ID": "CHAPTER4",
@@ -18428,7 +18433,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86567
+      "UsersEstimate": 86569
     },
     {
       "ID": "CHAPTER5",
@@ -18436,7 +18441,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 73249
+      "UsersEstimate": 73251
     },
     {
       "ID": "CHAPTER6",
@@ -18444,7 +18449,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 66590
+      "UsersEstimate": 66592
     },
     {
       "ID": "CHURCH",
@@ -18468,7 +18473,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 66590
+      "UsersEstimate": 66592
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -18476,7 +18481,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26636
+      "UsersEstimate": 26637
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -18716,7 +18721,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 173134
+      "UsersEstimate": 173138
     },
     {
       "ID": "SOUL",
@@ -18755,7 +18760,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 665900,
+      "Progressed": 665915,
       "Completed": 66
     }
   ],
@@ -18763,8 +18768,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-09-24T14:02:07.8241206+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:15:02.7588169+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:06:41.285941+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:31.9447833+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:03:29.3310131+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:15:02.7591139+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:57:03.7520165+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:06:41.2860589+00:00"
 }

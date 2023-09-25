@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 548)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,296 |
-| Stogie for Fogey | 28.00% | ~3,538 |
-| Captain Drummer | 28.00% | ~3,538 |
-| Martian Music | 27.00% | ~3,411 |
-| Celebrations are in Order | 27.00% | ~3,411 |
-| Spore Taste | 25.00% | ~3,158 |
-| The Pit and the Pirates | 24.00% | ~3,032 |
-| Drone Dodger | 23.00% | ~2,906 |
-| Doctor Approved | 19.00% | ~2,400 |
-| Thorston Mayer | 15.00% | ~1,895 |
-| Bosmang | 15.00% | ~1,895 |
-| Bottoms up! | 12.00% | ~1,516 |
+| Impossible Objects | 34.00% | ~4,297 |
+| Stogie for Fogey | 28.00% | ~3,539 |
+| Captain Drummer | 28.00% | ~3,539 |
+| Martian Music | 27.00% | ~3,413 |
+| Celebrations are in Order | 27.00% | ~3,413 |
+| Spore Taste | 25.00% | ~3,160 |
+| The Pit and the Pirates | 24.00% | ~3,033 |
+| Drone Dodger | 23.00% | ~2,907 |
+| Doctor Approved | 19.00% | ~2,401 |
+| Thorston Mayer | 15.00% | ~1,896 |
+| Bosmang | 15.00% | ~1,896 |
+| Bottoms up! | 12.00% | ~1,517 |
 | Call it Even | 11.00% | ~1,390 |
-| Data Archivist | 10.00% | ~1,263 |
-| Heal Thy Medic | 9.00% | ~1,137 |
-| Khan's Revenge | 9.00% | ~1,137 |
-| Data Logger | 7.00% | ~884 |
+| Data Archivist | 10.00% | ~1,264 |
+| Heal Thy Medic | 9.00% | ~1,138 |
+| Khan's Revenge | 9.00% | ~1,138 |
+| Data Logger | 7.00% | ~885 |
 | Miraculous Maya | 6.00% | ~758 |
 | Data Master | 6.00% | ~758 |
-| Data Recoverer | 6.00% | ~758 |
-| Debris Spree | 4.00% | ~505 |
+| Data Recoverer | 5.00% | ~632 |
+| Debris Spree | 4.00% | ~506 |
 | Urshanabi Hoarder | 3.00% | ~379 |
 | Brother's Reaper | 3.00% | ~379 |
 | No Belter Left Behind | 3.00% | ~379 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 548)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,634 (Ranked 134)  
+Progressed: 12,639 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 11,791 | 0 |
 | 2023-09-23 | 12,197 | 0 |
 | 2023-09-24 | 12,539 | 0 |
-| 2023-09-25 | 12,634 | 0 |
+| 2023-09-25 | 12,639 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

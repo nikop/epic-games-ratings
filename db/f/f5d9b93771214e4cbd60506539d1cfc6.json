@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145027,
+  "EOS_Progressed": 145029,
   "EOS_Completed": 276,
-  "EOS_NewPlayers": 1212,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12151,6 +12151,11 @@
       "Time": "2023-09-25T13:16:12.8838319+00:00",
       "NumProgressed": 145027,
       "NumCompleted": 276
+    },
+    {
+      "Time": "2023-09-25T14:08:20.802451+00:00",
+      "NumProgressed": 145029,
+      "NumCompleted": 276
     }
   ],
   "TotalAchievements": 31,
@@ -12170,7 +12175,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101519
+      "UsersEstimate": 101520
     },
     {
       "ID": "EAwards_10",
@@ -12186,7 +12191,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29005
+      "UsersEstimate": 29006
     },
     {
       "ID": "EAwards_12",
@@ -12346,7 +12351,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27555
+      "UsersEstimate": 27556
     },
     {
       "ID": "EAwards_30",
@@ -12354,7 +12359,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13052
+      "UsersEstimate": 13053
     },
     {
       "ID": "EAwards_4",
@@ -12394,7 +12399,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53660
+      "UsersEstimate": 53661
     },
     {
       "ID": "EAwards_9",
@@ -12409,7 +12414,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 145027,
+      "Progressed": 145029,
       "Completed": 276
     }
   ],
@@ -12417,8 +12422,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-23T09:58:54.9188675+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:16:12.8838313+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:08:20.8024505+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:07:29.9301943+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:16:12.8840188+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:57.1214011+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:08:20.802525+00:00"
 }

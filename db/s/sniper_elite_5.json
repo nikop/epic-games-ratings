@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3663,
+  "EOS_Progressed": 3664,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6884,6 +6884,11 @@
       "Time": "2023-09-25T13:10:50.2849349+00:00",
       "NumProgressed": 3663,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-25T14:03:39.9437852+00:00",
+      "NumProgressed": 3664,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7095,7 +7100,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7103,7 +7108,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7119,7 +7124,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7151,7 +7156,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7271,7 +7276,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7287,7 +7292,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7462,13 +7467,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3614,
+      "Progressed": 3615,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3663,
+      "Progressed": 3664,
       "Completed": 11
     }
   ],
@@ -7476,8 +7481,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:10:50.2849339+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:03:39.9437848+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:07:14.4995501+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:10:50.2850611+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:47.2443711+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:03:39.943875+00:00"
 }

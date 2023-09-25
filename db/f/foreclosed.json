@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.91,
+  "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -201,6 +201,11 @@
       "Time": "2023-09-17T17:14:38.2359969+00:00",
       "NumProgressed": 103,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T14:04:40.8319633+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -266,7 +271,7 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 73
     },
@@ -290,7 +295,7 @@
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
       "UsersEstimate": 40
     },
@@ -340,7 +345,7 @@
       "Name": "Silent Overload",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "SecretEnding",
@@ -403,7 +408,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 3
     }
   ],
@@ -411,8 +416,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:12:14.5878737+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:04:40.8319628+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.3884312+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:08:50.2591454+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:12:14.5879054+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:00:58.3220438+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:04:40.8319788+00:00"
 }

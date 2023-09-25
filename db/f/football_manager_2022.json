@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7529,9 +7529,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473704,
+  "EOS_Progressed": 473705,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24179,6 +24179,11 @@
       "Time": "2023-09-25T13:15:34.6395929+00:00",
       "NumProgressed": 473704,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-25T14:07:13.3553832+00:00",
+      "NumProgressed": 473705,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -24214,7 +24219,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175270
+      "UsersEstimate": 175271
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -24302,7 +24307,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142111
+      "UsersEstimate": 142112
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -24342,7 +24347,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175270
+      "UsersEstimate": 175271
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -24534,7 +24539,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 146848
+      "UsersEstimate": 146849
     },
     {
       "ID": "achievement_impervious",
@@ -24614,7 +24619,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165796
+      "UsersEstimate": 165797
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -24622,7 +24627,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151585
+      "UsersEstimate": 151586
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -24694,7 +24699,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151585
+      "UsersEstimate": 151586
     },
     {
       "ID": "achievement_rushed_signing",
@@ -24878,7 +24883,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56844
+      "UsersEstimate": 56845
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -24886,7 +24891,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 146848
+      "UsersEstimate": 146849
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -24973,15 +24978,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473704,
+      "Progressed": 473705,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-24T19:59:14.3785965+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:15:34.6395917+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:07:13.3553828+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:26.8428516+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:07:11.3791907+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:15:34.6400145+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:45.3166757+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:07:13.355557+00:00"
 }

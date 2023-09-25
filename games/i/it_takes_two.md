@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 88.00% | ~3,739 |
-| Struck A Pose | 87.00% | ~3,697 |
-| Look At Him Go | 76.00% | ~3,229 |
-| On Rails Experience | 53.00% | ~2,252 |
-| A Daring Devil | 49.00% | ~2,082 |
-| Break the Bank | 41.00% | ~1,742 |
-| It Took Two | 36.00% | ~1,530 |
-| Bug Sized Relaxation | 18.00% | ~765 |
-| Plastic Prison Breakers | 17.00% | ~722 |
-| Terror Of The Seven Seas | 14.00% | ~595 |
-| Realize Your Art | 12.00% | ~510 |
-| Force Triangulated | 11.00% | ~467 |
-| Meditation Maestro | 11.00% | ~467 |
-| Something Fishy | 10.00% | ~425 |
-| Lost And Found | 9.00% | ~382 |
-| Platforming Prodigy | 8.00% | ~340 |
-| Snackosaurus | 7.00% | ~297 |
-| Mood Swing | 7.00% | ~297 |
-| Minigame Megalomania | 4.00% | ~170 |
-| Faraway Frequencies | 4.00% | ~170 |
+| Fried Friendship | 87.00% | ~3,751 |
+| Struck A Pose | 87.00% | ~3,751 |
+| Look At Him Go | 76.00% | ~3,277 |
+| On Rails Experience | 53.00% | ~2,285 |
+| A Daring Devil | 49.00% | ~2,113 |
+| Break the Bank | 41.00% | ~1,768 |
+| It Took Two | 36.00% | ~1,552 |
+| Bug Sized Relaxation | 18.00% | ~776 |
+| Plastic Prison Breakers | 17.00% | ~733 |
+| Terror Of The Seven Seas | 15.00% | ~647 |
+| Realize Your Art | 12.00% | ~517 |
+| Force Triangulated | 11.00% | ~474 |
+| Meditation Maestro | 11.00% | ~474 |
+| Something Fishy | 10.00% | ~431 |
+| Lost And Found | 9.00% | ~388 |
+| Platforming Prodigy | 8.00% | ~345 |
+| Snackosaurus | 7.00% | ~302 |
+| Mood Swing | 7.00% | ~302 |
+| Minigame Megalomania | 4.00% | ~172 |
+| Faraway Frequencies | 4.00% | ~172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,249 (Ranked 169)  
+Progressed: 4,312 (Ranked 168)  
 Completed: 18 (0.42%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,4 +35,4 @@ Completed: 18 (0.42%) (Ranked 171)
 | 2023-09-22 | 1,941 | 10 |
 | 2023-09-23 | 3,096 | 15 |
 | 2023-09-24 | 3,966 | 17 |
-| 2023-09-25 | 4,249 | 18 |
+| 2023-09-25 | 4,312 | 18 |

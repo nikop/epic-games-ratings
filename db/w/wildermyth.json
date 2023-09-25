@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1404,
+  "EOS_Progressed": 1405,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1522,6 +1522,11 @@
       "Time": "2023-09-24T19:06:14.6806667+00:00",
       "NumProgressed": 1404,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-25T14:06:16.5844793+00:00",
+      "NumProgressed": 1405,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1605,7 +1610,7 @@
       "Name": "Passing Shadow",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1693,7 +1698,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1725,7 +1730,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1749,7 +1754,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "completedStory_cvawn",
@@ -1980,15 +1985,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1404,
+      "Progressed": 1405,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:14:28.5172704+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:06:16.5844788+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:06.8645337+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:04:44.7650103+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:14:28.5173755+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:57:56.3677859+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:06:16.584531+00:00"
 }

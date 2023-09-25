@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109680,
+  "EOS_Progressed": 109681,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-09-24T23:03:43.60345+00:00",
       "NumProgressed": 109680,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-25T14:03:42.3443236+00:00",
+      "NumProgressed": 109681,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2698,7 +2703,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14258
+      "UsersEstimate": 14259
     },
     {
       "ID": "25",
@@ -2762,7 +2767,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25226
+      "UsersEstimate": 25227
     },
     {
       "ID": "34",
@@ -2841,15 +2846,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109680,
+      "Progressed": 109681,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:10:53.6027082+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:03:42.3443232+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.0465707+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:08:42.7242547+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:10:53.6027797+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:00:52.4810512+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:03:42.344355+00:00"
 }

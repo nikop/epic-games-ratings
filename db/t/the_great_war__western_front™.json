@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2099,6 +2099,11 @@
       "Time": "2023-09-25T13:15:28.7528344+00:00",
       "NumProgressed": 470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T14:07:09.0445021+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2116,7 +2121,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 80,
       "UsersEstimate": 4
     },
@@ -2164,7 +2169,7 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -2180,9 +2185,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2205,7 +2210,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 0
     }
   ],
@@ -2213,8 +2218,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-09-24T20:00:40.5546933+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:15:28.7528338+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:07:09.0445016+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.662019+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:09:17.9548318+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:15:28.7528775+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:02:09.8012239+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:07:09.04452+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~289 |
+| Your first fight | 87.00% | ~285 |
 | Good Person Chip | 86.00% | ~282 |
-| Your first fight | 86.00% | ~282 |
 | First winning | 85.00% | ~279 |
 | Your first job | 84.00% | ~276 |
 | Old movies enjoyer | 80.00% | ~262 |
@@ -44,12 +44,12 @@
 | Champion – no way back | 44.00% | ~144 |
 | Underground dwellers | 42.00% | ~138 |
 | Responsible approach | 42.00% | ~138 |
+| Mom got better | 41.00% | ~134 |
 | Deal with life | 41.00% | ~134 |
 | Poisoned fighter | 41.00% | ~134 |
 | Get out of my apartment! | 41.00% | ~134 |
-| Mom got better | 40.00% | ~131 |
+| The die is cast | 41.00% | ~134 |
 | GYM professional | 40.00% | ~131 |
-| The die is cast | 40.00% | ~131 |
 | Seashell hunter | 38.00% | ~125 |
 | Gang wrangler | 37.00% | ~121 |
 | Undercover robot | 37.00% | ~121 |

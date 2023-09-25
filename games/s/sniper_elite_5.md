@@ -10,22 +10,22 @@ Rating: 4.46 (Ranked 631)
 | The Kraken Wakes | 36.00% | ~1,319 |
 | It's Starting to Crack | 33.00% | ~1,209 |
 | Change the Channel | 30.00% | ~1,099 |
-| Lord of War | 29.00% | ~1,062 |
+| Lord of War | 29.00% | ~1,063 |
 | Taking it back | 28.00% | ~1,026 |
-| Resourceful | 26.00% | ~952 |
-| Target America | 26.00% | ~952 |
+| Resourceful | 26.00% | ~953 |
+| Target America | 26.00% | ~953 |
 | The Kraken Sleeps | 24.00% | ~879 |
 | Liberté | 22.00% | ~806 |
 | Organ Grinder | 22.00% | ~806 |
 | As Quiet as a Mouse | 22.00% | ~806 |
 | Sharpshooter | 21.00% | ~769 |
-| Explosive Efficiency | 18.00% | ~659 |
+| Explosive Efficiency | 18.00% | ~660 |
 | Just a Flesh Wound | 17.00% | ~623 |
 | Gunslinger | 17.00% | ~623 |
 | Climbing the Ladder | 16.00% | ~586 |
 | Der Geist | 16.00% | ~586 |
-| Close Quarters | 15.00% | ~549 |
-| Brains of the Operation | 15.00% | ~549 |
+| Close Quarters | 15.00% | ~550 |
+| Brains of the Operation | 15.00% | ~550 |
 | No Stone Unturned | 14.00% | ~513 |
 | Enemy at the Gates | 14.00% | ~513 |
 | Fields of Glory | 14.00% | ~513 |
@@ -77,8 +77,8 @@ Rating: 4.46 (Ranked 631)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,663 (Ranked 171)  
-Completed: 11 (0.30%) (Ranked 192)  
+Progressed: 3,664 (Ranked 171)  
+Completed: 11 (0.30%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,7 +233,7 @@ Completed: 11 (0.30%) (Ranked 192)
 | 2023-09-22 | 3,652 | 11 |
 | 2023-09-23 | 3,658 | 11 |
 | 2023-09-24 | 3,662 | 11 |
-| 2023-09-25 | 3,663 | 11 |
+| 2023-09-25 | 3,664 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

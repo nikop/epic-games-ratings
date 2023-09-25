@@ -19,8 +19,8 @@
 | Happy Tenants | 27.00% | ~92 |
 | Potent Potables | 26.00% | ~88 |
 | Smooth Service | 26.00% | ~88 |
+| Your Prestige is Rising | 25.00% | ~85 |
 | Retail Revenue | 25.00% | ~85 |
-| Your Prestige is Rising | 24.00% | ~82 |
 | Don't Feel a Loan | 23.00% | ~78 |
 | People Mover | 22.00% | ~75 |
 | Lux Living | 21.00% | ~71 |
@@ -44,9 +44,9 @@
 | Aestheticly Pleased | 10.00% | ~34 |
 | Master of Puppets | 10.00% | ~34 |
 | Refined Palates | 10.00% | ~34 |
+| First 100 Days | 9.00% | ~31 |
 | Plaza Plan | 9.00% | ~31 |
 | Phoning It In | 9.00% | ~31 |
-| First 100 Days | 8.00% | ~27 |
 | Water Features | 8.00% | ~27 |
 | Meet Me at HQ | 8.00% | ~27 |
 | Careful Constructor | 7.00% | ~24 |

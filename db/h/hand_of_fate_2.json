@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662547,
+  "EOS_Progressed": 662548,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15833,6 +15833,11 @@
       "Time": "2023-09-25T11:05:06.939909+00:00",
       "NumProgressed": 662547,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-25T14:04:54.7441735+00:00",
+      "NumProgressed": 662548,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15844,7 +15849,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477034
+      "UsersEstimate": 477035
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -15852,7 +15857,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384277
+      "UsersEstimate": 384278
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16227,15 +16232,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662547,
+      "Progressed": 662548,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:12:33.8311835+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:04:54.744173+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:08:51.6518479+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:12:33.8314395+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:00:59.4140663+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:04:54.7442778+00:00"
 }

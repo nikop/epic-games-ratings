@@ -7,20 +7,20 @@ Number of Ratings: 62  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,394 |
-| I'll Be Back | 85.00% | ~3,973 |
-| Sorry, I Dropped This | 77.00% | ~3,599 |
-| First Day on the Job | 76.00% | ~3,552 |
+| I'll Be Back | 85.00% | ~3,974 |
+| Sorry, I Dropped This | 77.00% | ~3,600 |
+| First Day on the Job | 76.00% | ~3,553 |
 | Butcher's Bill | 55.00% | ~2,571 |
-| P.A.X | 38.00% | ~1,776 |
-| Hey Listen | 37.00% | ~1,729 |
+| P.A.X | 37.00% | ~1,730 |
+| Hey Listen | 37.00% | ~1,730 |
 | OPERATOR | 36.00% | ~1,683 |
-| It's Blue Light | 33.00% | ~1,542 |
-| Most Wanted | 26.00% | ~1,215 |
+| It's Blue Light | 33.00% | ~1,543 |
+| Most Wanted | 26.00% | ~1,216 |
 | Infidel | 23.00% | ~1,075 |
 | GOLIATH | 21.00% | ~982 |
 | Firebug | 20.00% | ~935 |
-| I Choose You | 18.00% | ~841 |
-| Nothing to Lose | 18.00% | ~841 |
+| I Choose You | 18.00% | ~842 |
+| Nothing to Lose | 18.00% | ~842 |
 | Big Sister | 16.00% | ~748 |
 | SENTINEL | 16.00% | ~748 |
 | Gear Up | 15.00% | ~701 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~514 |
 | Who's in Charge Here? | 11.00% | ~514 |
 | Shall Not Pass | 11.00% | ~514 |
-| Right Tool for the Job | 10.00% | ~467 |
+| Right Tool for the Job | 10.00% | ~468 |
 | Melting Down | 9.00% | ~421 |
 | Raging Drones | 9.00% | ~421 |
 | Overconfident | 9.00% | ~421 |
@@ -54,18 +54,18 @@ Number of Ratings: 62  (23.09.2022)
 | Turing Test | 3.00% | ~140 |
 | Repeat Customer | 3.00% | ~140 |
 | Evolution Theory | 3.00% | ~140 |
-| Ghost in the Machine | 2.00% | ~93 |
-| Homo Machinalis | 2.00% | ~93 |
-| Was That Yours? | 2.00% | ~93 |
-| Guard Dog | 2.00% | ~93 |
-| Carbon Cat vs Iron Maus | 2.00% | ~93 |
-| Dress Up | 2.00% | ~93 |
-| New Gear | 2.00% | ~93 |
-| Good Listener | 2.00% | ~93 |
-| One-Armed Bandit | 2.00% | ~93 |
-| Episodic | 2.00% | ~93 |
-| End of Transmission | 2.00% | ~93 |
-| Gramophone Enthusiast | 2.00% | ~93 |
+| Ghost in the Machine | 2.00% | ~94 |
+| Homo Machinalis | 2.00% | ~94 |
+| Was That Yours? | 2.00% | ~94 |
+| Guard Dog | 2.00% | ~94 |
+| Carbon Cat vs Iron Maus | 2.00% | ~94 |
+| Dress Up | 2.00% | ~94 |
+| New Gear | 2.00% | ~94 |
+| Good Listener | 2.00% | ~94 |
+| One-Armed Bandit | 2.00% | ~94 |
+| Episodic | 2.00% | ~94 |
+| End of Transmission | 2.00% | ~94 |
+| Gramophone Enthusiast | 2.00% | ~94 |
 | Bling-Bling | 1.00% | ~47 |
 | Sniffing Around | 0.70% | ~33 |
 | Modus Operandi | 0.70% | ~33 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,674 (Ranked 167)  
+Progressed: 4,675 (Ranked 167)  
 Completed: 16 (0.34%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 16 (0.34%) (Ranked 184)
 | 2023-09-22 | 4,660 | 16 |
 | 2023-09-23 | 4,665 | 16 |
 | 2023-09-24 | 4,671 | 16 |
-| 2023-09-25 | 4,674 | 16 |
+| 2023-09-25 | 4,675 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 469)  
 Sum: 29 (Ranked 485)  

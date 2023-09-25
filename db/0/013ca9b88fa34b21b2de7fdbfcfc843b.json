@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4967,
+  "EOS_Progressed": 4968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2189,6 +2189,11 @@
       "Time": "2023-09-25T13:12:03.9450843+00:00",
       "NumProgressed": 4967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T14:04:33.20208+00:00",
+      "NumProgressed": 4968,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -2201,7 +2206,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -2209,7 +2214,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -2225,7 +2230,7 @@
       "Name": "Open the Gate!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -2233,7 +2238,7 @@
       "Name": "Clear the Air",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -2297,7 +2302,7 @@
       "Name": "Miner 49er",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -2305,7 +2310,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -2337,7 +2342,7 @@
       "Name": "Humble Collector",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -2425,7 +2430,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -2455,9 +2460,9 @@
       "ID": "UPGRADE_COZYMAX",
       "SetID": "9eia0f5",
       "Name": "Captain of Cozy",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -2480,7 +2485,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 4967,
+      "Progressed": 4968,
       "Completed": 0
     }
   ],
@@ -2488,8 +2493,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-24T19:00:05.9941715+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:12:03.9450839+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:04:33.2020796+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:07:49.4397575+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:12:03.9451294+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:00:16.3143311+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:04:33.2021122+00:00"
 }

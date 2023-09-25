@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1744,9 +1744,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "BearPistol",
@@ -1904,9 +1904,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "HatFlower",
@@ -2040,9 +2040,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2087,8 +2087,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:14:49.1162535+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:06:31.6935223+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:06:50.6973884+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:14:49.1163454+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:32.3280974+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:06:31.6935612+00:00"
 }

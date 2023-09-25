@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 506)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,582 |
-| Welcome To Hell-A | 3.00% | ~20,582 |
-| Dr. Reed, I Presume? | 2.00% | ~13,721 |
-| Git Gutte! | 2.00% | ~13,721 |
-| Bookworm | 2.00% | ~13,721 |
-| Break A Leg | 2.00% | ~13,721 |
-| But Doctor, I am Butcho | 2.00% | ~13,721 |
-| Slayer Squad | 2.00% | ~13,721 |
-| Can't Handle the Truth | 2.00% | ~13,721 |
-| Coup de Grâce | 2.00% | ~13,721 |
-| Like Riding a Bike | 2.00% | ~13,721 |
-| Hazardous Materials | 2.00% | ~13,721 |
-| Friends Like These | 2.00% | ~13,721 |
-| Apex Predator | 2.00% | ~13,721 |
-| Zombologist | 2.00% | ~13,721 |
-| A Patton Emerges | 2.00% | ~13,721 |
-| Stacking the Deck | 2.00% | ~13,721 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,721 |
-| This is My Weapon | 2.00% | ~13,721 |
+| Hotel California | 3.00% | ~20,583 |
+| Welcome To Hell-A | 3.00% | ~20,583 |
+| Dr. Reed, I Presume? | 2.00% | ~13,722 |
+| Git Gutte! | 2.00% | ~13,722 |
+| Bookworm | 2.00% | ~13,722 |
+| Break A Leg | 2.00% | ~13,722 |
+| But Doctor, I am Butcho | 2.00% | ~13,722 |
+| Slayer Squad | 2.00% | ~13,722 |
+| Can't Handle the Truth | 2.00% | ~13,722 |
+| Coup de Grâce | 2.00% | ~13,722 |
+| Like Riding a Bike | 2.00% | ~13,722 |
+| Hazardous Materials | 2.00% | ~13,722 |
+| Friends Like These | 2.00% | ~13,722 |
+| Apex Predator | 2.00% | ~13,722 |
+| Zombologist | 2.00% | ~13,722 |
+| A Patton Emerges | 2.00% | ~13,722 |
+| Stacking the Deck | 2.00% | ~13,722 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,722 |
+| This is My Weapon | 2.00% | ~13,722 |
 | Making Your Mark | 1.00% | ~6,861 |
 | Anger Management | 1.00% | ~6,861 |
 | Perks of the Job | 1.00% | ~6,861 |
@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 506)
 | Max Headroom | 0.90% | ~6,175 |
 | Go, Bobcats! | 0.80% | ~5,489 |
 | Rising Star | 0.80% | ~5,489 |
-| Jumbo Keyring | 0.70% | ~4,802 |
-| Smorgasbord | 0.60% | ~4,116 |
+| Jumbo Keyring | 0.70% | ~4,803 |
+| Smorgasbord | 0.60% | ~4,117 |
 | On Safari | 0.50% | ~3,430 |
 | Not Even My Final Form | 0.50% | ~3,430 |
 | Internet Famous | 0.50% | ~3,430 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 506)
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,063 (Ranked 22)  
+Progressed: 686,089 (Ranked 22)  
 Completed: 2,173 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 2,173 (0.32%) (Ranked 187)
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
-| 2023-09-25 | 686,063 | 2,173 |
+| 2023-09-25 | 686,089 | 2,173 |
 ## Awards
 Max (Great Boss Battles): 6,188  (Ranked 57)  
 Sum: 9,210 (Ranked 92)  

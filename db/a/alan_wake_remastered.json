@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -518,9 +518,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66177,
+  "EOS_Progressed": 66179,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15848,6 +15848,11 @@
       "Time": "2023-09-25T13:13:35.1619949+00:00",
       "NumProgressed": 66177,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T14:05:38.2192197+00:00",
+      "NumProgressed": 66179,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15859,7 +15864,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27794
+      "UsersEstimate": 27795
     },
     {
       "ID": "02",
@@ -15867,7 +15872,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17206
+      "UsersEstimate": 17207
     },
     {
       "ID": "03",
@@ -15875,7 +15880,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17206
+      "UsersEstimate": 17207
     },
     {
       "ID": "04",
@@ -15971,7 +15976,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7279
+      "UsersEstimate": 7280
     },
     {
       "ID": "16",
@@ -16083,7 +16088,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10588
+      "UsersEstimate": 10589
     },
     {
       "ID": "30",
@@ -16123,7 +16128,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7279
+      "UsersEstimate": 7280
     },
     {
       "ID": "35",
@@ -16131,7 +16136,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22500
+      "UsersEstimate": 22501
     },
     {
       "ID": "36",
@@ -16219,7 +16224,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10588
+      "UsersEstimate": 10589
     },
     {
       "ID": "47",
@@ -16394,21 +16399,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66177,
+      "Progressed": 66179,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29645,
+      "Progressed": 29647,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-25T11:00:21.6078659+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:13:35.1619942+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:05:38.2192192+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:08:15.0458826+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:13:35.1621838+00:00"
+  "LastUpdate_Ratings": "2023-09-25T14:00:33.737576+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:05:38.2193526+00:00"
 }

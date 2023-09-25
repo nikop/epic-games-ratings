@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 506,
-  "Ranking_Popularity": 367,
-  "Ranking_PopularitySum": 434,
+  "Ranking_Popularity": 363,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -662,23 +662,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-09-25T13:57:15.0892684+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 82,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80,
-  "NumberOfAwardsMax": 80,
+  "NumberOfAwards": 82,
+  "NumberOfAwardsMax": 82,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 80
+      "Count": 82
     }
   ],
-  "EOS_Progressed": 10359,
+  "EOS_Progressed": 10362,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10451,6 +10457,11 @@
       "Time": "2023-09-25T13:12:23.8629927+00:00",
       "NumProgressed": 10359,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-25T14:04:47.4762477+00:00",
+      "NumProgressed": 10362,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10542,7 +10553,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH12",
@@ -10566,7 +10577,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4351
+      "UsersEstimate": 4352
     },
     {
       "ID": "ACH15",
@@ -10590,7 +10601,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH18",
@@ -10622,7 +10633,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4765
+      "UsersEstimate": 4767
     },
     {
       "ID": "ACH22",
@@ -10694,7 +10705,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH31",
@@ -10733,16 +10744,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10359,
+      "Progressed": 10362,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-24T12:00:28.8282064+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:12:23.8629922+00:00",
+  "LastChanged": "2023-09-25T13:57:15.0892683+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:04:47.4762473+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:03:44.8031595+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:12:23.8630928+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:57:15.0892687+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:04:47.4763132+00:00"
 }

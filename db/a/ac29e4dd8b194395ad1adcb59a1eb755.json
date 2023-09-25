@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -69,9 +69,9 @@
       "ID": "achievement_beginner",
       "SetID": "b9jpe8p",
       "Name": "Beginner",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_calm",
@@ -115,8 +115,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:14:42.6459025+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:06:26.8569704+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:57:11.8928614+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:03:47.2887711+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:14:42.6459116+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:57:16.0065791+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:06:26.8569764+00:00"
 }

@@ -51,12 +51,13 @@
 | Wicked Sick | 6.00% | ~4 |
 | Usurper II | 6.00% | ~4 |
 | 50Gb HDD | 6.00% | ~4 |
+| Silver Foundation | 6.00% | ~4 |
+| Silver Pest Control | 6.00% | ~4 |
 | Fighting Fit II | 6.00% | ~4 |
 | Pilgrim | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
-| Silver Foundation | 5.00% | ~3 |
+| 80Gb HDD | 5.00% | ~3 |
 | System Captain | 5.00% | ~3 |
-| Silver Pest Control | 5.00% | ~3 |
 | Mysterious Skin | 5.00% | ~3 |
 | Beetle | 5.00% | ~3 |
 | Anger Management | 5.00% | ~3 |
@@ -65,7 +66,6 @@
 | Golden Foundation | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
 | Golden Pest Control | 3.00% | ~2 |
-| 80Gb HDD | 3.00% | ~2 |
 | Galactic Captain | 3.00% | ~2 |
 | Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -996,9 +996,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 226639,
+  "EOS_Progressed": 226645,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1624,
+  "EOS_NewPlayers": 1621,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12236,6 +12236,11 @@
       "Time": "2023-09-25T13:11:14.3406193+00:00",
       "NumProgressed": 226639,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T14:03:57.5279267+00:00",
+      "NumProgressed": 226645,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12695,7 +12700,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70258
+      "UsersEstimate": 70260
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12775,7 +12780,7 @@
       "Name": "Dead for good",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "KillGolbargh",
@@ -12799,7 +12804,7 @@
       "Name": "Gargantua",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "Orktobearfest",
@@ -12935,7 +12940,7 @@
       "Name": "Material Girl",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "WizardResistBurn",
@@ -12950,21 +12955,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226639,
+      "Progressed": 226645,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226639,
+      "Progressed": 226645,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-25T13:03:27.8694328+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:11:14.3406188+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:03:57.5279262+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:03:27.8694336+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:11:14.3409346+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:57:02.7259256+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:03:57.5280611+00:00"
 }

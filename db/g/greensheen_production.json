@@ -3,8 +3,8 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -104,9 +104,9 @@
       "ID": "CompletePaleCity",
       "SetID": "aph8hbk",
       "Name": "Paled",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteSchool",
@@ -144,9 +144,9 @@
       "ID": "FindAllHats",
       "SetID": "aph8hbk",
       "Name": "Far Ahead",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "FindAllPhantomKids",
@@ -176,9 +176,9 @@
       "ID": "GameComplete",
       "SetID": "aph8hbk",
       "Name": "Signal interruption",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Governess",
@@ -200,9 +200,9 @@
       "ID": "HandOverkill",
       "SetID": "aph8hbk",
       "Name": "...And Stay Dead!",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HoleCatch",
@@ -320,9 +320,9 @@
       "ID": "ThinmanHat",
       "SetID": "aph8hbk",
       "Name": "How Do I Look?",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "TrapAvoid",
@@ -350,8 +350,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-09-25T13:10:36.8407025+00:00",
+  "LastChanged_Achievements": "2023-09-25T14:03:30.3603887+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-09-25T13:07:00.6353415+00:00",
-  "LastUpdate_Achievements": "2023-09-25T13:10:36.8407464+00:00"
+  "LastUpdate_Ratings": "2023-09-25T13:59:39.596114+00:00",
+  "LastUpdate_Achievements": "2023-09-25T14:03:30.3604103+00:00"
 }
