@@ -970,7 +970,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2936,
+  "EOS_Progressed": 2937,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -4935,6 +4935,11 @@
       "Time": "2023-09-25T03:03:50.8641324+00:00",
       "NumProgressed": 2936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T07:03:41.6195841+00:00",
+      "NumProgressed": 2937,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5064,9 +5069,9 @@
       "ID": "ACH_GOLDEN",
       "SetID": "72olkc5",
       "Name": "Golden!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_GOOD-VIBES",
@@ -5329,15 +5334,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2936,
+      "Progressed": 2937,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-24T16:57:49.6373996+00:00",
-  "LastChanged_Achievements": "2023-09-25T06:03:54.418335+00:00",
+  "LastChanged_Achievements": "2023-09-25T07:03:41.6195836+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:57:48.1456619+00:00",
-  "LastUpdate_Achievements": "2023-09-25T06:03:54.4184355+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:57:42.4144827+00:00",
+  "LastUpdate_Achievements": "2023-09-25T07:03:41.6196467+00:00"
 }

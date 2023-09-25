@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Love | 41.00% | ~458 |
-| Clean Race | 39.00% | ~435 |
+| Clean Race | 39.00% | ~436 |
 | Hear That Roar! | 38.00% | ~424 |
 | Eat My Dust | 37.00% | ~413 |
 | Rivals to the End | 30.00% | ~335 |
@@ -18,17 +18,17 @@
 | Legendary!!! | 17.00% | ~190 |
 | Quick Pit Stop | 17.00% | ~190 |
 | Go-Faster Stripes | 16.00% | ~179 |
-| We've Just Begun | 9.00% | ~100 |
+| We've Just Begun | 9.00% | ~101 |
 | Stamina Star | 8.00% | ~89 |
 | Is It the Right Size? | 7.00% | ~78 |
 | Evangelist | 6.00% | ~67 |
 | Make It Your Own! | 4.00% | ~45 |
-| Cherry Blossom and Temples | 3.00% | ~33 |
-| La Dolce Vita | 3.00% | ~33 |
-| The Road to Liberty | 3.00% | ~33 |
-| Romantic Races | 3.00% | ~33 |
-| Still Here | 3.00% | ~33 |
-| I Make the Rules! | 3.00% | ~33 |
+| Cherry Blossom and Temples | 3.00% | ~34 |
+| La Dolce Vita | 3.00% | ~34 |
+| The Road to Liberty | 3.00% | ~34 |
+| Romantic Races | 3.00% | ~34 |
+| Still Here | 3.00% | ~34 |
+| I Make the Rules! | 3.00% | ~34 |
 | Iconic! | 2.00% | ~22 |
 | Spoilt for Choice | 2.00% | ~22 |
 | Back in Blighty | 2.00% | ~22 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,116 (Ranked 223)  
+Progressed: 1,117 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 1,048 | 0 |
 | 2023-09-23 | 1,081 | 0 |
 | 2023-09-24 | 1,115 | 0 |
-| 2023-09-25 | 1,116 | 0 |
+| 2023-09-25 | 1,117 | 0 |

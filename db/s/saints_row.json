@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3684,9 +3684,9 @@
       "Count": 1067
     }
   ],
-  "EOS_Progressed": 72543,
+  "EOS_Progressed": 72544,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1468,
+  "EOS_NewPlayers": 1457,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21324,6 +21324,11 @@
       "Time": "2023-09-25T06:03:28.4090191+00:00",
       "NumProgressed": 72543,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-25T07:03:20.2791486+00:00",
+      "NumProgressed": 72544,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 53,
@@ -21431,7 +21436,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22488
+      "UsersEstimate": 22489
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -21439,7 +21444,7 @@
       "Name": "Wet Work",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22488
+      "UsersEstimate": 22489
     },
     {
       "ID": "complete_mission_1",
@@ -21455,7 +21460,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 23939
+      "UsersEstimate": 23940
     },
     {
       "ID": "customize_a_weapon",
@@ -21463,7 +21468,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26115
+      "UsersEstimate": 26116
     },
     {
       "ID": "cutting_edge_materials",
@@ -21583,7 +21588,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26115
+      "UsersEstimate": 26116
     },
     {
       "ID": "hit_max_level",
@@ -21758,13 +21763,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 72543,
+      "Progressed": 72544,
       "Completed": 49
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 44180,
+      "Progressed": 44181,
       "Completed": 3922
     }
   ],
@@ -21772,8 +21777,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-24T13:00:57.8907736+00:00",
-  "LastChanged_Achievements": "2023-09-25T06:03:28.4090182+00:00",
+  "LastChanged_Achievements": "2023-09-25T07:03:20.2791481+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.9460051+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:58:49.9910099+00:00",
-  "LastUpdate_Achievements": "2023-09-25T06:03:28.4091857+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:58:37.7662854+00:00",
+  "LastUpdate_Achievements": "2023-09-25T07:03:20.2793302+00:00"
 }

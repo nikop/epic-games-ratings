@@ -6,53 +6,53 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 70.00% | ~616,682 |
-| Right Back At Ya | 41.00% | ~361,199 |
-| The Lovers | 36.00% | ~317,151 |
-| Stanislavski's Method | 30.00% | ~264,292 |
-| The Wheel of Fortune | 29.00% | ~255,482 |
-| The Hermit | 27.00% | ~237,863 |
-| The High Priestess | 25.00% | ~220,244 |
-| True Soldier | 25.00% | ~220,244 |
-| Christmas Tree Attack | 24.00% | ~211,434 |
-| Legend of The Afterlife | 23.00% | ~202,624 |
-| Life of the Road | 22.00% | ~193,814 |
-| Full Body Conversion | 20.00% | ~176,195 |
-| The World | 20.00% | ~176,195 |
-| Bushido and Chill | 17.00% | ~149,766 |
-| True Warrior | 17.00% | ~149,766 |
-| Gun Fu | 16.00% | ~140,956 |
-| Master Crafter | 16.00% | ~140,956 |
-| I Am The Law | 15.00% | ~132,146 |
-| Judy vs Night City | 15.00% | ~132,146 |
-| To Protect and Serve | 14.00% | ~123,336 |
-| Ten out of Ten | 14.00% | ~123,336 |
-| Two Heads, One Bullet | 14.00% | ~123,336 |
-| The Quick and the Dead | 11.00% | ~96,907 |
-| The Wandering Fool | 10.00% | ~88,097 |
-| Breathtaking | 10.00% | ~88,097 |
-| To Bad Decisions! | 8.00% | ~70,478 |
-| The Star | 7.00% | ~61,668 |
-| The Sun | 7.00% | ~61,668 |
-| The Jungle | 7.00% | ~61,668 |
-| Mean Streets | 6.00% | ~52,858 |
-| Temperance | 6.00% | ~52,858 |
-| Rough Landing | 6.00% | ~52,858 |
-| V for Vendetta | 6.00% | ~52,858 |
+| The Fool | 70.00% | ~616,692 |
+| Right Back At Ya | 41.00% | ~361,205 |
+| The Lovers | 36.00% | ~317,156 |
+| Stanislavski's Method | 30.00% | ~264,296 |
+| The Wheel of Fortune | 29.00% | ~255,487 |
+| The Hermit | 27.00% | ~237,867 |
+| The High Priestess | 25.00% | ~220,247 |
+| True Soldier | 25.00% | ~220,247 |
+| Christmas Tree Attack | 24.00% | ~211,437 |
+| Legend of The Afterlife | 23.00% | ~202,627 |
+| Life of the Road | 22.00% | ~193,817 |
+| Full Body Conversion | 20.00% | ~176,198 |
+| The World | 20.00% | ~176,198 |
+| Bushido and Chill | 17.00% | ~149,768 |
+| Master Crafter | 17.00% | ~149,768 |
+| True Warrior | 17.00% | ~149,768 |
+| Gun Fu | 16.00% | ~140,958 |
+| I Am The Law | 15.00% | ~132,148 |
+| Judy vs Night City | 15.00% | ~132,148 |
+| To Protect and Serve | 14.00% | ~123,338 |
+| Ten out of Ten | 14.00% | ~123,338 |
+| Two Heads, One Bullet | 14.00% | ~123,338 |
+| The Quick and the Dead | 11.00% | ~96,909 |
+| The Wandering Fool | 10.00% | ~88,099 |
+| Breathtaking | 10.00% | ~88,099 |
+| To Bad Decisions! | 8.00% | ~70,479 |
+| The Star | 7.00% | ~61,669 |
+| The Sun | 7.00% | ~61,669 |
+| The Jungle | 7.00% | ~61,669 |
+| Mean Streets | 6.00% | ~52,859 |
+| Temperance | 6.00% | ~52,859 |
+| Rough Landing | 6.00% | ~52,859 |
+| V for Vendetta | 6.00% | ~52,859 |
 | Gunslinger | 5.00% | ~44,049 |
 | Must Be Rats | 5.00% | ~44,049 |
 | It's Elementary | 5.00% | ~44,049 |
-| City Lights | 4.00% | ~35,239 |
-| Greetings from Pacifica! | 4.00% | ~35,239 |
-| Frequent Flyer | 3.00% | ~26,429 |
-| Little Tokyo | 3.00% | ~26,429 |
-| The Wasteland | 3.00% | ~26,429 |
-| The Devil | 3.00% | ~26,429 |
-| Autojock | 2.00% | ~17,619 |
-| Daemon In The Shell | 2.00% | ~17,619 |
+| City Lights | 4.00% | ~35,240 |
+| Greetings from Pacifica! | 4.00% | ~35,240 |
+| Frequent Flyer | 3.00% | ~26,430 |
+| Little Tokyo | 3.00% | ~26,430 |
+| The Wasteland | 3.00% | ~26,430 |
+| The Devil | 3.00% | ~26,430 |
+| Autojock | 2.00% | ~17,620 |
+| Daemon In The Shell | 2.00% | ~17,620 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 880,974 (Ranked 15)  
-Completed: 2,350 (0.27%) (Ranked 197)  
+Progressed: 880,988 (Ranked 15)  
+Completed: 2,352 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,7 +209,7 @@ Completed: 2,350 (0.27%) (Ranked 197)
 | 2023-09-22 | 878,891 | 2,252 |
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
-| 2023-09-25 | 880,974 | 2,350 |
+| 2023-09-25 | 880,988 | 2,352 |
 ## Awards
 Max (Character Customization): 81,210  (Ranked 9)  
 Sum: 220,419 (Ranked 13)  

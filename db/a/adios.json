@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74181,
+  "EOS_Progressed": 74182,
   "EOS_Completed": 774,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -17669,6 +17669,11 @@
       "Time": "2023-09-25T06:04:03.44987+00:00",
       "NumProgressed": 74181,
       "NumCompleted": 774
+    },
+    {
+      "Time": "2023-09-25T07:03:49.1107152+00:00",
+      "NumProgressed": 74182,
+      "NumCompleted": 774
     }
   ],
   "TotalAchievements": 25,
@@ -17800,7 +17805,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14094
+      "UsersEstimate": 14095
     },
     {
       "ID": "Nice Try",
@@ -17872,14 +17877,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5934
+      "UsersEstimate": 5935
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74181,
+      "Progressed": 74182,
       "Completed": 774
     }
   ],
@@ -17887,8 +17892,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-25T06:04:03.4498692+00:00",
+  "LastChanged_Achievements": "2023-09-25T07:03:49.1107147+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:59:35.5913495+00:00",
-  "LastUpdate_Achievements": "2023-09-25T06:04:03.4499928+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:59:12.7344724+00:00",
+  "LastUpdate_Achievements": "2023-09-25T07:03:49.1108391+00:00"
 }

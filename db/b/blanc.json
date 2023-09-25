@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2745,
+  "EOS_Progressed": 2746,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3463,6 +3463,11 @@
       "Time": "2023-09-24T21:03:24.7449121+00:00",
       "NumProgressed": 2745,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-25T07:03:29.0936391+00:00",
+      "NumProgressed": 2746,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3498,7 +3503,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "MOVE_ON",
@@ -3562,7 +3567,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -3577,7 +3582,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2745,
+      "Progressed": 2746,
       "Completed": 6
     }
   ],
@@ -3585,8 +3590,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-25T06:03:39.5401302+00:00",
+  "LastChanged_Achievements": "2023-09-25T07:03:29.093638+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.7074849+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:57:57.7532918+00:00",
-  "LastUpdate_Achievements": "2023-09-25T06:03:39.5401635+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:57:51.3436631+00:00",
+  "LastUpdate_Achievements": "2023-09-25T07:03:29.0937051+00:00"
 }

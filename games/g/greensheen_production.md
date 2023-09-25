@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Evasive prey | 17.00% | ~1 |
+| Evasive prey | 14.00% | ~1 |
 | In The Palm Of My Hand | 0.00% | ~0 |
 | Bully of Bullies | 0.00% | ~0 |
 | Toys Are For Kids | 0.00% | ~0 |
@@ -39,7 +39,7 @@
 | How Do I Look? | 0.00% | ~0 |
 | X Best Friends | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 517)  
+Progressed: 7 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-08-30 | 4 | 0 |
 | 2023-09-07 | 5 | 0 |
 | 2023-09-22 | 6 | 0 |
+| 2023-09-25 | 7 | 0 |

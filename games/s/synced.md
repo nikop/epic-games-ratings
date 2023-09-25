@@ -5,13 +5,13 @@ Rating: 4.19 (Ranked 877)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 20.00% | ~11,410 |
-| As Far Away As Possible | 13.00% | ~7,416 |
-| A Most Unstable Organism | 10.00% | ~5,705 |
-| No Time to Follow Protocol | 8.00% | ~4,564 |
-| Float Like a Butterfly... | 6.00% | ~3,423 |
-| Nano Connoisseur | 5.00% | ~2,852 |
-| In Two Places At Once | 5.00% | ~2,852 |
+| Your Lucky Day | 20.00% | ~11,412 |
+| As Far Away As Possible | 13.00% | ~7,418 |
+| A Most Unstable Organism | 10.00% | ~5,706 |
+| No Time to Follow Protocol | 8.00% | ~4,565 |
+| Float Like a Butterfly... | 6.00% | ~3,424 |
+| Nano Connoisseur | 5.00% | ~2,853 |
+| In Two Places At Once | 5.00% | ~2,853 |
 | Pulling Your Weight | 2.00% | ~1,141 |
 | Reaping Rivals | 2.00% | ~1,141 |
 | fifteenth Time's the Charm | 0.60% | ~342 |
@@ -22,7 +22,7 @@ Rating: 4.19 (Ranked 877)
 | Runs for Your Money | 0.10% | ~57 |
 | Past Master | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,050 (Ranked 93)  
+Progressed: 57,060 (Ranked 92)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,14 +51,14 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 55,451 | 0 |
 | 2023-09-23 | 56,248 | 0 |
 | 2023-09-24 | 56,938 | 0 |
-| 2023-09-25 | 57,050 | 0 |
+| 2023-09-25 | 57,060 | 0 |
 ## Awards
-Max (Great for Beginners): 27  (Ranked 478)  
-Sum: 27 (Ranked 491)  
-Diff (max vs sum): -13  
+Max (Great for Beginners): 31  (Ranked 465)  
+Sum: 31 (Ranked 483)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 27 |
+| This game is Great for Beginners | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -78,4 +78,4 @@ Diff (max vs sum): -13
 | 2023-09-22 | 4.19 | 21 | 21 |
 | 2023-09-23 | 4.19 | 24 | 24 |
 | 2023-09-24 | 4.19 | 27 | 27 |
-| 2023-09-25 | 4.19 | 27 | 27 |
+| 2023-09-25 | 4.19 | 31 | 31 |

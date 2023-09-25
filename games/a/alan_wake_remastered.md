@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,788 |
-| Let There Be Light | 34.00% | ~22,495 |
-| Float Like a Butterfly | 32.00% | ~21,172 |
-| Nordic Walking | 26.00% | ~17,202 |
-| Bright Falls' Finest | 26.00% | ~17,202 |
+| Follow the Light | 42.00% | ~27,789 |
+| Let There Be Light | 34.00% | ~22,496 |
+| Float Like a Butterfly | 32.00% | ~21,173 |
+| Nordic Walking | 26.00% | ~17,203 |
+| Bright Falls' Finest | 26.00% | ~17,203 |
 | Under a Thin Layer of Skin | 22.00% | ~14,556 |
 | Paging Mr. Wake | 19.00% | ~12,571 |
-| Park Ranger | 18.00% | ~11,909 |
+| Park Ranger | 18.00% | ~11,910 |
 | Back! Back, I Say! | 17.00% | ~11,248 |
 | Finders Keepers | 17.00% | ~11,248 |
 | Sound and Fury | 16.00% | ~10,586 |
 | Damn Good Cup of Coffee | 16.00% | ~10,586 |
-| Wheels Within Wheels | 15.00% | ~9,924 |
-| They're Heeeeeere! | 15.00% | ~9,924 |
-| Missed by a Mile | 15.00% | ~9,924 |
+| Wheels Within Wheels | 15.00% | ~9,925 |
+| They're Heeeeeere! | 15.00% | ~9,925 |
+| Missed by a Mile | 15.00% | ~9,925 |
 | The Six-Gun Scribe | 14.00% | ~9,263 |
 | Collateral Carnage | 14.00% | ~9,263 |
 | Heavy Metal | 13.00% | ~8,601 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 9.00% | ~5,955 |
 | Tornado Wrangler | 8.00% | ~5,293 |
 | Departure | 8.00% | ~5,293 |
-| A Friend in Need | 8.00% | ~2,370 |
+| A Friend in Need | 8.00% | ~2,371 |
 | Drink 'Em Both Up | 6.00% | ~3,970 |
 | Hardboiled Writer | 6.00% | ~3,970 |
 | A Friend Indeed | 6.00% | ~1,778 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,163 (Ranked 89)  
+Progressed: 66,165 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 66 (0.10%) (Ranked 233)
 | 2023-09-22 | 65,981 | 66 |
 | 2023-09-23 | 66,060 | 66 |
 | 2023-09-24 | 66,142 | 66 |
-| 2023-09-25 | 66,163 | 66 |
+| 2023-09-25 | 66,165 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

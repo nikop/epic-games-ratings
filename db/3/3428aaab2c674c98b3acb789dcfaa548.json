@@ -5264,9 +5264,9 @@
       "Count": 818
     }
   ],
-  "EOS_Progressed": 801154,
+  "EOS_Progressed": 801162,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 6589,
+  "EOS_NewPlayers": 6573,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19569,6 +19569,11 @@
       "Time": "2023-09-25T06:06:04.7801246+00:00",
       "NumProgressed": 801154,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-25T07:05:29.7805386+00:00",
+      "NumProgressed": 801162,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 75,
@@ -19580,7 +19585,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 176254
+      "UsersEstimate": 176256
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -20052,7 +20057,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 48069
+      "UsersEstimate": 48070
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -20179,13 +20184,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 801154,
+      "Progressed": 801162,
       "Completed": 204
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 801154,
+      "Progressed": 801162,
       "Completed": 170
     }
   ],
@@ -20193,8 +20198,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-09-25T01:43:16.0470721+00:00",
-  "LastChanged_Achievements": "2023-09-25T06:06:04.7801237+00:00",
+  "LastChanged_Achievements": "2023-09-25T07:05:29.7805377+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:57:01.823974+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:00:16.2601813+00:00",
-  "LastUpdate_Achievements": "2023-09-25T06:06:04.7803181+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:59:45.9012113+00:00",
+  "LastUpdate_Achievements": "2023-09-25T07:05:29.7807095+00:00"
 }

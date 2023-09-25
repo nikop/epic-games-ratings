@@ -1,9 +1,9 @@
 {
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
@@ -14,9 +14,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2023-09-22T12:08:22.7226272+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T07:03:35.4777155+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -323,7 +328,7 @@
       "ID": "TrapAvoid",
       "SetID": "aph8hbk",
       "Name": "Evasive prey",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -340,13 +345,13 @@
     {
       "ID": "aph8hbk",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-09-25T06:03:47.0540212+00:00",
+  "LastChanged_Achievements": "2023-09-25T07:03:35.477715+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:59:49.5020812+00:00",
-  "LastUpdate_Achievements": "2023-09-25T06:03:47.054053+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:59:23.2975082+00:00",
+  "LastUpdate_Achievements": "2023-09-25T07:03:35.4777457+00:00"
 }

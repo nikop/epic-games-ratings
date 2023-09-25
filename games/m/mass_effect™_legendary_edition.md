@@ -19,7 +19,7 @@
 | Meritorious Service Medal | 55.00% | ~194 |
 | Charismatic | 55.00% | ~194 |
 | Soldier | 54.00% | ~190 |
-| Medal of Exploration III | 53.00% | ~187 |
+| Medal of Exploration III | 54.00% | ~190 |
 | Asari Ally | 52.00% | ~183 |
 | Principled | 52.00% | ~183 |
 | Colonial Savior | 50.00% | ~176 |
@@ -29,7 +29,7 @@
 | Paramour I | 45.00% | ~158 |
 | Merciless | 45.00% | ~158 |
 | Krogan Ally | 44.00% | ~155 |
-| Head Hunter | 42.00% | ~148 |
+| Head Hunter | 43.00% | ~151 |
 | Operative | 41.00% | ~144 |
 | Scholar | 41.00% | ~144 |
 | Power Full | 40.00% | ~141 |

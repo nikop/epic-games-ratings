@@ -50,12 +50,12 @@ Number of Ratings: 111  (23.09.2022)
 | Dipped! | 1.00% | ~29 |
 | Skatepark hero | 1.00% | ~29 |
 | Bing Bong! | 0.10% | ~3 |
+| Golden! | 0.10% | ~3 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
-| Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,936 (Ranked 184)  
+Progressed: 2,937 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 2,904 | 0 |
 | 2023-09-23 | 2,922 | 0 |
 | 2023-09-24 | 2,934 | 0 |
-| 2023-09-25 | 2,936 | 0 |
+| 2023-09-25 | 2,937 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 398)  
 Sum: 472 (Ranked 311)  

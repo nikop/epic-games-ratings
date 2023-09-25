@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 924,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2190,6 +2190,11 @@
       "Time": "2023-09-25T06:06:20.1261394+00:00",
       "NumProgressed": 923,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T07:05:42.8613942+00:00",
+      "NumProgressed": 924,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2209,7 +2214,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH002",
@@ -2313,7 +2318,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH015",
@@ -2385,7 +2390,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACH024",
@@ -2417,7 +2422,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH028",
@@ -2489,7 +2494,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH037",
@@ -2505,7 +2510,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH039",
@@ -2600,15 +2605,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-25T06:06:20.1261375+00:00",
+  "LastChanged_Achievements": "2023-09-25T07:05:42.8613931+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.6290536+00:00",
-  "LastUpdate_Ratings": "2023-09-25T06:03:07.5207113+00:00",
-  "LastUpdate_Achievements": "2023-09-25T06:06:20.1261959+00:00"
+  "LastUpdate_Ratings": "2023-09-25T07:00:52.8975587+00:00",
+  "LastUpdate_Achievements": "2023-09-25T07:05:42.8614524+00:00"
 }
