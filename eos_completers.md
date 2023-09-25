@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.94% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.91% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -37,7 +37,7 @@
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.63% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
 | 39 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.16% |
 | 41 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 7.14% |
@@ -134,8 +134,8 @@
 | 129 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 133 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 134 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
-| 135 | [Eternights](games/e/eternights.md) | 0.91% |
 | 135 | [Hades](games/h/hades.md) | 0.91% |
+| 136 | [Eternights](games/e/eternights.md) | 0.90% |
 | 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.89% |
 | 138 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 139 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
@@ -144,8 +144,8 @@
 | 142 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 143 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 144 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
-| 145 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 145 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.65% |
+| 146 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 147 | [Haven](games/h/haven.md) | 0.62% |
 | 147 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.62% |
 | 147 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.62% |
@@ -161,8 +161,8 @@
 | 159 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 160 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 161 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 161 | [Dead Space](games/d/dead_space.md) | 0.52% |
 | 161 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 163 | [Dead Space](games/d/dead_space.md) | 0.51% |
 | 164 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
 | 165 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 166 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
