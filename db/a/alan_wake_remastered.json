@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66161,
+  "EOS_Progressed": 66163,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15807,6 +15807,11 @@
       "Time": "2023-09-25T05:05:59.6668622+00:00",
       "NumProgressed": 66161,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T06:06:19.2067807+00:00",
+      "NumProgressed": 66163,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15842,7 +15847,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "05",
@@ -15850,7 +15855,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14555
+      "UsersEstimate": 14556
     },
     {
       "ID": "06",
@@ -15922,7 +15927,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "15",
@@ -16002,7 +16007,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "25",
@@ -16010,7 +16015,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     },
     {
       "ID": "26",
@@ -16018,7 +16023,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "27",
@@ -16050,7 +16055,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "31",
@@ -16058,7 +16063,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11247
+      "UsersEstimate": 11248
     },
     {
       "ID": "32",
@@ -16138,7 +16143,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11247
+      "UsersEstimate": 11248
     },
     {
       "ID": "42",
@@ -16353,21 +16358,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66161,
+      "Progressed": 66163,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29629,
+      "Progressed": 29631,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-25T05:05:59.6668616+00:00",
+  "LastChanged_Achievements": "2023-09-25T06:06:19.2067795+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:00:36.4046421+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:05:59.667022+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:00:47.1034193+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:06:19.2069424+00:00"
 }

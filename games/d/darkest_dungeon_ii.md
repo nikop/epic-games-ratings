@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~110,375 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~84,265 |
-| A Clear Conscience | 69.00% | ~81,891 |
-| Unleash Hell | 68.00% | ~80,704 |
-| Unfulfilled Desires | 68.00% | ~80,704 |
+| A Place to Lay Your Head | 93.00% | ~110,376 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~84,266 |
+| A Clear Conscience | 69.00% | ~81,892 |
+| Unleash Hell | 68.00% | ~80,705 |
+| Unfulfilled Desires | 68.00% | ~80,705 |
 | Funny Guy | 67.00% | ~79,518 |
 | Unshackled | 67.00% | ~79,518 |
 | Long Live the King | 66.00% | ~78,331 |
-| Resurrection | 62.00% | ~73,583 |
-| Wyrdly Reconstructed | 62.00% | ~73,583 |
+| Resurrection | 62.00% | ~73,584 |
+| Wyrdly Reconstructed | 62.00% | ~73,584 |
 | Boxcar Kid | 60.00% | ~71,210 |
 | Rush Hour | 60.00% | ~71,210 |
 | To Grandmother's House | 60.00% | ~71,210 |
-| Serenity Now! | 53.00% | ~62,902 |
+| Serenity Now! | 53.00% | ~62,903 |
 | Hope Rekindled | 50.00% | ~59,342 |
 | Ramble On | 49.00% | ~58,155 |
 | Nope | 48.00% | ~56,968 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Merry Time | 36.00% | ~42,726 |
 | Harvest Festival | 36.00% | ~42,726 |
 | Hot Air | 36.00% | ~42,726 |
-| Creep and Sleep | 33.00% | ~39,165 |
+| Creep and Sleep | 33.00% | ~39,166 |
 | Overdue Notice | 32.00% | ~37,979 |
 | Banishment | 31.00% | ~36,792 |
 | Whale | 31.00% | ~36,792 |
@@ -38,8 +38,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 24.00% | ~28,484 |
 | Meat and Greet | 22.00% | ~26,110 |
 | Road Trip | 22.00% | ~26,110 |
-| Spelunker | 21.00% | ~24,923 |
-| Eyes Up | 21.00% | ~24,923 |
+| Spelunker | 21.00% | ~24,924 |
+| Eyes Up | 21.00% | ~24,924 |
 | It Rings a Bell | 20.00% | ~23,737 |
 | Escape from the Black Hole | 18.00% | ~21,363 |
 | Dissector | 17.00% | ~20,176 |
@@ -57,7 +57,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No More Mouths to Feed | 6.00% | ~7,121 |
 | Ichthyophobic | 5.00% | ~5,934 |
 | The World As It Was | 4.00% | ~4,747 |
-| Triage | 3.00% | ~3,560 |
+| Triage | 3.00% | ~3,561 |
 | A Life Well Lived | 2.00% | ~2,374 |
 | Clearing the Ledger | 2.00% | ~2,374 |
 | Bacon Bits | 1.00% | ~1,187 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~119 |
 | No Gravestone Left Unturned | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,683 (Ranked 73)  
+Progressed: 118,684 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 1 (0.00%) (Ranked 292)
 | 2023-09-22 | 118,438 | 1 |
 | 2023-09-23 | 118,552 | 1 |
 | 2023-09-24 | 118,664 | 1 |
-| 2023-09-25 | 118,683 | 1 |
+| 2023-09-25 | 118,684 | 1 |
 ## Awards
 Max (Character Customization): 7,412  (Ranked 48)  
 Sum: 19,371 (Ranked 56)  

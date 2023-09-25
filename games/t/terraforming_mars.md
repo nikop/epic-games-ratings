@@ -11,7 +11,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Prop-M Rover | 32.00% | ~24,617 |
 | Changing the Planet | 28.00% | ~21,540 |
 | Sojourner | 26.00% | ~20,001 |
-| Beagle 2 | 24.00% | ~18,462 |
+| Beagle 2 | 24.00% | ~18,463 |
 | New Home | 23.00% | ~17,693 |
 | Winner Winner Terraformer | 22.00% | ~16,924 |
 | Project Manager | 19.00% | ~14,616 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~8,462 |
 | Spirit | 10.00% | ~7,693 |
 | Ultimate success | 10.00% | ~7,693 |
-| Variety Expert | 9.00% | ~6,923 |
+| Variety Expert | 9.00% | ~6,924 |
 | Frequent tester | 8.00% | ~6,154 |
 | Determined | 8.00% | ~6,154 |
 | Terraformer | 4.00% | ~3,077 |
 | Team Effort | 3.00% | ~2,308 |
 | Opportunity | 3.00% | ~2,308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,927 (Ranked 82)  
+Progressed: 76,928 (Ranked 82)  
 Completed: 135 (0.18%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 135 (0.18%) (Ranked 213)
 | 2023-09-22 | 76,600 | 132 |
 | 2023-09-23 | 76,761 | 134 |
 | 2023-09-24 | 76,910 | 135 |
-| 2023-09-25 | 76,927 | 135 |
+| 2023-09-25 | 76,928 | 135 |
 ## Awards
 Max (Relaxing): 516  (Ranked 199)  
 Sum: 3,173 (Ranked 164)  

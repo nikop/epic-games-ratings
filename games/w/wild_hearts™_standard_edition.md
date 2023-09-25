@@ -25,12 +25,12 @@
 | Karakuri Trail | 44.00% | ~19 |
 | Counter Specialist | 44.00% | ~19 |
 | Single Minded | 40.00% | ~17 |
+| Snare Specialist | 40.00% | ~17 |
 | Kemono at Heart | 40.00% | ~17 |
 | Reincarnation Cycle Stopper | 40.00% | ~17 |
 | Left Arm Leverager | 37.00% | ~16 |
 | Mighty Marmelizer | 37.00% | ~16 |
 | Fair Means or Foul | 37.00% | ~16 |
-| Snare Specialist | 37.00% | ~16 |
 | Team Hunter | 37.00% | ~16 |
 | Karakuri Isle | 35.00% | ~15 |
 | Jack of All Trades | 35.00% | ~15 |

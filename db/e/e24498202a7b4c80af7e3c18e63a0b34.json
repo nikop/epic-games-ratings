@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4677,
+  "EOS_Progressed": 4678,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1673,
+  "EOS_NewPlayers": 1666,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1292,6 +1292,11 @@
       "Time": "2023-09-25T05:06:25.5384044+00:00",
       "NumProgressed": 4677,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-25T06:06:45.4302933+00:00",
+      "NumProgressed": 4678,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -1304,7 +1309,7 @@
       "Name": "First of Many",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "achievement_01_02",
@@ -1320,7 +1325,7 @@
       "Name": "Brand New Ride",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "achievement_01_04",
@@ -1352,7 +1357,7 @@
       "Name": "Car Workshop",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "achievement_01_08",
@@ -1360,7 +1365,7 @@
       "Name": "Trophy Collector",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "achievement_01_09",
@@ -1376,7 +1381,7 @@
       "Name": "Beat the Clock",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "achievement_02_01",
@@ -1438,9 +1443,9 @@
       "ID": "achievement_02_08",
       "SetID": "4f1m94d",
       "Name": "Car Specialist",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_03_01",
@@ -1448,7 +1453,7 @@
       "Name": "USA - Check!",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_03_02",
@@ -1552,7 +1557,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "achievement_04_04",
@@ -1568,7 +1573,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_04_06",
@@ -1584,7 +1589,7 @@
       "Name": "Nitro Saver",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "achievement_04_08",
@@ -1600,21 +1605,21 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 4677,
+      "Progressed": 4678,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-25T05:06:25.5384035+00:00",
+  "LastChanged_Achievements": "2023-09-25T06:06:45.4302924+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:00:48.0411848+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:06:25.5384451+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:00:58.3096263+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:06:45.4303329+00:00"
 }

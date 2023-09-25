@@ -2,9 +2,9 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -136,6 +136,11 @@
       "Time": "2023-09-25T00:06:52.7332467+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T06:07:45.1021689+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -146,7 +151,7 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 60,
       "UsersEstimate": 10
     },
@@ -154,7 +159,7 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 60,
       "UsersEstimate": 14
     },
@@ -170,9 +175,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -180,7 +185,7 @@
       "Name": "Murderer",
       "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -188,7 +193,7 @@
       "Name": "Killer",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -202,15 +207,15 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -258,7 +263,7 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 60,
       "UsersEstimate": 8
     },
@@ -266,7 +271,7 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 110,
       "UsersEstimate": 5
     },
@@ -276,21 +281,21 @@
       "Name": "Strong",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-25T05:07:25.7486512+00:00",
+  "LastChanged_Achievements": "2023-09-25T06:07:45.102168+00:00",
   "LastUpdate_AppInfo": "2023-09-19T15:57:15.1386888+00:00",
-  "LastUpdate_Ratings": "2023-09-25T04:58:28.5405136+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:07:25.7486693+00:00"
+  "LastUpdate_Ratings": "2023-09-25T05:58:34.5986577+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:07:45.1021814+00:00"
 }

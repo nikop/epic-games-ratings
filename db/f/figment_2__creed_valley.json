@@ -122,9 +122,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -210,9 +210,9 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story_jester_land",
@@ -251,8 +251,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-09-25T05:07:36.4305877+00:00",
+  "LastChanged_Achievements": "2023-09-25T06:08:05.7796598+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.2885829+00:00",
-  "LastUpdate_Ratings": "2023-09-25T04:59:03.2500081+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:07:36.4306042+00:00"
+  "LastUpdate_Ratings": "2023-09-25T05:59:11.1648725+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:08:05.7796748+00:00"
 }

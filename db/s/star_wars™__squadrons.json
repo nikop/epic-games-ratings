@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2702,
+  "EOS_Progressed": 2708,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2696,
+  "EOS_NewPlayers": 2702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -541,6 +541,11 @@
       "Time": "2023-09-25T05:05:49.9981357+00:00",
       "NumProgressed": 2702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T06:06:09.385319+00:00",
+      "NumProgressed": 2708,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -553,7 +558,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_10",
@@ -601,7 +606,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 596
     },
     {
       "ID": "achievement_16",
@@ -657,7 +662,7 @@
       "Name": "Sound Strategy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_22",
@@ -705,7 +710,7 @@
       "Name": "Unkillable",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_28",
@@ -743,9 +748,9 @@
       "ID": "achievement_31",
       "SetID": "8ghcoph",
       "Name": "Got \u0027Em",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_32",
@@ -761,7 +766,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 567
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_34",
@@ -777,7 +782,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2573
     },
     {
       "ID": "achievement_36",
@@ -785,7 +790,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_37",
@@ -793,7 +798,7 @@
       "Name": "Asset Secured",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_38",
@@ -809,7 +814,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_4",
@@ -881,7 +886,7 @@
       "Name": "Stomped",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_5",
@@ -897,7 +902,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_7",
@@ -913,7 +918,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "achievement_9",
@@ -928,7 +933,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 2702,
+      "Progressed": 2708,
       "Completed": 0
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-09-25T05:05:49.9981348+00:00",
+  "LastChanged_Achievements": "2023-09-25T06:06:09.3853181+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:04.4818836+00:00",
-  "LastUpdate_Ratings": "2023-09-25T04:58:57.0916856+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:05:49.9981845+00:00"
+  "LastUpdate_Ratings": "2023-09-25T05:59:03.4148377+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:06:09.3853833+00:00"
 }

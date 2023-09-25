@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-28T09:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:57:06.3826234+00:00",
-  "LastUpdate_Ratings": "2023-09-25T04:58:54.8900427+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:04:49.0933973+00:00"
+  "LastUpdate_Ratings": "2023-09-25T05:59:00.2976117+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:05:08.435373+00:00"
 }

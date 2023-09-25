@@ -817,9 +817,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -888,8 +888,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-25T05:07:02.9217105+00:00",
+  "LastChanged_Achievements": "2023-09-25T06:07:22.1136698+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-25T04:57:43.1427093+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:07:02.921746+00:00"
+  "LastUpdate_Ratings": "2023-09-25T05:57:50.14923+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:07:22.1136911+00:00"
 }

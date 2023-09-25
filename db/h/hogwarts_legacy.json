@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8082,9 +8082,9 @@
       "Count": 671
     }
   ],
-  "EOS_Progressed": 297300,
+  "EOS_Progressed": 297305,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25152,6 +25152,11 @@
       "Time": "2023-09-25T04:07:51.1591598+00:00",
       "NumProgressed": 297300,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-25T06:07:16.8067196+00:00",
+      "NumProgressed": 297305,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25163,7 +25168,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41622
+      "UsersEstimate": 41623
     },
     {
       "ID": "PFA_10",
@@ -25283,7 +25288,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35676
+      "UsersEstimate": 35677
     },
     {
       "ID": "PFA_24",
@@ -25347,7 +25352,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32703
+      "UsersEstimate": 32704
     },
     {
       "ID": "PFA_31",
@@ -25491,7 +25496,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38649
+      "UsersEstimate": 38650
     },
     {
       "ID": "PFA_7",
@@ -25499,7 +25504,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38649
+      "UsersEstimate": 38650
     },
     {
       "ID": "PFA_8",
@@ -25507,7 +25512,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32703
+      "UsersEstimate": 32704
     },
     {
       "ID": "PFA_9",
@@ -25522,7 +25527,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297300,
+      "Progressed": 297305,
       "Completed": 477
     }
   ],
@@ -25530,8 +25535,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-25T05:00:19.6279252+00:00",
-  "LastChanged_Achievements": "2023-09-25T05:06:57.105104+00:00",
+  "LastChanged_Achievements": "2023-09-25T06:07:16.8067183+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-25T05:00:19.627926+00:00",
-  "LastUpdate_Achievements": "2023-09-25T05:06:57.1054328+00:00"
+  "LastUpdate_Ratings": "2023-09-25T06:00:28.3403274+00:00",
+  "LastUpdate_Achievements": "2023-09-25T06:07:16.8068603+00:00"
 }
