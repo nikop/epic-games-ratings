@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6518,
+  "EOS_Progressed": 6519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2572,6 +2572,11 @@
       "Time": "2023-09-25T10:03:43.0221865+00:00",
       "NumProgressed": 6518,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T11:03:49.5491219+00:00",
+      "NumProgressed": 6519,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2640,7 +2645,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "DHUpgraded1",
@@ -2792,7 +2797,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "HSPurchased1",
@@ -2896,7 +2901,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "MaxDamageDone30000",
@@ -2952,7 +2957,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "MaxTowersKilled6",
@@ -3056,7 +3061,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "RAPurchased1",
@@ -3096,7 +3101,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "SOVUpgraded1",
@@ -3144,7 +3149,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "TSUPurchased1",
@@ -3175,7 +3180,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6518,
+      "Progressed": 6519,
       "Completed": 1
     }
   ],
@@ -3183,8 +3188,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-24T07:59:49.2549087+00:00",
-  "LastChanged_Achievements": "2023-09-25T10:03:43.022186+00:00",
+  "LastChanged_Achievements": "2023-09-25T11:03:49.5491214+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:59:35.2984063+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:03:43.0222842+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:59:26.7306815+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:03:49.5492163+00:00"
 }

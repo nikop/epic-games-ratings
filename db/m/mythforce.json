@@ -695,9 +695,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3163,
+  "EOS_Progressed": 3164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5590,6 +5590,11 @@
       "Time": "2023-09-25T10:05:11.500439+00:00",
       "NumProgressed": 3163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T11:05:16.7635613+00:00",
+      "NumProgressed": 3164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5698,7 +5703,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5714,7 +5719,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5754,7 +5759,7 @@
       "Name": "Spending Spree",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5785,15 +5790,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3163,
+      "Progressed": 3164,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-24T01:47:09.2879439+00:00",
-  "LastChanged_Achievements": "2023-09-25T10:05:11.5004386+00:00",
+  "LastChanged_Achievements": "2023-09-25T11:05:16.7635607+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:57:23.8083768+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:05:11.5004849+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:57:17.7986631+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:05:16.7636076+00:00"
 }

@@ -15,8 +15,8 @@
 | Champagne Spray | 20.00% | ~224 |
 | Restored and Ready | 18.00% | ~201 |
 | I Want One Too! | 18.00% | ~201 |
+| Quick Pit Stop | 18.00% | ~201 |
 | Legendary!!! | 17.00% | ~190 |
-| Quick Pit Stop | 17.00% | ~190 |
 | Go-Faster Stripes | 16.00% | ~179 |
 | We've Just Begun | 9.00% | ~101 |
 | Stamina Star | 8.00% | ~90 |

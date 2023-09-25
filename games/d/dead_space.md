@@ -5,21 +5,21 @@ Rating: 4.61 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~368 |
+| Marksman | 93.00% | ~369 |
 | Welcome Aboard | 84.00% | ~333 |
-| Lab Rat | 72.00% | ~285 |
+| Lab Rat | 72.00% | ~286 |
 | All Systems Go | 60.00% | ~238 |
-| Brute Force | 60.00% | ~238 |
+| Brute Force | 59.00% | ~234 |
 | Cannon Fodder | 56.00% | ~222 |
 | Raise the Stakes | 54.00% | ~214 |
 | Autofire | 53.00% | ~210 |
 | True Believer | 50.00% | ~198 |
-| Story Teller | 49.00% | ~194 |
-| Surgeon | 45.00% | ~178 |
-| Exterminator | 43.00% | ~170 |
-| Greenhouse Effect | 43.00% | ~170 |
-| Freeze | 42.00% | ~166 |
-| Full Arsenal | 39.00% | ~154 |
+| Story Teller | 49.00% | ~195 |
+| Surgeon | 45.00% | ~179 |
+| Exterminator | 43.00% | ~171 |
+| Greenhouse Effect | 43.00% | ~171 |
+| Freeze | 42.00% | ~167 |
+| Full Arsenal | 40.00% | ~159 |
 | Live with the Hot Ones | 35.00% | ~139 |
 | S.O.S. | 35.00% | ~139 |
 | Get Off My Ship! | 34.00% | ~135 |
@@ -41,8 +41,8 @@ Rating: 4.61 (Ranked 371)
 | Pack Rat | 17.00% | ~67 |
 | Z-Baller | 17.00% | ~67 |
 | Full Clearance | 17.00% | ~67 |
-| Eviscerator | 14.00% | ~55 |
-| Marked | 14.00% | ~55 |
+| Eviscerator | 14.00% | ~56 |
+| Marked | 14.00% | ~56 |
 | Backbreaker | 11.00% | ~44 |
 | Wishbone | 6.00% | ~24 |
 | Trusted Contractor | 5.00% | ~20 |
@@ -53,8 +53,8 @@ Rating: 4.61 (Ranked 371)
 | Maxed Out | 2.00% | ~8 |
 | Reunion | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 282)  
-Completed: 2 (0.51%) (Ranked 163)  
+Progressed: 397 (Ranked 281)  
+Completed: 2 (0.50%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,7 +64,7 @@ Completed: 2 (0.51%) (Ranked 163)
 | 2023-09-22 | 225 | 1 |
 | 2023-09-23 | 301 | 1 |
 | 2023-09-24 | 373 | 2 |
-| 2023-09-25 | 396 | 2 |
+| 2023-09-25 | 397 | 2 |
 ## Awards
 Max (Great Boss Battles): 95  (Ranked 351)  
 Sum: 95 (Ranked 424)  

@@ -4,7 +4,7 @@
   "ProductSlug": "wattam",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2019-12-17T11:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.405164+00:00",
   "LastChanged": "2023-03-31T05:58:33.4051641+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.1406564+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:57:49.4733434+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:05:03.9850917+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:57:44.0824982+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:05:09.2418085+00:00"
 }

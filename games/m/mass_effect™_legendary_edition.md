@@ -47,6 +47,7 @@
 | Broke, Blind, and Bedlam | 33.00% | ~116 |
 | The Justicar | 32.00% | ~113 |
 | Ghost Ship | 31.00% | ~109 |
+| The Cure | 31.00% | ~109 |
 | A Personal Touch | 30.00% | ~106 |
 | The Assassin | 30.00% | ~106 |
 | The Quarian | 30.00% | ~106 |
@@ -54,7 +55,6 @@
 | Catharsis | 30.00% | ~106 |
 | Fade Away | 30.00% | ~106 |
 | Ghost of the Father | 30.00% | ~106 |
-| The Cure | 30.00% | ~106 |
 | The Prodigal | 30.00% | ~106 |
 | Big Game Hunter | 30.00% | ~106 |
 | Agent | 30.00% | ~106 |

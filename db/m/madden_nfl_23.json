@@ -658,9 +658,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1288,6 +1288,11 @@
       "Time": "2023-09-25T10:06:43.0611912+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T11:06:46.9065189+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -1308,7 +1313,7 @@
       "Name": "Bragging Rights",
       "Percentage": 58,
       "XP": 90,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "achievement_11",
@@ -1324,7 +1329,7 @@
       "Name": "Stud Finder",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_13",
@@ -1348,7 +1353,7 @@
       "Name": "MVP",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "achievement_16",
@@ -1436,7 +1441,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_7",
@@ -1467,7 +1472,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 0
     }
   ],
@@ -1475,8 +1480,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-24T00:02:00.4553597+00:00",
-  "LastChanged_Achievements": "2023-09-25T10:06:43.0611907+00:00",
+  "LastChanged_Achievements": "2023-09-25T11:06:46.9065183+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.8917414+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:57:33.3523158+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:06:43.0612103+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:57:28.6695856+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:06:46.9065382+00:00"
 }

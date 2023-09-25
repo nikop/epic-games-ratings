@@ -9,10 +9,10 @@ Rating: 4.51 (Ranked 548)
 | Stogie for Fogey | 28.00% | ~3,532 |
 | Captain Drummer | 28.00% | ~3,532 |
 | Martian Music | 27.00% | ~3,406 |
-| Celebrations are in Order | 26.00% | ~3,280 |
+| Celebrations are in Order | 27.00% | ~3,406 |
 | Spore Taste | 25.00% | ~3,154 |
 | The Pit and the Pirates | 24.00% | ~3,028 |
-| Drone Dodger | 23.00% | ~2,901 |
+| Drone Dodger | 23.00% | ~2,902 |
 | Doctor Approved | 19.00% | ~2,397 |
 | Thorston Mayer | 15.00% | ~1,892 |
 | Bosmang | 15.00% | ~1,892 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 548)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,615 (Ranked 134)  
+Progressed: 12,616 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 11,791 | 0 |
 | 2023-09-23 | 12,197 | 0 |
 | 2023-09-24 | 12,539 | 0 |
-| 2023-09-25 | 12,615 | 0 |
+| 2023-09-25 | 12,616 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

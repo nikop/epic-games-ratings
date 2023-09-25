@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20009,
+  "EOS_Progressed": 20013,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6429,6 +6429,11 @@
       "Time": "2023-09-25T10:05:16.5094632+00:00",
       "NumProgressed": 20009,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-25T11:05:21.723338+00:00",
+      "NumProgressed": 20013,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -6472,7 +6477,7 @@
       "Name": "One VERY small step",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "MeetNok",
@@ -6543,7 +6548,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20009,
+      "Progressed": 20013,
       "Completed": 18
     }
   ],
@@ -6551,8 +6556,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-09-21T21:59:16.3961354+00:00",
-  "LastChanged_Achievements": "2023-09-25T10:05:16.5094627+00:00",
+  "LastChanged_Achievements": "2023-09-25T11:05:21.7233375+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.3325353+00:00",
-  "LastUpdate_Ratings": "2023-09-25T10:00:25.1326134+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:05:16.5095124+00:00"
+  "LastUpdate_Ratings": "2023-09-25T11:00:14.754368+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:05:21.7233846+00:00"
 }

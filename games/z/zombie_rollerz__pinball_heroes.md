@@ -33,8 +33,8 @@ Rating: 4.30 (Ranked 804)
 | The Giant | 17.00% | ~28 |
 | Out of the Frying Pan... | 17.00% | ~28 |
 | The Ooze | 16.00% | ~26 |
+| Ember | 16.00% | ~26 |
 | The Assistant | 15.00% | ~24 |
-| Ember | 15.00% | ~24 |
 | The Steampunk | 14.00% | ~23 |
 | Turquoise | 14.00% | ~23 |
 | The Droid | 11.00% | ~18 |

@@ -375,9 +375,9 @@
       "ID": "BronzeHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Foundation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BronzeHomunculusBossDefeatedAchievement",
@@ -487,9 +487,9 @@
       "ID": "Cleared200LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo IV",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Cleared20LevelsInAtLeast20LongAGraph",
@@ -543,9 +543,9 @@
       "ID": "ClearedAllLevels2TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Pilgrim",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearedAllLevels50TimesAchievement",
@@ -719,9 +719,9 @@
       "ID": "EagleSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Bird of Prey",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EnlargeProjShrinkShipAchievement",
@@ -967,9 +967,9 @@
       "ID": "Killed20BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper II",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed50000EnemiesAchievement",
@@ -1183,9 +1183,9 @@
       "ID": "SilverMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Captain",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SilverMissionsCompleted20Achievement",
@@ -1247,9 +1247,9 @@
       "ID": "StarFurySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Anger Management",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UsedAllConsumablesAchievement",
@@ -1398,8 +1398,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-25T10:03:23.4030595+00:00",
+  "LastChanged_Achievements": "2023-09-25T11:03:30.5114201+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:57:35.7530897+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:03:23.4032522+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:57:31.0069684+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:03:30.5116224+00:00"
 }

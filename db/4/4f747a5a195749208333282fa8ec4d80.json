@@ -4,7 +4,7 @@
   "ProductSlug": "test1-a822c4",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-15T13:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T17:57:07.2508041+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:58:20.9667303+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:06:31.4602462+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:58:16.6510368+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:06:35.6702072+00:00"
 }

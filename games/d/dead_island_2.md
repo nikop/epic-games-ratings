@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 507)  
+Rating: 4.54 (Ranked 506)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,997 (Ranked 22)  
+Progressed: 686,013 (Ranked 22)  
 Completed: 2,173 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 2,173 (0.32%) (Ranked 188)
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
-| 2023-09-25 | 685,997 | 2,173 |
+| 2023-09-25 | 686,013 | 2,173 |
 ## Awards
 Max (Great Boss Battles): 6,188  (Ranked 57)  
 Sum: 9,207 (Ranked 92)  

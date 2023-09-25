@@ -80,9 +80,9 @@
       "ID": "BurnBears",
       "SetID": "aph8hbk",
       "Name": "Toys Are For Kids",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "CallSix",
@@ -112,9 +112,9 @@
       "ID": "CompleteSchool",
       "SetID": "aph8hbk",
       "Name": "Schooled",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteWilderness",
@@ -136,9 +136,9 @@
       "ID": "EmptyVendingMachine",
       "SetID": "aph8hbk",
       "Name": "Hunger",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FindAllHats",
@@ -192,25 +192,25 @@
       "ID": "HalfHatsCollected",
       "SetID": "aph8hbk",
       "Name": "Half hat",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "HandOverkill",
       "SetID": "aph8hbk",
       "Name": "...And Stay Dead!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HoleCatch",
       "SetID": "aph8hbk",
       "Name": "Objection",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "HunterHunted",
@@ -224,9 +224,9 @@
       "ID": "KidsHospital",
       "SetID": "aph8hbk",
       "Name": "Sick Kids",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "KidsPaleCity",
@@ -272,9 +272,9 @@
       "ID": "PatientBall",
       "SetID": "aph8hbk",
       "Name": "Medicine ball",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Piano",
@@ -296,9 +296,9 @@
       "ID": "Popcorn",
       "SetID": "aph8hbk",
       "Name": "Popcorn",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SixRaincoat",
@@ -336,9 +336,9 @@
       "ID": "Xray",
       "SetID": "aph8hbk",
       "Name": "X Best Friends",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -350,8 +350,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-09-25T10:03:39.1482762+00:00",
+  "LastChanged_Achievements": "2023-09-25T11:03:45.6747102+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:59:43.6634369+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:03:39.1483001+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:59:34.6651506+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:03:45.674737+00:00"
 }

@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20824,
+  "EOS_Progressed": 20826,
   "EOS_Completed": 420,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -17335,6 +17335,11 @@
       "Time": "2023-09-25T10:04:48.4411043+00:00",
       "NumProgressed": 20824,
       "NumCompleted": 420
+    },
+    {
+      "Time": "2023-09-25T11:04:53.7858556+00:00",
+      "NumProgressed": 20826,
+      "NumCompleted": 420
     }
   ],
   "TotalAchievements": 20,
@@ -17354,7 +17359,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "EAST_FINISHED",
@@ -17362,7 +17367,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -17386,7 +17391,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -17426,7 +17431,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "FOUND_MAMBA",
@@ -17434,7 +17439,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -17450,7 +17455,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "GAME_FINISHED",
@@ -17466,7 +17471,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16034
+      "UsersEstimate": 16036
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17482,7 +17487,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -17498,22 +17503,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3748
+      "UsersEstimate": 3749
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20824,
+      "Progressed": 20826,
       "Completed": 420
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-25T10:04:48.4411038+00:00",
+  "LastChanged_Achievements": "2023-09-25T11:04:53.7858551+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-25T09:57:45.9297543+00:00",
-  "LastUpdate_Achievements": "2023-09-25T10:04:48.4412255+00:00"
+  "LastUpdate_Ratings": "2023-09-25T10:57:40.4797136+00:00",
+  "LastUpdate_Achievements": "2023-09-25T11:04:53.7859706+00:00"
 }
