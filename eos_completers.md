@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 90.00% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.96% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -71,8 +71,8 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.41% |
 | 70 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 71 | [Doodle God](games/d/doodle_god.md) | 3.35% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.25% |
-| 73 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.24% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.24% |
+| 72 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.24% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 3.20% |
 | 75 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
@@ -95,9 +95,9 @@
 | 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.33% |
 | 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.17% |
 | 96 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.17% |
-| 98 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
+| 97 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
+| 97 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.16% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
 | 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |
