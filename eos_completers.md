@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.87% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.83% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -65,7 +65,7 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
-| 65 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.70% |
+| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.69% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.41% |
@@ -111,10 +111,10 @@
 | 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
 | 110 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
 | 111 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 112 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.44% |
 | 112 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
-| 114 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.43% |
-| 115 | [Ten Dates](games/t/ten_dates.md) | 1.42% |
+| 113 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
+| 114 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.42% |
+| 114 | [Ten Dates](games/t/ten_dates.md) | 1.42% |
 | 116 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.40% |
 | 117 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 118 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.37% |
@@ -162,7 +162,7 @@
 | 160 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 161 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 161 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 163 | [Dead Space](games/d/dead_space.md) | 0.51% |
+| 163 | [Dead Space](games/d/dead_space.md) | 0.50% |
 | 164 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
 | 165 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 166 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
