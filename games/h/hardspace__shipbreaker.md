@@ -6,7 +6,7 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~666 |
+| Breathe In… Breathe Out… | 74.00% | ~675 |
 | It’s Heating up! | 69.00% | ~629 |
 | Let’s patch things up | 66.00% | ~602 |
 | I can fix it! | 63.00% | ~575 |
@@ -15,8 +15,8 @@ Number of Ratings: 36  (23.09.2022)
 | Critical Thinker | 36.00% | ~328 |
 | Act I Complete | 29.00% | ~264 |
 | Always Finding Your Mark | 29.00% | ~264 |
+| A drop in the Ocean | 29.00% | ~264 |
 | The Weight of the World | 29.00% | ~264 |
-| A drop in the Ocean | 28.00% | ~255 |
 | No Niños | 27.00% | ~246 |
 | I ain’t afraid of no Ghost | 24.00% | ~219 |
 | Act II Complete | 21.00% | ~192 |

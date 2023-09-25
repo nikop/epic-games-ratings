@@ -2,9 +2,9 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1834,9 +1834,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 327
     },
     {
       "ID": "DevilRope",
@@ -1922,9 +1922,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "KingDiamond",
@@ -2002,9 +2002,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "RogueEat",
@@ -2097,8 +2097,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-25T21:07:08.6273949+00:00",
+  "LastChanged_Achievements": "2023-09-25T22:06:38.5076483+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.8851164+00:00",
-  "LastUpdate_Ratings": "2023-09-25T20:59:49.5556052+00:00",
-  "LastUpdate_Achievements": "2023-09-25T21:07:08.6274428+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:59:41.9254257+00:00",
+  "LastUpdate_Achievements": "2023-09-25T22:06:38.5076938+00:00"
 }

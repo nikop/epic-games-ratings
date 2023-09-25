@@ -4,7 +4,7 @@
   "ProductSlug": "soulstice",
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-09-28T15:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged_Achievements": "2023-09-25T21:03:12.4248507+00:00",
+  "LastChanged_Achievements": "2023-09-25T22:03:06.8114983+00:00",
   "LastUpdate_AppInfo": "2023-09-21T15:57:06.3573386+00:00",
-  "LastUpdate_Ratings": "2023-09-25T20:59:16.1069595+00:00",
-  "LastUpdate_Achievements": "2023-09-25T21:03:12.4248548+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:59:10.3560175+00:00",
+  "LastUpdate_Achievements": "2023-09-25T22:03:06.8115027+00:00"
 }

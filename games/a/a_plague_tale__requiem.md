@@ -5,17 +5,17 @@ Rating: 4.73 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,238 |
+| Under a New Sun | 92.00% | ~12,239 |
 | Newcomers | 79.00% | ~10,509 |
-| A Burden of Blood | 73.00% | ~9,710 |
-| Protector's Duty | 70.00% | ~9,311 |
-| In our Wake | 68.00% | ~9,045 |
-| Alchemist | 68.00% | ~9,045 |
-| Leaving all Behind | 65.00% | ~8,646 |
-| Felons | 62.00% | ~8,247 |
-| A Sea of Promises | 61.00% | ~8,114 |
-| Tales and Revelations | 57.00% | ~7,582 |
-| Bloodline | 53.00% | ~7,050 |
+| A Burden of Blood | 73.00% | ~9,711 |
+| Protector's Duty | 70.00% | ~9,312 |
+| In our Wake | 68.00% | ~9,046 |
+| Alchemist | 68.00% | ~9,046 |
+| Leaving all Behind | 65.00% | ~8,647 |
+| Felons | 62.00% | ~8,248 |
+| A Sea of Promises | 61.00% | ~8,115 |
+| Tales and Revelations | 57.00% | ~7,583 |
+| Bloodline | 53.00% | ~7,051 |
 | The Cradle of Centuries | 49.00% | ~6,518 |
 | The Life We Deserve | 46.00% | ~6,119 |
 | Night guard | 43.00% | ~5,720 |
@@ -24,11 +24,11 @@ Rating: 4.73 (Ranked 162)
 | Dying Sun | 33.00% | ~4,390 |
 | Improved crossbow | 27.00% | ~3,592 |
 | King Hugo | 25.00% | ~3,326 |
-| Mercy | 24.00% | ~3,192 |
-| Effective instruments | 22.00% | ~2,926 |
-| Perfect shot | 22.00% | ~2,926 |
-| Knights! | 21.00% | ~2,793 |
-| Perfect throw | 21.00% | ~2,793 |
+| Mercy | 24.00% | ~3,193 |
+| Effective instruments | 22.00% | ~2,927 |
+| Perfect shot | 22.00% | ~2,927 |
+| Knights! | 21.00% | ~2,794 |
+| Perfect throw | 21.00% | ~2,794 |
 | Handful of pockets | 13.00% | ~1,729 |
 | Pocket laboratory | 12.00% | ~1,596 |
 | Not a toy anymore | 11.00% | ~1,463 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 162)
 | Explorer | 1.00% | ~133 |
 | Malignant | 1.00% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,302 (Ranked 131)  
+Progressed: 13,303 (Ranked 131)  
 Completed: 47 (0.35%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 47 (0.35%) (Ranked 181)
 | 2023-09-22 | 13,179 | 47 |
 | 2023-09-23 | 13,226 | 47 |
 | 2023-09-24 | 13,273 | 47 |
-| 2023-09-25 | 13,302 | 47 |
+| 2023-09-25 | 13,303 | 47 |
 ## Awards
 Max (Great Boss Battles): 421  (Ranked 214)  
 Sum: 646 (Ranked 292)  

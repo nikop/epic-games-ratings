@@ -49,36 +49,36 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.60% | ~820 |
 | Seasoned Journeyman | 0.60% | ~820 |
 | Magical Harmony | 0.60% | ~820 |
-| A Notch Above the Rest | 0.50% | ~683 |
-| Cream of the Crop | 0.50% | ~683 |
-| Above the Norm | 0.50% | ~683 |
-| A Ronin Reborn | 0.50% | ~683 |
-| The King's Caprice | 0.50% | ~683 |
-| Big Game Hunting | 0.50% | ~683 |
-| Scrapbooker | 0.50% | ~683 |
-| Locally Sourced | 0.50% | ~683 |
-| Flying off the Shelves | 0.50% | ~683 |
-| This Power Level...! | 0.50% | ~683 |
-| Master of Transmutation | 0.50% | ~683 |
-| Hidden Potential | 0.50% | ~683 |
-| Supercharged | 0.50% | ~683 |
-| Expansion in Session | 0.50% | ~683 |
-| Cranked up to 11 | 0.50% | ~683 |
-| Fit for a King | 0.50% | ~683 |
-| Mammonite | 0.50% | ~683 |
-| Wealth Beyond Measure | 0.50% | ~683 |
-| Fat Cat Tag Team | 0.50% | ~683 |
-| Master Merchant | 0.50% | ~683 |
-| Miracle Alchemist | 0.50% | ~683 |
-| Laden with Loot | 0.50% | ~683 |
-| Scourge of the Seas | 0.50% | ~683 |
-| Attrition Mission | 0.50% | ~683 |
-| Glittering Collection | 0.50% | ~683 |
-| Moment of Respite | 0.50% | ~683 |
-| Black Friday Special | 0.50% | ~683 |
-| Special Ingredient | 0.50% | ~683 |
-| Exotic Commodities | 0.50% | ~683 |
-| Complete Monopoly | 0.50% | ~683 |
+| A Notch Above the Rest | 0.50% | ~684 |
+| Cream of the Crop | 0.50% | ~684 |
+| Above the Norm | 0.50% | ~684 |
+| A Ronin Reborn | 0.50% | ~684 |
+| The King's Caprice | 0.50% | ~684 |
+| Big Game Hunting | 0.50% | ~684 |
+| Scrapbooker | 0.50% | ~684 |
+| Locally Sourced | 0.50% | ~684 |
+| Flying off the Shelves | 0.50% | ~684 |
+| This Power Level...! | 0.50% | ~684 |
+| Master of Transmutation | 0.50% | ~684 |
+| Hidden Potential | 0.50% | ~684 |
+| Supercharged | 0.50% | ~684 |
+| Expansion in Session | 0.50% | ~684 |
+| Cranked up to 11 | 0.50% | ~684 |
+| Fit for a King | 0.50% | ~684 |
+| Mammonite | 0.50% | ~684 |
+| Wealth Beyond Measure | 0.50% | ~684 |
+| Fat Cat Tag Team | 0.50% | ~684 |
+| Master Merchant | 0.50% | ~684 |
+| Miracle Alchemist | 0.50% | ~684 |
+| Laden with Loot | 0.50% | ~684 |
+| Scourge of the Seas | 0.50% | ~684 |
+| Attrition Mission | 0.50% | ~684 |
+| Glittering Collection | 0.50% | ~684 |
+| Moment of Respite | 0.50% | ~684 |
+| Black Friday Special | 0.50% | ~684 |
+| Special Ingredient | 0.50% | ~684 |
+| Exotic Commodities | 0.50% | ~684 |
+| Complete Monopoly | 0.50% | ~684 |
 | Top of the World | 0.40% | ~547 |
 | Proud Paladin | 0.40% | ~547 |
 | Constellated | 0.40% | ~547 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,699 (Ranked 69)  
+Progressed: 136,700 (Ranked 69)  
 Completed: 155 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 155 (0.11%) (Ranked 229)
 | 2023-09-22 | 136,546 | 153 |
 | 2023-09-23 | 136,602 | 153 |
 | 2023-09-24 | 136,667 | 154 |
-| 2023-09-25 | 136,699 | 155 |
+| 2023-09-25 | 136,700 | 155 |
 ## Awards
 Max (Great for Beginners): 4,758  (Ranked 70)  
 Sum: 27,291 (Ranked 48)  

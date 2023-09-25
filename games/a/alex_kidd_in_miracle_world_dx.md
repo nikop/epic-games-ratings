@@ -17,11 +17,11 @@
 | Overwhelmed Beast | 10.00% | ~30 |
 | Radaxian Protector | 5.00% | ~15 |
 | Let's Talk | 2.00% | ~6 |
+| Champion | 2.00% | ~6 |
 | Stingy | 2.00% | ~6 |
 | Collector | 1.00% | ~3 |
-| Champion | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 302)  
+Progressed: 298 (Ranked 303)  
 Completed: 4 (1.34%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |

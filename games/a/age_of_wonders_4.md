@@ -10,12 +10,12 @@ Rating: 4.61 (Ranked 370)
 | A Wonderful Discovery | 7.00% | ~363 |
 | Walls Cannot Stop Us | 7.00% | ~363 |
 | Tipping the Scales | 7.00% | ~363 |
-| Bone Peddler | 6.00% | ~311 |
-| From Friends to Family | 6.00% | ~311 |
-| Stronger Together | 6.00% | ~311 |
-| Magical Synergy | 6.00% | ~311 |
-| Seat of Power | 6.00% | ~311 |
-| Intimidation Tactics | 6.00% | ~311 |
+| Bone Peddler | 6.00% | ~312 |
+| From Friends to Family | 6.00% | ~312 |
+| Stronger Together | 6.00% | ~312 |
+| Magical Synergy | 6.00% | ~312 |
+| Seat of Power | 6.00% | ~312 |
+| Intimidation Tactics | 6.00% | ~312 |
 | There Can Only Be One! | 5.00% | ~260 |
 | Full Ascension | 5.00% | ~260 |
 | My Final Form | 5.00% | ~260 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 370)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,191 (Ranked 162)  
+Progressed: 5,192 (Ranked 162)  
 Completed: 6 (0.12%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 6 (0.12%) (Ranked 224)
 | 2023-09-18 | 5,187 | 6 |
 | 2023-09-23 | 5,189 | 6 |
 | 2023-09-24 | 5,190 | 6 |
-| 2023-09-25 | 5,191 | 6 |
+| 2023-09-25 | 5,192 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 492)  
 Sum: 25 (Ranked 499)  

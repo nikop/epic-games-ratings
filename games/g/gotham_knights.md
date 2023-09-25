@@ -6,7 +6,7 @@ Rating: 4.18 (Ranked 891)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,870 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,489 |
+| Har, Har, Har, Very Funny | 36.00% | ~26,217 |
 | Loose Ends | 34.00% | ~24,761 |
 | To the Victor Go the Spoils | 29.00% | ~21,120 |
 | Knighthood | 28.00% | ~20,391 |

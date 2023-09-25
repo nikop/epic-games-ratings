@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1030,9 +1030,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12890,
+  "EOS_Progressed": 12891,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -11575,6 +11575,11 @@
       "Time": "2023-09-25T21:07:42.5770168+00:00",
       "NumProgressed": 12890,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-25T22:07:31.8705199+00:00",
+      "NumProgressed": 12891,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -11586,7 +11591,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10441
+      "UsersEstimate": 10442
     },
     {
       "ID": "ACH02",
@@ -11642,7 +11647,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6445
+      "UsersEstimate": 6446
     },
     {
       "ID": "ACH09",
@@ -11698,7 +11703,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH16",
@@ -11730,7 +11735,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH20",
@@ -11762,7 +11767,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ACH24",
@@ -11865,7 +11870,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12890,
+      "Progressed": 12891,
       "Completed": 47
     }
   ],
@@ -11873,8 +11878,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-25T05:58:00.4592712+00:00",
-  "LastChanged_Achievements": "2023-09-25T21:07:42.5770163+00:00",
+  "LastChanged_Achievements": "2023-09-25T22:07:31.8705193+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-25T20:58:08.8504732+00:00",
-  "LastUpdate_Achievements": "2023-09-25T21:07:42.5771307+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:58:08.2337901+00:00",
+  "LastUpdate_Achievements": "2023-09-25T22:07:31.8706565+00:00"
 }

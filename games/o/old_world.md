@@ -51,33 +51,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 3.00% | ~424 |
 | Zoroastrianism | 3.00% | ~424 |
 | The Great Mage | 3.00% | ~424 |
-| Regicide | 2.00% | ~282 |
-| Hanging Gardens in Babylon | 2.00% | ~282 |
-| Beloved | 2.00% | ~282 |
-| Drillmaster | 2.00% | ~282 |
-| Great | 2.00% | ~282 |
-| Intercessor | 2.00% | ~282 |
-| Mighty | 2.00% | ~282 |
-| Valiant | 2.00% | ~282 |
-| Victorious | 2.00% | ~282 |
-| Legendary Cities | 2.00% | ~282 |
-| Just Difficulty | 2.00% | ~282 |
-| Artisans | 2.00% | ~282 |
-| Sages | 2.00% | ~282 |
-| Acropolis | 2.00% | ~282 |
-| Apadana | 2.00% | ~282 |
-| Colossus | 2.00% | ~282 |
-| Mausoleum | 2.00% | ~282 |
-| Musaeum | 2.00% | ~282 |
-| Necropolis | 2.00% | ~282 |
-| Learn to Play 2 | 2.00% | ~282 |
-| Greece | 2.00% | ~282 |
-| Manichaeism | 2.00% | ~282 |
-| Egyptian Paganism | 2.00% | ~282 |
-| Persian Paganism | 2.00% | ~282 |
-| Mythology | 2.00% | ~282 |
-| Points Victory | 2.00% | ~282 |
-| Poetic Leader | 2.00% | ~282 |
+| Regicide | 2.00% | ~283 |
+| Hanging Gardens in Babylon | 2.00% | ~283 |
+| Beloved | 2.00% | ~283 |
+| Drillmaster | 2.00% | ~283 |
+| Great | 2.00% | ~283 |
+| Intercessor | 2.00% | ~283 |
+| Mighty | 2.00% | ~283 |
+| Valiant | 2.00% | ~283 |
+| Victorious | 2.00% | ~283 |
+| Legendary Cities | 2.00% | ~283 |
+| Just Difficulty | 2.00% | ~283 |
+| Artisans | 2.00% | ~283 |
+| Sages | 2.00% | ~283 |
+| Acropolis | 2.00% | ~283 |
+| Apadana | 2.00% | ~283 |
+| Colossus | 2.00% | ~283 |
+| Mausoleum | 2.00% | ~283 |
+| Musaeum | 2.00% | ~283 |
+| Necropolis | 2.00% | ~283 |
+| Learn to Play 2 | 2.00% | ~283 |
+| Greece | 2.00% | ~283 |
+| Manichaeism | 2.00% | ~283 |
+| Egyptian Paganism | 2.00% | ~283 |
+| Persian Paganism | 2.00% | ~283 |
+| Mythology | 2.00% | ~283 |
+| Points Victory | 2.00% | ~283 |
+| Poetic Leader | 2.00% | ~283 |
 | Capable | 1.00% | ~141 |
 | Conqueror | 1.00% | ~141 |
 | Devout | 1.00% | ~141 |
@@ -151,15 +151,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.50% | ~71 |
 | Three Man Chariot | 0.50% | ~71 |
 | Necropolis in Waset | 0.50% | ~71 |
-| Ancient | 0.40% | ~56 |
-| Glorious Difficulty | 0.40% | ~56 |
-| Learn to Play 5 | 0.40% | ~56 |
-| Hatti | 0.40% | ~56 |
-| Pantheon of Gods | 0.40% | ~56 |
-| Siege Tower | 0.40% | ~56 |
-| Conquest Victory | 0.40% | ~56 |
-| Pilgrimage | 0.40% | ~56 |
-| Patriarch St Paul | 0.40% | ~56 |
+| Ancient | 0.40% | ~57 |
+| Glorious Difficulty | 0.40% | ~57 |
+| Learn to Play 5 | 0.40% | ~57 |
+| Hatti | 0.40% | ~57 |
+| Pantheon of Gods | 0.40% | ~57 |
+| Siege Tower | 0.40% | ~57 |
+| Conquest Victory | 0.40% | ~57 |
+| Pilgrimage | 0.40% | ~57 |
+| Patriarch St Paul | 0.40% | ~57 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
 | Silver Victory (Carthage 1) | 0.30% | ~42 |
 | Carthage - Riches and Influence | 0.30% | ~42 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,125 (Ranked 130)  
+Progressed: 14,126 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,14 +461,14 @@ Completed: 5 (0.04%) (Ranked 257)
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
 | 2023-09-24 | 14,110 | 5 |
-| 2023-09-25 | 14,125 | 5 |
+| 2023-09-25 | 14,126 | 5 |
 ## Awards
-Max (Relaxing): 222  (Ranked 265)  
-Sum: 1,818 (Ranked 207)  
+Max (Relaxing): 223  (Ranked 265)  
+Sum: 1,819 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 222 |
+| This game is Relaxing | 223 |
 | This game is Extremely Fun | 210 |
 | This game has Diverse Characters | 209 |
 | This game is Highly Recommended | 209 |
@@ -614,4 +614,4 @@ Diff (max vs sum): 58
 | 2023-09-21 | 4.65 | - | 221 | 1,813 |
 | 2023-09-22 | 4.65 | - | 221 | 1,814 |
 | 2023-09-23 | 4.65 | - | 222 | 1,817 |
-| 2023-09-25 | 4.65 | - | 222 | 1,818 |
+| 2023-09-25 | 4.65 | - | 223 | 1,819 |

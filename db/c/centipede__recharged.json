@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17364,
+  "EOS_Progressed": 17365,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
@@ -12407,6 +12407,11 @@
       "Time": "2023-09-25T20:05:21.0558241+00:00",
       "NumProgressed": 17364,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-09-25T22:05:04.1780204+00:00",
+      "NumProgressed": 17365,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 16,
@@ -12418,7 +12423,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "Burning_For_You",
@@ -12474,7 +12479,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "I_Am_The_Storm",
@@ -12538,22 +12543,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17364,
+      "Progressed": 17365,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-25T21:05:10.605903+00:00",
+  "LastChanged_Achievements": "2023-09-25T22:05:04.1780198+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.0114311+00:00",
-  "LastUpdate_Ratings": "2023-09-25T20:58:10.4233436+00:00",
-  "LastUpdate_Achievements": "2023-09-25T21:05:10.6059866+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:58:09.7001875+00:00",
+  "LastUpdate_Achievements": "2023-09-25T22:05:04.1781187+00:00"
 }

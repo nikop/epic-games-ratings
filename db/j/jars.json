@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -263,9 +263,9 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -399,9 +399,9 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-09-25T21:04:50.9036436+00:00",
+  "LastChanged_Achievements": "2023-09-25T22:04:44.5695861+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:06.1716028+00:00",
-  "LastUpdate_Ratings": "2023-09-25T21:00:06.2660749+00:00",
-  "LastUpdate_Achievements": "2023-09-25T21:04:50.9036608+00:00"
+  "LastUpdate_Ratings": "2023-09-25T21:59:57.1964206+00:00",
+  "LastUpdate_Achievements": "2023-09-25T22:04:44.5696063+00:00"
 }
