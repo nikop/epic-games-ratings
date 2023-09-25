@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 90.07% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 90.02% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -54,7 +54,7 @@
 | 52 | [JARS](games/j/jars.md) | 5.26% |
 | 53 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 54 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.94% |
-| 55 | [Bugsnax](games/b/bugsnax.md) | 4.77% |
+| 55 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.69% |
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 58 | [ZZT!](games/z/zzt!.md) | 4.42% |
@@ -95,7 +95,7 @@
 | 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.33% |
 | 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.24% |
+| 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.20% |
 | 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.17% |
 | 98 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
@@ -127,11 +127,11 @@
 | 125 | [Trifox](games/t/trifox.md) | 1.09% |
 | 126 | [Adios](games/a/adios.md) | 1.04% |
 | 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
-| 128 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.01% |
 | 128 | [Sable](games/s/sable.md) | 1.01% |
-| 130 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
-| 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
-| 130 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
+| 129 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
+| 129 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
+| 129 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
+| 129 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 133 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 134 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 135 | [Eternights](games/e/eternights.md) | 0.91% |
@@ -159,18 +159,18 @@
 | 155 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 155 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.56% |
 | 159 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 160 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
-| 161 | [Dead Space](games/d/dead_space.md) | 0.53% |
-| 162 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 162 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 164 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.49% |
+| 160 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 161 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
+| 161 | [Dead Space](games/d/dead_space.md) | 0.52% |
+| 161 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 164 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
 | 165 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 166 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 166 | [Godlike Burger](games/g/godlike_burger.md) | 0.46% |
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 170 | [Tchia](games/t/tchia.md) | 0.44% |
-| 171 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 171 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 172 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
