@@ -1,17 +1,17 @@
 # Fallout 3: Game of the Year Edition
 [Store](https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition)  
 [View Rawdata](../../db/f/fallout_3__game_of_the_year_edition.json)  
-Rating: 4.60 (Ranked 399)  
+Rating: 4.60 (Ranked 400)  
 ## Awards
 Max (Character Customization): 13,760  (Ranked 26)  
-Sum: 28,234 (Ranked 46)  
+Sum: 28,236 (Ranked 46)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 13,760 |
 | This game is Extremely Fun | 1,608 |
 | This game has Amazing Storytelling | 1,599 |
-| This game is Great for Beginners | 1,572 |
+| This game is Great for Beginners | 1,574 |
 | This game is Highly Recommended | 1,526 |
 | This game has Quickly Understood Controls | 1,504 |
 | This game has Diverse Characters | 1,495 |
@@ -210,4 +210,4 @@ Diff (max vs sum): -20
 | 2023-09-22 | 4.60 | 13,748 | 28,205 |
 | 2023-09-23 | 4.60 | 13,752 | 28,217 |
 | 2023-09-24 | 4.60 | 13,760 | 28,233 |
-| 2023-09-25 | 4.60 | 13,760 | 28,234 |
+| 2023-09-25 | 4.60 | 13,760 | 28,236 |

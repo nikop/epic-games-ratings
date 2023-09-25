@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -194,17 +194,17 @@
       "ID": "story_dance_off",
       "SetID": "7e96e7l",
       "Name": "Dance like an idiot",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story_end_credits",
       "SetID": "7e96e7l",
       "Name": "I\u0027m Back at the Surface now",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story_ethics_maze",
@@ -251,8 +251,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:08:20.7652372+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:08:12.6195022+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.2885829+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:59:54.3097958+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:08:20.7652538+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:59:40.2235887+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:08:12.6195224+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "21916c391ae4425d8f6cce2382aebd0c",
   "Name": "Darkest Dungeon\u00AE",
   "ProductSlug": "darkest-dungeon",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-12-25T16:00:00+00:00",
     "PcReleaseDate": "2016-01-19T16:00:00+00:00",
@@ -4788,10 +4788,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 9093,
       "NumberOfAwardsMax": 3341
+    },
+    {
+      "Time": "2023-09-25T19:58:01.0110696+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 9094,
+      "NumberOfAwardsMax": 3341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9093,
+  "NumberOfAwards": 9094,
   "NumberOfAwardsMax": 3341,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4853,7 +4859,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 429
+      "Count": 430
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4873,8 +4879,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2023-09-25T04:57:36.1413274+00:00",
+  "LastChanged": "2023-09-25T19:58:01.0110694+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.0322483+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:58:17.5879637+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:03:36.0052844+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:58:01.0110703+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:03:22.4921756+00:00"
 }

@@ -12,6 +12,8 @@
 | A heavy thinker | 17.00% | ~2 |
 | Fight like an idiot | 17.00% | ~2 |
 | Flee like an idiot | 17.00% | ~2 |
+| Dance like an idiot | 8.00% | ~1 |
+| I'm Back at the Surface now | 8.00% | ~1 |
 | Repair the Mind Validation Machine | 8.00% | ~1 |
 | Elementary, My Dear Dusty | 8.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |
@@ -20,8 +22,6 @@
 | GOAAAAAAAAAL! | 0.00% | ~0 |
 | Come full circle | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
-| Dance like an idiot | 0.00% | ~0 |
-| I'm Back at the Surface now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 293)  

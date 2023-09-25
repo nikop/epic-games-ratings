@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Missing data | 82.00% | ~63 |
+| Missing data | 83.00% | ~64 |
 | Broken jar | 79.00% | ~61 |
 | It fits. IT FITS! | 75.00% | ~58 |
 | The child of the night | 73.00% | ~56 |

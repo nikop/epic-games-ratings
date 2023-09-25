@@ -9,7 +9,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Shutdown | 66.00% | ~308,869 |
 | Jeef Skeejj | 44.00% | ~205,913 |
 | Careful planning | 39.00% | ~182,514 |
-| Second Coming | 33.00% | ~154,435 |
+| Second Coming | 34.00% | ~159,115 |
 | Jeef Skagg | 30.00% | ~140,395 |
 | Mother | 25.00% | ~116,996 |
 | In space, no one can hear you scream | 24.00% | ~112,316 |

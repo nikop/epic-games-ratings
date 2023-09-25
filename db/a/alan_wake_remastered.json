@@ -518,9 +518,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66196,
+  "EOS_Progressed": 66197,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15878,6 +15878,11 @@
       "Time": "2023-09-25T19:06:37.8320269+00:00",
       "NumProgressed": 66196,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-25T20:06:21.0505813+00:00",
+      "NumProgressed": 66197,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15889,7 +15894,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27802
+      "UsersEstimate": 27803
     },
     {
       "ID": "02",
@@ -15937,7 +15942,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "08",
@@ -15945,7 +15950,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "09",
@@ -15953,7 +15958,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9929
+      "UsersEstimate": 9930
     },
     {
       "ID": "10",
@@ -15977,7 +15982,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "13",
@@ -16049,7 +16054,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9929
+      "UsersEstimate": 9930
     },
     {
       "ID": "22",
@@ -16057,7 +16062,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "23",
@@ -16097,7 +16102,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "28",
@@ -16105,7 +16110,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "29",
@@ -16113,7 +16118,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10591
+      "UsersEstimate": 10592
     },
     {
       "ID": "30",
@@ -16145,7 +16150,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9929
+      "UsersEstimate": 9930
     },
     {
       "ID": "34",
@@ -16249,7 +16254,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10591
+      "UsersEstimate": 10592
     },
     {
       "ID": "47",
@@ -16424,21 +16429,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66196,
+      "Progressed": 66197,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29664,
+      "Progressed": 29665,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-25T11:00:21.6078659+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:06:37.8320264+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:06:21.0505806+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:01:38.3516309+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:06:37.8321908+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:01:25.4831688+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:06:21.050799+00:00"
 }

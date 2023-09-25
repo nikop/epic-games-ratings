@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~163 |
-| Off to a good start | 70.00% | ~125 |
-| Do... or do not. There is no try | 49.00% | ~88 |
-| A good blaster at your side | 37.00% | ~66 |
+| New Recruit | 91.00% | ~165 |
+| Off to a good start | 70.00% | ~127 |
+| Do... or do not. There is no try | 48.00% | ~87 |
+| A good blaster at your side | 36.00% | ~65 |
 | Scrap collector | 26.00% | ~47 |
 | Great shot, kid! | 25.00% | ~45 |
-| The power of the Force | 22.00% | ~39 |
-| Collector | 21.00% | ~38 |
+| The power of the Force | 22.00% | ~40 |
+| Collector | 20.00% | ~36 |
 | I suggest a new strategy | 20.00% | ~36 |
-| Shoot first | 20.00% | ~36 |
-| Together we can rule the galaxy | 18.00% | ~32 |
-| All right, I'll give it a try | 18.00% | ~32 |
+| All right, I'll give it a try | 19.00% | ~34 |
+| Shoot first | 19.00% | ~34 |
+| Together we can rule the galaxy | 18.00% | ~33 |
 | Tell Jabba that I've got his money | 16.00% | ~29 |
-| A cunning warrior | 15.00% | ~27 |
 | Best star-pilot in the galaxy | 14.00% | ~25 |
 | Survivor | 14.00% | ~25 |
-| What's the cargo? | 13.00% | ~23 |
-| A tremor in the Force | 13.00% | ~23 |
-| Never tell me the odds! | 13.00% | ~23 |
-| Impressive. Most impressive. | 13.00% | ~23 |
-| Judge me by my size, do you? | 13.00% | ~23 |
+| A cunning warrior | 14.00% | ~25 |
+| What's the cargo? | 13.00% | ~24 |
+| A tremor in the Force | 13.00% | ~24 |
+| Never tell me the odds! | 13.00% | ~24 |
+| Impressive. Most impressive. | 13.00% | ~24 |
+| Judge me by my size, do you? | 13.00% | ~24 |
 | "Gonk? Gonk!" | 11.00% | ~20 |
 | Distinguished | 10.00% | ~18 |
 | Patience you must have | 10.00% | ~18 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.60% | ~1 |
 | Crush them with one swift stroke… | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 342)  
-Completed: 1 (0.56%) (Ranked 154)  
+Progressed: 181 (Ranked 341)  
+Completed: 1 (0.55%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 1 (0.56%) (Ranked 154)
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
-| 2023-09-25 | 179 | 1 |
+| 2023-09-25 | 181 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

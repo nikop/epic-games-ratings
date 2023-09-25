@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1030,9 +1030,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12883,
+  "EOS_Progressed": 12886,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -11565,6 +11565,11 @@
       "Time": "2023-09-25T19:08:30.5886946+00:00",
       "NumProgressed": 12883,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-25T20:08:22.4087278+00:00",
+      "NumProgressed": 12886,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -11576,7 +11581,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10435
+      "UsersEstimate": 10438
     },
     {
       "ID": "ACH02",
@@ -11632,7 +11637,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6442
+      "UsersEstimate": 6443
     },
     {
       "ID": "ACH09",
@@ -11640,7 +11645,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH10",
@@ -11656,7 +11661,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACH12",
@@ -11696,7 +11701,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ACH17",
@@ -11704,7 +11709,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH18",
@@ -11744,7 +11749,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "ACH23",
@@ -11800,7 +11805,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "ACH30",
@@ -11855,7 +11860,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12883,
+      "Progressed": 12886,
       "Completed": 47
     }
   ],
@@ -11863,8 +11868,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-25T05:58:00.4592712+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:08:30.5886928+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:08:22.4087272+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:58:37.7416748+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:08:30.588788+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:58:21.9641951+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:08:22.4088182+00:00"
 }

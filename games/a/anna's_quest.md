@@ -11,9 +11,9 @@
 | Through the woods | 49.00% | ~24 |
 | Back to the anvil | 45.00% | ~22 |
 | So soothing... | 43.00% | ~21 |
+| Kekekeke... | 43.00% | ~21 |
 | Mystery solved | 41.00% | ~20 |
 | Fussy eater | 41.00% | ~20 |
-| Kekekeke... | 41.00% | ~20 |
 | Roostwig has entered the building | 41.00% | ~20 |
 | Honey, honey, honey… | 39.00% | ~19 |
 | Far away from home | 39.00% | ~19 |
@@ -30,11 +30,11 @@
 | Close the deal | 31.00% | ~15 |
 | Memories | 31.00% | ~15 |
 | Beekeeper | 31.00% | ~15 |
+| Pain in the hands | 31.00% | ~15 |
 | Mischief maker | 31.00% | ~15 |
-| Pain in the hands | 29.00% | ~14 |
+| Ring-a-ding-ding | 29.00% | ~14 |
 | Turn the last page | 27.00% | ~13 |
 | Singstar | 27.00% | ~13 |
-| Ring-a-ding-ding | 27.00% | ~13 |
 | Makeover | 24.00% | ~12 |
 | Bahahahaha... | 24.00% | ~12 |
 | Kill it! KILL IT! | 24.00% | ~12 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -612,7 +612,7 @@
   ],
   "EOS_Progressed": 467984,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17393,9 +17393,9 @@
       "ID": "achievement_story_second_awakening",
       "SetID": "8cokdon",
       "Name": "Second Coming",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 154435
+      "UsersEstimate": 159115
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17855,8 +17855,8 @@
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:06:03.3162065+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:05:36.6673392+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:57:50.6046829+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:06:03.3163774+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:57:31.6883001+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:05:36.6675638+00:00"
 }

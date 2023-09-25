@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 14.00% | ~1,597 |
 | Defender's Heart | 14.00% | ~1,597 |
 | Banner over the Citadel | 13.00% | ~1,483 |
-| Queen's Gratitude | 12.00% | ~1,368 |
+| Queen's Gratitude | 12.00% | ~1,369 |
 | Fifth Crusade | 8.00% | ~912 |
 | Embrace of the Abyss | 6.00% | ~684 |
 | Path of the Angel | 6.00% | ~684 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~342 |
 | Core of the Riddle | 3.00% | ~342 |
 | Hey, I Know You! | 3.00% | ~342 |
+| Hanged Man's Notes | 3.00% | ~306 |
 | The Lady of the Forest | 3.00% | ~306 |
 | Beware Still Water | 3.00% | ~306 |
 | Path of the Demon | 2.00% | ~228 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~228 |
 | Truly Important Deed | 2.00% | ~228 |
 | Stay Underground | 2.00% | ~204 |
-| Hanged Man's Notes | 2.00% | ~204 |
 | Sarkoris Will Be Green | 2.00% | ~204 |
 | The Final Threshold | 1.00% | ~114 |
 | Strategic Victory | 1.00% | ~114 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,404 (Ranked 136)  
+Progressed: 11,405 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-22 | 11,378 | 0 |
 | 2023-09-23 | 11,390 | 0 |
 | 2023-09-24 | 11,395 | 0 |
-| 2023-09-25 | 11,404 | 0 |
+| 2023-09-25 | 11,405 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 118)  
 Sum: 6,960 (Ranked 115)  

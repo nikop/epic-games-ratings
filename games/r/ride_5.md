@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 41.00% | ~465 |
+| First Love | 41.00% | ~466 |
 | Clean Race | 39.00% | ~443 |
-| Hear That Roar! | 38.00% | ~431 |
+| Hear That Roar! | 38.00% | ~432 |
 | Eat My Dust | 37.00% | ~420 |
-| Rivals to the End | 30.00% | ~340 |
+| Rivals to the End | 30.00% | ~341 |
 | We're Going to Need a Bigger Garage | 25.00% | ~284 |
-| Bitter Rivalry | 23.00% | ~261 |
+| Bitter Rivalry | 24.00% | ~273 |
 | I'm Here Too! | 22.00% | ~250 |
 | Champagne Spray | 20.00% | ~227 |
 | Restored and Ready | 18.00% | ~204 |
@@ -20,7 +20,7 @@
 | Go-Faster Stripes | 16.00% | ~182 |
 | We've Just Begun | 9.00% | ~102 |
 | Stamina Star | 8.00% | ~91 |
-| Is It the Right Size? | 7.00% | ~79 |
+| Is It the Right Size? | 7.00% | ~80 |
 | Evangelist | 6.00% | ~68 |
 | Make It Your Own! | 4.00% | ~45 |
 | Cherry Blossom and Temples | 3.00% | ~34 |
@@ -37,8 +37,8 @@
 | I'll Be the Best! | 1.00% | ~11 |
 | Exhausted but Happy | 1.00% | ~11 |
 | Overtaking the Master | 1.00% | ~11 |
+| I Don't Stop | 0.90% | ~10 |
 | Next Level | 0.80% | ~9 |
-| I Don't Stop | 0.80% | ~9 |
 | Globe-trotter | 0.40% | ~5 |
 | In Search of Perfection | 0.40% | ~5 |
 | Maximum Endurance | 0.20% | ~2 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,135 (Ranked 222)  
+Progressed: 1,136 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-22 | 1,048 | 0 |
 | 2023-09-23 | 1,081 | 0 |
 | 2023-09-24 | 1,115 | 0 |
-| 2023-09-25 | 1,135 | 0 |
+| 2023-09-25 | 1,136 | 0 |

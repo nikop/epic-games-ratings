@@ -8,7 +8,7 @@ Rating: 4.62 (Ranked 349)
 | To Hell In A Handcart | 66.00% | ~441 |
 | Read Between The Lines | 65.00% | ~434 |
 | High Profile | 59.00% | ~394 |
-| Whispers In The Dark | 57.00% | ~381 |
+| Whispers In The Dark | 58.00% | ~387 |
 | Fond Memories | 55.00% | ~367 |
 | A Method To His Madness | 54.00% | ~361 |
 | History Check | 53.00% | ~354 |
@@ -16,8 +16,8 @@ Rating: 4.62 (Ranked 349)
 | Open Sesame | 49.00% | ~327 |
 | Sticky Fingers | 49.00% | ~327 |
 | Knives Out | 49.00% | ~327 |
+| Land, Ho! | 49.00% | ~327 |
 | Gaze Into The Abyss | 48.00% | ~321 |
-| Land, Ho! | 48.00% | ~321 |
 | No Man Is An Island | 48.00% | ~321 |
 | Lock, Stock, And Barrel | 47.00% | ~314 |
 | Back In The Saddle | 47.00% | ~314 |

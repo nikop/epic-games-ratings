@@ -12,8 +12,8 @@ Rating: 4.49 (Ranked 587)
 | Call Me Snake | 62.00% | ~2,109 |
 | Something Lurks Under The Hills | 61.00% | ~2,075 |
 | This Was No Papercut | 59.00% | ~2,007 |
+| The Shrink Hates Me | 57.00% | ~1,939 |
 | People Person | 56.00% | ~1,905 |
-| The Shrink Hates Me | 56.00% | ~1,905 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,803 |
 | First Steps Into Madness | 52.00% | ~1,769 |
 | Colonial Barrels | 50.00% | ~1,701 |
@@ -30,7 +30,7 @@ Rating: 4.49 (Ranked 587)
 | The Passenger | 27.00% | ~919 |
 | Come on, You Wanna Live Forever? | 26.00% | ~885 |
 | The Spire | 25.00% | ~850 |
-| El Riesgo Siempre Vive | 23.00% | ~782 |
+| El Riesgo Siempre Vive | 24.00% | ~816 |
 | Stuff Of Nightmares | 22.00% | ~748 |
 | Excavating The Truth | 21.00% | ~714 |
 | One For Every Occasion | 20.00% | ~680 |

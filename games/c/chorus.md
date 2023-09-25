@@ -41,8 +41,8 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Combat | 22.00% | ~267 |
 | Retaliate | 22.00% | ~267 |
 | Mastery of Rites | 21.00% | ~255 |
-| Power Chord | 20.00% | ~242 |
-| Crash Test | 20.00% | ~242 |
+| Power Chord | 21.00% | ~255 |
+| Crash Test | 21.00% | ~255 |
 | Rise as One | 19.00% | ~230 |
 | Ascension | 19.00% | ~230 |
 | Showoff | 15.00% | ~182 |

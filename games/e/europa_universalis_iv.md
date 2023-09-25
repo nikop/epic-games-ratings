@@ -6,36 +6,36 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,574 |
-| That's a Grand Army | 3.00% | ~12,430 |
-| That is mine! | 3.00% | ~12,430 |
-| Victorious! | 3.00% | ~12,430 |
-| Brothers in Arms | 2.00% | ~8,287 |
-| For the Glory | 2.00% | ~8,287 |
-| That's a Grand Navy | 2.00% | ~8,287 |
-| Seriously?! | 2.00% | ~8,287 |
-| Cold War | 1.00% | ~4,143 |
-| Defender of the Faith | 1.00% | ~4,143 |
-| It's all about the money | 1.00% | ~4,143 |
-| The Princess is in this Castle | 1.00% | ~4,143 |
-| True Catholic | 1.00% | ~4,143 |
-| It's all about luck | 0.90% | ~3,729 |
-| Respected | 0.90% | ~3,729 |
-| Truly Divine Ruler | 0.90% | ~3,729 |
+| Until death do us apart | 4.00% | ~16,576 |
+| That's a Grand Army | 3.00% | ~12,432 |
+| That is mine! | 3.00% | ~12,432 |
+| Victorious! | 3.00% | ~12,432 |
+| Brothers in Arms | 2.00% | ~8,288 |
+| For the Glory | 2.00% | ~8,288 |
+| That's a Grand Navy | 2.00% | ~8,288 |
+| Seriously?! | 2.00% | ~8,288 |
+| Cold War | 1.00% | ~4,144 |
+| Defender of the Faith | 1.00% | ~4,144 |
+| It's all about the money | 1.00% | ~4,144 |
+| The Princess is in this Castle | 1.00% | ~4,144 |
+| True Catholic | 1.00% | ~4,144 |
+| It's all about luck | 0.90% | ~3,730 |
+| Respected | 0.90% | ~3,730 |
+| Truly Divine Ruler | 0.90% | ~3,730 |
 | Blockader | 0.80% | ~3,315 |
-| Double the Love | 0.70% | ~2,900 |
-| Royal Authority | 0.70% | ~2,900 |
-| Total Control | 0.70% | ~2,900 |
+| Double the Love | 0.70% | ~2,901 |
+| Royal Authority | 0.70% | ~2,901 |
+| Total Control | 0.70% | ~2,901 |
 | My armies are invincible! | 0.60% | ~2,486 |
 | Agressive Expander | 0.50% | ~2,072 |
 | City of Cities | 0.50% | ~2,072 |
 | Combined Arms | 0.50% | ~2,072 |
-| Azur semé de lis or | 0.40% | ~1,657 |
-| Factionalism | 0.40% | ~1,657 |
-| Gentle Persuasion | 0.40% | ~1,657 |
-| Isn't this the way to India? | 0.40% | ~1,657 |
-| Queen of Conquest | 0.40% | ~1,657 |
-| This navy can take it all | 0.40% | ~1,657 |
+| Azur semé de lis or | 0.40% | ~1,658 |
+| Factionalism | 0.40% | ~1,658 |
+| Gentle Persuasion | 0.40% | ~1,658 |
+| Isn't this the way to India? | 0.40% | ~1,658 |
+| Queen of Conquest | 0.40% | ~1,658 |
+| This navy can take it all | 0.40% | ~1,658 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,243 |
 | Bright Spark | 0.30% | ~1,243 |
 | Down Under | 0.30% | ~1,243 |
@@ -56,6 +56,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.20% | ~829 |
 | Time Bandit | 0.20% | ~829 |
 | Traditional Player | 0.20% | ~829 |
+| Voting Streak | 0.20% | ~829 |
 | The 52 Garhs | 0.10% | ~414 |
 | I don't like sand | 0.10% | ~414 |
 | A Blessed Nation | 0.10% | ~414 |
@@ -345,7 +346,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorian Three | 0.10% | ~414 |
 | Viva la Revolución! | 0.10% | ~414 |
 | Voltaire's Nightmare | 0.10% | ~414 |
-| Voting Streak | 0.10% | ~414 |
 | We bled for this | 0.10% | ~414 |
 | Where are the penguins? | 0.10% | ~414 |
 | Where the heart is | 0.10% | ~414 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414,348 (Ranked 40)  
+Progressed: 414,395 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,15 +519,15 @@ Completed: 1 (0.00%) (Ranked 293)
 | 2023-09-22 | 411,228 | 0 |
 | 2023-09-23 | 412,558 | 0 |
 | 2023-09-24 | 413,698 | 1 |
-| 2023-09-25 | 414,348 | 1 |
+| 2023-09-25 | 414,395 | 1 |
 ## Awards
-Max (Educational): 6,250  (Ranked 56)  
-Sum: 51,394 (Ranked 24)  
+Max (Educational): 6,263  (Ranked 56)  
+Sum: 51,425 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,250 |
-| This game is Highly Recommended | 5,953 |
+| This game is Educational | 6,263 |
+| This game is Highly Recommended | 5,971 |
 | This game has Challenging Combat | 5,930 |
 | This game has Diverse Characters | 5,912 |
 | This game is Extremely Fun | 5,903 |
@@ -790,4 +790,4 @@ Diff (max vs sum): 32
 | 2023-09-22 | 4.69 | - | 6,215 | 51,004 |
 | 2023-09-23 | 4.69 | - | 6,232 | 51,181 |
 | 2023-09-24 | 4.69 | - | 6,250 | 51,334 |
-| 2023-09-25 | 4.69 | - | 6,250 | 51,394 |
+| 2023-09-25 | 4.69 | - | 6,263 | 51,425 |

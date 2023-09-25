@@ -9,9 +9,9 @@
 | End | 47.00% | ~141 |
 | Nonconsensual | 31.00% | ~93 |
 | Realist | 29.00% | ~87 |
-| Escape | 20.00% | ~60 |
+| Escape | 21.00% | ~63 |
 | Wrong | 19.00% | ~57 |
-| Jack | 15.00% | ~45 |
+| Jack | 16.00% | ~48 |
 | Tough | 12.00% | ~36 |
 | Clear | 4.00% | ~12 |
 | Unfinished | 3.00% | ~9 |

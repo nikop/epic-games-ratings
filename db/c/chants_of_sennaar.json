@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.13,
+  "EOS_Completed_Percentage": 6.1,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -999,6 +999,11 @@
       "Time": "2023-09-25T16:09:45.9704088+00:00",
       "NumProgressed": 212,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-25T20:09:04.7935361+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 25,
@@ -1018,7 +1023,7 @@
       "Name": "In this together",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "META_ALL_LINK",
@@ -1032,9 +1037,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1042,7 +1047,7 @@
       "Name": "A good beginning",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "META_HALF_LINK",
@@ -1072,17 +1077,17 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1122,7 +1127,7 @@
       "Name": "True G4M3R",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1130,7 +1135,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1154,7 +1159,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1178,7 +1183,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PROGRESS_N3",
@@ -1194,7 +1199,7 @@
       "Name": "The darkness",
       "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PROGRESS_N5",
@@ -1209,14 +1214,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:09:03.5975111+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:09:04.7935352+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:58:03.4225924+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:09:03.5975376+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:57:45.3666185+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:09:04.7935666+00:00"
 }

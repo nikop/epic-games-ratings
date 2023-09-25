@@ -1,20 +1,20 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 78.00% | ~1,141 |
+| Balding bloot! | 78.00% | ~1,142 |
 | Lovebirds | 49.00% | ~717 |
 | Hug therapy | 44.00% | ~644 |
 | Life’s short, ride long | 44.00% | ~644 |
-| Over my dead body | 40.00% | ~585 |
+| Over my dead body | 40.00% | ~586 |
 | Shake the rust off their feet | 21.00% | ~307 |
 | My little pony | 20.00% | ~293 |
 | Strike! | 19.00% | ~278 |
-| A love supreme | 18.00% | ~263 |
+| A love supreme | 18.00% | ~264 |
 | In my shoes | 17.00% | ~249 |
 | Like new! | 14.00% | ~205 |
 | Heartstrings | 14.00% | ~205 |
@@ -22,8 +22,8 @@ Number of Ratings: 38  (23.09.2022)
 | Back to rust | 12.00% | ~176 |
 | Flower Powered | 12.00% | ~176 |
 | Don't look back | 12.00% | ~176 |
-| Unstoppable | 10.00% | ~146 |
 | Perfect timing | 9.00% | ~132 |
+| Unstoppable | 9.00% | ~132 |
 | Ain't no mountain high enough | 9.00% | ~132 |
 | Self-sustainability | 8.00% | ~117 |
 | An eye for an eye | 6.00% | ~88 |
@@ -37,8 +37,8 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~29 |
 | À la carte | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,463 (Ranked 212)  
-Completed: 9 (0.62%) (Ranked 147)  
+Progressed: 1,464 (Ranked 211)  
+Completed: 9 (0.61%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,7 +164,7 @@ Completed: 9 (0.62%) (Ranked 147)
 | 2023-09-22 | 1,453 | 9 |
 | 2023-09-23 | 1,460 | 9 |
 | 2023-09-24 | 1,462 | 9 |
-| 2023-09-25 | 1,463 | 9 |
+| 2023-09-25 | 1,464 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

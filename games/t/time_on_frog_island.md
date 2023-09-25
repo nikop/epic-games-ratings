@@ -10,7 +10,10 @@
 | Socialite | 17.00% | ~1 |
 | Who Even Needs Keys | 17.00% | ~1 |
 | Mad Scientist | 17.00% | ~1 |
+| Safe Investment | 17.00% | ~1 |
+| Bank of Me | 17.00% | ~1 |
 | Hoist the Sails | 17.00% | ~1 |
+| Replace the Rudder | 17.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Shrub-Seeing: Lights in the sky | 0.00% | ~0 |
@@ -24,8 +27,6 @@
 | Sailor Swift | 0.00% | ~0 |
 | No Evil | 0.00% | ~0 |
 | Caught Ya! | 0.00% | ~0 |
-| Safe Investment | 0.00% | ~0 |
-| Bank of Me | 0.00% | ~0 |
 | Honey, I'm Home | 0.00% | ~0 |
 | What?! | 0.00% | ~0 |
 | Return to sender | 0.00% | ~0 |
@@ -37,7 +38,6 @@
 | Froggy Friendship | 0.00% | ~0 |
 | Secure the Sheets | 0.00% | ~0 |
 | Hands on the Helm | 0.00% | ~0 |
-| Replace the Rudder | 0.00% | ~0 |
 | The Journey Continues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 519)  

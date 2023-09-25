@@ -2,13 +2,13 @@
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
-  "Ranking_Rating": 139,
+  "Ranking_Rating": 138,
   "Ranking_Popularity": 168,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2015-08-25T09:00:00+00:00",
@@ -1591,18 +1591,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 983,
       "NumberOfAwardsMax": 720
+    },
+    {
+      "Time": "2023-09-25T19:57:05.0855496+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 986,
+      "NumberOfAwardsMax": 722
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 983,
-  "NumberOfAwardsMax": 720,
+  "NumberOfAwards": 986,
+  "NumberOfAwardsMax": 722,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 720
+      "Count": 722
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1614,7 +1620,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1676,8 +1682,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-09-24T17:01:59.3614274+00:00",
+  "LastChanged": "2023-09-25T19:57:05.0855494+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.7895653+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:57:22.7477865+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:03:46.5062965+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:57:05.0855501+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:03:32.7776194+00:00"
 }

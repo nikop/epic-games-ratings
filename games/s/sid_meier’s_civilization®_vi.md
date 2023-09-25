@@ -1,11 +1,11 @@
 # Sid Meier’s Civilization® VI
 [Store](https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi)  
 [View Rawdata](../../db/s/sid_meier’s_civilization®_vi.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 57,866  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 38,472  (Ranked 13)  
-Sum: 311,403 (Ranked 10)  
+Sum: 311,439 (Ranked 10)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 32,945 |
 | This game has Quickly Understood Controls | 31,980 |
 | This game is Extremely Fun | 31,977 |
-| This game has Competitive Players | 30,848 |
+| This game has Competitive Players | 30,884 |
 | This game has Amazing Characters | 28,120 |
 | This game has Amazing Storytelling | 27,111 |
 | This game has a Creative Community | 21,773 |
@@ -269,4 +269,4 @@ Diff (max vs sum): 3
 | 2023-09-22 | 4.74 | - | 38,230 | 309,862 |
 | 2023-09-23 | 4.74 | - | 38,314 | 310,397 |
 | 2023-09-24 | 4.74 | - | 38,398 | 310,949 |
-| 2023-09-25 | 4.74 | - | 38,472 | 311,403 |
+| 2023-09-25 | 4.74 | - | 38,472 | 311,439 |

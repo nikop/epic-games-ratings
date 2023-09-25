@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,279 |
-| Where's that freaking Dwarf? | 5.00% | ~11,335 |
-| Alt+F4 | 5.00% | ~11,335 |
-| Déjà vu | 4.00% | ~9,068 |
-| A beer, two curses, three companions | 3.00% | ~6,801 |
-| Sock! SOCK! | 3.00% | ~6,801 |
-| GG EZ | 3.00% | ~6,801 |
-| Speedrun | 3.00% | ~6,801 |
+| Sowwy! | 31.00% | ~70,283 |
+| Where's that freaking Dwarf? | 5.00% | ~11,336 |
+| Alt+F4 | 5.00% | ~11,336 |
+| Déjà vu | 4.00% | ~9,069 |
+| A beer, two curses, three companions | 3.00% | ~6,802 |
+| Sock! SOCK! | 3.00% | ~6,802 |
+| GG EZ | 3.00% | ~6,802 |
+| Speedrun | 3.00% | ~6,802 |
 | Livin' in a dwarven paradise | 2.00% | ~4,534 |
 | Way of the Wimp | 2.00% | ~4,534 |
 | The plot thickens... At the tavern | 2.00% | ~4,534 |
@@ -40,8 +40,8 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,267 |
 | Team Building Exercise | 1.00% | ~2,267 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,040 |
+| Dead for good | 0.80% | ~1,814 |
 | Lust and Debauchery | 0.80% | ~1,814 |
-| Dead for good | 0.70% | ~1,587 |
 | Gargantua | 0.70% | ~1,587 |
 | Material Girl | 0.70% | ~1,587 |
 | In Navalu's footsteps | 0.60% | ~1,360 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,708 (Ranked 58)  
+Progressed: 226,719 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 3 (0.00%) (Ranked 293)
 | 2023-09-22 | 225,994 | 3 |
 | 2023-09-23 | 226,270 | 3 |
 | 2023-09-24 | 226,557 | 3 |
-| 2023-09-25 | 226,708 | 3 |
+| 2023-09-25 | 226,719 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 277)  
 Sum: 384 (Ranked 328)  

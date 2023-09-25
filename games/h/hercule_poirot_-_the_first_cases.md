@@ -23,7 +23,7 @@ Rating: 4.35 (Ranked 762)
 | Comtesse Margaux de Vos | 45.00% | ~194 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~189 |
 | The Interrogations | 44.00% | ~189 |
-| Well-acquainted | 41.00% | ~176 |
+| Well-acquainted | 42.00% | ~181 |
 | Zakariya Demir | 41.00% | ~176 |
 | Well-read | 39.00% | ~168 |
 | Cassandra Van den Bosch | 37.00% | ~159 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 762)
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 430 (Ranked 275)  
-Completed: 6 (1.40%) (Ranked 116)  
+Completed: 6 (1.40%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -27,10 +27,10 @@ Number of Ratings: 28  (23.09.2022)
 | Missed it! | 19.00% | ~95 |
 | America | 18.00% | ~90 |
 | Sabotage | 16.00% | ~80 |
+| Engineer | 11.00% | ~55 |
 | Achtung! | 11.00% | ~55 |
 | Japan | 10.00% | ~50 |
 | Woodcutter | 10.00% | ~50 |
-| Engineer | 10.00% | ~50 |
 | Tycoon | 8.00% | ~40 |
 | Germany | 6.00% | ~30 |
 | Chuck Norris | 5.00% | ~25 |

@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77931,
+  "EOS_Progressed": 77940,
   "EOS_Completed": 200,
-  "EOS_NewPlayers": 1906,
+  "EOS_NewPlayers": 1897,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -4957,6 +4957,11 @@
       "Time": "2023-09-25T19:08:19.30773+00:00",
       "NumProgressed": 77931,
       "NumCompleted": 200
+    },
+    {
+      "Time": "2023-09-25T20:08:11.2396369+00:00",
+      "NumProgressed": 77940,
+      "NumCompleted": 200
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -4969,7 +4974,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 62345
+      "UsersEstimate": 62352
     },
     {
       "ID": "grp_beet",
@@ -4977,7 +4982,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 15586
+      "UsersEstimate": 15588
     },
     {
       "ID": "grp_collect_ruby",
@@ -4985,7 +4990,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 60007
+      "UsersEstimate": 60014
     },
     {
       "ID": "grp_endless",
@@ -4993,7 +4998,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27276
+      "UsersEstimate": 27279
     },
     {
       "ID": "grp_finallevel",
@@ -5009,7 +5014,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 19483
+      "UsersEstimate": 19485
     },
     {
       "ID": "grp_level10",
@@ -5057,7 +5062,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 41303
+      "UsersEstimate": 41308
     },
     {
       "ID": "grp_money_tree",
@@ -5065,7 +5070,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 56890
+      "UsersEstimate": 56896
     },
     {
       "ID": "grp_speed",
@@ -5073,7 +5078,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 36628
+      "UsersEstimate": 36632
     },
     {
       "ID": "grp_stone",
@@ -5081,7 +5086,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7793
+      "UsersEstimate": 7794
     },
     {
       "ID": "grp_store_ftux",
@@ -5089,7 +5094,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 33510
+      "UsersEstimate": 33514
     },
     {
       "ID": "grp_weekly_beaten",
@@ -5097,14 +5102,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 7014
+      "UsersEstimate": 7015
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 77931,
+      "Progressed": 77940,
       "Completed": 200
     }
   ],
@@ -5112,8 +5117,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-09-23T14:59:03.0223254+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:08:19.3077295+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:08:11.2396361+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:55.4569513+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:00:26.001637+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:08:19.3077728+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:00:07.1142704+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:08:11.2397117+00:00"
 }

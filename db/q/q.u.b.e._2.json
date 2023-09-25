@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1878,6 +1878,11 @@
       "Time": "2023-09-25T19:05:48.642899+00:00",
       "NumProgressed": 446,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T20:05:22.3026373+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1888,9 +1893,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2050,7 +2055,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_PEAK",
@@ -2088,9 +2093,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_S5",
@@ -2114,22 +2119,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:05:48.6428986+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:05:22.3026367+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:01:19.1847644+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:05:48.6429306+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:01:07.7554886+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:05:22.3026753+00:00"
 }

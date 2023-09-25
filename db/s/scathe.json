@@ -4,8 +4,8 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2023-09-25T14:03:09.0285739+00:00",
       "NumProgressed": 325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T20:03:16.9271952+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1475,7 +1480,7 @@
       "Name": "Bad Blood",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
@@ -1619,7 +1624,7 @@
       "Name": "Serious Bam",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
@@ -1698,7 +1703,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 0
     }
   ],
@@ -1706,8 +1711,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-09-25T19:03:30.1062477+00:00",
+  "LastChanged_Achievements": "2023-09-25T20:03:16.9271945+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.5893639+00:00",
-  "LastUpdate_Ratings": "2023-09-25T19:01:29.4647306+00:00",
-  "LastUpdate_Achievements": "2023-09-25T19:03:30.1062856+00:00"
+  "LastUpdate_Ratings": "2023-09-25T20:01:17.1235934+00:00",
+  "LastUpdate_Achievements": "2023-09-25T20:03:16.9272341+00:00"
 }
