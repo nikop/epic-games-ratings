@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 90.02% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 90.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -33,8 +33,8 @@
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.10% |
 | 32 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.89% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.17% |
-| 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
+| 34 | [Sonic Origins](games/s/sonic_origins.md) | 8.16% |
+| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 37 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.63% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
@@ -65,7 +65,7 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
-| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.68% |
+| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.69% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.41% |
@@ -95,8 +95,8 @@
 | 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.33% |
 | 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.20% |
-| 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.17% |
+| 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.17% |
+| 96 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.17% |
 | 98 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
 | 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
@@ -185,8 +185,8 @@
 | 180 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.35% |
 | 184 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
 | 184 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 184 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.34% |
 | 184 | [The Surge](games/t/the_surge.md) | 0.34% |
+| 187 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.33% |
 | 188 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 189 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
