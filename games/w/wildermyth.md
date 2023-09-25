@@ -15,10 +15,10 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 28.00% | ~393 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~365 |
 | War Endured | 15.00% | ~211 |
+| A Mythic Menagerie | 14.00% | ~197 |
 | Completing the Look | 14.00% | ~197 |
 | Who's Counting? | 14.00% | ~197 |
 | Core Failure | 14.00% | ~197 |
-| A Mythic Menagerie | 13.00% | ~183 |
 | Pyrrhic Victory | 11.00% | ~154 |
 | Thematic Divergence | 10.00% | ~140 |
 | Echoes Die | 10.00% | ~140 |

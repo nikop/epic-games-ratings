@@ -4,8 +4,8 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -1407,9 +1407,9 @@
       "ID": "LEVEL_026",
       "SetID": "7jk5g4e",
       "Name": "2 neighbour islands",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_060",
@@ -1430,8 +1430,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-09-25T00:04:30.1903375+00:00",
+  "LastChanged_Achievements": "2023-09-25T01:47:36.9712516+00:00",
   "LastUpdate_AppInfo": "2023-09-18T22:57:19.1798454+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:59:25.7555517+00:00",
-  "LastUpdate_Achievements": "2023-09-25T00:04:30.1903519+00:00"
+  "LastUpdate_Ratings": "2023-09-25T01:43:11.3735862+00:00",
+  "LastUpdate_Achievements": "2023-09-25T01:47:36.9712821+00:00"
 }

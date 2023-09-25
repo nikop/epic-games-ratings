@@ -4,8 +4,8 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -144,9 +144,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 32,
+      "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -208,17 +208,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 12,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -256,17 +256,17 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 110,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -286,8 +286,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-25T00:06:52.7332463+00:00",
+  "LastChanged_Achievements": "2023-09-25T01:50:29.1355832+00:00",
   "LastUpdate_AppInfo": "2023-09-19T15:57:15.1386888+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:58:07.2022677+00:00",
-  "LastUpdate_Achievements": "2023-09-25T00:06:52.7332572+00:00"
+  "LastUpdate_Ratings": "2023-09-25T01:41:34.1272508+00:00",
+  "LastUpdate_Achievements": "2023-09-25T01:50:29.135596+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.52,
+  "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -541,6 +541,11 @@
       "Time": "2023-09-24T11:05:04.7948441+00:00",
       "NumProgressed": 264,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-25T01:47:46.4884931+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -576,7 +581,7 @@
       "Name": "Berry Nice",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -624,7 +629,7 @@
       "Name": "Keyu Exterminator",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -672,7 +677,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_SHARD_2",
@@ -735,7 +740,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 4
     }
   ],
@@ -743,8 +748,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-09-25T00:04:38.0597289+00:00",
+  "LastChanged_Achievements": "2023-09-25T01:47:46.4884926+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.7974179+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:58:05.5577157+00:00",
-  "LastUpdate_Achievements": "2023-09-25T00:04:38.0597615+00:00"
+  "LastUpdate_Ratings": "2023-09-25T01:41:31.778308+00:00",
+  "LastUpdate_Achievements": "2023-09-25T01:47:46.4885223+00:00"
 }

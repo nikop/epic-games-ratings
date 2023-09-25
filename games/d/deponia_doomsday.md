@@ -19,7 +19,7 @@ Rating: 4.57 (Ranked 450)
 | Scaffolding Expert | 37.00% | ~154 |
 | Sole Music | 36.00% | ~149 |
 | No man left behind! | 30.00% | ~124 |
-| Portals come in packs | 29.00% | ~120 |
+| Portals come in packs | 30.00% | ~124 |
 | Photo Friend | 26.00% | ~108 |
 | Brainfreeze | 21.00% | ~87 |
 | Masseltov | 20.00% | ~83 |

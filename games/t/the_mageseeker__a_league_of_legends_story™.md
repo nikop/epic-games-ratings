@@ -5,28 +5,28 @@ Rating: 4.82 (Ranked 64)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,478 |
+| For Demacia | 96.00% | ~2,479 |
 | No more cages! | 92.00% | ~2,375 |
-| Everfrost | 79.00% | ~2,039 |
-| Pentakill | 78.00% | ~2,013 |
-| Dark Forest | 78.00% | ~2,013 |
+| Everfrost | 79.00% | ~2,040 |
+| Pentakill | 78.00% | ~2,014 |
+| Dark Forest | 78.00% | ~2,014 |
 | The use of petricite | 75.00% | ~1,936 |
-| You can pet the dog | 61.00% | ~1,574 |
+| You can pet the dog | 62.00% | ~1,601 |
 | Big Helmet Bro | 38.00% | ~981 |
 | Clarion Cove | 38.00% | ~981 |
 | Thornbarrow | 37.00% | ~955 |
-| Elemental master | 36.00% | ~929 |
-| Past trauma | 36.00% | ~929 |
-| Ternmoat Headquarters | 36.00% | ~929 |
+| Elemental master | 36.00% | ~930 |
+| Past trauma | 36.00% | ~930 |
+| Ternmoat Headquarters | 36.00% | ~930 |
 | Cypress Glen Headquarters | 33.00% | ~852 |
 | Petricite Burst | 32.00% | ~826 |
-| Old friend | 30.00% | ~774 |
-| Hijack | 29.00% | ~748 |
-| Devineur | 29.00% | ~748 |
+| Old friend | 30.00% | ~775 |
+| Hijack | 29.00% | ~749 |
+| Devineur | 29.00% | ~749 |
 | Whispers in the Woods I | 27.00% | ~697 |
 | Ancient power | 26.00% | ~671 |
-| I chose my shackles | 25.00% | ~645 |
-| Sacred Woods | 24.00% | ~619 |
+| I chose my shackles | 25.00% | ~646 |
+| Sacred Woods | 24.00% | ~620 |
 | Capelworth | 23.00% | ~594 |
 | Little light | 22.00% | ~568 |
 | Full equipped | 22.00% | ~568 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 64)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 0.90% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,581 (Ranked 190)  
+Progressed: 2,582 (Ranked 190)  
 Completed: 9 (0.35%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,6 +196,7 @@ Completed: 9 (0.35%) (Ranked 180)
 | 2023-09-22 | 2,570 | 9 |
 | 2023-09-23 | 2,574 | 9 |
 | 2023-09-24 | 2,581 | 9 |
+| 2023-09-25 | 2,582 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

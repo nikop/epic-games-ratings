@@ -12,21 +12,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 5.00% | ~706 |
 | Friendly Family | 5.00% | ~706 |
 | The Clergy | 5.00% | ~706 |
-| Able | 4.00% | ~564 |
-| Architect | 4.00% | ~564 |
-| Enlightened | 4.00% | ~564 |
-| Good | 4.00% | ~564 |
-| Just | 4.00% | ~564 |
-| Learned | 4.00% | ~564 |
-| Mason | 4.00% | ~564 |
-| Noble | 4.00% | ~564 |
-| Pioneer | 4.00% | ~564 |
-| Strong | 4.00% | ~564 |
-| Hanging Gardens | 4.00% | ~564 |
-| Oracle | 4.00% | ~564 |
-| Judaism | 4.00% | ~564 |
-| Naming Landmarks | 4.00% | ~564 |
-| Trade Caravan | 4.00% | ~564 |
+| Able | 4.00% | ~565 |
+| Architect | 4.00% | ~565 |
+| Enlightened | 4.00% | ~565 |
+| Good | 4.00% | ~565 |
+| Just | 4.00% | ~565 |
+| Learned | 4.00% | ~565 |
+| Mason | 4.00% | ~565 |
+| Noble | 4.00% | ~565 |
+| Pioneer | 4.00% | ~565 |
+| Strong | 4.00% | ~565 |
+| Hanging Gardens | 4.00% | ~565 |
+| Oracle | 4.00% | ~565 |
+| Judaism | 4.00% | ~565 |
+| Naming Landmarks | 4.00% | ~565 |
+| Trade Caravan | 4.00% | ~565 |
 | Ambitious | 3.00% | ~423 |
 | Brilliant | 3.00% | ~423 |
 | Fountainhead | 3.00% | ~423 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,112 (Ranked 128)  
+Progressed: 14,113 (Ranked 128)  
 Completed: 5 (0.04%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -461,16 +461,16 @@ Completed: 5 (0.04%) (Ranked 256)
 | 2023-09-22 | 14,054 | 5 |
 | 2023-09-23 | 14,081 | 5 |
 | 2023-09-24 | 14,110 | 5 |
-| 2023-09-25 | 14,112 | 5 |
+| 2023-09-25 | 14,113 | 5 |
 ## Awards
 Max (Relaxing): 222  (Ranked 265)  
-Sum: 1,817 (Ranked 207)  
+Sum: 1,818 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 222 |
+| This game is Extremely Fun | 210 |
 | This game has Diverse Characters | 209 |
-| This game is Extremely Fun | 209 |
 | This game is Highly Recommended | 209 |
 | This game is Educational | 207 |
 | This game has Challenging Combat | 197 |
@@ -614,3 +614,4 @@ Diff (max vs sum): 58
 | 2023-09-21 | 4.65 | - | 221 | 1,813 |
 | 2023-09-22 | 4.65 | - | 221 | 1,814 |
 | 2023-09-23 | 4.65 | - | 222 | 1,817 |
+| 2023-09-25 | 4.65 | - | 222 | 1,818 |

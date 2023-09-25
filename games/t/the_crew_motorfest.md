@@ -4,8 +4,8 @@
 Rating: 4.66 (Ranked 281)  
 ## Awards
 Max (Relaxing): 53  (Ranked 401)  
-Sum: 489 (Ranked 305)  
-Diff (max vs sum): 96  
+Sum: 499 (Ranked 306)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 53 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 96
 | This game has Competitive Players | 45 |
 | This game has a Competitive Community | 44 |
 | This game is Great for Quick Sessions | 43 |
-| This game has Diverse Characters | 32 |
+| This game has Diverse Characters | 42 |
 | This game is Great for Beginners | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -31,3 +31,4 @@ Diff (max vs sum): 96
 | 2023-09-22 | 4.65 | 34 | 312 |
 | 2023-09-23 | 4.66 | 42 | 380 |
 | 2023-09-24 | 4.66 | 53 | 489 |
+| 2023-09-25 | 4.66 | 53 | 499 |

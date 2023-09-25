@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -762,7 +762,7 @@
   ],
   "EOS_Progressed": 5886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7866,9 +7866,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2119
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -8129,8 +8129,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-24T05:58:48.7914025+00:00",
-  "LastChanged_Achievements": "2023-09-25T00:03:26.7973578+00:00",
+  "LastChanged_Achievements": "2023-09-25T01:46:20.9126618+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:58:24.8589446+00:00",
-  "LastUpdate_Achievements": "2023-09-25T00:03:26.7974434+00:00"
+  "LastUpdate_Ratings": "2023-09-25T01:41:58.8497344+00:00",
+  "LastUpdate_Achievements": "2023-09-25T01:46:20.9127856+00:00"
 }

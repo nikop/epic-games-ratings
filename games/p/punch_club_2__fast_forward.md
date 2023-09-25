@@ -37,7 +37,7 @@
 | Extreme neuropower! | 55.00% | ~180 |
 | Escaped from a big trouble | 53.00% | ~174 |
 | Now you are worthy | 50.00% | ~164 |
-| Fight is life | 47.00% | ~154 |
+| Fight is life | 48.00% | ~157 |
 | Mysterious voice | 47.00% | ~154 |
 | Guiding on the right path | 47.00% | ~154 |
 | No blades in the gym | 46.00% | ~151 |
@@ -45,10 +45,10 @@
 | Underground dwellers | 42.00% | ~138 |
 | Responsible approach | 42.00% | ~138 |
 | Deal with life | 41.00% | ~134 |
+| Get out of my apartment! | 41.00% | ~134 |
 | Mom got better | 40.00% | ~131 |
 | GYM professional | 40.00% | ~131 |
 | Poisoned fighter | 40.00% | ~131 |
-| Get out of my apartment! | 40.00% | ~131 |
 | The die is cast | 40.00% | ~131 |
 | Seashell hunter | 38.00% | ~125 |
 | Gang wrangler | 37.00% | ~121 |

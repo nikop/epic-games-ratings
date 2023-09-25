@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -1563,9 +1563,9 @@
       "ID": "achievement_5petsReceived",
       "SetID": "95dc8p",
       "Name": "A Mythic Menagerie",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1987,8 +1987,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-09-25T00:06:17.7506344+00:00",
+  "LastChanged_Achievements": "2023-09-25T01:49:46.2192519+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:06.8645337+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:57:33.6807931+00:00",
-  "LastUpdate_Achievements": "2023-09-25T00:06:17.7506827+00:00"
+  "LastUpdate_Ratings": "2023-09-25T01:40:52.1883116+00:00",
+  "LastUpdate_Achievements": "2023-09-25T01:49:46.2193507+00:00"
 }

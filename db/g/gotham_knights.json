@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 889,
+  "Ranking_Rating": 890,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
@@ -3140,9 +3140,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72810,
+  "EOS_Progressed": 72811,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16555,6 +16555,11 @@
       "Time": "2023-09-25T00:05:56.9716023+00:00",
       "NumProgressed": 72810,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-25T01:49:21.1062171+00:00",
+      "NumProgressed": 72811,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 61,
@@ -16614,7 +16619,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16746
+      "UsersEstimate": 16747
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16686,7 +16691,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10193
+      "UsersEstimate": 10194
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -16718,7 +16723,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3640
+      "UsersEstimate": 3641
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -16814,7 +16819,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10193
+      "UsersEstimate": 10194
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -16878,7 +16883,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18202
+      "UsersEstimate": 18203
     },
     {
       "ID": "HARLEY_3",
@@ -16910,7 +16915,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37861
+      "UsersEstimate": 37862
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -16958,7 +16963,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24755
+      "UsersEstimate": 24756
     },
     {
       "ID": "MYSTERY_02",
@@ -16966,7 +16971,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18202
+      "UsersEstimate": 18203
     },
     {
       "ID": "MYSTERY_03",
@@ -16974,7 +16979,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16746
+      "UsersEstimate": 16747
     },
     {
       "ID": "MYSTERY_04",
@@ -17006,7 +17011,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10193
+      "UsersEstimate": 10194
     },
     {
       "ID": "MYSTERY_08",
@@ -17053,13 +17058,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72810,
+      "Progressed": 72811,
       "Completed": 117
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43090,
+      "Progressed": 43091,
       "Completed": 2667
     }
   ],
@@ -17067,8 +17072,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-24T19:57:12.505905+00:00",
-  "LastChanged_Achievements": "2023-09-25T00:05:56.9716016+00:00",
+  "LastChanged_Achievements": "2023-09-25T01:49:21.1062165+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-24T23:57:21.189646+00:00",
-  "LastUpdate_Achievements": "2023-09-25T00:05:56.9717276+00:00"
+  "LastUpdate_Ratings": "2023-09-25T01:40:34.6847471+00:00",
+  "LastUpdate_Achievements": "2023-09-25T01:49:21.1064612+00:00"
 }
