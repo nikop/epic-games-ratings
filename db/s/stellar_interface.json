@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "BronzeTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Pest Control",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CartdridgeHoarderAchievement",
@@ -495,9 +495,9 @@
       "ID": "Cleared20LevelsInAtLeast20LongAGraph",
       "SetID": "a8djcgh",
       "Name": "Curious",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Cleared500LevelsAchievement",
@@ -839,9 +839,9 @@
       "ID": "GoldMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Admiral",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoldMissionsCompletedAllAchievement",
@@ -1239,9 +1239,9 @@
       "ID": "StagSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Beetle",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "StarFurySpacecraftUnlockAchievement",
@@ -1398,8 +1398,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-25T11:03:30.5114201+00:00",
+  "LastChanged_Achievements": "2023-09-25T12:03:18.1079154+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
-  "LastUpdate_Ratings": "2023-09-25T10:57:31.0069684+00:00",
-  "LastUpdate_Achievements": "2023-09-25T11:03:30.5116224+00:00"
+  "LastUpdate_Ratings": "2023-09-25T11:57:19.5106971+00:00",
+  "LastUpdate_Achievements": "2023-09-25T12:03:18.1080766+00:00"
 }

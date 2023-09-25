@@ -7,14 +7,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,054 |
-| Biggest Communism Builder | 24.00% | ~30,903 |
+| Biggest Communism Builder | 24.00% | ~30,904 |
 | The World's Most Laughable Centrist | 20.00% | ~25,753 |
-| Il Coppo Del'Arte! | 18.00% | ~23,177 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,602 |
-| Hyperstellar Law Official | 16.00% | ~20,602 |
+| Il Coppo Del'Arte! | 18.00% | ~23,178 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,603 |
+| Hyperstellar Law Official | 16.00% | ~20,603 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,027 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,027 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,739 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,740 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,164 |
 | Unbelievably Boring **** | 9.00% | ~11,589 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,589 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,763 (Ranked 71)  
+Progressed: 128,766 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,14 +205,14 @@ Completed: 28 (0.02%) (Ranked 266)
 | 2023-09-22 | 128,529 | 28 |
 | 2023-09-23 | 128,639 | 28 |
 | 2023-09-24 | 128,733 | 28 |
-| 2023-09-25 | 128,763 | 28 |
+| 2023-09-25 | 128,766 | 28 |
 ## Awards
-Max (Character Customization): 724  (Ranked 167)  
-Sum: 1,090 (Ranked 238)  
+Max (Character Customization): 725  (Ranked 167)  
+Sum: 1,091 (Ranked 238)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 724 |
+| This game has Inclusive Character Customization | 725 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 43 |
@@ -357,3 +357,4 @@ Diff (max vs sum): -71
 | 2023-09-15 | 4.87 | - | 723 | 1,088 |
 | 2023-09-21 | 4.87 | - | 723 | 1,089 |
 | 2023-09-22 | 4.87 | - | 724 | 1,090 |
+| 2023-09-25 | 4.87 | - | 725 | 1,091 |

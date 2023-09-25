@@ -90,7 +90,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | One more draft | 0.70% | ~3,316 |
 | Online Streak | 0.60% | ~2,842 |
 | Set Piece Specialist | 0.60% | ~2,842 |
-| Draft Rivalry | 0.50% | ~2,368 |
+| Draft Rivalry | 0.50% | ~2,369 |
 | Outstanding Defence | 0.40% | ~1,895 |
 | Beat all the AI Managers | 0.40% | ~1,895 |
 | Club Legend | 0.30% | ~1,421 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,700 (Ranked 36)  
+Progressed: 473,701 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 21 (0.00%) (Ranked 292)
 | 2023-09-22 | 473,569 | 21 |
 | 2023-09-23 | 473,627 | 21 |
 | 2023-09-24 | 473,686 | 21 |
-| 2023-09-25 | 473,700 | 21 |
+| 2023-09-25 | 473,701 | 21 |
 ## Awards
 Max (Relaxing): 6,453  (Ranked 54)  
 Sum: 50,779 (Ranked 26)  

@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,253 |
-| Where's that freaking Dwarf? | 5.00% | ~11,331 |
-| Alt+F4 | 5.00% | ~11,331 |
+| Sowwy! | 31.00% | ~70,255 |
+| Where's that freaking Dwarf? | 5.00% | ~11,332 |
+| Alt+F4 | 5.00% | ~11,332 |
 | Déjà vu | 4.00% | ~9,065 |
 | A beer, two curses, three companions | 3.00% | ~6,799 |
 | Sock! SOCK! | 3.00% | ~6,799 |
 | GG EZ | 3.00% | ~6,799 |
 | Speedrun | 3.00% | ~6,799 |
-| Livin' in a dwarven paradise | 2.00% | ~4,532 |
-| Way of the Wimp | 2.00% | ~4,532 |
-| The plot thickens... At the tavern | 2.00% | ~4,532 |
-| The demons' feast | 2.00% | ~4,532 |
-| DM intervention | 2.00% | ~4,532 |
-| Oh, when I'll be level 10... | 2.00% | ~4,532 |
-| Fireproof Wizardess | 2.00% | ~4,532 |
+| Livin' in a dwarven paradise | 2.00% | ~4,533 |
+| Way of the Wimp | 2.00% | ~4,533 |
+| The plot thickens... At the tavern | 2.00% | ~4,533 |
+| The demons' feast | 2.00% | ~4,533 |
+| DM intervention | 2.00% | ~4,533 |
+| Oh, when I'll be level 10... | 2.00% | ~4,533 |
+| Fireproof Wizardess | 2.00% | ~4,533 |
 | Shiny and Crôm | 1.00% | ~2,266 |
 | The Great Library | 1.00% | ~2,266 |
 | Torture and Sensibility | 1.00% | ~2,266 |
@@ -47,9 +47,9 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.60% | ~1,360 |
 | We come in peace | 0.50% | ~1,133 |
 | Lëgal Legend | 0.50% | ~1,133 |
-| Holistic Adventuring Party | 0.40% | ~906 |
-| An old poacher makes the best gamekeeper | 0.40% | ~906 |
-| Law and Order | 0.40% | ~906 |
+| Holistic Adventuring Party | 0.40% | ~907 |
+| An old poacher makes the best gamekeeper | 0.40% | ~907 |
+| Law and Order | 0.40% | ~907 |
 | Scholar of the Lands of Fangh | 0.30% | ~680 |
 | It's been a hard day's night | 0.30% | ~680 |
 | Friendly fire | 0.20% | ~453 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,621 (Ranked 58)  
+Progressed: 226,630 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 3 (0.00%) (Ranked 292)
 | 2023-09-22 | 225,994 | 3 |
 | 2023-09-23 | 226,270 | 3 |
 | 2023-09-24 | 226,557 | 3 |
-| 2023-09-25 | 226,621 | 3 |
+| 2023-09-25 | 226,630 | 3 |
 ## Awards
 Max (Character Customization): 198  (Ranked 277)  
 Sum: 383 (Ranked 328)  

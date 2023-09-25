@@ -4,8 +4,8 @@
   "ProductSlug": "primal-survivors-0724bb",
   "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -25,9 +25,91 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-25T12:04:27.5773529+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BONE_CRUSHER",
+      "SetID": "88fk5pa",
+      "Name": "Bone Crusher",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BONFIRE",
+      "SetID": "88fk5pa",
+      "Name": "Bonfire",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CLASSIC",
+      "SetID": "88fk5pa",
+      "Name": "Classic",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_KONGOR",
+      "SetID": "88fk5pa",
+      "Name": "Primal Survivor",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LAST_AIRBENDER",
+      "SetID": "88fk5pa",
+      "Name": "Last Airbender",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LONG_HUNTING",
+      "SetID": "88fk5pa",
+      "Name": "Long Hunting",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RHLLOR_PRIEST",
+      "SetID": "88fk5pa",
+      "Name": "R\u0027hllor Priest",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHAMAN",
+      "SetID": "88fk5pa",
+      "Name": "Shaman",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VIKING_OFFSPRING",
+      "SetID": "88fk5pa",
+      "Name": "Viking Offspring",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WARLOCK",
+      "SetID": "88fk5pa",
+      "Name": "Warlock",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "88fk5pa",
@@ -37,8 +119,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T03:05:47.7555545+00:00",
-  "LastChanged_Achievements": "2023-09-25T11:04:17.4679824+00:00",
+  "LastChanged_Achievements": "2023-09-25T12:04:27.5773513+00:00",
   "LastUpdate_AppInfo": "2023-09-22T11:57:04.9520883+00:00",
-  "LastUpdate_Ratings": "2023-09-25T10:59:53.5860891+00:00",
-  "LastUpdate_Achievements": "2023-09-25T11:04:17.4679861+00:00"
+  "LastUpdate_Ratings": "2023-09-25T12:00:19.4784509+00:00",
+  "LastUpdate_Achievements": "2023-09-25T12:04:27.5810214+00:00"
 }

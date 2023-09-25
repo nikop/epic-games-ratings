@@ -6,23 +6,23 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,557 |
-| That's a Grand Army | 3.00% | ~12,418 |
-| That is mine! | 3.00% | ~12,418 |
-| Victorious! | 3.00% | ~12,418 |
+| Until death do us apart | 4.00% | ~16,559 |
+| That's a Grand Army | 3.00% | ~12,419 |
+| That is mine! | 3.00% | ~12,419 |
+| Victorious! | 3.00% | ~12,419 |
 | Brothers in Arms | 2.00% | ~8,279 |
 | For the Glory | 2.00% | ~8,279 |
 | That's a Grand Navy | 2.00% | ~8,279 |
 | Seriously?! | 2.00% | ~8,279 |
-| Cold War | 1.00% | ~4,139 |
-| Defender of the Faith | 1.00% | ~4,139 |
-| It's all about the money | 1.00% | ~4,139 |
-| The Princess is in this Castle | 1.00% | ~4,139 |
-| True Catholic | 1.00% | ~4,139 |
-| It's all about luck | 0.90% | ~3,725 |
-| Respected | 0.90% | ~3,725 |
-| Truly Divine Ruler | 0.90% | ~3,725 |
-| Blockader | 0.80% | ~3,311 |
+| Cold War | 1.00% | ~4,140 |
+| Defender of the Faith | 1.00% | ~4,140 |
+| It's all about the money | 1.00% | ~4,140 |
+| The Princess is in this Castle | 1.00% | ~4,140 |
+| True Catholic | 1.00% | ~4,140 |
+| It's all about luck | 0.90% | ~3,726 |
+| Respected | 0.90% | ~3,726 |
+| Truly Divine Ruler | 0.90% | ~3,726 |
+| Blockader | 0.80% | ~3,312 |
 | Double the Love | 0.70% | ~2,898 |
 | Royal Authority | 0.70% | ~2,898 |
 | Total Control | 0.70% | ~2,898 |
@@ -232,6 +232,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | New, New Deli | 0.10% | ~414 |
 | No Country for Old Tercios | 0.10% | ~414 |
 | No Pirates in my Caribbean | 0.10% | ~414 |
+| No Trail of Tears | 0.10% | ~414 |
 | Nobody wants to die | 0.10% | ~414 |
 | Norwegian Wood | 0.10% | ~414 |
 | Not just Pizza | 0.10% | ~414 |
@@ -356,12 +357,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Discoverer | 0.10% | ~414 |
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~414 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~414 |
-| No Trail of Tears | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413,929 (Ranked 40)  
+Progressed: 413,971 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1 (0.00%) (Ranked 292)
 | 2023-09-22 | 411,228 | 0 |
 | 2023-09-23 | 412,558 | 0 |
 | 2023-09-24 | 413,698 | 1 |
-| 2023-09-25 | 413,929 | 1 |
+| 2023-09-25 | 413,971 | 1 |
 ## Awards
 Max (Educational): 6,250  (Ranked 56)  
 Sum: 51,356 (Ranked 24)  

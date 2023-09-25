@@ -39,8 +39,10 @@
 | Collateral Damage II | 8.00% | ~5 |
 | Bronze Foundation | 6.00% | ~4 |
 | System Ensign | 6.00% | ~4 |
+| Bronze Pest Control | 6.00% | ~4 |
 | Rambo III | 6.00% | ~4 |
 | Rambo IV | 6.00% | ~4 |
+| Curious | 6.00% | ~4 |
 | Diligent | 6.00% | ~4 |
 | Omicron Beta | 6.00% | ~4 |
 | No Peace | 6.00% | ~4 |
@@ -50,22 +52,21 @@
 | Usurper II | 6.00% | ~4 |
 | 50Gb HDD | 6.00% | ~4 |
 | Fighting Fit II | 6.00% | ~4 |
-| Bronze Pest Control | 5.00% | ~3 |
-| Curious | 5.00% | ~3 |
 | Pilgrim | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
 | Silver Foundation | 5.00% | ~3 |
 | System Captain | 5.00% | ~3 |
 | Silver Pest Control | 5.00% | ~3 |
 | Mysterious Skin | 5.00% | ~3 |
+| Beetle | 5.00% | ~3 |
 | Anger Management | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Golden Foundation | 3.00% | ~2 |
+| Sectoral Admiral | 3.00% | ~2 |
 | Golden Pest Control | 3.00% | ~2 |
 | 80Gb HDD | 3.00% | ~2 |
 | Galactic Captain | 3.00% | ~2 |
-| Beetle | 3.00% | ~2 |
 | Almost There II | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Tovarish | 2.00% | ~1 |
@@ -76,7 +77,6 @@
 | Space Magellan | 2.00% | ~1 |
 | Golden Alchemist | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
-| Sectoral Admiral | 2.00% | ~1 |
 | Golden BBQ | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Usurper III | 2.00% | ~1 |

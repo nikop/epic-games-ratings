@@ -7,11 +7,11 @@ Number of Ratings: 43  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~30,986 |
-| Just The Two of Us | 32.00% | ~29,163 |
+| Just The Two of Us | 32.00% | ~29,164 |
 | Up On High | 25.00% | ~22,784 |
 | Under The Hood | 25.00% | ~22,784 |
-| Got Your Nose | 24.00% | ~21,872 |
-| The Gift of Gab | 24.00% | ~21,872 |
+| Got Your Nose | 24.00% | ~21,873 |
+| The Gift of Gab | 24.00% | ~21,873 |
 | Wrapping Up | 22.00% | ~20,050 |
 | More Than A Box Of Sand | 18.00% | ~16,404 |
 | The Dunboyne | 17.00% | ~15,493 |
@@ -45,11 +45,11 @@ Number of Ratings: 43  (23.09.2022)
 | Fragile Goods | 8.00% | ~7,291 |
 | Glider on the Storm | 8.00% | ~7,291 |
 | Squeeze One Out | 8.00% | ~7,291 |
-| Amateur Historian | 7.00% | ~6,379 |
-| The Beetle Mask | 7.00% | ~6,379 |
-| The Guard Mask | 7.00% | ~6,379 |
-| Smoked Out | 7.00% | ~6,379 |
-| A Hard Place | 7.00% | ~6,379 |
+| Amateur Historian | 7.00% | ~6,380 |
+| The Beetle Mask | 7.00% | ~6,380 |
+| The Guard Mask | 7.00% | ~6,380 |
+| Smoked Out | 7.00% | ~6,380 |
+| A Hard Place | 7.00% | ~6,380 |
 | The Climber Mask | 6.00% | ~5,468 |
 | The Merchant Mask | 6.00% | ~5,468 |
 | Honorary Chum | 6.00% | ~5,468 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,734 |
 | Vivacious Vivarium | 2.00% | ~1,823 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,135 (Ranked 77)  
+Progressed: 91,136 (Ranked 77)  
 Completed: 919 (1.01%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 919 (1.01%) (Ranked 128)
 | 2023-09-22 | 90,670 | 914 |
 | 2023-09-23 | 90,876 | 917 |
 | 2023-09-24 | 91,079 | 918 |
-| 2023-09-25 | 91,135 | 919 |
+| 2023-09-25 | 91,136 | 919 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
 Sum: 87 (Ranked 428)  

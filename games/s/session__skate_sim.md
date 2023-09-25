@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,762 |
+| You're free now! | 60.00% | ~1,763 |
 | Keeping it classy | 27.00% | ~793 |
 | Welcome to the family | 21.00% | ~617 |
 | The finer things in life | 19.00% | ~558 |
@@ -35,13 +35,13 @@ Number of Ratings: 111  (23.09.2022)
 | Laid back | 5.00% | ~147 |
 | Lines for days | 5.00% | ~147 |
 | Trick shot marksman | 5.00% | ~147 |
-| Cops called! | 4.00% | ~117 |
-| G.O.A.T. status | 4.00% | ~117 |
-| Manny Destroys All | 4.00% | ~117 |
-| Prince of Philly | 4.00% | ~117 |
-| Renaissance man | 4.00% | ~117 |
-| Tank commander | 4.00% | ~117 |
-| We get it, you're good | 4.00% | ~117 |
+| Cops called! | 4.00% | ~118 |
+| G.O.A.T. status | 4.00% | ~118 |
+| Manny Destroys All | 4.00% | ~118 |
+| Prince of Philly | 4.00% | ~118 |
+| Renaissance man | 4.00% | ~118 |
+| Tank commander | 4.00% | ~118 |
+| We get it, you're good | 4.00% | ~118 |
 | Hoarder | 3.00% | ~88 |
 | Pew-Pew | 3.00% | ~88 |
 | Cross lock country | 2.00% | ~59 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,937 (Ranked 185)  
+Progressed: 2,938 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 292)
 | 2023-09-22 | 2,904 | 0 |
 | 2023-09-23 | 2,922 | 0 |
 | 2023-09-24 | 2,934 | 0 |
-| 2023-09-25 | 2,937 | 0 |
+| 2023-09-25 | 2,938 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 398)  
 Sum: 472 (Ranked 311)  

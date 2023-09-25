@@ -15,9 +15,9 @@
 | True G4M3R | 35.00% | ~74 |
 | One last step | 33.00% | ~69 |
 | Cable guy | 31.00% | ~65 |
+| Peace walker | 30.00% | ~63 |
 | Half the way | 30.00% | ~63 |
 | Champollion | 30.00% | ~63 |
-| Peace walker | 29.00% | ~61 |
 | In this together | 28.00% | ~59 |
 | Open door | 25.00% | ~52 |
 | Feels like springtime | 25.00% | ~52 |

@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 684)
 | Experienced | 31.00% | ~454 |
 | Hold The Line | 31.00% | ~454 |
 | Endgame | 27.00% | ~396 |
-| Savior | 26.00% | ~381 |
+| Savior | 27.00% | ~396 |
 | There Can Be Only One! | 25.00% | ~366 |
 | Chain Killer | 22.00% | ~323 |
 | Silent but Violent | 22.00% | ~323 |

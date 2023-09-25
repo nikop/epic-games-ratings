@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~146 |
-| Off to a good start | 70.00% | ~113 |
-| Do... or do not. There is no try | 49.00% | ~79 |
-| A good blaster at your side | 35.00% | ~57 |
+| New Recruit | 90.00% | ~147 |
+| Off to a good start | 70.00% | ~114 |
+| Do... or do not. There is no try | 49.00% | ~80 |
+| A good blaster at your side | 36.00% | ~59 |
+| Scrap collector | 26.00% | ~42 |
 | Great shot, kid! | 26.00% | ~42 |
-| Scrap collector | 25.00% | ~40 |
 | The power of the Force | 23.00% | ~37 |
-| Collector | 22.00% | ~36 |
+| Collector | 21.00% | ~34 |
 | I suggest a new strategy | 21.00% | ~34 |
 | Shoot first | 21.00% | ~34 |
 | All right, I'll give it a try | 18.00% | ~29 |
@@ -19,13 +19,13 @@
 | Together we can rule the galaxy | 17.00% | ~28 |
 | A cunning warrior | 16.00% | ~26 |
 | What's the cargo? | 15.00% | ~24 |
-| A tremor in the Force | 14.00% | ~23 |
 | Never tell me the odds! | 14.00% | ~23 |
 | Survivor | 14.00% | ~23 |
 | Judge me by my size, do you? | 14.00% | ~23 |
+| A tremor in the Force | 13.00% | ~21 |
 | Best star-pilot in the galaxy | 13.00% | ~21 |
 | Impressive. Most impressive. | 13.00% | ~21 |
-| "Gonk? Gonk!" | 12.00% | ~19 |
+| "Gonk? Gonk!" | 12.00% | ~20 |
 | Distinguished | 11.00% | ~18 |
 | Patience you must have | 11.00% | ~18 |
 | Support the troops | 11.00% | ~18 |
@@ -46,13 +46,13 @@
 | On the ball | 6.00% | ~10 |
 | The circle is now complete | 6.00% | ~10 |
 | Your journey has only started | 5.00% | ~8 |
-| Hold the line! | 4.00% | ~6 |
-| Safety ain't the point of a joyride | 4.00% | ~6 |
-| No such thing as luck | 4.00% | ~6 |
-| Do we take prisoners? | 4.00% | ~6 |
-| You have your moments | 4.00% | ~6 |
-| When surrounded by war... | 4.00% | ~6 |
-| Onwards! | 4.00% | ~6 |
+| Hold the line! | 4.00% | ~7 |
+| Safety ain't the point of a joyride | 4.00% | ~7 |
+| No such thing as luck | 4.00% | ~7 |
+| Do we take prisoners? | 4.00% | ~7 |
+| You have your moments | 4.00% | ~7 |
+| When surrounded by war... | 4.00% | ~7 |
+| Onwards! | 4.00% | ~7 |
 | A New Hope | 3.00% | ~5 |
 | Ackbar's Elite | 3.00% | ~5 |
 | I’ll take that bet | 3.00% | ~5 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.60% | ~1 |
 | Crush them with one swift stroke… | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 347)  
-Completed: 1 (0.62%) (Ranked 147)  
+Progressed: 163 (Ranked 347)  
+Completed: 1 (0.61%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 1 (0.62%) (Ranked 147)
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
-| 2023-09-25 | 162 | 1 |
+| 2023-09-25 | 163 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

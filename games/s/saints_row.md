@@ -6,35 +6,35 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~33,377 |
-| To The Nines | 42.00% | ~30,474 |
-| Optimized | 36.00% | ~26,121 |
-| Performance Review | 36.00% | ~26,121 |
-| Making a Name | 34.00% | ~24,670 |
-| Tune Up | 33.00% | ~23,944 |
-| Landlord | 32.00% | ~23,219 |
-| The Side Job | 31.00% | ~22,493 |
-| Wet Work | 31.00% | ~22,493 |
-| Wrecking Ball | 27.00% | ~19,591 |
-| Food for Thought | 27.00% | ~19,591 |
-| Finders Keepers | 25.00% | ~18,140 |
-| A Young Empire | 25.00% | ~18,140 |
-| Work Ethic | 23.00% | ~16,688 |
-| Power Players | 19.00% | ~13,786 |
-| Picking Fights | 19.00% | ~13,786 |
-| Quality Time | 18.00% | ~13,060 |
-| Showdown | 16.00% | ~11,609 |
-| Et tu? | 16.00% | ~11,609 |
-| Took It to The Limit | 16.00% | ~11,609 |
-| Kitted Out | 14.00% | ~10,158 |
-| Masters of Santo Ileso | 12.00% | ~8,707 |
-| Hijacked | 11.00% | ~7,981 |
+| First F#@!ing Day | 46.00% | ~33,380 |
+| To The Nines | 42.00% | ~30,477 |
+| Optimized | 36.00% | ~26,123 |
+| Performance Review | 36.00% | ~26,123 |
+| Making a Name | 34.00% | ~24,672 |
+| Tune Up | 33.00% | ~23,946 |
+| Landlord | 32.00% | ~23,221 |
+| The Side Job | 31.00% | ~22,495 |
+| Wet Work | 31.00% | ~22,495 |
+| Wrecking Ball | 27.00% | ~19,593 |
+| Food for Thought | 27.00% | ~19,593 |
+| Finders Keepers | 25.00% | ~18,141 |
+| A Young Empire | 25.00% | ~18,141 |
+| Work Ethic | 23.00% | ~16,690 |
+| Power Players | 19.00% | ~13,787 |
+| Picking Fights | 19.00% | ~13,787 |
+| Quality Time | 18.00% | ~13,062 |
+| Showdown | 16.00% | ~11,610 |
+| Et tu? | 16.00% | ~11,610 |
+| Took It to The Limit | 16.00% | ~11,610 |
+| Kitted Out | 14.00% | ~10,159 |
+| Masters of Santo Ileso | 12.00% | ~8,708 |
+| Hijacked | 11.00% | ~7,982 |
 | The Spins | 10.00% | ~7,256 |
 | The Mechanic | 10.00% | ~7,256 |
-| We could go home, or… | 7.00% | ~5,079 |
-| Challenge Accepted | 7.00% | ~5,079 |
-| A Golden Age | 7.00% | ~5,079 |
-| Closet Space | 7.00% | ~5,079 |
+| We could go home, or… | 7.00% | ~5,080 |
+| Challenge Accepted | 7.00% | ~5,080 |
+| A Golden Age | 7.00% | ~5,080 |
+| Closet Space | 7.00% | ~5,080 |
 | Producer Credit | 7.00% | ~3,094 |
 | Face Off | 6.00% | ~2,652 |
 | The Professional | 5.00% | ~3,628 |
@@ -43,9 +43,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Free Refills | 5.00% | ~3,628 |
 | Smooth Moves | 5.00% | ~3,628 |
 | Hazardous Heist | 5.00% | ~2,210 |
-| Neighborly | 4.00% | ~2,902 |
-| Prankster | 4.00% | ~2,902 |
-| Tourist | 4.00% | ~2,902 |
+| Neighborly | 4.00% | ~2,903 |
+| Prankster | 4.00% | ~2,903 |
+| Tourist | 4.00% | ~2,903 |
 | Shopping Spree | 3.00% | ~2,177 |
 | Always Be Hustling | 3.00% | ~2,177 |
 | Community Outreach | 3.00% | ~2,177 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~145 |
 | Fiesta Time | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,558 (Ranked 85)  
+Progressed: 72,565 (Ranked 85)  
 Completed: 49 (0.07%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 49 (0.07%) (Ranked 243)
 | 2023-09-22 | 72,126 | 48 |
 | 2023-09-23 | 72,319 | 49 |
 | 2023-09-24 | 72,496 | 49 |
-| 2023-09-25 | 72,558 | 49 |
+| 2023-09-25 | 72,565 | 49 |
 ## Awards
 Max (Extremely Fun): 1,067  (Ranked 141)  
-Sum: 8,653 (Ranked 97)  
+Sum: 8,654 (Ranked 97)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Diff (max vs sum): 44
 | This game is Great for Beginners | 1,003 |
 | This game is Highly Recommended | 1,002 |
 | This game has Diverse Characters | 997 |
-| This game has Amazing Characters | 987 |
+| This game has Amazing Characters | 988 |
 | This game is Relaxing | 982 |
 | This game has Amazing Storytelling | 972 |
 | This game has Playful Visuals | 777 |
@@ -421,3 +421,4 @@ Diff (max vs sum): 44
 | 2023-09-20 | 3.79 | - | 1,067 | 8,645 |
 | 2023-09-23 | 3.79 | - | 1,067 | 8,647 |
 | 2023-09-24 | 3.79 | - | 1,067 | 8,653 |
+| 2023-09-25 | 3.79 | - | 1,067 | 8,654 |

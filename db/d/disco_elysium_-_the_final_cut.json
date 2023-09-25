@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1227,18 +1227,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1090,
       "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2023-09-25T11:58:03.9445916+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1091,
+      "NumberOfAwardsMax": 725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1090,
-  "NumberOfAwardsMax": 724,
+  "NumberOfAwards": 1091,
+  "NumberOfAwardsMax": 725,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 724
+      "Count": 725
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1313,9 +1319,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 128763,
+  "EOS_Progressed": 128766,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17128,6 +17134,11 @@
       "Time": "2023-09-25T11:04:16.2773236+00:00",
       "NumProgressed": 128763,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-25T12:04:26.2224472+00:00",
+      "NumProgressed": 128766,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17171,7 +17182,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23177
+      "UsersEstimate": 23178
     },
     {
       "ID": "ACH_COP_BAD",
@@ -17195,7 +17206,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30903
+      "UsersEstimate": 30904
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -17243,7 +17254,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20602
+      "UsersEstimate": 20603
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -17267,7 +17278,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16739
+      "UsersEstimate": 16740
     },
     {
       "ID": "ACH_COP_STAR",
@@ -17275,7 +17286,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20602
+      "UsersEstimate": 20603
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -17458,15 +17469,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 128763,
+      "Progressed": 128766,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-09-22T00:00:36.6014482+00:00",
-  "LastChanged_Achievements": "2023-09-25T11:04:16.2773229+00:00",
+  "LastChanged": "2023-09-25T11:58:03.9445914+00:00",
+  "LastChanged_Achievements": "2023-09-25T12:04:26.2224466+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.5946316+00:00",
-  "LastUpdate_Ratings": "2023-09-25T10:58:04.5595228+00:00",
-  "LastUpdate_Achievements": "2023-09-25T11:04:16.2774325+00:00"
+  "LastUpdate_Ratings": "2023-09-25T11:58:03.9445918+00:00",
+  "LastUpdate_Achievements": "2023-09-25T12:04:26.2225453+00:00"
 }

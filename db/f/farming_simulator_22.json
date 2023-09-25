@@ -4,11 +4,11 @@
   "ProductSlug": "farming-simulator-22",
   "Ranking_Rating": 221,
   "Ranking_Popularity": 69,
-  "Ranking_PopularitySum": 33,
+  "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9325,10 +9325,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 40545,
       "NumberOfAwardsMax": 5031
+    },
+    {
+      "Time": "2023-09-25T11:58:02.3191111+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 40553,
+      "NumberOfAwardsMax": 5031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40545,
+  "NumberOfAwards": 40553,
   "NumberOfAwardsMax": 5031,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9366,7 +9372,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3901
+      "Count": 3909
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9407,7 +9413,7 @@
   ],
   "EOS_Progressed": 49048,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23885,9 +23891,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-09-25T07:57:46.0537534+00:00",
-  "LastChanged_Achievements": "2023-09-25T11:05:54.4967047+00:00",
+  "LastChanged": "2023-09-25T11:58:02.319111+00:00",
+  "LastChanged_Achievements": "2023-09-25T12:06:21.1678512+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:05.7383674+00:00",
-  "LastUpdate_Ratings": "2023-09-25T10:58:03.2738473+00:00",
-  "LastUpdate_Achievements": "2023-09-25T11:05:54.4968209+00:00"
+  "LastUpdate_Ratings": "2023-09-25T11:58:02.3191114+00:00",
+  "LastUpdate_Achievements": "2023-09-25T12:06:21.1679425+00:00"
 }

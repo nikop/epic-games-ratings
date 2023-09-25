@@ -6,22 +6,22 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 78.00% | ~1,140 |
-| Lovebirds | 49.00% | ~716 |
-| Hug therapy | 44.00% | ~643 |
-| Life’s short, ride long | 44.00% | ~643 |
+| Balding bloot! | 78.00% | ~1,141 |
+| Lovebirds | 49.00% | ~717 |
+| Hug therapy | 44.00% | ~644 |
+| Life’s short, ride long | 44.00% | ~644 |
 | Over my dead body | 40.00% | ~585 |
 | Shake the rust off their feet | 21.00% | ~307 |
-| My little pony | 20.00% | ~292 |
+| My little pony | 20.00% | ~293 |
 | Strike! | 19.00% | ~278 |
 | A love supreme | 18.00% | ~263 |
 | In my shoes | 17.00% | ~249 |
 | Like new! | 14.00% | ~205 |
 | Heartstrings | 14.00% | ~205 |
 | Head in the clouds | 13.00% | ~190 |
-| Back to rust | 12.00% | ~175 |
-| Flower Powered | 12.00% | ~175 |
-| Don't look back | 12.00% | ~175 |
+| Back to rust | 12.00% | ~176 |
+| Flower Powered | 12.00% | ~176 |
+| Don't look back | 12.00% | ~176 |
 | Perfect timing | 9.00% | ~132 |
 | Unstoppable | 9.00% | ~132 |
 | Ain't no mountain high enough | 9.00% | ~132 |
@@ -29,15 +29,15 @@ Number of Ratings: 38  (23.09.2022)
 | An eye for an eye | 6.00% | ~88 |
 | Can't get wetter... | 5.00% | ~73 |
 | Spring cleaning | 5.00% | ~73 |
-| Second thoughts | 4.00% | ~58 |
-| Mooning the moon | 4.00% | ~58 |
-| Strip-a-bobble | 4.00% | ~58 |
+| Second thoughts | 4.00% | ~59 |
+| Mooning the moon | 4.00% | ~59 |
+| Strip-a-bobble | 4.00% | ~59 |
 | Pearls before Birble | 3.00% | ~44 |
 | Last minute | 3.00% | ~44 |
 | Thar she blows | 2.00% | ~29 |
 | À la carte | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,462 (Ranked 212)  
+Progressed: 1,463 (Ranked 211)  
 Completed: 9 (0.62%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 9 (0.62%) (Ranked 147)
 | 2023-09-22 | 1,453 | 9 |
 | 2023-09-23 | 1,460 | 9 |
 | 2023-09-24 | 1,462 | 9 |
+| 2023-09-25 | 1,463 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

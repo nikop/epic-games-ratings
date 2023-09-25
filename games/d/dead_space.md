@@ -16,11 +16,11 @@ Rating: 4.61 (Ranked 371)
 | True Believer | 50.00% | ~198 |
 | Story Teller | 49.00% | ~195 |
 | Surgeon | 45.00% | ~179 |
+| Greenhouse Effect | 44.00% | ~175 |
 | Exterminator | 43.00% | ~171 |
-| Greenhouse Effect | 43.00% | ~171 |
 | Freeze | 42.00% | ~167 |
 | Full Arsenal | 40.00% | ~159 |
-| Live with the Hot Ones | 35.00% | ~139 |
+| Live with the Hot Ones | 36.00% | ~143 |
 | S.O.S. | 35.00% | ~139 |
 | Get Off My Ship! | 34.00% | ~135 |
 | Strange Transmissions | 34.00% | ~135 |
@@ -37,11 +37,11 @@ Rating: 4.61 (Ranked 371)
 | Set A Benchmark | 20.00% | ~79 |
 | Full Contact | 20.00% | ~79 |
 | Final Regeneration | 18.00% | ~71 |
-| Pusher | 17.00% | ~67 |
+| Pusher | 18.00% | ~71 |
 | Pack Rat | 17.00% | ~67 |
 | Z-Baller | 17.00% | ~67 |
 | Full Clearance | 17.00% | ~67 |
-| Eviscerator | 14.00% | ~56 |
+| Eviscerator | 15.00% | ~60 |
 | Marked | 14.00% | ~56 |
 | Backbreaker | 11.00% | ~44 |
 | Wishbone | 6.00% | ~24 |

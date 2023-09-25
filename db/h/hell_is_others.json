@@ -4,11 +4,11 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 684,
   "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 360,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -938,10 +938,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-09-25T11:59:20.3104586+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261,
+  "NumberOfAwards": 262,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -985,7 +991,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Competitive Players",
@@ -1000,7 +1006,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256626,
+  "EOS_Progressed": 256627,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
@@ -16880,6 +16886,11 @@
       "Time": "2023-09-25T11:06:29.1613131+00:00",
       "NumProgressed": 256626,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T12:07:02.3819583+00:00",
+      "NumProgressed": 256627,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17338,16 +17349,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256626,
+      "Progressed": 256627,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-09-25T02:59:15.536515+00:00",
-  "LastChanged_Achievements": "2023-09-25T11:06:29.1613125+00:00",
+  "LastChanged": "2023-09-25T11:59:20.3104585+00:00",
+  "LastChanged_Achievements": "2023-09-25T12:07:02.3819578+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:10.9543216+00:00",
-  "LastUpdate_Ratings": "2023-09-25T10:59:06.6819471+00:00",
-  "LastUpdate_Achievements": "2023-09-25T11:06:29.1614554+00:00"
+  "LastUpdate_Ratings": "2023-09-25T11:59:20.3104589+00:00",
+  "LastUpdate_Achievements": "2023-09-25T12:07:02.3820698+00:00"
 }

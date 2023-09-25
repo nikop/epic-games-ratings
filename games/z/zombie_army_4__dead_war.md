@@ -6,36 +6,36 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,029 |
-| Say goodbye, creep! | 66.00% | ~28,724 |
-| Blood splattered | 65.00% | ~28,289 |
-| Choo choo! | 62.00% | ~26,983 |
-| Groovy | 61.00% | ~26,548 |
-| Cleanup on aisle 4! | 57.00% | ~24,807 |
-| Gold | 50.00% | ~21,760 |
-| The boat can leave now...tell the crew | 49.00% | ~21,325 |
-| Stand back boy! | 47.00% | ~20,455 |
-| Give me something to shoot! | 46.00% | ~20,020 |
-| Chain reaction | 45.00% | ~19,584 |
-| Weird science | 44.00% | ~19,149 |
-| What did you say, Blain? | 42.00% | ~18,279 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,031 |
+| Say goodbye, creep! | 66.00% | ~28,725 |
+| Blood splattered | 65.00% | ~28,290 |
+| Choo choo! | 62.00% | ~26,984 |
+| Groovy | 61.00% | ~26,549 |
+| Cleanup on aisle 4! | 57.00% | ~24,808 |
+| Gold | 50.00% | ~21,762 |
+| The boat can leave now...tell the crew | 49.00% | ~21,326 |
+| Stand back boy! | 47.00% | ~20,456 |
+| Give me something to shoot! | 46.00% | ~20,021 |
+| Chain reaction | 45.00% | ~19,585 |
+| Weird science | 44.00% | ~19,150 |
+| What did you say, Blain? | 42.00% | ~18,280 |
 | Look mummy! A shark! | 41.00% | ~17,844 |
-| In the dark dark woods... | 39.00% | ~16,973 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,538 |
-| Double tap | 37.00% | ~16,103 |
+| In the dark dark woods... | 39.00% | ~16,974 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,539 |
+| Double tap | 37.00% | ~16,104 |
 | All of this has happened before… | 36.00% | ~15,668 |
 | Cranial blowout! | 36.00% | ~15,668 |
 | Zombie killin' machine | 36.00% | ~15,668 |
 | Every bullet counts | 36.00% | ~15,668 |
-| All roads lead to Rome | 34.00% | ~14,797 |
-| You've got red on you | 34.00% | ~14,797 |
+| All roads lead to Rome | 34.00% | ~14,798 |
+| You've got red on you | 34.00% | ~14,798 |
 | You're all going to die down here | 32.00% | ~13,927 |
 | He did Nazi that coming | 32.00% | ~13,927 |
 | Kill of the week | 31.00% | ~13,492 |
-| I never liked them anyway | 30.00% | ~13,056 |
+| I never liked them anyway | 30.00% | ~13,057 |
 | Is it over? | 28.00% | ~12,186 |
 | Got your back | 27.00% | ~11,751 |
-| Gore soaked | 24.00% | ~10,445 |
+| Gore soaked | 24.00% | ~10,446 |
 | Shock therapy | 23.00% | ~10,010 |
 | Leave the limbs you've lost | 23.00% | ~10,010 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,269 |
@@ -50,12 +50,12 @@ Number of Ratings: 743  (23.09.2022)
 | Plane sailing | 8.00% | ~3,482 |
 | I can do anything I want. I got guns | 8.00% | ~3,482 |
 | Send me an angel | 8.00% | ~3,482 |
-| This is no Sunday School picnic! | 7.00% | ~3,046 |
-| I never redoubted you! | 7.00% | ~3,046 |
-| Not today you won't | 7.00% | ~3,046 |
-| Gotcha, didn't I? | 7.00% | ~3,046 |
-| A gross gross | 7.00% | ~3,046 |
-| Hail to the king, baby! | 7.00% | ~3,046 |
+| This is no Sunday School picnic! | 7.00% | ~3,047 |
+| I never redoubted you! | 7.00% | ~3,047 |
+| Not today you won't | 7.00% | ~3,047 |
+| Gotcha, didn't I? | 7.00% | ~3,047 |
+| A gross gross | 7.00% | ~3,047 |
+| Hail to the king, baby! | 7.00% | ~3,047 |
 | Something wicked this way comes | 6.00% | ~2,611 |
 | Take a little bit of Italy with you | 6.00% | ~2,611 |
 | Staring at Shadows | 6.00% | ~2,611 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~435 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,521 (Ranked 98)  
+Progressed: 43,523 (Ranked 98)  
 Completed: 25 (0.06%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 25 (0.06%) (Ranked 248)
 | 2023-09-22 | 43,511 | 25 |
 | 2023-09-23 | 43,518 | 25 |
 | 2023-09-24 | 43,521 | 25 |
+| 2023-09-25 | 43,523 | 25 |
 ## Awards
 Max (Great Boss Battles): 827  (Ranked 156)  
 Sum: 2,501 (Ranked 179)  
