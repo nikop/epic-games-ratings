@@ -87,7 +87,7 @@
 | 85 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,453 | 54 |
 | 85 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 525 |
 | 85 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 59 | 395 |
-| 85 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,472 | 102 |
+| 85 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,473 | 102 |
 | 85 | [Sailing Era](games/s/sailing_era.md) | 4.80 | 0 | 525 |
 | 85 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 340 |
 | 85 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 525 |
@@ -130,7 +130,7 @@
 | 119 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 525 |
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 525 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,718 | 118 |
-| 119 | [Quake](games/q/quake.md) | 4.76 | 49 | 411 |
+| 119 | [Quake](games/q/quake.md) | 4.76 | 49 | 412 |
 | 119 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,712 | 119 |
 | 119 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 525 |
 | 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,824 | 36 |
@@ -769,32 +769,32 @@
 | 762 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 525 |
 | 762 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 525 |
 | 762 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 525 |
-| 762 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 49 | 411 |
+| 762 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 50 | 408 |
 | 771 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 479 |
-| 771 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 121 | 323 |
 | 771 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 525 |
 | 771 | [Encased](games/e/encased.md) | 4.34 | 145 | 306 |
 | 771 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 257 | 255 |
 | 771 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 525 |
 | 771 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 0 | 525 |
-| 778 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 525 |
-| 778 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 525 |
-| 778 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 525 |
-| 778 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 525 |
-| 778 | [Paladins](games/p/paladins.md) | 4.33 | 3,666 | 86 |
-| 778 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 525 |
-| 778 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 2,341 | 104 |
-| 778 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 525 |
-| 778 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 506 |
-| 778 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 525 |
+| 777 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 525 |
+| 777 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 121 | 323 |
+| 777 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 525 |
+| 777 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 525 |
+| 777 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 525 |
+| 777 | [Paladins](games/p/paladins.md) | 4.33 | 3,666 | 86 |
+| 777 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 525 |
+| 777 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.33 | 2,341 | 104 |
+| 777 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 525 |
+| 777 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 506 |
+| 777 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 525 |
 | 788 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 362 | 227 |
 | 788 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 61 | 393 |
 | 788 | [Filament](games/f/filament.md) | 4.32 | 562 | 194 |
 | 788 | [House Party](games/h/house_party.md) | 4.32 | 0 | 525 |
 | 788 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 525 |
-| 788 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,444 | 66 |
+| 788 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,448 | 66 |
 | 788 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 469 |
-| 788 | [Vampyr](games/v/vampyr.md) | 4.32 | 559 | 195 |
+| 788 | [Vampyr](games/v/vampyr.md) | 4.32 | 561 | 195 |
 | 788 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 525 |
 | 788 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 525 |
 | 798 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 525 |
@@ -949,10 +949,10 @@
 | 947 | [Lake](games/l/lake.md) | 4.03 | 0 | 525 |
 | 947 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 525 |
 | 949 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.02 | 22 | 506 |
-| 950 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.00 | 0 | 525 |
-| 950 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.00 | 0 | 525 |
-| 950 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 525 |
-| 950 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 525 |
+| 949 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.02 | 0 | 525 |
+| 951 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.00 | 0 | 525 |
+| 951 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 525 |
+| 951 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 525 |
 | 954 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 225 |
 | 954 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.99 | 0 | 525 |
 | 954 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.99 | 0 | 525 |

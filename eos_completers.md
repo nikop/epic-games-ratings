@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.90% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.87% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -10,8 +10,8 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.58% |
-| 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.53% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.48% |
+| 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.39% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
@@ -59,13 +59,13 @@
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 58 | [ZZT!](games/z/zzt!.md) | 4.41% |
 | 59 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
-| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.07% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
+| 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
+| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.06% |
 | 62 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.00% |
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.90% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
-| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.69% |
+| 65 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.70% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.41% |
@@ -102,9 +102,9 @@
 | 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |
 | 102 | [Night Book](games/n/night_book.md) | 1.86% |
-| 103 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 104 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 105 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.83% |
+| 103 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 104 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.83% |
+| 105 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.82% |
 | 106 | [Sifu](games/s/sifu.md) | 1.80% |
 | 107 | [Frogun](games/f/frogun.md) | 1.79% |
 | 108 | [Somerville](games/s/somerville.md) | 1.71% |
@@ -170,8 +170,8 @@
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 170 | [Tchia](games/t/tchia.md) | 0.44% |
-| 171 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
-| 172 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
+| 171 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
+| 171 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
