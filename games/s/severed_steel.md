@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 221)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~193,143 |
-| 50 HEADSHOTS | 27.00% | ~179,822 |
-| SCIENCE AND INDUSTRY | 26.00% | ~173,162 |
-| FINISHED CHAPTER 1 | 25.00% | ~166,502 |
-| FINISHED CHAPTER 2 | 19.00% | ~126,542 |
-| 200 HEADSHOTS | 16.00% | ~106,561 |
-| FINISHED CHAPTER 3 | 16.00% | ~106,561 |
-| FINISHED CHAPTER 4 | 13.00% | ~86,581 |
-| FINISH CHAPTER 5 | 11.00% | ~73,261 |
-| FINISH CHAPTER 6 | 10.00% | ~66,601 |
-| CATHARTIC ESCAPISM | 10.00% | ~66,601 |
-| 1000 KILLS | 8.00% | ~53,281 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,640 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,320 |
-| FIRST BLOOD | 2.00% | ~13,320 |
+| 100 KILLS | 29.00% | ~193,150 |
+| 50 HEADSHOTS | 27.00% | ~179,830 |
+| SCIENCE AND INDUSTRY | 26.00% | ~173,169 |
+| FINISHED CHAPTER 1 | 25.00% | ~166,509 |
+| FINISHED CHAPTER 2 | 19.00% | ~126,547 |
+| 200 HEADSHOTS | 16.00% | ~106,566 |
+| FINISHED CHAPTER 3 | 16.00% | ~106,566 |
+| FINISHED CHAPTER 4 | 13.00% | ~86,585 |
+| FINISH CHAPTER 5 | 11.00% | ~73,264 |
+| FINISH CHAPTER 6 | 10.00% | ~66,604 |
+| CATHARTIC ESCAPISM | 10.00% | ~66,604 |
+| 1000 KILLS | 8.00% | ~53,283 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,641 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,321 |
+| FIRST BLOOD | 2.00% | ~13,321 |
 | PACEMAKER | 1.00% | ~6,660 |
 | OUT OF ORDER | 0.90% | ~5,994 |
 | TIME PARADOX | 0.90% | ~5,994 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 221)
 | THE GAMBLER | 0.10% | ~666 |
 | WARRIOR IN A GARDEN | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,009 (Ranked 24)  
+Progressed: 666,036 (Ranked 24)  
 Completed: 66 (0.01%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 66 (0.01%) (Ranked 277)
 | 2023-09-22 | 664,507 | 65 |
 | 2023-09-23 | 665,157 | 65 |
 | 2023-09-24 | 665,729 | 66 |
-| 2023-09-25 | 666,009 | 66 |
+| 2023-09-25 | 666,036 | 66 |
 ## Awards
 Max (Great Boss Battles): 305  (Ranked 239)  
 Sum: 305 (Ranked 342)  

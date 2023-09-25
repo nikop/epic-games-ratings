@@ -8,9 +8,9 @@
 | Baby's First Car | 29.00% | ~111 |
 | Pushover | 29.00% | ~111 |
 | A Forest Walk | 29.00% | ~111 |
-| Amateur Mechanic | 28.00% | ~107 |
-| Multiply that! | 27.00% | ~103 |
-| C-C-C-Combo! | 26.00% | ~100 |
+| Amateur Mechanic | 28.00% | ~108 |
+| C-C-C-Combo! | 27.00% | ~104 |
+| Multiply that! | 27.00% | ~104 |
 | Fore! | 24.00% | ~92 |
 | Insurance fraud | 24.00% | ~92 |
 | Snow Fun! | 24.00% | ~92 |
@@ -22,10 +22,10 @@
 | Bag of Tricks | 22.00% | ~84 |
 | I see the light! | 22.00% | ~84 |
 | In the Bag! | 22.00% | ~84 |
-| First Come, First Serve | 21.00% | ~80 |
-| Disoriented | 21.00% | ~80 |
-| Take that Frosty! | 21.00% | ~80 |
-| Beach Party! | 21.00% | ~80 |
+| First Come, First Serve | 21.00% | ~81 |
+| Disoriented | 21.00% | ~81 |
+| Take that Frosty! | 21.00% | ~81 |
+| Beach Party! | 21.00% | ~81 |
 | Car-Tapult | 20.00% | ~77 |
 | Anger Issues | 20.00% | ~77 |
 | Your Highness | 20.00% | ~77 |
@@ -51,16 +51,16 @@
 | A Starting Collector | 4.00% | ~15 |
 | 433 Eros | 4.00% | ~15 |
 | Best Friends! | 4.00% | ~15 |
-| My Precious | 3.00% | ~11 |
-| Apprentice Mechanic | 3.00% | ~11 |
-| One Million Dollars! | 3.00% | ~11 |
+| My Precious | 3.00% | ~12 |
+| Apprentice Mechanic | 3.00% | ~12 |
+| One Million Dollars! | 3.00% | ~12 |
 | Monkey Madness | 2.00% | ~8 |
 | M2H was Here! | 2.00% | ~8 |
 | Ultimate Car Collector | 1.00% | ~4 |
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 286)  
+Progressed: 384 (Ranked 286)  
 Completed: 2 (0.52%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 2 (0.52%) (Ranked 160)
 | 2023-09-12 | 381 | 2 |
 | 2023-09-20 | 382 | 2 |
 | 2023-09-24 | 383 | 2 |
+| 2023-09-25 | 384 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

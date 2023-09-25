@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -4995,9 +4995,9 @@
       "ID": "ACH_ALL_CARDS",
       "SetID": "cdkbb11",
       "Name": "Playing Card To Get",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -5075,9 +5075,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5123,9 +5123,9 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5354,8 +5354,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-22T19:00:44.5707796+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:09:26.989059+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:08:45.0587996+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:33.5378459+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:02:55.9157202+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:09:26.9891521+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:02:12.8290738+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:08:45.0588664+00:00"
 }

@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1441,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2835,6 +2835,11 @@
       "Time": "2023-09-25T15:05:12.3979714+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T19:05:46.0800256+00:00",
+      "NumProgressed": 1441,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2870,7 +2875,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Boy",
@@ -2916,9 +2921,9 @@
       "ID": "Double_barrel",
       "SetID": "85nb4h3",
       "Name": "Lock, Stock",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 101
     },
     {
       "ID": "E1M1",
@@ -3085,15 +3090,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1441,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:06:05.7216337+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:05:46.0800252+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:58:50.8623046+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:06:05.7216808+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:58:49.0541608+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:05:46.0800645+00:00"
 }

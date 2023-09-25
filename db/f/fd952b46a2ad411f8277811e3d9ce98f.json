@@ -2,7 +2,7 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 126,
+  "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_NewCompleters": 111,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15939,
+  "EOS_Progressed": 15966,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11714,
+  "EOS_NewPlayers": 11741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2544,6 +2544,11 @@
       "Time": "2023-09-25T18:07:37.9416085+00:00",
       "NumProgressed": 15939,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T19:07:03.5614806+00:00",
+      "NumProgressed": 15966,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2650,9 +2655,9 @@
       "ID": "kills_1",
       "SetID": "413a09o",
       "Name": "Rookie Rumble",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7504
     },
     {
       "ID": "kills_100",
@@ -2708,7 +2713,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1437
     },
     {
       "ID": "revives_25",
@@ -2803,13 +2808,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 15939,
+      "Progressed": 15966,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:07:37.9416078+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:07:03.5614801+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:58:32.4404534+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:07:37.9416638+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:58:32.6279317+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:07:03.5615177+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.85 (Ranked 42)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 15.00% | ~614 |
 | Start with a bang! | 14.00% | ~573 |
-| Feeling the beat! | 14.00% | ~573 |
 | You can pet the cat! | 13.00% | ~532 |
 | Cream of the Crop | 12.00% | ~491 |
 | Who put gears in there? | 12.00% | ~491 |
@@ -16,18 +16,18 @@ Rating: 4.85 (Ranked 42)
 | Alright, that felt AWESOME! | 10.00% | ~409 |
 | This will cost you big time | 9.00% | ~368 |
 | I play my own way! | 9.00% | ~368 |
+| Z-shielding's got nothing on us! | 9.00% | ~368 |
 | Uh, they were broken when I got here | 9.00% | ~368 |
 | Whoa! There's ANOTHER health bar!? | 8.00% | ~327 |
-| Z-shielding's got nothing on us! | 8.00% | ~327 |
 | Kissing the sky! | 8.00% | ~327 |
 | I look cool. But I can look COOLER. | 8.00% | ~327 |
-| The Negotiator | 7.00% | ~286 |
-| Headliner | 7.00% | ~286 |
-| Time to pay up! | 7.00% | ~286 |
-| Who's the boss now? | 7.00% | ~286 |
-| You must like calling me in, Chai | 7.00% | ~286 |
-| Out in a puff of smoke | 7.00% | ~286 |
-| Does that say weakpoint? | 7.00% | ~286 |
+| The Negotiator | 7.00% | ~287 |
+| Headliner | 7.00% | ~287 |
+| Time to pay up! | 7.00% | ~287 |
+| Who's the boss now? | 7.00% | ~287 |
+| You must like calling me in, Chai | 7.00% | ~287 |
+| Out in a puff of smoke | 7.00% | ~287 |
+| Does that say weakpoint? | 7.00% | ~287 |
 | NOW we got a kickass hideout! | 7.00% | ~183 |
 | I have to read these things? | 6.00% | ~246 |
 | Perfecter Parry-er! | 6.00% | ~246 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,092 (Ranked 170)  
+Progressed: 4,093 (Ranked 170)  
 Completed: 8 (0.20%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 8 (0.20%) (Ranked 209)
 | 2023-09-22 | 4,083 | 8 |
 | 2023-09-23 | 4,090 | 8 |
 | 2023-09-24 | 4,091 | 8 |
-| 2023-09-25 | 4,092 | 8 |
+| 2023-09-25 | 4,093 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

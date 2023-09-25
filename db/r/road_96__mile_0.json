@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1344,6 +1344,11 @@
       "Time": "2023-09-25T03:04:13.0717051+00:00",
       "NumProgressed": 413,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-25T19:04:34.3955024+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1361,9 +1366,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 190
+      "UsersEstimate": 186
     },
     {
       "ID": "completeact3",
@@ -1459,7 +1464,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "scoreminrankrv2",
@@ -1474,7 +1479,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 2
     }
   ],
@@ -1482,8 +1487,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:04:42.5080337+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:04:34.3955017+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:03:14.5199827+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:04:42.5080541+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:03:06.2663392+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:04:34.395523+00:00"
 }

@@ -225,7 +225,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1228,
+  "EOS_Progressed": 1229,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -1370,6 +1370,11 @@
       "Time": "2023-09-25T16:09:26.0173109+00:00",
       "NumProgressed": 1228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T19:08:37.151483+00:00",
+      "NumProgressed": 1229,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1629,14 +1634,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1228,
+      "Progressed": 1229,
       "Completed": 0
     }
   ],
@@ -1644,8 +1649,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-08-27T19:59:37.9265528+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:09:18.3055452+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:08:37.1514824+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:17.447781+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:01:43.904328+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:09:18.3055784+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:01:13.8948044+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:08:37.1515152+00:00"
 }

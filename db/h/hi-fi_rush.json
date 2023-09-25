@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4092,
+  "EOS_Progressed": 4093,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6735,6 +6735,11 @@
       "Time": "2023-09-25T00:04:27.8056583+00:00",
       "NumProgressed": 4092,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-25T19:05:11.5877267+00:00",
+      "NumProgressed": 4093,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6770,7 +6775,7 @@
       "Name": "The Negotiator",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Ach005",
@@ -6778,7 +6783,7 @@
       "Name": "Headliner",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Ach006",
@@ -6786,7 +6791,7 @@
       "Name": "Time to pay up!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Ach007",
@@ -6794,7 +6799,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Ach008",
@@ -6920,9 +6925,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 614
     },
     {
       "ID": "Ach024",
@@ -6946,15 +6951,15 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 368
     },
     {
       "ID": "Ach028",
@@ -6970,7 +6975,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Ach030",
@@ -7162,7 +7167,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Ach054",
@@ -7313,13 +7318,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4092,
+      "Progressed": 4093,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2613,
+      "Progressed": 2614,
       "Completed": 1930
     }
   ],
@@ -7327,8 +7332,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:05:25.0854066+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:05:11.5877259+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:02:41.242368+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:05:25.0855253+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:02:00.7567034+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:05:11.5878476+00:00"
 }

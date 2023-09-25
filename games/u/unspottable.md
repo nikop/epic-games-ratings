@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Catch me if you can | 88.00% | ~7 |
 | Under the spotlights | 63.00% | ~5 |
+| Out of my area | 50.00% | ~4 |
 | Robot cleaner | 50.00% | ~4 |
 | Teacher's pet | 50.00% | ~4 |
-| Out of my area | 38.00% | ~3 |
 | Big Win | 25.00% | ~2 |
 | Skynet Wins | 25.00% | ~2 |
 | Airstrike | 13.00% | ~1 |

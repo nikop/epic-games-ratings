@@ -7,12 +7,12 @@
 | Black Hog Down | 33.00% | ~4 |
 | Ouch, that hurt! | 25.00% | ~3 |
 | Remembering of the past | 25.00% | ~3 |
+| Slam-KABAM | 17.00% | ~2 |
+| Heavy Thoughts | 17.00% | ~2 |
 | A heavy thinker | 17.00% | ~2 |
 | Fight like an idiot | 17.00% | ~2 |
-| Slam-KABAM | 8.00% | ~1 |
-| Heavy Thoughts | 8.00% | ~1 |
+| Flee like an idiot | 17.00% | ~2 |
 | Repair the Mind Validation Machine | 8.00% | ~1 |
-| Flee like an idiot | 8.00% | ~1 |
 | Elementary, My Dear Dusty | 8.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |
 | Whac-a-worker | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | Dance like an idiot | 0.00% | ~0 |
 | I'm Back at the Surface now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 496)  
+Progressed: 12 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |

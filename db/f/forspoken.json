@@ -2,12 +2,12 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40053,
+  "EOS_Progressed": 40055,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8907,6 +8907,11 @@
       "Time": "2023-09-25T18:07:03.5111769+00:00",
       "NumProgressed": 40053,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T19:06:34.7398603+00:00",
+      "NumProgressed": 40055,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8966,7 +8971,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9341,22 +9346,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40053,
+      "Progressed": 40055,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4890,
-      "Completed": 4890
+      "Progressed": 4892,
+      "Completed": 4892
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:07:03.5111762+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:06:34.7398597+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:57:09.3200545+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:07:03.511278+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:57:27.8412342+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:06:34.7399493+00:00"
 }

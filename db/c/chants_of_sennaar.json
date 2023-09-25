@@ -1008,17 +1008,17 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "META_ALL_LINK",
@@ -1032,9 +1032,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1048,9 +1048,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1200,9 +1200,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 80,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
@@ -1215,8 +1215,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:09:37.5209966+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:09:03.5975111+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:57:54.4344455+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:09:37.5210267+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:58:03.4225924+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:09:03.5975376+00:00"
 }

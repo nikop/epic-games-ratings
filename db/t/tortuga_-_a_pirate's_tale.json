@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16226,
+  "EOS_Progressed": 16227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4566,6 +4566,11 @@
       "Time": "2023-09-25T16:07:37.7023828+00:00",
       "NumProgressed": 16226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-25T19:06:56.9164344+00:00",
+      "NumProgressed": 16227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4577,7 +4582,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15415
+      "UsersEstimate": 15416
     },
     {
       "ID": "ACH001",
@@ -4609,7 +4614,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 7788
+      "UsersEstimate": 7789
     },
     {
       "ID": "ACH0013",
@@ -4729,7 +4734,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8924
+      "UsersEstimate": 8925
     },
     {
       "ID": "ACH004",
@@ -4737,7 +4742,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14279
+      "UsersEstimate": 14280
     },
     {
       "ID": "ACH005",
@@ -4784,7 +4789,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16226,
+      "Progressed": 16227,
       "Completed": 0
     }
   ],
@@ -4792,8 +4797,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:07:30.1483263+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:06:56.9164339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.9271545+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:00:09.3032682+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:07:30.1483838+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:59:56.1674604+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:06:56.9164832+00:00"
 }

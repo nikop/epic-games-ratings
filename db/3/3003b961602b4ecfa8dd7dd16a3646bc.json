@@ -196,9 +196,9 @@
       "ID": "ACH_08_TOURNAMENTWINNER",
       "SetID": "9dl0ei6",
       "Name": "Tournament Winner",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_09_HANNAH",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:07:05.1842885+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:06:36.1099416+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.2081313+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:00:40.5377886+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:07:05.1843136+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:00:24.6968332+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:06:36.1099688+00:00"
 }

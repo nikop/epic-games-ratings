@@ -474,9 +474,9 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:05:28.0802134+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:05:13.8738596+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:13.8378702+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:02:17.745548+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:05:28.0802323+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:01:39.3723548+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:05:13.8738742+00:00"
 }

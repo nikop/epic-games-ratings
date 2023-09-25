@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2716,6 +2716,11 @@
       "Time": "2023-09-25T12:05:46.7141138+00:00",
       "NumProgressed": 739,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T19:06:09.2886626+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2743,7 +2748,7 @@
       "Name": "Basic Controls",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "BigPlane",
@@ -2767,15 +2772,15 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 118
     },
     {
       "ID": "Creator",
@@ -2823,7 +2828,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FullCompletion",
@@ -2863,7 +2868,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LargeTerritories",
@@ -2887,7 +2892,7 @@
       "Name": "Linear Network",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LongDistance",
@@ -2927,7 +2932,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "NoTimeForModernization",
@@ -2943,7 +2948,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "NotPlanned",
@@ -3005,9 +3010,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "Reviewer",
@@ -3055,21 +3060,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:06:32.86423+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:06:09.288662+00:00",
   "LastUpdate_AppInfo": "2023-09-19T13:02:48.9786266+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:00:56.037073+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:06:32.864286+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:00:34.3609816+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:06:09.2887141+00:00"
 }

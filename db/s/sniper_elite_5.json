@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3665,
+  "EOS_Progressed": 3666,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6894,6 +6894,11 @@
       "Time": "2023-09-25T17:03:46.9913133+00:00",
       "NumProgressed": 3665,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-25T19:04:17.367121+00:00",
+      "NumProgressed": 3666,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6905,7 +6910,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6913,7 +6918,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6937,7 +6942,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6969,7 +6974,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7057,7 +7062,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7137,7 +7142,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7145,7 +7150,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7153,7 +7158,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7217,7 +7222,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7425,7 +7430,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -7433,7 +7438,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -7472,13 +7477,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3616,
+      "Progressed": 3617,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3665,
+      "Progressed": 3666,
       "Completed": 11
     }
   ],
@@ -7486,8 +7491,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:04:22.4064998+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:04:17.3671204+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:01:11.7263599+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:04:22.4066304+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:00:47.3004218+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:04:17.3672357+00:00"
 }

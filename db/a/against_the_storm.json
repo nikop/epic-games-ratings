@@ -2948,9 +2948,9 @@
       "Count": 320
     }
   ],
-  "EOS_Progressed": 16710,
+  "EOS_Progressed": 16711,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11053,6 +11053,11 @@
       "Time": "2023-09-25T17:05:40.2359915+00:00",
       "NumProgressed": 16710,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-25T19:06:17.7370665+00:00",
+      "NumProgressed": 16711,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 50,
@@ -11398,9 +11403,9 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 1003
     },
     {
       "ID": "WinWithResolve",
@@ -11463,15 +11468,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16710,
+      "Progressed": 16711,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-25T02:59:34.6522828+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:06:42.9316938+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:06:17.737066+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.750828+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:00:35.1751371+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:06:42.9317865+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:00:20.4776544+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:06:17.7371646+00:00"
 }

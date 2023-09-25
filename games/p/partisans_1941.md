@@ -19,9 +19,9 @@ Number of Ratings: 98  (23.09.2022)
 | The Gang's All Here | 15.00% | ~216 |
 | Your Answer | 14.00% | ~202 |
 | One by One | 13.00% | ~187 |
-| The Big Bertha | 11.00% | ~158 |
+| The Big Bertha | 11.00% | ~159 |
 | Game Over | 10.00% | ~144 |
-| Lock, Stock | 8.00% | ~115 |
+| Lock, Stock | 7.00% | ~101 |
 | Payback Time | 7.00% | ~101 |
 | No Witness | 5.00% | ~72 |
 | Strategist | 4.00% | ~58 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,440 (Ranked 213)  
+Progressed: 1,441 (Ranked 213)  
 Completed: 1 (0.07%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.07%) (Ranked 243)
 | 2023-09-22 | 1,413 | 1 |
 | 2023-09-23 | 1,419 | 1 |
 | 2023-09-24 | 1,435 | 1 |
-| 2023-09-25 | 1,440 | 1 |
+| 2023-09-25 | 1,441 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

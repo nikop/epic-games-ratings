@@ -9,18 +9,18 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~236,856 |
 | He's Signed! | 50.00% | ~236,856 |
 | First Victory | 50.00% | ~236,856 |
-| He's Sold! | 48.00% | ~227,381 |
+| He's Sold! | 48.00% | ~227,382 |
 | I'm The Boss! | 42.00% | ~198,959 |
 | Hat-trick | 41.00% | ~194,222 |
-| Scoring Streak | 38.00% | ~180,010 |
+| Scoring Streak | 38.00% | ~180,011 |
 | Unbeatable! | 37.00% | ~175,273 |
 | Thumping | 37.00% | ~175,273 |
 | Superb Dressing Room Atmosphere | 35.00% | ~165,799 |
 | Total Support | 32.00% | ~151,588 |
 | Record Signing | 32.00% | ~151,588 |
-| He's a Natural | 31.00% | ~146,850 |
-| Millionaire's Club | 31.00% | ~146,850 |
-| Team Performance | 30.00% | ~142,113 |
+| He's a Natural | 31.00% | ~146,851 |
+| Millionaire's Club | 31.00% | ~146,851 |
+| Team Performance | 30.00% | ~142,114 |
 | Parked The Bus | 29.00% | ~137,376 |
 | Shrewd Spender | 29.00% | ~137,376 |
 | Star Man | 29.00% | ~137,376 |
@@ -37,10 +37,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | The Boss | 24.00% | ~113,691 |
 | Top Of The Class | 23.00% | ~108,954 |
 | Goal Machine | 23.00% | ~108,954 |
-| Splashing The Cash | 22.00% | ~104,216 |
-| Clean Bill of Health | 22.00% | ~104,216 |
-| What A Goal! | 22.00% | ~104,216 |
-| Cup Glory! | 22.00% | ~104,216 |
+| Splashing The Cash | 22.00% | ~104,217 |
+| Clean Bill of Health | 22.00% | ~104,217 |
+| What A Goal! | 22.00% | ~104,217 |
+| Cup Glory! | 22.00% | ~104,217 |
 | Irresistible Force | 20.00% | ~94,742 |
 | Excellent Match Cohesion | 20.00% | ~94,742 |
 | Do The Double | 19.00% | ~90,005 |
@@ -52,7 +52,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Window Shopping | 15.00% | ~71,057 |
 | Eyes and Ears | 14.00% | ~66,320 |
 | Comeback King! | 14.00% | ~66,320 |
-| You're Up! | 13.00% | ~61,582 |
+| You're Up! | 13.00% | ~61,583 |
 | Money, Money, Money | 12.00% | ~56,845 |
 | Superb Strike | 10.00% | ~47,371 |
 | International Superstar | 10.00% | ~47,371 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,711 (Ranked 36)  
+Progressed: 473,712 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 21 (0.00%) (Ranked 293)
 | 2023-09-22 | 473,569 | 21 |
 | 2023-09-23 | 473,627 | 21 |
 | 2023-09-24 | 473,686 | 21 |
-| 2023-09-25 | 473,711 | 21 |
+| 2023-09-25 | 473,712 | 21 |
 ## Awards
 Max (Relaxing): 6,453  (Ranked 54)  
 Sum: 50,780 (Ranked 26)  

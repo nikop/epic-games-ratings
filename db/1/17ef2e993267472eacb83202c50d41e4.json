@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6527,
+  "EOS_Progressed": 6530,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2597,6 +2597,11 @@
       "Time": "2023-09-25T17:03:41.5188061+00:00",
       "NumProgressed": 6527,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T19:04:11.0821597+00:00",
+      "NumProgressed": 6530,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2721,7 +2726,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "GamesPlayed1",
@@ -2729,7 +2734,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "GamesPlayed10",
@@ -2753,7 +2758,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "GamesWon10",
@@ -2801,7 +2806,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "HAUpgraded1",
@@ -3105,7 +3110,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "SEUpgraded1",
@@ -3200,7 +3205,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6527,
+      "Progressed": 6530,
       "Completed": 1
     }
   ],
@@ -3208,8 +3213,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-24T07:59:49.2549087+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:04:14.76634+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:04:11.0821591+00:00",
   "LastUpdate_AppInfo": "2023-09-19T08:57:15.5424022+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:00:42.2598172+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:04:14.7664611+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:00:26.2105517+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:04:11.0822488+00:00"
 }

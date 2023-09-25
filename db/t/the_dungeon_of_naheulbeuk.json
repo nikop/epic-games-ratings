@@ -996,9 +996,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 226695,
+  "EOS_Progressed": 226708,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1613,
+  "EOS_NewPlayers": 1609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12261,6 +12261,11 @@
       "Time": "2023-09-25T18:04:45.554209+00:00",
       "NumProgressed": 226695,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T19:04:36.9898153+00:00",
+      "NumProgressed": 226708,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -12350,9 +12355,9 @@
       "ID": "Chapter5",
       "SetID": "50chcgj",
       "Name": "The Great Library",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2267
+      "UsersEstimate": 4534
     },
     {
       "ID": "Chapter6",
@@ -12720,7 +12725,7 @@
       "Name": "Sowwy!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70275
+      "UsersEstimate": 70279
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -12808,7 +12813,7 @@
       "Name": "We come in peace",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "MinistrelEpic",
@@ -12880,7 +12885,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "QuestPriestess",
@@ -12975,21 +12980,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 226695,
+      "Progressed": 226708,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 226695,
+      "Progressed": 226708,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-25T13:03:27.8694328+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:04:45.5542084+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:04:36.9898148+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:57:08.5829147+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:04:45.5544222+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:57:27.205523+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:04:36.9899703+00:00"
 }

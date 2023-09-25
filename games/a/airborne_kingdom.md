@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,047 |
-| A Grove Replanted | 53.00% | ~3,830 |
+| A Small Community | 56.00% | ~4,048 |
+| A Grove Replanted | 53.00% | ~3,831 |
 | Fields Watered | 41.00% | ~2,963 |
 | Seekers Found | 41.00% | ~2,963 |
 | Settling the Skies | 41.00% | ~2,963 |
-| Wind Powered | 40.00% | ~2,890 |
-| It Takes a Village | 34.00% | ~2,457 |
-| On the Town | 28.00% | ~2,023 |
+| Wind Powered | 40.00% | ~2,891 |
+| It Takes a Village | 34.00% | ~2,458 |
+| On the Town | 28.00% | ~2,024 |
 | Daylight Found | 26.00% | ~1,879 |
-| Irons Scorched | 25.00% | ~1,806 |
-| Islands Connected | 25.00% | ~1,806 |
+| Irons Scorched | 25.00% | ~1,807 |
+| Islands Connected | 25.00% | ~1,807 |
 | Harp Tuned | 23.00% | ~1,662 |
 | Pyre Ignited | 23.00% | ~1,662 |
 | Travelers Returned | 23.00% | ~1,662 |
 | Hopes Hoisted | 22.00% | ~1,590 |
-| Knowledge Shared | 20.00% | ~1,445 |
-| Relic Finder | 20.00% | ~1,445 |
+| Knowledge Shared | 20.00% | ~1,446 |
+| Relic Finder | 20.00% | ~1,446 |
 | Worthy of the Title | 19.00% | ~1,373 |
 | A Peaceful Respite | 14.00% | ~1,012 |
-| A Learned Scholar | 13.00% | ~939 |
-| Prophecy Fulfilled | 13.00% | ~939 |
+| A Learned Scholar | 13.00% | ~940 |
+| Prophecy Fulfilled | 13.00% | ~940 |
 | A Wanderer’s Guide | 11.00% | ~795 |
 | Knowledge Seeker | 7.00% | ~506 |
 | The Cycle Continues | 3.00% | ~217 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~145 |
 | A True Challenge | 2.00% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,226 (Ranked 148)  
+Progressed: 7,228 (Ranked 148)  
 Completed: 53 (0.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 53 (0.73%) (Ranked 142)
 | 2023-09-22 | 7,211 | 53 |
 | 2023-09-23 | 7,212 | 53 |
 | 2023-09-24 | 7,220 | 53 |
-| 2023-09-25 | 7,226 | 53 |
+| 2023-09-25 | 7,228 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

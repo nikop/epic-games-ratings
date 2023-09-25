@@ -297,9 +297,9 @@
       "ID": "ACH_WINLEVEL0",
       "SetID": "1lo1k0a",
       "Name": "Level 0",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:05:16.5886161+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:05:03.2567205+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:13.9889214+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:59:58.7201766+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:05:16.5886388+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:59:46.0085007+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:05:03.2567402+00:00"
 }

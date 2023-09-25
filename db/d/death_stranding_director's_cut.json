@@ -6712,9 +6712,9 @@
       "Count": 591
     }
   ],
-  "EOS_Progressed": 533819,
+  "EOS_Progressed": 533820,
   "EOS_Completed": 2020,
-  "EOS_NewPlayers": 1724,
+  "EOS_NewPlayers": 1711,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24512,6 +24512,11 @@
       "Time": "2023-09-25T18:07:23.0081978+00:00",
       "NumProgressed": 533819,
       "NumCompleted": 2020
+    },
+    {
+      "Time": "2023-09-25T19:06:51.142517+00:00",
+      "NumProgressed": 533820,
+      "NumCompleted": 2020
     }
   ],
   "TotalAchievements": 63,
@@ -24531,7 +24536,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 491113
+      "UsersEstimate": 491114
     },
     {
       "ID": "10",
@@ -24619,7 +24624,7 @@
       "Name": "Rebuilding America",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 421717
+      "UsersEstimate": 421718
     },
     {
       "ID": "20",
@@ -24659,7 +24664,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 379011
+      "UsersEstimate": 379012
     },
     {
       "ID": "25",
@@ -24723,7 +24728,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 480437
+      "UsersEstimate": 480438
     },
     {
       "ID": "32",
@@ -24731,7 +24736,7 @@
       "Name": "Giver of Gifts",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 208189
+      "UsersEstimate": 208190
     },
     {
       "ID": "33",
@@ -24739,7 +24744,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 314953
+      "UsersEstimate": 314954
     },
     {
       "ID": "34",
@@ -24747,7 +24752,7 @@
       "Name": "A Thirst for Knowledge",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 256233
+      "UsersEstimate": 256234
     },
     {
       "ID": "35",
@@ -24819,7 +24824,7 @@
       "Name": "A Baby Blessing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341644
+      "UsersEstimate": 341645
     },
     {
       "ID": "43",
@@ -24827,7 +24832,7 @@
       "Name": "Prominent Porter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341644
+      "UsersEstimate": 341645
     },
     {
       "ID": "44",
@@ -24851,7 +24856,7 @@
       "Name": "Snooze \u0027n\u0027 Soothe",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 256233
+      "UsersEstimate": 256234
     },
     {
       "ID": "47",
@@ -24859,7 +24864,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 314953
+      "UsersEstimate": 314954
     },
     {
       "ID": "48",
@@ -24875,7 +24880,7 @@
       "Name": "Pumped Porter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 149469
+      "UsersEstimate": 149470
     },
     {
       "ID": "5",
@@ -24923,7 +24928,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 234880
+      "UsersEstimate": 234881
     },
     {
       "ID": "55",
@@ -24963,7 +24968,7 @@
       "Name": "All Roads Lead to the UCA",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 208189
+      "UsersEstimate": 208190
     },
     {
       "ID": "6",
@@ -24971,7 +24976,7 @@
       "Name": "We\u0027re Whole Again",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 149469
+      "UsersEstimate": 149470
     },
     {
       "ID": "60",
@@ -24987,7 +24992,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341644
+      "UsersEstimate": 341645
     },
     {
       "ID": "62",
@@ -25026,15 +25031,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 533819,
+      "Progressed": 533820,
       "Completed": 2020
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-09-25T17:00:01.3739758+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:07:23.0081971+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:06:51.1425154+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:06.5141876+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:01:12.5664522+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:07:23.0083703+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:00:48.42857+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:06:51.1426898+00:00"
 }

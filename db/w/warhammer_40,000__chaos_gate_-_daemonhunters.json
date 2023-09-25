@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -734,7 +734,7 @@
   ],
   "EOS_Progressed": 3237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3691,9 +3691,9 @@
       "ID": "KadexDefeated_Nexus",
       "SetID": "3jha1np",
       "Name": "Hold Your Ground",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 65
     },
     {
       "ID": "Kills_Auto",
@@ -4089,8 +4089,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:05:08.0655822+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:04:55.9749266+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:57:15.9785299+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:05:08.0656821+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:57:33.6715862+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:04:55.975017+00:00"
 }

@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18334,
+  "EOS_Progressed": 18336,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 1,
@@ -13037,6 +13037,11 @@
       "Time": "2023-09-25T18:07:58.287299+00:00",
       "NumProgressed": 18334,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-25T19:07:20.6461965+00:00",
+      "NumProgressed": 18336,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 14,
@@ -13048,7 +13053,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14301
+      "UsersEstimate": 14302
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -13072,7 +13077,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -13088,7 +13093,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -13104,7 +13109,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9717
+      "UsersEstimate": 9718
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -13120,7 +13125,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -13159,15 +13164,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18334,
+      "Progressed": 18336,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:07:58.2872983+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:07:20.6461959+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.2859158+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:00:33.3984183+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:07:58.2874251+00:00"
+  "LastUpdate_Ratings": "2023-09-25T19:00:18.8142164+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:07:20.6462911+00:00"
 }

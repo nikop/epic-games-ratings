@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -312,6 +312,11 @@
       "Time": "2023-09-25T18:03:41.2924601+00:00",
       "NumProgressed": 193,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T19:03:32.3905932+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -332,7 +337,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_eou2",
@@ -340,7 +345,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_eou3",
@@ -356,7 +361,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_eou5",
@@ -364,7 +369,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_eou6",
@@ -372,7 +377,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_eou7",
@@ -380,7 +385,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_eou8",
@@ -427,14 +432,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-25T18:03:41.2924585+00:00",
+  "LastChanged_Achievements": "2023-09-25T19:03:32.3905926+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-25T18:00:01.0395+00:00",
-  "LastUpdate_Achievements": "2023-09-25T18:03:41.2924736+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:59:48.0676489+00:00",
+  "LastUpdate_Achievements": "2023-09-25T19:03:32.3906117+00:00"
 }

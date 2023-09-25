@@ -18,11 +18,11 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 3.00% | ~97 |
 | Honoured Battle-Brother | 2.00% | ~65 |
 | Surgical Excision | 2.00% | ~65 |
+| Hold Your Ground | 2.00% | ~65 |
 | The Emperor Protects | 2.00% | ~65 |
 | Nemesis Master | 2.00% | ~65 |
 | Gunmaster | 2.00% | ~65 |
 | Just a Scratch | 2.00% | ~65 |
-| Hold Your Ground | 1.00% | ~32 |
 | Corruption Cleanser | 1.00% | ~32 |
 | Efficient Killer | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
