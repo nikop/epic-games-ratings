@@ -6,9 +6,9 @@
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1134,7 +1134,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5335,
+  "EOS_Progressed": 5336,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -10339,6 +10339,11 @@
       "Time": "2023-09-25T17:07:05.7340348+00:00",
       "NumProgressed": 5335,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-25T18:08:28.5631814+00:00",
+      "NumProgressed": 5336,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10470,7 +10475,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -10510,7 +10515,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10542,7 +10547,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_MYWAYS",
@@ -10606,7 +10611,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10630,7 +10635,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -10654,7 +10659,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -10669,15 +10674,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5335,
+      "Progressed": 5336,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-25T13:06:42.236616+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:07:05.7340341+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:08:28.5631806+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:59:36.698826+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:07:05.7341031+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:00:37.9011057+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:08:28.5632905+00:00"
 }

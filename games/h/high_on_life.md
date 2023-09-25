@@ -5,10 +5,14 @@ Rating: 4.63 (Ranked 333)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mods Please Ban | 0.10% | ~24 |
+| Luglox Genocide | 0.10% | ~24 |
 | Bring A Knife to a Gun Fight | 0.10% | ~24 |
+| RIP Davey Glutes | 0.10% | ~24 |
 | Eye Scream, You Scream | 0.10% | ~24 |
 | We're All Very Impressed, Trust Me | 0.10% | ~24 |
 | First Bounty Down | 0.10% | ~24 |
+| Hardest Battle In The Game | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
 | Don't Knife The Hand That Feeds | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
@@ -20,20 +24,16 @@ Rating: 4.63 (Ranked 333)
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
 | Epic Legendary Prize | 0.00% | ~0 |
 | Playing Card To Get | 0.00% | ~0 |
-| Mods Please Ban | 0.00% | ~0 |
-| Luglox Genocide | 0.00% | ~0 |
 | Eatin' Good in the Neighborhood | 0.00% | ~0 |
 | Creature Feature | 0.00% | ~0 |
 | Satisfied Gus-tomer | 0.00% | ~0 |
 | Are You Packin'? | 0.00% | ~0 |
 | Lezduit! | 0.00% | ~0 |
-| RIP Davey Glutes | 0.00% | ~0 |
 | Sweezy Like Sunday Morning | 0.00% | ~0 |
 | A Starfish Is Born | 0.00% | ~0 |
 | Sequel-Bait | 0.00% | ~0 |
 | G3 Graduation | 0.00% | ~0 |
 | Legendary Bounty Hunter | 0.00% | ~0 |
-| Hardest Battle In The Game | 0.00% | ~0 |
 | Cold-Blooded Driller | 0.00% | ~0 |
 | Self-Actualization | 0.00% | ~0 |
 | Who's The Boss? | 0.00% | ~0 |

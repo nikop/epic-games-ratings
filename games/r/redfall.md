@@ -25,13 +25,13 @@ Rating: 3.54 (Ranked 998)
 | Bad Wiring | 0.50% | ~9 |
 | Radio Silence | 0.50% | ~9 |
 | From the Shadows | 0.50% | ~9 |
+| Sic Transit Umbra | 0.40% | ~7 |
 | Bell-ringer | 0.40% | ~7 |
+| Good Morning | 0.40% | ~7 |
 | Right This Way | 0.40% | ~7 |
 | Harvest’s End | 0.40% | ~7 |
 | Helping Hand | 0.40% | ~7 |
-| Sic Transit Umbra | 0.30% | ~5 |
 | Silence Is Golden | 0.30% | ~5 |
-| Good Morning | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |
 | Block Party | 0.20% | ~3 |
@@ -73,7 +73,7 @@ Rating: 3.54 (Ranked 998)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,748 (Ranked 203)  
-Completed: 0 (0.00%) (Ranked 292)  
+Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

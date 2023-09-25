@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,10 +15,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3279,
+  "EOS_Progressed": 3280,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 91,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 92,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
     {
@@ -5075,6 +5075,11 @@
       "Time": "2023-09-25T17:06:09.8088684+00:00",
       "NumProgressed": 3279,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-09-25T18:07:23.7344888+00:00",
+      "NumProgressed": 3280,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 24,
@@ -5110,7 +5115,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "13",
@@ -5158,7 +5163,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "19",
@@ -5206,7 +5211,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "24",
@@ -5214,7 +5219,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "3",
@@ -5277,13 +5282,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3279,
+      "Progressed": 3280,
       "Completed": 195
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:06:09.8088679+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:07:23.7344881+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:58:03.0742695+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:06:09.8089062+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:58:21.9495683+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:07:23.7345504+00:00"
 }

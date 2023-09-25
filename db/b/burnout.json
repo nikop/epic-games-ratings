@@ -2,10 +2,10 @@
   "ID": "eaf6622e52a148bcbc8185051a338976",
   "Name": "Nova Assault",
   "ProductSlug": "burnout-c041a6",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T10:57:15.181835+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:00:21.305323+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:04:57.727544+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:01:37.0652596+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:05:44.995586+00:00"
 }

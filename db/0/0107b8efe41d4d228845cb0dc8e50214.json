@@ -2,10 +2,10 @@
   "ID": "0107b8efe41d4d228845cb0dc8e50214",
   "Name": "VCB Why City 4k",
   "ProductSlug": "vcb-why-city-4k-68d7f2",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-22T13:00:00+00:00",
     "PcReleaseDate": "2019-04-20T07:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T06:57:00.6960686+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:00:29.5340733+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:05:48.2190729+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:01:48.299035+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:06:53.8962183+00:00"
 }

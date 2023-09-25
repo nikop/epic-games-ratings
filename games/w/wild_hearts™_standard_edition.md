@@ -26,10 +26,10 @@
 | Counter Specialist | 45.00% | ~20 |
 | Single Minded | 41.00% | ~18 |
 | Snare Specialist | 41.00% | ~18 |
+| Kemono at Heart | 41.00% | ~18 |
 | Reincarnation Cycle Stopper | 41.00% | ~18 |
 | Mighty Marmelizer | 39.00% | ~17 |
 | Fair Means or Foul | 39.00% | ~17 |
-| Kemono at Heart | 39.00% | ~17 |
 | Team Hunter | 39.00% | ~17 |
 | Left Arm Leverager | 36.00% | ~16 |
 | Karakuri Isle | 34.00% | ~15 |
@@ -38,9 +38,9 @@
 | Karakuri Minato | 34.00% | ~15 |
 | Style Seeker | 32.00% | ~14 |
 | Unrivaled in Arms | 32.00% | ~14 |
+| Threaded Harmony | 32.00% | ~14 |
 | Human Believer | 30.00% | ~13 |
 | Quintessence of Form | 30.00% | ~13 |
-| Threaded Harmony | 30.00% | ~13 |
 | Superlative View | 27.00% | ~12 |
 | Canyon of Karakuri | 25.00% | ~11 |
 | Karakuri Fortress | 25.00% | ~11 |

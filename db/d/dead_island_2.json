@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4842,10 +4842,10 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686184,
+  "EOS_Progressed": 686225,
   "EOS_Completed": 2173,
-  "EOS_NewPlayers": 3953,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 3970,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22662,6 +22662,11 @@
       "Time": "2023-09-25T17:07:10.8933808+00:00",
       "NumProgressed": 686184,
       "NumCompleted": 2173
+    },
+    {
+      "Time": "2023-09-25T18:08:35.877855+00:00",
+      "NumProgressed": 686225,
+      "NumCompleted": 2173
     }
   ],
   "TotalAchievements": 45,
@@ -22833,7 +22838,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20586
+      "UsersEstimate": 20587
     },
     {
       "ID": "ach_impressive_aim",
@@ -22865,7 +22870,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "ach_knock_down",
@@ -22977,7 +22982,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5489
+      "UsersEstimate": 5490
     },
     {
       "ID": "ach_thesacrifice",
@@ -23009,7 +23014,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20586
+      "UsersEstimate": 20587
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23017,7 +23022,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5489
+      "UsersEstimate": 5490
     },
     {
       "ID": "ach_well_trained",
@@ -23032,22 +23037,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686184,
+      "Progressed": 686225,
       "Completed": 2173
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 11725,
-      "Completed": 11725
+      "Progressed": 11766,
+      "Completed": 11766
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-25T13:03:54.0285435+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:07:10.8933803+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:08:35.8778543+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:57:33.8231238+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:07:10.8934998+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:57:36.1586888+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:08:35.8780341+00:00"
 }

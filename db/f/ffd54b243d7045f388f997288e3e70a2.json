@@ -2,10 +2,10 @@
   "ID": "ffd54b243d7045f388f997288e3e70a2",
   "Name": "Ironclads II Boshin War",
   "ProductSlug": "ironclads-ii-boshin-war-30c493",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T04:00:00+00:00",
     "PcReleaseDate": "2017-04-19T04:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-21T13:03:02.9074997+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:00:22.1901101+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:05:38.1804841+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:01:38.4267041+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:06:40.1967342+00:00"
 }

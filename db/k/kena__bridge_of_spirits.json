@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1310,9 +1310,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428162,
+  "EOS_Progressed": 428163,
   "EOS_Completed": 533,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12025,6 +12025,11 @@
       "Time": "2023-09-25T15:03:46.2087558+00:00",
       "NumProgressed": 428162,
       "NumCompleted": 533
+    },
+    {
+      "Time": "2023-09-25T18:04:19.7137083+00:00",
+      "NumProgressed": 428163,
+      "NumCompleted": 533
     }
   ],
   "TotalAchievements": 41,
@@ -12044,7 +12049,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166983
+      "UsersEstimate": 166984
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -12052,7 +12057,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256897
+      "UsersEstimate": 256898
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -12068,7 +12073,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107040
+      "UsersEstimate": 107041
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -12116,7 +12121,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256897
+      "UsersEstimate": 256898
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -12148,7 +12153,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132730
+      "UsersEstimate": 132731
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -12172,7 +12177,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201236
+      "UsersEstimate": 201237
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -12196,7 +12201,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17126
+      "UsersEstimate": 17127
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -12204,7 +12209,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406754
+      "UsersEstimate": 406755
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12212,7 +12217,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17126
+      "UsersEstimate": 17127
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -12292,7 +12297,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141293
+      "UsersEstimate": 141294
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -12348,7 +12353,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132730
+      "UsersEstimate": 132731
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -12356,22 +12361,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17126
+      "UsersEstimate": 17127
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428162,
+      "Progressed": 428163,
       "Completed": 533
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-25T16:57:47.9518797+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:03:45.0709373+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:04:19.7137076+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:18.0671281+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:57:47.9518802+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:03:45.0710129+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:57:56.3084142+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:04:19.7138331+00:00"
 }

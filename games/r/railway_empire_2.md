@@ -38,7 +38,7 @@ Rating: 4.45 (Ranked 643)
 | Trailblazer | 21.00% | ~409 |
 | Traffic Junction | 21.00% | ~409 |
 | Breaking Ground | 21.00% | ~409 |
-| Traffic Jam | 19.00% | ~370 |
+| Traffic Jam | 20.00% | ~390 |
 | Resistance is futile | 17.00% | ~331 |
 | Networker | 17.00% | ~331 |
 | Assimilated | 16.00% | ~312 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 643)
 | Three Cheers for Progress | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,948 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 292)  
+Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

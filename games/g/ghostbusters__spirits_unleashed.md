@@ -12,6 +12,7 @@ Rating: 4.50 (Ranked 572)
 | Solo Capture | 0.60% | ~156 |
 | I collect Spores, Molds, and Fungi | 0.50% | ~130 |
 | Fully Upgraded | 0.50% | ~130 |
+| Swift Rift Removers | 0.50% | ~130 |
 | Teamwork | 0.50% | ~130 |
 | There you are! | 0.50% | ~130 |
 | Vaporous Expansion | 0.50% | ~130 |
@@ -22,7 +23,7 @@ Rating: 4.50 (Ranked 572)
 | Cultured | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
-| Swift Rift Removers | 0.40% | ~104 |
+| Summoner | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
 | Ectoplasmic Entity | 0.30% | ~78 |
@@ -30,7 +31,6 @@ Rating: 4.50 (Ranked 572)
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
-| Summoner | 0.30% | ~78 |
 | Terrifying | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
 | Collector | 0.20% | ~52 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 572)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,028 (Ranked 111)  
-Completed: 58 (0.22%) (Ranked 206)  
+Progressed: 26,029 (Ranked 111)  
+Completed: 58 (0.22%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 58 (0.22%) (Ranked 206)
 | 2023-09-22 | 25,960 | 58 |
 | 2023-09-23 | 25,986 | 58 |
 | 2023-09-24 | 26,020 | 58 |
-| 2023-09-25 | 26,028 | 58 |
+| 2023-09-25 | 26,029 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 256)  
 Sum: 2,331 (Ranked 188)  

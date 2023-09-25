@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~158 |
-| Off to a good start | 71.00% | ~125 |
-| Do... or do not. There is no try | 49.00% | ~86 |
-| A good blaster at your side | 36.00% | ~63 |
+| New Recruit | 90.00% | ~159 |
+| Off to a good start | 71.00% | ~126 |
+| Do... or do not. There is no try | 49.00% | ~87 |
+| A good blaster at your side | 36.00% | ~64 |
 | Scrap collector | 27.00% | ~48 |
-| Great shot, kid! | 24.00% | ~42 |
-| The power of the Force | 23.00% | ~40 |
+| Great shot, kid! | 25.00% | ~44 |
+| The power of the Force | 23.00% | ~41 |
 | Collector | 20.00% | ~35 |
 | I suggest a new strategy | 20.00% | ~35 |
 | Shoot first | 20.00% | ~35 |
-| All right, I'll give it a try | 19.00% | ~33 |
+| All right, I'll give it a try | 19.00% | ~34 |
 | Together we can rule the galaxy | 18.00% | ~32 |
 | Tell Jabba that I've got his money | 16.00% | ~28 |
-| A cunning warrior | 15.00% | ~26 |
+| A cunning warrior | 15.00% | ~27 |
 | What's the cargo? | 14.00% | ~25 |
 | Never tell me the odds! | 14.00% | ~25 |
 | Best star-pilot in the galaxy | 14.00% | ~25 |
@@ -29,10 +29,10 @@
 | Distinguished | 10.00% | ~18 |
 | Patience you must have | 10.00% | ~18 |
 | Support the troops | 10.00% | ~18 |
-| Determined | 9.00% | ~16 |
 | Not bad for a little furball | 9.00% | ~16 |
 | I've been waiting for you | 8.00% | ~14 |
 | When 900 years old you reach... | 8.00% | ~14 |
+| Determined | 8.00% | ~14 |
 | Don't underestimate the Force | 8.00% | ~14 |
 | Precision shot | 7.00% | ~12 |
 | City in the Clouds | 7.00% | ~12 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.60% | ~1 |
 | Crush them with one swift stroke… | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 342)  
-Completed: 1 (0.57%) (Ranked 154)  
+Progressed: 177 (Ranked 342)  
+Completed: 1 (0.56%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 1 (0.57%) (Ranked 154)
 | 2023-09-22 | 30 | 1 |
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
-| 2023-09-25 | 176 | 1 |
+| 2023-09-25 | 177 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

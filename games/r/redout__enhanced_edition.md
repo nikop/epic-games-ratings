@@ -1,7 +1,7 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 548)  
+Rating: 4.51 (Ranked 549)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,325 |
 | ACE | 0.80% | ~1,860 |
 | TACTICIAN | 0.60% | ~1,395 |
-| GTX COMPETIZIONE | 0.50% | ~1,162 |
-| HIDDEN POWER | 0.50% | ~1,162 |
-| TUNING MANIAC | 0.50% | ~1,162 |
+| GTX COMPETIZIONE | 0.50% | ~1,163 |
+| HIDDEN POWER | 0.50% | ~1,163 |
+| TUNING MANIAC | 0.50% | ~1,163 |
 | DRAGOON | 0.40% | ~930 |
 | FLAWLESS | 0.40% | ~930 |
 | BETTER THAN EVER | 0.20% | ~465 |
@@ -39,10 +39,10 @@ Number of Ratings: 274  (23.09.2022)
 | NOBUNAGA | 0.20% | ~465 |
 | ODIN | 0.20% | ~465 |
 | PILE UP TROPHIES | 0.20% | ~465 |
-| ENLIGHTENED | 0.10% | ~232 |
+| ENLIGHTENED | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,499 (Ranked 55)  
-Completed: 47 (0.02%) (Ranked 266)  
+Progressed: 232,501 (Ranked 55)  
+Completed: 47 (0.02%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 47 (0.02%) (Ranked 266)
 | 2023-09-22 | 232,285 | 47 |
 | 2023-09-23 | 232,384 | 47 |
 | 2023-09-24 | 232,464 | 47 |
-| 2023-09-25 | 232,499 | 47 |
+| 2023-09-25 | 232,501 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1031,10 +1031,10 @@
     }
   ],
   "EOS_Progressed": 12881,
-  "EOS_Completed": 45,
-  "EOS_NewPlayers": 386,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed": 47,
+  "EOS_NewPlayers": 383,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -11555,6 +11555,11 @@
       "Time": "2023-09-25T17:08:15.2921327+00:00",
       "NumProgressed": 12881,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-25T18:09:10.5076585+00:00",
+      "NumProgressed": 12881,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -11836,9 +11841,9 @@
       "ID": "ACH35",
       "SetID": "4ck5mbe",
       "Name": "I Ain\u0027t No Buster",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
@@ -11846,15 +11851,15 @@
       "ID": "4ck5mbe",
       "IsBase": true,
       "Progressed": 12881,
-      "Completed": 45
+      "Completed": 47
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-25T05:58:00.4592712+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:08:15.2921323+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:09:10.5076576+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:58:13.6013136+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:08:15.2922042+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:58:37.8885593+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:09:10.5077732+00:00"
 }

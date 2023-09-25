@@ -6,9 +6,9 @@
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37840,
+  "EOS_Progressed": 37841,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16782,6 +16782,11 @@
       "Time": "2023-09-25T17:04:26.1787551+00:00",
       "NumProgressed": 37840,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-25T18:05:00.615971+00:00",
+      "NumProgressed": 37841,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -16857,7 +16862,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "ach_cursestone",
@@ -16881,7 +16886,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "ach_deathofermod",
@@ -16913,7 +16918,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13622
+      "UsersEstimate": 13623
     },
     {
       "ID": "ach_die10",
@@ -16961,7 +16966,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "ach_invictus",
@@ -17017,7 +17022,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "ach_newstories",
@@ -17224,15 +17229,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37840,
+      "Progressed": 37841,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:04:26.1787546+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:05:00.6159703+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.9799405+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:58:41.5187209+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:04:26.1788719+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:59:18.194033+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:05:00.6161437+00:00"
 }

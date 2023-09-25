@@ -2,10 +2,10 @@
   "ID": "21ce18737f124703a8b45bd1793f15c3",
   "Name": "Avencast - Rise Of The Mage",
   "ProductSlug": "avencast-rise-of-the-mage-4668a2",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-23T16:00:00+00:00",
     "PcReleaseDate": "2010-03-17T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.4224689+00:00",
   "LastChanged": "2023-03-31T05:58:18.422469+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:10.1793718+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:01:07.4426957+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:05:16.212956+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:02:40.9100408+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:06:09.9912197+00:00"
 }

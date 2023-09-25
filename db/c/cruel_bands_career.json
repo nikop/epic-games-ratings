@@ -2,10 +2,10 @@
   "ID": "ff9546ebca6746389c2d7a45c54ac23d",
   "Name": "Cruel Bands Career",
   "ProductSlug": "cruel-bands-career-29d2fd",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-30T12:00:00+00:00",
     "PcReleaseDate": "2020-08-04T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.2222403+00:00",
   "LastChanged": "2023-03-31T05:58:10.2222404+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:43.7993237+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:58:49.2834287+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:07:21.1968024+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:59:29.1574774+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:08:50.468254+00:00"
 }

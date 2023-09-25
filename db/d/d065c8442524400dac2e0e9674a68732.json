@@ -2,10 +2,10 @@
   "ID": "d065c8442524400dac2e0e9674a68732",
   "Name": "Rise of the Robots X - Early access",
   "ProductSlug": "rise-of-the-robots-x-9ee182",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.1257887+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:59:34.6114778+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:03:21.7236681+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:00:34.5621978+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:03:47.6868969+00:00"
 }

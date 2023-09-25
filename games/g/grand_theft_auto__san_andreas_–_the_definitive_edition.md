@@ -39,10 +39,10 @@ Rating: 4.56 (Ranked 471)
 | Chick Magnet | 1.00% | ~129 |
 | Remastered | 0.70% | ~90 |
 | ...Here we go again | 0.50% | ~64 |
-| I Ain't No Buster | 0.30% | ~39 |
+| I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,881 (Ranked 133)  
-Completed: 45 (0.35%) (Ranked 180)  
+Completed: 47 (0.36%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 45 (0.35%) (Ranked 180)
 | 2023-09-22 | 12,700 | 45 |
 | 2023-09-23 | 12,771 | 45 |
 | 2023-09-24 | 12,846 | 45 |
-| 2023-09-25 | 12,881 | 45 |
+| 2023-09-25 | 12,881 | 47 |
 ## Awards
 Max (Great Boss Battles): 310  (Ranked 237)  
 Sum: 431 (Ranked 318)  

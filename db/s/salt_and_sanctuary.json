@@ -2631,9 +2631,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533992,
+  "EOS_Progressed": 533993,
   "EOS_Completed": 1554,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19901,6 +19901,11 @@
       "Time": "2023-09-25T17:04:32.279791+00:00",
       "NumProgressed": 533992,
       "NumCompleted": 1554
+    },
+    {
+      "Time": "2023-09-25T18:05:09.3320883+00:00",
+      "NumProgressed": 533993,
+      "NumCompleted": 1554
     }
   ],
   "TotalAchievements": 37,
@@ -19968,7 +19973,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443213
+      "UsersEstimate": 443214
     },
     {
       "ID": "HONED",
@@ -20040,7 +20045,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37379
+      "UsersEstimate": 37380
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -20112,7 +20117,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37379
+      "UsersEstimate": 37380
     },
     {
       "ID": "THE_PALACE",
@@ -20160,7 +20165,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37379
+      "UsersEstimate": 37380
     },
     {
       "ID": "THE_THREE",
@@ -20168,7 +20173,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341755
+      "UsersEstimate": 341756
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -20192,7 +20197,7 @@
       "Name": "The Ziggurat",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37379
+      "UsersEstimate": 37380
     },
     {
       "ID": "WISE_WORDS",
@@ -20207,15 +20212,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533992,
+      "Progressed": 533993,
       "Completed": 1554
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-24T20:57:23.7120946+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:04:32.2797906+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:05:09.3320875+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:57:47.2701036+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:04:32.2798941+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:57:55.3211327+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:05:09.332225+00:00"
 }

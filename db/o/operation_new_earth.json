@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1425,
+  "EOS_Progressed": 1429,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5171,6 +5171,11 @@
       "Time": "2023-09-25T17:06:51.5024113+00:00",
       "NumProgressed": 1425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-25T18:08:23.0613675+00:00",
+      "NumProgressed": 1429,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5214,7 +5219,7 @@
       "Name": "Gold Achiever",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -5278,7 +5283,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "objective_headquarters_5",
@@ -5286,7 +5291,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5310,7 +5315,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5334,7 +5339,7 @@
       "Name": "Colonel",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -5358,7 +5363,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5374,7 +5379,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5390,7 +5395,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5398,7 +5403,7 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -5406,7 +5411,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5414,7 +5419,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -5422,7 +5427,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5438,7 +5443,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5478,21 +5483,21 @@
       "Name": "Control the Skies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1425,
+      "Progressed": 1429,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:06:51.5024109+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:08:23.0613668+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:59:37.3196108+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:06:51.5024574+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:00:39.0959413+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:08:23.0614611+00:00"
 }

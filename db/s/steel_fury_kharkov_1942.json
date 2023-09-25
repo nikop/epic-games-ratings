@@ -2,10 +2,10 @@
   "ID": "7aee861fb3c243a5a750034502cccb8c",
   "Name": "Steel Fury Kharkov 1942",
   "ProductSlug": "steel-fury-kharkov-1942-cdfbd6",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-09T04:00:00+00:00",
     "PcReleaseDate": "2010-09-27T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.9284255+00:00",
   "LastChanged": "2023-03-31T05:58:18.9284256+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:41.7778441+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:58:46.8443094+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:05:26.591045+00:00"
+  "LastUpdate_Ratings": "2023-09-25T17:59:25.9005712+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:06:24.119419+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d5dbb40723524c528b6a529f2a4f6b57",
   "Name": "Street Pursuit",
   "ProductSlug": "streetpursuit-6a718e",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-10T23:30:00+00:00",
     "PcReleaseDate": "2023-09-10T23:30:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-21T16:57:15.9625177+00:00",
-  "LastUpdate_Ratings": "2023-09-25T16:59:12.6789884+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:03:35.1771044+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:00:01.6099746+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:04:06.5258864+00:00"
 }

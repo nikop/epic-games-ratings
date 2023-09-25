@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 1.00% | ~141 |
 | Veneration | 1.00% | ~141 |
 | Cimmerian Archer | 1.00% | ~141 |
+| Kushite Cavalry | 1.00% | ~141 |
 | Legionary | 1.00% | ~141 |
 | Phalangite | 1.00% | ~141 |
 | Ambition Victory | 1.00% | ~141 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.90% | ~127 |
 | Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
-| Kushite Cavalry | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
 | Learn to Play 4 | 0.80% | ~113 |
@@ -304,7 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,121 (Ranked 130)  
-Completed: 5 (0.04%) (Ranked 256)  
+Completed: 5 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

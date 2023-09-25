@@ -2,10 +2,10 @@
   "ID": "fd92e8d792904875afa7e85614ae6072",
   "Name": "ATONE: Heart of the Elder Tree",
   "ProductSlug": "atone-heart-of-the-elder-tree-556763",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.5341007+00:00",
   "LastChanged": "2023-03-31T05:57:46.5341008+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:14.7258057+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:00:50.4797204+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:07:03.7748929+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:02:20.6467456+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:08:25.9761465+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2241,9 +2241,9 @@
       "ID": "ID_02_SONICCD_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic CD",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 376
     },
     {
       "ID": "ID_03_SONIC2_WATCH_OPENING",
@@ -2385,9 +2385,9 @@
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
       "SetID": "7o8nc5m",
       "Name": "Boss Rush Attempt",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "ID_21_SONIC1_CLEAR_S_RANK_MISSION",
@@ -2521,8 +2521,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-25T17:05:28.2404925+00:00",
+  "LastChanged_Achievements": "2023-09-25T18:06:26.4043723+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.5215389+00:00",
-  "LastUpdate_Ratings": "2023-09-25T17:00:43.9938042+00:00",
-  "LastUpdate_Achievements": "2023-09-25T17:05:28.2405214+00:00"
+  "LastUpdate_Ratings": "2023-09-25T18:02:11.8829968+00:00",
+  "LastUpdate_Achievements": "2023-09-25T18:06:26.4044118+00:00"
 }

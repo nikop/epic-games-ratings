@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 506)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,586 |
-| Welcome To Hell-A | 3.00% | ~20,586 |
+| Hotel California | 3.00% | ~20,587 |
+| Welcome To Hell-A | 3.00% | ~20,587 |
 | Dr. Reed, I Presume? | 2.00% | ~13,724 |
 | Git Gutte! | 2.00% | ~13,724 |
 | Bookworm | 2.00% | ~13,724 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 506)
 | Down with the Sickness | 1.00% | ~6,862 |
 | Our True Nature | 1.00% | ~6,862 |
 | Max Headroom | 0.90% | ~6,176 |
-| Go, Bobcats! | 0.80% | ~5,489 |
-| Rising Star | 0.80% | ~5,489 |
-| Jumbo Keyring | 0.70% | ~4,803 |
+| Go, Bobcats! | 0.80% | ~5,490 |
+| Rising Star | 0.80% | ~5,490 |
+| Jumbo Keyring | 0.70% | ~4,804 |
 | Smorgasbord | 0.60% | ~4,117 |
 | On Safari | 0.50% | ~3,431 |
 | Not Even My Final Form | 0.50% | ~3,431 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 506)
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,184 (Ranked 22)  
+Progressed: 686,225 (Ranked 22)  
 Completed: 2,173 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 2,173 (0.32%) (Ranked 187)
 | 2023-09-22 | 684,416 | 2,165 |
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
-| 2023-09-25 | 686,184 | 2,173 |
+| 2023-09-25 | 686,225 | 2,173 |
 ## Awards
 Max (Great Boss Battles): 6,188  (Ranked 57)  
 Sum: 9,210 (Ranked 92)  

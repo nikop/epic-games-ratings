@@ -6,29 +6,29 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 61.00% | ~271 |
-| Quick Understanding of Block Extrusion | 59.00% | ~262 |
-| Nature or Nurture | 51.00% | ~226 |
+| Lost in Space | 60.00% | ~267 |
+| Quick Understanding of Block Extrusion | 58.00% | ~258 |
+| Nature or Nurture | 51.00% | ~227 |
 | Power Glove | 50.00% | ~222 |
-| Forgotten Memories | 48.00% | ~213 |
+| Forgotten Memories | 48.00% | ~214 |
 | Cogs in the Machine | 43.00% | ~191 |
-| Mission Success | 26.00% | ~115 |
+| Mission Success | 26.00% | ~116 |
 | There's No Place Like Home | 23.00% | ~102 |
 | Green Cube Killer | 22.00% | ~98 |
 | Infinity Loop | 18.00% | ~80 |
 | Path to Salvation | 18.00% | ~80 |
-| Descendants | 17.00% | ~75 |
+| Descendants | 17.00% | ~76 |
 | The Flawed Teacher | 15.00% | ~67 |
 | To Infinity and Beyond | 6.00% | ~27 |
 | The Truthful Enemy | 5.00% | ~22 |
-| True collector | 0.50% | ~2 |
-| Bronze collector | 0.50% | ~2 |
-| Home Stretch | 0.50% | ~2 |
-| Gold collector | 0.50% | ~2 |
-| Silver collector | 0.50% | ~2 |
-| Get me out of here | 0.50% | ~2 |
-| Puzzle Master | 0.50% | ~2 |
-| Coming Home | 0.50% | ~2 |
+| True collector | 0.40% | ~2 |
+| Bronze collector | 0.40% | ~2 |
+| Home Stretch | 0.40% | ~2 |
+| Gold collector | 0.40% | ~2 |
+| Silver collector | 0.40% | ~2 |
+| Get me out of here | 0.40% | ~2 |
+| Puzzle Master | 0.40% | ~2 |
+| Coming Home | 0.40% | ~2 |
 | King of the Collectables | 0.20% | ~1 |
 | Competent Collector | 0.20% | ~1 |
 | Master Collector | 0.20% | ~1 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.20% | ~1 |
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 271)  
-Completed: 1 (0.23%) (Ranked 204)  
+Progressed: 445 (Ranked 271)  
+Completed: 1 (0.22%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 1 (0.23%) (Ranked 204)
 | 2023-09-22 | 402 | 1 |
 | 2023-09-23 | 424 | 1 |
 | 2023-09-24 | 437 | 1 |
-| 2023-09-25 | 444 | 1 |
+| 2023-09-25 | 445 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
