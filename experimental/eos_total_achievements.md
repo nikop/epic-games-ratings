@@ -82,6 +82,7 @@
 | [Eigengrau](../games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 62 | 1,000 |
 | [Gloomhaven](../games/g/gloomhaven.md) | 61 | 1,000 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
+| [Toasterball](../games/b/b0c40ea3edbd41f88219ee048d3d6cce.md) | 61 | 1,000 |
 | [Transport Fever 2](../games/t/transport_fever_2.md) | 61 | 1,000 |
 | [60 Seconds! Reatomized](../games/6/60_seconds!_reatomized.md) | 60 | 1,000 |
 | [Curious Expedition 2](../games/c/curious_expedition_2.md) | 60 | 1,000 |

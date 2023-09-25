@@ -631,6 +631,7 @@
 | [Time on Frog Island](../games/t/time_on_frog_island.md) | 35 | 1,000 |
 | [Time Trap](../games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 5 | 1,000 |
 | [Timothy vs the Aliens](../games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 24 | 1,000 |
+| [Toasterball](../games/b/b0c40ea3edbd41f88219ee048d3d6cce.md) | 61 | 1,000 |
 | [ToeJam & Earl: Back in the Groove!](../games/t/toejam_&_earl__back_in_the_groove!.md) | 49 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
 | [Touch Type Tale](../games/t/touch_type_tale.md) | 33 | 1,000 |

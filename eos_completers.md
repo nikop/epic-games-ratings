@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.91% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.90% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -111,8 +111,8 @@
 | 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
 | 110 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
 | 111 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 112 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.45% |
-| 113 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
+| 112 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.44% |
+| 112 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
 | 114 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.43% |
 | 115 | [Ten Dates](games/t/ten_dates.md) | 1.42% |
 | 116 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.40% |
@@ -136,7 +136,7 @@
 | 134 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 135 | [Hades](games/h/hades.md) | 0.91% |
 | 136 | [Eternights](games/e/eternights.md) | 0.90% |
-| 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.89% |
+| 137 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.88% |
 | 138 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 139 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 140 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
@@ -188,12 +188,12 @@
 | 184 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 187 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.33% |
 | 188 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 189 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 189 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 191 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
-| 191 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 191 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
-| 191 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 192 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 192 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
+| 192 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 195 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 195 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 197 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.27% |
