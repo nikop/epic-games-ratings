@@ -207,6 +207,7 @@
 | [Aragami 2](../games/a/aragami_2.md) | 44 | 1,000 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
+| [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
 | [One Military Camp](../games/o/one_military_camp.md) | 44 | 1,000 |
 | [Shadow Tactics: Blades of the Shogun](../games/s/shadow_tactics__blades_of_the_shogun.md) | 44 | 1,000 |
 | [World of Warships](../games/w/world_of_warships.md) | 44 | 1,000 |
@@ -329,7 +330,6 @@
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
 | [Dolphin Spirit - Ocean Mission](../games/d/dolphin_spirit_-_ocean_mission.md) | 32 | 1,000 |
-| [High On Life](../games/h/high_on_life.md) | 32 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
 | [Sweet Dreams Alex](../games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 32 | 1,000 |
 | [Terminal Velocity™: Boosted Edition](../games/t/terminal_velocity™__boosted_edition.md) | 32 | 1,000 |
@@ -609,6 +609,7 @@
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [The Riflemen](../games/t/the_riflemen.md) | 14 | 1,000 |
+| [Tribu](../games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 14 | 1,000 |
 | [Blanc](../games/b/blanc.md) | 13 | 1,000 |
 | [BloodRayne: Terminal Cut](../games/b/bloodrayne__terminal_cut.md) | 13 | 1,000 |
 | [ELEGIES Aya](../games/e/elegies_aya.md) | 13 | 1,000 |

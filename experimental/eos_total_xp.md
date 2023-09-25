@@ -32,6 +32,7 @@
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 46 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
+| [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
@@ -298,7 +299,6 @@
 | [Hell is Others](../games/h/hell_is_others.md) | 56 | 1,000 |
 | [Hello Neighbor 2](../games/h/hello_neighbor_2.md) | 14 | 1,000 |
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
-| [High On Life](../games/h/high_on_life.md) | 32 | 1,000 |
 | [HITMAN World of Assassination](../games/h/hitman_3.md) | 47 | 1,000 |
 | [Hogwarts Legacy](../games/h/hogwarts_legacy.md) | 45 | 1,000 |
 | [Homeseek](../games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 54 | 1,000 |
@@ -645,6 +645,7 @@
 | [Train World](../games/t/train_world.md) | 50 | 1,000 |
 | [Transport Fever 2](../games/t/transport_fever_2.md) | 61 | 1,000 |
 | [Tri6 Infinite](../games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 24 | 1,000 |
+| [Tribu](../games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 14 | 1,000 |
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
 | [Tropico 6](../games/t/tropico_6.md) | 40 | 1,000 |
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
