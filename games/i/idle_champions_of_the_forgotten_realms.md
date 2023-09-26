@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Brief Tour of the Realms | 0.30% | ~690 |
 | The Jungles of Doomspace | 0.30% | ~589 |
-| A Brief Tour of the Realms | 0.20% | ~460 |
 | The Arena of Blood | 0.20% | ~393 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |

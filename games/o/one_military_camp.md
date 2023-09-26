@@ -12,15 +12,15 @@
 | Desert Power | 11.00% | ~19 |
 | Indebted | 11.00% | ~19 |
 | Green Energy | 11.00% | ~19 |
+| Health Care | 9.00% | ~15 |
 | Desert Rat | 9.00% | ~15 |
 | Perfect Soldier | 8.00% | ~14 |
-| Health Care | 8.00% | ~14 |
+| Good payer | 8.00% | ~14 |
 | Food Tycoon | 8.00% | ~14 |
 | Fuel Tycoon | 8.00% | ~14 |
 | Ammo Tycoon | 8.00% | ~14 |
-| Good payer | 7.00% | ~12 |
+| Healing | 7.00% | ~12 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~10 |
-| Healing | 6.00% | ~10 |
 | Overpopulation | 6.00% | ~10 |
 | Self-sufficient | 6.00% | ~10 |
 | Medicine Tycoon | 6.00% | ~10 |
@@ -39,7 +39,7 @@
 | Reconquest | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
-| Counter-espionage | 0.60% | ~1 |
+| Counter-espionage | 1.00% | ~2 |
 | Conveyor Belt Madness | 0.60% | ~1 |
 | Against Adversity | 0.60% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |

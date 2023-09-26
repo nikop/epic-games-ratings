@@ -2,9 +2,9 @@
   "ID": "76463b8839d042bfadc9fddcc8d1f591",
   "Name": "Kana Quest",
   "ProductSlug": "kana-quest-7defa0",
-  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Progress": 637,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-28T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4365763+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:02:16.3781777+00:00",
-  "LastUpdate_Achievements": "2023-09-26T08:04:12.9752243+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:03:11.6657828+00:00",
+  "LastUpdate_Achievements": "2023-09-26T09:04:53.0729621+00:00"
 }

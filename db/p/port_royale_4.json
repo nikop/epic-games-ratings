@@ -2,7 +2,7 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 232,
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 926,
+  "EOS_Progressed": 927,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2205,6 +2205,11 @@
       "Time": "2023-09-26T07:06:48.8236753+00:00",
       "NumProgressed": 926,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T09:06:32.7800906+00:00",
+      "NumProgressed": 927,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2216,7 +2221,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH001",
@@ -2328,7 +2333,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH015",
@@ -2416,7 +2421,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH026",
@@ -2454,9 +2459,9 @@
       "ID": "ACH030",
       "SetID": "69nfp41",
       "Name": "Walk the plank",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH031",
@@ -2502,9 +2507,9 @@
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH037",
@@ -2520,7 +2525,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH039",
@@ -2568,7 +2573,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH045",
@@ -2598,9 +2603,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH049",
@@ -2615,15 +2620,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 926,
+      "Progressed": 927,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-26T08:05:49.0484845+00:00",
+  "LastChanged_Achievements": "2023-09-26T09:06:32.7800901+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.6290536+00:00",
-  "LastUpdate_Ratings": "2023-09-26T07:57:15.3132018+00:00",
-  "LastUpdate_Achievements": "2023-09-26T08:05:49.0485387+00:00"
+  "LastUpdate_Ratings": "2023-09-26T08:57:19.7163548+00:00",
+  "LastUpdate_Achievements": "2023-09-26T09:06:32.7801462+00:00"
 }

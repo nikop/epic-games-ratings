@@ -6,25 +6,25 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 62.00% | ~246 |
-| Scrap Gatherer | 58.00% | ~230 |
-| Mushroom Picker | 57.00% | ~226 |
-| Scrapper | 48.00% | ~191 |
-| Teleport | 45.00% | ~179 |
-| Cook | 44.00% | ~175 |
-| Scrap Master | 40.00% | ~159 |
-| Smelter | 37.00% | ~147 |
-| Electro-Scrap Gatherer | 34.00% | ~135 |
-| Digger | 33.00% | ~131 |
-| Survivor | 32.00% | ~127 |
-| Robot Destroyer | 31.00% | ~123 |
-| Lumberjack | 30.00% | ~119 |
-| Herbalist | 29.00% | ~115 |
-| Prepper | 26.00% | ~103 |
-| Electro-Scrap Master | 25.00% | ~99 |
-| Robot Hunter | 21.00% | ~83 |
-| Advanced Survivalist | 20.00% | ~79 |
-| Master Of Technology | 17.00% | ~67 |
+| My New Home | 62.00% | ~247 |
+| Scrap Gatherer | 58.00% | ~231 |
+| Mushroom Picker | 57.00% | ~227 |
+| Scrapper | 48.00% | ~192 |
+| Teleport | 45.00% | ~180 |
+| Cook | 44.00% | ~176 |
+| Scrap Master | 40.00% | ~160 |
+| Smelter | 37.00% | ~148 |
+| Electro-Scrap Gatherer | 34.00% | ~136 |
+| Digger | 33.00% | ~132 |
+| Survivor | 32.00% | ~128 |
+| Robot Destroyer | 31.00% | ~124 |
+| Lumberjack | 30.00% | ~120 |
+| Herbalist | 29.00% | ~116 |
+| Prepper | 26.00% | ~104 |
+| Electro-Scrap Master | 25.00% | ~100 |
+| Robot Hunter | 21.00% | ~84 |
+| Advanced Survivalist | 20.00% | ~80 |
+| Master Of Technology | 17.00% | ~68 |
 | Treasure Hunter | 16.00% | ~64 |
 | Mythical Smelter | 14.00% | ~56 |
 | Blacksmith | 12.00% | ~48 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~8 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 282)  
+Progressed: 399 (Ranked 282)  
 Completed: 1 (0.25%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 1 (0.25%) (Ranked 199)
 | 2023-09-23 | 393 | 1 |
 | 2023-09-24 | 396 | 1 |
 | 2023-09-25 | 397 | 1 |
+| 2023-09-26 | 399 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

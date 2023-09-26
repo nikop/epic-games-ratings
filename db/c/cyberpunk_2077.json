@@ -12509,10 +12509,10 @@
       "Count": 6377
     }
   ],
-  "EOS_Progressed": 881795,
-  "EOS_Completed": 2392,
-  "EOS_NewPlayers": 4766,
-  "EOS_NewCompleters": 276,
+  "EOS_Progressed": 881818,
+  "EOS_Completed": 2394,
+  "EOS_NewPlayers": 4783,
+  "EOS_NewCompleters": 278,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30334,6 +30334,11 @@
       "Time": "2023-09-26T08:05:11.7799776+00:00",
       "NumProgressed": 881795,
       "NumCompleted": 2392
+    },
+    {
+      "Time": "2023-09-26T09:05:54.6120964+00:00",
+      "NumProgressed": 881818,
+      "NumCompleted": 2394
     }
   ],
   "TotalAchievements": 57,
@@ -30431,9 +30436,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "IAmMaxTac",
@@ -30447,9 +30452,9 @@
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "LittleTokyo",
@@ -30527,9 +30532,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2645
     },
     {
       "ID": "Temperance",
@@ -30543,9 +30548,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2645
     },
     {
       "ID": "TheDevil",
@@ -30655,9 +30660,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "UnderPressure",
@@ -30671,9 +30676,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "YipMan",
@@ -30743,9 +30748,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "Kingofcups",
@@ -30800,21 +30805,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 881795,
-      "Completed": 2392
+      "Progressed": 881818,
+      "Completed": 2394
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10418,
+      "Progressed": 10441,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-26T07:57:12.2749901+00:00",
-  "LastChanged_Achievements": "2023-09-26T08:05:11.7799772+00:00",
+  "LastChanged_Achievements": "2023-09-26T09:05:54.612096+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T07:57:12.2749909+00:00",
-  "LastUpdate_Achievements": "2023-09-26T08:05:11.7801664+00:00"
+  "LastUpdate_Ratings": "2023-09-26T08:57:14.0957297+00:00",
+  "LastUpdate_Achievements": "2023-09-26T09:05:54.6122335+00:00"
 }

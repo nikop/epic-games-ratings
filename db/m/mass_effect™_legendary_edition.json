@@ -989,9 +989,9 @@
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_29",
@@ -1633,8 +1633,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-26T08:04:39.5129985+00:00",
+  "LastChanged_Achievements": "2023-09-26T09:05:20.7662572+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-26T07:59:35.8544579+00:00",
-  "LastUpdate_Achievements": "2023-09-26T08:04:39.5132036+00:00"
+  "LastUpdate_Ratings": "2023-09-26T08:59:42.5288082+00:00",
+  "LastUpdate_Achievements": "2023-09-26T09:05:20.7664733+00:00"
 }

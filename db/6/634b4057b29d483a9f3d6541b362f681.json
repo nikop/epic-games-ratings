@@ -2,9 +2,9 @@
   "ID": "634b4057b29d483a9f3d6541b362f681",
   "Name": "Entropic Decay",
   "ProductSlug": "entropic-decay-e91078",
-  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Progress": 637,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-25T13:03:20.9140541+00:00",
-  "LastUpdate_Ratings": "2023-09-26T07:57:17.1026051+00:00",
-  "LastUpdate_Achievements": "2023-09-26T08:03:18.0916701+00:00"
+  "LastUpdate_Ratings": "2023-09-26T08:57:21.7550991+00:00",
+  "LastUpdate_Achievements": "2023-09-26T09:03:35.8799785+00:00"
 }

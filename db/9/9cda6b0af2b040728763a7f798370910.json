@@ -2,9 +2,9 @@
   "ID": "9cda6b0af2b040728763a7f798370910",
   "Name": "Hidden Pass",
   "ProductSlug": "hidden-pass-c54045",
-  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Progress": 637,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-19T10:57:09.9611051+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:00:02.4352676+00:00",
-  "LastUpdate_Achievements": "2023-09-26T08:03:48.3781095+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:00:11.3060208+00:00",
+  "LastUpdate_Achievements": "2023-09-26T09:04:27.6108997+00:00"
 }

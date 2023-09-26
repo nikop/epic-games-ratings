@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 82.00% | ~40 |
-| Ooh, it's shiny! | 61.00% | ~30 |
-| Book Worm | 59.00% | ~29 |
-| My lost nightingale | 51.00% | ~25 |
-| Through the woods | 49.00% | ~24 |
-| Back to the anvil | 45.00% | ~22 |
-| So soothing... | 43.00% | ~21 |
-| Kekekeke... | 43.00% | ~21 |
-| Mystery solved | 41.00% | ~20 |
-| Honey, honey, honey… | 41.00% | ~20 |
-| Fussy eater | 41.00% | ~20 |
-| Sorry Grandpa | 41.00% | ~20 |
-| Roostwig has entered the building | 41.00% | ~20 |
-| Game Over! | 39.00% | ~19 |
-| A very special drink | 39.00% | ~19 |
-| Far away from home | 39.00% | ~19 |
-| NOW GO AWAY! | 39.00% | ~19 |
-| Show me your true self | 37.00% | ~18 |
-| Little genius | 37.00% | ~18 |
-| GG | 35.00% | ~17 |
-| No posters allowed | 35.00% | ~17 |
-| Shattered | 33.00% | ~16 |
-| You've got mail! | 33.00% | ~16 |
-| Mischief maker | 33.00% | ~16 |
-| Close the deal | 31.00% | ~15 |
-| Memories | 31.00% | ~15 |
-| Beekeeper | 31.00% | ~15 |
-| Pain in the hands | 31.00% | ~15 |
-| Ring-a-ding-ding | 29.00% | ~14 |
-| Turn the last page | 27.00% | ~13 |
-| Singstar | 27.00% | ~13 |
-| Makeover | 24.00% | ~12 |
+| Escape artist | 82.00% | ~41 |
+| Ooh, it's shiny! | 62.00% | ~31 |
+| Book Worm | 58.00% | ~29 |
+| My lost nightingale | 50.00% | ~25 |
+| Through the woods | 48.00% | ~24 |
+| Back to the anvil | 44.00% | ~22 |
+| Fussy eater | 42.00% | ~21 |
+| So soothing... | 42.00% | ~21 |
+| Kekekeke... | 42.00% | ~21 |
+| Mystery solved | 40.00% | ~20 |
+| Honey, honey, honey… | 40.00% | ~20 |
+| Sorry Grandpa | 40.00% | ~20 |
+| Roostwig has entered the building | 40.00% | ~20 |
+| Game Over! | 38.00% | ~19 |
+| A very special drink | 38.00% | ~19 |
+| Far away from home | 38.00% | ~19 |
+| NOW GO AWAY! | 38.00% | ~19 |
+| Show me your true self | 36.00% | ~18 |
+| Little genius | 36.00% | ~18 |
+| GG | 34.00% | ~17 |
+| No posters allowed | 34.00% | ~17 |
+| Shattered | 32.00% | ~16 |
+| You've got mail! | 32.00% | ~16 |
+| Mischief maker | 32.00% | ~16 |
+| Close the deal | 30.00% | ~15 |
+| Memories | 30.00% | ~15 |
+| Beekeeper | 30.00% | ~15 |
+| Pain in the hands | 30.00% | ~15 |
+| Ring-a-ding-ding | 28.00% | ~14 |
+| Turn the last page | 26.00% | ~13 |
+| Makeover | 26.00% | ~13 |
+| Singstar | 26.00% | ~13 |
 | Bahahahaha... | 24.00% | ~12 |
 | Kill it! KILL IT! | 24.00% | ~12 |
 | Guilty conscience | 20.00% | ~10 |
@@ -44,8 +44,8 @@
 | What a mess | 14.00% | ~7 |
 | Posterboy! | 12.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 423)  
-Completed: 5 (10.20%) (Ranked 27)  
+Progressed: 50 (Ranked 421)  
+Completed: 5 (10.00%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,6 +69,7 @@ Completed: 5 (10.20%) (Ranked 27)
 | 2023-09-22 | 45 | 5 |
 | 2023-09-24 | 48 | 5 |
 | 2023-09-25 | 49 | 5 |
+| 2023-09-26 | 50 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,32 +1,32 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 948)  
+Rating: 4.03 (Ranked 949)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~750 |
+| Cabin boy | 81.00% | ~751 |
 | My little farm | 64.00% | ~593 |
-| Every beginning is difficult | 63.00% | ~583 |
+| Every beginning is difficult | 62.00% | ~575 |
 | Gofer | 57.00% | ~528 |
 | 3, 2, 1, mine | 56.00% | ~519 |
-| O Captain! My Captain! | 54.00% | ~500 |
+| O Captain! My Captain! | 54.00% | ~501 |
 | Seafarer | 53.00% | ~491 |
-| Greed for gold | 43.00% | ~398 |
+| Greed for gold | 43.00% | ~399 |
 | Intangible | 42.00% | ~389 |
 | I'm out of here for a while | 42.00% | ~389 |
 | In a mint condition | 38.00% | ~352 |
 | Licence to Kill | 37.00% | ~343 |
 | Pirates! | 35.00% | ~324 |
 | Collectionitis | 29.00% | ~269 |
-| Megalomania | 29.00% | ~269 |
-| Christening | 28.00% | ~259 |
+| Christening | 28.00% | ~260 |
+| Megalomania | 28.00% | ~260 |
 | Groundskeeper | 26.00% | ~241 |
 | Wholesale | 22.00% | ~204 |
-| Walk the plank | 21.00% | ~194 |
+| Walk the plank | 20.00% | ~185 |
 | Pearly gates | 18.00% | ~167 |
-| My precious! | 17.00% | ~157 |
+| My precious! | 17.00% | ~158 |
 | Conquistador | 14.00% | ~130 |
 | Panic buying | 11.00% | ~102 |
 | Just a scratch | 9.00% | ~83 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926 (Ranked 232)  
+Progressed: 927 (Ranked 232)  
 Completed: 1 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 1 (0.11%) (Ranked 229)
 | 2023-09-23 | 919 | 1 |
 | 2023-09-24 | 921 | 1 |
 | 2023-09-25 | 925 | 1 |
-| 2023-09-26 | 926 | 1 |
+| 2023-09-26 | 927 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
