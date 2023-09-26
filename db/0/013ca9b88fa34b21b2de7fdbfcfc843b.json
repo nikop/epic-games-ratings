@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5038,
+  "EOS_Progressed": 5039,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2249,6 +2249,11 @@
       "Time": "2023-09-26T01:48:19.4053181+00:00",
       "NumProgressed": 5038,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T02:20:39.5109473+00:00",
+      "NumProgressed": 5039,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -2301,7 +2306,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -2413,7 +2418,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -2437,7 +2442,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -2477,7 +2482,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -2540,7 +2545,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5038,
+      "Progressed": 5039,
       "Completed": 0
     }
   ],
@@ -2548,8 +2553,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-24T19:00:05.9941715+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:48:19.4053177+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:20:39.5109468+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:44:17.3859087+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:48:19.4053509+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:16:24.3425945+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:20:39.5109946+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~945,820 |
-| I Need a Bigger Garage | 63.00% | ~662,074 |
-| Pump my Ride | 47.00% | ~493,928 |
-| Ghostbuster | 33.00% | ~346,801 |
-| Call Roadside Assistance | 18.00% | ~189,164 |
-| That Was Close | 18.00% | ~189,164 |
-| Quickie | 11.00% | ~115,600 |
+| The First of Many | 90.00% | ~945,825 |
+| I Need a Bigger Garage | 63.00% | ~662,078 |
+| Pump my Ride | 47.00% | ~493,931 |
+| Ghostbuster | 33.00% | ~346,803 |
+| Call Roadside Assistance | 18.00% | ~189,165 |
+| That Was Close | 18.00% | ~189,165 |
+| Quickie | 11.00% | ~115,601 |
 | California Dreamer | 7.00% | ~73,564 |
 | Can't Touch This | 5.00% | ~52,546 |
-| Comeback | 4.00% | ~42,036 |
-| Driver from Ipanema | 3.00% | ~31,527 |
-| Carménère Taster | 3.00% | ~31,527 |
-| Supersonic | 3.00% | ~31,527 |
-| Marathonist | 3.00% | ~31,527 |
-| Living Legend | 3.00% | ~31,527 |
+| Comeback | 4.00% | ~42,037 |
+| Driver from Ipanema | 3.00% | ~31,528 |
+| Carménère Taster | 3.00% | ~31,528 |
+| Supersonic | 3.00% | ~31,528 |
+| Marathonist | 3.00% | ~31,528 |
+| Living Legend | 3.00% | ~31,528 |
 | God of Roads | 2.00% | ~21,018 |
 | Pathfinder | 2.00% | ~21,018 |
 | Go-Kart Champion | 2.00% | ~21,018 |
@@ -36,16 +36,16 @@ Number of Ratings: 1,343  (23.09.2022)
 | Old Master | 0.90% | ~9,458 |
 | Volcano Surfer | 0.80% | ~8,407 |
 | Otaku | 0.80% | ~8,407 |
-| Survivor | 0.60% | ~6,305 |
-| King of the World | 0.60% | ~6,305 |
+| Survivor | 0.60% | ~6,306 |
+| King of the World | 0.60% | ~6,306 |
 | Getting Famous | 0.50% | ~5,255 |
 | Now Go Play Outside | 0.30% | ~3,153 |
 | Master of the Racetrack | 0.20% | ~2,102 |
 | Transporter | 0.10% | ~1,051 |
 | Look Mom, No Hands! | 0.10% | ~1,051 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050,911 (Ranked 13)  
-Completed: 437 (0.04%) (Ranked 257)  
+Progressed: 1,050,917 (Ranked 13)  
+Completed: 438 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,7 +203,7 @@ Completed: 437 (0.04%) (Ranked 257)
 | 2023-09-23 | 1,049,551 | 433 |
 | 2023-09-24 | 1,050,368 | 435 |
 | 2023-09-25 | 1,050,853 | 437 |
-| 2023-09-26 | 1,050,911 | 437 |
+| 2023-09-26 | 1,050,917 | 438 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 301)  
 Sum: 1,302 (Ranked 230)  

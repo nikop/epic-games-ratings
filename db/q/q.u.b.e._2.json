@@ -5,10 +5,10 @@
   "Ranking_Rating": 694,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1898,6 +1898,11 @@
       "Time": "2023-09-26T00:05:51.5396191+00:00",
       "NumProgressed": 451,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T02:21:01.8768493+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1916,9 +1921,9 @@
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -2054,7 +2059,7 @@
       "Name": "Mission Success",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_HUB2",
@@ -2070,7 +2075,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_PEAK",
@@ -2100,9 +2105,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_S4",
@@ -2126,7 +2131,7 @@
       "Name": "Lost in Space",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_STATUE",
@@ -2134,22 +2139,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:48:48.9433031+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:21:01.8768486+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:44:21.8242486+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:48:48.9433278+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:16:27.7526739+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:21:01.8768809+00:00"
 }

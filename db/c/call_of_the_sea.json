@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121440,
+  "EOS_Progressed": 121441,
   "EOS_Completed": 999,
-  "EOS_NewPlayers": 1285,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18058,6 +18058,11 @@
       "Time": "2023-09-26T01:46:42.8012542+00:00",
       "NumProgressed": 121440,
       "NumCompleted": 999
+    },
+    {
+      "Time": "2023-09-26T02:19:25.3395467+00:00",
+      "NumProgressed": 121441,
+      "NumCompleted": 999
     }
   ],
   "TotalAchievements": 34,
@@ -18077,7 +18082,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 19430
+      "UsersEstimate": 19431
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -18141,7 +18146,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 68006
+      "UsersEstimate": 68007
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -18189,7 +18194,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 25502
+      "UsersEstimate": 25503
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -18340,7 +18345,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 121440,
+      "Progressed": 121441,
       "Completed": 999
     }
   ],
@@ -18348,8 +18353,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:46:42.8012537+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:19:25.3395462+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:29.1830312+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:41:10.1073298+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:46:42.8013665+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:13:59.9888878+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:19:25.3396945+00:00"
 }

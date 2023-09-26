@@ -5294,9 +5294,9 @@
       "Count": 828
     }
   ],
-  "EOS_Progressed": 801841,
+  "EOS_Progressed": 801852,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 6523,
+  "EOS_NewPlayers": 6519,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19694,6 +19694,11 @@
       "Time": "2023-09-26T01:49:28.5132608+00:00",
       "NumProgressed": 801841,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-26T02:21:32.1385494+00:00",
+      "NumProgressed": 801852,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 75,
@@ -19705,7 +19710,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 176405
+      "UsersEstimate": 176407
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -19745,7 +19750,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24055
+      "UsersEstimate": 24056
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -19769,7 +19774,7 @@
       "Name": "Cash Out",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_COMBAT_VETERAN",
@@ -19785,7 +19790,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40092
+      "UsersEstimate": 40093
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -19801,7 +19806,7 @@
       "Name": "Crafty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40092
+      "UsersEstimate": 40093
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -19809,7 +19814,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24055
+      "UsersEstimate": 24056
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -19857,7 +19862,7 @@
       "Name": "G.I. Blues",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24055
+      "UsersEstimate": 24056
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -19873,7 +19878,7 @@
       "Name": "Hack the Mojave",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_HARDCORE",
@@ -19897,7 +19902,7 @@
       "Name": "Hometown Hero",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_IN_A_FOREIGN_LAND",
@@ -19945,7 +19950,7 @@
       "Name": "Love the Bomb",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_MAKE_UP_YOUR_MIND",
@@ -20001,7 +20006,7 @@
       "Name": "New Kid",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40092
+      "UsersEstimate": 40093
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -20017,7 +20022,7 @@
       "Name": "No Gods, No Masters",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_NO_TUMBLER_FUMBLER",
@@ -20041,7 +20046,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40092
+      "UsersEstimate": 40093
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -20065,7 +20070,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24055
+      "UsersEstimate": 24056
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -20105,7 +20110,7 @@
       "Name": "Return to Sender",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_RING_A_DING_DING",
@@ -20113,7 +20118,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 40092
+      "UsersEstimate": 40093
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -20161,7 +20166,7 @@
       "Name": "Talent Pool",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_THAT_LUCKY_OL_SUN",
@@ -20177,7 +20182,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 48110
+      "UsersEstimate": 48111
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -20185,7 +20190,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 24055
+      "UsersEstimate": 24056
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -20249,7 +20254,7 @@
       "Name": "Volare!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24055
+      "UsersEstimate": 24056
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -20281,7 +20286,7 @@
       "Name": "Wild Card",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8018
+      "UsersEstimate": 8019
     },
     {
       "ID": "ACHIEVEMENT_YOULL_KNOW_WHEN_IT_HAPPENS",
@@ -20304,13 +20309,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 801841,
+      "Progressed": 801852,
       "Completed": 204
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 801841,
+      "Progressed": 801852,
       "Completed": 170
     }
   ],
@@ -20318,8 +20323,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-09-26T01:44:07.6773039+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:49:28.5132604+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:21:32.1385488+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:57:01.823974+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:44:07.6773046+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:49:28.5133983+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:16:13.4019177+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:21:32.1387283+00:00"
 }

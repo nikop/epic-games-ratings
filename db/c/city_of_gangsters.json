@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -631,9 +631,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 345014,
+  "EOS_Progressed": 345016,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18401,6 +18401,11 @@
       "Time": "2023-09-26T01:47:30.5230408+00:00",
       "NumProgressed": 345014,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-26T02:20:01.9735033+00:00",
+      "NumProgressed": 345016,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18620,7 +18625,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158706
+      "UsersEstimate": 158707
     },
     {
       "ID": "ach028",
@@ -18716,7 +18721,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34501
+      "UsersEstimate": 34502
     },
     {
       "ID": "ach040",
@@ -18876,7 +18881,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34501
+      "UsersEstimate": 34502
     },
     {
       "ID": "ach060",
@@ -18940,7 +18945,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55202
+      "UsersEstimate": 55203
     },
     {
       "ID": "ach069",
@@ -19051,7 +19056,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345014,
+      "Progressed": 345016,
       "Completed": 7
     }
   ],
@@ -19059,8 +19064,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-23T09:00:25.6768504+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:47:30.5230404+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:20:01.9735028+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:39:59.8122465+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:47:30.523205+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:13:10.1570803+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:20:01.9737356+00:00"
 }

@@ -6,14 +6,14 @@ Rating: 4.46 (Ranked 632)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,687 |
-| Confirming Suspicions | 41.00% | ~1,503 |
+| Confirming Suspicions | 41.00% | ~1,504 |
 | The Kraken Wakes | 36.00% | ~1,320 |
 | It's Starting to Crack | 33.00% | ~1,210 |
 | Change the Channel | 30.00% | ~1,100 |
-| Lord of War | 29.00% | ~1,063 |
+| Lord of War | 29.00% | ~1,064 |
 | Taking it back | 28.00% | ~1,027 |
-| Resourceful | 26.00% | ~953 |
-| Target America | 26.00% | ~953 |
+| Resourceful | 26.00% | ~954 |
+| Target America | 26.00% | ~954 |
 | The Kraken Sleeps | 24.00% | ~880 |
 | Liberté | 22.00% | ~807 |
 | Organ Grinder | 22.00% | ~807 |
@@ -21,17 +21,17 @@ Rating: 4.46 (Ranked 632)
 | Sharpshooter | 21.00% | ~770 |
 | Gunslinger | 18.00% | ~660 |
 | Explosive Efficiency | 18.00% | ~660 |
-| Just a Flesh Wound | 17.00% | ~623 |
+| Just a Flesh Wound | 17.00% | ~624 |
 | Climbing the Ladder | 16.00% | ~587 |
 | Der Geist | 16.00% | ~587 |
 | Close Quarters | 15.00% | ~550 |
 | Brains of the Operation | 15.00% | ~550 |
-| No Stone Unturned | 14.00% | ~513 |
-| Enemy at the Gates | 14.00% | ~513 |
-| Fields of Glory | 14.00% | ~513 |
-| Skirmisher | 14.00% | ~513 |
-| Die Nussknacker Sweet! | 14.00% | ~513 |
-| Snake in the Grass | 14.00% | ~513 |
+| No Stone Unturned | 14.00% | ~514 |
+| Enemy at the Gates | 14.00% | ~514 |
+| Fields of Glory | 14.00% | ~514 |
+| Skirmisher | 14.00% | ~514 |
+| Die Nussknacker Sweet! | 14.00% | ~514 |
+| Snake in the Grass | 14.00% | ~514 |
 | Opposing Force | 13.00% | ~477 |
 | Set Europe Ablaze | 13.00% | ~477 |
 | Precision Is Key | 9.00% | ~330 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 632)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,667 (Ranked 171)  
+Progressed: 3,668 (Ranked 171)  
 Completed: 11 (0.30%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 11 (0.30%) (Ranked 191)
 | 2023-09-23 | 3,658 | 11 |
 | 2023-09-24 | 3,662 | 11 |
 | 2023-09-25 | 3,667 | 11 |
+| 2023-09-26 | 3,668 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

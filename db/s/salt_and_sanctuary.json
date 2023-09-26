@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2631,9 +2631,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534009,
+  "EOS_Progressed": 534010,
   "EOS_Completed": 1554,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19931,6 +19931,11 @@
       "Time": "2023-09-26T01:47:55.360315+00:00",
       "NumProgressed": 534009,
       "NumCompleted": 1554
+    },
+    {
+      "Time": "2023-09-26T02:20:21.3527352+00:00",
+      "NumProgressed": 534010,
+      "NumCompleted": 1554
     }
   ],
   "TotalAchievements": 37,
@@ -19998,7 +20003,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443227
+      "UsersEstimate": 443228
     },
     {
       "ID": "HONED",
@@ -20102,7 +20107,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80101
+      "UsersEstimate": 80102
     },
     {
       "ID": "THE_IMPOSTER",
@@ -20214,7 +20219,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85441
+      "UsersEstimate": 85442
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -20237,15 +20242,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534009,
+      "Progressed": 534010,
       "Completed": 1554
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-24T20:57:23.7120946+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:47:55.3603146+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:20:21.3527344+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:40:51.1469082+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:47:55.3604254+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:13:48.3171835+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:20:21.3528824+00:00"
 }

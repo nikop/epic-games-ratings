@@ -3164,7 +3164,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72828,
+  "EOS_Progressed": 72829,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 4,
@@ -16639,6 +16639,11 @@
       "Time": "2023-09-26T00:06:58.7090459+00:00",
       "NumProgressed": 72828,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-26T02:21:59.3260072+00:00",
+      "NumProgressed": 72829,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16698,7 +16703,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16750
+      "UsersEstimate": 16751
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16890,7 +16895,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13837
+      "UsersEstimate": 13838
     },
     {
       "ID": "FREEZE_3",
@@ -16978,7 +16983,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11652
+      "UsersEstimate": 11653
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -17058,7 +17063,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16750
+      "UsersEstimate": 16751
     },
     {
       "ID": "MYSTERY_04",
@@ -17137,13 +17142,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72828,
+      "Progressed": 72829,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43108,
+      "Progressed": 43109,
       "Completed": 2667
     }
   ],
@@ -17151,8 +17156,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-25T16:57:54.5212791+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:50:03.8121054+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:21:59.3260067+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:41:04.6610053+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:50:03.8122293+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:13:56.6085543+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:21:59.3261581+00:00"
 }

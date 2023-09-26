@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5007,
+  "EOS_Progressed": 5011,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4165,6 +4165,11 @@
       "Time": "2023-09-26T01:46:39.4367383+00:00",
       "NumProgressed": 5007,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-26T02:19:22.6988306+00:00",
+      "NumProgressed": 5011,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4225,7 +4230,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "a_19",
@@ -4233,7 +4238,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "a_2",
@@ -4241,7 +4246,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "a_20",
@@ -4249,7 +4254,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "a_21",
@@ -4257,7 +4262,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "a_22",
@@ -4273,7 +4278,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "a_25",
@@ -4335,9 +4340,9 @@
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "a_33",
@@ -4383,9 +4388,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "a_6",
@@ -4424,7 +4429,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5007,
+      "Progressed": 5011,
       "Completed": 6
     }
   ],
@@ -4432,8 +4437,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-26T01:46:39.4367379+00:00",
+  "LastChanged_Achievements": "2023-09-26T02:19:22.6988301+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-26T01:44:52.5902642+00:00",
-  "LastUpdate_Achievements": "2023-09-26T01:46:39.4367714+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:16:54.2700773+00:00",
+  "LastUpdate_Achievements": "2023-09-26T02:19:22.6988761+00:00"
 }
