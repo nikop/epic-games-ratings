@@ -25,7 +25,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Finish line | 26.00% | ~4,903 |
 | Unstoppable force | 22.00% | ~4,149 |
 | Wave of mutilation | 21.00% | ~3,960 |
-| Can't Run Can't Hide | 16.00% | ~3,017 |
+| Can't Run Can't Hide | 17.00% | ~3,206 |
 | R is for Running | 16.00% | ~3,017 |
 | Dead in the air | 15.00% | ~2,829 |
 | Improvise, adapt, overrun | 13.00% | ~2,452 |

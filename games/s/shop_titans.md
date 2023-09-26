@@ -6,7 +6,7 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,101 |
+| Sponsored by Argon | 3.00% | ~4,102 |
 | Basic in Bulk | 2.00% | ~2,734 |
 | Disintermediation | 2.00% | ~2,734 |
 | It's Free Real Estate | 2.00% | ~2,734 |
@@ -36,13 +36,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.70% | ~957 |
 | Research & Development | 0.70% | ~957 |
 | Vanity, Verily | 0.70% | ~957 |
+| Fated Encounters | 0.70% | ~957 |
 | Efficient Floor Space | 0.70% | ~957 |
 | Flawless Fusion | 0.70% | ~957 |
 | Gem Expert | 0.70% | ~957 |
 | Helping Hand | 0.70% | ~957 |
 | Natural 20 | 0.70% | ~957 |
 | Tax not Included | 0.60% | ~820 |
-| Fated Encounters | 0.60% | ~820 |
 | For the Hoard! | 0.60% | ~820 |
 | Power of Love | 0.60% | ~820 |
 | Trash to Treasure | 0.60% | ~820 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,715 (Ranked 69)  
+Progressed: 136,717 (Ranked 69)  
 Completed: 155 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 155 (0.11%) (Ranked 229)
 | 2023-09-23 | 136,602 | 153 |
 | 2023-09-24 | 136,667 | 154 |
 | 2023-09-25 | 136,703 | 155 |
-| 2023-09-26 | 136,715 | 155 |
+| 2023-09-26 | 136,717 | 155 |
 ## Awards
 Max (Great for Beginners): 4,758  (Ranked 70)  
 Sum: 27,292 (Ranked 48)  

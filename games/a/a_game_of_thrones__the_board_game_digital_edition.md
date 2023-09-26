@@ -20,9 +20,9 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 7.00% | ~1,735 |
 | Influential | 7.00% | ~1,735 |
 | We Do Not Sow | 6.00% | ~1,487 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,487 |
 | Hear me Roar! | 6.00% | ~1,487 |
 | Defender of the Wall | 6.00% | ~1,487 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,240 |
 | Growing Strong | 5.00% | ~1,240 |
 | What is Dead may Never Die | 3.00% | ~744 |
 | The Swift | 3.00% | ~744 |

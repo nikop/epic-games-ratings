@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~44,561 |
-| Get Busy Living | 16.00% | ~28,519 |
-| Samuel Norton | 9.00% | ~16,042 |
-| Spare The Rod | 5.00% | ~8,912 |
-| Don't Put Me In The Dark | 3.00% | ~5,347 |
-| Wait and Hope | 3.00% | ~5,347 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,347 |
+| Stone Walls | 25.00% | ~44,563 |
+| Get Busy Living | 16.00% | ~28,520 |
+| Samuel Norton | 9.00% | ~16,043 |
+| Spare The Rod | 5.00% | ~8,913 |
+| Don't Put Me In The Dark | 3.00% | ~5,348 |
+| Wait and Hope | 3.00% | ~5,348 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,348 |
 | Throw The Book At Them | 2.00% | ~3,565 |
 | Iron Bars | 2.00% | ~3,565 |
-| D.B. Cooper | 1.00% | ~1,782 |
-| Reformation | 0.60% | ~1,069 |
+| D.B. Cooper | 1.00% | ~1,783 |
+| Reformation | 0.60% | ~1,070 |
 | Crowd Control | 0.50% | ~891 |
 | Freedom | 0.40% | ~713 |
 | Confined | 0.30% | ~535 |
 | It's Not What You Know... | 0.10% | ~178 |
 | ... It's What You Can Prove | 0.10% | ~178 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,243 (Ranked 66)  
+Progressed: 178,251 (Ranked 66)  
 Completed: 8 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,10 +182,10 @@ Completed: 8 (0.00%) (Ranked 293)
 | 2023-09-23 | 177,523 | 8 |
 | 2023-09-24 | 177,895 | 8 |
 | 2023-09-25 | 178,179 | 8 |
-| 2023-09-26 | 178,243 | 8 |
+| 2023-09-26 | 178,251 | 8 |
 ## Awards
 Max (Extremely Fun): 513  (Ranked 200)  
-Sum: 4,402 (Ranked 141)  
+Sum: 4,406 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -193,7 +193,7 @@ Diff (max vs sum): 59
 | This game is Great for Beginners | 498 |
 | This game is Highly Recommended | 482 |
 | This game has Quickly Understood Controls | 480 |
-| This game is Relaxing | 454 |
+| This game is Relaxing | 458 |
 | This game has Amazing Storytelling | 436 |
 | This game has Diverse Characters | 431 |
 | This game is Educational | 417 |
@@ -449,4 +449,4 @@ Diff (max vs sum): 59
 | 2023-09-23 | 4.61 | - | 510 | 4,374 |
 | 2023-09-24 | 4.61 | - | 513 | 4,388 |
 | 2023-09-25 | 4.61 | - | 513 | 4,398 |
-| 2023-09-26 | 4.61 | - | 513 | 4,402 |
+| 2023-09-26 | 4.61 | - | 513 | 4,406 |

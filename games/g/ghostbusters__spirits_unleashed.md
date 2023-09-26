@@ -21,13 +21,13 @@ Rating: 4.50 (Ranked 573)
 | Back Off | 0.40% | ~104 |
 | Clutch Capture | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
+| Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
 | Summoner | 0.40% | ~104 |
 | Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
-| Ectoplasmic Entity | 0.30% | ~78 |
 | Right back at ya | 0.30% | ~78 |
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |

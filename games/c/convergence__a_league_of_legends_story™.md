@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 402)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 30.00% | ~267 |
+| Time Heals All Wounds | 29.00% | ~259 |
 | The Mysterious Stranger | 24.00% | ~214 |
 | Rail Rat | 24.00% | ~214 |
 | Immaculate Aim | 21.00% | ~187 |
@@ -21,13 +21,13 @@ Rating: 4.60 (Ranked 402)
 | Honest Mistake | 19.00% | ~169 |
 | Fast Learner | 19.00% | ~169 |
 | Immaculate Aim | 19.00% | ~169 |
-| Like Clockwork | 18.00% | ~160 |
-| The Betrayer | 18.00% | ~160 |
-| Golem Chaser | 18.00% | ~160 |
-| Right On Time | 17.00% | ~151 |
-| The Loose Cannon | 17.00% | ~151 |
-| Check Your Pulse | 17.00% | ~151 |
-| The Family Fortune | 17.00% | ~151 |
+| Like Clockwork | 18.00% | ~161 |
+| The Betrayer | 18.00% | ~161 |
+| Golem Chaser | 18.00% | ~161 |
+| Right On Time | 17.00% | ~152 |
+| The Loose Cannon | 17.00% | ~152 |
+| Check Your Pulse | 17.00% | ~152 |
+| The Family Fortune | 17.00% | ~152 |
 | The Man Who Shattered Time | 16.00% | ~143 |
 | Street Style | 15.00% | ~134 |
 | Treasure Trove | 14.00% | ~125 |
@@ -46,7 +46,7 @@ Rating: 4.60 (Ranked 402)
 | Sartorialist | 8.00% | ~71 |
 | Cultivair Explorer | 8.00% | ~71 |
 | Entresol Explorer | 8.00% | ~71 |
-| Golem Hunter | 6.00% | ~53 |
+| Golem Hunter | 6.00% | ~54 |
 | Clovemary for Remembering | 5.00% | ~45 |
 | Rungs Was Right | 5.00% | ~45 |
 | Hexlock for Protection | 4.00% | ~36 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 402)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891 (Ranked 234)  
+Progressed: 892 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 5 (0.56%) (Ranked 154)
 | 2023-09-22 | 887 | 5 |
 | 2023-09-23 | 889 | 5 |
 | 2023-09-24 | 891 | 5 |
+| 2023-09-26 | 892 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

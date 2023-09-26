@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,808 |
-| Let There Be Light | 34.00% | ~22,511 |
-| Float Like a Butterfly | 32.00% | ~21,187 |
+| Follow the Light | 42.00% | ~27,809 |
+| Let There Be Light | 34.00% | ~22,512 |
+| Float Like a Butterfly | 32.00% | ~21,188 |
 | Nordic Walking | 26.00% | ~17,215 |
 | Bright Falls' Finest | 26.00% | ~17,215 |
-| Under a Thin Layer of Skin | 23.00% | ~15,228 |
+| Under a Thin Layer of Skin | 23.00% | ~15,229 |
 | Park Ranger | 19.00% | ~12,580 |
 | Paging Mr. Wake | 19.00% | ~12,580 |
 | Back! Back, I Say! | 18.00% | ~11,918 |
@@ -21,10 +21,10 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 15.00% | ~9,932 |
 | They're Heeeeeere! | 15.00% | ~9,932 |
 | Missed by a Mile | 15.00% | ~9,932 |
-| Iron Horse | 14.00% | ~9,269 |
-| The Six-Gun Scribe | 14.00% | ~9,269 |
-| Collateral Carnage | 14.00% | ~9,269 |
-| Come One, Come All | 14.00% | ~9,269 |
+| Iron Horse | 14.00% | ~9,270 |
+| The Six-Gun Scribe | 14.00% | ~9,270 |
+| Collateral Carnage | 14.00% | ~9,270 |
+| Come One, Come All | 14.00% | ~9,270 |
 | Heavy Metal | 13.00% | ~8,607 |
 | Perchance to Dream | 13.00% | ~8,607 |
 | Gatekeeper | 12.00% | ~7,945 |
@@ -42,9 +42,9 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 6.00% | ~3,973 |
 | A Friend Indeed | 6.00% | ~1,781 |
 | Ding! | 6.00% | ~1,781 |
-| Children of the Elder God | 5.00% | ~3,310 |
-| If It Flies, It Burns | 5.00% | ~3,310 |
-| KBF-FM | 5.00% | ~3,310 |
+| Children of the Elder God | 5.00% | ~3,311 |
+| If It Flies, It Burns | 5.00% | ~3,311 |
+| KBF-FM | 5.00% | ~3,311 |
 | Boob Tube | 4.00% | ~2,648 |
 | Heartbreaker | 4.00% | ~1,187 |
 | Carny | 3.00% | ~1,986 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,210 (Ranked 89)  
+Progressed: 66,211 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 66 (0.10%) (Ranked 233)
 | 2023-09-23 | 66,060 | 66 |
 | 2023-09-24 | 66,142 | 66 |
 | 2023-09-25 | 66,202 | 66 |
-| 2023-09-26 | 66,210 | 66 |
+| 2023-09-26 | 66,211 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -518,9 +518,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66210,
+  "EOS_Progressed": 66211,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15913,6 +15913,11 @@
       "Time": "2023-09-26T05:07:34.0605167+00:00",
       "NumProgressed": 66210,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-26T08:05:48.5278289+00:00",
+      "NumProgressed": 66211,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15924,7 +15929,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27808
+      "UsersEstimate": 27809
     },
     {
       "ID": "02",
@@ -15956,7 +15961,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15228
+      "UsersEstimate": 15229
     },
     {
       "ID": "06",
@@ -15980,7 +15985,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9269
+      "UsersEstimate": 9270
     },
     {
       "ID": "09",
@@ -16004,7 +16009,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "12",
@@ -16076,7 +16081,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "21",
@@ -16092,7 +16097,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9269
+      "UsersEstimate": 9270
     },
     {
       "ID": "23",
@@ -16132,7 +16137,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9269
+      "UsersEstimate": 9270
     },
     {
       "ID": "28",
@@ -16140,7 +16145,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9269
+      "UsersEstimate": 9270
     },
     {
       "ID": "29",
@@ -16172,7 +16177,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21187
+      "UsersEstimate": 21188
     },
     {
       "ID": "33",
@@ -16196,7 +16201,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22511
+      "UsersEstimate": 22512
     },
     {
       "ID": "36",
@@ -16300,7 +16305,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "49",
@@ -16459,21 +16464,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66210,
+      "Progressed": 66211,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29678,
+      "Progressed": 29679,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-25T11:00:21.6078659+00:00",
-  "LastChanged_Achievements": "2023-09-26T07:06:48.1381819+00:00",
+  "LastChanged_Achievements": "2023-09-26T08:05:48.5278284+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-26T07:02:01.5179918+00:00",
-  "LastUpdate_Achievements": "2023-09-26T07:06:48.1383493+00:00"
+  "LastUpdate_Ratings": "2023-09-26T08:00:42.2102761+00:00",
+  "LastUpdate_Achievements": "2023-09-26T08:05:48.5279893+00:00"
 }

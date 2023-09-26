@@ -27,7 +27,7 @@ Rating: 4.49 (Ranked 588)
 | The More The Merrier | 33.00% | ~1,123 |
 | The Darwin Era Was Here | 29.00% | ~987 |
 | Deep Into Insanity | 28.00% | ~953 |
-| The Passenger | 27.00% | ~919 |
+| The Passenger | 28.00% | ~953 |
 | Come on, You Wanna Live Forever? | 26.00% | ~885 |
 | The Spire | 25.00% | ~851 |
 | El Riesgo Siempre Vive | 24.00% | ~817 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2270,6 +2270,11 @@
       "Time": "2023-09-24T20:04:32.9399457+00:00",
       "NumProgressed": 891,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-26T08:05:07.9617028+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2313,7 +2318,7 @@
       "Name": "Right On Time",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2329,7 +2334,7 @@
       "Name": "Like Clockwork",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ClovemaryGift",
@@ -2409,7 +2414,7 @@
       "Name": "The Betrayer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2465,7 +2470,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LacunaCompleted",
@@ -2567,9 +2572,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 259
     },
     {
       "ID": "RewindParry",
@@ -2585,7 +2590,7 @@
       "Name": "Golem Hunter",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ScrambotProgress1",
@@ -2593,7 +2598,7 @@
       "Name": "Golem Chaser",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "SkillCompletion1",
@@ -2641,7 +2646,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "TheaterChests1",
@@ -2697,14 +2702,14 @@
       "Name": "The Family Fortune",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 5
     }
   ],
@@ -2712,8 +2717,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-26T07:05:59.3761569+00:00",
+  "LastChanged_Achievements": "2023-09-26T08:05:07.9617025+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-26T06:58:54.3010719+00:00",
-  "LastUpdate_Achievements": "2023-09-26T07:05:59.3762127+00:00"
+  "LastUpdate_Ratings": "2023-09-26T07:58:31.0032284+00:00",
+  "LastUpdate_Achievements": "2023-09-26T08:05:07.9617617+00:00"
 }

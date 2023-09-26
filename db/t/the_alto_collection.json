@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40530,
+  "EOS_Progressed": 40531,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18499,6 +18499,11 @@
       "Time": "2023-09-26T07:06:30.973735+00:00",
       "NumProgressed": 40530,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-26T08:05:34.2683441+00:00",
+      "NumProgressed": 40531,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18622,7 +18627,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "nomad",
@@ -18702,7 +18707,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "proximityFly1000",
@@ -18798,7 +18803,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "wanderer",
@@ -18821,15 +18826,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40530,
+      "Progressed": 40531,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-26T07:06:30.9737342+00:00",
+  "LastChanged_Achievements": "2023-09-26T08:05:34.2683437+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-26T06:58:10.9661126+00:00",
-  "LastUpdate_Achievements": "2023-09-26T07:06:30.9738785+00:00"
+  "LastUpdate_Ratings": "2023-09-26T07:57:54.832782+00:00",
+  "LastUpdate_Achievements": "2023-09-26T08:05:34.2684784+00:00"
 }

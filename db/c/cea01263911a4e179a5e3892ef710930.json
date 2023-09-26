@@ -2,13 +2,13 @@
   "ID": "cea01263911a4e179a5e3892ef710930",
   "Name": "Dodo Peak",
   "ProductSlug": "dodo-peak-159276",
-  "Ranking_Rating": 971,
+  "Ranking_Rating": 973,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.93,
+  "Rating": 3.91,
   "RatingHistory": [
     {
       "Time": "2023-08-27T07:59:18.2658047+00:00",
@@ -114,6 +114,12 @@
     {
       "Time": "2023-09-23T14:59:03.0223255+00:00",
       "Rating": 3.93,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-26T07:59:41.498968+00:00",
+      "Rating": 3.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5166,9 +5172,9 @@
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged": "2023-09-23T14:59:03.0223254+00:00",
+  "LastChanged": "2023-09-26T07:59:41.4989679+00:00",
   "LastChanged_Achievements": "2023-09-26T07:03:27.5471308+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:55.4569513+00:00",
-  "LastUpdate_Ratings": "2023-09-26T07:00:29.3034588+00:00",
+  "LastUpdate_Ratings": "2023-09-26T07:59:41.4989693+00:00",
   "LastUpdate_Achievements": "2023-09-26T07:03:27.549243+00:00"
 }

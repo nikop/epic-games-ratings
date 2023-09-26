@@ -24,15 +24,15 @@ Rating: 4.54 (Ranked 507)
 | Stacking the Deck | 2.00% | ~13,729 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,729 |
 | This is My Weapon | 2.00% | ~13,729 |
-| Making Your Mark | 1.00% | ~6,864 |
-| Anger Management | 1.00% | ~6,864 |
-| Perks of the Job | 1.00% | ~6,864 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,864 |
-| Ooh, Shiny! | 1.00% | ~6,864 |
-| Humanity Distilled | 1.00% | ~6,864 |
-| I Am the Resurrection | 1.00% | ~6,864 |
-| Down with the Sickness | 1.00% | ~6,864 |
-| Our True Nature | 1.00% | ~6,864 |
+| Making Your Mark | 1.00% | ~6,865 |
+| Anger Management | 1.00% | ~6,865 |
+| Perks of the Job | 1.00% | ~6,865 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,865 |
+| Ooh, Shiny! | 1.00% | ~6,865 |
+| Humanity Distilled | 1.00% | ~6,865 |
+| I Am the Resurrection | 1.00% | ~6,865 |
+| Down with the Sickness | 1.00% | ~6,865 |
+| Our True Nature | 1.00% | ~6,865 |
 | Max Headroom | 0.90% | ~6,178 |
 | Go, Bobcats! | 0.80% | ~5,492 |
 | Rising Star | 0.80% | ~5,492 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,450 (Ranked 22)  
+Progressed: 686,460 (Ranked 22)  
 Completed: 2,175 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,16 +210,16 @@ Completed: 2,175 (0.32%) (Ranked 187)
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
-| 2023-09-26 | 686,450 | 2,175 |
+| 2023-09-26 | 686,460 | 2,175 |
 ## Awards
 Max (Great Boss Battles): 6,204  (Ranked 57)  
-Sum: 9,227 (Ranked 92)  
+Sum: 9,230 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,204 |
 | This game is Great for Beginners | 430 |
-| This game has Diverse Characters | 418 |
+| This game has Diverse Characters | 421 |
 | This game has Quickly Understood Controls | 403 |
 | This game is Relaxing | 387 |
 | This game has Amazing Storytelling | 360 |
@@ -387,3 +387,4 @@ Diff (max vs sum): -35
 | 2023-09-23 | 4.54 | 6,175 | 9,178 |
 | 2023-09-24 | 4.54 | 6,188 | 9,207 |
 | 2023-09-25 | 4.54 | 6,204 | 9,227 |
+| 2023-09-26 | 4.54 | 6,204 | 9,230 |

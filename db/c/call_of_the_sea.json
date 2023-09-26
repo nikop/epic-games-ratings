@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121457,
+  "EOS_Progressed": 121459,
   "EOS_Completed": 999,
-  "EOS_NewPlayers": 1284,
+  "EOS_NewPlayers": 1278,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18088,6 +18088,11 @@
       "Time": "2023-09-26T07:04:04.9841283+00:00",
       "NumProgressed": 121457,
       "NumCompleted": 999
+    },
+    {
+      "Time": "2023-09-26T08:03:34.2544251+00:00",
+      "NumProgressed": 121459,
+      "NumCompleted": 999
     }
   ],
   "TotalAchievements": 34,
@@ -18099,7 +18104,7 @@
       "Name": "Written in Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7287
+      "UsersEstimate": 7288
     },
     {
       "ID": "ACH_GAME_END",
@@ -18115,7 +18120,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 51012
+      "UsersEstimate": 51013
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -18155,7 +18160,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 95951
+      "UsersEstimate": 95953
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -18171,7 +18176,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 68016
+      "UsersEstimate": 68017
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -18179,7 +18184,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 34008
+      "UsersEstimate": 34009
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -18187,7 +18192,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 47368
+      "UsersEstimate": 47369
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -18195,7 +18200,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 32793
+      "UsersEstimate": 32794
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -18211,7 +18216,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 36437
+      "UsersEstimate": 36438
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -18227,7 +18232,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 36437
+      "UsersEstimate": 36438
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -18267,7 +18272,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 32793
+      "UsersEstimate": 32794
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -18275,7 +18280,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 34008
+      "UsersEstimate": 34009
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -18370,7 +18375,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 121457,
+      "Progressed": 121459,
       "Completed": 999
     }
   ],
@@ -18378,8 +18383,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-26T07:04:04.9841276+00:00",
+  "LastChanged_Achievements": "2023-09-26T08:03:34.2544247+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:29.1830312+00:00",
-  "LastUpdate_Ratings": "2023-09-26T06:58:20.4235024+00:00",
-  "LastUpdate_Achievements": "2023-09-26T07:04:04.9842711+00:00"
+  "LastUpdate_Ratings": "2023-09-26T07:58:05.4891308+00:00",
+  "LastUpdate_Achievements": "2023-09-26T08:03:34.2545411+00:00"
 }

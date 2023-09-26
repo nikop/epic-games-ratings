@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8124,9 +8124,9 @@
       "Count": 672
     }
   ],
-  "EOS_Progressed": 297359,
+  "EOS_Progressed": 297362,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25294,6 +25294,11 @@
       "Time": "2023-09-26T07:08:05.1759786+00:00",
       "NumProgressed": 297359,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-26T08:06:34.9833675+00:00",
+      "NumProgressed": 297362,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25489,7 +25494,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32709
+      "UsersEstimate": 32710
     },
     {
       "ID": "PFA_31",
@@ -25529,7 +25534,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26762
+      "UsersEstimate": 26763
     },
     {
       "ID": "PFA_36",
@@ -25649,7 +25654,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32709
+      "UsersEstimate": 32710
     },
     {
       "ID": "PFA_9",
@@ -25657,14 +25662,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26762
+      "UsersEstimate": 26763
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297359,
+      "Progressed": 297362,
       "Completed": 477
     }
   ],
@@ -25672,8 +25677,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-26T06:01:09.6817601+00:00",
-  "LastChanged_Achievements": "2023-09-26T07:08:05.1759778+00:00",
+  "LastChanged_Achievements": "2023-09-26T08:06:34.983367+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-26T07:01:40.111881+00:00",
-  "LastUpdate_Achievements": "2023-09-26T07:08:05.1761298+00:00"
+  "LastUpdate_Ratings": "2023-09-26T08:00:27.1306442+00:00",
+  "LastUpdate_Achievements": "2023-09-26T08:06:34.9835071+00:00"
 }

@@ -3943,9 +3943,9 @@
       "ID": "achCompleteFirstMission",
       "SetID": "dgl390n",
       "Name": "Cadet",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 912
     },
     {
       "ID": "achCreateLine",
@@ -4279,8 +4279,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-24T14:58:23.3575121+00:00",
-  "LastChanged_Achievements": "2023-09-26T07:09:05.3685199+00:00",
+  "LastChanged_Achievements": "2023-09-26T08:08:27.0521523+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.8657884+00:00",
-  "LastUpdate_Ratings": "2023-09-26T06:59:14.1731937+00:00",
-  "LastUpdate_Achievements": "2023-09-26T07:09:05.368589+00:00"
+  "LastUpdate_Ratings": "2023-09-26T07:58:46.5958158+00:00",
+  "LastUpdate_Achievements": "2023-09-26T08:08:27.0522273+00:00"
 }

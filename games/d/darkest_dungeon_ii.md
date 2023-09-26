@@ -6,54 +6,54 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~110,462 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~84,331 |
-| A Clear Conscience | 69.00% | ~81,955 |
-| Unleash Hell | 68.00% | ~80,768 |
-| Unfulfilled Desires | 68.00% | ~80,768 |
-| Funny Guy | 67.00% | ~79,580 |
-| Unshackled | 67.00% | ~79,580 |
-| Long Live the King | 66.00% | ~78,392 |
-| Resurrection | 62.00% | ~73,641 |
-| Wyrdly Reconstructed | 62.00% | ~73,641 |
-| Boxcar Kid | 60.00% | ~71,266 |
-| Rush Hour | 60.00% | ~71,266 |
-| To Grandmother's House | 60.00% | ~71,266 |
-| Serenity Now! | 53.00% | ~62,951 |
-| Hope Rekindled | 50.00% | ~59,388 |
-| Ramble On | 49.00% | ~58,200 |
-| Nope | 48.00% | ~57,012 |
-| This Looks Familiar | 38.00% | ~45,135 |
-| Now Stay Dead | 37.00% | ~43,947 |
-| Merry Time | 36.00% | ~42,759 |
-| Harvest Festival | 36.00% | ~42,759 |
-| Hot Air | 36.00% | ~42,759 |
-| Creep and Sleep | 33.00% | ~39,196 |
-| Overdue Notice | 32.00% | ~38,008 |
+| A Place to Lay Your Head | 93.00% | ~110,464 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~84,333 |
+| A Clear Conscience | 69.00% | ~81,958 |
+| Unleash Hell | 68.00% | ~80,770 |
+| Unfulfilled Desires | 68.00% | ~80,770 |
+| Funny Guy | 67.00% | ~79,582 |
+| Unshackled | 67.00% | ~79,582 |
+| Long Live the King | 66.00% | ~78,394 |
+| Resurrection | 62.00% | ~73,643 |
+| Wyrdly Reconstructed | 62.00% | ~73,643 |
+| Boxcar Kid | 60.00% | ~71,267 |
+| Rush Hour | 60.00% | ~71,267 |
+| To Grandmother's House | 60.00% | ~71,267 |
+| Serenity Now! | 53.00% | ~62,953 |
+| Hope Rekindled | 50.00% | ~59,390 |
+| Ramble On | 49.00% | ~58,202 |
+| Nope | 48.00% | ~57,014 |
+| This Looks Familiar | 38.00% | ~45,136 |
+| Now Stay Dead | 37.00% | ~43,948 |
+| Merry Time | 36.00% | ~42,760 |
+| Harvest Festival | 36.00% | ~42,760 |
+| Hot Air | 36.00% | ~42,760 |
+| Creep and Sleep | 33.00% | ~39,197 |
+| Overdue Notice | 32.00% | ~38,009 |
 | Banishment | 31.00% | ~36,821 |
 | Whale | 31.00% | ~36,821 |
-| FNG | 29.00% | ~34,445 |
-| Predator | 25.00% | ~29,694 |
-| Reverse Banditry | 25.00% | ~29,694 |
-| Autodidact | 24.00% | ~28,506 |
+| FNG | 29.00% | ~34,446 |
+| Predator | 25.00% | ~29,695 |
+| Reverse Banditry | 25.00% | ~29,695 |
+| Autodidact | 24.00% | ~28,507 |
 | Meat and Greet | 22.00% | ~26,131 |
 | Road Trip | 22.00% | ~26,131 |
-| Spelunker | 21.00% | ~24,943 |
-| Eyes Up | 21.00% | ~24,943 |
-| It Rings a Bell | 20.00% | ~23,755 |
+| Spelunker | 21.00% | ~24,944 |
+| Eyes Up | 21.00% | ~24,944 |
+| It Rings a Bell | 20.00% | ~23,756 |
 | Escape from the Black Hole | 18.00% | ~21,380 |
 | Dissector | 17.00% | ~20,192 |
 | It Happens | 17.00% | ~20,192 |
-| This Belongs in a Museum | 16.00% | ~19,004 |
-| Handled | 16.00% | ~19,004 |
+| This Belongs in a Museum | 16.00% | ~19,005 |
+| Handled | 16.00% | ~19,005 |
 | Catch and Decease | 14.00% | ~16,629 |
 | Not Today! | 13.00% | ~15,441 |
 | Deprogramming | 13.00% | ~15,441 |
 | Shrine of Reflection | 12.00% | ~14,253 |
-| When You Want Something Done Right | 11.00% | ~13,065 |
+| When You Want Something Done Right | 11.00% | ~13,066 |
 | Body of Work | 10.00% | ~11,878 |
 | Utopia | 8.00% | ~9,502 |
-| Hat Trick | 7.00% | ~8,314 |
+| Hat Trick | 7.00% | ~8,315 |
 | No More Mouths to Feed | 6.00% | ~7,127 |
 | Ichthyophobic | 5.00% | ~5,939 |
 | The World As It Was | 4.00% | ~4,751 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~119 |
 | No Gravestone Left Unturned | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,776 (Ranked 73)  
+Progressed: 118,779 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 1 (0.00%) (Ranked 293)
 | 2023-09-23 | 118,552 | 1 |
 | 2023-09-24 | 118,664 | 1 |
 | 2023-09-25 | 118,756 | 1 |
-| 2023-09-26 | 118,776 | 1 |
+| 2023-09-26 | 118,779 | 1 |
 ## Awards
 Max (Character Customization): 7,416  (Ranked 48)  
 Sum: 19,379 (Ranked 56)  
