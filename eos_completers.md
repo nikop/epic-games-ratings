@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.14% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.10% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.79% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -191,11 +191,11 @@
 | 188 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 188 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 191 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.30% |
 | 191 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
 | 191 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 195 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 195 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 194 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 194 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 194 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.29% |
 | 197 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.27% |
 | 198 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.26% |
 | 199 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |

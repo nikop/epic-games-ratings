@@ -32,6 +32,7 @@
 | 26 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.87 | 0 | 525 |
 | 31 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 525 |
 | 31 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 22 | 506 |
+| 31 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 156 | 301 |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 433 |
 | 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 230 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,545 | 31 |
@@ -41,14 +42,13 @@
 | 31 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 525 |
 | 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 507 | 201 |
 | 31 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 525 |
-| 42 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 156 | 301 |
-| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,867 | 45 |
-| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,577 | 64 |
-| 42 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 525 |
-| 42 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 25 | 492 |
-| 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 266 |
-| 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 149 | 304 |
-| 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 701 | 171 |
+| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,867 | 45 |
+| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,577 | 64 |
+| 43 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 525 |
+| 43 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 25 | 492 |
+| 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 266 |
+| 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 149 | 304 |
+| 43 | [Subnautica](games/s/subnautica.md) | 4.85 | 701 | 171 |
 | 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 415 |
 | 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 218 | 270 |
 | 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 403 | 218 |
@@ -222,7 +222,7 @@
 | 205 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 525 |
 | 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 525 |
 | 222 | [Black Book](games/b/black_book.md) | 4.69 | 59 | 396 |
-| 222 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 117,325 | 8 |
+| 222 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 117,403 | 8 |
 | 222 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 525 |
 | 222 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,263 | 56 |
 | 222 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,038 | 69 |
@@ -251,7 +251,7 @@
 | 245 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 525 |
 | 245 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 525 |
 | 245 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,416 | 48 |
-| 245 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,957 | 82 |
+| 245 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,958 | 82 |
 | 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,396 | 77 |
 | 245 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 306,729 | 3 |
 | 245 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 232,244 | 4 |
@@ -441,7 +441,7 @@
 | 435 | [GRIT](games/g/grit.md) | 4.58 | 0 | 525 |
 | 435 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 517 |
 | 435 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 8,158 | 42 |
-| 435 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,494 | 125 |
+| 435 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,495 | 125 |
 | 435 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 315 |
 | 435 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 271 |
 | 435 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 525 |
@@ -467,7 +467,7 @@
 | 451 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 525 |
 | 451 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,967 | 81 |
 | 451 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 465 |
-| 451 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,622 | 20 |
+| 451 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,637 | 20 |
 | 451 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,778 | 116 |
 | 451 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 525 |
 | 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 69 | 383 |
