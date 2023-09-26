@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -362,6 +362,11 @@
       "Time": "2023-09-26T09:03:47.7436414+00:00",
       "NumProgressed": 210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T10:03:44.1581681+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -372,9 +377,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_eou1",
@@ -398,7 +403,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_eou4",
@@ -406,7 +411,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_eou5",
@@ -446,7 +451,7 @@
       "Name": "Disc Collector",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_n64",
@@ -454,7 +459,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_rogue",
@@ -468,23 +473,23 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:03:47.7436409+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:03:44.1581676+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:59:21.1206582+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:03:47.743653+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:59:56.1462703+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:03:44.1581829+00:00"
 }

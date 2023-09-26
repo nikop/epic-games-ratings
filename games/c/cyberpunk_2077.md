@@ -6,11 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.30% | ~2,645 |
-| Rough Landing | 0.30% | ~2,645 |
-| Gunslinger | 0.20% | ~1,764 |
+| Gunslinger | 0.30% | ~2,646 |
+| Ten out of Ten | 0.30% | ~2,646 |
+| Rough Landing | 0.30% | ~2,646 |
 | Master Crafter | 0.20% | ~1,764 |
 | Mean Streets | 0.20% | ~1,764 |
+| Stanislavski's Method | 0.20% | ~1,764 |
+| The High Priestess | 0.20% | ~1,764 |
 | The Jungle | 0.20% | ~1,764 |
 | Two Heads, One Bullet | 0.20% | ~1,764 |
 | V for Vendetta | 0.20% | ~1,764 |
@@ -33,12 +35,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 0.10% | ~882 |
 | Daemon In The Shell | 0.10% | ~882 |
 | Life of the Road | 0.10% | ~882 |
-| Stanislavski's Method | 0.10% | ~882 |
 | Temperance | 0.10% | ~882 |
 | The Devil | 0.10% | ~882 |
 | The Fool | 0.10% | ~882 |
 | The Hermit | 0.10% | ~882 |
-| The High Priestess | 0.10% | ~882 |
 | The Lovers | 0.10% | ~882 |
 | The Star | 0.10% | ~882 |
 | The Sun | 0.10% | ~882 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881,818 (Ranked 15)  
+Progressed: 881,849 (Ranked 15)  
 Completed: 2,394 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 2,394 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 881,818 | 2,394 |
+| 2023-09-26 | 881,849 | 2,394 |
 ## Awards
 Max (Character Customization): 81,778  (Ranked 9)  
 Sum: 223,281 (Ranked 13)  

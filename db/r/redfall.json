@@ -2298,9 +2298,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_006",
@@ -2811,8 +2811,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-09-23T22:00:03.5070604+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:04:17.7787731+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:04:06.3224824+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:38.6808071+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:03:10.5966876+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:04:17.778846+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:02:26.1138763+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:04:06.3225666+00:00"
 }

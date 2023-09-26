@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~179 |
-| Off to a good start | 70.00% | ~138 |
-| Do... or do not. There is no try | 48.00% | ~95 |
-| A good blaster at your side | 37.00% | ~73 |
-| Scrap collector | 25.00% | ~49 |
-| Great shot, kid! | 24.00% | ~47 |
-| The power of the Force | 21.00% | ~41 |
-| I suggest a new strategy | 20.00% | ~39 |
-| Collector | 19.00% | ~37 |
-| All right, I'll give it a try | 18.00% | ~35 |
-| Shoot first | 18.00% | ~35 |
-| Together we can rule the galaxy | 17.00% | ~33 |
-| Tell Jabba that I've got his money | 15.00% | ~30 |
+| New Recruit | 91.00% | ~182 |
+| Off to a good start | 70.00% | ~140 |
+| Do... or do not. There is no try | 48.00% | ~96 |
+| A good blaster at your side | 36.00% | ~72 |
+| Scrap collector | 25.00% | ~50 |
+| Great shot, kid! | 25.00% | ~50 |
+| The power of the Force | 21.00% | ~42 |
+| I suggest a new strategy | 20.00% | ~40 |
+| Collector | 19.00% | ~38 |
+| All right, I'll give it a try | 18.00% | ~36 |
+| Shoot first | 18.00% | ~36 |
+| Together we can rule the galaxy | 17.00% | ~34 |
+| Tell Jabba that I've got his money | 14.00% | ~28 |
 | What's the cargo? | 13.00% | ~26 |
 | Never tell me the odds! | 13.00% | ~26 |
 | Best star-pilot in the galaxy | 13.00% | ~26 |
@@ -25,7 +25,7 @@
 | A tremor in the Force | 12.00% | ~24 |
 | Impressive. Most impressive. | 12.00% | ~24 |
 | Judge me by my size, do you? | 12.00% | ~24 |
-| "Gonk? Gonk!" | 10.00% | ~20 |
+| "Gonk? Gonk!" | 11.00% | ~22 |
 | Distinguished | 9.00% | ~18 |
 | Patience you must have | 9.00% | ~18 |
 | Support the troops | 9.00% | ~18 |
@@ -36,6 +36,7 @@
 | City in the Clouds | 7.00% | ~14 |
 | That's no moon | 7.00% | ~14 |
 | Don't underestimate the Force | 7.00% | ~14 |
+| The Force is strong with this one | 6.00% | ~12 |
 | On the ball | 6.00% | ~12 |
 | Precision shot | 6.00% | ~12 |
 | This is a new day, a new beginning | 6.00% | ~12 |
@@ -43,7 +44,6 @@
 | What will you become? | 6.00% | ~12 |
 | Disturbed tranquility | 6.00% | ~12 |
 | Playing the objective | 5.00% | ~10 |
-| The Force is strong with this one | 5.00% | ~10 |
 | Your journey has only started | 5.00% | ~10 |
 | The circle is now complete | 5.00% | ~10 |
 | Safety ain't the point of a joyride | 4.00% | ~8 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.50% | ~1 |
 | Crush them with one swift stroke… | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 337)  
-Completed: 1 (0.51%) (Ranked 161)  
+Progressed: 200 (Ranked 335)  
+Completed: 1 (0.50%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 1 (0.51%) (Ranked 161)
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
-| 2023-09-26 | 197 | 1 |
+| 2023-09-26 | 200 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

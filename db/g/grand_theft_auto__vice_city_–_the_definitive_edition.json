@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -682,9 +682,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 10385,
+  "EOS_Progressed": 10389,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10527,6 +10527,11 @@
       "Time": "2023-09-26T09:05:41.3078684+00:00",
       "NumProgressed": 10385,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-26T10:05:47.3826593+00:00",
+      "NumProgressed": 10389,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10554,7 +10559,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH04",
@@ -10594,7 +10599,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH09",
@@ -10618,7 +10623,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH12",
@@ -10642,7 +10647,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "ACH15",
@@ -10698,7 +10703,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4777
+      "UsersEstimate": 4779
     },
     {
       "ID": "ACH22",
@@ -10706,7 +10711,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "ACH23",
@@ -10714,7 +10719,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "ACH24",
@@ -10794,7 +10799,7 @@
       "Name": "Done it All",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH34",
@@ -10809,7 +10814,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10385,
+      "Progressed": 10389,
       "Completed": 58
     }
   ],
@@ -10817,8 +10822,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-25T13:57:15.0892683+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:05:41.3078679+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:05:47.3826585+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:57:37.1502513+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:05:41.3079412+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:57:46.1830532+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:05:47.3827692+00:00"
 }

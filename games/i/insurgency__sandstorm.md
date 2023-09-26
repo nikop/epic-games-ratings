@@ -1,28 +1,28 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 352)  
+Rating: 4.62 (Ranked 351)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,812 |
-| Wallbanger | 5.00% | ~22,812 |
+| Point Shooting | 5.00% | ~22,813 |
+| Wallbanger | 5.00% | ~22,813 |
 | Exploitative | 4.00% | ~18,250 |
 | High Speed Low Drag | 4.00% | ~18,250 |
 | Wet Feet | 4.00% | ~18,250 |
-| Lucky | 3.00% | ~13,687 |
-| Stylin' | 3.00% | ~13,687 |
-| Turf War | 3.00% | ~13,687 |
+| Lucky | 3.00% | ~13,688 |
+| Stylin' | 3.00% | ~13,688 |
+| Turf War | 3.00% | ~13,688 |
 | Banged | 2.00% | ~9,125 |
 | Checkpoint Victory | 2.00% | ~9,125 |
 | First Blood | 2.00% | ~9,125 |
 | Flaccid Paralysis | 2.00% | ~9,125 |
 | Push Victory | 2.00% | ~9,125 |
 | Self-destructive | 2.00% | ~9,125 |
-| Blindfire | 1.00% | ~4,562 |
-| Ruthless | 1.00% | ~4,562 |
-| Semper Paratus | 1.00% | ~4,562 |
+| Blindfire | 1.00% | ~4,563 |
+| Ruthless | 1.00% | ~4,563 |
+| Semper Paratus | 1.00% | ~4,563 |
 | Carrying | 0.90% | ~4,106 |
 | Efficient | 0.90% | ~4,106 |
 | Mount & Gun | 0.90% | ~4,106 |
@@ -31,18 +31,18 @@ Number of Ratings: 1,316  (23.09.2022)
 | Play to Win | 0.80% | ~3,650 |
 | #1 | 0.70% | ~3,194 |
 | Special Delivery | 0.70% | ~3,194 |
-| Firefight Victory | 0.60% | ~2,737 |
+| Firefight Victory | 0.60% | ~2,738 |
 | Cinematic | 0.50% | ~2,281 |
 | Thanks Station! | 0.40% | ~1,825 |
 | Knock Knock | 0.30% | ~1,369 |
 | There For You | 0.30% | ~1,369 |
-| Hit and Run | 0.20% | ~912 |
+| Hit and Run | 0.20% | ~913 |
 | Designated Driver | 0.10% | ~456 |
 | J.R. .50 | 0.10% | ~456 |
 | It's All in the Reflexes | 0.10% | ~456 |
 | Road Hazard | 0.10% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,246 (Ranked 38)  
+Progressed: 456,254 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2 (0.00%) (Ranked 293)
 | 2023-09-23 | 455,158 | 2 |
 | 2023-09-24 | 455,690 | 2 |
 | 2023-09-25 | 456,114 | 2 |
-| 2023-09-26 | 456,246 | 2 |
+| 2023-09-26 | 456,254 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 383  (Ranked 224)  
 Sum: 3,010 (Ranked 169)  

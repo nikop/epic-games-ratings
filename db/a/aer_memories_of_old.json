@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20876,
+  "EOS_Progressed": 20877,
   "EOS_Completed": 421,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -17450,6 +17450,11 @@
       "Time": "2023-09-26T09:05:35.4451583+00:00",
       "NumProgressed": 20876,
       "NumCompleted": 421
+    },
+    {
+      "Time": "2023-09-26T10:05:40.3817764+00:00",
+      "NumProgressed": 20877,
+      "NumCompleted": 421
     }
   ],
   "TotalAchievements": 20,
@@ -17525,7 +17530,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "FOUND_ERIN",
@@ -17589,7 +17594,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5845
+      "UsersEstimate": 5846
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17620,15 +17625,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20876,
+      "Progressed": 20877,
       "Completed": 421
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:05:35.4451579+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:05:40.3817758+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:57:54.5138794+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:05:35.4452579+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:58:05.2488676+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:05:40.3819341+00:00"
 }

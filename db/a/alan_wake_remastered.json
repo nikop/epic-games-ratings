@@ -518,9 +518,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66211,
+  "EOS_Progressed": 66212,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15918,6 +15918,11 @@
       "Time": "2023-09-26T08:05:48.5278289+00:00",
       "NumProgressed": 66211,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-26T10:06:47.92321+00:00",
+      "NumProgressed": 66212,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15977,7 +15982,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8607
+      "UsersEstimate": 8608
     },
     {
       "ID": "08",
@@ -16017,7 +16022,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8607
+      "UsersEstimate": 8608
     },
     {
       "ID": "13",
@@ -16464,21 +16469,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66211,
+      "Progressed": 66212,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29679,
+      "Progressed": 29680,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-25T11:00:21.6078659+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:06:32.2267515+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:06:47.9232093+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:00:55.9376796+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:06:32.226933+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:01:56.4966138+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:06:47.9233988+00:00"
 }

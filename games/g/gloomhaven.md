@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~2,741 |
-| A normal day in Gloomhaven | 33.00% | ~2,261 |
-| Overkill | 30.00% | ~2,056 |
-| Vaccine Incoming | 29.00% | ~1,987 |
-| Spread the plague | 27.00% | ~1,850 |
-| Get over here! | 22.00% | ~1,508 |
-| Just when I thought I was out... | 18.00% | ~1,234 |
-| Mine... All Mine... | 17.00% | ~1,165 |
-| Light of my life | 15.00% | ~1,028 |
-| Anatomy Lesson | 14.00% | ~959 |
-| Augmented rat | 13.00% | ~891 |
-| You activated my trap card! | 12.00% | ~822 |
-| Obstacle race | 12.00% | ~822 |
-| Precious! | 11.00% | ~754 |
-| Doom and gloom | 11.00% | ~754 |
+| I'm not dead yet | 40.00% | ~2,744 |
+| A normal day in Gloomhaven | 33.00% | ~2,264 |
+| Overkill | 30.00% | ~2,058 |
+| Vaccine Incoming | 29.00% | ~1,990 |
+| Spread the plague | 27.00% | ~1,852 |
+| Get over here! | 22.00% | ~1,509 |
+| Just when I thought I was out... | 18.00% | ~1,235 |
+| Mine... All Mine... | 16.00% | ~1,098 |
+| Light of my life | 15.00% | ~1,029 |
+| Anatomy Lesson | 14.00% | ~961 |
+| Augmented rat | 13.00% | ~892 |
+| You activated my trap card! | 12.00% | ~823 |
+| Obstacle race | 12.00% | ~823 |
+| Precious! | 11.00% | ~755 |
+| Doom and gloom | 11.00% | ~755 |
 | Grizzled veteran | 9.00% | ~617 |
-| Play it again, Sam | 8.00% | ~548 |
+| Play it again, Sam | 8.00% | ~549 |
 | Pack leader | 7.00% | ~480 |
 | Pain is your friend | 7.00% | ~480 |
 | Black death | 7.00% | ~480 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~7 |
 | Murder Death Kill | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,853 (Ranked 151)  
+Progressed: 6,861 (Ranked 151)  
 Completed: 1 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.01%) (Ranked 276)
 | 2023-09-23 | 5,424 | 1 |
 | 2023-09-24 | 6,213 | 1 |
 | 2023-09-25 | 6,698 | 1 |
-| 2023-09-26 | 6,853 | 1 |
+| 2023-09-26 | 6,861 | 1 |
 ## Awards
 Max (Character Customization): 3,534  (Ranked 89)  
 Sum: 8,230 (Ranked 99)  

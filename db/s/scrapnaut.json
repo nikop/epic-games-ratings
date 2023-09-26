@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1322,9 +1322,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_COOK",
@@ -1474,9 +1474,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     }
   ],
   "AchievementSets": [
@@ -1491,8 +1491,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:04:59.3894016+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:04:57.0834278+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:18.5468177+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:58:02.7319051+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:04:59.3894306+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:58:12.3670366+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:04:57.0834578+00:00"
 }

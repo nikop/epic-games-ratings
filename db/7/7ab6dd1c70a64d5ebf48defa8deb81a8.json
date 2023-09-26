@@ -1,9 +1,9 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 461,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": null,
@@ -14,11 +14,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 27,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -113,6 +113,11 @@
     {
       "Time": "2023-09-19T08:08:14.7136498+00:00",
       "NumProgressed": 25,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T10:05:10.9279507+00:00",
+      "NumProgressed": 27,
       "NumCompleted": 1
     }
   ],
@@ -412,12 +417,12 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 27,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:05:10.8209616+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:59:34.2901842+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:05:10.8209871+00:00"
+  "LastChanged_Achievements": "2023-09-26T10:05:10.9279502+00:00",
+  "LastUpdate_Ratings": "2023-09-26T10:00:11.5270543+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:05:10.9279789+00:00"
 }

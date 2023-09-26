@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2234,7 +2234,7 @@
   ],
   "EOS_Progressed": 26038,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13681,9 +13681,9 @@
       "ID": "Clutch_Capture",
       "SetID": "819popo",
       "Name": "Clutch Capture",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 130
     },
     {
       "ID": "Collect_Spores",
@@ -13945,9 +13945,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 260
     },
     {
       "ID": "Summoner",
@@ -14058,8 +14058,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:07:24.8214369+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:07:51.4755562+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:58:18.8317661+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:07:24.8215346+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:58:35.5066049+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:07:51.4756919+00:00"
 }

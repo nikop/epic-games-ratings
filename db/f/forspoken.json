@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40064,
+  "EOS_Progressed": 40065,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8947,6 +8947,11 @@
       "Time": "2023-09-26T09:06:29.3377006+00:00",
       "NumProgressed": 40064,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-26T10:06:44.3716906+00:00",
+      "NumProgressed": 40065,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9110,7 +9115,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9198,7 +9203,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9246,7 +9251,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9270,7 +9275,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9381,22 +9386,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40064,
+      "Progressed": 40065,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4901,
-      "Completed": 4901
+      "Progressed": 4902,
+      "Completed": 4902
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-26T09:06:29.3377001+00:00",
+  "LastChanged_Achievements": "2023-09-26T10:06:44.3716901+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-26T08:57:24.9105246+00:00",
-  "LastUpdate_Achievements": "2023-09-26T09:06:29.3377916+00:00"
+  "LastUpdate_Ratings": "2023-09-26T09:57:31.8167828+00:00",
+  "LastUpdate_Achievements": "2023-09-26T10:06:44.3718017+00:00"
 }

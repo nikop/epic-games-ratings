@@ -6,50 +6,50 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,209 |
-| Zealous | 6.00% | ~54,179 |
-| Skillful | 6.00% | ~54,179 |
-| Not half bad | 5.00% | ~45,150 |
-| Apt Survivor | 5.00% | ~45,150 |
-| Survival Treasures | 5.00% | ~45,150 |
-| Make Some Noise | 5.00% | ~45,150 |
-| No one left behind | 4.00% | ~36,120 |
-| Medic | 4.00% | ~36,120 |
-| Handyman | 4.00% | ~36,120 |
-| Nerves of steel | 4.00% | ~36,120 |
-| Bloody Millionaire | 4.00% | ~36,120 |
-| I | 4.00% | ~36,120 |
-| Sorted | 4.00% | ~36,120 |
-| The Grand Sacrifice | 3.00% | ~27,090 |
-| Agonizing Escape | 3.00% | ~27,090 |
-| Backdoor Escape | 3.00% | ~27,090 |
-| I've got your back | 3.00% | ~27,090 |
-| Perfect Escape | 3.00% | ~27,090 |
-| Perfect Killing | 3.00% | ~27,090 |
-| Risk it all | 3.00% | ~27,090 |
-| Engineer | 3.00% | ~27,090 |
-| Healthy Obsession | 3.00% | ~27,090 |
-| Resurgence | 3.00% | ~27,090 |
-| Close Shave | 3.00% | ~27,090 |
-| Preemptive Strike | 3.00% | ~27,090 |
-| Humanitarian | 3.00% | ~27,090 |
-| MU/TH/UR Dearest | 3.00% | ~27,090 |
-| Blood on your hands | 2.00% | ~18,060 |
-| Apt Killer | 2.00% | ~18,060 |
-| Vulture | 2.00% | ~18,060 |
-| II | 2.00% | ~18,060 |
-| III | 2.00% | ~18,060 |
-| Cherish your Life | 2.00% | ~18,060 |
-| Wounded Healer | 2.00% | ~18,060 |
-| First to the Punch | 2.00% | ~18,060 |
-| Every Last Drop | 2.00% | ~18,060 |
-| Raccoon City Recruit | 2.00% | ~18,060 |
-| With Scars to Show | 2.00% | ~18,060 |
-| Flight to Freedom | 2.00% | ~18,060 |
-| A Fast Death | 2.00% | ~18,060 |
-| Lifting The Fog | 2.00% | ~18,060 |
-| Chorus of Chaos | 2.00% | ~18,060 |
-| Second Act | 2.00% | ~18,060 |
+| It wakes | 7.00% | ~63,213 |
+| Zealous | 6.00% | ~54,183 |
+| Skillful | 6.00% | ~54,183 |
+| Not half bad | 5.00% | ~45,152 |
+| Apt Survivor | 5.00% | ~45,152 |
+| Survival Treasures | 5.00% | ~45,152 |
+| Make Some Noise | 5.00% | ~45,152 |
+| No one left behind | 4.00% | ~36,122 |
+| Medic | 4.00% | ~36,122 |
+| Handyman | 4.00% | ~36,122 |
+| Nerves of steel | 4.00% | ~36,122 |
+| Bloody Millionaire | 4.00% | ~36,122 |
+| I | 4.00% | ~36,122 |
+| Sorted | 4.00% | ~36,122 |
+| The Grand Sacrifice | 3.00% | ~27,091 |
+| Agonizing Escape | 3.00% | ~27,091 |
+| Backdoor Escape | 3.00% | ~27,091 |
+| I've got your back | 3.00% | ~27,091 |
+| Perfect Escape | 3.00% | ~27,091 |
+| Perfect Killing | 3.00% | ~27,091 |
+| Risk it all | 3.00% | ~27,091 |
+| Engineer | 3.00% | ~27,091 |
+| Healthy Obsession | 3.00% | ~27,091 |
+| Resurgence | 3.00% | ~27,091 |
+| Close Shave | 3.00% | ~27,091 |
+| Preemptive Strike | 3.00% | ~27,091 |
+| Humanitarian | 3.00% | ~27,091 |
+| MU/TH/UR Dearest | 3.00% | ~27,091 |
+| Blood on your hands | 2.00% | ~18,061 |
+| Apt Killer | 2.00% | ~18,061 |
+| Vulture | 2.00% | ~18,061 |
+| II | 2.00% | ~18,061 |
+| III | 2.00% | ~18,061 |
+| Cherish your Life | 2.00% | ~18,061 |
+| Wounded Healer | 2.00% | ~18,061 |
+| First to the Punch | 2.00% | ~18,061 |
+| Every Last Drop | 2.00% | ~18,061 |
+| Raccoon City Recruit | 2.00% | ~18,061 |
+| With Scars to Show | 2.00% | ~18,061 |
+| Flight to Freedom | 2.00% | ~18,061 |
+| A Fast Death | 2.00% | ~18,061 |
+| Lifting The Fog | 2.00% | ~18,061 |
+| Chorus of Chaos | 2.00% | ~18,061 |
+| Second Act | 2.00% | ~18,061 |
 | A bite for the Entity | 1.00% | ~9,030 |
 | Blood on your face | 1.00% | ~9,030 |
 | Escape Artist | 1.00% | ~9,030 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~903 |
 | Adept Ripley | 0.10% | ~903 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 902,991 (Ranked 14)  
+Progressed: 903,046 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-23 | 898,059 | 49 |
 | 2023-09-24 | 900,602 | 49 |
 | 2023-09-25 | 902,478 | 49 |
-| 2023-09-26 | 902,991 | 49 |
+| 2023-09-26 | 903,046 | 49 |
 ## Awards
 Max (Diverse Characters): 33,065  (Ranked 15)  
 Sum: 257,131 (Ranked 12)  

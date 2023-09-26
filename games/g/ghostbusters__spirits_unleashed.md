@@ -5,11 +5,12 @@ Rating: 4.50 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 0.90% | ~234 |
+| Stylish | 1.00% | ~260 |
 | Advancement | 0.70% | ~182 |
 | Meticulously Efficient | 0.70% | ~182 |
 | Discovery | 0.60% | ~156 |
 | Solo Capture | 0.60% | ~156 |
+| Clutch Capture | 0.50% | ~130 |
 | I collect Spores, Molds, and Fungi | 0.50% | ~130 |
 | Fully Upgraded | 0.50% | ~130 |
 | Swift Rift Removers | 0.50% | ~130 |
@@ -19,7 +20,6 @@ Rating: 4.50 (Ranked 573)
 | Whoopsie | 0.50% | ~130 |
 | Animated | 0.40% | ~104 |
 | Back Off | 0.40% | ~104 |
-| Clutch Capture | 0.40% | ~104 |
 | Cultured | 0.40% | ~104 |
 | Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |

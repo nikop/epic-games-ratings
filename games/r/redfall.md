@@ -10,9 +10,9 @@ Rating: 3.54 (Ranked 999)
 | I Like My Stakes Rare! | 1.00% | ~17 |
 | Grounded | 0.90% | ~16 |
 | Fly Fisher | 0.90% | ~16 |
+| Enter of Your Own Free Will | 0.80% | ~14 |
 | Sucks To Be You | 0.80% | ~14 |
 | Catch and Release | 0.80% | ~14 |
-| Enter of Your Own Free Will | 0.70% | ~12 |
 | Welcome to the Neighborhood | 0.70% | ~12 |
 | Peek-a-boo | 0.70% | ~12 |
 | Throw The First Stone | 0.70% | ~12 |
