@@ -9,6 +9,7 @@ Rating: 4.63 (Ranked 333)
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
 | Creature Feature | 0.10% | ~24 |
+| Are You Packin'? | 0.10% | ~24 |
 | Bring A Knife to a Gun Fight | 0.10% | ~24 |
 | RIP Davey Glutes | 0.10% | ~24 |
 | Sweezy Like Sunday Morning | 0.10% | ~24 |
@@ -30,7 +31,6 @@ Rating: 4.63 (Ranked 333)
 | Epic Legendary Prize | 0.00% | ~0 |
 | Eatin' Good in the Neighborhood | 0.00% | ~0 |
 | Satisfied Gus-tomer | 0.00% | ~0 |
-| Are You Packin'? | 0.00% | ~0 |
 | Lezduit! | 0.00% | ~0 |
 | A Starfish Is Born | 0.00% | ~0 |
 | Sequel-Bait | 0.00% | ~0 |

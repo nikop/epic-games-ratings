@@ -6,7 +6,7 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,734 |
+| Sponsored by Argon | 3.00% | ~4,101 |
 | Basic in Bulk | 2.00% | ~2,734 |
 | Disintermediation | 2.00% | ~2,734 |
 | It's Free Real Estate | 2.00% | ~2,734 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,703 (Ranked 69)  
+Progressed: 136,706 (Ranked 69)  
 Completed: 155 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,15 +278,16 @@ Completed: 155 (0.11%) (Ranked 229)
 | 2023-09-23 | 136,602 | 153 |
 | 2023-09-24 | 136,667 | 154 |
 | 2023-09-25 | 136,703 | 155 |
+| 2023-09-26 | 136,706 | 155 |
 ## Awards
 Max (Great for Beginners): 4,758  (Ranked 70)  
-Sum: 27,291 (Ranked 48)  
+Sum: 27,292 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,758 |
 | This game is Relaxing | 4,014 |
-| This game has Quickly Understood Controls | 4,001 |
+| This game has Quickly Understood Controls | 4,002 |
 | This game has Diverse Characters | 3,893 |
 | This game is Highly Recommended | 3,753 |
 | This game has Easy Combat | 3,694 |
@@ -536,3 +537,4 @@ Diff (max vs sum): 22
 | 2023-09-22 | 3.99 | - | 4,751 | 27,274 |
 | 2023-09-23 | 3.99 | - | 4,755 | 27,285 |
 | 2023-09-24 | 3.99 | - | 4,758 | 27,291 |
+| 2023-09-25 | 3.99 | - | 4,758 | 27,292 |

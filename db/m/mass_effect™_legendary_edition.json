@@ -580,9 +580,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 125,
-      "UsersEstimate": 206
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_10",
@@ -1180,9 +1180,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_53",
@@ -1252,9 +1252,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_61",
@@ -1608,8 +1608,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-25T23:04:47.3539971+00:00",
+  "LastChanged_Achievements": "2023-09-26T00:05:15.3592448+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-25T22:59:50.8018485+00:00",
-  "LastUpdate_Achievements": "2023-09-25T23:04:47.3541879+00:00"
+  "LastUpdate_Ratings": "2023-09-26T00:00:07.5911548+00:00",
+  "LastUpdate_Achievements": "2023-09-26T00:05:15.3594786+00:00"
 }

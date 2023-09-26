@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,781 |
+| First of Many | 9.00% | ~16,782 |
 | The Killing Jar | 8.00% | ~14,917 |
 | Not Your Average Trait | 8.00% | ~14,917 |
-| Expanding Horizons | 7.00% | ~13,052 |
-| Quest for Survival | 7.00% | ~13,052 |
+| Expanding Horizons | 7.00% | ~13,053 |
+| Quest for Survival | 7.00% | ~13,053 |
 | Gleaming the Cube | 6.00% | ~11,188 |
 | Not a Janitor | 6.00% | ~11,188 |
 | Familiar Face | 6.00% | ~11,188 |
@@ -24,17 +24,17 @@ Rating: 4.76 (Ranked 118)
 | Shhh...It's a Secret | 5.00% | ~9,323 |
 | Almost There | 5.00% | ~9,323 |
 | Make Some Room | 5.00% | ~9,323 |
-| Chaos | 4.00% | ~7,458 |
-| Traitor | 4.00% | ~7,458 |
-| Forever is a Long Time Coming | 4.00% | ~7,458 |
-| Power Surge | 4.00% | ~7,458 |
-| The God Gambit | 4.00% | ~7,458 |
-| Dark Designs | 4.00% | ~7,458 |
-| Madman's Paradise | 4.00% | ~7,458 |
-| Was This Supposed To Happen? | 4.00% | ~7,458 |
-| The Web | 4.00% | ~7,458 |
-| Scrap Collector | 4.00% | ~7,458 |
-| All These Traits� | 4.00% | ~7,458 |
+| Chaos | 4.00% | ~7,459 |
+| Traitor | 4.00% | ~7,459 |
+| Forever is a Long Time Coming | 4.00% | ~7,459 |
+| Power Surge | 4.00% | ~7,459 |
+| The God Gambit | 4.00% | ~7,459 |
+| Dark Designs | 4.00% | ~7,459 |
+| Madman's Paradise | 4.00% | ~7,459 |
+| Was This Supposed To Happen? | 4.00% | ~7,459 |
+| The Web | 4.00% | ~7,459 |
+| Scrap Collector | 4.00% | ~7,459 |
+| All These Traits� | 4.00% | ~7,459 |
 | Am I Seeing This? | 3.00% | ~5,594 |
 | The Agenda | 3.00% | ~5,594 |
 | Tall Tales | 3.00% | ~5,594 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,865 |
 | Ghost in the Machine | 0.90% | ~1,678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,460 (Ranked 65)  
+Progressed: 186,468 (Ranked 65)  
 Completed: 334 (0.18%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 334 (0.18%) (Ranked 213)
 | 2023-09-23 | 185,431 | 328 |
 | 2023-09-24 | 186,027 | 332 |
 | 2023-09-25 | 186,460 | 334 |
+| 2023-09-26 | 186,468 | 334 |
 ## Awards
 Max (Great Boss Battles): 1,712  (Ranked 119)  
 Sum: 3,531 (Ranked 155)  

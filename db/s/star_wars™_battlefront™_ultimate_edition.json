@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -421,6 +421,11 @@
       "Time": "2023-09-25T23:05:43.2436046+00:00",
       "NumProgressed": 188,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T00:06:21.0374687+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -465,7 +470,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_14",
@@ -505,7 +510,7 @@
       "Name": "The power of the Force",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_19",
@@ -609,7 +614,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_30",
@@ -631,9 +636,9 @@
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_33",
@@ -649,7 +654,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_35",
@@ -657,7 +662,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_36",
@@ -681,7 +686,7 @@
       "Name": "Survivor",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_39",
@@ -705,7 +710,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_41",
@@ -719,9 +724,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_43",
@@ -936,13 +941,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 1
     }
   ],
@@ -950,8 +955,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-25T23:05:43.2436042+00:00",
+  "LastChanged_Achievements": "2023-09-26T00:06:21.0374683+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-25T22:57:18.6198198+00:00",
-  "LastUpdate_Achievements": "2023-09-25T23:05:43.2436568+00:00"
+  "LastUpdate_Ratings": "2023-09-25T23:57:06.8887775+00:00",
+  "LastUpdate_Achievements": "2023-09-26T00:06:21.0375431+00:00"
 }

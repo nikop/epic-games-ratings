@@ -257,9 +257,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 87,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -281,9 +281,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 80,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -816,8 +816,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-25T23:05:28.2885278+00:00",
+  "LastChanged_Achievements": "2023-09-26T00:06:03.8086037+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:00:21.9437922+00:00",
-  "LastUpdate_Achievements": "2023-09-25T23:05:28.2886112+00:00"
+  "LastUpdate_Ratings": "2023-09-26T00:00:47.7729921+00:00",
+  "LastUpdate_Achievements": "2023-09-26T00:06:03.80871+00:00"
 }

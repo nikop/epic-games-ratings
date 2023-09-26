@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~402 |
-| Defenses Online | 25.00% | ~359 |
-| Facility Online | 20.00% | ~287 |
-| Corporal | 15.00% | ~215 |
-| Covert Operative | 12.00% | ~172 |
+| It's Good to have Allies | 28.00% | ~403 |
+| Defenses Online | 25.00% | ~360 |
+| Facility Online | 20.00% | ~288 |
+| Corporal | 15.00% | ~216 |
+| Covert Operative | 12.00% | ~173 |
 | Sergeant | 11.00% | ~158 |
 | Lieutenant | 10.00% | ~144 |
 | Getting Deployment | 9.00% | ~129 |
@@ -22,10 +22,10 @@
 | Factory Expansion | 7.00% | ~101 |
 | Exterminator | 6.00% | ~86 |
 | Brothers in Arms | 5.00% | ~72 |
-| Know The Enemy | 4.00% | ~57 |
-| Player Betrayer | 4.00% | ~57 |
-| Silver Achiever | 4.00% | ~57 |
-| Moving On Up | 4.00% | ~57 |
+| Know The Enemy | 4.00% | ~58 |
+| Player Betrayer | 4.00% | ~58 |
+| Silver Achiever | 4.00% | ~58 |
+| Moving On Up | 4.00% | ~58 |
 | Major | 3.00% | ~43 |
 | Gold Achiever | 2.00% | ~29 |
 | Advanced Warfare | 2.00% | ~29 |
@@ -36,14 +36,14 @@
 | General | 1.00% | ~14 |
 | Seek & Destroy | 1.00% | ~14 |
 | Titan Tanks | 1.00% | ~14 |
-| Shock Troops | 0.80% | ~11 |
+| Shock Troops | 0.80% | ~12 |
 | Advanced Interceptors | 0.60% | ~9 |
 | Jet Troops | 0.60% | ~9 |
 | Gold Competitor | 0.10% | ~1 |
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,436 (Ranked 215)  
+Progressed: 1,438 (Ranked 215)  
 Completed: 1 (0.07%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,3 +153,4 @@ Completed: 1 (0.07%) (Ranked 243)
 | 2023-09-23 | 1,397 | 1 |
 | 2023-09-24 | 1,410 | 1 |
 | 2023-09-25 | 1,436 | 1 |
+| 2023-09-26 | 1,438 | 1 |

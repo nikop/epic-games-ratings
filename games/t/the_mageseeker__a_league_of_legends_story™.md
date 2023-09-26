@@ -57,10 +57,10 @@ Rating: 4.82 (Ranked 64)
 | You can pet the... horse | 10.00% | ~258 |
 | Spellcrafting | 9.00% | ~233 |
 | Silverwing nest | 2.00% | ~52 |
-| The Unshackled | 0.90% | ~23 |
+| The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,585 (Ranked 190)  
-Completed: 9 (0.35%) (Ranked 181)  
+Completed: 10 (0.39%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,6 +197,7 @@ Completed: 9 (0.35%) (Ranked 181)
 | 2023-09-23 | 2,574 | 9 |
 | 2023-09-24 | 2,581 | 9 |
 | 2023-09-25 | 2,585 | 9 |
+| 2023-09-26 | 2,585 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

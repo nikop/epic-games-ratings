@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -810,9 +810,9 @@
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -939,8 +939,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-25T23:04:26.8661315+00:00",
+  "LastChanged_Achievements": "2023-09-26T00:04:41.142663+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:17.0711022+00:00",
-  "LastUpdate_Ratings": "2023-09-25T22:57:56.5829068+00:00",
-  "LastUpdate_Achievements": "2023-09-25T23:04:26.8661908+00:00"
+  "LastUpdate_Ratings": "2023-09-25T23:57:48.5016521+00:00",
+  "LastUpdate_Achievements": "2023-09-26T00:04:41.1427161+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.03 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,832 |
-| World Map | 79.00% | ~1,556 |
+| Victor | 93.00% | ~1,833 |
+| World Map | 79.00% | ~1,557 |
 | Temple of Eternals | 57.00% | ~1,123 |
 | Prestigious | 54.00% | ~1,064 |
 | Fellowship Power | 41.00% | ~808 |
@@ -27,7 +27,7 @@ Rating: 4.03 (Ranked 947)
 | Natural Talent | 14.00% | ~276 |
 | Superior | 14.00% | ~276 |
 | The Unstoppable | 14.00% | ~276 |
-| Scientist | 12.00% | ~236 |
+| Scientist | 12.00% | ~237 |
 | Challenger | 11.00% | ~217 |
 | Daily Quest Completionist | 11.00% | ~217 |
 | Doing My Part | 11.00% | ~217 |
@@ -58,9 +58,9 @@ Rating: 4.03 (Ranked 947)
 | How Do You Turn This On? | 6.00% | ~118 |
 | Legendary | 6.00% | ~118 |
 | The Alchemist | 6.00% | ~118 |
-| Arena Challenger | 5.00% | ~98 |
-| Background Story | 5.00% | ~98 |
-| Ebony Jungle Liberator | 5.00% | ~98 |
+| Arena Challenger | 5.00% | ~99 |
+| Background Story | 5.00% | ~99 |
+| Ebony Jungle Liberator | 5.00% | ~99 |
 | Mythic Power | 3.00% | ~59 |
 | What lies behind the bush | 3.00% | ~59 |
 | Cauldron Liberator | 2.00% | ~39 |
@@ -76,12 +76,12 @@ Rating: 4.03 (Ranked 947)
 | Pokerface | 0.80% | ~16 |
 | Angel Power | 0.70% | ~14 |
 | Conqueror | 0.70% | ~14 |
+| Silverwood liberator | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |
-| Silverwood liberator | 0.40% | ~8 |
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,970 (Ranked 198)  
+Progressed: 1,971 (Ranked 198)  
 Completed: 2 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 2 (0.10%) (Ranked 233)
 | 2023-09-23 | 1,967 | 2 |
 | 2023-09-24 | 1,969 | 2 |
 | 2023-09-25 | 1,970 | 2 |
+| 2023-09-26 | 1,971 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 22  (Ranked 506)  
 Sum: 44 (Ranked 465)  

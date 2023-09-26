@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -131,10 +131,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2585,
-  "EOS_Completed": 9,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 23,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -3715,6 +3715,11 @@
       "Time": "2023-09-25T21:04:24.5798184+00:00",
       "NumProgressed": 2585,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-26T00:04:46.4218577+00:00",
+      "NumProgressed": 2585,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 53,
@@ -4044,9 +4049,9 @@
       "ID": "STB_PLATINUM",
       "SetID": "3pe2bac",
       "Name": "The Unshackled",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_ALL",
@@ -4150,15 +4155,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 2585,
-      "Completed": 9
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-25T23:04:31.4136244+00:00",
+  "LastChanged_Achievements": "2023-09-26T00:04:46.4218573+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:04.8253651+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:01:01.4227196+00:00",
-  "LastUpdate_Achievements": "2023-09-25T23:04:31.4136847+00:00"
+  "LastUpdate_Ratings": "2023-09-26T00:01:32.7048619+00:00",
+  "LastUpdate_Achievements": "2023-09-26T00:04:46.4219293+00:00"
 }

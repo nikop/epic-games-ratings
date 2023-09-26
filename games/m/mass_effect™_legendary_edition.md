@@ -15,7 +15,7 @@
 | Medal of Exploration II | 61.00% | ~229 |
 | Turian Ally | 60.00% | ~225 |
 | Council Legion of Merit | 58.00% | ~217 |
-| Medal of Honor | 55.00% | ~206 |
+| Medal of Honor | 56.00% | ~210 |
 | Meritorious Service Medal | 55.00% | ~206 |
 | Charismatic | 55.00% | ~206 |
 | Soldier | 54.00% | ~202 |
@@ -47,8 +47,8 @@
 | Broke, Blind, and Bedlam | 34.00% | ~128 |
 | Ghost Ship | 32.00% | ~120 |
 | The Justicar | 32.00% | ~120 |
+| Battlemaster | 32.00% | ~120 |
 | The Quarian | 31.00% | ~116 |
-| Battlemaster | 31.00% | ~116 |
 | The Cure | 31.00% | ~116 |
 | The Prodigal | 31.00% | ~116 |
 | Big Game Hunter | 31.00% | ~116 |
@@ -65,10 +65,10 @@
 | Driven | 29.00% | ~109 |
 | Focused | 28.00% | ~105 |
 | Doppelganger | 28.00% | ~105 |
+| Treason | 28.00% | ~105 |
 | Digital Exorcist | 28.00% | ~105 |
 | Bringer of War | 28.00% | ~105 |
 | First Aid Specialist | 27.00% | ~101 |
-| Treason | 27.00% | ~101 |
 | Friend or Foe | 26.00% | ~98 |
 | Mobilizer | 26.00% | ~98 |
 | Untouchable | 25.00% | ~94 |

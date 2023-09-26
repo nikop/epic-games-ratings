@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2232,9 +2232,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26033,
+  "EOS_Progressed": 26034,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13612,6 +13612,11 @@
       "Time": "2023-09-25T21:07:10.7787357+00:00",
       "NumProgressed": 26033,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-26T00:07:42.5437385+00:00",
+      "NumProgressed": 26034,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13677,9 +13682,9 @@
       "ID": "Collector",
       "SetID": "819popo",
       "Name": "Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Cultured",
@@ -13949,9 +13954,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 130
     },
     {
       "ID": "Teamwork",
@@ -14030,7 +14035,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26033,
+      "Progressed": 26034,
       "Completed": 58
     }
   ],
@@ -14038,8 +14043,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-25T23:06:53.1912438+00:00",
+  "LastChanged_Achievements": "2023-09-26T00:07:42.5437376+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-25T22:58:22.106691+00:00",
-  "LastUpdate_Achievements": "2023-09-25T23:06:53.1913382+00:00"
+  "LastUpdate_Ratings": "2023-09-25T23:58:23.8741089+00:00",
+  "LastUpdate_Achievements": "2023-09-26T00:07:42.543854+00:00"
 }
