@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.03% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.99% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.62% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -46,7 +46,7 @@
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.10% |
-| 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.99% |
+| 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 6.02% |
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.97% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 50 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.51% |
