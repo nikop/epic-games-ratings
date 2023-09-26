@@ -1,7 +1,7 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 222)  
+Rating: 4.69 (Ranked 223)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,32 +9,32 @@ Number of Ratings: 743  (23.09.2022)
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,032 |
 | Say goodbye, creep! | 66.00% | ~28,726 |
 | Blood splattered | 65.00% | ~28,291 |
-| Choo choo! | 62.00% | ~26,985 |
+| Choo choo! | 62.00% | ~26,986 |
 | Groovy | 61.00% | ~26,550 |
 | Cleanup on aisle 4! | 57.00% | ~24,809 |
 | Gold | 50.00% | ~21,762 |
 | The boat can leave now...tell the crew | 49.00% | ~21,327 |
-| Give me something to shoot! | 47.00% | ~20,456 |
-| Stand back boy! | 47.00% | ~20,456 |
+| Give me something to shoot! | 47.00% | ~20,457 |
+| Stand back boy! | 47.00% | ~20,457 |
 | Chain reaction | 45.00% | ~19,586 |
 | Weird science | 44.00% | ~19,151 |
 | What did you say, Blain? | 42.00% | ~18,280 |
 | Look mummy! A shark! | 41.00% | ~17,845 |
-| In the dark dark woods... | 39.00% | ~16,974 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,539 |
+| In the dark dark woods... | 39.00% | ~16,975 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,540 |
 | Double tap | 37.00% | ~16,104 |
 | All of this has happened before… | 36.00% | ~15,669 |
 | Cranial blowout! | 36.00% | ~15,669 |
 | Zombie killin' machine | 36.00% | ~15,669 |
 | Every bullet counts | 36.00% | ~15,669 |
-| All roads lead to Rome | 34.00% | ~14,798 |
-| You've got red on you | 34.00% | ~14,798 |
+| All roads lead to Rome | 34.00% | ~14,799 |
+| You've got red on you | 34.00% | ~14,799 |
 | You're all going to die down here | 32.00% | ~13,928 |
 | He did Nazi that coming | 32.00% | ~13,928 |
-| Kill of the week | 31.00% | ~13,492 |
-| I never liked them anyway | 30.00% | ~13,057 |
+| Kill of the week | 31.00% | ~13,493 |
+| I never liked them anyway | 30.00% | ~13,058 |
 | Is it over? | 28.00% | ~12,187 |
-| Got your back | 27.00% | ~11,751 |
+| Got your back | 27.00% | ~11,752 |
 | Gore soaked | 24.00% | ~10,446 |
 | Shock therapy | 23.00% | ~10,011 |
 | Leave the limbs you've lost | 23.00% | ~10,011 |
@@ -43,7 +43,7 @@ Number of Ratings: 743  (23.09.2022)
 | Bad Blood | 17.00% | ~7,399 |
 | Weapons expert | 17.00% | ~7,399 |
 | The bigger they are... | 15.00% | ~6,529 |
-| I'm going deeper underground | 14.00% | ~6,093 |
+| I'm going deeper underground | 14.00% | ~6,094 |
 | Well equipped | 13.00% | ~5,658 |
 | Into the deep | 12.00% | ~5,223 |
 | Damnedbusters | 9.00% | ~3,917 |
@@ -56,11 +56,11 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,047 |
 | A gross gross | 7.00% | ~3,047 |
 | Hail to the king, baby! | 7.00% | ~3,047 |
-| Something wicked this way comes | 6.00% | ~2,611 |
-| Take a little bit of Italy with you | 6.00% | ~2,611 |
-| Staring at Shadows | 6.00% | ~2,611 |
-| I told you we should have gone to the beach | 6.00% | ~2,611 |
-| Hoarder | 6.00% | ~2,611 |
+| Something wicked this way comes | 6.00% | ~2,612 |
+| Take a little bit of Italy with you | 6.00% | ~2,612 |
+| Staring at Shadows | 6.00% | ~2,612 |
+| I told you we should have gone to the beach | 6.00% | ~2,612 |
+| Hoarder | 6.00% | ~2,612 |
 | Kali Ma | 5.00% | ~2,176 |
 | Have you tried turning it off and on again? | 5.00% | ~2,176 |
 | They're coming to get you Barbara | 4.00% | ~1,741 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~435 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,524 (Ranked 98)  
+Progressed: 43,525 (Ranked 98)  
 Completed: 25 (0.06%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 25 (0.06%) (Ranked 248)
 | 2023-09-23 | 43,518 | 25 |
 | 2023-09-24 | 43,521 | 25 |
 | 2023-09-25 | 43,524 | 25 |
+| 2023-09-26 | 43,525 | 25 |
 ## Awards
 Max (Great Boss Battles): 827  (Ranked 156)  
 Sum: 2,501 (Ranked 179)  

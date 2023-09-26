@@ -1,11 +1,11 @@
 # Star Stable Online
 [Store](https://store.epicgames.com/en-US/p/star-stable)  
 [View Rawdata](../../db/s/star_stable_online.json)  
-Rating: 4.42 (Ranked 687)  
+Rating: 4.42 (Ranked 688)  
 Number of Ratings: 317  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 164  (Ranked 296)  
-Sum: 1,137 (Ranked 235)  
+Sum: 1,139 (Ranked 235)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 61
 | This game is Highly Recommended | 129 |
 | This game has Amazing Characters | 127 |
 | This game has Amazing Storytelling | 124 |
-| This game is Relaxing | 121 |
+| This game is Relaxing | 123 |
 | This game has Quickly Understood Controls | 120 |
 | This game is Extremely Fun | 116 |
 | This game is Educational | 104 |
@@ -262,4 +262,4 @@ Diff (max vs sum): 61
 | 2023-09-22 | 4.42 | - | 162 | 1,132 |
 | 2023-09-24 | 4.42 | - | 163 | 1,134 |
 | 2023-09-25 | 4.42 | - | 163 | 1,135 |
-| 2023-09-26 | 4.42 | - | 164 | 1,137 |
+| 2023-09-26 | 4.42 | - | 164 | 1,139 |

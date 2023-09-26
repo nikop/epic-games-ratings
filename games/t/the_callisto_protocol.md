@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 880)  
+Rating: 4.19 (Ranked 881)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -208,9 +208,9 @@ Completed: 73 (0.46%) (Ranked 165)
 | 2023-09-24 | 15,963 | 73 |
 | 2023-09-25 | 15,966 | 73 |
 ## Awards
-Max (Amazing Storytelling): 74  (Ranked 377)  
+Max (Amazing Storytelling): 74  (Ranked 378)  
 Sum: 427 (Ranked 319)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 74 |

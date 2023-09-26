@@ -2,12 +2,12 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2019-01-15T14:00:00+00:00",
@@ -2890,10 +2890,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4832,
       "NumberOfAwardsMax": 2253
+    },
+    {
+      "Time": "2023-09-26T18:00:19.2851159+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4833,
+      "NumberOfAwardsMax": 2253
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4832,
+  "NumberOfAwards": 4833,
   "NumberOfAwardsMax": 2253,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2961,7 +2967,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game has a Creative Community",
@@ -2987,8 +2993,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2023-09-25T17:59:07.677408+00:00",
+  "LastChanged": "2023-09-26T18:00:19.2851158+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:56:59.4394561+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:59:21.786023+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:03:18.887636+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:00:19.2851165+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:05:34.9979368+00:00"
 }

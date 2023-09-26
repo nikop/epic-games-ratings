@@ -2,12 +2,12 @@
   "ID": "6ee03ef340e641a781eb375192bfa105",
   "Name": "Forgive Me Father",
   "ProductSlug": "forgive-me-father-133635",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-26T17:00:00+00:00",
@@ -180,6 +180,6 @@
   "FirstSeen": "2022-07-22T20:28:29.9349007+00:00",
   "LastChanged": "2023-09-19T09:59:14.225517+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:26.6617244+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:58:32.9267763+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:07:26.4434941+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:59:19.1524443+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:09:56.5792742+00:00"
 }

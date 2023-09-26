@@ -2,8 +2,8 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 982,
-  "Ranking_Popularity": 383,
+  "Ranking_Rating": 983,
+  "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 154,
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1604,
+  "EOS_Progressed": 1605,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2153,6 +2153,11 @@
       "Time": "2023-09-26T01:49:40.6037105+00:00",
       "NumProgressed": 1604,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-26T18:09:14.3995329+00:00",
+      "NumProgressed": 1605,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -2164,7 +2169,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2172,7 +2177,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2260,7 +2265,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -2316,7 +2321,7 @@
       "Name": "Decorative Mind",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -2340,7 +2345,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2436,7 +2441,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -2467,7 +2472,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1604,
+      "Progressed": 1605,
       "Completed": 9
     }
   ],
@@ -2475,8 +2480,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:06:46.1183478+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:09:14.3995324+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:26.423195+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:00:57.9934741+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:06:46.118386+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:02:45.6108443+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:09:14.3996033+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 222,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 98,
@@ -2091,9 +2091,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43524,
+  "EOS_Progressed": 43525,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7126,6 +7126,11 @@
       "Time": "2023-09-25T14:06:21.5097857+00:00",
       "NumProgressed": 43524,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-26T18:10:16.1685446+00:00",
+      "NumProgressed": 43525,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7233,7 +7238,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -7241,7 +7246,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16974
+      "UsersEstimate": 16975
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -7265,7 +7270,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -7297,7 +7302,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -7313,7 +7318,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -7321,7 +7326,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -7329,7 +7334,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26985
+      "UsersEstimate": 26986
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7345,7 +7350,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14798
+      "UsersEstimate": 14799
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -7401,7 +7406,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13492
+      "UsersEstimate": 13493
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -7417,7 +7422,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -7449,7 +7454,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16539
+      "UsersEstimate": 16540
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -7481,7 +7486,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13057
+      "UsersEstimate": 13058
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -7489,7 +7494,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20456
+      "UsersEstimate": 20457
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -7505,7 +7510,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20456
+      "UsersEstimate": 20457
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -7521,7 +7526,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11751
+      "UsersEstimate": 11752
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -7577,7 +7582,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14798
+      "UsersEstimate": 14799
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -7664,15 +7669,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43524,
+      "Progressed": 43525,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-24T13:58:44.2869449+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:07:39.852217+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:10:16.1685441+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:10.7408318+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:00:14.4010885+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:07:39.8523087+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:01:42.342451+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:10:16.1686599+00:00"
 }

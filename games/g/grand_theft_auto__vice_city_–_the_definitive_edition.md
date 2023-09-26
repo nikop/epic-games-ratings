@@ -1,17 +1,17 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 509)  
+Rating: 4.54 (Ranked 510)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,784 |
-| Greasy Palms | 42.00% | ~4,368 |
-| South American Connection | 25.00% | ~2,600 |
-| Life of the Party | 20.00% | ~2,080 |
-| Big Heat from Little Havana | 15.00% | ~1,560 |
-| Chauffeur | 15.00% | ~1,560 |
-| Tommy Two-Wheels | 15.00% | ~1,560 |
+| Legal Counsel | 46.00% | ~4,786 |
+| Greasy Palms | 42.00% | ~4,370 |
+| South American Connection | 25.00% | ~2,601 |
+| Life of the Party | 20.00% | ~2,081 |
+| Big Heat from Little Havana | 15.00% | ~1,561 |
+| Chauffeur | 15.00% | ~1,561 |
+| Tommy Two-Wheels | 15.00% | ~1,561 |
 | Salutations My Little Friend | 11.00% | ~1,144 |
 | Iron-y | 10.00% | ~1,040 |
 | Gun for Hire | 9.00% | ~936 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 509)
 | Done it All | 0.90% | ~94 |
 | Kingpin | 0.60% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,401 (Ranked 137)  
+Progressed: 10,404 (Ranked 137)  
 Completed: 58 (0.56%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,11 +199,11 @@ Completed: 58 (0.56%) (Ranked 154)
 | 2023-09-23 | 10,281 | 58 |
 | 2023-09-24 | 10,338 | 58 |
 | 2023-09-25 | 10,378 | 58 |
-| 2023-09-26 | 10,401 | 58 |
+| 2023-09-26 | 10,404 | 58 |
 ## Awards
-Max (Great Boss Battles): 82  (Ranked 363)  
+Max (Great Boss Battles): 82  (Ranked 364)  
 Sum: 82 (Ranked 431)  
-Diff (max vs sum): -68  
+Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 82 |

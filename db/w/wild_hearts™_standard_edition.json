@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -476,9 +476,9 @@
       "ID": "achievement_34",
       "SetID": "2cpn27e",
       "Name": "Kemono at Heart",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_35",
@@ -650,8 +650,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:04:27.0936994+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:06:42.7558523+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:02:08.2240579+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:04:27.0937457+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:04:27.5137517+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:06:42.7558987+00:00"
 }

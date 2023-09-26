@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -727,9 +727,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -743,9 +743,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -767,9 +767,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -823,9 +823,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -918,8 +918,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:07:48.8647465+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:10:28.9021359+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:58:36.8270098+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:07:48.8647685+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:59:25.7874034+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:10:28.9021619+00:00"
 }

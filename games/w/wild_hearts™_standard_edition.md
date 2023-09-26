@@ -28,8 +28,8 @@
 | Fair Means or Foul | 40.00% | ~23 |
 | Snare Specialist | 40.00% | ~23 |
 | Mighty Marmelizer | 39.00% | ~22 |
+| Kemono at Heart | 39.00% | ~22 |
 | Reincarnation Cycle Stopper | 39.00% | ~22 |
-| Kemono at Heart | 37.00% | ~21 |
 | Team Hunter | 37.00% | ~21 |
 | Left Arm Leverager | 32.00% | ~18 |
 | Artful Assister | 32.00% | ~18 |

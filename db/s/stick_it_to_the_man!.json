@@ -2,12 +2,12 @@
   "ID": "ad876f7812c946f6a362bf821b971b48",
   "Name": "Stick It To The Man!",
   "ProductSlug": "stick-it-to-the-man",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -311,6 +311,6 @@
   "FirstSeen": "2022-07-22T20:19:08.6755666+00:00",
   "LastChanged": "2023-09-21T00:00:21.5572388+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:43.1033609+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:59:38.5488214+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:05:43.0763094+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:00:49.2177685+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:08:14.0699255+00:00"
 }

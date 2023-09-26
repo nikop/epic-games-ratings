@@ -1,12 +1,12 @@
 # Kingdoms of Amalur: Re-Reckoning
 [Store](https://store.epicgames.com/en-US/p/kingdoms-of-amalur-re-reckoning)  
 [View Rawdata](../../db/k/kingdoms_of_amalur__re-reckoning.json)  
-Rating: 4.54 (Ranked 509)  
+Rating: 4.54 (Ranked 510)  
 Number of Ratings: 137  (23.09.2022)  
 ## Awards
-Max (Character Customization): 73  (Ranked 381)  
+Max (Character Customization): 73  (Ranked 382)  
 Sum: 118 (Ranked 412)  
-Diff (max vs sum): -31  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 73 |

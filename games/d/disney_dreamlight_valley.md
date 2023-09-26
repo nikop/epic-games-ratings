@@ -1,20 +1,20 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 120)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,184 |
-| Photographer | 69.00% | ~7,081 |
-| Valley's Helper | 62.00% | ~6,363 |
-| Constructor | 51.00% | ~5,234 |
-| Renovator | 51.00% | ~5,234 |
-| Bestest Friend | 47.00% | ~4,824 |
-| Banker | 39.00% | ~4,003 |
+| Goofy's Investor | 70.00% | ~7,186 |
+| Photographer | 69.00% | ~7,084 |
+| Valley's Helper | 62.00% | ~6,365 |
+| Constructor | 51.00% | ~5,236 |
+| Renovator | 51.00% | ~5,236 |
+| Bestest Friend | 47.00% | ~4,825 |
+| Banker | 39.00% | ~4,004 |
 | Gardener | 31.00% | ~3,182 |
-| Generous | 24.00% | ~2,463 |
+| Generous | 24.00% | ~2,464 |
 | Chef Cook | 17.00% | ~1,745 |
 | Miner | 9.00% | ~924 |
 | Duty Bound | 6.00% | ~616 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~513 |
 | Chit Chatter | 3.00% | ~308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,263 (Ranked 138)  
+Progressed: 10,266 (Ranked 138)  
 Completed: 235 (2.29%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,21 +132,21 @@ Completed: 235 (2.29%) (Ranked 94)
 | 2023-09-23 | 10,124 | 231 |
 | 2023-09-24 | 10,176 | 233 |
 | 2023-09-25 | 10,234 | 234 |
-| 2023-09-26 | 10,263 | 235 |
+| 2023-09-26 | 10,266 | 235 |
 ## Awards
 Max (Great for Beginners): 969  (Ranked 148)  
-Sum: 7,600 (Ranked 106)  
+Sum: 7,602 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 969 |
 | This game has Diverse Characters | 836 |
-| This game is Highly Recommended | 801 |
+| This game is Highly Recommended | 802 |
 | This game is Relaxing | 801 |
 | This game has Amazing Characters | 800 |
 | This game has Amazing Storytelling | 767 |
 | This game is Extremely Fun | 746 |
-| This game has Quickly Understood Controls | 743 |
+| This game has Quickly Understood Controls | 744 |
 | This game has a Creative Community | 632 |
 | This game has Easy Combat | 505 |
 | This game has Obsessive Gameplay | 415 |
@@ -350,4 +350,4 @@ Diff (max vs sum): 42
 | 2023-09-23 | 4.76 | - | 962 | 7,584 |
 | 2023-09-24 | 4.76 | - | 966 | 7,591 |
 | 2023-09-25 | 4.76 | - | 966 | 7,596 |
-| 2023-09-26 | 4.76 | - | 969 | 7,600 |
+| 2023-09-26 | 4.76 | - | 969 | 7,602 |

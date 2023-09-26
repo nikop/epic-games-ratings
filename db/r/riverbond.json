@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 33,
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528106,
+  "EOS_Progressed": 528107,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -17499,6 +17499,11 @@
       "Time": "2023-09-26T17:05:24.7013168+00:00",
       "NumProgressed": 528106,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-26T18:07:48.6243719+00:00",
+      "NumProgressed": 528107,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 57,
@@ -17510,7 +17515,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 121464
+      "UsersEstimate": 121465
     },
     {
       "ID": "10",
@@ -17526,7 +17531,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369674
+      "UsersEstimate": 369675
     },
     {
       "ID": "12",
@@ -17534,7 +17539,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116183
+      "UsersEstimate": 116184
     },
     {
       "ID": "13",
@@ -17606,7 +17611,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126745
+      "UsersEstimate": 126746
     },
     {
       "ID": "21",
@@ -17734,7 +17739,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264053
+      "UsersEstimate": 264054
     },
     {
       "ID": "36",
@@ -17814,7 +17819,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42248
+      "UsersEstimate": 42249
     },
     {
       "ID": "45",
@@ -17894,7 +17899,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121464
+      "UsersEstimate": 121465
     },
     {
       "ID": "54",
@@ -17965,15 +17970,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528106,
+      "Progressed": 528107,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:05:24.7013162+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:07:48.6243714+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:31.7826677+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:02:11.105095+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:05:24.7014489+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:04:32.8604112+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:07:48.6245228+00:00"
 }

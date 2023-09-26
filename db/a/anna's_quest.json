@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -285,9 +285,9 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "aq_achievement_20",
@@ -341,17 +341,17 @@
       "ID": "aq_achievement_26",
       "SetID": "7jh86ne",
       "Name": "Far away from home",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_27",
       "SetID": "7jh86ne",
       "Name": "Ring-a-ding-ding",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_28",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:03:34.5747932+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:05:56.853261+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:20.3456173+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:58:28.3611358+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:03:34.5748262+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:59:09.8283753+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:05:56.853295+00:00"
 }

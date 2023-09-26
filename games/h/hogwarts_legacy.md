@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 120)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.76 (Ranked 119)
 | First Class Student | 13.00% | ~38,659 |
 | Troll with the Punches | 13.00% | ~38,659 |
 | A Keen Sense of Spell | 12.00% | ~35,685 |
-| A Talent for Spending | 11.00% | ~32,711 |
-| That's a Keeper | 11.00% | ~32,711 |
+| A Talent for Spending | 11.00% | ~32,712 |
+| That's a Keeper | 11.00% | ~32,712 |
 | Grappling with a Graphorn | 10.00% | ~29,738 |
 | The One Who Mastered Memories | 10.00% | ~29,738 |
 | The Hallowed Hero | 10.00% | ~29,738 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,784 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,377 (Ranked 44)  
+Progressed: 297,378 (Ranked 44)  
 Completed: 477 (0.16%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 477 (0.16%) (Ranked 216)
 | 2023-09-23 | 297,194 | 476 |
 | 2023-09-24 | 297,283 | 477 |
 | 2023-09-25 | 297,339 | 477 |
-| 2023-09-26 | 297,377 | 477 |
+| 2023-09-26 | 297,378 | 477 |
 ## Awards
 Max (Character Customization): 23,061  (Ranked 17)  
 Sum: 44,390 (Ranked 30)  

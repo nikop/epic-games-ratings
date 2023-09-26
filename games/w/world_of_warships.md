@@ -1,43 +1,43 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 695)  
+Rating: 4.41 (Ranked 696)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 84.00% | ~24,758 |
-| Initial Capital | 73.00% | ~21,516 |
-| Moneybags | 53.00% | ~15,621 |
-| Junior Supply Officer | 52.00% | ~15,326 |
-| Naval Warfare. Arson | 40.00% | ~11,790 |
-| Naval Warfare. Ramming | 38.00% | ~11,200 |
-| Naval Constructor | 38.00% | ~11,200 |
-| Amateur | 37.00% | ~10,905 |
-| Naval Warfare. Tactics | 37.00% | ~10,905 |
-| Naval Warfare. Weaponry Basics | 29.00% | ~8,547 |
-| Naval Warfare. Lucky Shot | 25.00% | ~7,368 |
-| Naval Warfare. Flooding | 24.00% | ~7,074 |
-| Business Magnate | 23.00% | ~6,779 |
-| Battle Hero | 20.00% | ~5,895 |
-| Supply Officer | 18.00% | ~5,305 |
-| Smooth Supply | 18.00% | ~5,305 |
-| Warrior | 17.00% | ~5,011 |
-| Veteran | 11.00% | ~3,242 |
-| Legend of the Seas | 5.00% | ~1,474 |
-| Chief Naval Architect | 5.00% | ~1,474 |
-| Shield | 5.00% | ~1,474 |
-| Important Missions | 4.00% | ~1,179 |
-| Senior Supply Officer | 3.00% | ~884 |
-| "Science of Victory" | 3.00% | ~884 |
-| Weather Beaten | 3.00% | ~884 |
-| Guardian | 3.00% | ~884 |
-| Bane of the Oceans | 2.00% | ~589 |
-| Old-Timer | 2.00% | ~589 |
-| Special Orders | 2.00% | ~589 |
-| Protector | 2.00% | ~589 |
-| Exterminator | 2.00% | ~589 |
-| American Cruisers | 2.00% | ~589 |
+| Junior Naval Designer | 84.00% | ~24,777 |
+| Initial Capital | 73.00% | ~21,532 |
+| Moneybags | 53.00% | ~15,633 |
+| Junior Supply Officer | 52.00% | ~15,338 |
+| Naval Warfare. Arson | 40.00% | ~11,798 |
+| Naval Warfare. Ramming | 38.00% | ~11,208 |
+| Naval Constructor | 38.00% | ~11,208 |
+| Amateur | 37.00% | ~10,914 |
+| Naval Warfare. Tactics | 37.00% | ~10,914 |
+| Naval Warfare. Weaponry Basics | 29.00% | ~8,554 |
+| Naval Warfare. Lucky Shot | 25.00% | ~7,374 |
+| Naval Warfare. Flooding | 24.00% | ~7,079 |
+| Business Magnate | 23.00% | ~6,784 |
+| Battle Hero | 20.00% | ~5,899 |
+| Supply Officer | 18.00% | ~5,309 |
+| Smooth Supply | 18.00% | ~5,309 |
+| Warrior | 17.00% | ~5,014 |
+| Veteran | 11.00% | ~3,245 |
+| Legend of the Seas | 5.00% | ~1,475 |
+| Chief Naval Architect | 5.00% | ~1,475 |
+| Shield | 5.00% | ~1,475 |
+| Important Missions | 4.00% | ~1,180 |
+| Senior Supply Officer | 3.00% | ~885 |
+| "Science of Victory" | 3.00% | ~885 |
+| Weather Beaten | 3.00% | ~885 |
+| Guardian | 3.00% | ~885 |
+| Bane of the Oceans | 2.00% | ~590 |
+| Old-Timer | 2.00% | ~590 |
+| Special Orders | 2.00% | ~590 |
+| Protector | 2.00% | ~590 |
+| Exterminator | 2.00% | ~590 |
+| American Cruisers | 2.00% | ~590 |
 | Secret Instructions | 1.00% | ~295 |
 | Raider | 1.00% | ~295 |
 | Experienced One | 0.80% | ~236 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~29 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,474 (Ranked 109)  
+Progressed: 29,496 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,10 +95,10 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 27,937 | 0 |
 | 2023-09-24 | 28,709 | 0 |
 | 2023-09-25 | 29,160 | 0 |
-| 2023-09-26 | 29,474 | 0 |
+| 2023-09-26 | 29,496 | 0 |
 ## Awards
 Max (Relaxing): 1,366  (Ranked 131)  
-Sum: 11,340 (Ranked 82)  
+Sum: 11,342 (Ranked 82)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -110,7 +110,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 1,298 |
 | This game has Realistic Visuals | 1,194 |
 | This game has Amazing Storytelling | 1,104 |
-| This game has a Competitive Community | 1,051 |
+| This game has a Competitive Community | 1,053 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -372,4 +372,4 @@ Diff (max vs sum): 49
 | 2023-09-23 | 4.41 | - | 1,356 | 11,261 |
 | 2023-09-24 | 4.41 | - | 1,362 | 11,304 |
 | 2023-09-25 | 4.41 | - | 1,362 | 11,318 |
-| 2023-09-26 | 4.41 | - | 1,366 | 11,340 |
+| 2023-09-26 | 4.41 | - | 1,366 | 11,342 |

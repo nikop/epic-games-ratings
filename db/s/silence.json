@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -357,17 +357,17 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "1006_achv_dropball",
@@ -598,8 +598,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:07:37.5233386+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:10:12.612448+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:44.1627709+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:59:39.3967371+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:07:37.5233781+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:00:50.6501042+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:10:12.6124852+00:00"
 }

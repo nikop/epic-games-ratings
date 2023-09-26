@@ -2,12 +2,12 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -270,7 +270,7 @@
   "Tags": [],
   "EOS_Progressed": 24082,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5141,9 +5141,9 @@
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -5237,9 +5237,9 @@
       "ID": "ACH_STANS_STUFF",
       "SetID": "cdkbb11",
       "Name": "Carried Stan\u0027s Load To Completion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -5364,8 +5364,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-22T19:00:44.5707796+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:08:32.0919075+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:11:36.2547622+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:33.5378459+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:02:26.1946509+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:08:32.0919725+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:04:50.9005599+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:11:36.254911+00:00"
 }

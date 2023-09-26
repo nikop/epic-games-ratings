@@ -2,12 +2,12 @@
   "ID": "3f7bd21610f743e598fa8e955500f5b7",
   "Name": "Evoland Legendary Edition",
   "ProductSlug": "evoland-legendary-edition-5753ec",
-  "Ranking_Rating": 588,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -127,6 +127,6 @@
   "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
   "LastChanged": "2023-09-12T18:00:47.584188+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:56:58.7537513+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:00:53.271767+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:04:35.610614+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:02:39.8539361+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:06:54.7090722+00:00"
 }

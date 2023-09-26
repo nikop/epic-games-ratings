@@ -1,7 +1,7 @@
 # The Spectrum Retreat
 [Store](https://store.epicgames.com/en-US/p/the-spectrum-retreat)  
 [View Rawdata](../../db/t/the_spectrum_retreat.json)  
-Rating: 4.25 (Ranked 840)  
+Rating: 4.25 (Ranked 841)  
 Number of Ratings: 230  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

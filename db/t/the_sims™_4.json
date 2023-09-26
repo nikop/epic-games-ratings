@@ -2,12 +2,12 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 353,
+  "Ranking_Rating": 354,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -7046,11 +7046,17 @@
       "Rating": 4.62,
       "NumberOfAwards": 6065,
       "NumberOfAwardsMax": 1037
+    },
+    {
+      "Time": "2023-09-26T18:05:07.7795693+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 6076,
+      "NumberOfAwardsMax": 1044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6065,
-  "NumberOfAwardsMax": 1037,
+  "NumberOfAwards": 6076,
+  "NumberOfAwardsMax": 1044,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7063,13 +7069,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1037
+      "Count": 1044
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 833
+      "Count": 837
     },
     {
       "Text": "This game has a Creative Community",
@@ -7140,9 +7146,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-09-26T16:03:16.6793916+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:03:22.6742362+00:00",
+  "LastChanged": "2023-09-26T18:05:07.7795692+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:05:40.7618567+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:35.8599714+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:02:41.3965773+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:03:22.67424+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:05:07.7795699+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:05:40.7618617+00:00"
 }

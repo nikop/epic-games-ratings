@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.42 (Ranked 687)  
+Rating: 4.42 (Ranked 688)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,7 +17,7 @@ Rating: 4.42 (Ranked 687)
 | From Darkness to Light | 48.00% | ~704 |
 | Editor Adept | 47.00% | ~689 |
 | Giant Killer | 46.00% | ~675 |
-| Sensei | 43.00% | ~631 |
+| Sensei | 44.00% | ~645 |
 | Firestarter | 42.00% | ~616 |
 | The meaning of Kain | 41.00% | ~601 |
 | Technophobe | 40.00% | ~587 |

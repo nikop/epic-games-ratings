@@ -1,15 +1,15 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 573)  
+Rating: 4.50 (Ranked 574)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,896 |
+| The Shutdown | 66.00% | ~308,897 |
 | Jeef Skeejj | 44.00% | ~205,931 |
 | Careful planning | 39.00% | ~182,530 |
-| Second Coming | 34.00% | ~159,128 |
+| Second Coming | 34.00% | ~159,129 |
 | Jeef Skagg | 30.00% | ~140,408 |
 | Mother | 25.00% | ~117,006 |
 | In space, no one can hear you scream | 24.00% | ~112,326 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~70,204 |
 | Tetsuo | 11.00% | ~51,483 |
 | Plan for the worst | 11.00% | ~51,483 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,802 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,803 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,442 |
 | Through the mirror | 8.00% | ~37,442 |
 | General Vivar | 8.00% | ~37,442 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jericho Rule | 5.00% | ~23,401 |
 | Geno Rule | 3.00% | ~14,041 |
 | Hammer Rule | 3.00% | ~14,041 |
-| Survivor | 2.00% | ~9,360 |
+| Survivor | 2.00% | ~9,361 |
 | A Rock in the Dark | 1.00% | ~4,680 |
 | Emperor of Misery | 1.00% | ~4,680 |
 | A Frozen Lady | 1.00% | ~4,680 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,025 (Ranked 37)  
+Progressed: 468,026 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 18 (0.00%) (Ranked 293)
 | 2023-09-23 | 467,884 | 18 |
 | 2023-09-24 | 467,949 | 18 |
 | 2023-09-25 | 467,992 | 18 |
-| 2023-09-26 | 468,025 | 18 |
+| 2023-09-26 | 468,026 | 18 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 240 (Ranked 364)  

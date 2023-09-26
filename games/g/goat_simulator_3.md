@@ -1,37 +1,37 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.84 (Ranked 50)  
+Rating: 4.84 (Ranked 51)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~223,124 |
-| Private Club | 74.00% | ~181,441 |
-| Rogue Guild | 65.00% | ~159,374 |
-| I Watched the Intro | 57.00% | ~139,759 |
-| Covert Consortium | 55.00% | ~134,855 |
-| Goat Queen | 53.00% | ~129,951 |
-| Reach the Stratosphere | 50.00% | ~122,596 |
-| Synchronization Complete | 47.00% | ~115,240 |
-| Secret Society | 45.00% | ~110,336 |
-| Shadow Syndicate | 38.00% | ~93,173 |
-| What a Waste of Money | 33.00% | ~80,913 |
-| New Goat Order | 30.00% | ~73,557 |
-| Don't touch the servers | 28.00% | ~68,653 |
-| San Angora: Become Human | 27.00% | ~66,202 |
-| Real Buoy | 27.00% | ~66,202 |
-| Raider of the Lost Parking Garage | 26.00% | ~63,750 |
-| Welcome to Earth | 25.00% | ~61,298 |
-| Into the Matrix | 19.00% | ~46,586 |
-| Egg Simulator | 18.00% | ~44,134 |
-| Where is It? | 17.00% | ~41,682 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~36,779 |
-| Black Market | 14.00% | ~34,327 |
-| 401(K.O.) | 14.00% | ~34,327 |
-| Car Cave | 12.00% | ~29,423 |
-| Club Mohair | 8.00% | ~19,615 |
-| A Center for Ants? | 8.00% | ~19,615 |
-| French Fika | 7.00% | ~17,163 |
+| Forgotten Sorority | 91.00% | ~223,131 |
+| Private Club | 74.00% | ~181,447 |
+| Rogue Guild | 65.00% | ~159,379 |
+| I Watched the Intro | 57.00% | ~139,763 |
+| Covert Consortium | 55.00% | ~134,859 |
+| Goat Queen | 53.00% | ~129,955 |
+| Reach the Stratosphere | 50.00% | ~122,600 |
+| Synchronization Complete | 47.00% | ~115,244 |
+| Secret Society | 45.00% | ~110,340 |
+| Shadow Syndicate | 38.00% | ~93,176 |
+| What a Waste of Money | 33.00% | ~80,916 |
+| New Goat Order | 30.00% | ~73,560 |
+| Don't touch the servers | 28.00% | ~68,656 |
+| San Angora: Become Human | 27.00% | ~66,204 |
+| Real Buoy | 27.00% | ~66,204 |
+| Raider of the Lost Parking Garage | 26.00% | ~63,752 |
+| Welcome to Earth | 25.00% | ~61,300 |
+| Into the Matrix | 19.00% | ~46,588 |
+| Egg Simulator | 18.00% | ~44,136 |
+| Where is It? | 17.00% | ~41,684 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~36,780 |
+| Black Market | 14.00% | ~34,328 |
+| 401(K.O.) | 14.00% | ~34,328 |
+| Car Cave | 12.00% | ~29,424 |
+| Club Mohair | 8.00% | ~19,616 |
+| A Center for Ants? | 8.00% | ~19,616 |
+| French Fika | 7.00% | ~17,164 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,808 |
 | Nasty! | 4.00% | ~9,808 |
 | [REDACTED] | 4.00% | ~9,808 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,471 |
 | G.O.A.T | 0.30% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,191 (Ranked 52)  
+Progressed: 245,199 (Ranked 52)  
 Completed: 837 (0.34%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 837 (0.34%) (Ranked 184)
 | 2023-09-23 | 244,768 | 834 |
 | 2023-09-24 | 244,985 | 835 |
 | 2023-09-25 | 245,112 | 837 |
-| 2023-09-26 | 245,191 | 837 |
+| 2023-09-26 | 245,199 | 837 |
 ## Awards
 Max (Great for Beginners): 405  (Ranked 219)  
 Sum: 3,451 (Ranked 157)  

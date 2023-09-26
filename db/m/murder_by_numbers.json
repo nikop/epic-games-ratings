@@ -2,12 +2,12 @@
   "ID": "a0c5d9d8a9a940e8a8f63118c7323210",
   "Name": "Murder by Numbers",
   "ProductSlug": "murder-by-numbers",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-03-23T17:00:00+00:00",
@@ -326,6 +326,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
   "LastChanged": "2023-09-22T03:57:35.6066771+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.6682942+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:59:46.4110589+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:04:18.6889481+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:01:06.5889485+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:06:30.6457278+00:00"
 }

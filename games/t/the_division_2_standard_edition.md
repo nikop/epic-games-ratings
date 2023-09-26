@@ -1,11 +1,11 @@
 # The Division 2 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-division-2)  
 [View Rawdata](../../db/t/the_division_2_standard_edition.json)  
-Rating: 4.48 (Ranked 607)  
+Rating: 4.48 (Ranked 608)  
 Number of Ratings: 6,675  (23.09.2022)  
 ## Awards
 Max (Character Customization): 8,086  (Ranked 43)  
-Sum: 26,803 (Ranked 49)  
+Sum: 26,806 (Ranked 49)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): -6
 | This game has Diverse Characters | 1,410 |
 | This game is Highly Recommended | 1,403 |
 | This game has Challenging Combat | 1,389 |
-| This game has Amazing Characters | 1,344 |
+| This game has Amazing Characters | 1,347 |
 | This game has Obsessive Gameplay | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -280,4 +280,4 @@ Diff (max vs sum): -6
 | 2023-09-23 | 4.48 | - | 8,062 | 26,720 |
 | 2023-09-24 | 4.48 | - | 8,068 | 26,751 |
 | 2023-09-25 | 4.48 | - | 8,075 | 26,771 |
-| 2023-09-26 | 4.48 | - | 8,086 | 26,803 |
+| 2023-09-26 | 4.48 | - | 8,086 | 26,806 |

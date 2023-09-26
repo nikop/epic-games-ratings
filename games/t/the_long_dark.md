@@ -1,11 +1,11 @@
 # The Long Dark
 [Store](https://store.epicgames.com/en-US/p/the-long-dark)  
 [View Rawdata](../../db/t/the_long_dark.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 148)  
 Number of Ratings: 4,814  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 810  (Ranked 159)  
-Sum: 4,888 (Ranked 134)  
+Sum: 4,890 (Ranked 134)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 25
 | This game has Quickly Understood Controls | 717 |
 | This game has Amazing Characters | 678 |
 | This game has Amazing Storytelling | 677 |
-| This game has a Creative Community | 531 |
+| This game has a Creative Community | 533 |
 | This game has Obsessive Gameplay | 359 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -238,4 +238,4 @@ Diff (max vs sum): 25
 | 2023-09-23 | 4.74 | - | 810 | 4,878 |
 | 2023-09-24 | 4.74 | - | 810 | 4,881 |
 | 2023-09-25 | 4.74 | - | 810 | 4,886 |
-| 2023-09-26 | 4.74 | - | 810 | 4,888 |
+| 2023-09-26 | 4.74 | - | 810 | 4,890 |

@@ -1,26 +1,26 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.30 (Ranked 805)  
+Rating: 4.30 (Ranked 806)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,213 |
-| Powergamer | 27.00% | ~66,741 |
-| Barely scratched the surface | 25.00% | ~61,797 |
-| Write that down | 24.00% | ~59,325 |
+| I will finish what you started | 28.00% | ~69,215 |
+| Powergamer | 27.00% | ~66,743 |
+| Barely scratched the surface | 25.00% | ~61,799 |
+| Write that down | 24.00% | ~59,327 |
 | Guns, lots of guns | 13.00% | ~32,135 |
-| Collector | 12.00% | ~29,663 |
-| Elementary! | 9.00% | ~22,247 |
-| Pumpkin Jack | 8.00% | ~19,775 |
-| Wake up! | 8.00% | ~19,775 |
-| It's honest work | 7.00% | ~17,303 |
-| Griever | 7.00% | ~17,303 |
-| Me smart | 6.00% | ~14,831 |
-| Trash compactor | 6.00% | ~14,831 |
-| Good listener | 5.00% | ~12,359 |
-| Valedictorian | 5.00% | ~12,359 |
+| Collector | 12.00% | ~29,664 |
+| Elementary! | 9.00% | ~22,248 |
+| Pumpkin Jack | 8.00% | ~19,776 |
+| Wake up! | 8.00% | ~19,776 |
+| It's honest work | 7.00% | ~17,304 |
+| Griever | 7.00% | ~17,304 |
+| Me smart | 6.00% | ~14,832 |
+| Trash compactor | 6.00% | ~14,832 |
+| Good listener | 5.00% | ~12,360 |
+| Valedictorian | 5.00% | ~12,360 |
 | BOY! | 4.00% | ~9,888 |
 | Ka-ching! | 4.00% | ~9,888 |
 | So you like to read? | 4.00% | ~9,888 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~494 |
 | Memory 5 | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,189 (Ranked 51)  
+Progressed: 247,196 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,11 +218,11 @@ Completed: 7 (0.00%) (Ranked 293)
 | 2023-09-23 | 246,909 | 7 |
 | 2023-09-24 | 247,045 | 7 |
 | 2023-09-25 | 247,139 | 7 |
-| 2023-09-26 | 247,189 | 7 |
+| 2023-09-26 | 247,196 | 7 |
 ## Awards
-Max (Character Customization): 81  (Ranked 366)  
+Max (Character Customization): 81  (Ranked 367)  
 Sum: 81 (Ranked 433)  
-Diff (max vs sum): -67  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 81 |

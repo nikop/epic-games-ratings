@@ -8,18 +8,18 @@
 | Ooh, it's shiny! | 62.00% | ~31 |
 | Book Worm | 60.00% | ~30 |
 | My lost nightingale | 52.00% | ~26 |
-| Through the woods | 48.00% | ~24 |
+| Through the woods | 50.00% | ~25 |
 | Back to the anvil | 44.00% | ~22 |
 | Fussy eater | 42.00% | ~21 |
 | So soothing... | 42.00% | ~21 |
 | Kekekeke... | 42.00% | ~21 |
 | Mystery solved | 40.00% | ~20 |
 | Honey, honey, honey… | 40.00% | ~20 |
+| Far away from home | 40.00% | ~20 |
 | Sorry Grandpa | 40.00% | ~20 |
 | Roostwig has entered the building | 40.00% | ~20 |
 | Game Over! | 38.00% | ~19 |
 | A very special drink | 38.00% | ~19 |
-| Far away from home | 38.00% | ~19 |
 | Little genius | 38.00% | ~19 |
 | NOW GO AWAY! | 38.00% | ~19 |
 | Show me your true self | 36.00% | ~18 |
@@ -31,8 +31,8 @@
 | Close the deal | 30.00% | ~15 |
 | Memories | 30.00% | ~15 |
 | Beekeeper | 30.00% | ~15 |
+| Ring-a-ding-ding | 30.00% | ~15 |
 | Pain in the hands | 30.00% | ~15 |
-| Ring-a-ding-ding | 28.00% | ~14 |
 | Turn the last page | 26.00% | ~13 |
 | Makeover | 26.00% | ~13 |
 | Singstar | 26.00% | ~13 |

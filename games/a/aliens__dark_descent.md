@@ -1,35 +1,35 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.49 (Ranked 588)  
+Rating: 4.49 (Ranked 589)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,758 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,759 |
 | Snatched Out | 74.00% | ~2,520 |
 | Keep 'Em Coming | 73.00% | ~2,486 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,281 |
-| Call Me Snake | 62.00% | ~2,111 |
-| Something Lurks Under The Hills | 61.00% | ~2,077 |
-| This Was No Papercut | 59.00% | ~2,009 |
-| The Shrink Hates Me | 57.00% | ~1,941 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,282 |
+| Call Me Snake | 62.00% | ~2,112 |
+| Something Lurks Under The Hills | 61.00% | ~2,078 |
+| This Was No Papercut | 59.00% | ~2,010 |
 | People Person | 56.00% | ~1,907 |
+| The Shrink Hates Me | 56.00% | ~1,907 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,805 |
 | First Steps Into Madness | 52.00% | ~1,771 |
 | Colonial Barrels | 51.00% | ~1,737 |
-| Harper's Hell | 45.00% | ~1,532 |
-| Making a Stand | 43.00% | ~1,464 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,430 |
+| Harper's Hell | 45.00% | ~1,533 |
+| Making a Stand | 43.00% | ~1,465 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,431 |
 | Where It All Begun | 40.00% | ~1,362 |
 | Recouped Investment | 38.00% | ~1,294 |
 | Omelette Du Fromage | 33.00% | ~1,124 |
 | Living Nightmare | 33.00% | ~1,124 |
 | The More The Merrier | 33.00% | ~1,124 |
-| The Darwin Era Was Here | 29.00% | ~987 |
-| Deep Into Insanity | 28.00% | ~953 |
-| The Passenger | 28.00% | ~953 |
-| Come on, You Wanna Live Forever? | 26.00% | ~885 |
-| The Spire | 25.00% | ~851 |
+| The Darwin Era Was Here | 29.00% | ~988 |
+| Deep Into Insanity | 28.00% | ~954 |
+| The Passenger | 28.00% | ~954 |
+| Come on, You Wanna Live Forever? | 26.00% | ~886 |
+| The Spire | 25.00% | ~852 |
 | El Riesgo Siempre Vive | 24.00% | ~817 |
 | Stuff Of Nightmares | 22.00% | ~749 |
 | Excavating The Truth | 21.00% | ~715 |
@@ -42,7 +42,7 @@ Rating: 4.49 (Ranked 588)
 | This Went Smoothly | 13.00% | ~443 |
 | Flawless Victory | 12.00% | ~409 |
 | Heavy Steps | 12.00% | ~409 |
-| Perfect Enhancements | 9.00% | ~306 |
+| Perfect Enhancements | 9.00% | ~307 |
 | Hardened In The Heat Of Battle | 7.00% | ~238 |
 | The True Experience | 6.00% | ~204 |
 | Archivist | 2.00% | ~68 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 588)
 | Chalk It Up To Experience | 0.80% | ~27 |
 | This Ain't No Picnic | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,405 (Ranked 177)  
+Progressed: 3,406 (Ranked 177)  
 Completed: 3 (0.09%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 3 (0.09%) (Ranked 237)
 | 2023-09-23 | 3,374 | 3 |
 | 2023-09-24 | 3,392 | 3 |
 | 2023-09-25 | 3,402 | 3 |
-| 2023-09-26 | 3,405 | 3 |
+| 2023-09-26 | 3,406 | 3 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 469)  
 Sum: 29 (Ranked 485)  

@@ -1,23 +1,23 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 205)  
+Rating: 4.70 (Ranked 206)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~10,955 |
-| Finding Your Footing | 26.00% | ~10,549 |
-| Nomad | 17.00% | ~6,897 |
-| Picking Up Speed | 16.00% | ~6,492 |
-| Welcome Maya | 15.00% | ~6,086 |
-| Scout | 11.00% | ~4,463 |
-| Sightseer | 11.00% | ~4,463 |
+| Rookie | 27.00% | ~10,957 |
+| Finding Your Footing | 26.00% | ~10,552 |
+| Nomad | 17.00% | ~6,899 |
+| Picking Up Speed | 16.00% | ~6,493 |
+| Welcome Maya | 15.00% | ~6,087 |
+| Scout | 11.00% | ~4,464 |
+| Sightseer | 11.00% | ~4,464 |
 | Amateur | 9.00% | ~3,652 |
-| Unlock Maya | 8.00% | ~3,246 |
-| Enter Paz | 8.00% | ~3,246 |
-| Wanderer | 8.00% | ~3,246 |
-| Aviator | 6.00% | ~2,434 |
+| Unlock Maya | 8.00% | ~3,247 |
+| Enter Paz | 8.00% | ~3,247 |
+| Wanderer | 8.00% | ~3,247 |
+| Aviator | 6.00% | ~2,435 |
 | My Little Friend | 5.00% | ~2,029 |
 | One With The Board | 5.00% | ~2,029 |
 | Voyager | 5.00% | ~2,029 |
@@ -28,10 +28,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,217 |
 | Human Flight | 3.00% | ~1,217 |
 | Sandboarder | 3.00% | ~1,217 |
-| Explorer | 2.00% | ~811 |
-| Pro | 2.00% | ~811 |
-| Unlock Izel | 2.00% | ~811 |
-| Here Comes Felipe | 2.00% | ~811 |
+| Explorer | 2.00% | ~812 |
+| Pro | 2.00% | ~812 |
+| Unlock Izel | 2.00% | ~812 |
+| Here Comes Felipe | 2.00% | ~812 |
 | Hoist the Mainsail | 1.00% | ~406 |
 | Daredevil | 1.00% | ~406 |
 | Introducing Sumara | 1.00% | ~406 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~41 |
 | Windswept | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,573 (Ranked 101)  
+Progressed: 40,583 (Ranked 101)  
 Completed: 5 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 5 (0.01%) (Ranked 276)
 | 2023-09-23 | 40,278 | 5 |
 | 2023-09-24 | 40,398 | 5 |
 | 2023-09-25 | 40,500 | 5 |
-| 2023-09-26 | 40,573 | 5 |
+| 2023-09-26 | 40,583 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 413)  
 Sum: 364 (Ranked 332)  

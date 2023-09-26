@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 588,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 177,
@@ -330,9 +330,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 3405,
+  "EOS_Progressed": 3406,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4810,6 +4810,11 @@
       "Time": "2023-09-26T17:04:43.843117+00:00",
       "NumProgressed": 3405,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-26T18:07:05.2269282+00:00",
+      "NumProgressed": 3406,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4845,7 +4850,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -4933,7 +4938,7 @@
       "Name": "Call Me Snake",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4941,7 +4946,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4997,7 +5002,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -5013,7 +5018,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5029,7 +5034,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH_MISSION_04",
@@ -5037,7 +5042,7 @@
       "Name": "Making a Stand",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5061,7 +5066,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH_MISSION_08",
@@ -5069,7 +5074,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_MISSION_09",
@@ -5077,7 +5082,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_MISSION_10",
@@ -5085,7 +5090,7 @@
       "Name": "The Spire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACH_MISSION_11",
@@ -5125,7 +5130,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2759
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5133,7 +5138,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -5149,7 +5154,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5171,16 +5176,16 @@
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1907
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3405,
+      "Progressed": 3406,
       "Completed": 3
     }
   ],
@@ -5188,8 +5193,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:04:43.8431166+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:07:05.2269277+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.0106466+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:59:37.0220708+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:04:43.8431706+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:00:46.9872377+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:07:05.226993+00:00"
 }

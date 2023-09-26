@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 949)  
+Rating: 4.03 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -65,8 +65,8 @@ Rating: 4.03 (Ranked 949)
 | Mythic Power | 3.00% | ~59 |
 | What lies behind the bush | 3.00% | ~59 |
 | Cauldron Liberator | 2.00% | ~39 |
+| Enchanting skill x5 | 2.00% | ~39 |
 | Guardian Master | 2.00% | ~39 |
-| Enchanting skill x5 | 1.00% | ~20 |
 | Enhanced War Machines | 1.00% | ~20 |
 | Titan Power | 1.00% | ~20 |
 | Training makes a Pro player | 1.00% | ~20 |

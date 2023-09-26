@@ -1,24 +1,24 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 535)  
+Rating: 4.52 (Ranked 536)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,384 |
-| Captain Drummer | 29.00% | ~3,740 |
-| Stogie for Fogey | 28.00% | ~3,611 |
-| Martian Music | 27.00% | ~3,482 |
-| Celebrations are in Order | 27.00% | ~3,482 |
-| Spore Taste | 26.00% | ~3,353 |
-| The Pit and the Pirates | 24.00% | ~3,095 |
-| Drone Dodger | 23.00% | ~2,966 |
-| Doctor Approved | 19.00% | ~2,450 |
-| Bosmang | 16.00% | ~2,063 |
-| Thorston Mayer | 15.00% | ~1,934 |
-| Bottoms up! | 12.00% | ~1,547 |
-| Call it Even | 12.00% | ~1,547 |
-| Data Archivist | 11.00% | ~1,418 |
+| Impossible Objects | 34.00% | ~4,387 |
+| Captain Drummer | 29.00% | ~3,742 |
+| Stogie for Fogey | 28.00% | ~3,613 |
+| Martian Music | 27.00% | ~3,484 |
+| Celebrations are in Order | 27.00% | ~3,484 |
+| Spore Taste | 26.00% | ~3,355 |
+| The Pit and the Pirates | 24.00% | ~3,096 |
+| Drone Dodger | 23.00% | ~2,967 |
+| Doctor Approved | 19.00% | ~2,451 |
+| Bosmang | 17.00% | ~2,193 |
+| Thorston Mayer | 16.00% | ~2,064 |
+| Bottoms up! | 13.00% | ~1,677 |
+| Call it Even | 12.00% | ~1,548 |
+| Data Archivist | 11.00% | ~1,419 |
 | Heal Thy Medic | 10.00% | ~1,290 |
 | Khan's Revenge | 9.00% | ~1,161 |
 | Data Logger | 8.00% | ~1,032 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 535)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,895 (Ranked 134)  
+Progressed: 12,902 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 12,197 | 0 |
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
-| 2023-09-26 | 12,895 | 0 |
+| 2023-09-26 | 12,902 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

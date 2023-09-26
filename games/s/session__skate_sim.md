@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 222)  
+Rating: 4.69 (Ranked 223)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,12 +34,12 @@ Number of Ratings: 111  (23.09.2022)
 | Laid back | 5.00% | ~148 |
 | Lines for days | 5.00% | ~148 |
 | NAHELL! | 5.00% | ~148 |
+| Renaissance man | 5.00% | ~148 |
 | Trick shot marksman | 5.00% | ~148 |
 | Cops called! | 4.00% | ~118 |
 | G.O.A.T. status | 4.00% | ~118 |
 | Manny Destroys All | 4.00% | ~118 |
 | Prince of Philly | 4.00% | ~118 |
-| Renaissance man | 4.00% | ~118 |
 | Tank commander | 4.00% | ~118 |
 | We get it, you're good | 4.00% | ~118 |
 | Hoarder | 3.00% | ~89 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,951 (Ranked 186)  
+Progressed: 2,952 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 2,922 | 0 |
 | 2023-09-24 | 2,934 | 0 |
 | 2023-09-25 | 2,943 | 0 |
-| 2023-09-26 | 2,951 | 0 |
+| 2023-09-26 | 2,952 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
 Sum: 472 (Ranked 313)  

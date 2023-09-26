@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 574,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2234,7 +2234,7 @@
   ],
   "EOS_Progressed": 26039,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13646,9 +13646,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 208
     },
     {
       "ID": "Animated",
@@ -13894,17 +13894,17 @@
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 104
     },
     {
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Seasoned",
@@ -14063,8 +14063,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:07:50.5244705+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:10:31.5083742+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:58:38.9230583+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:07:50.5245838+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:59:28.8003995+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:10:31.5085393+00:00"
 }

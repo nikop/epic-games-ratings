@@ -1,12 +1,12 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.48 (Ranked 607)  
+Rating: 4.48 (Ranked 608)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~305 |
-| Increasing your Power Level | 27.00% | ~305 |
+| Rookie No More | 27.00% | ~306 |
+| Increasing your Power Level | 27.00% | ~306 |
 | Enter the Speed Gauntlet | 25.00% | ~283 |
 | I just can't choose | 25.00% | ~283 |
 | A Cheese Grater to the Face | 19.00% | ~215 |
@@ -17,9 +17,9 @@ Rating: 4.48 (Ranked 607)
 | Ride in the rising sun | 15.00% | ~170 |
 | Running at the speed of sound | 13.00% | ~147 |
 | Rookie No-No More | 12.00% | ~136 |
-| Martian explorer | 11.00% | ~124 |
-| To the core | 8.00% | ~90 |
-| Blurred photofinish | 8.00% | ~90 |
+| Martian explorer | 11.00% | ~125 |
+| To the core | 8.00% | ~91 |
+| Blurred photofinish | 8.00% | ~91 |
 | First step into a larger world | 7.00% | ~79 |
 | Over the clouds | 6.00% | ~68 |
 | Under the sea, under the sea | 6.00% | ~68 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 607)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,131 (Ranked 223)  
+Progressed: 1,132 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 1,129 | 0 |
 | 2023-09-24 | 1,130 | 0 |
 | 2023-09-25 | 1,131 | 0 |
+| 2023-09-26 | 1,132 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

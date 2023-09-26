@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
@@ -12521,10 +12521,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882244,
-  "EOS_Completed": 2411,
-  "EOS_NewPlayers": 5142,
-  "EOS_NewCompleters": 292,
+  "EOS_Progressed": 882293,
+  "EOS_Completed": 2412,
+  "EOS_NewPlayers": 5175,
+  "EOS_NewCompleters": 293,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30391,6 +30391,11 @@
       "Time": "2023-09-26T17:06:11.2478012+00:00",
       "NumProgressed": 882244,
       "NumCompleted": 2411
+    },
+    {
+      "Time": "2023-09-26T18:08:25.318645+00:00",
+      "NumProgressed": 882293,
+      "NumCompleted": 2412
     }
   ],
   "TotalAchievements": 57,
@@ -30402,7 +30407,7 @@
       "Name": "City Lights",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "BornToBeWild",
@@ -30482,15 +30487,15 @@
       "Name": "Gunslinger",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3529
+      "UsersEstimate": 4411
     },
     {
       "ID": "IAmMaxTac",
@@ -30530,7 +30535,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "MustBeTheRats",
@@ -30600,9 +30605,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6176
+      "UsersEstimate": 7058
     },
     {
       "ID": "TheDevil",
@@ -30610,7 +30615,7 @@
       "Name": "The Devil",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "TheFool",
@@ -30618,7 +30623,7 @@
       "Name": "The Fool",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "TheHermit",
@@ -30640,9 +30645,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1765
     },
     {
       "ID": "TheStar",
@@ -30674,7 +30679,7 @@
       "Name": "The World",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ThisIsPacifica",
@@ -30682,7 +30687,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "TradeUnion",
@@ -30704,9 +30709,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2647
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -30722,7 +30727,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "VForVendetta",
@@ -30738,7 +30743,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -30746,7 +30751,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "All the President\u0027s Men",
@@ -30857,21 +30862,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882244,
-      "Completed": 2411
+      "Progressed": 882293,
+      "Completed": 2412
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10867,
+      "Progressed": 10916,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-26T16:57:21.6636037+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:06:11.2478002+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:08:25.3186445+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:57:21.6636044+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:06:11.2479562+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:57:41.2184043+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:08:25.318831+00:00"
 }

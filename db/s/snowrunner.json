@@ -2,12 +2,12 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 120,
   "Ranking_Popularity": 36,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
@@ -10708,10 +10708,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 74027,
       "NumberOfAwardsMax": 10840
+    },
+    {
+      "Time": "2023-09-26T18:01:35.5378179+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 74037,
+      "NumberOfAwardsMax": 10840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 74027,
+  "NumberOfAwards": 74037,
   "NumberOfAwardsMax": 10840,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10755,7 +10761,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8107
+      "Count": 8117
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10787,8 +10793,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-09-26T17:00:08.7819329+00:00",
+  "LastChanged": "2023-09-26T18:01:35.5378176+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:08.8068389+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:00:08.7819335+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:04:14.2209367+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:01:35.5378184+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:06:24.1746226+00:00"
 }

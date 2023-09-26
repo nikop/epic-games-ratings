@@ -1,20 +1,20 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.77 (Ranked 989)  
+Rating: 3.77 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,426 |
-| No Half Measures | 88.00% | ~14,289 |
-| Personal Matter | 87.00% | ~14,127 |
-| But You Have Heard of Me | 72.00% | ~11,691 |
-| Double the Barrels, double the Fun | 55.00% | ~8,931 |
-| Pimp My Glide | 48.00% | ~7,794 |
+| Eeligally Ambitious | 95.00% | ~15,428 |
+| No Half Measures | 88.00% | ~14,291 |
+| Personal Matter | 87.00% | ~14,129 |
+| But You Have Heard of Me | 72.00% | ~11,693 |
+| Double the Barrels, double the Fun | 55.00% | ~8,932 |
+| Pimp My Glide | 48.00% | ~7,795 |
 | ... And Where Do the Stories Come From? | 41.00% | ~6,658 |
-| House Party! | 34.00% | ~5,521 |
+| House Party! | 34.00% | ~5,522 |
 | Make It Rain | 23.00% | ~3,735 |
-| Curse of the Seven Seas | 22.00% | ~3,572 |
+| Curse of the Seven Seas | 22.00% | ~3,573 |
 | Head First | 16.00% | ~2,598 |
 | To the World's End | 12.00% | ~1,949 |
 | Table for Six | 11.00% | ~1,786 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 989)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,238 (Ranked 126)  
+Progressed: 16,240 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 16,220 | 0 |
 | 2023-09-24 | 16,223 | 0 |
 | 2023-09-25 | 16,229 | 0 |
-| 2023-09-26 | 16,238 | 0 |
+| 2023-09-26 | 16,240 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 573)  
+Rating: 4.50 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 1.00% | ~260 |
-| Advancement | 0.70% | ~182 |
+| Advancement | 0.80% | ~208 |
 | Meticulously Efficient | 0.70% | ~182 |
 | Discovery | 0.60% | ~156 |
 | Solo Capture | 0.60% | ~156 |
@@ -24,11 +24,11 @@ Rating: 4.50 (Ranked 573)
 | Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
+| Right back at ya | 0.40% | ~104 |
 | Summoner | 0.40% | ~104 |
 | Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
-| Right back at ya | 0.30% | ~78 |
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
@@ -40,6 +40,7 @@ Rating: 4.50 (Ranked 573)
 | Pesky Jerks | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
+| Rivalry | 0.20% | ~52 |
 | Seasoned | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
@@ -52,7 +53,6 @@ Rating: 4.50 (Ranked 573)
 | Master Collector | 0.10% | ~26 |
 | Mycophile | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
-| Rivalry | 0.10% | ~26 |
 | Surprise! | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |

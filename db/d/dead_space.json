@@ -2,13 +2,13 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 372,
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -620,9 +620,9 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1405,6 +1405,11 @@
       "Time": "2023-09-26T17:04:28.1901549+00:00",
       "NumProgressed": 450,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T18:06:44.3553675+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -1417,7 +1422,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_10",
@@ -1425,7 +1430,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_11",
@@ -1439,17 +1444,17 @@
       "ID": "achievement_12",
       "SetID": "222fo9l",
       "Name": "Exodus",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_13",
       "SetID": "222fo9l",
       "Name": "Final Regeneration",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_14",
@@ -1481,7 +1486,7 @@
       "Name": "Trusted Contractor",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_18",
@@ -1505,7 +1510,7 @@
       "Name": "Lab Rat",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_20",
@@ -1513,7 +1518,7 @@
       "Name": "Autofire",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_21",
@@ -1527,9 +1532,9 @@
       "ID": "achievement_22",
       "SetID": "222fo9l",
       "Name": "A Cut Above",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_23",
@@ -1575,9 +1580,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_29",
@@ -1609,15 +1614,15 @@
       "Name": "Marksman",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_33",
@@ -1633,7 +1638,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_35",
@@ -1673,7 +1678,7 @@
       "Name": "Z-Baller",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_4",
@@ -1681,7 +1686,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_40",
@@ -1695,9 +1700,9 @@
       "ID": "achievement_41",
       "SetID": "222fo9l",
       "Name": "Full Clearance",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_42",
@@ -1705,7 +1710,7 @@
       "Name": "Brute Force",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_43",
@@ -1727,9 +1732,9 @@
       "ID": "achievement_45",
       "SetID": "222fo9l",
       "Name": "Mindless Prey",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_46",
@@ -1753,7 +1758,7 @@
       "Name": "True Believer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_6",
@@ -1777,7 +1782,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_9",
@@ -1792,7 +1797,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 2
     }
   ],
@@ -1800,8 +1805,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-22T20:58:23.6909557+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:04:28.1901543+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:06:44.3553668+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:00:23.8240745+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:04:28.1902035+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:01:55.1710036+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:06:44.3554265+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1523,8 +1523,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:04:38.5137996+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:06:58.2409629+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:01.7956204+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:01:51.1424259+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:04:38.5138359+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:03:58.9946778+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:06:58.2409963+00:00"
 }

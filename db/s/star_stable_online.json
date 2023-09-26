@@ -2,12 +2,12 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 687,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -2066,10 +2066,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1137,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2023-09-26T17:58:15.0302288+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1139,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1137,
+  "NumberOfAwards": 1139,
   "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2089,7 +2095,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 121
+      "Count": 123
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2157,8 +2163,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-09-26T16:57:41.5319152+00:00",
+  "LastChanged": "2023-09-26T17:58:15.0302286+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:54.2224249+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:57:41.5319157+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:05:18.6612819+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:58:15.0302294+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:07:39.9123873+00:00"
 }

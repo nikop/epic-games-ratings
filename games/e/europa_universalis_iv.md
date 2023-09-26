@@ -1,32 +1,32 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 222)  
+Rating: 4.69 (Ranked 223)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,601 |
-| That's a Grand Army | 3.00% | ~12,451 |
-| That is mine! | 3.00% | ~12,451 |
-| Victorious! | 3.00% | ~12,451 |
-| Brothers in Arms | 2.00% | ~8,301 |
-| For the Glory | 2.00% | ~8,301 |
-| That's a Grand Navy | 2.00% | ~8,301 |
-| Seriously?! | 2.00% | ~8,301 |
-| Cold War | 1.00% | ~4,150 |
-| Defender of the Faith | 1.00% | ~4,150 |
-| It's all about the money | 1.00% | ~4,150 |
-| The Princess is in this Castle | 1.00% | ~4,150 |
-| True Catholic | 1.00% | ~4,150 |
-| It's all about luck | 0.90% | ~3,735 |
-| Respected | 0.90% | ~3,735 |
-| Truly Divine Ruler | 0.90% | ~3,735 |
-| Blockader | 0.80% | ~3,320 |
-| Double the Love | 0.70% | ~2,905 |
-| Royal Authority | 0.70% | ~2,905 |
-| Total Control | 0.70% | ~2,905 |
-| My armies are invincible! | 0.60% | ~2,490 |
+| Until death do us apart | 4.00% | ~16,603 |
+| That's a Grand Army | 3.00% | ~12,453 |
+| That is mine! | 3.00% | ~12,453 |
+| Victorious! | 3.00% | ~12,453 |
+| Brothers in Arms | 2.00% | ~8,302 |
+| For the Glory | 2.00% | ~8,302 |
+| That's a Grand Navy | 2.00% | ~8,302 |
+| Seriously?! | 2.00% | ~8,302 |
+| Cold War | 1.00% | ~4,151 |
+| Defender of the Faith | 1.00% | ~4,151 |
+| It's all about the money | 1.00% | ~4,151 |
+| The Princess is in this Castle | 1.00% | ~4,151 |
+| True Catholic | 1.00% | ~4,151 |
+| It's all about luck | 0.90% | ~3,736 |
+| Respected | 0.90% | ~3,736 |
+| Truly Divine Ruler | 0.90% | ~3,736 |
+| Blockader | 0.80% | ~3,321 |
+| Double the Love | 0.70% | ~2,906 |
+| Royal Authority | 0.70% | ~2,906 |
+| Total Control | 0.70% | ~2,906 |
+| My armies are invincible! | 0.60% | ~2,491 |
 | Agressive Expander | 0.50% | ~2,075 |
 | City of Cities | 0.50% | ~2,075 |
 | Combined Arms | 0.50% | ~2,075 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,026 (Ranked 40)  
+Progressed: 415,084 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,10 +520,10 @@ Completed: 1 (0.00%) (Ranked 293)
 | 2023-09-23 | 412,558 | 0 |
 | 2023-09-24 | 413,698 | 1 |
 | 2023-09-25 | 414,499 | 1 |
-| 2023-09-26 | 415,026 | 1 |
+| 2023-09-26 | 415,084 | 1 |
 ## Awards
 Max (Educational): 6,263  (Ranked 56)  
-Sum: 51,471 (Ranked 24)  
+Sum: 51,494 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -531,10 +531,10 @@ Diff (max vs sum): 32
 | This game is Highly Recommended | 5,971 |
 | This game has Challenging Combat | 5,944 |
 | This game has Diverse Characters | 5,922 |
-| This game is Extremely Fun | 5,903 |
+| This game is Extremely Fun | 5,918 |
 | This game is Relaxing | 5,782 |
 | This game has Competitive Players | 5,592 |
-| This game has Amazing Storytelling | 5,237 |
+| This game has Amazing Storytelling | 5,245 |
 | This game has Amazing Characters | 4,857 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -792,4 +792,4 @@ Diff (max vs sum): 32
 | 2023-09-23 | 4.69 | - | 6,232 | 51,181 |
 | 2023-09-24 | 4.69 | - | 6,250 | 51,334 |
 | 2023-09-25 | 4.69 | - | 6,263 | 51,425 |
-| 2023-09-26 | 4.69 | - | 6,263 | 51,471 |
+| 2023-09-26 | 4.69 | - | 6,263 | 51,494 |

@@ -1,26 +1,26 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.82 (Ranked 64)  
+Rating: 4.82 (Ranked 65)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,484 |
-| No more cages! | 92.00% | ~2,381 |
+| For Demacia | 96.00% | ~2,485 |
+| No more cages! | 92.00% | ~2,382 |
 | Everfrost | 79.00% | ~2,045 |
 | Pentakill | 78.00% | ~2,019 |
 | Dark Forest | 78.00% | ~2,019 |
-| The use of petricite | 75.00% | ~1,941 |
+| The use of petricite | 75.00% | ~1,942 |
 | You can pet the dog | 61.00% | ~1,579 |
-| Big Helmet Bro | 38.00% | ~983 |
-| Thornbarrow | 38.00% | ~983 |
-| Clarion Cove | 38.00% | ~983 |
+| Big Helmet Bro | 38.00% | ~984 |
+| Thornbarrow | 38.00% | ~984 |
+| Clarion Cove | 38.00% | ~984 |
 | Elemental master | 36.00% | ~932 |
 | Past trauma | 36.00% | ~932 |
 | Ternmoat Headquarters | 36.00% | ~932 |
 | Cypress Glen Headquarters | 33.00% | ~854 |
 | Petricite Burst | 32.00% | ~828 |
-| Old friend | 30.00% | ~776 |
+| Old friend | 30.00% | ~777 |
 | Hijack | 29.00% | ~751 |
 | Devineur | 29.00% | ~751 |
 | Whispers in the Woods I | 27.00% | ~699 |
@@ -28,10 +28,10 @@ Rating: 4.82 (Ranked 64)
 | I chose my shackles | 25.00% | ~647 |
 | Sacred Woods | 24.00% | ~621 |
 | Capelworth | 23.00% | ~595 |
-| Little light | 22.00% | ~569 |
-| Iffighain Headquarters | 22.00% | ~569 |
-| Full equipped | 22.00% | ~569 |
-| Glyndemere | 21.00% | ~543 |
+| Little light | 22.00% | ~570 |
+| Iffighain Headquarters | 22.00% | ~570 |
+| Full equipped | 22.00% | ~570 |
+| Glyndemere | 21.00% | ~544 |
 | Whispers in the Woods II | 18.00% | ~466 |
 | Quickmoore Headquarters | 18.00% | ~466 |
 | No more holding back | 17.00% | ~440 |
@@ -43,15 +43,15 @@ Rating: 4.82 (Ranked 64)
 | The Central Headquarters | 16.00% | ~414 |
 | My heart and sword always for Demacia | 15.00% | ~388 |
 | Cloven Dell Headquarters | 15.00% | ~388 |
-| Embrace the darkness | 13.00% | ~336 |
-| Whispers in the Woods IV | 13.00% | ~336 |
-| I smell fear | 13.00% | ~336 |
+| Embrace the darkness | 13.00% | ~337 |
+| Whispers in the Woods IV | 13.00% | ~337 |
+| I smell fear | 13.00% | ~337 |
 | The end of the experiments | 12.00% | ~311 |
 | The Great City of Demacia | 12.00% | ~311 |
 | Truth is a dark mirror | 12.00% | ~311 |
 | Call it 'redistribution of magic | 12.00% | ~311 |
+| Do you trust me? | 11.00% | ~285 |
 | Back to sleep, then... | 11.00% | ~285 |
-| Do you trust me? | 10.00% | ~259 |
 | Chains master | 10.00% | ~259 |
 | The great mage rebellion starts now | 10.00% | ~259 |
 | You can pet the... horse | 10.00% | ~259 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 64)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,588 (Ranked 190)  
+Progressed: 2,589 (Ranked 190)  
 Completed: 10 (0.39%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 10 (0.39%) (Ranked 175)
 | 2023-09-23 | 2,574 | 9 |
 | 2023-09-24 | 2,581 | 9 |
 | 2023-09-25 | 2,585 | 9 |
-| 2023-09-26 | 2,588 | 10 |
+| 2023-09-26 | 2,589 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

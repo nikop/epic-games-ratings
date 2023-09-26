@@ -1,23 +1,23 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 618)  
+Rating: 4.47 (Ranked 619)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,674 |
+| First Step | 70.00% | ~369,675 |
 | Now You're Talking | 62.00% | ~327,426 |
 | Steel Yourself | 62.00% | ~327,426 |
-| Window Dressing | 50.00% | ~264,053 |
+| Window Dressing | 50.00% | ~264,054 |
 | Trigger Happy | 46.00% | ~242,929 |
 | Riverborn | 45.00% | ~237,648 |
 | Starry Eyed | 34.00% | ~179,556 |
 | Poking Around | 34.00% | ~179,556 |
-| Talk of the Town | 24.00% | ~126,745 |
-| AAARR! | 23.00% | ~121,464 |
-| Hello Darkness | 23.00% | ~121,464 |
-| Wind At Our Backs | 22.00% | ~116,183 |
+| Talk of the Town | 24.00% | ~126,746 |
+| AAARR! | 23.00% | ~121,465 |
+| Hello Darkness | 23.00% | ~121,465 |
+| Wind At Our Backs | 22.00% | ~116,184 |
 | To the Beat | 20.00% | ~105,621 |
 | Sunny Shores | 17.00% | ~89,778 |
 | Sunday Best | 16.00% | ~84,497 |
@@ -30,7 +30,7 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~52,811 |
 | Road Less Travelled | 9.00% | ~47,530 |
 | Lost and Found | 9.00% | ~47,530 |
-| Under the Radar | 8.00% | ~42,248 |
+| Under the Radar | 8.00% | ~42,249 |
 | Partner in Crime | 7.00% | ~36,967 |
 | Hard to Hear | 7.00% | ~36,967 |
 | Moving On Up | 6.00% | ~31,686 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,584 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,106 (Ranked 33)  
+Progressed: 528,107 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 479 (0.09%) (Ranked 237)
 | 2023-09-23 | 527,929 | 478 |
 | 2023-09-24 | 528,010 | 478 |
 | 2023-09-25 | 528,062 | 478 |
-| 2023-09-26 | 528,106 | 479 |
+| 2023-09-26 | 528,107 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

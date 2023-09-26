@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 93,
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57073,
+  "EOS_Progressed": 57076,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9933,6 +9933,11 @@
       "Time": "2023-09-26T17:07:43.572262+00:00",
       "NumProgressed": 57073,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-26T18:10:21.4621548+00:00",
+      "NumProgressed": 57076,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9952,7 +9957,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "BoomBox",
@@ -10088,7 +10093,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "HarshLove",
@@ -10200,7 +10205,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "RhythmStar",
@@ -10240,7 +10245,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "StruckLove",
@@ -10280,7 +10285,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "TimelySplash",
@@ -10288,7 +10293,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "TotalBummer",
@@ -10335,7 +10340,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57073,
+      "Progressed": 57076,
       "Completed": 6
     }
   ],
@@ -10343,8 +10348,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:07:43.5722614+00:00",
+  "LastChanged_Achievements": "2023-09-26T18:10:21.4621544+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:04.8622812+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:00:58.8635776+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:07:43.5723595+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:02:49.2684712+00:00",
+  "LastUpdate_Achievements": "2023-09-26T18:10:21.4622934+00:00"
 }

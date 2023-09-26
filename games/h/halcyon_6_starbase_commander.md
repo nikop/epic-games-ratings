@@ -1,7 +1,7 @@
 # Halcyon 6 Starbase Commander
 [Store](https://store.epicgames.com/en-US/p/halcyon-6)  
 [View Rawdata](../../db/h/halcyon_6_starbase_commander.json)  
-Rating: 4.47 (Ranked 618)  
+Rating: 4.46 (Ranked 632)  
 Number of Ratings: 146  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -75,3 +75,4 @@ Number of Ratings: 146  (23.09.2022)
 | 2023-03-31 | 4.45 | - | 0 | 0 |
 | 2023-06-08 | 4.46 | - | 0 | 0 |
 | 2023-09-22 | 4.47 | - | 0 | 0 |
+| 2023-09-26 | 4.46 | - | 0 | 0 |

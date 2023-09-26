@@ -1,22 +1,22 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.83 (Ranked 982)  
+Rating: 3.83 (Ranked 983)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,572 |
+| Welcome to Moonbury | 98.00% | ~1,573 |
 | The First Step | 89.00% | ~1,428 |
 | Moonbury Traveller | 65.00% | ~1,043 |
 | Rookie Chemist | 63.00% | ~1,011 |
-| Great Doctor | 52.00% | ~834 |
+| Great Doctor | 52.00% | ~835 |
 | Dog Whisperer | 50.00% | ~802 |
 | Friendly | 48.00% | ~770 |
 | The Capitalist | 45.00% | ~722 |
 | K.O.! | 44.00% | ~706 |
 | Intermediate Chemist | 40.00% | ~642 |
-| Decorative Mind | 32.00% | ~513 |
-| Lumber Specialist | 32.00% | ~513 |
+| Decorative Mind | 32.00% | ~514 |
+| Lumber Specialist | 32.00% | ~514 |
 | Kind-hearted | 25.00% | ~401 |
 | Catch of the Day | 25.00% | ~401 |
 | Amateur Chef | 22.00% | ~353 |
@@ -27,8 +27,8 @@ Rating: 3.83 (Ranked 982)
 | Stone Specialist | 14.00% | ~225 |
 | Sociable | 13.00% | ~209 |
 | Ablutomaniac | 13.00% | ~209 |
-| Line Cook | 12.00% | ~192 |
-| Production Sorter | 11.00% | ~176 |
+| Line Cook | 12.00% | ~193 |
+| Production Sorter | 11.00% | ~177 |
 | Good Samaritan | 10.00% | ~160 |
 | Acrobatic Adventurer | 9.00% | ~144 |
 | Animal Exterminator | 8.00% | ~128 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 982)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,604 (Ranked 208)  
+Progressed: 1,605 (Ranked 208)  
 Completed: 9 (0.56%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,11 +162,11 @@ Completed: 9 (0.56%) (Ranked 154)
 | 2023-09-23 | 1,596 | 9 |
 | 2023-09-24 | 1,598 | 9 |
 | 2023-09-25 | 1,602 | 9 |
-| 2023-09-26 | 1,604 | 9 |
+| 2023-09-26 | 1,605 | 9 |
 ## Awards
-Max (Character Customization): 69  (Ranked 383)  
+Max (Character Customization): 69  (Ranked 384)  
 Sum: 69 (Ranked 444)  
-Diff (max vs sum): -61  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 69 |

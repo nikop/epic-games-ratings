@@ -1,12 +1,12 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 281)  
+Rating: 4.66 (Ranked 282)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,494 |
+| Genin | 11.00% | ~22,495 |
 | A thief's beginning | 10.00% | ~20,450 |
 | Thorough | 10.00% | ~20,450 |
 | Disguised | 8.00% | ~16,360 |
@@ -39,19 +39,19 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,045 |
 | The End | 1.00% | ~2,045 |
 | Undeserved Honor | 1.00% | ~2,045 |
-| When Cut Across the Neck | 0.90% | ~1,840 |
+| When Cut Across the Neck | 0.90% | ~1,841 |
 | High Five the Moon | 0.80% | ~1,636 |
 | The Cave | 0.80% | ~1,636 |
-| Merciful | 0.50% | ~1,022 |
-| Time Paradox | 0.50% | ~1,022 |
-| Five Shadows | 0.30% | ~613 |
-| Chicken Dinner | 0.10% | ~204 |
-| Complete Mastery | 0.10% | ~204 |
-| Mimimi | 0.10% | ~204 |
-| Praise the Shogun | 0.10% | ~204 |
-| Release the Kraken | 0.10% | ~204 |
+| Merciful | 0.50% | ~1,023 |
+| Time Paradox | 0.50% | ~1,023 |
+| Five Shadows | 0.30% | ~614 |
+| Chicken Dinner | 0.10% | ~205 |
+| Complete Mastery | 0.10% | ~205 |
+| Mimimi | 0.10% | ~205 |
+| Praise the Shogun | 0.10% | ~205 |
+| Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,495 (Ranked 62)  
+Progressed: 204,504 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 86 (0.04%) (Ranked 257)
 | 2023-09-23 | 203,944 | 86 |
 | 2023-09-24 | 204,189 | 86 |
 | 2023-09-25 | 204,356 | 86 |
-| 2023-09-26 | 204,495 | 86 |
+| 2023-09-26 | 204,504 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,775 (Ranked 136)  
