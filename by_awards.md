@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,742,178 | 4.29 | 812 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,742,828 | 4.29 | 812 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 554,466 | 4.49 | 588 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 306,729 | 4.68 | 245 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 232,244 | 4.68 | 245 |
@@ -133,7 +133,7 @@
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,362 | 4.41 | 694 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,320 | 4.70 | 205 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 282 |
-| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,278 | 4.55 | 490 |
+| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,280 | 4.55 | 490 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,210 | 4.43 | 672 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,204 | 4.61 | 371 |
 | 137 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,196 | 4.69 | 222 |
@@ -206,7 +206,7 @@
 | 204 | [Second Extinction™](games/s/second_extinction™.md) | 467 | 4.05 | 940 |
 | 205 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 460 | 4.40 | 715 |
 | 205 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 282 |
-| 207 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 458 | 3.93 | 970 |
+| 207 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 458 | 3.94 | 969 |
 | 208 | [Loop Hero](games/l/loop_hero.md) | 456 | 4.67 | 262 |
 | 209 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 452 | 4.60 | 401 |
 | 210 | [RimWorld](games/r/rimworld.md) | 437 | 4.89 | 12 |
@@ -469,7 +469,7 @@
 | 465 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 31 | 4.57 | 451 |
 | 468 | [Northgard](games/n/northgard.md) | 30 | 4.70 | 205 |
 | 469 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 29 | 4.49 | 588 |
-| 469 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 970 |
+| 469 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 971 |
 | 469 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 29 | 4.38 | 734 |
 | 469 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 789 |
 | 469 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 672 |

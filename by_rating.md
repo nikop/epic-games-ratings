@@ -505,7 +505,7 @@
 | 490 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 369 |
 | 490 | [Wall World](games/w/wall_world.md) | 4.55 | 0 | 525 |
 | 490 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.55 | 4,528 | 76 |
-| 490 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,278 | 134 |
+| 490 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,280 | 134 |
 | 507 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.54 | 0 | 525 |
 | 507 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,456 | 126 |
 | 507 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,204 | 57 |
@@ -814,7 +814,7 @@
 | 812 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 525 |
 | 812 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 525 |
 | 812 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 525 |
-| 812 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,742,178 | 1 |
+| 812 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,742,828 | 1 |
 | 812 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 733 | 166 |
 | 812 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 525 |
 | 812 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 308 |
@@ -968,11 +968,11 @@
 | 965 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 3.95 | 0 | 525 |
 | 965 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.95 | 0 | 525 |
 | 965 | [Ironcast](games/i/ironcast.md) | 3.95 | 0 | 525 |
+| 969 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 458 | 207 |
 | 969 | [Patron](games/p/patron.md) | 3.94 | 0 | 525 |
-| 970 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 469 |
-| 970 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 525 |
-| 970 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 458 | 207 |
-| 970 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 0 | 525 |
+| 971 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 469 |
+| 971 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 525 |
+| 971 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 0 | 525 |
 | 974 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 337 |
 | 974 | [Warface](games/w/warface.md) | 3.91 | 417 | 215 |
 | 976 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 27 | 480 |
