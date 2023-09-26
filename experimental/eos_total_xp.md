@@ -459,6 +459,7 @@
 | [Quake II](../games/a/a5434b28a3ac403e966478e86a839f5b.md) | 13 | 1,000 |
 | [Quantum Recharged](../games/9/9161d1b30f4e4a0cbec5ee398d6e5cd6.md) | 13 | 1,000 |
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
+| [Ragnarok Survivors Valhalla](../games/3/377c7afca797475bb73be258c94f82ea.md) | 34 | 1,000 |
 | [RAILGRADE](../games/r/railgrade.md) | 37 | 1,000 |
 | [Railway Empire 2](../games/r/railway_empire_2.md) | 55 | 1,000 |
 | [Ravenlok](../games/r/ravenlok.md) | 50 | 1,000 |
