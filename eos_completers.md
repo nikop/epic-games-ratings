@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.05% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.03% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.62% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -99,7 +99,7 @@
 | 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.11% |
 | 98 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.07% |
 | 99 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
-| 100 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.96% |
+| 100 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.92% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |
 | 102 | [Night Book](games/n/night_book.md) | 1.86% |
 | 103 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -135,11 +135,11 @@
 | 133 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 134 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 135 | [Hades](games/h/hades.md) | 0.91% |
-| 136 | [Eternights](games/e/eternights.md) | 0.89% |
+| 136 | [Eternights](games/e/eternights.md) | 0.88% |
 | 137 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 138 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 139 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
-| 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.81% |
+| 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.80% |
 | 141 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.79% |
 | 142 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 143 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -160,9 +160,9 @@
 | 158 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 159 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 159 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 159 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.52% |
-| 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.49% |
-| 163 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
+| 161 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.51% |
+| 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.48% |
+| 162 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
 | 164 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 164 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 166 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
