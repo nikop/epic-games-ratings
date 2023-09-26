@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.80% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.74% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.00% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -66,12 +66,12 @@
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.73% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
-| 67 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.45% |
-| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.44% |
-| 69 | [The Bunker](games/t/the_bunker.md) | 3.42% |
-| 70 | [The Complex](games/t/the_complex.md) | 3.40% |
-| 71 | [Doodle God](games/d/doodle_god.md) | 3.35% |
-| 72 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
+| 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.44% |
+| 68 | [The Bunker](games/t/the_bunker.md) | 3.42% |
+| 69 | [The Complex](games/t/the_complex.md) | 3.40% |
+| 70 | [Doodle God](games/d/doodle_god.md) | 3.35% |
+| 71 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
+| 72 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.33% |
 | 73 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.24% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 3.20% |
 | 75 | [HordeCore](games/h/hordecore.md) | 3.12% |
@@ -88,7 +88,7 @@
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.47% |
+| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.46% |
 | 90 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.44% |
 | 91 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
@@ -106,7 +106,7 @@
 | 104 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.82% |
 | 105 | [Sifu](games/s/sifu.md) | 1.80% |
 | 106 | [Frogun](games/f/frogun.md) | 1.79% |
-| 106 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.79% |
+| 107 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.75% |
 | 108 | [Somerville](games/s/somerville.md) | 1.71% |
 | 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
 | 110 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
@@ -125,8 +125,8 @@
 | 123 | [Infindustry](games/i/infindustry.md) | 1.14% |
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 125 | [Trifox](games/t/trifox.md) | 1.09% |
-| 126 | [Adios](games/a/adios.md) | 1.04% |
-| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
+| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
+| 127 | [Adios](games/a/adios.md) | 1.04% |
 | 128 | [Sable](games/s/sable.md) | 1.01% |
 | 129 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 129 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
@@ -140,7 +140,7 @@
 | 138 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 139 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 140 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.79% |
-| 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.79% |
+| 141 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.78% |
 | 142 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 143 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 144 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
@@ -171,7 +171,7 @@
 | 169 | [Dead Space](games/d/dead_space.md) | 0.45% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 171 | [Tchia](games/t/tchia.md) | 0.44% |
-| 172 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 172 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
 | 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
@@ -636,4 +636,4 @@
 | 293 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 293 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 293 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,298 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,299 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

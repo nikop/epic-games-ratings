@@ -659,6 +659,7 @@
 | [Urbek City Builder](../games/u/urbek_city_builder.md) | 79 | 1,000 |
 | [Vagrus - The Riven Realms](../games/v/vagrus_-_the_riven_realms.md) | 99 | 1,000 |
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
+| [Vlad Circus - Descend Into Madness](../games/8/8fbc379433724c8382bfc79d1d8dcb77.md) | 12 | 1,000 |
 | [Volley Pals](../games/v/volley_pals.md) | 10 | 1,000 |
 | [Voltaire: The Vegan Vampire](../games/v/voltaire__the_vegan_vampire.md) | 31 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
