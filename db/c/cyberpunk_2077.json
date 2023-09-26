@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -12527,10 +12527,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882342,
-  "EOS_Completed": 2414,
-  "EOS_NewPlayers": 5214,
-  "EOS_NewCompleters": 295,
+  "EOS_Progressed": 882398,
+  "EOS_Completed": 2418,
+  "EOS_NewPlayers": 5260,
+  "EOS_NewCompleters": 299,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30407,6 +30407,11 @@
       "Time": "2023-09-26T19:06:21.6606772+00:00",
       "NumProgressed": 882342,
       "NumCompleted": 2414
+    },
+    {
+      "Time": "2023-09-26T20:07:29.4910466+00:00",
+      "NumProgressed": 882398,
+      "NumCompleted": 2418
     }
   ],
   "TotalAchievements": 57,
@@ -30440,9 +30445,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3530
     },
     {
       "ID": "Denied",
@@ -30496,9 +30501,9 @@
       "ID": "Gunslinger",
       "SetID": "47clieb",
       "Name": "Gunslinger",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5294
+      "UsersEstimate": 6177
     },
     {
       "ID": "HandyMan",
@@ -30562,7 +30567,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "NoMansLand",
@@ -30592,9 +30597,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3530
     },
     {
       "ID": "Specialist",
@@ -30650,7 +30655,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "TheLovers",
@@ -30712,9 +30717,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3530
     },
     {
       "ID": "TrueWarrior",
@@ -30728,9 +30733,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3529
+      "UsersEstimate": 4412
     },
     {
       "ID": "UnderPressure",
@@ -30873,21 +30878,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882342,
-      "Completed": 2414
+      "Progressed": 882398,
+      "Completed": 2418
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10965,
+      "Progressed": 11021,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-26T18:57:15.4439816+00:00",
-  "LastChanged_Achievements": "2023-09-26T19:06:21.6606767+00:00",
+  "LastChanged_Achievements": "2023-09-26T20:07:29.4910462+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:57:15.4439821+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:06:21.6608378+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:57:36.6332801+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:07:29.4911704+00:00"
 }

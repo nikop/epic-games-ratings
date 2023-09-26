@@ -9,8 +9,8 @@ Rating: 4.56 (Ranked 474)
 | Mainframe Hacker | 22.00% | ~3,993 |
 | The Spy who eliminated me | 22.00% | ~3,993 |
 | Tomorrow Never Dyes | 21.00% | ~3,812 |
-| Never Say Loser Again | 19.00% | ~3,449 |
 | From the Vault with Love | 18.00% | ~3,267 |
+| Never Say Loser Again | 18.00% | ~3,267 |
 | For your Eyes only | 18.00% | ~3,267 |
 | Assistant Accountant | 17.00% | ~3,086 |
 | Tailor-Made | 17.00% | ~3,086 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 474)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,151 (Ranked 121)  
+Progressed: 18,152 (Ranked 121)  
 Completed: 3 (0.02%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 3 (0.02%) (Ranked 268)
 | 2023-09-23 | 18,118 | 3 |
 | 2023-09-24 | 18,137 | 3 |
 | 2023-09-25 | 18,145 | 3 |
-| 2023-09-26 | 18,151 | 3 |
+| 2023-09-26 | 18,152 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

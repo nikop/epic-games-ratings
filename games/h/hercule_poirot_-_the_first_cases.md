@@ -39,8 +39,8 @@ Rating: 4.35 (Ranked 765)
 | Well-travelled | 26.00% | ~112 |
 | Thinking of Everything | 26.00% | ~112 |
 | Exquisite Artwork | 26.00% | ~112 |
+| Viscount Edwin Van den Bosch | 26.00% | ~112 |
 | Archibald Sterling | 25.00% | ~108 |
-| Viscount Edwin Van den Bosch | 25.00% | ~108 |
 | Well-prepared | 21.00% | ~90 |
 | The Truth | 20.00% | ~86 |
 | Sunken Secrets | 18.00% | ~77 |

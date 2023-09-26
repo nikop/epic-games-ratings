@@ -1,31 +1,31 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 950)  
+Rating: 4.03 (Ranked 949)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~752 |
-| My little farm | 64.00% | ~594 |
-| Every beginning is difficult | 63.00% | ~585 |
-| Gofer | 57.00% | ~529 |
-| 3, 2, 1, mine | 56.00% | ~520 |
-| O Captain! My Captain! | 54.00% | ~501 |
-| Seafarer | 53.00% | ~492 |
-| Greed for gold | 43.00% | ~399 |
-| Intangible | 42.00% | ~390 |
-| I'm out of here for a while | 41.00% | ~380 |
-| In a mint condition | 38.00% | ~353 |
-| Licence to Kill | 37.00% | ~343 |
-| Pirates! | 34.00% | ~316 |
-| Collectionitis | 29.00% | ~269 |
-| Christening | 28.00% | ~260 |
-| Megalomania | 28.00% | ~260 |
-| Groundskeeper | 26.00% | ~241 |
-| Wholesale | 22.00% | ~204 |
+| Cabin boy | 80.00% | ~745 |
+| My little farm | 64.00% | ~596 |
+| Every beginning is difficult | 62.00% | ~577 |
+| 3, 2, 1, mine | 56.00% | ~521 |
+| Gofer | 56.00% | ~521 |
+| O Captain! My Captain! | 54.00% | ~503 |
+| Seafarer | 53.00% | ~493 |
+| Greed for gold | 43.00% | ~400 |
+| Intangible | 42.00% | ~391 |
+| I'm out of here for a while | 41.00% | ~382 |
+| In a mint condition | 37.00% | ~344 |
+| Licence to Kill | 37.00% | ~344 |
+| Pirates! | 34.00% | ~317 |
+| Christening | 28.00% | ~261 |
+| Collectionitis | 28.00% | ~261 |
+| Megalomania | 28.00% | ~261 |
+| Groundskeeper | 26.00% | ~242 |
+| Wholesale | 22.00% | ~205 |
 | Walk the plank | 20.00% | ~186 |
-| Pearly gates | 18.00% | ~167 |
+| Pearly gates | 18.00% | ~168 |
 | My precious! | 17.00% | ~158 |
 | Conquistador | 14.00% | ~130 |
 | Panic buying | 11.00% | ~102 |
@@ -36,9 +36,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~74 |
 | Maker | 7.00% | ~65 |
 | Conglomerate | 6.00% | ~56 |
-| Buccaneer | 5.00% | ~46 |
-| Flying Dutchman | 5.00% | ~46 |
-| The Grande Bouffe | 5.00% | ~46 |
+| Buccaneer | 5.00% | ~47 |
+| Flying Dutchman | 5.00% | ~47 |
+| The Grande Bouffe | 5.00% | ~47 |
 | Overpopulation | 4.00% | ~37 |
 | Premier Maître | 3.00% | ~28 |
 | Supreme conqueror | 3.00% | ~28 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928 (Ranked 232)  
+Progressed: 931 (Ranked 232)  
 Completed: 1 (0.11%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 1 (0.11%) (Ranked 230)
 | 2023-09-23 | 919 | 1 |
 | 2023-09-24 | 921 | 1 |
 | 2023-09-25 | 925 | 1 |
-| 2023-09-26 | 928 | 1 |
+| 2023-09-26 | 931 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

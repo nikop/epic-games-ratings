@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,607 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,608 |
 | First Class Student | 13.00% | ~38,660 |
 | Troll with the Punches | 13.00% | ~38,660 |
 | A Keen Sense of Spell | 12.00% | ~35,686 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 120)
 | Challenge Accepted | 10.00% | ~29,738 |
 | Loom for Improvement | 10.00% | ~29,738 |
 | Coasting Along | 10.00% | ~29,738 |
-| Followed the Butterflies | 9.00% | ~26,764 |
-| Rising From the Ashes | 9.00% | ~26,764 |
+| Followed the Butterflies | 9.00% | ~26,765 |
+| Rising From the Ashes | 9.00% | ~26,765 |
 | The Avenging Gazelle | 8.00% | ~23,791 |
 | A Sallow Grave | 8.00% | ~23,791 |
 | Flight the Good Flight | 8.00% | ~23,791 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 120)
 | The Intrepid Explorer | 4.00% | ~11,895 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,895 |
 | The Wise Owl | 4.00% | ~11,895 |
-| Put Down Roots | 3.00% | ~8,921 |
-| The Auror's Apprentice | 3.00% | ~8,921 |
-| Floo Around the World | 3.00% | ~8,921 |
+| Put Down Roots | 3.00% | ~8,922 |
+| The Auror's Apprentice | 3.00% | ~8,922 |
+| Floo Around the World | 3.00% | ~8,922 |
 | The Good Samaritan | 2.00% | ~5,948 |
 | Rise to the Challenges | 2.00% | ~5,948 |
 | Finishing Touches | 2.00% | ~5,948 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.60% | ~1,784 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,383 (Ranked 44)  
+Progressed: 297,384 (Ranked 44)  
 Completed: 477 (0.16%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 477 (0.16%) (Ranked 217)
 | 2023-09-23 | 297,194 | 476 |
 | 2023-09-24 | 297,283 | 477 |
 | 2023-09-25 | 297,339 | 477 |
-| 2023-09-26 | 297,383 | 477 |
+| 2023-09-26 | 297,384 | 477 |
 ## Awards
 Max (Character Customization): 23,061  (Ranked 17)  
-Sum: 44,390 (Ranked 30)  
+Sum: 44,391 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,017 |
 | This game has Quickly Understood Controls | 955 |
 | This game has Beautiful Visuals | 893 |
-| This game has a Creative Community | 672 |
+| This game has a Creative Community | 673 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -418,4 +418,4 @@ Diff (max vs sum): -13
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
 | 2023-09-24 | 4.76 | 22,986 | 44,172 |
 | 2023-09-25 | 4.76 | 23,029 | 44,298 |
-| 2023-09-26 | 4.76 | 23,061 | 44,390 |
+| 2023-09-26 | 4.76 | 23,061 | 44,391 |

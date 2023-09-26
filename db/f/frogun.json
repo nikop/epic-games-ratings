@@ -4,7 +4,7 @@
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -192,6 +192,11 @@
       "Time": "2023-09-24T22:08:27.1805973+00:00",
       "NumProgressed": 223,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-26T20:10:09.636252+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -203,7 +208,7 @@
       "Name": "Coin collector",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -219,7 +224,7 @@
       "Name": "Treasure hunter",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_Hexy",
@@ -235,15 +240,15 @@
       "Name": "Calory burner",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Achievement_NoDeaths",
       "SetID": "cn6a29l",
       "Name": "Survivalist",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 186
     },
     {
       "ID": "Achievement_Notes",
@@ -251,7 +256,7 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Achievement_Prickly",
@@ -267,7 +272,7 @@
       "Name": "On foot racer",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Achievement_RaceAll",
@@ -291,7 +296,7 @@
       "Name": "Challenge seeker",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -299,7 +304,7 @@
       "Name": "Speedrunner",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Achievement_Wrintry",
@@ -307,7 +312,7 @@
       "Name": "Snow digger",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_arena",
@@ -403,7 +408,7 @@
       "Name": "Pacifist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_perfectionist",
@@ -450,7 +455,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 4
     }
   ],
@@ -458,8 +463,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-09-26T19:08:41.2855915+00:00",
+  "LastChanged_Achievements": "2023-09-26T20:10:09.6362515+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:46.7039735+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:59:43.0830245+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:08:41.2856243+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:00:33.8302322+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:10:09.6362711+00:00"
 }

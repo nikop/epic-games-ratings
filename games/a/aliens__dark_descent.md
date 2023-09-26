@@ -5,23 +5,23 @@ Rating: 4.49 (Ranked 589)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,759 |
-| Snatched Out | 74.00% | ~2,520 |
-| Keep 'Em Coming | 73.00% | ~2,486 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,282 |
-| Call Me Snake | 62.00% | ~2,112 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,760 |
+| Snatched Out | 74.00% | ~2,521 |
+| Keep 'Em Coming | 73.00% | ~2,487 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,283 |
+| Call Me Snake | 63.00% | ~2,146 |
 | Something Lurks Under The Hills | 61.00% | ~2,078 |
 | This Was No Papercut | 59.00% | ~2,010 |
-| People Person | 56.00% | ~1,907 |
-| The Shrink Hates Me | 56.00% | ~1,907 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,805 |
-| First Steps Into Madness | 52.00% | ~1,771 |
-| Colonial Barrels | 51.00% | ~1,737 |
+| People Person | 56.00% | ~1,908 |
+| The Shrink Hates Me | 56.00% | ~1,908 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,806 |
+| First Steps Into Madness | 52.00% | ~1,772 |
+| Colonial Barrels | 51.00% | ~1,738 |
 | Harper's Hell | 45.00% | ~1,533 |
-| Making a Stand | 43.00% | ~1,465 |
+| Making a Stand | 44.00% | ~1,499 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,431 |
-| Where It All Begun | 40.00% | ~1,362 |
-| Recouped Investment | 38.00% | ~1,294 |
+| Where It All Begun | 40.00% | ~1,363 |
+| Recouped Investment | 38.00% | ~1,295 |
 | Omelette Du Fromage | 33.00% | ~1,124 |
 | Living Nightmare | 33.00% | ~1,124 |
 | The More The Merrier | 33.00% | ~1,124 |
@@ -30,8 +30,8 @@ Rating: 4.49 (Ranked 589)
 | The Passenger | 28.00% | ~954 |
 | Come on, You Wanna Live Forever? | 26.00% | ~886 |
 | The Spire | 25.00% | ~852 |
-| El Riesgo Siempre Vive | 24.00% | ~817 |
-| Stuff Of Nightmares | 22.00% | ~749 |
+| El Riesgo Siempre Vive | 24.00% | ~818 |
+| Stuff Of Nightmares | 22.00% | ~750 |
 | Excavating The Truth | 21.00% | ~715 |
 | One For Every Occasion | 20.00% | ~681 |
 | Frontliner | 20.00% | ~681 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 589)
 | Chalk It Up To Experience | 0.80% | ~27 |
 | This Ain't No Picnic | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,406 (Ranked 177)  
+Progressed: 3,407 (Ranked 178)  
 Completed: 3 (0.09%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 3 (0.09%) (Ranked 238)
 | 2023-09-23 | 3,374 | 3 |
 | 2023-09-24 | 3,392 | 3 |
 | 2023-09-25 | 3,402 | 3 |
-| 2023-09-26 | 3,406 | 3 |
+| 2023-09-26 | 3,407 | 3 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 469)  
 Sum: 29 (Ranked 485)  

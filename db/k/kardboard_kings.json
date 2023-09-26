@@ -4,7 +4,7 @@
   "ProductSlug": "kardboard-kings-0962f8",
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:07.1731325+00:00",
   "LastChanged": "2023-03-31T05:58:07.1731326+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:17.6106762+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:58:07.5909082+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:08:34.0146877+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:58:40.200077+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:09:41.3481403+00:00"
 }

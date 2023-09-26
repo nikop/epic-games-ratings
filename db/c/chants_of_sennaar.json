@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 215,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.05,
   "EosHistory": [
@@ -1050,9 +1050,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "META_HALF_LINK",
@@ -1066,9 +1066,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1225,8 +1225,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-26T19:09:22.8420572+00:00",
+  "LastChanged_Achievements": "2023-09-26T20:10:30.9043175+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:58:05.4936854+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:09:22.8420818+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:58:38.4310009+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:10:30.9043369+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 4.42 (Ranked 688)
 | Aspiring Editor | 75.00% | ~1,100 |
 | Gun for Hire | 70.00% | ~1,027 |
 | I am the law! | 64.00% | ~939 |
-| Lumberjack | 53.00% | ~778 |
+| Lumberjack | 54.00% | ~792 |
 | Croaked | 49.00% | ~719 |
 | Limp Richard | 48.00% | ~704 |
 | Exorcist | 48.00% | ~704 |
@@ -31,7 +31,7 @@ Rating: 4.42 (Ranked 688)
 | Hold The Line | 31.00% | ~455 |
 | Endgame | 27.00% | ~396 |
 | Savior | 27.00% | ~396 |
-| There Can Be Only One! | 25.00% | ~367 |
+| There Can Be Only One! | 26.00% | ~381 |
 | Chain Killer | 22.00% | ~323 |
 | Silent but Violent | 22.00% | ~323 |
 | The Watchers | 22.00% | ~323 |

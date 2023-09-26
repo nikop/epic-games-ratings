@@ -2,12 +2,12 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "ProductSlug": "predator-hunting-grounds",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 153,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-04-23T23:00:00+00:00",
@@ -2431,6 +2431,6 @@
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
   "LastChanged": "2023-09-24T08:57:10.6385513+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.9205632+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:58:13.334821+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:08:16.5698432+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:58:45.1564803+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:09:18.1113315+00:00"
 }

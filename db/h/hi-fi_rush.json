@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -6793,9 +6793,9 @@
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 328
     },
     {
       "ID": "Ach005",
@@ -6889,9 +6889,9 @@
       "ID": "Ach016",
       "SetID": "12n4k20",
       "Name": "Chip-tuned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 123
     },
     {
       "ID": "Ach017",
@@ -7352,8 +7352,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-26T19:05:28.3139242+00:00",
+  "LastChanged_Achievements": "2023-09-26T20:06:47.2857153+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:02:55.5333772+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:05:28.3140471+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:03:57.7913819+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:06:47.2858055+00:00"
 }

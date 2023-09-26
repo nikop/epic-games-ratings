@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,786 |
-| Greasy Palms | 42.00% | ~4,370 |
-| South American Connection | 25.00% | ~2,601 |
+| Legal Counsel | 46.00% | ~4,787 |
+| Greasy Palms | 42.00% | ~4,371 |
+| South American Connection | 25.00% | ~2,602 |
 | Life of the Party | 20.00% | ~2,081 |
 | Big Heat from Little Havana | 15.00% | ~1,561 |
 | Chauffeur | 15.00% | ~1,561 |
 | Tommy Two-Wheels | 15.00% | ~1,561 |
-| Salutations My Little Friend | 11.00% | ~1,144 |
-| Iron-y | 10.00% | ~1,040 |
-| Gun for Hire | 9.00% | ~936 |
-| Mischief Managed | 9.00% | ~936 |
+| Salutations My Little Friend | 11.00% | ~1,145 |
+| Iron-y | 10.00% | ~1,041 |
+| Gun for Hire | 9.00% | ~937 |
+| Mischief Managed | 9.00% | ~937 |
 | Vice City Mogul | 7.00% | ~728 |
 | Catch Me if You Can | 6.00% | ~624 |
 | Bloodstained Hands | 6.00% | ~624 |
@@ -40,8 +40,8 @@ Rating: 4.54 (Ranked 510)
 | Done it All | 0.90% | ~94 |
 | Kingpin | 0.60% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,404 (Ranked 137)  
-Completed: 58 (0.56%) (Ranked 155)  
+Progressed: 10,406 (Ranked 137)  
+Completed: 58 (0.56%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,14 +199,14 @@ Completed: 58 (0.56%) (Ranked 155)
 | 2023-09-23 | 10,281 | 58 |
 | 2023-09-24 | 10,338 | 58 |
 | 2023-09-25 | 10,378 | 58 |
-| 2023-09-26 | 10,404 | 58 |
+| 2023-09-26 | 10,406 | 58 |
 ## Awards
-Max (Great Boss Battles): 82  (Ranked 364)  
-Sum: 82 (Ranked 431)  
-Diff (max vs sum): -67  
+Max (Great Boss Battles): 83  (Ranked 362)  
+Sum: 83 (Ranked 431)  
+Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 82 |
+| This game has Great Boss Battles | 83 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -319,3 +319,4 @@ Diff (max vs sum): -67
 | 2023-09-23 | 4.54 | 79 | 79 |
 | 2023-09-24 | 4.54 | 80 | 80 |
 | 2023-09-25 | 4.54 | 82 | 82 |
+| 2023-09-26 | 4.54 | 83 | 83 |

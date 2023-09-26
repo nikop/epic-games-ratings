@@ -8,22 +8,22 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.80% | ~7,059 |
 | Rough Landing | 0.80% | ~7,059 |
-| Gunslinger | 0.60% | ~5,294 |
+| Gunslinger | 0.70% | ~6,177 |
 | The Jungle | 0.60% | ~5,294 |
 | Master Crafter | 0.50% | ~4,412 |
 | Mean Streets | 0.50% | ~4,412 |
+| Two Heads, One Bullet | 0.50% | ~4,412 |
 | V for Vendetta | 0.50% | ~4,412 |
-| Breathtaking | 0.40% | ~3,529 |
-| The High Priestess | 0.40% | ~3,529 |
-| Two Heads, One Bullet | 0.40% | ~3,529 |
+| Full Body Conversion | 0.40% | ~3,530 |
+| Breathtaking | 0.40% | ~3,530 |
+| Stanislavski's Method | 0.40% | ~3,530 |
+| The High Priestess | 0.40% | ~3,530 |
+| True Soldier | 0.40% | ~3,530 |
 | To Bad Decisions! | 0.30% | ~2,647 |
-| Full Body Conversion | 0.30% | ~2,647 |
 | Right Back At Ya | 0.30% | ~2,647 |
-| Stanislavski's Method | 0.30% | ~2,647 |
 | Temperance | 0.30% | ~2,647 |
 | The Hermit | 0.30% | ~2,647 |
 | The Wheel of Fortune | 0.30% | ~2,647 |
-| True Soldier | 0.30% | ~2,647 |
 | True Warrior | 0.30% | ~2,647 |
 | Legend of The Afterlife | 0.30% | ~2,647 |
 | City Lights | 0.20% | ~1,765 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,342 (Ranked 15)  
-Completed: 2,414 (0.27%) (Ranked 198)  
+Progressed: 882,398 (Ranked 15)  
+Completed: 2,418 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 2,414 (0.27%) (Ranked 198)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 882,342 | 2,414 |
+| 2023-09-26 | 882,398 | 2,418 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
 Sum: 225,213 (Ranked 13)  

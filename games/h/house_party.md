@@ -37,7 +37,6 @@ Number of Ratings: 177  (23.09.2022)
 | I'll Be Back | 0.40% | ~25 |
 | Deck the Balls | 0.40% | ~13 |
 | Love Conquers All | 0.40% | ~25 |
-| Good Ol' Days | 0.40% | ~25 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
 | Do Not Burn | 0.30% | ~19 |
@@ -45,6 +44,7 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.30% | ~19 |
 | The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
+| Good Ol' Days | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | First Impressions | 0.20% | ~13 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,285 (Ranked 155)  
+Progressed: 6,286 (Ranked 155)  
 Completed: 3 (0.05%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 3 (0.05%) (Ranked 253)
 | 2023-09-23 | 6,265 | 3 |
 | 2023-09-24 | 6,274 | 3 |
 | 2023-09-25 | 6,280 | 3 |
-| 2023-09-26 | 6,285 | 3 |
+| 2023-09-26 | 6,286 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

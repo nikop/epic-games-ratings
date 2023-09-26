@@ -1,25 +1,25 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 950)  
+Rating: 4.03 (Ranked 949)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,833 |
-| World Map | 79.00% | ~1,557 |
-| Temple of Eternals | 57.00% | ~1,123 |
-| Prestigious | 54.00% | ~1,064 |
-| Fellowship Power | 41.00% | ~808 |
-| Guild Power | 26.00% | ~512 |
-| Prestigious x10 | 23.00% | ~453 |
+| Victor | 93.00% | ~1,834 |
+| World Map | 79.00% | ~1,558 |
+| Temple of Eternals | 57.00% | ~1,124 |
+| Prestigious | 54.00% | ~1,065 |
+| Fellowship Power | 41.00% | ~809 |
+| Guild Power | 26.00% | ~513 |
+| Prestigious x10 | 23.00% | ~454 |
 | The game is on | 21.00% | ~414 |
-| Exotic Merchant | 19.00% | ~374 |
+| Exotic Merchant | 19.00% | ~375 |
 | Dragon Clicker | 18.00% | ~355 |
 | Full Party | 17.00% | ~335 |
 | Inspection | 17.00% | ~335 |
 | Miner Clicker | 17.00% | ~335 |
-| Dragon Master | 16.00% | ~315 |
-| Enlightenment | 16.00% | ~315 |
+| Dragon Master | 16.00% | ~316 |
+| Enlightenment | 16.00% | ~316 |
 | Hero inspection | 15.00% | ~296 |
 | Lieutenant | 15.00% | ~296 |
 | Milestone collector | 14.00% | ~276 |
@@ -34,11 +34,11 @@ Rating: 4.03 (Ranked 950)
 | Four Leaf Clover | 11.00% | ~217 |
 | Hunter | 11.00% | ~217 |
 | Mastery | 11.00% | ~217 |
-| Moving Up The Ladder | 11.00% | ~217 |
 | Relic Of The Past | 11.00% | ~217 |
 | Scroll Master | 11.00% | ~217 |
 | The power of Awakening | 11.00% | ~217 |
 | Frostfire Liberator | 10.00% | ~197 |
+| Moving Up The Ladder | 10.00% | ~197 |
 | Here We Go Again | 9.00% | ~177 |
 | Master Enchanter | 9.00% | ~177 |
 | The father of Dragons | 9.00% | ~177 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 950)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,971 (Ranked 198)  
+Progressed: 1,972 (Ranked 198)  
 Completed: 2 (0.10%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 2 (0.10%) (Ranked 234)
 | 2023-09-23 | 1,967 | 2 |
 | 2023-09-24 | 1,969 | 2 |
 | 2023-09-25 | 1,970 | 2 |
-| 2023-09-26 | 1,971 | 2 |
+| 2023-09-26 | 1,972 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 22  (Ranked 506)  
 Sum: 44 (Ranked 465)  

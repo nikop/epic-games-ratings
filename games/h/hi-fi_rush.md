@@ -18,10 +18,10 @@ Rating: 4.85 (Ranked 43)
 | I play my own way! | 9.00% | ~369 |
 | Z-shielding's got nothing on us! | 9.00% | ~369 |
 | Uh, they were broken when I got here | 9.00% | ~369 |
+| The Negotiator | 8.00% | ~328 |
 | Whoa! There's ANOTHER health bar!? | 8.00% | ~328 |
 | Kissing the sky! | 8.00% | ~328 |
 | I look cool. But I can look COOLER. | 8.00% | ~328 |
-| The Negotiator | 7.00% | ~287 |
 | Headliner | 7.00% | ~287 |
 | Time to pay up! | 7.00% | ~287 |
 | Who's the boss now? | 7.00% | ~287 |
@@ -35,7 +35,7 @@ Rating: 4.85 (Ranked 43)
 | Beat-hit mania | 4.00% | ~164 |
 | That's a lot of junk metal… | 4.00% | ~164 |
 | There's such a thing as TOO helpful | 4.00% | ~164 |
-| Chip-tuned | 2.00% | ~82 |
+| Chip-tuned | 3.00% | ~123 |
 | We're Jammin' | 2.00% | ~82 |
 | Wanna hear my playlist? | 2.00% | ~82 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~82 |

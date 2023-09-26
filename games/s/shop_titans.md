@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 957)  
+Rating: 3.99 (Ranked 955)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -79,6 +79,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.50% | ~684 |
 | Moment of Respite | 0.50% | ~684 |
 | Black Friday Special | 0.50% | ~684 |
+| King's Shadow | 0.50% | ~684 |
 | Special Ingredient | 0.50% | ~684 |
 | Exotic Commodities | 0.50% | ~684 |
 | Complete Monopoly | 0.50% | ~684 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.40% | ~547 |
 | Bountiful Harvest | 0.40% | ~547 |
 | Precision Engineering | 0.40% | ~547 |
-| King's Shadow | 0.40% | ~547 |
 | Master Recycler | 0.40% | ~547 |
 | Economy of Scarce | 0.40% | ~547 |
 | King's Blade | 0.40% | ~547 |

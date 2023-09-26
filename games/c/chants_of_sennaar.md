@@ -11,7 +11,7 @@
 | A new dawn | 41.00% | ~88 |
 | Scholar | 39.00% | ~84 |
 | The darkness | 38.00% | ~82 |
-| A good beginning | 36.00% | ~77 |
+| A good beginning | 37.00% | ~80 |
 | True G4M3R | 35.00% | ~75 |
 | One last step | 34.00% | ~73 |
 | Cable guy | 33.00% | ~71 |
@@ -19,7 +19,7 @@
 | Champollion | 31.00% | ~67 |
 | Peace walker | 30.00% | ~64 |
 | In this together | 29.00% | ~62 |
-| Open door | 26.00% | ~56 |
+| Open door | 27.00% | ~58 |
 | Feels like springtime | 25.00% | ~54 |
 | Rascal | 24.00% | ~52 |
 | Free at last | 23.00% | ~49 |

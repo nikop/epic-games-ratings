@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6285,
+  "EOS_Progressed": 6286,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5418,6 +5418,11 @@
       "Time": "2023-09-26T08:03:12.1627492+00:00",
       "NumProgressed": 6285,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-26T20:04:55.6953341+00:00",
+      "NumProgressed": 6286,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5955,9 +5960,9 @@
       "ID": "gooddays",
       "SetID": "bmkn7o4",
       "Name": "Good Ol\u0027 Days",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 19
     },
     {
       "ID": "snapped",
@@ -5980,21 +5985,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3324,
+      "Progressed": 3325,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6285,
+      "Progressed": 6286,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-26T19:03:41.9497243+00:00",
+  "LastChanged_Achievements": "2023-09-26T20:04:55.6953337+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:06.5804023+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:00:55.9722724+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:03:41.9498266+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:02:00.4031837+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:04:55.6954156+00:00"
 }

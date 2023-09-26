@@ -5,21 +5,21 @@ Rating: 3.77 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,430 |
-| No Half Measures | 88.00% | ~14,293 |
-| Personal Matter | 87.00% | ~14,131 |
-| But You Have Heard of Me | 72.00% | ~11,694 |
-| Double the Barrels, double the Fun | 55.00% | ~8,933 |
-| Pimp My Glide | 48.00% | ~7,796 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,659 |
-| House Party! | 34.00% | ~5,522 |
+| Eeligally Ambitious | 95.00% | ~15,432 |
+| No Half Measures | 88.00% | ~14,295 |
+| Personal Matter | 87.00% | ~14,132 |
+| But You Have Heard of Me | 72.00% | ~11,696 |
+| Double the Barrels, double the Fun | 55.00% | ~8,934 |
+| Pimp My Glide | 48.00% | ~7,797 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,660 |
+| House Party! | 34.00% | ~5,523 |
 | Make It Rain | 23.00% | ~3,736 |
-| Curse of the Seven Seas | 22.00% | ~3,573 |
+| Curse of the Seven Seas | 22.00% | ~3,574 |
 | Head First | 16.00% | ~2,599 |
 | To the World's End | 12.00% | ~1,949 |
 | Table for Six | 11.00% | ~1,787 |
 | Sharing Is Caring | 10.00% | ~1,624 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,299 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,300 |
 | Morally Flexible | 6.00% | ~975 |
 | Fishing for Compliments | 5.00% | ~812 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~487 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 991)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,242 (Ranked 126)  
+Progressed: 16,244 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-23 | 16,220 | 0 |
 | 2023-09-24 | 16,223 | 0 |
 | 2023-09-25 | 16,229 | 0 |
-| 2023-09-26 | 16,242 | 0 |
+| 2023-09-26 | 16,244 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

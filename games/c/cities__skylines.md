@@ -6,51 +6,51 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~761,870 |
-| Green Energy | 60.00% | ~643,834 |
-| Foggy Weather | 59.00% | ~633,104 |
-| Singing In The- | 59.00% | ~633,104 |
-| Unpopular Mayor | 40.00% | ~429,223 |
-| Power at Your Fingertips | 33.00% | ~354,109 |
-| City Planner | 23.00% | ~246,803 |
-| Rolling in Dough | 20.00% | ~214,611 |
-| Does My Bum Look Big In This? | 17.00% | ~182,420 |
-| Climbing the Social Ladder | 16.00% | ~171,689 |
-| Safe City | 14.00% | ~150,228 |
-| Quay-King | 11.00% | ~118,036 |
-| Lawmaker | 10.00% | ~107,306 |
-| With Canals You Can! | 10.00% | ~107,306 |
-| Nomen Est Omen | 7.00% | ~75,114 |
-| Well Informed | 6.00% | ~64,383 |
-| Fire Watch | 5.00% | ~53,653 |
-| Greenest City | 4.00% | ~42,922 |
-| Heavenly City | 3.00% | ~32,192 |
-| Reporting! | 3.00% | ~32,192 |
-| SIMulated City | 3.00% | ~32,192 |
-| The Safest Town | 3.00% | ~32,192 |
-| Professional Dumper | 2.00% | ~21,461 |
+| Pioneer | 71.00% | ~761,928 |
+| Green Energy | 60.00% | ~643,883 |
+| Foggy Weather | 59.00% | ~633,151 |
+| Singing In The- | 59.00% | ~633,151 |
+| Unpopular Mayor | 40.00% | ~429,255 |
+| Power at Your Fingertips | 33.00% | ~354,136 |
+| City Planner | 23.00% | ~246,822 |
+| Rolling in Dough | 20.00% | ~214,628 |
+| Does My Bum Look Big In This? | 17.00% | ~182,433 |
+| Climbing the Social Ladder | 16.00% | ~171,702 |
+| Safe City | 14.00% | ~150,239 |
+| Quay-King | 11.00% | ~118,045 |
+| Lawmaker | 10.00% | ~107,314 |
+| With Canals You Can! | 10.00% | ~107,314 |
+| Nomen Est Omen | 7.00% | ~75,120 |
+| Well Informed | 6.00% | ~64,388 |
+| Fire Watch | 5.00% | ~53,657 |
+| Greenest City | 4.00% | ~42,926 |
+| Heavenly City | 3.00% | ~32,194 |
+| Reporting! | 3.00% | ~32,194 |
+| SIMulated City | 3.00% | ~32,194 |
+| The Safest Town | 3.00% | ~32,194 |
+| Professional Dumper | 2.00% | ~21,463 |
 | City in Motion | 1.00% | ~10,731 |
 | Earthloving City | 1.00% | ~10,731 |
 | Metropolis | 1.00% | ~10,731 |
-| Higher Education | 0.80% | ~8,584 |
-| Beam Me Up | 0.70% | ~7,511 |
-| Full Capacity | 0.60% | ~6,438 |
-| Terraformer | 0.60% | ~6,438 |
-| Decorator | 0.50% | ~5,365 |
-| Drop the Base | 0.50% | ~5,365 |
-| It's heading right for us! | 0.50% | ~5,365 |
-| Postman | 0.50% | ~5,365 |
-| Shake It Up! | 0.50% | ~5,365 |
-| Speed up! | 0.50% | ~5,365 |
-| The Waters of Our Lives | 0.50% | ~5,365 |
-| Twist and shout | 0.50% | ~5,365 |
-| Airfield Expertise | 0.40% | ~4,292 |
-| Airlifter | 0.40% | ~4,292 |
-| Get Your Snowshoes Ready! | 0.40% | ~4,292 |
-| Happy Town | 0.40% | ~4,292 |
-| I Want It All | 0.40% | ~4,292 |
-| Just Tolling | 0.40% | ~4,292 |
-| Thunder and Lightning | 0.40% | ~4,292 |
+| Higher Education | 0.80% | ~8,585 |
+| Beam Me Up | 0.70% | ~7,512 |
+| Full Capacity | 0.60% | ~6,439 |
+| Terraformer | 0.60% | ~6,439 |
+| Decorator | 0.50% | ~5,366 |
+| Drop the Base | 0.50% | ~5,366 |
+| It's heading right for us! | 0.50% | ~5,366 |
+| Postman | 0.50% | ~5,366 |
+| Shake It Up! | 0.50% | ~5,366 |
+| Speed up! | 0.50% | ~5,366 |
+| The Waters of Our Lives | 0.50% | ~5,366 |
+| Twist and shout | 0.50% | ~5,366 |
+| Airfield Expertise | 0.40% | ~4,293 |
+| Airlifter | 0.40% | ~4,293 |
+| Get Your Snowshoes Ready! | 0.40% | ~4,293 |
+| Happy Town | 0.40% | ~4,293 |
+| I Want It All | 0.40% | ~4,293 |
+| Just Tolling | 0.40% | ~4,293 |
+| Thunder and Lightning | 0.40% | ~4,293 |
 | A Huge Hadron | 0.30% | ~3,219 |
 | Airport Architect | 0.30% | ~3,219 |
 | Are They Naked In There? | 0.30% | ~3,219 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,073 |
 | Z00 | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,057 (Ranked 12)  
+Progressed: 1,073,138 (Ranked 12)  
 Completed: 10 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 10 (0.00%) (Ranked 294)
 | 2023-09-23 | 1,067,515 | 10 |
 | 2023-09-24 | 1,069,969 | 10 |
 | 2023-09-25 | 1,071,578 | 10 |
-| 2023-09-26 | 1,073,057 | 10 |
+| 2023-09-26 | 1,073,138 | 10 |
 ## Awards
 Max (Great for Beginners): 5,558  (Ranked 65)  
 Sum: 41,836 (Ranked 31)  

@@ -2,9 +2,9 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 658,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Rating": 657,
+  "Ranking_Popularity": 480,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 294,
@@ -323,11 +323,17 @@
       "Rating": 4.44,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-09-26T20:04:09.1562053+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
@@ -340,7 +346,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 1841,
@@ -2473,9 +2479,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
-  "LastChanged": "2023-09-01T07:57:58.5447992+00:00",
-  "LastChanged_Achievements": "2023-09-26T19:04:17.7748543+00:00",
+  "LastChanged": "2023-09-26T20:04:09.1562051+00:00",
+  "LastChanged_Achievements": "2023-09-26T20:05:41.4299347+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:35.2574862+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:03:03.9813713+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:04:17.7749106+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:04:09.1562056+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:05:41.4299803+00:00"
 }

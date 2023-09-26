@@ -970,9 +970,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2952,
+  "EOS_Progressed": 2954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4990,6 +4990,11 @@
       "Time": "2023-09-26T18:06:33.3918493+00:00",
       "NumProgressed": 2952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T20:05:47.6314611+00:00",
+      "NumProgressed": 2954,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5001,7 +5006,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_BING-BONG",
@@ -5153,7 +5158,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5377,22 +5382,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2952,
+      "Progressed": 2954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-24T16:57:49.6373996+00:00",
-  "LastChanged_Achievements": "2023-09-26T19:04:22.5307322+00:00",
+  "LastChanged_Achievements": "2023-09-26T20:05:47.6314606+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:58:26.0633589+00:00",
-  "LastUpdate_Achievements": "2023-09-26T19:04:22.5307959+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:59:04.2312797+00:00",
+  "LastUpdate_Achievements": "2023-09-26T20:05:47.6315102+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost in Space | 61.00% | ~281 |
-| Quick Understanding of Block Extrusion | 58.00% | ~267 |
+| Quick Understanding of Block Extrusion | 59.00% | ~272 |
 | Nature or Nurture | 51.00% | ~235 |
 | Power Glove | 49.00% | ~226 |
 | Forgotten Memories | 48.00% | ~221 |
@@ -15,9 +15,9 @@ Number of Ratings: 94  (23.09.2022)
 | Mission Success | 26.00% | ~120 |
 | There's No Place Like Home | 23.00% | ~106 |
 | Green Cube Killer | 22.00% | ~101 |
+| Path to Salvation | 19.00% | ~88 |
 | Descendants | 18.00% | ~83 |
 | Infinity Loop | 18.00% | ~83 |
-| Path to Salvation | 18.00% | ~83 |
 | The Flawed Teacher | 15.00% | ~69 |
 | To Infinity and Beyond | 6.00% | ~28 |
 | The Truthful Enemy | 6.00% | ~28 |
