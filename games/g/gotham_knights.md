@@ -7,25 +7,25 @@ Rating: 4.18 (Ranked 892)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,872 |
 | Har, Har, Har, Very Funny | 36.00% | ~26,219 |
-| Loose Ends | 34.00% | ~24,762 |
+| Loose Ends | 34.00% | ~24,763 |
 | To the Victor Go the Spoils | 29.00% | ~21,121 |
-| Knighthood | 28.00% | ~20,392 |
+| Knighthood | 28.00% | ~20,393 |
 | Get ReQ'd | 25.00% | ~18,208 |
 | Whispered Words | 25.00% | ~18,208 |
 | The Batman Family | 23.00% | ~16,751 |
 | Lock and Key | 23.00% | ~16,751 |
-| Something in the Clay | 21.00% | ~15,294 |
-| Quartzer Life Crisis | 21.00% | ~15,294 |
+| Something in the Clay | 21.00% | ~15,295 |
+| Quartzer Life Crisis | 21.00% | ~15,295 |
 | Working Hard or Harley Working? | 20.00% | ~14,566 |
 | Unstoppable Force | 20.00% | ~14,566 |
 | Bad Apples in Every Orchard | 20.00% | ~14,566 |
 | Snow Problem | 19.00% | ~13,838 |
-| The Show Mud Go On | 18.00% | ~13,109 |
-| From Inside Gotham's Walls | 18.00% | ~13,109 |
+| The Show Mud Go On | 18.00% | ~13,110 |
+| From Inside Gotham's Walls | 18.00% | ~13,110 |
 | Protector of Gotham | 17.00% | ~12,381 |
 | Universal Health Scare | 16.00% | ~11,653 |
-| In Your Element | 15.00% | ~10,924 |
-| Voiceless | 15.00% | ~10,924 |
+| In Your Element | 15.00% | ~10,925 |
+| Voiceless | 15.00% | ~10,925 |
 | Rock and a Hard Place | 14.00% | ~10,196 |
 | Cooldown | 14.00% | ~10,196 |
 | Seeking Asylum | 14.00% | ~10,196 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 892)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,830 (Ranked 84)  
+Progressed: 72,831 (Ranked 84)  
 Completed: 118 (0.16%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 118 (0.16%) (Ranked 215)
 | 2023-09-23 | 72,766 | 117 |
 | 2023-09-24 | 72,808 | 117 |
 | 2023-09-25 | 72,826 | 118 |
-| 2023-09-26 | 72,830 | 118 |
+| 2023-09-26 | 72,831 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,746  (Ranked 96)  
 Sum: 4,574 (Ranked 139)  

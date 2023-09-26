@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18352,
+  "EOS_Progressed": 18353,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -13082,6 +13082,11 @@
       "Time": "2023-09-26T05:08:23.0676117+00:00",
       "NumProgressed": 18352,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-26T06:07:38.9009399+00:00",
+      "NumProgressed": 18353,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 14,
@@ -13125,7 +13130,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -13181,7 +13186,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3303
+      "UsersEstimate": 3304
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -13204,15 +13209,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18352,
+      "Progressed": 18353,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:08:23.067611+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:07:38.9009393+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.2859158+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:00:56.2936704+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:08:23.0677811+00:00"
+  "LastUpdate_Ratings": "2023-09-26T06:00:07.690829+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:07:38.9010678+00:00"
 }

@@ -15,7 +15,7 @@ Rating: 4.73 (Ranked 163)
 | Felons | 62.00% | ~8,252 |
 | A Sea of Promises | 60.00% | ~7,986 |
 | Tales and Revelations | 57.00% | ~7,587 |
-| Bloodline | 52.00% | ~6,921 |
+| Bloodline | 53.00% | ~7,054 |
 | The Cradle of Centuries | 49.00% | ~6,522 |
 | The Life We Deserve | 46.00% | ~6,123 |
 | Night guard | 43.00% | ~5,723 |
@@ -202,8 +202,8 @@ Completed: 47 (0.35%) (Ranked 182)
 | 2023-09-25 | 13,305 | 47 |
 | 2023-09-26 | 13,310 | 47 |
 ## Awards
-Max (Great Boss Battles): 421  (Ranked 214)  
-Sum: 646 (Ranked 292)  
+Max (Great Boss Battles): 421  (Ranked 215)  
+Sum: 646 (Ranked 293)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |

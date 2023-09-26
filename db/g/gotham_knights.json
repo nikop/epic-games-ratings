@@ -3170,9 +3170,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72830,
+  "EOS_Progressed": 72831,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16655,6 +16655,11 @@
       "Time": "2023-09-26T04:06:00.5128159+00:00",
       "NumProgressed": 72830,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-26T06:07:15.8508554+00:00",
+      "NumProgressed": 72831,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16754,7 +16759,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10924
+      "UsersEstimate": 10925
     },
     {
       "ID": "CHALLENGES_1",
@@ -16770,7 +16775,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15294
+      "UsersEstimate": 15295
     },
     {
       "ID": "CLAYFACE_2",
@@ -16778,7 +16783,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13109
+      "UsersEstimate": 13110
     },
     {
       "ID": "CLAYFACE_3",
@@ -16898,7 +16903,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15294
+      "UsersEstimate": 15295
     },
     {
       "ID": "FREEZE_2",
@@ -17042,7 +17047,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20392
+      "UsersEstimate": 20393
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17058,7 +17063,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24762
+      "UsersEstimate": 24763
     },
     {
       "ID": "MYSTERY_02",
@@ -17090,7 +17095,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13109
+      "UsersEstimate": 13110
     },
     {
       "ID": "MYSTERY_06",
@@ -17098,7 +17103,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10924
+      "UsersEstimate": 10925
     },
     {
       "ID": "MYSTERY_07",
@@ -17153,13 +17158,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72830,
+      "Progressed": 72831,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43110,
+      "Progressed": 43111,
       "Completed": 2667
     }
   ],
@@ -17167,8 +17172,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-26T04:58:34.4529777+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:07:56.0993782+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:07:15.8508548+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-26T04:58:34.4529783+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:07:56.0996559+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:58:10.2194061+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:07:15.8510083+00:00"
 }

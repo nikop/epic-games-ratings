@@ -61,7 +61,7 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign tycoon | 2.00% | ~34 |
 | Metropolis | 2.00% | ~34 |
 | Speed of light | 2.00% | ~34 |
-| Trans-Siberian Railway | 1.00% | ~17 |
+| Trans-Siberian Railway | 2.00% | ~34 |
 | Train Fever | 0.90% | ~15 |
 | Louis Favre | 0.80% | ~14 |
 | Big spender | 0.50% | ~8 |

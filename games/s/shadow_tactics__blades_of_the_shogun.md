@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,483 |
-| A thief's beginning | 10.00% | ~20,439 |
-| Thorough | 10.00% | ~20,439 |
-| Disguised | 8.00% | ~16,351 |
-| Rescue Takuma | 8.00% | ~16,351 |
-| Rollin' | 8.00% | ~16,351 |
-| Tanuki Time | 8.00% | ~16,351 |
-| Ice Ice Yuki | 7.00% | ~14,307 |
-| Jonin | 7.00% | ~14,307 |
-| Stoned Ox | 7.00% | ~14,307 |
-| Yabu | 7.00% | ~14,307 |
-| Chunin | 6.00% | ~12,263 |
-| Flying Rocks | 6.00% | ~12,263 |
-| Happy Planning | 6.00% | ~12,263 |
-| Mugen Unchained | 6.00% | ~12,263 |
-| Warzone | 6.00% | ~12,263 |
-| Okkoto | 5.00% | ~10,219 |
-| Prisoners | 5.00% | ~10,219 |
-| Too Early | 5.00% | ~10,219 |
+| Genin | 11.00% | ~22,484 |
+| A thief's beginning | 10.00% | ~20,440 |
+| Thorough | 10.00% | ~20,440 |
+| Disguised | 8.00% | ~16,352 |
+| Rescue Takuma | 8.00% | ~16,352 |
+| Rollin' | 8.00% | ~16,352 |
+| Tanuki Time | 8.00% | ~16,352 |
+| Ice Ice Yuki | 7.00% | ~14,308 |
+| Jonin | 7.00% | ~14,308 |
+| Stoned Ox | 7.00% | ~14,308 |
+| Yabu | 7.00% | ~14,308 |
+| Chunin | 6.00% | ~12,264 |
+| Flying Rocks | 6.00% | ~12,264 |
+| Happy Planning | 6.00% | ~12,264 |
+| Mugen Unchained | 6.00% | ~12,264 |
+| Warzone | 6.00% | ~12,264 |
+| Okkoto | 5.00% | ~10,220 |
+| Prisoners | 5.00% | ~10,220 |
+| Too Early | 5.00% | ~10,220 |
 | Gear up | 4.00% | ~8,176 |
 | Happy little accidents | 4.00% | ~8,176 |
 | Still Rollin' | 4.00% | ~8,176 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~204 |
 | Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,389 (Ranked 62)  
+Progressed: 204,396 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 86 (0.04%) (Ranked 257)
 | 2023-09-23 | 203,944 | 86 |
 | 2023-09-24 | 204,189 | 86 |
 | 2023-09-25 | 204,356 | 86 |
-| 2023-09-26 | 204,389 | 86 |
+| 2023-09-26 | 204,396 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,775 (Ranked 136)  

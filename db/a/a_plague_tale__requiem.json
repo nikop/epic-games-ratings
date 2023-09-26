@@ -3,8 +3,8 @@
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 163,
-  "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 292,
+  "Ranking_Popularity": 215,
+  "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 127,
@@ -9159,9 +9159,9 @@
       "ID": "ACH_10",
       "SetID": "9d4cf4c",
       "Name": "Bloodline",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 6921
+      "UsersEstimate": 7054
     },
     {
       "ID": "ACH_11",
@@ -9376,8 +9376,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-24T21:58:12.3326453+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:06:26.5008808+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:05:57.1501142+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-26T04:59:10.9775353+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:06:26.5010251+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:58:39.9886723+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:05:57.150286+00:00"
 }

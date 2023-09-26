@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8038,24 +8038,30 @@
       "Rating": 4.76,
       "NumberOfAwards": 44298,
       "NumberOfAwardsMax": 23029
+    },
+    {
+      "Time": "2023-09-26T06:01:09.6817603+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44352,
+      "NumberOfAwardsMax": 23061
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44298,
-  "NumberOfAwardsMax": 23029,
+  "NumberOfAwards": 44352,
+  "NumberOfAwardsMax": 23061,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 23029
+      "Count": 23061
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11374
+      "Count": 11396
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8118,9 +8124,9 @@
       "Count": 672
     }
   ],
-  "EOS_Progressed": 297357,
+  "EOS_Progressed": 297358,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25278,6 +25284,11 @@
       "Time": "2023-09-26T05:08:40.8203743+00:00",
       "NumProgressed": 297357,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-26T06:07:54.1522112+00:00",
+      "NumProgressed": 297358,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25617,7 +25628,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38656
+      "UsersEstimate": 38657
     },
     {
       "ID": "PFA_7",
@@ -25625,7 +25636,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38656
+      "UsersEstimate": 38657
     },
     {
       "ID": "PFA_8",
@@ -25648,16 +25659,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297357,
+      "Progressed": 297358,
       "Completed": 477
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-25T22:00:25.3004117+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:08:40.8203737+00:00",
+  "LastChanged": "2023-09-26T06:01:09.6817601+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:07:54.1522107+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:02:10.8716583+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:08:40.8206364+00:00"
+  "LastUpdate_Ratings": "2023-09-26T06:01:09.6817612+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:07:54.1524144+00:00"
 }

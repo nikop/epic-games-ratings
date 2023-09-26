@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -2678,9 +2678,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 647122,
+  "EOS_Progressed": 647128,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2087,
+  "EOS_NewPlayers": 2091,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20498,6 +20498,11 @@
       "Time": "2023-09-26T05:04:54.1991501+00:00",
       "NumProgressed": 647122,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-26T06:04:45.9516976+00:00",
+      "NumProgressed": 647128,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 52,
@@ -20509,7 +20514,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 97068
+      "UsersEstimate": 97069
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -20517,7 +20522,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 71183
+      "UsersEstimate": 71184
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -20533,7 +20538,7 @@
       "Name": "Wayfarer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "_01_04_DISTANCE_2000_EASY",
@@ -20549,7 +20554,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 110011
+      "UsersEstimate": 110012
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -20573,7 +20578,7 @@
       "Name": "Advanced Wayfarer",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "_01_09_DISTANCE_2000_MEDIUM",
@@ -20597,7 +20602,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12942
+      "UsersEstimate": 12943
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -20629,7 +20634,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 84126
+      "UsersEstimate": 84127
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -20677,7 +20682,7 @@
       "Name": "Marathon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12942
+      "UsersEstimate": 12943
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -20709,7 +20714,7 @@
       "Name": "Destructionist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12942
+      "UsersEstimate": 12943
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -20741,7 +20746,7 @@
       "Name": "Scrooge",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "_02_08_COWTER_SPACE",
@@ -20821,7 +20826,7 @@
       "Name": "Lost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12942
+      "UsersEstimate": 12943
     },
     {
       "ID": "_11_00_CLIMATE_CHANGE",
@@ -20829,7 +20834,7 @@
       "Name": "Climate Change",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 97068
+      "UsersEstimate": 97069
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -20885,7 +20890,7 @@
       "Name": "Tough Nut!",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "_13_00_BLAST_FISHING",
@@ -20924,15 +20929,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 647122,
+      "Progressed": 647128,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-26T02:15:06.2795973+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:04:54.1991496+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:04:45.9516971+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:04.3897046+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:00:23.0504557+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:04:54.1994356+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:59:39.9481275+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:04:45.951864+00:00"
 }

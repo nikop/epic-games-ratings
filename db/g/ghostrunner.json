@@ -4,10 +4,10 @@
   "ProductSlug": "ghostrunner",
   "Ranking_Rating": 175,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1208,7 +1208,7 @@
   ],
   "EOS_Progressed": 18857,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18794,8 +18794,8 @@
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-25T05:01:02.6046686+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:07:01.793912+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:06:28.394096+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.6439511+00:00",
-  "LastUpdate_Ratings": "2023-09-26T04:57:32.0330847+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:07:01.7941776+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:57:16.1604295+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:06:28.394335+00:00"
 }

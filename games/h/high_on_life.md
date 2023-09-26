@@ -8,6 +8,7 @@ Rating: 4.63 (Ranked 334)
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
+| Eatin' Good in the Neighborhood | 0.10% | ~24 |
 | Creature Feature | 0.10% | ~24 |
 | Are You Packin'? | 0.10% | ~24 |
 | Bring A Knife to a Gun Fight | 0.10% | ~24 |
@@ -32,7 +33,6 @@ Rating: 4.63 (Ranked 334)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
 | Epic Legendary Prize | 0.00% | ~0 |
-| Eatin' Good in the Neighborhood | 0.00% | ~0 |
 | Satisfied Gus-tomer | 0.00% | ~0 |
 | A Starfish Is Born | 0.00% | ~0 |
 | Sequel-Bait | 0.00% | ~0 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 334)
 | Fall In Love With A Parasite | 0.00% | ~0 |
 | Meet Frasier from Frasier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,081 (Ranked 113)  
+Progressed: 24,082 (Ranked 113)  
 Completed: 12 (0.05%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 12 (0.05%) (Ranked 252)
 | 2023-09-23 | 24,072 | 12 |
 | 2023-09-24 | 24,074 | 12 |
 | 2023-09-25 | 24,081 | 12 |
+| 2023-09-26 | 24,082 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

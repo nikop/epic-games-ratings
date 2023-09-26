@@ -7355,9 +7355,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 639
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -7522,8 +7522,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-24T21:00:49.8016709+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:09:35.0536738+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:09:21.4328516+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.2619756+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:03:09.4875007+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:09:35.0538182+00:00"
+  "LastUpdate_Ratings": "2023-09-26T06:03:22.6058188+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:09:21.4330066+00:00"
 }

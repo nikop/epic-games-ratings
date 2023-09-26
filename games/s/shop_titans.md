@@ -17,6 +17,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One Easy Payment | 1.00% | ~1,367 |
 | Some Assembly Required | 1.00% | ~1,367 |
 | Bounty Hunters | 1.00% | ~1,367 |
+| Flooding the Market | 1.00% | ~1,367 |
 | Another Satisfied Customer | 1.00% | ~1,367 |
 | Pretty Penny | 1.00% | ~1,367 |
 | One-Armed Bandit | 1.00% | ~1,367 |
@@ -25,7 +26,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,367 |
 | Own the Means of Production | 1.00% | ~1,367 |
 | Demand for Supplies | 0.90% | ~1,230 |
-| Flooding the Market | 0.90% | ~1,230 |
 | Where it Hurts | 0.90% | ~1,230 |
 | Gild-Gotten Goods | 0.90% | ~1,230 |
 | Blank Page Syndrome | 0.80% | ~1,094 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,713 (Ranked 69)  
+Progressed: 136,714 (Ranked 69)  
 Completed: 155 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 155 (0.11%) (Ranked 229)
 | 2023-09-23 | 136,602 | 153 |
 | 2023-09-24 | 136,667 | 154 |
 | 2023-09-25 | 136,703 | 155 |
-| 2023-09-26 | 136,713 | 155 |
+| 2023-09-26 | 136,714 | 155 |
 ## Awards
 Max (Great for Beginners): 4,758  (Ranked 70)  
 Sum: 27,292 (Ranked 48)  

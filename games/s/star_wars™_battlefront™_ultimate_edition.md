@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 91.00% | ~177 |
-| Off to a good start | 69.00% | ~134 |
-| Do... or do not. There is no try | 47.00% | ~91 |
+| Off to a good start | 69.00% | ~135 |
+| Do... or do not. There is no try | 48.00% | ~94 |
 | A good blaster at your side | 36.00% | ~70 |
-| Scrap collector | 25.00% | ~48 |
+| Scrap collector | 25.00% | ~49 |
 | Great shot, kid! | 24.00% | ~47 |
 | The power of the Force | 21.00% | ~41 |
-| Collector | 20.00% | ~39 |
 | I suggest a new strategy | 20.00% | ~39 |
+| Collector | 19.00% | ~37 |
 | All right, I'll give it a try | 18.00% | ~35 |
 | Shoot first | 18.00% | ~35 |
 | Together we can rule the galaxy | 17.00% | ~33 |
@@ -25,10 +25,10 @@
 | A tremor in the Force | 12.00% | ~23 |
 | Impressive. Most impressive. | 12.00% | ~23 |
 | Judge me by my size, do you? | 12.00% | ~23 |
-| "Gonk? Gonk!" | 10.00% | ~19 |
-| Distinguished | 9.00% | ~17 |
-| Patience you must have | 9.00% | ~17 |
-| Support the troops | 9.00% | ~17 |
+| "Gonk? Gonk!" | 10.00% | ~20 |
+| Distinguished | 9.00% | ~18 |
+| Patience you must have | 9.00% | ~18 |
+| Support the troops | 9.00% | ~18 |
 | Determined | 8.00% | ~16 |
 | Not bad for a little furball | 8.00% | ~16 |
 | I've been waiting for you | 7.00% | ~14 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.50% | ~1 |
 | Crush them with one swift stroke… | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194 (Ranked 337)  
-Completed: 1 (0.52%) (Ranked 159)  
+Progressed: 195 (Ranked 337)  
+Completed: 1 (0.51%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 1 (0.52%) (Ranked 159)
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
-| 2023-09-26 | 194 | 1 |
+| 2023-09-26 | 195 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

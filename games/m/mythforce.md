@@ -11,7 +11,7 @@ Number of Ratings: 285  (23.09.2022)
 | Debuff Dogpile | 19.00% | ~610 |
 | Hit 'Em Where It Hurts | 19.00% | ~610 |
 | Perk Shard Punch Card | 19.00% | ~610 |
-| Mushroom Madness! | 18.00% | ~577 |
+| Mushroom Madness! | 18.00% | ~578 |
 | First Strike | 15.00% | ~481 |
 | Horder Better Faster Stronger | 15.00% | ~481 |
 | Spending Spree | 15.00% | ~481 |
@@ -20,7 +20,7 @@ Number of Ratings: 285  (23.09.2022)
 | Next Time on MythForce... | 10.00% | ~321 |
 | Cold-Blooded Critters | 9.00% | ~289 |
 | Death Becomes You | 7.00% | ~225 |
-| Flawless Victory | 6.00% | ~192 |
+| Flawless Victory | 6.00% | ~193 |
 | The Harder They Fall | 5.00% | ~160 |
 | On this Episode! | 4.00% | ~128 |
 | Deadication | 3.00% | ~96 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.30% | ~10 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,208 (Ranked 183)  
+Progressed: 3,209 (Ranked 182)  
 Completed: 1 (0.03%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.03%) (Ranked 264)
 | 2023-09-23 | 3,064 | 0 |
 | 2023-09-24 | 3,142 | 0 |
 | 2023-09-25 | 3,199 | 1 |
-| 2023-09-26 | 3,208 | 1 |
+| 2023-09-26 | 3,209 | 1 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 456)  
 Sum: 275 (Ranked 354)  

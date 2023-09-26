@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 241,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -668,9 +668,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_17",
@@ -762,8 +762,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:09:50.7944028+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:09:34.9398106+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:00:14.0715527+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:09:50.7944254+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:59:28.2167919+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:09:34.9398328+00:00"
 }

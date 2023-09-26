@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4848,9 +4848,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686426,
+  "EOS_Progressed": 686439,
   "EOS_Completed": 2175,
-  "EOS_NewPlayers": 3971,
+  "EOS_NewPlayers": 3978,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22723,6 +22723,11 @@
       "Time": "2023-09-26T05:03:21.5744658+00:00",
       "NumProgressed": 686426,
       "NumCompleted": 2175
+    },
+    {
+      "Time": "2023-09-26T06:03:33.4961533+00:00",
+      "NumProgressed": 686439,
+      "NumCompleted": 2175
     }
   ],
   "TotalAchievements": 45,
@@ -23038,7 +23043,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "ach_thesacrifice",
@@ -23078,7 +23083,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "ach_well_trained",
@@ -23093,22 +23098,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686426,
+      "Progressed": 686439,
       "Completed": 2175
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 11967,
-      "Completed": 11967
+      "Progressed": 11980,
+      "Completed": 11980
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-25T19:57:28.2116089+00:00",
-  "LastChanged_Achievements": "2023-09-26T05:03:21.5744638+00:00",
+  "LastChanged_Achievements": "2023-09-26T06:03:33.4961359+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-26T04:58:07.127532+00:00",
-  "LastUpdate_Achievements": "2023-09-26T05:03:21.5761655+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:57:43.5905758+00:00",
+  "LastUpdate_Achievements": "2023-09-26T06:03:33.4976498+00:00"
 }
