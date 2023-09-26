@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1753,9 +1753,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
       "SetID": "9eacipp",
       "Name": "Craftsmen challenge",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CURSE",
@@ -2145,8 +2145,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:04:50.2253459+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:05:33.4606688+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.2239811+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:02:20.5721536+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:04:50.2254792+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:03:12.8401814+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:05:33.4607829+00:00"
 }

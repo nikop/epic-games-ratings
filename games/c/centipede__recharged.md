@@ -11,7 +11,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sole Survivor | 37.00% | ~6,429 |
 | Fireworks | 33.00% | ~5,734 |
 | Burning For You | 28.00% | ~4,865 |
-| Beat 'em Up | 27.00% | ~4,691 |
+| Beat 'em Up | 27.00% | ~4,692 |
 | I Am The Storm | 18.00% | ~3,128 |
 | Still Burnin' | 18.00% | ~3,128 |
 | Deadline | 14.00% | ~2,433 |
@@ -19,11 +19,11 @@ Number of Ratings: 76  (23.09.2022)
 | Don't Fear The Reaper | 12.00% | ~2,085 |
 | Harvester Of Eyes | 7.00% | ~1,216 |
 | The Reaper | 7.00% | ~1,216 |
-| Feel The Thunder | 6.00% | ~1,042 |
+| Feel The Thunder | 6.00% | ~1,043 |
 | Shadow Warrior | 2.00% | ~348 |
 | Mirrors | 1.00% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,375 (Ranked 122)  
+Progressed: 17,376 (Ranked 122)  
 Completed: 106 (0.61%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 106 (0.61%) (Ranked 147)
 | 2023-09-23 | 17,320 | 105 |
 | 2023-09-24 | 17,350 | 106 |
 | 2023-09-25 | 17,366 | 106 |
-| 2023-09-26 | 17,375 | 106 |
+| 2023-09-26 | 17,376 | 106 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

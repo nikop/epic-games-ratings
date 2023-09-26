@@ -1087,9 +1087,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_39",
@@ -1495,9 +1495,9 @@
       "ID": "achievement_84",
       "SetID": "d252ncf",
       "Name": "Tunnel Rat",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_85",
@@ -1643,8 +1643,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:05:12.2882929+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:05:57.0895481+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:00:19.4590858+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:05:12.2885134+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:00:59.8016134+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:05:57.0897317+00:00"
 }

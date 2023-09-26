@@ -6,38 +6,38 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~615,694 |
-| Death From Above | 46.00% | ~615,694 |
-| Master of the Household | 38.00% | ~508,617 |
-| Death of the Party | 36.00% | ~481,847 |
-| NEXUS-47 | 33.00% | ~441,693 |
-| The Last Tango | 31.00% | ~414,924 |
-| Nightmare Fuel | 30.00% | ~401,540 |
-| The Result of Previous Training | 28.00% | ~374,770 |
-| Tools of the Trade | 28.00% | ~374,770 |
-| Cleared for Field Duty | 27.00% | ~361,386 |
-| Seizing the Opportunity | 26.00% | ~348,001 |
-| Bullet Train | 21.00% | ~281,078 |
-| Stylish Assassin | 20.00% | ~267,693 |
-| Silent Assassin | 14.00% | ~187,385 |
-| Rise Up | 13.00% | ~174,000 |
-| Evil Wine Club | 11.00% | ~147,231 |
-| Console Cowboy | 10.00% | ~133,846 |
-| Last Stop | 10.00% | ~133,846 |
-| A New Profile | 9.00% | ~120,462 |
-| Full House | 9.00% | ~120,462 |
-| Dune Raider | 8.00% | ~107,077 |
-| No Stone Unturned | 8.00% | ~107,077 |
-| Train Surfing | 8.00% | ~107,077 |
-| Icebreaker | 7.00% | ~93,693 |
-| Family Feud | 6.00% | ~80,308 |
-| Rich Harvest | 6.00% | ~80,308 |
-| Count Down From 47 | 6.00% | ~80,308 |
-| Shortcut Killer | 5.00% | ~66,923 |
-| Treacherous Architecture | 5.00% | ~66,923 |
-| Stair Master | 5.00% | ~66,923 |
-| Followed the Trails | 5.00% | ~66,923 |
-| Last Call | 5.00% | ~66,923 |
+| Unseen Assassin | 46.00% | ~615,702 |
+| Death From Above | 46.00% | ~615,702 |
+| Master of the Household | 38.00% | ~508,623 |
+| Death of the Party | 36.00% | ~481,854 |
+| NEXUS-47 | 33.00% | ~441,699 |
+| The Last Tango | 31.00% | ~414,929 |
+| Nightmare Fuel | 30.00% | ~401,545 |
+| The Result of Previous Training | 28.00% | ~374,775 |
+| Tools of the Trade | 28.00% | ~374,775 |
+| Cleared for Field Duty | 27.00% | ~361,390 |
+| Seizing the Opportunity | 26.00% | ~348,005 |
+| Bullet Train | 21.00% | ~281,081 |
+| Stylish Assassin | 20.00% | ~267,696 |
+| Silent Assassin | 14.00% | ~187,387 |
+| Rise Up | 13.00% | ~174,003 |
+| Evil Wine Club | 11.00% | ~147,233 |
+| Console Cowboy | 10.00% | ~133,848 |
+| Last Stop | 10.00% | ~133,848 |
+| A New Profile | 9.00% | ~120,463 |
+| Full House | 9.00% | ~120,463 |
+| Dune Raider | 8.00% | ~107,079 |
+| No Stone Unturned | 8.00% | ~107,079 |
+| Train Surfing | 8.00% | ~107,079 |
+| Icebreaker | 7.00% | ~93,694 |
+| Family Feud | 6.00% | ~80,309 |
+| Rich Harvest | 6.00% | ~80,309 |
+| Count Down From 47 | 6.00% | ~80,309 |
+| Shortcut Killer | 5.00% | ~66,924 |
+| Treacherous Architecture | 5.00% | ~66,924 |
+| Stair Master | 5.00% | ~66,924 |
+| Followed the Trails | 5.00% | ~66,924 |
+| Last Call | 5.00% | ~66,924 |
 | Upstairs, Downstairs | 4.00% | ~53,539 |
 | The Great Outdoors | 4.00% | ~53,539 |
 | Partied Out | 4.00% | ~53,539 |
@@ -49,12 +49,12 @@ Number of Ratings: 21,082  (23.09.2022)
 | Hack the Planet | 3.00% | ~40,154 |
 | Master the Terroir | 3.00% | ~40,154 |
 | Vineyard Virtuoso | 3.00% | ~40,154 |
-| Bird Art | 2.00% | ~26,769 |
+| Bird Art | 2.00% | ~26,770 |
 | Top of the Class | 1.00% | ~13,385 |
 | Ripe for the Picking | 1.00% | ~13,385 |
 | The Creative Assassin | 0.70% | ~9,369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,338,465 (Ranked 9)  
+Progressed: 1,338,482 (Ranked 9)  
 Completed: 2,151 (0.16%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,15 +213,15 @@ Completed: 2,151 (0.16%) (Ranked 216)
 | 2023-09-23 | 1,337,449 | 2,148 |
 | 2023-09-24 | 1,338,012 | 2,150 |
 | 2023-09-25 | 1,338,346 | 2,151 |
-| 2023-09-26 | 1,338,465 | 2,151 |
+| 2023-09-26 | 1,338,482 | 2,151 |
 ## Awards
 Max (Diverse Characters): 10,161  (Ranked 37)  
-Sum: 71,439 (Ranked 21)  
+Sum: 71,445 (Ranked 21)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 10,161 |
-| This game is Highly Recommended | 9,382 |
+| This game is Highly Recommended | 9,388 |
 | This game is Extremely Fun | 9,109 |
 | This game has Amazing Storytelling | 8,983 |
 | This game has Amazing Characters | 8,804 |
@@ -504,4 +504,4 @@ Diff (max vs sum): 16
 | 2023-09-23 | 4.78 | - | 10,137 | 71,343 |
 | 2023-09-24 | 4.78 | - | 10,149 | 71,391 |
 | 2023-09-25 | 4.78 | - | 10,149 | 71,421 |
-| 2023-09-26 | 4.78 | - | 10,161 | 71,439 |
+| 2023-09-26 | 4.78 | - | 10,161 | 71,445 |

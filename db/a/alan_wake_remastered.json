@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66214,
+  "EOS_Progressed": 66215,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15934,6 +15934,11 @@
       "Time": "2023-09-26T11:06:46.2289352+00:00",
       "NumProgressed": 66214,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-26T12:07:39.2347227+00:00",
+      "NumProgressed": 66215,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16193,7 +16198,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21188
+      "UsersEstimate": 21189
     },
     {
       "ID": "33",
@@ -16257,7 +16262,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "41",
@@ -16265,7 +16270,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11256
+      "UsersEstimate": 11257
     },
     {
       "ID": "42",
@@ -16480,21 +16485,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66214,
+      "Progressed": 66215,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29682,
+      "Progressed": 29683,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:06:46.2289344+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:07:39.2347223+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:01:48.1926101+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:06:46.2291032+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:02:34.6175228+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:07:39.2348483+00:00"
 }

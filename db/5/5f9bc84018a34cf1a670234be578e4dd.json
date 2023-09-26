@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 255,
-  "EOS_Completed": 59,
+  "EOS_Completed": 60,
   "EOS_NewPlayers": 38,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 23.14,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 23.53,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1291,6 +1291,11 @@
       "Time": "2023-09-26T10:05:12.1002225+00:00",
       "NumProgressed": 255,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-09-26T12:05:45.1975688+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1309,9 +1314,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "Compiling",
@@ -1325,25 +1330,25 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "FirstBox",
       "SetID": "7jbi7el",
       "Name": "Test Task",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 250
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "Fusses",
@@ -1415,13 +1420,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 255,
-      "Completed": 59
+      "Completed": 60
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:05:01.2510022+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:05:45.1975683+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:00:26.3461001+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:05:01.2510225+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:01:07.9627897+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:05:45.1975829+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~751 |
-| My little farm | 64.00% | ~593 |
+| Cabin boy | 81.00% | ~752 |
+| My little farm | 64.00% | ~594 |
 | Every beginning is difficult | 62.00% | ~575 |
-| Gofer | 57.00% | ~528 |
-| 3, 2, 1, mine | 56.00% | ~519 |
+| Gofer | 57.00% | ~529 |
+| 3, 2, 1, mine | 56.00% | ~520 |
 | O Captain! My Captain! | 54.00% | ~501 |
-| Seafarer | 53.00% | ~491 |
+| Seafarer | 53.00% | ~492 |
 | Greed for gold | 43.00% | ~399 |
-| Intangible | 42.00% | ~389 |
-| I'm out of here for a while | 42.00% | ~389 |
-| In a mint condition | 38.00% | ~352 |
+| Intangible | 42.00% | ~390 |
+| I'm out of here for a while | 41.00% | ~380 |
+| In a mint condition | 38.00% | ~353 |
 | Licence to Kill | 37.00% | ~343 |
-| Pirates! | 35.00% | ~324 |
+| Pirates! | 34.00% | ~316 |
 | Collectionitis | 29.00% | ~269 |
 | Christening | 28.00% | ~260 |
 | Megalomania | 28.00% | ~260 |
 | Groundskeeper | 26.00% | ~241 |
 | Wholesale | 22.00% | ~204 |
-| Walk the plank | 20.00% | ~185 |
+| Walk the plank | 20.00% | ~186 |
 | Pearly gates | 18.00% | ~167 |
 | My precious! | 17.00% | ~158 |
 | Conquistador | 14.00% | ~130 |
 | Panic buying | 11.00% | ~102 |
-| Just a scratch | 9.00% | ~83 |
-| Your vessel, my vessel | 9.00% | ~83 |
+| Just a scratch | 9.00% | ~84 |
+| Your vessel, my vessel | 9.00% | ~84 |
 | All mine! | 8.00% | ~74 |
 | Paths of Glory | 8.00% | ~74 |
 | Panel of experts | 8.00% | ~74 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927 (Ranked 232)  
+Progressed: 928 (Ranked 232)  
 Completed: 1 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 1 (0.11%) (Ranked 229)
 | 2023-09-23 | 919 | 1 |
 | 2023-09-24 | 921 | 1 |
 | 2023-09-25 | 925 | 1 |
-| 2023-09-26 | 927 | 1 |
+| 2023-09-26 | 928 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

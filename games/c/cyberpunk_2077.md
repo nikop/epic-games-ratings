@@ -6,23 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ten out of Ten | 0.40% | ~3,528 |
 | Rough Landing | 0.40% | ~3,528 |
 | Gunslinger | 0.30% | ~2,646 |
-| Ten out of Ten | 0.30% | ~2,646 |
 | The Jungle | 0.30% | ~2,646 |
 | Full Body Conversion | 0.20% | ~1,764 |
+| Right Back At Ya | 0.20% | ~1,764 |
 | Master Crafter | 0.20% | ~1,764 |
 | Mean Streets | 0.20% | ~1,764 |
 | Breathtaking | 0.20% | ~1,764 |
 | Stanislavski's Method | 0.20% | ~1,764 |
+| Temperance | 0.20% | ~1,764 |
+| The Hermit | 0.20% | ~1,764 |
 | The High Priestess | 0.20% | ~1,764 |
+| The Wheel of Fortune | 0.20% | ~1,764 |
 | True Soldier | 0.20% | ~1,764 |
 | Two Heads, One Bullet | 0.20% | ~1,764 |
 | V for Vendetta | 0.20% | ~1,764 |
 | City Lights | 0.10% | ~882 |
 | To Bad Decisions! | 0.10% | ~882 |
 | Bushido and Chill | 0.10% | ~882 |
-| Right Back At Ya | 0.10% | ~882 |
 | To Protect and Serve | 0.10% | ~882 |
 | The Wandering Fool | 0.10% | ~882 |
 | Autojock | 0.10% | ~882 |
@@ -36,14 +39,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 0.10% | ~882 |
 | Daemon In The Shell | 0.10% | ~882 |
 | Life of the Road | 0.10% | ~882 |
-| Temperance | 0.10% | ~882 |
 | The Devil | 0.10% | ~882 |
 | The Fool | 0.10% | ~882 |
-| The Hermit | 0.10% | ~882 |
 | The Lovers | 0.10% | ~882 |
 | The Star | 0.10% | ~882 |
 | The Sun | 0.10% | ~882 |
-| The Wheel of Fortune | 0.10% | ~882 |
 | The World | 0.10% | ~882 |
 | Greetings from Pacifica! | 0.10% | ~882 |
 | True Warrior | 0.10% | ~882 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881,889 (Ranked 15)  
-Completed: 2,395 (0.27%) (Ranked 197)  
+Progressed: 881,931 (Ranked 15)  
+Completed: 2,398 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 2,395 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 881,889 | 2,395 |
+| 2023-09-26 | 881,931 | 2,398 |
 ## Awards
 Max (Character Customization): 81,778  (Ranked 9)  
 Sum: 223,281 (Ranked 13)  

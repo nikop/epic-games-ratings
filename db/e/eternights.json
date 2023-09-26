@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 226,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -727,9 +727,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -918,8 +918,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:07:57.4758945+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:08:46.5056112+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-26T10:58:17.8162556+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:07:57.4759155+00:00"
+  "LastUpdate_Ratings": "2023-09-26T11:58:48.3816421+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:08:46.5056281+00:00"
 }

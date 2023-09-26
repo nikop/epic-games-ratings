@@ -15,12 +15,12 @@
 | True G4M3R | 35.00% | ~75 |
 | One last step | 34.00% | ~72 |
 | Cable guy | 32.00% | ~68 |
+| Peace walker | 31.00% | ~66 |
 | Half the way | 31.00% | ~66 |
 | Champollion | 31.00% | ~66 |
-| Peace walker | 30.00% | ~64 |
 | In this together | 29.00% | ~62 |
 | Open door | 26.00% | ~55 |
-| Feels like springtime | 24.00% | ~51 |
+| Feels like springtime | 25.00% | ~53 |
 | Rascal | 24.00% | ~51 |
 | Free at last | 23.00% | ~49 |
 | Alchemists Express | 23.00% | ~49 |
@@ -30,7 +30,7 @@
 | For its own good | 15.00% | ~32 |
 | Fashion victim | 13.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 331)  
+Progressed: 213 (Ranked 332)  
 Completed: 13 (6.10%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,28 +1,28 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.27 (Ranked 824)  
+Rating: 4.27 (Ranked 825)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,729 |
-| Copacetic Coordination | 16.00% | ~55,210 |
-| Fronting the Money | 15.00% | ~51,759 |
-| The Dawn of Automation | 14.00% | ~48,309 |
-| Extraordinary Logistics | 14.00% | ~48,309 |
-| Dirty Money | 13.00% | ~44,858 |
-| Family First | 13.00% | ~44,858 |
+| Corner Clout | 46.00% | ~158,732 |
+| Copacetic Coordination | 16.00% | ~55,211 |
+| Fronting the Money | 15.00% | ~51,760 |
+| The Dawn of Automation | 14.00% | ~48,310 |
+| Extraordinary Logistics | 14.00% | ~48,310 |
+| Dirty Money | 13.00% | ~44,859 |
+| Family First | 13.00% | ~44,859 |
 | Cleaning House | 12.00% | ~41,408 |
 | Room in the Back | 12.00% | ~41,408 |
-| Beating the Heat | 11.00% | ~37,957 |
-| Booze Baron | 11.00% | ~37,957 |
-| Friends on the Force | 10.00% | ~34,506 |
-| Neighborhood Watch | 10.00% | ~34,506 |
-| Core Corps | 8.00% | ~27,605 |
-| Sizeable Stash | 8.00% | ~27,605 |
-| Street Fighter | 7.00% | ~24,154 |
-| Friendly Gestures | 7.00% | ~24,154 |
-| People Person | 7.00% | ~24,154 |
+| Beating the Heat | 11.00% | ~37,958 |
+| Booze Baron | 11.00% | ~37,958 |
+| Friends on the Force | 10.00% | ~34,507 |
+| Neighborhood Watch | 10.00% | ~34,507 |
+| Core Corps | 8.00% | ~27,606 |
+| Sizeable Stash | 8.00% | ~27,606 |
+| Street Fighter | 7.00% | ~24,155 |
+| Friendly Gestures | 7.00% | ~24,155 |
+| People Person | 7.00% | ~24,155 |
 | Liquor Lord | 6.00% | ~20,704 |
 | Safety in Numbers | 6.00% | ~20,704 |
 | Moving Experiences | 6.00% | ~20,704 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 824)
 | High Pillow | 0.10% | ~345 |
 | Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,063 (Ranked 43)  
+Progressed: 345,069 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 7 (0.00%) (Ranked 293)
 | 2023-09-23 | 344,675 | 7 |
 | 2023-09-24 | 344,858 | 7 |
 | 2023-09-25 | 345,000 | 7 |
-| 2023-09-26 | 345,063 | 7 |
+| 2023-09-26 | 345,069 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 444)  
 Sum: 196 (Ranked 380)  

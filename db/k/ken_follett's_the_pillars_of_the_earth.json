@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 551,
   "Ranking_Popularity": 303,
-  "Ranking_PopularitySum": 384,
+  "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 141,
@@ -499,18 +499,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 192,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2023-09-26T12:00:19.7408961+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 193,
+      "NumberOfAwardsMax": 151
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 192,
-  "NumberOfAwardsMax": 150,
+  "NumberOfAwards": 193,
+  "NumberOfAwardsMax": 151,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 150
+      "Count": 151
     },
     {
       "Text": "In this game, your choices Impact the Story",
@@ -519,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15411,
+  "EOS_Progressed": 15412,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
@@ -10869,6 +10875,11 @@
       "Time": "2023-09-26T11:05:29.7181371+00:00",
       "NumProgressed": 15411,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-26T12:06:16.3136811+00:00",
+      "NumProgressed": 15412,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10984,7 +10995,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4623
+      "UsersEstimate": 4624
     },
     {
       "ID": "tpote_achievement_22",
@@ -11024,7 +11035,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "tpote_achievement_27",
@@ -11144,7 +11155,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6165
     },
     {
       "ID": "tpote_achievement_40",
@@ -11192,7 +11203,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "tpote_achievement_9",
@@ -11207,15 +11218,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15411,
+      "Progressed": 15412,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2023-09-24T23:58:24.5918651+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:05:29.7181366+00:00",
+  "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:06:16.3136807+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-26T10:59:39.4650463+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:05:29.7182686+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:00:19.7408964+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:06:16.3137567+00:00"
 }

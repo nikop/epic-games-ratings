@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232532,
+  "EOS_Progressed": 232534,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
@@ -17058,6 +17058,11 @@
       "Time": "2023-09-26T11:08:17.9351916+00:00",
       "NumProgressed": 232532,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-26T12:09:09.5374179+00:00",
+      "NumProgressed": 232534,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -17085,7 +17090,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65109
+      "UsersEstimate": 65110
     },
     {
       "ID": "CENTAUR",
@@ -17157,7 +17162,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46506
+      "UsersEstimate": 46507
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -17333,22 +17338,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95338
+      "UsersEstimate": 95339
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232532,
+      "Progressed": 232534,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:08:17.9351911+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:09:09.5374173+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:50.3170305+00:00",
-  "LastUpdate_Ratings": "2023-09-26T10:57:24.8885524+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:08:17.9353312+00:00"
+  "LastUpdate_Ratings": "2023-09-26T11:57:47.6845498+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:09:09.5375156+00:00"
 }

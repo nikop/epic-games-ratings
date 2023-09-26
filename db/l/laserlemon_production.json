@@ -3,7 +3,7 @@
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": null,
@@ -116,9 +116,9 @@
       "ID": "FunAndGamesAhead",
       "SetID": "c36hpcf",
       "Name": "Fun and Games Ahead",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Glissando",
@@ -188,9 +188,9 @@
       "ID": "NotAlone",
       "SetID": "c36hpcf",
       "Name": "Not Alone",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Rascal",
@@ -204,9 +204,9 @@
       "ID": "SoClose",
       "SetID": "c36hpcf",
       "Name": "So Close",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheGuestArea",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:04:39.2558151+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:05:21.5548601+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:00:26.1969224+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:04:39.2558322+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:01:07.796045+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:05:21.5548726+00:00"
 }

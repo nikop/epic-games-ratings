@@ -662,9 +662,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "BRING_PROSPERO",
@@ -702,9 +702,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -758,9 +758,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -813,8 +813,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:04:50.7942831+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:05:33.9894535+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:00:57.70836+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:04:50.7943038+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:01:42.2198777+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:05:33.9894681+00:00"
 }

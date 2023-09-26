@@ -33,25 +33,25 @@ Rating: 4.54 (Ranked 508)
 | I Am the Resurrection | 1.00% | ~6,865 |
 | Down with the Sickness | 1.00% | ~6,865 |
 | Our True Nature | 1.00% | ~6,865 |
-| Max Headroom | 0.90% | ~6,178 |
+| Max Headroom | 0.90% | ~6,179 |
 | Go, Bobcats! | 0.80% | ~5,492 |
 | Rising Star | 0.80% | ~5,492 |
-| Jumbo Keyring | 0.70% | ~4,805 |
+| Jumbo Keyring | 0.70% | ~4,806 |
 | Smorgasbord | 0.60% | ~4,119 |
 | Internet Famous | 0.60% | ~4,119 |
-| On Safari | 0.50% | ~3,432 |
-| Not Even My Final Form | 0.50% | ~3,432 |
-| Variety is the Spice of Death | 0.50% | ~3,432 |
+| On Safari | 0.50% | ~3,433 |
+| Not Even My Final Form | 0.50% | ~3,433 |
+| Variety is the Spice of Death | 0.50% | ~3,433 |
 | Make it So | 0.40% | ~2,746 |
 | LA Influential | 0.40% | ~2,746 |
 | Gore Horse | 0.40% | ~2,746 |
-| Sole Survivor | 0.30% | ~2,059 |
-| Sharpest Tool in the Box | 0.30% | ~2,059 |
-| Survival Skills | 0.30% | ~2,059 |
-| Donk! | 0.10% | ~686 |
-| Bucket List | 0.10% | ~686 |
+| Sole Survivor | 0.30% | ~2,060 |
+| Sharpest Tool in the Box | 0.30% | ~2,060 |
+| Survival Skills | 0.30% | ~2,060 |
+| Donk! | 0.10% | ~687 |
+| Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,494 (Ranked 22)  
+Progressed: 686,516 (Ranked 22)  
 Completed: 2,175 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 2,175 (0.32%) (Ranked 187)
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
-| 2023-09-26 | 686,494 | 2,175 |
+| 2023-09-26 | 686,516 | 2,175 |
 ## Awards
 Max (Great Boss Battles): 6,204  (Ranked 57)  
-Sum: 9,233 (Ranked 92)  
+Sum: 9,237 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -223,7 +223,7 @@ Diff (max vs sum): -35
 | This game has Quickly Understood Controls | 406 |
 | This game is Relaxing | 387 |
 | This game has Amazing Storytelling | 360 |
-| This game is Extremely Fun | 347 |
+| This game is Extremely Fun | 351 |
 | This game is Highly Recommended | 342 |
 | This game has Amazing Characters | 336 |
 ## Ratings History
@@ -387,4 +387,4 @@ Diff (max vs sum): -35
 | 2023-09-23 | 4.54 | 6,175 | 9,178 |
 | 2023-09-24 | 4.54 | 6,188 | 9,207 |
 | 2023-09-25 | 4.54 | 6,204 | 9,227 |
-| 2023-09-26 | 4.54 | 6,204 | 9,233 |
+| 2023-09-26 | 4.54 | 6,204 | 9,237 |

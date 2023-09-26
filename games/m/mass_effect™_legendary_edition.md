@@ -39,10 +39,10 @@
 | Completionist | 37.00% | ~143 |
 | Missing in Action | 37.00% | ~143 |
 | The Convict | 36.00% | ~139 |
+| Colony Defense | 35.00% | ~135 |
 | The Archangel | 35.00% | ~135 |
 | The Krogan | 35.00% | ~135 |
 | The Professor | 35.00% | ~135 |
-| Colony Defense | 34.00% | ~132 |
 | Galactic Explorer | 34.00% | ~132 |
 | Broke, Blind, and Bedlam | 33.00% | ~128 |
 | Ghost Ship | 31.00% | ~120 |
@@ -82,11 +82,11 @@
 | Liberator | 23.00% | ~89 |
 | World Shaker | 22.00% | ~85 |
 | Savior | 21.00% | ~81 |
+| Tunnel Rat | 20.00% | ~77 |
 | Lost and Found | 20.00% | ~77 |
 | Paramour II | 19.00% | ~74 |
 | No One Left Behind | 19.00% | ~74 |
 | Pathfinder | 19.00% | ~74 |
-| Tunnel Rat | 19.00% | ~74 |
 | Arbiter | 18.00% | ~70 |
 | Pyromaniac | 17.00% | ~66 |
 | Electronics Specialist | 17.00% | ~66 |

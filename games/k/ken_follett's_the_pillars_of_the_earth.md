@@ -6,16 +6,16 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,164 |
+| Tattletale | 40.00% | ~6,165 |
 | Man of politics | 35.00% | ~5,394 |
 | Friends of sorts | 33.00% | ~5,086 |
 | Yet another secret | 33.00% | ~5,086 |
 | Let there be darkness | 32.00% | ~4,932 |
-| End of Book One | 30.00% | ~4,623 |
+| End of Book One | 30.00% | ~4,624 |
 | Garden of Eden | 24.00% | ~3,699 |
 | Full house | 24.00% | ~3,699 |
 | Wannabe knight | 23.00% | ~3,545 |
-| Help an old friend | 22.00% | ~3,390 |
+| Help an old friend | 22.00% | ~3,391 |
 | Two of us | 20.00% | ~3,082 |
 | Negotiation skills | 18.00% | ~2,774 |
 | Workers' union | 18.00% | ~2,774 |
@@ -23,7 +23,7 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 17.00% | ~2,620 |
 | Twist of Fate | 14.00% | ~2,158 |
 | Jack was here! | 14.00% | ~2,158 |
-| Exterminator | 13.00% | ~2,003 |
+| Exterminator | 13.00% | ~2,004 |
 | Whodunnit | 12.00% | ~1,849 |
 | Good midwife | 11.00% | ~1,695 |
 | Friar Tuck | 11.00% | ~1,695 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~462 |
 | Boy of mystery | 2.00% | ~308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,411 (Ranked 128)  
+Progressed: 15,412 (Ranked 128)  
 Completed: 111 (0.72%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,14 +207,14 @@ Completed: 111 (0.72%) (Ranked 143)
 | 2023-09-23 | 15,370 | 111 |
 | 2023-09-24 | 15,387 | 111 |
 | 2023-09-25 | 15,404 | 111 |
-| 2023-09-26 | 15,411 | 111 |
+| 2023-09-26 | 15,412 | 111 |
 ## Awards
-Max (Easy Puzzles): 150  (Ranked 303)  
-Sum: 192 (Ranked 384)  
-Diff (max vs sum): -81  
+Max (Easy Puzzles): 151  (Ranked 303)  
+Sum: 193 (Ranked 383)  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 150 |
+| This game features Easy Puzzles | 151 |
 | In this game, your choices Impact the Story | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -305,3 +305,4 @@ Diff (max vs sum): -81
 | 2023-09-16 | 4.51 | - | 149 | 190 |
 | 2023-09-23 | 4.51 | - | 150 | 191 |
 | 2023-09-24 | 4.51 | - | 150 | 192 |
+| 2023-09-26 | 4.51 | - | 151 | 193 |

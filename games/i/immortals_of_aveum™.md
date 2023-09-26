@@ -12,8 +12,8 @@ Rating: 4.00 (Ranked 952)
 | No More Names | 59.00% | ~10 |
 | Initiate | 59.00% | ~10 |
 | Thrada-Kul | 47.00% | ~8 |
+| Soldier | 41.00% | ~7 |
 | Gravity-Challenged Rocks | 41.00% | ~7 |
-| Soldier | 35.00% | ~6 |
 | All the Major Food Groups | 29.00% | ~5 |
 | Beggars Would Ride | 24.00% | ~4 |
 | Control is an Illusion | 18.00% | ~3 |
@@ -27,6 +27,7 @@ Rating: 4.00 (Ranked 952)
 | Lights Army | 12.00% | ~2 |
 | Socialite | 12.00% | ~2 |
 | Periapt Alizarin | 12.00% | ~2 |
+| Veteran | 12.00% | ~2 |
 | Good Boy | 12.00% | ~2 |
 | Scholar | 6.00% | ~1 |
 | Best Dressed | 6.00% | ~1 |
@@ -34,7 +35,6 @@ Rating: 4.00 (Ranked 952)
 | Armaments Gules | 6.00% | ~1 |
 | Periapt Cerulean | 6.00% | ~1 |
 | Periapt Viridian | 6.00% | ~1 |
-| Veteran | 6.00% | ~1 |
 | Grand Magnus | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 952)
 | Fowl Play | 0.00% | ~0 |
 | Backtracker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 476)  
+Progressed: 17 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |

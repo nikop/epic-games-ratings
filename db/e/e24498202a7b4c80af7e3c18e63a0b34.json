@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-chase-2",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4780,
+  "EOS_Progressed": 4781,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1326,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1432,6 +1432,11 @@
       "Time": "2023-09-26T10:07:14.0530922+00:00",
       "NumProgressed": 4780,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-26T12:08:07.6226678+00:00",
+      "NumProgressed": 4781,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -1468,7 +1473,7 @@
       "Name": "Bzzzt",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "achievement_01_05",
@@ -1484,7 +1489,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "achievement_01_07",
@@ -1500,15 +1505,15 @@
       "Name": "Trophy Collector",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "achievement_01_09",
       "SetID": "4f1m94d",
       "Name": "Right Foot",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1912
     },
     {
       "ID": "achievement_01_10",
@@ -1556,7 +1561,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_02_06",
@@ -1596,7 +1601,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "achievement_03_03",
@@ -1692,7 +1697,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "achievement_04_04",
@@ -1724,7 +1729,7 @@
       "Name": "Nitro Saver",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "achievement_04_08",
@@ -1732,7 +1737,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "achievement_04_09",
@@ -1747,14 +1752,14 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 4780,
+      "Progressed": 4781,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:07:22.0781173+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:08:07.6226671+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:01:59.4456868+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:07:22.0781555+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:02:49.6539217+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:08:07.6226983+00:00"
 }

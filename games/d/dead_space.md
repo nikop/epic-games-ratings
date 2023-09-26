@@ -6,7 +6,7 @@ Rating: 4.61 (Ranked 371)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 94.00% | ~415 |
-| Welcome Aboard | 85.00% | ~375 |
+| Welcome Aboard | 86.00% | ~379 |
 | Lab Rat | 72.00% | ~318 |
 | All Systems Go | 63.00% | ~278 |
 | Brute Force | 61.00% | ~269 |
@@ -21,8 +21,8 @@ Rating: 4.61 (Ranked 371)
 | Exterminator | 42.00% | ~185 |
 | Full Arsenal | 39.00% | ~172 |
 | Live with the Hot Ones | 36.00% | ~159 |
+| S.O.S. | 35.00% | ~154 |
 | Get Off My Ship! | 34.00% | ~150 |
-| S.O.S. | 34.00% | ~150 |
 | Strange Transmissions | 33.00% | ~146 |
 | Wreckage | 32.00% | ~141 |
 | A Cut Above | 30.00% | ~132 |
@@ -33,7 +33,7 @@ Rating: 4.61 (Ranked 371)
 | Front Toward Enemy | 27.00% | ~119 |
 | Exodus | 25.00% | ~110 |
 | Mindless Prey | 25.00% | ~110 |
-| Whole Again | 21.00% | ~93 |
+| Whole Again | 22.00% | ~97 |
 | Set A Benchmark | 20.00% | ~88 |
 | Full Contact | 20.00% | ~88 |
 | Final Regeneration | 18.00% | ~79 |

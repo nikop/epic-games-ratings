@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~517 |
 | ''I've never seen a real one!'' | 0.90% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,743 (Ranked 94)  
+Progressed: 51,743 (Ranked 95)  
 Completed: 235 (0.45%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |

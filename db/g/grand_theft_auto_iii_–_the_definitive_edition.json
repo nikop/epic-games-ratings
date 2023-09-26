@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -484,7 +484,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8092,
+  "EOS_Progressed": 8093,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
@@ -9214,6 +9214,11 @@
       "Time": "2023-09-26T11:05:36.7409208+00:00",
       "NumProgressed": 8092,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-26T12:06:24.0295185+00:00",
+      "NumProgressed": 8093,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 29,
@@ -9225,7 +9230,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6716
+      "UsersEstimate": 6717
     },
     {
       "ID": "ACH02",
@@ -9233,7 +9238,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "ACH03",
@@ -9369,7 +9374,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH20",
@@ -9456,7 +9461,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8092,
+      "Progressed": 8093,
       "Completed": 52
     }
   ],
@@ -9464,8 +9469,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:05:36.7409197+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:06:24.0295181+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.067951+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:02:00.1582425+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:05:36.7410066+00:00"
+  "LastUpdate_Ratings": "2023-09-26T12:02:50.5188388+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:06:24.0295743+00:00"
 }

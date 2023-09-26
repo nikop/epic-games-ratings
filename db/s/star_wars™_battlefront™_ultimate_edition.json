@@ -676,9 +676,9 @@
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_33",
@@ -995,8 +995,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-26T11:06:27.6655827+00:00",
+  "LastChanged_Achievements": "2023-09-26T12:07:18.6402558+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-26T10:57:07.6081923+00:00",
-  "LastUpdate_Achievements": "2023-09-26T11:06:27.6656559+00:00"
+  "LastUpdate_Ratings": "2023-09-26T11:57:28.6842094+00:00",
+  "LastUpdate_Achievements": "2023-09-26T12:07:18.6403117+00:00"
 }
