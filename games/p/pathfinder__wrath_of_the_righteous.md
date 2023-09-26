@@ -28,11 +28,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~457 |
 | A Flame | 4.00% | ~457 |
 | Get the Toad | 4.00% | ~457 |
-| Heart of the Fallen Land | 3.00% | ~342 |
-| Path of the Trickster | 3.00% | ~342 |
-| Heroic Victory | 3.00% | ~342 |
-| Core of the Riddle | 3.00% | ~342 |
-| Hey, I Know You! | 3.00% | ~342 |
+| Heart of the Fallen Land | 3.00% | ~343 |
+| Path of the Trickster | 3.00% | ~343 |
+| Heroic Victory | 3.00% | ~343 |
+| Core of the Riddle | 3.00% | ~343 |
+| Hey, I Know You! | 3.00% | ~343 |
 | Hanged Man's Notes | 3.00% | ~306 |
 | The Lady of the Forest | 3.00% | ~306 |
 | Beware Still Water | 3.00% | ~306 |
@@ -55,7 +55,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.80% | ~91 |
 | Playful Mood | 0.70% | ~80 |
 | Dreadful Dragon | 0.70% | ~80 |
-| Masterful Charge | 0.60% | ~68 |
+| Masterful Charge | 0.60% | ~69 |
 | Prelate's Nemesis | 0.50% | ~57 |
 | Ashes to Ashes | 0.40% | ~46 |
 | Masterful Dispel | 0.30% | ~34 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,416 (Ranked 136)  
+Progressed: 11,417 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-23 | 11,390 | 0 |
 | 2023-09-24 | 11,395 | 0 |
 | 2023-09-25 | 11,408 | 0 |
-| 2023-09-26 | 11,416 | 0 |
+| 2023-09-26 | 11,417 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 119)  
 Sum: 6,963 (Ranked 115)  

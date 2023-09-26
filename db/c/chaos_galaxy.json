@@ -2,9 +2,9 @@
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
   "ProductSlug": "chaos-galaxy-a33dac",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -151,6 +151,11 @@
       "Time": "2023-09-26T20:04:40.1050228+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T22:04:37.8669099+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -208,7 +213,7 @@
       "ID": "15",
       "SetID": "4fgie3j",
       "Name": "Tyrant Rise",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -512,7 +517,7 @@
       "ID": "6",
       "SetID": "4fgie3j",
       "Name": "Honor Medal",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -545,14 +550,14 @@
     {
       "ID": "4fgie3j",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:05:00.8124788+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:04:37.8669092+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:23.3938503+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:59:50.3863918+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:05:00.8125274+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:59:44.4316458+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:04:37.8669551+00:00"
 }

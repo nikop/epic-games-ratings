@@ -6,12 +6,12 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,221 |
+| Lawbringer | 39.00% | ~24,222 |
 | Landlord | 33.00% | ~20,495 |
-| Bannerlord | 23.00% | ~14,284 |
-| Horde breaker | 23.00% | ~14,284 |
-| Lawmaker | 23.00% | ~14,284 |
-| Trained | 23.00% | ~14,284 |
+| Bannerlord | 23.00% | ~14,285 |
+| Horde breaker | 23.00% | ~14,285 |
+| Lawmaker | 23.00% | ~14,285 |
+| Trained | 23.00% | ~14,285 |
 | The king is pleased | 18.00% | ~11,179 |
 | King Solomon | 17.00% | ~10,558 |
 | I can do it | 16.00% | ~9,937 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,211 |
 | What have the Romans ever done for us? | 10.00% | ~6,211 |
 | I spit on your grave | 9.00% | ~5,590 |
-| Butterlord | 8.00% | ~4,968 |
+| Butterlord | 8.00% | ~4,969 |
 | Know your enemy | 7.00% | ~4,347 |
 | Mastery | 7.00% | ~4,347 |
 | Crush your enemies | 5.00% | ~3,105 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,106 (Ranked 90)  
+Progressed: 62,107 (Ranked 90)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,16 +217,16 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-23 | 61,879 | 0 |
 | 2023-09-24 | 61,963 | 0 |
 | 2023-09-25 | 62,040 | 0 |
-| 2023-09-26 | 62,106 | 0 |
+| 2023-09-26 | 62,107 | 0 |
 ## Awards
 Max (Character Customization): 7,135  (Ranked 51)  
-Sum: 14,596 (Ranked 68)  
+Sum: 14,598 (Ranked 68)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,135 |
 | This game is Great for Beginners | 982 |
-| This game has Diverse Characters | 925 |
+| This game has Diverse Characters | 927 |
 | This game is Highly Recommended | 877 |
 | This game is Extremely Fun | 839 |
 | This game has Amazing Storytelling | 823 |
@@ -493,4 +493,4 @@ Diff (max vs sum): -17
 | 2023-09-23 | 4.74 | - | 7,124 | 14,565 |
 | 2023-09-24 | 4.74 | - | 7,128 | 14,574 |
 | 2023-09-25 | 4.74 | - | 7,135 | 14,591 |
-| 2023-09-26 | 4.74 | - | 7,135 | 14,596 |
+| 2023-09-26 | 4.74 | - | 7,135 | 14,598 |

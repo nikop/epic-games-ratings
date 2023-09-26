@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 54.00% | ~116 |
-| Welcome to the Tower | 51.00% | ~110 |
-| The great escape | 46.00% | ~99 |
+| That's the spirit | 54.00% | ~117 |
+| Welcome to the Tower | 51.00% | ~111 |
+| The great escape | 46.00% | ~100 |
 | The Preacher's fate | 44.00% | ~95 |
-| A new dawn | 41.00% | ~88 |
-| Scholar | 39.00% | ~84 |
+| A new dawn | 41.00% | ~89 |
+| Scholar | 39.00% | ~85 |
 | The darkness | 38.00% | ~82 |
-| A good beginning | 37.00% | ~80 |
-| True G4M3R | 36.00% | ~77 |
-| One last step | 34.00% | ~73 |
-| Cable guy | 33.00% | ~71 |
-| Champollion | 32.00% | ~69 |
-| Half the way | 31.00% | ~67 |
-| Peace walker | 30.00% | ~64 |
-| In this together | 29.00% | ~62 |
-| Open door | 27.00% | ~58 |
-| Feels like springtime | 25.00% | ~54 |
+| A good beginning | 36.00% | ~78 |
+| True G4M3R | 35.00% | ~76 |
+| One last step | 34.00% | ~74 |
+| Cable guy | 32.00% | ~69 |
+| Champollion | 31.00% | ~67 |
+| Peace walker | 30.00% | ~65 |
+| Half the way | 30.00% | ~65 |
+| In this together | 29.00% | ~63 |
+| Open door | 26.00% | ~56 |
+| Feels like springtime | 24.00% | ~52 |
 | Rascal | 24.00% | ~52 |
-| Free at last | 23.00% | ~49 |
-| Alchemists Express | 23.00% | ~49 |
-| A Link to the Past | 19.00% | ~41 |
+| Free at last | 23.00% | ~50 |
+| Alchemists Express | 23.00% | ~50 |
 | I did it | 18.00% | ~39 |
-| A great audience | 15.00% | ~32 |
-| For its own good | 15.00% | ~32 |
-| Fashion victim | 13.00% | ~28 |
+| A Link to the Past | 18.00% | ~39 |
+| A great audience | 15.00% | ~33 |
+| For its own good | 15.00% | ~33 |
+| Fashion victim | 12.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 330)  
-Completed: 13 (6.05%) (Ranked 47)  
+Progressed: 217 (Ranked 329)  
+Completed: 13 (5.99%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,4 +99,4 @@ Completed: 13 (6.05%) (Ranked 47)
 | 2023-09-23 | 202 | 12 |
 | 2023-09-24 | 209 | 12 |
 | 2023-09-25 | 213 | 13 |
-| 2023-09-26 | 215 | 13 |
+| 2023-09-26 | 217 | 13 |

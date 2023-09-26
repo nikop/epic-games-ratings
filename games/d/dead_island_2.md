@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,603 |
-| Welcome To Hell-A | 3.00% | ~20,603 |
-| Dr. Reed, I Presume? | 2.00% | ~13,735 |
-| Git Gutte! | 2.00% | ~13,735 |
-| Bookworm | 2.00% | ~13,735 |
-| Break A Leg | 2.00% | ~13,735 |
-| But Doctor, I am Butcho | 2.00% | ~13,735 |
-| Slayer Squad | 2.00% | ~13,735 |
-| Can't Handle the Truth | 2.00% | ~13,735 |
-| Coup de Grâce | 2.00% | ~13,735 |
-| Like Riding a Bike | 2.00% | ~13,735 |
-| Hazardous Materials | 2.00% | ~13,735 |
-| Friends Like These | 2.00% | ~13,735 |
-| Apex Predator | 2.00% | ~13,735 |
-| Zombologist | 2.00% | ~13,735 |
-| A Patton Emerges | 2.00% | ~13,735 |
-| Stacking the Deck | 2.00% | ~13,735 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,735 |
-| This is My Weapon | 2.00% | ~13,735 |
+| Hotel California | 3.00% | ~20,604 |
+| Welcome To Hell-A | 3.00% | ~20,604 |
+| Dr. Reed, I Presume? | 2.00% | ~13,736 |
+| Git Gutte! | 2.00% | ~13,736 |
+| Bookworm | 2.00% | ~13,736 |
+| Break A Leg | 2.00% | ~13,736 |
+| But Doctor, I am Butcho | 2.00% | ~13,736 |
+| Slayer Squad | 2.00% | ~13,736 |
+| Can't Handle the Truth | 2.00% | ~13,736 |
+| Coup de Grâce | 2.00% | ~13,736 |
+| Like Riding a Bike | 2.00% | ~13,736 |
+| Hazardous Materials | 2.00% | ~13,736 |
+| Friends Like These | 2.00% | ~13,736 |
+| Apex Predator | 2.00% | ~13,736 |
+| Zombologist | 2.00% | ~13,736 |
+| A Patton Emerges | 2.00% | ~13,736 |
+| Stacking the Deck | 2.00% | ~13,736 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,736 |
+| This is My Weapon | 2.00% | ~13,736 |
 | Making Your Mark | 1.00% | ~6,868 |
 | Anger Management | 1.00% | ~6,868 |
 | Perks of the Job | 1.00% | ~6,868 |
@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 510)
 | Max Headroom | 0.90% | ~6,181 |
 | Go, Bobcats! | 0.80% | ~5,494 |
 | Rising Star | 0.80% | ~5,494 |
-| Smorgasbord | 0.70% | ~4,807 |
-| Jumbo Keyring | 0.70% | ~4,807 |
+| Smorgasbord | 0.70% | ~4,808 |
+| Jumbo Keyring | 0.70% | ~4,808 |
 | Internet Famous | 0.60% | ~4,121 |
 | Make it So | 0.50% | ~3,434 |
 | On Safari | 0.50% | ~3,434 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,764 (Ranked 22)  
+Progressed: 686,788 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
-| 2023-09-26 | 686,764 | 2,176 |
+| 2023-09-26 | 686,788 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,217  (Ranked 57)  
 Sum: 9,252 (Ranked 92)  

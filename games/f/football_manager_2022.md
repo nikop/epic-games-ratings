@@ -6,25 +6,25 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,884 |
-| He's Signed! | 50.00% | ~236,884 |
-| First Victory | 50.00% | ~236,884 |
-| He's Sold! | 48.00% | ~227,409 |
+| Clean Sheet | 50.00% | ~236,885 |
+| He's Signed! | 50.00% | ~236,885 |
+| First Victory | 50.00% | ~236,885 |
+| He's Sold! | 48.00% | ~227,410 |
 | I'm The Boss! | 42.00% | ~198,983 |
-| Hat-trick | 41.00% | ~194,245 |
-| Scoring Streak | 38.00% | ~180,032 |
+| Hat-trick | 41.00% | ~194,246 |
+| Scoring Streak | 38.00% | ~180,033 |
 | Unbeatable! | 37.00% | ~175,295 |
 | Thumping | 37.00% | ~175,295 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,819 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,820 |
 | Total Support | 32.00% | ~151,606 |
 | Record Signing | 32.00% | ~151,606 |
-| He's a Natural | 31.00% | ~146,868 |
-| Millionaire's Club | 31.00% | ~146,868 |
+| He's a Natural | 31.00% | ~146,869 |
+| Millionaire's Club | 31.00% | ~146,869 |
 | Team Performance | 30.00% | ~142,131 |
 | Parked The Bus | 29.00% | ~137,393 |
 | Shrewd Spender | 29.00% | ~137,393 |
 | Star Man | 29.00% | ~137,393 |
-| Attack! | 28.00% | ~132,655 |
+| Attack! | 28.00% | ~132,656 |
 | Tremendous Trio | 27.00% | ~127,918 |
 | Record Sale | 27.00% | ~127,918 |
 | You're On Fire | 26.00% | ~123,180 |
@@ -47,9 +47,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Top Form | 17.00% | ~80,541 |
 | Cash To Burn | 17.00% | ~80,541 |
 | Overachiever! | 16.00% | ~75,803 |
-| Beating Expectations | 15.00% | ~71,065 |
-| Rushed signing | 15.00% | ~71,065 |
-| Window Shopping | 15.00% | ~71,065 |
+| Beating Expectations | 15.00% | ~71,066 |
+| Rushed signing | 15.00% | ~71,066 |
+| Window Shopping | 15.00% | ~71,066 |
 | Eyes and Ears | 14.00% | ~66,328 |
 | Comeback King! | 14.00% | ~66,328 |
 | You're Up! | 13.00% | ~61,590 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,769 (Ranked 36)  
+Progressed: 473,770 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 21 (0.00%) (Ranked 294)
 | 2023-09-23 | 473,627 | 21 |
 | 2023-09-24 | 473,686 | 21 |
 | 2023-09-25 | 473,723 | 21 |
-| 2023-09-26 | 473,769 | 21 |
+| 2023-09-26 | 473,770 | 21 |
 ## Awards
 Max (Relaxing): 6,453  (Ranked 54)  
-Sum: 50,786 (Ranked 26)  
+Sum: 50,788 (Ranked 26)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -277,7 +277,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 5,870 |
 | This game is Highly Recommended | 5,861 |
 | This game is Educational | 5,852 |
-| This game has Diverse Characters | 5,531 |
+| This game has Diverse Characters | 5,533 |
 | This game has Amazing Storytelling | 4,911 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,373 |
@@ -528,4 +528,4 @@ Diff (max vs sum): 28
 | 2023-09-23 | 4.80 | - | 6,453 | 50,774 |
 | 2023-09-24 | 4.80 | - | 6,453 | 50,779 |
 | 2023-09-25 | 4.80 | - | 6,453 | 50,784 |
-| 2023-09-26 | 4.80 | - | 6,453 | 50,786 |
+| 2023-09-26 | 4.80 | - | 6,453 | 50,788 |

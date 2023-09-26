@@ -24,13 +24,13 @@ Rating: 3.94 (Ranked 969)
 | Legend Looter | 0.20% | ~177 |
 | Imports and Exports | 0.20% | ~177 |
 | I Like Trains | 0.20% | ~177 |
+| Foo Finder | 0.20% | ~177 |
 | Freebooter | 0.20% | ~177 |
 | Headhunter | 0.20% | ~177 |
 | Moneybags | 0.20% | ~177 |
 | Rockay Raider | 0.10% | ~88 |
 | Rockay Knight | 0.10% | ~88 |
 | Savvy Seeker | 0.10% | ~88 |
-| Foo Finder | 0.10% | ~88 |
 | Privateer | 0.10% | ~88 |
 | Talent Scout | 0.10% | ~88 |
 | Full House | 0.10% | ~88 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 969)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,364 (Ranked 78)  
+Progressed: 88,367 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 46 (0.05%) (Ranked 253)
 | 2023-09-23 | 88,195 | 46 |
 | 2023-09-24 | 88,263 | 46 |
 | 2023-09-25 | 88,338 | 46 |
-| 2023-09-26 | 88,364 | 46 |
+| 2023-09-26 | 88,367 | 46 |
 ## Awards
 Max (Diverse Characters): 460  (Ranked 205)  
 Sum: 2,201 (Ranked 196)  

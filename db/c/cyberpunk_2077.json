@@ -12453,10 +12453,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 225487,
       "NumberOfAwardsMax": 82928
+    },
+    {
+      "Time": "2023-09-26T21:57:28.290875+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 225796,
+      "NumberOfAwardsMax": 82928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 225487,
+  "NumberOfAwards": 225796,
   "NumberOfAwardsMax": 82928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12518,7 +12524,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 9900
+      "Count": 10209
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12533,9 +12539,9 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882459,
+  "EOS_Progressed": 882495,
   "EOS_Completed": 2419,
-  "EOS_NewPlayers": 5310,
+  "EOS_NewPlayers": 5337,
   "EOS_NewCompleters": 299,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30423,6 +30429,11 @@
       "Time": "2023-09-26T21:08:00.8261144+00:00",
       "NumProgressed": 882459,
       "NumCompleted": 2419
+    },
+    {
+      "Time": "2023-09-26T22:07:39.8949518+00:00",
+      "NumProgressed": 882495,
+      "NumCompleted": 2419
     }
   ],
   "TotalAchievements": 57,
@@ -30552,9 +30563,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1765
     },
     {
       "ID": "MaxPain",
@@ -30616,9 +30627,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7942
     },
     {
       "ID": "Temperance",
@@ -30656,9 +30667,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3530
     },
     {
       "ID": "TheHightPriestess",
@@ -30889,21 +30900,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882459,
+      "Progressed": 882495,
       "Completed": 2419
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11082,
+      "Progressed": 11118,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-26T20:57:31.1145482+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:08:00.8261139+00:00",
+  "LastChanged": "2023-09-26T21:57:28.2908748+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:07:39.8949514+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:57:31.1145492+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:08:00.8263151+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:57:28.2908756+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:07:39.8951618+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1839,9 +1839,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 328
     },
     {
       "ID": "DevilRope",
@@ -2007,9 +2007,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 260
     },
     {
       "ID": "RogueEat",
@@ -2102,8 +2102,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:10:01.2472332+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:09:40.6840005+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:02:07.1107158+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:10:01.2472801+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:01:54.1494229+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:09:40.6840744+00:00"
 }

@@ -22,8 +22,8 @@
 | Medal of Exploration III | 52.00% | ~210 |
 | Asari Ally | 51.00% | ~206 |
 | Principled | 51.00% | ~206 |
+| Soldier Ally | 49.00% | ~198 |
 | Colonial Savior | 49.00% | ~198 |
-| Soldier Ally | 48.00% | ~194 |
 | Sentinel Ally | 46.00% | ~186 |
 | Krogan Ally | 45.00% | ~182 |
 | Paramour I | 44.00% | ~178 |
@@ -61,13 +61,13 @@
 | Revenge! | 29.00% | ~117 |
 | Heart of Darkness | 29.00% | ~117 |
 | Driven | 29.00% | ~117 |
+| Cat's in the Cradle | 28.00% | ~113 |
 | Agent | 28.00% | ~113 |
+| Bringer of War | 28.00% | ~113 |
 | Focused | 27.00% | ~109 |
-| Cat's in the Cradle | 27.00% | ~109 |
 | Doppelganger | 27.00% | ~109 |
 | Treason | 27.00% | ~109 |
 | Digital Exorcist | 27.00% | ~109 |
-| Bringer of War | 27.00% | ~109 |
 | First Aid Specialist | 26.00% | ~105 |
 | Friend or Foe | 25.00% | ~101 |
 | Mobilizer | 25.00% | ~101 |
@@ -75,13 +75,13 @@
 | Eye of the Hurricane | 24.00% | ~97 |
 | Suicide Mission | 24.00% | ~97 |
 | Weapon Specialist | 24.00% | ~97 |
+| Giant Killer | 23.00% | ~93 |
 | Mission Accomplished | 23.00% | ~93 |
 | Against All Odds | 23.00% | ~93 |
 | A House Divided | 23.00% | ~93 |
-| Giant Killer | 22.00% | ~89 |
+| Savior | 22.00% | ~89 |
 | World Shaker | 22.00% | ~89 |
 | Liberator | 22.00% | ~89 |
-| Savior | 21.00% | ~85 |
 | Tunnel Rat | 20.00% | ~81 |
 | Paramour II | 19.00% | ~77 |
 | No One Left Behind | 19.00% | ~77 |

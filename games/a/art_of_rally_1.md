@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,847 |
-| keep it tidy | 77.00% | ~7,898 |
-| podium | 72.00% | ~7,385 |
-| medium attack | 60.00% | ~6,154 |
-| brail | 57.00% | ~5,846 |
+| light attack | 96.00% | ~9,848 |
+| keep it tidy | 77.00% | ~7,899 |
+| podium | 72.00% | ~7,386 |
+| medium attack | 60.00% | ~6,155 |
+| brail | 57.00% | ~5,847 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,308 |
 | grocery-getter | 40.00% | ~4,103 |
 | rwd only | 26.00% | ~2,667 |
@@ -18,15 +18,15 @@ Number of Ratings: 56  (23.09.2022)
 | to finish first, first you must finish | 21.00% | ~2,154 |
 | autopilot | 21.00% | ~2,154 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,154 |
-| turbo | 20.00% | ~2,051 |
+| turbo | 20.00% | ~2,052 |
 | food tour: pretzel | 19.00% | ~1,949 |
 | bicycle race | 15.00% | ~1,539 |
 | car wash | 15.00% | ~1,539 |
 | monster | 14.00% | ~1,436 |
 | the artist | 14.00% | ~1,436 |
-| perkele | 13.00% | ~1,333 |
-| night ride | 13.00% | ~1,333 |
-| snorkel | 13.00% | ~1,333 |
+| perkele | 13.00% | ~1,334 |
+| night ride | 13.00% | ~1,334 |
+| snorkel | 13.00% | ~1,334 |
 | where is the stage? | 12.00% | ~1,231 |
 | maximum attack | 11.00% | ~1,128 |
 | espresso | 10.00% | ~1,026 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,257 (Ranked 139)  
+Progressed: 10,258 (Ranked 139)  
 Completed: 9 (0.09%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 9 (0.09%) (Ranked 238)
 | 2023-09-23 | 10,253 | 9 |
 | 2023-09-24 | 10,255 | 9 |
 | 2023-09-25 | 10,256 | 9 |
-| 2023-09-26 | 10,257 | 9 |
+| 2023-09-26 | 10,258 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

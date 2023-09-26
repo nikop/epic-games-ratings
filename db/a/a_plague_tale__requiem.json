@@ -390,18 +390,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 646,
       "NumberOfAwardsMax": 421
+    },
+    {
+      "Time": "2023-09-26T21:59:35.5377057+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 647,
+      "NumberOfAwardsMax": 422
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 646,
-  "NumberOfAwardsMax": 421,
+  "NumberOfAwards": 647,
+  "NumberOfAwardsMax": 422,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 421
+      "Count": 422
     },
     {
       "Text": "This game is Great for Beginners",
@@ -458,7 +464,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13324,
+  "EOS_Progressed": 13325,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
@@ -9113,6 +9119,11 @@
       "Time": "2023-09-26T20:07:14.3980354+00:00",
       "NumProgressed": 13324,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-26T22:07:23.7485023+00:00",
+      "NumProgressed": 13325,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -9124,7 +9135,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12258
+      "UsersEstimate": 12259
     },
     {
       "ID": "ACH_02",
@@ -9132,7 +9143,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10526
+      "UsersEstimate": 10527
     },
     {
       "ID": "ACH_03",
@@ -9148,7 +9159,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9327
+      "UsersEstimate": 9328
     },
     {
       "ID": "ACH_05",
@@ -9156,7 +9167,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9060
+      "UsersEstimate": 9061
     },
     {
       "ID": "ACH_06",
@@ -9172,7 +9183,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8261
+      "UsersEstimate": 8262
     },
     {
       "ID": "ACH_08",
@@ -9196,7 +9207,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6928
+      "UsersEstimate": 6929
     },
     {
       "ID": "ACH_11",
@@ -9212,7 +9223,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6129
+      "UsersEstimate": 6130
     },
     {
       "ID": "ACH_13",
@@ -9220,7 +9231,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "ACH_14",
@@ -9300,7 +9311,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3597
+      "UsersEstimate": 3598
     },
     {
       "ID": "ACH_24",
@@ -9316,7 +9327,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "ACH_26",
@@ -9332,7 +9343,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5730
     },
     {
       "ID": "ACH_28",
@@ -9340,7 +9351,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9060
+      "UsersEstimate": 9061
     },
     {
       "ID": "ACH_29",
@@ -9372,7 +9383,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "ACH_33",
@@ -9403,16 +9414,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13324,
+      "Progressed": 13325,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-09-24T21:58:12.3326453+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:07:44.8246466+00:00",
+  "LastChanged": "2023-09-26T21:59:35.5377055+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:07:23.7485019+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:59:45.5020343+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:07:44.8247453+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:59:35.5377061+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:07:23.7486892+00:00"
 }

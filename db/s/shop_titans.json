@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6194,10 +6194,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27294,
       "NumberOfAwardsMax": 4758
+    },
+    {
+      "Time": "2023-09-26T21:57:41.1515036+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27295,
+      "NumberOfAwardsMax": 4758
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27294,
+  "NumberOfAwards": 27295,
   "NumberOfAwardsMax": 4758,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6241,7 +6247,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3178
+      "Count": 3179
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6250,7 +6256,7 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136743,
+  "EOS_Progressed": 136744,
   "EOS_Completed": 156,
   "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 3,
@@ -22610,6 +22616,11 @@
       "Time": "2023-09-26T21:08:28.2471572+00:00",
       "NumProgressed": 136743,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-09-26T22:08:07.5576079+00:00",
+      "NumProgressed": 136744,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 112,
@@ -23516,15 +23527,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136743,
+      "Progressed": 136744,
       "Completed": 156
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-26T15:57:28.6976034+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:08:28.2471565+00:00",
+  "LastChanged": "2023-09-26T21:57:41.1515035+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:08:07.5576074+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:57:41.9140893+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:08:28.2474408+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:57:41.1515042+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:08:07.5578401+00:00"
 }

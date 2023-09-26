@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -759,9 +759,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_111",
@@ -791,9 +791,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_115",
@@ -1007,9 +1007,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_25",
@@ -1263,9 +1263,9 @@
       "ID": "achievement_53",
       "SetID": "d252ncf",
       "Name": "Cat\u0027s in the Cradle",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_54",
@@ -1503,9 +1503,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_81",
@@ -1683,8 +1683,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:07:16.607118+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:06:55.5412318+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:01:48.7706444+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:07:16.607357+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:01:36.3676629+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:06:55.5414545+00:00"
 }

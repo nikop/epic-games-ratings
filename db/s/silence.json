@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -429,9 +429,9 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -598,8 +598,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:09:44.5968009+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:09:23.9557968+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:44.1627709+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:00:38.7199222+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:09:44.5968519+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:00:26.9803017+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:09:23.9558293+00:00"
 }

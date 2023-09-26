@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:06:15.6007725+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:05:53.9073847+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.4960842+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:02:22.8417233+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:06:15.6007935+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:02:11.6602722+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:05:53.9074068+00:00"
 }

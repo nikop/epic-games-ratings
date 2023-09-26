@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40602,
+  "EOS_Progressed": 40604,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18569,6 +18569,11 @@
       "Time": "2023-09-26T21:08:31.6055558+00:00",
       "NumProgressed": 40602,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-26T22:08:10.8532432+00:00",
+      "NumProgressed": 40604,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18700,7 +18705,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6902
+      "UsersEstimate": 6903
     },
     {
       "ID": "novice",
@@ -18708,7 +18713,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "playerFelipe",
@@ -18844,7 +18849,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6090
+      "UsersEstimate": 6091
     },
     {
       "ID": "unlockpaz",
@@ -18891,15 +18896,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40602,
+      "Progressed": 40604,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:08:31.6055552+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:08:10.8532429+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:58:51.1549999+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:08:31.6056915+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:58:43.8694484+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:08:10.8534399+00:00"
 }

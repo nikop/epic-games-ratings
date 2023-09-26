@@ -7375,10 +7375,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14596,
       "NumberOfAwardsMax": 7135
+    },
+    {
+      "Time": "2023-09-26T22:04:22.3931476+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14598,
+      "NumberOfAwardsMax": 7135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14596,
+  "NumberOfAwards": 14598,
   "NumberOfAwardsMax": 7135,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7434,7 +7440,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 925
+      "Count": 927
     },
     {
       "Text": "This game is Relaxing",
@@ -7455,9 +7461,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62106,
+  "EOS_Progressed": 62107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24360,6 +24366,11 @@
       "Time": "2023-09-26T21:06:56.7720863+00:00",
       "NumProgressed": 62106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T22:06:35.5152689+00:00",
+      "NumProgressed": 62107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24387,7 +24398,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "Best served cold",
@@ -24411,7 +24422,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4968
+      "UsersEstimate": 4969
     },
     {
       "ID": "Catch",
@@ -24531,7 +24542,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "I can do it",
@@ -24603,7 +24614,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24221
+      "UsersEstimate": 24222
     },
     {
       "ID": "Lawmaker",
@@ -24611,7 +24622,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "Long live the Empire",
@@ -24747,7 +24758,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "Undercover",
@@ -24778,15 +24789,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62106,
+      "Progressed": 62107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-26T21:04:44.3478468+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:06:56.7720856+00:00",
+  "LastChanged": "2023-09-26T22:04:22.3931474+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:06:35.5152683+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:04:44.3478475+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:06:56.7722893+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:04:22.3931483+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:06:35.5154586+00:00"
 }

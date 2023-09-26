@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 24.51,
+  "EOS_Completed_Percentage": 24.42,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1316,6 +1316,11 @@
       "Time": "2023-09-26T21:07:03.725987+00:00",
       "NumProgressed": 257,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-09-26T22:06:42.4959106+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1328,7 +1333,7 @@
       "Name": "Safe Cracker",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Batteries",
@@ -1336,23 +1341,23 @@
       "Name": "Batteries",
       "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "FirstBox",
@@ -1360,7 +1365,7 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Floppy",
@@ -1368,15 +1373,15 @@
       "Name": "Additional Data",
       "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 221
+      "UsersEstimate": 219
     },
     {
       "ID": "GameComplete",
@@ -1392,7 +1397,7 @@
       "Name": "Contract Termination",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "GasFound",
@@ -1408,7 +1413,7 @@
       "Name": "Holographic Scanner",
       "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Screwdriver",
@@ -1416,7 +1421,7 @@
       "Name": "Screwdriver",
       "Percentage": 74,
       "XP": 70,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "SecretRoom",
@@ -1439,14 +1444,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-26T21:07:03.7259861+00:00",
+  "LastChanged_Achievements": "2023-09-26T22:06:42.4959102+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.4954104+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:01:55.6737055+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:07:03.7260113+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:01:44.4179263+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:06:42.4959328+00:00"
 }

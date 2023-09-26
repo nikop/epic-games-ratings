@@ -2,7 +2,7 @@
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 638,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 687,
   "RatingHistory": [
     {
@@ -1025,6 +1025,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 439,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-09-26T22:00:41.6606035+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 439,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
@@ -1116,8 +1122,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-09-24T21:59:03.9148644+00:00",
+  "LastChanged": "2023-09-26T22:00:41.6606033+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:03.4940532+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:00:56.9905895+00:00",
-  "LastUpdate_Achievements": "2023-09-26T21:10:29.8024887+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:00:41.660604+00:00",
+  "LastUpdate_Achievements": "2023-09-26T22:10:08.8191763+00:00"
 }
