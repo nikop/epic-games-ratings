@@ -48,7 +48,7 @@ Rating: 4.85 (Ranked 43)
 | First we parry, then we counter | 1.00% | ~41 |
 | I hit things with a guitar really well. | 1.00% | ~41 |
 | You ever parry a volcano? | 0.80% | ~33 |
-| New bad guys? No problem! | 0.70% | ~18 |
+| New bad guys? No problem! | 0.80% | ~21 |
 | OK, well THEY came after ME! | 0.60% | ~25 |
 | Easy Listening | 0.50% | ~20 |
 | Choose your own adventure | 0.50% | ~13 |

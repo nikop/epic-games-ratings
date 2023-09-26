@@ -17,7 +17,7 @@
 | Light Sleepers | 15.00% | ~82 |
 | Smooth Criminal | 8.00% | ~44 |
 | Sore Loser | 7.00% | ~38 |
-| Interrogation | 5.00% | ~27 |
+| Interrogation | 6.00% | ~33 |
 | Crash and Burn | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 547 (Ranked 257)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10256,
+  "EOS_Progressed": 10257,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1566,6 +1566,11 @@
       "Time": "2023-09-25T10:03:35.1701282+00:00",
       "NumProgressed": 10256,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-26T15:05:30.1482189+00:00",
+      "NumProgressed": 10257,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1617,7 +1622,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1625,7 +1630,7 @@
       "Name": "car wash",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1681,7 +1686,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4102
+      "UsersEstimate": 4103
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1737,7 +1742,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7897
+      "UsersEstimate": 7898
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1801,7 +1806,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9846
+      "UsersEstimate": 9847
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1873,7 +1878,7 @@
       "Name": "mittens",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_TERMINAL_DAMAGE",
@@ -1881,7 +1886,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -1913,22 +1918,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7384
+      "UsersEstimate": 7385
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10256,
+      "Progressed": 10257,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:05:30.4834849+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:05:30.1482184+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.7566421+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:57:16.7722207+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:05:30.4835234+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:57:21.8944075+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:05:30.1482581+00:00"
 }

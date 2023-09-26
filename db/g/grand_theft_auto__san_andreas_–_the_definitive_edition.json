@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -986,18 +986,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 431,
       "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2023-09-26T14:59:29.3113575+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 435,
+      "NumberOfAwardsMax": 314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 431,
-  "NumberOfAwardsMax": 310,
+  "NumberOfAwards": 435,
+  "NumberOfAwardsMax": 314,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 310
+      "Count": 314
     },
     {
       "Text": "This game is Relaxing",
@@ -1030,9 +1036,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12919,
+  "EOS_Progressed": 12920,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -11635,6 +11641,11 @@
       "Time": "2023-09-26T14:04:26.8485867+00:00",
       "NumProgressed": 12919,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-26T15:04:29.9421279+00:00",
+      "NumProgressed": 12920,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -11646,7 +11657,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10464
+      "UsersEstimate": 10465
     },
     {
       "ID": "ACH02",
@@ -11742,7 +11753,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "ACH14",
@@ -11925,16 +11936,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12919,
+      "Progressed": 12920,
       "Completed": 47
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-25T05:58:00.4592712+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:04:26.8485861+00:00",
+  "LastChanged": "2023-09-26T14:59:29.3113573+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:04:29.9421274+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:59:25.0644127+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:04:26.8487176+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:59:29.3113579+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:04:29.9422056+00:00"
 }

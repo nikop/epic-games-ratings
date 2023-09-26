@@ -4,7 +4,7 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -1281,6 +1281,11 @@
       "Time": "2023-09-26T00:07:02.9797141+00:00",
       "NumProgressed": 623,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-09-26T15:08:45.8852715+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -1293,7 +1298,7 @@
       "Name": "Played!",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "Mission2",
@@ -1301,7 +1306,7 @@
       "Name": "Mission 1 clear",
       "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Mission3",
@@ -1332,14 +1337,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:08:57.6029522+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:08:45.8852705+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.1151943+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:01:38.9766978+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:08:57.6029701+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:01:44.8120219+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:08:45.8852833+00:00"
 }

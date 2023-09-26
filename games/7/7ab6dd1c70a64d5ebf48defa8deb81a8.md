@@ -4,44 +4,44 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shatter Them All | 0.00% | ~0 |
-| Clear Sight | -3.40% | ~-1 |
-| Forgemaster | -3.40% | ~-1 |
-| Shardbearer | -3.40% | ~-1 |
-| Shatterer | -3.40% | ~-1 |
-| Slayer | -3.40% | ~-1 |
-| Fine Feathers Make Fine Birds | -3.40% | ~-1 |
-| All There Is | -3.40% | ~-1 |
-| False God | -3.40% | ~-1 |
-| All That Gold | -3.40% | ~-1 |
-| Feeling Fancy | -3.40% | ~-1 |
-| Summiter | -3.40% | ~-1 |
-| Find Allies | -6.90% | ~-2 |
-| Powerful Allies | -6.90% | ~-2 |
-| A Taste of Wrath | -6.90% | ~-2 |
-| The Mentor | -6.90% | ~-2 |
-| Trinity | -6.90% | ~-2 |
-| Adventurer | -6.90% | ~-2 |
-| Airborne | -6.90% | ~-2 |
-| Essence Blow | -6.90% | ~-2 |
-| Big Bazar | -6.90% | ~-2 |
-| Fashion Victim | -6.90% | ~-2 |
-| Scholar | -6.90% | ~-2 |
-| I Found It | -6.90% | ~-2 |
-| The Collector | -6.90% | ~-2 |
-| A Queen's Tale | -6.90% | ~-2 |
-| Break Out | -10.30% | ~-3 |
-| To Battle | -10.30% | ~-3 |
-| Godslayer | -10.30% | ~-3 |
-| Tributes of Caladrias | -10.30% | ~-3 |
-| Flawless Victory | -10.30% | ~-3 |
-| Geared Up | -10.30% | ~-3 |
-| Alchemist | -10.30% | ~-3 |
-| Stone Collection | -10.30% | ~-3 |
-| Miner | -10.30% | ~-3 |
-| Calm before the Storm | -13.80% | ~-4 |
+| Clear Sight | -3.30% | ~-1 |
+| Forgemaster | -3.30% | ~-1 |
+| Shardbearer | -3.30% | ~-1 |
+| Shatterer | -3.30% | ~-1 |
+| Slayer | -3.30% | ~-1 |
+| Fine Feathers Make Fine Birds | -3.30% | ~-1 |
+| All There Is | -3.30% | ~-1 |
+| False God | -3.30% | ~-1 |
+| All That Gold | -3.30% | ~-1 |
+| Feeling Fancy | -3.30% | ~-1 |
+| Summiter | -3.30% | ~-1 |
+| Find Allies | -6.70% | ~-2 |
+| Powerful Allies | -6.70% | ~-2 |
+| A Taste of Wrath | -6.70% | ~-2 |
+| The Mentor | -6.70% | ~-2 |
+| Trinity | -6.70% | ~-2 |
+| Adventurer | -6.70% | ~-2 |
+| Airborne | -6.70% | ~-2 |
+| Essence Blow | -6.70% | ~-2 |
+| Big Bazar | -6.70% | ~-2 |
+| Fashion Victim | -6.70% | ~-2 |
+| Scholar | -6.70% | ~-2 |
+| I Found It | -6.70% | ~-2 |
+| The Collector | -6.70% | ~-2 |
+| A Queen's Tale | -6.70% | ~-2 |
+| Break Out | -10.00% | ~-3 |
+| To Battle | -10.00% | ~-3 |
+| Godslayer | -10.00% | ~-3 |
+| Tributes of Caladrias | -10.00% | ~-3 |
+| Flawless Victory | -10.00% | ~-3 |
+| Geared Up | -10.00% | ~-3 |
+| Alchemist | -10.00% | ~-3 |
+| Stone Collection | -10.00% | ~-3 |
+| Miner | -10.00% | ~-3 |
+| Calm before the Storm | -13.30% | ~-4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 457)  
-Completed: 1 (3.45%) (Ranked 67)  
+Progressed: 30 (Ranked 456)  
+Completed: 1 (3.33%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,4 +58,4 @@ Completed: 1 (3.45%) (Ranked 67)
 | 2023-08-14 | 23 | 1 |
 | 2023-08-15 | 24 | 1 |
 | 2023-09-19 | 25 | 1 |
-| 2023-09-26 | 29 | 1 |
+| 2023-09-26 | 30 | 1 |

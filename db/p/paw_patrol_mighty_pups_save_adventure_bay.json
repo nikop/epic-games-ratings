@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -305,9 +305,9 @@
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "24",
@@ -369,17 +369,17 @@
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "6",
@@ -426,8 +426,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:05:56.7382891+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:05:54.8160667+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:33.5455388+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:00:00.23485+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:05:56.7383137+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:00:02.1663724+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:05:54.8160866+00:00"
 }

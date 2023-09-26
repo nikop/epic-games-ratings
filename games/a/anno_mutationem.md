@@ -5,27 +5,27 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~511 |
-| Don't judge a manhole by its cover | 60.00% | ~403 |
-| I just love stuff! | 42.00% | ~282 |
-| Keep 'em coming! | 42.00% | ~282 |
+| Tell me your story | 75.00% | ~505 |
+| Don't judge a manhole by its cover | 60.00% | ~404 |
+| I just love stuff! | 42.00% | ~283 |
+| Keep 'em coming! | 42.00% | ~283 |
 | Big Spender | 39.00% | ~262 |
 | The things they print nowadays | 39.00% | ~262 |
 | That's gotta hurt | 36.00% | ~242 |
-| The Ann Flores Combo Experience | 27.00% | ~181 |
+| The Ann Flores Combo Experience | 27.00% | ~182 |
 | I think it's broke | 26.00% | ~175 |
 | Club Star | 25.00% | ~168 |
 | The Warlord | 21.00% | ~141 |
-| Fire in the hole! | 20.00% | ~134 |
-| Omnipotence | 20.00% | ~134 |
-| You are the One | 20.00% | ~134 |
+| Fire in the hole! | 20.00% | ~135 |
+| Omnipotence | 20.00% | ~135 |
+| You are the One | 20.00% | ~135 |
 | Deadly Kombationem | 19.00% | ~128 |
 | The truth is out there | 16.00% | ~108 |
 | Annakin Skyscroller | 14.00% | ~94 |
 | Arm Wrestlin' | 10.00% | ~67 |
 | In the smacker...I think | 10.00% | ~67 |
-| 1+1>2 | 9.00% | ~60 |
-| This can't be right… | 9.00% | ~60 |
+| 1+1>2 | 9.00% | ~61 |
+| This can't be right… | 9.00% | ~61 |
 | So Fresh and So clean clean | 8.00% | ~54 |
 | Welcome home, 06 | 8.00% | ~54 |
 | Clarity of Mind | 7.00% | ~47 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 473)
 | Love me like I love my posters | 0.90% | ~6 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 672 (Ranked 249)  
+Progressed: 673 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-14 | 670 | 0 |
 | 2023-09-18 | 671 | 0 |
 | 2023-09-24 | 672 | 0 |
+| 2023-09-26 | 673 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

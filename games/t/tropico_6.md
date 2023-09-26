@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,009 |
-| Un-Lonely Island | 47.00% | ~2,512 |
-| The Beginning of a Servantship | 45.00% | ~2,405 |
+| Just One...More...Term... | 75.00% | ~4,010 |
+| Un-Lonely Island | 47.00% | ~2,513 |
+| The Beginning of a Servantship | 45.00% | ~2,406 |
 | Trade Is My Trait | 37.00% | ~1,978 |
 | Number 18 | 24.00% | ~1,283 |
 | We Don't Have Time For That | 19.00% | ~1,016 |
@@ -18,18 +18,18 @@ Number of Ratings: 398  (23.09.2022)
 | The Dreamer of Dreams | 15.00% | ~802 |
 | Go Sovereigns! | 11.00% | ~588 |
 | For Science! | 11.00% | ~588 |
-| Happy Ending? | 10.00% | ~534 |
-| Of Seals And Men | 10.00% | ~534 |
-| Shackadelic | 10.00% | ~534 |
+| Happy Ending? | 10.00% | ~535 |
+| Of Seals And Men | 10.00% | ~535 |
+| Shackadelic | 10.00% | ~535 |
 | Double Trouble | 8.00% | ~428 |
 | Firestarter | 8.00% | ~428 |
 | I Owe You Nothing | 7.00% | ~374 |
 | Make Tropico Great Again! | 7.00% | ~374 |
 | French Connection | 7.00% | ~374 |
 | Don't Panic! | 6.00% | ~321 |
-| Computer Says "No" | 6.00% | ~321 |
 | Beware The Betman | 6.00% | ~321 |
 | Viva Tropico! | 5.00% | ~267 |
+| Computer Says "No" | 5.00% | ~267 |
 | Watch The World Burn | 5.00% | ~267 |
 | Fairy Tale Come True | 5.00% | ~267 |
 | Been there, Done That | 3.00% | ~160 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,345 (Ranked 160)  
+Progressed: 5,346 (Ranked 160)  
 Completed: 2 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,17 +206,17 @@ Completed: 2 (0.04%) (Ranked 257)
 | 2023-09-23 | 5,306 | 2 |
 | 2023-09-24 | 5,324 | 2 |
 | 2023-09-25 | 5,340 | 2 |
-| 2023-09-26 | 5,345 | 2 |
+| 2023-09-26 | 5,346 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
-Sum: 691 (Ranked 282)  
+Sum: 692 (Ranked 282)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 99 |
+| This game is Highly Recommended | 94 |
 | This game is Relaxing | 93 |
-| This game is Highly Recommended | 93 |
 | This game has Amazing Storytelling | 88 |
 | This game is Extremely Fun | 85 |
 | This game has Amazing Characters | 85 |
@@ -363,4 +363,4 @@ Diff (max vs sum): 60
 | 2023-09-18 | 4.65 | - | 98 | 687 |
 | 2023-09-23 | 4.65 | - | 99 | 688 |
 | 2023-09-25 | 4.65 | - | 99 | 690 |
-| 2023-09-26 | 4.65 | - | 99 | 691 |
+| 2023-09-26 | 4.65 | - | 99 | 692 |

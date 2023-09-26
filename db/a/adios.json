@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,7 +114,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74281,
+  "EOS_Progressed": 74282,
   "EOS_Completed": 775,
   "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 11,
@@ -17814,6 +17814,11 @@
       "Time": "2023-09-26T14:05:52.8921024+00:00",
       "NumProgressed": 74281,
       "NumCompleted": 775
+    },
+    {
+      "Time": "2023-09-26T15:05:51.297574+00:00",
+      "NumProgressed": 74282,
+      "NumCompleted": 775
     }
   ],
   "TotalAchievements": 25,
@@ -17945,7 +17950,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14113
+      "UsersEstimate": 14114
     },
     {
       "ID": "Nice Try",
@@ -18017,14 +18022,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74281,
+      "Progressed": 74282,
       "Completed": 775
     }
   ],
@@ -18032,8 +18037,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:05:52.8921021+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:05:51.2975736+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:01:45.2673403+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:05:52.8922921+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:01:52.7328291+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:05:51.2976732+00:00"
 }

@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 892)  
+Rating: 4.18 (Ranked 893)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,873 |
-| Har, Har, Har, Very Funny | 36.00% | ~26,220 |
-| Loose Ends | 34.00% | ~24,763 |
+| First Step Into the Knight | 52.00% | ~37,874 |
+| Har, Har, Har, Very Funny | 36.00% | ~26,221 |
+| Loose Ends | 34.00% | ~24,764 |
 | To the Victor Go the Spoils | 29.00% | ~21,122 |
-| Knighthood | 28.00% | ~20,393 |
-| Get ReQ'd | 25.00% | ~18,208 |
-| Whispered Words | 25.00% | ~18,208 |
+| Knighthood | 28.00% | ~20,394 |
+| Get ReQ'd | 25.00% | ~18,209 |
+| Whispered Words | 25.00% | ~18,209 |
 | The Batman Family | 23.00% | ~16,752 |
 | Lock and Key | 23.00% | ~16,752 |
 | Something in the Clay | 21.00% | ~15,295 |
@@ -19,23 +19,23 @@ Rating: 4.18 (Ranked 892)
 | Working Hard or Harley Working? | 20.00% | ~14,567 |
 | Unstoppable Force | 20.00% | ~14,567 |
 | Bad Apples in Every Orchard | 20.00% | ~14,567 |
-| Snow Problem | 19.00% | ~13,838 |
+| Snow Problem | 19.00% | ~13,839 |
 | The Show Mud Go On | 18.00% | ~13,110 |
 | From Inside Gotham's Walls | 18.00% | ~13,110 |
 | Protector of Gotham | 17.00% | ~12,382 |
-| Universal Health Scare | 16.00% | ~11,653 |
+| Universal Health Scare | 16.00% | ~11,654 |
 | In Your Element | 15.00% | ~10,925 |
 | Voiceless | 15.00% | ~10,925 |
 | Rock and a Hard Place | 14.00% | ~10,197 |
 | Cooldown | 14.00% | ~10,197 |
 | Seeking Asylum | 14.00% | ~10,197 |
-| Not On My Watch | 13.00% | ~9,468 |
-| Shock Til They Drop | 13.00% | ~9,468 |
+| Not On My Watch | 13.00% | ~9,469 |
+| Shock Til They Drop | 13.00% | ~9,469 |
 | End of an Era | 12.00% | ~8,740 |
 | Bulldozed | 12.00% | ~8,740 |
 | Gotham Knight | 12.00% | ~8,740 |
 | Gotham City Confidential | 11.00% | ~8,012 |
-| Drone You Out | 10.00% | ~7,283 |
+| Drone You Out | 10.00% | ~7,284 |
 | Out of Their League | 9.00% | ~6,555 |
 | Solid Alibi | 9.00% | ~6,555 |
 | Fusion Expert | 7.00% | ~5,098 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 892)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,833 (Ranked 84)  
+Progressed: 72,835 (Ranked 84)  
 Completed: 118 (0.16%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 118 (0.16%) (Ranked 216)
 | 2023-09-23 | 72,766 | 117 |
 | 2023-09-24 | 72,808 | 117 |
 | 2023-09-25 | 72,826 | 118 |
-| 2023-09-26 | 72,833 | 118 |
+| 2023-09-26 | 72,835 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,746  (Ranked 96)  
 Sum: 4,578 (Ranked 139)  

@@ -6,14 +6,14 @@ Rating: 4.46 (Ranked 632)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,689 |
-| Confirming Suspicions | 41.00% | ~1,505 |
+| Confirming Suspicions | 41.00% | ~1,506 |
 | The Kraken Wakes | 36.00% | ~1,322 |
-| It's Starting to Crack | 33.00% | ~1,211 |
-| Change the Channel | 30.00% | ~1,101 |
+| It's Starting to Crack | 33.00% | ~1,212 |
+| Change the Channel | 30.00% | ~1,102 |
 | Lord of War | 29.00% | ~1,065 |
 | Taking it back | 28.00% | ~1,028 |
-| Resourceful | 26.00% | ~954 |
-| Target America | 26.00% | ~954 |
+| Resourceful | 26.00% | ~955 |
+| Target America | 26.00% | ~955 |
 | The Kraken Sleeps | 24.00% | ~881 |
 | Liberté | 22.00% | ~808 |
 | Organ Grinder | 22.00% | ~808 |
@@ -22,8 +22,8 @@ Rating: 4.46 (Ranked 632)
 | Gunslinger | 18.00% | ~661 |
 | Explosive Efficiency | 18.00% | ~661 |
 | Just a Flesh Wound | 17.00% | ~624 |
-| Climbing the Ladder | 16.00% | ~587 |
-| Der Geist | 16.00% | ~587 |
+| Climbing the Ladder | 16.00% | ~588 |
+| Der Geist | 16.00% | ~588 |
 | Close Quarters | 15.00% | ~551 |
 | Brains of the Operation | 15.00% | ~551 |
 | No Stone Unturned | 14.00% | ~514 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 632)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,671 (Ranked 171)  
+Progressed: 3,672 (Ranked 171)  
 Completed: 11 (0.30%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 11 (0.30%) (Ranked 191)
 | 2023-09-23 | 3,658 | 11 |
 | 2023-09-24 | 3,662 | 11 |
 | 2023-09-25 | 3,667 | 11 |
-| 2023-09-26 | 3,671 | 11 |
+| 2023-09-26 | 3,672 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

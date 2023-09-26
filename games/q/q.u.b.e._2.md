@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 61.00% | ~278 |
-| Quick Understanding of Block Extrusion | 58.00% | ~264 |
-| Nature or Nurture | 51.00% | ~233 |
-| Power Glove | 49.00% | ~223 |
-| Forgotten Memories | 48.00% | ~219 |
-| Cogs in the Machine | 42.00% | ~192 |
+| Lost in Space | 61.00% | ~280 |
+| Quick Understanding of Block Extrusion | 58.00% | ~266 |
+| Nature or Nurture | 51.00% | ~234 |
+| Power Glove | 49.00% | ~225 |
+| Forgotten Memories | 48.00% | ~220 |
+| Cogs in the Machine | 42.00% | ~193 |
 | Mission Success | 26.00% | ~119 |
-| There's No Place Like Home | 23.00% | ~105 |
-| Green Cube Killer | 22.00% | ~100 |
+| There's No Place Like Home | 23.00% | ~106 |
+| Green Cube Killer | 22.00% | ~101 |
 | Path to Salvation | 19.00% | ~87 |
-| Descendants | 18.00% | ~82 |
-| Infinity Loop | 18.00% | ~82 |
-| The Flawed Teacher | 16.00% | ~73 |
-| To Infinity and Beyond | 6.00% | ~27 |
-| The Truthful Enemy | 6.00% | ~27 |
+| Descendants | 18.00% | ~83 |
+| Infinity Loop | 18.00% | ~83 |
+| The Flawed Teacher | 15.00% | ~69 |
+| To Infinity and Beyond | 6.00% | ~28 |
+| The Truthful Enemy | 6.00% | ~28 |
 | True collector | 0.40% | ~2 |
 | Bronze collector | 0.40% | ~2 |
 | Home Stretch | 0.40% | ~2 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.20% | ~1 |
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456 (Ranked 269)  
+Progressed: 459 (Ranked 269)  
 Completed: 1 (0.22%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 1 (0.22%) (Ranked 205)
 | 2023-09-23 | 424 | 1 |
 | 2023-09-24 | 437 | 1 |
 | 2023-09-25 | 449 | 1 |
-| 2023-09-26 | 456 | 1 |
+| 2023-09-26 | 459 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

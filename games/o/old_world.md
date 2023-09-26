@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 3.00% | ~424 |
 | Fountainhead | 3.00% | ~424 |
 | Glorious | 3.00% | ~424 |
+| Great | 3.00% | ~424 |
 | Keystone | 3.00% | ~424 |
 | Magnificent | 3.00% | ~424 |
 | Warrior | 3.00% | ~424 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 2.00% | ~283 |
 | Beloved | 2.00% | ~283 |
 | Drillmaster | 2.00% | ~283 |
-| Great | 2.00% | ~283 |
 | Intercessor | 2.00% | ~283 |
 | Mighty | 2.00% | ~283 |
 | Valiant | 2.00% | ~283 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,134 (Ranked 130)  
+Progressed: 14,136 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 5 (0.04%) (Ranked 257)
 | 2023-09-23 | 14,081 | 5 |
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
-| 2023-09-26 | 14,134 | 5 |
+| 2023-09-26 | 14,136 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

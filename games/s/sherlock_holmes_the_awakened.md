@@ -22,9 +22,9 @@ Rating: 4.62 (Ranked 352)
 | Lock, Stock, And Barrel | 47.00% | ~314 |
 | Back In The Saddle | 47.00% | ~314 |
 | At Wits' End | 47.00% | ~314 |
+| Up In Flames | 45.00% | ~301 |
 | Fhtagn! | 45.00% | ~301 |
 | Bookworm | 44.00% | ~294 |
-| Up In Flames | 44.00% | ~294 |
 | Going Once... | 40.00% | ~267 |
 | Let Me Be Frank | 39.00% | ~261 |
 | Brain Food | 38.00% | ~254 |

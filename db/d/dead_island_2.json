@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4866,10 +4866,10 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686565,
+  "EOS_Progressed": 686593,
   "EOS_Completed": 2175,
-  "EOS_NewPlayers": 3958,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 3953,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -22786,6 +22786,11 @@
       "Time": "2023-09-26T14:04:36.9782976+00:00",
       "NumProgressed": 686565,
       "NumCompleted": 2175
+    },
+    {
+      "Time": "2023-09-26T15:04:39.4115335+00:00",
+      "NumProgressed": 686593,
+      "NumCompleted": 2175
     }
   ],
   "TotalAchievements": 45,
@@ -22797,7 +22802,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -22813,7 +22818,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_anger_management",
@@ -22853,7 +22858,7 @@
       "Name": "Bookworm",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_break_a_leg",
@@ -22861,7 +22866,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_contender",
@@ -22885,7 +22890,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_doom_buddies",
@@ -22893,7 +22898,7 @@
       "Name": "Slayer Squad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_explorer",
@@ -22901,7 +22906,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4119
+      "UsersEstimate": 4120
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -22909,7 +22914,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_finisher",
@@ -22917,7 +22922,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -22925,7 +22930,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_good_eyesight",
@@ -22941,7 +22946,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -22949,7 +22954,7 @@
       "Name": "Friends Like These",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_hotel_california",
@@ -22957,7 +22962,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20597
+      "UsersEstimate": 20598
     },
     {
       "ID": "ach_impressive_aim",
@@ -22973,7 +22978,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4119
+      "UsersEstimate": 4120
     },
     {
       "ID": "ach_investigator",
@@ -22997,7 +23002,7 @@
       "Name": "Apex Predator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_knowledgeable",
@@ -23005,7 +23010,7 @@
       "Name": "Zombologist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_legendary",
@@ -23029,7 +23034,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_mind_over_monster",
@@ -23069,7 +23074,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_star_performance",
@@ -23077,7 +23082,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_survival_expert",
@@ -23117,7 +23122,7 @@
       "Name": "This is My Weapon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -23133,7 +23138,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20597
+      "UsersEstimate": 20598
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23156,22 +23161,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686565,
+      "Progressed": 686593,
       "Completed": 2175
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12106,
-      "Completed": 12106
+      "Progressed": 12134,
+      "Completed": 12134
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-26T11:58:05.7005934+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:04:36.978297+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:04:39.411533+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:58:16.1392721+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:04:36.978542+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:58:21.9126456+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:04:39.4117+00:00"
 }

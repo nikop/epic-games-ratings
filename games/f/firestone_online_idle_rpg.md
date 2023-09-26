@@ -72,8 +72,8 @@ Rating: 4.03 (Ranked 949)
 | Training makes a Pro player | 1.00% | ~20 |
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
+| Pokerface | 0.90% | ~18 |
 | Beast War Machines | 0.80% | ~16 |
-| Pokerface | 0.80% | ~16 |
 | Angel Power | 0.70% | ~14 |
 | Conqueror | 0.70% | ~14 |
 | Silverwood liberator | 0.50% | ~10 |

@@ -13,7 +13,7 @@
 | The power of the Force | 21.00% | ~43 |
 | I suggest a new strategy | 19.00% | ~39 |
 | Collector | 18.00% | ~37 |
-| All right, I'll give it a try | 17.00% | ~35 |
+| All right, I'll give it a try | 18.00% | ~37 |
 | Shoot first | 17.00% | ~35 |
 | Together we can rule the galaxy | 16.00% | ~33 |
 | Tell Jabba that I've got his money | 14.00% | ~29 |

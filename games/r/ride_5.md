@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 41.00% | ~471 |
+| First Love | 41.00% | ~472 |
 | Clean Race | 39.00% | ~448 |
 | Hear That Roar! | 38.00% | ~437 |
-| Eat My Dust | 37.00% | ~425 |
+| Eat My Dust | 37.00% | ~426 |
 | Rivals to the End | 30.00% | ~345 |
-| We're Going to Need a Bigger Garage | 25.00% | ~287 |
+| We're Going to Need a Bigger Garage | 25.00% | ~288 |
 | Bitter Rivalry | 23.00% | ~264 |
 | I'm Here Too! | 22.00% | ~253 |
-| Champagne Spray | 20.00% | ~230 |
+| Champagne Spray | 21.00% | ~242 |
 | Restored and Ready | 18.00% | ~207 |
 | I Want One Too! | 18.00% | ~207 |
 | Quick Pit Stop | 18.00% | ~207 |
-| Legendary!!! | 17.00% | ~195 |
+| Legendary!!! | 17.00% | ~196 |
 | Go-Faster Stripes | 16.00% | ~184 |
-| We've Just Begun | 9.00% | ~103 |
+| We've Just Begun | 9.00% | ~104 |
 | Stamina Star | 8.00% | ~92 |
-| Is It the Right Size? | 7.00% | ~80 |
+| Is It the Right Size? | 7.00% | ~81 |
 | Evangelist | 6.00% | ~69 |
 | Make It Your Own! | 4.00% | ~46 |
 | Cherry Blossom and Temples | 3.00% | ~34 |
@@ -34,10 +34,10 @@
 | Romantic Races | 2.00% | ~23 |
 | Rounding Off | 2.00% | ~23 |
 | My Work Here Is Done | 2.00% | ~23 |
-| I'll Be the Best! | 1.00% | ~11 |
-| Exhausted but Happy | 1.00% | ~11 |
-| I Don't Stop | 1.00% | ~11 |
-| Overtaking the Master | 1.00% | ~11 |
+| I'll Be the Best! | 1.00% | ~12 |
+| Exhausted but Happy | 1.00% | ~12 |
+| I Don't Stop | 1.00% | ~12 |
+| Overtaking the Master | 1.00% | ~12 |
 | Next Level | 0.80% | ~9 |
 | Globe-trotter | 0.40% | ~5 |
 | In Search of Perfection | 0.30% | ~3 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,149 (Ranked 222)  
+Progressed: 1,150 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 1,081 | 0 |
 | 2023-09-24 | 1,115 | 0 |
 | 2023-09-25 | 1,143 | 0 |
-| 2023-09-26 | 1,149 | 0 |
+| 2023-09-26 | 1,150 | 0 |

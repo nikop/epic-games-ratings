@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7300,9 +7300,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach069",
@@ -7347,8 +7347,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:06:50.260022+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:06:45.1889132+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:04:00.2898056+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:06:50.2601285+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:03:57.2035064+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:06:45.1890046+00:00"
 }

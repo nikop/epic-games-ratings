@@ -7,7 +7,7 @@ Rating: 4.16 (Ranked 901)
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,006 |
 | Unlocked Potential | 9.00% | ~3,606 |
-| Tinkerer | 7.00% | ~2,805 |
+| Tinkerer | 8.00% | ~3,205 |
 | Knock 'Em Dead | 7.00% | ~2,805 |
 | Pilgrimage: Initiate | 7.00% | ~2,805 |
 | Hell of a Run | 7.00% | ~2,805 |

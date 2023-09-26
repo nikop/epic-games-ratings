@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,326 |
+| Sowwy! | 31.00% | ~70,329 |
 | Where's that freaking Dwarf? | 5.00% | ~11,343 |
 | Alt+F4 | 5.00% | ~11,343 |
-| Déjà vu | 4.00% | ~9,074 |
+| Déjà vu | 4.00% | ~9,075 |
 | A beer, two curses, three companions | 3.00% | ~6,806 |
 | Sock! SOCK! | 3.00% | ~6,806 |
 | GG EZ | 3.00% | ~6,806 |
@@ -55,6 +55,7 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 0.20% | ~454 |
 | I'd rather... Just... Sing! | 0.20% | ~454 |
 | The number of the counting shalt be 7 | 0.20% | ~454 |
+| 100% satisfaction guarantee | 0.20% | ~454 |
 | Inception | 0.20% | ~454 |
 | Cursed die | 0.10% | ~227 |
 | Necrophilia | 0.10% | ~227 |
@@ -87,7 +88,6 @@ Number of Ratings: 118  (23.09.2022)
 | Insult to injury | 0.10% | ~227 |
 | Star-crossed lovers | 0.10% | ~227 |
 | Pyrrhic victory | 0.10% | ~227 |
-| 100% satisfaction guarantee | 0.10% | ~227 |
 | Death is for wimps | 0.10% | ~227 |
 | Super-Ultra-Lydian | 0.10% | ~227 |
 | Lord of the Drunks | 0.10% | ~227 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,857 (Ranked 58)  
+Progressed: 226,869 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,14 +213,14 @@ Completed: 3 (0.00%) (Ranked 293)
 | 2023-09-23 | 226,270 | 3 |
 | 2023-09-24 | 226,557 | 3 |
 | 2023-09-25 | 226,750 | 3 |
-| 2023-09-26 | 226,857 | 3 |
+| 2023-09-26 | 226,869 | 3 |
 ## Awards
-Max (Character Customization): 198  (Ranked 277)  
-Sum: 384 (Ranked 328)  
+Max (Character Customization): 199  (Ranked 277)  
+Sum: 385 (Ranked 328)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 198 |
+| This game has Inclusive Character Customization | 199 |
 | This game is Relaxing | 29 |
 | This game is Great for Beginners | 27 |
 | This game has Amazing Characters | 24 |
@@ -372,3 +372,4 @@ Diff (max vs sum): -51
 | 2023-09-21 | 4.59 | - | 198 | 362 |
 | 2023-09-22 | 4.59 | - | 198 | 383 |
 | 2023-09-25 | 4.59 | - | 198 | 384 |
+| 2023-09-26 | 4.59 | - | 199 | 385 |

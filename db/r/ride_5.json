@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1759,6 +1759,11 @@
       "Time": "2023-09-26T14:07:33.2540734+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T15:07:26.6801077+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1771,7 +1776,7 @@
       "Name": "First Love",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1835,7 +1840,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -1843,7 +1848,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1859,7 +1864,7 @@
       "Name": "Legendary!!!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1883,7 +1888,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -1963,7 +1968,7 @@
       "Name": "Exhausted but Happy",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -2027,7 +2032,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2067,15 +2072,15 @@
       "Name": "Eat My Dust",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 242
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2107,7 +2112,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -2115,7 +2120,7 @@
       "Name": "Overtaking the Master",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -2162,14 +2167,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:07:33.254073+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:07:26.6801073+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:58:09.6811632+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:07:33.2541446+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:58:13.624138+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:07:26.6801488+00:00"
 }

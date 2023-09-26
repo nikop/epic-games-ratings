@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -261,7 +261,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2055,
+  "EOS_Progressed": 2056,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -2576,6 +2576,11 @@
       "Time": "2023-09-25T16:09:50.8625553+00:00",
       "NumProgressed": 2055,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-26T15:10:47.2083143+00:00",
+      "NumProgressed": 2056,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2611,7 +2616,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACHV_05",
@@ -2635,7 +2640,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHV_08",
@@ -2779,7 +2784,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHV_26",
@@ -2787,7 +2792,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACHV_27",
@@ -2795,7 +2800,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACHV_28",
@@ -2803,7 +2808,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHV_29",
@@ -2819,7 +2824,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHV_31",
@@ -2891,7 +2896,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACHV_40",
@@ -2947,7 +2952,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHV_47",
@@ -3042,7 +3047,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2055,
+      "Progressed": 2056,
       "Completed": 12
     }
   ],
@@ -3050,8 +3055,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-26T14:10:45.9401931+00:00",
+  "LastChanged_Achievements": "2023-09-26T15:10:47.2083141+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.9693567+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:01:25.647701+00:00",
-  "LastUpdate_Achievements": "2023-09-26T14:10:45.9402693+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:01:31.4035567+00:00",
+  "LastUpdate_Achievements": "2023-09-26T15:10:47.2083645+00:00"
 }
