@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.83% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.80% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.00% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.53% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.92% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.39% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -65,8 +65,8 @@
 | 63 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.85% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.73% |
-| 66 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.57% |
-| 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
+| 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
+| 67 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.45% |
 | 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.44% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.40% |
@@ -88,7 +88,7 @@
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.48% |
+| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.47% |
 | 90 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.44% |
 | 91 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
@@ -101,12 +101,12 @@
 | 99 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 100 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |
 | 101 | [Night Book](games/n/night_book.md) | 1.86% |
-| 102 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.85% |
-| 103 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 104 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.83% |
-| 105 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.82% |
-| 106 | [Sifu](games/s/sifu.md) | 1.80% |
-| 107 | [Frogun](games/f/frogun.md) | 1.79% |
+| 102 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 103 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.83% |
+| 104 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.82% |
+| 105 | [Sifu](games/s/sifu.md) | 1.80% |
+| 106 | [Frogun](games/f/frogun.md) | 1.79% |
+| 106 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.79% |
 | 108 | [Somerville](games/s/somerville.md) | 1.71% |
 | 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
 | 110 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
@@ -126,7 +126,7 @@
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 125 | [Trifox](games/t/trifox.md) | 1.09% |
 | 126 | [Adios](games/a/adios.md) | 1.04% |
-| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 128 | [Sable](games/s/sable.md) | 1.01% |
 | 129 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 129 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
