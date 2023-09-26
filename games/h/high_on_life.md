@@ -5,6 +5,7 @@ Rating: 4.63 (Ranked 334)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
@@ -34,7 +35,6 @@ Rating: 4.63 (Ranked 334)
 | Give Away All Your Money | 0.10% | ~1 |
 | It's Like The Santa Clause | 0.10% | ~1 |
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
-| Epic Legendary Prize | 0.00% | ~0 |
 | Satisfied Gus-tomer | 0.00% | ~0 |
 | A Starfish Is Born | 0.00% | ~0 |
 | Sequel-Bait | 0.00% | ~0 |

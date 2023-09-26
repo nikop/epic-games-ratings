@@ -4997,9 +4997,9 @@
       "ID": "ACH_ALEC_COUNTDOWN",
       "SetID": "cdkbb11",
       "Name": "Epic Legendary Prize",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ALL_CARDS",
@@ -5364,8 +5364,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-22T19:00:44.5707796+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:10:35.1343418+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:08:32.2876115+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:33.5378459+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:04:05.6939002+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:10:35.1343982+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:02:30.8605169+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:08:32.2876758+00:00"
 }

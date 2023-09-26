@@ -12,21 +12,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~848 |
 | Intrepid | 5.00% | ~707 |
 | The Clergy | 5.00% | ~707 |
-| Able | 4.00% | ~565 |
-| Architect | 4.00% | ~565 |
-| Enlightened | 4.00% | ~565 |
-| Good | 4.00% | ~565 |
-| Just | 4.00% | ~565 |
-| Learned | 4.00% | ~565 |
-| Mason | 4.00% | ~565 |
-| Noble | 4.00% | ~565 |
-| Pioneer | 4.00% | ~565 |
-| Strong | 4.00% | ~565 |
-| Hanging Gardens | 4.00% | ~565 |
-| Oracle | 4.00% | ~565 |
-| Judaism | 4.00% | ~565 |
-| Naming Landmarks | 4.00% | ~565 |
-| Trade Caravan | 4.00% | ~565 |
+| Able | 4.00% | ~566 |
+| Architect | 4.00% | ~566 |
+| Enlightened | 4.00% | ~566 |
+| Good | 4.00% | ~566 |
+| Just | 4.00% | ~566 |
+| Learned | 4.00% | ~566 |
+| Mason | 4.00% | ~566 |
+| Noble | 4.00% | ~566 |
+| Pioneer | 4.00% | ~566 |
+| Strong | 4.00% | ~566 |
+| Hanging Gardens | 4.00% | ~566 |
+| Oracle | 4.00% | ~566 |
+| Judaism | 4.00% | ~566 |
+| Naming Landmarks | 4.00% | ~566 |
+| Trade Caravan | 4.00% | ~566 |
 | Ambitious | 3.00% | ~424 |
 | Brilliant | 3.00% | ~424 |
 | Fountainhead | 3.00% | ~424 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,136 (Ranked 130)  
+Progressed: 14,139 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 5 (0.04%) (Ranked 257)
 | 2023-09-23 | 14,081 | 5 |
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
-| 2023-09-26 | 14,136 | 5 |
+| 2023-09-26 | 14,139 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

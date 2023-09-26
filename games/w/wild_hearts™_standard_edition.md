@@ -10,12 +10,12 @@
 | Commencing of Quests | 81.00% | ~46 |
 | Charmed by the Hunt | 70.00% | ~40 |
 | Man-Machine Master | 67.00% | ~38 |
+| Mountain Splitter | 67.00% | ~38 |
 | Fusion Conjuror | 65.00% | ~37 |
 | Memory Rouser | 65.00% | ~37 |
-| Mountain Splitter | 65.00% | ~37 |
 | Master of the Skies | 60.00% | ~34 |
 | Subsistence Skills | 60.00% | ~34 |
-| Kemono Hunter | 58.00% | ~33 |
+| Kemono Hunter | 60.00% | ~34 |
 | Helpful Heart | 58.00% | ~33 |
 | Distance Devourer | 56.00% | ~32 |
 | Expert Conjuror | 54.00% | ~31 |
@@ -23,9 +23,9 @@
 | Flawless Crystal | 49.00% | ~28 |
 | Axer of Auspice | 47.00% | ~27 |
 | Counter Specialist | 44.00% | ~25 |
+| Karakuri Trail | 40.00% | ~23 |
 | Single Minded | 40.00% | ~23 |
 | Fair Means or Foul | 40.00% | ~23 |
-| Karakuri Trail | 39.00% | ~22 |
 | Mighty Marmelizer | 39.00% | ~22 |
 | Snare Specialist | 39.00% | ~22 |
 | Reincarnation Cycle Stopper | 39.00% | ~22 |

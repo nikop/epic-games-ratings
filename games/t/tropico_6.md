@@ -14,7 +14,7 @@ Number of Ratings: 398  (23.09.2022)
 | We Don't Have Time For That | 19.00% | ~1,016 |
 | The Legend of Langostino | 17.00% | ~909 |
 | The Governator | 17.00% | ~909 |
-| Caribbean Comrade | 16.00% | ~855 |
+| Caribbean Comrade | 16.00% | ~856 |
 | The Dreamer of Dreams | 15.00% | ~802 |
 | Go Sovereigns! | 11.00% | ~588 |
 | For Science! | 11.00% | ~588 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,346 (Ranked 160)  
+Progressed: 5,347 (Ranked 160)  
 Completed: 2 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,10 +206,10 @@ Completed: 2 (0.04%) (Ranked 257)
 | 2023-09-23 | 5,306 | 2 |
 | 2023-09-24 | 5,324 | 2 |
 | 2023-09-25 | 5,340 | 2 |
-| 2023-09-26 | 5,346 | 2 |
+| 2023-09-26 | 5,347 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
-Sum: 692 (Ranked 282)  
+Sum: 693 (Ranked 282)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -218,8 +218,8 @@ Diff (max vs sum): 60
 | This game is Highly Recommended | 94 |
 | This game is Relaxing | 93 |
 | This game has Amazing Storytelling | 88 |
+| This game has Amazing Characters | 86 |
 | This game is Extremely Fun | 85 |
-| This game has Amazing Characters | 85 |
 | This game is Educational | 84 |
 | This game has a Creative Community | 64 |
 | This game has Obsessive Gameplay | 52 |
@@ -363,4 +363,4 @@ Diff (max vs sum): 60
 | 2023-09-18 | 4.65 | - | 98 | 687 |
 | 2023-09-23 | 4.65 | - | 99 | 688 |
 | 2023-09-25 | 4.65 | - | 99 | 690 |
-| 2023-09-26 | 4.65 | - | 99 | 692 |
+| 2023-09-26 | 4.65 | - | 99 | 693 |

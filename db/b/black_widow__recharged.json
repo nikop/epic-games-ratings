@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18360,
+  "EOS_Progressed": 18361,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -13117,6 +13117,11 @@
       "Time": "2023-09-26T15:09:17.4108133+00:00",
       "NumProgressed": 18360,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-26T16:07:21.4289491+00:00",
+      "NumProgressed": 18361,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 14,
@@ -13128,7 +13133,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14321
+      "UsersEstimate": 14322
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -13232,22 +13237,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18360,
+      "Progressed": 18361,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:09:17.4108128+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:07:21.4289488+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.2859158+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:01:43.1498351+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:09:17.410883+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:00:28.2285579+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:07:21.4290359+00:00"
 }

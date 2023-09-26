@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1454,
+  "EOS_Progressed": 1456,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5246,6 +5246,11 @@
       "Time": "2023-09-26T15:09:39.8437508+00:00",
       "NumProgressed": 1454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T16:07:38.4977201+00:00",
+      "NumProgressed": 1456,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5327,9 +5332,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "objective_headquarters_10",
@@ -5361,7 +5366,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5377,7 +5382,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -5385,7 +5390,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5441,15 +5446,15 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 146
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5481,7 +5486,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5560,14 +5565,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1454,
+      "Progressed": 1456,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:09:39.8437503+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:07:38.4977197+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:01:48.5812084+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:09:39.8437984+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:00:32.7642314+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:07:38.4977807+00:00"
 }

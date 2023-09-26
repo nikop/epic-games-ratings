@@ -4,7 +4,7 @@
   "ProductSlug": "the-sisters-2-road-to-fame-287bbe",
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -25,9 +25,355 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-26T16:06:29.3381859+00:00",
+  "TotalAchievements": 43,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "bp1hd21",
+      "Name": "Human spinning top",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "bp1hd21",
+      "Name": "Sumo",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "bp1hd21",
+      "Name": "Street musician",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "bp1hd21",
+      "Name": "Girl against machine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "bp1hd21",
+      "Name": "Time master",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "bp1hd21",
+      "Name": "Like a fish in water",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "bp1hd21",
+      "Name": "A true unicorn",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "bp1hd21",
+      "Name": "Human tide",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "bp1hd21",
+      "Name": "All the balloons are mine!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "bp1hd21",
+      "Name": "Snorkelling",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "bp1hd21",
+      "Name": "Perfect game",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "bp1hd21",
+      "Name": "Serial dodger",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "bp1hd21",
+      "Name": "Last survivor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "bp1hd21",
+      "Name": "Pro chef",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "bp1hd21",
+      "Name": "Distinguished",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "bp1hd21",
+      "Name": "Precision above all",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "bp1hd21",
+      "Name": "Fish fiasco",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "bp1hd21",
+      "Name": "Green thumb",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "bp1hd21",
+      "Name": "Board sports queen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "bp1hd21",
+      "Name": "Marathon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "bp1hd21",
+      "Name": "Sports training",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "bp1hd21",
+      "Name": "Exemplary behaviour",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "bp1hd21",
+      "Name": "Laser sniper",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "bp1hd21",
+      "Name": "Race driver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "bp1hd21",
+      "Name": "The fame begins...",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "bp1hd21",
+      "Name": "Baby steps",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "bp1hd21",
+      "Name": "Wendy\u0027s photo album",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "bp1hd21",
+      "Name": "Maureen\u0027s photo album",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "bp1hd21",
+      "Name": "Spring cleaning",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "36",
+      "SetID": "bp1hd21",
+      "Name": "Wardrobe wonder",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "37",
+      "SetID": "bp1hd21",
+      "Name": "Ready for fashion week",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "38",
+      "SetID": "bp1hd21",
+      "Name": "Dressed for winter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "39",
+      "SetID": "bp1hd21",
+      "Name": "Retro games",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "bp1hd21",
+      "Name": "Energy conservation",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40",
+      "SetID": "bp1hd21",
+      "Name": "Super Wendy",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41",
+      "SetID": "bp1hd21",
+      "Name": "Super Maureen",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "42",
+      "SetID": "bp1hd21",
+      "Name": "Sis-Tok star",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "43",
+      "SetID": "bp1hd21",
+      "Name": "Most famous influencer",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "bp1hd21",
+      "Name": "Flying stars",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "bp1hd21",
+      "Name": "Maximum concentration",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "bp1hd21",
+      "Name": "Lightning fast",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "bp1hd21",
+      "Name": "All in the family",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "bp1hd21",
+      "Name": "Tomato puree",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bp1hd21",
@@ -37,8 +383,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-21T09:05:05.5743881+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:08:10.3541575+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:06:29.3381831+00:00",
   "LastUpdate_AppInfo": "2023-09-21T02:12:03.5418858+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:03:00.0142552+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:08:10.3541604+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:01:36.3900004+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:06:29.379201+00:00"
 }

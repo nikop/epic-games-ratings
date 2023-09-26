@@ -1,7 +1,7 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 508)  
+Rating: 4.54 (Ranked 509)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Sojourner | 26.00% | ~20,030 |
 | Beagle 2 | 24.00% | ~18,489 |
 | New Home | 23.00% | ~17,719 |
-| Winner Winner Terraformer | 22.00% | ~16,948 |
+| Winner Winner Terraformer | 22.00% | ~16,949 |
 | Project Manager | 19.00% | ~14,637 |
 | Curiosity | 19.00% | ~14,637 |
 | Collector | 19.00% | ~14,637 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~8,474 |
 | Spirit | 10.00% | ~7,704 |
 | Ultimate success | 10.00% | ~7,704 |
-| Variety Expert | 9.00% | ~6,933 |
+| Variety Expert | 9.00% | ~6,934 |
 | Frequent tester | 8.00% | ~6,163 |
 | Determined | 8.00% | ~6,163 |
 | Terraformer | 4.00% | ~3,082 |
 | Team Effort | 3.00% | ~2,311 |
 | Opportunity | 3.00% | ~2,311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,038 (Ranked 82)  
+Progressed: 77,039 (Ranked 82)  
 Completed: 135 (0.18%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 135 (0.18%) (Ranked 213)
 | 2023-09-23 | 76,761 | 134 |
 | 2023-09-24 | 76,910 | 135 |
 | 2023-09-25 | 76,993 | 135 |
-| 2023-09-26 | 77,038 | 135 |
+| 2023-09-26 | 77,039 | 135 |
 ## Awards
 Max (Relaxing): 516  (Ranked 199)  
 Sum: 3,174 (Ranked 164)  

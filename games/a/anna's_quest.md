@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Escape artist | 82.00% | ~41 |
 | Ooh, it's shiny! | 62.00% | ~31 |
-| Book Worm | 58.00% | ~29 |
+| Book Worm | 60.00% | ~30 |
 | My lost nightingale | 50.00% | ~25 |
 | Through the woods | 48.00% | ~24 |
 | Back to the anvil | 44.00% | ~22 |
@@ -20,9 +20,9 @@
 | Game Over! | 38.00% | ~19 |
 | A very special drink | 38.00% | ~19 |
 | Far away from home | 38.00% | ~19 |
+| Little genius | 38.00% | ~19 |
 | NOW GO AWAY! | 38.00% | ~19 |
 | Show me your true self | 36.00% | ~18 |
-| Little genius | 36.00% | ~18 |
 | GG | 34.00% | ~17 |
 | No posters allowed | 34.00% | ~17 |
 | Shattered | 32.00% | ~16 |

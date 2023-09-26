@@ -12515,10 +12515,10 @@
       "Count": 6377
     }
   ],
-  "EOS_Progressed": 882102,
-  "EOS_Completed": 2407,
-  "EOS_NewPlayers": 5020,
-  "EOS_NewCompleters": 288,
+  "EOS_Progressed": 882187,
+  "EOS_Completed": 2408,
+  "EOS_NewPlayers": 5095,
+  "EOS_NewCompleters": 289,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30375,6 +30375,11 @@
       "Time": "2023-09-26T15:07:30.7538078+00:00",
       "NumProgressed": 882102,
       "NumCompleted": 2407
+    },
+    {
+      "Time": "2023-09-26T16:05:48.77692+00:00",
+      "NumProgressed": 882187,
+      "NumCompleted": 2408
     }
   ],
   "TotalAchievements": 57,
@@ -30410,15 +30415,15 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2647
     },
     {
       "ID": "FollowingTheRiver",
@@ -30474,7 +30479,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "IAmMaxTac",
@@ -30490,7 +30495,7 @@
       "Name": "Mean Streets",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "LittleTokyo",
@@ -30530,7 +30535,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "NoMansLand",
@@ -30562,7 +30567,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "Specialist",
@@ -30584,9 +30589,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5293
+      "UsersEstimate": 6175
     },
     {
       "ID": "TheDevil",
@@ -30600,17 +30605,17 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2647
     },
     {
       "ID": "TheHightPriestess",
@@ -30618,7 +30623,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "TheLovers",
@@ -30656,9 +30661,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "ThisIsPacifica",
@@ -30672,9 +30677,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3528
+      "UsersEstimate": 4411
     },
     {
       "ID": "TrueSoldier",
@@ -30682,7 +30687,7 @@
       "Name": "True Soldier",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "TrueWarrior",
@@ -30696,9 +30701,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 3529
     },
     {
       "ID": "UnderPressure",
@@ -30714,7 +30719,7 @@
       "Name": "V for Vendetta",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "YipMan",
@@ -30841,21 +30846,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882102,
-      "Completed": 2407
+      "Progressed": 882187,
+      "Completed": 2408
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10725,
+      "Progressed": 10810,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-26T13:57:28.004197+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:07:30.7538072+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:05:48.7769196+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:57:30.7329232+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:07:30.753938+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:57:19.831289+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:05:48.7770769+00:00"
 }

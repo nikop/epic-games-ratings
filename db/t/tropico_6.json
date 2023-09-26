@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1072,10 +1072,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 692,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-09-26T16:00:31.9831631+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 692,
+  "NumberOfAwards": 693,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1095,7 +1101,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1146,9 +1152,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5346,
+  "EOS_Progressed": 5347,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10396,6 +10402,11 @@
       "Time": "2023-09-26T15:04:42.5313445+00:00",
       "NumProgressed": 5346,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T16:03:31.1057282+00:00",
+      "NumProgressed": 5347,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10463,7 +10474,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -10726,15 +10737,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5346,
+      "Progressed": 5347,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-09-26T15:01:48.0530834+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:04:42.5313441+00:00",
+  "LastChanged": "2023-09-26T16:00:31.983163+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:03:31.1057278+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:01:48.0530839+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:04:42.5314137+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:00:31.9831635+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:03:31.1058148+00:00"
 }

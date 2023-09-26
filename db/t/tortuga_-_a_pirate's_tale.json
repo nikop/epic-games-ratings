@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16229,
+  "EOS_Progressed": 16230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4576,6 +4576,11 @@
       "Time": "2023-09-25T20:06:39.9353377+00:00",
       "NumProgressed": 16229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T16:06:51.8385143+00:00",
+      "NumProgressed": 16230,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4595,7 +4600,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14120
     },
     {
       "ID": "ACH0010",
@@ -4625,9 +4630,9 @@
       "ID": "ACH0013",
       "SetID": "6749a6l",
       "Name": "Make It Rain",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3733
     },
     {
       "ID": "ACH0014",
@@ -4659,7 +4664,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH0018",
@@ -4667,7 +4672,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3570
+      "UsersEstimate": 3571
     },
     {
       "ID": "ACH0019",
@@ -4683,7 +4688,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11685
+      "UsersEstimate": 11686
     },
     {
       "ID": "ACH0020",
@@ -4771,7 +4776,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH008",
@@ -4794,7 +4799,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16229,
+      "Progressed": 16230,
       "Completed": 0
     }
   ],
@@ -4802,8 +4807,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:08:40.7030949+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:06:51.8385138+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.9271545+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:01:15.5265677+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:08:40.7031361+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:00:04.7202965+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:06:51.838561+00:00"
 }

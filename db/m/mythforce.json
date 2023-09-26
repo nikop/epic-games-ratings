@@ -4,8 +4,8 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 588,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 354,
-  "Ranking_EOS_Progress": 182,
+  "Ranking_PopularitySum": 355,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 82,
@@ -701,9 +701,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3224,
+  "EOS_Progressed": 3225,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5706,6 +5706,11 @@
       "Time": "2023-09-26T15:07:36.3902669+00:00",
       "NumProgressed": 3224,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T16:05:53.0631733+00:00",
+      "NumProgressed": 3225,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5782,7 +5787,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -5901,15 +5906,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3224,
+      "Progressed": 3225,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:07:36.3902664+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:05:53.0631728+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:57:52.4028871+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:07:36.3903034+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:57:34.0772937+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:05:53.0632218+00:00"
 }

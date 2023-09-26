@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -387,6 +387,11 @@
       "Time": "2023-09-26T15:05:09.7735063+00:00",
       "NumProgressed": 217,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T16:03:52.2694046+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -407,15 +412,15 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_eou3",
@@ -423,7 +428,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_eou4",
@@ -437,17 +442,17 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_eou7",
@@ -461,9 +466,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_mg2",
@@ -502,14 +507,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 219,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:05:09.7735059+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:03:52.2694042+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:01:05.8404606+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:05:09.7735162+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:59:58.5260406+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:03:52.2694194+00:00"
 }

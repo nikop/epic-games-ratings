@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109166,
+  "EOS_Progressed": 109169,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 877,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12271,6 +12271,11 @@
       "Time": "2023-09-26T15:08:33.6095079+00:00",
       "NumProgressed": 109166,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-26T16:06:46.6022895+00:00",
+      "NumProgressed": 109169,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -12290,7 +12295,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 82966
+      "UsersEstimate": 82968
     },
     {
       "ID": "EAwards_10",
@@ -12298,7 +12303,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12008
+      "UsersEstimate": 12009
     },
     {
       "ID": "EAwards_11",
@@ -12306,7 +12311,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28383
+      "UsersEstimate": 28384
     },
     {
       "ID": "EAwards_12",
@@ -12314,7 +12319,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15283
+      "UsersEstimate": 15284
     },
     {
       "ID": "EAwards_13",
@@ -12354,7 +12359,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39300
+      "UsersEstimate": 39301
     },
     {
       "ID": "EAwards_18",
@@ -12378,7 +12383,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 52400
+      "UsersEstimate": 52401
     },
     {
       "ID": "EAwards_20",
@@ -12434,7 +12439,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12008
+      "UsersEstimate": 12009
     },
     {
       "ID": "EAwards_27",
@@ -12514,7 +12519,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8733
+      "UsersEstimate": 8734
     },
     {
       "ID": "EAwards_36",
@@ -12642,7 +12647,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8733
+      "UsersEstimate": 8734
     },
     {
       "ID": "EAwards_7",
@@ -12650,7 +12655,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12008
+      "UsersEstimate": 12009
     },
     {
       "ID": "EAwards_8",
@@ -12658,7 +12663,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12008
+      "UsersEstimate": 12009
     },
     {
       "ID": "EAwards_9",
@@ -12673,7 +12678,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 109166,
+      "Progressed": 109169,
       "Completed": 42
     }
   ],
@@ -12681,8 +12686,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:08:33.6095073+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:06:46.602289+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.3019497+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:01:07.569811+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:08:33.6096007+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:59:59.7722419+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:06:46.6024047+00:00"
 }

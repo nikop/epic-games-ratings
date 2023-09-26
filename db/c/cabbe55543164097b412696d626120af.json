@@ -4,7 +4,7 @@
   "ProductSlug": "dwarf-delve-ff90e1",
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.7323471+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:02:24.7946637+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:05:48.8260523+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:00:58.5602819+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:04:22.8206912+00:00"
 }

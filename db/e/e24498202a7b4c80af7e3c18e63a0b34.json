@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 4789,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1308,
+  "EOS_NewPlayers": 1296,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1742,17 +1742,17 @@
       "ID": "achievement_04_07",
       "SetID": "4f1m94d",
       "Name": "Nitro Saver",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2107
     },
     {
       "ID": "achievement_04_08",
       "SetID": "4f1m94d",
       "Name": "Trigger-Happy",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3831
+      "UsersEstimate": 3879
     },
     {
       "ID": "achievement_04_09",
@@ -1773,8 +1773,8 @@
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:08:49.0592255+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:07:08.0838749+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:03:49.3457341+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:08:49.0592577+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:02:18.4238507+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:07:08.0839147+00:00"
 }

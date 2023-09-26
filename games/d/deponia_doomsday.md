@@ -19,7 +19,7 @@ Rating: 4.57 (Ranked 453)
 | Elysian Minigame-Master | 37.00% | ~155 |
 | Sole Music | 36.00% | ~151 |
 | No man left behind! | 30.00% | ~126 |
-| Portals come in packs | 29.00% | ~122 |
+| Portals come in packs | 30.00% | ~126 |
 | Photo Friend | 26.00% | ~109 |
 | Brainfreeze | 21.00% | ~88 |
 | And everything comes full circle. | 20.00% | ~84 |

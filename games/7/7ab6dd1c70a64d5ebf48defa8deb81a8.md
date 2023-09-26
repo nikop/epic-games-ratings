@@ -3,7 +3,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shatter Them All | 0.00% | ~0 |
+| Shatter Them All | 3.00% | ~1 |
+| Break Out | 0.00% | ~0 |
+| Trinity | 0.00% | ~0 |
 | Clear Sight | -3.30% | ~-1 |
 | Forgemaster | -3.30% | ~-1 |
 | Shardbearer | -3.30% | ~-1 |
@@ -19,7 +21,6 @@
 | Powerful Allies | -6.70% | ~-2 |
 | A Taste of Wrath | -6.70% | ~-2 |
 | The Mentor | -6.70% | ~-2 |
-| Trinity | -6.70% | ~-2 |
 | Adventurer | -6.70% | ~-2 |
 | Airborne | -6.70% | ~-2 |
 | Essence Blow | -6.70% | ~-2 |
@@ -29,7 +30,6 @@
 | I Found It | -6.70% | ~-2 |
 | The Collector | -6.70% | ~-2 |
 | A Queen's Tale | -6.70% | ~-2 |
-| Break Out | -10.00% | ~-3 |
 | To Battle | -10.00% | ~-3 |
 | Godslayer | -10.00% | ~-3 |
 | Tributes of Caladrias | -10.00% | ~-3 |

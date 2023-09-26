@@ -15,7 +15,7 @@ Rating: 4.70 (Ranked 205)
 | Somewhere Deep in the Lost Caribbean | 31.00% | ~209 |
 | Mirror Mirror on the Wall | 30.00% | ~202 |
 | Pirates Assemble! | 27.00% | ~182 |
-| Buccaneer | 23.00% | ~155 |
+| Buccaneer | 24.00% | ~162 |
 | Fishy Fish | 22.00% | ~148 |
 | All Good Things | 19.00% | ~128 |
 | Seadog | 18.00% | ~121 |
@@ -33,7 +33,7 @@ Rating: 4.70 (Ranked 205)
 | Welcome Back Jester | 3.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 674 (Ranked 248)  
-Completed: 18 (2.67%) (Ranked 84)  
+Completed: 19 (2.82%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 18 (2.67%) (Ranked 84)
 | 2023-09-23 | 668 | 18 |
 | 2023-09-24 | 669 | 18 |
 | 2023-09-25 | 673 | 18 |
-| 2023-09-26 | 674 | 18 |
+| 2023-09-26 | 674 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

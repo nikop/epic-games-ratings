@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1036,11 +1036,11 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12920,
-  "EOS_Completed": 47,
-  "EOS_NewPlayers": 376,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Progressed": 12923,
+  "EOS_Completed": 48,
+  "EOS_NewPlayers": 373,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -11646,6 +11646,11 @@
       "Time": "2023-09-26T15:04:29.9421279+00:00",
       "NumProgressed": 12920,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-26T16:03:21.6890621+00:00",
+      "NumProgressed": 12923,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -11657,7 +11662,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10465
+      "UsersEstimate": 10468
     },
     {
       "ID": "ACH02",
@@ -11665,7 +11670,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ACH03",
@@ -11713,7 +11718,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6462
     },
     {
       "ID": "ACH09",
@@ -11761,7 +11766,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACH15",
@@ -11777,7 +11782,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "ACH17",
@@ -11833,7 +11838,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "ACH24",
@@ -11936,16 +11941,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12920,
-      "Completed": 47
+      "Progressed": 12923,
+      "Completed": 48
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-26T14:59:29.3113573+00:00",
-  "LastChanged_Achievements": "2023-09-26T15:04:29.9421274+00:00",
+  "LastChanged_Achievements": "2023-09-26T16:03:21.6890617+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-26T14:59:29.3113579+00:00",
-  "LastUpdate_Achievements": "2023-09-26T15:04:29.9422056+00:00"
+  "LastUpdate_Ratings": "2023-09-26T15:58:44.9298268+00:00",
+  "LastUpdate_Achievements": "2023-09-26T16:03:21.689155+00:00"
 }

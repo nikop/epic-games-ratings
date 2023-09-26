@@ -6,70 +6,70 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,874 |
-| He's Signed! | 50.00% | ~236,874 |
-| First Victory | 50.00% | ~236,874 |
-| He's Sold! | 48.00% | ~227,399 |
-| I'm The Boss! | 42.00% | ~198,974 |
-| Hat-trick | 41.00% | ~194,236 |
-| Scoring Streak | 38.00% | ~180,024 |
-| Unbeatable! | 37.00% | ~175,286 |
-| Thumping | 37.00% | ~175,286 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,811 |
-| Total Support | 32.00% | ~151,599 |
-| Record Signing | 32.00% | ~151,599 |
+| Clean Sheet | 50.00% | ~236,875 |
+| He's Signed! | 50.00% | ~236,875 |
+| First Victory | 50.00% | ~236,875 |
+| He's Sold! | 48.00% | ~227,400 |
+| I'm The Boss! | 42.00% | ~198,975 |
+| Hat-trick | 41.00% | ~194,238 |
+| Scoring Streak | 38.00% | ~180,025 |
+| Unbeatable! | 37.00% | ~175,288 |
+| Thumping | 37.00% | ~175,288 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,812 |
+| Total Support | 32.00% | ~151,600 |
+| Record Signing | 32.00% | ~151,600 |
 | He's a Natural | 31.00% | ~146,862 |
 | Millionaire's Club | 31.00% | ~146,862 |
-| Team Performance | 30.00% | ~142,124 |
-| Parked The Bus | 29.00% | ~137,387 |
-| Shrewd Spender | 29.00% | ~137,387 |
-| Star Man | 29.00% | ~137,387 |
-| Attack! | 28.00% | ~132,649 |
-| Tremendous Trio | 27.00% | ~127,912 |
-| Record Sale | 27.00% | ~127,912 |
-| You're On Fire | 26.00% | ~123,174 |
-| On A Roll | 26.00% | ~123,174 |
-| Unstoppable Force | 26.00% | ~123,174 |
-| Armchair Expert | 25.00% | ~118,437 |
-| Fantastic Five | 24.00% | ~113,699 |
-| Full Faith | 24.00% | ~113,699 |
-| Iron Curtain | 24.00% | ~113,699 |
-| The Boss | 24.00% | ~113,699 |
+| Team Performance | 30.00% | ~142,125 |
+| Parked The Bus | 29.00% | ~137,388 |
+| Shrewd Spender | 29.00% | ~137,388 |
+| Star Man | 29.00% | ~137,388 |
+| Attack! | 28.00% | ~132,650 |
+| Tremendous Trio | 27.00% | ~127,913 |
+| Record Sale | 27.00% | ~127,913 |
+| You're On Fire | 26.00% | ~123,175 |
+| On A Roll | 26.00% | ~123,175 |
+| Unstoppable Force | 26.00% | ~123,175 |
+| Armchair Expert | 25.00% | ~118,438 |
+| Fantastic Five | 24.00% | ~113,700 |
+| Full Faith | 24.00% | ~113,700 |
+| Iron Curtain | 24.00% | ~113,700 |
+| The Boss | 24.00% | ~113,700 |
 | Top Of The Class | 23.00% | ~108,962 |
 | Goal Machine | 23.00% | ~108,962 |
-| Splashing The Cash | 22.00% | ~104,224 |
-| Clean Bill of Health | 22.00% | ~104,224 |
-| What A Goal! | 22.00% | ~104,224 |
-| Cup Glory! | 22.00% | ~104,224 |
-| Irresistible Force | 20.00% | ~94,749 |
-| Excellent Match Cohesion | 20.00% | ~94,749 |
+| Splashing The Cash | 22.00% | ~104,225 |
+| Clean Bill of Health | 22.00% | ~104,225 |
+| What A Goal! | 22.00% | ~104,225 |
+| Cup Glory! | 22.00% | ~104,225 |
+| Irresistible Force | 20.00% | ~94,750 |
+| Excellent Match Cohesion | 20.00% | ~94,750 |
 | Do The Double | 19.00% | ~90,012 |
-| Top Form | 17.00% | ~80,537 |
-| Cash To Burn | 17.00% | ~80,537 |
+| Top Form | 17.00% | ~80,538 |
+| Cash To Burn | 17.00% | ~80,538 |
 | Overachiever! | 16.00% | ~75,800 |
 | Beating Expectations | 15.00% | ~71,062 |
 | Rushed signing | 15.00% | ~71,062 |
 | Window Shopping | 15.00% | ~71,062 |
 | Eyes and Ears | 14.00% | ~66,325 |
 | Comeback King! | 14.00% | ~66,325 |
-| You're Up! | 13.00% | ~61,587 |
+| You're Up! | 13.00% | ~61,588 |
 | Money, Money, Money | 12.00% | ~56,850 |
 | Superb Strike | 10.00% | ~47,375 |
 | International Superstar | 10.00% | ~47,375 |
 | Invincible! | 10.00% | ~47,375 |
 | Best In The World | 10.00% | ~47,375 |
-| Best In Europe | 9.00% | ~42,637 |
-| National Service | 9.00% | ~42,637 |
-| Headhunted | 9.00% | ~42,637 |
-| Domination | 9.00% | ~42,637 |
+| Best In Europe | 9.00% | ~42,638 |
+| National Service | 9.00% | ~42,638 |
+| Headhunted | 9.00% | ~42,638 |
+| Domination | 9.00% | ~42,638 |
 | Best In The Business | 8.00% | ~37,900 |
 | Legend | 6.00% | ~28,425 |
 | Win the Club World Cup | 6.00% | ~28,425 |
 | Parked The Tank | 6.00% | ~28,425 |
 | World Renowned | 6.00% | ~28,425 |
 | Head-to-Head | 6.00% | ~28,425 |
-| Going Places | 5.00% | ~23,687 |
-| We Trust You | 5.00% | ~23,687 |
+| Going Places | 5.00% | ~23,688 |
+| We Trust You | 5.00% | ~23,688 |
 | Trophy Hoarder | 4.00% | ~18,950 |
 | National Hero | 3.00% | ~14,212 |
 | Golden Boot | 3.00% | ~14,212 |
@@ -81,10 +81,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Mr Delegator | 2.00% | ~9,475 |
 | Scout's Honour | 2.00% | ~9,475 |
 | On Top Of The World | 2.00% | ~9,475 |
-| There Is Always Plan B | 1.00% | ~4,737 |
-| Living the Dream | 1.00% | ~4,737 |
-| The Greatest | 1.00% | ~4,737 |
-| Beat your Mates | 1.00% | ~4,737 |
+| There Is Always Plan B | 1.00% | ~4,738 |
+| Living the Dream | 1.00% | ~4,738 |
+| The Greatest | 1.00% | ~4,738 |
+| Beat your Mates | 1.00% | ~4,738 |
 | Perfect Host | 0.70% | ~3,316 |
 | The Rich Get Richer | 0.70% | ~3,316 |
 | One more draft | 0.70% | ~3,316 |
@@ -92,11 +92,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Set Piece Specialist | 0.60% | ~2,842 |
 | Draft Rivalry | 0.50% | ~2,369 |
 | Outstanding Defence | 0.40% | ~1,895 |
+| Club Legend | 0.40% | ~1,895 |
 | Beat all the AI Managers | 0.40% | ~1,895 |
-| Club Legend | 0.30% | ~1,421 |
-| Immortality | 0.20% | ~947 |
-| Impervious | 0.20% | ~947 |
-| Draft Dominator | 0.20% | ~947 |
+| Immortality | 0.20% | ~948 |
+| Impervious | 0.20% | ~948 |
+| Draft Dominator | 0.20% | ~948 |
 | Immovable Object | 0.10% | ~474 |
 | Value For Money | 0.10% | ~474 |
 | 100 Club | 0.10% | ~474 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,747 (Ranked 36)  
+Progressed: 473,750 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 21 (0.00%) (Ranked 293)
 | 2023-09-23 | 473,627 | 21 |
 | 2023-09-24 | 473,686 | 21 |
 | 2023-09-25 | 473,723 | 21 |
-| 2023-09-26 | 473,747 | 21 |
+| 2023-09-26 | 473,750 | 21 |
 ## Awards
 Max (Relaxing): 6,453  (Ranked 54)  
 Sum: 50,784 (Ranked 26)  
