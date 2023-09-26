@@ -2006,9 +2006,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2087,8 +2087,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-25T10:57:27.3767102+00:00",
-  "LastChanged_Achievements": "2023-09-26T03:05:12.5807643+00:00",
+  "LastChanged_Achievements": "2023-09-26T04:05:04.7480521+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:57:29.6783924+00:00",
-  "LastUpdate_Achievements": "2023-09-26T03:05:12.5807941+00:00"
+  "LastUpdate_Ratings": "2023-09-26T03:57:26.1276153+00:00",
+  "LastUpdate_Achievements": "2023-09-26T04:05:04.7480754+00:00"
 }

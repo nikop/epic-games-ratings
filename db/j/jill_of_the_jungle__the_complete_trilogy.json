@@ -4,7 +4,7 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1780,
+  "EOS_Progressed": 1782,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 7.58,
   "EosHistory": [
@@ -6214,6 +6214,11 @@
       "Time": "2023-09-26T01:50:58.5553491+00:00",
       "NumProgressed": 1780,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2023-09-26T04:06:40.4535511+00:00",
+      "NumProgressed": 1782,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 5,
@@ -6225,7 +6230,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1782
     },
     {
       "ID": "2",
@@ -6257,14 +6262,14 @@
       "Name": "Jill the Champion",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1780,
+      "Progressed": 1782,
       "Completed": 135
     }
   ],
@@ -6272,8 +6277,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-09-26T03:06:47.5644288+00:00",
+  "LastChanged_Achievements": "2023-09-26T04:06:40.4535506+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.4099307+00:00",
-  "LastUpdate_Ratings": "2023-09-26T03:00:26.2605834+00:00",
-  "LastUpdate_Achievements": "2023-09-26T03:06:47.5644786+00:00"
+  "LastUpdate_Ratings": "2023-09-26T04:00:04.9579357+00:00",
+  "LastUpdate_Achievements": "2023-09-26T04:06:40.4535847+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3164,9 +3164,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72829,
+  "EOS_Progressed": 72830,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16644,6 +16644,11 @@
       "Time": "2023-09-26T02:21:59.3260072+00:00",
       "NumProgressed": 72829,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-26T04:06:00.5128159+00:00",
+      "NumProgressed": 72830,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16735,7 +16740,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8739
+      "UsersEstimate": 8740
     },
     {
       "ID": "APPLY_STATUS",
@@ -16807,7 +16812,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -16831,7 +16836,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8739
+      "UsersEstimate": 8740
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -16879,7 +16884,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21120
+      "UsersEstimate": 21121
     },
     {
       "ID": "FREEZE_1_5",
@@ -16959,7 +16964,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 26218
+      "UsersEstimate": 26219
     },
     {
       "ID": "HARLEY_2",
@@ -16967,7 +16972,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18207
+      "UsersEstimate": 18208
     },
     {
       "ID": "HARLEY_3",
@@ -16999,7 +17004,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37871
+      "UsersEstimate": 37872
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17055,7 +17060,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18207
+      "UsersEstimate": 18208
     },
     {
       "ID": "MYSTERY_03",
@@ -17103,7 +17108,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8739
+      "UsersEstimate": 8740
     },
     {
       "ID": "SECRET_CACHE",
@@ -17142,13 +17147,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72829,
+      "Progressed": 72830,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43109,
+      "Progressed": 43110,
       "Completed": 2667
     }
   ],
@@ -17156,8 +17161,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-25T16:57:54.5212791+00:00",
-  "LastChanged_Achievements": "2023-09-26T03:06:07.427815+00:00",
+  "LastChanged_Achievements": "2023-09-26T04:06:00.5128154+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:58:01.1892397+00:00",
-  "LastUpdate_Achievements": "2023-09-26T03:06:07.427976+00:00"
+  "LastUpdate_Ratings": "2023-09-26T03:57:51.3093588+00:00",
+  "LastUpdate_Achievements": "2023-09-26T04:06:00.5129817+00:00"
 }

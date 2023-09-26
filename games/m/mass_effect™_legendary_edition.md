@@ -7,8 +7,8 @@
 | Distinguished Service Medal | 93.00% | ~351 |
 | Spectre Inductee | 84.00% | ~317 |
 | Medal of Exploration I | 76.00% | ~287 |
+| Recruit | 74.00% | ~279 |
 | Search and Rescue | 74.00% | ~279 |
-| Recruit | 73.00% | ~275 |
 | Quarian Ally | 67.00% | ~253 |
 | Honorarium of Corporate Service | 66.00% | ~249 |
 | Medal of Heroism | 64.00% | ~241 |
@@ -17,9 +17,9 @@
 | Council Legion of Merit | 58.00% | ~219 |
 | Medal of Honor | 55.00% | ~207 |
 | Meritorious Service Medal | 55.00% | ~207 |
+| Charismatic | 55.00% | ~207 |
 | Soldier | 54.00% | ~204 |
 | Medal of Exploration III | 54.00% | ~204 |
-| Charismatic | 54.00% | ~204 |
 | Asari Ally | 53.00% | ~200 |
 | Principled | 52.00% | ~196 |
 | Colonial Savior | 51.00% | ~192 |

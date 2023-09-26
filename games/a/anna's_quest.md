@@ -17,11 +17,11 @@
 | Fussy eater | 41.00% | ~20 |
 | Sorry Grandpa | 41.00% | ~20 |
 | Roostwig has entered the building | 41.00% | ~20 |
+| Game Over! | 39.00% | ~19 |
+| A very special drink | 39.00% | ~19 |
 | Far away from home | 39.00% | ~19 |
 | NOW GO AWAY! | 39.00% | ~19 |
-| Game Over! | 37.00% | ~18 |
 | Show me your true self | 37.00% | ~18 |
-| A very special drink | 37.00% | ~18 |
 | Little genius | 37.00% | ~18 |
 | GG | 35.00% | ~17 |
 | No posters allowed | 35.00% | ~17 |

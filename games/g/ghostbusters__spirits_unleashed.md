@@ -23,6 +23,7 @@ Rating: 4.50 (Ranked 573)
 | Cultured | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
+| Summoner | 0.40% | ~104 |
 | Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
@@ -31,7 +32,6 @@ Rating: 4.50 (Ranked 573)
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
-| Summoner | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
 | Collector | 0.20% | ~52 |
 | Diabolical | 0.20% | ~52 |

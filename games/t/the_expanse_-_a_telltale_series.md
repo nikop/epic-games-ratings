@@ -5,27 +5,27 @@ Rating: 4.52 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,356 |
-| Captain Drummer | 29.00% | ~3,715 |
-| Stogie for Fogey | 28.00% | ~3,587 |
-| Martian Music | 27.00% | ~3,459 |
-| Celebrations are in Order | 27.00% | ~3,459 |
-| Spore Taste | 26.00% | ~3,331 |
-| The Pit and the Pirates | 24.00% | ~3,075 |
+| Impossible Objects | 34.00% | ~4,357 |
+| Captain Drummer | 29.00% | ~3,716 |
+| Stogie for Fogey | 28.00% | ~3,588 |
+| Martian Music | 27.00% | ~3,460 |
+| Celebrations are in Order | 27.00% | ~3,460 |
+| Spore Taste | 26.00% | ~3,332 |
+| The Pit and the Pirates | 24.00% | ~3,076 |
 | Drone Dodger | 23.00% | ~2,947 |
-| Doctor Approved | 19.00% | ~2,434 |
+| Doctor Approved | 19.00% | ~2,435 |
 | Bosmang | 16.00% | ~2,050 |
 | Thorston Mayer | 15.00% | ~1,922 |
-| Bottoms up! | 12.00% | ~1,537 |
-| Call it Even | 12.00% | ~1,537 |
-| Data Archivist | 11.00% | ~1,409 |
-| Heal Thy Medic | 10.00% | ~1,281 |
+| Bottoms up! | 12.00% | ~1,538 |
+| Call it Even | 12.00% | ~1,538 |
+| Data Archivist | 11.00% | ~1,410 |
+| Heal Thy Medic | 10.00% | ~1,282 |
 | Khan's Revenge | 9.00% | ~1,153 |
-| Data Logger | 7.00% | ~897 |
+| Data Logger | 8.00% | ~1,025 |
 | Miraculous Maya | 6.00% | ~769 |
 | Data Master | 6.00% | ~769 |
 | Data Recoverer | 6.00% | ~769 |
-| Debris Spree | 4.00% | ~512 |
+| Debris Spree | 4.00% | ~513 |
 | Urshanabi Hoarder | 3.00% | ~384 |
 | Brother's Reaper | 3.00% | ~384 |
 | No Belter Left Behind | 3.00% | ~384 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 535)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,812 (Ranked 134)  
+Progressed: 12,815 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 12,197 | 0 |
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
-| 2023-09-26 | 12,812 | 0 |
+| 2023-09-26 | 12,815 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

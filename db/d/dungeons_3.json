@@ -2680,7 +2680,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31362,
+  "EOS_Progressed": 31363,
   "EOS_Completed": 259,
   "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 7,
@@ -19980,6 +19980,11 @@
       "Time": "2023-09-26T03:08:19.8758035+00:00",
       "NumProgressed": 31362,
       "NumCompleted": 259
+    },
+    {
+      "Time": "2023-09-26T04:08:31.9719688+00:00",
+      "NumProgressed": 31363,
+      "NumCompleted": 259
     }
   ],
   "TotalAchievements": 60,
@@ -19991,7 +19996,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 18190
+      "UsersEstimate": 18191
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -20007,7 +20012,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17876
+      "UsersEstimate": 17877
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -20039,7 +20044,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3764
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -20055,7 +20060,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7840
+      "UsersEstimate": 7841
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -20103,7 +20108,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15367
+      "UsersEstimate": 15368
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -20127,7 +20132,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9722
+      "UsersEstimate": 9723
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -20143,7 +20148,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3764
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -20191,7 +20196,7 @@
       "Name": "Night of the Living Dead (on Speed)",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH_D3_Campaign_Graves_Completed",
@@ -20215,7 +20220,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11290
+      "UsersEstimate": 11291
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -20223,7 +20228,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12858
+      "UsersEstimate": 12859
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -20231,7 +20236,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -20247,7 +20252,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -20279,7 +20284,7 @@
       "Name": "I need a hero!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH_D3_Campaign_Pain_2",
@@ -20351,7 +20356,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9722
+      "UsersEstimate": 9723
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -20367,7 +20372,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10349
+      "UsersEstimate": 10350
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -20415,7 +20420,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6272
+      "UsersEstimate": 6273
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -20470,15 +20475,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31362,
+      "Progressed": 31363,
       "Completed": 259
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-25T19:57:53.7604938+00:00",
-  "LastChanged_Achievements": "2023-09-26T03:08:19.8758029+00:00",
+  "LastChanged_Achievements": "2023-09-26T04:08:31.9719684+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.6938944+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:57:58.1759812+00:00",
-  "LastUpdate_Achievements": "2023-09-26T03:08:19.8759736+00:00"
+  "LastUpdate_Ratings": "2023-09-26T03:57:48.2819213+00:00",
+  "LastUpdate_Achievements": "2023-09-26T04:08:31.9720993+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~33,425 |
+| First F#@!ing Day | 46.00% | ~33,426 |
 | To The Nines | 42.00% | ~30,519 |
 | Optimized | 36.00% | ~26,159 |
 | Performance Review | 36.00% | ~26,159 |
 | Making a Name | 34.00% | ~24,706 |
 | Tune Up | 33.00% | ~23,979 |
-| Landlord | 32.00% | ~23,252 |
+| Landlord | 32.00% | ~23,253 |
 | The Side Job | 31.00% | ~22,526 |
 | Wet Work | 31.00% | ~22,526 |
-| Wrecking Ball | 27.00% | ~19,619 |
-| Food for Thought | 27.00% | ~19,619 |
+| Wrecking Ball | 27.00% | ~19,620 |
+| Food for Thought | 27.00% | ~19,620 |
 | Finders Keepers | 25.00% | ~18,166 |
 | A Young Empire | 25.00% | ~18,166 |
 | Work Ethic | 23.00% | ~16,713 |
@@ -31,10 +31,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | Hijacked | 11.00% | ~7,993 |
 | The Spins | 10.00% | ~7,266 |
 | The Mechanic | 10.00% | ~7,266 |
-| We could go home, or… | 7.00% | ~5,086 |
-| Challenge Accepted | 7.00% | ~5,086 |
-| A Golden Age | 7.00% | ~5,086 |
-| Closet Space | 7.00% | ~5,086 |
+| We could go home, or… | 7.00% | ~5,087 |
+| Challenge Accepted | 7.00% | ~5,087 |
+| A Golden Age | 7.00% | ~5,087 |
+| Closet Space | 7.00% | ~5,087 |
 | Producer Credit | 7.00% | ~3,101 |
 | Face Off | 6.00% | ~2,658 |
 | The Professional | 5.00% | ~3,633 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~145 |
 | Fiesta Time | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,664 (Ranked 85)  
+Progressed: 72,665 (Ranked 85)  
 Completed: 49 (0.07%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 49 (0.07%) (Ranked 243)
 | 2023-09-23 | 72,319 | 49 |
 | 2023-09-24 | 72,496 | 49 |
 | 2023-09-25 | 72,640 | 49 |
-| 2023-09-26 | 72,664 | 49 |
+| 2023-09-26 | 72,665 | 49 |
 ## Awards
 Max (Extremely Fun): 1,067  (Ranked 141)  
 Sum: 8,655 (Ranked 97)  
