@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.84% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.83% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.00% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -93,7 +93,7 @@
 | 91 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
 | 93 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
-| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 96 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 97 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.11% |
@@ -143,7 +143,7 @@
 | 140 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.79% |
 | 142 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 143 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 144 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
+| 144 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 145 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.65% |
 | 146 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 147 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
@@ -162,16 +162,16 @@
 | 159 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 161 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.49% |
 | 162 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
-| 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.47% |
 | 163 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 163 | [Them and Us](games/t/them_and_us.md) | 0.47% |
-| 166 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 166 | [Godlike Burger](games/g/godlike_burger.md) | 0.46% |
-| 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 165 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 165 | [Godlike Burger](games/g/godlike_burger.md) | 0.46% |
+| 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.46% |
+| 165 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 169 | [Dead Space](games/d/dead_space.md) | 0.45% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 171 | [Tchia](games/t/tchia.md) | 0.44% |
-| 172 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 172 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
@@ -195,7 +195,7 @@
 | 191 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 194 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 194 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 194 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.29% |
+| 196 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.28% |
 | 197 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.27% |
 | 198 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.26% |
 | 199 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
@@ -458,6 +458,7 @@
 | 293 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.00% |
 | 293 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
 | 293 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.00% |
+| 293 | [Lucky Goal](games/7/7a78425e9d094942bd44700957de54da.md) | 0.00% |
 | 293 | [Madden NFL 23](games/m/madden_nfl_23.md) | 0.00% |
 | 293 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 0.00% |
 | 293 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
@@ -635,4 +636,4 @@
 | 293 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 293 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 293 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,296 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,298 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
