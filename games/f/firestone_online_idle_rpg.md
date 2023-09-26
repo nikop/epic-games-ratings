@@ -5,9 +5,9 @@ Rating: 4.03 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,834 |
-| World Map | 79.00% | ~1,558 |
-| Temple of Eternals | 57.00% | ~1,124 |
+| Victor | 93.00% | ~1,835 |
+| World Map | 79.00% | ~1,559 |
+| Temple of Eternals | 57.00% | ~1,125 |
 | Prestigious | 54.00% | ~1,065 |
 | Fellowship Power | 41.00% | ~809 |
 | Guild Power | 26.00% | ~513 |
@@ -39,10 +39,10 @@ Rating: 4.03 (Ranked 949)
 | The power of Awakening | 11.00% | ~217 |
 | Frostfire Liberator | 10.00% | ~197 |
 | Moving Up The Ladder | 10.00% | ~197 |
-| Here We Go Again | 9.00% | ~177 |
-| Master Enchanter | 9.00% | ~177 |
-| The father of Dragons | 9.00% | ~177 |
-| Trader | 9.00% | ~177 |
+| Here We Go Again | 9.00% | ~178 |
+| Master Enchanter | 9.00% | ~178 |
+| The father of Dragons | 9.00% | ~178 |
+| Trader | 9.00% | ~178 |
 | Crystal Mining | 8.00% | ~158 |
 | Dragon Slayer | 8.00% | ~158 |
 | Enchanting skill | 8.00% | ~158 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 949)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,972 (Ranked 198)  
+Progressed: 1,973 (Ranked 198)  
 Completed: 2 (0.10%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 2 (0.10%) (Ranked 234)
 | 2023-09-23 | 1,967 | 2 |
 | 2023-09-24 | 1,969 | 2 |
 | 2023-09-25 | 1,970 | 2 |
-| 2023-09-26 | 1,972 | 2 |
+| 2023-09-26 | 1,973 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 22  (Ranked 506)  
 Sum: 44 (Ranked 465)  

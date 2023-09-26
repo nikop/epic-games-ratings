@@ -24,15 +24,15 @@
 | Onk Boga VIII | 35.00% | ~89 |
 | Blubb | 35.00% | ~89 |
 | ParaPara! | 31.00% | ~79 |
+| Kokakoka | 31.00% | ~79 |
 | Onk Boga IX | 31.00% | ~79 |
 | AKRE! | 31.00% | ~79 |
 | Blunga 15 | 30.00% | ~76 |
-| Kokakoka | 30.00% | ~76 |
 | Blunga 20 | 11.00% | ~28 |
-| Blunga 25 | 6.00% | ~15 |
+| Blunga 25 | 7.00% | ~18 |
 | Blunga 30 | 6.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 317)  
+Progressed: 254 (Ranked 318)  
 Completed: 14 (5.51%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |

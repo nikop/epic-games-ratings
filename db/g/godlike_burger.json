@@ -2,12 +2,12 @@
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -1156,8 +1156,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:06:34.3361487+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:05:45.8316843+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:04:16.6435751+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:06:34.3361704+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:03:36.4054519+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:05:45.8317055+00:00"
 }

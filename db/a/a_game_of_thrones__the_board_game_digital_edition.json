@@ -4,7 +4,7 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 865,
   "Ranking_Popularity": 320,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 94,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24832,
+  "EOS_Progressed": 24833,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18370,6 +18370,11 @@
       "Time": "2023-09-26T22:09:46.4289973+00:00",
       "NumProgressed": 24832,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-09-26T23:08:42.0725691+00:00",
+      "NumProgressed": 24833,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 22,
@@ -18501,7 +18506,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4967
     },
     {
       "ID": "1031",
@@ -18509,7 +18514,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "1032",
@@ -18556,15 +18561,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24832,
+      "Progressed": 24833,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:09:46.4289967+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:08:42.0725686+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:01:25.1614488+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:09:46.4291356+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:00:50.3918799+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:08:42.0726589+00:00"
 }

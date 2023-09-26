@@ -4878,9 +4878,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686788,
+  "EOS_Progressed": 686808,
   "EOS_Completed": 2176,
-  "EOS_NewPlayers": 3966,
+  "EOS_NewPlayers": 3976,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22838,6 +22838,11 @@
       "Time": "2023-09-26T22:04:45.1466075+00:00",
       "NumProgressed": 686788,
       "NumCompleted": 2176
+    },
+    {
+      "Time": "2023-09-26T23:04:05.3968586+00:00",
+      "NumProgressed": 686808,
+      "NumCompleted": 2176
     }
   ],
   "TotalAchievements": 45,
@@ -23159,9 +23164,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6868
+      "UsersEstimate": 13736
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -23208,22 +23213,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686788,
+      "Progressed": 686808,
       "Completed": 2176
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12329,
-      "Completed": 12329
+      "Progressed": 12349,
+      "Completed": 12349
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-26T20:58:23.9215305+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:04:45.1466069+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:04:05.3968581+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:58:17.6473131+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:04:45.1467319+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:57:59.8290081+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:04:05.3969715+00:00"
 }

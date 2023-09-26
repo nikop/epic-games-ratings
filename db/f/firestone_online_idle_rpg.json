@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1972,
+  "EOS_Progressed": 1973,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5754,6 +5754,11 @@
       "Time": "2023-09-26T20:08:19.3082608+00:00",
       "NumProgressed": 1972,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T23:07:35.7551692+00:00",
+      "NumProgressed": 1973,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6005,7 +6010,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "heroinspection",
@@ -6077,7 +6082,7 @@
       "Name": "Master Enchanter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "mastery",
@@ -6221,7 +6226,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "thealchemist",
@@ -6245,7 +6250,7 @@
       "Name": "The father of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "thegameison",
@@ -6285,7 +6290,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -6325,7 +6330,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "warmachinesarmy",
@@ -6357,14 +6362,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1972,
+      "Progressed": 1973,
       "Completed": 2
     }
   ],
@@ -6372,8 +6377,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-25T16:03:05.6391271+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:08:33.7810324+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:07:35.7551688+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:04:08.8339791+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:08:33.7812096+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:03:31.1105587+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:07:35.7552571+00:00"
 }

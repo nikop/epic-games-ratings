@@ -8160,9 +8160,9 @@
       "Count": 673
     }
   ],
-  "EOS_Progressed": 297386,
+  "EOS_Progressed": 297390,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25395,6 +25395,11 @@
       "Time": "2023-09-26T22:09:35.2827429+00:00",
       "NumProgressed": 297386,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-26T23:08:32.050381+00:00",
+      "NumProgressed": 297390,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25494,7 +25499,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11895
+      "UsersEstimate": 11896
     },
     {
       "ID": "PFA_20",
@@ -25526,7 +25531,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35686
+      "UsersEstimate": 35687
     },
     {
       "ID": "PFA_24",
@@ -25558,7 +25563,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11895
+      "UsersEstimate": 11896
     },
     {
       "ID": "PFA_28",
@@ -25590,7 +25595,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32712
+      "UsersEstimate": 32713
     },
     {
       "ID": "PFA_31",
@@ -25606,7 +25611,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11895
+      "UsersEstimate": 11896
     },
     {
       "ID": "PFA_33",
@@ -25646,7 +25651,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "PFA_38",
@@ -25654,7 +25659,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11895
+      "UsersEstimate": 11896
     },
     {
       "ID": "PFA_39",
@@ -25670,7 +25675,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11895
+      "UsersEstimate": 11896
     },
     {
       "ID": "PFA_40",
@@ -25686,7 +25691,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "PFA_42",
@@ -25726,7 +25731,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11895
+      "UsersEstimate": 11896
     },
     {
       "ID": "PFA_6",
@@ -25734,7 +25739,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38660
+      "UsersEstimate": 38661
     },
     {
       "ID": "PFA_7",
@@ -25742,7 +25747,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38660
+      "UsersEstimate": 38661
     },
     {
       "ID": "PFA_8",
@@ -25750,7 +25755,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32712
+      "UsersEstimate": 32713
     },
     {
       "ID": "PFA_9",
@@ -25765,7 +25770,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297386,
+      "Progressed": 297390,
       "Completed": 477
     }
   ],
@@ -25773,8 +25778,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-26T20:03:01.7837248+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:09:35.2827425+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:08:32.0503804+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:03:03.7334236+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:09:35.2828893+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:02:23.4479239+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:08:32.0504907+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66245,
+  "EOS_Progressed": 66247,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15984,6 +15984,11 @@
       "Time": "2023-09-26T22:08:30.9433246+00:00",
       "NumProgressed": 66245,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-26T23:07:33.2092659+00:00",
+      "NumProgressed": 66247,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15995,7 +16000,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27823
+      "UsersEstimate": 27824
     },
     {
       "ID": "02",
@@ -16027,7 +16032,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15236
+      "UsersEstimate": 15237
     },
     {
       "ID": "06",
@@ -16051,7 +16056,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "09",
@@ -16099,7 +16104,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "15",
@@ -16163,7 +16168,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "23",
@@ -16179,7 +16184,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "25",
@@ -16195,7 +16200,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "27",
@@ -16203,7 +16208,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "28",
@@ -16211,7 +16216,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "29",
@@ -16219,7 +16224,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10599
+      "UsersEstimate": 10600
     },
     {
       "ID": "30",
@@ -16227,7 +16232,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "31",
@@ -16243,7 +16248,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21861
+      "UsersEstimate": 21862
     },
     {
       "ID": "33",
@@ -16267,7 +16272,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22523
+      "UsersEstimate": 22524
     },
     {
       "ID": "36",
@@ -16307,7 +16312,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6624
+      "UsersEstimate": 6625
     },
     {
       "ID": "41",
@@ -16355,7 +16360,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10599
+      "UsersEstimate": 10600
     },
     {
       "ID": "47",
@@ -16530,21 +16535,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66245,
+      "Progressed": 66247,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29713,
+      "Progressed": 29715,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:08:30.9433241+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:07:33.2092651+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:03:31.6715472+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:08:30.9434899+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:02:55.6756141+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:07:33.2093915+00:00"
 }

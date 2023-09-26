@@ -12,7 +12,7 @@
 | Scholar | 39.00% | ~85 |
 | The darkness | 38.00% | ~82 |
 | A good beginning | 36.00% | ~78 |
-| True G4M3R | 35.00% | ~76 |
+| True G4M3R | 36.00% | ~78 |
 | One last step | 34.00% | ~74 |
 | Cable guy | 32.00% | ~69 |
 | Champollion | 31.00% | ~67 |
@@ -31,7 +31,7 @@
 | Fashion victim | 12.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 217 (Ranked 329)  
-Completed: 13 (5.99%) (Ranked 48)  
+Completed: 13 (5.99%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

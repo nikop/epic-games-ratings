@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5156,
+  "EOS_Progressed": 5157,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -780,6 +780,11 @@
       "Time": "2023-09-23T14:06:00.33233+00:00",
       "NumProgressed": 5156,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-09-26T23:07:05.5968139+00:00",
+      "NumProgressed": 5157,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -839,7 +844,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -847,7 +852,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -855,7 +860,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -919,7 +924,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5054
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -927,7 +932,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1015,7 +1020,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1063,7 +1068,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1079,7 +1084,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5054
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1095,7 +1100,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1182,15 +1187,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5156,
+      "Progressed": 5157,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:08:01.1606174+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:07:05.5968134+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:46.4227927+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:00:29.6618432+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:08:01.1606936+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:59:59.8539656+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:07:05.5968515+00:00"
 }

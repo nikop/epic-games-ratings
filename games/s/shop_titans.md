@@ -70,6 +70,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.50% | ~684 |
 | Wealth Beyond Measure | 0.50% | ~684 |
 | Fat Cat Tag Team | 0.50% | ~684 |
+| Item of Renown | 0.50% | ~684 |
 | Master Merchant | 0.50% | ~684 |
 | Miracle Alchemist | 0.50% | ~684 |
 | Laden with Loot | 0.50% | ~684 |
@@ -83,6 +84,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.50% | ~684 |
 | Exotic Commodities | 0.50% | ~684 |
 | Complete Monopoly | 0.50% | ~684 |
+| King's Blade | 0.50% | ~684 |
 | Top of the World | 0.40% | ~547 |
 | Constellated | 0.40% | ~547 |
 | Thirst for Knowledge | 0.40% | ~547 |
@@ -94,12 +96,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.40% | ~547 |
 | A Legend is Born | 0.40% | ~547 |
 | Necromancer Queen | 0.40% | ~547 |
-| Item of Renown | 0.40% | ~547 |
 | Bountiful Harvest | 0.40% | ~547 |
 | Precision Engineering | 0.40% | ~547 |
 | Master Recycler | 0.40% | ~547 |
 | Economy of Scarce | 0.40% | ~547 |
-| King's Blade | 0.40% | ~547 |
 | The Free Encyclopedia | 0.30% | ~410 |
 | Thank You Tom Nook | 0.30% | ~410 |
 | Jackpot! | 0.30% | ~410 |
@@ -280,12 +280,12 @@ Completed: 156 (0.11%) (Ranked 230)
 | 2023-09-25 | 136,703 | 155 |
 | 2023-09-26 | 136,744 | 156 |
 ## Awards
-Max (Great for Beginners): 4,758  (Ranked 70)  
-Sum: 27,295 (Ranked 48)  
+Max (Great for Beginners): 4,760  (Ranked 70)  
+Sum: 27,297 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,758 |
+| This game is Great for Beginners | 4,760 |
 | This game is Relaxing | 4,016 |
 | This game has Quickly Understood Controls | 4,002 |
 | This game has Diverse Characters | 3,893 |
@@ -538,4 +538,4 @@ Diff (max vs sum): 22
 | 2023-09-23 | 3.99 | - | 4,755 | 27,285 |
 | 2023-09-24 | 3.99 | - | 4,758 | 27,291 |
 | 2023-09-25 | 3.99 | - | 4,758 | 27,292 |
-| 2023-09-26 | 3.99 | - | 4,758 | 27,295 |
+| 2023-09-26 | 3.99 | - | 4,760 | 27,297 |

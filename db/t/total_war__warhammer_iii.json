@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -6671,30 +6671,36 @@
       "Rating": 4.71,
       "NumberOfAwards": 7028,
       "NumberOfAwardsMax": 1927
+    },
+    {
+      "Time": "2023-09-26T23:00:52.1664552+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 7047,
+      "NumberOfAwardsMax": 1930
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7028,
-  "NumberOfAwardsMax": 1927,
+  "NumberOfAwards": 7047,
+  "NumberOfAwardsMax": 1930,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1927
+      "Count": 1930
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 587
+      "Count": 589
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 467
+      "Count": 468
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6718,13 +6724,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 508
+      "Count": 512
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 485
+      "Count": 487
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6736,13 +6742,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 415
+      "Count": 417
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 378
+      "Count": 379
     },
     {
       "Text": "This game has Unique Visuals",
@@ -6754,7 +6760,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 467
+      "Count": 471
     }
   ],
   "EOS_Progressed": 0,
@@ -6768,8 +6774,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-09-25T13:06:29.9263198+00:00",
+  "LastChanged": "2023-09-26T23:00:52.166455+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:14.2946679+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:01:27.8555268+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:10:00.4208016+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:00:52.1664555+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:09:04.527277+00:00"
 }

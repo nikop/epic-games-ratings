@@ -228,12 +228,12 @@ Completed: 260 (0.83%) (Ranked 139)
 | 2023-09-25 | 31,350 | 259 |
 | 2023-09-26 | 31,418 | 260 |
 ## Awards
-Max (Great for Beginners): 353  (Ranked 229)  
-Sum: 2,654 (Ranked 175)  
+Max (Great for Beginners): 354  (Ranked 229)  
+Sum: 2,655 (Ranked 175)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 353 |
+| This game is Great for Beginners | 354 |
 | This game is Extremely Fun | 316 |
 | This game has Quickly Understood Controls | 304 |
 | This game has Amazing Storytelling | 295 |
@@ -425,3 +425,4 @@ Diff (max vs sum): 54
 | 2023-09-20 | 4.66 | - | 351 | 2,649 |
 | 2023-09-23 | 4.66 | - | 351 | 2,652 |
 | 2023-09-25 | 4.66 | - | 353 | 2,654 |
+| 2023-09-26 | 4.66 | - | 354 | 2,655 |

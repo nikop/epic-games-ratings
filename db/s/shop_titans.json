@@ -6200,11 +6200,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27295,
       "NumberOfAwardsMax": 4758
+    },
+    {
+      "Time": "2023-09-26T22:57:26.0868194+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27297,
+      "NumberOfAwardsMax": 4760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27295,
-  "NumberOfAwardsMax": 4758,
+  "NumberOfAwards": 27297,
+  "NumberOfAwardsMax": 4760,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6223,7 +6229,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4758
+      "Count": 4760
     },
     {
       "Text": "This game has Easy Combat",
@@ -23206,9 +23212,9 @@
       "ID": "legenchant01",
       "SetID": "anfd17p",
       "Name": "Item of Renown",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 684
     },
     {
       "ID": "level01",
@@ -23518,9 +23524,9 @@
       "ID": "yami_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Blade",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 684
     }
   ],
   "AchievementSets": [
@@ -23533,9 +23539,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-26T21:57:41.1515035+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:08:07.5576074+00:00",
+  "LastChanged": "2023-09-26T22:57:26.0868193+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:07:11.7180367+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-26T21:57:41.1515042+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:08:07.5578401+00:00"
+  "LastUpdate_Ratings": "2023-09-26T22:57:26.0868197+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:07:11.7182434+00:00"
 }

@@ -40,7 +40,7 @@
 | I Don't Stop | 0.90% | ~10 |
 | Next Level | 0.80% | ~9 |
 | Globe-trotter | 0.40% | ~5 |
-| In Search of Perfection | 0.30% | ~3 |
+| In Search of Perfection | 0.40% | ~5 |
 | Maximum Endurance | 0.20% | ~2 |
 | Endless | 0.20% | ~2 |
 | Full Power | 0.20% | ~2 |

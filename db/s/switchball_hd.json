@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -571,6 +571,11 @@
       "Time": "2023-09-25T04:07:23.6543827+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T23:08:06.7161494+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -582,7 +587,7 @@
       "Name": "Airball Badge",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
@@ -646,21 +651,21 @@
       "Name": "Spyglass",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-09-26T22:09:07.732882+00:00",
+  "LastChanged_Achievements": "2023-09-26T23:08:06.7161485+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:31.3697516+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:03:42.6992819+00:00",
-  "LastUpdate_Achievements": "2023-09-26T22:09:07.7328967+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:03:05.7899693+00:00",
+  "LastUpdate_Achievements": "2023-09-26T23:08:06.7161586+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,053 |
-| The Journey Begins | 98.00% | ~5,053 |
+| Quinceañera Time | 98.00% | ~5,054 |
+| The Journey Begins | 98.00% | ~5,054 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~4,022 |
 | There is No Escape | 71.00% | ~3,661 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,248 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,249 |
 | Royal Flush | 62.00% | ~3,197 |
 | Timber! | 60.00% | ~3,094 |
-| Survive the Bombsequences | 59.00% | ~3,042 |
-| Killed 20 Jerks | 54.00% | ~2,784 |
+| Survive the Bombsequences | 59.00% | ~3,043 |
+| Killed 20 Jerks | 54.00% | ~2,785 |
 | Death Defied | 53.00% | ~2,733 |
 | Fortunate Soul | 50.00% | ~2,578 |
-| Jerk-Slayer | 43.00% | ~2,217 |
+| Jerk-Slayer | 43.00% | ~2,218 |
 | Employee of the Month | 37.00% | ~1,908 |
 | I Believe I Can Fly | 37.00% | ~1,908 |
 | Bone Collector | 35.00% | ~1,805 |
@@ -32,9 +32,9 @@ Number of Ratings: 63  (23.09.2022)
 | Can't Touch This | 18.00% | ~928 |
 | Yummy! | 16.00% | ~825 |
 | That Was Quick | 16.00% | ~825 |
-| Goldrush Glory Days | 15.00% | ~773 |
-| Best Party Guest | 15.00% | ~773 |
-| Shrub it Off | 15.00% | ~773 |
+| Goldrush Glory Days | 15.00% | ~774 |
+| Best Party Guest | 15.00% | ~774 |
+| Shrub it Off | 15.00% | ~774 |
 | Collected 50 mushrooms | 14.00% | ~722 |
 | Budding Gardener | 14.00% | ~722 |
 | Stop Hitting Each Other | 14.00% | ~722 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,156 (Ranked 163)  
+Progressed: 5,157 (Ranked 163)  
 Completed: 30 (0.58%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 30 (0.58%) (Ranked 154)
 | 2023-09-10 | 5,154 | 30 |
 | 2023-09-17 | 5,155 | 30 |
 | 2023-09-23 | 5,156 | 30 |
+| 2023-09-26 | 5,157 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

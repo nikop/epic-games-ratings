@@ -18,7 +18,7 @@
 | Medal of Honor | 54.00% | ~218 |
 | Meritorious Service Medal | 54.00% | ~218 |
 | Charismatic | 54.00% | ~218 |
-| Soldier | 52.00% | ~210 |
+| Soldier | 53.00% | ~214 |
 | Medal of Exploration III | 52.00% | ~210 |
 | Asari Ally | 51.00% | ~206 |
 | Principled | 51.00% | ~206 |
@@ -39,13 +39,14 @@
 | Completionist | 36.00% | ~145 |
 | Missing in Action | 36.00% | ~145 |
 | The Convict | 35.00% | ~141 |
+| The Professor | 35.00% | ~141 |
 | Colony Defense | 34.00% | ~137 |
 | The Archangel | 34.00% | ~137 |
 | The Krogan | 34.00% | ~137 |
-| The Professor | 34.00% | ~137 |
-| Galactic Explorer | 33.00% | ~133 |
+| Galactic Explorer | 34.00% | ~137 |
 | Broke, Blind, and Bedlam | 33.00% | ~133 |
 | Ghost Ship | 31.00% | ~125 |
+| A Personal Touch | 30.00% | ~121 |
 | The Justicar | 30.00% | ~121 |
 | The Quarian | 30.00% | ~121 |
 | Battlemaster | 30.00% | ~121 |
@@ -53,7 +54,6 @@
 | The Prodigal | 30.00% | ~121 |
 | Big Game Hunter | 30.00% | ~121 |
 | Shopaholic | 30.00% | ~121 |
-| A Personal Touch | 29.00% | ~117 |
 | The Assassin | 29.00% | ~117 |
 | Catharsis | 29.00% | ~117 |
 | Fade Away | 29.00% | ~117 |
@@ -103,8 +103,8 @@
 | Mail Slot | 13.00% | ~53 |
 | Warp Mastery | 13.00% | ~53 |
 | Well Connected | 13.00% | ~53 |
+| Barrier Mastery | 12.00% | ~48 |
 | Master and Commander | 12.00% | ~48 |
-| Barrier Mastery | 11.00% | ~44 |
 | Combined Arms | 11.00% | ~44 |
 | Long Service Medal | 10.00% | ~40 |
 | Lift Mastery | 10.00% | ~40 |
