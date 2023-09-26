@@ -72,7 +72,7 @@
 | 64 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.82 | 0 | 525 |
 | 64 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 708 | 170 |
 | 64 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 254 | 257 |
-| 64 | [Sifu](games/s/sifu.md) | 4.82 | 6,589 | 53 |
+| 64 | [Sifu](games/s/sifu.md) | 4.82 | 6,596 | 53 |
 | 64 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 414 | 216 |
 | 64 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 48 | 413 |
 | 64 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 525 |
@@ -129,9 +129,9 @@
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 525 |
 | 119 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 525 |
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 525 |
-| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,718 | 118 |
+| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,718 | 119 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 49 | 412 |
-| 119 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,712 | 119 |
+| 119 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,724 | 118 |
 | 119 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 525 |
 | 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,840 | 36 |
 | 119 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 525 |
@@ -894,12 +894,12 @@
 | 892 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 525 |
 | 892 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,746 | 96 |
 | 892 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 349 |
-| 895 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 446 |
-| 895 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 525 |
-| 895 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 353 |
-| 895 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 525 |
-| 895 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 525 |
-| 895 | [Wreckfest](games/w/wreckfest.md) | 4.17 | 0 | 525 |
+| 892 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 525 |
+| 896 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 446 |
+| 896 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 525 |
+| 896 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 353 |
+| 896 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 525 |
+| 896 | [Wreckfest](games/w/wreckfest.md) | 4.17 | 0 | 525 |
 | 901 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 525 |
 | 901 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 617 | 185 |
 | 901 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 525 |
