@@ -52,7 +52,7 @@ Rating: 4.49 (Ranked 589)
 | This Ain't No Picnic | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,406 (Ranked 177)  
-Completed: 3 (0.09%) (Ranked 237)  
+Completed: 3 (0.09%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

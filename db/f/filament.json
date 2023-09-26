@@ -6,7 +6,7 @@
   "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202297,
+  "EOS_Progressed": 202305,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17455,6 +17455,11 @@
       "Time": "2023-09-26T17:08:16.0887126+00:00",
       "NumProgressed": 202297,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-09-26T19:03:23.2189914+00:00",
+      "NumProgressed": 202305,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 29,
@@ -17466,7 +17471,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -17490,7 +17495,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190159
+      "UsersEstimate": 190167
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17658,7 +17663,7 @@
       "Name": "Snooper \u002B",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACHIEVEMENT_VANILLA",
@@ -17697,7 +17702,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202297,
+      "Progressed": 202305,
       "Completed": 507
     }
   ],
@@ -17705,8 +17710,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-09-26T17:08:16.0887119+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:03:23.21899+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.1014806+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:59:21.4588345+00:00",
-  "LastUpdate_Achievements": "2023-09-26T17:08:16.0888338+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:58:25.9242058+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:03:23.2191716+00:00"
 }

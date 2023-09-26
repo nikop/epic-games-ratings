@@ -6,20 +6,20 @@ Number of Ratings: 71  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| "Nice" to meet you | 76.00% | ~1,141 |
+| "Nice" to meet you | 76.00% | ~1,142 |
 | Freeze to death | 57.00% | ~856 |
-| Is she really dead? | 46.00% | ~690 |
-| Screwdriver | 44.00% | ~660 |
-| Cutepie | 42.00% | ~630 |
-| Someone was here | 41.00% | ~615 |
-| Ghost Hunters | 41.00% | ~615 |
-| Alone | 40.00% | ~600 |
-| Pack Rat | 40.00% | ~600 |
-| All together, again | 34.00% | ~510 |
+| Is she really dead? | 47.00% | ~706 |
+| Screwdriver | 44.00% | ~661 |
+| Cutepie | 42.00% | ~631 |
+| Someone was here | 41.00% | ~616 |
+| Ghost Hunters | 41.00% | ~616 |
+| Alone | 40.00% | ~601 |
+| Pack Rat | 40.00% | ~601 |
+| All together, again | 34.00% | ~511 |
 | Spicy | 5.00% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,501 (Ranked 209)  
-Completed: 72 (4.80%) (Ranked 55)  
+Progressed: 1,502 (Ranked 210)  
+Completed: 72 (4.79%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,7 +163,7 @@ Completed: 72 (4.80%) (Ranked 55)
 | 2023-09-23 | 1,484 | 70 |
 | 2023-09-24 | 1,492 | 70 |
 | 2023-09-25 | 1,495 | 72 |
-| 2023-09-26 | 1,501 | 72 |
+| 2023-09-26 | 1,502 | 72 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

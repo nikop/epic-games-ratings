@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 211,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -491,6 +491,11 @@
       "Time": "2023-09-26T18:08:56.227994+00:00",
       "NumProgressed": 209,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T19:06:43.5730424+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -543,7 +548,7 @@
       "Name": "Playing the objective",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_15",
@@ -551,7 +556,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_16",
@@ -565,9 +570,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_18",
@@ -597,9 +602,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_21",
@@ -607,7 +612,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_22",
@@ -629,7 +634,7 @@
       "ID": "achievement_24",
       "SetID": "271ol84",
       "Name": "Don\u0027t get cocky",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -645,9 +650,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_27",
@@ -661,7 +666,7 @@
       "ID": "achievement_28",
       "SetID": "271ol84",
       "Name": "Master",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -669,9 +674,9 @@
       "ID": "achievement_29",
       "SetID": "271ol84",
       "Name": "On the ball",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_3",
@@ -695,7 +700,7 @@
       "Name": "Scrap collector",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_32",
@@ -727,7 +732,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_36",
@@ -743,7 +748,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_38",
@@ -757,9 +762,9 @@
       "ID": "achievement_39",
       "SetID": "271ol84",
       "Name": "Ackbar\u0027s Elite",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_4",
@@ -775,7 +780,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_41",
@@ -807,7 +812,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_45",
@@ -917,7 +922,7 @@
       "ID": "achievement_57",
       "SetID": "cemm4l8",
       "Name": "Stay in attack formation",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -927,7 +932,7 @@
       "Name": "Alternative solution",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_59",
@@ -943,7 +948,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_60",
@@ -959,7 +964,7 @@
       "Name": "The circle is now complete",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_62",
@@ -1006,13 +1011,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 211,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 209,
+      "Progressed": 211,
       "Completed": 1
     }
   ],
@@ -1020,8 +1025,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:08:56.2279933+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:06:43.5730416+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:57:40.2155758+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:08:56.2281553+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:57:14.0141616+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:06:43.5731178+00:00"
 }

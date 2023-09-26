@@ -3,9 +3,9 @@
   "Name": "I Am Dead",
   "ProductSlug": "i-am-dead",
   "Ranking_EOS_Progress": 638,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-10-08T16:00:00+00:00",
     "PcReleaseDate": "2020-10-08T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:00.5741674+00:00",
   "LastChanged": "2023-03-31T05:57:00.5741675+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.4251105+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:57:45.350316+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:05:56.7731559+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:57:17.449579+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:03:55.732606+00:00"
 }

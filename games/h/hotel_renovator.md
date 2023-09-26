@@ -5,21 +5,21 @@ Rating: 4.43 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~796 |
-| And so it begins | 73.00% | ~765 |
+| Good start | 76.00% | ~797 |
+| And so it begins | 73.00% | ~766 |
 | No pressure | 70.00% | ~734 |
 | Memento | 62.00% | ~650 |
 | Let there be light | 60.00% | ~629 |
-| I think you dropped this | 55.00% | ~576 |
+| I think you dropped this | 55.00% | ~577 |
 | Soulmate? | 54.00% | ~566 |
 | Excellent service | 50.00% | ~524 |
-| Roll with it | 46.00% | ~482 |
-| Humble beginnings | 44.00% | ~461 |
-| Love is in the air | 44.00% | ~461 |
+| Roll with it | 46.00% | ~483 |
+| Humble beginnings | 44.00% | ~462 |
+| Love is in the air | 44.00% | ~462 |
 | Fine, I'll do it myself | 43.00% | ~451 |
 | Moving up | 41.00% | ~430 |
-| No need to call anyone | 40.00% | ~419 |
-| Big fortune | 32.00% | ~335 |
+| No need to call anyone | 40.00% | ~420 |
+| Big fortune | 32.00% | ~336 |
 | Still more work ahead | 29.00% | ~304 |
 | Kaboom | 27.00% | ~283 |
 | Aesop's fable | 27.00% | ~283 |
@@ -33,8 +33,8 @@ Rating: 4.43 (Ranked 673)
 | King of hospitality | 11.00% | ~115 |
 | Top spot in town | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,048 (Ranked 229)  
-Completed: 15 (1.43%) (Ranked 112)  
+Progressed: 1,049 (Ranked 229)  
+Completed: 15 (1.43%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,7 +161,7 @@ Completed: 15 (1.43%) (Ranked 112)
 | 2023-09-23 | 1,034 | 15 |
 | 2023-09-24 | 1,042 | 15 |
 | 2023-09-25 | 1,046 | 15 |
-| 2023-09-26 | 1,048 | 15 |
+| 2023-09-26 | 1,049 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

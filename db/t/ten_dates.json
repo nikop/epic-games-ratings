@@ -3,9 +3,9 @@
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -611,9 +611,9 @@
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "success_kathleen",
@@ -668,8 +668,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:07:37.6572825+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:05:27.4774163+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.0772493+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:03:59.6668428+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:07:37.657341+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:02:14.1565804+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:05:27.4774348+00:00"
 }

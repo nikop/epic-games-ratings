@@ -41,7 +41,7 @@
 | Calm before the Storm | -13.30% | ~-4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 456)  
-Completed: 1 (3.33%) (Ranked 72)  
+Completed: 1 (3.33%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

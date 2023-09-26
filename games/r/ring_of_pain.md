@@ -6,35 +6,35 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~227,235 |
-| Uncharted Territory | 89.00% | ~210,666 |
-| Getting A Glimpse | 73.00% | ~172,793 |
-| A Quick Escape | 65.00% | ~153,857 |
-| Explorer | 62.00% | ~146,756 |
-| Defeat The Dark | 61.00% | ~144,389 |
-| An Offering | 61.00% | ~144,389 |
-| Colorful Corpse | 58.00% | ~137,288 |
-| That Was Quick | 57.00% | ~134,921 |
-| A Donation | 57.00% | ~134,921 |
-| Goodbye, Frog Friend | 54.00% | ~127,820 |
-| Heavy Hitter | 53.00% | ~125,453 |
-| Heartless | 46.00% | ~108,883 |
-| Spine Breaker | 46.00% | ~108,883 |
-| Deflection | 45.00% | ~106,516 |
-| Sneaky | 43.00% | ~101,782 |
-| Delving Deeper | 42.00% | ~99,415 |
-| C-C-Combo | 42.00% | ~99,415 |
-| Ambitious Intent | 41.00% | ~97,048 |
-| Nothing To Lose | 40.00% | ~94,681 |
-| The Bestiary | 40.00% | ~94,681 |
-| What's Yours Is Mine | 39.00% | ~92,314 |
-| R.I.P | 37.00% | ~87,580 |
-| Shootout | 36.00% | ~85,213 |
-| I Am Overburdened | 35.00% | ~82,846 |
-| Cold Hearted | 34.00% | ~80,479 |
-| Dig Your Own Grave | 33.00% | ~78,112 |
-| Toxic | 33.00% | ~78,112 |
-| Who To Trust? | 32.00% | ~75,745 |
+| First Steps | 96.00% | ~227,237 |
+| Uncharted Territory | 89.00% | ~210,667 |
+| Getting A Glimpse | 73.00% | ~172,795 |
+| A Quick Escape | 65.00% | ~153,858 |
+| Explorer | 62.00% | ~146,757 |
+| Defeat The Dark | 61.00% | ~144,390 |
+| An Offering | 61.00% | ~144,390 |
+| Colorful Corpse | 58.00% | ~137,289 |
+| That Was Quick | 57.00% | ~134,922 |
+| A Donation | 57.00% | ~134,922 |
+| Goodbye, Frog Friend | 54.00% | ~127,821 |
+| Heavy Hitter | 53.00% | ~125,454 |
+| Heartless | 46.00% | ~108,884 |
+| Spine Breaker | 46.00% | ~108,884 |
+| Deflection | 45.00% | ~106,517 |
+| Sneaky | 43.00% | ~101,783 |
+| Delving Deeper | 42.00% | ~99,416 |
+| C-C-Combo | 42.00% | ~99,416 |
+| Ambitious Intent | 41.00% | ~97,049 |
+| Nothing To Lose | 40.00% | ~94,682 |
+| The Bestiary | 40.00% | ~94,682 |
+| What's Yours Is Mine | 39.00% | ~92,315 |
+| R.I.P | 37.00% | ~87,581 |
+| Shootout | 36.00% | ~85,214 |
+| I Am Overburdened | 35.00% | ~82,847 |
+| Cold Hearted | 34.00% | ~80,480 |
+| Dig Your Own Grave | 33.00% | ~78,113 |
+| Toxic | 33.00% | ~78,113 |
+| Who To Trust? | 32.00% | ~75,746 |
 | Flesh Wound | 29.00% | ~68,644 |
 | Walk It Off | 28.00% | ~66,277 |
 | Stone Touch | 28.00% | ~66,277 |
@@ -53,15 +53,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 17.00% | ~40,240 |
 | Don't Ignore Me! | 17.00% | ~40,240 |
 | Illuminate, Eliminate | 17.00% | ~40,240 |
-| Max Damage! | 16.00% | ~37,872 |
-| Doing Time | 16.00% | ~37,872 |
-| Spreading Plague | 15.00% | ~35,505 |
-| The Long Run | 14.00% | ~33,138 |
-| A Rough Road | 13.00% | ~30,771 |
-| Chain Reaction | 13.00% | ~30,771 |
-| Berzerker | 12.00% | ~28,404 |
-| Antivenom | 12.00% | ~28,404 |
-| Thank You, Friend | 11.00% | ~26,037 |
+| Max Damage! | 16.00% | ~37,873 |
+| Doing Time | 16.00% | ~37,873 |
+| Spreading Plague | 15.00% | ~35,506 |
+| The Long Run | 14.00% | ~33,139 |
+| A Rough Road | 13.00% | ~30,772 |
+| Chain Reaction | 13.00% | ~30,772 |
+| Berzerker | 12.00% | ~28,405 |
+| Antivenom | 12.00% | ~28,405 |
+| Thank You, Friend | 11.00% | ~26,038 |
 | Barbecue | 10.00% | ~23,670 |
 | Snake Sneak | 10.00% | ~23,670 |
 | Precious | 9.00% | ~21,303 |
@@ -129,8 +129,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,184 |
 | Near Death Experience | 0.30% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,703 (Ranked 53)  
-Completed: 274 (0.12%) (Ranked 224)  
+Progressed: 236,705 (Ranked 53)  
+Completed: 274 (0.12%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,7 +288,7 @@ Completed: 274 (0.12%) (Ranked 224)
 | 2023-09-23 | 236,498 | 274 |
 | 2023-09-24 | 236,599 | 274 |
 | 2023-09-25 | 236,655 | 274 |
-| 2023-09-26 | 236,703 | 274 |
+| 2023-09-26 | 236,705 | 274 |
 ## Awards
 Max (Quickly Understood Controls): 1,495  (Ranked 125)  
 Sum: 11,575 (Ranked 80)  

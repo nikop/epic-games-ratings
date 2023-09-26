@@ -7,9 +7,9 @@ Rating: 4.24 (Ranked 847)
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,645 |
 | Don't I Know You...? | 76.00% | ~1,563 |
-| Jailbreak | 65.00% | ~1,336 |
+| Jailbreak | 66.00% | ~1,357 |
+| Suited and Booted | 39.00% | ~802 |
 | HEADSHOT! | 38.00% | ~781 |
-| Suited and Booted | 38.00% | ~781 |
 | Sleeping With The Fishes | 36.00% | ~740 |
 | Overheated | 30.00% | ~617 |
 | High Performance | 30.00% | ~617 |
@@ -64,7 +64,7 @@ Rating: 4.24 (Ranked 847)
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,056 (Ranked 197)  
-Completed: 12 (0.58%) (Ranked 152)  
+Completed: 12 (0.58%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

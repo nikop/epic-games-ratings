@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 293,
+  "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 230238,
+  "EOS_Progressed": 230239,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16840,6 +16840,11 @@
       "Time": "2023-09-26T18:08:00.4930324+00:00",
       "NumProgressed": 230238,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-26T19:06:03.8069234+00:00",
+      "NumProgressed": 230239,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -17011,7 +17016,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50652
+      "UsersEstimate": 50653
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -17059,7 +17064,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39140
+      "UsersEstimate": 39141
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -17074,7 +17079,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230238,
+      "Progressed": 230239,
       "Completed": 5
     }
   ],
@@ -17082,8 +17087,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-24T16:59:25.0658821+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:08:00.493032+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:06:03.8069231+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.470572+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:01:38.4601989+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:08:00.4932653+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:00:16.1956757+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:06:03.8070409+00:00"
 }

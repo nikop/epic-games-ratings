@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,600 |
-| Welcome To Hell-A | 3.00% | ~20,600 |
+| Hotel California | 3.00% | ~20,601 |
+| Welcome To Hell-A | 3.00% | ~20,601 |
 | Dr. Reed, I Presume? | 2.00% | ~13,734 |
 | Git Gutte! | 2.00% | ~13,734 |
 | Bookworm | 2.00% | ~13,734 |
@@ -34,15 +34,15 @@ Rating: 4.54 (Ranked 510)
 | Down with the Sickness | 1.00% | ~6,867 |
 | Our True Nature | 1.00% | ~6,867 |
 | Max Headroom | 0.90% | ~6,180 |
-| Go, Bobcats! | 0.80% | ~5,493 |
-| Rising Star | 0.80% | ~5,493 |
+| Go, Bobcats! | 0.80% | ~5,494 |
+| Rising Star | 0.80% | ~5,494 |
+| Smorgasbord | 0.70% | ~4,807 |
 | Jumbo Keyring | 0.70% | ~4,807 |
-| Smorgasbord | 0.60% | ~4,120 |
 | Internet Famous | 0.60% | ~4,120 |
-| Make it So | 0.50% | ~3,433 |
-| On Safari | 0.50% | ~3,433 |
-| Not Even My Final Form | 0.50% | ~3,433 |
-| Variety is the Spice of Death | 0.50% | ~3,433 |
+| Make it So | 0.50% | ~3,434 |
+| On Safari | 0.50% | ~3,434 |
+| Not Even My Final Form | 0.50% | ~3,434 |
+| Variety is the Spice of Death | 0.50% | ~3,434 |
 | LA Influential | 0.40% | ~2,747 |
 | Gore Horse | 0.40% | ~2,747 |
 | Sole Survivor | 0.30% | ~2,060 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,678 (Ranked 22)  
-Completed: 2,176 (0.32%) (Ranked 187)  
+Progressed: 686,705 (Ranked 22)  
+Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,7 +210,7 @@ Completed: 2,176 (0.32%) (Ranked 187)
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
-| 2023-09-26 | 686,678 | 2,176 |
+| 2023-09-26 | 686,705 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,204  (Ranked 57)  
 Sum: 9,239 (Ranked 92)  

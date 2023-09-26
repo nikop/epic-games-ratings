@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4096,
+  "EOS_Progressed": 4097,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6755,6 +6755,11 @@
       "Time": "2023-09-26T11:05:11.3032704+00:00",
       "NumProgressed": 4096,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-26T19:05:28.3139247+00:00",
+      "NumProgressed": 4097,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6766,7 +6771,7 @@
       "Name": "Start with a bang!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "Ach002",
@@ -6942,7 +6947,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "Ach024",
@@ -7166,7 +7171,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "Ach052",
@@ -7333,13 +7338,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4096,
+      "Progressed": 4097,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2617,
+      "Progressed": 2618,
       "Completed": 1930
     }
   ],
@@ -7347,8 +7352,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:07:38.8192691+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:05:28.3139242+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:04:43.1521332+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:07:38.8194191+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:02:55.5333772+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:05:28.3140471+00:00"
 }

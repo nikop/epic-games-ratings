@@ -3,9 +3,9 @@
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 561,
-  "Ranking_EOS_Completed": 293,
+  "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -68,9 +68,9 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "insane",
@@ -124,17 +124,17 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 85,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "world1insane",
@@ -164,9 +164,9 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "world3insane",
@@ -226,8 +226,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:05:30.8894091+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:03:37.6653977+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3549601+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:03:36.2746473+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:05:30.8894341+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:01:52.5515939+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:03:37.6656527+00:00"
 }

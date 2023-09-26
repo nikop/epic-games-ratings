@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Little ideas | 71.00% | ~10 |
-| Marc Allard | 64.00% | ~9 |
-| The Ship | 57.00% | ~8 |
+| Marc Allard | 71.00% | ~10 |
+| The Ship | 64.00% | ~9 |
 | Seeking the truth | 57.00% | ~8 |
 | An old friend | 50.00% | ~7 |
 | The Gala | 43.00% | ~6 |
@@ -52,7 +52,7 @@
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 488)  
-Completed: 0 (0.00%) (Ranked 293)  
+Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

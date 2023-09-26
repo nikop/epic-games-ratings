@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 65)  
+Rating: 4.82 (Ranked 66)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -68,7 +68,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 715,318 (Ranked 20)  
-Completed: 12,902 (1.80%) (Ranked 105)  
+Completed: 12,903 (1.80%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,7 +226,7 @@ Completed: 12,902 (1.80%) (Ranked 105)
 | 2023-09-23 | 715,246 | 12,900 |
 | 2023-09-24 | 715,285 | 12,901 |
 | 2023-09-25 | 715,305 | 12,902 |
-| 2023-09-26 | 715,318 | 12,902 |
+| 2023-09-26 | 715,318 | 12,903 |
 ## Awards
 Max (Great Boss Battles): 6,596  (Ranked 53)  
 Sum: 11,402 (Ranked 81)  

@@ -2,10 +2,10 @@
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
-  "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -323,6 +323,11 @@
       "Time": "2023-09-19T12:04:03.8056799+00:00",
       "NumProgressed": 199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T19:06:36.4348376+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -334,7 +339,7 @@
       "Name": "Blue\u0027s drawing",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Cat",
@@ -358,7 +363,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Doll",
@@ -454,15 +459,15 @@
       "Name": "Egghead Lucy",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Offroad",
       "SetID": "9kk0gal",
       "Name": "Flower of hope",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "Puppy",
@@ -470,7 +475,7 @@
       "Name": "Puppy",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "SchoolRuler",
@@ -494,23 +499,23 @@
       "Name": "Spyglass",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "Trumpet",
@@ -518,7 +523,7 @@
       "Name": "Trumpet",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Well",
@@ -541,7 +546,7 @@
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 0
     }
   ],
@@ -549,8 +554,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:08:46.6796235+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:06:36.434837+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.4928184+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:01:41.6252727+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:08:46.6796485+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:00:18.847904+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:06:36.4348598+00:00"
 }

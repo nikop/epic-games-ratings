@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 574)
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26,039 (Ranked 111)  
-Completed: 58 (0.22%) (Ranked 205)  
+Completed: 58 (0.22%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

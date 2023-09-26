@@ -6,7 +6,7 @@
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
@@ -1206,9 +1206,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18888,
+  "EOS_Progressed": 18889,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18466,6 +18466,11 @@
       "Time": "2023-09-26T18:08:44.5751272+00:00",
       "NumProgressed": 18888,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-26T19:06:35.1813699+00:00",
+      "NumProgressed": 18889,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 45,
@@ -18581,7 +18586,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "Junkrunner",
@@ -18613,7 +18618,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14355
+      "UsersEstimate": 14356
     },
     {
       "ID": "MoreThanHuman",
@@ -18773,7 +18778,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -18803,9 +18808,9 @@
       "ID": "WaveOfMutilation",
       "SetID": "6ce5bmd",
       "Name": "Wave of mutilation",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3966
+      "UsersEstimate": 4156
     },
     {
       "ID": "WhereAreMyKeys",
@@ -18813,7 +18818,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7555
+      "UsersEstimate": 7556
     },
     {
       "ID": "WhereHeStood",
@@ -18829,28 +18834,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 18888,
+      "Progressed": 18889,
       "Completed": 46
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 18888,
+      "Progressed": 18889,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-25T05:01:02.6046686+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:08:44.5751264+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:06:35.1813694+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.6439511+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:57:46.1746405+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:08:44.5753012+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:57:18.1095213+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:06:35.1815115+00:00"
 }

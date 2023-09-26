@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 54.00% | ~115 |
-| Welcome to the Tower | 51.00% | ~109 |
-| The great escape | 46.00% | ~98 |
-| The Preacher's fate | 45.00% | ~96 |
-| A new dawn | 41.00% | ~87 |
-| Scholar | 39.00% | ~83 |
-| The darkness | 38.00% | ~81 |
-| A good beginning | 37.00% | ~79 |
-| True G4M3R | 36.00% | ~77 |
-| One last step | 34.00% | ~72 |
-| Cable guy | 32.00% | ~68 |
-| Peace walker | 31.00% | ~66 |
-| Half the way | 31.00% | ~66 |
-| Champollion | 31.00% | ~66 |
-| In this together | 30.00% | ~64 |
-| Open door | 26.00% | ~55 |
-| Feels like springtime | 25.00% | ~53 |
-| Rascal | 24.00% | ~51 |
+| That's the spirit | 54.00% | ~116 |
+| Welcome to the Tower | 51.00% | ~110 |
+| The great escape | 46.00% | ~99 |
+| The Preacher's fate | 44.00% | ~95 |
+| A new dawn | 41.00% | ~88 |
+| Scholar | 39.00% | ~84 |
+| The darkness | 38.00% | ~82 |
+| A good beginning | 36.00% | ~77 |
+| True G4M3R | 35.00% | ~75 |
+| One last step | 34.00% | ~73 |
+| Cable guy | 33.00% | ~71 |
+| Half the way | 31.00% | ~67 |
+| Champollion | 31.00% | ~67 |
+| Peace walker | 30.00% | ~64 |
+| In this together | 29.00% | ~62 |
+| Open door | 26.00% | ~56 |
+| Feels like springtime | 25.00% | ~54 |
+| Rascal | 24.00% | ~52 |
 | Free at last | 23.00% | ~49 |
 | Alchemists Express | 23.00% | ~49 |
-| A Link to the Past | 19.00% | ~40 |
-| I did it | 18.00% | ~38 |
+| A Link to the Past | 19.00% | ~41 |
+| I did it | 18.00% | ~39 |
 | A great audience | 15.00% | ~32 |
 | For its own good | 15.00% | ~32 |
 | Fashion victim | 13.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 332)  
-Completed: 13 (6.10%) (Ranked 46)  
+Progressed: 215 (Ranked 330)  
+Completed: 13 (6.05%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,3 +99,4 @@ Completed: 13 (6.10%) (Ranked 46)
 | 2023-09-23 | 202 | 12 |
 | 2023-09-24 | 209 | 12 |
 | 2023-09-25 | 213 | 13 |
+| 2023-09-26 | 215 | 13 |

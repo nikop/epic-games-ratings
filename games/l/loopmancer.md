@@ -63,7 +63,7 @@
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 98 (Ranked 379)  
-Completed: 0 (0.00%) (Ranked 293)  
+Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

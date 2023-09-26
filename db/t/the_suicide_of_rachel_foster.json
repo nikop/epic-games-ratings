@@ -5,9 +5,9 @@
   "Ranking_Rating": 894,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Completed": 56,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -254,11 +254,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1501,
+  "EOS_Progressed": 1502,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.8,
+  "EOS_Completed_Percentage": 4.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2734,6 +2734,11 @@
       "Time": "2023-09-26T18:11:16.8588564+00:00",
       "NumProgressed": 1501,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-26T19:08:37.6768362+00:00",
+      "NumProgressed": 1502,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 11,
@@ -2745,7 +2750,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -2761,7 +2766,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -2775,9 +2780,9 @@
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 690
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_FineEV9",
@@ -2785,7 +2790,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_FineGioco",
@@ -2793,7 +2798,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2801,7 +2806,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2809,7 +2814,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2817,7 +2822,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -2825,22 +2830,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1501,
+      "Progressed": 1502,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:11:16.8588559+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:08:37.6768356+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:32.0080277+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:00:24.6074208+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:11:16.8588866+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:59:18.0362883+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:08:37.6768673+00:00"
 }

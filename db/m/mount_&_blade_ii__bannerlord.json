@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 293,
+  "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7449,9 +7449,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62098,
+  "EOS_Progressed": 62101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24339,6 +24339,11 @@
       "Time": "2023-09-26T18:07:18.9106285+00:00",
       "NumProgressed": 62098,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T19:05:14.3243618+00:00",
+      "NumProgressed": 62101,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24574,7 +24579,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20492
+      "UsersEstimate": 20493
     },
     {
       "ID": "Lawbringer",
@@ -24582,7 +24587,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24218
+      "UsersEstimate": 24219
     },
     {
       "ID": "Lawmaker",
@@ -24670,7 +24675,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Strike",
@@ -24757,15 +24762,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62098,
+      "Progressed": 62101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-26T18:05:06.6679415+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:07:18.910628+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:05:14.3243613+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:05:06.6679424+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:07:18.910805+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:03:17.6022429+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:05:14.3245052+00:00"
 }

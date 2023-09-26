@@ -6,8 +6,8 @@
   "Ranking_Popularity": 238,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1884,9 +1884,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20846,
+  "EOS_Progressed": 20847,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8694,6 +8694,11 @@
       "Time": "2023-09-26T18:11:47.7538064+00:00",
       "NumProgressed": 20846,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-26T19:09:24.7309019+00:00",
+      "NumProgressed": 20847,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -8753,7 +8758,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19804
+      "UsersEstimate": 19805
     },
     {
       "ID": "GameOver",
@@ -8865,7 +8870,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6462
+      "UsersEstimate": 6463
     },
     {
       "ID": "VeronicaLiptson",
@@ -8888,15 +8893,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20846,
+      "Progressed": 20847,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-23T13:02:14.6530031+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:11:47.7538058+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:09:24.7309013+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:21.1509906+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:00:03.0803936+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:11:47.7538784+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:58:58.8255262+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:09:24.7309571+00:00"
 }

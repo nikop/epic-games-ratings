@@ -2,9 +2,9 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.45,
+  "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -402,6 +402,11 @@
       "Time": "2023-09-26T18:05:58.2731331+00:00",
       "NumProgressed": 223,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T19:03:56.5584671+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -420,9 +425,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_eou2",
@@ -430,15 +435,15 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_eou4",
@@ -446,7 +451,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_eou5",
@@ -462,7 +467,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_eou7",
@@ -517,14 +522,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 226,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:05:58.2731326+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:03:56.5584665+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:01:29.3281483+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:05:58.273149+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:00:07.9400408+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:03:56.5584801+00:00"
 }

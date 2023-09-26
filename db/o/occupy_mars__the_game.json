@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 207,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1626,
+  "EOS_Progressed": 1627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3766,6 +3766,11 @@
       "Time": "2023-09-25T06:07:17.688294+00:00",
       "NumProgressed": 1626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T19:08:15.4409061+00:00",
+      "NumProgressed": 1627,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3849,7 +3854,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3969,7 +3974,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3993,7 +3998,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4025,7 +4030,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4135,9 +4140,9 @@
       "ID": "NEW_ACHIEVEMENT_THE_BUILDER",
       "SetID": "l546gc",
       "Name": "Bob The Builder",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4160,7 +4165,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1626,
+      "Progressed": 1627,
       "Completed": 0
     }
   ],
@@ -4168,8 +4173,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-22T00:03:09.8944256+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:10:24.6735619+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:08:15.4409056+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:04.0645651+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:00:16.4506526+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:10:24.6736231+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:59:09.4113058+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:08:15.4409662+00:00"
 }

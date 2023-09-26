@@ -3,8 +3,8 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1332,17 +1332,17 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "FirstBox",
@@ -1364,9 +1364,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 70,
-      "UsersEstimate": 218
+      "UsersEstimate": 221
     },
     {
       "ID": "GameComplete",
@@ -1412,9 +1412,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "Synthesis",
@@ -1435,8 +1435,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:07:26.4046705+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:05:19.5220843+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:02:18.2136552+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:07:26.4046894+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:00:49.4693749+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:05:19.5221025+00:00"
 }

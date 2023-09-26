@@ -6,8 +6,8 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 23,
+  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12441,10 +12441,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 224916,
       "NumberOfAwardsMax": 82928
+    },
+    {
+      "Time": "2023-09-26T18:57:15.4439817+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 225213,
+      "NumberOfAwardsMax": 82928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 224916,
+  "NumberOfAwards": 225213,
   "NumberOfAwardsMax": 82928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12476,7 +12482,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 10175
+      "Count": 10472
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12521,10 +12527,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882293,
-  "EOS_Completed": 2412,
-  "EOS_NewPlayers": 5175,
-  "EOS_NewCompleters": 293,
+  "EOS_Progressed": 882342,
+  "EOS_Completed": 2414,
+  "EOS_NewPlayers": 5214,
+  "EOS_NewCompleters": 295,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30396,6 +30402,11 @@
       "Time": "2023-09-26T18:08:25.318645+00:00",
       "NumProgressed": 882293,
       "NumCompleted": 2412
+    },
+    {
+      "Time": "2023-09-26T19:06:21.6606772+00:00",
+      "NumProgressed": 882342,
+      "NumCompleted": 2414
     }
   ],
   "TotalAchievements": 57,
@@ -30495,7 +30506,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     },
     {
       "ID": "IAmMaxTac",
@@ -30509,9 +30520,9 @@
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3529
+      "UsersEstimate": 4412
     },
     {
       "ID": "LittleTokyo",
@@ -30549,9 +30560,9 @@
       "ID": "NeverFadeAway",
       "SetID": "47clieb",
       "Name": "Breathtaking",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3529
     },
     {
       "ID": "NoMansLand",
@@ -30589,9 +30600,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6176
+      "UsersEstimate": 7059
     },
     {
       "ID": "Temperance",
@@ -30607,7 +30618,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "TheDevil",
@@ -30693,9 +30704,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4411
+      "UsersEstimate": 5294
     },
     {
       "ID": "TrueSoldier",
@@ -30733,9 +30744,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3529
+      "UsersEstimate": 4412
     },
     {
       "ID": "YipMan",
@@ -30749,9 +30760,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1765
+      "UsersEstimate": 2647
     },
     {
       "ID": "All the President\u0027s Men",
@@ -30862,21 +30873,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882293,
-      "Completed": 2412
+      "Progressed": 882342,
+      "Completed": 2414
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10916,
+      "Progressed": 10965,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-26T16:57:21.6636037+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:08:25.3186445+00:00",
+  "LastChanged": "2023-09-26T18:57:15.4439816+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:06:21.6606767+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T17:57:41.2184043+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:08:25.318831+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:57:15.4439821+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:06:21.6608378+00:00"
 }

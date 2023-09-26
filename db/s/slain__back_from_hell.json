@@ -6,9 +6,9 @@
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37305,
+  "EOS_Progressed": 37310,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -17708,6 +17708,11 @@
       "Time": "2023-09-26T18:10:10.0601726+00:00",
       "NumProgressed": 37305,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-26T19:08:04.8497333+00:00",
+      "NumProgressed": 37310,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -17727,7 +17732,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7461
+      "UsersEstimate": 7462
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -17791,7 +17796,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -17871,7 +17876,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -17879,7 +17884,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -17950,7 +17955,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37305,
+      "Progressed": 37310,
       "Completed": 25
     }
   ],
@@ -17958,8 +17963,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:10:10.060172+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:08:04.8497327+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:47.3776756+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:00:59.2171136+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:10:10.0603346+00:00"
+  "LastUpdate_Ratings": "2023-09-26T18:59:42.4034455+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:08:04.8498605+00:00"
 }

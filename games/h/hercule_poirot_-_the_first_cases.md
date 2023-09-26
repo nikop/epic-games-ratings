@@ -26,19 +26,19 @@ Rating: 4.35 (Ranked 765)
 | Well-acquainted | 42.00% | ~181 |
 | Zakariya Demir | 41.00% | ~176 |
 | Well-read | 39.00% | ~168 |
-| Cassandra Van den Bosch | 37.00% | ~159 |
+| Cassandra Van den Bosch | 38.00% | ~163 |
 | The Secret | 37.00% | ~159 |
 | Gedeon Demir | 35.00% | ~150 |
 | Rehana Piette | 34.00% | ~146 |
 | Instinct is Marvellous | 33.00% | ~142 |
-| Ernesto da Silva | 32.00% | ~138 |
+| Ernesto da Silva | 33.00% | ~142 |
 | Inge Frank | 31.00% | ~133 |
 | Hugo Beckers | 30.00% | ~129 |
 | The Search | 30.00% | ~129 |
 | The Family | 27.00% | ~116 |
 | Well-travelled | 26.00% | ~112 |
 | Thinking of Everything | 26.00% | ~112 |
-| Exquisite Artwork | 25.00% | ~108 |
+| Exquisite Artwork | 26.00% | ~112 |
 | Archibald Sterling | 25.00% | ~108 |
 | Viscount Edwin Van den Bosch | 25.00% | ~108 |
 | Well-prepared | 21.00% | ~90 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 765)
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 430 (Ranked 276)  
-Completed: 6 (1.40%) (Ranked 115)  
+Completed: 6 (1.40%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -1933,6 +1933,11 @@
       "Time": "2023-09-26T17:06:06.9818022+00:00",
       "NumProgressed": 460,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T19:06:17.292792+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2145,7 +2150,7 @@
       "Name": "Power Glove",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_S5",
@@ -2153,7 +2158,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2176,15 +2181,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-26T18:08:19.316316+00:00",
+  "LastChanged_Achievements": "2023-09-26T19:06:17.2927915+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-26T18:03:53.2283343+00:00",
-  "LastUpdate_Achievements": "2023-09-26T18:08:19.3163669+00:00"
+  "LastUpdate_Ratings": "2023-09-26T19:02:08.8737885+00:00",
+  "LastUpdate_Achievements": "2023-09-26T19:06:17.292823+00:00"
 }

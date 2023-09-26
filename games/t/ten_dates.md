@@ -11,8 +11,8 @@
 | The athlete | 26.00% | ~73 |
 | The activist | 22.00% | ~62 |
 | The individualist | 20.00% | ~56 |
+| The nice guy | 13.00% | ~37 |
 | The debonair | 12.00% | ~34 |
-| The nice guy | 12.00% | ~34 |
 | Picky, Picky! | 10.00% | ~28 |
 | The lad | 10.00% | ~28 |
 | The techie | 8.00% | ~23 |
@@ -25,7 +25,7 @@
 | Keep the spark alive | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 282 (Ranked 308)  
-Completed: 4 (1.42%) (Ranked 114)  
+Completed: 4 (1.42%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

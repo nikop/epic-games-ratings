@@ -10,8 +10,8 @@
 | Pup Pup Boogie | 61.00% | ~17 |
 | Risky Rescue | 57.00% | ~16 |
 | Mr. Porter | 54.00% | ~15 |
-| Carlos Is Tangled | 50.00% | ~14 |
-| Mandy Family | 46.00% | ~13 |
+| Carlos Is Tangled | 54.00% | ~15 |
+| Mandy Family | 50.00% | ~14 |
 | Paw patrol member | 36.00% | ~10 |
 | Robot Out of Control | 36.00% | ~10 |
 | Break Time | 32.00% | ~9 |
@@ -36,7 +36,7 @@
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28 (Ranked 459)  
-Completed: 0 (0.00%) (Ranked 293)  
+Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

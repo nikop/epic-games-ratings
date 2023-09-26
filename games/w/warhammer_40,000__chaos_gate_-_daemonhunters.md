@@ -40,9 +40,9 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.60% | ~19 |
 | Preservationist | 0.60% | ~19 |
 | Engine Kill | 0.60% | ~19 |
+| Death Comes For All | 0.60% | ~19 |
 | For the Machine God | 0.50% | ~16 |
 | Harvest No More | 0.50% | ~16 |
-| Death Comes For All | 0.50% | ~16 |
 | Hands-On Research | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
 | Reign of Confusion | 0.30% | ~10 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,238 (Ranked 182)  
-Completed: 0 (0.00%) (Ranked 293)  
+Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

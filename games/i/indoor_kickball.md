@@ -18,8 +18,8 @@
 | Bedroom Secret Spot | 38.00% | ~36 |
 | Kick It | 31.00% | ~29 |
 | Classroom Secret Spot | 29.00% | ~27 |
+| At least everyone still had fun | 29.00% | ~27 |
 | Spooky | 28.00% | ~26 |
-| At least everyone still had fun | 28.00% | ~26 |
 | Grand Slam! | 26.00% | ~24 |
 | Save some water for the fishies | 23.00% | ~22 |
 | Angry Dad | 23.00% | ~22 |
@@ -46,7 +46,7 @@
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 94 (Ranked 383)  
-Completed: 0 (0.00%) (Ranked 293)  
+Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
