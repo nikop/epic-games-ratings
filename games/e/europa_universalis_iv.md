@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,591 |
-| That's a Grand Army | 3.00% | ~12,444 |
-| That is mine! | 3.00% | ~12,444 |
-| Victorious! | 3.00% | ~12,444 |
+| Until death do us apart | 4.00% | ~16,593 |
+| That's a Grand Army | 3.00% | ~12,445 |
+| That is mine! | 3.00% | ~12,445 |
+| Victorious! | 3.00% | ~12,445 |
 | Brothers in Arms | 2.00% | ~8,296 |
 | For the Glory | 2.00% | ~8,296 |
 | That's a Grand Navy | 2.00% | ~8,296 |
@@ -22,10 +22,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,733 |
 | Respected | 0.90% | ~3,733 |
 | Truly Divine Ruler | 0.90% | ~3,733 |
-| Blockader | 0.80% | ~3,318 |
-| Double the Love | 0.70% | ~2,903 |
-| Royal Authority | 0.70% | ~2,903 |
-| Total Control | 0.70% | ~2,903 |
+| Blockader | 0.80% | ~3,319 |
+| Double the Love | 0.70% | ~2,904 |
+| Royal Authority | 0.70% | ~2,904 |
+| Total Control | 0.70% | ~2,904 |
 | My armies are invincible! | 0.60% | ~2,489 |
 | Agressive Expander | 0.50% | ~2,074 |
 | City of Cities | 0.50% | ~2,074 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414,784 (Ranked 40)  
+Progressed: 414,825 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1 (0.00%) (Ranked 293)
 | 2023-09-23 | 412,558 | 0 |
 | 2023-09-24 | 413,698 | 1 |
 | 2023-09-25 | 414,499 | 1 |
-| 2023-09-26 | 414,784 | 1 |
+| 2023-09-26 | 414,825 | 1 |
 ## Awards
 Max (Educational): 6,263  (Ranked 56)  
 Sum: 51,457 (Ranked 24)  

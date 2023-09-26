@@ -2,7 +2,7 @@
   "ID": "67c01870de204d359ff10d6c5f28e37c",
   "Name": "It follows you",
   "ProductSlug": "it-follows-you-b11f3e",
-  "Ranking_EOS_Progress": 637,
+  "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 107,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.9726941+00:00",
   "LastChanged": "2023-03-31T05:57:04.9726942+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.4040009+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:58:58.3329124+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:05:38.2699357+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:06:07.142386+00:00",
+  "LastUpdate_Achievements": "2023-09-26T13:12:28.7970738+00:00"
 }

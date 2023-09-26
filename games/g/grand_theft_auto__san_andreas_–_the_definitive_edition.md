@@ -5,16 +5,16 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,460 |
-| Pay 'n' Spray | 50.00% | ~6,457 |
-| All Dressed Up for San Fierro | 26.00% | ~3,358 |
+| Getting Started | 81.00% | ~10,464 |
+| Pay 'n' Spray | 50.00% | ~6,459 |
+| All Dressed Up for San Fierro | 25.00% | ~3,230 |
 | The American Dream | 19.00% | ~2,454 |
 | School's Out | 18.00% | ~2,325 |
-| Smooth Moves | 17.00% | ~2,195 |
-| What happens in Las Venturas... | 15.00% | ~1,937 |
-| Today Was a Good Day | 15.00% | ~1,937 |
+| Smooth Moves | 17.00% | ~2,196 |
+| What happens in Las Venturas... | 15.00% | ~1,938 |
+| Today Was a Good Day | 15.00% | ~1,938 |
 | Horror of the Santa Maria | 11.00% | ~1,421 |
-| Liberty City State of Mind | 10.00% | ~1,291 |
+| Liberty City State of Mind | 10.00% | ~1,292 |
 | The End of the Line | 8.00% | ~1,033 |
 | Original Gangster | 8.00% | ~1,033 |
 | With Extra Dip | 7.00% | ~904 |
@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 473)
 | They Can’t Stop All of Us | 5.00% | ~646 |
 | Rescue a Kitten Too? | 5.00% | ~646 |
 | What are the Odds | 4.00% | ~517 |
-| Bike or Biker | 3.00% | ~387 |
-| What the City Needs | 3.00% | ~387 |
+| Bike or Biker | 3.00% | ~388 |
+| What the City Needs | 3.00% | ~388 |
 | A Legitimate Business | 2.00% | ~258 |
 | I’ll Have Two Number 9s | 2.00% | ~258 |
 | Who Needs Directions? | 2.00% | ~258 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 473)
 | ...Here we go again | 0.50% | ~65 |
 | I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,914 (Ranked 133)  
+Progressed: 12,918 (Ranked 133)  
 Completed: 47 (0.36%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 47 (0.36%) (Ranked 179)
 | 2023-09-23 | 12,771 | 45 |
 | 2023-09-24 | 12,846 | 45 |
 | 2023-09-25 | 12,891 | 47 |
-| 2023-09-26 | 12,914 | 47 |
+| 2023-09-26 | 12,918 | 47 |
 ## Awards
 Max (Great Boss Battles): 310  (Ranked 237)  
 Sum: 431 (Ranked 318)  

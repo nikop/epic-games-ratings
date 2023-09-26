@@ -7512,9 +7512,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802705,
+  "EOS_Progressed": 802707,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25207,6 +25207,11 @@
       "Time": "2023-09-26T12:06:47.9802822+00:00",
       "NumProgressed": 802705,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-26T13:13:24.150564+00:00",
+      "NumProgressed": 802707,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25330,7 +25335,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200676
+      "UsersEstimate": 200677
     },
     {
       "ID": "Chivalrous",
@@ -25378,7 +25383,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80270
+      "UsersEstimate": 80271
     },
     {
       "ID": "DavidHorak",
@@ -25418,7 +25423,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184622
+      "UsersEstimate": 184623
     },
     {
       "ID": "Fighter",
@@ -25498,7 +25503,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72243
+      "UsersEstimate": 72244
     },
     {
       "ID": "HardcoreHenry",
@@ -25873,15 +25878,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802705,
+      "Progressed": 802707,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-26T11:58:05.62122+00:00",
-  "LastChanged_Achievements": "2023-09-26T12:06:47.9802818+00:00",
+  "LastChanged_Achievements": "2023-09-26T13:13:24.1505636+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:58:05.621221+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:06:47.9804386+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:05:15.3376607+00:00",
+  "LastUpdate_Achievements": "2023-09-26T13:13:24.1507649+00:00"
 }

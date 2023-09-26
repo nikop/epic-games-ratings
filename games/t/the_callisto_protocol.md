@@ -11,6 +11,7 @@ Rating: 4.19 (Ranked 878)
 | Float Like A Butterfly | 5.00% | ~798 |
 | Two Heads Are Better Than One | 4.00% | ~639 |
 | Chew 'Em Up | 4.00% | ~639 |
+| Workplace Hazard | 4.00% | ~639 |
 | Reforged | 4.00% | ~639 |
 | The Outer Way | 4.00% | ~639 |
 | Without A Paddle | 4.00% | ~639 |
@@ -24,7 +25,6 @@ Rating: 4.19 (Ranked 878)
 | You Need a Gun | 3.00% | ~479 |
 | I Do Belong Here | 3.00% | ~479 |
 | Terminated | 3.00% | ~479 |
-| Workplace Hazard | 3.00% | ~479 |
 | If the SHU Fits... | 3.00% | ~479 |
 | Desperate Times | 3.00% | ~479 |
 | It's Time | 3.00% | ~117 |
@@ -54,7 +54,7 @@ Rating: 4.19 (Ranked 878)
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,966 (Ranked 127)  
-Completed: 73 (0.46%) (Ranked 166)  
+Completed: 73 (0.46%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

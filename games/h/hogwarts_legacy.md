@@ -5,10 +5,10 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,605 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,606 |
 | First Class Student | 13.00% | ~38,658 |
 | Troll with the Punches | 13.00% | ~38,658 |
-| A Keen Sense of Spell | 12.00% | ~35,684 |
+| A Keen Sense of Spell | 12.00% | ~35,685 |
 | A Talent for Spending | 11.00% | ~32,711 |
 | That's a Keeper | 11.00% | ~32,711 |
 | Grappling with a Graphorn | 10.00% | ~29,737 |
@@ -30,7 +30,7 @@ Rating: 4.76 (Ranked 119)
 | The Root of the Problem | 6.00% | ~17,842 |
 | Third Time's a Charm | 6.00% | ~17,842 |
 | Raising Expectations | 6.00% | ~17,842 |
-| The Ends Petrify the Means | 5.00% | ~14,868 |
+| The Ends Petrify the Means | 5.00% | ~14,869 |
 | The Toast of the Town | 4.00% | ~11,895 |
 | Going Through the Potions | 4.00% | ~11,895 |
 | Room with a View | 4.00% | ~11,895 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,784 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,369 (Ranked 44)  
+Progressed: 297,371 (Ranked 44)  
 Completed: 477 (0.16%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,17 +210,17 @@ Completed: 477 (0.16%) (Ranked 216)
 | 2023-09-23 | 297,194 | 476 |
 | 2023-09-24 | 297,283 | 477 |
 | 2023-09-25 | 297,339 | 477 |
-| 2023-09-26 | 297,369 | 477 |
+| 2023-09-26 | 297,371 | 477 |
 ## Awards
 Max (Character Customization): 23,061  (Ranked 17)  
-Sum: 44,356 (Ranked 30)  
+Sum: 44,365 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,061 |
 | This game has Great Boss Battles | 11,396 |
 | This game is Great for Beginners | 1,106 |
-| This game has Amazing Storytelling | 1,067 |
+| This game has Amazing Storytelling | 1,076 |
 | This game has Diverse Characters | 1,064 |
 | This game is Relaxing | 1,057 |
 | This game is Extremely Fun | 1,053 |
@@ -418,4 +418,4 @@ Diff (max vs sum): -13
 | 2023-09-23 | 4.76 | 22,951 | 44,076 |
 | 2023-09-24 | 4.76 | 22,986 | 44,172 |
 | 2023-09-25 | 4.76 | 23,029 | 44,298 |
-| 2023-09-26 | 4.76 | 23,061 | 44,356 |
+| 2023-09-26 | 4.76 | 23,061 | 44,365 |

@@ -6,17 +6,17 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,654 |
+| Venture Outward | 76.00% | ~2,655 |
 | Ready for Winter | 65.00% | ~2,270 |
 | Ready for Summer | 52.00% | ~1,816 |
-| Cordon Bleu | 43.00% | ~1,502 |
+| Cordon Bleu | 44.00% | ~1,537 |
 | Tapped! | 37.00% | ~1,292 |
-| Eureka | 32.00% | ~1,117 |
+| Eureka | 32.00% | ~1,118 |
 | Scourge Slayer | 25.00% | ~873 |
 | Science, Troglodyte! | 23.00% | ~803 |
 | Exceptional Skill | 22.00% | ~768 |
 | Home Sweet Home | 22.00% | ~768 |
-| Encyclopedic! | 20.00% | ~698 |
+| Encyclopedic! | 20.00% | ~699 |
 | The Power of Family | 17.00% | ~594 |
 | A Fortress Toppled! | 16.00% | ~559 |
 | Apex Predator | 16.00% | ~559 |
@@ -26,9 +26,9 @@ Number of Ratings: 266  (23.09.2022)
 | Ace Detective | 8.00% | ~279 |
 | Gift from the Ancestors | 8.00% | ~279 |
 | Magic is a science | 8.00% | ~279 |
-| House of Cards | 7.00% | ~244 |
-| Let ‘em eat magma! | 7.00% | ~244 |
-| The power of ambition | 7.00% | ~244 |
+| House of Cards | 7.00% | ~245 |
+| Let ‘em eat magma! | 7.00% | ~245 |
+| The power of ambition | 7.00% | ~245 |
 | Blood and justice | 6.00% | ~210 |
 | Hold my Mead and Watch This | 6.00% | ~210 |
 | The stuff of legends. | 6.00% | ~210 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,492 (Ranked 175)  
+Progressed: 3,493 (Ranked 175)  
 Completed: 4 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 4 (0.11%) (Ranked 229)
 | 2023-09-23 | 3,467 | 4 |
 | 2023-09-24 | 3,478 | 4 |
 | 2023-09-25 | 3,486 | 4 |
-| 2023-09-26 | 3,492 | 4 |
+| 2023-09-26 | 3,493 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 449)  
 Sum: 244 (Ranked 362)  

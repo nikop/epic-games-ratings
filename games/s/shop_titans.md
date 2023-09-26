@@ -25,9 +25,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,367 |
 | Through Repetition, Perfection | 1.00% | ~1,367 |
 | Own the Means of Production | 1.00% | ~1,367 |
-| Demand for Supplies | 0.90% | ~1,230 |
-| Where it Hurts | 0.90% | ~1,230 |
-| Gild-Gotten Goods | 0.90% | ~1,230 |
+| Demand for Supplies | 0.90% | ~1,231 |
+| Where it Hurts | 0.90% | ~1,231 |
+| Gild-Gotten Goods | 0.90% | ~1,231 |
 | Blank Page Syndrome | 0.80% | ~1,094 |
 | Accomplished Merchant | 0.80% | ~1,094 |
 | Did we pack lunch? | 0.80% | ~1,094 |
@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.60% | ~820 |
 | A Notch Above the Rest | 0.50% | ~684 |
 | Cream of the Crop | 0.50% | ~684 |
+| Proud Paladin | 0.50% | ~684 |
 | Above the Norm | 0.50% | ~684 |
 | A Ronin Reborn | 0.50% | ~684 |
 | The King's Caprice | 0.50% | ~684 |
@@ -81,7 +82,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.50% | ~684 |
 | Complete Monopoly | 0.50% | ~684 |
 | Top of the World | 0.40% | ~547 |
-| Proud Paladin | 0.40% | ~547 |
 | Constellated | 0.40% | ~547 |
 | Thirst for Knowledge | 0.40% | ~547 |
 | Booty by the Boatload | 0.40% | ~547 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,722 (Ranked 69)  
+Progressed: 136,723 (Ranked 69)  
 Completed: 155 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 155 (0.11%) (Ranked 229)
 | 2023-09-23 | 136,602 | 153 |
 | 2023-09-24 | 136,667 | 154 |
 | 2023-09-25 | 136,703 | 155 |
-| 2023-09-26 | 136,722 | 155 |
+| 2023-09-26 | 136,723 | 155 |
 ## Awards
 Max (Great for Beginners): 4,758  (Ranked 70)  
 Sum: 27,292 (Ranked 48)  

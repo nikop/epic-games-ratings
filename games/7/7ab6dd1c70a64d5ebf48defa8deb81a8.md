@@ -24,6 +24,7 @@
 | Airborne | -7.10% | ~-2 |
 | Essence Blow | -7.10% | ~-2 |
 | Big Bazar | -7.10% | ~-2 |
+| Fashion Victim | -7.10% | ~-2 |
 | Scholar | -7.10% | ~-2 |
 | I Found It | -7.10% | ~-2 |
 | The Collector | -7.10% | ~-2 |
@@ -34,7 +35,6 @@
 | Tributes of Caladrias | -10.70% | ~-3 |
 | Flawless Victory | -10.70% | ~-3 |
 | Geared Up | -10.70% | ~-3 |
-| Fashion Victim | -10.70% | ~-3 |
 | Alchemist | -10.70% | ~-3 |
 | Stone Collection | -10.70% | ~-3 |
 | Miner | -10.70% | ~-3 |

@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1868,9 +1868,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 207
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2163,8 +2163,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-26T12:06:36.2155517+00:00",
+  "LastChanged_Achievements": "2023-09-26T13:13:15.0607047+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:58:01.6962149+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:06:36.2155941+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:05:10.247014+00:00",
+  "LastUpdate_Achievements": "2023-09-26T13:13:15.0607579+00:00"
 }

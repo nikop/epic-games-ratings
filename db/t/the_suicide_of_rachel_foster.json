@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1497,
+  "EOS_Progressed": 1498,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.81,
   "EosHistory": [
@@ -2719,6 +2719,11 @@
       "Time": "2023-09-26T11:08:21.1820115+00:00",
       "NumProgressed": 1497,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-26T13:15:29.5406711+00:00",
+      "NumProgressed": 1498,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 11,
@@ -2738,7 +2743,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2760,9 +2765,9 @@
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 689
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_FineEV9",
@@ -2817,15 +2822,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1497,
+      "Progressed": 1498,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-09-26T12:09:13.1357429+00:00",
+  "LastChanged_Achievements": "2023-09-26T13:15:29.5406705+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:32.0080277+00:00",
-  "LastUpdate_Ratings": "2023-09-26T11:59:36.0675984+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:09:13.1357627+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:06:42.7221482+00:00",
+  "LastUpdate_Achievements": "2023-09-26T13:15:29.5406945+00:00"
 }

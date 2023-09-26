@@ -4,6 +4,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Prison | 18.00% | ~2 |
+| Ashes in The Maw | 9.00% | ~1 |
 | Elusive | 9.00% | ~1 |
 | Fun and Games Ahead | 9.00% | ~1 |
 | Six's Song | 9.00% | ~1 |
@@ -13,7 +14,6 @@
 | Not Alone | 9.00% | ~1 |
 | So Close | 9.00% | ~1 |
 | The Lair | 9.00% | ~1 |
-| Ashes in The Maw | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | End in Sight | 0.00% | ~0 |
 | Hard to the Core | 0.00% | ~0 |

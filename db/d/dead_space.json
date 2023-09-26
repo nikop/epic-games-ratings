@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -1467,9 +1467,9 @@
       "ID": "achievement_18",
       "SetID": "222fo9l",
       "Name": "Full Arsenal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_19",
@@ -1780,8 +1780,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-22T20:58:23.6909557+00:00",
-  "LastChanged_Achievements": "2023-09-26T12:05:05.6082201+00:00",
+  "LastChanged_Achievements": "2023-09-26T13:11:42.8162226+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-26T12:00:48.2185592+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:05:05.608257+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:07:42.2202187+00:00",
+  "LastUpdate_Achievements": "2023-09-26T13:11:42.8162683+00:00"
 }

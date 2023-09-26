@@ -5,7 +5,7 @@
   "Ranking_Rating": 245,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
-  "Ranking_EOS_Progress": 637,
+  "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 107,
@@ -8252,42 +8252,48 @@
       "Rating": 4.68,
       "NumberOfAwards": 1800863,
       "NumberOfAwardsMax": 232244
+    },
+    {
+      "Time": "2023-09-26T13:07:57.9959654+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1803480,
+      "NumberOfAwardsMax": 232670
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1800863,
-  "NumberOfAwardsMax": 232244,
+  "NumberOfAwards": 1803480,
+  "NumberOfAwardsMax": 232670,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 204723
+      "Count": 205025
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 191515
+      "Count": 191822
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 213017
+      "Count": 213377
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 190607
+      "Count": 190907
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 192672
+      "Count": 192989
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8299,7 +8305,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 197581
+      "Count": 197890
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8311,13 +8317,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 192900
+      "Count": 193196
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 232244
+      "Count": 232670
     }
   ],
   "EOS_Progressed": 0,
@@ -8331,8 +8337,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-09-25T13:59:27.0559102+00:00",
+  "LastChanged": "2023-09-26T13:07:57.9959653+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.9068397+00:00",
-  "LastUpdate_Ratings": "2023-09-26T12:01:08.8535185+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:09:15.9077194+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:07:57.9959658+00:00",
+  "LastUpdate_Achievements": "2023-09-26T13:15:31.6174656+00:00"
 }

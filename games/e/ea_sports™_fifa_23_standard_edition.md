@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 78.00% | ~86,169 |
-| Dead-ball specialist | 68.00% | ~75,122 |
-| European Legend | 54.00% | ~59,655 |
-| Let the Games Begin | 53.00% | ~58,551 |
-| Multitasking | 52.00% | ~57,446 |
-| High Grades | 52.00% | ~57,446 |
-| A Moment of Your Time | 50.00% | ~55,236 |
-| Balanced Path | 50.00% | ~55,236 |
-| Aiming High | 47.00% | ~51,922 |
-| Squad Building Connoisseur | 45.00% | ~49,713 |
-| Tactical Tinkerer | 45.00% | ~49,713 |
-| Intuition and Execution | 43.00% | ~47,503 |
-| The Winning Formula | 42.00% | ~46,399 |
-| Parking the Bus | 32.00% | ~35,351 |
-| Safe House | 31.00% | ~34,247 |
-| The Chosen One | 26.00% | ~28,723 |
-| Best of Five | 25.00% | ~27,618 |
-| Football is Everything | 24.00% | ~26,514 |
-| Fresh Fit | 22.00% | ~24,304 |
-| Bring it on | 18.00% | ~19,885 |
-| Life-Like | 16.00% | ~17,676 |
-| Make the Grade | 14.00% | ~15,466 |
-| I Played Them All | 12.00% | ~13,257 |
-| Specialist | 12.00% | ~13,257 |
-| First of Many | 10.00% | ~11,047 |
-| Teamwork works | 9.00% | ~9,943 |
-| Momentous Achievement | 7.00% | ~7,733 |
-| Tune Your Club | 6.00% | ~6,628 |
-| Becoming Unplayable | 6.00% | ~6,628 |
-| Shop till you drop | 6.00% | ~6,628 |
-| On the way up | 6.00% | ~6,628 |
-| Volta's best | 5.00% | ~5,524 |
-| In Cahoots | 5.00% | ~5,524 |
-| Full-House | 4.00% | ~4,419 |
-| Sharing is Caring | 4.00% | ~4,419 |
-| Full wardrobe | 0.80% | ~884 |
-| Girl Power | 0.40% | ~442 |
-| Training Addict | 0.10% | ~110 |
-| Dazzling Personality | 0.10% | ~110 |
+| Power Shot | 78.00% | ~86,346 |
+| Dead-ball specialist | 67.00% | ~74,169 |
+| European Legend | 54.00% | ~59,778 |
+| Let the Games Begin | 53.00% | ~58,671 |
+| Multitasking | 52.00% | ~57,564 |
+| High Grades | 52.00% | ~57,564 |
+| A Moment of Your Time | 50.00% | ~55,350 |
+| Balanced Path | 50.00% | ~55,350 |
+| Aiming High | 47.00% | ~52,029 |
+| Squad Building Connoisseur | 45.00% | ~49,815 |
+| Tactical Tinkerer | 45.00% | ~49,815 |
+| Intuition and Execution | 43.00% | ~47,601 |
+| The Winning Formula | 42.00% | ~46,494 |
+| Parking the Bus | 32.00% | ~35,424 |
+| Safe House | 31.00% | ~34,317 |
+| The Chosen One | 26.00% | ~28,782 |
+| Best of Five | 25.00% | ~27,675 |
+| Football is Everything | 24.00% | ~26,568 |
+| Fresh Fit | 22.00% | ~24,354 |
+| Bring it on | 18.00% | ~19,926 |
+| Life-Like | 16.00% | ~17,712 |
+| Make the Grade | 14.00% | ~15,498 |
+| I Played Them All | 12.00% | ~13,284 |
+| Specialist | 12.00% | ~13,284 |
+| First of Many | 10.00% | ~11,070 |
+| Teamwork works | 9.00% | ~9,963 |
+| Momentous Achievement | 7.00% | ~7,749 |
+| Tune Your Club | 6.00% | ~6,642 |
+| Becoming Unplayable | 6.00% | ~6,642 |
+| Shop till you drop | 6.00% | ~6,642 |
+| On the way up | 6.00% | ~6,642 |
+| Volta's best | 5.00% | ~5,535 |
+| In Cahoots | 5.00% | ~5,535 |
+| Full-House | 4.00% | ~4,428 |
+| Sharing is Caring | 4.00% | ~4,428 |
+| Full wardrobe | 0.80% | ~886 |
+| Girl Power | 0.40% | ~443 |
+| Training Addict | 0.10% | ~111 |
+| Dazzling Personality | 0.10% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,473 (Ranked 74)  
+Progressed: 110,700 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,17 +57,17 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 93,969 | 0 |
 | 2023-09-24 | 103,575 | 0 |
 | 2023-09-25 | 108,832 | 0 |
-| 2023-09-26 | 110,473 | 0 |
+| 2023-09-26 | 110,700 | 0 |
 ## Awards
 Max (Diverse Characters): 19,757  (Ranked 19)  
-Sum: 100,713 (Ranked 14)  
+Sum: 100,722 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 19,757 |
 | This game is Highly Recommended | 13,909 |
 | This game has a Competitive Community | 13,059 |
-| This game has Amazing Characters | 11,399 |
+| This game has Amazing Characters | 11,408 |
 | This game is Extremely Fun | 10,992 |
 | This game has Competitive Players | 10,941 |
 | This game has Amazing Storytelling | 10,744 |
@@ -340,4 +340,4 @@ Diff (max vs sum): 5
 | 2023-09-23 | 4.26 | 19,698 | 100,407 |
 | 2023-09-24 | 4.26 | 19,737 | 100,560 |
 | 2023-09-25 | 4.26 | 19,757 | 100,679 |
-| 2023-09-26 | 4.26 | 19,757 | 100,713 |
+| 2023-09-26 | 4.26 | 19,757 | 100,722 |

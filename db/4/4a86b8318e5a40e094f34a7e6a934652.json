@@ -710,9 +710,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "HOUSEWARMING",
@@ -813,8 +813,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-26T12:05:33.9894535+00:00",
+  "LastChanged_Achievements": "2023-09-26T13:12:25.4773844+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:11.1562763+00:00",
-  "LastUpdate_Ratings": "2023-09-26T12:01:42.2198777+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:05:33.9894681+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:08:29.2949288+00:00",
+  "LastUpdate_Achievements": "2023-09-26T13:12:25.4774019+00:00"
 }

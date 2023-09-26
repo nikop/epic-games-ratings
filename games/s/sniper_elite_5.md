@@ -6,21 +6,21 @@ Rating: 4.46 (Ranked 632)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,688 |
-| Confirming Suspicions | 41.00% | ~1,504 |
+| Confirming Suspicions | 41.00% | ~1,505 |
 | The Kraken Wakes | 36.00% | ~1,321 |
 | It's Starting to Crack | 33.00% | ~1,211 |
 | Change the Channel | 30.00% | ~1,101 |
 | Lord of War | 29.00% | ~1,064 |
-| Taking it back | 28.00% | ~1,027 |
+| Taking it back | 28.00% | ~1,028 |
 | Resourceful | 26.00% | ~954 |
 | Target America | 26.00% | ~954 |
 | The Kraken Sleeps | 24.00% | ~881 |
 | Liberté | 22.00% | ~807 |
 | Organ Grinder | 22.00% | ~807 |
 | As Quiet as a Mouse | 22.00% | ~807 |
-| Sharpshooter | 21.00% | ~770 |
-| Gunslinger | 18.00% | ~660 |
-| Explosive Efficiency | 18.00% | ~660 |
+| Sharpshooter | 21.00% | ~771 |
+| Gunslinger | 18.00% | ~661 |
+| Explosive Efficiency | 18.00% | ~661 |
 | Just a Flesh Wound | 17.00% | ~624 |
 | Climbing the Ladder | 16.00% | ~587 |
 | Der Geist | 16.00% | ~587 |
@@ -38,9 +38,9 @@ Rating: 4.46 (Ranked 632)
 | My Little Friend | 9.00% | ~330 |
 | Rigged to Blow | 8.00% | ~294 |
 | Herr Today, Gone Tomorrow | 6.00% | ~217 |
-| The Long Game | 5.00% | ~183 |
-| It'll Buff Right Out | 5.00% | ~183 |
-| Don't hold your breath | 5.00% | ~183 |
+| The Long Game | 5.00% | ~184 |
+| It'll Buff Right Out | 5.00% | ~184 |
+| Don't hold your breath | 5.00% | ~184 |
 | Operation Foxley | 5.00% | ~181 |
 | Strategist | 4.00% | ~147 |
 | Tinkerer | 4.00% | ~147 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 632)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,669 (Ranked 171)  
+Progressed: 3,670 (Ranked 171)  
 Completed: 11 (0.30%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 11 (0.30%) (Ranked 191)
 | 2023-09-23 | 3,658 | 11 |
 | 2023-09-24 | 3,662 | 11 |
 | 2023-09-25 | 3,667 | 11 |
-| 2023-09-26 | 3,669 | 11 |
+| 2023-09-26 | 3,670 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

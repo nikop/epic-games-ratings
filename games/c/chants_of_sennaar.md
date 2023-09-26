@@ -18,7 +18,7 @@
 | Peace walker | 31.00% | ~66 |
 | Half the way | 31.00% | ~66 |
 | Champollion | 31.00% | ~66 |
-| In this together | 29.00% | ~62 |
+| In this together | 30.00% | ~64 |
 | Open door | 26.00% | ~55 |
 | Feels like springtime | 25.00% | ~53 |
 | Rascal | 24.00% | ~51 |

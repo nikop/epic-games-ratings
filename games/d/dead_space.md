@@ -19,7 +19,7 @@ Rating: 4.61 (Ranked 371)
 | Freeze | 43.00% | ~190 |
 | Greenhouse Effect | 43.00% | ~190 |
 | Exterminator | 42.00% | ~185 |
-| Full Arsenal | 39.00% | ~172 |
+| Full Arsenal | 40.00% | ~176 |
 | Live with the Hot Ones | 36.00% | ~159 |
 | S.O.S. | 35.00% | ~154 |
 | Get Off My Ship! | 34.00% | ~150 |
