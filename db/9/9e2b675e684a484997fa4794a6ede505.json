@@ -4,8 +4,8 @@
   "ProductSlug": "quest-master-2d8729",
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-21T19:57:00.6686493+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:59:58.6446984+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:07:20.624828+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:00:03.5475401+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:07:32.1153584+00:00"
 }

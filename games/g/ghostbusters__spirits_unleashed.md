@@ -12,6 +12,7 @@ Rating: 4.50 (Ranked 573)
 | Solo Capture | 0.60% | ~156 |
 | Clutch Capture | 0.50% | ~130 |
 | I collect Spores, Molds, and Fungi | 0.50% | ~130 |
+| Cultured | 0.50% | ~130 |
 | Fully Upgraded | 0.50% | ~130 |
 | Swift Rift Removers | 0.50% | ~130 |
 | Teamwork | 0.50% | ~130 |
@@ -20,7 +21,6 @@ Rating: 4.50 (Ranked 573)
 | Whoopsie | 0.50% | ~130 |
 | Animated | 0.40% | ~104 |
 | Back Off | 0.40% | ~104 |
-| Cultured | 0.40% | ~104 |
 | Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |

@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~365 |
-| Spectre Inductee | 83.00% | ~326 |
-| Medal of Exploration I | 75.00% | ~295 |
+| Spectre Inductee | 84.00% | ~330 |
+| Medal of Exploration I | 76.00% | ~299 |
 | Recruit | 73.00% | ~287 |
 | Search and Rescue | 73.00% | ~287 |
-| Quarian Ally | 66.00% | ~259 |
+| Quarian Ally | 67.00% | ~263 |
 | Honorarium of Corporate Service | 66.00% | ~259 |
 | Medal of Heroism | 64.00% | ~252 |
 | Medal of Exploration II | 61.00% | ~240 |
@@ -21,9 +21,9 @@
 | Soldier | 53.00% | ~208 |
 | Medal of Exploration III | 53.00% | ~208 |
 | Asari Ally | 52.00% | ~204 |
-| Principled | 51.00% | ~200 |
+| Principled | 52.00% | ~204 |
+| Colonial Savior | 50.00% | ~196 |
 | Soldier Ally | 49.00% | ~193 |
-| Colonial Savior | 49.00% | ~193 |
 | Sentinel Ally | 46.00% | ~181 |
 | Paramour I | 45.00% | ~177 |
 | Krogan Ally | 45.00% | ~177 |
@@ -37,7 +37,7 @@
 | Very Elusive | 38.00% | ~149 |
 | Archivist | 37.00% | ~145 |
 | Completionist | 37.00% | ~145 |
-| Missing in Action | 36.00% | ~141 |
+| Missing in Action | 37.00% | ~145 |
 | The Archangel | 35.00% | ~138 |
 | The Convict | 35.00% | ~138 |
 | The Krogan | 35.00% | ~138 |
@@ -55,12 +55,12 @@
 | The Quarian | 30.00% | ~118 |
 | The Prodigal | 30.00% | ~118 |
 | Revenge! | 30.00% | ~118 |
+| Heart of Darkness | 30.00% | ~118 |
 | Shopaholic | 30.00% | ~118 |
 | Catharsis | 29.00% | ~114 |
 | Fade Away | 29.00% | ~114 |
 | Ghost of the Father | 29.00% | ~114 |
 | Agent | 29.00% | ~114 |
-| Heart of Darkness | 29.00% | ~114 |
 | Cat's in the Cradle | 28.00% | ~110 |
 | Driven | 28.00% | ~110 |
 | Focused | 27.00% | ~106 |
@@ -77,9 +77,9 @@
 | Suicide Mission | 24.00% | ~94 |
 | Against All Odds | 24.00% | ~94 |
 | Weapon Specialist | 24.00% | ~94 |
+| Giant Killer | 23.00% | ~90 |
 | A House Divided | 23.00% | ~90 |
 | Liberator | 23.00% | ~90 |
-| Giant Killer | 22.00% | ~86 |
 | World Shaker | 22.00% | ~86 |
 | Savior | 21.00% | ~83 |
 | Tunnel Rat | 20.00% | ~79 |

@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 213
     },
     {
       "ID": "World3Boss",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:04:37.1610884+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:04:40.039545+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:01:36.02289+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:04:37.1611238+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:01:34.4366284+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:04:40.039581+00:00"
 }

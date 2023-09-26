@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -768,9 +768,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -831,8 +831,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:06:05.9249856+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:06:18.3556375+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:01:13.2047754+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:06:05.9250867+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:01:19.0917443+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:06:18.3557595+00:00"
 }

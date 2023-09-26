@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145193,
+  "EOS_Progressed": 145195,
   "EOS_Completed": 278,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1188,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12286,6 +12286,11 @@
       "Time": "2023-09-26T16:08:40.1215891+00:00",
       "NumProgressed": 145193,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-09-26T17:08:39.6998475+00:00",
+      "NumProgressed": 145195,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 31,
@@ -12305,7 +12310,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101635
+      "UsersEstimate": 101636
     },
     {
       "ID": "EAwards_10",
@@ -12345,7 +12350,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56625
+      "UsersEstimate": 56626
     },
     {
       "ID": "EAwards_15",
@@ -12369,7 +12374,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31942
+      "UsersEstimate": 31943
     },
     {
       "ID": "EAwards_18",
@@ -12377,7 +12382,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31942
+      "UsersEstimate": 31943
     },
     {
       "ID": "EAwards_19",
@@ -12393,7 +12398,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40654
+      "UsersEstimate": 40655
     },
     {
       "ID": "EAwards_20",
@@ -12401,7 +12406,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11615
+      "UsersEstimate": 11616
     },
     {
       "ID": "EAwards_21",
@@ -12489,7 +12494,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13067
+      "UsersEstimate": 13068
     },
     {
       "ID": "EAwards_4",
@@ -12513,7 +12518,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36298
+      "UsersEstimate": 36299
     },
     {
       "ID": "EAwards_7",
@@ -12529,7 +12534,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53721
+      "UsersEstimate": 53722
     },
     {
       "ID": "EAwards_9",
@@ -12544,7 +12549,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 145193,
+      "Progressed": 145195,
       "Completed": 278
     }
   ],
@@ -12552,8 +12557,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-23T09:58:54.9188675+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:08:40.1215887+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:08:39.6998468+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:01:15.9168726+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:08:40.1216737+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:01:20.3512869+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:08:39.69994+00:00"
 }

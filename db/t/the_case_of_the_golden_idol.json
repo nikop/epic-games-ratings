@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -798,9 +798,9 @@
       "ID": "10",
       "SetID": "acl54ke",
       "Name": "Solved eleventh case",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "2",
@@ -933,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:03:57.8790907+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:03:41.6364117+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.9188929+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:57:56.9305142+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:03:57.8791085+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:58:03.6644991+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:03:41.6364265+00:00"
 }

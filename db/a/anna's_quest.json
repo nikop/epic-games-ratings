@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_30",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:03:51.3957278+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:03:34.5747932+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:20.3456173+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:58:17.0752957+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:03:51.3957591+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:58:28.3611358+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:03:34.5748262+00:00"
 }

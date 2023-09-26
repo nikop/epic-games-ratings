@@ -12435,10 +12435,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 224729,
       "NumberOfAwardsMax": 82928
+    },
+    {
+      "Time": "2023-09-26T16:57:21.6636039+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 224916,
+      "NumberOfAwardsMax": 82928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 224729,
+  "NumberOfAwards": 224916,
   "NumberOfAwardsMax": 82928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12512,13 +12518,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 6377
+      "Count": 6564
     }
   ],
-  "EOS_Progressed": 882187,
-  "EOS_Completed": 2408,
-  "EOS_NewPlayers": 5095,
-  "EOS_NewCompleters": 289,
+  "EOS_Progressed": 882244,
+  "EOS_Completed": 2411,
+  "EOS_NewPlayers": 5142,
+  "EOS_NewCompleters": 292,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30380,6 +30386,11 @@
       "Time": "2023-09-26T16:05:48.77692+00:00",
       "NumProgressed": 882187,
       "NumCompleted": 2408
+    },
+    {
+      "Time": "2023-09-26T17:06:11.2478012+00:00",
+      "NumProgressed": 882244,
+      "NumCompleted": 2411
     }
   ],
   "TotalAchievements": 57,
@@ -30389,17 +30400,17 @@
       "ID": "Bladerunner",
       "SetID": "47clieb",
       "Name": "City Lights",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2647
     },
     {
       "ID": "BushidoAndChill",
@@ -30469,9 +30480,9 @@
       "ID": "Gunslinger",
       "SetID": "47clieb",
       "Name": "Gunslinger",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4411
+      "UsersEstimate": 5293
     },
     {
       "ID": "HandyMan",
@@ -30517,9 +30528,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "MustBeTheRats",
@@ -30573,17 +30584,17 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5293
+      "UsersEstimate": 6176
     },
     {
       "ID": "Temperance",
       "SetID": "47clieb",
       "Name": "Temperance",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2647
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30591,7 +30602,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "TheDevil",
@@ -30621,9 +30632,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3529
     },
     {
       "ID": "TheLovers",
@@ -30653,9 +30664,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2647
     },
     {
       "ID": "TheWorld",
@@ -30669,9 +30680,9 @@
       "ID": "ThisIsPacifica",
       "SetID": "47clieb",
       "Name": "Greetings from Pacifica!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "TradeUnion",
@@ -30709,9 +30720,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "VForVendetta",
@@ -30846,21 +30857,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882187,
-      "Completed": 2408
+      "Progressed": 882244,
+      "Completed": 2411
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10810,
+      "Progressed": 10867,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-26T13:57:28.004197+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:05:48.7769196+00:00",
+  "LastChanged": "2023-09-26T16:57:21.6636037+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:06:11.2478002+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:57:19.831289+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:05:48.7770769+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:57:21.6636044+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:06:11.2479562+00:00"
 }

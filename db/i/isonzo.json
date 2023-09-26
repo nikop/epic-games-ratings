@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,7 +838,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6977,
+  "EOS_Progressed": 6978,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -5798,6 +5798,11 @@
       "Time": "2023-09-26T16:07:10.1516537+00:00",
       "NumProgressed": 6977,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-26T17:07:21.6927867+00:00",
+      "NumProgressed": 6978,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5817,7 +5822,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5865,7 +5870,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -5921,7 +5926,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5937,7 +5942,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -5977,7 +5982,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -6001,7 +6006,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6137,7 +6142,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6168,7 +6173,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6977,
+      "Progressed": 6978,
       "Completed": 8
     }
   ],
@@ -6176,8 +6181,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:07:10.1516534+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:07:21.692786+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:33.8019238+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:57:09.7679514+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:07:10.1517179+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:57:12.6795151+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:07:21.6928518+00:00"
 }

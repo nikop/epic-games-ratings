@@ -7,7 +7,7 @@
 | Escape artist | 82.00% | ~41 |
 | Ooh, it's shiny! | 62.00% | ~31 |
 | Book Worm | 60.00% | ~30 |
-| My lost nightingale | 50.00% | ~25 |
+| My lost nightingale | 52.00% | ~26 |
 | Through the woods | 48.00% | ~24 |
 | Back to the anvil | 44.00% | ~22 |
 | Fussy eater | 42.00% | ~21 |

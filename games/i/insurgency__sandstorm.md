@@ -1,36 +1,36 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 352)  
+Rating: 4.62 (Ranked 353)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,817 |
-| Wallbanger | 5.00% | ~22,817 |
-| Exploitative | 4.00% | ~18,254 |
-| High Speed Low Drag | 4.00% | ~18,254 |
-| Wet Feet | 4.00% | ~18,254 |
-| Lucky | 3.00% | ~13,690 |
-| Stylin' | 3.00% | ~13,690 |
-| Turf War | 3.00% | ~13,690 |
+| Point Shooting | 5.00% | ~22,818 |
+| Wallbanger | 5.00% | ~22,818 |
+| Exploitative | 4.00% | ~18,255 |
+| High Speed Low Drag | 4.00% | ~18,255 |
+| Wet Feet | 4.00% | ~18,255 |
+| Lucky | 3.00% | ~13,691 |
+| Stylin' | 3.00% | ~13,691 |
+| Turf War | 3.00% | ~13,691 |
 | Banged | 2.00% | ~9,127 |
 | Checkpoint Victory | 2.00% | ~9,127 |
 | First Blood | 2.00% | ~9,127 |
 | Flaccid Paralysis | 2.00% | ~9,127 |
 | Push Victory | 2.00% | ~9,127 |
 | Self-destructive | 2.00% | ~9,127 |
-| Blindfire | 1.00% | ~4,563 |
-| Ruthless | 1.00% | ~4,563 |
-| Semper Paratus | 1.00% | ~4,563 |
+| Blindfire | 1.00% | ~4,564 |
+| Ruthless | 1.00% | ~4,564 |
+| Semper Paratus | 1.00% | ~4,564 |
 | Carrying | 0.90% | ~4,107 |
 | Efficient | 0.90% | ~4,107 |
 | Mount & Gun | 0.90% | ~4,107 |
 | Personal | 0.90% | ~4,107 |
 | Grounded | 0.80% | ~3,651 |
 | Play to Win | 0.80% | ~3,651 |
-| #1 | 0.70% | ~3,194 |
-| Special Delivery | 0.70% | ~3,194 |
+| #1 | 0.70% | ~3,195 |
+| Special Delivery | 0.70% | ~3,195 |
 | Firefight Victory | 0.60% | ~2,738 |
 | Cinematic | 0.50% | ~2,282 |
 | Thanks Station! | 0.40% | ~1,825 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~456 |
 | Road Hazard | 0.10% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,347 (Ranked 38)  
+Progressed: 456,367 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2 (0.00%) (Ranked 293)
 | 2023-09-23 | 455,158 | 2 |
 | 2023-09-24 | 455,690 | 2 |
 | 2023-09-25 | 456,114 | 2 |
-| 2023-09-26 | 456,347 | 2 |
+| 2023-09-26 | 456,367 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 383  (Ranked 224)  
 Sum: 3,010 (Ranked 169)  

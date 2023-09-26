@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 509)
 | Max Headroom | 0.90% | ~6,180 |
 | Go, Bobcats! | 0.80% | ~5,493 |
 | Rising Star | 0.80% | ~5,493 |
-| Jumbo Keyring | 0.70% | ~4,806 |
+| Jumbo Keyring | 0.70% | ~4,807 |
 | Smorgasbord | 0.60% | ~4,120 |
 | Internet Famous | 0.60% | ~4,120 |
 | Make it So | 0.50% | ~3,433 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,627 (Ranked 22)  
-Completed: 2,175 (0.32%) (Ranked 187)  
+Progressed: 686,649 (Ranked 22)  
+Completed: 2,176 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,15 +210,15 @@ Completed: 2,175 (0.32%) (Ranked 187)
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
-| 2023-09-26 | 686,627 | 2,175 |
+| 2023-09-26 | 686,649 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,204  (Ranked 57)  
-Sum: 9,237 (Ranked 92)  
+Sum: 9,239 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,204 |
-| This game is Great for Beginners | 430 |
+| This game is Great for Beginners | 432 |
 | This game has Diverse Characters | 421 |
 | This game has Quickly Understood Controls | 406 |
 | This game is Relaxing | 387 |
@@ -387,4 +387,4 @@ Diff (max vs sum): -35
 | 2023-09-23 | 4.54 | 6,175 | 9,178 |
 | 2023-09-24 | 4.54 | 6,188 | 9,207 |
 | 2023-09-25 | 4.54 | 6,204 | 9,227 |
-| 2023-09-26 | 4.54 | 6,204 | 9,237 |
+| 2023-09-26 | 4.54 | 6,204 | 9,239 |

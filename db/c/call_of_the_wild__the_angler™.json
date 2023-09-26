@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -7930,9 +7930,9 @@
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3541
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8185,8 +8185,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-26T08:59:16.8417629+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:04:06.5225596+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:04:08.5805829+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:59:54.2530706+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:04:06.522624+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:00:00.2265213+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:04:08.5806586+00:00"
 }

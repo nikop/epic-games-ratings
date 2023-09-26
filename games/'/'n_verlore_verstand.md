@@ -11,6 +11,8 @@
 | A Long Walk | 32.00% | ~12 |
 | Dont mind the heat | 13.00% | ~5 |
 | A Dangerous Road | 8.00% | ~3 |
+| City of Puzzles | 8.00% | ~3 |
+| This field of danger | 8.00% | ~3 |
 | Scorched Ruins | 5.00% | ~2 |
 | City of Illusion | 5.00% | ~2 |
 | Kill the Flames | 5.00% | ~2 |
@@ -19,8 +21,6 @@
 | A Walk to the End | 5.00% | ~2 |
 | The Final Test | 5.00% | ~2 |
 | A Journey's End | 5.00% | ~2 |
-| City of Puzzles | 5.00% | ~2 |
-| This field of danger | 5.00% | ~2 |
 | Labyrinths of the Mind | 5.00% | ~2 |
 | A Terrifying Blizzard | 5.00% | ~2 |
 | A Stone Left Unturned | 3.00% | ~1 |

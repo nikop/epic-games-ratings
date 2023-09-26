@@ -4,8 +4,8 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -562,17 +562,17 @@
       "ID": "6",
       "SetID": "6m1k8ai",
       "Name": "City of Puzzles",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "7",
       "SetID": "6m1k8ai",
       "Name": "This field of danger",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "8",
@@ -601,8 +601,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:06:08.0446406+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:06:20.3477254+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.6049213+00:00",
-  "LastUpdate_Ratings": "2023-09-26T15:57:32.3570036+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:06:08.0446828+00:00"
+  "LastUpdate_Ratings": "2023-09-26T16:57:31.8764028+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:06:20.3477673+00:00"
 }

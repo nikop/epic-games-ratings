@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~45,653 |
-| Worth it | 63.00% | ~37,352 |
-| Eagle Eye | 55.00% | ~32,609 |
+| Setting an example | 77.00% | ~45,654 |
+| Worth it | 63.00% | ~37,353 |
+| Eagle Eye | 55.00% | ~32,610 |
 | Corpseman I | 40.00% | ~23,716 |
-| Blast fishing | 37.00% | ~21,937 |
-| Not alone | 32.00% | ~18,972 |
-| Headhunter I | 26.00% | ~15,415 |
-| Manual Labour I | 25.00% | ~14,822 |
-| Developers, Developers, Developers | 24.00% | ~14,229 |
-| Basic Training | 24.00% | ~14,229 |
+| Blast fishing | 37.00% | ~21,938 |
+| Not alone | 32.00% | ~18,973 |
+| Headhunter I | 26.00% | ~15,416 |
+| Manual Labour I | 25.00% | ~14,823 |
+| Developers, Developers, Developers | 24.00% | ~14,230 |
+| Basic Training | 24.00% | ~14,230 |
 | Furchtlos und Treu | 13.00% | ~7,708 |
 | Gott Mit Uns | 12.00% | ~7,115 |
 | This We'll Defend! | 9.00% | ~5,336 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,999  (23.09.2022)
 | Battle hardened | 8.00% | ~4,743 |
 | Semper Fidelis! | 7.00% | ~4,150 |
 | Honneur et Patrie | 7.00% | ~4,150 |
-| In Treue Fest | 5.00% | ~2,964 |
-| Voor De Koning | 5.00% | ~2,964 |
-| Extreme Headhunter | 5.00% | ~2,964 |
+| In Treue Fest | 5.00% | ~2,965 |
+| Voor De Koning | 5.00% | ~2,965 |
+| Extreme Headhunter | 5.00% | ~2,965 |
 | Advance Australia | 4.00% | ~2,372 |
 | We Stand on Guard | 4.00% | ~2,372 |
 | Sidi Brahim | 4.00% | ~2,372 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~59 |
 | Blood Brother | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,289 (Ranked 91)  
+Progressed: 59,291 (Ranked 91)  
 Completed: 4 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,11 +225,11 @@ Completed: 4 (0.01%) (Ranked 276)
 | 2023-09-23 | 59,060 | 4 |
 | 2023-09-24 | 59,174 | 4 |
 | 2023-09-25 | 59,252 | 4 |
-| 2023-09-26 | 59,289 | 4 |
+| 2023-09-26 | 59,291 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 347)  
-Sum: 777 (Ranked 270)  
-Diff (max vs sum): 77  
+Sum: 777 (Ranked 271)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 97 |

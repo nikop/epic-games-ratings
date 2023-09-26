@@ -6,31 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rough Landing | 0.70% | ~6,175 |
-| Ten out of Ten | 0.60% | ~5,293 |
-| Gunslinger | 0.50% | ~4,411 |
+| Ten out of Ten | 0.70% | ~6,176 |
+| Rough Landing | 0.70% | ~6,176 |
+| Gunslinger | 0.60% | ~5,293 |
 | The Jungle | 0.50% | ~4,411 |
 | Master Crafter | 0.40% | ~3,529 |
 | Mean Streets | 0.40% | ~3,529 |
+| The High Priestess | 0.40% | ~3,529 |
 | Two Heads, One Bullet | 0.40% | ~3,529 |
 | V for Vendetta | 0.40% | ~3,529 |
+| To Bad Decisions! | 0.30% | ~2,647 |
 | Full Body Conversion | 0.30% | ~2,647 |
 | Right Back At Ya | 0.30% | ~2,647 |
 | Breathtaking | 0.30% | ~2,647 |
 | Stanislavski's Method | 0.30% | ~2,647 |
+| Temperance | 0.30% | ~2,647 |
 | The Hermit | 0.30% | ~2,647 |
-| The High Priestess | 0.30% | ~2,647 |
+| The Wheel of Fortune | 0.30% | ~2,647 |
 | True Soldier | 0.30% | ~2,647 |
-| To Bad Decisions! | 0.20% | ~1,764 |
-| Temperance | 0.20% | ~1,764 |
+| City Lights | 0.20% | ~1,764 |
+| The Quick and the Dead | 0.20% | ~1,764 |
 | The Devil | 0.20% | ~1,764 |
 | The Fool | 0.20% | ~1,764 |
-| The Wheel of Fortune | 0.20% | ~1,764 |
 | The World | 0.20% | ~1,764 |
+| Greetings from Pacifica! | 0.20% | ~1,764 |
 | True Warrior | 0.20% | ~1,764 |
+| Judy vs Night City | 0.20% | ~1,764 |
 | It's Elementary | 0.20% | ~1,764 |
 | Legend of The Afterlife | 0.20% | ~1,764 |
-| City Lights | 0.10% | ~882 |
 | Bushido and Chill | 0.10% | ~882 |
 | To Protect and Serve | 0.10% | ~882 |
 | The Wandering Fool | 0.10% | ~882 |
@@ -40,7 +43,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.10% | ~882 |
 | Little Tokyo | 0.10% | ~882 |
 | Christmas Tree Attack | 0.10% | ~882 |
-| The Quick and the Dead | 0.10% | ~882 |
 | Must Be Rats | 0.10% | ~882 |
 | The Wasteland | 0.10% | ~882 |
 | Daemon In The Shell | 0.10% | ~882 |
@@ -48,8 +50,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.10% | ~882 |
 | The Star | 0.10% | ~882 |
 | The Sun | 0.10% | ~882 |
-| Greetings from Pacifica! | 0.10% | ~882 |
-| Judy vs Night City | 0.10% | ~882 |
 | The APB is Not Enough | 0.10% | ~11 |
 | Spin Doctor | 0.10% | ~11 |
 | Relic Ruler | 0.10% | ~11 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,187 (Ranked 15)  
-Completed: 2,408 (0.27%) (Ranked 197)  
+Progressed: 882,244 (Ranked 15)  
+Completed: 2,411 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,10 +223,10 @@ Completed: 2,408 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 882,187 | 2,408 |
+| 2023-09-26 | 882,244 | 2,411 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
-Sum: 224,729 (Ranked 13)  
+Sum: 224,916 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 10,014 |
 | This game has Amazing Characters | 9,900 |
 | This game has Quickly Understood Controls | 9,811 |
-| This game has a Creative Community | 6,377 |
+| This game has a Creative Community | 6,564 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -494,4 +494,4 @@ Diff (max vs sum): -4
 | 2023-09-23 | 4.62 | - | 80,565 | 217,303 |
 | 2023-09-24 | 4.62 | - | 81,210 | 219,602 |
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
-| 2023-09-26 | 4.63 | - | 82,928 | 224,729 |
+| 2023-09-26 | 4.63 | - | 82,928 | 224,916 |

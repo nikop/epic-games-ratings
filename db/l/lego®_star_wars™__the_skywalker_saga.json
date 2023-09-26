@@ -6,7 +6,7 @@
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 95,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
@@ -3278,7 +3278,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51743,
+  "EOS_Progressed": 51744,
   "EOS_Completed": 235,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 3,
@@ -12358,6 +12358,11 @@
       "Time": "2023-09-25T20:03:49.3577047+00:00",
       "NumProgressed": 51743,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-26T17:04:20.9727202+00:00",
+      "NumProgressed": 51744,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12393,7 +12398,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40877
+      "UsersEstimate": 40878
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12481,7 +12486,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30528
+      "UsersEstimate": 30529
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -12497,7 +12502,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20697
+      "UsersEstimate": 20698
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -12609,7 +12614,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30011
+      "UsersEstimate": 30012
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12633,7 +12638,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50191
+      "UsersEstimate": 50192
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12649,7 +12654,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -12721,22 +12726,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37255
+      "UsersEstimate": 37256
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51743,
+      "Progressed": 51744,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-25T16:59:48.0648+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:04:18.5399638+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:04:20.9727195+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.4035697+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:00:44.9320438+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:04:18.5400549+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:00:51.9714994+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:04:20.9728079+00:00"
 }

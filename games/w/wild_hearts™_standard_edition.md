@@ -16,7 +16,7 @@
 | Master of the Skies | 60.00% | ~34 |
 | Subsistence Skills | 60.00% | ~34 |
 | Kemono Hunter | 60.00% | ~34 |
-| Helpful Heart | 58.00% | ~33 |
+| Helpful Heart | 60.00% | ~34 |
 | Distance Devourer | 56.00% | ~32 |
 | Expert Conjuror | 54.00% | ~31 |
 | Bonds of Enmity | 51.00% | ~29 |
@@ -26,8 +26,8 @@
 | Karakuri Trail | 40.00% | ~23 |
 | Single Minded | 40.00% | ~23 |
 | Fair Means or Foul | 40.00% | ~23 |
+| Snare Specialist | 40.00% | ~23 |
 | Mighty Marmelizer | 39.00% | ~22 |
-| Snare Specialist | 39.00% | ~22 |
 | Reincarnation Cycle Stopper | 39.00% | ~22 |
 | Kemono at Heart | 37.00% | ~21 |
 | Team Hunter | 37.00% | ~21 |

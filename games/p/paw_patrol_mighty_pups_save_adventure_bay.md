@@ -8,8 +8,8 @@
 | Grand Re-Opening | 64.00% | ~18 |
 | Summer Day | 64.00% | ~18 |
 | Pup Pup Boogie | 61.00% | ~17 |
+| Risky Rescue | 57.00% | ~16 |
 | Mr. Porter | 54.00% | ~15 |
-| Risky Rescue | 54.00% | ~15 |
 | Carlos Is Tangled | 50.00% | ~14 |
 | Mandy Family | 46.00% | ~13 |
 | Paw patrol member | 36.00% | ~10 |

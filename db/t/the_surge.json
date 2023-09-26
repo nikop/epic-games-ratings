@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4681,
+  "EOS_Progressed": 4683,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2541,6 +2541,11 @@
       "Time": "2023-09-26T09:05:15.8265234+00:00",
       "NumProgressed": 4681,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-26T17:05:13.1013766+00:00",
+      "NumProgressed": 4683,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2550,9 +2555,9 @@
       "ID": "ID_ACHIEV_01",
       "SetID": "98bke8c",
       "Name": "P.A.X",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1733
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -2560,7 +2565,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -2600,7 +2605,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3981
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2608,7 +2613,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4402
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2616,7 +2621,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3606
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2624,7 +2629,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2688,7 +2693,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -2768,7 +2773,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3606
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2800,7 +2805,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2576
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -2816,7 +2821,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2896,7 +2901,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -2928,7 +2933,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -2968,7 +2973,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -3087,15 +3092,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4681,
+      "Progressed": 4683,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:05:11.1209516+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:05:13.1013757+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:31.5942131+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:02:28.5811185+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:05:11.1210389+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:02:23.7085777+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:05:13.1014629+00:00"
 }

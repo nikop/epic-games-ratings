@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2587,
+  "EOS_Progressed": 2588,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -3730,6 +3730,11 @@
       "Time": "2023-09-26T14:06:28.1792763+00:00",
       "NumProgressed": 2587,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-26T17:04:52.0582682+00:00",
+      "NumProgressed": 2588,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 53,
@@ -3749,7 +3754,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -3781,7 +3786,7 @@
       "Name": "Hijack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3789,7 +3794,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3821,7 +3826,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3861,7 +3866,7 @@
       "Name": "Past trauma",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3917,7 +3922,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3925,7 +3930,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3941,7 +3946,7 @@
       "Name": "The end of the experiments",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -3957,7 +3962,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3981,7 +3986,7 @@
       "Name": "Devineur",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -4029,7 +4034,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -4037,7 +4042,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "STB_PET_DOG",
@@ -4045,7 +4050,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4077,7 +4082,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -4117,7 +4122,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4141,7 +4146,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -4164,7 +4169,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2587,
+      "Progressed": 2588,
       "Completed": 10
     }
   ],
@@ -4172,8 +4177,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-26T16:04:49.5022577+00:00",
+  "LastChanged_Achievements": "2023-09-26T17:04:52.0582676+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:04.8253651+00:00",
-  "LastUpdate_Ratings": "2023-09-26T16:02:10.6832692+00:00",
-  "LastUpdate_Achievements": "2023-09-26T16:04:49.5023242+00:00"
+  "LastUpdate_Ratings": "2023-09-26T17:02:06.3769515+00:00",
+  "LastUpdate_Achievements": "2023-09-26T17:04:52.0583367+00:00"
 }
