@@ -19,8 +19,8 @@
 | Helpful Heart | 58.00% | ~29 |
 | Distance Devourer | 56.00% | ~28 |
 | Expert Conjuror | 54.00% | ~27 |
+| Bonds of Enmity | 50.00% | ~25 |
 | Flawless Crystal | 48.00% | ~24 |
-| Bonds of Enmity | 48.00% | ~24 |
 | Axer of Auspice | 44.00% | ~22 |
 | Karakuri Trail | 42.00% | ~21 |
 | Counter Specialist | 42.00% | ~21 |

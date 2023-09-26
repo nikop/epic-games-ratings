@@ -4,8 +4,8 @@
   "ProductSlug": "klang-2-4f9883",
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:57:25.3904072+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:15:44.8108572+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:21:09.1398065+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:59:47.0595982+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:05:18.9081078+00:00"
 }

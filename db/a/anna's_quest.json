@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "aq_achievement_13",
       "SetID": "7jh86ne",
       "Name": "Honey, honey, honey\u2026",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_14",
@@ -376,9 +376,9 @@
       "ID": "aq_achievement_30",
       "SetID": "7jh86ne",
       "Name": "Mischief maker",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_31",
@@ -513,8 +513,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:19:19.0701239+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:03:31.8377451+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:20.3456173+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:13:56.0821861+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:19:19.0701557+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:58:00.5358535+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:03:31.8377741+00:00"
 }

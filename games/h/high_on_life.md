@@ -11,6 +11,7 @@ Rating: 4.63 (Ranked 334)
 | Creature Feature | 0.10% | ~24 |
 | Are You Packin'? | 0.10% | ~24 |
 | Bring A Knife to a Gun Fight | 0.10% | ~24 |
+| Lezduit! | 0.10% | ~24 |
 | RIP Davey Glutes | 0.10% | ~24 |
 | Sweezy Like Sunday Morning | 0.10% | ~24 |
 | Eye Scream, You Scream | 0.10% | ~24 |
@@ -18,9 +19,11 @@ Rating: 4.63 (Ranked 334)
 | First Bounty Down | 0.10% | ~24 |
 | G3 Graduation | 0.10% | ~24 |
 | Hardest Battle In The Game | 0.10% | ~24 |
+| Self-Actualization | 0.10% | ~24 |
 | Who's The Boss? | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
 | Don't Knife The Hand That Feeds | 0.10% | ~24 |
+| Series Wrap on Suit-O | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
 | Porch Pirate | 0.10% | ~1 |
 | Harper? I Barely Know Her! | 0.10% | ~1 |
@@ -31,19 +34,16 @@ Rating: 4.63 (Ranked 334)
 | Epic Legendary Prize | 0.00% | ~0 |
 | Eatin' Good in the Neighborhood | 0.00% | ~0 |
 | Satisfied Gus-tomer | 0.00% | ~0 |
-| Lezduit! | 0.00% | ~0 |
 | A Starfish Is Born | 0.00% | ~0 |
 | Sequel-Bait | 0.00% | ~0 |
 | Legendary Bounty Hunter | 0.00% | ~0 |
 | Cold-Blooded Driller | 0.00% | ~0 |
-| Self-Actualization | 0.00% | ~0 |
 | Gunning For Your Job | 0.00% | ~0 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.00% | ~0 |
 | Seeing All The Sights | 0.00% | ~0 |
 | Spent 15 Hours At The Alien Strip Club | 0.00% | ~0 |
 | Playing Favorites | 0.00% | ~0 |
 | Carried Stan's Load To Completion | 0.00% | ~0 |
-| Series Wrap on Suit-O | 0.00% | ~0 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 | Mux Ado About Shipping | 0.00% | ~0 |
 | See Salt | 0.00% | ~0 |

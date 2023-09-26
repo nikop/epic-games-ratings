@@ -51,6 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | It's Elementary | 0.10% | ~882 |
 | Legend of The Afterlife | 0.10% | ~882 |
 | The APB is Not Enough | 0.10% | ~10 |
+| Relic Ruler | 0.10% | ~10 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -61,10 +62,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.00% | ~0 |
 | King of Swords | 0.00% | ~0 |
 | King of Wands | 0.00% | ~0 |
-| Relic Ruler | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881,627 (Ranked 15)  
+Progressed: 881,643 (Ranked 15)  
 Completed: 2,388 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,16 +223,16 @@ Completed: 2,388 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 881,627 | 2,388 |
+| 2023-09-26 | 881,643 | 2,388 |
 ## Awards
 Max (Character Customization): 81,778  (Ranked 9)  
-Sum: 222,812 (Ranked 13)  
+Sum: 223,029 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 81,778 |
 | This game has Great Boss Battles | 54,102 |
-| This game is Great for Beginners | 10,286 |
+| This game is Great for Beginners | 10,503 |
 | This game has Diverse Characters | 10,271 |
 | This game has Amazing Storytelling | 10,175 |
 | This game is Highly Recommended | 10,116 |
@@ -494,4 +494,4 @@ Diff (max vs sum): -4
 | 2023-09-23 | 4.62 | - | 80,565 | 217,303 |
 | 2023-09-24 | 4.62 | - | 81,210 | 219,602 |
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
-| 2023-09-26 | 4.63 | - | 81,778 | 222,812 |
+| 2023-09-26 | 4.63 | - | 81,778 | 223,029 |

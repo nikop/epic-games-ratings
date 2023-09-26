@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 31.00% | ~119 |
-| Baby's First Car | 29.00% | ~111 |
-| Pushover | 29.00% | ~111 |
-| A Forest Walk | 29.00% | ~111 |
+| Baby's First Car | 29.00% | ~112 |
+| Pushover | 29.00% | ~112 |
+| A Forest Walk | 29.00% | ~112 |
 | Amateur Mechanic | 28.00% | ~108 |
-| C-C-C-Combo! | 27.00% | ~104 |
 | Multiply that! | 27.00% | ~104 |
+| C-C-C-Combo! | 26.00% | ~100 |
 | Fore! | 24.00% | ~92 |
 | Insurance fraud | 24.00% | ~92 |
 | Snow Fun! | 24.00% | ~92 |
-| The Collector | 23.00% | ~88 |
-| The Wild West | 23.00% | ~88 |
-| Bag of Tricks | 23.00% | ~88 |
-| In the Bag! | 23.00% | ~88 |
-| You're it | 23.00% | ~88 |
-| First Come, First Serve | 22.00% | ~84 |
-| To and Fro | 22.00% | ~84 |
-| Goodbye cruel world | 22.00% | ~84 |
-| I see the light! | 22.00% | ~84 |
+| The Collector | 23.00% | ~89 |
+| The Wild West | 23.00% | ~89 |
+| Bag of Tricks | 23.00% | ~89 |
+| In the Bag! | 23.00% | ~89 |
+| You're it | 23.00% | ~89 |
+| First Come, First Serve | 22.00% | ~85 |
+| To and Fro | 22.00% | ~85 |
+| Goodbye cruel world | 22.00% | ~85 |
+| I see the light! | 22.00% | ~85 |
 | Disoriented | 21.00% | ~81 |
 | Take that Frosty! | 21.00% | ~81 |
 | Beach Party! | 21.00% | ~81 |
@@ -45,7 +45,7 @@
 | Rocketman | 11.00% | ~42 |
 | Event Pro | 10.00% | ~38 |
 | Space Crash | 7.00% | ~27 |
-| To war! | 7.00% | ~27 |
+| To war! | 6.00% | ~23 |
 | Hoarder | 6.00% | ~23 |
 | Event Master | 5.00% | ~19 |
 | A Starting Collector | 4.00% | ~15 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384 (Ranked 286)  
+Progressed: 385 (Ranked 286)  
 Completed: 2 (0.52%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 2 (0.52%) (Ranked 159)
 | 2023-09-20 | 382 | 2 |
 | 2023-09-24 | 383 | 2 |
 | 2023-09-25 | 384 | 2 |
+| 2023-09-26 | 385 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

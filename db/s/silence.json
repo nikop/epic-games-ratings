@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -202,6 +202,11 @@
       "Time": "2023-09-24T23:06:25.2206545+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T03:06:30.0487223+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -219,7 +224,7 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 41
     },
@@ -245,7 +250,7 @@
       "Name": "To err is human...",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "0000_achv_kickEverything",
@@ -253,7 +258,7 @@
       "Name": "Let the boot talk",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "0000_achv_noskip",
@@ -301,7 +306,7 @@
       "Name": "Useless but beautiful",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "0000_achv_spotlick",
@@ -339,7 +344,7 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -355,9 +360,9 @@
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "1006_achv_dropball",
@@ -373,7 +378,7 @@
       "Name": "Handyman",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "1006_achv_pacifist",
@@ -381,7 +386,7 @@
       "Name": "Pacifist",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "2001_achv_shrooms",
@@ -389,7 +394,7 @@
       "Name": "Keep away from children",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -419,7 +424,7 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -451,9 +456,9 @@
       "ID": "2008_achv_spotfly",
       "SetID": "dhn82m5",
       "Name": "Master of Thermodynamics",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "2009_achv_deathwheel",
@@ -501,7 +506,7 @@
       "Name": "Fastidious Clown",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "3004_achv_sneeze",
@@ -509,7 +514,7 @@
       "Name": "Achoo!!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -549,7 +554,7 @@
       "Name": "Chapter III",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "3017_achv_flycloud",
@@ -557,7 +562,7 @@
       "Name": "Like a moth in the Wind",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "4004_achv_home",
@@ -573,14 +578,14 @@
       "Name": "Mirror mirror on the wall...",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
@@ -588,8 +593,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:22:22.6238+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:06:30.0487219+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:44.1627709+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:14:47.2152918+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:22:22.6238435+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:58:52.3222328+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:06:30.048761+00:00"
 }

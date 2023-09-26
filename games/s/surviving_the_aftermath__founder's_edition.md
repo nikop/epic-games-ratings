@@ -6,10 +6,10 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,645 |
-| Leader | 60.00% | ~5,537 |
-| Explorer | 53.00% | ~4,891 |
-| Healer | 52.00% | ~4,799 |
+| First Step | 72.00% | ~6,646 |
+| Leader | 60.00% | ~5,538 |
+| Explorer | 53.00% | ~4,892 |
+| Healer | 52.00% | ~4,800 |
 | Aspiring Inventor | 44.00% | ~4,061 |
 | Adventurer | 41.00% | ~3,784 |
 | Famous Healer | 38.00% | ~3,507 |
@@ -24,12 +24,12 @@ Number of Ratings: 836  (23.09.2022)
 | Cleaner | 28.00% | ~2,584 |
 | Catastrofan | 28.00% | ~2,584 |
 | Finders, Keepers | 26.00% | ~2,400 |
-| Top Notch | 25.00% | ~2,307 |
+| Top Notch | 25.00% | ~2,308 |
 | Great Leader | 23.00% | ~2,123 |
 | Mentor | 23.00% | ~2,123 |
-| Merchant | 22.00% | ~2,030 |
-| Ice Lakes | 22.00% | ~2,030 |
-| Real Survivor | 22.00% | ~2,030 |
+| Merchant | 22.00% | ~2,031 |
+| Ice Lakes | 22.00% | ~2,031 |
+| Real Survivor | 22.00% | ~2,031 |
 | Rocket Surgeon | 20.00% | ~1,846 |
 | War Never Changes | 19.00% | ~1,754 |
 | Friendly | 17.00% | ~1,569 |
@@ -48,7 +48,7 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~646 |
 | Really Friendly | 6.00% | ~554 |
 | Amped Up | 6.00% | ~554 |
-| Look, no Hands! | 5.00% | ~461 |
+| Look, no Hands! | 5.00% | ~462 |
 | Luxurious Living | 4.00% | ~369 |
 | Mogul | 3.00% | ~277 |
 | Ranch Hand | 3.00% | ~277 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,229 (Ranked 141)  
+Progressed: 9,230 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 9,173 | 0 |
 | 2023-09-24 | 9,206 | 0 |
 | 2023-09-25 | 9,225 | 0 |
-| 2023-09-26 | 9,229 | 0 |
+| 2023-09-26 | 9,230 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 337)  
 Sum: 702 (Ranked 280)  

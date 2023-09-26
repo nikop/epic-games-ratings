@@ -6,24 +6,24 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~14,327 |
-| Sword Runner | 61.00% | ~11,499 |
-| Running out of breath | 54.00% | ~10,180 |
-| Wallrunner | 53.00% | ~9,991 |
-| Homerunner | 45.00% | ~8,483 |
-| Out of order | 44.00% | ~8,294 |
-| I call it luck | 43.00% | ~8,106 |
-| Where are my Keys? | 40.00% | ~7,540 |
-| Back to hell | 36.00% | ~6,786 |
-| Perfection | 32.00% | ~6,032 |
-| Why not both | 30.00% | ~5,655 |
+| Longrunner | 76.00% | ~14,328 |
+| Sword Runner | 61.00% | ~11,500 |
+| Running out of breath | 54.00% | ~10,181 |
+| Wallrunner | 53.00% | ~9,992 |
+| Homerunner | 45.00% | ~8,484 |
+| Out of order | 44.00% | ~8,295 |
+| I call it luck | 43.00% | ~8,107 |
+| Where are my Keys? | 40.00% | ~7,541 |
+| Back to hell | 36.00% | ~6,787 |
+| Perfection | 32.00% | ~6,033 |
+| Why not both | 30.00% | ~5,656 |
 | Sword to a gunfight | 29.00% | ~5,467 |
 | Upgrades not mandatory | 29.00% | ~5,467 |
-| Artificial selection | 28.00% | ~5,278 |
+| Artificial selection | 28.00% | ~5,279 |
 | Control freak | 27.00% | ~5,090 |
 | Running Wild | 27.00% | ~5,090 |
-| Finish line | 26.00% | ~4,901 |
-| Unstoppable force | 22.00% | ~4,147 |
+| Finish line | 26.00% | ~4,902 |
+| Unstoppable force | 22.00% | ~4,148 |
 | Wave of mutilation | 21.00% | ~3,959 |
 | Can't Run Can't Hide | 17.00% | ~3,205 |
 | R is for Running | 16.00% | ~3,016 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~75 |
 | Up Close And Personal | 0.40% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,851 (Ranked 119)  
+Progressed: 18,853 (Ranked 119)  
 Completed: 72 (0.38%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 72 (0.38%) (Ranked 176)
 | 2023-09-23 | 18,701 | 71 |
 | 2023-09-24 | 18,786 | 72 |
 | 2023-09-25 | 18,840 | 72 |
-| 2023-09-26 | 18,851 | 72 |
+| 2023-09-26 | 18,853 | 72 |
 ## Awards
 Max (Great Boss Battles): 497  (Ranked 202)  
 Sum: 712 (Ranked 279)  

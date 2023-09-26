@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 385,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -481,6 +481,11 @@
       "Time": "2023-09-25T19:04:46.090203+00:00",
       "NumProgressed": 384,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T03:04:23.558305+00:00",
+      "NumProgressed": 385,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -524,7 +529,7 @@
       "Name": "The Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -532,7 +537,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -604,7 +609,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -612,7 +617,7 @@
       "Name": "To and Fro",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -658,9 +663,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -676,7 +681,7 @@
       "Name": "Pushover",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HIT_ALIEN",
@@ -740,7 +745,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -748,7 +753,7 @@
       "Name": "The Wild West",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -756,7 +761,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -794,9 +799,9 @@
       "ID": "REACH_TANKBATTLE_LEVEL_10",
       "SetID": "20koof9",
       "Name": "To war!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "SPIN_1080",
@@ -812,7 +817,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -852,7 +857,7 @@
       "Name": "I see the light!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -908,7 +913,7 @@
       "Name": "In the Bag!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -916,7 +921,7 @@
       "Name": "You\u0027re it",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -931,7 +936,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 385,
       "Completed": 2
     }
   ],
@@ -939,8 +944,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:20:11.9863234+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:04:23.5583046+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:17.0711022+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:13:41.3165019+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:20:11.9863753+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:57:44.9750985+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:04:23.5583516+00:00"
 }

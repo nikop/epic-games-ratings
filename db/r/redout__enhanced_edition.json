@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232517,
+  "EOS_Progressed": 232519,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17013,6 +17013,11 @@
       "Time": "2023-09-26T01:51:17.6246816+00:00",
       "NumProgressed": 232517,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-26T03:07:11.1427422+00:00",
+      "NumProgressed": 232519,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -17048,7 +17053,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18601
+      "UsersEstimate": 18602
     },
     {
       "ID": "CHALLENGER",
@@ -17088,7 +17093,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18601
+      "UsersEstimate": 18602
     },
     {
       "ID": "FLAWLESS",
@@ -17112,7 +17117,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46503
+      "UsersEstimate": 46504
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -17288,22 +17293,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95332
+      "UsersEstimate": 95333
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232517,
+      "Progressed": 232519,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:23:15.8112242+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:07:11.1427418+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:50.3170305+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:13:24.0347718+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:23:15.811364+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:57:25.3826011+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:07:11.142877+00:00"
 }

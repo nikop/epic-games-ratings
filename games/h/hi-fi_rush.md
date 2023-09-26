@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.85 (Ranked 42)  
+Rating: 4.85 (Ranked 43)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,9 +18,9 @@ Rating: 4.85 (Ranked 42)
 | I play my own way! | 9.00% | ~368 |
 | Z-shielding's got nothing on us! | 9.00% | ~368 |
 | Uh, they were broken when I got here | 9.00% | ~368 |
-| Whoa! There's ANOTHER health bar!? | 8.00% | ~327 |
-| Kissing the sky! | 8.00% | ~327 |
-| I look cool. But I can look COOLER. | 8.00% | ~327 |
+| Whoa! There's ANOTHER health bar!? | 8.00% | ~328 |
+| Kissing the sky! | 8.00% | ~328 |
+| I look cool. But I can look COOLER. | 8.00% | ~328 |
 | The Negotiator | 7.00% | ~287 |
 | Headliner | 7.00% | ~287 |
 | Time to pay up! | 7.00% | ~287 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,093 (Ranked 170)  
+Progressed: 4,094 (Ranked 170)  
 Completed: 8 (0.20%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 8 (0.20%) (Ranked 209)
 | 2023-09-23 | 4,090 | 8 |
 | 2023-09-24 | 4,091 | 8 |
 | 2023-09-25 | 4,093 | 8 |
+| 2023-09-26 | 4,094 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 824)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,707 |
+| Corner Clout | 46.00% | ~158,709 |
 | Copacetic Coordination | 16.00% | ~55,203 |
-| Fronting the Money | 15.00% | ~51,752 |
-| The Dawn of Automation | 14.00% | ~48,302 |
-| Extraordinary Logistics | 14.00% | ~48,302 |
+| Fronting the Money | 15.00% | ~51,753 |
+| The Dawn of Automation | 14.00% | ~48,303 |
+| Extraordinary Logistics | 14.00% | ~48,303 |
 | Dirty Money | 13.00% | ~44,852 |
 | Family First | 13.00% | ~44,852 |
 | Cleaning House | 12.00% | ~41,402 |
@@ -18,8 +18,8 @@ Rating: 4.27 (Ranked 824)
 | Booze Baron | 11.00% | ~37,952 |
 | Friends on the Force | 10.00% | ~34,502 |
 | Neighborhood Watch | 10.00% | ~34,502 |
-| Core Corps | 8.00% | ~27,601 |
-| Sizeable Stash | 8.00% | ~27,601 |
+| Core Corps | 8.00% | ~27,602 |
+| Sizeable Stash | 8.00% | ~27,602 |
 | Street Fighter | 7.00% | ~24,151 |
 | Friendly Gestures | 7.00% | ~24,151 |
 | People Person | 7.00% | ~24,151 |
@@ -41,13 +41,13 @@ Rating: 4.27 (Ranked 824)
 | An Affront to the Enemy | 4.00% | ~13,801 |
 | Friends from Back Home | 4.00% | ~13,801 |
 | Half Century Mark | 4.00% | ~13,801 |
-| Corner Opportunities | 3.00% | ~10,350 |
-| 2122 North Clark Street | 3.00% | ~10,350 |
-| Copious Cabbage | 3.00% | ~10,350 |
-| Sockdolager | 3.00% | ~10,350 |
-| Still Stalwart | 3.00% | ~10,350 |
-| Bees Knees Bootlegger | 3.00% | ~10,350 |
-| Tighten the Screws | 3.00% | ~10,350 |
+| Corner Opportunities | 3.00% | ~10,351 |
+| 2122 North Clark Street | 3.00% | ~10,351 |
+| Copious Cabbage | 3.00% | ~10,351 |
+| Sockdolager | 3.00% | ~10,351 |
+| Still Stalwart | 3.00% | ~10,351 |
+| Bees Knees Bootlegger | 3.00% | ~10,351 |
+| Tighten the Screws | 3.00% | ~10,351 |
 | One of Us | 2.00% | ~6,900 |
 | Baker’s Dozen | 2.00% | ~6,900 |
 | Dropping the Dime | 2.00% | ~6,900 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 824)
 | High Pillow | 0.10% | ~345 |
 | Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,016 (Ranked 43)  
+Progressed: 345,019 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 7 (0.00%) (Ranked 293)
 | 2023-09-23 | 344,675 | 7 |
 | 2023-09-24 | 344,858 | 7 |
 | 2023-09-25 | 345,000 | 7 |
-| 2023-09-26 | 345,016 | 7 |
+| 2023-09-26 | 345,019 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 444)  
 Sum: 196 (Ranked 379)  

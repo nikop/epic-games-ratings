@@ -1,7 +1,7 @@
 # Subnautica
 [Store](https://store.epicgames.com/en-US/p/subnautica)  
 [View Rawdata](../../db/s/subnautica.json)  
-Rating: 4.85 (Ranked 42)  
+Rating: 4.85 (Ranked 43)  
 Number of Ratings: 7,928  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 701  (Ranked 171)  

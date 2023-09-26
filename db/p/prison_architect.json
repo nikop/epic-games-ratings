@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -5520,7 +5520,7 @@
       "Count": 417
     }
   ],
-  "EOS_Progressed": 178206,
+  "EOS_Progressed": 178211,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 2173,
   "EOS_NewCompleters": 0,
@@ -23300,6 +23300,11 @@
       "Time": "2023-09-26T02:22:26.6675113+00:00",
       "NumProgressed": 178206,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-26T03:06:33.8898725+00:00",
+      "NumProgressed": 178211,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23343,7 +23348,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28513
+      "UsersEstimate": 28514
     },
     {
       "ID": "Achievement_13",
@@ -23391,7 +23396,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44552
+      "UsersEstimate": 44553
     },
     {
       "ID": "Achievement_5",
@@ -23431,22 +23436,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8910
+      "UsersEstimate": 8911
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 178206,
+      "Progressed": 178211,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-26T00:02:07.1091835+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:22:26.6675109+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:06:33.8898722+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.9520016+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:18:12.0244089+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:22:26.6676514+00:00"
+  "LastUpdate_Ratings": "2023-09-26T03:01:05.1644552+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:06:33.8900027+00:00"
 }

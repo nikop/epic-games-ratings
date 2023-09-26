@@ -1806,10 +1806,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 8228,
       "NumberOfAwardsMax": 3534
+    },
+    {
+      "Time": "2023-09-26T03:01:09.2336565+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8230,
+      "NumberOfAwardsMax": 3534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8228,
+  "NumberOfAwards": 8230,
   "NumberOfAwardsMax": 3534,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1829,7 +1835,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 541
+      "Count": 542
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1871,7 +1877,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 482
+      "Count": 483
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1886,9 +1892,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 6781,
+  "EOS_Progressed": 6791,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5558,
+  "EOS_NewPlayers": 5516,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2806,6 +2812,11 @@
       "Time": "2023-09-26T02:21:25.8471399+00:00",
       "NumProgressed": 6781,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T03:05:35.1242611+00:00",
+      "NumProgressed": 6791,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -2818,7 +2829,7 @@
       "Name": "Power Up!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_Trophy02",
@@ -2826,7 +2837,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Achievement_Trophy03",
@@ -2850,7 +2861,7 @@
       "Name": "From Gloom, only greed and death emerges",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_Trophy06",
@@ -2858,7 +2869,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Achievement_Trophy07",
@@ -2874,7 +2885,7 @@
       "Name": "Add a bit of colour",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_Trophy09",
@@ -2890,7 +2901,7 @@
       "Name": "The Rat King",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_Trophy11",
@@ -2986,7 +2997,7 @@
       "Name": "Precious!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "Achievement_Trophy23",
@@ -2994,7 +3005,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "Achievement_Trophy24",
@@ -3002,7 +3013,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2716
     },
     {
       "ID": "Achievement_Trophy25",
@@ -3010,7 +3021,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "Achievement_Trophy26",
@@ -3018,7 +3029,7 @@
       "Name": "Overkill",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2037
     },
     {
       "ID": "Achievement_Trophy27",
@@ -3034,7 +3045,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1969
     },
     {
       "ID": "Achievement_Trophy29",
@@ -3050,7 +3061,7 @@
       "Name": "Spread the plague",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1834
     },
     {
       "ID": "Achievement_Trophy31",
@@ -3058,7 +3069,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2241
     },
     {
       "ID": "Achievement_Trophy32",
@@ -3082,7 +3093,7 @@
       "Name": "Augmented rat",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Achievement_Trophy35",
@@ -3090,7 +3101,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Achievement_Trophy36",
@@ -3098,15 +3109,15 @@
       "Name": "Pretty lights!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Achievement_Trophy37",
       "SetID": "724h0m0",
       "Name": "Get over here!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1562
     },
     {
       "ID": "Achievement_Trophy38",
@@ -3114,7 +3125,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "Achievement_Trophy39",
@@ -3122,7 +3133,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "Achievement_Trophy40",
@@ -3138,7 +3149,7 @@
       "Name": "Obstacle race",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "Achievement_Trophy42",
@@ -3152,9 +3163,9 @@
       "ID": "Achievement_Trophy43",
       "SetID": "724h0m0",
       "Name": "Light of my life",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 1019
     },
     {
       "ID": "Achievement_Trophy44",
@@ -3162,7 +3173,7 @@
       "Name": "Quad damage",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Achievement_Trophy45",
@@ -3170,7 +3181,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Achievement_Trophy46",
@@ -3186,7 +3197,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Achievement_Trophy48",
@@ -3194,7 +3205,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "Achievement_Trophy49",
@@ -3202,7 +3213,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 951
     },
     {
       "ID": "Achievement_Trophy50",
@@ -3305,16 +3316,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 6781,
+      "Progressed": 6791,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2023-09-26T01:45:21.4364421+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:21:25.8471395+00:00",
+  "LastChanged": "2023-09-26T03:01:09.2336561+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:05:35.1242608+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:35.0766009+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:18:18.0432603+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:21:25.8471989+00:00"
+  "LastUpdate_Ratings": "2023-09-26T03:01:09.2336569+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:05:35.1243246+00:00"
 }

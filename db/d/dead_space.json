@@ -620,9 +620,9 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1345,6 +1345,11 @@
       "Time": "2023-09-26T02:19:53.2041226+00:00",
       "NumProgressed": 423,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T03:04:04.702488+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -1363,9 +1368,9 @@
       "ID": "achievement_10",
       "SetID": "222fo9l",
       "Name": "Keeper of the Faith",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_11",
@@ -1395,9 +1400,9 @@
       "ID": "achievement_14",
       "SetID": "222fo9l",
       "Name": "Whole Again",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_15",
@@ -1451,17 +1456,17 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_21",
       "SetID": "222fo9l",
       "Name": "Live with the Hot Ones",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_22",
@@ -1493,7 +1498,7 @@
       "Name": "Full Contact",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_26",
@@ -1517,7 +1522,7 @@
       "Name": "Story Teller",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_29",
@@ -1533,7 +1538,7 @@
       "Name": "All Systems Go",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_30",
@@ -1549,7 +1554,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_32",
@@ -1557,15 +1562,15 @@
       "Name": "Surgeon",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_33",
       "SetID": "222fo9l",
       "Name": "Wishbone",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_34",
@@ -1573,7 +1578,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_35",
@@ -1621,7 +1626,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_40",
@@ -1645,7 +1650,7 @@
       "Name": "Brute Force",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_43",
@@ -1725,14 +1730,14 @@
       "Name": "Wreckage",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 2
     }
   ],
@@ -1740,8 +1745,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-22T20:58:23.6909557+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:19:53.2041222+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:04:04.7024875+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:15:21.1585123+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:19:53.2041724+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:59:25.4581499+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:04:04.7025419+00:00"
 }

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-09-26T01:49:22.4193195+00:00",
       "NumProgressed": 192,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T03:05:36.8110201+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -499,7 +504,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_17",
@@ -515,7 +520,7 @@
       "Name": "The power of the Force",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_19",
@@ -523,7 +528,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_2",
@@ -539,7 +544,7 @@
       "Name": "Collector",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_21",
@@ -667,7 +672,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_36",
@@ -681,9 +686,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_38",
@@ -707,7 +712,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_40",
@@ -715,7 +720,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_41",
@@ -803,7 +808,7 @@
       "Name": "City in the Clouds",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_51",
@@ -835,7 +840,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_55",
@@ -921,9 +926,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_8",
@@ -931,7 +936,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_9",
@@ -946,13 +951,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 1
     }
   ],
@@ -960,8 +965,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-26T02:21:27.749369+00:00",
+  "LastChanged_Achievements": "2023-09-26T03:05:36.8110197+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-26T02:13:08.3479586+00:00",
-  "LastUpdate_Achievements": "2023-09-26T02:21:27.7494422+00:00"
+  "LastUpdate_Ratings": "2023-09-26T02:57:12.7487215+00:00",
+  "LastUpdate_Achievements": "2023-09-26T03:05:36.8110912+00:00"
 }
