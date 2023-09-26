@@ -8,20 +8,20 @@ Number of Ratings: 9,133  (23.09.2022)
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~256,859 |
 | Cavalier | 25.00% | ~200,671 |
-| Fatso | 23.00% | ~184,617 |
-| Awakening | 21.00% | ~168,563 |
+| Fatso | 23.00% | ~184,618 |
+| Awakening | 21.00% | ~168,564 |
 | Ranger | 20.00% | ~160,537 |
 | Scrooge | 20.00% | ~160,537 |
-| Anorectic | 16.00% | ~128,429 |
-| Bookworm | 15.00% | ~120,402 |
-| Firestarter | 15.00% | ~120,402 |
+| Anorectic | 16.00% | ~128,430 |
+| Bookworm | 15.00% | ~120,403 |
+| Firestarter | 15.00% | ~120,403 |
 | Insomniac | 13.00% | ~104,349 |
 | Buddy | 12.00% | ~96,322 |
 | Thief | 12.00% | ~96,322 |
 | Sinner | 11.00% | ~88,295 |
 | Traveller | 11.00% | ~88,295 |
 | Convict | 10.00% | ~80,268 |
-| Haggler | 9.00% | ~72,241 |
+| Haggler | 9.00% | ~72,242 |
 | McLovin | 7.00% | ~56,188 |
 | Runt | 7.00% | ~56,188 |
 | Casanova | 6.00% | ~48,161 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~32,107 |
 | Hunter | 4.00% | ~32,107 |
 | Plague Doctor | 4.00% | ~32,107 |
-| Bard | 3.00% | ~24,080 |
-| Conqueror | 3.00% | ~24,080 |
-| Ginger in a Pickle | 3.00% | ~24,080 |
-| Kingdom did not come | 3.00% | ~24,080 |
+| Bard | 3.00% | ~24,081 |
+| Conqueror | 3.00% | ~24,081 |
+| Ginger in a Pickle | 3.00% | ~24,081 |
+| Kingdom did not come | 3.00% | ~24,081 |
 | Completionist | 2.00% | ~16,054 |
 | Death by splinter | 2.00% | ~16,054 |
 | King Charming | 2.00% | ~16,054 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,683 (Ranked 16)  
+Progressed: 802,685 (Ranked 16)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-23 | 802,404 | 49 |
 | 2023-09-24 | 802,563 | 49 |
 | 2023-09-25 | 802,669 | 49 |
-| 2023-09-26 | 802,683 | 49 |
+| 2023-09-26 | 802,685 | 49 |
 ## Awards
 Max (Character Customization): 7,472  (Ranked 47)  
-Sum: 27,854 (Ranked 47)  
+Sum: 27,855 (Ranked 47)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -263,7 +263,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 1,671 |
 | This game is Highly Recommended | 1,669 |
 | This game has Amazing Characters | 1,644 |
-| This game has Realistic Visuals | 1,641 |
+| This game has Realistic Visuals | 1,642 |
 | This game is Educational | 1,591 |
 | This game is Relaxing | 1,518 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -513,4 +513,4 @@ Diff (max vs sum): 0
 | 2023-09-23 | 4.71 | - | 7,469 | 27,833 |
 | 2023-09-24 | 4.71 | - | 7,471 | 27,843 |
 | 2023-09-25 | 4.71 | - | 7,472 | 27,851 |
-| 2023-09-26 | 4.71 | - | 7,472 | 27,854 |
+| 2023-09-26 | 4.71 | - | 7,472 | 27,855 |

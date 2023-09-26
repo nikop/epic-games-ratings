@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -862,9 +862,9 @@
       "ID": "Dissatisfaction",
       "SetID": "cjfnji1",
       "Name": "Critical dissatisfaction",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Full",
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-26T06:09:05.8593736+00:00",
+  "LastChanged_Achievements": "2023-09-26T07:08:35.5036419+00:00",
   "LastUpdate_AppInfo": "2023-09-25T21:56:58.5344933+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:59:36.9370501+00:00",
-  "LastUpdate_Achievements": "2023-09-26T06:09:05.8593931+00:00"
+  "LastUpdate_Ratings": "2023-09-26T06:59:41.230607+00:00",
+  "LastUpdate_Achievements": "2023-09-26T07:08:35.5036599+00:00"
 }

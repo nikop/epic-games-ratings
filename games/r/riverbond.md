@@ -7,11 +7,11 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~369,655 |
-| Now You're Talking | 62.00% | ~327,408 |
-| Steel Yourself | 62.00% | ~327,408 |
-| Window Dressing | 50.00% | ~264,039 |
+| Now You're Talking | 62.00% | ~327,409 |
+| Steel Yourself | 62.00% | ~327,409 |
+| Window Dressing | 50.00% | ~264,040 |
 | Trigger Happy | 46.00% | ~242,916 |
-| Riverborn | 45.00% | ~237,635 |
+| Riverborn | 45.00% | ~237,636 |
 | Starry Eyed | 34.00% | ~179,547 |
 | Poking Around | 34.00% | ~179,547 |
 | Talk of the Town | 24.00% | ~126,739 |
@@ -20,7 +20,7 @@ Number of Ratings: 617  (23.09.2022)
 | Wind At Our Backs | 22.00% | ~116,177 |
 | To the Beat | 20.00% | ~105,616 |
 | Sunny Shores | 17.00% | ~89,773 |
-| Sunday Best | 16.00% | ~84,492 |
+| Sunday Best | 16.00% | ~84,493 |
 | To Victory! | 15.00% | ~79,212 |
 | Two of a Kind | 14.00% | ~73,931 |
 | Keep On Trucking | 13.00% | ~68,650 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~47,527 |
 | Lost and Found | 9.00% | ~47,527 |
 | Under the Radar | 8.00% | ~42,246 |
-| Partner in Crime | 7.00% | ~36,965 |
-| Hard to Hear | 7.00% | ~36,965 |
+| Partner in Crime | 7.00% | ~36,966 |
+| Hard to Hear | 7.00% | ~36,966 |
 | Moving On Up | 6.00% | ~31,685 |
 | Owl Knows Best | 6.00% | ~31,685 |
 | Mind the Moose | 6.00% | ~31,685 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,584 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,078 (Ranked 33)  
+Progressed: 528,079 (Ranked 33)  
 Completed: 478 (0.09%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 478 (0.09%) (Ranked 237)
 | 2023-09-23 | 527,929 | 478 |
 | 2023-09-24 | 528,010 | 478 |
 | 2023-09-25 | 528,062 | 478 |
-| 2023-09-26 | 528,078 | 478 |
+| 2023-09-26 | 528,079 | 478 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

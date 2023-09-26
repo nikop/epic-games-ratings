@@ -2631,9 +2631,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534018,
+  "EOS_Progressed": 534019,
   "EOS_Completed": 1555,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -19956,6 +19956,11 @@
       "Time": "2023-09-26T06:05:17.0410133+00:00",
       "NumProgressed": 534018,
       "NumCompleted": 1555
+    },
+    {
+      "Time": "2023-09-26T07:05:11.1322251+00:00",
+      "NumProgressed": 534019,
+      "NumCompleted": 1555
     }
   ],
   "TotalAchievements": 37,
@@ -20023,7 +20028,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443235
+      "UsersEstimate": 443236
     },
     {
       "ID": "HONED",
@@ -20079,7 +20084,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213607
+      "UsersEstimate": 213608
     },
     {
       "ID": "THE_CASTLE",
@@ -20207,7 +20212,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42721
+      "UsersEstimate": 42722
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -20262,15 +20267,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534018,
+      "Progressed": 534019,
       "Completed": 1555
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-24T20:57:23.7120946+00:00",
-  "LastChanged_Achievements": "2023-09-26T06:05:17.0410127+00:00",
+  "LastChanged_Achievements": "2023-09-26T07:05:11.1322245+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:58:00.8871057+00:00",
-  "LastUpdate_Achievements": "2023-09-26T06:05:17.0412874+00:00"
+  "LastUpdate_Ratings": "2023-09-26T06:58:07.1016791+00:00",
+  "LastUpdate_Achievements": "2023-09-26T07:05:11.1323619+00:00"
 }

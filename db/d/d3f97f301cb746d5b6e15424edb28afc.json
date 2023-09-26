@@ -558,9 +558,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -638,17 +638,17 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -821,8 +821,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-26T06:06:19.6275322+00:00",
+  "LastChanged_Achievements": "2023-09-26T07:06:12.177118+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-26T06:00:50.985474+00:00",
-  "LastUpdate_Achievements": "2023-09-26T06:06:19.6276466+00:00"
+  "LastUpdate_Ratings": "2023-09-26T07:01:12.973802+00:00",
+  "LastUpdate_Achievements": "2023-09-26T07:06:12.177231+00:00"
 }

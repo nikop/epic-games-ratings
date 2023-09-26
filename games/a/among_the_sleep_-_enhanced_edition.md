@@ -17,7 +17,7 @@ Number of Ratings: 368  (23.09.2022)
 | Collected all drawings | 0.50% | ~434 |
 | Prologue Drawings | 0.50% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,819 (Ranked 79)  
+Progressed: 86,821 (Ranked 79)  
 Completed: 400 (0.46%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 400 (0.46%) (Ranked 166)
 | 2023-09-23 | 86,591 | 400 |
 | 2023-09-24 | 86,712 | 400 |
 | 2023-09-25 | 86,803 | 400 |
-| 2023-09-26 | 86,819 | 400 |
+| 2023-09-26 | 86,821 | 400 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,201 |
-| Zealous | 6.00% | ~54,173 |
-| Skillful | 6.00% | ~54,173 |
-| Not half bad | 5.00% | ~45,144 |
-| Apt Survivor | 5.00% | ~45,144 |
-| Survival Treasures | 5.00% | ~45,144 |
-| Make Some Noise | 5.00% | ~45,144 |
-| No one left behind | 4.00% | ~36,115 |
-| Medic | 4.00% | ~36,115 |
-| Handyman | 4.00% | ~36,115 |
-| Nerves of steel | 4.00% | ~36,115 |
-| Bloody Millionaire | 4.00% | ~36,115 |
-| I | 4.00% | ~36,115 |
-| Sorted | 4.00% | ~36,115 |
-| The Grand Sacrifice | 3.00% | ~27,086 |
-| Agonizing Escape | 3.00% | ~27,086 |
-| Backdoor Escape | 3.00% | ~27,086 |
-| I've got your back | 3.00% | ~27,086 |
-| Perfect Escape | 3.00% | ~27,086 |
-| Perfect Killing | 3.00% | ~27,086 |
-| Risk it all | 3.00% | ~27,086 |
-| Engineer | 3.00% | ~27,086 |
-| Healthy Obsession | 3.00% | ~27,086 |
-| Resurgence | 3.00% | ~27,086 |
-| Close Shave | 3.00% | ~27,086 |
-| Preemptive Strike | 3.00% | ~27,086 |
-| Humanitarian | 3.00% | ~27,086 |
-| MU/TH/UR Dearest | 3.00% | ~27,086 |
+| It wakes | 7.00% | ~63,204 |
+| Zealous | 6.00% | ~54,174 |
+| Skillful | 6.00% | ~54,174 |
+| Not half bad | 5.00% | ~45,145 |
+| Apt Survivor | 5.00% | ~45,145 |
+| Survival Treasures | 5.00% | ~45,145 |
+| Make Some Noise | 5.00% | ~45,145 |
+| No one left behind | 4.00% | ~36,116 |
+| Medic | 4.00% | ~36,116 |
+| Handyman | 4.00% | ~36,116 |
+| Nerves of steel | 4.00% | ~36,116 |
+| Bloody Millionaire | 4.00% | ~36,116 |
+| I | 4.00% | ~36,116 |
+| Sorted | 4.00% | ~36,116 |
+| The Grand Sacrifice | 3.00% | ~27,087 |
+| Agonizing Escape | 3.00% | ~27,087 |
+| Backdoor Escape | 3.00% | ~27,087 |
+| I've got your back | 3.00% | ~27,087 |
+| Perfect Escape | 3.00% | ~27,087 |
+| Perfect Killing | 3.00% | ~27,087 |
+| Risk it all | 3.00% | ~27,087 |
+| Engineer | 3.00% | ~27,087 |
+| Healthy Obsession | 3.00% | ~27,087 |
+| Resurgence | 3.00% | ~27,087 |
+| Close Shave | 3.00% | ~27,087 |
+| Preemptive Strike | 3.00% | ~27,087 |
+| Humanitarian | 3.00% | ~27,087 |
+| MU/TH/UR Dearest | 3.00% | ~27,087 |
 | Blood on your hands | 2.00% | ~18,058 |
 | Apt Killer | 2.00% | ~18,058 |
 | Vulture | 2.00% | ~18,058 |
@@ -105,7 +105,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.60% | ~5,417 |
 | Triage | 0.60% | ~5,417 |
 | High Speed Pursuit | 0.60% | ~5,417 |
-| Looter | 0.50% | ~4,514 |
+| Looter | 0.50% | ~4,515 |
 | Happy Holidays | 0.40% | ~3,612 |
 | Denied! | 0.40% | ~3,612 |
 | Death of Ignorance | 0.40% | ~3,612 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~903 |
 | Adept Ripley | 0.10% | ~903 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 902,877 (Ranked 14)  
+Progressed: 902,908 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-23 | 898,059 | 49 |
 | 2023-09-24 | 900,602 | 49 |
 | 2023-09-25 | 902,478 | 49 |
-| 2023-09-26 | 902,877 | 49 |
+| 2023-09-26 | 902,908 | 49 |
 ## Awards
 Max (Diverse Characters): 33,065  (Ranked 15)  
 Sum: 257,131 (Ranked 12)  

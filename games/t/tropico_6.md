@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,006 |
+| Just One...More...Term... | 75.00% | ~4,007 |
 | Un-Lonely Island | 47.00% | ~2,511 |
 | The Beginning of a Servantship | 45.00% | ~2,404 |
 | Trade Is My Trait | 37.00% | ~1,977 |
@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~267 |
 | Watch The World Burn | 5.00% | ~267 |
 | Fairy Tale Come True | 5.00% | ~267 |
-| Apocalypso | 4.00% | ~214 |
 | Been there, Done That | 3.00% | ~160 |
+| Apocalypso | 3.00% | ~160 |
 | Narcissist | 3.00% | ~160 |
 | Promising Endeavors | 3.00% | ~160 |
 | The Time For Wonders | 3.00% | ~160 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,342 (Ranked 160)  
+Progressed: 5,343 (Ranked 160)  
 Completed: 2 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 2 (0.04%) (Ranked 257)
 | 2023-09-23 | 5,306 | 2 |
 | 2023-09-24 | 5,324 | 2 |
 | 2023-09-25 | 5,340 | 2 |
-| 2023-09-26 | 5,342 | 2 |
+| 2023-09-26 | 5,343 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
 Sum: 691 (Ranked 282)  

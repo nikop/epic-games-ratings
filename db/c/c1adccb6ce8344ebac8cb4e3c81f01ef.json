@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
@@ -1691,6 +1691,11 @@
       "Time": "2023-09-26T01:49:40.1781025+00:00",
       "NumProgressed": 502,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-26T07:06:44.9691902+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1735,7 +1740,7 @@
       "Name": "Red Skeleton",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "YellowSkeleton",
@@ -1743,21 +1748,21 @@
       "Name": "Yellow Skeleton",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-26T06:06:53.4442141+00:00",
+  "LastChanged_Achievements": "2023-09-26T07:06:44.9691892+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.153897+00:00",
-  "LastUpdate_Ratings": "2023-09-26T05:59:50.498475+00:00",
-  "LastUpdate_Achievements": "2023-09-26T06:06:53.4442306+00:00"
+  "LastUpdate_Ratings": "2023-09-26T06:59:53.4881011+00:00",
+  "LastUpdate_Achievements": "2023-09-26T07:06:44.9692106+00:00"
 }

@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74257,
+  "EOS_Progressed": 74258,
   "EOS_Completed": 775,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -17774,6 +17774,11 @@
       "Time": "2023-09-26T06:04:42.4487991+00:00",
       "NumProgressed": 74257,
       "NumCompleted": 775
+    },
+    {
+      "Time": "2023-09-26T07:04:36.9271662+00:00",
+      "NumProgressed": 74258,
+      "NumCompleted": 775
     }
   ],
   "TotalAchievements": 25,
@@ -17857,7 +17862,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14851
+      "UsersEstimate": 14852
     },
     {
       "ID": "Hearty",
@@ -17889,7 +17894,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14851
+      "UsersEstimate": 14852
     },
     {
       "ID": "Meaty",
@@ -17937,7 +17942,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9653
+      "UsersEstimate": 9654
     },
     {
       "ID": "Sniper",
@@ -17984,7 +17989,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74257,
+      "Progressed": 74258,
       "Completed": 775
     }
   ],
@@ -17992,8 +17997,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-26T06:04:42.4487986+00:00",
+  "LastChanged_Achievements": "2023-09-26T07:04:36.9271653+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-26T06:00:16.1085543+00:00",
-  "LastUpdate_Achievements": "2023-09-26T06:04:42.4489938+00:00"
+  "LastUpdate_Ratings": "2023-09-26T07:00:27.3291567+00:00",
+  "LastUpdate_Achievements": "2023-09-26T07:04:36.9272982+00:00"
 }

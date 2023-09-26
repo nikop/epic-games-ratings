@@ -7,26 +7,26 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 69.00% | ~21,643 |
-| The Evilest Evil | 58.00% | ~18,192 |
+| The Evilest Evil | 58.00% | ~18,193 |
 | Twistram is devastated | 57.00% | ~17,879 |
-| The Gehenna Stones | 49.00% | ~15,369 |
-| No one has to die today! | 46.00% | ~14,428 |
+| The Gehenna Stones | 49.00% | ~15,370 |
+| No one has to die today! | 46.00% | ~14,429 |
 | Death and destruction! | 45.00% | ~14,115 |
-| The Swamplanders from the swamplands | 43.00% | ~13,487 |
+| The Swamplanders from the swamplands | 43.00% | ~13,488 |
 | Rusty Steel | 41.00% | ~12,860 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,546 |
-| The last burger | 37.00% | ~11,605 |
-| Braiiiiins! | 37.00% | ~11,605 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,547 |
+| The last burger | 37.00% | ~11,606 |
+| Braiiiiins! | 37.00% | ~11,606 |
 | Hands off the Dungeonheart! | 36.00% | ~11,292 |
-| A trip on sea, what fun it can be | 34.00% | ~10,664 |
+| A trip on sea, what fun it can be | 34.00% | ~10,665 |
 | Damned good | 33.00% | ~10,351 |
-| Stock Market Crash | 31.00% | ~9,723 |
-| Factory farming | 31.00% | ~9,723 |
+| Stock Market Crash | 31.00% | ~9,724 |
+| Factory farming | 31.00% | ~9,724 |
 | Not-So-Overproud | 30.00% | ~9,410 |
 | For a handfull of Catapults | 29.00% | ~9,096 |
 | Shadow hunter | 29.00% | ~9,096 |
-| Thirst quencher | 28.00% | ~8,782 |
-| Ogre Solo! | 28.00% | ~8,782 |
+| Thirst quencher | 28.00% | ~8,783 |
+| Ogre Solo! | 28.00% | ~8,783 |
 | Destroy the thing | 26.00% | ~8,155 |
 | Tide Master | 26.00% | ~8,155 |
 | Difficult family relationships | 25.00% | ~7,842 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~627 |
 | Sacrifices! | 2.00% | ~627 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,366 (Ranked 108)  
+Progressed: 31,367 (Ranked 108)  
 Completed: 259 (0.83%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 259 (0.83%) (Ranked 138)
 | 2023-09-23 | 31,170 | 256 |
 | 2023-09-24 | 31,277 | 258 |
 | 2023-09-25 | 31,350 | 259 |
-| 2023-09-26 | 31,366 | 259 |
+| 2023-09-26 | 31,367 | 259 |
 ## Awards
 Max (Great for Beginners): 353  (Ranked 229)  
 Sum: 2,654 (Ranked 175)  

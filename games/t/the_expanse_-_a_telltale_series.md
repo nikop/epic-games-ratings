@@ -5,38 +5,38 @@ Rating: 4.52 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,360 |
-| Captain Drummer | 29.00% | ~3,719 |
-| Stogie for Fogey | 28.00% | ~3,591 |
-| Martian Music | 27.00% | ~3,462 |
-| Celebrations are in Order | 27.00% | ~3,462 |
-| Spore Taste | 26.00% | ~3,334 |
-| The Pit and the Pirates | 24.00% | ~3,078 |
-| Drone Dodger | 23.00% | ~2,950 |
-| Doctor Approved | 19.00% | ~2,437 |
-| Bosmang | 16.00% | ~2,052 |
+| Impossible Objects | 34.00% | ~4,362 |
+| Captain Drummer | 29.00% | ~3,720 |
+| Stogie for Fogey | 28.00% | ~3,592 |
+| Martian Music | 27.00% | ~3,464 |
+| Celebrations are in Order | 27.00% | ~3,464 |
+| Spore Taste | 26.00% | ~3,336 |
+| The Pit and the Pirates | 24.00% | ~3,079 |
+| Drone Dodger | 23.00% | ~2,951 |
+| Doctor Approved | 19.00% | ~2,438 |
+| Bosmang | 16.00% | ~2,053 |
 | Thorston Mayer | 15.00% | ~1,924 |
 | Bottoms up! | 12.00% | ~1,539 |
 | Call it Even | 12.00% | ~1,539 |
 | Data Archivist | 11.00% | ~1,411 |
-| Heal Thy Medic | 10.00% | ~1,282 |
-| Khan's Revenge | 9.00% | ~1,154 |
+| Heal Thy Medic | 10.00% | ~1,283 |
+| Khan's Revenge | 9.00% | ~1,155 |
 | Data Logger | 8.00% | ~1,026 |
-| Miraculous Maya | 6.00% | ~769 |
-| Data Master | 6.00% | ~769 |
-| Data Recoverer | 6.00% | ~769 |
+| Miraculous Maya | 6.00% | ~770 |
+| Data Master | 6.00% | ~770 |
+| Data Recoverer | 6.00% | ~770 |
 | Debris Spree | 4.00% | ~513 |
 | Urshanabi Hoarder | 3.00% | ~385 |
 | Brother's Reaper | 3.00% | ~385 |
 | No Belter Left Behind | 3.00% | ~385 |
-| Data Miner | 2.00% | ~256 |
-| Grave Robber | 2.00% | ~256 |
+| Data Miner | 2.00% | ~257 |
+| Grave Robber | 2.00% | ~257 |
 | Scavenger Star | 0.40% | ~51 |
 | Data Collector | 0.20% | ~26 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,824 (Ranked 134)  
+Progressed: 12,829 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 12,197 | 0 |
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
-| 2023-09-26 | 12,824 | 0 |
+| 2023-09-26 | 12,829 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

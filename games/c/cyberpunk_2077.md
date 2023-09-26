@@ -6,8 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.20% | ~1,763 |
-| Rough Landing | 0.20% | ~1,763 |
+| Gunslinger | 0.20% | ~1,764 |
+| Ten out of Ten | 0.20% | ~1,764 |
+| Rough Landing | 0.20% | ~1,764 |
+| The Jungle | 0.20% | ~1,764 |
 | City Lights | 0.10% | ~882 |
 | To Bad Decisions! | 0.10% | ~882 |
 | Bushido and Chill | 0.10% | ~882 |
@@ -18,7 +20,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.10% | ~882 |
 | Frequent Flyer | 0.10% | ~882 |
 | Gun Fu | 0.10% | ~882 |
-| Gunslinger | 0.10% | ~882 |
 | Master Crafter | 0.10% | ~882 |
 | I Am The Law | 0.10% | ~882 |
 | Mean Streets | 0.10% | ~882 |
@@ -42,7 +43,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.10% | ~882 |
 | The World | 0.10% | ~882 |
 | Greetings from Pacifica! | 0.10% | ~882 |
-| The Jungle | 0.10% | ~882 |
 | True Soldier | 0.10% | ~882 |
 | True Warrior | 0.10% | ~882 |
 | Two Heads, One Bullet | 0.10% | ~882 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881,738 (Ranked 15)  
-Completed: 2,391 (0.27%) (Ranked 197)  
+Progressed: 881,761 (Ranked 15)  
+Completed: 2,392 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 2,391 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 881,738 | 2,391 |
+| 2023-09-26 | 881,761 | 2,392 |
 ## Awards
 Max (Character Customization): 81,778  (Ranked 9)  
 Sum: 223,029 (Ranked 13)  
