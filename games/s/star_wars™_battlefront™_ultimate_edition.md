@@ -4,63 +4,63 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~182 |
-| Off to a good start | 70.00% | ~140 |
-| Do... or do not. There is no try | 48.00% | ~96 |
-| A good blaster at your side | 36.00% | ~72 |
-| Scrap collector | 25.00% | ~50 |
-| Great shot, kid! | 25.00% | ~50 |
-| The power of the Force | 21.00% | ~42 |
-| I suggest a new strategy | 20.00% | ~40 |
-| Collector | 19.00% | ~38 |
-| All right, I'll give it a try | 18.00% | ~36 |
-| Shoot first | 18.00% | ~36 |
-| Together we can rule the galaxy | 17.00% | ~34 |
+| New Recruit | 90.00% | ~183 |
+| Off to a good start | 68.00% | ~138 |
+| Do... or do not. There is no try | 48.00% | ~97 |
+| A good blaster at your side | 35.00% | ~71 |
+| Scrap collector | 25.00% | ~51 |
+| Great shot, kid! | 24.00% | ~49 |
+| The power of the Force | 21.00% | ~43 |
+| I suggest a new strategy | 20.00% | ~41 |
+| Collector | 19.00% | ~39 |
+| Shoot first | 18.00% | ~37 |
+| All right, I'll give it a try | 17.00% | ~35 |
+| Together we can rule the galaxy | 16.00% | ~32 |
 | Tell Jabba that I've got his money | 14.00% | ~28 |
-| What's the cargo? | 13.00% | ~26 |
-| Never tell me the odds! | 13.00% | ~26 |
 | Best star-pilot in the galaxy | 13.00% | ~26 |
 | Survivor | 13.00% | ~26 |
 | A cunning warrior | 13.00% | ~26 |
+| What's the cargo? | 12.00% | ~24 |
 | A tremor in the Force | 12.00% | ~24 |
-| Impressive. Most impressive. | 12.00% | ~24 |
-| Judge me by my size, do you? | 12.00% | ~24 |
-| "Gonk? Gonk!" | 11.00% | ~22 |
+| Never tell me the odds! | 12.00% | ~24 |
+| Impressive. Most impressive. | 11.00% | ~22 |
+| Judge me by my size, do you? | 11.00% | ~22 |
+| "Gonk? Gonk!" | 10.00% | ~20 |
 | Distinguished | 9.00% | ~18 |
 | Patience you must have | 9.00% | ~18 |
 | Support the troops | 9.00% | ~18 |
-| Determined | 8.00% | ~16 |
 | Not bad for a little furball | 8.00% | ~16 |
 | I've been waiting for you | 7.00% | ~14 |
 | When 900 years old you reach... | 7.00% | ~14 |
-| City in the Clouds | 7.00% | ~14 |
-| That's no moon | 7.00% | ~14 |
+| Determined | 7.00% | ~14 |
 | Don't underestimate the Force | 7.00% | ~14 |
-| The Force is strong with this one | 6.00% | ~12 |
 | On the ball | 6.00% | ~12 |
 | Precision shot | 6.00% | ~12 |
-| This is a new day, a new beginning | 6.00% | ~12 |
-| Alternative solution | 6.00% | ~12 |
+| City in the Clouds | 6.00% | ~12 |
+| That's no moon | 6.00% | ~12 |
 | What will you become? | 6.00% | ~12 |
-| Disturbed tranquility | 6.00% | ~12 |
-| Playing the objective | 5.00% | ~10 |
-| Your journey has only started | 5.00% | ~10 |
-| The circle is now complete | 5.00% | ~10 |
-| Safety ain't the point of a joyride | 4.00% | ~8 |
-| Ackbar's Elite | 4.00% | ~8 |
-| You have your moments | 4.00% | ~8 |
-| A New Hope | 3.00% | ~6 |
+| The Force is strong with this one | 5.00% | ~10 |
+| This is a new day, a new beginning | 5.00% | ~10 |
+| Alternative solution | 5.00% | ~10 |
+| Disturbed tranquility | 5.00% | ~10 |
+| Playing the objective | 4.00% | ~8 |
+| Your journey has only started | 4.00% | ~8 |
+| The circle is now complete | 4.00% | ~8 |
 | Hold the line! | 3.00% | ~6 |
+| Safety ain't the point of a joyride | 3.00% | ~6 |
+| Ackbar's Elite | 3.00% | ~6 |
 | No such thing as luck | 3.00% | ~6 |
 | Do we take prisoners? | 3.00% | ~6 |
+| You have your moments | 3.00% | ~6 |
 | When surrounded by war... | 3.00% | ~6 |
-| I’ll take that bet | 3.00% | ~6 |
-| Stop that Droid | 3.00% | ~6 |
 | Onwards! | 3.00% | ~6 |
+| A New Hope | 2.00% | ~4 |
 | in a galaxy far, far away.... | 2.00% | ~4 |
-| Greed can be a very powerful ally | 2.00% | ~4 |
+| I’ll take that bet | 2.00% | ~4 |
+| Stop that Droid | 2.00% | ~4 |
 | Don't get cocky | 1.00% | ~2 |
 | Master | 1.00% | ~2 |
+| Greed can be a very powerful ally | 1.00% | ~2 |
 | Stay in attack formation | 1.00% | ~2 |
 | That got him! | 0.50% | ~1 |
 | Stay on target | 0.50% | ~1 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.50% | ~1 |
 | Crush them with one swift stroke… | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 335)  
-Completed: 1 (0.50%) (Ranked 161)  
+Progressed: 203 (Ranked 334)  
+Completed: 1 (0.49%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 1 (0.50%) (Ranked 161)
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
-| 2023-09-26 | 200 | 1 |
+| 2023-09-26 | 203 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

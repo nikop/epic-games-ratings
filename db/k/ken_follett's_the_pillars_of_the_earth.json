@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -519,9 +519,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15409,
+  "EOS_Progressed": 15411,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10864,6 +10864,11 @@
       "Time": "2023-09-26T07:05:42.3290703+00:00",
       "NumProgressed": 15409,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-26T11:05:29.7181371+00:00",
+      "NumProgressed": 15411,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10891,7 +10896,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "tpote_achievement_12",
@@ -10899,7 +10904,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "tpote_achievement_13",
@@ -10907,7 +10912,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "tpote_achievement_14",
@@ -10915,7 +10920,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "tpote_achievement_15",
@@ -10931,7 +10936,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "tpote_achievement_17",
@@ -10963,7 +10968,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "tpote_achievement_20",
@@ -11051,7 +11056,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4931
+      "UsersEstimate": 4932
     },
     {
       "ID": "tpote_achievement_30",
@@ -11075,7 +11080,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "tpote_achievement_33",
@@ -11115,7 +11120,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "tpote_achievement_38",
@@ -11163,7 +11168,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "tpote_achievement_6",
@@ -11171,7 +11176,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "tpote_achievement_7",
@@ -11195,22 +11200,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5393
+      "UsersEstimate": 5394
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15409,
+      "Progressed": 15411,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-24T23:58:24.5918651+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:05:40.8096085+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:05:29.7181366+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:59:50.9717152+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:05:40.8097484+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:59:39.4650463+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:05:29.7182686+00:00"
 }

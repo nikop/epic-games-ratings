@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 4780,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1347,
+  "EOS_NewPlayers": 1337,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1722,9 +1722,9 @@
       "ID": "achievement_04_07",
       "SetID": "4f1m94d",
       "Name": "Nitro Saver",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2103
     },
     {
       "ID": "achievement_04_08",
@@ -1753,8 +1753,8 @@
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:07:14.0530916+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:07:22.0781173+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-26T10:02:08.7674645+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:07:14.0531353+00:00"
+  "LastUpdate_Ratings": "2023-09-26T11:01:59.4456868+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:07:22.0781555+00:00"
 }

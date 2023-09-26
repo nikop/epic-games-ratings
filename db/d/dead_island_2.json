@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 22,
@@ -4860,9 +4860,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686480,
+  "EOS_Progressed": 686494,
   "EOS_Completed": 2175,
-  "EOS_NewPlayers": 3970,
+  "EOS_NewPlayers": 3964,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22760,6 +22760,11 @@
       "Time": "2023-09-26T10:03:14.3678958+00:00",
       "NumProgressed": 686480,
       "NumCompleted": 2175
+    },
+    {
+      "Time": "2023-09-26T11:02:36.251345+00:00",
+      "NumProgressed": 686494,
+      "NumCompleted": 2175
     }
   ],
   "TotalAchievements": 45,
@@ -22931,7 +22936,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20594
+      "UsersEstimate": 20595
     },
     {
       "ID": "ach_impressive_aim",
@@ -23107,7 +23112,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20594
+      "UsersEstimate": 20595
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23130,22 +23135,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686480,
+      "Progressed": 686494,
       "Completed": 2175
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12021,
-      "Completed": 12021
+      "Progressed": 12035,
+      "Completed": 12035
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-26T09:57:54.6995548+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:03:14.3678951+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:02:36.2513444+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:57:54.6995555+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:03:14.368106+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:57:42.2939672+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:02:36.2515169+00:00"
 }

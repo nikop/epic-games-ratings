@@ -6,20 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Rough Landing | 0.40% | ~3,528 |
 | Gunslinger | 0.30% | ~2,646 |
 | Ten out of Ten | 0.30% | ~2,646 |
-| Rough Landing | 0.30% | ~2,646 |
+| The Jungle | 0.30% | ~2,646 |
+| Full Body Conversion | 0.20% | ~1,764 |
 | Master Crafter | 0.20% | ~1,764 |
 | Mean Streets | 0.20% | ~1,764 |
+| Breathtaking | 0.20% | ~1,764 |
 | Stanislavski's Method | 0.20% | ~1,764 |
 | The High Priestess | 0.20% | ~1,764 |
-| The Jungle | 0.20% | ~1,764 |
+| True Soldier | 0.20% | ~1,764 |
 | Two Heads, One Bullet | 0.20% | ~1,764 |
 | V for Vendetta | 0.20% | ~1,764 |
 | City Lights | 0.10% | ~882 |
 | To Bad Decisions! | 0.10% | ~882 |
 | Bushido and Chill | 0.10% | ~882 |
-| Full Body Conversion | 0.10% | ~882 |
 | Right Back At Ya | 0.10% | ~882 |
 | To Protect and Serve | 0.10% | ~882 |
 | The Wandering Fool | 0.10% | ~882 |
@@ -31,7 +33,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.10% | ~882 |
 | The Quick and the Dead | 0.10% | ~882 |
 | Must Be Rats | 0.10% | ~882 |
-| Breathtaking | 0.10% | ~882 |
 | The Wasteland | 0.10% | ~882 |
 | Daemon In The Shell | 0.10% | ~882 |
 | Life of the Road | 0.10% | ~882 |
@@ -45,14 +46,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.10% | ~882 |
 | The World | 0.10% | ~882 |
 | Greetings from Pacifica! | 0.10% | ~882 |
-| True Soldier | 0.10% | ~882 |
 | True Warrior | 0.10% | ~882 |
 | Judy vs Night City | 0.10% | ~882 |
 | It's Elementary | 0.10% | ~882 |
 | Legend of The Afterlife | 0.10% | ~882 |
-| The APB is Not Enough | 0.10% | ~10 |
-| Spin Doctor | 0.10% | ~10 |
-| Relic Ruler | 0.10% | ~10 |
+| The APB is Not Enough | 0.10% | ~11 |
+| Spin Doctor | 0.10% | ~11 |
+| Relic Ruler | 0.10% | ~11 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881,849 (Ranked 15)  
-Completed: 2,394 (0.27%) (Ranked 197)  
+Progressed: 881,889 (Ranked 15)  
+Completed: 2,395 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 2,394 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 881,849 | 2,394 |
+| 2023-09-26 | 881,889 | 2,395 |
 ## Awards
 Max (Character Customization): 81,778  (Ranked 9)  
 Sum: 223,281 (Ranked 13)  

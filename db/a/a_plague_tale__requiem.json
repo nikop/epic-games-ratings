@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -9153,9 +9153,9 @@
       "ID": "ACH_08",
       "SetID": "9d4cf4c",
       "Name": "A Sea of Promises",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7988
+      "UsersEstimate": 8122
     },
     {
       "ID": "ACH_09",
@@ -9386,8 +9386,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-24T21:58:12.3326453+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:05:48.9051166+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:05:37.691712+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:58:53.0556027+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:05:48.9052202+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:58:37.9575939+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:05:37.6918016+00:00"
 }

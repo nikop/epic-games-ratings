@@ -5,31 +5,31 @@ Rating: 4.67 (Ranked 263)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~1,961 |
-| On the Top Step | 85.00% | ~1,812 |
+| Getting on the Step | 92.00% | ~1,962 |
+| On the Top Step | 85.00% | ~1,813 |
 | Setting up for Success | 74.00% | ~1,578 |
-| Team Orders | 73.00% | ~1,556 |
-| Engineer | 54.00% | ~1,151 |
+| Team Orders | 73.00% | ~1,557 |
+| Engineer | 54.00% | ~1,152 |
 | Familiar Faces | 46.00% | ~981 |
-| Going the Extra Mile | 41.00% | ~874 |
+| Going the Extra Mile | 41.00% | ~875 |
 | Sharing the Love | 37.00% | ~789 |
 | Hitting a Season | 33.00% | ~704 |
 | Challenge Yourself | 30.00% | ~640 |
 | Making History | 30.00% | ~640 |
 | A Dozen Pieces | 28.00% | ~597 |
-| Writing a new Chapter | 23.00% | ~490 |
+| Writing a new Chapter | 23.00% | ~491 |
 | Spring Cleaning | 22.00% | ~469 |
 | Network Success | 22.00% | ~469 |
 | Reduce | 18.00% | ~384 |
 | Ups and Downs | 18.00% | ~384 |
-| Crucial Combo | 17.00% | ~362 |
+| Crucial Combo | 17.00% | ~363 |
 | Oil and Water | 15.00% | ~320 |
 | Reuse | 15.00% | ~320 |
 | One for the Book | 15.00% | ~320 |
 | Proving Them Wrong | 15.00% | ~320 |
-| Gathering Dust | 14.00% | ~298 |
+| Gathering Dust | 14.00% | ~299 |
+| Hitting a Bullseye | 14.00% | ~299 |
 | Lightning Round the World | 13.00% | ~277 |
-| Hitting a Bullseye | 13.00% | ~277 |
 | Tinkerer | 12.00% | ~256 |
 | Eagle Eye | 11.00% | ~235 |
 | All in a Weekend's Work | 11.00% | ~235 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 263)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,132 (Ranked 196)  
+Progressed: 2,133 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 1,614 | 0 |
 | 2023-09-24 | 1,871 | 0 |
 | 2023-09-25 | 2,079 | 0 |
-| 2023-09-26 | 2,132 | 0 |
+| 2023-09-26 | 2,133 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2051,9 +2051,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 659
     },
     {
       "ID": "7",
@@ -2091,8 +2091,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:03:33.3178527+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:03:14.8078238+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:10.3938601+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:58:42.8492095+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:03:33.3178872+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:58:28.998955+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:03:14.8078648+00:00"
 }

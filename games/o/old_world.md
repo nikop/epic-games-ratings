@@ -8,10 +8,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 6.00% | ~848 |
 | Settler | 6.00% | ~848 |
+| Friendly Family | 6.00% | ~848 |
 | Play a Single Player Game | 6.00% | ~848 |
-| Intrepid | 5.00% | ~706 |
-| Friendly Family | 5.00% | ~706 |
-| The Clergy | 5.00% | ~706 |
+| Intrepid | 5.00% | ~707 |
+| The Clergy | 5.00% | ~707 |
 | Able | 4.00% | ~565 |
 | Architect | 4.00% | ~565 |
 | Enlightened | 4.00% | ~565 |
@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 1.00% | ~141 |
 | Via Recta Souk | 1.00% | ~141 |
 | Learn to Play 3 | 1.00% | ~141 |
+| Carthage | 1.00% | ~141 |
 | Power to the People | 1.00% | ~141 |
 | Assyrian Paganism | 1.00% | ~141 |
 | Building Wonders | 1.00% | ~141 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.90% | ~127 |
 | Learn to Play 4 | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
-| Carthage | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,130 (Ranked 130)  
+Progressed: 14,132 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 5 (0.04%) (Ranked 257)
 | 2023-09-23 | 14,081 | 5 |
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
-| 2023-09-26 | 14,130 | 5 |
+| 2023-09-26 | 14,132 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

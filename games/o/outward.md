@@ -6,10 +6,10 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,653 |
-| Ready for Winter | 65.00% | ~2,269 |
-| Ready for Summer | 52.00% | ~1,815 |
-| Cordon Bleu | 44.00% | ~1,536 |
+| Venture Outward | 76.00% | ~2,654 |
+| Ready for Winter | 65.00% | ~2,270 |
+| Ready for Summer | 52.00% | ~1,816 |
+| Cordon Bleu | 43.00% | ~1,502 |
 | Tapped! | 37.00% | ~1,292 |
 | Eureka | 32.00% | ~1,117 |
 | Scourge Slayer | 25.00% | ~873 |
@@ -17,7 +17,7 @@ Number of Ratings: 266  (23.09.2022)
 | Exceptional Skill | 22.00% | ~768 |
 | Home Sweet Home | 22.00% | ~768 |
 | Encyclopedic! | 20.00% | ~698 |
-| The Power of Family | 17.00% | ~593 |
+| The Power of Family | 17.00% | ~594 |
 | A Fortress Toppled! | 16.00% | ~559 |
 | Apex Predator | 16.00% | ~559 |
 | Strange amalgams | 12.00% | ~419 |
@@ -29,9 +29,9 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~244 |
 | Let ‘em eat magma! | 7.00% | ~244 |
 | The power of ambition | 7.00% | ~244 |
-| Blood and justice | 6.00% | ~209 |
-| Hold my Mead and Watch This | 6.00% | ~209 |
-| The stuff of legends. | 6.00% | ~209 |
+| Blood and justice | 6.00% | ~210 |
+| Hold my Mead and Watch This | 6.00% | ~210 |
+| The stuff of legends. | 6.00% | ~210 |
 | Ancestor's Pride | 4.00% | ~140 |
 | For All Aurai | 4.00% | ~140 |
 | Memory of a legend | 4.00% | ~140 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,491 (Ranked 175)  
+Progressed: 3,492 (Ranked 175)  
 Completed: 4 (0.11%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 4 (0.11%) (Ranked 229)
 | 2023-09-23 | 3,467 | 4 |
 | 2023-09-24 | 3,478 | 4 |
 | 2023-09-25 | 3,486 | 4 |
-| 2023-09-26 | 3,491 | 4 |
+| 2023-09-26 | 3,492 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 449)  
 Sum: 244 (Ranked 362)  

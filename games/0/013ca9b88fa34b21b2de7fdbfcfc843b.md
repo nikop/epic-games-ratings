@@ -5,27 +5,27 @@ Rating: 4.82 (Ranked 64)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,696 |
-| A Thorny Situation | 70.00% | ~3,544 |
-| ... And Spit Back Out | 59.00% | ~2,987 |
-| Break-Net Speed | 47.00% | ~2,380 |
-| Bramble Breaker | 43.00% | ~2,177 |
-| Miner 49er | 41.00% | ~2,076 |
-| Humble Collector | 39.00% | ~1,975 |
-| Calm Sailing | 33.00% | ~1,671 |
-| Open the Gate! | 29.00% | ~1,468 |
-| Mist Walker | 28.00% | ~1,418 |
-| Lumberjack | 24.00% | ~1,215 |
-| Oui, Chef! | 22.00% | ~1,114 |
-| Clear the Air | 14.00% | ~709 |
-| Botanical Breakthrough | 14.00% | ~709 |
+| Azoria Beckons | 73.00% | ~3,701 |
+| A Thorny Situation | 70.00% | ~3,549 |
+| ... And Spit Back Out | 59.00% | ~2,991 |
+| Break-Net Speed | 47.00% | ~2,383 |
+| Bramble Breaker | 43.00% | ~2,180 |
+| Miner 49er | 41.00% | ~2,079 |
+| Humble Collector | 39.00% | ~1,977 |
+| Calm Sailing | 33.00% | ~1,673 |
+| Open the Gate! | 29.00% | ~1,470 |
+| Mist Walker | 28.00% | ~1,420 |
+| Lumberjack | 24.00% | ~1,217 |
+| Oui, Chef! | 22.00% | ~1,115 |
+| Clear the Air | 14.00% | ~710 |
+| Botanical Breakthrough | 14.00% | ~710 |
 | Beach Comber | 12.00% | ~608 |
-| Higher Tax Bracket | 10.00% | ~506 |
 | Search for the Hairy Grell | 9.00% | ~456 |
+| Higher Tax Bracket | 9.00% | ~456 |
 | Fanatical Farmer | 6.00% | ~304 |
 | Skilled | 6.00% | ~304 |
-| Got to Catch Them All | 5.00% | ~253 |
-| Rumble in the Jumble | 5.00% | ~253 |
+| Got to Catch Them All | 5.00% | ~254 |
+| Rumble in the Jumble | 5.00% | ~254 |
 | Flaming Hot Completos | 4.00% | ~203 |
 | Fae Farmer | 4.00% | ~203 |
 | Azorian Anniversary | 4.00% | ~203 |
@@ -41,7 +41,7 @@ Rating: 4.82 (Ranked 64)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,063 (Ranked 164)  
+Progressed: 5,070 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 4,750 | 0 |
 | 2023-09-24 | 4,931 | 0 |
 | 2023-09-25 | 5,023 | 0 |
-| 2023-09-26 | 5,063 | 0 |
+| 2023-09-26 | 5,070 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

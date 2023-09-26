@@ -1,26 +1,26 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 507)  
+Rating: 4.54 (Ranked 508)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,779 |
-| Greasy Palms | 42.00% | ~4,363 |
-| South American Connection | 25.00% | ~2,597 |
-| Life of the Party | 20.00% | ~2,078 |
-| Big Heat from Little Havana | 15.00% | ~1,558 |
-| Chauffeur | 15.00% | ~1,558 |
-| Tommy Two-Wheels | 15.00% | ~1,558 |
+| Legal Counsel | 46.00% | ~4,781 |
+| Greasy Palms | 42.00% | ~4,365 |
+| South American Connection | 25.00% | ~2,598 |
+| Life of the Party | 20.00% | ~2,079 |
+| Big Heat from Little Havana | 15.00% | ~1,559 |
+| Chauffeur | 15.00% | ~1,559 |
+| Tommy Two-Wheels | 15.00% | ~1,559 |
 | Salutations My Little Friend | 11.00% | ~1,143 |
 | Iron-y | 10.00% | ~1,039 |
 | Gun for Hire | 9.00% | ~935 |
 | Mischief Managed | 9.00% | ~935 |
-| Vice City Mogul | 7.00% | ~727 |
-| Catch Me if You Can | 6.00% | ~623 |
-| Bloodstained Hands | 6.00% | ~623 |
-| Not my First Time | 5.00% | ~519 |
-| Grand Theft Auto | 5.00% | ~519 |
+| Vice City Mogul | 7.00% | ~728 |
+| Catch Me if You Can | 6.00% | ~624 |
+| Bloodstained Hands | 6.00% | ~624 |
+| Not my First Time | 5.00% | ~520 |
+| Grand Theft Auto | 5.00% | ~520 |
 | Pie Guy | 4.00% | ~416 |
 | Running Rampant | 3.00% | ~312 |
 | Point A to Point B | 3.00% | ~312 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 507)
 | Done it All | 0.90% | ~94 |
 | Kingpin | 0.60% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,389 (Ranked 137)  
+Progressed: 10,393 (Ranked 137)  
 Completed: 58 (0.56%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 58 (0.56%) (Ranked 154)
 | 2023-09-23 | 10,281 | 58 |
 | 2023-09-24 | 10,338 | 58 |
 | 2023-09-25 | 10,378 | 58 |
-| 2023-09-26 | 10,389 | 58 |
+| 2023-09-26 | 10,393 | 58 |
 ## Awards
 Max (Great Boss Battles): 82  (Ranked 363)  
 Sum: 82 (Ranked 431)  

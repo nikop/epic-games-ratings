@@ -785,9 +785,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 28366,
+  "EOS_Progressed": 28367,
   "EOS_Completed": 1356,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -5580,6 +5580,11 @@
       "Time": "2023-09-25T23:04:35.1492472+00:00",
       "NumProgressed": 28366,
       "NumCompleted": 1356
+    },
+    {
+      "Time": "2023-09-26T11:04:56.4290595+00:00",
+      "NumProgressed": 28367,
+      "NumCompleted": 1356
     }
   ],
   "TotalAchievements": 30,
@@ -5623,7 +5628,7 @@
       "Name": "Bossy Bugs",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 13048
+      "UsersEstimate": 13049
     },
     {
       "ID": "ACH_BROKEN_TOOTH",
@@ -5655,7 +5660,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21842
+      "UsersEstimate": 21843
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -5679,7 +5684,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16736
+      "UsersEstimate": 16737
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -5687,7 +5692,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27515
+      "UsersEstimate": 27516
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -5727,7 +5732,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17303
+      "UsersEstimate": 17304
     },
     {
       "ID": "ACH_LAUNCH",
@@ -5735,7 +5740,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15885
+      "UsersEstimate": 15886
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -5743,7 +5748,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14750
+      "UsersEstimate": 14751
     },
     {
       "ID": "ACH_PUZZLE",
@@ -5751,7 +5756,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12197
+      "UsersEstimate": 12198
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -5759,7 +5764,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16736
+      "UsersEstimate": 16737
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -5767,7 +5772,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11346
+      "UsersEstimate": 11347
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -5783,7 +5788,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26380
+      "UsersEstimate": 26381
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -5791,7 +5796,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15885
+      "UsersEstimate": 15886
     },
     {
       "ID": "ACH_SUNDAE",
@@ -5815,7 +5820,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21274
+      "UsersEstimate": 21275
     },
     {
       "ID": "ACH_WATERFALL",
@@ -5823,22 +5828,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24678
+      "UsersEstimate": 24679
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28366,
+      "Progressed": 28367,
       "Completed": 1356
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-09-19T19:59:54.9502269+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:05:07.3392695+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:04:56.4290587+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:24.3506286+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:59:00.0679636+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:05:07.3393274+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:58:47.5680529+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:04:56.4291144+00:00"
 }

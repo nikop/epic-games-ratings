@@ -26,7 +26,7 @@
 | Show Me Some Skin | 5.00% | ~10 |
 | The Big Sleep | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 334)  
+Progressed: 202 (Ranked 335)  
 Completed: 2 (0.99%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |

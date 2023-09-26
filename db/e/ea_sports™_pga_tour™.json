@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 241,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -628,9 +628,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_12",
@@ -762,8 +762,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:08:41.4689747+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:09:08.2740181+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:59:46.3799992+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:08:41.4690114+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:59:33.7417118+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:09:08.2740344+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -5416,9 +5416,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 420
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5551,8 +5551,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:07:50.0611981+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:07:57.852866+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-26T10:00:30.8315293+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:07:50.0612812+00:00"
+  "LastUpdate_Ratings": "2023-09-26T11:00:25.6071442+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:07:57.8529294+00:00"
 }

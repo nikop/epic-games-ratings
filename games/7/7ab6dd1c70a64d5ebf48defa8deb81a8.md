@@ -3,45 +3,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 0.00% | ~0 |
-| Find Allies | 0.00% | ~0 |
-| Powerful Allies | 0.00% | ~0 |
-| Calm before the Storm | 0.00% | ~0 |
-| To Battle | 0.00% | ~0 |
-| Godslayer | 0.00% | ~0 |
-| Clear Sight | 0.00% | ~0 |
-| A Taste of Wrath | 0.00% | ~0 |
-| The Mentor | 0.00% | ~0 |
-| Trinity | 0.00% | ~0 |
-| Forgemaster | 0.00% | ~0 |
-| Shardbearer | 0.00% | ~0 |
-| Adventurer | 0.00% | ~0 |
-| Airborne | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
-| Essence Blow | 0.00% | ~0 |
-| Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
-| Slayer | 0.00% | ~0 |
-| Flawless Victory | 0.00% | ~0 |
-| Big Bazar | 0.00% | ~0 |
-| Fine Feathers Make Fine Birds | 0.00% | ~0 |
-| Geared Up | 0.00% | ~0 |
-| All There Is | 0.00% | ~0 |
-| Fashion Victim | 0.00% | ~0 |
-| Scholar | 0.00% | ~0 |
-| False God | 0.00% | ~0 |
-| I Found It | 0.00% | ~0 |
-| All That Gold | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
-| Stone Collection | 0.00% | ~0 |
-| Miner | 0.00% | ~0 |
-| The Collector | 0.00% | ~0 |
-| Feeling Fancy | 0.00% | ~0 |
-| A Queen's Tale | 0.00% | ~0 |
-| Summiter | 0.00% | ~0 |
+| Clear Sight | -3.60% | ~-1 |
+| Forgemaster | -3.60% | ~-1 |
+| Shardbearer | -3.60% | ~-1 |
+| Shatterer | -3.60% | ~-1 |
+| Slayer | -3.60% | ~-1 |
+| Fine Feathers Make Fine Birds | -3.60% | ~-1 |
+| All There Is | -3.60% | ~-1 |
+| False God | -3.60% | ~-1 |
+| All That Gold | -3.60% | ~-1 |
+| Feeling Fancy | -3.60% | ~-1 |
+| Summiter | -3.60% | ~-1 |
+| Find Allies | -7.10% | ~-2 |
+| Powerful Allies | -7.10% | ~-2 |
+| A Taste of Wrath | -7.10% | ~-2 |
+| The Mentor | -7.10% | ~-2 |
+| Trinity | -7.10% | ~-2 |
+| Adventurer | -7.10% | ~-2 |
+| Airborne | -7.10% | ~-2 |
+| Essence Blow | -7.10% | ~-2 |
+| Big Bazar | -7.10% | ~-2 |
+| Scholar | -7.10% | ~-2 |
+| I Found It | -7.10% | ~-2 |
+| The Collector | -7.10% | ~-2 |
+| A Queen's Tale | -7.10% | ~-2 |
+| Break Out | -10.70% | ~-3 |
+| To Battle | -10.70% | ~-3 |
+| Godslayer | -10.70% | ~-3 |
+| Tributes of Caladrias | -10.70% | ~-3 |
+| Flawless Victory | -10.70% | ~-3 |
+| Geared Up | -10.70% | ~-3 |
+| Fashion Victim | -10.70% | ~-3 |
+| Alchemist | -10.70% | ~-3 |
+| Stone Collection | -10.70% | ~-3 |
+| Miner | -10.70% | ~-3 |
+| Calm before the Storm | -14.30% | ~-4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 460)  
-Completed: 1 (3.70%) (Ranked 66)  
+Progressed: 28 (Ranked 458)  
+Completed: 1 (3.57%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,4 +58,4 @@ Completed: 1 (3.70%) (Ranked 66)
 | 2023-08-14 | 23 | 1 |
 | 2023-08-15 | 24 | 1 |
 | 2023-09-19 | 25 | 1 |
-| 2023-09-26 | 27 | 1 |
+| 2023-09-26 | 28 | 1 |

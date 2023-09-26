@@ -33,6 +33,7 @@ Rating: 3.54 (Ranked 999)
 | Helping Hand | 0.40% | ~7 |
 | Silence Is Golden | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |
+| I Spit On Your Grave | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |
 | Block Party | 0.20% | ~3 |
 | Sisterhood | 0.20% | ~3 |
@@ -43,7 +44,6 @@ Rating: 3.54 (Ranked 999)
 | Dexterity Save | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
 | Curious Finch | 0.20% | ~3 |
-| I Spit On Your Grave | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |

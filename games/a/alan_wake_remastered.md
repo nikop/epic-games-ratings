@@ -1,20 +1,20 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.54 (Ranked 507)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,809 |
-| Let There Be Light | 34.00% | ~22,512 |
+| Follow the Light | 42.00% | ~27,810 |
+| Let There Be Light | 34.00% | ~22,513 |
 | Float Like a Butterfly | 32.00% | ~21,188 |
-| Nordic Walking | 26.00% | ~17,215 |
-| Bright Falls' Finest | 26.00% | ~17,215 |
+| Nordic Walking | 26.00% | ~17,216 |
+| Bright Falls' Finest | 26.00% | ~17,216 |
 | Under a Thin Layer of Skin | 23.00% | ~15,229 |
-| Park Ranger | 19.00% | ~12,580 |
-| Paging Mr. Wake | 19.00% | ~12,580 |
-| Back! Back, I Say! | 18.00% | ~11,918 |
+| Park Ranger | 19.00% | ~12,581 |
+| Paging Mr. Wake | 19.00% | ~12,581 |
+| Back! Back, I Say! | 18.00% | ~11,919 |
 | Finders Keepers | 17.00% | ~11,256 |
 | Sound and Fury | 16.00% | ~10,594 |
 | Damn Good Cup of Coffee | 16.00% | ~10,594 |
@@ -27,17 +27,17 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 14.00% | ~9,270 |
 | Heavy Metal | 13.00% | ~8,608 |
 | Perchance to Dream | 13.00% | ~8,608 |
-| Gatekeeper | 12.00% | ~7,945 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,945 |
-| Thunder and Lightning | 12.00% | ~7,945 |
-| Two For the Price of One | 12.00% | ~7,945 |
-| The Lady of the Light | 11.00% | ~7,283 |
-| Energized! | 11.00% | ~7,283 |
+| Gatekeeper | 12.00% | ~7,946 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,946 |
+| Thunder and Lightning | 12.00% | ~7,946 |
+| Two For the Price of One | 12.00% | ~7,946 |
+| The Lady of the Light | 11.00% | ~7,284 |
+| Energized! | 11.00% | ~7,284 |
 | Right of Way | 10.00% | ~6,621 |
 | What Light Through Yonder Window | 9.00% | ~5,959 |
 | Tornado Wrangler | 8.00% | ~5,297 |
 | Departure | 8.00% | ~5,297 |
-| A Friend in Need | 8.00% | ~2,374 |
+| A Friend in Need | 8.00% | ~2,375 |
 | Drink 'Em Both Up | 6.00% | ~3,973 |
 | Hardboiled Writer | 6.00% | ~3,973 |
 | A Friend Indeed | 6.00% | ~1,781 |
@@ -45,7 +45,7 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 5.00% | ~3,311 |
 | If It Flies, It Burns | 5.00% | ~3,311 |
 | KBF-FM | 5.00% | ~3,311 |
-| Boob Tube | 4.00% | ~2,648 |
+| Boob Tube | 4.00% | ~2,649 |
 | Heartbreaker | 4.00% | ~1,187 |
 | Carny | 3.00% | ~1,986 |
 | Kill Your Darlings | 3.00% | ~890 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,212 (Ranked 89)  
+Progressed: 66,214 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 66 (0.10%) (Ranked 233)
 | 2023-09-23 | 66,060 | 66 |
 | 2023-09-24 | 66,142 | 66 |
 | 2023-09-25 | 66,202 | 66 |
-| 2023-09-26 | 66,212 | 66 |
+| 2023-09-26 | 66,214 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -321,3 +321,4 @@ Completed: 66 (0.10%) (Ranked 233)
 | 2023-04-09 | 4.56 | - | 0 | 0 |
 | 2023-06-12 | 4.55 | - | 0 | 0 |
 | 2023-09-25 | 4.54 | - | 0 | 0 |
+| 2023-09-26 | 4.55 | - | 0 | 0 |

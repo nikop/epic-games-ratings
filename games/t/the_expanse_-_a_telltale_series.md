@@ -5,28 +5,28 @@ Rating: 4.52 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,364 |
-| Captain Drummer | 29.00% | ~3,722 |
-| Stogie for Fogey | 28.00% | ~3,594 |
-| Martian Music | 27.00% | ~3,466 |
-| Celebrations are in Order | 27.00% | ~3,466 |
-| Spore Taste | 26.00% | ~3,337 |
-| The Pit and the Pirates | 24.00% | ~3,081 |
-| Drone Dodger | 23.00% | ~2,952 |
-| Doctor Approved | 19.00% | ~2,439 |
-| Bosmang | 16.00% | ~2,054 |
-| Thorston Mayer | 15.00% | ~1,925 |
-| Bottoms up! | 12.00% | ~1,540 |
-| Call it Even | 12.00% | ~1,540 |
-| Data Archivist | 11.00% | ~1,412 |
+| Impossible Objects | 34.00% | ~4,366 |
+| Captain Drummer | 29.00% | ~3,724 |
+| Stogie for Fogey | 28.00% | ~3,596 |
+| Martian Music | 27.00% | ~3,467 |
+| Celebrations are in Order | 27.00% | ~3,467 |
+| Spore Taste | 26.00% | ~3,339 |
+| The Pit and the Pirates | 24.00% | ~3,082 |
+| Drone Dodger | 23.00% | ~2,954 |
+| Doctor Approved | 19.00% | ~2,440 |
+| Bosmang | 16.00% | ~2,055 |
+| Thorston Mayer | 15.00% | ~1,926 |
+| Bottoms up! | 12.00% | ~1,541 |
+| Call it Even | 12.00% | ~1,541 |
+| Data Archivist | 11.00% | ~1,413 |
 | Heal Thy Medic | 10.00% | ~1,284 |
-| Khan's Revenge | 9.00% | ~1,155 |
+| Khan's Revenge | 9.00% | ~1,156 |
 | Data Logger | 8.00% | ~1,027 |
 | Miraculous Maya | 7.00% | ~899 |
-| Data Master | 6.00% | ~770 |
-| Data Recoverer | 6.00% | ~770 |
-| No Belter Left Behind | 4.00% | ~513 |
-| Debris Spree | 4.00% | ~513 |
+| Data Master | 6.00% | ~771 |
+| Data Recoverer | 6.00% | ~771 |
+| No Belter Left Behind | 4.00% | ~514 |
+| Debris Spree | 4.00% | ~514 |
 | Urshanabi Hoarder | 3.00% | ~385 |
 | Brother's Reaper | 3.00% | ~385 |
 | Data Miner | 2.00% | ~257 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 535)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,836 (Ranked 134)  
+Progressed: 12,842 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 12,197 | 0 |
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
-| 2023-09-26 | 12,836 | 0 |
+| 2023-09-26 | 12,842 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

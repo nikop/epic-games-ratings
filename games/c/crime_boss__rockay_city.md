@@ -12,6 +12,7 @@ Rating: 3.94 (Ranked 969)
 | Underworld Initiate | 0.50% | ~442 |
 | Fancy Pants | 0.50% | ~442 |
 | Roid Ranger | 0.40% | ~353 |
+| Case Closed | 0.40% | ~353 |
 | King of the Hill | 0.40% | ~353 |
 | Off the Rocks | 0.40% | ~353 |
 | Raider’s Ruin | 0.40% | ~353 |
@@ -19,7 +20,6 @@ Rating: 3.94 (Ranked 969)
 | Rockay Rex | 0.40% | ~353 |
 | Hidden Sonata | 0.30% | ~265 |
 | Track Star | 0.30% | ~265 |
-| Case Closed | 0.30% | ~265 |
 | True Player | 0.30% | ~265 |
 | Legend Looter | 0.20% | ~177 |
 | Imports and Exports | 0.20% | ~177 |

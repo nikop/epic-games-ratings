@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3696,9 +3696,9 @@
       "Count": 1067
     }
   ],
-  "EOS_Progressed": 72689,
+  "EOS_Progressed": 72690,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21476,6 +21476,11 @@
       "Time": "2023-09-26T10:03:49.7066208+00:00",
       "NumProgressed": 72689,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-26T11:03:30.7488463+00:00",
+      "NumProgressed": 72690,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 53,
@@ -21607,7 +21612,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 23987
+      "UsersEstimate": 23988
     },
     {
       "ID": "customize_a_weapon",
@@ -21695,7 +21700,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23260
+      "UsersEstimate": 23261
     },
     {
       "ID": "fully_complete_a_building",
@@ -21703,7 +21708,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16718
+      "UsersEstimate": 16719
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -21719,7 +21724,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10176
+      "UsersEstimate": 10177
     },
     {
       "ID": "get_betrayed",
@@ -21783,7 +21788,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 24714
+      "UsersEstimate": 24715
     },
     {
       "ID": "one_third_purple",
@@ -21871,7 +21876,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 30529
+      "UsersEstimate": 30530
     },
     {
       "ID": "whole_map_purple",
@@ -21910,13 +21915,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 72689,
+      "Progressed": 72690,
       "Completed": 49
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 44326,
+      "Progressed": 44327,
       "Completed": 3939
     }
   ],
@@ -21924,8 +21929,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-25T15:59:47.5026663+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:03:49.7066204+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:03:30.7488455+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.9460051+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:59:41.4669325+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:03:49.706806+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:59:27.3021092+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:03:30.7490122+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249700,
+  "EOS_Progressed": 249701,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
@@ -15009,6 +15009,11 @@
       "Time": "2023-09-26T06:05:31.6067047+00:00",
       "NumProgressed": 249700,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-26T11:05:12.3975493+00:00",
+      "NumProgressed": 249701,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -15100,7 +15105,7 @@
       "Name": "Clear-Cut",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "completionist",
@@ -15196,7 +15201,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132341
+      "UsersEstimate": 132342
     },
     {
       "ID": "indegestible",
@@ -15387,7 +15392,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249700,
+      "Progressed": 249701,
       "Completed": 5
     }
   ],
@@ -15395,8 +15400,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:05:23.2680859+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:05:12.3975488+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.1432168+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:58:39.7155466+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:05:23.2682319+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:58:26.6771872+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:05:12.3976915+00:00"
 }

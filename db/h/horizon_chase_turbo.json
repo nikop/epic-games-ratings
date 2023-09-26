@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
@@ -2572,9 +2572,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 1051061,
+  "EOS_Progressed": 1051072,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 4621,
+  "EOS_NewPlayers": 4606,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20407,6 +20407,11 @@
       "Time": "2023-09-26T10:04:59.1974253+00:00",
       "NumProgressed": 1051061,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-09-26T11:04:48.5879757+00:00",
+      "NumProgressed": 1051072,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 37,
@@ -20418,7 +20423,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 346850
+      "UsersEstimate": 346854
     },
     {
       "ID": "CompleteAustralia",
@@ -20442,7 +20447,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 73574
+      "UsersEstimate": 73575
     },
     {
       "ID": "CompleteChile",
@@ -20474,7 +20479,7 @@
       "Name": "Volcano Surfer",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 8408
+      "UsersEstimate": 8409
     },
     {
       "ID": "CompleteIceland",
@@ -20498,7 +20503,7 @@
       "Name": "Otaku",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 8408
+      "UsersEstimate": 8409
     },
     {
       "ID": "CompleteSouthAfrica",
@@ -20610,7 +20615,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 115617
+      "UsersEstimate": 115618
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -20618,7 +20623,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 945955
+      "UsersEstimate": 945965
     },
     {
       "ID": "GetLotsOfScore",
@@ -20650,7 +20655,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 493999
+      "UsersEstimate": 494004
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -20658,7 +20663,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 189191
+      "UsersEstimate": 189193
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -20666,7 +20671,7 @@
       "Name": "Comeback",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42042
+      "UsersEstimate": 42043
     },
     {
       "ID": "RunLotsOfMiles",
@@ -20682,7 +20687,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 662168
+      "UsersEstimate": 662175
     },
     {
       "ID": "WinBySmallDifference",
@@ -20690,7 +20695,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 189191
+      "UsersEstimate": 189193
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -20706,22 +20711,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 52553
+      "UsersEstimate": 52554
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1051061,
+      "Progressed": 1051072,
       "Completed": 438
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-09-25T09:01:29.6949482+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:04:59.1974247+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:04:48.5879753+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:10.4939198+00:00",
-  "LastUpdate_Ratings": "2023-09-26T10:02:15.7349012+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:04:59.1975858+00:00"
+  "LastUpdate_Ratings": "2023-09-26T11:02:03.7096031+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:04:48.5881277+00:00"
 }

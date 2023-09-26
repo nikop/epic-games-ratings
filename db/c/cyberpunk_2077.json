@@ -12509,9 +12509,9 @@
       "Count": 6377
     }
   ],
-  "EOS_Progressed": 881849,
-  "EOS_Completed": 2394,
-  "EOS_NewPlayers": 4811,
+  "EOS_Progressed": 881889,
+  "EOS_Completed": 2395,
+  "EOS_NewPlayers": 4843,
   "EOS_NewCompleters": 278,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30344,6 +30344,11 @@
       "Time": "2023-09-26T10:06:02.7005519+00:00",
       "NumProgressed": 881849,
       "NumCompleted": 2394
+    },
+    {
+      "Time": "2023-09-26T11:05:51.3843528+00:00",
+      "NumProgressed": 881889,
+      "NumCompleted": 2395
     }
   ],
   "TotalAchievements": 57,
@@ -30377,9 +30382,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "Denied",
@@ -30497,9 +30502,9 @@
       "ID": "NeverFadeAway",
       "SetID": "47clieb",
       "Name": "Breathtaking",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "NoMansLand",
@@ -30553,9 +30558,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 3528
     },
     {
       "ID": "TheDevil",
@@ -30641,17 +30646,17 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2646
     },
     {
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "TrueWarrior",
@@ -30731,7 +30736,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Easycomeeasygo",
@@ -30755,7 +30760,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Kingofcups",
@@ -30795,7 +30800,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "UltimateSurvivor",
@@ -30810,21 +30815,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 881849,
-      "Completed": 2394
+      "Progressed": 881889,
+      "Completed": 2395
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10472,
+      "Progressed": 10512,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-26T07:57:12.2749901+00:00",
-  "LastChanged_Achievements": "2023-09-26T10:06:02.7005511+00:00",
+  "LastChanged_Achievements": "2023-09-26T11:05:51.3843519+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T09:57:22.1512324+00:00",
-  "LastUpdate_Achievements": "2023-09-26T10:06:02.7007266+00:00"
+  "LastUpdate_Ratings": "2023-09-26T10:57:08.0462819+00:00",
+  "LastUpdate_Achievements": "2023-09-26T11:05:51.3845315+00:00"
 }

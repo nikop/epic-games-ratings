@@ -8,8 +8,8 @@ Number of Ratings: 38  (23.09.2022)
 | ---- | ---------- | ----- |
 | Balding bloot! | 78.00% | ~1,143 |
 | Lovebirds | 49.00% | ~718 |
+| Life’s short, ride long | 45.00% | ~659 |
 | Hug therapy | 44.00% | ~645 |
-| Life’s short, ride long | 44.00% | ~645 |
 | Over my dead body | 40.00% | ~586 |
 | Shake the rust off their feet | 21.00% | ~308 |
 | My little pony | 20.00% | ~293 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | À la carte | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,465 (Ranked 212)  
-Completed: 9 (0.61%) (Ranked 148)  
+Completed: 9 (0.61%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
