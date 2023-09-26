@@ -13,7 +13,7 @@
 | Curious | 42.00% | ~229 |
 | Everybody lies | 36.00% | ~196 |
 | Trick or Treat? | 23.00% | ~125 |
-| There is another way | 22.00% | ~120 |
+| There is another way | 23.00% | ~125 |
 | Sysadmin | 21.00% | ~114 |
 | Every little helps | 20.00% | ~109 |
 | The Walking Robot Among Us | 20.00% | ~109 |
@@ -24,10 +24,10 @@
 | Ace | 17.00% | ~93 |
 | Concrete painting | 17.00% | ~93 |
 | Goody | 17.00% | ~93 |
+| Please oh pleeease! | 17.00% | ~93 |
 | Found it! | 16.00% | ~87 |
 | Hipster | 16.00% | ~87 |
 | Not what it seems | 16.00% | ~87 |
-| Please oh pleeease! | 16.00% | ~87 |
 | That's much better! | 15.00% | ~82 |
 | Not as clumsy or random | 13.00% | ~71 |
 | Blade Runner | 10.00% | ~54 |

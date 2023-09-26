@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1438,
+  "EOS_Progressed": 1440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5201,6 +5201,11 @@
       "Time": "2023-09-26T00:07:41.0923822+00:00",
       "NumProgressed": 1438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T01:50:50.8099872+00:00",
+      "NumProgressed": 1440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5274,9 +5279,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -5290,9 +5295,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_headquarters_15",
@@ -5404,7 +5409,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5420,7 +5425,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5436,7 +5441,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5452,7 +5457,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5474,9 +5479,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -5515,14 +5520,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1438,
+      "Progressed": 1440,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:07:41.0923818+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:50:50.8099868+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:00:14.2419941+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:07:41.0924458+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:43:16.9438497+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:50:50.8100373+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 864,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 112,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24775,
+  "EOS_Progressed": 24780,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18275,6 +18275,11 @@
       "Time": "2023-09-25T22:07:04.0869416+00:00",
       "NumProgressed": 24775,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-09-26T01:50:56.4967163+00:00",
+      "NumProgressed": 24780,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 22,
@@ -18294,7 +18299,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "1017",
@@ -18302,15 +18307,15 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "1018",
       "SetID": "9l3d3cl",
       "Name": "Unbowed, Unbent, Unbroken",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1487
     },
     {
       "ID": "1019",
@@ -18318,7 +18323,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "1020",
@@ -18334,7 +18339,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "1022",
@@ -18342,7 +18347,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "1023",
@@ -18374,7 +18379,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "1027",
@@ -18406,7 +18411,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "1031",
@@ -18422,7 +18427,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9910
+      "UsersEstimate": 9912
     },
     {
       "ID": "1033",
@@ -18438,7 +18443,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "1035",
@@ -18461,15 +18466,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24775,
+      "Progressed": 24780,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:07:46.5942897+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:50:56.496716+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:59:59.141659+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:07:46.5944101+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:43:01.5337547+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:50:56.496814+00:00"
 }

@@ -1,15 +1,15 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 302)  
+Rating: 4.65 (Ranked 303)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,006 |
-| Un-Lonely Island | 47.00% | ~2,510 |
-| The Beginning of a Servantship | 45.00% | ~2,403 |
-| Trade Is My Trait | 37.00% | ~1,976 |
+| Un-Lonely Island | 47.00% | ~2,511 |
+| The Beginning of a Servantship | 45.00% | ~2,404 |
+| Trade Is My Trait | 37.00% | ~1,977 |
 | Number 18 | 24.00% | ~1,282 |
 | We Don't Have Time For That | 19.00% | ~1,015 |
 | The Legend of Langostino | 17.00% | ~908 |
@@ -26,9 +26,9 @@ Number of Ratings: 398  (23.09.2022)
 | I Owe You Nothing | 7.00% | ~374 |
 | Make Tropico Great Again! | 7.00% | ~374 |
 | French Connection | 7.00% | ~374 |
-| Don't Panic! | 6.00% | ~320 |
-| Computer Says "No" | 6.00% | ~320 |
-| Beware The Betman | 6.00% | ~320 |
+| Don't Panic! | 6.00% | ~321 |
+| Computer Says "No" | 6.00% | ~321 |
+| Beware The Betman | 6.00% | ~321 |
 | Viva Tropico! | 5.00% | ~267 |
 | Watch The World Burn | 5.00% | ~267 |
 | Fairy Tale Come True | 5.00% | ~267 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,341 (Ranked 160)  
+Progressed: 5,342 (Ranked 160)  
 Completed: 2 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,10 +206,10 @@ Completed: 2 (0.04%) (Ranked 257)
 | 2023-09-23 | 5,306 | 2 |
 | 2023-09-24 | 5,324 | 2 |
 | 2023-09-25 | 5,340 | 2 |
-| 2023-09-26 | 5,341 | 2 |
+| 2023-09-26 | 5,342 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 342)  
-Sum: 690 (Ranked 281)  
+Sum: 691 (Ranked 281)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -218,8 +218,8 @@ Diff (max vs sum): 61
 | This game is Relaxing | 93 |
 | This game is Highly Recommended | 93 |
 | This game has Amazing Storytelling | 88 |
+| This game is Extremely Fun | 85 |
 | This game has Amazing Characters | 85 |
-| This game is Extremely Fun | 84 |
 | This game is Educational | 84 |
 | This game has a Creative Community | 64 |
 | This game has Obsessive Gameplay | 52 |
@@ -363,3 +363,4 @@ Diff (max vs sum): 61
 | 2023-09-18 | 4.65 | - | 98 | 687 |
 | 2023-09-23 | 4.65 | - | 99 | 688 |
 | 2023-09-25 | 4.65 | - | 99 | 690 |
+| 2023-09-26 | 4.65 | - | 99 | 691 |

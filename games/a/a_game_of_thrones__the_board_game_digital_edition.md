@@ -1,13 +1,13 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 863)  
+Rating: 4.21 (Ranked 864)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,910 |
-| Battering Crew | 20.00% | ~4,955 |
+| Conqueror | 40.00% | ~9,912 |
+| Battering Crew | 20.00% | ~4,956 |
 | The Kingsroad | 18.00% | ~4,460 |
 | Well Stocked | 14.00% | ~3,469 |
 | Royal Fleet | 13.00% | ~3,221 |
@@ -15,21 +15,21 @@ Number of Ratings: 2,500  (23.09.2022)
 | Daggers in the Dark | 8.00% | ~1,982 |
 | Alliance | 8.00% | ~1,982 |
 | A Long Journey | 8.00% | ~1,982 |
-| Ours is the Fury | 7.00% | ~1,734 |
-| Winter is Coming | 7.00% | ~1,734 |
-| Oathkeeper | 7.00% | ~1,734 |
-| Influential | 7.00% | ~1,734 |
-| We Do Not Sow | 6.00% | ~1,486 |
-| Hear me Roar! | 6.00% | ~1,486 |
-| Defender of the Wall | 6.00% | ~1,486 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,239 |
+| Ours is the Fury | 7.00% | ~1,735 |
+| Winter is Coming | 7.00% | ~1,735 |
+| Oathkeeper | 7.00% | ~1,735 |
+| Influential | 7.00% | ~1,735 |
+| We Do Not Sow | 6.00% | ~1,487 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,487 |
+| Hear me Roar! | 6.00% | ~1,487 |
+| Defender of the Wall | 6.00% | ~1,487 |
 | Growing Strong | 5.00% | ~1,239 |
 | What is Dead may Never Die | 3.00% | ~743 |
 | The Swift | 3.00% | ~743 |
 | King in the North | 2.00% | ~496 |
 | War of the Five Kings | 1.00% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,775 (Ranked 112)  
+Progressed: 24,780 (Ranked 112)  
 Completed: 61 (0.25%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 61 (0.25%) (Ranked 199)
 | 2023-09-23 | 24,640 | 60 |
 | 2023-09-24 | 24,715 | 61 |
 | 2023-09-25 | 24,775 | 61 |
+| 2023-09-26 | 24,780 | 61 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 320)  
 Sum: 786 (Ranked 269)  

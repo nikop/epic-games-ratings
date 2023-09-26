@@ -20,10 +20,10 @@
 | Reconciliation | 19.00% | ~17 |
 | The Terror | 17.00% | ~15 |
 | Bounty Hunter | 16.00% | ~14 |
+| Battle Ready | 14.00% | ~13 |
 | All Geared Up | 13.00% | ~12 |
 | The End | 13.00% | ~12 |
 | Good Deed | 13.00% | ~12 |
-| Battle Ready | 13.00% | ~12 |
 | Music Collector | 12.00% | ~11 |
 | Ultimate Team! | 11.00% | ~10 |
 | Gamer | 10.00% | ~9 |

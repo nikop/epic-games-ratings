@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -286,9 +286,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "EpicACHV_15",
@@ -302,9 +302,9 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EpicACHV_17",
@@ -326,9 +326,9 @@
       "ID": "EpicACHV_3",
       "SetID": "acn799d",
       "Name": "13th Deer",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "EpicACHV_4",
@@ -389,8 +389,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:07:36.912326+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:50:46.0870823+00:00",
   "LastUpdate_AppInfo": "2023-09-20T05:57:18.1386225+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:02:21.339337+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:07:36.9123419+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:45:32.6730718+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:50:46.0870949+00:00"
 }

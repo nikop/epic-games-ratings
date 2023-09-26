@@ -1,14 +1,14 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.54 (Ranked 506)  
+Rating: 4.54 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 81.00% | ~1,566 |
 | Become King | 73.00% | ~1,411 |
+| Ranged Weapon | 63.00% | ~1,218 |
 | Defeat 25 Frogs | 63.00% | ~1,218 |
-| Ranged Weapon | 62.00% | ~1,198 |
 | Collect Monster Parts | 59.00% | ~1,140 |
 | Two Handed Weapon | 57.00% | ~1,102 |
 | Defeat 25 Grubs | 54.00% | ~1,044 |
@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 506)
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,933 (Ranked 200)  
-Completed: 9 (0.47%) (Ranked 165)  
+Completed: 9 (0.47%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

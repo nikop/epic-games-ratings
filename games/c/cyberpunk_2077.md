@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 350)  
+Rating: 4.63 (Ranked 334)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -50,10 +50,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 0.10% | ~882 |
 | It's Elementary | 0.10% | ~882 |
 | Legend of The Afterlife | 0.10% | ~882 |
+| The APB is Not Enough | 0.10% | ~10 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
-| The APB is Not Enough | 0.00% | ~0 |
 | Easy Come, Easy Go | 0.00% | ~0 |
 | Judgement Day | 0.00% | ~0 |
 | Spin Doctor | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881,572 (Ranked 15)  
-Completed: 2,386 (0.27%) (Ranked 197)  
+Progressed: 881,606 (Ranked 15)  
+Completed: 2,387 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,22 +223,22 @@ Completed: 2,386 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 881,572 | 2,386 |
+| 2023-09-26 | 881,606 | 2,387 |
 ## Awards
 Max (Character Customization): 81,778  (Ranked 9)  
-Sum: 222,002 (Ranked 13)  
+Sum: 222,812 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 81,778 |
-| This game has Great Boss Battles | 53,470 |
+| This game has Great Boss Battles | 54,102 |
 | This game is Great for Beginners | 10,286 |
 | This game has Diverse Characters | 10,271 |
 | This game has Amazing Storytelling | 10,175 |
 | This game is Highly Recommended | 10,116 |
+| This game is Relaxing | 10,014 |
 | This game is Extremely Fun | 9,982 |
 | This game has Amazing Characters | 9,900 |
-| This game is Relaxing | 9,836 |
 | This game has Quickly Understood Controls | 9,811 |
 | This game has a Creative Community | 6,377 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -494,3 +494,4 @@ Diff (max vs sum): -4
 | 2023-09-23 | 4.62 | - | 80,565 | 217,303 |
 | 2023-09-24 | 4.62 | - | 81,210 | 219,602 |
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
+| 2023-09-26 | 4.63 | - | 81,778 | 222,812 |

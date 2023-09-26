@@ -4,8 +4,8 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -853,8 +853,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:07:14.0876724+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:50:21.0183974+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:43.3327814+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:57:12.090535+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:07:14.0877297+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:40:02.0856918+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:50:21.0185623+00:00"
 }

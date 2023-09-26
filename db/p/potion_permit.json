@@ -2,13 +2,13 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 982,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1603,
+  "EOS_Progressed": 1604,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2148,6 +2148,11 @@
       "Time": "2023-09-26T00:06:37.4515921+00:00",
       "NumProgressed": 1603,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-26T01:49:40.6037105+00:00",
+      "NumProgressed": 1604,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -2159,15 +2164,15 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ACHIEVEMENTS_02",
       "SetID": "d4o538a",
       "Name": "Great Doctor",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 818
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2207,7 +2212,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2215,7 +2220,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2223,7 +2228,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2231,7 +2236,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2239,7 +2244,7 @@
       "Name": "Expert Chemist",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -2271,7 +2276,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2279,7 +2284,7 @@
       "Name": "Sociable",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -2327,7 +2332,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2343,7 +2348,7 @@
       "Name": "Stone Specialist",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -2399,7 +2404,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -2423,7 +2428,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2462,7 +2467,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1603,
+      "Progressed": 1604,
       "Completed": 9
     }
   ],
@@ -2470,8 +2475,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:06:37.4515917+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:49:40.6037101+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:26.423195+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:00:30.9779368+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:06:37.4516387+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:43:37.3973578+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:49:40.6037477+00:00"
 }

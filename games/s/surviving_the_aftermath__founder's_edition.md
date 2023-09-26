@@ -1,48 +1,48 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 606)  
+Rating: 4.48 (Ranked 607)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,642 |
-| Leader | 60.00% | ~5,535 |
-| Explorer | 53.00% | ~4,889 |
-| Healer | 52.00% | ~4,797 |
-| Aspiring Inventor | 44.00% | ~4,059 |
-| Adventurer | 41.00% | ~3,782 |
-| Famous Healer | 38.00% | ~3,506 |
-| Local Leader | 35.00% | ~3,229 |
-| Famous Explorer | 34.00% | ~3,136 |
-| New Opportunities | 34.00% | ~3,136 |
-| Energized | 33.00% | ~3,044 |
-| The Long Haul | 33.00% | ~3,044 |
-| The Great Healer | 31.00% | ~2,860 |
-| Survivor | 31.00% | ~2,860 |
-| Legendary Explorer | 28.00% | ~2,583 |
-| Cleaner | 28.00% | ~2,583 |
-| Catastrofan | 28.00% | ~2,583 |
-| Finders, Keepers | 26.00% | ~2,398 |
-| Top Notch | 25.00% | ~2,306 |
-| Great Leader | 23.00% | ~2,122 |
-| Mentor | 23.00% | ~2,122 |
+| First Step | 72.00% | ~6,645 |
+| Leader | 60.00% | ~5,537 |
+| Explorer | 53.00% | ~4,891 |
+| Healer | 52.00% | ~4,799 |
+| Aspiring Inventor | 44.00% | ~4,061 |
+| Adventurer | 41.00% | ~3,784 |
+| Famous Healer | 38.00% | ~3,507 |
+| Local Leader | 35.00% | ~3,230 |
+| Famous Explorer | 34.00% | ~3,138 |
+| New Opportunities | 34.00% | ~3,138 |
+| Energized | 33.00% | ~3,046 |
+| The Long Haul | 33.00% | ~3,046 |
+| The Great Healer | 31.00% | ~2,861 |
+| Survivor | 31.00% | ~2,861 |
+| Legendary Explorer | 28.00% | ~2,584 |
+| Cleaner | 28.00% | ~2,584 |
+| Catastrofan | 28.00% | ~2,584 |
+| Finders, Keepers | 26.00% | ~2,400 |
+| Top Notch | 25.00% | ~2,307 |
+| Great Leader | 23.00% | ~2,123 |
+| Mentor | 23.00% | ~2,123 |
 | Merchant | 22.00% | ~2,030 |
 | Ice Lakes | 22.00% | ~2,030 |
 | Real Survivor | 22.00% | ~2,030 |
-| Rocket Surgeon | 20.00% | ~1,845 |
-| War Never Changes | 19.00% | ~1,753 |
-| Friendly | 17.00% | ~1,568 |
-| Big Game Hunter | 17.00% | ~1,568 |
-| Spreading Influence | 17.00% | ~1,568 |
-| Around the World | 16.00% | ~1,476 |
+| Rocket Surgeon | 20.00% | ~1,846 |
+| War Never Changes | 19.00% | ~1,754 |
+| Friendly | 17.00% | ~1,569 |
+| Big Game Hunter | 17.00% | ~1,569 |
+| Spreading Influence | 17.00% | ~1,569 |
+| Around the World | 16.00% | ~1,477 |
 | Bookworm | 15.00% | ~1,384 |
 | Famous Adventurer | 14.00% | ~1,292 |
-| Prepared for Anything | 13.00% | ~1,199 |
-| Big Catastrofan | 13.00% | ~1,199 |
-| It's a Finnish Thing | 10.00% | ~922 |
-| Sky Burial | 10.00% | ~922 |
-| Trader | 9.00% | ~830 |
+| Prepared for Anything | 13.00% | ~1,200 |
+| Big Catastrofan | 13.00% | ~1,200 |
+| It's a Finnish Thing | 10.00% | ~923 |
+| Sky Burial | 10.00% | ~923 |
+| Trader | 9.00% | ~831 |
 | Bread and Circuses | 8.00% | ~738 |
 | New Eden | 7.00% | ~646 |
 | Tailored to fit | 7.00% | ~646 |
@@ -52,11 +52,11 @@ Number of Ratings: 836  (23.09.2022)
 | Luxurious Living | 4.00% | ~369 |
 | Mogul | 3.00% | ~277 |
 | Ranch Hand | 3.00% | ~277 |
-| The Friendliest | 2.00% | ~184 |
-| Diplomat | 2.00% | ~184 |
-| Doomsday is canceled | 2.00% | ~184 |
-| Biggest Catastrofan | 2.00% | ~184 |
-| True Survivor | 2.00% | ~184 |
+| The Friendliest | 2.00% | ~185 |
+| Diplomat | 2.00% | ~185 |
+| Doomsday is canceled | 2.00% | ~185 |
+| Biggest Catastrofan | 2.00% | ~185 |
+| True Survivor | 2.00% | ~185 |
 | Legendary Adventurer | 1.00% | ~92 |
 | Slimy yet Satisfying | 1.00% | ~92 |
 | Feng Shui | 1.00% | ~92 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,225 (Ranked 141)  
+Progressed: 9,229 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 9,173 | 0 |
 | 2023-09-24 | 9,206 | 0 |
 | 2023-09-25 | 9,225 | 0 |
+| 2023-09-26 | 9,229 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 337)  
 Sum: 702 (Ranked 280)  

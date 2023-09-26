@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 6,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
     "PcReleaseDate": "2019-05-17T02:00:00+00:00",
@@ -24,7 +24,7 @@
   "EOS_Progressed": 107,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 28.97,
   "EosHistory": [
     {
@@ -611,9 +611,9 @@
       "ID": "PORTRAIT_1",
       "SetID": "g10jki",
       "Name": "Portrait 1",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "PORTRAIT_10",
@@ -699,9 +699,9 @@
       "ID": "PORTRAIT_2",
       "SetID": "g10jki",
       "Name": "Portrait 2",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "PORTRAIT_20",
@@ -747,9 +747,9 @@
       "ID": "PORTRAIT_3",
       "SetID": "g10jki",
       "Name": "Portrait 3",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PORTRAIT_4",
@@ -810,8 +810,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:05:44.5633567+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:48:41.0834662+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.5821756+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:00:08.5147652+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:05:44.5633788+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:43:12.5864249+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:48:41.0834834+00:00"
 }

@@ -1,26 +1,26 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 204)  
+Rating: 4.70 (Ranked 205)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~10,936 |
-| Finding Your Footing | 26.00% | ~10,531 |
-| Nomad | 17.00% | ~6,886 |
-| Picking Up Speed | 16.00% | ~6,480 |
-| Welcome Maya | 15.00% | ~6,075 |
-| Scout | 11.00% | ~4,455 |
-| Sightseer | 11.00% | ~4,455 |
-| Amateur | 9.00% | ~3,645 |
-| Unlock Maya | 8.00% | ~3,240 |
-| Enter Paz | 8.00% | ~3,240 |
-| Wanderer | 8.00% | ~3,240 |
-| Aviator | 6.00% | ~2,430 |
-| My Little Friend | 5.00% | ~2,025 |
-| One With The Board | 5.00% | ~2,025 |
-| Voyager | 5.00% | ~2,025 |
+| Rookie | 27.00% | ~10,938 |
+| Finding Your Footing | 26.00% | ~10,533 |
+| Nomad | 17.00% | ~6,887 |
+| Picking Up Speed | 16.00% | ~6,482 |
+| Welcome Maya | 15.00% | ~6,077 |
+| Scout | 11.00% | ~4,456 |
+| Sightseer | 11.00% | ~4,456 |
+| Amateur | 9.00% | ~3,646 |
+| Unlock Maya | 8.00% | ~3,241 |
+| Enter Paz | 8.00% | ~3,241 |
+| Wanderer | 8.00% | ~3,241 |
+| Aviator | 6.00% | ~2,431 |
+| My Little Friend | 5.00% | ~2,026 |
+| One With The Board | 5.00% | ~2,026 |
+| Voyager | 5.00% | ~2,026 |
 | Izel Has Arrived | 4.00% | ~1,620 |
 | Junkie | 3.00% | ~1,215 |
 | Traveler | 3.00% | ~1,215 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~41 |
 | Windswept | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,503 (Ranked 101)  
+Progressed: 40,512 (Ranked 101)  
 Completed: 5 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 5 (0.01%) (Ranked 276)
 | 2023-09-23 | 40,278 | 5 |
 | 2023-09-24 | 40,398 | 5 |
 | 2023-09-25 | 40,500 | 5 |
-| 2023-09-26 | 40,503 | 5 |
+| 2023-09-26 | 40,512 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 413)  
 Sum: 364 (Ranked 332)  

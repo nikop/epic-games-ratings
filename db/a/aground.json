@@ -2,10 +2,13 @@
   "ID": "2ccd3d825eff465393503a7a8ef7b5a0",
   "Name": "Aground",
   "ProductSlug": "aground",
+  "Ranking_Rating": 84,
+  "Ranking_Popularity": 525,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-02-11T17:00:00+00:00",
     "PcReleaseDate": "2021-02-11T17:00:00+00:00",
@@ -14,10 +17,17 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:16.5152603+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-26T01:42:28.7696891+00:00",
+      "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -38,8 +48,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:54.6046773+00:00",
   "FirstSeenRating": "2023-03-31T05:57:16.51526+00:00",
-  "LastChanged": "2023-03-31T05:57:16.5152601+00:00",
+  "LastChanged": "2023-09-26T01:42:28.7696884+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:52.2095125+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:59:24.9819818+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:03:35.1909749+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:42:28.7696895+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:46:42.1162068+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662569,
+  "EOS_Progressed": 662570,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15878,6 +15878,11 @@
       "Time": "2023-09-26T00:05:49.6173824+00:00",
       "NumProgressed": 662569,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-26T01:48:46.93253+00:00",
+      "NumProgressed": 662570,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -15897,7 +15902,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384290
+      "UsersEstimate": 384291
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16272,15 +16277,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662569,
+      "Progressed": 662570,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:05:49.617382+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:48:46.9325297+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:57:10.4555137+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:05:49.6175053+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:40:00.3566262+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:48:46.9326344+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "1b5e25ef034f497fbea17e9d3af3d7ba",
   "Name": "Trigon: Space Story",
   "ProductSlug": "trigon-ce1936",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-28T12:00:00+00:00",
     "PcReleaseDate": "2022-04-28T12:00:00+00:00",
@@ -189,6 +189,6 @@
   "FirstSeen": "2022-07-22T20:18:03.1653519+00:00",
   "LastChanged": "2023-09-17T01:47:31.5933015+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.8361341+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:00:29.5242984+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:06:31.8165099+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:43:35.798367+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:49:34.4708461+00:00"
 }

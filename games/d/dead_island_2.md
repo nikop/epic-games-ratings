@@ -1,12 +1,12 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 506)  
+Rating: 4.54 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,591 |
-| Welcome To Hell-A | 3.00% | ~20,591 |
+| Hotel California | 3.00% | ~20,592 |
+| Welcome To Hell-A | 3.00% | ~20,592 |
 | Dr. Reed, I Presume? | 2.00% | ~13,728 |
 | Git Gutte! | 2.00% | ~13,728 |
 | Bookworm | 2.00% | ~13,728 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 506)
 | I Am the Resurrection | 1.00% | ~6,864 |
 | Down with the Sickness | 1.00% | ~6,864 |
 | Our True Nature | 1.00% | ~6,864 |
-| Max Headroom | 0.90% | ~6,177 |
+| Max Headroom | 0.90% | ~6,178 |
 | Go, Bobcats! | 0.80% | ~5,491 |
 | Rising Star | 0.80% | ~5,491 |
 | Jumbo Keyring | 0.70% | ~4,805 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 506)
 | Donk! | 0.10% | ~686 |
 | Bucket List | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,375 (Ranked 22)  
+Progressed: 686,393 (Ranked 22)  
 Completed: 2,174 (0.32%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 2,174 (0.32%) (Ranked 187)
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
-| 2023-09-26 | 686,375 | 2,174 |
+| 2023-09-26 | 686,393 | 2,174 |
 ## Awards
 Max (Great Boss Battles): 6,204  (Ranked 57)  
 Sum: 9,227 (Ranked 92)  

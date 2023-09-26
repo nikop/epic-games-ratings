@@ -1,20 +1,20 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 471)  
+Rating: 4.56 (Ranked 472)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,444 |
-| Pay 'n' Spray | 50.00% | ~6,447 |
-| All Dressed Up for San Fierro | 26.00% | ~3,352 |
-| The American Dream | 19.00% | ~2,450 |
-| School's Out | 18.00% | ~2,321 |
-| Smooth Moves | 17.00% | ~2,192 |
-| What happens in Las Venturas... | 15.00% | ~1,934 |
-| Today Was a Good Day | 15.00% | ~1,934 |
-| Horror of the Santa Maria | 11.00% | ~1,418 |
-| Liberty City State of Mind | 10.00% | ~1,289 |
+| Getting Started | 81.00% | ~10,450 |
+| Pay 'n' Spray | 50.00% | ~6,450 |
+| All Dressed Up for San Fierro | 26.00% | ~3,354 |
+| The American Dream | 19.00% | ~2,451 |
+| School's Out | 18.00% | ~2,322 |
+| Smooth Moves | 17.00% | ~2,193 |
+| What happens in Las Venturas... | 15.00% | ~1,935 |
+| Today Was a Good Day | 15.00% | ~1,935 |
+| Horror of the Santa Maria | 11.00% | ~1,419 |
+| Liberty City State of Mind | 10.00% | ~1,290 |
 | The End of the Line | 8.00% | ~1,032 |
 | Original Gangster | 8.00% | ~1,032 |
 | With Extra Dip | 7.00% | ~903 |
@@ -38,10 +38,10 @@ Rating: 4.56 (Ranked 471)
 | Not a Player | 1.00% | ~129 |
 | Chick Magnet | 1.00% | ~129 |
 | Remastered | 0.70% | ~90 |
-| ...Here we go again | 0.50% | ~64 |
+| ...Here we go again | 0.50% | ~65 |
 | I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,894 (Ranked 133)  
+Progressed: 12,901 (Ranked 133)  
 Completed: 47 (0.36%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 47 (0.36%) (Ranked 179)
 | 2023-09-23 | 12,771 | 45 |
 | 2023-09-24 | 12,846 | 45 |
 | 2023-09-25 | 12,891 | 47 |
-| 2023-09-26 | 12,894 | 47 |
+| 2023-09-26 | 12,901 | 47 |
 ## Awards
 Max (Great Boss Battles): 310  (Ranked 237)  
 Sum: 431 (Ranked 318)  

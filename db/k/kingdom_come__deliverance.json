@@ -2,13 +2,13 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7402,10 +7402,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27851,
       "NumberOfAwardsMax": 7472
+    },
+    {
+      "Time": "2023-09-26T01:40:35.1557762+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27853,
+      "NumberOfAwardsMax": 7472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27851,
+  "NumberOfAwards": 27853,
   "NumberOfAwardsMax": 7472,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7449,7 +7455,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1589
+      "Count": 1591
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7488,9 +7494,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802671,
+  "EOS_Progressed": 802672,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25123,6 +25129,11 @@
       "Time": "2023-09-26T00:06:02.3872114+00:00",
       "NumProgressed": 802671,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-26T01:49:01.238494+00:00",
+      "NumProgressed": 802672,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25158,7 +25169,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128427
+      "UsersEstimate": 128428
     },
     {
       "ID": "Awakening",
@@ -25334,7 +25345,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184614
+      "UsersEstimate": 184615
     },
     {
       "ID": "Fighter",
@@ -25789,15 +25800,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802671,
+      "Progressed": 802672,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-25T17:57:36.9357687+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:06:02.3872109+00:00",
+  "LastChanged": "2023-09-26T01:40:35.155776+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:49:01.2384935+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:57:42.5010755+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:06:02.3874124+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:40:35.1557766+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:49:01.2386719+00:00"
 }

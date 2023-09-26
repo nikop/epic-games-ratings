@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1060,10 +1060,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 690,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-09-26T01:43:16.0556534+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 691,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 690,
+  "NumberOfAwards": 691,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1071,7 +1077,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game is Relaxing",
@@ -1134,7 +1140,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5341,
+  "EOS_Progressed": 5342,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
@@ -10359,6 +10365,11 @@
       "Time": "2023-09-26T00:03:09.535466+00:00",
       "NumProgressed": 5341,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T01:46:13.4955893+00:00",
+      "NumProgressed": 5342,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10378,7 +10389,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -10434,7 +10445,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -10458,7 +10469,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -10466,7 +10477,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10626,7 +10637,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10642,7 +10653,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -10689,15 +10700,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5341,
+      "Progressed": 5342,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-09-25T13:06:42.236616+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:03:09.5354654+00:00",
+  "LastChanged": "2023-09-26T01:43:16.0556532+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:46:13.4955888+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:00:13.5538154+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:03:09.5355626+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:43:16.055654+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:46:13.4956726+00:00"
 }

@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 549)  
+Rating: 4.51 (Ranked 550)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,162 |
-| Man of politics | 35.00% | ~5,391 |
-| Friends of sorts | 33.00% | ~5,083 |
-| Yet another secret | 33.00% | ~5,083 |
-| Let there be darkness | 32.00% | ~4,929 |
-| End of Book One | 30.00% | ~4,621 |
+| Man of politics | 35.00% | ~5,392 |
+| Friends of sorts | 33.00% | ~5,084 |
+| Yet another secret | 33.00% | ~5,084 |
+| Let there be darkness | 32.00% | ~4,930 |
+| End of Book One | 30.00% | ~4,622 |
 | Wannabe knight | 24.00% | ~3,697 |
 | Garden of Eden | 24.00% | ~3,697 |
 | Full house | 24.00% | ~3,697 |
@@ -24,10 +24,10 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,157 |
 | Jack was here! | 14.00% | ~2,157 |
 | Exterminator | 13.00% | ~2,003 |
-| Whodunnit | 12.00% | ~1,848 |
-| Good midwife | 11.00% | ~1,694 |
-| Friar Tuck | 11.00% | ~1,694 |
-| First profit | 11.00% | ~1,694 |
+| Whodunnit | 12.00% | ~1,849 |
+| Good midwife | 11.00% | ~1,695 |
+| Friar Tuck | 11.00% | ~1,695 |
+| First profit | 11.00% | ~1,695 |
 | Team player | 10.00% | ~1,540 |
 | Skilled merchant | 9.00% | ~1,386 |
 | Nothing but make-believe | 9.00% | ~1,386 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~462 |
 | Boy of mystery | 2.00% | ~308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,404 (Ranked 128)  
+Progressed: 15,405 (Ranked 128)  
 Completed: 111 (0.72%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 111 (0.72%) (Ranked 143)
 | 2023-09-23 | 15,370 | 111 |
 | 2023-09-24 | 15,387 | 111 |
 | 2023-09-25 | 15,404 | 111 |
+| 2023-09-26 | 15,405 | 111 |
 ## Awards
 Max (Easy Puzzles): 150  (Ranked 303)  
 Sum: 192 (Ranked 384)  

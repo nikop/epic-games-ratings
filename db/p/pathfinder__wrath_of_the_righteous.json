@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3720,10 +3720,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6961,
       "NumberOfAwardsMax": 1718
+    },
+    {
+      "Time": "2023-09-26T01:45:08.1921547+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6962,
+      "NumberOfAwardsMax": 1718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6961,
+  "NumberOfAwards": 6962,
   "NumberOfAwardsMax": 1718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3755,7 +3761,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 621
+      "Count": 622
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3794,9 +3800,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11408,
+  "EOS_Progressed": 11409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12854,6 +12860,11 @@
       "Time": "2023-09-25T23:05:18.4255916+00:00",
       "NumProgressed": 11408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T01:48:50.0785913+00:00",
+      "NumProgressed": 11409,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12873,7 +12884,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -12897,7 +12908,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -12921,7 +12932,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "09_PathOfDemon",
@@ -13233,7 +13244,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "49_Flame",
@@ -13257,7 +13268,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -13792,21 +13803,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10190,
+      "Progressed": 10191,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11408,
+      "Progressed": 11409,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-09-25T21:01:12.832453+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:05:52.2846062+00:00",
+  "LastChanged": "2023-09-26T01:45:08.1921546+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:48:50.0785909+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:01:52.4134537+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:05:52.2848374+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:45:08.1921554+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:48:50.078772+00:00"
 }

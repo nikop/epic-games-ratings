@@ -1,20 +1,20 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.83 (Ranked 981)  
+Rating: 3.83 (Ranked 982)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,571 |
-| The First Step | 89.00% | ~1,427 |
-| Moonbury Traveller | 65.00% | ~1,042 |
-| Rookie Chemist | 63.00% | ~1,010 |
-| Great Doctor | 52.00% | ~834 |
+| Welcome to Moonbury | 98.00% | ~1,572 |
+| The First Step | 89.00% | ~1,428 |
+| Moonbury Traveller | 65.00% | ~1,043 |
+| Rookie Chemist | 63.00% | ~1,011 |
+| Great Doctor | 51.00% | ~818 |
 | Dog Whisperer | 50.00% | ~802 |
-| Friendly | 48.00% | ~769 |
-| The Capitalist | 45.00% | ~721 |
-| K.O.! | 44.00% | ~705 |
-| Intermediate Chemist | 40.00% | ~641 |
+| Friendly | 48.00% | ~770 |
+| The Capitalist | 45.00% | ~722 |
+| K.O.! | 44.00% | ~706 |
+| Intermediate Chemist | 40.00% | ~642 |
 | Decorative Mind | 32.00% | ~513 |
 | Lumber Specialist | 32.00% | ~513 |
 | Kind-hearted | 25.00% | ~401 |
@@ -23,10 +23,10 @@ Rating: 3.83 (Ranked 981)
 | Fishing Guru | 21.00% | ~337 |
 | Spark of Love | 18.00% | ~289 |
 | Community Helper | 17.00% | ~273 |
-| Expert Chemist | 14.00% | ~224 |
-| Stone Specialist | 14.00% | ~224 |
-| Sociable | 13.00% | ~208 |
-| Ablutomaniac | 13.00% | ~208 |
+| Expert Chemist | 14.00% | ~225 |
+| Stone Specialist | 14.00% | ~225 |
+| Sociable | 13.00% | ~209 |
+| Ablutomaniac | 13.00% | ~209 |
 | Line Cook | 12.00% | ~192 |
 | Production Sorter | 11.00% | ~176 |
 | Good Samaritan | 10.00% | ~160 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 981)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,603 (Ranked 208)  
+Progressed: 1,604 (Ranked 208)  
 Completed: 9 (0.56%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 9 (0.56%) (Ranked 154)
 | 2023-09-23 | 1,596 | 9 |
 | 2023-09-24 | 1,598 | 9 |
 | 2023-09-25 | 1,602 | 9 |
-| 2023-09-26 | 1,603 | 9 |
+| 2023-09-26 | 1,604 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 383)  
 Sum: 69 (Ranked 444)  

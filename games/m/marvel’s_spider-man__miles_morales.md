@@ -1,7 +1,7 @@
 # Marvel’s Spider-Man: Miles Morales
 [Store](https://store.epicgames.com/en-US/p/marvels-spider-man-miles-morales)  
 [View Rawdata](../../db/m/marvel’s_spider-man__miles_morales.json)  
-Rating: 4.78 (Ranked 102)  
+Rating: 4.78 (Ranked 103)  
 ## Awards
 Max (Great Boss Battles): 1,512  (Ranked 123)  
 Sum: 2,057 (Ranked 201)  

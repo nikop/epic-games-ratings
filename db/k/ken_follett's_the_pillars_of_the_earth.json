@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -519,7 +519,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15404,
+  "EOS_Progressed": 15405,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -10844,6 +10844,11 @@
       "Time": "2023-09-25T22:04:50.3273858+00:00",
       "NumProgressed": 15404,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-26T01:48:29.9953275+00:00",
+      "NumProgressed": 15405,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10855,7 +10860,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "tpote_achievement_10",
@@ -10895,7 +10900,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5083
+      "UsersEstimate": 5084
     },
     {
       "ID": "tpote_achievement_15",
@@ -10927,7 +10932,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "tpote_achievement_19",
@@ -10943,7 +10948,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5083
+      "UsersEstimate": 5084
     },
     {
       "ID": "tpote_achievement_20",
@@ -10959,7 +10964,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "tpote_achievement_22",
@@ -10983,7 +10988,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "tpote_achievement_25",
@@ -11015,7 +11020,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "tpote_achievement_29",
@@ -11031,7 +11036,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "tpote_achievement_30",
@@ -11175,22 +11180,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5391
+      "UsersEstimate": 5392
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15404,
+      "Progressed": 15405,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-24T23:58:24.5918651+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:05:34.14964+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:48:29.995327+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:59:36.3712953+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:05:34.1497376+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:42:37.4245916+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:48:29.9954103+00:00"
 }

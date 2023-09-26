@@ -1,22 +1,22 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 25.00% | ~2,852 |
-| A Spark | 18.00% | ~2,053 |
-| Burning City | 17.00% | ~1,939 |
+| A Spark | 18.00% | ~2,054 |
+| Burning City | 17.00% | ~1,940 |
 | Mythic Choices | 14.00% | ~1,597 |
 | Defender's Heart | 14.00% | ~1,597 |
 | Banner over the Citadel | 13.00% | ~1,483 |
 | Queen's Gratitude | 12.00% | ~1,369 |
 | Fifth Crusade | 8.00% | ~913 |
-| Embrace of the Abyss | 6.00% | ~684 |
-| Path of the Angel | 6.00% | ~684 |
-| Demonic and Divine | 6.00% | ~684 |
+| Embrace of the Abyss | 6.00% | ~685 |
+| Path of the Angel | 6.00% | ~685 |
+| Demonic and Divine | 6.00% | ~685 |
 | Transformation | 5.00% | ~570 |
 | Great Upstart | 5.00% | ~570 |
 | Voice from Your Dreams | 5.00% | ~570 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,408 (Ranked 136)  
+Progressed: 11,409 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,9 +282,10 @@ Completed: 0 (0.00%) (Ranked 293)
 | 2023-09-23 | 11,390 | 0 |
 | 2023-09-24 | 11,395 | 0 |
 | 2023-09-25 | 11,408 | 0 |
+| 2023-09-26 | 11,409 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 118)  
-Sum: 6,961 (Ranked 115)  
+Sum: 6,962 (Ranked 115)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +293,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 652 |
 | This game is Highly Recommended | 637 |
 | This game has Amazing Characters | 635 |
-| This game has Diverse Characters | 621 |
+| This game has Diverse Characters | 622 |
 | This game has Amazing Storytelling | 614 |
 | This game has Challenging Combat | 580 |
 | This game has Quickly Understood Controls | 570 |
@@ -524,3 +525,4 @@ Diff (max vs sum): 3
 | 2023-09-23 | 4.76 | - | 1,715 | 6,955 |
 | 2023-09-24 | 4.76 | - | 1,718 | 6,960 |
 | 2023-09-25 | 4.76 | - | 1,718 | 6,961 |
+| 2023-09-26 | 4.76 | - | 1,718 | 6,962 |

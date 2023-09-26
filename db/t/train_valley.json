@@ -2,13 +2,13 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -131,7 +131,7 @@
   "Tags": [],
   "EOS_Progressed": 500,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1523,8 +1523,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:04:30.7212108+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:47:32.3291572+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:01.7956204+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:01:16.0424486+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:04:30.7212526+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:44:26.4308971+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:47:32.3291869+00:00"
 }

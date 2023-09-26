@@ -1,18 +1,18 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 189)  
+Rating: 4.71 (Ranked 190)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~256,855 |
 | Cavalier | 25.00% | ~200,668 |
-| Fatso | 23.00% | ~184,614 |
+| Fatso | 23.00% | ~184,615 |
 | Awakening | 21.00% | ~168,561 |
 | Ranger | 20.00% | ~160,534 |
 | Scrooge | 20.00% | ~160,534 |
-| Anorectic | 16.00% | ~128,427 |
+| Anorectic | 16.00% | ~128,428 |
 | Bookworm | 15.00% | ~120,401 |
 | Firestarter | 15.00% | ~120,401 |
 | Insomniac | 13.00% | ~104,347 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,671 (Ranked 16)  
+Progressed: 802,672 (Ranked 16)  
 Completed: 49 (0.01%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 49 (0.01%) (Ranked 276)
 | 2023-09-23 | 802,404 | 49 |
 | 2023-09-24 | 802,563 | 49 |
 | 2023-09-25 | 802,669 | 49 |
-| 2023-09-26 | 802,671 | 49 |
+| 2023-09-26 | 802,672 | 49 |
 ## Awards
 Max (Character Customization): 7,472  (Ranked 47)  
-Sum: 27,851 (Ranked 47)  
+Sum: 27,853 (Ranked 47)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -264,7 +264,7 @@ Diff (max vs sum): 0
 | This game is Highly Recommended | 1,669 |
 | This game has Amazing Characters | 1,644 |
 | This game has Realistic Visuals | 1,641 |
-| This game is Educational | 1,589 |
+| This game is Educational | 1,591 |
 | This game is Relaxing | 1,518 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -513,3 +513,4 @@ Diff (max vs sum): 0
 | 2023-09-23 | 4.71 | - | 7,469 | 27,833 |
 | 2023-09-24 | 4.71 | - | 7,471 | 27,843 |
 | 2023-09-25 | 4.71 | - | 7,472 | 27,851 |
+| 2023-09-26 | 4.71 | - | 7,472 | 27,853 |

@@ -2,13 +2,13 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 281,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 301,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -348,10 +348,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 562,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-09-26T01:45:18.3072473+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 601,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 562,
+  "NumberOfAwards": 601,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -383,7 +389,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 42
+      "Count": 53
     },
     {
       "Text": "This game has a Competitive Community",
@@ -401,7 +407,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 45
+      "Count": 59
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -413,7 +419,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 43
+      "Count": 57
     },
     {
       "Text": "This game is Great for Beginners",
@@ -434,8 +440,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-09-25T19:02:11.7680612+00:00",
+  "LastChanged": "2023-09-26T01:45:18.307247+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:32.9943262+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:02:10.4471829+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:07:40.7379543+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:45:18.3072477+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:50:50.4404998+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 352,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3547,9 +3547,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 456130,
+  "EOS_Progressed": 456157,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3370,
+  "EOS_NewPlayers": 3349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21352,6 +21352,11 @@
       "Time": "2023-09-26T00:06:20.5704676+00:00",
       "NumProgressed": 456130,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T01:49:21.8941367+00:00",
+      "NumProgressed": 456157,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -21371,7 +21376,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "ACH_CARRYING",
@@ -21419,7 +21424,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18245
+      "UsersEstimate": 18246
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -21467,7 +21472,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18245
+      "UsersEstimate": 18246
     },
     {
       "ID": "ACH_JR_50",
@@ -21491,7 +21496,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13684
+      "UsersEstimate": 13685
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -21531,7 +21536,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22806
+      "UsersEstimate": 22808
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -21563,7 +21568,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -21579,7 +21584,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -21595,7 +21600,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13684
+      "UsersEstimate": 13685
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -21619,7 +21624,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13684
+      "UsersEstimate": 13685
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -21627,7 +21632,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22806
+      "UsersEstimate": 22808
     },
     {
       "ID": "ACH_WET_FEET",
@@ -21635,22 +21640,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18245
+      "UsersEstimate": 18246
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 456130,
+      "Progressed": 456157,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-25T09:01:36.6056917+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:06:20.5704672+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:49:21.8941362+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.5756553+00:00",
-  "LastUpdate_Ratings": "2023-09-25T23:57:11.8971765+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:06:20.5706142+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:40:01.7883497+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:49:21.8942473+00:00"
 }

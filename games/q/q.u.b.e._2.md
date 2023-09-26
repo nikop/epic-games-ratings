@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.41 (Ranked 693)  
+Rating: 4.41 (Ranked 694)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,7 +18,7 @@ Number of Ratings: 94  (23.09.2022)
 | Path to Salvation | 19.00% | ~86 |
 | Descendants | 18.00% | ~81 |
 | Infinity Loop | 18.00% | ~81 |
-| The Flawed Teacher | 15.00% | ~68 |
+| The Flawed Teacher | 16.00% | ~72 |
 | To Infinity and Beyond | 6.00% | ~27 |
 | The Truthful Enemy | 6.00% | ~27 |
 | True collector | 0.40% | ~2 |

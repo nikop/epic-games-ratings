@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 251,
-  "EOS_Completed": 58,
+  "EOS_Completed": 59,
   "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 23.11,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 23.51,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1271,6 +1271,11 @@
       "Time": "2023-09-25T23:04:39.4107322+00:00",
       "NumProgressed": 251,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-26T01:47:59.1594106+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1281,9 +1286,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "Batteries",
@@ -1305,9 +1310,9 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "FirstBox",
@@ -1337,9 +1342,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "GasDeath",
@@ -1377,17 +1382,17 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
@@ -1395,13 +1400,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 251,
-      "Completed": 58
+      "Completed": 59
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-26T00:05:05.630204+00:00",
+  "LastChanged_Achievements": "2023-09-26T01:47:59.15941+00:00",
   "LastUpdate_AppInfo": "2023-09-19T19:57:05.5108932+00:00",
-  "LastUpdate_Ratings": "2023-09-26T00:00:14.809369+00:00",
-  "LastUpdate_Achievements": "2023-09-26T00:05:05.630228+00:00"
+  "LastUpdate_Ratings": "2023-09-26T01:43:17.6616397+00:00",
+  "LastUpdate_Achievements": "2023-09-26T01:47:59.1594252+00:00"
 }
