@@ -2037,9 +2037,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "6ohhfoc",
       "Name": "We made it",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 426
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2182,8 +2182,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:06:12.8118788+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:08:13.6095905+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.2364181+00:00",
-  "LastUpdate_Ratings": "2023-09-26T04:00:20.1346918+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:06:12.8119174+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:02:25.585238+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:08:13.6096571+00:00"
 }

@@ -14,21 +14,21 @@
 | Memory Rouser | 67.00% | ~34 |
 | Mountain Splitter | 67.00% | ~34 |
 | Master of the Skies | 61.00% | ~31 |
+| Helpful Heart | 61.00% | ~31 |
 | Distance Devourer | 59.00% | ~30 |
 | Subsistence Skills | 59.00% | ~30 |
 | Kemono Hunter | 59.00% | ~30 |
-| Helpful Heart | 59.00% | ~30 |
 | Expert Conjuror | 55.00% | ~28 |
 | Bonds of Enmity | 51.00% | ~26 |
 | Flawless Crystal | 49.00% | ~25 |
-| Axer of Auspice | 45.00% | ~23 |
+| Axer of Auspice | 47.00% | ~24 |
 | Counter Specialist | 43.00% | ~22 |
 | Karakuri Trail | 41.00% | ~21 |
 | Snare Specialist | 41.00% | ~21 |
 | Single Minded | 39.00% | ~20 |
 | Mighty Marmelizer | 39.00% | ~20 |
+| Fair Means or Foul | 39.00% | ~20 |
 | Reincarnation Cycle Stopper | 39.00% | ~20 |
-| Fair Means or Foul | 37.00% | ~19 |
 | Team Hunter | 37.00% | ~19 |
 | Kemono at Heart | 35.00% | ~18 |
 | Left Arm Leverager | 33.00% | ~17 |

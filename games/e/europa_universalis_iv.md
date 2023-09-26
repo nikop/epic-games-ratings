@@ -7,13 +7,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 4.00% | ~16,583 |
-| That's a Grand Army | 3.00% | ~12,437 |
-| That is mine! | 3.00% | ~12,437 |
-| Victorious! | 3.00% | ~12,437 |
-| Brothers in Arms | 2.00% | ~8,291 |
-| For the Glory | 2.00% | ~8,291 |
-| That's a Grand Navy | 2.00% | ~8,291 |
-| Seriously?! | 2.00% | ~8,291 |
+| That's a Grand Army | 3.00% | ~12,438 |
+| That is mine! | 3.00% | ~12,438 |
+| Victorious! | 3.00% | ~12,438 |
+| Brothers in Arms | 2.00% | ~8,292 |
+| For the Glory | 2.00% | ~8,292 |
+| That's a Grand Navy | 2.00% | ~8,292 |
+| Seriously?! | 2.00% | ~8,292 |
 | Cold War | 1.00% | ~4,146 |
 | Defender of the Faith | 1.00% | ~4,146 |
 | It's all about the money | 1.00% | ~4,146 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.70% | ~2,902 |
 | Royal Authority | 0.70% | ~2,902 |
 | Total Control | 0.70% | ~2,902 |
-| My armies are invincible! | 0.60% | ~2,487 |
+| My armies are invincible! | 0.60% | ~2,488 |
 | Agressive Expander | 0.50% | ~2,073 |
 | City of Cities | 0.50% | ~2,073 |
 | Combined Arms | 0.50% | ~2,073 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414,574 (Ranked 40)  
+Progressed: 414,587 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1 (0.00%) (Ranked 293)
 | 2023-09-23 | 412,558 | 0 |
 | 2023-09-24 | 413,698 | 1 |
 | 2023-09-25 | 414,499 | 1 |
-| 2023-09-26 | 414,574 | 1 |
+| 2023-09-26 | 414,587 | 1 |
 ## Awards
 Max (Educational): 6,263  (Ranked 56)  
 Sum: 51,447 (Ranked 24)  

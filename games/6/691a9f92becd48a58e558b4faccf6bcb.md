@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Minimalist lifestyle | 100.00% | ~2 |
-| I deliver the presents! | 100.00% | ~2 |
-| A new HOME | 50.00% | ~1 |
-| Lost forever | 50.00% | ~1 |
-| Lesson learned | 50.00% | ~1 |
-| Silver Button | 50.00% | ~1 |
-| Silver Carrot | 50.00% | ~1 |
-| Silver Hat | 50.00% | ~1 |
+| Minimalist lifestyle | 67.00% | ~2 |
+| I deliver the presents! | 67.00% | ~2 |
+| A new HOME | 33.00% | ~1 |
+| Lost forever | 33.00% | ~1 |
+| Lesson learned | 33.00% | ~1 |
+| Silver Button | 33.00% | ~1 |
+| Silver Carrot | 33.00% | ~1 |
+| Silver Hat | 33.00% | ~1 |
 | Good list | 0.00% | ~0 |
 | At least you tried | 0.00% | ~0 |
 | Golden Button | 0.00% | ~0 |
@@ -23,10 +23,11 @@
 | Silver Scarf | 0.00% | ~0 |
 | So close! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 560)  
+Progressed: 3 (Ranked 550)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 1 | 0 |
 | 2023-09-25 | 2 | 0 |
+| 2023-09-26 | 3 | 0 |

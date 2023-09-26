@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 472)  
+Rating: 4.56 (Ranked 473)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -207,8 +207,8 @@ Completed: 8 (0.11%) (Ranked 229)
 | 2023-09-25 | 6,976 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 446)  
-Sum: 274 (Ranked 355)  
-Diff (max vs sum): 91  
+Sum: 274 (Ranked 356)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |

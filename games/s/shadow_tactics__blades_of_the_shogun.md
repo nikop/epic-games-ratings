@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,482 |
-| A thief's beginning | 10.00% | ~20,438 |
-| Thorough | 10.00% | ~20,438 |
-| Disguised | 8.00% | ~16,350 |
-| Rescue Takuma | 8.00% | ~16,350 |
-| Rollin' | 8.00% | ~16,350 |
-| Tanuki Time | 8.00% | ~16,350 |
+| Genin | 11.00% | ~22,483 |
+| A thief's beginning | 10.00% | ~20,439 |
+| Thorough | 10.00% | ~20,439 |
+| Disguised | 8.00% | ~16,351 |
+| Rescue Takuma | 8.00% | ~16,351 |
+| Rollin' | 8.00% | ~16,351 |
+| Tanuki Time | 8.00% | ~16,351 |
 | Ice Ice Yuki | 7.00% | ~14,307 |
 | Jonin | 7.00% | ~14,307 |
 | Stoned Ox | 7.00% | ~14,307 |
@@ -25,12 +25,12 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,219 |
 | Prisoners | 5.00% | ~10,219 |
 | Too Early | 5.00% | ~10,219 |
-| Gear up | 4.00% | ~8,175 |
-| Happy little accidents | 4.00% | ~8,175 |
-| Still Rollin' | 4.00% | ~8,175 |
-| Noboru | 3.00% | ~6,131 |
-| Stoned | 3.00% | ~6,131 |
-| The Old Way | 3.00% | ~6,131 |
+| Gear up | 4.00% | ~8,176 |
+| Happy little accidents | 4.00% | ~8,176 |
+| Still Rollin' | 4.00% | ~8,176 |
+| Noboru | 3.00% | ~6,132 |
+| Stoned | 3.00% | ~6,132 |
+| The Old Way | 3.00% | ~6,132 |
 | Atheist Ox | 2.00% | ~4,088 |
 | It's raining men | 2.00% | ~4,088 |
 | No Gimmicks | 2.00% | ~4,088 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,044 |
 | The End | 1.00% | ~2,044 |
 | Undeserved Honor | 1.00% | ~2,044 |
-| When Cut Across the Neck | 0.90% | ~1,839 |
+| When Cut Across the Neck | 0.90% | ~1,840 |
 | High Five the Moon | 0.80% | ~1,635 |
 | The Cave | 0.80% | ~1,635 |
 | Merciful | 0.50% | ~1,022 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~204 |
 | Release the Kraken | 0.10% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,381 (Ranked 62)  
+Progressed: 204,389 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 86 (0.04%) (Ranked 257)
 | 2023-09-23 | 203,944 | 86 |
 | 2023-09-24 | 204,189 | 86 |
 | 2023-09-25 | 204,356 | 86 |
-| 2023-09-26 | 204,381 | 86 |
+| 2023-09-26 | 204,389 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,775 (Ranked 136)  

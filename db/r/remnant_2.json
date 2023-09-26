@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -2442,9 +2442,9 @@
       "Count": 192
     }
   ],
-  "EOS_Progressed": 186498,
+  "EOS_Progressed": 186502,
   "EOS_Completed": 335,
-  "EOS_NewPlayers": 3256,
+  "EOS_NewPlayers": 3250,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10347,6 +10347,11 @@
       "Time": "2023-09-26T04:06:34.5190013+00:00",
       "NumProgressed": 186498,
       "NumCompleted": 335
+    },
+    {
+      "Time": "2023-09-26T05:08:45.1665192+00:00",
+      "NumProgressed": 186502,
+      "NumCompleted": 335
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -10383,7 +10388,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -10758,7 +10763,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 186498,
+      "Progressed": 186502,
       "Completed": 335
     }
   ],
@@ -10766,8 +10771,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-26T03:59:05.204355+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:06:34.5190009+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:08:45.1665188+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.0716311+00:00",
-  "LastUpdate_Ratings": "2023-09-26T03:59:05.2043555+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:06:34.5190718+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:00:36.5693806+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:08:45.1666195+00:00"
 }

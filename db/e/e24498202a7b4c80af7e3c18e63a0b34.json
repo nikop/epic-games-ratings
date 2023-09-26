@@ -4,8 +4,8 @@
   "ProductSlug": "horizon-chase-2",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4773,
+  "EOS_Progressed": 4774,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1379,
+  "EOS_NewPlayers": 1367,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1407,6 +1407,11 @@
       "Time": "2023-09-26T04:06:06.1467243+00:00",
       "NumProgressed": 4773,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-26T05:08:04.0732863+00:00",
+      "NumProgressed": 4774,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -1419,7 +1424,7 @@
       "Name": "First of Many",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "achievement_01_02",
@@ -1427,7 +1432,7 @@
       "Name": "Tournament Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_01_03",
@@ -1443,7 +1448,7 @@
       "Name": "Bzzzt",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "achievement_01_05",
@@ -1459,7 +1464,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "achievement_01_07",
@@ -1475,7 +1480,7 @@
       "Name": "Trophy Collector",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "achievement_01_09",
@@ -1483,7 +1488,7 @@
       "Name": "Right Foot",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "achievement_01_10",
@@ -1491,7 +1496,7 @@
       "Name": "Beat the Clock",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "achievement_02_01",
@@ -1571,7 +1576,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_03_03",
@@ -1659,7 +1664,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "achievement_04_03",
@@ -1681,9 +1686,9 @@
       "ID": "achievement_04_05",
       "SetID": "4f1m94d",
       "Name": "That was a Close Call!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1194
     },
     {
       "ID": "achievement_04_06",
@@ -1699,7 +1704,7 @@
       "Name": "Nitro Saver",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "achievement_04_08",
@@ -1707,7 +1712,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "achievement_04_09",
@@ -1722,14 +1727,14 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 4773,
+      "Progressed": 4774,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:06:06.1467237+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:08:04.0732858+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-26T04:00:35.2368155+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:06:06.1467532+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:02:44.7124586+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:08:04.0733392+00:00"
 }

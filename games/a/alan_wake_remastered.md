@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,807 |
+| Follow the Light | 42.00% | ~27,808 |
 | Let There Be Light | 34.00% | ~22,511 |
 | Float Like a Butterfly | 32.00% | ~21,187 |
-| Nordic Walking | 26.00% | ~17,214 |
-| Bright Falls' Finest | 26.00% | ~17,214 |
+| Nordic Walking | 26.00% | ~17,215 |
+| Bright Falls' Finest | 26.00% | ~17,215 |
 | Under a Thin Layer of Skin | 23.00% | ~15,228 |
 | Park Ranger | 19.00% | ~12,580 |
 | Paging Mr. Wake | 19.00% | ~12,580 |
-| Back! Back, I Say! | 18.00% | ~11,917 |
-| Finders Keepers | 17.00% | ~11,255 |
-| Sound and Fury | 16.00% | ~10,593 |
-| Damn Good Cup of Coffee | 16.00% | ~10,593 |
-| Wheels Within Wheels | 15.00% | ~9,931 |
-| They're Heeeeeere! | 15.00% | ~9,931 |
-| Missed by a Mile | 15.00% | ~9,931 |
+| Back! Back, I Say! | 18.00% | ~11,918 |
+| Finders Keepers | 17.00% | ~11,256 |
+| Sound and Fury | 16.00% | ~10,594 |
+| Damn Good Cup of Coffee | 16.00% | ~10,594 |
+| Wheels Within Wheels | 15.00% | ~9,932 |
+| They're Heeeeeere! | 15.00% | ~9,932 |
+| Missed by a Mile | 15.00% | ~9,932 |
 | Iron Horse | 14.00% | ~9,269 |
 | The Six-Gun Scribe | 14.00% | ~9,269 |
 | Collateral Carnage | 14.00% | ~9,269 |
@@ -38,8 +38,8 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 8.00% | ~5,297 |
 | Departure | 8.00% | ~5,297 |
 | A Friend in Need | 8.00% | ~2,374 |
-| Drink 'Em Both Up | 6.00% | ~3,972 |
-| Hardboiled Writer | 6.00% | ~3,972 |
+| Drink 'Em Both Up | 6.00% | ~3,973 |
+| Hardboiled Writer | 6.00% | ~3,973 |
 | A Friend Indeed | 6.00% | ~1,781 |
 | Ding! | 6.00% | ~1,781 |
 | Children of the Elder God | 5.00% | ~3,310 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,208 (Ranked 89)  
+Progressed: 66,210 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 66 (0.10%) (Ranked 233)
 | 2023-09-23 | 66,060 | 66 |
 | 2023-09-24 | 66,142 | 66 |
 | 2023-09-25 | 66,202 | 66 |
-| 2023-09-26 | 66,208 | 66 |
+| 2023-09-26 | 66,210 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

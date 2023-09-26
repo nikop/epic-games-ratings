@@ -403,9 +403,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_3",
@@ -499,9 +499,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_40",
@@ -547,9 +547,9 @@
       "ID": "achievement_45",
       "SetID": "2cpn27e",
       "Name": "Helpful Heart",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_46",
@@ -625,8 +625,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:03:56.828021+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:04:49.9246603+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-26T04:00:28.7667192+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:03:56.8280558+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:02:37.7714781+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:04:49.9247374+00:00"
 }

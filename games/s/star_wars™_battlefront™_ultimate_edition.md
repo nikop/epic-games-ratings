@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 92.00% | ~178 |
-| Off to a good start | 69.00% | ~133 |
+| New Recruit | 91.00% | ~177 |
+| Off to a good start | 69.00% | ~134 |
 | Do... or do not. There is no try | 47.00% | ~91 |
-| A good blaster at your side | 36.00% | ~69 |
+| A good blaster at your side | 36.00% | ~70 |
 | Scrap collector | 25.00% | ~48 |
-| Great shot, kid! | 24.00% | ~46 |
+| Great shot, kid! | 24.00% | ~47 |
 | The power of the Force | 21.00% | ~41 |
 | Collector | 20.00% | ~39 |
 | I suggest a new strategy | 20.00% | ~39 |
@@ -29,8 +29,8 @@
 | Distinguished | 9.00% | ~17 |
 | Patience you must have | 9.00% | ~17 |
 | Support the troops | 9.00% | ~17 |
-| Determined | 8.00% | ~15 |
-| Not bad for a little furball | 8.00% | ~15 |
+| Determined | 8.00% | ~16 |
+| Not bad for a little furball | 8.00% | ~16 |
 | I've been waiting for you | 7.00% | ~14 |
 | When 900 years old you reach... | 7.00% | ~14 |
 | City in the Clouds | 7.00% | ~14 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.50% | ~1 |
 | Crush them with one swift stroke… | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193 (Ranked 337)  
+Progressed: 194 (Ranked 337)  
 Completed: 1 (0.52%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.52%) (Ranked 159)
 | 2023-09-23 | 102 | 1 |
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
-| 2023-09-26 | 193 | 1 |
+| 2023-09-26 | 194 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

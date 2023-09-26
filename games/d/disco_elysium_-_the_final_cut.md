@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,070 |
-| Biggest Communism Builder | 24.00% | ~30,917 |
-| The World's Most Laughable Centrist | 20.00% | ~25,764 |
+| Goodest Of The Good Cops | 28.00% | ~36,071 |
+| Biggest Communism Builder | 24.00% | ~30,918 |
+| The World's Most Laughable Centrist | 20.00% | ~25,765 |
 | Il Coppo Del'Arte! | 18.00% | ~23,188 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,612 |
 | Hyperstellar Law Official | 16.00% | ~20,612 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,035 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,035 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,747 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,170 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,171 |
 | Unbelievably Boring **** | 9.00% | ~11,594 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,594 |
 | Enemy Of The Physical Realm | 8.00% | ~10,306 |
@@ -31,9 +31,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Massive Torque Dork | 1.00% | ~1,288 |
 | Avowed Inframaterialist | 1.00% | ~1,288 |
 | Committee of la Responsabilité | 0.90% | ~1,159 |
-| Venture into the HARDCORE | 0.90% | ~1,159 |
 | Real Musor | 0.90% | ~1,159 |
 | Baddest Brow in Town | 0.80% | ~1,031 |
+| Venture into the HARDCORE | 0.80% | ~1,031 |
 | Networthy Individual | 0.70% | ~902 |
 | Leopard Mindset | 0.60% | ~773 |
 | Modus: Mullen | 0.30% | ~386 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,822 (Ranked 71)  
+Progressed: 128,824 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 28 (0.02%) (Ranked 267)
 | 2023-09-23 | 128,639 | 28 |
 | 2023-09-24 | 128,733 | 28 |
 | 2023-09-25 | 128,809 | 28 |
-| 2023-09-26 | 128,822 | 28 |
+| 2023-09-26 | 128,824 | 28 |
 ## Awards
 Max (Character Customization): 725  (Ranked 167)  
 Sum: 1,092 (Ranked 238)  

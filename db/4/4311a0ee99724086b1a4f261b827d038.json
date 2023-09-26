@@ -290,9 +290,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 221442,
+  "EOS_Progressed": 221448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2265,
+  "EOS_NewPlayers": 2261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7525,6 +7525,11 @@
       "Time": "2023-09-26T04:06:10.2944486+00:00",
       "NumProgressed": 221442,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T05:08:10.182021+00:00",
+      "NumProgressed": 221448,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -7593,7 +7598,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 44288
+      "UsersEstimate": 44290
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -7721,7 +7726,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28787
+      "UsersEstimate": 28788
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -7793,7 +7798,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55360
+      "UsersEstimate": 55362
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -7808,7 +7813,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 221442,
+      "Progressed": 221448,
       "Completed": 0
     }
   ],
@@ -7816,8 +7821,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-24T19:58:48.7144516+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:06:10.2944482+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:08:10.1820204+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.9329368+00:00",
-  "LastUpdate_Ratings": "2023-09-26T03:59:16.848452+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:06:10.2945025+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:00:52.4377283+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:08:10.1820984+00:00"
 }

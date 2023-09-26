@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12503,9 +12503,9 @@
       "Count": 6377
     }
   ],
-  "EOS_Progressed": 881680,
+  "EOS_Progressed": 881715,
   "EOS_Completed": 2388,
-  "EOS_NewPlayers": 4671,
+  "EOS_NewPlayers": 4702,
   "EOS_NewCompleters": 272,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30308,6 +30308,11 @@
       "Time": "2023-09-26T04:05:07.9641665+00:00",
       "NumProgressed": 881680,
       "NumCompleted": 2388
+    },
+    {
+      "Time": "2023-09-26T05:06:42.4936735+00:00",
+      "NumProgressed": 881715,
+      "NumCompleted": 2388
     }
   ],
   "TotalAchievements": 57,
@@ -30501,9 +30506,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1763
     },
     {
       "ID": "Temperance",
@@ -30517,9 +30522,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 1763
     },
     {
       "ID": "TheDevil",
@@ -30774,21 +30779,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 881680,
+      "Progressed": 881715,
       "Completed": 2388
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10303,
+      "Progressed": 10338,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-26T02:57:13.1163715+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:05:07.964166+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:06:42.4936729+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T03:57:06.4545217+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:05:07.9642887+00:00"
+  "LastUpdate_Ratings": "2023-09-26T04:57:27.8339955+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:06:42.4939712+00:00"
 }

@@ -519,9 +519,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15406,
+  "EOS_Progressed": 15407,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10854,6 +10854,11 @@
       "Time": "2023-09-26T04:04:50.2255502+00:00",
       "NumProgressed": 15406,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-26T05:06:16.9419484+00:00",
+      "NumProgressed": 15407,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10881,7 +10886,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "tpote_achievement_12",
@@ -11129,7 +11134,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6162
+      "UsersEstimate": 6163
     },
     {
       "ID": "tpote_achievement_40",
@@ -11153,7 +11158,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "tpote_achievement_6",
@@ -11161,7 +11166,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "tpote_achievement_7",
@@ -11177,7 +11182,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "tpote_achievement_9",
@@ -11192,15 +11197,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15406,
+      "Progressed": 15407,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-24T23:58:24.5918651+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:04:50.2255498+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:06:16.9419476+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-26T03:58:54.1963777+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:04:50.2256252+00:00"
+  "LastUpdate_Ratings": "2023-09-26T05:00:18.888299+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:06:16.9421262+00:00"
 }

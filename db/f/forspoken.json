@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40062,
+  "EOS_Progressed": 40063,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8937,6 +8937,11 @@
       "Time": "2023-09-26T02:21:40.6033983+00:00",
       "NumProgressed": 40062,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-26T05:07:30.1369861+00:00",
+      "NumProgressed": 40063,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8980,7 +8985,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9004,7 +9009,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9371,22 +9376,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40062,
+      "Progressed": 40063,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4899,
-      "Completed": 4899
+      "Progressed": 4900,
+      "Completed": 4900
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-26T04:05:42.5569667+00:00",
+  "LastChanged_Achievements": "2023-09-26T05:07:30.1369838+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-26T03:57:14.13827+00:00",
-  "LastUpdate_Achievements": "2023-09-26T04:05:42.5570432+00:00"
+  "LastUpdate_Ratings": "2023-09-26T04:57:40.0733976+00:00",
+  "LastUpdate_Achievements": "2023-09-26T05:07:30.1371297+00:00"
 }

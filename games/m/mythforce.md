@@ -6,11 +6,11 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 20.00% | ~641 |
-| That'll Leave a Mark | 20.00% | ~641 |
-| Debuff Dogpile | 19.00% | ~609 |
-| Hit 'Em Where It Hurts | 19.00% | ~609 |
-| Perk Shard Punch Card | 19.00% | ~609 |
+| Faceroll the Bones | 20.00% | ~642 |
+| That'll Leave a Mark | 20.00% | ~642 |
+| Debuff Dogpile | 19.00% | ~610 |
+| Hit 'Em Where It Hurts | 19.00% | ~610 |
+| Perk Shard Punch Card | 19.00% | ~610 |
 | Mushroom Madness! | 18.00% | ~577 |
 | First Strike | 15.00% | ~481 |
 | Horder Better Faster Stronger | 15.00% | ~481 |
@@ -19,18 +19,18 @@ Number of Ratings: 285  (23.09.2022)
 | Ten Steps from the Grave | 12.00% | ~385 |
 | Next Time on MythForce... | 10.00% | ~321 |
 | Cold-Blooded Critters | 9.00% | ~289 |
-| Death Becomes You | 7.00% | ~224 |
+| Death Becomes You | 7.00% | ~225 |
 | Flawless Victory | 6.00% | ~192 |
 | The Harder They Fall | 5.00% | ~160 |
 | On this Episode! | 4.00% | ~128 |
 | Deadication | 3.00% | ~96 |
+| Season Finale | 3.00% | ~96 |
 | We've Got a Kaiju on the Field | 2.00% | ~64 |
-| Season Finale | 2.00% | ~64 |
 | The Fourth Gate | 1.00% | ~32 |
 | Vexed Her | 0.30% | ~10 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,207 (Ranked 183)  
+Progressed: 3,208 (Ranked 183)  
 Completed: 1 (0.03%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,11 +103,11 @@ Completed: 1 (0.03%) (Ranked 264)
 | 2023-09-23 | 3,064 | 0 |
 | 2023-09-24 | 3,142 | 0 |
 | 2023-09-25 | 3,199 | 1 |
-| 2023-09-26 | 3,207 | 1 |
+| 2023-09-26 | 3,208 | 1 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 456)  
-Sum: 274 (Ranked 355)  
-Diff (max vs sum): 101  
+Sum: 275 (Ranked 354)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
@@ -118,7 +118,7 @@ Diff (max vs sum): 101
 | This game has Diverse Characters | 26 |
 | This game has Unique Visuals | 26 |
 | This game has Amazing Storytelling | 24 |
-| This game is Extremely Fun | 22 |
+| This game is Extremely Fun | 23 |
 | This game is Relaxing | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -208,3 +208,4 @@ Diff (max vs sum): 101
 | 2023-09-22 | 4.49 | - | 32 | 268 |
 | 2023-09-23 | 4.49 | - | 34 | 273 |
 | 2023-09-24 | 4.49 | - | 34 | 274 |
+| 2023-09-26 | 4.49 | - | 34 | 275 |

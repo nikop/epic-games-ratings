@@ -5,39 +5,39 @@ Rating: 4.61 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~400 |
+| Marksman | 94.00% | ~405 |
 | Welcome Aboard | 85.00% | ~366 |
-| Lab Rat | 71.00% | ~305 |
+| Lab Rat | 71.00% | ~306 |
 | All Systems Go | 62.00% | ~267 |
-| Brute Force | 61.00% | ~262 |
-| Cannon Fodder | 57.00% | ~245 |
-| Raise the Stakes | 54.00% | ~232 |
+| Brute Force | 61.00% | ~263 |
+| Cannon Fodder | 57.00% | ~246 |
+| Raise the Stakes | 54.00% | ~233 |
 | Autofire | 53.00% | ~228 |
-| True Believer | 50.00% | ~215 |
+| True Believer | 50.00% | ~216 |
 | Story Teller | 49.00% | ~211 |
 | Surgeon | 45.00% | ~194 |
 | Freeze | 43.00% | ~185 |
 | Exterminator | 43.00% | ~185 |
 | Greenhouse Effect | 43.00% | ~185 |
 | Full Arsenal | 40.00% | ~172 |
-| Live with the Hot Ones | 37.00% | ~159 |
-| S.O.S. | 34.00% | ~146 |
+| Live with the Hot Ones | 36.00% | ~155 |
+| S.O.S. | 35.00% | ~151 |
 | Get Off My Ship! | 33.00% | ~142 |
 | Strange Transmissions | 33.00% | ~142 |
 | Wreckage | 32.00% | ~138 |
 | A Cut Above | 30.00% | ~129 |
 | Keeper of the Faith | 29.00% | ~125 |
-| Betrayed | 27.00% | ~116 |
+| Betrayed | 28.00% | ~121 |
 | Legend Teller | 27.00% | ~116 |
 | Front Toward Enemy | 27.00% | ~116 |
 | There's Always Peng! | 27.00% | ~116 |
 | Exodus | 25.00% | ~108 |
 | Mindless Prey | 25.00% | ~108 |
-| Whole Again | 21.00% | ~90 |
+| Whole Again | 21.00% | ~91 |
 | Set A Benchmark | 20.00% | ~86 |
 | Full Contact | 19.00% | ~82 |
-| Final Regeneration | 18.00% | ~77 |
-| Pack Rat | 18.00% | ~77 |
+| Final Regeneration | 18.00% | ~78 |
+| Pack Rat | 18.00% | ~78 |
 | Pusher | 17.00% | ~73 |
 | Z-Baller | 17.00% | ~73 |
 | Full Clearance | 17.00% | ~73 |
@@ -53,8 +53,8 @@ Rating: 4.61 (Ranked 371)
 | Maxed Out | 2.00% | ~9 |
 | Reunion | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430 (Ranked 275)  
-Completed: 2 (0.47%) (Ranked 164)  
+Progressed: 431 (Ranked 274)  
+Completed: 2 (0.46%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,7 +65,7 @@ Completed: 2 (0.47%) (Ranked 164)
 | 2023-09-23 | 301 | 1 |
 | 2023-09-24 | 373 | 2 |
 | 2023-09-25 | 419 | 2 |
-| 2023-09-26 | 430 | 2 |
+| 2023-09-26 | 431 | 2 |
 ## Awards
 Max (Great Boss Battles): 95  (Ranked 351)  
 Sum: 95 (Ranked 424)  

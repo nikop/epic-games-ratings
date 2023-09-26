@@ -54,9 +54,9 @@ Rating: 4.76 (Ranked 119)
 | The Trigger | 1.00% | ~1,865 |
 | Cutting Edge | 1.00% | ~1,865 |
 | Proving Grounds | 1.00% | ~1,865 |
-| Ghost in the Machine | 0.90% | ~1,678 |
+| Ghost in the Machine | 0.90% | ~1,679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,498 (Ranked 65)  
+Progressed: 186,502 (Ranked 65)  
 Completed: 335 (0.18%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 335 (0.18%) (Ranked 213)
 | 2023-09-23 | 185,431 | 328 |
 | 2023-09-24 | 186,027 | 332 |
 | 2023-09-25 | 186,460 | 334 |
-| 2023-09-26 | 186,498 | 335 |
+| 2023-09-26 | 186,502 | 335 |
 ## Awards
 Max (Great Boss Battles): 1,724  (Ranked 118)  
 Sum: 3,543 (Ranked 155)  
