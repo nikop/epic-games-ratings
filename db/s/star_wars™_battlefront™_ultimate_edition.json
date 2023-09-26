@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 206,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -471,6 +471,11 @@
       "Time": "2023-09-26T13:13:40.7368063+00:00",
       "NumProgressed": 204,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T14:08:08.6159976+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -515,7 +520,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_14",
@@ -547,7 +552,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_18",
@@ -577,9 +582,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_21",
@@ -595,7 +600,7 @@
       "Name": "Distinguished",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_23",
@@ -619,7 +624,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_26",
@@ -659,7 +664,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_30",
@@ -675,15 +680,15 @@
       "Name": "Scrap collector",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_33",
@@ -707,7 +712,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_36",
@@ -715,15 +720,15 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_38",
@@ -745,9 +750,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_40",
@@ -755,7 +760,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_41",
@@ -763,7 +768,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_42",
@@ -787,7 +792,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_45",
@@ -803,7 +808,7 @@
       "Name": "Patience you must have",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_47",
@@ -833,9 +838,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_50",
@@ -891,7 +896,7 @@
       "Name": "Support the troops",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_57",
@@ -986,13 +991,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 206,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 204,
+      "Progressed": 206,
       "Completed": 1
     }
   ],
@@ -1000,8 +1005,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-26T13:13:40.7368058+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:08:08.6159971+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:04:34.5913264+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:13:40.7368794+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:57:27.6034676+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:08:08.6160827+00:00"
 }

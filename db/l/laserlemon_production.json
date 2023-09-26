@@ -108,9 +108,9 @@
       "ID": "EndInSight",
       "SetID": "c36hpcf",
       "Name": "End in Sight",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FunAndGamesAhead",
@@ -156,9 +156,9 @@
       "ID": "IsAnybodyOutThere",
       "SetID": "c36hpcf",
       "Name": "Is Anybody Out There?",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KitchenHand",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-26T13:12:15.6040494+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:06:11.6662601+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:07:57.2079766+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:12:15.6040666+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:01:43.4616379+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:06:11.666278+00:00"
 }

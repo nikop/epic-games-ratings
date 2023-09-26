@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 528,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1436,9 +1436,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "GollumChoices",
@@ -1579,8 +1579,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-26T12:09:30.7725672+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:04:25.6740691+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.7265092+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:06:17.6771254+00:00",
-  "LastUpdate_Achievements": "2023-09-26T12:09:30.7725951+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:59:28.8141879+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:04:25.6741082+00:00"
 }

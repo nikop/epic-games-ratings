@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1354,6 +1354,11 @@
       "Time": "2023-09-26T03:03:15.1987341+00:00",
       "NumProgressed": 415,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-26T14:04:45.8401355+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1405,7 +1410,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "scoreminrankrb2",
@@ -1451,9 +1456,9 @@
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "scoreminrankrp3",
@@ -1484,7 +1489,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 2
     }
   ],
@@ -1492,8 +1497,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-26T13:10:30.0185222+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:04:45.840135+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:04:18.2833008+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:10:30.0185518+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:57:08.7333639+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:04:45.8401748+00:00"
 }

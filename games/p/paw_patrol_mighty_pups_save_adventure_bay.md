@@ -9,7 +9,7 @@
 | Summer Day | 64.00% | ~18 |
 | Pup Pup Boogie | 61.00% | ~17 |
 | Mr. Porter | 54.00% | ~15 |
-| Risky Rescue | 50.00% | ~14 |
+| Risky Rescue | 54.00% | ~15 |
 | Carlos Is Tangled | 46.00% | ~13 |
 | Mandy Family | 43.00% | ~12 |
 | Paw patrol member | 36.00% | ~10 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 458)  
+Progressed: 28 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |

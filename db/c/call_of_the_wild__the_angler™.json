@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5895,
+  "EOS_Progressed": 5896,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7866,6 +7866,11 @@
       "Time": "2023-09-26T13:11:22.035201+00:00",
       "NumProgressed": 5895,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T14:05:27.0723732+00:00",
+      "NumProgressed": 5896,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7877,7 +7882,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4657
+      "UsersEstimate": 4658
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7885,7 +7890,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7909,7 +7914,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7917,7 +7922,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7933,7 +7938,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7941,7 +7946,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -7949,7 +7954,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7957,7 +7962,7 @@
       "Name": "More than a Tourist",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -8156,13 +8161,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5895,
+      "Progressed": 5896,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5267,
+      "Progressed": 5268,
       "Completed": 112
     }
   ],
@@ -8170,8 +8175,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-26T08:59:16.8417629+00:00",
-  "LastChanged_Achievements": "2023-09-26T13:11:22.0352006+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:05:27.0723727+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:07:17.7589659+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:11:22.0352721+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:00:50.1896293+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:05:27.0724351+00:00"
 }

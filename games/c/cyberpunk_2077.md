@@ -6,12 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ten out of Ten | 0.50% | ~4,410 |
 | Rough Landing | 0.50% | ~4,410 |
 | Gunslinger | 0.40% | ~3,528 |
-| Ten out of Ten | 0.40% | ~3,528 |
+| The Jungle | 0.40% | ~3,528 |
 | Master Crafter | 0.30% | ~2,646 |
 | Mean Streets | 0.30% | ~2,646 |
-| The Jungle | 0.30% | ~2,646 |
+| The High Priestess | 0.30% | ~2,646 |
 | Two Heads, One Bullet | 0.30% | ~2,646 |
 | V for Vendetta | 0.30% | ~2,646 |
 | To Bad Decisions! | 0.20% | ~1,764 |
@@ -20,11 +21,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.20% | ~1,764 |
 | Stanislavski's Method | 0.20% | ~1,764 |
 | Temperance | 0.20% | ~1,764 |
+| The Devil | 0.20% | ~1,764 |
 | The Hermit | 0.20% | ~1,764 |
-| The High Priestess | 0.20% | ~1,764 |
 | The Wheel of Fortune | 0.20% | ~1,764 |
 | True Soldier | 0.20% | ~1,764 |
 | True Warrior | 0.20% | ~1,764 |
+| It's Elementary | 0.20% | ~1,764 |
 | Legend of The Afterlife | 0.20% | ~1,764 |
 | City Lights | 0.10% | ~882 |
 | Bushido and Chill | 0.10% | ~882 |
@@ -41,7 +43,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 0.10% | ~882 |
 | Daemon In The Shell | 0.10% | ~882 |
 | Life of the Road | 0.10% | ~882 |
-| The Devil | 0.10% | ~882 |
 | The Fool | 0.10% | ~882 |
 | The Lovers | 0.10% | ~882 |
 | The Star | 0.10% | ~882 |
@@ -49,7 +50,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.10% | ~882 |
 | Greetings from Pacifica! | 0.10% | ~882 |
 | Judy vs Night City | 0.10% | ~882 |
-| It's Elementary | 0.10% | ~882 |
 | The APB is Not Enough | 0.10% | ~11 |
 | Spin Doctor | 0.10% | ~11 |
 | Relic Ruler | 0.10% | ~11 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881,994 (Ranked 15)  
+Progressed: 882,041 (Ranked 15)  
 Completed: 2,402 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,17 +223,17 @@ Completed: 2,402 (0.27%) (Ranked 197)
 | 2023-09-23 | 879,857 | 2,297 |
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
-| 2023-09-26 | 881,994 | 2,402 |
+| 2023-09-26 | 882,041 | 2,402 |
 ## Awards
-Max (Character Customization): 81,778  (Ranked 9)  
-Sum: 223,281 (Ranked 13)  
+Max (Character Customization): 82,928  (Ranked 9)  
+Sum: 224,729 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 81,778 |
+| This game has Inclusive Character Customization | 82,928 |
 | This game has Great Boss Battles | 54,102 |
+| This game has Diverse Characters | 10,569 |
 | This game is Great for Beginners | 10,503 |
-| This game has Diverse Characters | 10,271 |
 | This game is Extremely Fun | 10,234 |
 | This game has Amazing Storytelling | 10,175 |
 | This game is Highly Recommended | 10,116 |
@@ -494,4 +494,4 @@ Diff (max vs sum): -4
 | 2023-09-23 | 4.62 | - | 80,565 | 217,303 |
 | 2023-09-24 | 4.62 | - | 81,210 | 219,602 |
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
-| 2023-09-26 | 4.63 | - | 81,778 | 223,281 |
+| 2023-09-26 | 4.63 | - | 82,928 | 224,729 |

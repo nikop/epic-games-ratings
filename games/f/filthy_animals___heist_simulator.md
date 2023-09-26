@@ -10,6 +10,7 @@
 | Sewer Objectives Complete | 1.00% | ~82 |
 | Bank Heisted | 0.60% | ~49 |
 | Crocodile Maxed Out | 0.20% | ~16 |
+| Nuclear Plant Heisted | 0.20% | ~16 |
 | All Objectives Complete | 0.10% | ~8 |
 | All Gold Chest Slots Unlocked | 0.10% | ~8 |
 | Bandit Camp Heisted | 0.10% | ~8 |
@@ -19,7 +20,6 @@
 | Military Base Heisted | 0.10% | ~8 |
 | Monkey Maxed Out | 0.10% | ~8 |
 | Moose Maxed Out | 0.10% | ~8 |
-| Nuclear Plant Heisted | 0.10% | ~8 |
 | Prison Objectives Complete | 0.10% | ~8 |
 | Prison Heisted | 0.10% | ~8 |
 | Got All The Serums | 0.00% | ~0 |

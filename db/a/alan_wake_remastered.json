@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66215,
+  "EOS_Progressed": 66216,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
@@ -15939,6 +15939,11 @@
       "Time": "2023-09-26T12:07:39.2347227+00:00",
       "NumProgressed": 66215,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-26T14:08:30.6013454+00:00",
+      "NumProgressed": 66216,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -15950,7 +15955,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27810
+      "UsersEstimate": 27811
     },
     {
       "ID": "02",
@@ -15982,7 +15987,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15229
+      "UsersEstimate": 15230
     },
     {
       "ID": "06",
@@ -16174,7 +16179,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10594
+      "UsersEstimate": 10595
     },
     {
       "ID": "30",
@@ -16310,7 +16315,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10594
+      "UsersEstimate": 10595
     },
     {
       "ID": "47",
@@ -16422,7 +16427,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "61",
@@ -16485,21 +16490,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66215,
+      "Progressed": 66216,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29683,
+      "Progressed": 29684,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-26T13:14:16.685229+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:08:30.6013448+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:09:14.5138374+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:14:16.6853928+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:03:32.3680311+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:08:30.6016003+00:00"
 }

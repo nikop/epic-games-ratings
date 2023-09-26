@@ -12429,18 +12429,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 223281,
       "NumberOfAwardsMax": 81778
+    },
+    {
+      "Time": "2023-09-26T13:57:28.0041972+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 224729,
+      "NumberOfAwardsMax": 82928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 223281,
-  "NumberOfAwardsMax": 81778,
+  "NumberOfAwards": 224729,
+  "NumberOfAwardsMax": 82928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 81778
+      "Count": 82928
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12452,7 +12458,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10271
+      "Count": 10569
     },
     {
       "Text": "This game is Relaxing",
@@ -12509,10 +12515,10 @@
       "Count": 6377
     }
   ],
-  "EOS_Progressed": 881994,
+  "EOS_Progressed": 882041,
   "EOS_Completed": 2402,
-  "EOS_NewPlayers": 4928,
-  "EOS_NewCompleters": 285,
+  "EOS_NewPlayers": 4966,
+  "EOS_NewCompleters": 284,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30359,6 +30365,11 @@
       "Time": "2023-09-26T13:13:18.1954991+00:00",
       "NumProgressed": 881994,
       "NumCompleted": 2402
+    },
+    {
+      "Time": "2023-09-26T14:07:37.8753473+00:00",
+      "NumProgressed": 882041,
+      "NumCompleted": 2402
     }
   ],
   "TotalAchievements": 57,
@@ -30552,9 +30563,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3528
+      "UsersEstimate": 4410
     },
     {
       "ID": "Temperance",
@@ -30576,9 +30587,9 @@
       "ID": "TheDevil",
       "SetID": "47clieb",
       "Name": "The Devil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "TheFool",
@@ -30600,9 +30611,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 2646
     },
     {
       "ID": "TheLovers",
@@ -30656,9 +30667,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2646
+      "UsersEstimate": 3528
     },
     {
       "ID": "TrueSoldier",
@@ -30704,9 +30715,9 @@
       "ID": "YipMan",
       "SetID": "47clieb",
       "Name": "It\u0027s Elementary",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 1764
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -30825,21 +30836,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 881994,
+      "Progressed": 882041,
       "Completed": 2402
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 10617,
+      "Progressed": 10664,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-26T07:57:12.2749901+00:00",
-  "LastChanged_Achievements": "2023-09-26T13:13:18.1954986+00:00",
+  "LastChanged": "2023-09-26T13:57:28.004197+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:07:37.8753468+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:04:34.8653854+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:13:18.1956571+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:57:28.0041979+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:07:37.8755252+00:00"
 }

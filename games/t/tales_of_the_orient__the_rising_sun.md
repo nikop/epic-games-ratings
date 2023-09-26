@@ -7,13 +7,13 @@
 | Good Start | 83.00% | ~15 |
 | Constructor | 83.00% | ~15 |
 | Happy Ending | 83.00% | ~15 |
+| 10 is good! | 61.00% | ~11 |
 | 1 Hour! | 61.00% | ~11 |
-| 10 is good! | 56.00% | ~10 |
 | One-quarter mark | 39.00% | ~7 |
 | Half way! | 28.00% | ~5 |
+| 5 Hours! | 28.00% | ~5 |
 | 10 Hours! | 22.00% | ~4 |
 | Almost there! | 22.00% | ~4 |
-| 5 Hours! | 22.00% | ~4 |
 | You did it! | 11.00% | ~2 |
 | I can't stop playing! | 6.00% | ~1 |
 | Keep Going | 0.00% | ~0 |

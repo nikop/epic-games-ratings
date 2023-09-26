@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -183,6 +183,11 @@
       "Time": "2023-08-25T22:04:46.5315179+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-26T14:10:29.4519076+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -320,7 +325,7 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -384,7 +389,7 @@
       "ID": "ach_win_anger",
       "SetID": "7flpkel",
       "Name": "Deal with Anger",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -440,7 +445,7 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -473,7 +478,7 @@
     {
       "ID": "7flpkel",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
@@ -481,8 +486,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-09-26T13:15:41.0378926+00:00",
+  "LastChanged_Achievements": "2023-09-26T14:10:29.4519071+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.6051256+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:04:44.7713516+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:15:41.0379209+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:57:38.9276974+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:10:29.4519432+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,872 |
-| He's Signed! | 50.00% | ~236,872 |
-| First Victory | 50.00% | ~236,872 |
+| Clean Sheet | 50.00% | ~236,873 |
+| He's Signed! | 50.00% | ~236,873 |
+| First Victory | 50.00% | ~236,873 |
 | He's Sold! | 48.00% | ~227,398 |
 | I'm The Boss! | 42.00% | ~198,973 |
-| Hat-trick | 41.00% | ~194,235 |
+| Hat-trick | 41.00% | ~194,236 |
 | Scoring Streak | 38.00% | ~180,023 |
 | Unbeatable! | 37.00% | ~175,286 |
 | Thumping | 37.00% | ~175,286 |
 | Superb Dressing Room Atmosphere | 35.00% | ~165,811 |
-| Total Support | 32.00% | ~151,598 |
-| Record Signing | 32.00% | ~151,598 |
+| Total Support | 32.00% | ~151,599 |
+| Record Signing | 32.00% | ~151,599 |
 | He's a Natural | 31.00% | ~146,861 |
 | Millionaire's Club | 31.00% | ~146,861 |
 | Team Performance | 30.00% | ~142,124 |
@@ -35,8 +35,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 24.00% | ~113,699 |
 | Iron Curtain | 24.00% | ~113,699 |
 | The Boss | 24.00% | ~113,699 |
-| Top Of The Class | 23.00% | ~108,961 |
-| Goal Machine | 23.00% | ~108,961 |
+| Top Of The Class | 23.00% | ~108,962 |
+| Goal Machine | 23.00% | ~108,962 |
 | Splashing The Cash | 22.00% | ~104,224 |
 | Clean Bill of Health | 22.00% | ~104,224 |
 | What A Goal! | 22.00% | ~104,224 |
@@ -53,11 +53,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~66,324 |
 | Comeback King! | 14.00% | ~66,324 |
 | You're Up! | 13.00% | ~61,587 |
-| Money, Money, Money | 12.00% | ~56,849 |
-| Superb Strike | 10.00% | ~47,374 |
-| International Superstar | 10.00% | ~47,374 |
-| Invincible! | 10.00% | ~47,374 |
-| Best In The World | 10.00% | ~47,374 |
+| Money, Money, Money | 12.00% | ~56,850 |
+| Superb Strike | 10.00% | ~47,375 |
+| International Superstar | 10.00% | ~47,375 |
+| Invincible! | 10.00% | ~47,375 |
+| Best In The World | 10.00% | ~47,375 |
 | Best In Europe | 9.00% | ~42,637 |
 | National Service | 9.00% | ~42,637 |
 | Headhunted | 9.00% | ~42,637 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,745 (Ranked 36)  
+Progressed: 473,746 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 21 (0.00%) (Ranked 293)
 | 2023-09-23 | 473,627 | 21 |
 | 2023-09-24 | 473,686 | 21 |
 | 2023-09-25 | 473,723 | 21 |
-| 2023-09-26 | 473,745 | 21 |
+| 2023-09-26 | 473,746 | 21 |
 ## Awards
 Max (Relaxing): 6,453  (Ranked 54)  
 Sum: 50,784 (Ranked 26)  

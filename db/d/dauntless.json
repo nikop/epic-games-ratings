@@ -2,7 +2,7 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 638,
@@ -9219,6 +9219,6 @@
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
   "LastChanged": "2023-09-26T08:57:28.7196525+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.8071361+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:04:53.2226597+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:10:37.5669472+00:00"
+  "LastUpdate_Ratings": "2023-09-26T13:57:50.6818432+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:04:56.098471+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 418,
-  "Ranking_Popularity": 235,
+  "Ranking_Rating": 402,
+  "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 293,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -6564,11 +6564,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 3024,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2023-09-26T14:00:14.6705891+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3044,
+      "NumberOfAwardsMax": 334
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3024,
-  "NumberOfAwardsMax": 329,
+  "NumberOfAwards": 3044,
+  "NumberOfAwardsMax": 334,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -6581,25 +6587,25 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 296
+      "Count": 297
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 302
+      "Count": 307
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 329
+      "Count": 334
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 296
+      "Count": 299
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6611,7 +6617,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 255
+      "Count": 258
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6623,7 +6629,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 265
+      "Count": 267
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6635,7 +6641,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6656,8 +6662,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-09-25T10:58:36.4432226+00:00",
+  "LastChanged": "2023-09-26T14:00:14.6705889+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.2657962+00:00",
-  "LastUpdate_Ratings": "2023-09-26T13:06:54.0626399+00:00",
-  "LastUpdate_Achievements": "2023-09-26T13:11:12.3992424+00:00"
+  "LastUpdate_Ratings": "2023-09-26T14:00:14.6705896+00:00",
+  "LastUpdate_Achievements": "2023-09-26T14:05:14.5294607+00:00"
 }
