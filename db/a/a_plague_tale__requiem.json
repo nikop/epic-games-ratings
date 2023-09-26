@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -460,7 +460,7 @@
   ],
   "EOS_Progressed": 13324,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -9274,9 +9274,9 @@
       "ID": "ACH_20",
       "SetID": "9d4cf4c",
       "Name": "Explorer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_21",
@@ -9411,8 +9411,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-24T21:58:12.3326453+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:07:14.3980349+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:07:44.8246466+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:59:34.6945865+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:07:14.3980965+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:59:45.5020343+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:07:44.8247453+00:00"
 }

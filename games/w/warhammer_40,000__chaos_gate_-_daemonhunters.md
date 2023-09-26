@@ -46,6 +46,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
 | Reign of Confusion | 0.30% | ~10 |
+| Suffer Not the Mutant | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~6 |
 | Blood and Iron | 0.20% | ~6 |
 | Clean Slate | 0.20% | ~6 |
@@ -54,7 +55,6 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.20% | ~6 |
 | Abomination | 0.20% | ~6 |
 | Killing Rampage | 0.20% | ~6 |
-| Suffer Not the Mutant | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |

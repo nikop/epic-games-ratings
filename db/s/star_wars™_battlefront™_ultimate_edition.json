@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -501,6 +501,11 @@
       "Time": "2023-09-26T20:07:57.2409565+00:00",
       "NumProgressed": 212,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T21:08:30.8265041+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -545,7 +550,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_14",
@@ -649,7 +654,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_26",
@@ -665,7 +670,7 @@
       "Name": "Your journey has only started",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_28",
@@ -689,7 +694,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_30",
@@ -729,7 +734,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_35",
@@ -737,7 +742,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_36",
@@ -753,7 +758,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_38",
@@ -769,7 +774,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_4",
@@ -777,7 +782,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_40",
@@ -817,7 +822,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_45",
@@ -881,7 +886,7 @@
       "Name": "You have your moments",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_52",
@@ -951,9 +956,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_60",
@@ -1016,13 +1021,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 1
     }
   ],
@@ -1030,8 +1035,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:07:57.2409561+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:08:30.8265034+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:57:33.8931038+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:07:57.2410167+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:57:29.24909+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:08:30.8266186+00:00"
 }

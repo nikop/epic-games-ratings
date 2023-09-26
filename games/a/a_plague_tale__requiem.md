@@ -37,8 +37,8 @@ Rating: 4.73 (Ranked 164)
 | Ornithologist | 5.00% | ~666 |
 | Immortal memories | 4.00% | ~533 |
 | Sneaky | 4.00% | ~533 |
+| Explorer | 2.00% | ~266 |
 | Old protector | 2.00% | ~266 |
-| Explorer | 1.00% | ~133 |
 | Malignant | 1.00% | ~133 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,324 (Ranked 131)  

@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15424,
+  "EOS_Progressed": 15425,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10915,6 +10915,11 @@
       "Time": "2023-09-26T20:04:29.5594395+00:00",
       "NumProgressed": 15424,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-26T21:04:49.4040776+00:00",
+      "NumProgressed": 15425,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10934,7 +10939,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "tpote_achievement_11",
@@ -10982,7 +10987,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "tpote_achievement_17",
@@ -11030,7 +11035,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4627
+      "UsersEstimate": 4628
     },
     {
       "ID": "tpote_achievement_22",
@@ -11126,7 +11131,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "tpote_achievement_33",
@@ -11238,7 +11243,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3393
+      "UsersEstimate": 3394
     },
     {
       "ID": "tpote_achievement_9",
@@ -11246,22 +11251,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15424,
+      "Progressed": 15425,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:04:29.5594383+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:04:49.4040763+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:00:57.6029203+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:04:29.5603844+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:01:07.8313718+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:04:49.4054825+00:00"
 }

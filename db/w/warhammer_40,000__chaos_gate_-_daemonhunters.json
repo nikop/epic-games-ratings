@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -4056,9 +4056,9 @@
       "ID": "Kills_TaintedSons_Execution",
       "SetID": "2im8phi",
       "Name": "Suffer Not the Mutant",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -4094,8 +4094,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:06:31.4088626+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:06:59.6993075+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:58:01.4461549+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:06:31.4089344+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:58:00.5158836+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:06:59.6993939+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -82,7 +82,7 @@
   "Tags": [],
   "EOS_Progressed": 674,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
@@ -1904,9 +1904,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 256
     },
     {
       "ID": "_05_FinishAct2",
@@ -2097,8 +2097,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-25T10:57:27.3767102+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:07:25.084857+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:07:55.9984843+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:58:05.7591986+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:07:25.0848813+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:58:11.287941+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:07:55.9985197+00:00"
 }

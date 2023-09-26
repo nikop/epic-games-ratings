@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | I like parks | 5.00% | ~18 |
 | Small town | 5.00% | ~18 |
+| The woodcutter | 3.00% | ~11 |
 | It is nice to share with friends in the city | 3.00% | ~11 |
 | Sport is good for you | 3.00% | ~11 |
 | I like books | 2.00% | ~7 |
 | The spiritual world... | 2.00% | ~7 |
 | I like my life | 2.00% | ~7 |
-| The woodcutter | 2.00% | ~7 |
 | Soviet town | 2.00% | ~7 |
 | Clean energy | 1.00% | ~4 |
 | Bucolic city | 1.00% | ~4 |
@@ -21,6 +21,7 @@
 | Banking city | 0.30% | ~1 |
 | Food producer | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
+| City crisis | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | King of fish | 0.30% | ~1 |
@@ -39,7 +40,6 @@
 | I can't see the sky | 0.00% | ~0 |
 | I can't breathe | 0.00% | ~0 |
 | Urban style | 0.00% | ~0 |
-| City crisis | 0.00% | ~0 |
 | Collapsed city | 0.00% | ~0 |
 | Read! Everyone should read! | 0.00% | ~0 |
 | Full desert | 0.00% | ~0 |

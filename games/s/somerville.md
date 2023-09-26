@@ -6,7 +6,7 @@ Rating: 4.20 (Ranked 873)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | “Occupied!“ | 1.00% | ~16 |
-| Worlds best dad | 0.90% | ~15 |
+| Worlds best dad | 1.00% | ~16 |
 | Resignation Reprise | 0.50% | ~8 |
 | Admiring the view | 0.50% | ~8 |
 | Resignation | 0.40% | ~7 |

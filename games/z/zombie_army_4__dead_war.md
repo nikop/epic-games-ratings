@@ -6,23 +6,23 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,032 |
-| Say goodbye, creep! | 66.00% | ~28,726 |
-| Blood splattered | 65.00% | ~28,291 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,033 |
+| Say goodbye, creep! | 66.00% | ~28,727 |
+| Blood splattered | 65.00% | ~28,292 |
 | Choo choo! | 62.00% | ~26,986 |
-| Groovy | 61.00% | ~26,550 |
-| Cleanup on aisle 4! | 57.00% | ~24,809 |
-| Gold | 50.00% | ~21,762 |
-| The boat can leave now...tell the crew | 49.00% | ~21,327 |
+| Groovy | 61.00% | ~26,551 |
+| Cleanup on aisle 4! | 57.00% | ~24,810 |
+| Gold | 50.00% | ~21,763 |
+| The boat can leave now...tell the crew | 49.00% | ~21,328 |
 | Give me something to shoot! | 47.00% | ~20,457 |
 | Stand back boy! | 47.00% | ~20,457 |
-| Chain reaction | 45.00% | ~19,586 |
+| Chain reaction | 45.00% | ~19,587 |
 | Weird science | 44.00% | ~19,151 |
-| What did you say, Blain? | 42.00% | ~18,280 |
-| Look mummy! A shark! | 41.00% | ~17,845 |
+| What did you say, Blain? | 42.00% | ~18,281 |
+| Look mummy! A shark! | 41.00% | ~17,846 |
 | In the dark dark woods... | 39.00% | ~16,975 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,540 |
-| Double tap | 37.00% | ~16,104 |
+| Double tap | 37.00% | ~16,105 |
 | All of this has happened before… | 36.00% | ~15,669 |
 | Cranial blowout! | 36.00% | ~15,669 |
 | Zombie killin' machine | 36.00% | ~15,669 |
@@ -39,7 +39,7 @@ Number of Ratings: 743  (23.09.2022)
 | Shock therapy | 23.00% | ~10,011 |
 | Leave the limbs you've lost | 23.00% | ~10,011 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,270 |
-| Take them down screaming | 18.00% | ~7,834 |
+| Take them down screaming | 18.00% | ~7,835 |
 | Bad Blood | 17.00% | ~7,399 |
 | Weapons expert | 17.00% | ~7,399 |
 | The bigger they are... | 15.00% | ~6,529 |
@@ -69,11 +69,11 @@ Number of Ratings: 743  (23.09.2022)
 | People don't change. We go round in circles | 3.00% | ~1,306 |
 | The blighters got through a second time. | 3.00% | ~1,306 |
 | I'm a survivor! | 3.00% | ~1,306 |
-| That's a lot of them, and only 4 of us | 2.00% | ~870 |
+| That's a lot of them, and only 4 of us | 2.00% | ~871 |
 | Just me and my trusty sidearm | 1.00% | ~435 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,525 (Ranked 98)  
+Progressed: 43,526 (Ranked 98)  
 Completed: 25 (0.06%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 25 (0.06%) (Ranked 249)
 | 2023-09-23 | 43,518 | 25 |
 | 2023-09-24 | 43,521 | 25 |
 | 2023-09-25 | 43,524 | 25 |
-| 2023-09-26 | 43,525 | 25 |
+| 2023-09-26 | 43,526 | 25 |
 ## Awards
 Max (Great Boss Battles): 827  (Ranked 156)  
 Sum: 2,501 (Ranked 179)  

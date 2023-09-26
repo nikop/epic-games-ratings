@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,602 |
-| Welcome To Hell-A | 3.00% | ~20,602 |
+| Hotel California | 3.00% | ~20,603 |
+| Welcome To Hell-A | 3.00% | ~20,603 |
 | Dr. Reed, I Presume? | 2.00% | ~13,735 |
 | Git Gutte! | 2.00% | ~13,735 |
 | Bookworm | 2.00% | ~13,735 |
@@ -24,21 +24,21 @@ Rating: 4.54 (Ranked 510)
 | Stacking the Deck | 2.00% | ~13,735 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,735 |
 | This is My Weapon | 2.00% | ~13,735 |
-| Making Your Mark | 1.00% | ~6,867 |
-| Anger Management | 1.00% | ~6,867 |
-| Perks of the Job | 1.00% | ~6,867 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,867 |
-| Ooh, Shiny! | 1.00% | ~6,867 |
-| Humanity Distilled | 1.00% | ~6,867 |
-| I Am the Resurrection | 1.00% | ~6,867 |
-| Down with the Sickness | 1.00% | ~6,867 |
-| Our True Nature | 1.00% | ~6,867 |
+| Making Your Mark | 1.00% | ~6,868 |
+| Anger Management | 1.00% | ~6,868 |
+| Perks of the Job | 1.00% | ~6,868 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,868 |
+| Ooh, Shiny! | 1.00% | ~6,868 |
+| Humanity Distilled | 1.00% | ~6,868 |
+| I Am the Resurrection | 1.00% | ~6,868 |
+| Down with the Sickness | 1.00% | ~6,868 |
+| Our True Nature | 1.00% | ~6,868 |
 | Max Headroom | 0.90% | ~6,181 |
 | Go, Bobcats! | 0.80% | ~5,494 |
 | Rising Star | 0.80% | ~5,494 |
 | Smorgasbord | 0.70% | ~4,807 |
 | Jumbo Keyring | 0.70% | ~4,807 |
-| Internet Famous | 0.60% | ~4,120 |
+| Internet Famous | 0.60% | ~4,121 |
 | Make it So | 0.50% | ~3,434 |
 | On Safari | 0.50% | ~3,434 |
 | Not Even My Final Form | 0.50% | ~3,434 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,731 (Ranked 22)  
+Progressed: 686,764 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,14 +210,14 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-23 | 685,164 | 2,169 |
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
-| 2023-09-26 | 686,731 | 2,176 |
+| 2023-09-26 | 686,764 | 2,176 |
 ## Awards
-Max (Great Boss Battles): 6,204  (Ranked 57)  
-Sum: 9,239 (Ranked 92)  
+Max (Great Boss Battles): 6,217  (Ranked 57)  
+Sum: 9,252 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,204 |
+| This game has Great Boss Battles | 6,217 |
 | This game is Great for Beginners | 432 |
 | This game has Diverse Characters | 421 |
 | This game has Quickly Understood Controls | 406 |
@@ -387,4 +387,4 @@ Diff (max vs sum): -35
 | 2023-09-23 | 4.54 | 6,175 | 9,178 |
 | 2023-09-24 | 4.54 | 6,188 | 9,207 |
 | 2023-09-25 | 4.54 | 6,204 | 9,227 |
-| 2023-09-26 | 4.54 | 6,204 | 9,239 |
+| 2023-09-26 | 4.54 | 6,217 | 9,252 |

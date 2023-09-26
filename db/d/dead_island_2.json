@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4810,18 +4810,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 9239,
       "NumberOfAwardsMax": 6204
+    },
+    {
+      "Time": "2023-09-26T20:58:23.9215307+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9252,
+      "NumberOfAwardsMax": 6217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9239,
-  "NumberOfAwardsMax": 6204,
+  "NumberOfAwards": 9252,
+  "NumberOfAwardsMax": 6217,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6204
+      "Count": 6217
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4872,9 +4878,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686731,
+  "EOS_Progressed": 686764,
   "EOS_Completed": 2176,
-  "EOS_NewPlayers": 3948,
+  "EOS_NewPlayers": 3961,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22822,6 +22828,11 @@
       "Time": "2023-09-26T20:04:46.9033947+00:00",
       "NumProgressed": 686731,
       "NumCompleted": 2176
+    },
+    {
+      "Time": "2023-09-26T21:05:08.1300989+00:00",
+      "NumProgressed": 686764,
+      "NumCompleted": 2176
     }
   ],
   "TotalAchievements": 45,
@@ -22841,7 +22852,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_ammo_ran",
@@ -22857,7 +22868,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -22881,7 +22892,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_bookworm",
@@ -22913,7 +22924,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -22993,7 +23004,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20602
+      "UsersEstimate": 20603
     },
     {
       "ID": "ach_impressive_aim",
@@ -23009,7 +23020,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4120
+      "UsersEstimate": 4121
     },
     {
       "ID": "ach_investigator",
@@ -23049,7 +23060,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_magnum_opus",
@@ -23073,7 +23084,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_revival_tour",
@@ -23081,7 +23092,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_salvation",
@@ -23089,7 +23100,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_secrets_of_la",
@@ -23145,7 +23156,7 @@
       "Name": "Our True Nature",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -23169,7 +23180,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20602
+      "UsersEstimate": 20603
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23192,22 +23203,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686731,
+      "Progressed": 686764,
       "Completed": 2176
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12272,
-      "Completed": 12272
+      "Progressed": 12305,
+      "Completed": 12305
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-26T16:57:55.7434969+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:04:46.9033942+00:00",
+  "LastChanged": "2023-09-26T20:58:23.9215305+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:05:08.1300981+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:58:17.6413177+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:04:46.9035076+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:58:23.9215313+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:05:08.1303168+00:00"
 }

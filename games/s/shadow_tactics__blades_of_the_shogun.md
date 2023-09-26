@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~22,498 |
-| A thief's beginning | 10.00% | ~20,452 |
-| Thorough | 10.00% | ~20,452 |
+| A thief's beginning | 10.00% | ~20,453 |
+| Thorough | 10.00% | ~20,453 |
 | Disguised | 8.00% | ~16,362 |
 | Rescue Takuma | 8.00% | ~16,362 |
 | Rollin' | 8.00% | ~16,362 |
@@ -22,20 +22,20 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~12,272 |
 | Mugen Unchained | 6.00% | ~12,272 |
 | Warzone | 6.00% | ~12,272 |
-| Okkoto | 5.00% | ~10,226 |
-| Prisoners | 5.00% | ~10,226 |
-| Too Early | 5.00% | ~10,226 |
+| Okkoto | 5.00% | ~10,227 |
+| Prisoners | 5.00% | ~10,227 |
+| Too Early | 5.00% | ~10,227 |
 | Gear up | 4.00% | ~8,181 |
 | Happy little accidents | 4.00% | ~8,181 |
 | Still Rollin' | 4.00% | ~8,181 |
 | Noboru | 3.00% | ~6,136 |
 | Stoned | 3.00% | ~6,136 |
 | The Old Way | 3.00% | ~6,136 |
-| Atheist Ox | 2.00% | ~4,090 |
-| It's raining men | 2.00% | ~4,090 |
-| No Gimmicks | 2.00% | ~4,090 |
-| Old Man | 2.00% | ~4,090 |
-| Winner Winner | 2.00% | ~4,090 |
+| Atheist Ox | 2.00% | ~4,091 |
+| It's raining men | 2.00% | ~4,091 |
+| No Gimmicks | 2.00% | ~4,091 |
+| Old Man | 2.00% | ~4,091 |
+| Winner Winner | 2.00% | ~4,091 |
 | Meticulous | 1.00% | ~2,045 |
 | The End | 1.00% | ~2,045 |
 | Undeserved Honor | 1.00% | ~2,045 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,525 (Ranked 62)  
+Progressed: 204,531 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 86 (0.04%) (Ranked 258)
 | 2023-09-23 | 203,944 | 86 |
 | 2023-09-24 | 204,189 | 86 |
 | 2023-09-25 | 204,356 | 86 |
-| 2023-09-26 | 204,525 | 86 |
+| 2023-09-26 | 204,531 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,775 (Ranked 136)  

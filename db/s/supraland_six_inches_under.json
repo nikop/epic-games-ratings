@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2088,9 +2088,9 @@
       "ID": "MagnetRepel",
       "SetID": "5lok9mm",
       "Name": "Magnet Repel",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1977
+      "UsersEstimate": 2000
     },
     {
       "ID": "Map",
@@ -2288,8 +2288,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-09-21T18:57:14.0312903+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:06:00.5361215+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:06:26.7411426+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:41.5945753+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:00:19.9985905+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:06:00.5361653+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:00:28.9715224+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:06:26.7412029+00:00"
 }

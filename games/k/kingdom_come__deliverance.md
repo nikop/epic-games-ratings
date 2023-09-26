@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,881 |
-| Cavalier | 25.00% | ~200,688 |
-| Fatso | 23.00% | ~184,633 |
-| Awakening | 21.00% | ~168,578 |
-| Ranger | 20.00% | ~160,551 |
-| Scrooge | 20.00% | ~160,551 |
-| Anorectic | 16.00% | ~128,441 |
-| Bookworm | 15.00% | ~120,413 |
-| Firestarter | 15.00% | ~120,413 |
-| Insomniac | 13.00% | ~104,358 |
-| Buddy | 12.00% | ~96,330 |
-| Thief | 12.00% | ~96,330 |
-| Sinner | 11.00% | ~88,303 |
-| Traveller | 11.00% | ~88,303 |
-| Convict | 10.00% | ~80,275 |
-| Haggler | 9.00% | ~72,248 |
+| Blacksmith's Son | 32.00% | ~256,884 |
+| Cavalier | 25.00% | ~200,690 |
+| Fatso | 23.00% | ~184,635 |
+| Awakening | 21.00% | ~168,580 |
+| Ranger | 20.00% | ~160,552 |
+| Scrooge | 20.00% | ~160,552 |
+| Anorectic | 16.00% | ~128,442 |
+| Bookworm | 15.00% | ~120,414 |
+| Firestarter | 15.00% | ~120,414 |
+| Insomniac | 13.00% | ~104,359 |
+| Buddy | 12.00% | ~96,331 |
+| Thief | 12.00% | ~96,331 |
+| Sinner | 11.00% | ~88,304 |
+| Traveller | 11.00% | ~88,304 |
+| Convict | 10.00% | ~80,276 |
+| Haggler | 9.00% | ~72,249 |
 | McLovin | 7.00% | ~56,193 |
 | Runt | 7.00% | ~56,193 |
-| Casanova | 6.00% | ~48,165 |
+| Casanova | 6.00% | ~48,166 |
 | Bad Trip | 5.00% | ~40,138 |
 | Monk | 5.00% | ~40,138 |
 | Serial Killer | 5.00% | ~40,138 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,754 (Ranked 16)  
+Progressed: 802,762 (Ranked 16)  
 Completed: 49 (0.01%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 49 (0.01%) (Ranked 278)
 | 2023-09-23 | 802,404 | 49 |
 | 2023-09-24 | 802,563 | 49 |
 | 2023-09-25 | 802,669 | 49 |
-| 2023-09-26 | 802,754 | 49 |
+| 2023-09-26 | 802,762 | 49 |
 ## Awards
 Max (Character Customization): 7,472  (Ranked 47)  
 Sum: 27,859 (Ranked 47)  

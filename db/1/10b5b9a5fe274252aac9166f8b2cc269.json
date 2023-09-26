@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 260,
-  "EOS_Completed": 117,
+  "EOS_Completed": 118,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 45,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 45.38,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1451,6 +1451,11 @@
       "Time": "2023-09-26T08:04:56.3868656+00:00",
       "NumProgressed": 260,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-09-26T21:07:39.3232908+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 118
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1541,9 +1546,9 @@
       "ID": "PORTRAIT_19",
       "SetID": "2fge00i",
       "Name": "Portrait 19",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "PORTRAIT_2",
@@ -1557,9 +1562,9 @@
       "ID": "PORTRAIT_20",
       "SetID": "2fge00i",
       "Name": "Portrait 20",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "PORTRAIT_3",
@@ -1623,13 +1628,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 260,
-      "Completed": 117
+      "Completed": 118
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:07:09.2718783+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:07:39.3232897+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:55.2424775+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:01:49.3888525+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:07:09.2718963+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:01:53.6080099+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:07:39.3233204+00:00"
 }

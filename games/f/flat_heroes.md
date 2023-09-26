@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 73.00% | ~255 |
-| Be water, my friend | 65.00% | ~227 |
-| Snake Eyes | 61.00% | ~213 |
-| Fireball | 52.00% | ~181 |
-| The King of Flat | 49.00% | ~171 |
+| Dash Crash | 73.00% | ~256 |
+| Be water, my friend | 65.00% | ~228 |
+| Snake Eyes | 61.00% | ~214 |
+| Fireball | 52.00% | ~182 |
+| The King of Flat | 49.00% | ~172 |
 | Hit That Ball | 40.00% | ~140 |
 | Air Slash | 38.00% | ~133 |
 | Eat That Apple | 30.00% | ~105 |
 | Tornado Chaser | 18.00% | ~63 |
 | Bomberman | 12.00% | ~42 |
-| Bubble Party | 9.00% | ~31 |
-| The Colossus | 9.00% | ~31 |
+| Bubble Party | 9.00% | ~32 |
+| The Colossus | 9.00% | ~32 |
 | Floor is Lava | 8.00% | ~28 |
-| Pim Pam Pum | 7.00% | ~24 |
-| Black Belt | 5.00% | ~17 |
-| Dash Crash - Hero Edition | 5.00% | ~17 |
-| Ambush | 5.00% | ~17 |
+| Pim Pam Pum | 7.00% | ~25 |
+| Black Belt | 5.00% | ~18 |
+| Dash Crash - Hero Edition | 5.00% | ~18 |
+| Ambush | 5.00% | ~18 |
 | Quite The Hero | 4.00% | ~14 |
 | Path of the Hero | 2.00% | ~7 |
 | Snake Eyes - Hero Edition | 2.00% | ~7 |
@@ -29,11 +29,11 @@
 | Apprentice | 2.00% | ~7 |
 | Vertigo | 2.00% | ~7 |
 | Rogue | 2.00% | ~7 |
-| Hit That Ball - Hero Edition | 1.00% | ~3 |
-| Eat That Apple - Hero Edition | 1.00% | ~3 |
-| Tornado Chaser - Hero Edition | 1.00% | ~3 |
-| Bomberman - Hero Edition | 1.00% | ~3 |
-| Oh, no | 1.00% | ~3 |
+| Hit That Ball - Hero Edition | 1.00% | ~4 |
+| Eat That Apple - Hero Edition | 1.00% | ~4 |
+| Tornado Chaser - Hero Edition | 1.00% | ~4 |
+| Bomberman - Hero Edition | 1.00% | ~4 |
+| Oh, no | 1.00% | ~4 |
 | The Colossus - Hero Edition | 0.90% | ~3 |
 | Killing Spree | 0.90% | ~3 |
 | Rogue - Hero Edition | 0.60% | ~2 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 292)  
+Progressed: 350 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-08-16 | 338 | 0 |
 | 2023-08-20 | 339 | 0 |
 | 2023-08-26 | 341 | 0 |
-| 2023-09-26 | 349 | 0 |
+| 2023-09-26 | 350 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

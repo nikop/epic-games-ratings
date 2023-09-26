@@ -12447,10 +12447,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 225213,
       "NumberOfAwardsMax": 82928
+    },
+    {
+      "Time": "2023-09-26T20:57:31.1145484+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 225487,
+      "NumberOfAwardsMax": 82928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 225213,
+  "NumberOfAwards": 225487,
   "NumberOfAwardsMax": 82928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12506,7 +12512,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9811
+      "Count": 10085
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12527,9 +12533,9 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882398,
-  "EOS_Completed": 2418,
-  "EOS_NewPlayers": 5260,
+  "EOS_Progressed": 882459,
+  "EOS_Completed": 2419,
+  "EOS_NewPlayers": 5310,
   "EOS_NewCompleters": 299,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30412,6 +30418,11 @@
       "Time": "2023-09-26T20:07:29.4910466+00:00",
       "NumProgressed": 882398,
       "NumCompleted": 2418
+    },
+    {
+      "Time": "2023-09-26T21:08:00.8261144+00:00",
+      "NumProgressed": 882459,
+      "NumCompleted": 2419
     }
   ],
   "TotalAchievements": 57,
@@ -30453,9 +30464,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3530
     },
     {
       "ID": "FollowingTheRiver",
@@ -30607,7 +30618,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "Temperance",
@@ -30621,17 +30632,17 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7942
     },
     {
       "ID": "TheDevil",
       "SetID": "47clieb",
       "Name": "The Devil",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1765
+      "UsersEstimate": 2647
     },
     {
       "ID": "TheFool",
@@ -30653,9 +30664,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3530
+      "UsersEstimate": 4412
     },
     {
       "ID": "TheLovers",
@@ -30711,7 +30722,7 @@
       "Name": "The Jungle",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "TrueSoldier",
@@ -30878,21 +30889,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882398,
-      "Completed": 2418
+      "Progressed": 882459,
+      "Completed": 2419
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11021,
+      "Progressed": 11082,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-26T18:57:15.4439816+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:07:29.4910462+00:00",
+  "LastChanged": "2023-09-26T20:57:31.1145482+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:08:00.8261139+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T19:57:36.6332801+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:07:29.4911704+00:00"
+  "LastUpdate_Ratings": "2023-09-26T20:57:31.1145492+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:08:00.8263151+00:00"
 }

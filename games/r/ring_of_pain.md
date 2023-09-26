@@ -6,28 +6,28 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~227,240 |
-| Uncharted Territory | 89.00% | ~210,670 |
-| Getting A Glimpse | 73.00% | ~172,797 |
-| A Quick Escape | 65.00% | ~153,860 |
-| Explorer | 62.00% | ~146,759 |
+| First Steps | 96.00% | ~227,241 |
+| Uncharted Territory | 89.00% | ~210,671 |
+| Getting A Glimpse | 73.00% | ~172,798 |
+| A Quick Escape | 65.00% | ~153,861 |
+| Explorer | 62.00% | ~146,760 |
 | Defeat The Dark | 61.00% | ~144,392 |
 | An Offering | 61.00% | ~144,392 |
 | Colorful Corpse | 58.00% | ~137,291 |
 | That Was Quick | 57.00% | ~134,924 |
 | A Donation | 57.00% | ~134,924 |
-| Goodbye, Frog Friend | 54.00% | ~127,822 |
-| Heavy Hitter | 53.00% | ~125,455 |
+| Goodbye, Frog Friend | 54.00% | ~127,823 |
+| Heavy Hitter | 53.00% | ~125,456 |
 | Heartless | 46.00% | ~108,886 |
 | Spine Breaker | 46.00% | ~108,886 |
 | Deflection | 45.00% | ~106,519 |
-| Sneaky | 43.00% | ~101,784 |
-| Delving Deeper | 42.00% | ~99,417 |
-| C-C-Combo | 42.00% | ~99,417 |
-| Ambitious Intent | 41.00% | ~97,050 |
-| Nothing To Lose | 40.00% | ~94,683 |
-| The Bestiary | 40.00% | ~94,683 |
-| What's Yours Is Mine | 39.00% | ~92,316 |
+| Sneaky | 43.00% | ~101,785 |
+| Delving Deeper | 42.00% | ~99,418 |
+| C-C-Combo | 42.00% | ~99,418 |
+| Ambitious Intent | 41.00% | ~97,051 |
+| Nothing To Lose | 40.00% | ~94,684 |
+| The Bestiary | 40.00% | ~94,684 |
+| What's Yours Is Mine | 39.00% | ~92,317 |
 | R.I.P | 37.00% | ~87,582 |
 | Shootout | 36.00% | ~85,215 |
 | I Am Overburdened | 35.00% | ~82,848 |
@@ -35,10 +35,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 33.00% | ~78,114 |
 | Toxic | 33.00% | ~78,114 |
 | Who To Trust? | 32.00% | ~75,747 |
-| Flesh Wound | 29.00% | ~68,645 |
-| Walk It Off | 28.00% | ~66,278 |
-| Stone Touch | 28.00% | ~66,278 |
-| Shadow Walker | 28.00% | ~66,278 |
+| Flesh Wound | 29.00% | ~68,646 |
+| Walk It Off | 28.00% | ~66,279 |
+| Stone Touch | 28.00% | ~66,279 |
+| Shadow Walker | 28.00% | ~66,279 |
 | Consecutive Curses | 27.00% | ~63,911 |
 | Acid Bath | 27.00% | ~63,911 |
 | New Perspectives | 27.00% | ~63,911 |
@@ -50,9 +50,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 20.00% | ~47,342 |
 | All Consuming | 19.00% | ~44,975 |
 | Stop Hitting Yourself | 19.00% | ~44,975 |
-| Shadow Spreads | 17.00% | ~40,240 |
-| Don't Ignore Me! | 17.00% | ~40,240 |
-| Illuminate, Eliminate | 17.00% | ~40,240 |
+| Shadow Spreads | 17.00% | ~40,241 |
+| Don't Ignore Me! | 17.00% | ~40,241 |
+| Illuminate, Eliminate | 17.00% | ~40,241 |
 | Max Damage! | 16.00% | ~37,873 |
 | Doing Time | 16.00% | ~37,873 |
 | Spreading Plague | 15.00% | ~35,506 |
@@ -78,12 +78,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Fire Away! | 7.00% | ~16,570 |
 | Obsessed | 7.00% | ~16,570 |
 | Sentimental Value | 7.00% | ~16,570 |
-| A Long Climb | 6.00% | ~14,202 |
-| Grave Digger | 6.00% | ~14,202 |
-| Soul Stash | 6.00% | ~14,202 |
-| Power Score | 6.00% | ~14,202 |
-| Just Looking Around | 6.00% | ~14,202 |
-| Champion of the Day | 6.00% | ~14,202 |
+| A Long Climb | 6.00% | ~14,203 |
+| Grave Digger | 6.00% | ~14,203 |
+| Soul Stash | 6.00% | ~14,203 |
+| Power Score | 6.00% | ~14,203 |
+| Just Looking Around | 6.00% | ~14,203 |
+| Champion of the Day | 6.00% | ~14,203 |
 | Achievement Hunter | 5.00% | ~11,835 |
 | No Mercy | 5.00% | ~11,835 |
 | Hydrophobe | 4.00% | ~9,468 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,184 |
 | Near Death Experience | 0.30% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,708 (Ranked 53)  
+Progressed: 236,709 (Ranked 53)  
 Completed: 274 (0.12%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 274 (0.12%) (Ranked 225)
 | 2023-09-23 | 236,498 | 274 |
 | 2023-09-24 | 236,599 | 274 |
 | 2023-09-25 | 236,655 | 274 |
-| 2023-09-26 | 236,708 | 274 |
+| 2023-09-26 | 236,709 | 274 |
 ## Awards
 Max (Quickly Understood Controls): 1,495  (Ranked 125)  
 Sum: 11,575 (Ranked 80)  

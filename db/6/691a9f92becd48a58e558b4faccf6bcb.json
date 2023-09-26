@@ -2,10 +2,10 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 541,
-  "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 6,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 25,
+  "EOS_Completed_Percentage": 16.67,
   "EosHistory": [
     {
       "Time": "2023-09-21T15:04:03.1209788+00:00",
@@ -44,6 +44,11 @@
       "Time": "2023-09-26T19:06:30.5798701+00:00",
       "NumProgressed": 4,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-26T21:08:13.2545817+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -54,7 +59,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_INSIDE",
       "SetID": "5lffoo5",
       "Name": "Minimalist lifestyle",
-      "Percentage": 75,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -62,7 +67,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_ROOF",
       "SetID": "5lffoo5",
       "Name": "I deliver the presents!",
-      "Percentage": 75,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -70,7 +75,7 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_HOME",
       "SetID": "5lffoo5",
       "Name": "A new HOME",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -78,7 +83,7 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -86,7 +91,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
       "SetID": "5lffoo5",
       "Name": "Lesson learned",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -94,7 +99,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_SANTA",
       "SetID": "5lffoo5",
       "Name": "Good list",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -102,7 +107,7 @@
       "ID": "ACHIEVEMENT_MAIN_FAILED",
       "SetID": "5lffoo5",
       "Name": "At least you tried",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -110,7 +115,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Golden Button",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_CARROT",
       "SetID": "5lffoo5",
       "Name": "Golden Carrot",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_HAT",
       "SetID": "5lffoo5",
       "Name": "Golden Hat",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_SCARF",
       "SetID": "5lffoo5",
       "Name": "Golden Scarf",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "ACHIEVEMENT_MAIN_NAUGHTY",
       "SetID": "5lffoo5",
       "Name": "Naughty list",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "ACHIEVEMENT_MAIN_SHINY",
       "SetID": "5lffoo5",
       "Name": "Bling Bling",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Silver Button",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -166,7 +171,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
       "SetID": "5lffoo5",
       "Name": "Silver Carrot",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -174,7 +179,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_HAT",
       "SetID": "5lffoo5",
       "Name": "Silver Hat",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -182,7 +187,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
       "SetID": "5lffoo5",
       "Name": "Silver Scarf",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "ACHIEVEMENT_MAIN_WRONG_PATH",
       "SetID": "5lffoo5",
       "Name": "So close!",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -199,13 +204,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 6,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-09-26T20:07:41.0780282+00:00",
+  "LastChanged_Achievements": "2023-09-26T21:08:13.2545812+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3551059+00:00",
-  "LastUpdate_Ratings": "2023-09-26T20:02:47.6036605+00:00",
-  "LastUpdate_Achievements": "2023-09-26T20:07:41.078067+00:00"
+  "LastUpdate_Ratings": "2023-09-26T21:03:08.763079+00:00",
+  "LastUpdate_Achievements": "2023-09-26T21:08:13.2545996+00:00"
 }
