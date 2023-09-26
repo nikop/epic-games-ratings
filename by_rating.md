@@ -9,7 +9,7 @@
 | 7 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.90 | 0 | 525 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 525 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 525 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,897 | 112 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,898 | 112 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 525 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,273 | 41 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 525 |
@@ -942,15 +942,15 @@
 | 940 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.05 | 0 | 525 |
 | 940 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.05 | 0 | 525 |
 | 940 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
+| 940 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.05 | 0 | 525 |
 | 940 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 467 | 204 |
 | 940 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 4.05 | 0 | 525 |
 | 940 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 525 |
-| 946 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 525 |
-| 946 | [Tharsis](games/t/tharsis.md) | 4.04 | 0 | 525 |
-| 948 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.03 | 22 | 506 |
-| 948 | [Lake](games/l/lake.md) | 4.03 | 0 | 525 |
-| 948 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 525 |
-| 951 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.02 | 0 | 525 |
+| 947 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 525 |
+| 947 | [Tharsis](games/t/tharsis.md) | 4.04 | 0 | 525 |
+| 949 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.03 | 22 | 506 |
+| 949 | [Lake](games/l/lake.md) | 4.03 | 0 | 525 |
+| 949 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 525 |
 | 952 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.00 | 0 | 525 |
 | 952 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.00 | 0 | 525 |
 | 952 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 525 |
