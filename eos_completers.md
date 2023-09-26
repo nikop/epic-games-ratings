@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.09% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 89.05% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.47% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.62% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -16,7 +16,7 @@
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 17 | [Island Cities](games/i/island_cities.md) | 16.08% |
+| 17 | [Island Cities](games/i/island_cities.md) | 16.06% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
@@ -67,7 +67,7 @@
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.74% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
-| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.46% |
+| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.45% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.40% |
 | 71 | [Doodle God](games/d/doodle_god.md) | 3.35% |
@@ -85,10 +85,10 @@
 | 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.67% |
 | 85 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
-| 86 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.50% |
 | 86 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.49% |
 | 90 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.44% |
 | 91 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.39% |
@@ -126,7 +126,7 @@
 | 123 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 125 | [Trifox](games/t/trifox.md) | 1.09% |
 | 126 | [Adios](games/a/adios.md) | 1.04% |
-| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
+| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 128 | [Sable](games/s/sable.md) | 1.01% |
 | 129 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 129 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
@@ -163,12 +163,12 @@
 | 159 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.52% |
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.49% |
 | 163 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.48% |
-| 164 | [Dead Space](games/d/dead_space.md) | 0.47% |
 | 164 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
 | 164 | [Them and Us](games/t/them_and_us.md) | 0.47% |
-| 167 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 167 | [Godlike Burger](games/g/godlike_burger.md) | 0.46% |
-| 167 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 166 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 166 | [Dead Space](games/d/dead_space.md) | 0.46% |
+| 166 | [Godlike Burger](games/g/godlike_burger.md) | 0.46% |
+| 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 170 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 171 | [Tchia](games/t/tchia.md) | 0.44% |
 | 172 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
