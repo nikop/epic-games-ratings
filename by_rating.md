@@ -124,7 +124,7 @@
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 966 | 149 |
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 779 | 161 |
 | 118 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,029 | 17 |
-| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,589 | 73 |
+| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,596 | 73 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 525 |
 | 118 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 525 |
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 525 |
@@ -523,7 +523,7 @@
 | 521 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 525 |
 | 521 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 492 |
 | 521 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 525 |
-| 521 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,242 | 18 |
+| 521 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,273 | 18 |
 | 521 | [Everything](games/e/everything.md) | 4.53 | 0 | 525 |
 | 521 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,455 | 127 |
 | 521 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 525 |
@@ -672,7 +672,7 @@
 | 670 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 525 |
 | 670 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 41 | 429 |
 | 670 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 525 |
-| 670 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,038 | 29 |
+| 670 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,047 | 29 |
 | 670 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 525 |
 | 670 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,210 | 135 |
 | 670 | [Predecessor](games/p/predecessor.md) | 4.43 | 176 | 287 |
@@ -683,7 +683,7 @@
 | 670 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 469 |
 | 670 | [Train Valley 2](games/t/train_valley_2.md) | 4.43 | 673 | 176 |
 | 670 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 283 | 246 |
-| 684 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 231 | 263 |
+| 684 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 234 | 263 |
 | 684 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.42 | 0 | 525 |
 | 684 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 40 | 432 |
 | 684 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 0 | 525 |
@@ -908,14 +908,14 @@
 | 906 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 525 |
 | 906 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 525 |
 | 906 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 27 | 479 |
+| 906 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.15 | 21 | 517 |
 | 906 | [Pine](games/p/pine.md) | 4.15 | 0 | 525 |
 | 906 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 275 |
 | 906 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 525 |
 | 906 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 525 |
-| 913 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.14 | 0 | 525 |
-| 913 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.14 | 21 | 517 |
-| 913 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 525 |
-| 913 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 525 |
+| 914 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.14 | 0 | 525 |
+| 914 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 525 |
+| 914 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 525 |
 | 917 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 525 |
 | 918 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 525 |
 | 919 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 89 | 358 |

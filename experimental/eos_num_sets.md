@@ -8,7 +8,7 @@
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 | 2 |
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 | 2 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
-| [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 | 2 |
+| [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 | 2 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 | 2 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |

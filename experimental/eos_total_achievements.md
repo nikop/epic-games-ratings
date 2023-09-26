@@ -96,6 +96,7 @@
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
+| [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
@@ -205,7 +206,6 @@
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
 | [Aragami 2](../games/a/aragami_2.md) | 44 | 1,000 |
-| [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
 | [One Military Camp](../games/o/one_military_camp.md) | 44 | 1,000 |
