@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.09% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.06% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -46,7 +46,7 @@
 | 44 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.38% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.99% |
+| 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 6.02% |
 | 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.96% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.88% |
@@ -146,8 +146,8 @@
 | 144 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 145 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 146 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 146 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.65% |
-| 148 | [Dead Space](games/d/dead_space.md) | 0.64% |
+| 147 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
+| 148 | [Dead Space](games/d/dead_space.md) | 0.63% |
 | 149 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 149 | [Haven](games/h/haven.md) | 0.61% |
 | 149 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
@@ -212,10 +212,10 @@
 | 210 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.20% |
 | 211 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 211 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.19% |
-| 211 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 211 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 215 | [Remnant 2](games/r/remnant_2.md) | 0.18% |
-| 215 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
+| 214 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 214 | [Remnant 2](games/r/remnant_2.md) | 0.18% |
+| 214 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 217 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 217 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 217 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
@@ -258,14 +258,14 @@
 | 254 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 254 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 254 | [House Party](games/h/house_party.md) | 0.05% |
-| 259 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 259 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 259 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 259 | [Old World](games/o/old_world.md) | 0.04% |
-| 259 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 259 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 259 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.04% |
-| 259 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 254 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.05% |
+| 260 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 260 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 260 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 260 | [Old World](games/o/old_world.md) | 0.04% |
+| 260 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 260 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 260 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 267 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 267 | [MythForce](games/m/mythforce.md) | 0.03% |
 | 267 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
