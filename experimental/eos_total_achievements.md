@@ -339,6 +339,7 @@
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 32 | 1,000 |
 | [The Uncertain: Last Quiet Day](../games/t/the_uncertain__last_quiet_day.md) | 32 | 1,000 |
 | [Amigo Kebab Simulator](../games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 31 | 1,000 |
+| [Buddy and Friends in Halloween](../games/a/ad3283cc38a64db89c010975976948de.md) | 31 | 1,000 |
 | [DESTRUCTURE: Among Debris](../games/d/destructure__among_debris.md) | 31 | 1,000 |
 | [Don't Byte Your Tongue](../games/d/don't_byte_your_tongue.md) | 31 | 1,000 |
 | [Eternal Evil](../games/c/c188c5b560174a979ede32563e6e25e5.md) | 31 | 1,000 |

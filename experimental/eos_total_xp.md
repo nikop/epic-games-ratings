@@ -129,6 +129,7 @@
 | [Breakout: Recharged](../games/b/breakout__recharged.md) | 15 | 1,000 |
 | [BROK the InvestiGator](../games/b/brok_the_investigator.md) | 29 | 1,000 |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](../games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 33 | 1,000 |
+| [Buddy and Friends in Halloween](../games/a/ad3283cc38a64db89c010975976948de.md) | 31 | 1,000 |
 | [Bug Fables -The Everlasting Sapling-](../games/b/bug_fables_-the_everlasting_sapling-.md) | 30 | 1,000 |
 | [Bugsnax](../games/b/bugsnax.md) | 30 | 1,000 |
 | [Bunny Park](../games/b/bunny_park.md) | 18 | 1,000 |
