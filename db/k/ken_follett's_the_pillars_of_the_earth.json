@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15434,
+  "EOS_Progressed": 15435,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10955,6 +10955,11 @@
       "Time": "2023-09-27T16:03:25.6099213+00:00",
       "NumProgressed": 15434,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-27T17:03:29.6527412+00:00",
+      "NumProgressed": 15435,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -11006,7 +11011,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5094
     },
     {
       "ID": "tpote_achievement_15",
@@ -11054,7 +11059,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5094
     },
     {
       "ID": "tpote_achievement_20",
@@ -11110,7 +11115,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "tpote_achievement_27",
@@ -11150,7 +11155,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "tpote_achievement_31",
@@ -11180,9 +11185,9 @@
       "ID": "tpote_achievement_34",
       "SetID": "3jcf6c3",
       "Name": "A cry for help",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1235
     },
     {
       "ID": "tpote_achievement_35",
@@ -11278,7 +11283,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "tpote_achievement_9",
@@ -11293,15 +11298,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15434,
+      "Progressed": 15435,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:03:25.6099206+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:03:29.6527407+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:00:03.4511644+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:03:25.6100502+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:59:14.0224044+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:03:29.6528566+00:00"
 }

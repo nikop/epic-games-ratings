@@ -4822,10 +4822,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9254,
       "NumberOfAwardsMax": 6217
+    },
+    {
+      "Time": "2023-09-27T16:57:57.1894805+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9257,
+      "NumberOfAwardsMax": 6217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9254,
+  "NumberOfAwards": 9257,
   "NumberOfAwardsMax": 6217,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4839,7 +4845,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 421
+      "Count": 424
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4884,9 +4890,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 687093,
+  "EOS_Progressed": 687122,
   "EOS_Completed": 2176,
-  "EOS_NewPlayers": 3954,
+  "EOS_NewPlayers": 3951,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22934,6 +22940,11 @@
       "Time": "2023-09-27T16:03:42.0751655+00:00",
       "NumProgressed": 687093,
       "NumCompleted": 2176
+    },
+    {
+      "Time": "2023-09-27T17:03:43.4044003+00:00",
+      "NumProgressed": 687122,
+      "NumCompleted": 2176
     }
   ],
   "TotalAchievements": 45,
@@ -22977,7 +22988,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ach_big_name_in_town",
@@ -23017,7 +23028,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ach_defensive",
@@ -23105,7 +23116,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20613
+      "UsersEstimate": 20614
     },
     {
       "ID": "ach_impressive_aim",
@@ -23273,7 +23284,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -23281,7 +23292,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20613
+      "UsersEstimate": 20614
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23304,22 +23315,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 687093,
+      "Progressed": 687122,
       "Completed": 2176
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12635,
-      "Completed": 12635
+      "Progressed": 12664,
+      "Completed": 12664
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-27T01:40:53.4007523+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:03:42.0751644+00:00",
+  "LastChanged": "2023-09-27T16:57:57.1894804+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:03:43.4043999+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:58:05.6917835+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:03:42.0753831+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:57:57.1894811+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:03:43.4045758+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First blood | 30.00% | ~4,015 |
-| Head popping I | 3.00% | ~401 |
+| First blood | 31.00% | ~4,150 |
+| Head popping I | 3.00% | ~402 |
 | It's a piece of cake | 0.70% | ~94 |
 | Hang in there | 0.30% | ~40 |
 | Rifle Master | 0.30% | ~40 |
@@ -19,8 +19,8 @@
 | Sniper Master | 0.00% | ~0 |
 | Sword Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,382 (Ranked 131)  
-Completed: 11,759 (87.87%) (Ranked 1)  
+Progressed: 13,387 (Ranked 131)  
+Completed: 11,759 (87.84%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,4 +65,4 @@ Completed: 11,759 (87.87%) (Ranked 1)
 | 2023-09-24 | 13,037 | 11,759 |
 | 2023-09-25 | 13,178 | 11,759 |
 | 2023-09-26 | 13,300 | 11,759 |
-| 2023-09-27 | 13,382 | 11,759 |
+| 2023-09-27 | 13,387 | 11,759 |

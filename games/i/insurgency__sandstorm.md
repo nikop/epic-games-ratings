@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,835 |
-| Wallbanger | 5.00% | ~22,835 |
+| Point Shooting | 5.00% | ~22,836 |
+| Wallbanger | 5.00% | ~22,836 |
 | Exploitative | 4.00% | ~18,268 |
 | High Speed Low Drag | 4.00% | ~18,268 |
 | Wet Feet | 4.00% | ~18,268 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.70% | ~3,197 |
 | Special Delivery | 0.70% | ~3,197 |
 | Firefight Victory | 0.60% | ~2,740 |
-| Cinematic | 0.50% | ~2,283 |
+| Cinematic | 0.50% | ~2,284 |
 | Thanks Station! | 0.40% | ~1,827 |
 | Knock Knock | 0.30% | ~1,370 |
 | There For You | 0.30% | ~1,370 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~457 |
 | Road Hazard | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,694 (Ranked 38)  
+Progressed: 456,710 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2 (0.00%) (Ranked 295)
 | 2023-09-24 | 455,690 | 2 |
 | 2023-09-25 | 456,114 | 2 |
 | 2023-09-26 | 456,489 | 2 |
-| 2023-09-27 | 456,694 | 2 |
+| 2023-09-27 | 456,710 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 383  (Ranked 224)  
 Sum: 3,010 (Ranked 169)  

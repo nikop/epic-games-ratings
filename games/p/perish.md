@@ -60,15 +60,15 @@
 | Debauchery | 0.40% | ~14 |
 | Interrupt the Interloper | 0.40% | ~14 |
 | Elephantine | 0.40% | ~14 |
-| Window Shopping | 0.30% | ~10 |
-| Blessing of Spring | 0.30% | ~10 |
+| Window Shopping | 0.30% | ~11 |
+| Blessing of Spring | 0.30% | ~11 |
 | Buyer's Remorse | 0.20% | ~7 |
 | Library of Alexandria | 0.10% | ~4 |
 | Chitinous | 0.10% | ~4 |
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,500 (Ranked 178)  
+Progressed: 3,501 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 3,484 | 0 |
 | 2023-09-25 | 3,487 | 0 |
 | 2023-09-26 | 3,493 | 0 |
-| 2023-09-27 | 3,500 | 0 |
+| 2023-09-27 | 3,501 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

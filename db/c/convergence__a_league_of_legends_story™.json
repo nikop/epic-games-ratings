@@ -2374,9 +2374,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "EntresolChests1",
@@ -2727,8 +2727,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:06:21.2791131+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:05:41.3883728+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:59:15.2920608+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:06:21.2791746+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:58:42.3908422+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:05:41.388438+00:00"
 }

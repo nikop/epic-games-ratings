@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~178 |
 | Fulfilled the dream | 6.00% | ~178 |
 | G'Day Mate! | 6.00% | ~178 |
+| NAHELL! | 6.00% | ~178 |
 | Purple passion | 6.00% | ~178 |
 | Squad goals | 6.00% | ~178 |
 | Sup widdit big dog! | 6.00% | ~178 |
@@ -33,7 +34,6 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~148 |
 | Laid back | 5.00% | ~148 |
 | Lines for days | 5.00% | ~148 |
-| NAHELL! | 5.00% | ~148 |
 | Trick shot marksman | 5.00% | ~148 |
 | Cops called! | 4.00% | ~119 |
 | G.O.A.T. status | 4.00% | ~119 |
@@ -208,7 +208,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-27 | 2,963 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
-Sum: 472 (Ranked 313)  
+Sum: 473 (Ranked 313)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -217,8 +217,8 @@ Diff (max vs sum): 86
 | This game has Realistic Visuals | 48 |
 | This game has Amazing Characters | 45 |
 | This game has a Creative Community | 44 |
+| This game has Amazing Storytelling | 43 |
 | This game is Relaxing | 42 |
-| This game has Amazing Storytelling | 42 |
 | This game is Extremely Fun | 41 |
 | This game has Diverse Characters | 40 |
 | This game has Quickly Understood Controls | 37 |
@@ -369,3 +369,4 @@ Diff (max vs sum): 86
 | 2023-09-22 | 4.69 | - | 54 | 470 |
 | 2023-09-23 | 4.69 | - | 54 | 471 |
 | 2023-09-24 | 4.69 | - | 54 | 472 |
+| 2023-09-27 | 4.69 | - | 54 | 473 |

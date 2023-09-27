@@ -12,7 +12,7 @@
 | Scholar | 39.00% | ~86 |
 | The darkness | 37.00% | ~82 |
 | A good beginning | 36.00% | ~80 |
-| True G4M3R | 35.00% | ~77 |
+| True G4M3R | 36.00% | ~80 |
 | One last step | 34.00% | ~75 |
 | Cable guy | 32.00% | ~71 |
 | Champollion | 32.00% | ~71 |

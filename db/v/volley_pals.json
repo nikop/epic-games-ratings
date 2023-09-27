@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 27.43,
+  "EOS_Completed_Percentage": 27.19,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -611,6 +611,11 @@
       "Time": "2023-09-27T13:15:15.2222573+00:00",
       "NumProgressed": 113,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-09-27T17:06:20.4500789+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 10,
@@ -622,7 +627,7 @@
       "Name": "Beach",
       "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_1",
@@ -630,13 +635,13 @@
       "Name": "Library",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 100,
       "UsersEstimate": 62
     },
@@ -684,7 +689,7 @@
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 38
     },
@@ -701,14 +706,14 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:07:09.190597+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:06:20.4500785+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.0391154+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:01:33.4578974+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:07:09.1906124+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:00:12.1478813+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:06:20.4500956+00:00"
 }

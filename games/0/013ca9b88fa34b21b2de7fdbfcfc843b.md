@@ -5,23 +5,23 @@ Rating: 4.83 (Ranked 58)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,808 |
-| A Thorny Situation | 70.00% | ~3,652 |
-| ... And Spit Back Out | 59.00% | ~3,078 |
-| Break-Net Speed | 47.00% | ~2,452 |
-| Bramble Breaker | 44.00% | ~2,295 |
-| Miner 49er | 41.00% | ~2,139 |
-| Humble Collector | 40.00% | ~2,087 |
-| Calm Sailing | 34.00% | ~1,774 |
-| Open the Gate! | 30.00% | ~1,565 |
-| Mist Walker | 28.00% | ~1,461 |
-| Lumberjack | 24.00% | ~1,252 |
-| Oui, Chef! | 22.00% | ~1,148 |
+| Azoria Beckons | 73.00% | ~3,812 |
+| A Thorny Situation | 70.00% | ~3,655 |
+| ... And Spit Back Out | 59.00% | ~3,081 |
+| Break-Net Speed | 47.00% | ~2,454 |
+| Bramble Breaker | 44.00% | ~2,298 |
+| Miner 49er | 41.00% | ~2,141 |
+| Humble Collector | 40.00% | ~2,089 |
+| Calm Sailing | 34.00% | ~1,775 |
+| Open the Gate! | 30.00% | ~1,567 |
+| Mist Walker | 28.00% | ~1,462 |
+| Lumberjack | 24.00% | ~1,253 |
+| Oui, Chef! | 22.00% | ~1,149 |
 | Clear the Air | 15.00% | ~783 |
-| Botanical Breakthrough | 14.00% | ~730 |
-| Beach Comber | 12.00% | ~626 |
+| Botanical Breakthrough | 14.00% | ~731 |
+| Beach Comber | 12.00% | ~627 |
+| Search for the Hairy Grell | 10.00% | ~522 |
 | Higher Tax Bracket | 10.00% | ~522 |
-| Search for the Hairy Grell | 9.00% | ~470 |
 | Got to Catch Them All | 6.00% | ~313 |
 | Fanatical Farmer | 6.00% | ~313 |
 | Skilled | 6.00% | ~313 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 58)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,217 (Ranked 164)  
+Progressed: 5,222 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 4,931 | 0 |
 | 2023-09-25 | 5,023 | 0 |
 | 2023-09-26 | 5,137 | 0 |
-| 2023-09-27 | 5,217 | 0 |
+| 2023-09-27 | 5,222 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

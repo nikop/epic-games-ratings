@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,613 |
-| Welcome To Hell-A | 3.00% | ~20,613 |
+| Hotel California | 3.00% | ~20,614 |
+| Welcome To Hell-A | 3.00% | ~20,614 |
 | Dr. Reed, I Presume? | 2.00% | ~13,742 |
 | Git Gutte! | 2.00% | ~13,742 |
 | Bookworm | 2.00% | ~13,742 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 511)
 | Jumbo Keyring | 0.70% | ~4,810 |
 | Not Even My Final Form | 0.60% | ~4,123 |
 | Internet Famous | 0.60% | ~4,123 |
-| Make it So | 0.50% | ~3,435 |
-| On Safari | 0.50% | ~3,435 |
-| Variety is the Spice of Death | 0.50% | ~3,435 |
+| Make it So | 0.50% | ~3,436 |
+| On Safari | 0.50% | ~3,436 |
+| Variety is the Spice of Death | 0.50% | ~3,436 |
 | LA Influential | 0.40% | ~2,748 |
 | Gore Horse | 0.40% | ~2,748 |
 | Sole Survivor | 0.30% | ~2,061 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,093 (Ranked 22)  
+Progressed: 687,122 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,16 +211,16 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
-| 2023-09-27 | 687,093 | 2,176 |
+| 2023-09-27 | 687,122 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,217  (Ranked 57)  
-Sum: 9,254 (Ranked 92)  
+Sum: 9,257 (Ranked 92)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,217 |
 | This game is Great for Beginners | 432 |
-| This game has Diverse Characters | 421 |
+| This game has Diverse Characters | 424 |
 | This game has Quickly Understood Controls | 406 |
 | This game is Relaxing | 387 |
 | This game has Amazing Storytelling | 360 |
@@ -389,4 +389,4 @@ Diff (max vs sum): -35
 | 2023-09-24 | 4.54 | 6,188 | 9,207 |
 | 2023-09-25 | 4.54 | 6,204 | 9,227 |
 | 2023-09-26 | 4.54 | 6,217 | 9,252 |
-| 2023-09-27 | 4.54 | 6,217 | 9,254 |
+| 2023-09-27 | 4.54 | 6,217 | 9,257 |

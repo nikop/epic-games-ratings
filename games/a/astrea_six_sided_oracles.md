@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Endless Tricks | 100.00% | ~10 |
 | Mechanical Buddy | 100.00% | ~10 |
 | Meissa's Savior | 100.00% | ~10 |
 | Purification Pioneer | 100.00% | ~10 |
 | Dicesmithing Time! | 90.00% | ~9 |
-| Endless Tricks | 90.00% | ~9 |
 | Wild's Keeper | 80.00% | ~8 |
 | Sanctuary Guardian | 70.00% | ~7 |
 | Mind Illuminator | 60.00% | ~6 |
@@ -19,10 +19,10 @@
 | The Corruption Goddess | 40.00% | ~4 |
 | Unbeatable | 40.00% | ~4 |
 | Dice Specialist | 30.00% | ~3 |
+| Sadistic Plan | 30.00% | ~3 |
 | Anomaly Destroyer | 20.00% | ~2 |
 | Heart Gate | 20.00% | ~2 |
 | Loyal Partner | 20.00% | ~2 |
-| Sadistic Plan | 20.00% | ~2 |
 | Shard Spender | 20.00% | ~2 |
 | Star Killer | 20.00% | ~2 |
 | Unepic Hero | 20.00% | ~2 |

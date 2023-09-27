@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1155,9 +1155,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1250,8 +1250,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:08:43.1572173+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:09:14.6413611+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:58:22.0171456+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:08:43.1572466+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:58:08.4150767+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:09:14.6413899+00:00"
 }

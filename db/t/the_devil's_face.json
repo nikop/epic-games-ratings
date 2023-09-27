@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-09-26T23:08:06.7339121+00:00",
       "NumProgressed": 335,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T17:06:44.9218083+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1546,7 +1551,7 @@
       "Name": "This looks really bad",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1593,14 +1598,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:07:37.743442+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:06:44.9218078+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:06.028915+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:00:34.0370214+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:07:37.7434684+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:59:33.8951359+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:06:44.9218353+00:00"
 }

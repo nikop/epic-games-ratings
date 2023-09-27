@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.50% | ~71 |
 | Three Man Chariot | 0.50% | ~71 |
 | Necropolis in Waset | 0.50% | ~71 |
+| Bronze Victory (Carthage 1) | 0.40% | ~57 |
 | Ancient | 0.40% | ~57 |
 | Glorious Difficulty | 0.40% | ~57 |
 | Hatti | 0.40% | ~57 |
@@ -160,7 +161,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.40% | ~57 |
 | Pilgrimage | 0.40% | ~57 |
 | Patriarch St Paul | 0.40% | ~57 |
-| Bronze Victory (Carthage 1) | 0.30% | ~42 |
 | Silver Victory (Carthage 1) | 0.30% | ~42 |
 | Carthage - Riches and Influence | 0.30% | ~42 |
 | Cleopatra's Love | 0.30% | ~42 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,152 (Ranked 130)  
+Progressed: 14,155 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,10 +463,10 @@ Completed: 5 (0.04%) (Ranked 260)
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
-| 2023-09-27 | 14,152 | 5 |
+| 2023-09-27 | 14,155 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
-Sum: 1,820 (Ranked 207)  
+Sum: 1,821 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -476,8 +476,8 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 209 |
 | This game is Educational | 207 |
 | This game has Challenging Combat | 197 |
+| This game has Amazing Characters | 190 |
 | This game has Quickly Understood Controls | 189 |
-| This game has Amazing Characters | 189 |
 | This game has Amazing Storytelling | 186 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -617,3 +617,4 @@ Diff (max vs sum): 58
 | 2023-09-22 | 4.65 | - | 221 | 1,814 |
 | 2023-09-23 | 4.65 | - | 222 | 1,817 |
 | 2023-09-25 | 4.65 | - | 223 | 1,820 |
+| 2023-09-27 | 4.65 | - | 223 | 1,821 |

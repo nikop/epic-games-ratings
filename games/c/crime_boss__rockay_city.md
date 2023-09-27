@@ -29,6 +29,7 @@ Rating: 3.94 (Ranked 969)
 | Freebooter | 0.20% | ~177 |
 | Moneybags | 0.20% | ~177 |
 | Olympus Ascended | 0.20% | ~177 |
+| All that Glitters | 0.20% | ~33 |
 | Rockay Raider | 0.10% | ~88 |
 | Rockay Knight | 0.10% | ~88 |
 | Savvy Seeker | 0.10% | ~88 |
@@ -42,12 +43,11 @@ Rating: 3.94 (Ranked 969)
 | Geek Out | 0.10% | ~88 |
 | Classy Joint | 0.10% | ~88 |
 | Impossible Dreamer | 0.10% | ~88 |
-| All that Glitters | 0.10% | ~17 |
 | All for One | 0.10% | ~17 |
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,394 (Ranked 78)  
+Progressed: 88,399 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 46 (0.05%) (Ranked 255)
 | 2023-09-24 | 88,263 | 46 |
 | 2023-09-25 | 88,338 | 46 |
 | 2023-09-26 | 88,367 | 46 |
-| 2023-09-27 | 88,394 | 46 |
+| 2023-09-27 | 88,399 | 46 |
 ## Awards
 Max (Diverse Characters): 460  (Ranked 206)  
 Sum: 2,206 (Ranked 196)  

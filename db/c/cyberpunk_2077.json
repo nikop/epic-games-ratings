@@ -12489,10 +12489,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 229560,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-27T16:57:35.2733664+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 229756,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 229560,
+  "NumberOfAwards": 229756,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12566,12 +12572,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 6564
+      "Count": 6760
     }
   ],
-  "EOS_Progressed": 883191,
+  "EOS_Progressed": 883250,
   "EOS_Completed": 2436,
-  "EOS_NewPlayers": 5872,
+  "EOS_NewPlayers": 5914,
   "EOS_NewCompleters": 314,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30554,6 +30560,11 @@
       "Time": "2023-09-27T16:06:25.0069465+00:00",
       "NumProgressed": 883191,
       "NumCompleted": 2436
+    },
+    {
+      "Time": "2023-09-27T17:05:44.2529283+00:00",
+      "NumProgressed": 883250,
+      "NumCompleted": 2436
     }
   ],
   "TotalAchievements": 57,
@@ -30589,7 +30600,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "Denied",
@@ -30597,7 +30608,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "FollowingTheRiver",
@@ -30651,9 +30662,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7949
     },
     {
       "ID": "IAmMaxTac",
@@ -30691,9 +30702,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2650
+      "UsersEstimate": 3533
     },
     {
       "ID": "MustBeTheRats",
@@ -30709,7 +30720,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "NoMansLand",
@@ -30741,7 +30752,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "Specialist",
@@ -30789,15 +30800,15 @@
       "Name": "The Hermit",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6182
+      "UsersEstimate": 7066
     },
     {
       "ID": "TheLovers",
@@ -30835,9 +30846,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 2650
+      "UsersEstimate": 3533
     },
     {
       "ID": "ThisIsPacifica",
@@ -30861,7 +30872,7 @@
       "Name": "True Soldier",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "TrueWarrior",
@@ -31020,21 +31031,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883191,
+      "Progressed": 883250,
       "Completed": 2436
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11814,
+      "Progressed": 11873,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-27T13:57:38.5733455+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:06:25.0069457+00:00",
+  "LastChanged": "2023-09-27T16:57:35.2733662+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:05:44.2529278+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:57:31.8693666+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:06:25.0071848+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:57:35.273367+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:05:44.2531132+00:00"
 }

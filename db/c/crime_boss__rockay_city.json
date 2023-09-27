@@ -3738,7 +3738,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88394,
+  "EOS_Progressed": 88399,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
@@ -20323,6 +20323,11 @@
       "Time": "2023-09-27T16:05:31.3068653+00:00",
       "NumProgressed": 88394,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-27T17:04:58.8996373+00:00",
+      "NumProgressed": 88399,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -20628,9 +20633,9 @@
       "ID": "ACH_1010",
       "SetID": "8no7728",
       "Name": "All that Glitters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_1020",
@@ -20661,13 +20666,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88394,
+      "Progressed": 88399,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16741,
+      "Progressed": 16746,
       "Completed": 15535
     }
   ],
@@ -20675,8 +20680,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-27T14:59:08.696623+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:05:31.3068647+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:04:58.8996369+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:59:38.5735051+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:05:31.3070032+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:58:56.0591958+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:04:58.8998003+00:00"
 }

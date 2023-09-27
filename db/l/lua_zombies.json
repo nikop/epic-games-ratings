@@ -4,7 +4,7 @@
   "ProductSlug": "lua-zombies-e7b1d6",
   "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-30T06:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-24T08:57:18.2140929+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.8979351+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:57:21.2635845+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:05:02.5093733+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:57:27.9633267+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:04:34.6021284+00:00"
 }

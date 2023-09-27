@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -602,7 +602,7 @@
   ],
   "EOS_Progressed": 1691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3975,9 +3975,9 @@
       "ID": "achCrowdInATrain",
       "SetID": "dgl390n",
       "Name": "Crowd in a train",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 541
     },
     {
       "ID": "achEmissionLevel",
@@ -4295,8 +4295,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-27T13:06:29.0044251+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:08:31.6845447+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:08:20.2096357+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.8657884+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:59:37.4671884+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:08:31.6846245+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:58:55.183381+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:08:20.209751+00:00"
 }

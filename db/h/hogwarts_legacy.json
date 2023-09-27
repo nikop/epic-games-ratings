@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8190,9 +8190,9 @@
       "Count": 673
     }
   ],
-  "EOS_Progressed": 297422,
+  "EOS_Progressed": 297423,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25490,6 +25490,11 @@
       "Time": "2023-09-27T16:07:59.1373759+00:00",
       "NumProgressed": 297422,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-27T17:07:03.0649003+00:00",
+      "NumProgressed": 297423,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25685,7 +25690,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32716
+      "UsersEstimate": 32717
     },
     {
       "ID": "PFA_31",
@@ -25845,7 +25850,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32716
+      "UsersEstimate": 32717
     },
     {
       "ID": "PFA_9",
@@ -25860,7 +25865,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297422,
+      "Progressed": 297423,
       "Completed": 478
     }
   ],
@@ -25868,8 +25873,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-27T16:01:42.0604375+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:07:59.1373752+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:07:03.0648997+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:01:42.0604383+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:07:59.1375515+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:00:18.4240604+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:07:03.0650936+00:00"
 }

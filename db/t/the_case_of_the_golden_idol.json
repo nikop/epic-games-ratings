@@ -3,8 +3,8 @@
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.15,
+  "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -773,6 +773,11 @@
       "Time": "2023-09-26T04:03:31.7649836+00:00",
       "NumProgressed": 193,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-27T17:04:07.7452995+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -782,9 +787,9 @@
       "ID": "0",
       "SetID": "acl54ke",
       "Name": "Solved first case",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "1",
@@ -806,9 +811,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "3",
@@ -919,13 +924,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 109
     }
   ],
@@ -933,8 +938,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:04:31.3378427+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:04:07.745299+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.9188929+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:58:09.9509905+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:04:31.3378662+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:58:00.8491813+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:04:07.7453212+00:00"
 }

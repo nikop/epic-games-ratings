@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1171,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -1829,6 +1829,11 @@
       "Time": "2023-09-27T16:06:21.8929407+00:00",
       "NumProgressed": 1171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T17:05:41.9148575+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1857,7 +1862,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2129,7 +2134,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2137,7 +2142,7 @@
       "Name": "Eat My Dust",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2232,14 +2237,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-27T16:06:21.89294+00:00",
+  "LastChanged_Achievements": "2023-09-27T17:05:41.914857+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:58:02.7440518+00:00",
-  "LastUpdate_Achievements": "2023-09-27T16:06:21.8930118+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:57:54.7615338+00:00",
+  "LastUpdate_Achievements": "2023-09-27T17:05:41.9149169+00:00"
 }
