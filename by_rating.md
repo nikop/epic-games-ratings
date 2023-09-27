@@ -212,7 +212,7 @@
 | 205 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 525 |
 | 205 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 52 | 404 |
 | 205 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,320 | 132 |
-| 205 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,893 | 113 |
+| 205 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,895 | 113 |
 | 205 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 468 |
 | 205 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.70 | 0 | 525 |
 | 205 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 48 | 413 |
@@ -280,7 +280,7 @@
 | 262 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 22 | 506 |
 | 262 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 525 |
 | 280 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 370 |
-| 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,558 | 65 |
+| 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,573 | 65 |
 | 280 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 429 |
 | 280 | [Crashlands](games/c/crashlands.md) | 4.66 | 194 | 279 |
 | 280 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,293 | 133 |
@@ -409,7 +409,7 @@
 | 402 | [Control](games/c/control.md) | 4.60 | 8,542 | 40 |
 | 402 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 525 |
 | 402 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 377 |
-| 402 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,764 | 26 |
+| 402 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,771 | 26 |
 | 402 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 525 |
 | 402 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 322 |
 | 402 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 393 |
@@ -815,7 +815,7 @@
 | 813 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 525 |
 | 813 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 525 |
 | 813 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 525 |
-| 813 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,747,366 | 1 |
+| 813 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,747,994 | 1 |
 | 813 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 734 | 166 |
 | 813 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 525 |
 | 813 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 308 |
