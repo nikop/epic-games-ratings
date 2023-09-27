@@ -10,17 +10,17 @@
 | Corporal | 16.00% | ~235 |
 | Sergeant | 12.00% | ~176 |
 | Covert Operative | 12.00% | ~176 |
-| Lieutenant | 10.00% | ~147 |
+| Lieutenant | 11.00% | ~161 |
 | Getting Deployment | 10.00% | ~147 |
+| Stocking Up | 10.00% | ~147 |
 | On Target | 10.00% | ~147 |
+| Infantry Reporting | 10.00% | ~147 |
 | Keeping Busy | 9.00% | ~132 |
-| Stocking Up | 9.00% | ~132 |
-| Infantry Reporting | 9.00% | ~132 |
 | Fighting for Survival | 8.00% | ~117 |
 | Silver Competitor | 8.00% | ~117 |
+| Captain | 8.00% | ~117 |
 | Factory Expansion | 8.00% | ~117 |
 | Exterminator | 7.00% | ~103 |
-| Captain | 7.00% | ~103 |
 | Brothers in Arms | 6.00% | ~88 |
 | Know The Enemy | 5.00% | ~73 |
 | Silver Achiever | 5.00% | ~73 |

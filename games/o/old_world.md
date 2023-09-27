@@ -6,12 +6,12 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 7.00% | ~990 |
+| Play a Single Player Game | 7.00% | ~991 |
 | Explorer | 6.00% | ~849 |
 | Settler | 6.00% | ~849 |
 | Friendly Family | 6.00% | ~849 |
-| Intrepid | 5.00% | ~707 |
-| The Clergy | 5.00% | ~707 |
+| Intrepid | 5.00% | ~708 |
+| The Clergy | 5.00% | ~708 |
 | Able | 4.00% | ~566 |
 | Architect | 4.00% | ~566 |
 | Enlightened | 4.00% | ~566 |
@@ -79,59 +79,59 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 2.00% | ~283 |
 | Points Victory | 2.00% | ~283 |
 | Poetic Leader | 2.00% | ~283 |
-| Capable | 1.00% | ~141 |
-| Conqueror | 1.00% | ~141 |
-| Devout | 1.00% | ~141 |
-| Invincible | 1.00% | ~141 |
-| Lion | 1.00% | ~141 |
-| Ready | 1.00% | ~141 |
-| Subjugator | 1.00% | ~141 |
-| Good Difficulty | 1.00% | ~141 |
-| Champions | 1.00% | ~141 |
-| Landowners | 1.00% | ~141 |
-| Patrons | 1.00% | ~141 |
-| Riders | 1.00% | ~141 |
-| Statesmen | 1.00% | ~141 |
-| Traders | 1.00% | ~141 |
-| Hittite Iron | 1.00% | ~141 |
-| Circus Maximus | 1.00% | ~141 |
-| Hagia Sophia | 1.00% | ~141 |
-| Church of the Holy Sepulchre | 1.00% | ~141 |
-| Temple of Solomon | 1.00% | ~141 |
-| Adur Burzen-Mihr | 1.00% | ~141 |
-| Pantheon | 1.00% | ~141 |
-| Via Recta Souk | 1.00% | ~141 |
-| Learn to Play 3 | 1.00% | ~141 |
-| Carthage | 1.00% | ~141 |
-| Power to the People | 1.00% | ~141 |
-| Assyrian Paganism | 1.00% | ~141 |
-| Economic Reform | 1.00% | ~141 |
-| Industrial Progress | 1.00% | ~141 |
-| Military Prestige | 1.00% | ~141 |
-| Dualism | 1.00% | ~141 |
-| Enlightenment | 1.00% | ~141 |
-| Gnosticism | 1.00% | ~141 |
-| Legalism | 1.00% | ~141 |
-| Redemption | 1.00% | ~141 |
-| Revelation | 1.00% | ~141 |
-| Veneration | 1.00% | ~141 |
-| Cimmerian Archer | 1.00% | ~141 |
-| Kushite Cavalry | 1.00% | ~141 |
-| Legionary | 1.00% | ~141 |
-| Phalangite | 1.00% | ~141 |
-| Ambition Victory | 1.00% | ~141 |
-| Double Victory | 1.00% | ~141 |
-| Win a Single Player Game | 1.00% | ~141 |
+| Capable | 1.00% | ~142 |
+| Conqueror | 1.00% | ~142 |
+| Devout | 1.00% | ~142 |
+| Invincible | 1.00% | ~142 |
+| Lion | 1.00% | ~142 |
+| Ready | 1.00% | ~142 |
+| Subjugator | 1.00% | ~142 |
+| Good Difficulty | 1.00% | ~142 |
+| Champions | 1.00% | ~142 |
+| Landowners | 1.00% | ~142 |
+| Patrons | 1.00% | ~142 |
+| Riders | 1.00% | ~142 |
+| Statesmen | 1.00% | ~142 |
+| Traders | 1.00% | ~142 |
+| Hittite Iron | 1.00% | ~142 |
+| Circus Maximus | 1.00% | ~142 |
+| Hagia Sophia | 1.00% | ~142 |
+| Church of the Holy Sepulchre | 1.00% | ~142 |
+| Temple of Solomon | 1.00% | ~142 |
+| Adur Burzen-Mihr | 1.00% | ~142 |
+| Pantheon | 1.00% | ~142 |
+| Via Recta Souk | 1.00% | ~142 |
+| Learn to Play 3 | 1.00% | ~142 |
+| Carthage | 1.00% | ~142 |
+| Power to the People | 1.00% | ~142 |
+| Assyrian Paganism | 1.00% | ~142 |
+| Economic Reform | 1.00% | ~142 |
+| Industrial Progress | 1.00% | ~142 |
+| Military Prestige | 1.00% | ~142 |
+| Dualism | 1.00% | ~142 |
+| Enlightenment | 1.00% | ~142 |
+| Gnosticism | 1.00% | ~142 |
+| Legalism | 1.00% | ~142 |
+| Redemption | 1.00% | ~142 |
+| Revelation | 1.00% | ~142 |
+| Veneration | 1.00% | ~142 |
+| Cimmerian Archer | 1.00% | ~142 |
+| Kushite Cavalry | 1.00% | ~142 |
+| Legionary | 1.00% | ~142 |
+| Phalangite | 1.00% | ~142 |
+| Ambition Victory | 1.00% | ~142 |
+| Double Victory | 1.00% | ~142 |
+| Win a Single Player Game | 1.00% | ~142 |
 | Bad Heir Day | 0.90% | ~127 |
 | Strong Difficulty | 0.90% | ~127 |
 | Hunters | 0.90% | ~127 |
 | Learn to Play 4 | 0.90% | ~127 |
 | Babylonia | 0.90% | ~127 |
 | Hittite Paganism | 0.90% | ~127 |
+| Turreted Elephant | 0.90% | ~127 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
 | One True Faith | 0.80% | ~113 |
-| Turreted Elephant | 0.80% | ~113 |
 | No Undo | 0.80% | ~113 |
 | Old | 0.70% | ~99 |
 | Peacemaker | 0.70% | ~99 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,149 (Ranked 130)  
+Progressed: 14,150 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 5 (0.04%) (Ranked 260)
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
-| 2023-09-27 | 14,149 | 5 |
+| 2023-09-27 | 14,150 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

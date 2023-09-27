@@ -13,7 +13,7 @@
 | Memories | 27.00% | ~143 |
 | The Breeder | 23.00% | ~121 |
 | The Veteran | 19.00% | ~100 |
-| The Traitor | 15.00% | ~79 |
+| The Traitor | 16.00% | ~84 |
 | The Spider | 14.00% | ~74 |
 | Good as Fish | 12.00% | ~63 |
 | Her Eyes | 12.00% | ~63 |

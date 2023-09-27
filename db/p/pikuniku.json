@@ -2,7 +2,7 @@
   "ID": "c50f4a5c796e4abdbf8025cfbf5cff21",
   "Name": "Pikuniku",
   "ProductSlug": "pikuniku",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 177,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 639,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "NumberOfRatings": 450,
   "RatingHistory": [
     {
@@ -475,6 +475,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-27T13:03:53.1677022+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -492,8 +498,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:30.6223242+00:00",
-  "LastChanged": "2023-09-21T13:07:15.0048836+00:00",
+  "LastChanged": "2023-09-27T13:03:53.167702+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:33.0528341+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:57:54.055806+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:09:08.771248+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:03:53.1677027+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:14:03.3230371+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 345192,
+  "EOS_Progressed": 345196,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1104,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18577,6 +18577,11 @@
       "Time": "2023-09-27T12:08:05.8610931+00:00",
       "NumProgressed": 345192,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-27T13:13:00.6082323+00:00",
+      "NumProgressed": 345196,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18604,7 +18609,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41423
+      "UsersEstimate": 41424
     },
     {
       "ID": "ach004",
@@ -18644,7 +18649,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41423
+      "UsersEstimate": 41424
     },
     {
       "ID": "ach009",
@@ -18676,7 +18681,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27615
+      "UsersEstimate": 27616
     },
     {
       "ID": "ach013",
@@ -18724,7 +18729,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27615
+      "UsersEstimate": 27616
     },
     {
       "ID": "ach019",
@@ -18796,7 +18801,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158788
+      "UsersEstimate": 158790
     },
     {
       "ID": "ach028",
@@ -18812,7 +18817,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37971
+      "UsersEstimate": 37972
     },
     {
       "ID": "ach030",
@@ -18892,7 +18897,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34519
+      "UsersEstimate": 34520
     },
     {
       "ID": "ach040",
@@ -18924,7 +18929,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24163
+      "UsersEstimate": 24164
     },
     {
       "ID": "ach044",
@@ -18948,7 +18953,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24163
+      "UsersEstimate": 24164
     },
     {
       "ID": "ach047",
@@ -18988,7 +18993,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37971
+      "UsersEstimate": 37972
     },
     {
       "ID": "ach052",
@@ -19052,7 +19057,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34519
+      "UsersEstimate": 34520
     },
     {
       "ID": "ach060",
@@ -19196,7 +19201,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24163
+      "UsersEstimate": 24164
     },
     {
       "ID": "ach079",
@@ -19227,7 +19232,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345192,
+      "Progressed": 345196,
       "Completed": 7
     }
   ],
@@ -19235,8 +19240,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-26T19:57:39.174823+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:08:05.8610926+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:13:00.6082318+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:57:38.3006479+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:08:05.8612921+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:03:42.5553852+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:13:00.608597+00:00"
 }

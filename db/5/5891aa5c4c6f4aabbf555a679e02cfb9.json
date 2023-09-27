@@ -518,9 +518,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "b36c5kb",
       "Name": "Now You\u0027re Playing with Power",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -678,9 +678,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "b36c5kb",
       "Name": "Kick, Shoot, Burn",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:08:40.1142402+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:13:34.6851106+00:00",
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.1893157+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:03:07.4111905+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:08:40.1143266+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:08:15.8297587+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:13:34.685197+00:00"
 }

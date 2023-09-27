@@ -10,6 +10,7 @@ Rating: 4.60 (Ranked 402)
 | Rail Rat | 24.00% | ~215 |
 | Immaculate Aim | 21.00% | ~188 |
 | The Brass Boss | 21.00% | ~188 |
+| The Steel Shadow | 20.00% | ~179 |
 | Make Up For Lost Time | 20.00% | ~179 |
 | Time Flies | 20.00% | ~179 |
 | The Harder They Fall | 20.00% | ~179 |
@@ -18,7 +19,6 @@ Rating: 4.60 (Ranked 402)
 | The Prince in Heels | 20.00% | ~179 |
 | Honest Mistake | 20.00% | ~179 |
 | Immaculate Aim | 20.00% | ~179 |
-| The Steel Shadow | 19.00% | ~170 |
 | The Wicked Twins | 19.00% | ~170 |
 | Fast Learner | 19.00% | ~170 |
 | Like Clockwork | 18.00% | ~161 |

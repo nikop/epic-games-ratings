@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -5476,10 +5476,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4412,
       "NumberOfAwardsMax": 513
+    },
+    {
+      "Time": "2023-09-27T13:03:12.7575865+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4413,
+      "NumberOfAwardsMax": 513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4412,
+  "NumberOfAwards": 4413,
   "NumberOfAwardsMax": 513,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -5505,7 +5511,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 431
+      "Count": 432
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5550,9 +5556,9 @@
       "Count": 417
     }
   ],
-  "EOS_Progressed": 178560,
+  "EOS_Progressed": 178564,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2194,
+  "EOS_NewPlayers": 2182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23500,6 +23506,11 @@
       "Time": "2023-09-27T12:11:13.0340342+00:00",
       "NumProgressed": 178560,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-27T13:16:07.7178927+00:00",
+      "NumProgressed": 178564,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23591,7 +23602,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44640
+      "UsersEstimate": 44641
     },
     {
       "ID": "Achievement_5",
@@ -23623,7 +23634,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16070
+      "UsersEstimate": 16071
     },
     {
       "ID": "Achievement_9",
@@ -23638,15 +23649,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 178560,
+      "Progressed": 178564,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-09-27T07:57:20.9470564+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:11:13.0340335+00:00",
+  "LastChanged": "2023-09-27T13:03:12.7575863+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:16:07.7178921+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.9520016+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:57:14.4825065+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:11:13.0342311+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:03:12.7575871+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:16:07.7181098+00:00"
 }

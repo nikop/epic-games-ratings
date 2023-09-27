@@ -5,36 +5,36 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,829 |
-| The Killing Jar | 8.00% | ~14,959 |
-| Not Your Average Trait | 8.00% | ~14,959 |
-| Expanding Horizons | 7.00% | ~13,089 |
-| Quest for Survival | 7.00% | ~13,089 |
-| Gleaming the Cube | 6.00% | ~11,220 |
-| Not a Janitor | 6.00% | ~11,220 |
-| Familiar Face | 6.00% | ~11,220 |
-| Duality | 6.00% | ~11,220 |
-| Boss'n Up | 6.00% | ~11,220 |
-| Good, But Could Be Better! | 6.00% | ~11,220 |
-| Trait Chaser | 6.00% | ~11,220 |
-| Not So Special Now | 5.00% | ~9,350 |
-| Equal Measures | 5.00% | ~9,350 |
-| Blue Goddess | 5.00% | ~9,350 |
-| Top Performer | 5.00% | ~9,350 |
-| Shhh...It's a Secret | 5.00% | ~9,350 |
-| Almost There | 5.00% | ~9,350 |
-| Make Some Room | 5.00% | ~9,350 |
-| Chaos | 4.00% | ~7,480 |
-| Traitor | 4.00% | ~7,480 |
-| Forever is a Long Time Coming | 4.00% | ~7,480 |
-| Power Surge | 4.00% | ~7,480 |
-| The God Gambit | 4.00% | ~7,480 |
-| Dark Designs | 4.00% | ~7,480 |
-| Madman's Paradise | 4.00% | ~7,480 |
-| Was This Supposed To Happen? | 4.00% | ~7,480 |
-| The Web | 4.00% | ~7,480 |
-| Scrap Collector | 4.00% | ~7,480 |
-| All These Traits� | 4.00% | ~7,480 |
+| First of Many | 9.00% | ~16,831 |
+| The Killing Jar | 8.00% | ~14,961 |
+| Not Your Average Trait | 8.00% | ~14,961 |
+| Expanding Horizons | 7.00% | ~13,091 |
+| Quest for Survival | 7.00% | ~13,091 |
+| Gleaming the Cube | 6.00% | ~11,221 |
+| Not a Janitor | 6.00% | ~11,221 |
+| Familiar Face | 6.00% | ~11,221 |
+| Duality | 6.00% | ~11,221 |
+| Boss'n Up | 6.00% | ~11,221 |
+| Good, But Could Be Better! | 6.00% | ~11,221 |
+| Trait Chaser | 6.00% | ~11,221 |
+| Not So Special Now | 5.00% | ~9,351 |
+| Equal Measures | 5.00% | ~9,351 |
+| Blue Goddess | 5.00% | ~9,351 |
+| Top Performer | 5.00% | ~9,351 |
+| Shhh...It's a Secret | 5.00% | ~9,351 |
+| Almost There | 5.00% | ~9,351 |
+| Make Some Room | 5.00% | ~9,351 |
+| Chaos | 4.00% | ~7,481 |
+| Traitor | 4.00% | ~7,481 |
+| Forever is a Long Time Coming | 4.00% | ~7,481 |
+| Power Surge | 4.00% | ~7,481 |
+| The God Gambit | 4.00% | ~7,481 |
+| Dark Designs | 4.00% | ~7,481 |
+| Madman's Paradise | 4.00% | ~7,481 |
+| Was This Supposed To Happen? | 4.00% | ~7,481 |
+| The Web | 4.00% | ~7,481 |
+| Scrap Collector | 4.00% | ~7,481 |
+| All These Traits� | 4.00% | ~7,481 |
 | Am I Seeing This? | 3.00% | ~5,610 |
 | The Agenda | 3.00% | ~5,610 |
 | Tall Tales | 3.00% | ~5,610 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Proving Grounds | 1.00% | ~1,870 |
 | Ghost in the Machine | 0.90% | ~1,683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,992 (Ranked 65)  
+Progressed: 187,013 (Ranked 65)  
 Completed: 338 (0.18%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,14 +129,14 @@ Completed: 338 (0.18%) (Ranked 214)
 | 2023-09-24 | 186,027 | 332 |
 | 2023-09-25 | 186,460 | 334 |
 | 2023-09-26 | 186,828 | 336 |
-| 2023-09-27 | 186,992 | 338 |
+| 2023-09-27 | 187,013 | 338 |
 ## Awards
-Max (Great Boss Battles): 1,724  (Ranked 118)  
-Sum: 3,570 (Ranked 155)  
+Max (Great Boss Battles): 1,729  (Ranked 118)  
+Sum: 3,579 (Ranked 155)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,724 |
+| This game has Great Boss Battles | 1,729 |
 | This game is Extremely Fun | 211 |
 | This game has Challenging Combat | 206 |
 | This game has Diverse Characters | 204 |
@@ -144,7 +144,7 @@ Diff (max vs sum): -37
 | This game is Highly Recommended | 193 |
 | This game has Amazing Characters | 189 |
 | This game has Amazing Storytelling | 183 |
-| This game has Quickly Understood Controls | 172 |
+| This game has Quickly Understood Controls | 176 |
 | This game has Unique Visuals | 161 |
 | This game has a Creative Community | 133 |
 ## Ratings History
@@ -213,4 +213,4 @@ Diff (max vs sum): -37
 | 2023-09-24 | 4.76 | 1,701 | 3,494 |
 | 2023-09-25 | 4.76 | 1,712 | 3,531 |
 | 2023-09-26 | 4.76 | 1,724 | 3,560 |
-| 2023-09-27 | 4.76 | 1,724 | 3,570 |
+| 2023-09-27 | 4.76 | 1,729 | 3,579 |

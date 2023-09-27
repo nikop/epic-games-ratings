@@ -12563,9 +12563,9 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882961,
+  "EOS_Progressed": 883011,
   "EOS_Completed": 2430,
-  "EOS_NewPlayers": 5714,
+  "EOS_NewPlayers": 5750,
   "EOS_NewCompleters": 309,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30528,6 +30528,11 @@
       "Time": "2023-09-27T12:09:29.8666495+00:00",
       "NumProgressed": 882961,
       "NumCompleted": 2430
+    },
+    {
+      "Time": "2023-09-27T13:14:24.7753102+00:00",
+      "NumProgressed": 883011,
+      "NumCompleted": 2430
     }
   ],
   "TotalAchievements": 57,
@@ -30537,9 +30542,9 @@
       "ID": "Bladerunner",
       "SetID": "47clieb",
       "Name": "City Lights",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1766
+      "UsersEstimate": 2649
     },
     {
       "ID": "BornToBeWild",
@@ -30561,9 +30566,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4415
+      "UsersEstimate": 5298
     },
     {
       "ID": "Denied",
@@ -30625,9 +30630,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6181
+      "UsersEstimate": 7064
     },
     {
       "ID": "IAmMaxTac",
@@ -30681,9 +30686,9 @@
       "ID": "NeverFadeAway",
       "SetID": "47clieb",
       "Name": "Breathtaking",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4415
+      "UsersEstimate": 5298
     },
     {
       "ID": "NoMansLand",
@@ -30825,9 +30830,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7064
+      "UsersEstimate": 7947
     },
     {
       "ID": "TrueSoldier",
@@ -30841,9 +30846,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3532
+      "UsersEstimate": 4415
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -30994,21 +30999,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882961,
+      "Progressed": 883011,
       "Completed": 2430
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11584,
+      "Progressed": 11634,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T07:57:41.6042137+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:09:29.8666489+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:14:24.7753098+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:57:34.0496594+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:09:29.8668573+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:03:36.1751577+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:14:24.775541+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 639,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 6825,
   "RatingHistory": [
     {
@@ -10851,10 +10851,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 28434,
       "NumberOfAwardsMax": 3414
+    },
+    {
+      "Time": "2023-09-27T13:08:33.6718621+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 28440,
+      "NumberOfAwardsMax": 3414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28434,
+  "NumberOfAwards": 28440,
   "NumberOfAwardsMax": 3414,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -10886,7 +10892,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2968
+      "Count": 2974
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10942,8 +10948,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-09-27T11:01:15.2319334+00:00",
+  "LastChanged": "2023-09-27T13:08:33.6718619+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.9547212+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:03:29.0696305+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:06:08.8596643+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:08:33.6718628+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:11:03.9364798+00:00"
 }

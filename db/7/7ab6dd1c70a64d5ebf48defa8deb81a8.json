@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
@@ -156,9 +156,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 3,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_03",
@@ -204,9 +204,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": -3.2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_09",
@@ -252,17 +252,17 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": -6.5,
+      "Percentage": -3.2,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": -9.7,
+      "Percentage": -6.5,
       "XP": 20,
-      "UsersEstimate": -3
+      "UsersEstimate": -2
     },
     {
       "ID": "ACH_16",
@@ -324,9 +324,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_24",
@@ -348,9 +348,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": -6.5,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_27",
@@ -364,9 +364,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": -6.5,
+      "Percentage": -3.2,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_29",
@@ -380,9 +380,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": -9.7,
+      "Percentage": -6.5,
       "XP": 15,
-      "UsersEstimate": -3
+      "UsersEstimate": -2
     },
     {
       "ID": "ACH_31",
@@ -404,9 +404,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_35",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:08:32.8335702+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:02:37.513545+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:08:32.8335995+00:00"
+  "LastChanged_Achievements": "2023-09-27T13:13:27.2959999+00:00",
+  "LastUpdate_Ratings": "2023-09-27T13:07:42.1500405+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:13:27.2960396+00:00"
 }

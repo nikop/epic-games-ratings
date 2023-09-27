@@ -378,9 +378,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_20",
@@ -680,8 +680,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:07:53.4235698+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:12:48.4167551+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:05:13.903851+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:07:53.4236179+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:10:15.3460402+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:12:48.4168355+00:00"
 }

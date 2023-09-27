@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,697 |
-| Now You're Talking | 62.00% | ~327,446 |
-| Steel Yourself | 62.00% | ~327,446 |
+| First Step | 70.00% | ~369,699 |
+| Now You're Talking | 62.00% | ~327,447 |
+| Steel Yourself | 62.00% | ~327,447 |
 | Window Dressing | 50.00% | ~264,070 |
-| Trigger Happy | 46.00% | ~242,944 |
+| Trigger Happy | 46.00% | ~242,945 |
 | Riverborn | 45.00% | ~237,663 |
-| Starry Eyed | 34.00% | ~179,567 |
-| Poking Around | 34.00% | ~179,567 |
-| Talk of the Town | 24.00% | ~126,753 |
+| Starry Eyed | 34.00% | ~179,568 |
+| Poking Around | 34.00% | ~179,568 |
+| Talk of the Town | 24.00% | ~126,754 |
 | AAARR! | 23.00% | ~121,472 |
 | Hello Darkness | 23.00% | ~121,472 |
 | Wind At Our Backs | 22.00% | ~116,191 |
 | To the Beat | 20.00% | ~105,628 |
 | Sunny Shores | 17.00% | ~89,784 |
-| Sunday Best | 16.00% | ~84,502 |
+| Sunday Best | 16.00% | ~84,503 |
 | To Victory! | 15.00% | ~79,221 |
-| Two of a Kind | 14.00% | ~73,939 |
+| Two of a Kind | 14.00% | ~73,940 |
 | Keep On Trucking | 13.00% | ~68,658 |
-| Going on an Adventure | 11.00% | ~58,095 |
-| Make Peace, Not War | 11.00% | ~58,095 |
+| Going on an Adventure | 11.00% | ~58,096 |
+| Make Peace, Not War | 11.00% | ~58,096 |
 | Walking The Line | 10.00% | ~52,814 |
 | Not So Cute Anymore | 10.00% | ~52,814 |
 | Road Less Travelled | 9.00% | ~47,533 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,584 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,139 (Ranked 33)  
+Progressed: 528,141 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 479 (0.09%) (Ranked 238)
 | 2023-09-24 | 528,010 | 478 |
 | 2023-09-25 | 528,062 | 478 |
 | 2023-09-26 | 528,121 | 479 |
-| 2023-09-27 | 528,139 | 479 |
+| 2023-09-27 | 528,141 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

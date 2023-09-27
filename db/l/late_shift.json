@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -898,9 +898,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 285
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -995,8 +995,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:09:53.1871878+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:14:47.911338+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.3892619+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:00:10.5695671+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:09:53.1872206+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:05:39.8373012+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:14:47.9113638+00:00"
 }

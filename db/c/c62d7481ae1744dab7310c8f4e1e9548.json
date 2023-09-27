@@ -3,8 +3,8 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 402,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.8,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -366,6 +366,11 @@
       "Time": "2023-09-27T09:07:47.3610842+00:00",
       "NumProgressed": 68,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-27T13:11:59.2302686+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -376,7 +381,7 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -384,7 +389,7 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -434,13 +439,13 @@
       "Name": "Chamois",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -544,7 +549,7 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 23
     },
@@ -552,7 +557,7 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -560,7 +565,7 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -592,7 +597,7 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -617,14 +622,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:07:04.0212757+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:11:59.2302681+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.4227697+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:03:07.6076403+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:07:04.0213163+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:08:13.2371397+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:11:59.2303099+00:00"
 }

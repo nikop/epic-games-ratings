@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 451,
-  "EOS_Completed": 34,
+  "EOS_Completed": 35,
   "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 7.54,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 7.76,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1741,6 +1741,11 @@
       "Time": "2023-09-27T11:08:24.782835+00:00",
       "NumProgressed": 451,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-09-27T13:16:20.2246859+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 45,
@@ -1790,9 +1795,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "BearRum",
@@ -2112,13 +2117,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 451,
-      "Completed": 34
+      "Completed": 35
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:11:25.4589818+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:16:20.2246852+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:03:16.3986374+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:11:25.4590627+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:08:23.9756717+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:16:20.224769+00:00"
 }

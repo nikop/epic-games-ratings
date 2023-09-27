@@ -22,11 +22,11 @@
 | Shadow on the wall | 23.00% | ~29 |
 | Bubblekillerfamily | 23.00% | ~29 |
 | Quite a buggy game | 22.00% | ~27 |
+| Mirror mirror on the wall... | 21.00% | ~26 |
 | Pacifist | 20.00% | ~25 |
-| Mirror mirror on the wall... | 20.00% | ~25 |
 | Fastidious Clown | 19.00% | ~24 |
 | It's not easy being green! | 19.00% | ~24 |
-| Home is where the heart is | 18.00% | ~22 |
+| Home is where the heart is | 19.00% | ~24 |
 | Master of Thermodynamics | 15.00% | ~19 |
 | Death is a part of life | 15.00% | ~19 |
 | Unfullfilled dreams | 13.00% | ~16 |

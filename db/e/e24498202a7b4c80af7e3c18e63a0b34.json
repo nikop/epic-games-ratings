@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 4850,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1710,9 +1710,9 @@
       "ID": "achievement_03_02",
       "SetID": "4f1m94d",
       "Name": "Brazil - Check!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 630
+      "UsersEstimate": 679
     },
     {
       "ID": "achievement_03_03",
@@ -1871,8 +1871,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-09-26T18:04:36.0445807+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:10:47.2848934+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:15:41.9216787+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-27T12:05:23.4889687+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:10:47.2849377+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:10:21.8979578+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:15:41.921719+00:00"
 }

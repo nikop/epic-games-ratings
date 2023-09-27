@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6334,
+  "EOS_Progressed": 6337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10621,6 +10621,11 @@
       "Time": "2023-09-27T12:10:59.5011245+00:00",
       "NumProgressed": 6334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T13:15:54.3849178+00:00",
+      "NumProgressed": 6337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10632,7 +10637,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "10",
@@ -10688,7 +10693,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "3",
@@ -10696,7 +10701,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "4",
@@ -10720,7 +10725,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "7",
@@ -10751,7 +10756,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6334,
+      "Progressed": 6337,
       "Completed": 0
     }
   ],
@@ -10759,8 +10764,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-27T12:10:59.5011238+00:00",
+  "LastChanged_Achievements": "2023-09-27T13:15:54.384917+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:08.1650438+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:57:28.3963595+00:00",
-  "LastUpdate_Achievements": "2023-09-27T12:10:59.5012533+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:03:32.2385159+00:00",
+  "LastUpdate_Achievements": "2023-09-27T13:15:54.3850846+00:00"
 }
