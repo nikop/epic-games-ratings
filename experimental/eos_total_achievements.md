@@ -129,6 +129,7 @@
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [Layers of Fear](../games/l/layers_of_fear.md) | 52 | 1,000 |
+| [Miniland Adventure](../games/8/8900287f0941428abcdd1b92af29abce.md) | 52 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [Redout 2](../games/r/redout_2.md) | 52 | 1,000 |
 | [Severed Steel](../games/s/severed_steel.md) | 52 | 1,000 |
