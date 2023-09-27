@@ -6,18 +6,18 @@ Rating: 4.83 (Ranked 57)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 73.00% | ~3,857 |
-| A Thorny Situation | 70.00% | ~3,698 |
-| ... And Spit Back Out | 59.00% | ~3,117 |
+| A Thorny Situation | 70.00% | ~3,699 |
+| ... And Spit Back Out | 59.00% | ~3,118 |
 | Break-Net Speed | 47.00% | ~2,483 |
 | Bramble Breaker | 43.00% | ~2,272 |
 | Miner 49er | 41.00% | ~2,166 |
-| Humble Collector | 39.00% | ~2,060 |
-| Calm Sailing | 33.00% | ~1,743 |
+| Humble Collector | 39.00% | ~2,061 |
+| Calm Sailing | 33.00% | ~1,744 |
 | Open the Gate! | 30.00% | ~1,585 |
-| Mist Walker | 28.00% | ~1,479 |
+| Mist Walker | 28.00% | ~1,480 |
 | Lumberjack | 24.00% | ~1,268 |
 | Oui, Chef! | 22.00% | ~1,162 |
-| Clear the Air | 15.00% | ~792 |
+| Clear the Air | 15.00% | ~793 |
 | Botanical Breakthrough | 14.00% | ~740 |
 | Beach Comber | 12.00% | ~634 |
 | Search for the Hairy Grell | 10.00% | ~528 |
@@ -29,9 +29,9 @@ Rating: 4.83 (Ranked 57)
 | Flaming Hot Completos | 4.00% | ~211 |
 | Fae Farmer | 4.00% | ~211 |
 | Azorian Anniversary | 4.00% | ~211 |
-| Scattered Scroll Scrounger | 3.00% | ~158 |
-| I Now Pronounce You... | 3.00% | ~158 |
-| Chatty Neighbor | 3.00% | ~158 |
+| Scattered Scroll Scrounger | 3.00% | ~159 |
+| I Now Pronounce You... | 3.00% | ~159 |
+| Chatty Neighbor | 3.00% | ~159 |
 | Right Tool For the Job | 2.00% | ~106 |
 | House Proud | 2.00% | ~106 |
 | Angling Authority | 0.80% | ~42 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 57)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,283 (Ranked 162)  
+Progressed: 5,284 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-24 | 4,931 | 0 |
 | 2023-09-25 | 5,023 | 0 |
 | 2023-09-26 | 5,137 | 0 |
-| 2023-09-27 | 5,283 | 0 |
+| 2023-09-27 | 5,284 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

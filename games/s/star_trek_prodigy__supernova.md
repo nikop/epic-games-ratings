@@ -24,6 +24,7 @@
 | Playing with Time | 7.00% | ~1 |
 | Escape from Mirios | 7.00% | ~1 |
 | Coming in from the Cold | 7.00% | ~1 |
+| Searching for Al'Shams | 7.00% | ~1 |
 | Seeking Discovery | 7.00% | ~1 |
 | Trekkie | 7.00% | ~1 |
 | The Crew is Back! | 7.00% | ~1 |
@@ -37,7 +38,6 @@
 | Exobiology Badge | 0.00% | ~0 |
 | All of the Plunder | 0.00% | ~0 |
 | Crew Love | 0.00% | ~0 |
-| Searching for Al'Shams | 0.00% | ~0 |
 | Stopping the Supernova | 0.00% | ~0 |
 | Saved the System | 0.00% | ~0 |
 | Open Sesame | 0.00% | ~0 |

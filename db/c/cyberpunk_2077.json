@@ -12507,10 +12507,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 230297,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-27T22:57:36.3632054+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 230844,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230297,
+  "NumberOfAwards": 230844,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12554,7 +12560,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 10442
+      "Count": 10741
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12572,7 +12578,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 10209
+      "Count": 10457
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12587,10 +12593,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883466,
-  "EOS_Completed": 2441,
-  "EOS_NewPlayers": 6046,
-  "EOS_NewCompleters": 317,
+  "EOS_Progressed": 883484,
+  "EOS_Completed": 2443,
+  "EOS_NewPlayers": 6051,
+  "EOS_NewCompleters": 319,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30602,6 +30608,11 @@
       "Time": "2023-09-27T22:07:06.6106708+00:00",
       "NumProgressed": 883466,
       "NumCompleted": 2441
+    },
+    {
+      "Time": "2023-09-27T23:06:17.0721359+00:00",
+      "NumProgressed": 883484,
+      "NumCompleted": 2443
     }
   ],
   "TotalAchievements": 57,
@@ -30797,7 +30808,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17669
+      "UsersEstimate": 17670
     },
     {
       "ID": "Temperance",
@@ -30813,7 +30824,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17669
+      "UsersEstimate": 17670
     },
     {
       "ID": "TheDevil",
@@ -30827,9 +30838,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3534
+      "UsersEstimate": 4417
     },
     {
       "ID": "TheHermit",
@@ -30843,9 +30854,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7068
+      "UsersEstimate": 7951
     },
     {
       "ID": "TheLovers",
@@ -30955,9 +30966,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4417
+      "UsersEstimate": 5301
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31068,21 +31079,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883466,
-      "Completed": 2441
+      "Progressed": 883484,
+      "Completed": 2443
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12089,
+      "Progressed": 12107,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-27T20:57:34.7448653+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:07:06.6106698+00:00",
+  "LastChanged": "2023-09-27T22:57:36.3632053+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:06:17.0721352+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:57:48.3146374+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:07:06.6108926+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:57:36.3632061+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:06:17.0723053+00:00"
 }

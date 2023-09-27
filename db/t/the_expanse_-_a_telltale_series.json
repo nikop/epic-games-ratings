@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13048,
+  "EOS_Progressed": 13049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1985,
+  "EOS_NewPlayers": 1973,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6870,6 +6870,11 @@
       "Time": "2023-09-27T22:09:41.9692332+00:00",
       "NumProgressed": 13048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T23:08:28.8510625+00:00",
+      "NumProgressed": 13049,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6946,7 +6951,7 @@
       "Name": "Spore Taste",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3393
     },
     {
       "ID": "18",
@@ -6962,7 +6967,7 @@
       "Name": "Martian Music",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "2",
@@ -7058,7 +7063,7 @@
       "Name": "Captain Drummer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "30",
@@ -7090,7 +7095,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "7",
@@ -7114,14 +7119,14 @@
       "Name": "Impossible Objects",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4437
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13048,
+      "Progressed": 13049,
       "Completed": 0
     }
   ],
@@ -7129,8 +7134,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:09:41.9692322+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:08:28.8510618+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:03:16.1653758+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:09:41.9693302+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:02:20.703465+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:08:28.8511257+00:00"
 }

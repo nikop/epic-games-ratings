@@ -5274,10 +5274,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 12404,
       "NumberOfAwardsMax": 4438
+    },
+    {
+      "Time": "2023-09-27T23:00:46.3056627+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 12431,
+      "NumberOfAwardsMax": 4438
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12404,
+  "NumberOfAwards": 12431,
   "NumberOfAwardsMax": 4438,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5291,7 +5297,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2426
+      "Count": 2441
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5351,12 +5357,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 835
+      "Count": 847
     }
   ],
-  "EOS_Progressed": 803192,
+  "EOS_Progressed": 803212,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 6408,
+  "EOS_NewPlayers": 6394,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19979,6 +19985,11 @@
       "Time": "2023-09-27T22:07:42.3243821+00:00",
       "NumProgressed": 803192,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-27T23:06:47.0720662+00:00",
+      "NumProgressed": 803212,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 75,
@@ -19990,7 +20001,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 176702
+      "UsersEstimate": 176707
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -20070,7 +20081,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40160
+      "UsersEstimate": 40161
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -20086,7 +20097,7 @@
       "Name": "Crafty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40160
+      "UsersEstimate": 40161
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -20286,7 +20297,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48192
+      "UsersEstimate": 48193
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -20326,7 +20337,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40160
+      "UsersEstimate": 40161
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -20398,7 +20409,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 40160
+      "UsersEstimate": 40161
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -20462,7 +20473,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 48192
+      "UsersEstimate": 48193
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -20589,22 +20600,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 803192,
+      "Progressed": 803212,
       "Completed": 205
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 803192,
+      "Progressed": 803212,
       "Completed": 170
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-09-27T20:00:01.755288+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:07:42.3243809+00:00",
+  "LastChanged": "2023-09-27T23:00:46.3056625+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:06:47.0720652+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:57:01.823974+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:01:40.7866756+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:07:42.3246727+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:00:46.3056633+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:06:47.072237+00:00"
 }

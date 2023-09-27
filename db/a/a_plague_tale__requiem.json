@@ -4,11 +4,11 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 163,
   "Ranking_Popularity": 215,
-  "Ranking_PopularitySum": 293,
+  "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -476,9 +476,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13351,
+  "EOS_Progressed": 13352,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -9211,6 +9211,11 @@
       "Time": "2023-09-27T21:06:05.774114+00:00",
       "NumProgressed": 13351,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-27T23:06:04.4303443+00:00",
+      "NumProgressed": 13352,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -9222,7 +9227,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12283
+      "UsersEstimate": 12284
     },
     {
       "ID": "ACH_02",
@@ -9230,7 +9235,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10547
+      "UsersEstimate": 10548
     },
     {
       "ID": "ACH_03",
@@ -9238,7 +9243,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "ACH_04",
@@ -9262,7 +9267,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8678
+      "UsersEstimate": 8679
     },
     {
       "ID": "ACH_07",
@@ -9278,7 +9283,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "ACH_09",
@@ -9286,7 +9291,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7610
+      "UsersEstimate": 7611
     },
     {
       "ID": "ACH_10",
@@ -9310,7 +9315,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ACH_13",
@@ -9501,7 +9506,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13351,
+      "Progressed": 13352,
       "Completed": 47
     }
   ],
@@ -9509,8 +9514,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-27T10:59:16.3934909+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:06:51.6165044+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:06:04.4303437+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:59:17.7536059+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:06:51.6166426+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:58:50.3939218+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:06:04.4304263+00:00"
 }

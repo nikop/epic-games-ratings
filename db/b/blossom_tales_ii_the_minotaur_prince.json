@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
     "PcReleaseDate": "2022-08-16T15:00:00+00:00",
@@ -202,9 +202,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "2e4ldac",
       "Name": "The Lawnmower Lady",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -235,8 +235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:04:58.8361161+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:04:29.443965+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:54.6238351+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:57:59.2455006+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:04:58.8361404+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:57:45.272951+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:04:29.443985+00:00"
 }

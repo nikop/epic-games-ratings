@@ -5,19 +5,19 @@ Rating: 4.24 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,649 |
-| Don't I Know You...? | 76.00% | ~1,566 |
-| Jailbreak | 66.00% | ~1,360 |
+| Rigged And Ready | 80.00% | ~1,650 |
+| Don't I Know You...? | 76.00% | ~1,567 |
+| Jailbreak | 66.00% | ~1,361 |
 | Suited and Booted | 39.00% | ~804 |
-| HEADSHOT! | 38.00% | ~783 |
+| HEADSHOT! | 38.00% | ~784 |
 | Sleeping With The Fishes | 36.00% | ~742 |
-| Overheated | 30.00% | ~618 |
-| High Performance | 30.00% | ~618 |
+| Overheated | 30.00% | ~619 |
+| High Performance | 30.00% | ~619 |
 | Powered Up | 28.00% | ~577 |
-| Studied The Blade | 25.00% | ~515 |
+| Studied The Blade | 25.00% | ~516 |
 | Home Invasion | 23.00% | ~474 |
-| Luminary | 22.00% | ~453 |
-| It's a Trap | 22.00% | ~453 |
+| Luminary | 22.00% | ~454 |
+| It's a Trap | 22.00% | ~454 |
 | True Survivor | 21.00% | ~433 |
 | Offensive Defense | 20.00% | ~412 |
 | Shocking | 20.00% | ~412 |
@@ -25,7 +25,7 @@ Rating: 4.24 (Ranked 848)
 | Clean Cut | 19.00% | ~392 |
 | Unforeseeable Consequences | 19.00% | ~392 |
 | Dead Again | 18.00% | ~371 |
-| Full Arsenal | 17.00% | ~350 |
+| Full Arsenal | 17.00% | ~351 |
 | Can't Trust Banks | 15.00% | ~309 |
 | Mommy Dearest | 14.00% | ~289 |
 | Bad Dog | 13.00% | ~268 |
@@ -36,7 +36,7 @@ Rating: 4.24 (Ranked 848)
 | Marked For Success | 12.00% | ~247 |
 | Sorry, Didn't See You There | 12.00% | ~247 |
 | Triplets | 10.00% | ~206 |
-| Stimulating The Local Economy | 9.00% | ~185 |
+| Stimulating The Local Economy | 9.00% | ~186 |
 | A Little Banged Up | 8.00% | ~165 |
 | Denying Prophecy | 8.00% | ~165 |
 | Following In Their Footsteps | 8.00% | ~165 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 848)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,061 (Ranked 197)  
+Progressed: 2,062 (Ranked 197)  
 Completed: 12 (0.58%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 12 (0.58%) (Ranked 155)
 | 2023-09-24 | 2,052 | 12 |
 | 2023-09-25 | 2,055 | 12 |
 | 2023-09-26 | 2,056 | 12 |
-| 2023-09-27 | 2,061 | 12 |
+| 2023-09-27 | 2,062 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

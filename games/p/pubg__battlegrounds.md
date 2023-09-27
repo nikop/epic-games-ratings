@@ -5,27 +5,27 @@ Rating: 3.98 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 73.00% | ~450,834 |
-| Health Junkie | 41.00% | ~253,208 |
-| You Complete Me | 39.00% | ~240,857 |
-| Guardian Angel | 35.00% | ~216,153 |
-| Devil Inside Me | 27.00% | ~166,747 |
-| Fantastic Four | 20.00% | ~123,516 |
-| Killing Spree | 19.00% | ~117,340 |
-| Marksman Novice | 17.00% | ~104,989 |
-| First Blood | 12.00% | ~74,110 |
-| Top 10 | 12.00% | ~74,110 |
-| Now You See Me, Now You Don't | 10.00% | ~61,758 |
-| Marksman Expert | 8.00% | ~49,406 |
-| CQB Novice | 8.00% | ~49,406 |
-| Collateral Damage | 6.00% | ~37,055 |
-| Airborne | 6.00% | ~37,055 |
-| Pacifist | 5.00% | ~30,879 |
-| Last Survivor | 4.00% | ~24,703 |
-| Trigonometry Novice | 4.00% | ~24,703 |
-| First Come, First Served | 4.00% | ~24,703 |
-| Marksman Master | 3.00% | ~18,527 |
-| Dynamic Duo | 3.00% | ~18,527 |
+| Blood on My Hands | 73.00% | ~450,862 |
+| Health Junkie | 41.00% | ~253,224 |
+| You Complete Me | 39.00% | ~240,871 |
+| Guardian Angel | 35.00% | ~216,167 |
+| Devil Inside Me | 27.00% | ~166,757 |
+| Fantastic Four | 20.00% | ~123,524 |
+| Killing Spree | 19.00% | ~117,348 |
+| Marksman Novice | 17.00% | ~104,995 |
+| First Blood | 12.00% | ~74,114 |
+| Top 10 | 12.00% | ~74,114 |
+| Now You See Me, Now You Don't | 10.00% | ~61,762 |
+| Marksman Expert | 8.00% | ~49,410 |
+| CQB Novice | 8.00% | ~49,410 |
+| Collateral Damage | 6.00% | ~37,057 |
+| Airborne | 6.00% | ~37,057 |
+| Pacifist | 5.00% | ~30,881 |
+| Last Survivor | 4.00% | ~24,705 |
+| Trigonometry Novice | 4.00% | ~24,705 |
+| First Come, First Served | 4.00% | ~24,705 |
+| Marksman Master | 3.00% | ~18,529 |
+| Dynamic Duo | 3.00% | ~18,529 |
 | Winner Winner Chicken Dinner! | 2.00% | ~12,352 |
 | Okay, Now I'm Ready | 2.00% | ~12,352 |
 | Agent 48 | 2.00% | ~12,352 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 960)
 | Nade King Master | 0.10% | ~618 |
 | Shoot the Knee | 0.10% | ~618 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,581 (Ranked 28)  
+Progressed: 617,619 (Ranked 28)  
 Completed: 10 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 10 (0.00%) (Ranked 296)
 | 2023-09-24 | 613,057 | 10 |
 | 2023-09-25 | 614,590 | 10 |
 | 2023-09-26 | 616,153 | 10 |
-| 2023-09-27 | 617,581 | 10 |
+| 2023-09-27 | 617,619 | 10 |
 ## Awards
 Max (Competitive Players): 3,773  (Ranked 85)  
 Sum: 12,353 (Ranked 77)  

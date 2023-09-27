@@ -15,7 +15,7 @@
 | Tornado Chaser | 16.00% | ~62 |
 | Bomberman | 11.00% | ~42 |
 | Bubble Party | 9.00% | ~35 |
-| The Colossus | 8.00% | ~31 |
+| The Colossus | 9.00% | ~35 |
 | Floor is Lava | 7.00% | ~27 |
 | Pim Pam Pum | 7.00% | ~27 |
 | Ambush | 5.00% | ~19 |

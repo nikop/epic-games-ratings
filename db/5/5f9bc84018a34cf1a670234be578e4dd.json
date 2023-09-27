@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 262,
-  "EOS_Completed": 64,
+  "EOS_Completed": 65,
   "EOS_NewPlayers": 34,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 24.43,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 24.81,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1341,6 +1341,11 @@
       "Time": "2023-09-27T21:05:29.8076249+00:00",
       "NumProgressed": 262,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-09-27T23:05:28.8890921+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1367,9 +1372,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "FallDeath",
@@ -1423,9 +1428,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "Hologram",
@@ -1465,13 +1470,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 262,
-      "Completed": 64
+      "Completed": 65
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:06:09.5022488+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:05:28.8890909+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.4954104+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:00:54.9811594+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:06:09.5022745+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:00:08.2535148+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:05:28.8891109+00:00"
 }

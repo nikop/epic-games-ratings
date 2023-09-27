@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6299,
+  "EOS_Progressed": 6300,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5468,6 +5468,11 @@
       "Time": "2023-09-27T21:04:01.565912+00:00",
       "NumProgressed": 6299,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-27T23:03:52.4324755+00:00",
+      "NumProgressed": 6300,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5511,7 +5516,7 @@
       "Name": "Benedict Brahrnold",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "BeBack",
@@ -5559,7 +5564,7 @@
       "Name": "Casanova",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CaughtInAct",
@@ -5791,7 +5796,7 @@
       "Name": "Now It\u0027s a Party!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Pat_Relentless",
@@ -6023,28 +6028,28 @@
       "Name": "Te Amo Lety",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3338,
+      "Progressed": 3339,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6299,
+      "Progressed": 6300,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:04:26.8476231+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:03:52.4324745+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:06.5804023+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:01:01.4363553+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:04:26.8477271+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:00:13.6325879+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:03:52.4325806+00:00"
 }

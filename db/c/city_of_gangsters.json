@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 345242,
+  "EOS_Progressed": 345243,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1075,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18627,6 +18627,11 @@
       "Time": "2023-09-27T22:05:42.9844579+00:00",
       "NumProgressed": 345242,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-27T23:05:06.5663889+00:00",
+      "NumProgressed": 345243,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18766,7 +18771,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44881
+      "UsersEstimate": 44882
     },
     {
       "ID": "ach018",
@@ -18846,7 +18851,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158811
+      "UsersEstimate": 158812
     },
     {
       "ID": "ach028",
@@ -18990,7 +18995,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44881
+      "UsersEstimate": 44882
     },
     {
       "ID": "ach046",
@@ -19277,7 +19282,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345242,
+      "Progressed": 345243,
       "Completed": 7
     }
   ],
@@ -19285,8 +19290,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-26T19:57:39.174823+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:05:42.9844566+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:05:06.5663881+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:57:51.1695048+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:05:42.9848147+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:57:38.5232162+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:05:06.5665979+00:00"
 }

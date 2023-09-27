@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shiny New Weapons | 54.00% | ~7 |
-| The Lawnmower Lady | 23.00% | ~3 |
+| The Lawnmower Lady | 31.00% | ~4 |
 | Completely Hooked | 15.00% | ~2 |
 | Money Bags | 15.00% | ~2 |
 | Lily: Warrior Princess | 15.00% | ~2 |

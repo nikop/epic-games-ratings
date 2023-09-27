@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~3,570 |
-| Safety in the Storm | 25.00% | ~940 |
-| A Better Idea | 25.00% | ~940 |
-| Begin the Ceremony | 21.00% | ~789 |
-| Mission Accomplished | 20.00% | ~752 |
-| The Galaxy's Finest (Story Mode) | 16.00% | ~601 |
-| A Starfighter of Your Own | 14.00% | ~526 |
-| Asset Secured | 13.00% | ~489 |
-| Unkillable | 8.00% | ~301 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~263 |
-| Sound Strategy | 7.00% | ~263 |
-| Together, Vanguard | 7.00% | ~263 |
-| Stomped | 6.00% | ~225 |
+| Fracture at Fostar Haven | 95.00% | ~3,582 |
+| Safety in the Storm | 25.00% | ~942 |
+| A Better Idea | 24.00% | ~905 |
+| Begin the Ceremony | 21.00% | ~792 |
+| Mission Accomplished | 20.00% | ~754 |
+| The Galaxy's Finest (Story Mode) | 16.00% | ~603 |
+| A Starfighter of Your Own | 14.00% | ~528 |
+| Asset Secured | 13.00% | ~490 |
+| Unkillable | 8.00% | ~302 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~264 |
+| Sound Strategy | 7.00% | ~264 |
+| Together, Vanguard | 7.00% | ~264 |
+| Stomped | 6.00% | ~226 |
 | Great Shot, Kid | 5.00% | ~188 |
 | Fearless | 5.00% | ~188 |
 | Flames Over Mon Cala | 5.00% | ~188 |
 | A Promising Career | 5.00% | ~188 |
-| Back From the Brink | 4.00% | ~150 |
-| Temporary Guardian | 4.00% | ~150 |
-| Baited | 4.00% | ~150 |
+| Back From the Brink | 4.00% | ~151 |
+| Temporary Guardian | 4.00% | ~151 |
+| Baited | 4.00% | ~151 |
 | Stronger Together | 3.00% | ~113 |
 | Stun 'Em | 3.00% | ~113 |
 | Squadron Hunter | 3.00% | ~113 |
@@ -34,9 +34,9 @@
 | Found Your Place | 1.00% | ~38 |
 | Denied | 1.00% | ~38 |
 | Against the Current | 1.00% | ~38 |
-| Seasoned Star Pilot | 0.90% | ~34 |
 | Unstoppable Ace | 0.90% | ~34 |
-| Special Modifications | 0.90% | ~34 |
+| Seasoned Star Pilot | 0.80% | ~30 |
+| Special Modifications | 0.80% | ~30 |
 | Got 'Em | 0.70% | ~26 |
 | Heavy Hitter | 0.60% | ~23 |
 | The Trap is Set | 0.60% | ~23 |
@@ -52,7 +52,7 @@
 | Trigger Happy | 0.10% | ~4 |
 | Fully Decorated | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,758 (Ranked 171)  
+Progressed: 3,770 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-24 | 2,612 | 0 |
 | 2023-09-25 | 2,997 | 0 |
 | 2023-09-26 | 3,396 | 0 |
-| 2023-09-27 | 3,758 | 0 |
+| 2023-09-27 | 3,770 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

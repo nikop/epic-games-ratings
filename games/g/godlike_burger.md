@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.27 (Ranked 825)  
+Rating: 4.27 (Ranked 826)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.27 (Ranked 825)
 | GRANDMA WOULD BE PROUD | 44.00% | ~191 |
 | WITHOUT BREAKING A SWEAT | 40.00% | ~174 |
 | HONORS STUDENT | 36.00% | ~156 |
-| BUTCHER | 25.00% | ~108 |
+| BUTCHER | 26.00% | ~113 |
 | RAMBO | 22.00% | ~95 |
 | INDIVIDUAL APPROACH | 20.00% | ~87 |
 | HELL'S KITCHEN | 19.00% | ~82 |

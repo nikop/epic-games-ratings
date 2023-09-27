@@ -2,10 +2,10 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
-  "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 255,
-  "EOS_Completed": 14,
+  "EOS_Completed": 15,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.49,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -573,6 +573,11 @@
       "Time": "2023-09-27T11:05:40.4661523+00:00",
       "NumProgressed": 255,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-27T23:05:43.2142741+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -800,15 +805,15 @@
       "ID": "6od1ndi",
       "IsBase": true,
       "Progressed": 255,
-      "Completed": 14
+      "Completed": 15
     }
   ],
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:06:26.581111+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:05:43.2142732+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.6539902+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:00:28.1848013+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:06:26.5811353+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:59:48.1507257+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:05:43.2142979+00:00"
 }

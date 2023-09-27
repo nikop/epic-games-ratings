@@ -1006,9 +1006,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5260,
+  "EOS_Progressed": 5264,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1139,
+  "EOS_NewPlayers": 1137,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4381,6 +4381,11 @@
       "Time": "2023-09-27T22:03:30.4888105+00:00",
       "NumProgressed": 5260,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-27T23:03:13.1382275+00:00",
+      "NumProgressed": 5264,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4441,7 +4446,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1948
     },
     {
       "ID": "a_19",
@@ -4481,7 +4486,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "a_23",
@@ -4497,7 +4502,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "a_26",
@@ -4640,7 +4645,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5260,
+      "Progressed": 5264,
       "Completed": 7
     }
   ],
@@ -4648,8 +4653,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-27T20:02:10.5441398+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:03:30.4888096+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:03:13.1382267+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:02:22.30802+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:03:30.4888619+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:02:09.9771223+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:03:13.1382767+00:00"
 }

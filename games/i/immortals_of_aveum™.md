@@ -11,7 +11,7 @@ Rating: 4.00 (Ranked 953)
 | Enlisted | 79.00% | ~19 |
 | No More Names | 67.00% | ~16 |
 | Initiate | 67.00% | ~16 |
-| Thrada-Kul | 54.00% | ~13 |
+| Thrada-Kul | 58.00% | ~14 |
 | Soldier | 42.00% | ~10 |
 | Gravity-Challenged Rocks | 42.00% | ~10 |
 | All the Major Food Groups | 33.00% | ~8 |
@@ -20,21 +20,21 @@ Rating: 4.00 (Ranked 953)
 | Control is an Illusion | 25.00% | ~6 |
 | Resilience to Sin | 25.00% | ~6 |
 | Socialite | 25.00% | ~6 |
+| A Familiar Nest | 21.00% | ~5 |
 | Armsman | 21.00% | ~5 |
-| A Familiar Nest | 17.00% | ~4 |
+| Periapt Alizarin | 21.00% | ~5 |
 | Geas Aristeya | 17.00% | ~4 |
 | A Perfect Cycle | 17.00% | ~4 |
 | Recruit | 17.00% | ~4 |
-| Periapt Alizarin | 17.00% | ~4 |
 | Good Boy | 17.00% | ~4 |
 | Lights Army | 13.00% | ~3 |
 | Armaments Gules | 13.00% | ~3 |
 | Periapt Cerulean | 13.00% | ~3 |
 | Veteran | 13.00% | ~3 |
+| Shroudfane Explorer | 13.00% | ~3 |
 | Scholar | 8.00% | ~2 |
 | Armaments Azure | 8.00% | ~2 |
 | Periapt Viridian | 8.00% | ~2 |
-| Shroudfane Explorer | 8.00% | ~2 |
 | Kitted Out | 4.00% | ~1 |
 | Best Dressed | 4.00% | ~1 |
 | Armaments Vert | 4.00% | ~1 |

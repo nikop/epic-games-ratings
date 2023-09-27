@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,436 |
-| Captain Drummer | 30.00% | ~3,914 |
+| Impossible Objects | 34.00% | ~4,437 |
+| Captain Drummer | 30.00% | ~3,915 |
 | Stogie for Fogey | 29.00% | ~3,784 |
-| Martian Music | 28.00% | ~3,653 |
-| Celebrations are in Order | 28.00% | ~3,653 |
-| Spore Taste | 26.00% | ~3,392 |
+| Martian Music | 28.00% | ~3,654 |
+| Celebrations are in Order | 28.00% | ~3,654 |
+| Spore Taste | 26.00% | ~3,393 |
 | The Pit and the Pirates | 25.00% | ~3,262 |
 | Drone Dodger | 24.00% | ~3,132 |
 | Doctor Approved | 19.00% | ~2,479 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 491)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,048 (Ranked 133)  
+Progressed: 13,049 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
-| 2023-09-27 | 13,048 | 0 |
+| 2023-09-27 | 13,049 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

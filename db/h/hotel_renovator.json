@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1055,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -1826,6 +1826,11 @@
       "Time": "2023-09-27T21:05:48.6297322+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-27T23:05:47.5797887+00:00",
+      "NumProgressed": 1055,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1853,7 +1858,7 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1877,7 +1882,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1893,7 +1898,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1925,7 +1930,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1941,7 +1946,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1957,7 +1962,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1965,7 +1970,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1973,7 +1978,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1989,7 +1994,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_STAR_2",
@@ -1997,7 +2002,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_STAR_3",
@@ -2037,7 +2042,7 @@
       "Name": "Excellent service",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2052,7 +2057,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1055,
       "Completed": 15
     }
   ],
@@ -2060,8 +2065,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-27T17:59:53.7584107+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:06:31.8764522+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:05:47.579788+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:14.2726698+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:01:41.0265053+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:06:31.8765029+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:00:46.4650457+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:05:47.5798198+00:00"
 }

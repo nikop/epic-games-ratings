@@ -22,10 +22,10 @@ Rating: 4.56 (Ranked 474)
 | Exceeding Capacity | 10.00% | ~319 |
 | Breaking Protocol | 10.00% | ~319 |
 | Man's Best Friend | 8.00% | ~255 |
-| Sightseeing | 7.00% | ~223 |
-| Power Outage | 7.00% | ~223 |
-| Convenient Transport | 7.00% | ~223 |
-| Please Make it Stop! | 7.00% | ~223 |
+| Sightseeing | 7.00% | ~224 |
+| Power Outage | 7.00% | ~224 |
+| Convenient Transport | 7.00% | ~224 |
+| Please Make it Stop! | 7.00% | ~224 |
 | Necessary Enhancement | 6.00% | ~192 |
 | From the Past | 6.00% | ~192 |
 | Access Granted | 5.00% | ~160 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 474)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,192 (Ranked 185)  
+Progressed: 3,193 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-22 | 3,181 | 0 |
 | 2023-09-23 | 3,185 | 0 |
 | 2023-09-24 | 3,189 | 0 |
-| 2023-09-27 | 3,192 | 0 |
+| 2023-09-27 | 3,193 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

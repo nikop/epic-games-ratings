@@ -694,9 +694,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 10438,
+  "EOS_Progressed": 10439,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10669,6 +10669,11 @@
       "Time": "2023-09-27T22:06:48.9091181+00:00",
       "NumProgressed": 10438,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-27T23:06:02.0528952+00:00",
+      "NumProgressed": 10439,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10808,7 +10813,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH18",
@@ -10840,7 +10845,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4801
+      "UsersEstimate": 4802
     },
     {
       "ID": "ACH22",
@@ -10912,7 +10917,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH31",
@@ -10951,7 +10956,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10438,
+      "Progressed": 10439,
       "Completed": 58
     }
   ],
@@ -10959,8 +10964,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-27T21:58:13.3860859+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:06:48.9091175+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:06:02.0528944+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:58:13.3860865+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:06:48.9092052+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:57:56.9393126+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:06:02.0529844+00:00"
 }

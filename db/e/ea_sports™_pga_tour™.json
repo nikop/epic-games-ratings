@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.24,
+  "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -692,6 +692,11 @@
       "Time": "2023-09-27T21:09:21.5427421+00:00",
       "NumProgressed": 268,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-27T23:08:29.9613638+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -712,7 +717,7 @@
       "Name": "Holey Moley",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_11",
@@ -720,7 +725,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_12",
@@ -760,7 +765,7 @@
       "Name": "Star Power",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_17",
@@ -768,7 +773,7 @@
       "Name": "Clean Sheet",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_18",
@@ -776,7 +781,7 @@
       "Name": "Perfect Round",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_2",
@@ -792,7 +797,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_4",
@@ -800,7 +805,7 @@
       "Name": "From Many, One",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_5",
@@ -816,15 +821,15 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_8",
@@ -847,13 +852,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:09:43.3713006+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:08:29.9613631+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:00:07.2050909+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:09:43.3713202+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:59:30.8826393+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:08:29.9613821+00:00"
 }

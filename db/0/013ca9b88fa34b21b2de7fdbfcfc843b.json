@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5283,
+  "EOS_Progressed": 5284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-09-27T22:06:32.3020433+00:00",
       "NumProgressed": 5283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T23:05:47.9103908+00:00",
+      "NumProgressed": 5284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -2495,7 +2500,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -2503,7 +2508,7 @@
       "Name": "Calm Sailing",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -2519,7 +2524,7 @@
       "Name": "Clear the Air",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -2623,7 +2628,7 @@
       "Name": "Humble Collector",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -2631,7 +2636,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -2639,7 +2644,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -2647,7 +2652,7 @@
       "Name": "Mist Walker",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -2687,7 +2692,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -2695,7 +2700,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -2766,7 +2771,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5283,
+      "Progressed": 5284,
       "Completed": 0
     }
   ],
@@ -2774,8 +2779,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-26T19:02:05.5015028+00:00",
-  "LastChanged_Achievements": "2023-09-27T22:06:32.3020424+00:00",
+  "LastChanged_Achievements": "2023-09-27T23:05:47.91039+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:01:49.6284342+00:00",
-  "LastUpdate_Achievements": "2023-09-27T22:06:32.3021131+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:00:53.4218865+00:00",
+  "LastUpdate_Achievements": "2023-09-27T23:05:47.910432+00:00"
 }
