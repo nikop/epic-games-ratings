@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 223,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10002,7 +10002,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 415317,
+  "EOS_Progressed": 415327,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 6704,
   "EOS_NewCompleters": 1,
@@ -28017,6 +28017,11 @@
       "Time": "2023-09-27T01:51:18.2528593+00:00",
       "NumProgressed": 415317,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T02:26:34.5541417+00:00",
+      "NumProgressed": 415327,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -28468,7 +28473,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8306
+      "UsersEstimate": 8307
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -28860,7 +28865,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8306
+      "UsersEstimate": 8307
     },
     {
       "ID": "achievement_forever_golden",
@@ -29052,7 +29057,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8306
+      "UsersEstimate": 8307
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -30028,7 +30033,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8306
+      "UsersEstimate": 8307
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -30859,21 +30864,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 415317,
+      "Progressed": 415327,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 415317,
+      "Progressed": 415327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-27T01:45:46.1227112+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:51:18.2528589+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:26:34.5541413+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:45:46.1227121+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:51:18.2543201+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:20:39.6705157+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:26:34.5557549+00:00"
 }

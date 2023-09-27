@@ -1,23 +1,23 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.62 (Ranked 354)  
+Rating: 4.62 (Ranked 353)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,874 |
-| All thumbs | 92.00% | ~4,822 |
-| I will survive! | 92.00% | ~4,822 |
-| Home, sweet home | 91.00% | ~4,769 |
-| Survivalist | 89.00% | ~4,664 |
-| One way ticket | 84.00% | ~4,402 |
-| Last man standing | 79.00% | ~4,140 |
+| Prepper | 93.00% | ~4,875 |
+| All thumbs | 92.00% | ~4,823 |
+| I will survive! | 92.00% | ~4,823 |
+| Home, sweet home | 91.00% | ~4,770 |
+| Survivalist | 89.00% | ~4,665 |
+| One way ticket | 84.00% | ~4,403 |
+| Last man standing | 79.00% | ~4,141 |
 | Family guy | 77.00% | ~4,036 |
-| Out of the Bag | 75.00% | ~3,931 |
+| Out of the Bag | 75.00% | ~3,932 |
 | The Dark Side | 70.00% | ~3,669 |
 | Duck and cover! | 65.00% | ~3,407 |
-| Souper! | 64.00% | ~3,354 |
-| Pacifist | 59.00% | ~3,092 |
+| Souper! | 64.00% | ~3,355 |
+| Pacifist | 59.00% | ~3,093 |
 | 2-1-6 | 58.00% | ~3,040 |
 | A gift | 53.00% | ~2,778 |
 | Girl Power | 48.00% | ~2,516 |
@@ -29,7 +29,7 @@ Rating: 4.62 (Ranked 354)
 | Atomic drill | 32.00% | ~1,677 |
 | Disco Roach | 27.00% | ~1,415 |
 | Dawkins Residence | 21.00% | ~1,101 |
-| Rescue time! | 18.00% | ~943 |
+| Rescue time! | 18.00% | ~944 |
 | New order | 17.00% | ~891 |
 | New species | 17.00% | ~891 |
 | A New Hope | 16.00% | ~839 |
@@ -40,7 +40,7 @@ Rating: 4.62 (Ranked 354)
 | Unplugged | 8.00% | ~419 |
 | Holidays! | 7.00% | ~367 |
 | Mad Hatter | 7.00% | ~367 |
-| Yes Man | 6.00% | ~314 |
+| Yes Man | 6.00% | ~315 |
 | Take that, Brundlefly! | 5.00% | ~262 |
 | Lumbersexual | 5.00% | ~262 |
 | Danger zone | 4.00% | ~210 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 354)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,241 (Ranked 161)  
+Progressed: 5,242 (Ranked 161)  
 Completed: 1 (0.02%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 1 (0.02%) (Ranked 269)
 | 2023-09-24 | 5,209 | 1 |
 | 2023-09-25 | 5,223 | 1 |
 | 2023-09-26 | 5,239 | 1 |
-| 2023-09-27 | 5,241 | 1 |
+| 2023-09-27 | 5,242 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

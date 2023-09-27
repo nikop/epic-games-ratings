@@ -1,7 +1,7 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.64 (Ranked 316)  
+Rating: 4.64 (Ranked 315)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~145 |
 | A True Challenge | 2.00% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,236 (Ranked 149)  
+Progressed: 7,236 (Ranked 150)  
 Completed: 53 (0.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |

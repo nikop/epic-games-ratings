@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66253,
+  "EOS_Progressed": 66254,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15999,6 +15999,11 @@
       "Time": "2023-09-27T01:50:40.6357268+00:00",
       "NumProgressed": 66253,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-27T02:26:01.7474481+00:00",
+      "NumProgressed": 66254,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16010,7 +16015,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27826
+      "UsersEstimate": 27827
     },
     {
       "ID": "02",
@@ -16066,7 +16071,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "09",
@@ -16178,7 +16183,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "23",
@@ -16218,7 +16223,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "28",
@@ -16226,7 +16231,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "29",
@@ -16234,7 +16239,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10600
+      "UsersEstimate": 10601
     },
     {
       "ID": "30",
@@ -16258,7 +16263,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21863
+      "UsersEstimate": 21864
     },
     {
       "ID": "33",
@@ -16370,7 +16375,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10600
+      "UsersEstimate": 10601
     },
     {
       "ID": "47",
@@ -16545,21 +16550,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66253,
+      "Progressed": 66254,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29721,
+      "Progressed": 29722,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:50:40.6357262+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:26:01.7474473+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:46:01.8876647+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:50:40.6359884+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:20:57.1653619+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:26:01.7476389+00:00"
 }

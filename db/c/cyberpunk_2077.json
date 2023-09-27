@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 335,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
@@ -12551,9 +12551,9 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882638,
+  "EOS_Progressed": 882662,
   "EOS_Completed": 2424,
-  "EOS_NewPlayers": 5460,
+  "EOS_NewPlayers": 5483,
   "EOS_NewCompleters": 304,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30461,6 +30461,11 @@
       "Time": "2023-09-27T01:49:37.2686733+00:00",
       "NumProgressed": 882638,
       "NumCompleted": 2424
+    },
+    {
+      "Time": "2023-09-27T02:25:11.1462066+00:00",
+      "NumProgressed": 882662,
+      "NumCompleted": 2424
     }
   ],
   "TotalAchievements": 57,
@@ -30654,9 +30659,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7944
+      "UsersEstimate": 8827
     },
     {
       "ID": "Temperance",
@@ -30672,7 +30677,7 @@
       "Name": "Rough Landing",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "TheDevil",
@@ -30760,7 +30765,7 @@
       "Name": "The Jungle",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6178
+      "UsersEstimate": 6179
     },
     {
       "ID": "TrueSoldier",
@@ -30782,9 +30787,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4413
+      "UsersEstimate": 5296
     },
     {
       "ID": "UnderPressure",
@@ -30927,21 +30932,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882638,
+      "Progressed": 882662,
       "Completed": 2424
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11261,
+      "Progressed": 11285,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T01:39:59.2170441+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:49:37.2686729+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:25:11.1462062+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:39:59.217045+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:49:37.2688568+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:14:02.1706591+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:25:11.1464951+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -736,6 +736,11 @@
       "Time": "2023-09-25T20:02:21.2266265+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T02:22:31.6954737+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -802,9 +807,9 @@
       "ID": "ACHIEVEMENT_ID_15",
       "SetID": "c504de6",
       "Name": "Outdoor Decorator",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_16",
@@ -866,9 +871,9 @@
       "ID": "ACHIEVEMENT_ID_22",
       "SetID": "c504de6",
       "Name": "Desert Power",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -908,7 +913,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -922,9 +927,9 @@
       "ID": "ACHIEVEMENT_ID_29",
       "SetID": "c504de6",
       "Name": "Training Camp",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_3",
@@ -1099,14 +1104,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:47:21.719945+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:22:31.6954732+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.4311335+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:40:42.3334867+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:47:21.7199905+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:14:39.9828992+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:22:31.6955135+00:00"
 }

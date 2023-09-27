@@ -290,9 +290,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 221641,
+  "EOS_Progressed": 221643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2204,
+  "EOS_NewPlayers": 2201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7630,6 +7630,11 @@
       "Time": "2023-09-27T01:51:19.6538298+00:00",
       "NumProgressed": 221641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T02:26:36.0113558+00:00",
+      "NumProgressed": 221643,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -7698,7 +7703,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 44328
+      "UsersEstimate": 44329
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -7826,7 +7831,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28813
+      "UsersEstimate": 28814
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -7898,7 +7903,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55410
+      "UsersEstimate": 55411
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -7913,7 +7918,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 221641,
+      "Progressed": 221643,
       "Completed": 0
     }
   ],
@@ -7921,8 +7926,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-24T19:58:48.7144516+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:51:19.6538294+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:26:36.0113554+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.9329368+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:44:03.1420112+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:51:19.6539221+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:18:33.5870924+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:26:36.0114433+00:00"
 }

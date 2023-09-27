@@ -7,11 +7,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 38.00% | ~239,022 |
-| Into the Unknown | 35.00% | ~220,151 |
-| First Shot | 35.00% | ~220,151 |
-| Herzlich Wilkommen! | 33.00% | ~207,571 |
-| Good Night & Good Luck | 33.00% | ~207,571 |
-| Sancho Panza | 31.00% | ~194,991 |
+| Into the Unknown | 35.00% | ~220,152 |
+| First Shot | 35.00% | ~220,152 |
+| Herzlich Wilkommen! | 33.00% | ~207,572 |
+| Good Night & Good Luck | 33.00% | ~207,572 |
+| Sancho Panza | 31.00% | ~194,992 |
 | Oh, So This Is How It Works! | 29.00% | ~182,411 |
 | Flag Burning | 27.00% | ~169,831 |
 | Can't Touch This! | 25.00% | ~157,251 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Your World, Your Rules | 14.00% | ~88,061 |
 | Death From Afar | 14.00% | ~88,061 |
 | Terminal Headache | 14.00% | ~88,061 |
-| Slowpoke! | 12.00% | ~75,480 |
+| Slowpoke! | 12.00% | ~75,481 |
 | Tickets, Please! | 7.00% | ~44,030 |
 | Parkour Master | 6.00% | ~37,740 |
 | Combat Master | 6.00% | ~37,740 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~274 |
 | Connoisseur | 0.10% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 629,004 (Ranked 27)  
+Progressed: 629,005 (Ranked 27)  
 Completed: 63 (0.01%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 63 (0.01%) (Ranked 278)
 | 2023-09-24 | 628,298 | 63 |
 | 2023-09-25 | 628,647 | 63 |
 | 2023-09-26 | 628,985 | 63 |
-| 2023-09-27 | 629,004 | 63 |
+| 2023-09-27 | 629,005 | 63 |
 ## Awards
 Max (Character Customization): 9,281  (Ranked 39)  
 Sum: 22,629 (Ranked 53)  

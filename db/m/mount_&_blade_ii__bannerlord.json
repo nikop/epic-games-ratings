@@ -4,7 +4,7 @@
   "ProductSlug": "mount-and-blade-2",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 51,
-  "Ranking_PopularitySum": 68,
+  "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 88,
@@ -7381,18 +7381,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14598,
       "NumberOfAwardsMax": 7135
+    },
+    {
+      "Time": "2023-09-27T02:21:49.5170763+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14607,
+      "NumberOfAwardsMax": 7144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14598,
-  "NumberOfAwardsMax": 7135,
+  "NumberOfAwards": 14607,
+  "NumberOfAwardsMax": 7144,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7135
+      "Count": 7144
     },
     {
       "Text": "This game is Highly Recommended",
@@ -24810,9 +24816,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-26T22:04:22.3931474+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:48:42.5148218+00:00",
+  "LastChanged": "2023-09-27T02:21:49.5170761+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:24:06.8525992+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:46:48.181866+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:48:42.5150122+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:21:49.5170768+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:24:06.8527716+00:00"
 }

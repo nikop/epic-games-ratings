@@ -1,23 +1,23 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 305)  
+Rating: 4.65 (Ranked 304)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,745,963 |
-| Easy to forget | 46.00% | ~1,639,067 |
-| Back in the black | 39.00% | ~1,389,644 |
-| That's what I'm talking about | 29.00% | ~1,033,325 |
-| The Best of Both Worlds | 25.00% | ~890,798 |
-| Get your wings | 20.00% | ~712,638 |
-| Double trouble | 16.00% | ~570,110 |
+| You need to plug it in... | 49.00% | ~1,745,966 |
+| Easy to forget | 46.00% | ~1,639,070 |
+| Back in the black | 39.00% | ~1,389,646 |
+| That's what I'm talking about | 29.00% | ~1,033,327 |
+| The Best of Both Worlds | 25.00% | ~890,799 |
+| Get your wings | 20.00% | ~712,639 |
+| Double trouble | 16.00% | ~570,111 |
 | Smashing it | 11.00% | ~391,951 |
-| But can it run Crysis? | 9.00% | ~320,687 |
-| My favourite feature... | 9.00% | ~320,687 |
-| From humble beginnings... | 7.00% | ~249,423 |
-| Customer satisfaction | 7.00% | ~249,423 |
+| But can it run Crysis? | 9.00% | ~320,688 |
+| My favourite feature... | 9.00% | ~320,688 |
+| From humble beginnings... | 7.00% | ~249,424 |
+| Customer satisfaction | 7.00% | ~249,424 |
 | Keeping things neat | 4.00% | ~142,528 |
 | Seems you're pretty good at this | 4.00% | ~142,528 |
 | Bending over backwards | 4.00% | ~142,528 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,563 |
 | Treat yourself - GPU | 0.10% | ~3,563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,563,190 (Ranked 5)  
+Progressed: 3,563,195 (Ranked 5)  
 Completed: 35 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 35 (0.00%) (Ranked 294)
 | 2023-09-24 | 3,562,373 | 35 |
 | 2023-09-25 | 3,562,767 | 35 |
 | 2023-09-26 | 3,563,158 | 35 |
-| 2023-09-27 | 3,563,190 | 35 |
+| 2023-09-27 | 3,563,195 | 35 |
 ## Awards
 Max (Great for Beginners): 1,074  (Ranked 140)  
 Sum: 8,031 (Ranked 100)  

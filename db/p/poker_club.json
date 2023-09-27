@@ -2,7 +2,7 @@
   "ID": "a0149619255648e8af0993a17ef4ee8e",
   "Name": "Poker Club",
   "ProductSlug": "poker-club-6e18ee",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 987,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 34,
@@ -756,7 +756,7 @@
   ],
   "EOS_Progressed": 526771,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1807,
+  "EOS_NewPlayers": 1802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18902,8 +18902,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-26T16:59:34.4929543+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:52:46.5845756+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:28:16.1117133+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.502046+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:42:49.1654591+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:52:46.5847339+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:17:05.809952+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:28:16.1118754+00:00"
 }

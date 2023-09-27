@@ -17,7 +17,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Generous | 24.00% | ~2,467 |
 | Chef Cook | 17.00% | ~1,748 |
 | Miner | 9.00% | ~925 |
-| Duty Bound | 6.00% | ~617 |
+| Duty Bound | 7.00% | ~720 |
 | Angler | 5.00% | ~514 |
 | Thorn Cleaner | 5.00% | ~514 |
 | Chit Chatter | 3.00% | ~308 |

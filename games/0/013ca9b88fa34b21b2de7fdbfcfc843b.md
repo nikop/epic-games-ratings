@@ -5,27 +5,27 @@ Rating: 4.83 (Ranked 58)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,758 |
-| A Thorny Situation | 70.00% | ~3,604 |
-| ... And Spit Back Out | 59.00% | ~3,037 |
+| Azoria Beckons | 73.00% | ~3,760 |
+| A Thorny Situation | 70.00% | ~3,605 |
+| ... And Spit Back Out | 59.00% | ~3,038 |
 | Break-Net Speed | 47.00% | ~2,420 |
-| Bramble Breaker | 44.00% | ~2,265 |
-| Miner 49er | 41.00% | ~2,111 |
+| Bramble Breaker | 44.00% | ~2,266 |
+| Miner 49er | 41.00% | ~2,112 |
 | Humble Collector | 39.00% | ~2,008 |
-| Calm Sailing | 33.00% | ~1,699 |
-| Open the Gate! | 30.00% | ~1,544 |
-| Mist Walker | 28.00% | ~1,441 |
+| Calm Sailing | 33.00% | ~1,700 |
+| Open the Gate! | 30.00% | ~1,545 |
+| Mist Walker | 28.00% | ~1,442 |
 | Lumberjack | 24.00% | ~1,236 |
 | Oui, Chef! | 22.00% | ~1,133 |
 | Clear the Air | 15.00% | ~772 |
 | Botanical Breakthrough | 14.00% | ~721 |
 | Beach Comber | 12.00% | ~618 |
 | Higher Tax Bracket | 10.00% | ~515 |
-| Search for the Hairy Grell | 9.00% | ~463 |
+| Search for the Hairy Grell | 9.00% | ~464 |
 | Got to Catch Them All | 6.00% | ~309 |
 | Fanatical Farmer | 6.00% | ~309 |
 | Skilled | 6.00% | ~309 |
-| Rumble in the Jumble | 5.00% | ~257 |
+| Rumble in the Jumble | 5.00% | ~258 |
 | Flaming Hot Completos | 4.00% | ~206 |
 | Fae Farmer | 4.00% | ~206 |
 | Azorian Anniversary | 4.00% | ~206 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 58)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,148 (Ranked 164)  
+Progressed: 5,150 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-24 | 4,931 | 0 |
 | 2023-09-25 | 5,023 | 0 |
 | 2023-09-26 | 5,137 | 0 |
-| 2023-09-27 | 5,148 | 0 |
+| 2023-09-27 | 5,150 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

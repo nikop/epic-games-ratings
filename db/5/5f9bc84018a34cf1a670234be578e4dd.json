@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 258,
-  "EOS_Completed": 63,
+  "EOS_Completed": 64,
   "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 24.42,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 24.81,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1321,6 +1321,11 @@
       "Time": "2023-09-26T22:06:42.4959106+00:00",
       "NumProgressed": 258,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-09-27T02:24:13.4514587+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1347,17 +1352,17 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "FirstBox",
@@ -1403,9 +1408,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "Hologram",
@@ -1445,13 +1450,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 258,
-      "Completed": 63
+      "Completed": 64
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:48:48.2628994+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:24:13.4514582+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.4954104+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:44:16.902749+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:48:48.2629229+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:18:52.279214+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:24:13.4514831+00:00"
 }

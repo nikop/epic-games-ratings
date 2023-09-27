@@ -291,9 +291,9 @@
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "20",
@@ -412,8 +412,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:49:22.5051606+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:24:53.9015499+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:58.1505142+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:39:59.8195274+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:49:22.5051911+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:14:02.9242522+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:24:53.9016079+00:00"
 }

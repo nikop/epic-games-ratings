@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -9943,9 +9943,9 @@
       "Count": 716
     }
   ],
-  "EOS_Progressed": 629004,
+  "EOS_Progressed": 629005,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 2808,
+  "EOS_NewPlayers": 2805,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27933,6 +27933,11 @@
       "Time": "2023-09-27T01:51:37.236755+00:00",
       "NumProgressed": 629004,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-09-27T02:26:56.4152404+00:00",
+      "NumProgressed": 629005,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 65,
@@ -27944,7 +27949,7 @@
       "Name": "Into the Unknown",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 220151
+      "UsersEstimate": 220152
     },
     {
       "ID": "achievement_02",
@@ -27952,7 +27957,7 @@
       "Name": "First Shot",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 220151
+      "UsersEstimate": 220152
     },
     {
       "ID": "achievement_03",
@@ -27960,7 +27965,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 207571
+      "UsersEstimate": 207572
     },
     {
       "ID": "achievement_04",
@@ -28080,7 +28085,7 @@
       "Name": "Sancho Panza",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 194991
+      "UsersEstimate": 194992
     },
     {
       "ID": "achievement_19",
@@ -28232,7 +28237,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 207571
+      "UsersEstimate": 207572
     },
     {
       "ID": "achievement_38",
@@ -28280,7 +28285,7 @@
       "Name": "Slowpoke!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 75480
+      "UsersEstimate": 75481
     },
     {
       "ID": "achievement_44",
@@ -28463,21 +28468,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 629004,
+      "Progressed": 629005,
       "Completed": 63
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 274448,
+      "Progressed": 274449,
       "Completed": 1430
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-09-26T18:59:46.1963329+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:51:37.2367546+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:26:56.4152401+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:49.5234383+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:43:07.2841812+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:51:37.236967+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:17:28.4620429+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:26:56.4154187+00:00"
 }

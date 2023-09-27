@@ -1,20 +1,20 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 335)  
+Rating: 4.63 (Ranked 334)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rough Landing | 1.00% | ~8,826 |
-| Ten out of Ten | 0.90% | ~7,944 |
+| Ten out of Ten | 1.00% | ~8,827 |
+| Rough Landing | 1.00% | ~8,827 |
 | Gunslinger | 0.80% | ~7,061 |
-| The Jungle | 0.70% | ~6,178 |
+| The Jungle | 0.70% | ~6,179 |
 | Master Crafter | 0.60% | ~5,296 |
 | Mean Streets | 0.60% | ~5,296 |
+| Two Heads, One Bullet | 0.60% | ~5,296 |
 | V for Vendetta | 0.60% | ~5,296 |
 | The High Priestess | 0.50% | ~4,413 |
-| Two Heads, One Bullet | 0.50% | ~4,413 |
 | Full Body Conversion | 0.40% | ~3,531 |
 | Right Back At Ya | 0.40% | ~3,531 |
 | Breathtaking | 0.40% | ~3,531 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,638 (Ranked 15)  
+Progressed: 882,662 (Ranked 15)  
 Completed: 2,424 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 2,424 (0.27%) (Ranked 197)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 882,638 | 2,424 |
+| 2023-09-27 | 882,662 | 2,424 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
 Sum: 227,478 (Ranked 13)  

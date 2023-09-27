@@ -24,7 +24,7 @@
 | Principled | 51.00% | ~208 |
 | Colonial Savior | 49.00% | ~200 |
 | Soldier Ally | 48.00% | ~196 |
-| Sentinel Ally | 45.00% | ~184 |
+| Sentinel Ally | 46.00% | ~188 |
 | Krogan Ally | 45.00% | ~184 |
 | Paramour I | 44.00% | ~180 |
 | Scientist | 44.00% | ~180 |

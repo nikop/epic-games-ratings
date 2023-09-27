@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Love | 41.00% | ~476 |
 | Clean Race | 39.00% | ~453 |
-| Hear That Roar! | 37.00% | ~430 |
+| Hear That Roar! | 38.00% | ~441 |
 | Eat My Dust | 37.00% | ~430 |
 | Rivals to the End | 30.00% | ~348 |
 | We're Going to Need a Bigger Garage | 25.00% | ~290 |

@@ -7530,9 +7530,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802776,
+  "EOS_Progressed": 802777,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 812,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25285,6 +25285,11 @@
       "Time": "2023-09-27T01:49:44.4592853+00:00",
       "NumProgressed": 802776,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-27T02:25:19.6257232+00:00",
+      "NumProgressed": 802777,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25376,7 +25381,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256888
+      "UsersEstimate": 256889
     },
     {
       "ID": "Bookworm",
@@ -25384,7 +25389,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120416
+      "UsersEstimate": 120417
     },
     {
       "ID": "Buddy",
@@ -25496,7 +25501,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184638
+      "UsersEstimate": 184639
     },
     {
       "ID": "Fighter",
@@ -25512,7 +25517,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120416
+      "UsersEstimate": 120417
     },
     {
       "ID": "Freud",
@@ -25951,15 +25956,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802776,
+      "Progressed": 802777,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-26T23:58:03.0043501+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:49:44.4592847+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:25:19.6257228+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:40:53.0921456+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:49:44.459503+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:14:50.4131664+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:25:19.6259597+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "64f6e25cee7441e9967524a50b08dddd",
   "Name": "FAR: Lone Sails",
   "ProductSlug": "far-lone-sails",
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 639,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.62,
   "NumberOfRatings": 25,
   "RatingHistory": [
     {
@@ -107,6 +107,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-27T02:14:43.0742744+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -125,8 +131,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:14.0049461+00:00",
   "FirstSeenRating": "2022-08-23T01:00:21.0913154+00:00",
-  "LastChanged": "2023-09-10T22:01:53.5918612+00:00",
+  "LastChanged": "2023-09-27T02:14:43.0742742+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:58.1683274+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:40:44.6692011+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:50:45.8985749+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:14:43.0742748+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:26:07.7810584+00:00"
 }

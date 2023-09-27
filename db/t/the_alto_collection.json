@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 206,
+  "Ranking_Rating": 205,
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 101,
@@ -769,7 +769,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40629,
+  "EOS_Progressed": 40630,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 0,
@@ -18589,6 +18589,11 @@
       "Time": "2023-09-27T01:50:23.4913459+00:00",
       "NumProgressed": 40629,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-27T02:25:42.2733428+00:00",
+      "NumProgressed": 40630,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18712,7 +18717,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "nomad",
@@ -18792,7 +18797,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "proximityFly1000",
@@ -18888,7 +18893,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "wanderer",
@@ -18911,15 +18916,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40629,
+      "Progressed": 40630,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-27T01:50:23.4913454+00:00",
+  "LastChanged_Achievements": "2023-09-27T02:25:42.2733424+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-27T01:41:15.9841952+00:00",
-  "LastUpdate_Achievements": "2023-09-27T01:50:23.4915249+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:15:22.517562+00:00",
+  "LastUpdate_Achievements": "2023-09-27T02:25:42.2734751+00:00"
 }

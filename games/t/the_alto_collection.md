@@ -1,7 +1,7 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 206)  
+Rating: 4.70 (Ranked 205)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,9 +18,9 @@ Number of Ratings: 332  (23.09.2022)
 | Enter Paz | 8.00% | ~3,250 |
 | Wanderer | 8.00% | ~3,250 |
 | Aviator | 6.00% | ~2,438 |
-| My Little Friend | 5.00% | ~2,031 |
-| One With The Board | 5.00% | ~2,031 |
-| Voyager | 5.00% | ~2,031 |
+| My Little Friend | 5.00% | ~2,032 |
+| One With The Board | 5.00% | ~2,032 |
+| Voyager | 5.00% | ~2,032 |
 | Izel Has Arrived | 4.00% | ~1,625 |
 | Junkie | 3.00% | ~1,219 |
 | Traveler | 3.00% | ~1,219 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~41 |
 | Windswept | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,629 (Ranked 101)  
+Progressed: 40,630 (Ranked 101)  
 Completed: 5 (0.01%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 5 (0.01%) (Ranked 278)
 | 2023-09-24 | 40,398 | 5 |
 | 2023-09-25 | 40,500 | 5 |
 | 2023-09-26 | 40,610 | 5 |
-| 2023-09-27 | 40,629 | 5 |
+| 2023-09-27 | 40,630 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 413)  
 Sum: 364 (Ranked 332)  
