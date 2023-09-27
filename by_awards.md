@@ -39,10 +39,10 @@
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,161 | 4.78 | 104 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,128 | 4.61 | 372 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,281 | 4.57 | 453 |
-| 40 | [Control](games/c/control.md) | 8,542 | 4.60 | 401 |
+| 40 | [Control](games/c/control.md) | 8,544 | 4.60 | 401 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,282 | 4.89 | 12 |
 | 42 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 8,181 | 4.58 | 436 |
-| 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,086 | 4.48 | 608 |
+| 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,090 | 4.48 | 608 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,916 | 4.57 | 453 |
 | 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,869 | 4.85 | 43 |
 | 46 | [Supraland](games/s/supraland.md) | 7,692 | 4.61 | 372 |
@@ -53,7 +53,7 @@
 | 51 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,144 | 4.74 | 148 |
 | 52 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 688 |
 | 53 | [Sifu](games/s/sifu.md) | 6,599 | 4.82 | 66 |
-| 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,453 | 4.80 | 85 |
+| 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,455 | 4.80 | 85 |
 | 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,386 | 4.58 | 436 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,276 | 4.69 | 222 |
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,217 | 4.54 | 511 |
@@ -133,7 +133,7 @@
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,368 | 4.41 | 696 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,320 | 4.70 | 206 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 281 |
-| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,280 | 4.55 | 491 |
+| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,283 | 4.55 | 491 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,210 | 4.43 | 674 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,204 | 4.61 | 372 |
 | 137 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,197 | 4.69 | 222 |

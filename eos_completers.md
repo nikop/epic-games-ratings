@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.14% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.12% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -72,8 +72,8 @@
 | 70 | [The Complex](games/t/the_complex.md) | 3.40% |
 | 71 | [Doodle God](games/d/doodle_god.md) | 3.35% |
 | 72 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 73 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.33% |
-| 74 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.24% |
+| 73 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.24% |
+| 74 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.23% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 3.20% |
 | 76 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 76 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
@@ -104,9 +104,9 @@
 | 102 | [Night Book](games/n/night_book.md) | 1.86% |
 | 103 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 104 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.83% |
-| 105 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.82% |
-| 106 | [Sifu](games/s/sifu.md) | 1.80% |
-| 107 | [Frogun](games/f/frogun.md) | 1.79% |
+| 105 | [Sifu](games/s/sifu.md) | 1.80% |
+| 106 | [Frogun](games/f/frogun.md) | 1.79% |
+| 106 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.79% |
 | 108 | [Somerville](games/s/somerville.md) | 1.71% |
 | 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
 | 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.59% |
@@ -171,8 +171,8 @@
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 169 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.45% |
 | 171 | [Tchia](games/t/tchia.md) | 0.44% |
-| 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.43% |
-| 173 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 172 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.42% |
 | 174 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 174 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
@@ -197,7 +197,7 @@
 | 191 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 196 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 196 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 198 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.27% |
+| 198 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.28% |
 | 199 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.26% |
 | 200 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 200 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |

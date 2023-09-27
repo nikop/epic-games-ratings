@@ -85,7 +85,7 @@
 | 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 474 |
 | 79 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 525 |
 | 85 | [Aground](games/a/aground.md) | 4.80 | 0 | 525 |
-| 85 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,453 | 54 |
+| 85 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,455 | 54 |
 | 85 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 525 |
 | 85 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 59 | 397 |
 | 85 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,474 | 102 |
@@ -405,7 +405,7 @@
 | 401 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 525 |
 | 401 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 334 | 231 |
 | 401 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,672 | 72 |
-| 401 | [Control](games/c/control.md) | 4.60 | 8,542 | 40 |
+| 401 | [Control](games/c/control.md) | 4.60 | 8,544 | 40 |
 | 401 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 525 |
 | 401 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 377 |
 | 401 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,771 | 26 |
@@ -509,7 +509,7 @@
 | 491 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 370 |
 | 491 | [Wall World](games/w/wall_world.md) | 4.55 | 0 | 525 |
 | 491 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.55 | 4,533 | 76 |
-| 491 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,280 | 134 |
+| 491 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,283 | 134 |
 | 511 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 525 |
 | 511 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,456 | 126 |
 | 511 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,217 | 57 |
@@ -615,7 +615,7 @@
 | 608 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 525 |
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 525 |
 | 608 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 337 |
-| 608 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,086 | 43 |
+| 608 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,090 | 43 |
 | 608 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 525 |
 | 608 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 525 |
 | 619 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 0 | 525 |
@@ -995,8 +995,9 @@
 | 991 | [Spelldrifter](games/s/spelldrifter.md) | 3.77 | 0 | 525 |
 | 991 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 525 |
 | 991 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 525 |
-| 996 | [Blood of Steel](games/b/blood_of_steel.md) | 3.73 | 0 | 525 |
-| 997 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 525 |
-| 998 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 525 |
-| 999 | [Adios](games/a/adios.md) | 3.55 | 0 | 525 |
-| 1,000 | [Redfall](games/r/redfall.md) | 3.54 | 0 | 525 |
+| 996 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.76 | 0 | 525 |
+| 997 | [Blood of Steel](games/b/blood_of_steel.md) | 3.73 | 0 | 525 |
+| 998 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 525 |
+| 999 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 525 |
+| 1,000 | [Adios](games/a/adios.md) | 3.55 | 0 | 525 |
+| 1,001 | [Redfall](games/r/redfall.md) | 3.54 | 0 | 525 |
