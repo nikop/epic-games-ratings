@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 525 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 525 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,621 | 121 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,279 | 94 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,281 | 94 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 525 |
 | 7 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.90 | 0 | 525 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 525 |
@@ -374,6 +374,7 @@
 | 372 | [20XX](games/2/20xx.md) | 4.61 | 37 | 444 |
 | 372 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 525 |
 | 372 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.61 | 25 | 492 |
+| 372 | [Aimlabs](games/a/aimlabs.md) | 4.61 | 27 | 480 |
 | 372 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 132 | 312 |
 | 372 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 761 | 164 |
 | 372 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 525 |
@@ -400,25 +401,24 @@
 | 372 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 525 |
 | 372 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 245 | 261 |
 | 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 525 |
-| 401 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 27 | 480 |
-| 401 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,980 | 25 |
-| 401 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 525 |
-| 401 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 334 | 231 |
-| 401 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,672 | 72 |
-| 401 | [Control](games/c/control.md) | 4.60 | 8,544 | 40 |
-| 401 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 525 |
-| 401 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 377 |
-| 401 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,771 | 26 |
-| 401 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 525 |
-| 401 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 322 |
-| 401 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 393 |
-| 401 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 525 |
-| 401 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 484 | 204 |
-| 401 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 39 | 433 |
-| 401 | [Warframe](games/w/warframe.md) | 4.60 | 17,339 | 22 |
-| 401 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 457 | 210 |
-| 401 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 86 | 360 |
-| 401 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 20 | 521 |
+| 402 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,980 | 25 |
+| 402 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 525 |
+| 402 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 334 | 231 |
+| 402 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,672 | 72 |
+| 402 | [Control](games/c/control.md) | 4.60 | 8,544 | 40 |
+| 402 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 525 |
+| 402 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 377 |
+| 402 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,771 | 26 |
+| 402 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 525 |
+| 402 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 322 |
+| 402 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 393 |
+| 402 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 525 |
+| 402 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 484 | 204 |
+| 402 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 39 | 433 |
+| 402 | [Warframe](games/w/warframe.md) | 4.60 | 17,339 | 22 |
+| 402 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 457 | 210 |
+| 402 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 86 | 360 |
+| 402 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 20 | 521 |
 | 420 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 421 |
 | 420 | [DOOM 3](games/d/doom_3.md) | 4.59 | 68 | 386 |
 | 420 | [GRIME](games/g/grime.md) | 4.59 | 38 | 439 |
@@ -960,7 +960,7 @@
 | 955 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,760 | 70 |
 | 959 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 525 |
 | 959 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.98 | 0 | 525 |
-| 959 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,754 | 85 |
+| 959 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,773 | 85 |
 | 959 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 525 |
 | 963 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 525 |
 | 964 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 421 |

@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.12% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.09% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.81% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.71% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.13% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -47,9 +47,9 @@
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.99% |
-| 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.97% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.96% |
-| 50 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.96% |
+| 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.88% |
 | 51 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.51% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 53 | [JARS](games/j/jars.md) | 5.19% |
@@ -141,7 +141,7 @@
 | 139 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 140 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 141 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.79% |
-| 142 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.77% |
+| 142 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.76% |
 | 143 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 144 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 145 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
@@ -171,8 +171,8 @@
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 169 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.45% |
 | 171 | [Tchia](games/t/tchia.md) | 0.44% |
-| 172 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.42% |
+| 173 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
 | 174 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 174 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
