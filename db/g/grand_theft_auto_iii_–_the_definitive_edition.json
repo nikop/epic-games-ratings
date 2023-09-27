@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8120,
+  "EOS_Progressed": 8122,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9299,6 +9299,11 @@
       "Time": "2023-09-27T08:10:18.132489+00:00",
       "NumProgressed": 8120,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-27T11:06:18.4547214+00:00",
+      "NumProgressed": 8122,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9310,7 +9315,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6740
+      "UsersEstimate": 6741
     },
     {
       "ID": "ACH02",
@@ -9414,7 +9419,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH15",
@@ -9454,7 +9459,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH20",
@@ -9494,7 +9499,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH25",
@@ -9541,7 +9546,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8120,
+      "Progressed": 8122,
       "Completed": 53
     }
   ],
@@ -9549,8 +9554,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:06:25.2486228+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:06:18.4547208+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.067951+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:02:59.6162737+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:06:25.2486985+00:00"
+  "LastUpdate_Ratings": "2023-09-27T11:02:39.9248688+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:06:18.4548019+00:00"
 }

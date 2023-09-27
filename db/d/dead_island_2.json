@@ -4884,9 +4884,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686934,
+  "EOS_Progressed": 686948,
   "EOS_Completed": 2176,
-  "EOS_NewPlayers": 3961,
+  "EOS_NewPlayers": 3957,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22904,6 +22904,11 @@
       "Time": "2023-09-27T10:03:49.8229145+00:00",
       "NumProgressed": 686934,
       "NumCompleted": 2176
+    },
+    {
+      "Time": "2023-09-27T11:03:41.2181853+00:00",
+      "NumProgressed": 686948,
+      "NumCompleted": 2176
     }
   ],
   "TotalAchievements": 45,
@@ -23049,9 +23054,9 @@
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3435
+      "UsersEstimate": 4122
     },
     {
       "ID": "ach_hazardous_materials",
@@ -23211,7 +23216,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 6182
+      "UsersEstimate": 6183
     },
     {
       "ID": "ach_the_vcla",
@@ -23219,7 +23224,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "ach_thesacrifice",
@@ -23259,7 +23264,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "ach_well_trained",
@@ -23274,22 +23279,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686934,
+      "Progressed": 686948,
       "Completed": 2176
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12475,
-      "Completed": 12475
+      "Progressed": 12489,
+      "Completed": 12489
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-27T01:40:53.4007523+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:03:49.822914+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:03:41.2181848+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:58:17.4566217+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:03:49.8230608+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:58:05.6704814+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:03:41.2183327+00:00"
 }

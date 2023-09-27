@@ -4,7 +4,7 @@
   "ProductSlug": "noob-the-factionless-ac623f",
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -628,8 +628,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:01.2086333+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:07:06.6364813+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:06:39.5170212+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:40.0465726+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:57:48.0779405+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:07:06.6365579+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:57:30.4730197+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:06:39.5170981+00:00"
 }

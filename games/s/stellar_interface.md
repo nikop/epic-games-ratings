@@ -44,6 +44,7 @@
 | Rambo IV | 6.00% | ~4 |
 | Curious | 6.00% | ~4 |
 | Diligent | 6.00% | ~4 |
+| Omicron Theta | 6.00% | ~4 |
 | Omicron Beta | 6.00% | ~4 |
 | No Peace | 6.00% | ~4 |
 | Bird of Prey | 6.00% | ~4 |
@@ -55,7 +56,8 @@
 | Silver Pest Control | 6.00% | ~4 |
 | Fighting Fit II | 6.00% | ~4 |
 | Pilgrim | 5.00% | ~3 |
-| Omicron Theta | 5.00% | ~3 |
+| Golden Foundation | 5.00% | ~3 |
+| Golden Pest Control | 5.00% | ~3 |
 | 80Gb HDD | 5.00% | ~3 |
 | Galactic Captain | 5.00% | ~3 |
 | System Captain | 5.00% | ~3 |
@@ -65,9 +67,7 @@
 | Almost There II | 5.00% | ~3 |
 | Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
-| Golden Foundation | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
-| Golden Pest Control | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Tovarish | 2.00% | ~1 |
 | Archer's Bronze Fate | 2.00% | ~1 |

@@ -5,19 +5,19 @@ Rating: 4.62 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 66.00% | ~441 |
-| Read Between The Lines | 65.00% | ~434 |
-| High Profile | 59.00% | ~394 |
-| Whispers In The Dark | 58.00% | ~387 |
-| Fond Memories | 55.00% | ~367 |
+| To Hell In A Handcart | 66.00% | ~442 |
+| Read Between The Lines | 65.00% | ~435 |
+| High Profile | 59.00% | ~395 |
+| Whispers In The Dark | 58.00% | ~388 |
+| Fond Memories | 55.00% | ~368 |
 | A Method To His Madness | 54.00% | ~361 |
-| History Check | 53.00% | ~354 |
+| History Check | 53.00% | ~355 |
 | The New World | 50.00% | ~334 |
-| Open Sesame | 49.00% | ~327 |
-| Sticky Fingers | 49.00% | ~327 |
-| Knives Out | 49.00% | ~327 |
-| Land, Ho! | 49.00% | ~327 |
+| Open Sesame | 49.00% | ~328 |
+| Sticky Fingers | 49.00% | ~328 |
+| Knives Out | 49.00% | ~328 |
 | Gaze Into The Abyss | 48.00% | ~321 |
+| Land, Ho! | 48.00% | ~321 |
 | No Man Is An Island | 48.00% | ~321 |
 | Lock, Stock, And Barrel | 47.00% | ~314 |
 | Back In The Saddle | 47.00% | ~314 |
@@ -25,16 +25,16 @@ Rating: 4.62 (Ranked 352)
 | Up In Flames | 45.00% | ~301 |
 | Fhtagn! | 45.00% | ~301 |
 | Bookworm | 44.00% | ~294 |
-| Going Once... | 40.00% | ~267 |
+| Going Once... | 40.00% | ~268 |
 | Let Me Be Frank | 39.00% | ~261 |
 | Brain Food | 38.00% | ~254 |
-| No Stone Unturned | 37.00% | ~247 |
+| No Stone Unturned | 37.00% | ~248 |
 | Read It And Weep | 23.00% | ~154 |
 | Curiosity Killed The Cat | 20.00% | ~134 |
 | Big Breakthrough | 14.00% | ~94 |
 | Reawakened | 5.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668 (Ranked 250)  
+Progressed: 669 (Ranked 250)  
 Completed: 26 (3.89%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 26 (3.89%) (Ranked 63)
 | 2023-09-23 | 666 | 26 |
 | 2023-09-24 | 667 | 26 |
 | 2023-09-25 | 668 | 26 |
+| 2023-09-27 | 669 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

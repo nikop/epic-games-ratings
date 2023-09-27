@@ -33,15 +33,15 @@ Rating: 4.54 (Ranked 511)
 | Humanity Distilled | 1.00% | ~6,869 |
 | I Am the Resurrection | 1.00% | ~6,869 |
 | Down with the Sickness | 1.00% | ~6,869 |
-| Max Headroom | 0.90% | ~6,182 |
-| Go, Bobcats! | 0.80% | ~5,495 |
-| Rising Star | 0.80% | ~5,495 |
+| Max Headroom | 0.90% | ~6,183 |
+| Go, Bobcats! | 0.80% | ~5,496 |
+| Rising Star | 0.80% | ~5,496 |
 | Smorgasbord | 0.70% | ~4,809 |
 | Jumbo Keyring | 0.70% | ~4,809 |
+| Not Even My Final Form | 0.60% | ~4,122 |
 | Internet Famous | 0.60% | ~4,122 |
 | Make it So | 0.50% | ~3,435 |
 | On Safari | 0.50% | ~3,435 |
-| Not Even My Final Form | 0.50% | ~3,435 |
 | Variety is the Spice of Death | 0.50% | ~3,435 |
 | LA Influential | 0.40% | ~2,748 |
 | Gore Horse | 0.40% | ~2,748 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,934 (Ranked 22)  
+Progressed: 686,948 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
-| 2023-09-27 | 686,934 | 2,176 |
+| 2023-09-27 | 686,948 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,217  (Ranked 57)  
 Sum: 9,254 (Ranked 92)  

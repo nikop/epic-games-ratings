@@ -3732,9 +3732,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88383,
+  "EOS_Progressed": 88385,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20292,6 +20292,11 @@
       "Time": "2023-09-27T10:05:41.3120756+00:00",
       "NumProgressed": 88383,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-27T11:05:23.608512+00:00",
+      "NumProgressed": 88385,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -20413,9 +20418,9 @@
       "ID": "ACH_0100",
       "SetID": "3kam13l",
       "Name": "Headhunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_0101",
@@ -20557,9 +20562,9 @@
       "ID": "ACH_0450",
       "SetID": "3kam13l",
       "Name": "Off the Rocks",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_0451",
@@ -20630,13 +20635,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88383,
+      "Progressed": 88385,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16730,
+      "Progressed": 16732,
       "Completed": 15535
     }
   ],
@@ -20644,8 +20649,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-27T10:00:03.948491+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:05:41.3120752+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:05:23.6085112+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:00:03.9484921+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:05:41.3122096+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:59:46.9902219+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:05:23.6086487+00:00"
 }

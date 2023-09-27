@@ -756,9 +756,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CollectCurses",
@@ -812,9 +812,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "FourthBoss",
@@ -907,8 +907,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:05:46.0575788+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:05:28.3514697+00:00",
   "LastUpdate_AppInfo": "2023-09-25T14:57:08.8738883+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:02:37.4962602+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:05:46.0576012+00:00"
+  "LastUpdate_Ratings": "2023-09-27T11:02:15.2663052+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:05:28.3514908+00:00"
 }

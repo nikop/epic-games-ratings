@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.96,
+  "EOS_Completed_Percentage": 5.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1019,6 +1019,11 @@
       "Time": "2023-09-27T01:52:43.4216587+00:00",
       "NumProgressed": 218,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-27T11:09:24.4515262+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 25,
@@ -1038,7 +1043,7 @@
       "Name": "In this together",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "META_ALL_LINK",
@@ -1046,15 +1051,15 @@
       "Name": "Peace walker",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1062,7 +1067,7 @@
       "Name": "A good beginning",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "META_HALF_LINK",
@@ -1076,9 +1081,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1094,7 +1099,7 @@
       "Name": "Feels like springtime",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1134,7 +1139,7 @@
       "Name": "Rascal",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1142,7 +1147,7 @@
       "Name": "True G4M3R",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1190,7 +1195,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "PROGRESS_N2",
@@ -1198,7 +1203,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "PROGRESS_N3",
@@ -1206,15 +1211,15 @@
       "Name": "A new dawn",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "PROGRESS_N5",
@@ -1229,14 +1234,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:09:23.0665072+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:09:24.4515257+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:58:41.3114094+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:09:23.0665292+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:58:28.9478031+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:09:24.4515765+00:00"
 }

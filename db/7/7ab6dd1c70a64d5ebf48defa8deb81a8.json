@@ -156,9 +156,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_03",
@@ -220,9 +220,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_11",
@@ -268,9 +268,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": -6.5,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_17",
@@ -324,9 +324,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": -9.7,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -3
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_24",
@@ -404,9 +404,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": -6.5,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_35",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:05:45.6873567+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:00:57.8948679+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:05:45.6873852+00:00"
+  "LastChanged_Achievements": "2023-09-27T11:05:28.0414505+00:00",
+  "LastUpdate_Ratings": "2023-09-27T11:00:42.0037171+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:05:28.0414848+00:00"
 }

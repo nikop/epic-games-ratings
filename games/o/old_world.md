@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 7.00% | ~990 |
 | Explorer | 6.00% | ~849 |
 | Settler | 6.00% | ~849 |
 | Friendly Family | 6.00% | ~849 |
-| Play a Single Player Game | 6.00% | ~849 |
 | Intrepid | 5.00% | ~707 |
 | The Clergy | 5.00% | ~707 |
 | Able | 4.00% | ~566 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 2.00% | ~283 |
 | Manichaeism | 2.00% | ~283 |
 | Persian Paganism | 2.00% | ~283 |
+| Building Wonders | 2.00% | ~283 |
 | Mythology | 2.00% | ~283 |
 | Points Victory | 2.00% | ~283 |
 | Poetic Leader | 2.00% | ~283 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 1.00% | ~141 |
 | Power to the People | 1.00% | ~141 |
 | Assyrian Paganism | 1.00% | ~141 |
-| Building Wonders | 1.00% | ~141 |
 | Economic Reform | 1.00% | ~141 |
 | Industrial Progress | 1.00% | ~141 |
 | Military Prestige | 1.00% | ~141 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,147 (Ranked 130)  
+Progressed: 14,148 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 5 (0.04%) (Ranked 260)
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
-| 2023-09-27 | 14,147 | 5 |
+| 2023-09-27 | 14,148 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

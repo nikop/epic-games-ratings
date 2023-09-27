@@ -12563,9 +12563,9 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882881,
+  "EOS_Progressed": 882915,
   "EOS_Completed": 2429,
-  "EOS_NewPlayers": 5652,
+  "EOS_NewPlayers": 5677,
   "EOS_NewCompleters": 308,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30518,6 +30518,11 @@
       "Time": "2023-09-27T10:06:36.6343457+00:00",
       "NumProgressed": 882881,
       "NumCompleted": 2429
+    },
+    {
+      "Time": "2023-09-27T11:06:29.7698145+00:00",
+      "NumProgressed": 882915,
+      "NumCompleted": 2429
     }
   ],
   "TotalAchievements": 57,
@@ -30553,7 +30558,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "Denied",
@@ -30561,7 +30566,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "FollowingTheRiver",
@@ -30673,7 +30678,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "NoMansLand",
@@ -30705,7 +30710,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "Specialist",
@@ -30753,7 +30758,7 @@
       "Name": "The Hermit",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "TheHightPriestess",
@@ -30791,9 +30796,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3532
+      "UsersEstimate": 4415
     },
     {
       "ID": "TheWorld",
@@ -30825,7 +30830,7 @@
       "Name": "True Soldier",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "TrueWarrior",
@@ -30984,21 +30989,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882881,
+      "Progressed": 882915,
       "Completed": 2429
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11504,
+      "Progressed": 11538,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T07:57:41.6042137+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:06:36.6343451+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:06:29.769814+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:57:42.1296807+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:06:36.6345169+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:57:21.9206145+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:06:29.7700138+00:00"
 }

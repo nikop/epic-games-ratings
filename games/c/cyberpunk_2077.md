@@ -15,15 +15,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.70% | ~6,180 |
 | V for Vendetta | 0.70% | ~6,180 |
 | The High Priestess | 0.60% | ~5,297 |
-| Full Body Conversion | 0.50% | ~4,414 |
-| Right Back At Ya | 0.50% | ~4,414 |
-| Breathtaking | 0.50% | ~4,414 |
-| Stanislavski's Method | 0.50% | ~4,414 |
-| The Hermit | 0.50% | ~4,414 |
-| True Soldier | 0.50% | ~4,414 |
+| Full Body Conversion | 0.50% | ~4,415 |
+| Right Back At Ya | 0.50% | ~4,415 |
+| Breathtaking | 0.50% | ~4,415 |
+| Stanislavski's Method | 0.50% | ~4,415 |
+| The Hermit | 0.50% | ~4,415 |
+| The Wheel of Fortune | 0.50% | ~4,415 |
+| True Soldier | 0.50% | ~4,415 |
 | To Bad Decisions! | 0.40% | ~3,532 |
 | Temperance | 0.40% | ~3,532 |
-| The Wheel of Fortune | 0.40% | ~3,532 |
 | True Warrior | 0.40% | ~3,532 |
 | Legend of The Afterlife | 0.40% | ~3,532 |
 | The Quick and the Dead | 0.30% | ~2,649 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,881 (Ranked 15)  
+Progressed: 882,915 (Ranked 15)  
 Completed: 2,429 (0.28%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 2,429 (0.28%) (Ranked 198)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 882,881 | 2,429 |
+| 2023-09-27 | 882,915 | 2,429 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
 Sum: 228,127 (Ranked 13)  

@@ -668,9 +668,9 @@
       "ID": "ConsumableUsed100TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Theta",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ConsumableUsed10TimesAchievement",
@@ -804,9 +804,9 @@
       "ID": "GoldHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Foundation",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GoldHomunculusBossDefeatedAchievement",
@@ -868,9 +868,9 @@
       "ID": "GoldTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Pest Control",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HaveAllAchievementsAchievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:04:32.0061764+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:04:23.9132786+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:58:14.9769082+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:04:32.0063815+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:58:02.0127166+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:04:23.913528+00:00"
 }

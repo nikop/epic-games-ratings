@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10258,
+  "EOS_Progressed": 10259,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1576,6 +1576,11 @@
       "Time": "2023-09-26T22:05:38.1206561+00:00",
       "NumProgressed": 10258,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-27T11:04:31.6394525+00:00",
+      "NumProgressed": 10259,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1619,7 +1624,7 @@
       "Name": "parking lot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_BICYCLE",
@@ -1651,7 +1656,7 @@
       "Name": "oktoberfest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_COLLECTIBLES_JAPAN",
@@ -1691,7 +1696,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4103
+      "UsersEstimate": 4104
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1763,7 +1768,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -1795,7 +1800,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5847
+      "UsersEstimate": 5848
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1811,7 +1816,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1875,7 +1880,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "ACH_SNOW",
@@ -1930,15 +1935,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10258,
+      "Progressed": 10259,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:04:39.5718035+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:04:31.6394518+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.7566421+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:57:30.4422137+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:04:39.5718461+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:57:09.378026+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:04:31.6395044+00:00"
 }

@@ -3,13 +3,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Trinity | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
-| Trinity | 6.00% | ~2 |
+| Find Allies | 3.00% | ~1 |
 | Shatter Them All | 3.00% | ~1 |
-| Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
+| Essence Blow | 0.00% | ~0 |
+| Geared Up | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
+| The Collector | 0.00% | ~0 |
 | Clear Sight | -3.20% | ~-1 |
 | A Taste of Wrath | -3.20% | ~-1 |
 | Forgemaster | -3.20% | ~-1 |
@@ -24,17 +27,14 @@
 | Summiter | -3.20% | ~-1 |
 | Adventurer | -6.50% | ~-2 |
 | Airborne | -6.50% | ~-2 |
-| Essence Blow | -6.50% | ~-2 |
 | Flawless Victory | -6.50% | ~-2 |
 | Big Bazar | -6.50% | ~-2 |
 | Scholar | -6.50% | ~-2 |
 | I Found It | -6.50% | ~-2 |
-| The Collector | -6.50% | ~-2 |
 | A Queen's Tale | -6.50% | ~-2 |
 | To Battle | -9.70% | ~-3 |
 | Godslayer | -9.70% | ~-3 |
 | Tributes of Caladrias | -9.70% | ~-3 |
-| Geared Up | -9.70% | ~-3 |
 | Alchemist | -9.70% | ~-3 |
 | Stone Collection | -9.70% | ~-3 |
 | Miner | -9.70% | ~-3 |

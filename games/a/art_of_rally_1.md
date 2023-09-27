@@ -6,13 +6,13 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,848 |
+| light attack | 96.00% | ~9,849 |
 | keep it tidy | 77.00% | ~7,899 |
 | podium | 72.00% | ~7,386 |
 | medium attack | 60.00% | ~6,155 |
-| brail | 57.00% | ~5,847 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,308 |
-| grocery-getter | 40.00% | ~4,103 |
+| brail | 57.00% | ~5,848 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,309 |
+| grocery-getter | 40.00% | ~4,104 |
 | rwd only | 26.00% | ~2,667 |
 | food tour: pasta | 26.00% | ~2,667 |
 | to finish first, first you must finish | 21.00% | ~2,154 |
@@ -37,9 +37,9 @@ Number of Ratings: 56  (23.09.2022)
 | viking | 7.00% | ~718 |
 | master of rally | 7.00% | ~718 |
 | antilag | 7.00% | ~718 |
-| parking lot | 6.00% | ~615 |
-| oktoberfest | 6.00% | ~615 |
-| in like a lamb, out like a lion | 6.00% | ~615 |
+| parking lot | 6.00% | ~616 |
+| oktoberfest | 6.00% | ~616 |
+| in like a lamb, out like a lion | 6.00% | ~616 |
 | group b | 5.00% | ~513 |
 | if in doubt, flat out! | 5.00% | ~513 |
 | comfy seats | 4.00% | ~410 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,258 (Ranked 139)  
+Progressed: 10,259 (Ranked 139)  
 Completed: 9 (0.09%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 9 (0.09%) (Ranked 238)
 | 2023-09-24 | 10,255 | 9 |
 | 2023-09-25 | 10,256 | 9 |
 | 2023-09-26 | 10,258 | 9 |
+| 2023-09-27 | 10,259 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

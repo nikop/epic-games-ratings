@@ -15,7 +15,7 @@ Rating: 4.73 (Ranked 163)
 | Felons | 62.00% | ~8,265 |
 | A Sea of Promises | 61.00% | ~8,132 |
 | Tales and Revelations | 57.00% | ~7,599 |
-| Bloodline | 52.00% | ~6,932 |
+| Bloodline | 53.00% | ~7,065 |
 | The Cradle of Centuries | 49.00% | ~6,532 |
 | The Life We Deserve | 46.00% | ~6,132 |
 | Night guard | 43.00% | ~5,732 |
@@ -204,14 +204,14 @@ Completed: 47 (0.35%) (Ranked 183)
 | 2023-09-27 | 13,331 | 47 |
 ## Awards
 Max (Great Boss Battles): 422  (Ranked 215)  
-Sum: 648 (Ranked 293)  
+Sum: 649 (Ranked 293)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 422 |
 | This game is Great for Beginners | 30 |
 | This game is Highly Recommended | 30 |
-| This game has Diverse Characters | 28 |
+| This game has Diverse Characters | 29 |
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 24 |
@@ -278,4 +278,4 @@ Diff (max vs sum): -78
 | 2023-09-21 | 4.73 | 420 | 645 |
 | 2023-09-24 | 4.73 | 421 | 646 |
 | 2023-09-26 | 4.73 | 422 | 647 |
-| 2023-09-27 | 4.73 | 422 | 648 |
+| 2023-09-27 | 4.73 | 422 | 649 |

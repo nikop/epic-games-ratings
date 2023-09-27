@@ -1755,7 +1755,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14147,
+  "EOS_Progressed": 14148,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
@@ -12335,6 +12335,11 @@
       "Time": "2023-09-27T09:08:21.8344793+00:00",
       "NumProgressed": 14147,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-27T11:04:39.5578492+00:00",
+      "NumProgressed": 14148,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -14096,9 +14101,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 990
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -14248,9 +14253,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -14713,21 +14718,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14147,
+      "Progressed": 14148,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14147,
+      "Progressed": 14148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-25T23:01:29.5998269+00:00",
-  "LastChanged_Achievements": "2023-09-27T10:05:07.5234541+00:00",
+  "LastChanged_Achievements": "2023-09-27T11:04:39.5578487+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:03:14.6486782+00:00",
-  "LastUpdate_Achievements": "2023-09-27T10:05:07.5244201+00:00"
+  "LastUpdate_Ratings": "2023-09-27T11:02:58.4726879+00:00",
+  "LastUpdate_Achievements": "2023-09-27T11:04:39.5589858+00:00"
 }
