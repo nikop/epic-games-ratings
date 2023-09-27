@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,967 (Ranked 58)  
+Progressed: 226,969 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 3 (0.00%) (Ranked 294)
 | 2023-09-24 | 226,557 | 3 |
 | 2023-09-25 | 226,750 | 3 |
 | 2023-09-26 | 226,941 | 3 |
-| 2023-09-27 | 226,967 | 3 |
+| 2023-09-27 | 226,969 | 3 |
 ## Awards
 Max (Character Customization): 199  (Ranked 277)  
 Sum: 386 (Ranked 328)  

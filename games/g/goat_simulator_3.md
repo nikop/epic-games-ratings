@@ -32,8 +32,8 @@ Rating: 4.84 (Ranked 51)
 | Club Mohair | 8.00% | ~19,619 |
 | A Center for Ants? | 8.00% | ~19,619 |
 | French Fika | 7.00% | ~17,166 |
+| Nasty! | 5.00% | ~12,262 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,809 |
-| Nasty! | 4.00% | ~9,809 |
 | [REDACTED] | 4.00% | ~9,809 |
 | Cannibanana | 2.00% | ~4,905 |
 | Daredevil | 2.00% | ~4,905 |

@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,6 +366,11 @@
       "Time": "2023-09-27T02:23:48.6655961+00:00",
       "NumProgressed": 357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T03:05:46.4405867+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -391,9 +396,9 @@
       "ID": "DashAttack",
       "SetID": "d9ekhim",
       "Name": "Fireball",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 183
     },
     {
       "ID": "DashDashDash",
@@ -401,7 +406,7 @@
       "Name": "Be water, my friend",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -673,7 +678,7 @@
       "Name": "The King of Flat",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "World4Boss",
@@ -681,7 +686,7 @@
       "Name": "Hit That Ball",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "World5Boss",
@@ -728,7 +733,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 0
     }
   ],
@@ -736,8 +741,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-27T02:23:48.6655957+00:00",
+  "LastChanged_Achievements": "2023-09-27T03:05:46.4405863+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:20:19.9738872+00:00",
-  "LastUpdate_Achievements": "2023-09-27T02:23:48.6656525+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:02:46.6515445+00:00",
+  "LastUpdate_Achievements": "2023-09-27T03:05:46.4406241+00:00"
 }

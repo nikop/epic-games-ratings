@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4014,7 +4014,7 @@
   ],
   "EOS_Progressed": 245232,
   "EOS_Completed": 837,
-  "EOS_NewPlayers": 948,
+  "EOS_NewPlayers": 946,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -21540,9 +21540,9 @@
       "ID": "AchievementMascotPoopID",
       "SetID": "a2e41al",
       "Name": "Nasty!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9809
+      "UsersEstimate": 12262
     },
     {
       "ID": "AchievementMovieID",
@@ -21677,8 +21677,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-26T06:00:06.7091233+00:00",
-  "LastChanged_Achievements": "2023-09-27T02:28:12.9266007+00:00",
+  "LastChanged_Achievements": "2023-09-27T03:10:19.0662437+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.6843433+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:18:41.0910875+00:00",
-  "LastUpdate_Achievements": "2023-09-27T02:28:12.9267707+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:01:25.2881208+00:00",
+  "LastUpdate_Achievements": "2023-09-27T03:10:19.0663787+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4837,
-  "EOS_Completed": 8,
-  "EOS_NewPlayers": 1190,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.17,
+  "EOS_Progressed": 4838,
+  "EOS_Completed": 9,
+  "EOS_NewPlayers": 1179,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:29.9033985+00:00",
@@ -1513,6 +1513,11 @@
       "Time": "2023-09-27T02:26:30.3048406+00:00",
       "NumProgressed": 4837,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-27T03:08:23.0027961+00:00",
+      "NumProgressed": 4838,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -1525,7 +1530,7 @@
       "Name": "First of Many",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "achievement_01_02",
@@ -1541,7 +1546,7 @@
       "Name": "Brand New Ride",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "achievement_01_04",
@@ -1549,7 +1554,7 @@
       "Name": "Bzzzt",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 3289
+      "UsersEstimate": 3290
     },
     {
       "ID": "achievement_01_05",
@@ -1565,7 +1570,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "achievement_01_07",
@@ -1579,9 +1584,9 @@
       "ID": "achievement_01_08",
       "SetID": "4f1m94d",
       "Name": "Trophy Collector",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3387
     },
     {
       "ID": "achievement_01_09",
@@ -1589,7 +1594,7 @@
       "Name": "Right Foot",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "achievement_01_10",
@@ -1597,7 +1602,7 @@
       "Name": "Beat the Clock",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "achievement_02_01",
@@ -1651,9 +1656,9 @@
       "ID": "achievement_02_07",
       "SetID": "4f1m94d",
       "Name": "Whale of a Time",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2225
     },
     {
       "ID": "achievement_02_08",
@@ -1789,7 +1794,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "achievement_04_06",
@@ -1805,7 +1810,7 @@
       "Name": "Nitro Saver",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "achievement_04_08",
@@ -1813,7 +1818,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3918
+      "UsersEstimate": 3919
     },
     {
       "ID": "achievement_04_09",
@@ -1828,16 +1833,16 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 4837,
-      "Completed": 8
+      "Progressed": 4838,
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-09-26T18:04:36.0445807+00:00",
-  "LastChanged_Achievements": "2023-09-27T02:26:30.3048402+00:00",
+  "LastChanged_Achievements": "2023-09-27T03:08:23.0027954+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:21:14.0699238+00:00",
-  "LastUpdate_Achievements": "2023-09-27T02:26:30.3048814+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:03:47.4382044+00:00",
+  "LastUpdate_Achievements": "2023-09-27T03:08:23.0028353+00:00"
 }

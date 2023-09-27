@@ -6,31 +6,31 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 41.00% | ~2,968 |
-| A normal day in Gloomhaven | 33.00% | ~2,389 |
-| Overkill | 31.00% | ~2,244 |
-| Vaccine Incoming | 29.00% | ~2,099 |
-| Spread the plague | 28.00% | ~2,027 |
-| Get over here! | 22.00% | ~1,592 |
-| Just when I thought I was out... | 18.00% | ~1,303 |
-| Mine... All Mine... | 16.00% | ~1,158 |
-| Light of my life | 15.00% | ~1,086 |
-| Anatomy Lesson | 14.00% | ~1,013 |
-| Augmented rat | 13.00% | ~941 |
-| You activated my trap card! | 12.00% | ~869 |
-| Obstacle race | 12.00% | ~869 |
-| Precious! | 11.00% | ~796 |
-| Doom and gloom | 11.00% | ~796 |
-| Grizzled veteran | 9.00% | ~651 |
-| Play it again, Sam | 8.00% | ~579 |
+| I'm not dead yet | 41.00% | ~2,971 |
+| A normal day in Gloomhaven | 33.00% | ~2,392 |
+| Overkill | 31.00% | ~2,247 |
+| Vaccine Incoming | 29.00% | ~2,102 |
+| Spread the plague | 28.00% | ~2,029 |
+| Get over here! | 22.00% | ~1,594 |
+| Just when I thought I was out... | 18.00% | ~1,304 |
+| Mine... All Mine... | 16.00% | ~1,160 |
+| Light of my life | 15.00% | ~1,087 |
+| Anatomy Lesson | 14.00% | ~1,015 |
+| Augmented rat | 13.00% | ~942 |
+| You activated my trap card! | 12.00% | ~870 |
+| Obstacle race | 12.00% | ~870 |
+| Precious! | 11.00% | ~797 |
+| Doom and gloom | 11.00% | ~797 |
+| Grizzled veteran | 9.00% | ~652 |
+| Play it again, Sam | 8.00% | ~580 |
 | Pack leader | 7.00% | ~507 |
 | Pain is your friend | 7.00% | ~507 |
 | Black death | 7.00% | ~507 |
-| Who's the Boss? | 6.00% | ~434 |
+| Who's the Boss? | 6.00% | ~435 |
 | Dungeon Veteran | 5.00% | ~362 |
+| The Pro from Dover | 5.00% | ~362 |
 | Quad damage | 5.00% | ~362 |
 | Now you see me... | 5.00% | ~362 |
-| The Pro from Dover | 4.00% | ~290 |
 | Pretty lights! | 4.00% | ~290 |
 | Power Up! | 3.00% | ~217 |
 | Caught off guard | 3.00% | ~217 |
@@ -50,9 +50,9 @@ Number of Ratings: 68  (23.09.2022)
 | New Blood | 0.80% | ~58 |
 | Captain hooked | 0.60% | ~43 |
 | Betray this | 0.50% | ~36 |
+| Spoiler police! | 0.40% | ~29 |
 | A tough job | 0.40% | ~29 |
 | The Pacifist | 0.40% | ~29 |
-| Spoiler police! | 0.30% | ~22 |
 | Pull out the big guns | 0.30% | ~22 |
 | Crimson Tornado | 0.30% | ~22 |
 | Born Support | 0.30% | ~22 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~7 |
 | Murder Death Kill | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,238 (Ranked 149)  
+Progressed: 7,247 (Ranked 149)  
 Completed: 1 (0.01%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.01%) (Ranked 278)
 | 2023-09-24 | 6,213 | 1 |
 | 2023-09-25 | 6,698 | 1 |
 | 2023-09-26 | 7,140 | 1 |
-| 2023-09-27 | 7,238 | 1 |
+| 2023-09-27 | 7,247 | 1 |
 ## Awards
 Max (Character Customization): 3,534  (Ranked 89)  
 Sum: 8,233 (Ranked 99)  

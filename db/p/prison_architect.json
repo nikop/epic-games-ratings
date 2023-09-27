@@ -5544,9 +5544,9 @@
       "Count": 417
     }
   ],
-  "EOS_Progressed": 178470,
+  "EOS_Progressed": 178474,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2170,
+  "EOS_NewPlayers": 2169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23444,6 +23444,11 @@
       "Time": "2023-09-27T02:26:58.6282128+00:00",
       "NumProgressed": 178470,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-27T03:09:13.0948669+00:00",
+      "NumProgressed": 178474,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23487,7 +23492,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28555
+      "UsersEstimate": 28556
     },
     {
       "ID": "Achievement_13",
@@ -23567,7 +23572,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16062
+      "UsersEstimate": 16063
     },
     {
       "ID": "Achievement_9",
@@ -23582,15 +23587,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 178470,
+      "Progressed": 178474,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-26T21:57:07.9787354+00:00",
-  "LastChanged_Achievements": "2023-09-27T02:26:58.6282124+00:00",
+  "LastChanged_Achievements": "2023-09-27T03:09:13.0948647+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.9520016+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:13:37.0761134+00:00",
-  "LastUpdate_Achievements": "2023-09-27T02:26:58.6283521+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:57:06.6968153+00:00",
+  "LastUpdate_Achievements": "2023-09-27T03:09:13.0949948+00:00"
 }

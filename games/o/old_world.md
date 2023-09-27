@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 3.00% | ~424 |
 | Babylonian Paganism | 3.00% | ~424 |
 | Carthaginian Paganism | 3.00% | ~424 |
+| Egyptian Paganism | 3.00% | ~424 |
 | Greek Paganism | 3.00% | ~424 |
 | Roman Paganism | 3.00% | ~424 |
 | Zoroastrianism | 3.00% | ~424 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 2.00% | ~283 |
 | Greece | 2.00% | ~283 |
 | Manichaeism | 2.00% | ~283 |
-| Egyptian Paganism | 2.00% | ~283 |
 | Persian Paganism | 2.00% | ~283 |
 | Mythology | 2.00% | ~283 |
 | Points Victory | 2.00% | ~283 |
@@ -178,6 +178,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.20% | ~28 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
+| Gold Victory (Carthage 2) | 0.20% | ~28 |
 | Silver Victory (Carthage 2) | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
@@ -207,7 +208,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia in Byzantion | 0.10% | ~14 |
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
-| Gold Victory (Carthage 2) | 0.10% | ~14 |
 | Carthage - Rise of Rome | 0.10% | ~14 |
 | Bronze Victory (Carthage 3) | 0.10% | ~14 |
 | Epic Victory (Carthage 3) | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,145 (Ranked 130)  
+Progressed: 14,146 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 5 (0.04%) (Ranked 258)
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
-| 2023-09-27 | 14,145 | 5 |
+| 2023-09-27 | 14,146 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

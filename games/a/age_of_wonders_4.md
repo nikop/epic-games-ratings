@@ -6,10 +6,10 @@ Rating: 4.61 (Ranked 372)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 8.00% | ~415 |
-| Realm Estate | 7.00% | ~363 |
-| A Wonderful Discovery | 7.00% | ~363 |
-| Walls Cannot Stop Us | 7.00% | ~363 |
-| Tipping the Scales | 7.00% | ~363 |
+| Realm Estate | 7.00% | ~364 |
+| A Wonderful Discovery | 7.00% | ~364 |
+| Walls Cannot Stop Us | 7.00% | ~364 |
+| Tipping the Scales | 7.00% | ~364 |
 | Bone Peddler | 6.00% | ~312 |
 | From Friends to Family | 6.00% | ~312 |
 | Stronger Together | 6.00% | ~312 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 372)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,192 (Ranked 162)  
+Progressed: 5,193 (Ranked 162)  
 Completed: 6 (0.12%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 6 (0.12%) (Ranked 226)
 | 2023-09-23 | 5,189 | 6 |
 | 2023-09-24 | 5,190 | 6 |
 | 2023-09-25 | 5,192 | 6 |
+| 2023-09-27 | 5,193 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 492)  
 Sum: 25 (Ranked 499)  

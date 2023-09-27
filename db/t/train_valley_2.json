@@ -2168,9 +2168,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 398892,
+  "EOS_Progressed": 398893,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2975,
+  "EOS_NewPlayers": 2971,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11423,6 +11423,11 @@
       "Time": "2023-09-27T02:26:07.5689724+00:00",
       "NumProgressed": 398892,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-27T03:08:06.5859031+00:00",
+      "NumProgressed": 398893,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 89,
@@ -11562,7 +11567,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 291191
+      "UsersEstimate": 291192
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -11602,7 +11607,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 139612
+      "UsersEstimate": 139613
     },
     {
       "ID": "AchievementForgotten",
@@ -11618,7 +11623,7 @@
       "Name": "Full garage",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 239335
+      "UsersEstimate": 239336
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -11658,7 +11663,7 @@
       "Name": "Individual delivery",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 183490
+      "UsersEstimate": 183491
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -11786,7 +11791,7 @@
       "Name": "Missed it!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27922
+      "UsersEstimate": 27923
     },
     {
       "ID": "AchievementMultilevelRoad",
@@ -11810,7 +11815,7 @@
       "Name": "Non-Stop",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 175512
+      "UsersEstimate": 175513
     },
     {
       "ID": "AchievementOneWay",
@@ -12145,21 +12150,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 398233,
+      "Progressed": 398234,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 398892,
+      "Progressed": 398893,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-09-27T01:45:17.1655444+00:00",
-  "LastChanged_Achievements": "2023-09-27T02:26:07.5689719+00:00",
+  "LastChanged_Achievements": "2023-09-27T03:08:06.5859026+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:13.6492117+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:20:10.385764+00:00",
-  "LastUpdate_Achievements": "2023-09-27T02:26:07.5691376+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:02:38.6737051+00:00",
+  "LastUpdate_Achievements": "2023-09-27T03:08:06.58607+00:00"
 }

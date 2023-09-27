@@ -7,11 +7,11 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 42.00% | ~27,827 |
-| Let There Be Light | 34.00% | ~22,526 |
+| Let There Be Light | 34.00% | ~22,527 |
 | Float Like a Butterfly | 33.00% | ~21,864 |
 | Nordic Walking | 26.00% | ~17,226 |
 | Bright Falls' Finest | 26.00% | ~17,226 |
-| Under a Thin Layer of Skin | 23.00% | ~15,238 |
+| Under a Thin Layer of Skin | 23.00% | ~15,239 |
 | Park Ranger | 19.00% | ~12,588 |
 | Paging Mr. Wake | 19.00% | ~12,588 |
 | Back! Back, I Say! | 18.00% | ~11,926 |
@@ -27,13 +27,13 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 14.00% | ~9,276 |
 | Heavy Metal | 13.00% | ~8,613 |
 | Perchance to Dream | 13.00% | ~8,613 |
-| Gatekeeper | 12.00% | ~7,950 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,950 |
-| Thunder and Lightning | 12.00% | ~7,950 |
-| Two For the Price of One | 12.00% | ~7,950 |
+| Gatekeeper | 12.00% | ~7,951 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,951 |
+| Thunder and Lightning | 12.00% | ~7,951 |
+| Two For the Price of One | 12.00% | ~7,951 |
 | The Lady of the Light | 11.00% | ~7,288 |
 | Energized! | 11.00% | ~7,288 |
-| Right of Way | 10.00% | ~6,625 |
+| Right of Way | 10.00% | ~6,626 |
 | What Light Through Yonder Window | 9.00% | ~5,963 |
 | Tornado Wrangler | 8.00% | ~5,300 |
 | Departure | 8.00% | ~5,300 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,254 (Ranked 89)  
+Progressed: 66,255 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 66 (0.10%) (Ranked 234)
 | 2023-09-24 | 66,142 | 66 |
 | 2023-09-25 | 66,202 | 66 |
 | 2023-09-26 | 66,247 | 66 |
-| 2023-09-27 | 66,254 | 66 |
+| 2023-09-27 | 66,255 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

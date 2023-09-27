@@ -10,7 +10,7 @@ Number of Ratings: 896  (23.09.2022)
 | Error: Stack Overflow | 66.00% | ~399,299 |
 | We need more gold | 61.00% | ~369,049 |
 | The dawn of civilization | 53.00% | ~320,649 |
-| More FPS for the FPS god! | 49.00% | ~296,449 |
+| More FPS for the FPS god! | 50.00% | ~302,499 |
 | Beauty and harmony | 48.00% | ~290,399 |
 | One more! | 44.00% | ~266,199 |
 | Overmind | 24.00% | ~145,200 |

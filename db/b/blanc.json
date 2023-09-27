@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2750,
+  "EOS_Progressed": 2751,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3483,6 +3483,11 @@
       "Time": "2023-09-27T01:47:50.6676545+00:00",
       "NumProgressed": 2750,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-27T03:05:16.0428749+00:00",
+      "NumProgressed": 2751,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3502,7 +3507,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "FALLEN_TREE",
@@ -3542,7 +3547,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "SNOW_RUINS",
@@ -3566,7 +3571,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "THE_END",
@@ -3590,14 +3595,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2750,
+      "Progressed": 2751,
       "Completed": 6
     }
   ],
@@ -3605,8 +3610,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-27T02:23:05.9123531+00:00",
+  "LastChanged_Achievements": "2023-09-27T03:05:16.0428744+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.7074849+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:16:06.5497234+00:00",
-  "LastUpdate_Achievements": "2023-09-27T02:23:05.9123971+00:00"
+  "LastUpdate_Ratings": "2023-09-27T02:59:15.2237754+00:00",
+  "LastUpdate_Achievements": "2023-09-27T03:05:16.0429066+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 3.90 (Ranked 976)
 | Das Ist Endgültig! | 17.00% | ~80 |
 | La Der des Ders | 16.00% | ~76 |
 | From the Pages of History | 8.00% | ~38 |
-| The Chemists' War | 5.00% | ~24 |
+| The Chemists' War | 6.00% | ~28 |
 | War with Friends | 3.00% | ~14 |
 | Nothing Can Stop Us! | 1.00% | ~5 |
 | A Student of History | 0.80% | ~4 |

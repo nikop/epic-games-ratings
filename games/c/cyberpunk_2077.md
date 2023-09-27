@@ -23,10 +23,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.40% | ~3,531 |
 | The Wheel of Fortune | 0.40% | ~3,531 |
 | True Soldier | 0.40% | ~3,531 |
+| True Warrior | 0.40% | ~3,531 |
 | To Bad Decisions! | 0.30% | ~2,648 |
 | The Devil | 0.30% | ~2,648 |
 | The Fool | 0.30% | ~2,648 |
-| True Warrior | 0.30% | ~2,648 |
 | It's Elementary | 0.30% | ~2,648 |
 | Legend of The Afterlife | 0.30% | ~2,648 |
 | City Lights | 0.20% | ~1,765 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,662 (Ranked 15)  
-Completed: 2,424 (0.27%) (Ranked 197)  
+Progressed: 882,687 (Ranked 15)  
+Completed: 2,425 (0.27%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,17 +224,17 @@ Completed: 2,424 (0.27%) (Ranked 197)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 882,662 | 2,424 |
+| 2023-09-27 | 882,687 | 2,425 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
-Sum: 227,478 (Ranked 13)  
+Sum: 227,855 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 82,928 |
-| This game has Great Boss Battles | 55,184 |
+| This game has Great Boss Battles | 55,231 |
+| This game is Great for Beginners | 10,833 |
 | This game has Diverse Characters | 10,569 |
-| This game is Great for Beginners | 10,503 |
 | This game has Amazing Storytelling | 10,472 |
 | This game is Highly Recommended | 10,442 |
 | This game is Relaxing | 10,288 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -4
 | 2023-09-24 | 4.62 | - | 81,210 | 219,602 |
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
-| 2023-09-27 | 4.63 | - | 82,928 | 227,478 |
+| 2023-09-27 | 4.63 | - | 82,928 | 227,855 |
