@@ -6,10 +6,10 @@ Rating: 4.76 (Ranked 120)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~16,819 |
-| The Killing Jar | 8.00% | ~14,950 |
-| Not Your Average Trait | 8.00% | ~14,950 |
-| Expanding Horizons | 7.00% | ~13,081 |
-| Quest for Survival | 7.00% | ~13,081 |
+| The Killing Jar | 8.00% | ~14,951 |
+| Not Your Average Trait | 8.00% | ~14,951 |
+| Expanding Horizons | 7.00% | ~13,082 |
+| Quest for Survival | 7.00% | ~13,082 |
 | Gleaming the Cube | 6.00% | ~11,213 |
 | Not a Janitor | 6.00% | ~11,213 |
 | Familiar Face | 6.00% | ~11,213 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Proving Grounds | 1.00% | ~1,869 |
 | Ghost in the Machine | 0.90% | ~1,682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,876 (Ranked 65)  
+Progressed: 186,883 (Ranked 65)  
 Completed: 336 (0.18%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 336 (0.18%) (Ranked 215)
 | 2023-09-24 | 186,027 | 332 |
 | 2023-09-25 | 186,460 | 334 |
 | 2023-09-26 | 186,828 | 336 |
-| 2023-09-27 | 186,876 | 336 |
+| 2023-09-27 | 186,883 | 336 |
 ## Awards
 Max (Great Boss Battles): 1,724  (Ranked 118)  
 Sum: 3,569 (Ranked 155)  

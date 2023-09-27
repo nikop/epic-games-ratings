@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66255,
+  "EOS_Progressed": 66257,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16009,6 +16009,11 @@
       "Time": "2023-09-27T03:07:42.5638432+00:00",
       "NumProgressed": 66255,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-27T04:08:49.88197+00:00",
+      "NumProgressed": 66257,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16020,7 +16025,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27827
+      "UsersEstimate": 27828
     },
     {
       "ID": "02",
@@ -16028,7 +16033,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17226
+      "UsersEstimate": 17227
     },
     {
       "ID": "03",
@@ -16036,7 +16041,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17226
+      "UsersEstimate": 17227
     },
     {
       "ID": "04",
@@ -16060,7 +16065,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12588
+      "UsersEstimate": 12589
     },
     {
       "ID": "07",
@@ -16084,7 +16089,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9938
+      "UsersEstimate": 9939
     },
     {
       "ID": "10",
@@ -16140,7 +16145,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "17",
@@ -16148,7 +16153,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "18",
@@ -16180,7 +16185,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9938
+      "UsersEstimate": 9939
     },
     {
       "ID": "22",
@@ -16268,7 +16273,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21864
+      "UsersEstimate": 21865
     },
     {
       "ID": "33",
@@ -16276,7 +16281,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9938
+      "UsersEstimate": 9939
     },
     {
       "ID": "34",
@@ -16340,7 +16345,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11263
+      "UsersEstimate": 11264
     },
     {
       "ID": "42",
@@ -16356,7 +16361,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12588
+      "UsersEstimate": 12589
     },
     {
       "ID": "44",
@@ -16428,7 +16433,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "53",
@@ -16484,7 +16489,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "60",
@@ -16555,21 +16560,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66255,
+      "Progressed": 66257,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29723,
+      "Progressed": 29725,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-27T03:07:42.5638429+00:00",
+  "LastChanged_Achievements": "2023-09-27T04:08:49.8819691+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-27T03:03:26.7594553+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:07:42.5640066+00:00"
+  "LastUpdate_Ratings": "2023-09-27T04:04:12.2751072+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:08:49.8821363+00:00"
 }

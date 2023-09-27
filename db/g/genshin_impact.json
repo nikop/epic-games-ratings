@@ -11658,10 +11658,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1393519,
       "NumberOfAwardsMax": 306935
+    },
+    {
+      "Time": "2023-09-27T03:57:10.8769544+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1393588,
+      "NumberOfAwardsMax": 306935
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1393519,
+  "NumberOfAwards": 1393588,
   "NumberOfAwardsMax": 306935,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11717,7 +11723,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 111515
+      "Count": 111584
     },
     {
       "Text": "This game is Relaxing",
@@ -11743,8 +11749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-09-27T01:39:42.9103107+00:00",
+  "LastChanged": "2023-09-27T03:57:10.8769542+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.1633528+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:57:04.6013772+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:05:33.7351765+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:57:10.8769548+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:06:39.0077497+00:00"
 }

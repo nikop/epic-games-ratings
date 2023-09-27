@@ -32,8 +32,8 @@
 | Operative | 40.00% | ~163 |
 | Veteran | 39.00% | ~159 |
 | Head Hunter | 39.00% | ~159 |
+| Power Full | 39.00% | ~159 |
 | Scholar | 38.00% | ~155 |
-| Power Full | 38.00% | ~155 |
 | Very Elusive | 37.00% | ~151 |
 | Archivist | 36.00% | ~147 |
 | Completionist | 36.00% | ~147 |

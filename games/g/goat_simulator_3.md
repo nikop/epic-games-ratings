@@ -5,29 +5,29 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~223,161 |
+| Forgotten Sorority | 91.00% | ~223,162 |
 | Private Club | 74.00% | ~181,472 |
 | Rogue Guild | 65.00% | ~159,401 |
-| I Watched the Intro | 57.00% | ~139,782 |
+| I Watched the Intro | 57.00% | ~139,783 |
 | Covert Consortium | 55.00% | ~134,878 |
 | Goat Queen | 53.00% | ~129,973 |
 | Reach the Stratosphere | 50.00% | ~122,616 |
-| Synchronization Complete | 47.00% | ~115,259 |
-| Secret Society | 45.00% | ~110,354 |
-| Shadow Syndicate | 38.00% | ~93,188 |
+| Synchronization Complete | 47.00% | ~115,260 |
+| Secret Society | 45.00% | ~110,355 |
+| Shadow Syndicate | 38.00% | ~93,189 |
 | What a Waste of Money | 33.00% | ~80,927 |
 | New Goat Order | 30.00% | ~73,570 |
 | Don't touch the servers | 28.00% | ~68,665 |
 | San Angora: Become Human | 27.00% | ~66,213 |
 | Real Buoy | 27.00% | ~66,213 |
-| Raider of the Lost Parking Garage | 26.00% | ~63,760 |
+| Raider of the Lost Parking Garage | 26.00% | ~63,761 |
 | Welcome to Earth | 25.00% | ~61,308 |
 | Into the Matrix | 19.00% | ~46,594 |
 | Egg Simulator | 18.00% | ~44,142 |
-| Where is It? | 17.00% | ~41,689 |
+| Where is It? | 17.00% | ~41,690 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,785 |
-| Black Market | 14.00% | ~34,332 |
-| 401(K.O.) | 14.00% | ~34,332 |
+| Black Market | 14.00% | ~34,333 |
+| 401(K.O.) | 14.00% | ~34,333 |
 | Car Cave | 12.00% | ~29,428 |
 | Club Mohair | 8.00% | ~19,619 |
 | A Center for Ants? | 8.00% | ~19,619 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,471 |
 | G.O.A.T | 0.30% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,232 (Ranked 52)  
+Progressed: 245,233 (Ranked 52)  
 Completed: 837 (0.34%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 837 (0.34%) (Ranked 185)
 | 2023-09-24 | 244,985 | 835 |
 | 2023-09-25 | 245,112 | 837 |
 | 2023-09-26 | 245,221 | 837 |
-| 2023-09-27 | 245,232 | 837 |
+| 2023-09-27 | 245,233 | 837 |
 ## Awards
 Max (Great for Beginners): 405  (Ranked 219)  
 Sum: 3,451 (Ranked 157)  

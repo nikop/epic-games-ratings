@@ -7,24 +7,24 @@ Rating: 4.54 (Ranked 511)
 | ---- | ---------- | ----- |
 | Hotel California | 3.00% | ~20,606 |
 | Welcome To Hell-A | 3.00% | ~20,606 |
-| Dr. Reed, I Presume? | 2.00% | ~13,737 |
-| Git Gutte! | 2.00% | ~13,737 |
-| Bookworm | 2.00% | ~13,737 |
-| Break A Leg | 2.00% | ~13,737 |
-| But Doctor, I am Butcho | 2.00% | ~13,737 |
-| Slayer Squad | 2.00% | ~13,737 |
-| Can't Handle the Truth | 2.00% | ~13,737 |
-| Coup de Grâce | 2.00% | ~13,737 |
-| Like Riding a Bike | 2.00% | ~13,737 |
-| Hazardous Materials | 2.00% | ~13,737 |
-| Friends Like These | 2.00% | ~13,737 |
-| Apex Predator | 2.00% | ~13,737 |
-| Zombologist | 2.00% | ~13,737 |
-| A Patton Emerges | 2.00% | ~13,737 |
-| Stacking the Deck | 2.00% | ~13,737 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,737 |
-| Our True Nature | 2.00% | ~13,737 |
-| This is My Weapon | 2.00% | ~13,737 |
+| Dr. Reed, I Presume? | 2.00% | ~13,738 |
+| Git Gutte! | 2.00% | ~13,738 |
+| Bookworm | 2.00% | ~13,738 |
+| Break A Leg | 2.00% | ~13,738 |
+| But Doctor, I am Butcho | 2.00% | ~13,738 |
+| Slayer Squad | 2.00% | ~13,738 |
+| Can't Handle the Truth | 2.00% | ~13,738 |
+| Coup de Grâce | 2.00% | ~13,738 |
+| Like Riding a Bike | 2.00% | ~13,738 |
+| Hazardous Materials | 2.00% | ~13,738 |
+| Friends Like These | 2.00% | ~13,738 |
+| Apex Predator | 2.00% | ~13,738 |
+| Zombologist | 2.00% | ~13,738 |
+| A Patton Emerges | 2.00% | ~13,738 |
+| Stacking the Deck | 2.00% | ~13,738 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,738 |
+| Our True Nature | 2.00% | ~13,738 |
+| This is My Weapon | 2.00% | ~13,738 |
 | Making Your Mark | 1.00% | ~6,869 |
 | Anger Management | 1.00% | ~6,869 |
 | Perks of the Job | 1.00% | ~6,869 |
@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 511)
 | On Safari | 0.50% | ~3,434 |
 | Not Even My Final Form | 0.50% | ~3,434 |
 | Variety is the Spice of Death | 0.50% | ~3,434 |
-| LA Influential | 0.40% | ~2,747 |
-| Gore Horse | 0.40% | ~2,747 |
+| LA Influential | 0.40% | ~2,748 |
+| Gore Horse | 0.40% | ~2,748 |
 | Sole Survivor | 0.30% | ~2,061 |
 | Sharpest Tool in the Box | 0.30% | ~2,061 |
 | Survival Skills | 0.30% | ~2,061 |
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,871 (Ranked 22)  
+Progressed: 686,880 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
-| 2023-09-27 | 686,871 | 2,176 |
+| 2023-09-27 | 686,880 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,217  (Ranked 57)  
 Sum: 9,254 (Ranked 92)  

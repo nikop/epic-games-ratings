@@ -27,6 +27,8 @@ Rating: 4.63 (Ranked 334)
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
 | Don't Knife The Hand That Feeds | 0.10% | ~24 |
 | Gunning For Your Job | 0.10% | ~24 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
+| Seeing All The Sights | 0.10% | ~24 |
 | Spent 15 Hours At The Alien Strip Club | 0.10% | ~24 |
 | Carried Stan's Load To Completion | 0.10% | ~24 |
 | Series Wrap on Suit-O | 0.10% | ~24 |
@@ -41,8 +43,6 @@ Rating: 4.63 (Ranked 334)
 | A Starfish Is Born | 0.00% | ~0 |
 | Sequel-Bait | 0.00% | ~0 |
 | Cold-Blooded Driller | 0.00% | ~0 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.00% | ~0 |
-| Seeing All The Sights | 0.00% | ~0 |
 | Playing Favorites | 0.00% | ~0 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 | Mux Ado About Shipping | 0.00% | ~0 |

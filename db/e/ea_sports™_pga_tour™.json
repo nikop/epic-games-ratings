@@ -2,10 +2,10 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.32,
+  "EOS_Completed_Percentage": 2.31,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -652,6 +652,11 @@
       "Time": "2023-09-27T01:52:46.0627613+00:00",
       "NumProgressed": 259,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-27T04:11:15.8893187+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -672,7 +677,7 @@
       "Name": "Holey Moley",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_11",
@@ -696,7 +701,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_14",
@@ -704,7 +709,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_15",
@@ -720,7 +725,7 @@
       "Name": "Star Power",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_17",
@@ -728,7 +733,7 @@
       "Name": "Clean Sheet",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_18",
@@ -760,7 +765,7 @@
       "Name": "From Many, One",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_5",
@@ -768,7 +773,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_6",
@@ -784,7 +789,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_8",
@@ -807,13 +812,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-27T03:10:20.8431345+00:00",
+  "LastChanged_Achievements": "2023-09-27T04:11:15.8893176+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-27T03:00:32.6671293+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:10:20.843164+00:00"
+  "LastUpdate_Ratings": "2023-09-27T04:01:09.2875441+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:11:15.8893362+00:00"
 }

@@ -2615,9 +2615,9 @@
       "ID": "ID_ACHIEV_06",
       "SetID": "98bke8c",
       "Name": "For the Good of Mankind",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 187
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -2935,9 +2935,9 @@
       "ID": "ID_ACHIEV_47",
       "SetID": "98bke8c",
       "Name": "Sniffing Around",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -3119,8 +3119,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-27T03:06:09.1627787+00:00",
+  "LastChanged_Achievements": "2023-09-27T04:07:21.659242+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:31.5942131+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:57:02.6570738+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:06:09.1628659+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:57:07.5881377+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:07:21.6593456+00:00"
 }

@@ -3126,10 +3126,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4589,
       "NumberOfAwardsMax": 2755
+    },
+    {
+      "Time": "2023-09-27T03:59:05.6582651+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4591,
+      "NumberOfAwardsMax": 2755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4589,
+  "NumberOfAwards": 4591,
   "NumberOfAwardsMax": 2755,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3167,7 +3173,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 225
+      "Count": 227
     },
     {
       "Text": "This game is Relaxing",
@@ -3194,7 +3200,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72878,
+  "EOS_Progressed": 72879,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 4,
@@ -16749,6 +16755,11 @@
       "Time": "2023-09-27T03:08:18.1787025+00:00",
       "NumProgressed": 72878,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-27T04:09:18.4329774+00:00",
+      "NumProgressed": 72879,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16864,7 +16875,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15304
+      "UsersEstimate": 15305
     },
     {
       "ID": "CLAYFACE_2",
@@ -16904,7 +16915,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -16992,7 +17003,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15304
+      "UsersEstimate": 15305
     },
     {
       "ID": "FREEZE_2",
@@ -17064,7 +17075,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25507
+      "UsersEstimate": 25508
     },
     {
       "ID": "HARLEY_2",
@@ -17088,7 +17099,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11660
+      "UsersEstimate": 11661
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -17247,22 +17258,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72878,
+      "Progressed": 72879,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43158,
+      "Progressed": 43159,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-26T20:58:57.3227976+00:00",
-  "LastChanged_Achievements": "2023-09-27T03:08:18.1787021+00:00",
+  "LastChanged": "2023-09-27T03:59:05.658265+00:00",
+  "LastChanged_Achievements": "2023-09-27T04:09:18.4329762+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:58:45.8153944+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:08:18.1788303+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:59:05.6582658+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:09:18.4331228+00:00"
 }

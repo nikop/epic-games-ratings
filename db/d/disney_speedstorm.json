@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3303,
+  "EOS_Progressed": 3304,
   "EOS_Completed": 198,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 17,
@@ -5160,6 +5160,11 @@
       "Time": "2023-09-26T23:07:45.5675488+00:00",
       "NumProgressed": 3303,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-09-27T04:09:11.2165643+00:00",
+      "NumProgressed": 3304,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 24,
@@ -5179,7 +5184,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "11",
@@ -5187,7 +5192,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "12",
@@ -5211,7 +5216,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "15",
@@ -5227,7 +5232,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "17",
@@ -5235,7 +5240,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "18",
@@ -5251,7 +5256,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 15,
       "XP": 85,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "2",
@@ -5275,7 +5280,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "22",
@@ -5283,7 +5288,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "23",
@@ -5307,7 +5312,7 @@
       "Name": "FRIENDLY",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "4",
@@ -5347,7 +5352,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "9",
@@ -5355,20 +5360,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3303,
+      "Progressed": 3304,
       "Completed": 198
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-27T03:08:11.9667447+00:00",
+  "LastChanged_Achievements": "2023-09-27T04:09:11.2165638+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:58:56.0007882+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:08:11.9667929+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:59:14.75586+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:09:11.2166144+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -970,9 +970,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2955,
+  "EOS_Progressed": 2956,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5000,6 +5000,11 @@
       "Time": "2023-09-27T00:04:37.3363808+00:00",
       "NumProgressed": 2955,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T04:06:31.7544804+00:00",
+      "NumProgressed": 2956,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5249,9 +5254,9 @@
       "ID": "ACH_RENAISSANCE-MAN",
       "SetID": "72olkc5",
       "Name": "Renaissance man",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -5315,7 +5320,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5387,22 +5392,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2955,
+      "Progressed": 2956,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-24T16:57:49.6373996+00:00",
-  "LastChanged_Achievements": "2023-09-27T03:05:27.7590278+00:00",
+  "LastChanged_Achievements": "2023-09-27T04:06:31.7544794+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:58:53.7632103+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:05:27.7590931+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:59:13.8816595+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:06:31.7545457+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.40 (Ranked 715)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~175,460 |
-| Destroyer-In-Chief | 57.00% | ~156,269 |
-| There Is No Pancakes | 54.00% | ~148,044 |
-| First of Many | 42.00% | ~115,146 |
-| Woah. | 37.00% | ~101,438 |
-| Don't Look Down | 29.00% | ~79,505 |
-| Don't Panic | 28.00% | ~76,764 |
-| Ooo A Piece of Candy! | 23.00% | ~63,056 |
-| Ghost in the Machine | 18.00% | ~49,348 |
-| All Too Easy | 15.00% | ~41,123 |
-| Didn't Need to See Him Naked | 14.00% | ~38,382 |
-| Indomitable | 10.00% | ~27,416 |
-| Blast from the Past | 9.00% | ~24,674 |
-| Bow to the Boss! | 9.00% | ~24,674 |
-| Friend of the Raptors | 9.00% | ~24,674 |
-| About Time! | 8.00% | ~21,932 |
-| Actor-Turned-Politician | 7.00% | ~19,191 |
-| Betrayed | 7.00% | ~19,191 |
-| Maximum Stopping Power | 7.00% | ~19,191 |
-| Poodle Skirt | 7.00% | ~19,191 |
-| You Chose... Poorly | 7.00% | ~19,191 |
-| Double Team | 6.00% | ~16,449 |
-| Keymaster | 6.00% | ~16,449 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~13,708 |
-| Imperator | 5.00% | ~13,708 |
-| Half Way Home | 4.00% | ~10,966 |
-| How It Should Be | 4.00% | ~10,966 |
-| Machine Man | 4.00% | ~10,966 |
-| The Full Kinzie | 4.00% | ~10,966 |
+| Zero Saints Thirty | 64.00% | ~175,471 |
+| Destroyer-In-Chief | 57.00% | ~156,279 |
+| There Is No Pancakes | 54.00% | ~148,054 |
+| First of Many | 42.00% | ~115,153 |
+| Woah. | 37.00% | ~101,444 |
+| Don't Look Down | 29.00% | ~79,510 |
+| Don't Panic | 28.00% | ~76,769 |
+| Ooo A Piece of Candy! | 23.00% | ~63,060 |
+| Ghost in the Machine | 18.00% | ~49,351 |
+| All Too Easy | 15.00% | ~41,126 |
+| Didn't Need to See Him Naked | 14.00% | ~38,384 |
+| Indomitable | 10.00% | ~27,417 |
+| Blast from the Past | 9.00% | ~24,676 |
+| Bow to the Boss! | 9.00% | ~24,676 |
+| Friend of the Raptors | 9.00% | ~24,676 |
+| About Time! | 8.00% | ~21,934 |
+| Actor-Turned-Politician | 7.00% | ~19,192 |
+| Betrayed | 7.00% | ~19,192 |
+| Maximum Stopping Power | 7.00% | ~19,192 |
+| Poodle Skirt | 7.00% | ~19,192 |
+| You Chose... Poorly | 7.00% | ~19,192 |
+| Double Team | 6.00% | ~16,450 |
+| Keymaster | 6.00% | ~16,450 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~13,709 |
+| Imperator | 5.00% | ~13,709 |
+| Half Way Home | 4.00% | ~10,967 |
+| How It Should Be | 4.00% | ~10,967 |
+| Machine Man | 4.00% | ~10,967 |
+| The Full Kinzie | 4.00% | ~10,967 |
 | ...A Saint Gets a Gun | 3.00% | ~8,225 |
 | And I Ran... | 3.00% | ~8,225 |
 | Chill Out | 3.00% | ~8,225 |
@@ -56,17 +56,17 @@ Rating: 4.40 (Ranked 715)
 | Switch Hitter | 1.00% | ~2,742 |
 | The Whole Story | 1.00% | ~2,742 |
 | Zoo Keeper | 1.00% | ~2,742 |
-| Make a List, Check it Twice | 0.90% | ~2,467 |
+| Make a List, Check it Twice | 0.90% | ~2,468 |
 | Back in the Day | 0.70% | ~1,919 |
 | Dear Santa | 0.70% | ~1,919 |
 | Rigging the Race | 0.70% | ~1,919 |
 | Health Inspector | 0.50% | ~1,371 |
 | Bringin' the Heat | 0.40% | ~1,097 |
 | Walking the Dinosaur | 0.40% | ~1,097 |
-| Experimental Tech | 0.30% | ~822 |
-| Fist Meet Ground | 0.30% | ~822 |
-| Fourth and Forty | 0.30% | ~822 |
-| The Challenge King | 0.30% | ~822 |
+| Experimental Tech | 0.30% | ~823 |
+| Fist Meet Ground | 0.30% | ~823 |
+| Fourth and Forty | 0.30% | ~823 |
+| The Challenge King | 0.30% | ~823 |
 | A World Without Christmas | 0.10% | ~274 |
 | Epic Jump Quest | 0.10% | ~274 |
 | Get that Kid to a Psychologist | 0.10% | ~274 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 715)
 | Super Power Team Up! | 0.10% | ~274 |
 | Ultimate Hot Potato | 0.10% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,156 (Ranked 47)  
+Progressed: 274,174 (Ranked 47)  
 Completed: 15 (0.01%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 15 (0.01%) (Ranked 278)
 | 2023-09-24 | 273,026 | 15 |
 | 2023-09-25 | 273,567 | 15 |
 | 2023-09-26 | 274,076 | 15 |
-| 2023-09-27 | 274,156 | 15 |
+| 2023-09-27 | 274,174 | 15 |
 ## Awards
 Max (Great Boss Battles): 460  (Ranked 206)  
 Sum: 460 (Ranked 316)  

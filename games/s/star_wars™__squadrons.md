@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~3,278 |
-| Safety in the Storm | 25.00% | ~863 |
-| A Better Idea | 25.00% | ~863 |
-| Begin the Ceremony | 21.00% | ~725 |
-| Mission Accomplished | 20.00% | ~690 |
-| The Galaxy's Finest (Story Mode) | 16.00% | ~552 |
-| Asset Secured | 14.00% | ~483 |
-| A Starfighter of Your Own | 14.00% | ~483 |
-| Unkillable | 9.00% | ~311 |
+| Fracture at Fostar Haven | 95.00% | ~3,287 |
+| Safety in the Storm | 25.00% | ~865 |
+| A Better Idea | 25.00% | ~865 |
+| Begin the Ceremony | 21.00% | ~727 |
+| Mission Accomplished | 20.00% | ~692 |
+| The Galaxy's Finest (Story Mode) | 16.00% | ~554 |
+| Asset Secured | 14.00% | ~484 |
+| A Starfighter of Your Own | 14.00% | ~484 |
+| Unkillable | 8.00% | ~277 |
 | The Galaxy's Finest (Pilot) | 7.00% | ~242 |
 | Sound Strategy | 7.00% | ~242 |
 | Together, Vanguard | 7.00% | ~242 |
@@ -38,11 +38,11 @@
 | Seasoned Star Pilot | 0.90% | ~31 |
 | Special Modifications | 0.90% | ~31 |
 | Got 'Em | 0.80% | ~28 |
-| Victory for the New Republic | 0.60% | ~21 |
 | Heavy Hitter | 0.60% | ~21 |
 | The Trap is Set | 0.60% | ~21 |
 | The Galaxy's Finest (Veteran) | 0.60% | ~21 |
 | Across the Stars | 0.60% | ~21 |
+| Victory for the New Republic | 0.50% | ~17 |
 | Victory for the Empire | 0.50% | ~17 |
 | Ultimate Weapon | 0.50% | ~17 |
 | I Know a Few Maneuvers | 0.30% | ~10 |
@@ -52,7 +52,7 @@
 | Trigger Happy | 0.10% | ~3 |
 | Fully Decorated | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,451 (Ranked 178)  
+Progressed: 3,460 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-24 | 2,612 | 0 |
 | 2023-09-25 | 2,997 | 0 |
 | 2023-09-26 | 3,396 | 0 |
-| 2023-09-27 | 3,451 | 0 |
+| 2023-09-27 | 3,460 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

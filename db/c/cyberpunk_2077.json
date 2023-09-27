@@ -12557,10 +12557,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882687,
+  "EOS_Progressed": 882716,
   "EOS_Completed": 2425,
-  "EOS_NewPlayers": 5506,
-  "EOS_NewCompleters": 305,
+  "EOS_NewPlayers": 5529,
+  "EOS_NewCompleters": 304,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30477,6 +30477,11 @@
       "Time": "2023-09-27T03:07:05.1757653+00:00",
       "NumProgressed": 882687,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-09-27T04:08:05.5200732+00:00",
+      "NumProgressed": 882716,
+      "NumCompleted": 2425
     }
   ],
   "TotalAchievements": 57,
@@ -30568,7 +30573,7 @@
       "Name": "Gunslinger",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "HandyMan",
@@ -30630,9 +30635,9 @@
       "ID": "NeverFadeAway",
       "SetID": "47clieb",
       "Name": "Breathtaking",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3531
+      "UsersEstimate": 4414
     },
     {
       "ID": "NoMansLand",
@@ -30720,7 +30725,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "TheLovers",
@@ -30758,9 +30763,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 1765
+      "UsersEstimate": 2648
     },
     {
       "ID": "ThisIsPacifica",
@@ -30782,9 +30787,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3531
+      "UsersEstimate": 4414
     },
     {
       "ID": "TrueWarrior",
@@ -30943,21 +30948,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882687,
+      "Progressed": 882716,
       "Completed": 2425
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11310,
+      "Progressed": 11339,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T02:57:30.2664016+00:00",
-  "LastChanged_Achievements": "2023-09-27T03:07:05.1757648+00:00",
+  "LastChanged_Achievements": "2023-09-27T04:08:05.5200722+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T02:57:30.2664025+00:00",
-  "LastUpdate_Achievements": "2023-09-27T03:07:05.1759236+00:00"
+  "LastUpdate_Ratings": "2023-09-27T03:57:31.2845235+00:00",
+  "LastUpdate_Achievements": "2023-09-27T04:08:05.5202382+00:00"
 }

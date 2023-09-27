@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 222)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~193,292 |
-| 50 HEADSHOTS | 27.00% | ~179,961 |
-| SCIENCE AND INDUSTRY | 26.00% | ~173,296 |
-| FINISHED CHAPTER 1 | 25.00% | ~166,631 |
-| FINISHED CHAPTER 2 | 19.00% | ~126,639 |
-| 200 HEADSHOTS | 16.00% | ~106,644 |
-| FINISHED CHAPTER 3 | 16.00% | ~106,644 |
-| FINISHED CHAPTER 4 | 14.00% | ~93,313 |
-| FINISH CHAPTER 5 | 11.00% | ~73,318 |
-| FINISH CHAPTER 6 | 10.00% | ~66,652 |
-| CATHARTIC ESCAPISM | 10.00% | ~66,652 |
-| 1000 KILLS | 8.00% | ~53,322 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,661 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,330 |
-| FIRST BLOOD | 2.00% | ~13,330 |
+| 100 KILLS | 29.00% | ~193,296 |
+| 50 HEADSHOTS | 27.00% | ~179,966 |
+| SCIENCE AND INDUSTRY | 26.00% | ~173,300 |
+| FINISHED CHAPTER 1 | 25.00% | ~166,635 |
+| FINISHED CHAPTER 2 | 19.00% | ~126,642 |
+| 200 HEADSHOTS | 16.00% | ~106,646 |
+| FINISHED CHAPTER 3 | 16.00% | ~106,646 |
+| FINISHED CHAPTER 4 | 14.00% | ~93,315 |
+| FINISH CHAPTER 5 | 11.00% | ~73,319 |
+| FINISH CHAPTER 6 | 10.00% | ~66,654 |
+| CATHARTIC ESCAPISM | 10.00% | ~66,654 |
+| 1000 KILLS | 8.00% | ~53,323 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,662 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,331 |
+| FIRST BLOOD | 2.00% | ~13,331 |
 | PACEMAKER | 1.00% | ~6,665 |
 | OUT OF ORDER | 0.90% | ~5,999 |
 | TIME PARADOX | 0.90% | ~5,999 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 222)
 | THE GAMBLER | 0.10% | ~667 |
 | WARRIOR IN A GARDEN | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,523 (Ranked 24)  
+Progressed: 666,539 (Ranked 24)  
 Completed: 67 (0.01%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 67 (0.01%) (Ranked 278)
 | 2023-09-24 | 665,729 | 66 |
 | 2023-09-25 | 666,101 | 66 |
 | 2023-09-26 | 666,469 | 67 |
-| 2023-09-27 | 666,523 | 67 |
+| 2023-09-27 | 666,539 | 67 |
 ## Awards
 Max (Great Boss Battles): 308  (Ranked 239)  
 Sum: 308 (Ranked 342)  

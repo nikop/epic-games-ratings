@@ -48,9 +48,9 @@ Number of Ratings: 62  (23.09.2022)
 | Man of Steel | 5.00% | ~234 |
 | Jack of All Trades | 5.00% | ~234 |
 | 3-2-1 | 5.00% | ~234 |
+| For the Good of Mankind | 4.00% | ~187 |
 | Rusty Rat | 4.00% | ~187 |
 | Desecration | 4.00% | ~187 |
-| For the Good of Mankind | 3.00% | ~141 |
 | Turing Test | 3.00% | ~141 |
 | Repeat Customer | 3.00% | ~141 |
 | Evolution Theory | 3.00% | ~141 |
@@ -67,7 +67,7 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~94 |
 | Gramophone Enthusiast | 2.00% | ~94 |
 | Bling-Bling | 1.00% | ~47 |
-| Sniffing Around | 0.70% | ~33 |
+| Sniffing Around | 0.80% | ~37 |
 | Modus Operandi | 0.70% | ~33 |
 | Suited and Booted | 0.70% | ~33 |
 | Tools of War | 0.70% | ~33 |
