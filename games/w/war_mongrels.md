@@ -6,34 +6,34 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 66.00% | ~340 |
+| Explorer | 66.00% | ~341 |
 | Cowardice | 59.00% | ~304 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~258 |
-| Eat Lead! | 48.00% | ~247 |
+| Eat Lead! | 48.00% | ~248 |
 | The Breaking Point | 46.00% | ~237 |
 | Prospector | 44.00% | ~227 |
 | Here Comes the Boom | 44.00% | ~227 |
-| Treasure Hunter | 41.00% | ~211 |
+| Treasure Hunter | 41.00% | ~212 |
 | The Motivation | 40.00% | ~206 |
 | Sniper Wolf | 40.00% | ~206 |
 | Heroism | 38.00% | ~196 |
-| Missing in Action | 36.00% | ~185 |
+| Missing in Action | 36.00% | ~186 |
 | Collectibles of Chapter I | 34.00% | ~175 |
 | Consequences | 34.00% | ~175 |
 | King of Knives | 33.00% | ~170 |
 | Opportunities | 32.00% | ~165 |
-| The Horror | 30.00% | ~154 |
+| The Horror | 30.00% | ~155 |
 | The Difference | 27.00% | ~139 |
 | Vengeance | 26.00% | ~134 |
-| Collectibles of Chapter II | 23.00% | ~118 |
-| Broken Hopes | 23.00% | ~118 |
-| It's Just an Accident | 22.00% | ~113 |
-| Bullseye! | 22.00% | ~113 |
+| Collectibles of Chapter II | 23.00% | ~119 |
+| Broken Hopes | 23.00% | ~119 |
+| It's Just an Accident | 22.00% | ~114 |
+| Bullseye! | 22.00% | ~114 |
 | Sorrow | 20.00% | ~103 |
 | Food Massacre | 19.00% | ~98 |
 | Atonement | 18.00% | ~93 |
-| Helping Hand | 16.00% | ~82 |
-| Without a Second Thought | 16.00% | ~82 |
+| Helping Hand | 16.00% | ~83 |
+| Without a Second Thought | 16.00% | ~83 |
 | Collectibles of Chapter III | 15.00% | ~77 |
 | Collectibles of Chapter IV | 15.00% | ~77 |
 | Collectibles of Chapter V | 10.00% | ~52 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515 (Ranked 262)  
+Progressed: 516 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-22 | 512 | 0 |
 | 2023-09-23 | 513 | 0 |
 | 2023-09-24 | 515 | 0 |
+| 2023-09-27 | 516 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

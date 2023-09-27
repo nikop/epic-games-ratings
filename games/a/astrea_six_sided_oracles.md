@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dicesmithing Time! | 100.00% | ~9 |
-| Endless Tricks | 100.00% | ~9 |
-| Mechanical Buddy | 100.00% | ~9 |
-| Meissa's Savior | 100.00% | ~9 |
-| Purification Pioneer | 100.00% | ~9 |
-| Sanctuary Guardian | 78.00% | ~7 |
-| Wild's Keeper | 78.00% | ~7 |
-| Mind Illuminator | 67.00% | ~6 |
-| Stellar Dismantler | 67.00% | ~6 |
-| Sentinelphobic | 44.00% | ~4 |
-| Skeptical | 44.00% | ~4 |
-| Stellar Haste | 44.00% | ~4 |
-| The Corruption Goddess | 44.00% | ~4 |
-| Unbeatable | 44.00% | ~4 |
-| Dice Specialist | 33.00% | ~3 |
-| Anomaly Destroyer | 22.00% | ~2 |
-| Heart Gate | 22.00% | ~2 |
-| Loyal Partner | 22.00% | ~2 |
-| Sadistic Plan | 22.00% | ~2 |
-| Shard Spender | 22.00% | ~2 |
-| Star Killer | 22.00% | ~2 |
-| Unepic Hero | 22.00% | ~2 |
-| Arch-Oracle | 11.00% | ~1 |
-| Astral Adventurer | 11.00% | ~1 |
-| Astral Seeker | 11.00% | ~1 |
-| Can't touch this | 11.00% | ~1 |
-| Denying Destiny | 11.00% | ~1 |
-| Favored by the Cosmos | 11.00% | ~1 |
-| Plague Doctor | 11.00% | ~1 |
-| Pocket Astrarium | 11.00% | ~1 |
-| The Dark Moon | 11.00% | ~1 |
-| The Goddes Avatar | 11.00% | ~1 |
-| Wave Bender | 11.00% | ~1 |
+| Meissa's Savior | 100.00% | ~10 |
+| Purification Pioneer | 100.00% | ~10 |
+| Dicesmithing Time! | 90.00% | ~9 |
+| Endless Tricks | 90.00% | ~9 |
+| Mechanical Buddy | 90.00% | ~9 |
+| Sanctuary Guardian | 70.00% | ~7 |
+| Wild's Keeper | 70.00% | ~7 |
+| Mind Illuminator | 60.00% | ~6 |
+| Stellar Dismantler | 60.00% | ~6 |
+| Sentinelphobic | 40.00% | ~4 |
+| Skeptical | 40.00% | ~4 |
+| Stellar Haste | 40.00% | ~4 |
+| The Corruption Goddess | 40.00% | ~4 |
+| Unbeatable | 40.00% | ~4 |
+| Dice Specialist | 30.00% | ~3 |
+| Anomaly Destroyer | 20.00% | ~2 |
+| Heart Gate | 20.00% | ~2 |
+| Loyal Partner | 20.00% | ~2 |
+| Sadistic Plan | 20.00% | ~2 |
+| Shard Spender | 20.00% | ~2 |
+| Star Killer | 20.00% | ~2 |
+| Unepic Hero | 20.00% | ~2 |
+| Arch-Oracle | 10.00% | ~1 |
+| Astral Adventurer | 10.00% | ~1 |
+| Astral Seeker | 10.00% | ~1 |
+| Can't touch this | 10.00% | ~1 |
+| Denying Destiny | 10.00% | ~1 |
+| Favored by the Cosmos | 10.00% | ~1 |
+| Plague Doctor | 10.00% | ~1 |
+| Pocket Astrarium | 10.00% | ~1 |
+| The Dark Moon | 10.00% | ~1 |
+| The Goddes Avatar | 10.00% | ~1 |
+| Wave Bender | 10.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -85,10 +85,11 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 508)  
+Progressed: 10 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-22 | 5 | 0 |
 | 2023-09-24 | 9 | 0 |
+| 2023-09-27 | 10 | 0 |

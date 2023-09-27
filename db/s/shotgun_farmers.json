@@ -1345,9 +1345,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_first_harvest",
@@ -1609,9 +1609,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1904,8 +1904,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-27T14:04:29.4993381+00:00",
+  "LastChanged_Achievements": "2023-09-27T15:03:13.8763485+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4431883+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:58:22.1682621+00:00",
-  "LastUpdate_Achievements": "2023-09-27T14:04:29.4994307+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:57:40.7908751+00:00",
+  "LastUpdate_Achievements": "2023-09-27T15:03:13.8764328+00:00"
 }

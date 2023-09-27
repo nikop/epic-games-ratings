@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 515,
+  "EOS_Progressed": 516,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1587,6 +1587,11 @@
       "Time": "2023-09-24T21:09:21.1212112+00:00",
       "NumProgressed": 515,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T15:03:35.4288601+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1702,7 +1707,7 @@
       "Name": "Explorer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_COLL_20",
@@ -1718,7 +1723,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1734,7 +1739,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -1870,7 +1875,7 @@
       "Name": "The Horror",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1894,7 +1899,7 @@
       "Name": "Broken Hopes",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1934,7 +1939,7 @@
       "Name": "Helping Hand",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -1942,7 +1947,7 @@
       "Name": "Missing in Action",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1958,7 +1963,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -1990,7 +1995,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -2006,7 +2011,7 @@
       "Name": "Eat Lead!",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2038,7 +2043,7 @@
       "Name": "Bullseye!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_NEST2",
@@ -2069,15 +2074,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 515,
+      "Progressed": 516,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-09-27T14:05:01.2810653+00:00",
+  "LastChanged_Achievements": "2023-09-27T15:03:35.4288595+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:22.669879+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:03:18.4346712+00:00",
-  "LastUpdate_Achievements": "2023-09-27T14:05:01.2811427+00:00"
+  "LastUpdate_Ratings": "2023-09-27T15:01:04.8454898+00:00",
+  "LastUpdate_Achievements": "2023-09-27T15:03:35.4289178+00:00"
 }

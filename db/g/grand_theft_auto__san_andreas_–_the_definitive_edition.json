@@ -1048,9 +1048,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12959,
+  "EOS_Progressed": 12962,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -11748,6 +11748,11 @@
       "Time": "2023-09-27T14:04:45.1653499+00:00",
       "NumProgressed": 12959,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-27T15:03:23.9755096+00:00",
+      "NumProgressed": 12962,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -11759,7 +11764,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10497
+      "UsersEstimate": 10499
     },
     {
       "ID": "ACH02",
@@ -11807,7 +11812,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "ACH08",
@@ -11815,7 +11820,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6480
+      "UsersEstimate": 6481
     },
     {
       "ID": "ACH09",
@@ -11863,7 +11868,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACH15",
@@ -11879,7 +11884,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "ACH17",
@@ -12038,7 +12043,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12959,
+      "Progressed": 12962,
       "Completed": 48
     }
   ],
@@ -12046,8 +12051,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-27T07:00:41.4659222+00:00",
-  "LastChanged_Achievements": "2023-09-27T14:04:45.1653491+00:00",
+  "LastChanged_Achievements": "2023-09-27T15:03:23.975509+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:59:34.3022815+00:00",
-  "LastUpdate_Achievements": "2023-09-27T14:04:45.1654686+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:58:31.3987601+00:00",
+  "LastUpdate_Achievements": "2023-09-27T15:03:23.975635+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 95.00% | ~95 |
-| Rehearsal | 94.00% | ~94 |
-| Daily Life | 91.00% | ~91 |
-| Assembly Line Work | 88.00% | ~88 |
-| Solitude | 82.00% | ~82 |
-| Pinewood, Here we come! | 75.00% | ~75 |
-| The Van | 70.00% | ~70 |
-| Road-Trip | 63.00% | ~63 |
-| A Musical Pause | 61.00% | ~61 |
-| Briget's | 52.00% | ~52 |
+| ECG | 95.00% | ~96 |
+| Rehearsal | 94.00% | ~95 |
+| Daily Life | 91.00% | ~92 |
+| Assembly Line Work | 88.00% | ~89 |
+| Solitude | 82.00% | ~83 |
+| Pinewood, Here we come! | 74.00% | ~75 |
+| The Van | 69.00% | ~70 |
+| Road-Trip | 62.00% | ~63 |
+| A Musical Pause | 60.00% | ~61 |
+| Briget's | 51.00% | ~52 |
 | Big City Music | 49.00% | ~49 |
-| Sound of Noise | 47.00% | ~47 |
+| Sound of Noise | 48.00% | ~48 |
 | Love at First Sight | 44.00% | ~44 |
 | First Kiss | 38.00% | ~38 |
 | Symbiosis | 36.00% | ~36 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 376)  
-Completed: 1 (1.00%) (Ranked 130)  
+Progressed: 101 (Ranked 376)  
+Completed: 1 (0.99%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 1 (1.00%) (Ranked 130)
 | 2023-09-12 | 98 | 1 |
 | 2023-09-14 | 99 | 1 |
 | 2023-09-15 | 100 | 1 |
+| 2023-09-27 | 101 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shiny New Weapons | 46.00% | ~6 |
+| Shiny New Weapons | 54.00% | ~7 |
 | The Lawnmower Lady | 23.00% | ~3 |
 | Completely Hooked | 15.00% | ~2 |
 | Money Bags | 15.00% | ~2 |

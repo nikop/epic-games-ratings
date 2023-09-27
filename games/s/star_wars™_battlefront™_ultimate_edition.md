@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~200 |
-| Off to a good start | 65.00% | ~150 |
-| Do... or do not. There is no try | 48.00% | ~110 |
-| A good blaster at your side | 34.00% | ~78 |
+| New Recruit | 87.00% | ~201 |
+| Off to a good start | 66.00% | ~152 |
+| Do... or do not. There is no try | 48.00% | ~111 |
+| A good blaster at your side | 34.00% | ~79 |
 | Scrap collector | 23.00% | ~53 |
-| Great shot, kid! | 22.00% | ~51 |
+| Great shot, kid! | 23.00% | ~53 |
 | The power of the Force | 19.00% | ~44 |
 | I suggest a new strategy | 19.00% | ~44 |
 | Collector | 17.00% | ~39 |
@@ -23,21 +23,21 @@
 | What's the cargo? | 11.00% | ~25 |
 | A tremor in the Force | 11.00% | ~25 |
 | Never tell me the odds! | 11.00% | ~25 |
+| Judge me by my size, do you? | 11.00% | ~25 |
 | "Gonk? Gonk!" | 10.00% | ~23 |
 | Impressive. Most impressive. | 10.00% | ~23 |
-| Judge me by my size, do you? | 10.00% | ~23 |
 | Distinguished | 8.00% | ~18 |
 | Patience you must have | 8.00% | ~18 |
 | Support the troops | 8.00% | ~18 |
-| I've been waiting for you | 7.00% | ~16 |
-| When 900 years old you reach... | 7.00% | ~16 |
 | Determined | 7.00% | ~16 |
-| On the ball | 7.00% | ~16 |
 | Not bad for a little furball | 7.00% | ~16 |
-| Don't underestimate the Force | 7.00% | ~16 |
+| I've been waiting for you | 6.00% | ~14 |
+| When 900 years old you reach... | 6.00% | ~14 |
+| On the ball | 6.00% | ~14 |
 | Precision shot | 6.00% | ~14 |
 | City in the Clouds | 6.00% | ~14 |
 | That's no moon | 6.00% | ~14 |
+| Don't underestimate the Force | 6.00% | ~14 |
 | The Force is strong with this one | 5.00% | ~12 |
 | Your journey has only started | 5.00% | ~12 |
 | This is a new day, a new beginning | 5.00% | ~12 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~1 |
 | Crush them with one swift stroke… | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 325)  
+Progressed: 231 (Ranked 325)  
 Completed: 1 (0.43%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.43%) (Ranked 171)
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
-| 2023-09-27 | 230 | 1 |
+| 2023-09-27 | 231 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

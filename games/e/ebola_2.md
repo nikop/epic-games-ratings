@@ -9,6 +9,7 @@
 | Witch ✔ | 23.00% | ~65 |
 | Scent of Meat ✔ | 22.00% | ~62 |
 | Survival ✔ | 4.00% | ~11 |
+| Master of Unlocking ✔ | 0.40% | ~1 |
 | Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |
 | Mask ✔ | 0.00% | ~0 |
@@ -20,7 +21,6 @@
 | Angel ✔ | 0.00% | ~0 |
 | Guardian angel ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |
-| Master of Unlocking ✔ | 0.00% | ~0 |
 | Saved the planet ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 283 (Ranked 307)  

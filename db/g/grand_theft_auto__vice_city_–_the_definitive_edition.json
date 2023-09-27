@@ -688,9 +688,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 10427,
+  "EOS_Progressed": 10428,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10633,6 +10633,11 @@
       "Time": "2023-09-27T14:07:24.6442874+00:00",
       "NumProgressed": 10427,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-27T15:05:37.5759101+00:00",
+      "NumProgressed": 10428,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10748,7 +10753,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "ACH15",
@@ -10772,7 +10777,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH18",
@@ -10804,7 +10809,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4797
     },
     {
       "ID": "ACH22",
@@ -10812,7 +10817,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "ACH23",
@@ -10876,7 +10881,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH31",
@@ -10915,7 +10920,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10427,
+      "Progressed": 10428,
       "Completed": 58
     }
   ],
@@ -10923,8 +10928,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-26T19:58:08.3512241+00:00",
-  "LastChanged_Achievements": "2023-09-27T14:07:24.6442869+00:00",
+  "LastChanged_Achievements": "2023-09-27T15:05:37.5759095+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:58:12.9761906+00:00",
-  "LastUpdate_Achievements": "2023-09-27T14:07:24.6444808+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:57:34.20513+00:00",
+  "LastUpdate_Achievements": "2023-09-27T15:05:37.5760128+00:00"
 }

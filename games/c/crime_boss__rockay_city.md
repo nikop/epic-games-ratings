@@ -28,6 +28,7 @@ Rating: 3.94 (Ranked 969)
 | Foo Finder | 0.20% | ~177 |
 | Freebooter | 0.20% | ~177 |
 | Moneybags | 0.20% | ~177 |
+| Olympus Ascended | 0.20% | ~177 |
 | Rockay Raider | 0.10% | ~88 |
 | Rockay Knight | 0.10% | ~88 |
 | Savvy Seeker | 0.10% | ~88 |
@@ -35,7 +36,6 @@ Rating: 3.94 (Ranked 969)
 | Talent Scout | 0.10% | ~88 |
 | Full House | 0.10% | ~88 |
 | Groundhog Days | 0.10% | ~88 |
-| Olympus Ascended | 0.10% | ~88 |
 | Cracked the Jack | 0.10% | ~88 |
 | Ding Dong | 0.10% | ~88 |
 | Red Star | 0.10% | ~88 |
@@ -210,15 +210,15 @@ Completed: 46 (0.05%) (Ranked 255)
 | 2023-09-27 | 88,390 | 46 |
 ## Awards
 Max (Diverse Characters): 460  (Ranked 206)  
-Sum: 2,203 (Ranked 196)  
+Sum: 2,206 (Ranked 196)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 460 |
 | This game has Quickly Understood Controls | 450 |
-| This game is Highly Recommended | 436 |
+| This game is Highly Recommended | 437 |
 | This game has Challenging Combat | 434 |
-| This game has Amazing Characters | 423 |
+| This game has Amazing Characters | 425 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -404,4 +404,4 @@ Diff (max vs sum): 10
 | 2023-09-24 | 3.93 | 455 | 2,182 |
 | 2023-09-25 | 3.93 | 458 | 2,193 |
 | 2023-09-26 | 3.94 | 460 | 2,201 |
-| 2023-09-27 | 3.94 | 460 | 2,203 |
+| 2023-09-27 | 3.94 | 460 | 2,206 |

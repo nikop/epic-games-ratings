@@ -13,9 +13,9 @@
 | Man-Machine Master | 67.00% | ~42 |
 | Fusion Conjuror | 63.00% | ~40 |
 | Memory Rouser | 63.00% | ~40 |
+| Master of the Skies | 60.00% | ~38 |
 | Subsistence Skills | 60.00% | ~38 |
 | Kemono Hunter | 60.00% | ~38 |
-| Master of the Skies | 59.00% | ~37 |
 | Helpful Heart | 57.00% | ~36 |
 | Distance Devourer | 56.00% | ~35 |
 | Expert Conjuror | 54.00% | ~34 |
@@ -24,10 +24,10 @@
 | Axer of Auspice | 46.00% | ~29 |
 | Counter Specialist | 44.00% | ~28 |
 | Karakuri Trail | 40.00% | ~25 |
+| Mighty Marmelizer | 40.00% | ~25 |
 | Fair Means or Foul | 40.00% | ~25 |
 | Snare Specialist | 40.00% | ~25 |
 | Single Minded | 38.00% | ~24 |
-| Mighty Marmelizer | 38.00% | ~24 |
 | Kemono at Heart | 37.00% | ~23 |
 | Reincarnation Cycle Stopper | 37.00% | ~23 |
 | Team Hunter | 35.00% | ~22 |

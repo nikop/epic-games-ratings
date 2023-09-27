@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3676,10 +3676,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2203,
       "NumberOfAwardsMax": 460
+    },
+    {
+      "Time": "2023-09-27T14:59:08.6966232+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2206,
+      "NumberOfAwardsMax": 460
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2203,
+  "NumberOfAwards": 2206,
   "NumberOfAwardsMax": 460,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3699,7 +3705,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 423
+      "Count": 425
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3723,7 +3729,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 436
+      "Count": 437
     },
     {
       "Text": "This game has a Silly Community",
@@ -3734,7 +3740,7 @@
   ],
   "EOS_Progressed": 88390,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20497,9 +20503,9 @@
       "ID": "ACH_0300",
       "SetID": "3kam13l",
       "Name": "Olympus Ascended",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_0310",
@@ -20663,9 +20669,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-27T10:00:03.948491+00:00",
-  "LastChanged_Achievements": "2023-09-27T14:06:40.1356537+00:00",
+  "LastChanged": "2023-09-27T14:59:08.696623+00:00",
+  "LastChanged_Achievements": "2023-09-27T15:05:05.4151233+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:00:25.1665166+00:00",
-  "LastUpdate_Achievements": "2023-09-27T14:06:40.1358224+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:59:08.696624+00:00",
+  "LastUpdate_Achievements": "2023-09-27T15:05:05.4152854+00:00"
 }

@@ -8,11 +8,11 @@
 | Makin' the Cut | 71.00% | ~187 |
 | From Way Downtown | 67.00% | ~177 |
 | Clean Sheet | 67.00% | ~177 |
-| Winner's Circle | 59.00% | ~156 |
+| Winner's Circle | 60.00% | ~158 |
 | Holey Moley | 53.00% | ~140 |
 | Bomb's Away | 49.00% | ~129 |
 | Perfect Round | 49.00% | ~129 |
-| Competitor's Spirit | 43.00% | ~114 |
+| Competitor's Spirit | 44.00% | ~116 |
 | The Strongest Field in Golf | 36.00% | ~95 |
 | From Many, One | 31.00% | ~82 |
 | Ace in the Hole | 31.00% | ~82 |

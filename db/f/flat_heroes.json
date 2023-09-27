@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-09-27T14:06:23.7170863+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T15:04:53.7124701+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -425,7 +430,7 @@
       "Name": "Path of the Hero",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DashAttack",
@@ -433,7 +438,7 @@
       "Name": "Fireball",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "DashDashDash",
@@ -481,7 +486,7 @@
       "Name": "Snake Eyes - Hero Edition",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HeroWorld3Boss",
@@ -489,7 +494,7 @@
       "Name": "The King of Flat - Hero Edition",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HeroWorld4Boss",
@@ -545,7 +550,7 @@
       "Name": "Snakecharmer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KillGhostInACombo",
@@ -649,7 +654,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SurvivalRecordVertical",
@@ -657,7 +662,7 @@
       "Name": "Vertigo",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TripleTriple",
@@ -689,7 +694,7 @@
       "Name": "Rogue",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "World1Boss",
@@ -697,7 +702,7 @@
       "Name": "Dash Crash",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "World2Boss",
@@ -705,15 +710,15 @@
       "Name": "Snake Eyes",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "World3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 172
     },
     {
       "ID": "World4Boss",
@@ -721,15 +726,15 @@
       "Name": "Hit That Ball",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 109
     },
     {
       "ID": "World6Boss",
@@ -768,7 +773,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
@@ -776,8 +781,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-27T14:06:23.7170857+00:00",
+  "LastChanged_Achievements": "2023-09-27T15:04:53.7124693+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:03:04.5795627+00:00",
-  "LastUpdate_Achievements": "2023-09-27T14:06:23.7171731+00:00"
+  "LastUpdate_Ratings": "2023-09-27T15:00:55.5878417+00:00",
+  "LastUpdate_Achievements": "2023-09-27T15:04:53.712512+00:00"
 }

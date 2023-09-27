@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1445,6 +1445,11 @@
       "Time": "2023-09-26T23:06:28.0959398+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T15:05:36.8231574+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1486,9 +1491,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 748
     },
     {
       "ID": "06",
@@ -1512,7 +1517,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "09",
@@ -1520,7 +1525,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "10",
@@ -1528,7 +1533,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "11",
@@ -1582,9 +1587,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 691
+      "UsersEstimate": 681
     },
     {
       "ID": "18",
@@ -1639,7 +1644,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 1
     }
   ],
@@ -1647,8 +1652,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-27T14:07:23.5091951+00:00",
+  "LastChanged_Achievements": "2023-09-27T15:05:36.8231568+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:29.7165536+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:00:01.6622369+00:00",
-  "LastUpdate_Achievements": "2023-09-27T14:07:23.5092399+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:58:50.923337+00:00",
+  "LastUpdate_Achievements": "2023-09-27T15:05:36.8231908+00:00"
 }
