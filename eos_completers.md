@@ -1,11 +1,11 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.16% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.14% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 28.70% |
+| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 28.44% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.63% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.33% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.56% |
 | 41 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 42 | [Scorn](games/s/scorn.md) | 7.04% |
 | 43 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.67% |
@@ -93,8 +93,8 @@
 | 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
 | 91 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.38% |
 | 93 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 94 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.30% |
-| 95 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
+| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
+| 94 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.29% |
 | 96 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 97 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 98 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.08% |
@@ -109,7 +109,7 @@
 | 107 | [Frogun](games/f/frogun.md) | 1.79% |
 | 108 | [Somerville](games/s/somerville.md) | 1.71% |
 | 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
-| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.61% |
+| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.59% |
 | 111 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
 | 112 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 113 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
@@ -126,8 +126,8 @@
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 125 | [Infindustry](games/i/infindustry.md) | 1.11% |
 | 126 | [Trifox](games/t/trifox.md) | 1.09% |
-| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
-| 128 | [Adios](games/a/adios.md) | 1.04% |
+| 127 | [Adios](games/a/adios.md) | 1.04% |
+| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 129 | [Sable](games/s/sable.md) | 1.01% |
 | 130 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 130 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
