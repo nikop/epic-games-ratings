@@ -5,7 +5,7 @@
   "Ranking_Rating": 696,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 109,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1943,6 +1943,11 @@
       "Time": "2023-09-27T00:06:16.5637126+00:00",
       "NumProgressed": 462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T01:49:32.1241819+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2145,9 +2150,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_S4",
@@ -2155,7 +2160,7 @@
       "Name": "Power Glove",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_S5",
@@ -2186,15 +2191,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:06:16.5637121+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:49:32.1241813+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-27T00:01:56.5481963+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:06:16.563765+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:45:40.1029532+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:49:32.1242352+00:00"
 }

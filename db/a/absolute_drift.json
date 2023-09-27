@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1542275,
+  "EOS_Progressed": 1542280,
   "EOS_Completed": 695,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -18404,6 +18404,11 @@
       "Time": "2023-09-27T00:08:24.1001608+00:00",
       "NumProgressed": 1542275,
       "NumCompleted": 695
+    },
+    {
+      "Time": "2023-09-27T01:52:07.5013834+00:00",
+      "NumProgressed": 1542280,
+      "NumCompleted": 695
     }
   ],
   "TotalAchievements": 20,
@@ -18423,7 +18428,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107959
+      "UsersEstimate": 107960
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -18535,7 +18540,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13880
+      "UsersEstimate": 13881
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -18574,15 +18579,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1542275,
+      "Progressed": 1542280,
       "Completed": 695
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:08:24.1001603+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:52:07.501383+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.8511247+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:59:53.9691164+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:08:24.1003928+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:43:11.7259221+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:52:07.5015458+00:00"
 }

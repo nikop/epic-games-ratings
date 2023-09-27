@@ -18,7 +18,7 @@
 | Culinary Arts | 4.00% | ~25 |
 | Perfectionist | 4.00% | ~25 |
 | Rolling in Dough | 4.00% | ~25 |
-| Leaning Tower of Pizza | 3.00% | ~18 |
+| Leaning Tower of Pizza | 3.00% | ~19 |
 | Chef, Yes Chef! | 0.50% | ~3 |
 | The Bigger the Better | 0.50% | ~3 |
 | Eco Warrior | 0.30% | ~2 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 253)  
+Progressed: 617 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-23 | 609 | 0 |
 | 2023-09-24 | 614 | 0 |
 | 2023-09-25 | 615 | 0 |
-| 2023-09-27 | 616 | 0 |
+| 2023-09-27 | 617 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66250,
+  "EOS_Progressed": 66253,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15994,6 +15994,11 @@
       "Time": "2023-09-27T00:07:07.3802477+00:00",
       "NumProgressed": 66250,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-27T01:50:40.6357268+00:00",
+      "NumProgressed": 66253,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16005,7 +16010,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27825
+      "UsersEstimate": 27826
     },
     {
       "ID": "02",
@@ -16013,7 +16018,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17225
+      "UsersEstimate": 17226
     },
     {
       "ID": "03",
@@ -16021,7 +16026,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17225
+      "UsersEstimate": 17226
     },
     {
       "ID": "04",
@@ -16053,7 +16058,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8612
+      "UsersEstimate": 8613
     },
     {
       "ID": "08",
@@ -16085,7 +16090,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "12",
@@ -16093,7 +16098,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8612
+      "UsersEstimate": 8613
     },
     {
       "ID": "13",
@@ -16157,7 +16162,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "21",
@@ -16197,7 +16202,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "26",
@@ -16245,7 +16250,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11925
+      "UsersEstimate": 11926
     },
     {
       "ID": "32",
@@ -16253,7 +16258,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21862
+      "UsersEstimate": 21863
     },
     {
       "ID": "33",
@@ -16277,7 +16282,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22525
+      "UsersEstimate": 22526
     },
     {
       "ID": "36",
@@ -16309,7 +16314,7 @@
       "Name": "Gunless Wonder",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "40",
@@ -16325,7 +16330,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11262
+      "UsersEstimate": 11263
     },
     {
       "ID": "42",
@@ -16333,7 +16338,7 @@
       "Name": "Every Nook and Cranny",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "43",
@@ -16357,7 +16362,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "46",
@@ -16381,7 +16386,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "49",
@@ -16405,7 +16410,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "52",
@@ -16540,21 +16545,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66250,
+      "Progressed": 66253,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29718,
+      "Progressed": 29721,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:07:07.3802472+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:50:40.6357262+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-27T00:02:17.322357+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:07:07.3804197+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:46:01.8876647+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:50:40.6359884+00:00"
 }

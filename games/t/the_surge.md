@@ -1,18 +1,18 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 673)  
+Rating: 4.43 (Ranked 674)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,404 |
-| I'll Be Back | 85.00% | ~3,982 |
-| Sorry, I Dropped This | 77.00% | ~3,607 |
-| First Day on the Job | 77.00% | ~3,607 |
+| On My Own Two Feet | 94.00% | ~4,405 |
+| I'll Be Back | 85.00% | ~3,983 |
+| Sorry, I Dropped This | 77.00% | ~3,608 |
+| First Day on the Job | 77.00% | ~3,608 |
 | Butcher's Bill | 55.00% | ~2,577 |
-| P.A.X | 37.00% | ~1,733 |
-| Hey Listen | 37.00% | ~1,733 |
+| P.A.X | 37.00% | ~1,734 |
+| Hey Listen | 37.00% | ~1,734 |
 | OPERATOR | 36.00% | ~1,687 |
 | It's Blue Light | 33.00% | ~1,546 |
 | Most Wanted | 26.00% | ~1,218 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~515 |
 | Who's in Charge Here? | 11.00% | ~515 |
 | Shall Not Pass | 11.00% | ~515 |
-| Right Tool for the Job | 10.00% | ~468 |
+| Right Tool for the Job | 10.00% | ~469 |
 | Melting Down | 9.00% | ~422 |
 | Raging Drones | 9.00% | ~422 |
 | Overconfident | 9.00% | ~422 |
@@ -48,9 +48,9 @@ Number of Ratings: 62  (23.09.2022)
 | Man of Steel | 5.00% | ~234 |
 | Jack of All Trades | 5.00% | ~234 |
 | 3-2-1 | 5.00% | ~234 |
-| For the Good of Mankind | 4.00% | ~187 |
 | Rusty Rat | 4.00% | ~187 |
 | Desecration | 4.00% | ~187 |
+| For the Good of Mankind | 3.00% | ~141 |
 | Turing Test | 3.00% | ~141 |
 | Repeat Customer | 3.00% | ~141 |
 | Evolution Theory | 3.00% | ~141 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,685 (Ranked 168)  
+Progressed: 4,686 (Ranked 168)  
 Completed: 16 (0.34%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 16 (0.34%) (Ranked 185)
 | 2023-09-24 | 4,671 | 16 |
 | 2023-09-25 | 4,679 | 16 |
 | 2023-09-26 | 4,684 | 16 |
-| 2023-09-27 | 4,685 | 16 |
+| 2023-09-27 | 4,686 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 469)  
 Sum: 29 (Ranked 485)  

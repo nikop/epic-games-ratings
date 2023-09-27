@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2749,
+  "EOS_Progressed": 2750,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3478,6 +3478,11 @@
       "Time": "2023-09-26T22:05:34.308938+00:00",
       "NumProgressed": 2749,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-27T01:47:50.6676545+00:00",
+      "NumProgressed": 2750,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3521,7 +3526,7 @@
       "Name": "The will to move on",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "REUNION",
@@ -3553,7 +3558,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -3569,7 +3574,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "TRANSMISSION",
@@ -3592,7 +3597,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2749,
+      "Progressed": 2750,
       "Completed": 6
     }
   ],
@@ -3600,8 +3605,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:04:25.7180687+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:47:50.667654+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.7074849+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:58:49.5888646+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:04:25.7181212+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:41:53.8230916+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:47:50.6676955+00:00"
 }

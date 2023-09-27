@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 79.00% | ~234 |
 | First Blood | 61.00% | ~181 |
+| Triple Kill | 60.00% | ~178 |
 | Aspairagus | 60.00% | ~148 |
-| Triple Kill | 59.00% | ~175 |
 | No Asperascope | 57.00% | ~169 |
 | Survivor | 56.00% | ~138 |
 | Cornivore | 53.00% | ~157 |
@@ -24,9 +24,9 @@
 | Grave Digger | 22.00% | ~54 |
 | Pork Chop Express | 19.00% | ~56 |
 | Carrocketeer | 17.00% | ~50 |
+| Getting Started | 16.00% | ~47 |
 | Skin Of Your Teeth | 16.00% | ~47 |
 | Oh My Gourd | 16.00% | ~39 |
-| Getting Started | 15.00% | ~44 |
 | Eggtraordinary | 15.00% | ~44 |
 | This Is My Boomstick | 14.00% | ~34 |
 | Quit Horsin' Around | 12.00% | ~36 |

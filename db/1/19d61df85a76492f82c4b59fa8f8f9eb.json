@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -1575,8 +1575,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:06:05.8450712+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:49:19.4064393+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.6602151+00:00",
-  "LastUpdate_Ratings": "2023-09-27T00:01:11.3316496+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:06:05.845093+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:44:40.214597+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:49:19.4064655+00:00"
 }

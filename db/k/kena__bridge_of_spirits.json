@@ -1310,9 +1310,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428178,
+  "EOS_Progressed": 428179,
   "EOS_Completed": 533,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12080,6 +12080,11 @@
       "Time": "2023-09-26T19:04:24.5785547+00:00",
       "NumProgressed": 428178,
       "NumCompleted": 533
+    },
+    {
+      "Time": "2023-09-27T01:48:07.816277+00:00",
+      "NumProgressed": 428179,
+      "NumCompleted": 533
     }
   ],
   "TotalAchievements": 41,
@@ -12099,7 +12104,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166989
+      "UsersEstimate": 166990
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -12123,7 +12128,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107044
+      "UsersEstimate": 107045
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -12139,7 +12144,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111326
+      "UsersEstimate": 111327
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -12147,7 +12152,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128453
+      "UsersEstimate": 128454
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -12211,7 +12216,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111326
+      "UsersEstimate": 111327
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -12235,7 +12240,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29972
+      "UsersEstimate": 29973
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -12259,7 +12264,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406769
+      "UsersEstimate": 406770
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12275,7 +12280,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308288
+      "UsersEstimate": 308289
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -12291,7 +12296,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295443
+      "UsersEstimate": 295444
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -12299,7 +12304,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111326
+      "UsersEstimate": 111327
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -12307,7 +12312,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342542
+      "UsersEstimate": 342543
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -12315,7 +12320,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29972
+      "UsersEstimate": 29973
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -12331,7 +12336,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68508
+      "UsersEstimate": 68509
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -12418,15 +12423,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428178,
+      "Progressed": 428179,
       "Completed": 533
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-25T16:57:47.9518797+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:04:39.6559073+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:48:07.8162763+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:18.0671281+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:58:19.4962456+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:04:39.6560788+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:41:13.0571005+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:48:07.8164036+00:00"
 }

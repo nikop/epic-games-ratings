@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40074,
+  "EOS_Progressed": 40076,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8982,6 +8982,11 @@
       "Time": "2023-09-27T00:03:23.2565967+00:00",
       "NumProgressed": 40074,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-27T01:47:00.4007234+00:00",
+      "NumProgressed": 40076,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9041,7 +9046,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9065,7 +9070,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -9073,7 +9078,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -9081,7 +9086,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -9185,7 +9190,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -9193,7 +9198,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -9241,7 +9246,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -9265,7 +9270,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MONUMENT_ALL",
@@ -9345,7 +9350,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "STAYING_AIR",
@@ -9416,22 +9421,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40074,
+      "Progressed": 40076,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4911,
-      "Completed": 4911
+      "Progressed": 4913,
+      "Completed": 4913
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:03:23.2565962+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:47:00.4007228+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:57:38.8013633+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:03:23.2567361+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:40:20.9613382+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:47:00.4008624+00:00"
 }

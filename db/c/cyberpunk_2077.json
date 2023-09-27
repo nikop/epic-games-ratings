@@ -12465,10 +12465,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 226122,
       "NumberOfAwardsMax": 82928
+    },
+    {
+      "Time": "2023-09-27T01:39:59.2170444+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 227478,
+      "NumberOfAwardsMax": 82928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 226122,
+  "NumberOfAwards": 227478,
   "NumberOfAwardsMax": 82928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12482,7 +12488,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 54102
+      "Count": 55184
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12494,7 +12500,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 10014
+      "Count": 10288
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12545,10 +12551,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882574,
-  "EOS_Completed": 2422,
-  "EOS_NewPlayers": 5406,
-  "EOS_NewCompleters": 302,
+  "EOS_Progressed": 882638,
+  "EOS_Completed": 2424,
+  "EOS_NewPlayers": 5460,
+  "EOS_NewCompleters": 304,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30450,6 +30456,11 @@
       "Time": "2023-09-27T00:06:20.9299532+00:00",
       "NumProgressed": 882574,
       "NumCompleted": 2422
+    },
+    {
+      "Time": "2023-09-27T01:49:37.2686733+00:00",
+      "NumProgressed": 882638,
+      "NumCompleted": 2424
     }
   ],
   "TotalAchievements": 57,
@@ -30485,7 +30496,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "Denied",
@@ -30493,7 +30504,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "FollowingTheRiver",
@@ -30539,9 +30550,9 @@
       "ID": "Gunslinger",
       "SetID": "47clieb",
       "Name": "Gunslinger",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6178
+      "UsersEstimate": 7061
     },
     {
       "ID": "HandyMan",
@@ -30549,7 +30560,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "IAmMaxTac",
@@ -30565,7 +30576,7 @@
       "Name": "Mean Streets",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "LittleTokyo",
@@ -30605,7 +30616,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "NoMansLand",
@@ -30637,7 +30648,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "Specialist",
@@ -30645,23 +30656,23 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7943
+      "UsersEstimate": 7944
     },
     {
       "ID": "Temperance",
       "SetID": "47clieb",
       "Name": "Temperance",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2648
+      "UsersEstimate": 3531
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7943
+      "UsersEstimate": 8826
     },
     {
       "ID": "TheDevil",
@@ -30675,9 +30686,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1765
+      "UsersEstimate": 2648
     },
     {
       "ID": "TheHermit",
@@ -30685,7 +30696,7 @@
       "Name": "The Hermit",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "TheHightPriestess",
@@ -30723,9 +30734,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 3531
     },
     {
       "ID": "TheWorld",
@@ -30757,7 +30768,7 @@
       "Name": "True Soldier",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "TrueWarrior",
@@ -30789,7 +30800,7 @@
       "Name": "V for Vendetta",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "YipMan",
@@ -30916,21 +30927,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882574,
-      "Completed": 2422
+      "Progressed": 882638,
+      "Completed": 2424
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11197,
+      "Progressed": 11261,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-26T22:57:15.0836216+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:06:20.9299526+00:00",
+  "LastChanged": "2023-09-27T01:39:59.2170441+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:49:37.2686729+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:57:25.3094033+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:06:20.9302499+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:39:59.217045+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:49:37.2688568+00:00"
 }

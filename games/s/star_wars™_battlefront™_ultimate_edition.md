@@ -4,56 +4,56 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~190 |
-| Off to a good start | 67.00% | ~145 |
-| Do... or do not. There is no try | 47.00% | ~102 |
-| A good blaster at your side | 36.00% | ~78 |
-| Scrap collector | 25.00% | ~54 |
-| Great shot, kid! | 24.00% | ~52 |
-| The power of the Force | 20.00% | ~43 |
-| I suggest a new strategy | 20.00% | ~43 |
-| Collector | 18.00% | ~39 |
-| Together we can rule the galaxy | 18.00% | ~39 |
-| All right, I'll give it a try | 18.00% | ~39 |
-| Shoot first | 18.00% | ~39 |
-| Tell Jabba that I've got his money | 14.00% | ~30 |
-| Survivor | 13.00% | ~28 |
-| A cunning warrior | 13.00% | ~28 |
+| New Recruit | 87.00% | ~191 |
+| Off to a good start | 66.00% | ~145 |
+| Do... or do not. There is no try | 48.00% | ~106 |
+| A good blaster at your side | 35.00% | ~77 |
+| Scrap collector | 25.00% | ~55 |
+| Great shot, kid! | 23.00% | ~51 |
+| The power of the Force | 20.00% | ~44 |
+| I suggest a new strategy | 20.00% | ~44 |
+| Collector | 18.00% | ~40 |
+| All right, I'll give it a try | 18.00% | ~40 |
+| Shoot first | 18.00% | ~40 |
+| Together we can rule the galaxy | 17.00% | ~37 |
+| Tell Jabba that I've got his money | 14.00% | ~31 |
+| Survivor | 13.00% | ~29 |
 | What's the cargo? | 12.00% | ~26 |
-| A tremor in the Force | 12.00% | ~26 |
 | Never tell me the odds! | 12.00% | ~26 |
 | Best star-pilot in the galaxy | 12.00% | ~26 |
+| A cunning warrior | 12.00% | ~26 |
+| A tremor in the Force | 11.00% | ~24 |
 | Impressive. Most impressive. | 11.00% | ~24 |
 | Judge me by my size, do you? | 11.00% | ~24 |
 | "Gonk? Gonk!" | 10.00% | ~22 |
-| Distinguished | 9.00% | ~19 |
-| Patience you must have | 9.00% | ~19 |
-| Support the troops | 9.00% | ~19 |
-| Not bad for a little furball | 8.00% | ~17 |
+| Distinguished | 9.00% | ~20 |
+| Patience you must have | 9.00% | ~20 |
+| Support the troops | 9.00% | ~20 |
+| Not bad for a little furball | 8.00% | ~18 |
 | I've been waiting for you | 7.00% | ~15 |
 | When 900 years old you reach... | 7.00% | ~15 |
 | Determined | 7.00% | ~15 |
 | On the ball | 7.00% | ~15 |
 | Don't underestimate the Force | 7.00% | ~15 |
 | Precision shot | 6.00% | ~13 |
-| This is a new day, a new beginning | 6.00% | ~13 |
 | City in the Clouds | 6.00% | ~13 |
 | That's no moon | 6.00% | ~13 |
-| What will you become? | 6.00% | ~13 |
-| Disturbed tranquility | 6.00% | ~13 |
 | Playing the objective | 5.00% | ~11 |
 | The Force is strong with this one | 5.00% | ~11 |
 | Your journey has only started | 5.00% | ~11 |
+| This is a new day, a new beginning | 5.00% | ~11 |
 | Alternative solution | 5.00% | ~11 |
+| What will you become? | 5.00% | ~11 |
 | The circle is now complete | 5.00% | ~11 |
+| Disturbed tranquility | 5.00% | ~11 |
 | Ackbar's Elite | 4.00% | ~9 |
 | You have your moments | 4.00% | ~9 |
-| Hold the line! | 3.00% | ~6 |
-| Safety ain't the point of a joyride | 3.00% | ~6 |
-| No such thing as luck | 3.00% | ~6 |
-| Do we take prisoners? | 3.00% | ~6 |
-| When surrounded by war... | 3.00% | ~6 |
-| Onwards! | 3.00% | ~6 |
+| Hold the line! | 3.00% | ~7 |
+| Safety ain't the point of a joyride | 3.00% | ~7 |
+| No such thing as luck | 3.00% | ~7 |
+| Do we take prisoners? | 3.00% | ~7 |
+| When surrounded by war... | 3.00% | ~7 |
+| Onwards! | 3.00% | ~7 |
 | A New Hope | 2.00% | ~4 |
 | in a galaxy far, far away.... | 2.00% | ~4 |
 | I’ll take that bet | 2.00% | ~4 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.50% | ~1 |
 | Crush them with one swift stroke… | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 330)  
-Completed: 1 (0.46%) (Ranked 166)  
+Progressed: 220 (Ranked 329)  
+Completed: 1 (0.45%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 1 (0.46%) (Ranked 166)
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
+| 2023-09-27 | 220 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

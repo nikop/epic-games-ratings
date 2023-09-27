@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~268 |
 | Watch The World Burn | 5.00% | ~268 |
 | Fairy Tale Come True | 5.00% | ~268 |
+| Apocalypso | 4.00% | ~214 |
 | Been there, Done That | 3.00% | ~161 |
-| Apocalypso | 3.00% | ~161 |
 | Narcissist | 3.00% | ~161 |
 | Promising Endeavors | 3.00% | ~161 |
 | The Time For Wonders | 3.00% | ~161 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,357 (Ranked 160)  
+Progressed: 5,358 (Ranked 160)  
 Completed: 2 (0.04%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,11 +207,11 @@ Completed: 2 (0.04%) (Ranked 258)
 | 2023-09-24 | 5,324 | 2 |
 | 2023-09-25 | 5,340 | 2 |
 | 2023-09-26 | 5,355 | 2 |
-| 2023-09-27 | 5,357 | 2 |
+| 2023-09-27 | 5,358 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 343)  
-Sum: 693 (Ranked 282)  
-Diff (max vs sum): 61  
+Sum: 693 (Ranked 283)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

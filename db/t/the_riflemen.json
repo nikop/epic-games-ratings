@@ -4,7 +4,7 @@
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-01T00:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13305,
+  "EOS_Progressed": 13318,
   "EOS_Completed": 11759,
   "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 88.38,
+  "EOS_Completed_Percentage": 88.29,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -3344,6 +3344,11 @@
       "Time": "2023-09-27T00:05:22.7890787+00:00",
       "NumProgressed": 13305,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-27T01:48:40.3221919+00:00",
+      "NumProgressed": 13318,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -3364,7 +3369,7 @@
       "Name": "First blood",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3862
     },
     {
       "ID": "grenadeKills",
@@ -3380,7 +3385,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "headshots1000",
@@ -3467,13 +3472,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 13305,
+      "Progressed": 13318,
       "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:05:22.7890781+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:48:40.3221915+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6814414+00:00",
-  "LastUpdate_Ratings": "2023-09-27T00:00:24.9057578+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:05:22.7891328+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:43:52.3195334+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:48:40.3222332+00:00"
 }

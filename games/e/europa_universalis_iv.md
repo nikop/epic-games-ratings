@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,611 |
-| That's a Grand Army | 3.00% | ~12,458 |
-| That is mine! | 3.00% | ~12,458 |
-| Victorious! | 3.00% | ~12,458 |
+| Until death do us apart | 4.00% | ~16,613 |
+| That's a Grand Army | 3.00% | ~12,460 |
+| That is mine! | 3.00% | ~12,460 |
+| Victorious! | 3.00% | ~12,460 |
 | Brothers in Arms | 2.00% | ~8,306 |
 | For the Glory | 2.00% | ~8,306 |
 | That's a Grand Navy | 2.00% | ~8,306 |
@@ -22,14 +22,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,738 |
 | Respected | 0.90% | ~3,738 |
 | Truly Divine Ruler | 0.90% | ~3,738 |
-| Blockader | 0.80% | ~3,322 |
+| Blockader | 0.80% | ~3,323 |
 | Double the Love | 0.70% | ~2,907 |
 | Royal Authority | 0.70% | ~2,907 |
 | Total Control | 0.70% | ~2,907 |
 | My armies are invincible! | 0.60% | ~2,492 |
-| Agressive Expander | 0.50% | ~2,076 |
-| City of Cities | 0.50% | ~2,076 |
-| Combined Arms | 0.50% | ~2,076 |
+| Agressive Expander | 0.50% | ~2,077 |
+| City of Cities | 0.50% | ~2,077 |
+| Combined Arms | 0.50% | ~2,077 |
 | Azur semé de lis or | 0.40% | ~1,661 |
 | Factionalism | 0.40% | ~1,661 |
 | Gentle Persuasion | 0.40% | ~1,661 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,283 (Ranked 41)  
+Progressed: 415,317 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,10 +521,10 @@ Completed: 1 (0.00%) (Ranked 294)
 | 2023-09-24 | 413,698 | 1 |
 | 2023-09-25 | 414,499 | 1 |
 | 2023-09-26 | 415,263 | 1 |
-| 2023-09-27 | 415,283 | 1 |
+| 2023-09-27 | 415,317 | 1 |
 ## Awards
 Max (Educational): 6,276  (Ranked 56)  
-Sum: 51,532 (Ranked 24)  
+Sum: 51,557 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -533,8 +533,8 @@ Diff (max vs sum): 32
 | This game has Challenging Combat | 5,944 |
 | This game has Diverse Characters | 5,922 |
 | This game is Extremely Fun | 5,918 |
-| This game is Relaxing | 5,782 |
-| This game has Competitive Players | 5,592 |
+| This game is Relaxing | 5,796 |
+| This game has Competitive Players | 5,603 |
 | This game has Amazing Storytelling | 5,245 |
 | This game has Amazing Characters | 4,866 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -794,3 +794,4 @@ Diff (max vs sum): 32
 | 2023-09-24 | 4.69 | - | 6,250 | 51,334 |
 | 2023-09-25 | 4.69 | - | 6,263 | 51,425 |
 | 2023-09-26 | 4.69 | - | 6,276 | 51,532 |
+| 2023-09-27 | 4.69 | - | 6,276 | 51,557 |

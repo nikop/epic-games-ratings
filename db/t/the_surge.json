@@ -2,12 +2,12 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 674,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4685,
+  "EOS_Progressed": 4686,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2556,6 +2556,11 @@
       "Time": "2023-09-27T00:05:34.1454235+00:00",
       "NumProgressed": 4685,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-27T01:48:53.8033965+00:00",
+      "NumProgressed": 4686,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2567,7 +2572,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -2605,9 +2610,9 @@
       "ID": "ID_ACHIEV_06",
       "SetID": "98bke8c",
       "Name": "For the Good of Mankind",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 141
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -2615,7 +2620,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2623,7 +2628,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2631,7 +2636,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3607
+      "UsersEstimate": 3608
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2639,7 +2644,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2735,7 +2740,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -2783,7 +2788,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3607
+      "UsersEstimate": 3608
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3102,15 +3107,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4685,
+      "Progressed": 4686,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-27T00:05:34.1454227+00:00",
+  "LastChanged_Achievements": "2023-09-27T01:48:53.8033961+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:31.5942131+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:03:25.9084698+00:00",
-  "LastUpdate_Achievements": "2023-09-27T00:05:34.1455965+00:00"
+  "LastUpdate_Ratings": "2023-09-27T01:39:40.34527+00:00",
+  "LastUpdate_Achievements": "2023-09-27T01:48:53.8035048+00:00"
 }
