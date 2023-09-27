@@ -187,6 +187,7 @@
 | [Defense Grid: The Awakening](../games/d/defense_grid__the_awakening.md) | 87 | 1,000 |
 | [Deliver Us Mars](../games/d/deliver_us_mars.md) | 33 | 1,000 |
 | [Delivery from the Pain](../games/d/delivery_from_the_pain.md) | 81 | 1,000 |
+| [Demon Turf Neon Splash](../games/7/7184be55b899413ba25cf1f77e89ac82.md) | 12 | 1,000 |
 | [Deponia Doomsday](../games/d/deponia_doomsday.md) | 36 | 1,000 |
 | [Despot's Game](../games/d/despot's_game.md) | 35 | 1,000 |
 | [DESTRUCTURE: Among Debris](../games/d/destructure__among_debris.md) | 31 | 1,000 |

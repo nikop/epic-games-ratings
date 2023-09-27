@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.96% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.93% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
@@ -99,7 +99,7 @@
 | 97 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 98 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.08% |
 | 99 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.05% |
-| 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
+| 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
 | 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |
 | 102 | [Night Book](games/n/night_book.md) | 1.86% |
 | 103 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -115,7 +115,7 @@
 | 113 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
 | 113 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 115 | [Ten Dates](games/t/ten_dates.md) | 1.41% |
-| 116 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.40% |
+| 116 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
 | 117 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 118 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.36% |
 | 119 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.35% |
@@ -129,11 +129,11 @@
 | 127 | [Adios](games/a/adios.md) | 1.04% |
 | 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 129 | [Sable](games/s/sable.md) | 1.01% |
-| 130 | [A Musical Story](games/a/a_musical_story.md) | 1.00% |
 | 130 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
 | 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
 | 130 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
-| 134 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 133 | [A Musical Story](games/a/a_musical_story.md) | 0.99% |
+| 133 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 135 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.93% |
 | 136 | [Hades](games/h/hades.md) | 0.91% |
 | 137 | [Eternights](games/e/eternights.md) | 0.88% |
@@ -637,4 +637,4 @@
 | 295 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 295 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 295 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,307 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,308 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
