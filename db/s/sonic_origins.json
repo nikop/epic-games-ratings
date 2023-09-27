@@ -2370,9 +2370,9 @@
       "ID": "ID_15_NOVICE_HERO",
       "SetID": "7o8nc5m",
       "Name": "Newbie Hero",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 426
     },
     {
       "ID": "ID_16_WATCH_AT_MUSEUM",
@@ -2498,9 +2498,9 @@
       "ID": "ID_31_SONIC1_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ID_32_SONICCD_CLEAR_ALL_STAGE",
@@ -2546,8 +2546,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:05:29.676048+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:06:12.0617164+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.5215389+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:00:12.7109051+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:05:29.6760764+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:01:09.7926746+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:06:12.0617564+00:00"
 }

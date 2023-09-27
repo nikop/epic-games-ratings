@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,634 |
-| That's a Grand Army | 3.00% | ~12,475 |
-| That is mine! | 3.00% | ~12,475 |
-| Victorious! | 3.00% | ~12,475 |
-| Brothers in Arms | 2.00% | ~8,317 |
-| For the Glory | 2.00% | ~8,317 |
-| That's a Grand Navy | 2.00% | ~8,317 |
-| Seriously?! | 2.00% | ~8,317 |
-| Cold War | 1.00% | ~4,158 |
-| Defender of the Faith | 1.00% | ~4,158 |
-| It's all about the money | 1.00% | ~4,158 |
-| The Princess is in this Castle | 1.00% | ~4,158 |
-| True Catholic | 1.00% | ~4,158 |
+| Until death do us apart | 4.00% | ~16,635 |
+| That's a Grand Army | 3.00% | ~12,477 |
+| That is mine! | 3.00% | ~12,477 |
+| Victorious! | 3.00% | ~12,477 |
+| Brothers in Arms | 2.00% | ~8,318 |
+| For the Glory | 2.00% | ~8,318 |
+| That's a Grand Navy | 2.00% | ~8,318 |
+| Seriously?! | 2.00% | ~8,318 |
+| Cold War | 1.00% | ~4,159 |
+| Defender of the Faith | 1.00% | ~4,159 |
+| It's all about the money | 1.00% | ~4,159 |
+| The Princess is in this Castle | 1.00% | ~4,159 |
+| True Catholic | 1.00% | ~4,159 |
 | It's all about luck | 0.90% | ~3,743 |
 | Respected | 0.90% | ~3,743 |
 | Truly Divine Ruler | 0.90% | ~3,743 |
@@ -31,11 +31,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,079 |
 | Combined Arms | 0.50% | ~2,079 |
 | This navy can take it all | 0.50% | ~2,079 |
-| Azur semé de lis or | 0.40% | ~1,663 |
-| Factionalism | 0.40% | ~1,663 |
-| Gentle Persuasion | 0.40% | ~1,663 |
-| Isn't this the way to India? | 0.40% | ~1,663 |
-| Queen of Conquest | 0.40% | ~1,663 |
+| Azur semé de lis or | 0.40% | ~1,664 |
+| Factionalism | 0.40% | ~1,664 |
+| Gentle Persuasion | 0.40% | ~1,664 |
+| Isn't this the way to India? | 0.40% | ~1,664 |
+| Queen of Conquest | 0.40% | ~1,664 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,248 |
 | Bright Spark | 0.30% | ~1,248 |
 | Down Under | 0.30% | ~1,248 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,839 (Ranked 41)  
+Progressed: 415,887 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,10 +521,10 @@ Completed: 1 (0.00%) (Ranked 295)
 | 2023-09-24 | 413,698 | 1 |
 | 2023-09-25 | 414,499 | 1 |
 | 2023-09-26 | 415,263 | 1 |
-| 2023-09-27 | 415,839 | 1 |
+| 2023-09-27 | 415,887 | 1 |
 ## Awards
 Max (Educational): 6,276  (Ranked 56)  
-Sum: 51,586 (Ranked 24)  
+Sum: 51,607 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -535,8 +535,8 @@ Diff (max vs sum): 32
 | This game is Extremely Fun | 5,928 |
 | This game is Relaxing | 5,796 |
 | This game has Competitive Players | 5,603 |
-| This game has Amazing Storytelling | 5,245 |
-| This game has Amazing Characters | 4,866 |
+| This game has Amazing Storytelling | 5,254 |
+| This game has Amazing Characters | 4,878 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -794,4 +794,4 @@ Diff (max vs sum): 32
 | 2023-09-24 | 4.69 | - | 6,250 | 51,334 |
 | 2023-09-25 | 4.69 | - | 6,263 | 51,425 |
 | 2023-09-26 | 4.69 | - | 6,276 | 51,532 |
-| 2023-09-27 | 4.69 | - | 6,276 | 51,586 |
+| 2023-09-27 | 4.69 | - | 6,276 | 51,607 |

@@ -29,7 +29,7 @@ Rating: 3.94 (Ranked 970)
 | Freebooter | 0.20% | ~177 |
 | Moneybags | 0.20% | ~177 |
 | Olympus Ascended | 0.20% | ~177 |
-| All that Glitters | 0.20% | ~33 |
+| All that Glitters | 0.20% | ~34 |
 | Rockay Raider | 0.10% | ~88 |
 | Rockay Knight | 0.10% | ~88 |
 | Savvy Seeker | 0.10% | ~88 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 970)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,401 (Ranked 78)  
+Progressed: 88,404 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,14 +207,14 @@ Completed: 46 (0.05%) (Ranked 255)
 | 2023-09-24 | 88,263 | 46 |
 | 2023-09-25 | 88,338 | 46 |
 | 2023-09-26 | 88,367 | 46 |
-| 2023-09-27 | 88,401 | 46 |
+| 2023-09-27 | 88,404 | 46 |
 ## Awards
-Max (Diverse Characters): 460  (Ranked 206)  
-Sum: 2,206 (Ranked 196)  
+Max (Diverse Characters): 463  (Ranked 206)  
+Sum: 2,209 (Ranked 196)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 460 |
+| This game has Diverse Characters | 463 |
 | This game has Quickly Understood Controls | 450 |
 | This game is Highly Recommended | 437 |
 | This game has Challenging Combat | 434 |
@@ -404,4 +404,4 @@ Diff (max vs sum): 10
 | 2023-09-24 | 3.93 | 455 | 2,182 |
 | 2023-09-25 | 3.93 | 458 | 2,193 |
 | 2023-09-26 | 3.94 | 460 | 2,201 |
-| 2023-09-27 | 3.94 | 460 | 2,206 |
+| 2023-09-27 | 3.94 | 463 | 2,209 |

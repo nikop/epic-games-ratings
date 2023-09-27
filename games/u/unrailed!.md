@@ -6,28 +6,28 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~110,060 |
-| Incurious | 16.00% | ~103,586 |
-| Stroller | 15.00% | ~97,112 |
-| Climate Change | 15.00% | ~97,112 |
-| Toy Train | 13.00% | ~84,163 |
-| Advanced Hiker | 12.00% | ~77,689 |
-| Hiker | 11.00% | ~71,215 |
-| Mojave Courier | 5.00% | ~32,370 |
-| Saved by Nausicaä | 5.00% | ~32,370 |
-| Voyager | 3.00% | ~19,422 |
-| Advanced Voyager | 3.00% | ~19,422 |
-| Expert Stroller | 3.00% | ~19,422 |
-| Orient Express | 3.00% | ~19,422 |
-| Expert Hiker | 2.00% | ~12,948 |
-| Marathon | 2.00% | ~12,948 |
-| Destructionist | 2.00% | ~12,948 |
-| Lost | 2.00% | ~12,948 |
+| Advanced Stroller | 17.00% | ~110,063 |
+| Incurious | 16.00% | ~103,589 |
+| Stroller | 15.00% | ~97,114 |
+| Climate Change | 15.00% | ~97,114 |
+| Toy Train | 13.00% | ~84,166 |
+| Advanced Hiker | 12.00% | ~77,692 |
+| Hiker | 11.00% | ~71,217 |
+| Mojave Courier | 5.00% | ~32,372 |
+| Saved by Nausicaä | 5.00% | ~32,372 |
+| Voyager | 3.00% | ~19,423 |
+| Advanced Voyager | 3.00% | ~19,423 |
+| Expert Stroller | 3.00% | ~19,423 |
+| Orient Express | 3.00% | ~19,423 |
+| Expert Hiker | 2.00% | ~12,949 |
+| Marathon | 2.00% | ~12,949 |
+| Destructionist | 2.00% | ~12,949 |
+| Lost | 2.00% | ~12,949 |
 | Rocketman | 0.70% | ~4,532 |
 | Shopaholic | 0.70% | ~4,532 |
-| Expert Voyager | 0.60% | ~3,884 |
-| Nanuk | 0.60% | ~3,884 |
-| Dynamite Fishing | 0.60% | ~3,884 |
+| Expert Voyager | 0.60% | ~3,885 |
+| Nanuk | 0.60% | ~3,885 |
+| Dynamite Fishing | 0.60% | ~3,885 |
 | Terminal Station | 0.50% | ~3,237 |
 | Wayfarer | 0.40% | ~2,590 |
 | Advanced Wayfarer | 0.40% | ~2,590 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~647 |
 | 20 Miles under the Sea | 0.10% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 647,410 (Ranked 26)  
+Progressed: 647,430 (Ranked 26)  
 Completed: 11 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 11 (0.00%) (Ranked 295)
 | 2023-09-24 | 646,855 | 11 |
 | 2023-09-25 | 647,076 | 11 |
 | 2023-09-26 | 647,283 | 11 |
-| 2023-09-27 | 647,410 | 11 |
+| 2023-09-27 | 647,430 | 11 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 278)  
 Sum: 1,575 (Ranked 220)  

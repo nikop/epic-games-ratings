@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,843 |
-| Let There Be Light | 34.00% | ~22,539 |
-| Float Like a Butterfly | 33.00% | ~21,876 |
-| Nordic Walking | 26.00% | ~17,236 |
-| Bright Falls' Finest | 26.00% | ~17,236 |
-| Under a Thin Layer of Skin | 23.00% | ~15,247 |
-| Park Ranger | 19.00% | ~12,595 |
-| Paging Mr. Wake | 19.00% | ~12,595 |
+| Follow the Light | 42.00% | ~27,844 |
+| Let There Be Light | 34.00% | ~22,541 |
+| Float Like a Butterfly | 33.00% | ~21,878 |
+| Nordic Walking | 26.00% | ~17,237 |
+| Bright Falls' Finest | 26.00% | ~17,237 |
+| Under a Thin Layer of Skin | 23.00% | ~15,248 |
+| Park Ranger | 19.00% | ~12,596 |
+| Paging Mr. Wake | 19.00% | ~12,596 |
 | Back! Back, I Say! | 18.00% | ~11,933 |
 | Finders Keepers | 17.00% | ~11,270 |
 | Sound and Fury | 16.00% | ~10,607 |
@@ -27,16 +27,16 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 14.00% | ~9,281 |
 | Heavy Metal | 13.00% | ~8,618 |
 | Perchance to Dream | 13.00% | ~8,618 |
-| Gatekeeper | 12.00% | ~7,955 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,955 |
-| Thunder and Lightning | 12.00% | ~7,955 |
-| Two For the Price of One | 12.00% | ~7,955 |
-| The Lady of the Light | 11.00% | ~7,292 |
-| Energized! | 11.00% | ~7,292 |
-| Right of Way | 10.00% | ~6,629 |
-| What Light Through Yonder Window | 9.00% | ~5,966 |
-| Tornado Wrangler | 8.00% | ~5,303 |
-| Departure | 8.00% | ~5,303 |
+| Gatekeeper | 12.00% | ~7,956 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,956 |
+| Thunder and Lightning | 12.00% | ~7,956 |
+| Two For the Price of One | 12.00% | ~7,956 |
+| The Lady of the Light | 11.00% | ~7,293 |
+| Energized! | 11.00% | ~7,293 |
+| Right of Way | 10.00% | ~6,630 |
+| What Light Through Yonder Window | 9.00% | ~5,967 |
+| Tornado Wrangler | 8.00% | ~5,304 |
+| Departure | 8.00% | ~5,304 |
 | A Friend in Need | 8.00% | ~2,381 |
 | Drink 'Em Both Up | 6.00% | ~3,978 |
 | Hardboiled Writer | 6.00% | ~3,978 |
@@ -46,7 +46,7 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 5.00% | ~3,315 |
 | KBF-FM | 5.00% | ~3,315 |
 | Boob Tube | 4.00% | ~2,652 |
-| Heartbreaker | 4.00% | ~1,190 |
+| Heartbreaker | 4.00% | ~1,191 |
 | Carny | 3.00% | ~1,989 |
 | Kill Your Darlings | 3.00% | ~893 |
 | Medical Opinions | 2.00% | ~1,326 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,292 (Ranked 89)  
+Progressed: 66,296 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 66 (0.10%) (Ranked 234)
 | 2023-09-24 | 66,142 | 66 |
 | 2023-09-25 | 66,202 | 66 |
 | 2023-09-26 | 66,247 | 66 |
-| 2023-09-27 | 66,292 | 66 |
+| 2023-09-27 | 66,296 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1493,
+  "EOS_Progressed": 1494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1175,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1541,6 +1541,11 @@
       "Time": "2023-09-27T18:03:14.8868166+00:00",
       "NumProgressed": 1493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T19:03:26.5951072+00:00",
+      "NumProgressed": 1494,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -1561,7 +1566,7 @@
       "Name": "Bragging Rights",
       "Percentage": 58,
       "XP": 90,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "achievement_11",
@@ -1569,7 +1574,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_12",
@@ -1585,7 +1590,7 @@
       "Name": "Big Spender",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "achievement_14",
@@ -1601,7 +1606,7 @@
       "Name": "MVP",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_16",
@@ -1609,7 +1614,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_17",
@@ -1720,7 +1725,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1493,
+      "Progressed": 1494,
       "Completed": 0
     }
   ],
@@ -1728,8 +1733,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:03:14.886816+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:03:26.5951066+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.8917414+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:57:30.5955064+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:03:14.8868331+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:57:45.9113768+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:03:26.5951289+00:00"
 }

@@ -43,13 +43,13 @@ Rating: 4.03 (Ranked 949)
 | Here We Go Again | 9.00% | ~178 |
 | The father of Dragons | 9.00% | ~178 |
 | Trader | 9.00% | ~178 |
+| Blueprint Upgrades | 8.00% | ~158 |
 | Crystal Mining | 8.00% | ~158 |
 | Dragon Slayer | 8.00% | ~158 |
 | Enchanting skill | 8.00% | ~158 |
 | Engineer Mastery | 8.00% | ~158 |
 | The Expeditioner | 8.00% | ~158 |
 | Weekly Quest Completionist | 8.00% | ~158 |
-| Blueprint Upgrades | 7.00% | ~138 |
 | Lock And Load | 7.00% | ~138 |
 | Missions Dedication | 7.00% | ~138 |
 | Sailor | 7.00% | ~138 |

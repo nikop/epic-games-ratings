@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 50.00% | ~1 |
-| You have three wishes left | 50.00% | ~1 |
-| You have two wishes left | 50.00% | ~1 |
+| Master trainee | 33.00% | ~1 |
+| You have three wishes left | 33.00% | ~1 |
+| You have two wishes left | 33.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | You had one wish left | 0.00% | ~0 |
@@ -52,10 +52,10 @@
 | Ambition is... blind | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 563)  
+Progressed: 3 (Ranked 552)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 1 | 0 |
-| 2023-09-27 | 2 | 0 |
+| 2023-09-27 | 3 | 0 |

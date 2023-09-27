@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1839,6 +1839,11 @@
       "Time": "2023-09-27T18:05:20.492368+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T19:06:00.4456003+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1923,7 +1928,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1939,7 +1944,7 @@
       "Name": "Legendary!!!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2059,7 +2064,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2155,7 +2160,7 @@
       "Name": "Champagne Spray",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2242,14 +2247,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:05:20.4923674+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:06:00.4455995+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:57:32.4792076+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:05:20.4924236+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:57:48.447601+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:06:00.445717+00:00"
 }

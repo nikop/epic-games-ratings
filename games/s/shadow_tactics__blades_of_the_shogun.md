@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~12,279 |
 | Mugen Unchained | 6.00% | ~12,279 |
 | Warzone | 6.00% | ~12,279 |
-| Okkoto | 5.00% | ~10,232 |
-| Prisoners | 5.00% | ~10,232 |
-| Too Early | 5.00% | ~10,232 |
+| Okkoto | 5.00% | ~10,233 |
+| Prisoners | 5.00% | ~10,233 |
+| Too Early | 5.00% | ~10,233 |
 | Gear up | 4.00% | ~8,186 |
 | Happy little accidents | 4.00% | ~8,186 |
 | Still Rollin' | 4.00% | ~8,186 |
@@ -36,9 +36,9 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 2.00% | ~4,093 |
 | Old Man | 2.00% | ~4,093 |
 | Winner Winner | 2.00% | ~4,093 |
-| Meticulous | 1.00% | ~2,046 |
-| The End | 1.00% | ~2,046 |
-| Undeserved Honor | 1.00% | ~2,046 |
+| Meticulous | 1.00% | ~2,047 |
+| The End | 1.00% | ~2,047 |
+| Undeserved Honor | 1.00% | ~2,047 |
 | When Cut Across the Neck | 0.90% | ~1,842 |
 | High Five the Moon | 0.80% | ~1,637 |
 | The Cave | 0.80% | ~1,637 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,650 (Ranked 62)  
+Progressed: 204,654 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 86 (0.04%) (Ranked 260)
 | 2023-09-24 | 204,189 | 86 |
 | 2023-09-25 | 204,356 | 86 |
 | 2023-09-26 | 204,537 | 86 |
-| 2023-09-27 | 204,650 | 86 |
+| 2023-09-27 | 204,654 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,775 (Ranked 136)  

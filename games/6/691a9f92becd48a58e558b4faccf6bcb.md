@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Minimalist lifestyle | 30.00% | ~3 |
-| I deliver the presents! | 30.00% | ~3 |
-| A new HOME | 20.00% | ~2 |
-| Lost forever | 20.00% | ~2 |
-| Lesson learned | 20.00% | ~2 |
-| Silver Button | 20.00% | ~2 |
-| Silver Carrot | 20.00% | ~2 |
-| Silver Hat | 20.00% | ~2 |
-| Good list | 10.00% | ~1 |
-| At least you tried | 10.00% | ~1 |
-| Golden Button | 10.00% | ~1 |
-| Golden Carrot | 10.00% | ~1 |
-| Golden Hat | 10.00% | ~1 |
-| Golden Scarf | 10.00% | ~1 |
-| Naughty list | 10.00% | ~1 |
-| Bling Bling | 10.00% | ~1 |
-| Silver Scarf | 10.00% | ~1 |
-| So close! | 10.00% | ~1 |
+| Minimalist lifestyle | 27.00% | ~3 |
+| I deliver the presents! | 27.00% | ~3 |
+| A new HOME | 18.00% | ~2 |
+| Lost forever | 18.00% | ~2 |
+| Lesson learned | 18.00% | ~2 |
+| Silver Button | 18.00% | ~2 |
+| Silver Carrot | 18.00% | ~2 |
+| Silver Hat | 18.00% | ~2 |
+| Good list | 9.00% | ~1 |
+| At least you tried | 9.00% | ~1 |
+| Golden Button | 9.00% | ~1 |
+| Golden Carrot | 9.00% | ~1 |
+| Golden Hat | 9.00% | ~1 |
+| Golden Scarf | 9.00% | ~1 |
+| Naughty list | 9.00% | ~1 |
+| Bling Bling | 9.00% | ~1 |
+| Silver Scarf | 9.00% | ~1 |
+| So close! | 9.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 506)  
-Completed: 1 (10.00%) (Ranked 28)  
+Progressed: 11 (Ranked 503)  
+Completed: 1 (9.09%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 1 | 0 |
 | 2023-09-25 | 2 | 0 |
 | 2023-09-26 | 6 | 1 |
-| 2023-09-27 | 10 | 1 |
+| 2023-09-27 | 11 | 1 |

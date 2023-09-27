@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -2795,9 +2795,9 @@
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 909
     },
     {
       "ID": "Collect20Iron",
@@ -3042,8 +3042,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:04:13.3175973+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:04:38.3571268+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.8813304+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:57:19.9919306+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:04:13.317627+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:57:32.2137323+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:04:38.3571736+00:00"
 }

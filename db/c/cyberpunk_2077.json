@@ -12495,10 +12495,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 229756,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-27T18:57:23.1400395+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 230060,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 229756,
+  "NumberOfAwards": 230060,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12530,7 +12536,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 10472
+      "Count": 10776
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12575,10 +12581,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883293,
-  "EOS_Completed": 2438,
-  "EOS_NewPlayers": 5936,
-  "EOS_NewCompleters": 314,
+  "EOS_Progressed": 883350,
+  "EOS_Completed": 2440,
+  "EOS_NewPlayers": 5978,
+  "EOS_NewCompleters": 316,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30570,6 +30576,11 @@
       "Time": "2023-09-27T18:05:22.9165934+00:00",
       "NumProgressed": 883293,
       "NumCompleted": 2438
+    },
+    {
+      "Time": "2023-09-27T19:06:03.3364849+00:00",
+      "NumProgressed": 883350,
+      "NumCompleted": 2440
     }
   ],
   "TotalAchievements": 57,
@@ -30589,7 +30600,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4416
+      "UsersEstimate": 4417
     },
     {
       "ID": "BushidoAndChill",
@@ -30603,17 +30614,17 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 6183
     },
     {
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 6183
     },
     {
       "ID": "FollowingTheRiver",
@@ -30661,7 +30672,7 @@
       "Name": "Gunslinger",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8833
+      "UsersEstimate": 8834
     },
     {
       "ID": "HandyMan",
@@ -30683,9 +30694,9 @@
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7950
     },
     {
       "ID": "LittleTokyo",
@@ -30765,15 +30776,15 @@
       "Name": "Ten out of Ten",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8833
+      "UsersEstimate": 8834
     },
     {
       "ID": "Temperance",
       "SetID": "47clieb",
       "Name": "Temperance",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4416
+      "UsersEstimate": 5300
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30781,7 +30792,7 @@
       "Name": "Rough Landing",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8833
+      "UsersEstimate": 8834
     },
     {
       "ID": "TheDevil",
@@ -30813,7 +30824,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "TheLovers",
@@ -30869,7 +30880,7 @@
       "Name": "The Jungle",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8833
+      "UsersEstimate": 8834
     },
     {
       "ID": "TrueSoldier",
@@ -30885,7 +30896,7 @@
       "Name": "True Warrior",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4416
+      "UsersEstimate": 4417
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -30893,7 +30904,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "UnderPressure",
@@ -30907,9 +30918,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7950
     },
     {
       "ID": "YipMan",
@@ -30925,7 +30936,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4416
+      "UsersEstimate": 4417
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31036,21 +31047,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883293,
-      "Completed": 2438
+      "Progressed": 883350,
+      "Completed": 2440
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11916,
+      "Progressed": 11973,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-27T16:57:35.2733662+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:05:22.9165929+00:00",
+  "LastChanged": "2023-09-27T18:57:23.1400393+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:06:03.3364842+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:57:13.0811473+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:05:22.9167175+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:57:23.14004+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:06:03.3366871+00:00"
 }

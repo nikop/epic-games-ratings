@@ -1152,9 +1152,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5372,
+  "EOS_Progressed": 5373,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10482,6 +10482,11 @@
       "Time": "2023-09-27T18:03:19.7082255+00:00",
       "NumProgressed": 5372,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-27T19:03:32.5991045+00:00",
+      "NumProgressed": 5373,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10589,7 +10594,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10613,7 +10618,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -10653,7 +10658,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4030
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10749,7 +10754,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10812,15 +10817,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5372,
+      "Progressed": 5373,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-26T16:00:31.983163+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:03:19.708225+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:03:32.5991019+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:59:17.1904197+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:03:19.7082933+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:00:04.5810445+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:03:32.5992022+00:00"
 }

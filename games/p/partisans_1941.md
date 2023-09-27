@@ -6,29 +6,29 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 40.00% | ~580 |
+| E1M1 | 40.00% | ~581 |
 | Grenadier | 39.00% | ~566 |
 | War Never Changes | 39.00% | ~566 |
-| Heroes Never Die | 36.00% | ~522 |
-| Mosquito bite | 34.00% | ~493 |
-| Spice It Up | 30.00% | ~435 |
-| Agent 47 | 25.00% | ~362 |
-| Bomberman | 25.00% | ~362 |
+| Heroes Never Die | 36.00% | ~523 |
+| Mosquito bite | 34.00% | ~494 |
+| Spice It Up | 30.00% | ~436 |
+| Agent 47 | 25.00% | ~363 |
+| Bomberman | 25.00% | ~363 |
 | You're Gonna Go Far, Kid | 24.00% | ~348 |
 | Death to the Oppressor! | 18.00% | ~261 |
 | The Gang's All Here | 15.00% | ~218 |
 | Your Answer | 14.00% | ~203 |
-| One by One | 13.00% | ~188 |
+| One by One | 13.00% | ~189 |
 | The Big Bertha | 11.00% | ~160 |
 | Game Over | 10.00% | ~145 |
 | Lock, Stock | 7.00% | ~102 |
 | Payback Time | 7.00% | ~102 |
-| No Witness | 5.00% | ~72 |
+| No Witness | 5.00% | ~73 |
 | Strategist | 4.00% | ~58 |
 | Unbreakable Wall | 2.00% | ~29 |
 | Experienced Strategist | 2.00% | ~29 |
-| Do a Barrel Roll! | 1.00% | ~14 |
-| How?! | 1.00% | ~14 |
+| Do a Barrel Roll! | 1.00% | ~15 |
+| How?! | 1.00% | ~15 |
 | Tough as Nails | 0.50% | ~7 |
 | Commandos | 0.30% | ~4 |
 | We Weren't There | 0.20% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,450 (Ranked 216)  
+Progressed: 1,452 (Ranked 216)  
 Completed: 1 (0.07%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.07%) (Ranked 245)
 | 2023-09-24 | 1,435 | 1 |
 | 2023-09-25 | 1,443 | 1 |
 | 2023-09-26 | 1,446 | 1 |
-| 2023-09-27 | 1,450 | 1 |
+| 2023-09-27 | 1,452 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

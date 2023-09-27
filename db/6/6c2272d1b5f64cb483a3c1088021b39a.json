@@ -3695,9 +3695,9 @@
       "ID": "catacombs_raid_2",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 2",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "catacombs_raid_3",
@@ -4150,8 +4150,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:05:39.2906569+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:06:23.4846314+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.0453825+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:59:04.2632868+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:05:39.2907224+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:59:47.6350729+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:06:23.4847224+00:00"
 }

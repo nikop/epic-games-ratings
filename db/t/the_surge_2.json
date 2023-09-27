@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2060,
+  "EOS_Progressed": 2061,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2596,6 +2596,11 @@
       "Time": "2023-09-27T16:09:06.5228186+00:00",
       "NumProgressed": 2060,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-27T19:08:29.1363517+00:00",
+      "NumProgressed": 2061,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2655,7 +2660,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHV_08",
@@ -2807,7 +2812,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACHV_27",
@@ -2823,7 +2828,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHV_29",
@@ -2967,7 +2972,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHV_47",
@@ -3062,7 +3067,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2060,
+      "Progressed": 2061,
       "Completed": 12
     }
   ],
@@ -3070,8 +3075,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:08:41.385303+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:08:29.1363512+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.9693567+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:59:08.9829331+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:08:41.3853552+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:59:53.6529693+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:08:29.1364238+00:00"
 }

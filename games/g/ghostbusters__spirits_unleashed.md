@@ -8,10 +8,10 @@ Rating: 4.50 (Ranked 573)
 | Stylish | 1.00% | ~261 |
 | Advancement | 0.80% | ~208 |
 | Meticulously Efficient | 0.80% | ~208 |
+| Solo Capture | 0.70% | ~182 |
 | I collect Spores, Molds, and Fungi | 0.60% | ~156 |
 | Discovery | 0.60% | ~156 |
 | Fully Upgraded | 0.60% | ~156 |
-| Solo Capture | 0.60% | ~156 |
 | Back Off | 0.50% | ~130 |
 | Clutch Capture | 0.50% | ~130 |
 | Cultured | 0.50% | ~130 |
@@ -29,6 +29,7 @@ Rating: 4.50 (Ranked 573)
 | Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
+| Legions | 0.30% | ~78 |
 | Pesky Jerks | 0.30% | ~78 |
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
@@ -37,7 +38,6 @@ Rating: 4.50 (Ranked 573)
 | Collector | 0.20% | ~52 |
 | Diabolical | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
-| Legions | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,053 (Ranked 111)  
+Progressed: 26,054 (Ranked 111)  
 Completed: 58 (0.22%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 58 (0.22%) (Ranked 206)
 | 2023-09-24 | 26,020 | 58 |
 | 2023-09-25 | 26,033 | 58 |
 | 2023-09-26 | 26,042 | 58 |
-| 2023-09-27 | 26,053 | 58 |
+| 2023-09-27 | 26,054 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 256)  
 Sum: 2,331 (Ranked 188)  

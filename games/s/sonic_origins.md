@@ -7,7 +7,7 @@ Number of Ratings: 154  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 93.00% | ~484 |
-| Newbie Hero | 81.00% | ~421 |
+| Newbie Hero | 82.00% | ~426 |
 | Welcome to Sonic CD | 73.00% | ~380 |
 | Welcome to Sonic 3 & Knuckles | 72.00% | ~374 |
 | Welcome to Sonic the Hedgehog 2 | 71.00% | ~369 |
@@ -20,7 +20,7 @@ Number of Ratings: 154  (23.09.2022)
 | Bubbly Breath | 58.00% | ~302 |
 | Knuckles the Echidna | 58.00% | ~302 |
 | Boss Rush Attempt | 52.00% | ~270 |
-| Cleared Sonic the Hedgehog | 49.00% | ~255 |
+| Cleared Sonic the Hedgehog | 50.00% | ~260 |
 | Super Sonic | 44.00% | ~229 |
 | Beware Stingers! | 43.00% | ~224 |
 | Shut Down Metal Sonic | 42.00% | ~218 |

@@ -5826,9 +5826,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 158
     },
     {
       "ID": "cauldronliberator",
@@ -6387,8 +6387,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-25T16:03:05.6391271+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:06:00.3261084+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:06:49.8631281+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:00:30.2118092+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:06:00.3262009+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:01:32.1766346+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:06:49.8632637+00:00"
 }

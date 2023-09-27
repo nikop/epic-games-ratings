@@ -549,9 +549,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Sputnik2",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:03:35.2916024+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:03:51.8819362+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.4227697+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:59:17.8431287+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:03:35.2916228+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:00:05.5581138+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:03:51.881971+00:00"
 }

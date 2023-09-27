@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 83,
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.41,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -462,6 +462,11 @@
       "Time": "2023-09-27T18:03:37.5868254+00:00",
       "NumProgressed": 246,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T19:03:54.9610259+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -474,7 +479,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_eou1",
@@ -482,15 +487,15 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_eou3",
@@ -506,7 +511,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_eou5",
@@ -514,7 +519,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_eou6",
@@ -522,7 +527,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_eou7",
@@ -530,7 +535,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_eou8",
@@ -538,7 +543,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_mg2",
@@ -577,14 +582,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 250,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:03:37.5868248+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:03:54.961025+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:58:54.6038743+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:03:37.5868349+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:59:34.743166+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:03:54.9610408+00:00"
 }

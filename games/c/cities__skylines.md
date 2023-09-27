@@ -6,44 +6,44 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~762,992 |
-| Green Energy | 60.00% | ~644,782 |
-| Foggy Weather | 59.00% | ~634,035 |
-| Singing In The- | 59.00% | ~634,035 |
-| Unpopular Mayor | 40.00% | ~429,854 |
-| Power at Your Fingertips | 33.00% | ~354,630 |
-| City Planner | 23.00% | ~247,166 |
-| Rolling in Dough | 20.00% | ~214,927 |
-| Does My Bum Look Big In This? | 17.00% | ~182,688 |
-| Climbing the Social Ladder | 16.00% | ~171,942 |
-| Safe City | 14.00% | ~150,449 |
-| Quay-King | 11.00% | ~118,210 |
-| Lawmaker | 10.00% | ~107,464 |
-| With Canals You Can! | 10.00% | ~107,464 |
-| Nomen Est Omen | 7.00% | ~75,225 |
-| Well Informed | 6.00% | ~64,478 |
-| Fire Watch | 5.00% | ~53,732 |
-| Greenest City | 4.00% | ~42,985 |
-| Heavenly City | 3.00% | ~32,239 |
-| Reporting! | 3.00% | ~32,239 |
-| SIMulated City | 3.00% | ~32,239 |
-| The Safest Town | 3.00% | ~32,239 |
-| Professional Dumper | 2.00% | ~21,493 |
-| City in Motion | 1.00% | ~10,746 |
-| Earthloving City | 1.00% | ~10,746 |
-| Metropolis | 1.00% | ~10,746 |
-| Higher Education | 0.80% | ~8,597 |
-| Beam Me Up | 0.70% | ~7,522 |
+| Pioneer | 71.00% | ~763,055 |
+| Green Energy | 60.00% | ~644,835 |
+| Foggy Weather | 59.00% | ~634,088 |
+| Singing In The- | 59.00% | ~634,088 |
+| Unpopular Mayor | 40.00% | ~429,890 |
+| Power at Your Fingertips | 33.00% | ~354,659 |
+| City Planner | 23.00% | ~247,187 |
+| Rolling in Dough | 20.00% | ~214,945 |
+| Does My Bum Look Big In This? | 17.00% | ~182,703 |
+| Climbing the Social Ladder | 16.00% | ~171,956 |
+| Safe City | 14.00% | ~150,462 |
+| Quay-King | 11.00% | ~118,220 |
+| Lawmaker | 10.00% | ~107,472 |
+| With Canals You Can! | 10.00% | ~107,472 |
+| Nomen Est Omen | 7.00% | ~75,231 |
+| Well Informed | 6.00% | ~64,484 |
+| Fire Watch | 5.00% | ~53,736 |
+| Greenest City | 4.00% | ~42,989 |
+| Heavenly City | 3.00% | ~32,242 |
+| Reporting! | 3.00% | ~32,242 |
+| SIMulated City | 3.00% | ~32,242 |
+| The Safest Town | 3.00% | ~32,242 |
+| Professional Dumper | 2.00% | ~21,494 |
+| City in Motion | 1.00% | ~10,747 |
+| Earthloving City | 1.00% | ~10,747 |
+| Metropolis | 1.00% | ~10,747 |
+| Higher Education | 0.80% | ~8,598 |
+| Beam Me Up | 0.70% | ~7,523 |
 | Full Capacity | 0.60% | ~6,448 |
 | Terraformer | 0.60% | ~6,448 |
-| Decorator | 0.50% | ~5,373 |
-| Drop the Base | 0.50% | ~5,373 |
-| It's heading right for us! | 0.50% | ~5,373 |
-| Postman | 0.50% | ~5,373 |
-| Shake It Up! | 0.50% | ~5,373 |
-| Speed up! | 0.50% | ~5,373 |
-| The Waters of Our Lives | 0.50% | ~5,373 |
-| Twist and shout | 0.50% | ~5,373 |
+| Decorator | 0.50% | ~5,374 |
+| Drop the Base | 0.50% | ~5,374 |
+| It's heading right for us! | 0.50% | ~5,374 |
+| Postman | 0.50% | ~5,374 |
+| Shake It Up! | 0.50% | ~5,374 |
+| Speed up! | 0.50% | ~5,374 |
+| The Waters of Our Lives | 0.50% | ~5,374 |
+| Twist and shout | 0.50% | ~5,374 |
 | Airfield Expertise | 0.40% | ~4,299 |
 | Airlifter | 0.40% | ~4,299 |
 | Get Your Snowshoes Ready! | 0.40% | ~4,299 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,075 |
 | Z00 | 0.10% | ~1,075 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074,636 (Ranked 12)  
+Progressed: 1,074,725 (Ranked 12)  
 Completed: 10 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,15 +286,15 @@ Completed: 10 (0.00%) (Ranked 295)
 | 2023-09-24 | 1,069,969 | 10 |
 | 2023-09-25 | 1,071,578 | 10 |
 | 2023-09-26 | 1,073,326 | 10 |
-| 2023-09-27 | 1,074,636 | 10 |
+| 2023-09-27 | 1,074,725 | 10 |
 ## Awards
 Max (Great for Beginners): 5,573  (Ranked 65)  
-Sum: 41,899 (Ranked 32)  
+Sum: 41,910 (Ranked 32)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,573 |
-| This game is Relaxing | 5,531 |
+| This game is Relaxing | 5,542 |
 | This game is Educational | 5,207 |
 | This game has Quickly Understood Controls | 5,160 |
 | This game is Extremely Fun | 4,822 |
@@ -550,4 +550,4 @@ Diff (max vs sum): 33
 | 2023-09-24 | 4.66 | - | 5,551 | 41,705 |
 | 2023-09-25 | 4.66 | - | 5,551 | 41,783 |
 | 2023-09-26 | 4.66 | - | 5,558 | 41,847 |
-| 2023-09-27 | 4.66 | - | 5,573 | 41,899 |
+| 2023-09-27 | 4.66 | - | 5,573 | 41,910 |

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1471,
+  "EOS_Progressed": 1472,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5321,6 +5321,11 @@
       "Time": "2023-09-27T18:08:06.3827336+00:00",
       "NumProgressed": 1471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T19:07:45.6328197+00:00",
+      "NumProgressed": 1472,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5444,7 +5449,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5588,7 +5593,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5635,14 +5640,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:08:06.382733+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:07:45.632819+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:59:16.6116999+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:08:06.3827817+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:00:03.8465296+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:07:45.6328836+00:00"
 }

@@ -25,7 +25,6 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~178 |
 | Fulfilled the dream | 6.00% | ~178 |
 | G'Day Mate! | 6.00% | ~178 |
-| NAHELL! | 6.00% | ~178 |
 | Purple passion | 6.00% | ~178 |
 | Squad goals | 6.00% | ~178 |
 | Sup widdit big dog! | 6.00% | ~178 |
@@ -34,12 +33,13 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~148 |
 | Laid back | 5.00% | ~148 |
 | Lines for days | 5.00% | ~148 |
+| NAHELL! | 5.00% | ~148 |
+| Renaissance man | 5.00% | ~148 |
 | Trick shot marksman | 5.00% | ~148 |
 | Cops called! | 4.00% | ~119 |
 | G.O.A.T. status | 4.00% | ~119 |
 | Manny Destroys All | 4.00% | ~119 |
 | Prince of Philly | 4.00% | ~119 |
-| Renaissance man | 4.00% | ~119 |
 | Tank commander | 4.00% | ~119 |
 | We get it, you're good | 4.00% | ~119 |
 | Hoarder | 3.00% | ~89 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,963 (Ranked 186)  
+Progressed: 2,964 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 2,934 | 0 |
 | 2023-09-25 | 2,943 | 0 |
 | 2023-09-26 | 2,954 | 0 |
-| 2023-09-27 | 2,963 | 0 |
+| 2023-09-27 | 2,964 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
 Sum: 473 (Ranked 313)  

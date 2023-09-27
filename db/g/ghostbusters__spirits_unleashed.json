@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2232,7 +2232,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26053,
+  "EOS_Progressed": 26054,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 2,
@@ -13677,6 +13677,11 @@
       "Time": "2023-09-27T17:03:20.8648801+00:00",
       "NumProgressed": 26053,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-27T19:02:23.2122635+00:00",
+      "NumProgressed": 26054,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13854,9 +13859,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Liability",
@@ -13974,9 +13979,9 @@
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 182
     },
     {
       "ID": "Stunner",
@@ -14095,7 +14100,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26053,
+      "Progressed": 26054,
       "Completed": 58
     }
   ],
@@ -14103,8 +14108,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-27T18:02:15.5414205+00:00",
+  "LastChanged_Achievements": "2023-09-27T19:02:23.2122627+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:58:00.9605221+00:00",
-  "LastUpdate_Achievements": "2023-09-27T18:02:15.5415142+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:58:25.8759484+00:00",
+  "LastUpdate_Achievements": "2023-09-27T19:02:23.2123963+00:00"
 }
