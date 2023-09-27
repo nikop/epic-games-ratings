@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.29% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.28% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.42% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.81% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.13% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -65,7 +65,7 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.84% |
-| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.76% |
+| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.77% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -124,7 +124,7 @@
 | 122 | [Chorus](games/c/chorus.md) | 1.24% |
 | 123 | [Late Shift](games/l/late_shift.md) | 1.22% |
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
-| 125 | [Infindustry](games/i/infindustry.md) | 1.12% |
+| 125 | [Infindustry](games/i/infindustry.md) | 1.11% |
 | 126 | [Trifox](games/t/trifox.md) | 1.09% |
 | 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
 | 128 | [Adios](games/a/adios.md) | 1.04% |
@@ -145,9 +145,9 @@
 | 143 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 144 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 145 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
-| 146 | [Dead Space](games/d/dead_space.md) | 0.65% |
 | 146 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 146 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.65% |
+| 148 | [Dead Space](games/d/dead_space.md) | 0.64% |
 | 149 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 149 | [Haven](games/h/haven.md) | 0.61% |
 | 149 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
