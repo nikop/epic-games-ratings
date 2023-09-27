@@ -40,7 +40,7 @@
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | 3.73 | 0 |
 | [CryptoClash](games/d/dc4c4be805e344a4bab504dc2c2a526d.md) | 2023-09-12 | - |  | - | 0 |
 | [The Moshpit Tournament](games/2/2d9bae7960d34288b85d26ed3196d90d.md) | 2023-09-10 | - |  | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 6,626 | 3.85 | 0 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 6,627 | 3.85 | 0 |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-08-31 | - |  | - | 0 |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | - | 0 |
 | [Meta NANOs: Rumble Race](games/d/d1dd254226e84377a6cf930e37726333.md) | 2023-08-30 | - |  | - | 0 |
@@ -51,7 +51,7 @@
 | [Synergy of Serra](games/c/cd4adce6fc0b4e68b0c8bc8e3d84488d.md) | 2023-08-07 | - |  | - | 0 |
 | [canVERSE](games/c/canverse.md) | 2023-08-02 | - |  | - | 0 |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | 4.94 | 0 |
-| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-07-12 | 19 (1,000 XP) | 396 | - | 0 |
+| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-07-12 | 19 (1,000 XP) | 397 | - | 0 |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
 | [DinoDash](games/3/3411919497ef47359de5d9a67a7225fb.md) | 2023-06-30 | - |  | - | 0 |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
