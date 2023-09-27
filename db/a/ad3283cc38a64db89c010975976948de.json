@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -25,9 +25,259 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
+  "TotalAchievements": 31,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "GAME_COMPLETED",
+      "SetID": "5g7b0mb",
+      "Name": "Complete the Game",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_060_001",
+      "SetID": "5g7b0mb",
+      "Name": "Mirror - 60 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_060_002",
+      "SetID": "5g7b0mb",
+      "Name": "Doors - 60 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_060_003",
+      "SetID": "5g7b0mb",
+      "Name": "Sidewalk - 60 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_060_004",
+      "SetID": "5g7b0mb",
+      "Name": "Alley - 60 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_060_005",
+      "SetID": "5g7b0mb",
+      "Name": "Grass - 60 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_060_006",
+      "SetID": "5g7b0mb",
+      "Name": "Warmth - 60 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_135_001",
+      "SetID": "5g7b0mb",
+      "Name": "Mirror - 135 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_135_002",
+      "SetID": "5g7b0mb",
+      "Name": "Doors - 135 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_135_003",
+      "SetID": "5g7b0mb",
+      "Name": "Sidewalk - 135 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_135_004",
+      "SetID": "5g7b0mb",
+      "Name": "Alley - 135 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_135_005",
+      "SetID": "5g7b0mb",
+      "Name": "Grass - 135 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_135_006",
+      "SetID": "5g7b0mb",
+      "Name": "Warmth - 135 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_240_001",
+      "SetID": "5g7b0mb",
+      "Name": "Mirror - 240 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_240_002",
+      "SetID": "5g7b0mb",
+      "Name": "Doors - 240 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_240_003",
+      "SetID": "5g7b0mb",
+      "Name": "Sidewalk - 240 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_240_004",
+      "SetID": "5g7b0mb",
+      "Name": "Alley - 240 pieces",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_240_005",
+      "SetID": "5g7b0mb",
+      "Name": "Grass - 240 pieces",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_240_006",
+      "SetID": "5g7b0mb",
+      "Name": "Warmth - 240 pieces",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_375_001",
+      "SetID": "5g7b0mb",
+      "Name": "Mirror - 375 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_375_002",
+      "SetID": "5g7b0mb",
+      "Name": "Doors - 375 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_375_003",
+      "SetID": "5g7b0mb",
+      "Name": "Sidewalk - 375 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_375_004",
+      "SetID": "5g7b0mb",
+      "Name": "Alley - 375 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_375_005",
+      "SetID": "5g7b0mb",
+      "Name": "Grass - 375 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_375_006",
+      "SetID": "5g7b0mb",
+      "Name": "Warmth - 375 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_540_001",
+      "SetID": "5g7b0mb",
+      "Name": "Mirror - 540 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_540_002",
+      "SetID": "5g7b0mb",
+      "Name": "Doors - 540 pieces",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_540_003",
+      "SetID": "5g7b0mb",
+      "Name": "Sidewalk - 540 pieces",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_540_004",
+      "SetID": "5g7b0mb",
+      "Name": "Alley - 540 pieces",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_540_005",
+      "SetID": "5g7b0mb",
+      "Name": "Grass - 540 pieces",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_540_006",
+      "SetID": "5g7b0mb",
+      "Name": "Warmth - 540 pieces",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5g7b0mb",
@@ -37,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:05:17.8567353+00:00",
-  "LastUpdate_AppInfo": "2023-09-20T18:57:17.7675012+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:59:30.4081373+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:05:17.8567394+00:00"
+  "LastChanged_Achievements": "2023-09-27T20:05:04.1724004+00:00",
+  "LastUpdate_AppInfo": "2023-09-27T19:57:07.4851849+00:00",
+  "LastUpdate_Ratings": "2023-09-27T19:59:04.7795607+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:05:04.176836+00:00"
 }

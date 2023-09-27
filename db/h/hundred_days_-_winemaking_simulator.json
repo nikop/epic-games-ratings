@@ -2,12 +2,12 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 766,
-  "Ranking_Popularity": 274,
+  "Ranking_Rating": 773,
+  "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.34,
   "NumberOfRatings": 7669,
   "RatingHistory": [
     {
@@ -932,6 +932,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 1590,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-09-27T20:02:10.54414+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1590,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
@@ -1000,9 +1006,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5244,
+  "EOS_Progressed": 5251,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1139,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4360,6 +4366,11 @@
       "Time": "2023-09-27T19:02:16.0794307+00:00",
       "NumProgressed": 5244,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-27T20:03:09.4343544+00:00",
+      "NumProgressed": 5251,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4372,7 +4383,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "a_10",
@@ -4420,7 +4431,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1943
     },
     {
       "ID": "a_19",
@@ -4428,7 +4439,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "a_2",
@@ -4436,7 +4447,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "a_20",
@@ -4452,7 +4463,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "a_22",
@@ -4492,7 +4503,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "a_28",
@@ -4500,7 +4511,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "a_3",
@@ -4508,7 +4519,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "a_30",
@@ -4532,7 +4543,7 @@
       "Name": "Sales Expert",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "a_33",
@@ -4540,7 +4551,7 @@
       "Name": "Big deals",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "a_34",
@@ -4564,7 +4575,7 @@
       "Name": "Unsuitable Terroir",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "a_4",
@@ -4572,7 +4583,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "a_5",
@@ -4580,7 +4591,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a_6",
@@ -4588,7 +4599,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "a_7",
@@ -4596,7 +4607,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a_8",
@@ -4604,7 +4615,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "a_9",
@@ -4619,16 +4630,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5244,
+      "Progressed": 5251,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:02:16.0794301+00:00",
+  "LastChanged": "2023-09-27T20:02:10.5441398+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:03:09.4343536+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:01:22.9637815+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:02:16.0794908+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:02:10.5441404+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:03:09.4344252+00:00"
 }

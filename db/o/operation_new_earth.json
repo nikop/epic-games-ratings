@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1472,
+  "EOS_Progressed": 1473,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5326,6 +5326,11 @@
       "Time": "2023-09-27T19:07:45.6328197+00:00",
       "NumProgressed": 1472,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T20:08:14.4719221+00:00",
+      "NumProgressed": 1473,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5417,7 +5422,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "objective_headquarters_15",
@@ -5640,14 +5645,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1472,
+      "Progressed": 1473,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:07:45.632819+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:08:14.4719216+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:00:03.8465296+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:07:45.6328836+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:59:30.174853+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:08:14.4719854+00:00"
 }

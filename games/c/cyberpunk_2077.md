@@ -6,32 +6,32 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Rough Landing | 2.00% | ~17,668 |
 | Gunslinger | 1.00% | ~8,834 |
 | Ten out of Ten | 1.00% | ~8,834 |
-| Rough Landing | 1.00% | ~8,834 |
 | The Jungle | 1.00% | ~8,834 |
-| Master Crafter | 0.90% | ~7,950 |
-| Mean Streets | 0.90% | ~7,950 |
-| V for Vendetta | 0.90% | ~7,950 |
+| Master Crafter | 0.90% | ~7,951 |
+| Mean Streets | 0.90% | ~7,951 |
+| Two Heads, One Bullet | 0.90% | ~7,951 |
+| V for Vendetta | 0.90% | ~7,951 |
 | The High Priestess | 0.80% | ~7,067 |
-| Two Heads, One Bullet | 0.80% | ~7,067 |
-| Full Body Conversion | 0.70% | ~6,183 |
-| Right Back At Ya | 0.70% | ~6,183 |
-| Breathtaking | 0.70% | ~6,183 |
-| True Soldier | 0.70% | ~6,183 |
+| Full Body Conversion | 0.70% | ~6,184 |
+| Right Back At Ya | 0.70% | ~6,184 |
+| Breathtaking | 0.70% | ~6,184 |
+| True Soldier | 0.70% | ~6,184 |
 | Stanislavski's Method | 0.60% | ~5,300 |
 | Temperance | 0.60% | ~5,300 |
 | The Hermit | 0.60% | ~5,300 |
 | The Wheel of Fortune | 0.60% | ~5,300 |
+| True Warrior | 0.60% | ~5,300 |
 | To Bad Decisions! | 0.50% | ~4,417 |
-| True Warrior | 0.50% | ~4,417 |
 | Legend of The Afterlife | 0.50% | ~4,417 |
-| The Quick and the Dead | 0.40% | ~3,533 |
-| The Devil | 0.40% | ~3,533 |
-| The Fool | 0.40% | ~3,533 |
-| The Lovers | 0.40% | ~3,533 |
-| The World | 0.40% | ~3,533 |
-| It's Elementary | 0.40% | ~3,533 |
+| The Quick and the Dead | 0.40% | ~3,534 |
+| The Devil | 0.40% | ~3,534 |
+| The Fool | 0.40% | ~3,534 |
+| The Lovers | 0.40% | ~3,534 |
+| The World | 0.40% | ~3,534 |
+| It's Elementary | 0.40% | ~3,534 |
 | City Lights | 0.30% | ~2,650 |
 | Gun Fu | 0.30% | ~2,650 |
 | Christmas Tree Attack | 0.30% | ~2,650 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,350 (Ranked 15)  
-Completed: 2,440 (0.28%) (Ranked 198)  
+Progressed: 883,395 (Ranked 15)  
+Completed: 2,441 (0.28%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 2,440 (0.28%) (Ranked 198)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 883,350 | 2,440 |
+| 2023-09-27 | 883,395 | 2,441 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
 Sum: 230,060 (Ranked 13)  

@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -508,8 +508,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:06:57.7869727+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:06:25.5152546+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.3332825+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:59:11.2227298+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:06:57.7870086+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:58:49.6852662+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:06:25.5152893+00:00"
 }

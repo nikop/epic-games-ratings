@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5300,9 +5300,9 @@
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 430
     },
     {
       "ID": "A45",
@@ -5397,8 +5397,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-22T14:01:19.3891438+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:07:43.6818204+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:08:12.8964141+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:41.1464016+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:57:31.0410916+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:07:43.6819046+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:57:31.8305514+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:08:12.8965117+00:00"
 }

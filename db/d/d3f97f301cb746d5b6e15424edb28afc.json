@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -313,9 +313,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -337,9 +337,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -441,9 +441,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -481,9 +481,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -497,9 +497,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 35,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -521,9 +521,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -569,9 +569,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -856,8 +856,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:06:11.9470015+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:05:48.487085+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:00:40.6781789+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:06:11.9471117+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:59:58.1879495+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:05:48.4872221+00:00"
 }

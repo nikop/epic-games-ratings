@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18167,
+  "EOS_Progressed": 18169,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10806,6 +10806,11 @@
       "Time": "2023-09-27T14:08:22.5258907+00:00",
       "NumProgressed": 18167,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-27T20:06:00.2253205+00:00",
+      "NumProgressed": 18169,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10817,7 +10822,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "0002",
@@ -10833,7 +10838,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "0004",
@@ -11009,7 +11014,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "0026",
@@ -11017,7 +11022,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "0027",
@@ -11025,7 +11030,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "0028",
@@ -11065,7 +11070,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "0033",
@@ -11073,7 +11078,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "0034",
@@ -11104,7 +11109,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18167,
+      "Progressed": 18169,
       "Completed": 3
     }
   ],
@@ -11112,8 +11117,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:06:26.0227337+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:06:00.2253199+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:59:04.7025769+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:06:26.0228323+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:58:44.635763+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:06:00.2254182+00:00"
 }

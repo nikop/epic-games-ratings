@@ -2,12 +2,12 @@
   "ID": "155b39e2ce7b4ed2855125fb2ef1d1a1",
   "Name": "The Crew\u00AE \u2013 Standard Edition",
   "ProductSlug": "the-crew",
-  "Ranking_Rating": 244,
+  "Ranking_Rating": 221,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2023-01-08T06:57:23.9480647+00:00",
@@ -286,6 +286,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-27T19:57:15.0407014+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -304,8 +310,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-17T02:32:48.2032844+00:00",
   "FirstSeenRating": "2023-01-08T06:57:23.9480644+00:00",
-  "LastChanged": "2023-09-22T23:00:25.1244801+00:00",
+  "LastChanged": "2023-09-27T19:57:15.0407008+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.9777428+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:57:10.0168916+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:03:55.3393048+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:57:15.0407021+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:03:57.1426628+00:00"
 }

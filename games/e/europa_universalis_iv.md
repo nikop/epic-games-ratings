@@ -1,19 +1,19 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 222)  
+Rating: 4.69 (Ranked 221)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,635 |
-| That's a Grand Army | 3.00% | ~12,477 |
-| That is mine! | 3.00% | ~12,477 |
-| Victorious! | 3.00% | ~12,477 |
-| Brothers in Arms | 2.00% | ~8,318 |
-| For the Glory | 2.00% | ~8,318 |
-| That's a Grand Navy | 2.00% | ~8,318 |
-| Seriously?! | 2.00% | ~8,318 |
+| Until death do us apart | 4.00% | ~16,637 |
+| That's a Grand Army | 3.00% | ~12,478 |
+| That is mine! | 3.00% | ~12,478 |
+| Victorious! | 3.00% | ~12,478 |
+| Brothers in Arms | 2.00% | ~8,319 |
+| For the Glory | 2.00% | ~8,319 |
+| That's a Grand Navy | 2.00% | ~8,319 |
+| Seriously?! | 2.00% | ~8,319 |
 | Cold War | 1.00% | ~4,159 |
 | Defender of the Faith | 1.00% | ~4,159 |
 | It's all about the money | 1.00% | ~4,159 |
@@ -23,14 +23,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.90% | ~3,743 |
 | Truly Divine Ruler | 0.90% | ~3,743 |
 | Blockader | 0.80% | ~3,327 |
-| Double the Love | 0.70% | ~2,911 |
-| Royal Authority | 0.70% | ~2,911 |
-| Total Control | 0.70% | ~2,911 |
-| My armies are invincible! | 0.60% | ~2,495 |
-| Agressive Expander | 0.50% | ~2,079 |
-| City of Cities | 0.50% | ~2,079 |
-| Combined Arms | 0.50% | ~2,079 |
-| This navy can take it all | 0.50% | ~2,079 |
+| Double the Love | 0.70% | ~2,912 |
+| Royal Authority | 0.70% | ~2,912 |
+| Total Control | 0.70% | ~2,912 |
+| My armies are invincible! | 0.60% | ~2,496 |
+| Agressive Expander | 0.50% | ~2,080 |
+| City of Cities | 0.50% | ~2,080 |
+| Combined Arms | 0.50% | ~2,080 |
+| This navy can take it all | 0.50% | ~2,080 |
 | Azur semé de lis or | 0.40% | ~1,664 |
 | Factionalism | 0.40% | ~1,664 |
 | Gentle Persuasion | 0.40% | ~1,664 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,887 (Ranked 41)  
+Progressed: 415,935 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1 (0.00%) (Ranked 295)
 | 2023-09-24 | 413,698 | 1 |
 | 2023-09-25 | 414,499 | 1 |
 | 2023-09-26 | 415,263 | 1 |
-| 2023-09-27 | 415,887 | 1 |
+| 2023-09-27 | 415,935 | 1 |
 ## Awards
 Max (Educational): 6,276  (Ranked 56)  
 Sum: 51,607 (Ranked 24)  

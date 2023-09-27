@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 79.00% | ~236 |
-| First Blood | 61.00% | ~182 |
-| Triple Kill | 60.00% | ~179 |
-| Aspairagus | 60.00% | ~149 |
-| No Asperascope | 57.00% | ~170 |
-| Survivor | 56.00% | ~139 |
-| Cornivore | 53.00% | ~158 |
+| Seeds of War | 79.00% | ~237 |
+| First Blood | 61.00% | ~183 |
+| Triple Kill | 60.00% | ~180 |
+| Aspairagus | 60.00% | ~150 |
+| No Asperascope | 57.00% | ~171 |
+| Survivor | 56.00% | ~140 |
+| Cornivore | 53.00% | ~159 |
 | I Believe I Can Fly | 49.00% | ~147 |
-| No Diggity | 43.00% | ~107 |
+| No Diggity | 43.00% | ~108 |
 | Early Survivor | 40.00% | ~100 |
-| Bouncemato | 31.00% | ~77 |
+| Bouncemato | 31.00% | ~78 |
 | 10K | 30.00% | ~90 |
 | Amateur Survivor | 30.00% | ~75 |
 | 15K | 28.00% | ~84 |
-| Quick-Draw Pod | 23.00% | ~57 |
+| Quick-Draw Pod | 23.00% | ~58 |
 | Drinking Problem | 22.00% | ~66 |
 | Professional Survivor | 22.00% | ~55 |
 | Grave Digger | 22.00% | ~55 |
@@ -30,8 +30,8 @@
 | Eggtraordinary | 15.00% | ~45 |
 | This Is My Boomstick | 14.00% | ~35 |
 | Quit Horsin' Around | 12.00% | ~36 |
-| Perfect | 11.00% | ~27 |
-| Summers Here | 11.00% | ~27 |
+| Perfect | 11.00% | ~28 |
+| Summers Here | 11.00% | ~28 |
 | Fresh Pancake | 10.00% | ~30 |
 | Quadsparagus | 10.00% | ~25 |
 | Expert Survivor | 9.00% | ~22 |
@@ -39,9 +39,9 @@
 | Early Bird | 6.00% | ~18 |
 | Pyromaniac | 6.00% | ~15 |
 | Chick Magnet | 5.00% | ~15 |
-| I Have The High Ground | 4.00% | ~12 |
-| Master Survivor | 3.00% | ~7 |
-| Heart Breaker | 3.00% | ~7 |
+| I Have The High Ground | 5.00% | ~15 |
+| Master Survivor | 3.00% | ~8 |
+| Heart Breaker | 3.00% | ~8 |
 | 15 Days | 2.00% | ~6 |
 | Honk Honk | 2.00% | ~6 |
 | Pro Shotgunner | 1.00% | ~3 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 302)  
+Progressed: 300 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 294 | 0 |
 | 2023-09-25 | 295 | 0 |
 | 2023-09-26 | 296 | 0 |
-| 2023-09-27 | 299 | 0 |
+| 2023-09-27 | 300 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

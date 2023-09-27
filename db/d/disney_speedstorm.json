@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3307,
+  "EOS_Progressed": 3308,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 6.02,
   "EosHistory": [
@@ -5180,6 +5180,11 @@
       "Time": "2023-09-27T14:08:58.333516+00:00",
       "NumProgressed": 3307,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-09-27T20:06:26.6106621+00:00",
+      "NumProgressed": 3308,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 24,
@@ -5191,7 +5196,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "10",
@@ -5287,7 +5292,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "21",
@@ -5311,7 +5316,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "24",
@@ -5319,7 +5324,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "3",
@@ -5335,7 +5340,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "5",
@@ -5351,7 +5356,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "7",
@@ -5359,7 +5364,7 @@
       "Name": "MASTER",
       "Percentage": 19,
       "XP": 65,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "8",
@@ -5382,13 +5387,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3307,
+      "Progressed": 3308,
       "Completed": 199
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:06:58.9661175+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:06:26.6106616+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:58:22.2086525+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:06:58.9661682+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:58:11.5245452+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:06:26.6107131+00:00"
 }

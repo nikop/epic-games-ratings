@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 87.00% | ~4,698 |
-| Struck A Pose | 87.00% | ~4,698 |
-| Look At Him Go | 75.00% | ~4,050 |
-| On Rails Experience | 53.00% | ~2,862 |
-| A Daring Devil | 49.00% | ~2,646 |
-| Break the Bank | 41.00% | ~2,214 |
-| It Took Two | 36.00% | ~1,944 |
-| Bug Sized Relaxation | 18.00% | ~972 |
-| Plastic Prison Breakers | 17.00% | ~918 |
-| Terror Of The Seven Seas | 14.00% | ~756 |
-| Realize Your Art | 12.00% | ~648 |
-| Force Triangulated | 11.00% | ~594 |
-| Lost And Found | 10.00% | ~540 |
-| Something Fishy | 10.00% | ~540 |
-| Meditation Maestro | 10.00% | ~540 |
-| Platforming Prodigy | 8.00% | ~432 |
-| Snackosaurus | 7.00% | ~378 |
-| Mood Swing | 7.00% | ~378 |
-| Faraway Frequencies | 4.00% | ~216 |
-| Minigame Megalomania | 3.00% | ~162 |
+| Fried Friendship | 87.00% | ~4,720 |
+| Struck A Pose | 87.00% | ~4,720 |
+| Look At Him Go | 75.00% | ~4,069 |
+| On Rails Experience | 53.00% | ~2,875 |
+| A Daring Devil | 49.00% | ~2,658 |
+| Break the Bank | 41.00% | ~2,224 |
+| It Took Two | 36.00% | ~1,953 |
+| Bug Sized Relaxation | 18.00% | ~976 |
+| Plastic Prison Breakers | 17.00% | ~922 |
+| Terror Of The Seven Seas | 14.00% | ~760 |
+| Realize Your Art | 12.00% | ~651 |
+| Force Triangulated | 11.00% | ~597 |
+| Lost And Found | 10.00% | ~542 |
+| Meditation Maestro | 10.00% | ~542 |
+| Something Fishy | 9.00% | ~488 |
+| Platforming Prodigy | 8.00% | ~434 |
+| Snackosaurus | 7.00% | ~380 |
+| Mood Swing | 7.00% | ~380 |
+| Faraway Frequencies | 4.00% | ~217 |
+| Minigame Megalomania | 3.00% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,400 (Ranked 160)  
+Progressed: 5,425 (Ranked 160)  
 Completed: 21 (0.39%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,4 +37,4 @@ Completed: 21 (0.39%) (Ranked 175)
 | 2023-09-24 | 3,966 | 17 |
 | 2023-09-25 | 4,463 | 18 |
 | 2023-09-26 | 4,947 | 20 |
-| 2023-09-27 | 5,400 | 21 |
+| 2023-09-27 | 5,425 | 21 |

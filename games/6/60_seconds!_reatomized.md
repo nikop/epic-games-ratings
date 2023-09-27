@@ -1,24 +1,24 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.62 (Ranked 353)  
+Rating: 4.62 (Ranked 354)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,884 |
-| All thumbs | 92.00% | ~4,832 |
-| I will survive! | 92.00% | ~4,832 |
-| Home, sweet home | 91.00% | ~4,779 |
-| Survivalist | 89.00% | ~4,674 |
-| One way ticket | 84.00% | ~4,412 |
-| Last man standing | 79.00% | ~4,149 |
-| Family guy | 77.00% | ~4,044 |
-| Out of the Bag | 75.00% | ~3,939 |
-| The Dark Side | 70.00% | ~3,676 |
+| Prepper | 93.00% | ~4,885 |
+| All thumbs | 92.00% | ~4,833 |
+| I will survive! | 92.00% | ~4,833 |
+| Home, sweet home | 91.00% | ~4,780 |
+| Survivalist | 89.00% | ~4,675 |
+| One way ticket | 84.00% | ~4,413 |
+| Last man standing | 79.00% | ~4,150 |
+| Family guy | 77.00% | ~4,045 |
+| Out of the Bag | 75.00% | ~3,940 |
+| The Dark Side | 70.00% | ~3,677 |
 | Duck and cover! | 65.00% | ~3,414 |
-| Souper! | 64.00% | ~3,361 |
+| Souper! | 64.00% | ~3,362 |
 | Pacifist | 59.00% | ~3,099 |
-| 2-1-6 | 58.00% | ~3,046 |
+| 2-1-6 | 58.00% | ~3,047 |
 | A gift | 53.00% | ~2,784 |
 | Girl Power | 48.00% | ~2,521 |
 | What goes around... | 44.00% | ~2,311 |
@@ -29,7 +29,7 @@ Rating: 4.62 (Ranked 353)
 | Atomic drill | 32.00% | ~1,681 |
 | Disco Roach | 27.00% | ~1,418 |
 | Dawkins Residence | 21.00% | ~1,103 |
-| Rescue time! | 18.00% | ~945 |
+| Rescue time! | 18.00% | ~946 |
 | New order | 17.00% | ~893 |
 | New species | 17.00% | ~893 |
 | A New Hope | 16.00% | ~840 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 353)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,252 (Ranked 162)  
+Progressed: 5,253 (Ranked 163)  
 Completed: 1 (0.02%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 1 (0.02%) (Ranked 270)
 | 2023-09-24 | 5,209 | 1 |
 | 2023-09-25 | 5,223 | 1 |
 | 2023-09-26 | 5,239 | 1 |
-| 2023-09-27 | 5,252 | 1 |
+| 2023-09-27 | 5,253 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

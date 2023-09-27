@@ -12581,10 +12581,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883350,
-  "EOS_Completed": 2440,
-  "EOS_NewPlayers": 5978,
-  "EOS_NewCompleters": 316,
+  "EOS_Progressed": 883395,
+  "EOS_Completed": 2441,
+  "EOS_NewPlayers": 6005,
+  "EOS_NewCompleters": 317,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30581,6 +30581,11 @@
       "Time": "2023-09-27T19:06:03.3364849+00:00",
       "NumProgressed": 883350,
       "NumCompleted": 2440
+    },
+    {
+      "Time": "2023-09-27T20:05:41.6098873+00:00",
+      "NumProgressed": 883395,
+      "NumCompleted": 2441
     }
   ],
   "TotalAchievements": 57,
@@ -30616,7 +30621,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6183
+      "UsersEstimate": 6184
     },
     {
       "ID": "Denied",
@@ -30624,7 +30629,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6183
+      "UsersEstimate": 6184
     },
     {
       "ID": "FollowingTheRiver",
@@ -30680,7 +30685,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "IAmMaxTac",
@@ -30696,7 +30701,7 @@
       "Name": "Mean Streets",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "LittleTokyo",
@@ -30720,7 +30725,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "MustBeTheRats",
@@ -30736,7 +30741,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6183
+      "UsersEstimate": 6184
     },
     {
       "ID": "NoMansLand",
@@ -30790,9 +30795,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8834
+      "UsersEstimate": 17668
     },
     {
       "ID": "TheDevil",
@@ -30800,7 +30805,7 @@
       "Name": "The Devil",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "TheFool",
@@ -30808,7 +30813,7 @@
       "Name": "The Fool",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "TheHermit",
@@ -30832,7 +30837,7 @@
       "Name": "The Lovers",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "TheStar",
@@ -30864,7 +30869,7 @@
       "Name": "The World",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "ThisIsPacifica",
@@ -30888,23 +30893,23 @@
       "Name": "True Soldier",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6183
+      "UsersEstimate": 6184
     },
     {
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4417
+      "UsersEstimate": 5300
     },
     {
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7067
+      "UsersEstimate": 7951
     },
     {
       "ID": "UnderPressure",
@@ -30920,7 +30925,7 @@
       "Name": "V for Vendetta",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "YipMan",
@@ -30928,7 +30933,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31047,21 +31052,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883350,
-      "Completed": 2440
+      "Progressed": 883395,
+      "Completed": 2441
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11973,
+      "Progressed": 12018,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T18:57:23.1400393+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:06:03.3364842+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:05:41.6098865+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T18:57:23.14004+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:06:03.3366871+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:57:25.5347154+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:05:41.6100839+00:00"
 }

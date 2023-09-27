@@ -1,28 +1,28 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 177)  
+Rating: 4.72 (Ranked 176)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~14,400 |
-| Sword Runner | 61.00% | ~11,558 |
+| Longrunner | 76.00% | ~14,401 |
+| Sword Runner | 61.00% | ~11,559 |
 | Running out of breath | 54.00% | ~10,232 |
-| Wallrunner | 53.00% | ~10,042 |
+| Wallrunner | 53.00% | ~10,043 |
 | Homerunner | 45.00% | ~8,527 |
-| Out of order | 44.00% | ~8,337 |
+| Out of order | 44.00% | ~8,338 |
 | I call it luck | 43.00% | ~8,148 |
-| Where are my Keys? | 40.00% | ~7,579 |
-| Back to hell | 36.00% | ~6,821 |
-| Perfection | 32.00% | ~6,063 |
-| Why not both | 30.00% | ~5,684 |
+| Where are my Keys? | 40.00% | ~7,580 |
+| Back to hell | 36.00% | ~6,822 |
+| Perfection | 32.00% | ~6,064 |
+| Why not both | 30.00% | ~5,685 |
 | Sword to a gunfight | 29.00% | ~5,495 |
 | Upgrades not mandatory | 29.00% | ~5,495 |
-| Artificial selection | 28.00% | ~5,305 |
+| Artificial selection | 28.00% | ~5,306 |
 | Control freak | 27.00% | ~5,116 |
 | Running Wild | 27.00% | ~5,116 |
-| Finish line | 26.00% | ~4,926 |
+| Finish line | 26.00% | ~4,927 |
 | Unstoppable force | 22.00% | ~4,169 |
 | Wave of mutilation | 22.00% | ~4,169 |
 | Can't Run Can't Hide | 17.00% | ~3,221 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~76 |
 | Up Close And Personal | 0.40% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,948 (Ranked 119)  
+Progressed: 18,949 (Ranked 119)  
 Completed: 72 (0.38%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 72 (0.38%) (Ranked 177)
 | 2023-09-24 | 18,786 | 72 |
 | 2023-09-25 | 18,840 | 72 |
 | 2023-09-26 | 18,899 | 72 |
-| 2023-09-27 | 18,948 | 72 |
+| 2023-09-27 | 18,949 | 72 |
 ## Awards
 Max (Great Boss Battles): 497  (Ranked 203)  
 Sum: 712 (Ranked 280)  

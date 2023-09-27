@@ -2,9 +2,9 @@
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
   "ProductSlug": "the-entropy-centre-40bccd",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -863,6 +863,11 @@
       "Time": "2023-09-25T17:05:32.7743336+00:00",
       "NumProgressed": 254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T20:05:54.1971589+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -882,7 +887,7 @@
       "Name": "So Close",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ACT11",
@@ -890,7 +895,7 @@
       "Name": "Transformers, cubes in disguise",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ACT12",
@@ -922,7 +927,7 @@
       "Name": "Cataclysm",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ACT16",
@@ -978,7 +983,7 @@
       "Name": "No Time To Relax",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ACT8",
@@ -1089,7 +1094,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 0
     }
   ],
@@ -1097,8 +1102,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:06:18.5312352+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:05:54.1971584+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:07.6583263+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:00:19.9354067+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:06:18.5312717+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:59:42.0924826+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:05:54.1971886+00:00"
 }

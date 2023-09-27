@@ -25,9 +25,9 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 2.00% | ~65 |
 | Just a Scratch | 2.00% | ~65 |
 | Hive Exterminator | 2.00% | ~65 |
+| Daemonkeeper | 1.00% | ~32 |
 | Efficient Killer | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
-| Daemonkeeper | 0.90% | ~29 |
 | Exterminator | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
 | Only in Death | 0.80% | ~26 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,239 (Ranked 184)  
+Progressed: 3,240 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 3,236 | 0 |
 | 2023-09-25 | 3,237 | 0 |
 | 2023-09-26 | 3,238 | 0 |
-| 2023-09-27 | 3,239 | 0 |
+| 2023-09-27 | 3,240 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 474 (Ranked 312)  

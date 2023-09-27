@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13035,
+  "EOS_Progressed": 13040,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2007,
+  "EOS_NewPlayers": 1999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6855,6 +6855,11 @@
       "Time": "2023-09-27T19:08:25.6277554+00:00",
       "NumProgressed": 13035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T20:09:06.3651816+00:00",
+      "NumProgressed": 13040,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6883,7 +6888,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "12",
@@ -6891,7 +6896,7 @@
       "Name": "Data Archivist",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "13",
@@ -6907,15 +6912,15 @@
       "Name": "Doctor Approved",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3782
     },
     {
       "ID": "16",
@@ -6931,7 +6936,7 @@
       "Name": "Spore Taste",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "18",
@@ -6947,7 +6952,7 @@
       "Name": "Martian Music",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "2",
@@ -6971,7 +6976,7 @@
       "Name": "Drone Dodger",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3130
     },
     {
       "ID": "22",
@@ -6995,7 +7000,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "25",
@@ -7019,7 +7024,7 @@
       "Name": "Bosmang",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "28",
@@ -7043,7 +7048,7 @@
       "Name": "Captain Drummer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3912
     },
     {
       "ID": "30",
@@ -7051,7 +7056,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "4",
@@ -7059,7 +7064,7 @@
       "Name": "Debris Spree",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "5",
@@ -7067,7 +7072,7 @@
       "Name": "Data Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "6",
@@ -7075,7 +7080,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "7",
@@ -7099,14 +7104,14 @@
       "Name": "Impossible Objects",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4432
+      "UsersEstimate": 4434
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13035,
+      "Progressed": 13040,
       "Completed": 0
     }
   ],
@@ -7114,8 +7119,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:08:25.6277548+00:00",
+  "LastChanged_Achievements": "2023-09-27T20:09:06.3651812+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:02:06.9369172+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:08:25.627823+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:02:21.7905955+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:09:06.3652611+00:00"
 }

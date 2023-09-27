@@ -2,12 +2,12 @@
   "ID": "c295bb538708462cb6bd764eabf6b80f",
   "Name": "Starsiege: Deadzone",
   "ProductSlug": "starsiege-deadzone",
-  "Ranking_Rating": 979,
+  "Ranking_Rating": 974,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-18T14:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.87,
+  "Rating": 3.92,
   "RatingHistory": [
     {
       "Time": "2023-08-17T09:58:15.0292163+00:00",
@@ -32,6 +32,12 @@
     {
       "Time": "2023-09-17T14:07:19.0555459+00:00",
       "Rating": 3.87,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-27T19:59:52.4249781+00:00",
+      "Rating": 3.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -52,8 +58,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-18T19:57:15.079017+00:00",
   "FirstSeenRating": "2023-08-17T09:58:15.0292161+00:00",
-  "LastChanged": "2023-09-17T14:07:19.0555457+00:00",
+  "LastChanged": "2023-09-27T19:59:52.4249776+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:03.1283314+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:00:33.1003602+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:02:12.1331818+00:00"
+  "LastUpdate_Ratings": "2023-09-27T19:59:52.4249785+00:00",
+  "LastUpdate_Achievements": "2023-09-27T20:03:06.408875+00:00"
 }

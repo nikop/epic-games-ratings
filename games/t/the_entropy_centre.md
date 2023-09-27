@@ -14,7 +14,7 @@
 | Chain Reaction | 38.00% | ~97 |
 | 48 Attempts | 37.00% | ~94 |
 | Handyman | 25.00% | ~64 |
-| No Time To Relax | 21.00% | ~53 |
+| No Time To Relax | 21.00% | ~54 |
 | Bad Robots | 19.00% | ~48 |
 | Running Boots | 18.00% | ~46 |
 | Archivist | 17.00% | ~43 |
@@ -23,16 +23,16 @@
 | Looper | 15.00% | ~38 |
 | All Alone | 13.00% | ~33 |
 | Reunited | 13.00% | ~33 |
-| So Close | 12.00% | ~30 |
-| Transformers, cubes in disguise | 12.00% | ~30 |
-| Cataclysm | 12.00% | ~30 |
+| So Close | 12.00% | ~31 |
+| Transformers, cubes in disguise | 12.00% | ~31 |
+| Cataclysm | 12.00% | ~31 |
 | Final Charge | 11.00% | ~28 |
 | Summer Luvin' | 5.00% | ~13 |
 | You Are Terminated | 2.00% | ~5 |
 | Data Research | 0.40% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 319)  
+Progressed: 255 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-22 | 251 | 0 |
 | 2023-09-23 | 252 | 0 |
 | 2023-09-25 | 254 | 0 |
+| 2023-09-27 | 255 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
