@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 22,
@@ -4878,9 +4878,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 686808,
+  "EOS_Progressed": 686822,
   "EOS_Completed": 2176,
-  "EOS_NewPlayers": 3976,
+  "EOS_NewPlayers": 3965,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -22843,6 +22843,11 @@
       "Time": "2023-09-26T23:04:05.3968586+00:00",
       "NumProgressed": 686808,
       "NumCompleted": 2176
+    },
+    {
+      "Time": "2023-09-27T00:03:31.2703422+00:00",
+      "NumProgressed": 686822,
+      "NumCompleted": 2176
     }
   ],
   "TotalAchievements": 45,
@@ -23014,7 +23019,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20604
+      "UsersEstimate": 20605
     },
     {
       "ID": "ach_impressive_aim",
@@ -23158,7 +23163,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5494
+      "UsersEstimate": 5495
     },
     {
       "ID": "ach_thesacrifice",
@@ -23190,7 +23195,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20604
+      "UsersEstimate": 20605
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23198,7 +23203,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5494
+      "UsersEstimate": 5495
     },
     {
       "ID": "ach_well_trained",
@@ -23213,22 +23218,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 686808,
+      "Progressed": 686822,
       "Completed": 2176
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12349,
-      "Completed": 12349
+      "Progressed": 12363,
+      "Completed": 12363
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-26T20:58:23.9215305+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:04:05.3968581+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:03:31.2703417+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:57:59.8290081+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:04:05.3969715+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:58:03.3046105+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:03:31.2706489+00:00"
 }

@@ -765,9 +765,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_hint_6",
@@ -789,9 +789,9 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 60,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach_minigames_10",
@@ -836,8 +836,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:04:05.9751875+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:03:31.5962388+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:12:48.3415052+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:01:36.2890244+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:04:05.9751993+00:00"
+  "LastUpdate_Ratings": "2023-09-27T00:01:12.7103322+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:03:31.5962611+00:00"
 }

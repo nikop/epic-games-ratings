@@ -9,12 +9,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.90% | ~7,943 |
 | Rough Landing | 0.90% | ~7,943 |
 | Gunslinger | 0.70% | ~6,178 |
+| The Jungle | 0.70% | ~6,178 |
 | Master Crafter | 0.60% | ~5,295 |
-| The Jungle | 0.60% | ~5,295 |
-| Mean Streets | 0.50% | ~4,413 |
+| Mean Streets | 0.60% | ~5,295 |
+| V for Vendetta | 0.60% | ~5,295 |
 | The High Priestess | 0.50% | ~4,413 |
 | Two Heads, One Bullet | 0.50% | ~4,413 |
-| V for Vendetta | 0.50% | ~4,413 |
 | Full Body Conversion | 0.40% | ~3,530 |
 | Right Back At Ya | 0.40% | ~3,530 |
 | Breathtaking | 0.40% | ~3,530 |
@@ -26,6 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Devil | 0.30% | ~2,648 |
 | The Wheel of Fortune | 0.30% | ~2,648 |
 | True Warrior | 0.30% | ~2,648 |
+| It's Elementary | 0.30% | ~2,648 |
 | Legend of The Afterlife | 0.30% | ~2,648 |
 | City Lights | 0.20% | ~1,765 |
 | Gun Fu | 0.20% | ~1,765 |
@@ -36,7 +37,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.20% | ~1,765 |
 | Greetings from Pacifica! | 0.20% | ~1,765 |
 | Judy vs Night City | 0.20% | ~1,765 |
-| It's Elementary | 0.20% | ~1,765 |
 | Bushido and Chill | 0.10% | ~883 |
 | To Protect and Serve | 0.10% | ~883 |
 | The Wandering Fool | 0.10% | ~883 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,541 (Ranked 15)  
-Completed: 2,421 (0.27%) (Ranked 197)  
+Progressed: 882,574 (Ranked 15)  
+Completed: 2,422 (0.27%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,6 +224,7 @@ Completed: 2,421 (0.27%) (Ranked 197)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
+| 2023-09-27 | 882,574 | 2,422 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
 Sum: 226,122 (Ranked 13)  

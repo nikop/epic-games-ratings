@@ -6,31 +6,31 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~491,290 |
-| Good Samaritan | 90.00% | ~480,610 |
+| Delivering Is What I Do | 92.00% | ~491,291 |
+| Good Samaritan | 90.00% | ~480,611 |
 | Rebuilding America | 79.00% | ~421,869 |
-| Like and Be Liked | 77.00% | ~411,188 |
-| Apprentice Builder | 72.00% | ~384,488 |
-| A New Day for the UCA | 71.00% | ~379,148 |
-| A Baby Blessing | 64.00% | ~341,767 |
-| Prominent Porter | 64.00% | ~341,767 |
-| Building Bridges | 64.00% | ~341,767 |
+| Like and Be Liked | 77.00% | ~411,189 |
+| Apprentice Builder | 72.00% | ~384,489 |
+| A New Day for the UCA | 71.00% | ~379,149 |
+| A Baby Blessing | 64.00% | ~341,768 |
+| Prominent Porter | 64.00% | ~341,768 |
+| Building Bridges | 64.00% | ~341,768 |
 | Well Connected | 62.00% | ~331,087 |
 | The Custom Kid | 61.00% | ~325,747 |
-| Chiral Crafter | 59.00% | ~315,066 |
-| Boots Are a Porter's Best Friend | 59.00% | ~315,066 |
-| The People's Porter | 56.00% | ~299,046 |
-| I Couldn't Hold it In! | 56.00% | ~299,046 |
+| Chiral Crafter | 59.00% | ~315,067 |
+| Boots Are a Porter's Best Friend | 59.00% | ~315,067 |
+| The People's Porter | 56.00% | ~299,047 |
+| I Couldn't Hold it In! | 56.00% | ~299,047 |
 | Everyday Delivery | 52.00% | ~277,686 |
 | A Shout in the Dark | 50.00% | ~267,006 |
-| A Thirst for Knowledge | 48.00% | ~256,325 |
-| Snooze 'n' Soothe | 48.00% | ~256,325 |
-| Soothing Sounds | 46.00% | ~245,645 |
+| A Thirst for Knowledge | 48.00% | ~256,326 |
+| Snooze 'n' Soothe | 48.00% | ~256,326 |
+| Soothing Sounds | 46.00% | ~245,646 |
 | We Need You | 45.00% | ~240,305 |
 | Catcher Crusher | 45.00% | ~240,305 |
 | Sleep Tight, Little BB | 44.00% | ~234,965 |
-| Giver of Gifts | 39.00% | ~208,264 |
-| All Roads Lead to the UCA | 39.00% | ~208,264 |
+| Giver of Gifts | 39.00% | ~208,265 |
+| All Roads Lead to the UCA | 39.00% | ~208,265 |
 | Well-Traveled | 37.00% | ~197,584 |
 | The Automation Revolution | 36.00% | ~192,244 |
 | Pathfinder | 36.00% | ~192,244 |
@@ -43,11 +43,11 @@ Number of Ratings: 3,099  (23.09.2022)
 | Soak and Sigh | 25.00% | ~133,503 |
 | "BB" | 25.00% | ~133,503 |
 | Deliveries Done | 24.00% | ~128,163 |
-| Sixty Deaths and Sixty Births in a Day | 22.00% | ~117,482 |
-| The Particle of God | 21.00% | ~112,142 |
-| I'm Your Die-Hardman | 21.00% | ~112,142 |
-| Bring Back My Baby | 21.00% | ~112,142 |
-| She's waiting for you on the Beach. | 21.00% | ~112,142 |
+| Sixty Deaths and Sixty Births in a Day | 22.00% | ~117,483 |
+| The Particle of God | 21.00% | ~112,143 |
+| I'm Your Die-Hardman | 21.00% | ~112,143 |
+| Bring Back My Baby | 21.00% | ~112,143 |
+| She's waiting for you on the Beach. | 21.00% | ~112,143 |
 | Thank You, Sam | 20.00% | ~106,802 |
 | Thanks for Everything | 20.00% | ~106,802 |
 | The Post Guides the Present | 17.00% | ~90,782 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,136 |
 | Homo Faber | 0.40% | ~2,136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,011 (Ranked 32)  
+Progressed: 534,012 (Ranked 32)  
 Completed: 2,021 (0.38%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 2,021 (0.38%) (Ranked 177)
 | 2023-09-24 | 533,676 | 2,019 |
 | 2023-09-25 | 533,836 | 2,020 |
 | 2023-09-26 | 534,011 | 2,021 |
+| 2023-09-27 | 534,012 | 2,021 |
 ## Awards
 Max (Great Boss Battles): 8,282  (Ranked 41)  
 Sum: 14,131 (Ranked 71)  

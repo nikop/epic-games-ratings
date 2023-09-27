@@ -12545,10 +12545,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882541,
-  "EOS_Completed": 2421,
-  "EOS_NewPlayers": 5379,
-  "EOS_NewCompleters": 301,
+  "EOS_Progressed": 882574,
+  "EOS_Completed": 2422,
+  "EOS_NewPlayers": 5406,
+  "EOS_NewCompleters": 302,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30445,6 +30445,11 @@
       "Time": "2023-09-26T23:06:45.9146948+00:00",
       "NumProgressed": 882541,
       "NumCompleted": 2421
+    },
+    {
+      "Time": "2023-09-27T00:06:20.9299532+00:00",
+      "NumProgressed": 882574,
+      "NumCompleted": 2422
     }
   ],
   "TotalAchievements": 57,
@@ -30558,9 +30563,9 @@
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4413
+      "UsersEstimate": 5295
     },
     {
       "ID": "LittleTokyo",
@@ -30742,9 +30747,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5295
+      "UsersEstimate": 6178
     },
     {
       "ID": "TrueSoldier",
@@ -30782,17 +30787,17 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4413
+      "UsersEstimate": 5295
     },
     {
       "ID": "YipMan",
       "SetID": "47clieb",
       "Name": "It\u0027s Elementary",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1765
+      "UsersEstimate": 2648
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -30911,21 +30916,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882541,
-      "Completed": 2421
+      "Progressed": 882574,
+      "Completed": 2422
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11164,
+      "Progressed": 11197,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-26T22:57:15.0836216+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:06:45.9146942+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:06:20.9299526+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:57:15.0836224+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:06:45.9148189+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:57:25.3094033+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:06:20.9302499+00:00"
 }

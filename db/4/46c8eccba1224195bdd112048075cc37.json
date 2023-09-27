@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -751,9 +751,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "CollectCurses",
@@ -855,9 +855,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ReturnShell",
@@ -902,8 +902,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:05:53.0579545+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:05:29.4020385+00:00",
   "LastUpdate_AppInfo": "2023-09-25T14:57:08.8738883+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:02:36.5229963+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:05:53.0579702+00:00"
+  "LastUpdate_Ratings": "2023-09-27T00:02:04.7117865+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:05:29.4020706+00:00"
 }

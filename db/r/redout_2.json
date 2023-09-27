@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1133,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -940,6 +940,11 @@
       "Time": "2023-09-26T23:07:12.8471146+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T00:06:41.9698654+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1103,7 +1108,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1157,9 +1162,9 @@
       "ID": "CHAMPION",
       "SetID": "3dh70f3",
       "Name": "Redout Champion",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 11
     },
     {
       "ID": "COMPLETE10FRIENDS",
@@ -1247,7 +1252,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ONELIVERY",
@@ -1366,7 +1371,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 0
     }
   ],
@@ -1374,8 +1379,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:07:12.8471137+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:06:41.9698649+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.7086726+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:59:16.0554256+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:07:12.8471568+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:59:10.2725992+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:06:41.9699164+00:00"
 }

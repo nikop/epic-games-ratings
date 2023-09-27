@@ -1,28 +1,28 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 536)  
+Rating: 4.55 (Ranked 491)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,401 |
-| Captain Drummer | 29.00% | ~3,754 |
-| Stogie for Fogey | 28.00% | ~3,624 |
-| Martian Music | 27.00% | ~3,495 |
-| Celebrations are in Order | 27.00% | ~3,495 |
-| Spore Taste | 26.00% | ~3,365 |
-| The Pit and the Pirates | 24.00% | ~3,107 |
-| Drone Dodger | 24.00% | ~3,107 |
-| Doctor Approved | 19.00% | ~2,459 |
-| Bosmang | 17.00% | ~2,200 |
-| Thorston Mayer | 16.00% | ~2,071 |
-| Bottoms up! | 13.00% | ~1,683 |
-| Call it Even | 12.00% | ~1,553 |
+| Impossible Objects | 34.00% | ~4,403 |
+| Captain Drummer | 29.00% | ~3,755 |
+| Stogie for Fogey | 28.00% | ~3,626 |
+| Martian Music | 27.00% | ~3,497 |
+| Celebrations are in Order | 27.00% | ~3,497 |
+| Spore Taste | 26.00% | ~3,367 |
+| The Pit and the Pirates | 24.00% | ~3,108 |
+| Drone Dodger | 24.00% | ~3,108 |
+| Doctor Approved | 19.00% | ~2,460 |
+| Bosmang | 17.00% | ~2,202 |
+| Thorston Mayer | 16.00% | ~2,072 |
+| Bottoms up! | 13.00% | ~1,684 |
+| Call it Even | 12.00% | ~1,554 |
 | Data Archivist | 11.00% | ~1,424 |
 | Heal Thy Medic | 11.00% | ~1,424 |
-| Khan's Revenge | 10.00% | ~1,294 |
+| Khan's Revenge | 10.00% | ~1,295 |
 | Data Logger | 8.00% | ~1,036 |
-| Miraculous Maya | 7.00% | ~906 |
+| Miraculous Maya | 7.00% | ~907 |
 | Data Master | 6.00% | ~777 |
 | Data Recoverer | 6.00% | ~777 |
 | No Belter Left Behind | 4.00% | ~518 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 536)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,944 (Ranked 133)  
+Progressed: 12,950 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
+| 2023-09-27 | 12,950 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -122,3 +123,4 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-23 | 4.54 | 0 | 0 |
 | 2023-09-24 | 4.55 | 0 | 0 |
 | 2023-09-25 | 4.52 | 0 | 0 |
+| 2023-09-27 | 4.55 | 0 | 0 |

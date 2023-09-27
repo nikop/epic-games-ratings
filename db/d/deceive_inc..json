@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18154,
+  "EOS_Progressed": 18155,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -10776,6 +10776,11 @@
       "Time": "2023-09-26T22:08:05.8599248+00:00",
       "NumProgressed": 18154,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-27T00:06:39.7947508+00:00",
+      "NumProgressed": 18155,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10883,7 +10888,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "0014",
@@ -10939,7 +10944,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "0021",
@@ -10971,7 +10976,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3812
+      "UsersEstimate": 3813
     },
     {
       "ID": "0025",
@@ -11027,7 +11032,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "0032",
@@ -11051,7 +11056,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "0035",
@@ -11074,7 +11079,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18154,
+      "Progressed": 18155,
       "Completed": 3
     }
   ],
@@ -11082,8 +11087,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:07:10.0572495+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:06:39.7947502+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:59:42.1841134+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:07:10.0573203+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:59:26.101964+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:06:39.794918+00:00"
 }

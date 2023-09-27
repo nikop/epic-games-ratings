@@ -2,7 +2,7 @@
   "ID": "3d5cb99e9ea64b6b9534c95b8489f7f4",
   "Name": "Diluvian Ultra",
   "ProductSlug": "diluvian-ultra-a5ad8c",
-  "Ranking_EOS_Progress": 638,
+  "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 109,
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-19T09:03:23.4268202+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:06:30.3318908+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:06:08.6553986+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:04.1022359+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:00:12.6582783+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:06:30.3318935+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:59:58.9001417+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:06:08.6554007+00:00"
 }

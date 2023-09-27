@@ -48,6 +48,7 @@ Number of Ratings: 37  (23.09.2022)
 | Builder III | 3.00% | ~129 |
 | A time consuming game IV | 3.00% | ~129 |
 | Tools of the trade II | 3.00% | ~129 |
+| Out of the frying pan | 3.00% | ~129 |
 | The Art of War | 2.00% | ~86 |
 | Five brews are a schnitzel | 2.00% | ~86 |
 | I like to build stuff... V | 2.00% | ~86 |
@@ -57,7 +58,6 @@ Number of Ratings: 37  (23.09.2022)
 | Genius | 2.00% | ~86 |
 | I've been everywhere V | 2.00% | ~86 |
 | Tools of the trade III | 2.00% | ~86 |
-| Out of the frying pan | 2.00% | ~86 |
 | Survivalist | 1.00% | ~43 |
 | Lord of War | 1.00% | ~43 |
 | Plague strikes! | 1.00% | ~43 |

@@ -9996,9 +9996,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 415263,
+  "EOS_Progressed": 415283,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6709,
+  "EOS_NewPlayers": 6711,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28001,6 +28001,11 @@
       "Time": "2023-09-26T23:08:02.3213276+00:00",
       "NumProgressed": 415263,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T00:07:30.5682563+00:00",
+      "NumProgressed": 415283,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -28452,7 +28457,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8305
+      "UsersEstimate": 8306
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -28844,7 +28849,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8305
+      "UsersEstimate": 8306
     },
     {
       "ID": "achievement_forever_golden",
@@ -29036,7 +29041,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8305
+      "UsersEstimate": 8306
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -29220,7 +29225,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -29948,7 +29953,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -30012,7 +30017,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8305
+      "UsersEstimate": 8306
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -30620,7 +30625,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "achievement_trustworthy",
@@ -30843,21 +30848,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 415263,
+      "Progressed": 415283,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 415263,
+      "Progressed": 415283,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-26T21:03:32.3606724+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:08:02.3213271+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:07:30.5682557+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:02:35.6488339+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:08:02.3224346+00:00"
+  "LastUpdate_Ratings": "2023-09-27T00:02:04.0869634+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:07:30.5707797+00:00"
 }

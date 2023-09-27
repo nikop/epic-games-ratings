@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1405,
+  "EOS_Progressed": 1406,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1527,6 +1527,11 @@
       "Time": "2023-09-25T14:06:16.5844793+00:00",
       "NumProgressed": 1405,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-27T00:07:43.2023241+00:00",
+      "NumProgressed": 1406,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1602,7 +1607,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1706,7 +1711,7 @@
       "Name": "How Romantic!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_maimedHero",
@@ -1738,7 +1743,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1746,7 +1751,7 @@
       "Name": "Chain Reaction",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1794,7 +1799,7 @@
       "Name": "Echoes Die",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "completedStory_procedural",
@@ -1810,7 +1815,7 @@
       "Name": "Daybreak",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1985,15 +1990,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1405,
+      "Progressed": 1406,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:08:18.8449918+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:07:43.2023236+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:06.8645337+00:00",
-  "LastUpdate_Ratings": "2023-09-26T22:58:51.1745425+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:08:18.8450375+00:00"
+  "LastUpdate_Ratings": "2023-09-26T23:58:47.9237999+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:07:43.2024085+00:00"
 }

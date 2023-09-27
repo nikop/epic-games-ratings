@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,352 |
+| Sowwy! | 31.00% | ~70,354 |
 | Where's that freaking Dwarf? | 5.00% | ~11,347 |
 | Alt+F4 | 5.00% | ~11,347 |
 | Déjà vu | 4.00% | ~9,078 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,269 |
 | Thieves' Guild Accreditation | 1.00% | ~2,269 |
 | Team Building Exercise | 1.00% | ~2,269 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,042 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,043 |
 | Dead for good | 0.80% | ~1,816 |
 | Lust and Debauchery | 0.80% | ~1,816 |
 | Material Girl | 0.80% | ~1,816 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,941 (Ranked 58)  
+Progressed: 226,947 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,9 +214,10 @@ Completed: 3 (0.00%) (Ranked 294)
 | 2023-09-24 | 226,557 | 3 |
 | 2023-09-25 | 226,750 | 3 |
 | 2023-09-26 | 226,941 | 3 |
+| 2023-09-27 | 226,947 | 3 |
 ## Awards
 Max (Character Customization): 199  (Ranked 277)  
-Sum: 385 (Ranked 328)  
+Sum: 386 (Ranked 328)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
@@ -226,8 +227,8 @@ Diff (max vs sum): -51
 | This game has Amazing Characters | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Highly Recommended | 22 |
+| This game has Amazing Storytelling | 21 |
 | This game is Extremely Fun | 21 |
-| This game has Amazing Storytelling | 20 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -372,4 +373,4 @@ Diff (max vs sum): -51
 | 2023-09-21 | 4.59 | - | 198 | 362 |
 | 2023-09-22 | 4.59 | - | 198 | 383 |
 | 2023-09-25 | 4.59 | - | 198 | 384 |
-| 2023-09-26 | 4.59 | - | 199 | 385 |
+| 2023-09-26 | 4.59 | - | 199 | 386 |

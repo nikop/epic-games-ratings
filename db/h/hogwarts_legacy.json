@@ -5,7 +5,7 @@
   "Ranking_Rating": 120,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
-  "Ranking_EOS_Progress": 44,
+  "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 69,
@@ -8160,9 +8160,9 @@
       "Count": 673
     }
   ],
-  "EOS_Progressed": 297390,
+  "EOS_Progressed": 297392,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25400,6 +25400,11 @@
       "Time": "2023-09-26T23:08:32.050381+00:00",
       "NumProgressed": 297390,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-27T00:08:13.1424026+00:00",
+      "NumProgressed": 297392,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25411,7 +25416,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44608
+      "UsersEstimate": 44609
     },
     {
       "ID": "PFA_10",
@@ -25451,7 +25456,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17843
+      "UsersEstimate": 17844
     },
     {
       "ID": "PFA_15",
@@ -25547,7 +25552,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17843
+      "UsersEstimate": 17844
     },
     {
       "ID": "PFA_26",
@@ -25579,7 +25584,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17843
+      "UsersEstimate": 17844
     },
     {
       "ID": "PFA_3",
@@ -25699,7 +25704,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17843
+      "UsersEstimate": 17844
     },
     {
       "ID": "PFA_43",
@@ -25770,7 +25775,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297390,
+      "Progressed": 297392,
       "Completed": 477
     }
   ],
@@ -25778,8 +25783,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-26T20:03:01.7837248+00:00",
-  "LastChanged_Achievements": "2023-09-26T23:08:32.0503804+00:00",
+  "LastChanged_Achievements": "2023-09-27T00:08:13.1424021+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-26T23:02:23.4479239+00:00",
-  "LastUpdate_Achievements": "2023-09-26T23:08:32.0504907+00:00"
+  "LastUpdate_Ratings": "2023-09-27T00:01:52.8914652+00:00",
+  "LastUpdate_Achievements": "2023-09-27T00:08:13.1426092+00:00"
 }
