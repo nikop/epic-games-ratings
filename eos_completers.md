@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.78% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.74% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -29,9 +29,9 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.19% |
 | 28 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 28 | [Smelter](games/s/smelter.md) | 10.00% |
-| 28 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 10.00% |
-| 31 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.10% |
+| 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.14% |
+| 32 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 9.09% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 34 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.51% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
@@ -109,7 +109,7 @@
 | 106 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.79% |
 | 108 | [Somerville](games/s/somerville.md) | 1.71% |
 | 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
-| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.54% |
+| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.52% |
 | 111 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
 | 112 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 113 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
@@ -170,10 +170,10 @@
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 170 | [Tchia](games/t/tchia.md) | 0.44% |
-| 171 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.42% |
-| 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.41% |
-| 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
+| 171 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.41% |
+| 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.40% |
+| 172 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 172 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 175 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
 | 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
 | 177 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
@@ -188,12 +188,12 @@
 | 185 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 185 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 188 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 189 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 189 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 191 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
-| 191 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 191 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
-| 191 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 192 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 192 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
+| 192 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 195 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 195 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 195 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.29% |
