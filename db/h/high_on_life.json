@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5050,9 +5050,9 @@
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -5162,9 +5162,9 @@
       "ID": "ACH_KILL_KRUBIS",
       "SetID": "cdkbb11",
       "Name": "Cold-Blooded Driller",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -5369,8 +5369,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-22T19:00:44.5707796+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:08:17.7949635+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:08:36.961383+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:33.5378459+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:02:12.2318752+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:08:17.7950328+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:02:25.1382331+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:08:36.9614522+00:00"
 }

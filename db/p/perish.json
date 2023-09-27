@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3498,
+  "EOS_Progressed": 3500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3078,6 +3078,11 @@
       "Time": "2023-09-27T15:03:08.4970969+00:00",
       "NumProgressed": 3498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T16:03:13.6651169+00:00",
+      "NumProgressed": 3500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3209,7 +3214,7 @@
       "Name": "Library of Alexandria",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_M_D",
@@ -3257,7 +3262,7 @@
       "Name": "Athenian Treasury",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_M_DC",
@@ -3473,7 +3478,7 @@
       "Name": "Olympian",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_R_D",
@@ -3577,7 +3582,7 @@
       "Name": "Chitinous",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KZ",
@@ -3592,7 +3597,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3498,
+      "Progressed": 3500,
       "Completed": 0
     }
   ],
@@ -3600,8 +3605,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:03:08.4970964+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:03:13.6651162+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.9060266+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:59:06.1027995+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:03:08.4972225+00:00"
+  "LastUpdate_Ratings": "2023-09-27T15:59:37.7829213+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:03:13.6652277+00:00"
 }

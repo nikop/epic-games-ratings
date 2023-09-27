@@ -164,9 +164,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_04",
@@ -180,17 +180,17 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": -9.7,
+      "Percentage": -3.2,
       "XP": 15,
-      "UsersEstimate": -3
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": -9.7,
+      "Percentage": -3.2,
       "XP": 40,
-      "UsersEstimate": -3
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_07",
@@ -284,9 +284,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_19",
@@ -364,9 +364,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_29",
@@ -396,9 +396,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_34",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:05:09.7080875+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:59:50.35314+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:05:09.7081174+00:00"
+  "LastChanged_Achievements": "2023-09-27T16:05:36.6103388+00:00",
+  "LastUpdate_Ratings": "2023-09-27T16:00:21.239035+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:05:36.6103712+00:00"
 }

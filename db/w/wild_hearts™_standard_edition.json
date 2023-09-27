@@ -330,9 +330,9 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_15",
@@ -680,8 +680,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:04:42.4066384+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:05:03.5519935+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:01:27.4713372+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:04:42.406685+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:02:07.6189421+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:05:03.5520414+00:00"
 }

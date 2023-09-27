@@ -11,6 +11,7 @@ Rating: 4.63 (Ranked 334)
 | Luglox Genocide | 0.10% | ~24 |
 | Eatin' Good in the Neighborhood | 0.10% | ~24 |
 | Creature Feature | 0.10% | ~24 |
+| Satisfied Gus-tomer | 0.10% | ~24 |
 | Are You Packin'? | 0.10% | ~24 |
 | Bring A Knife to a Gun Fight | 0.10% | ~24 |
 | Lezduit! | 0.10% | ~24 |
@@ -22,6 +23,7 @@ Rating: 4.63 (Ranked 334)
 | G3 Graduation | 0.10% | ~24 |
 | Legendary Bounty Hunter | 0.10% | ~24 |
 | Hardest Battle In The Game | 0.10% | ~24 |
+| Cold-Blooded Driller | 0.10% | ~24 |
 | Self-Actualization | 0.10% | ~24 |
 | Who's The Boss? | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
@@ -39,10 +41,8 @@ Rating: 4.63 (Ranked 334)
 | Give Away All Your Money | 0.10% | ~1 |
 | It's Like The Santa Clause | 0.10% | ~1 |
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
-| Satisfied Gus-tomer | 0.00% | ~0 |
 | A Starfish Is Born | 0.00% | ~0 |
 | Sequel-Bait | 0.00% | ~0 |
-| Cold-Blooded Driller | 0.00% | ~0 |
 | Playing Favorites | 0.00% | ~0 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 | Mux Ado About Shipping | 0.00% | ~0 |

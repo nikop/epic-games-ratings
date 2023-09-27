@@ -5,30 +5,30 @@ Rating: 4.55 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,425 |
-| Captain Drummer | 29.00% | ~3,775 |
-| Stogie for Fogey | 28.00% | ~3,644 |
-| Martian Music | 28.00% | ~3,644 |
-| Celebrations are in Order | 28.00% | ~3,644 |
-| Spore Taste | 26.00% | ~3,384 |
-| The Pit and the Pirates | 25.00% | ~3,254 |
-| Drone Dodger | 24.00% | ~3,124 |
-| Doctor Approved | 19.00% | ~2,473 |
-| Bosmang | 17.00% | ~2,213 |
+| Impossible Objects | 34.00% | ~4,427 |
+| Captain Drummer | 29.00% | ~3,776 |
+| Stogie for Fogey | 28.00% | ~3,646 |
+| Martian Music | 28.00% | ~3,646 |
+| Celebrations are in Order | 28.00% | ~3,646 |
+| Spore Taste | 26.00% | ~3,385 |
+| The Pit and the Pirates | 25.00% | ~3,255 |
+| Drone Dodger | 24.00% | ~3,125 |
+| Doctor Approved | 19.00% | ~2,474 |
+| Bosmang | 17.00% | ~2,214 |
 | Thorston Mayer | 16.00% | ~2,083 |
-| Bottoms up! | 13.00% | ~1,692 |
-| Call it Even | 13.00% | ~1,692 |
-| Data Archivist | 12.00% | ~1,562 |
+| Bottoms up! | 13.00% | ~1,693 |
+| Call it Even | 13.00% | ~1,693 |
+| Data Archivist | 12.00% | ~1,563 |
 | Heal Thy Medic | 11.00% | ~1,432 |
 | Khan's Revenge | 10.00% | ~1,302 |
-| Data Logger | 8.00% | ~1,041 |
+| Data Logger | 8.00% | ~1,042 |
 | Miraculous Maya | 7.00% | ~911 |
 | Data Master | 6.00% | ~781 |
 | Data Recoverer | 6.00% | ~781 |
 | No Belter Left Behind | 4.00% | ~521 |
 | Debris Spree | 4.00% | ~521 |
-| Urshanabi Hoarder | 3.00% | ~390 |
-| Brother's Reaper | 3.00% | ~390 |
+| Urshanabi Hoarder | 3.00% | ~391 |
+| Brother's Reaper | 3.00% | ~391 |
 | Data Miner | 2.00% | ~260 |
 | Grave Robber | 2.00% | ~260 |
 | Scavenger Star | 0.40% | ~52 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 491)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,016 (Ranked 133)  
+Progressed: 13,021 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
-| 2023-09-27 | 13,016 | 0 |
+| 2023-09-27 | 13,021 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

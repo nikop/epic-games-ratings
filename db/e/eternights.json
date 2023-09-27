@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
@@ -711,6 +711,11 @@
       "Time": "2023-09-27T12:11:24.0490518+00:00",
       "NumProgressed": 228,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-27T16:08:02.3817774+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -721,9 +726,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -745,9 +750,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -785,9 +790,9 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -801,9 +806,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -849,17 +854,17 @@
       "ID": "ACHIEVEMENT_25_LoveAssistant",
       "SetID": "9bke6f1",
       "Name": "LOVEassistant",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -867,15 +872,15 @@
       "Name": "Novice Scavenger",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -922,14 +927,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:07:19.5727188+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:08:02.3817767+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:58:18.618496+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:07:19.572744+00:00"
+  "LastUpdate_Ratings": "2023-09-27T15:58:43.0899789+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:08:02.381803+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1834,6 +1834,11 @@
       "Time": "2023-09-25T22:02:31.8662414+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-27T16:04:17.421871+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1861,7 +1866,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "12",
@@ -1877,7 +1882,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "14",
@@ -2037,7 +2042,7 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "5",
@@ -2051,9 +2056,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 645
     },
     {
       "ID": "7",
@@ -2084,15 +2089,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:03:44.1979033+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:04:17.4218704+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:10.3938601+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:58:30.5612588+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:03:44.1979398+00:00"
+  "LastUpdate_Ratings": "2023-09-27T15:58:58.1006396+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:04:17.4219165+00:00"
 }

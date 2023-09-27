@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1469,
+  "EOS_Progressed": 1470,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5311,6 +5311,11 @@
       "Time": "2023-09-27T15:07:20.8364435+00:00",
       "NumProgressed": 1469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T16:08:04.0387381+00:00",
+      "NumProgressed": 1470,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5322,7 +5327,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -5394,7 +5399,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_headquarters_10",
@@ -5410,7 +5415,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_headquarters_20",
@@ -5625,14 +5630,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1469,
+      "Progressed": 1470,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:07:20.8364429+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:08:04.0387374+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-27T15:00:07.172602+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:07:20.8365133+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:00:39.9979524+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:08:04.0388092+00:00"
 }

@@ -57,11 +57,11 @@ Number of Ratings: 209  (23.09.2022)
 | But wait... ...There's more... | 40.00% | ~899 |
 | So much force | 35.00% | ~786 |
 | You feel fully engaged | 24.00% | ~539 |
-| Too hot | 19.00% | ~427 |
+| Too hot | 20.00% | ~449 |
 | All the chests | 14.00% | ~315 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,247 (Ranked 196)  
-Completed: 276 (12.28%) (Ranked 22)  
+Completed: 276 (12.28%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

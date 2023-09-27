@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6981,
+  "EOS_Progressed": 6982,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5818,6 +5818,11 @@
       "Time": "2023-09-27T08:11:52.2364801+00:00",
       "NumProgressed": 6981,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-27T16:07:33.9302635+00:00",
+      "NumProgressed": 6982,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5837,7 +5842,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5877,7 +5882,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -6077,7 +6082,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -6188,7 +6193,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6981,
+      "Progressed": 6982,
       "Completed": 8
     }
   ],
@@ -6196,8 +6201,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:06:45.5681822+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:07:33.9302629+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:33.8019238+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:57:03.2718553+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:06:45.5682573+00:00"
+  "LastUpdate_Ratings": "2023-09-27T15:57:23.6252888+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:07:33.9303321+00:00"
 }

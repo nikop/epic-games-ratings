@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1488,
+  "EOS_Progressed": 1489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1526,6 +1526,11 @@
       "Time": "2023-09-27T15:03:28.4366794+00:00",
       "NumProgressed": 1488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T16:03:38.2412329+00:00",
+      "NumProgressed": 1489,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -1546,7 +1551,7 @@
       "Name": "Bragging Rights",
       "Percentage": 58,
       "XP": 90,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "achievement_11",
@@ -1554,7 +1559,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_12",
@@ -1570,7 +1575,7 @@
       "Name": "Big Spender",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "achievement_14",
@@ -1586,7 +1591,7 @@
       "Name": "MVP",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "achievement_16",
@@ -1705,7 +1710,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1488,
+      "Progressed": 1489,
       "Completed": 0
     }
   ],
@@ -1713,8 +1718,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:03:28.4366789+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:03:38.2412322+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.8917414+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:57:34.5653844+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:03:28.4367027+00:00"
+  "LastUpdate_Ratings": "2023-09-27T15:58:00.275056+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:03:38.241257+00:00"
 }

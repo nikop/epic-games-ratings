@@ -6,33 +6,33 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,836 |
-| Let There Be Light | 34.00% | ~22,534 |
-| Float Like a Butterfly | 33.00% | ~21,871 |
-| Nordic Walking | 26.00% | ~17,232 |
-| Bright Falls' Finest | 26.00% | ~17,232 |
-| Under a Thin Layer of Skin | 23.00% | ~15,243 |
-| Park Ranger | 19.00% | ~12,592 |
-| Paging Mr. Wake | 19.00% | ~12,592 |
+| Follow the Light | 42.00% | ~27,838 |
+| Let There Be Light | 34.00% | ~22,535 |
+| Float Like a Butterfly | 33.00% | ~21,872 |
+| Nordic Walking | 26.00% | ~17,233 |
+| Bright Falls' Finest | 26.00% | ~17,233 |
+| Under a Thin Layer of Skin | 23.00% | ~15,244 |
+| Park Ranger | 19.00% | ~12,593 |
+| Paging Mr. Wake | 19.00% | ~12,593 |
 | Back! Back, I Say! | 18.00% | ~11,930 |
-| Finders Keepers | 17.00% | ~11,267 |
-| Sound and Fury | 16.00% | ~10,604 |
-| Missed by a Mile | 16.00% | ~10,604 |
-| Damn Good Cup of Coffee | 16.00% | ~10,604 |
-| Wheels Within Wheels | 15.00% | ~9,941 |
-| They're Heeeeeere! | 15.00% | ~9,941 |
+| Finders Keepers | 17.00% | ~11,268 |
+| Sound and Fury | 16.00% | ~10,605 |
+| Missed by a Mile | 16.00% | ~10,605 |
+| Damn Good Cup of Coffee | 16.00% | ~10,605 |
+| Wheels Within Wheels | 15.00% | ~9,942 |
+| They're Heeeeeere! | 15.00% | ~9,942 |
 | Iron Horse | 14.00% | ~9,279 |
 | The Six-Gun Scribe | 14.00% | ~9,279 |
 | Collateral Carnage | 14.00% | ~9,279 |
 | Come One, Come All | 14.00% | ~9,279 |
 | Heavy Metal | 13.00% | ~8,616 |
 | Perchance to Dream | 13.00% | ~8,616 |
-| Gatekeeper | 12.00% | ~7,953 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,953 |
-| Thunder and Lightning | 12.00% | ~7,953 |
-| Two For the Price of One | 12.00% | ~7,953 |
-| The Lady of the Light | 11.00% | ~7,290 |
-| Energized! | 11.00% | ~7,290 |
+| Gatekeeper | 12.00% | ~7,954 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,954 |
+| Thunder and Lightning | 12.00% | ~7,954 |
+| Two For the Price of One | 12.00% | ~7,954 |
+| The Lady of the Light | 11.00% | ~7,291 |
+| Energized! | 11.00% | ~7,291 |
 | Right of Way | 10.00% | ~6,628 |
 | What Light Through Yonder Window | 9.00% | ~5,965 |
 | Tornado Wrangler | 8.00% | ~5,302 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,276 (Ranked 89)  
+Progressed: 66,280 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 66 (0.10%) (Ranked 234)
 | 2023-09-24 | 66,142 | 66 |
 | 2023-09-25 | 66,202 | 66 |
 | 2023-09-26 | 66,247 | 66 |
-| 2023-09-27 | 66,276 | 66 |
+| 2023-09-27 | 66,280 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

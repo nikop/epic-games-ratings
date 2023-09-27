@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 352)  
+Rating: 4.62 (Ranked 353)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,834 |
-| Wallbanger | 5.00% | ~22,834 |
-| Exploitative | 4.00% | ~18,267 |
-| High Speed Low Drag | 4.00% | ~18,267 |
-| Wet Feet | 4.00% | ~18,267 |
-| Checkpoint Victory | 3.00% | ~13,700 |
-| Lucky | 3.00% | ~13,700 |
-| Stylin' | 3.00% | ~13,700 |
-| Turf War | 3.00% | ~13,700 |
+| Point Shooting | 5.00% | ~22,835 |
+| Wallbanger | 5.00% | ~22,835 |
+| Exploitative | 4.00% | ~18,268 |
+| High Speed Low Drag | 4.00% | ~18,268 |
+| Wet Feet | 4.00% | ~18,268 |
+| Checkpoint Victory | 3.00% | ~13,701 |
+| Lucky | 3.00% | ~13,701 |
+| Stylin' | 3.00% | ~13,701 |
+| Turf War | 3.00% | ~13,701 |
 | Banged | 2.00% | ~9,134 |
 | First Blood | 2.00% | ~9,134 |
 | Flaccid Paralysis | 2.00% | ~9,134 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,110 |
 | Mount & Gun | 0.90% | ~4,110 |
 | Personal | 0.90% | ~4,110 |
-| Grounded | 0.80% | ~3,653 |
-| Play to Win | 0.80% | ~3,653 |
+| Grounded | 0.80% | ~3,654 |
+| Play to Win | 0.80% | ~3,654 |
 | #1 | 0.70% | ~3,197 |
 | Special Delivery | 0.70% | ~3,197 |
 | Firefight Victory | 0.60% | ~2,740 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~457 |
 | Road Hazard | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,682 (Ranked 38)  
+Progressed: 456,694 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 2 (0.00%) (Ranked 295)
 | 2023-09-24 | 455,690 | 2 |
 | 2023-09-25 | 456,114 | 2 |
 | 2023-09-26 | 456,489 | 2 |
-| 2023-09-27 | 456,682 | 2 |
+| 2023-09-27 | 456,694 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 383  (Ranked 224)  
 Sum: 3,010 (Ranked 169)  

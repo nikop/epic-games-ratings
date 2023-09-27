@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1128,6 +1128,11 @@
       "Time": "2023-09-23T08:06:24.0042481+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T16:08:10.772779+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1161,9 +1166,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "achBett",
@@ -1337,9 +1342,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "achLizun",
@@ -1409,9 +1414,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "achPriest",
@@ -1491,7 +1496,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achVip",
@@ -1538,7 +1543,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
@@ -1546,8 +1551,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-27T15:07:26.1804913+00:00",
+  "LastChanged_Achievements": "2023-09-27T16:08:10.7727783+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:01.1954051+00:00",
-  "LastUpdate_Ratings": "2023-09-27T14:59:58.7378642+00:00",
-  "LastUpdate_Achievements": "2023-09-27T15:07:26.1805465+00:00"
+  "LastUpdate_Ratings": "2023-09-27T16:00:25.9767788+00:00",
+  "LastUpdate_Achievements": "2023-09-27T16:08:10.7728341+00:00"
 }
