@@ -12563,10 +12563,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882915,
-  "EOS_Completed": 2429,
-  "EOS_NewPlayers": 5677,
-  "EOS_NewCompleters": 308,
+  "EOS_Progressed": 882961,
+  "EOS_Completed": 2430,
+  "EOS_NewPlayers": 5714,
+  "EOS_NewCompleters": 309,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30523,6 +30523,11 @@
       "Time": "2023-09-27T11:06:29.7698145+00:00",
       "NumProgressed": 882915,
       "NumCompleted": 2429
+    },
+    {
+      "Time": "2023-09-27T12:09:29.8666495+00:00",
+      "NumProgressed": 882961,
+      "NumCompleted": 2430
     }
   ],
   "TotalAchievements": 57,
@@ -30612,9 +30617,9 @@
       "ID": "Gunslinger",
       "SetID": "47clieb",
       "Name": "Gunslinger",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7946
+      "UsersEstimate": 8830
     },
     {
       "ID": "HandyMan",
@@ -30622,7 +30627,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "IAmMaxTac",
@@ -30638,7 +30643,7 @@
       "Name": "Mean Streets",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "LittleTokyo",
@@ -30718,15 +30723,15 @@
       "Name": "Ten out of Ten",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8829
+      "UsersEstimate": 8830
     },
     {
       "ID": "Temperance",
       "SetID": "47clieb",
       "Name": "Temperance",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3532
+      "UsersEstimate": 4415
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30734,15 +30739,15 @@
       "Name": "Rough Landing",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8829
+      "UsersEstimate": 8830
     },
     {
       "ID": "TheDevil",
       "SetID": "47clieb",
       "Name": "The Devil",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2649
+      "UsersEstimate": 3532
     },
     {
       "ID": "TheFool",
@@ -30764,9 +30769,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5297
+      "UsersEstimate": 6181
     },
     {
       "ID": "TheLovers",
@@ -30822,15 +30827,15 @@
       "Name": "The Jungle",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7063
+      "UsersEstimate": 7064
     },
     {
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4415
+      "UsersEstimate": 5298
     },
     {
       "ID": "TrueWarrior",
@@ -30846,7 +30851,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "UnderPressure",
@@ -30862,7 +30867,7 @@
       "Name": "V for Vendetta",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "YipMan",
@@ -30989,21 +30994,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882915,
-      "Completed": 2429
+      "Progressed": 882961,
+      "Completed": 2430
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11538,
+      "Progressed": 11584,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T07:57:41.6042137+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:06:29.769814+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:09:29.8666489+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:57:21.9206145+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:06:29.7700138+00:00"
+  "LastUpdate_Ratings": "2023-09-27T11:57:34.0496594+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:09:29.8668573+00:00"
 }

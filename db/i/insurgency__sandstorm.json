@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -3547,9 +3547,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 456626,
+  "EOS_Progressed": 456636,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3175,
+  "EOS_NewPlayers": 3172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21527,6 +21527,11 @@
       "Time": "2023-09-27T11:06:48.7327638+00:00",
       "NumProgressed": 456626,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-27T12:09:56.3033637+00:00",
+      "NumProgressed": 456636,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -21706,7 +21711,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22831
+      "UsersEstimate": 22832
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -21802,7 +21807,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22831
+      "UsersEstimate": 22832
     },
     {
       "ID": "ACH_WET_FEET",
@@ -21817,15 +21822,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 456626,
+      "Progressed": 456636,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-25T09:01:36.6056917+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:06:48.7327632+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:09:56.303363+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.5756553+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:57:27.3918114+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:06:48.7329027+00:00"
+  "LastUpdate_Ratings": "2023-09-27T11:57:43.3982672+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:09:56.303624+00:00"
 }

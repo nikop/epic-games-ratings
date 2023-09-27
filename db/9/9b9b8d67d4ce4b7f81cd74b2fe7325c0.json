@@ -4,7 +4,7 @@
   "ProductSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
@@ -629,33 +629,33 @@
       "ID": "PORTRAIT_10",
       "SetID": "g10jki",
       "Name": "Portrait 10",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PORTRAIT_11",
       "SetID": "g10jki",
       "Name": "Portrait 11",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "PORTRAIT_12",
       "SetID": "g10jki",
       "Name": "Portrait 12",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "PORTRAIT_13",
       "SetID": "g10jki",
       "Name": "Portrait 13",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "PORTRAIT_14",
@@ -805,9 +805,9 @@
       "ID": "PORTRAIT_9",
       "SetID": "g10jki",
       "Name": "Portrait 9",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:06:20.4801892+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:09:16.9906446+00:00",
   "LastUpdate_AppInfo": "2023-09-20T13:57:10.5821756+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:00:54.4462817+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:06:20.4802132+00:00"
+  "LastUpdate_Ratings": "2023-09-27T12:03:00.6662227+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:09:16.9906661+00:00"
 }

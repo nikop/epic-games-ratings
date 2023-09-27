@@ -1189,10 +1189,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 702,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-09-27T12:00:16.3039894+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 702,
+  "NumberOfAwards": 703,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1248,7 +1254,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has a Creative Community",
@@ -1257,9 +1263,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9247,
+  "EOS_Progressed": 9248,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13607,6 +13613,11 @@
       "Time": "2023-09-27T11:08:41.0492323+00:00",
       "NumProgressed": 9247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T12:11:47.9363135+00:00",
+      "NumProgressed": 9248,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13618,7 +13629,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "10",
@@ -13674,7 +13685,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "17",
@@ -13698,7 +13709,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4808
+      "UsersEstimate": 4809
     },
     {
       "ID": "2",
@@ -13706,7 +13717,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "20",
@@ -13730,7 +13741,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6658
+      "UsersEstimate": 6659
     },
     {
       "ID": "23",
@@ -13778,7 +13789,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "29",
@@ -13834,7 +13845,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "35",
@@ -13874,7 +13885,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "4",
@@ -14074,7 +14085,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "9",
@@ -14089,15 +14100,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9247,
+      "Progressed": 9248,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-09-22T19:56:57.4425059+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:08:41.0492319+00:00",
+  "LastChanged": "2023-09-27T12:00:16.3039892+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:11:47.9363128+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:18.1342921+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:59:15.3809996+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:08:41.0493838+00:00"
+  "LastUpdate_Ratings": "2023-09-27T12:00:16.3039899+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:11:47.9365456+00:00"
 }

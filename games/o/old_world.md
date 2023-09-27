@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 4.00% | ~566 |
 | Good | 4.00% | ~566 |
 | Just | 4.00% | ~566 |
+| Keystone | 4.00% | ~566 |
 | Learned | 4.00% | ~566 |
 | Mason | 4.00% | ~566 |
 | Noble | 4.00% | ~566 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 3.00% | ~424 |
 | Fountainhead | 3.00% | ~424 |
 | Great | 3.00% | ~424 |
-| Keystone | 3.00% | ~424 |
 | Magnificent | 3.00% | ~424 |
 | Warrior | 3.00% | ~424 |
 | Wise | 3.00% | ~424 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,148 (Ranked 130)  
+Progressed: 14,149 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 5 (0.04%) (Ranked 260)
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
-| 2023-09-27 | 14,148 | 5 |
+| 2023-09-27 | 14,149 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

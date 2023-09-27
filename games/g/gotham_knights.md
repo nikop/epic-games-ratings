@@ -7,7 +7,7 @@ Rating: 4.18 (Ranked 894)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,901 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,510 |
-| Loose Ends | 34.00% | ~24,781 |
+| Loose Ends | 34.00% | ~24,782 |
 | To the Victor Go the Spoils | 29.00% | ~21,137 |
 | Knighthood | 28.00% | ~20,408 |
 | Get ReQ'd | 25.00% | ~18,222 |
@@ -19,9 +19,9 @@ Rating: 4.18 (Ranked 894)
 | Working Hard or Harley Working? | 20.00% | ~14,577 |
 | Unstoppable Force | 20.00% | ~14,577 |
 | Bad Apples in Every Orchard | 20.00% | ~14,577 |
-| Snow Problem | 19.00% | ~13,848 |
-| The Show Mud Go On | 18.00% | ~13,119 |
-| From Inside Gotham's Walls | 18.00% | ~13,119 |
+| Snow Problem | 19.00% | ~13,849 |
+| The Show Mud Go On | 18.00% | ~13,120 |
+| From Inside Gotham's Walls | 18.00% | ~13,120 |
 | Protector of Gotham | 17.00% | ~12,391 |
 | Universal Health Scare | 16.00% | ~11,662 |
 | In Your Element | 15.00% | ~10,933 |
@@ -34,7 +34,7 @@ Rating: 4.18 (Ranked 894)
 | End of an Era | 12.00% | ~8,746 |
 | Bulldozed | 12.00% | ~8,746 |
 | Gotham Knight | 12.00% | ~8,746 |
-| Gotham City Confidential | 11.00% | ~8,017 |
+| Gotham City Confidential | 11.00% | ~8,018 |
 | Drone You Out | 10.00% | ~7,289 |
 | Out of Their League | 9.00% | ~6,560 |
 | Solid Alibi | 9.00% | ~6,560 |
@@ -62,12 +62,12 @@ Rating: 4.18 (Ranked 894)
 | Hammer and Icicle | 0.40% | ~173 |
 | Renewable Enemy Source | 0.40% | ~173 |
 | Showdown Sovereign | 0.40% | ~173 |
-| Crime Is a Terrible Thing to Waste | 0.30% | ~129 |
-| The Cold, the Bad and the Ugly | 0.30% | ~129 |
+| Crime Is a Terrible Thing to Waste | 0.30% | ~130 |
+| The Cold, the Bad and the Ugly | 0.30% | ~130 |
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,886 (Ranked 84)  
+Progressed: 72,887 (Ranked 84)  
 Completed: 118 (0.16%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 118 (0.16%) (Ranked 217)
 | 2023-09-24 | 72,808 | 117 |
 | 2023-09-25 | 72,826 | 118 |
 | 2023-09-26 | 72,863 | 118 |
-| 2023-09-27 | 72,886 | 118 |
+| 2023-09-27 | 72,887 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,755  (Ranked 96)  
 Sum: 4,593 (Ranked 139)  

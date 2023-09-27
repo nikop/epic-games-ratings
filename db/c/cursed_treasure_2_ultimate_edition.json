@@ -3,7 +3,7 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
@@ -262,9 +262,9 @@
       "ID": "BADGE_BOSS_7_KILL",
       "SetID": "ak6pfjk",
       "Name": "Feed the Fishes",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "BADGE_BOSS_8_KILL",
@@ -446,9 +446,9 @@
       "ID": "BADGE_DEADMANS_CHEST",
       "SetID": "ak6pfjk",
       "Name": "Deadman\u0027s Chest",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "BADGE_ENEMIES_FRIGHTEN",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:06:28.5181565+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:09:28.1773824+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:46.8784146+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:57:50.9031321+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:06:28.5182005+00:00"
+  "LastUpdate_Ratings": "2023-09-27T11:58:15.0990587+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:09:28.1774287+00:00"
 }

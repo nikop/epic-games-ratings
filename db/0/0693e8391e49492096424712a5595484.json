@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1766,9 +1766,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "BearBroom",
@@ -1814,9 +1814,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 410
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1838,9 +1838,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 230
     },
     {
       "ID": "BroomPistol",
@@ -1942,9 +1942,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 244
     },
     {
       "ID": "KingDiamond",
@@ -1982,9 +1982,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "PriestRogue",
@@ -2038,9 +2038,9 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "RogueNaked",
@@ -2078,9 +2078,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     },
     {
       "ID": "SwordDiamond",
@@ -2117,8 +2117,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:08:24.7828344+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:11:25.4589818+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:01:06.4678592+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:08:24.7828972+00:00"
+  "LastUpdate_Ratings": "2023-09-27T12:03:16.3986374+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:11:25.4590627+00:00"
 }

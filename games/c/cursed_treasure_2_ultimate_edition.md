@@ -43,14 +43,14 @@
 | Starry: Arcania | 44.00% | ~74 |
 | Sing, My Angel | 43.00% | ~73 |
 | The Coreland | 40.00% | ~68 |
-| Feed the Fishes | 38.00% | ~64 |
+| Feed the Fishes | 39.00% | ~66 |
 | Starry: The Coreland | 38.00% | ~64 |
 | Brilliant: Wasteland | 34.00% | ~57 |
 | Father of Nation | 34.00% | ~57 |
 | Dwarven Countdown | 30.00% | ~51 |
 | Starry: Wasteland | 29.00% | ~49 |
+| Deadman's Chest | 28.00% | ~47 |
 | Brilliant: Free Coast | 27.00% | ~46 |
-| Deadman's Chest | 27.00% | ~46 |
 | Monument Keeper | 27.00% | ~46 |
 | Brilliant: The Deep | 24.00% | ~41 |
 | Starry: Free Coast | 23.00% | ~39 |
@@ -59,7 +59,7 @@
 | Loveless | 18.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 169 (Ranked 347)  
-Completed: 25 (14.79%) (Ranked 19)  
+Completed: 25 (14.79%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

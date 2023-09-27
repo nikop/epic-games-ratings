@@ -3296,9 +3296,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51749,
+  "EOS_Progressed": 51750,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -12401,6 +12401,11 @@
       "Time": "2023-09-27T02:23:23.0296081+00:00",
       "NumProgressed": 51749,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-27T12:07:43.1639169+00:00",
+      "NumProgressed": 51750,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12556,7 +12561,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19147
+      "UsersEstimate": 19148
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -12572,7 +12577,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13972
+      "UsersEstimate": 13973
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -12620,7 +12625,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -12652,7 +12657,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30014
+      "UsersEstimate": 30015
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12668,7 +12673,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -12676,7 +12681,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50197
+      "UsersEstimate": 50198
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12700,7 +12705,7 @@
       "Name": "\u0027\u0027Jedi Business\u0027\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
@@ -12732,7 +12737,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19147
+      "UsersEstimate": 19148
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -12748,7 +12753,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27427
+      "UsersEstimate": 27428
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -12764,22 +12769,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37259
+      "UsersEstimate": 37260
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51749,
+      "Progressed": 51750,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-27T10:01:37.3144498+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:04:42.3726872+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:07:43.1639162+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.4035697+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:01:14.4036963+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:04:42.3727835+00:00"
+  "LastUpdate_Ratings": "2023-09-27T12:03:28.0627076+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:07:43.1640456+00:00"
 }

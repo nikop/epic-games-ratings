@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -970,9 +970,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2959,
+  "EOS_Progressed": 2961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5020,6 +5020,11 @@
       "Time": "2023-09-27T09:08:26.0788317+00:00",
       "NumProgressed": 2959,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T12:07:43.0149348+00:00",
+      "NumProgressed": 2961,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5031,7 +5036,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_BING-BONG",
@@ -5335,7 +5340,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5399,7 +5404,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5407,22 +5412,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1777
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2959,
+      "Progressed": 2961,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-24T16:57:49.6373996+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:04:42.2535094+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:07:43.0149336+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:58:46.3593948+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:04:42.2535876+00:00"
+  "LastUpdate_Ratings": "2023-09-27T11:59:35.8382456+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:07:43.0150424+00:00"
 }

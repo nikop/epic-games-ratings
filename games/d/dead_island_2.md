@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,608 |
-| Welcome To Hell-A | 3.00% | ~20,608 |
+| Hotel California | 3.00% | ~20,609 |
+| Welcome To Hell-A | 3.00% | ~20,609 |
 | Dr. Reed, I Presume? | 2.00% | ~13,739 |
 | Git Gutte! | 2.00% | ~13,739 |
 | Bookworm | 2.00% | ~13,739 |
@@ -25,14 +25,14 @@ Rating: 4.54 (Ranked 511)
 | Personal Assistant Personally Assisted | 2.00% | ~13,739 |
 | Our True Nature | 2.00% | ~13,739 |
 | This is My Weapon | 2.00% | ~13,739 |
-| Making Your Mark | 1.00% | ~6,869 |
-| Anger Management | 1.00% | ~6,869 |
-| Perks of the Job | 1.00% | ~6,869 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,869 |
-| Ooh, Shiny! | 1.00% | ~6,869 |
-| Humanity Distilled | 1.00% | ~6,869 |
-| I Am the Resurrection | 1.00% | ~6,869 |
-| Down with the Sickness | 1.00% | ~6,869 |
+| Making Your Mark | 1.00% | ~6,870 |
+| Anger Management | 1.00% | ~6,870 |
+| Perks of the Job | 1.00% | ~6,870 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,870 |
+| Ooh, Shiny! | 1.00% | ~6,870 |
+| Humanity Distilled | 1.00% | ~6,870 |
+| I Am the Resurrection | 1.00% | ~6,870 |
+| Down with the Sickness | 1.00% | ~6,870 |
 | Max Headroom | 0.90% | ~6,183 |
 | Go, Bobcats! | 0.80% | ~5,496 |
 | Rising Star | 0.80% | ~5,496 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,948 (Ranked 22)  
+Progressed: 686,971 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
-| 2023-09-27 | 686,948 | 2,176 |
+| 2023-09-27 | 686,971 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,217  (Ranked 57)  
 Sum: 9,254 (Ranked 92)  

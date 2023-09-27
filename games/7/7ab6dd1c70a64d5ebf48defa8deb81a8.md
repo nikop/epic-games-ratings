@@ -5,9 +5,9 @@
 | ---- | ---------- | ----- |
 | Trinity | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
+| Powerful Allies | 6.00% | ~2 |
 | Find Allies | 3.00% | ~1 |
 | Shatter Them All | 3.00% | ~1 |
-| Powerful Allies | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
 | Geared Up | 0.00% | ~0 |

@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15429,
+  "EOS_Progressed": 15430,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10935,6 +10935,11 @@
       "Time": "2023-09-27T11:03:27.1961903+00:00",
       "NumProgressed": 15429,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-27T12:06:20.8561618+00:00",
+      "NumProgressed": 15430,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10970,7 +10975,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "tpote_achievement_13",
@@ -10978,7 +10983,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "tpote_achievement_14",
@@ -11106,7 +11111,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "tpote_achievement_29",
@@ -11122,7 +11127,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "tpote_achievement_30",
@@ -11186,7 +11191,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "tpote_achievement_38",
@@ -11258,7 +11263,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "tpote_achievement_9",
@@ -11273,15 +11278,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15429,
+      "Progressed": 15430,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:03:27.1961897+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:06:20.8561612+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-27T11:00:20.6600793+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:03:27.1963663+00:00"
+  "LastUpdate_Ratings": "2023-09-27T12:01:56.9672488+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:06:20.8563117+00:00"
 }

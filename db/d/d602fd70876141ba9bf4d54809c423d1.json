@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -528,9 +528,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-27T11:05:37.1653863+00:00",
+  "LastChanged_Achievements": "2023-09-27T12:08:45.205103+00:00",
   "LastUpdate_AppInfo": "2023-09-20T20:57:03.8652569+00:00",
-  "LastUpdate_Ratings": "2023-09-27T10:59:24.0265381+00:00",
-  "LastUpdate_Achievements": "2023-09-27T11:05:37.1655328+00:00"
+  "LastUpdate_Ratings": "2023-09-27T12:00:37.1585168+00:00",
+  "LastUpdate_Achievements": "2023-09-27T12:08:45.2051992+00:00"
 }

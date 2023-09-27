@@ -6,42 +6,42 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~615,860 |
-| Death From Above | 46.00% | ~615,860 |
-| Master of the Household | 38.00% | ~508,754 |
-| Death of the Party | 36.00% | ~481,977 |
-| NEXUS-47 | 33.00% | ~441,813 |
-| The Last Tango | 31.00% | ~415,036 |
-| Nightmare Fuel | 30.00% | ~401,648 |
-| The Result of Previous Training | 28.00% | ~374,871 |
-| Tools of the Trade | 28.00% | ~374,871 |
-| Cleared for Field Duty | 27.00% | ~361,483 |
-| Seizing the Opportunity | 26.00% | ~348,095 |
-| Bullet Train | 21.00% | ~281,153 |
-| Stylish Assassin | 20.00% | ~267,765 |
-| Silent Assassin | 14.00% | ~187,436 |
-| Rise Up | 13.00% | ~174,047 |
-| Evil Wine Club | 11.00% | ~147,271 |
-| Console Cowboy | 10.00% | ~133,883 |
-| Last Stop | 10.00% | ~133,883 |
-| A New Profile | 9.00% | ~120,494 |
-| Full House | 9.00% | ~120,494 |
-| Dune Raider | 8.00% | ~107,106 |
-| No Stone Unturned | 8.00% | ~107,106 |
-| Train Surfing | 8.00% | ~107,106 |
-| Icebreaker | 7.00% | ~93,718 |
+| Unseen Assassin | 46.00% | ~615,866 |
+| Death From Above | 46.00% | ~615,866 |
+| Master of the Household | 38.00% | ~508,759 |
+| Death of the Party | 36.00% | ~481,982 |
+| NEXUS-47 | 33.00% | ~441,817 |
+| The Last Tango | 31.00% | ~415,040 |
+| Nightmare Fuel | 30.00% | ~401,652 |
+| The Result of Previous Training | 28.00% | ~374,875 |
+| Tools of the Trade | 28.00% | ~374,875 |
+| Cleared for Field Duty | 27.00% | ~361,487 |
+| Seizing the Opportunity | 26.00% | ~348,098 |
+| Bullet Train | 21.00% | ~281,156 |
+| Stylish Assassin | 20.00% | ~267,768 |
+| Silent Assassin | 14.00% | ~187,437 |
+| Rise Up | 13.00% | ~174,049 |
+| Evil Wine Club | 11.00% | ~147,272 |
+| Console Cowboy | 10.00% | ~133,884 |
+| Last Stop | 10.00% | ~133,884 |
+| A New Profile | 9.00% | ~120,496 |
+| Full House | 9.00% | ~120,496 |
+| Dune Raider | 8.00% | ~107,107 |
+| No Stone Unturned | 8.00% | ~107,107 |
+| Train Surfing | 8.00% | ~107,107 |
+| Icebreaker | 7.00% | ~93,719 |
 | Family Feud | 6.00% | ~80,330 |
 | Rich Harvest | 6.00% | ~80,330 |
 | Count Down From 47 | 6.00% | ~80,330 |
-| Shortcut Killer | 5.00% | ~66,941 |
-| Treacherous Architecture | 5.00% | ~66,941 |
-| Stair Master | 5.00% | ~66,941 |
-| Followed the Trails | 5.00% | ~66,941 |
-| Last Call | 5.00% | ~66,941 |
-| Upstairs, Downstairs | 4.00% | ~53,553 |
-| The Great Outdoors | 4.00% | ~53,553 |
-| Partied Out | 4.00% | ~53,553 |
-| Surveillance Master | 4.00% | ~53,553 |
+| Shortcut Killer | 5.00% | ~66,942 |
+| Treacherous Architecture | 5.00% | ~66,942 |
+| Stair Master | 5.00% | ~66,942 |
+| Followed the Trails | 5.00% | ~66,942 |
+| Last Call | 5.00% | ~66,942 |
+| Upstairs, Downstairs | 4.00% | ~53,554 |
+| The Great Outdoors | 4.00% | ~53,554 |
+| Partied Out | 4.00% | ~53,554 |
+| Surveillance Master | 4.00% | ~53,554 |
 | Training Escalated | 3.00% | ~40,165 |
 | Keep Your Eyes Peeled | 3.00% | ~40,165 |
 | Warehouse Veteran | 3.00% | ~40,165 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,388 |
 | The Creative Assassin | 0.70% | ~9,372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,338,826 (Ranked 9)  
+Progressed: 1,338,839 (Ranked 9)  
 Completed: 2,151 (0.16%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,14 +214,14 @@ Completed: 2,151 (0.16%) (Ranked 217)
 | 2023-09-24 | 1,338,012 | 2,150 |
 | 2023-09-25 | 1,338,346 | 2,151 |
 | 2023-09-26 | 1,338,717 | 2,151 |
-| 2023-09-27 | 1,338,826 | 2,151 |
+| 2023-09-27 | 1,338,839 | 2,151 |
 ## Awards
-Max (Diverse Characters): 10,161  (Ranked 37)  
-Sum: 71,470 (Ranked 21)  
+Max (Diverse Characters): 10,166  (Ranked 37)  
+Sum: 71,475 (Ranked 21)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 10,161 |
+| This game has Diverse Characters | 10,166 |
 | This game is Highly Recommended | 9,388 |
 | This game is Extremely Fun | 9,111 |
 | This game has Amazing Storytelling | 8,989 |
@@ -506,4 +506,4 @@ Diff (max vs sum): 16
 | 2023-09-24 | 4.78 | - | 10,149 | 71,391 |
 | 2023-09-25 | 4.78 | - | 10,149 | 71,421 |
 | 2023-09-26 | 4.78 | - | 10,161 | 71,462 |
-| 2023-09-27 | 4.78 | - | 10,161 | 71,470 |
+| 2023-09-27 | 4.78 | - | 10,166 | 71,475 |

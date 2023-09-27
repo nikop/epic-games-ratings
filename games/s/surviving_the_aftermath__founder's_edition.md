@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,658 |
-| Leader | 60.00% | ~5,548 |
+| First Step | 72.00% | ~6,659 |
+| Leader | 60.00% | ~5,549 |
 | Explorer | 53.00% | ~4,901 |
-| Healer | 52.00% | ~4,808 |
+| Healer | 52.00% | ~4,809 |
 | Aspiring Inventor | 44.00% | ~4,069 |
-| Adventurer | 41.00% | ~3,791 |
+| Adventurer | 41.00% | ~3,792 |
 | Famous Healer | 38.00% | ~3,514 |
-| Local Leader | 35.00% | ~3,236 |
+| Local Leader | 35.00% | ~3,237 |
 | Famous Explorer | 34.00% | ~3,144 |
 | New Opportunities | 34.00% | ~3,144 |
 | Energized | 33.00% | ~3,052 |
@@ -27,10 +27,10 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~2,312 |
 | Great Leader | 23.00% | ~2,127 |
 | Mentor | 23.00% | ~2,127 |
-| Merchant | 22.00% | ~2,034 |
-| Ice Lakes | 22.00% | ~2,034 |
-| Real Survivor | 22.00% | ~2,034 |
-| Rocket Surgeon | 20.00% | ~1,849 |
+| Merchant | 22.00% | ~2,035 |
+| Ice Lakes | 22.00% | ~2,035 |
+| Real Survivor | 22.00% | ~2,035 |
+| Rocket Surgeon | 20.00% | ~1,850 |
 | War Never Changes | 19.00% | ~1,757 |
 | Friendly | 17.00% | ~1,572 |
 | Big Game Hunter | 17.00% | ~1,572 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,247 (Ranked 141)  
+Progressed: 9,248 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 9,206 | 0 |
 | 2023-09-25 | 9,225 | 0 |
 | 2023-09-26 | 9,242 | 0 |
-| 2023-09-27 | 9,247 | 0 |
+| 2023-09-27 | 9,248 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 337)  
-Sum: 702 (Ranked 281)  
+Sum: 703 (Ranked 281)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -239,7 +239,7 @@ Diff (max vs sum): 56
 | This game is Relaxing | 82 |
 | This game has Quickly Understood Controls | 82 |
 | This game is Highly Recommended | 72 |
-| This game has Diverse Characters | 70 |
+| This game has Diverse Characters | 71 |
 | This game has Amazing Characters | 69 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 45 |
@@ -366,3 +366,4 @@ Diff (max vs sum): 56
 | 2023-09-12 | 4.48 | - | 103 | 700 |
 | 2023-09-15 | 4.48 | - | 103 | 701 |
 | 2023-09-22 | 4.48 | - | 103 | 702 |
+| 2023-09-27 | 4.48 | - | 103 | 703 |

@@ -17,13 +17,13 @@
 | Light Up Your life | 9.00% | ~1 |
 | Not Alone | 9.00% | ~1 |
 | So Close | 9.00% | ~1 |
+| The Kitchen | 9.00% | ~1 |
 | The Lair | 9.00% | ~1 |
 | We'll Meet Again | 9.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
 | Little Lost Things | 0.00% | ~0 |
 | Rascal | 0.00% | ~0 |
 | The Guest Area | 0.00% | ~0 |
-| The Kitchen | 0.00% | ~0 |
 | The Lady's Quarters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 503)  
