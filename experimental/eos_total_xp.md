@@ -317,6 +317,7 @@
 | [Hunt the Night](../games/h/hunt_the_night.md) | 22 | 1,000 |
 | [Hush Hush](../games/5/56faf2396f304e6886e66c492ee22a0e.md) | 39 | 1,000 |
 | [I Am Future - Cozy Apocalypse Survival](../games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 20 | 1,000 |
+| [I Did Not Buy This Ticket](../games/9/97359b2710354a139a24ddb1580b5b3d.md) | 30 | 1,000 |
 | [I Saw Black Clouds](../games/i/i_saw_black_clouds.md) | 15 | 1,000 |
 | [Imagine Earth](../games/i/imagine_earth.md) | 24 | 1,000 |
 | [Immortals of Aveum™](../games/i/immortals_of_aveum™.md) | 47 | 1,000 |

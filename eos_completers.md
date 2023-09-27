@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.84% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.78% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -48,14 +48,14 @@
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 6.02% |
 | 48 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.88% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.86% |
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.80% |
 | 51 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.49% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 53 | [JARS](games/j/jars.md) | 5.19% |
 | 54 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 55 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.88% |
-| 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.86% |
+| 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 57 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 58 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 59 | [ZZT!](games/z/zzt!.md) | 4.40% |
@@ -88,12 +88,12 @@
 | 86 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [Lamentum](games/l/lamentum.md) | 2.49% |
-| 89 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.44% |
-| 90 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
+| 89 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.43% |
+| 89 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
 | 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
 | 91 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.38% |
 | 93 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.30% |
+| 94 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.31% |
 | 95 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.25% |
 | 97 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
@@ -113,12 +113,12 @@
 | 111 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
 | 112 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 113 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
-| 113 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
+| 114 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.42% |
 | 115 | [Ten Dates](games/t/ten_dates.md) | 1.41% |
 | 116 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
 | 117 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
-| 118 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.36% |
-| 119 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.35% |
+| 118 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.35% |
+| 118 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.35% |
 | 120 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.34% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
 | 122 | [Chorus](games/c/chorus.md) | 1.23% |
@@ -170,7 +170,7 @@
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 170 | [Tchia](games/t/tchia.md) | 0.44% |
-| 171 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.43% |
+| 171 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.42% |
 | 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.41% |
 | 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
@@ -211,11 +211,11 @@
 | 208 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.21% |
 | 210 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.20% |
 | 211 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
-| 211 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.19% |
 | 211 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 214 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 214 | [Remnant 2](games/r/remnant_2.md) | 0.18% |
-| 214 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
+| 213 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.18% |
+| 213 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 213 | [Remnant 2](games/r/remnant_2.md) | 0.18% |
+| 213 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 217 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 217 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 217 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
@@ -249,11 +249,11 @@
 | 245 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 245 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 245 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 245 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.07% |
 | 245 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 251 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 251 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 251 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.06% |
-| 251 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 252 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 252 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 252 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 255 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 255 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 255 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
@@ -611,6 +611,7 @@
 | 295 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
 | 295 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 0.00% |
 | 295 | [Tower Princess](games/t/tower_princess.md) | 0.00% |
+| 295 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 0.00% |
 | 295 | [Train Valley 2](games/t/train_valley_2.md) | 0.00% |
 | 295 | [Train World](games/t/train_world.md) | 0.00% |
 | 295 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.00% |
