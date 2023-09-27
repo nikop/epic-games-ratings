@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.19% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.17% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -108,8 +108,8 @@
 | 106 | [Sifu](games/s/sifu.md) | 1.80% |
 | 107 | [Frogun](games/f/frogun.md) | 1.79% |
 | 108 | [Somerville](games/s/somerville.md) | 1.71% |
-| 109 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.67% |
-| 110 | [Five Dates](games/f/five_dates.md) | 1.65% |
+| 109 | [Five Dates](games/f/five_dates.md) | 1.65% |
+| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.64% |
 | 111 | [Iron Danger](games/i/iron_danger.md) | 1.51% |
 | 112 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 113 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.43% |
@@ -172,9 +172,9 @@
 | 169 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.45% |
 | 171 | [Tchia](games/t/tchia.md) | 0.44% |
 | 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.43% |
-| 173 | [It Takes Two](games/i/it_takes_two.md) | 0.40% |
-| 173 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 173 | [Train Valley](games/t/train_valley.md) | 0.40% |
+| 173 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 174 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 174 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
 | 177 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 177 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
