@@ -18,8 +18,8 @@ Rating: 4.00 (Ranked 953)
 | The Means to Save It | 29.00% | ~7 |
 | Beggars Would Ride | 29.00% | ~7 |
 | Control is an Illusion | 25.00% | ~6 |
+| Resilience to Sin | 25.00% | ~6 |
 | Socialite | 25.00% | ~6 |
-| Resilience to Sin | 21.00% | ~5 |
 | Armsman | 21.00% | ~5 |
 | A Familiar Nest | 17.00% | ~4 |
 | Geas Aristeya | 17.00% | ~4 |
@@ -54,7 +54,7 @@ Rating: 4.00 (Ranked 953)
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 466)  
-Completed: 0 (0.00%) (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2017-11-16T15:00:00+00:00",
@@ -3404,9 +3404,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 132057,
+  "EOS_Progressed": 132058,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21314,6 +21314,11 @@
       "Time": "2023-09-27T20:04:35.6034915+00:00",
       "NumProgressed": 132057,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-09-27T21:05:01.499248+00:00",
+      "NumProgressed": 132058,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 67,
@@ -21333,7 +21338,7 @@
       "Name": "Anyone Else?",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 51502
+      "UsersEstimate": 51503
     },
     {
       "ID": "TANNENBERG_ACH_ATLEAST_THIS_WAY_I_CAN_WIN",
@@ -21397,7 +21402,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 108287
+      "UsersEstimate": 108288
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -21445,7 +21450,7 @@
       "Name": "Fog of War",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 54143
+      "UsersEstimate": 54144
     },
     {
       "ID": "TANNENBERG_ACH_FORWARD_OBSERVER",
@@ -21493,7 +21498,7 @@
       "Name": "Gavrilo Princip",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 35655
+      "UsersEstimate": 35656
     },
     {
       "ID": "TANNENBERG_ACH_GOTT_MIT_UNS",
@@ -21533,7 +21538,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 117531
+      "UsersEstimate": 117532
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -21605,7 +21610,7 @@
       "Name": "Lucky Shot",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 69990
+      "UsersEstimate": 69991
     },
     {
       "ID": "TANNENBERG_ACH_NA_NOZH",
@@ -21621,7 +21626,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 58105
+      "UsersEstimate": 58106
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -21685,7 +21690,7 @@
       "Name": "Rasputin",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 51502
+      "UsersEstimate": 51503
     },
     {
       "ID": "TANNENBERG_ACH_RING_RING",
@@ -21725,7 +21730,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 79234
+      "UsersEstimate": 79235
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -21733,7 +21738,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 58105
+      "UsersEstimate": 58106
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -21749,7 +21754,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 51502
+      "UsersEstimate": 51503
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -21797,7 +21802,7 @@
       "Name": "This is MY Machine Gun!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 42258
+      "UsersEstimate": 42259
     },
     {
       "ID": "TANNENBERG_ACH_TOGETHER_AS_ONE",
@@ -21829,7 +21834,7 @@
       "Name": "Unlucky",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 93760
+      "UsersEstimate": 93761
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -21837,7 +21842,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 85837
+      "UsersEstimate": 85838
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -21860,15 +21865,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 132057,
+      "Progressed": 132058,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-09-25T13:58:26.2231991+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:04:35.6034908+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:05:01.4992471+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:56:59.8385288+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:58:42.4407251+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:04:35.603803+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:59:07.8484465+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:05:01.4994893+00:00"
 }

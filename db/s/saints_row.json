@@ -6,9 +6,9 @@
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3708,9 +3708,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 72850,
+  "EOS_Progressed": 72851,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1076,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21653,6 +21653,11 @@
       "Time": "2023-09-27T20:04:03.0931327+00:00",
       "NumProgressed": 72850,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-27T21:04:23.8052674+00:00",
+      "NumProgressed": 72851,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 53,
@@ -21672,7 +21677,7 @@
       "Name": "It\u0027s a Bird!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "beat_loyalty_missions",
@@ -21704,7 +21709,7 @@
       "Name": "The Collector",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "collect_low_amount_hero_props",
@@ -21712,7 +21717,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18212
+      "UsersEstimate": 18213
     },
     {
       "ID": "complet_epilogue_mission",
@@ -21728,7 +21733,7 @@
       "Name": "The Professional",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "complete_all_side_hustles",
@@ -21784,7 +21789,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24040
+      "UsersEstimate": 24041
     },
     {
       "ID": "customize_a_weapon",
@@ -21808,7 +21813,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -21824,7 +21829,7 @@
       "Name": "Untouchable",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "do_a_barrel_roll",
@@ -21840,7 +21845,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18212
+      "UsersEstimate": 18213
     },
     {
       "ID": "empire_tier_3",
@@ -21904,7 +21909,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12384
+      "UsersEstimate": 12385
     },
     {
       "ID": "get_fired",
@@ -21928,7 +21933,7 @@
       "Name": "Free Refills",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "kill_each_faction_miniboss",
@@ -21992,7 +21997,7 @@
       "Name": "Smooth Moves",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "quadruple_backflip",
@@ -22056,7 +22061,7 @@
       "Name": "All Mine",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "bfhj_complete_mission_1_collectible",
@@ -22087,13 +22092,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 72850,
+      "Progressed": 72851,
       "Completed": 49
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 44487,
+      "Progressed": 44488,
       "Completed": 3953
     }
   ],
@@ -22101,8 +22106,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-27T18:59:22.3361896+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:04:03.0931321+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:04:23.8052666+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.9460051+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:58:58.5271745+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:04:03.0932929+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:59:27.3701533+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:04:23.805539+00:00"
 }

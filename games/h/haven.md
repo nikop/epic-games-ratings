@@ -16,7 +16,7 @@ Number of Ratings: 38  (23.09.2022)
 | Strike! | 19.00% | ~279 |
 | A love supreme | 18.00% | ~264 |
 | In my shoes | 17.00% | ~249 |
-| Like new! | 14.00% | ~205 |
+| Like new! | 15.00% | ~220 |
 | Heartstrings | 14.00% | ~205 |
 | Head in the clouds | 13.00% | ~191 |
 | Back to rust | 12.00% | ~176 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | À la carte | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,467 (Ranked 214)  
-Completed: 9 (0.61%) (Ranked 149)  
+Completed: 9 (0.61%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

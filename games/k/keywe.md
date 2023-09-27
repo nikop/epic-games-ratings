@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Hired | 97.00% | ~30 |
-| Learn the Ropes | 77.00% | ~24 |
+| Learn the Ropes | 84.00% | ~26 |
 | Working for the Kiweekend | 52.00% | ~16 |
 | Practice Makes Postmasters | 48.00% | ~15 |
 | Fun in the Bungalow Basin Sun | 45.00% | ~14 |
@@ -26,7 +26,7 @@
 | Stocking Up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 455)  
-Completed: 0 (0.00%) (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

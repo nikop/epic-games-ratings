@@ -28,8 +28,8 @@
 | Insatiable | 17.00% | ~1 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 520)  
-Completed: 0 (0.00%) (Ranked 295)  
+Progressed: 6 (Ranked 521)  
+Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -734,7 +734,7 @@
   ],
   "EOS_Progressed": 3240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3666,9 +3666,9 @@
       "ID": "ForTheMachineGod",
       "SetID": "2im8phi",
       "Name": "For the Machine God",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "FrequentWarpSurges",
@@ -4104,8 +4104,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:04:57.9423792+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:05:27.9652197+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:57:41.9901907+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:04:57.9424885+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:57:54.6364133+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:05:27.9653101+00:00"
 }

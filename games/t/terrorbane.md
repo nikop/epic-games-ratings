@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First contact | 100.00% | ~42 |
-| System shocked | 60.00% | ~25 |
-| Exposé | 55.00% | ~23 |
+| System shocked | 62.00% | ~26 |
+| Exposé | 57.00% | ~24 |
 | Blade of prophecy | 43.00% | ~18 |
 | Normal end | 43.00% | ~18 |
 | C Rank Bug-catcher | 40.00% | ~17 |
@@ -31,7 +31,7 @@
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42 (Ranked 435)  
-Completed: 0 (0.00%) (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

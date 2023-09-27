@@ -6,9 +6,9 @@
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40707,
+  "EOS_Progressed": 40714,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18684,6 +18684,11 @@
       "Time": "2023-09-27T20:06:03.256651+00:00",
       "NumProgressed": 40707,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-27T21:06:43.5511965+00:00",
+      "NumProgressed": 40714,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18719,7 +18724,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "distance500000",
@@ -18735,7 +18740,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10991
+      "UsersEstimate": 10993
     },
     {
       "ID": "goals180",
@@ -18775,7 +18780,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "journeyer",
@@ -18807,7 +18812,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "nomad",
@@ -18815,7 +18820,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "novice",
@@ -18823,7 +18828,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6514
     },
     {
       "ID": "playerFelipe",
@@ -18887,7 +18892,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "proximityFly1000",
@@ -18903,7 +18908,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10586
     },
     {
       "ID": "sandboarder",
@@ -18919,7 +18924,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "ultimate",
@@ -18951,7 +18956,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "unlockmaya",
@@ -18959,7 +18964,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6106
+      "UsersEstimate": 6107
     },
     {
       "ID": "unlockpaz",
@@ -18983,7 +18988,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "wanderer",
@@ -19006,15 +19011,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40707,
+      "Progressed": 40714,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:06:03.2566504+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:06:43.5511957+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:58:02.5994536+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:06:03.2569138+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:58:19.3497413+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:06:43.5513414+00:00"
 }

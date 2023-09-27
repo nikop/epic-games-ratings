@@ -6,8 +6,8 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 45,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8122,10 +8122,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44467,
       "NumberOfAwardsMax": 23085
+    },
+    {
+      "Time": "2023-09-27T21:00:56.1978521+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44472,
+      "NumberOfAwardsMax": 23085
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44467,
+  "NumberOfAwards": 44472,
   "NumberOfAwardsMax": 23085,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8169,7 +8175,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1071
+      "Count": 1076
     },
     {
       "Text": "This game is Relaxing",
@@ -8202,9 +8208,9 @@
       "Count": 673
     }
   ],
-  "EOS_Progressed": 297427,
+  "EOS_Progressed": 297430,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25522,6 +25528,11 @@
       "Time": "2023-09-27T20:08:11.5413323+00:00",
       "NumProgressed": 297427,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-27T21:08:10.0520838+00:00",
+      "NumProgressed": 297430,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25653,7 +25664,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35691
+      "UsersEstimate": 35692
     },
     {
       "ID": "PFA_24",
@@ -25757,7 +25768,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26768
+      "UsersEstimate": 26769
     },
     {
       "ID": "PFA_36",
@@ -25813,7 +25824,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14871
+      "UsersEstimate": 14872
     },
     {
       "ID": "PFA_42",
@@ -25885,23 +25896,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26768
+      "UsersEstimate": 26769
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297427,
+      "Progressed": 297430,
       "Completed": 478
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-27T19:00:57.1406061+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:08:11.5413318+00:00",
+  "LastChanged": "2023-09-27T21:00:56.197852+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:08:10.0520831+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:00:10.7765938+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:08:11.5415258+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:00:56.1978527+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:08:10.0522299+00:00"
 }

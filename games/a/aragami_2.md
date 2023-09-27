@@ -6,25 +6,25 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,304 |
-| First Steps | 80.00% | ~34,670 |
-| Control the Shadows | 67.00% | ~29,036 |
-| Tools of the Trade | 63.00% | ~27,303 |
+| Awakening | 93.00% | ~40,305 |
+| First Steps | 80.00% | ~34,671 |
+| Control the Shadows | 67.00% | ~29,037 |
+| Tools of the Trade | 63.00% | ~27,304 |
 | Apprentice | 60.00% | ~26,003 |
 | Secret Seeker | 57.00% | ~24,703 |
 | Forge of Assassins | 55.00% | ~23,836 |
 | Revenant | 52.00% | ~22,536 |
-| I don’t Care! | 45.00% | ~19,502 |
+| I don’t Care! | 45.00% | ~19,503 |
 | Bird of Prey | 37.00% | ~16,035 |
 | Engraved with Power | 32.00% | ~13,868 |
 | Lady | 31.00% | ~13,435 |
-| Fashionable Assassin | 27.00% | ~11,701 |
+| Fashionable Assassin | 27.00% | ~11,702 |
 | Apex Predator | 24.00% | ~10,401 |
-| Soul Reaver | 22.00% | ~9,534 |
+| Soul Reaver | 22.00% | ~9,535 |
 | Embers | 21.00% | ~9,101 |
 | Wall Lizard | 20.00% | ~8,668 |
 | Clinging to Life | 18.00% | ~7,801 |
-| Burning | 17.00% | ~7,367 |
+| Burning | 17.00% | ~7,368 |
 | Look Behind You | 16.00% | ~6,934 |
 | Sleeping on the Job | 16.00% | ~6,934 |
 | Family | 14.00% | ~6,067 |
@@ -33,9 +33,9 @@ Number of Ratings: 88  (23.09.2022)
 | Ruse | 11.00% | ~4,767 |
 | Master Ninja | 11.00% | ~4,767 |
 | Hatching | 10.00% | ~4,334 |
-| Bonds | 9.00% | ~3,900 |
-| Get Over Here | 9.00% | ~3,900 |
-| The Hidden Village | 9.00% | ~3,900 |
+| Bonds | 9.00% | ~3,901 |
+| Get Over Here | 9.00% | ~3,901 |
+| The Hidden Village | 9.00% | ~3,901 |
 | Denouement | 8.00% | ~3,467 |
 | A Pleasant Stay | 8.00% | ~3,467 |
 | Pilgrimage | 7.00% | ~3,034 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~867 |
 | Anger Management | 1.00% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,338 (Ranked 99)  
-Completed: 238 (0.55%) (Ranked 159)  
+Progressed: 43,339 (Ranked 99)  
+Completed: 238 (0.55%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 238 (0.55%) (Ranked 159)
 | 2023-09-24 | 43,319 | 238 |
 | 2023-09-25 | 43,323 | 238 |
 | 2023-09-26 | 43,329 | 238 |
-| 2023-09-27 | 43,338 | 238 |
+| 2023-09-27 | 43,339 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

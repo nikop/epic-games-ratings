@@ -16,10 +16,10 @@ Rating: 4.62 (Ranked 354)
 | Open Sesame | 49.00% | ~328 |
 | Sticky Fingers | 49.00% | ~328 |
 | Knives Out | 49.00% | ~328 |
+| Land, Ho! | 49.00% | ~328 |
 | Lock, Stock, And Barrel | 48.00% | ~321 |
 | Gaze Into The Abyss | 48.00% | ~321 |
 | Back In The Saddle | 48.00% | ~321 |
-| Land, Ho! | 48.00% | ~321 |
 | No Man Is An Island | 48.00% | ~321 |
 | At Wits' End | 47.00% | ~314 |
 | Up In Flames | 45.00% | ~301 |
@@ -35,7 +35,7 @@ Rating: 4.62 (Ranked 354)
 | Reawakened | 5.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 669 (Ranked 250)  
-Completed: 26 (3.89%) (Ranked 63)  
+Completed: 26 (3.89%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

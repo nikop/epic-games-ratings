@@ -12501,10 +12501,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 230060,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-27T20:57:34.7448654+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 230297,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230060,
+  "NumberOfAwards": 230297,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12560,7 +12566,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10085
+      "Count": 10322
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12581,9 +12587,9 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883395,
+  "EOS_Progressed": 883432,
   "EOS_Completed": 2441,
-  "EOS_NewPlayers": 6005,
+  "EOS_NewPlayers": 6027,
   "EOS_NewCompleters": 317,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30586,6 +30592,11 @@
       "Time": "2023-09-27T20:05:41.6098873+00:00",
       "NumProgressed": 883395,
       "NumCompleted": 2441
+    },
+    {
+      "Time": "2023-09-27T21:06:18.4734274+00:00",
+      "NumProgressed": 883432,
+      "NumCompleted": 2441
     }
   ],
   "TotalAchievements": 57,
@@ -30771,17 +30782,17 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 6184
     },
     {
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8834
+      "UsersEstimate": 17669
     },
     {
       "ID": "Temperance",
@@ -30789,7 +30800,7 @@
       "Name": "Temperance",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30797,7 +30808,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17668
+      "UsersEstimate": 17669
     },
     {
       "ID": "TheDevil",
@@ -30821,7 +30832,7 @@
       "Name": "The Hermit",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "TheHightPriestess",
@@ -30861,7 +30872,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "TheWorld",
@@ -30901,7 +30912,7 @@
       "Name": "True Warrior",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -30915,9 +30926,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2650
+      "UsersEstimate": 3534
     },
     {
       "ID": "VForVendetta",
@@ -31052,21 +31063,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883395,
+      "Progressed": 883432,
       "Completed": 2441
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12018,
+      "Progressed": 12055,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-27T18:57:23.1400393+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:05:41.6098865+00:00",
+  "LastChanged": "2023-09-27T20:57:34.7448653+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:06:18.4734267+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:57:25.5347154+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:05:41.6100839+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:57:34.7448661+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:06:18.4737118+00:00"
 }

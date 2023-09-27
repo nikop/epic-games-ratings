@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 69982,
+  "EOS_Progressed": 69983,
   "EOS_Completed": 367,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -17859,6 +17859,11 @@
       "Time": "2023-09-27T20:04:50.6213869+00:00",
       "NumProgressed": 69982,
       "NumCompleted": 367
+    },
+    {
+      "Time": "2023-09-27T21:05:19.3248698+00:00",
+      "NumProgressed": 69983,
+      "NumCompleted": 367
     }
   ],
   "TotalAchievements": 24,
@@ -17902,7 +17907,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18195
+      "UsersEstimate": 18196
     },
     {
       "ID": "ERADICATE",
@@ -17950,7 +17955,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37090
+      "UsersEstimate": 37091
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -18061,7 +18066,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 69982,
+      "Progressed": 69983,
       "Completed": 367
     }
   ],
@@ -18069,8 +18074,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:04:50.6213864+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:05:19.3248689+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:22.181135+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:57:58.3708509+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:04:50.6215656+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:58:14.3267271+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:05:19.3249995+00:00"
 }

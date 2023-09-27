@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7485,9 +7485,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62179,
+  "EOS_Progressed": 62180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24495,6 +24495,11 @@
       "Time": "2023-09-27T20:04:55.2928917+00:00",
       "NumProgressed": 62179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T21:05:24.9512321+00:00",
+      "NumProgressed": 62180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24506,7 +24511,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7461
+      "UsersEstimate": 7462
     },
     {
       "ID": "Apple of my eye",
@@ -24698,7 +24703,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10570
+      "UsersEstimate": 10571
     },
     {
       "ID": "Kingslayer",
@@ -24866,7 +24871,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7461
+      "UsersEstimate": 7462
     },
     {
       "ID": "This is Sparta",
@@ -24913,15 +24918,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62179,
+      "Progressed": 62180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-27T15:57:13.5600774+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:04:55.2928913+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:05:24.9512313+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:57:12.5962858+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:04:55.293041+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:57:19.5251937+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:05:24.9514948+00:00"
 }

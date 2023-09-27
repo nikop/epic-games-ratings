@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~178 |
 | Fulfilled the dream | 6.00% | ~178 |
 | G'Day Mate! | 6.00% | ~178 |
+| NAHELL! | 6.00% | ~178 |
 | Purple passion | 6.00% | ~178 |
 | Squad goals | 6.00% | ~178 |
 | Sup widdit big dog! | 6.00% | ~178 |
@@ -33,7 +34,6 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~148 |
 | Laid back | 5.00% | ~148 |
 | Lines for days | 5.00% | ~148 |
-| NAHELL! | 5.00% | ~148 |
 | Renaissance man | 5.00% | ~148 |
 | Trick shot marksman | 5.00% | ~148 |
 | Cops called! | 4.00% | ~119 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,965 (Ranked 186)  
-Completed: 0 (0.00%) (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

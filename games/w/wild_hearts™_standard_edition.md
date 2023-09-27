@@ -32,11 +32,11 @@
 | Reincarnation Cycle Stopper | 35.00% | ~24 |
 | Team Hunter | 34.00% | ~23 |
 | Artful Assister | 31.00% | ~21 |
+| Unrivaled in Arms | 29.00% | ~20 |
 | Karakuri Isle | 28.00% | ~19 |
 | Left Arm Leverager | 28.00% | ~19 |
 | Style Seeker | 28.00% | ~19 |
 | Human Believer | 28.00% | ~19 |
-| Unrivaled in Arms | 28.00% | ~19 |
 | Threaded Harmony | 28.00% | ~19 |
 | Karakuri Minato | 28.00% | ~19 |
 | Jack of All Trades | 26.00% | ~18 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 403)  
-Completed: 1 (1.47%) (Ranked 112)  
+Completed: 1 (1.47%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

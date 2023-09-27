@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 120)
 | The Sort Who Makes an Entrance | 15.00% | ~44,614 |
 | First Class Student | 13.00% | ~38,666 |
 | Troll with the Punches | 13.00% | ~38,666 |
-| A Keen Sense of Spell | 12.00% | ~35,691 |
+| A Keen Sense of Spell | 12.00% | ~35,692 |
 | A Talent for Spending | 11.00% | ~32,717 |
 | That's a Keeper | 11.00% | ~32,717 |
 | Grappling with a Graphorn | 10.00% | ~29,743 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 120)
 | Challenge Accepted | 10.00% | ~29,743 |
 | Loom for Improvement | 10.00% | ~29,743 |
 | Coasting Along | 10.00% | ~29,743 |
-| Followed the Butterflies | 9.00% | ~26,768 |
-| Rising From the Ashes | 9.00% | ~26,768 |
+| Followed the Butterflies | 9.00% | ~26,769 |
+| Rising From the Ashes | 9.00% | ~26,769 |
 | The Avenging Gazelle | 8.00% | ~23,794 |
 | A Sallow Grave | 8.00% | ~23,794 |
 | Flight the Good Flight | 8.00% | ~23,794 |
@@ -30,7 +30,7 @@ Rating: 4.76 (Ranked 120)
 | The Root of the Problem | 6.00% | ~17,846 |
 | Third Time's a Charm | 6.00% | ~17,846 |
 | Raising Expectations | 6.00% | ~17,846 |
-| The Ends Petrify the Means | 5.00% | ~14,871 |
+| The Ends Petrify the Means | 5.00% | ~14,872 |
 | The Toast of the Town | 4.00% | ~11,897 |
 | Going Through the Potions | 4.00% | ~11,897 |
 | Room with a View | 4.00% | ~11,897 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,427 (Ranked 45)  
-Completed: 478 (0.16%) (Ranked 217)  
+Progressed: 297,430 (Ranked 45)  
+Completed: 478 (0.16%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,10 +211,10 @@ Completed: 478 (0.16%) (Ranked 217)
 | 2023-09-24 | 297,283 | 477 |
 | 2023-09-25 | 297,339 | 477 |
 | 2023-09-26 | 297,390 | 477 |
-| 2023-09-27 | 297,427 | 478 |
+| 2023-09-27 | 297,430 | 478 |
 ## Awards
 Max (Character Customization): 23,085  (Ranked 17)  
-Sum: 44,467 (Ranked 30)  
+Sum: 44,472 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -222,7 +222,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 11,415 |
 | This game is Great for Beginners | 1,112 |
 | This game has Amazing Storytelling | 1,080 |
-| This game has Diverse Characters | 1,071 |
+| This game has Diverse Characters | 1,076 |
 | This game is Relaxing | 1,067 |
 | This game is Extremely Fun | 1,060 |
 | This game has Amazing Characters | 1,028 |
@@ -420,4 +420,4 @@ Diff (max vs sum): -13
 | 2023-09-24 | 4.76 | 22,986 | 44,172 |
 | 2023-09-25 | 4.76 | 23,029 | 44,298 |
 | 2023-09-26 | 4.76 | 23,061 | 44,391 |
-| 2023-09-27 | 4.76 | 23,085 | 44,467 |
+| 2023-09-27 | 4.76 | 23,085 | 44,472 |

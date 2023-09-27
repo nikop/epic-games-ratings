@@ -25,9 +25,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,233 |
 | Prisoners | 5.00% | ~10,233 |
 | Too Early | 5.00% | ~10,233 |
-| Gear up | 4.00% | ~8,186 |
-| Happy little accidents | 4.00% | ~8,186 |
-| Still Rollin' | 4.00% | ~8,186 |
+| Gear up | 4.00% | ~8,187 |
+| Happy little accidents | 4.00% | ~8,187 |
+| Still Rollin' | 4.00% | ~8,187 |
 | Noboru | 3.00% | ~6,140 |
 | Stoned | 3.00% | ~6,140 |
 | The Old Way | 3.00% | ~6,140 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,661 (Ranked 62)  
-Completed: 86 (0.04%) (Ranked 260)  
+Progressed: 204,664 (Ranked 62)  
+Completed: 86 (0.04%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 86 (0.04%) (Ranked 260)
 | 2023-09-24 | 204,189 | 86 |
 | 2023-09-25 | 204,356 | 86 |
 | 2023-09-26 | 204,537 | 86 |
-| 2023-09-27 | 204,661 | 86 |
+| 2023-09-27 | 204,664 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,775 (Ranked 136)  

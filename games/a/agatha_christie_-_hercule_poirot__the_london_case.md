@@ -12,9 +12,9 @@
 | The Gala | 50.00% | ~7 |
 | A curious gathering | 50.00% | ~7 |
 | Little grey cells | 43.00% | ~6 |
-| Impossible is possible | 36.00% | ~5 |
+| Impossible is possible | 43.00% | ~6 |
+| Arthur Hastings | 43.00% | ~6 |
 | The Missing Magdalene | 36.00% | ~5 |
-| Arthur Hastings | 36.00% | ~5 |
 | Everything matters | 29.00% | ~4 |
 | Order and method | 29.00% | ~4 |
 | An expert mediator | 21.00% | ~3 |
@@ -52,7 +52,7 @@
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 489)  
-Completed: 0 (0.00%) (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

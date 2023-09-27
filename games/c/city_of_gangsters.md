@@ -5,15 +5,15 @@ Rating: 4.27 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,809 |
+| Corner Clout | 46.00% | ~158,810 |
 | Copacetic Coordination | 16.00% | ~55,238 |
 | Fronting the Money | 15.00% | ~51,786 |
 | The Dawn of Automation | 14.00% | ~48,333 |
 | Extraordinary Logistics | 14.00% | ~48,333 |
 | Dirty Money | 13.00% | ~44,881 |
 | Family First | 13.00% | ~44,881 |
-| Cleaning House | 12.00% | ~41,428 |
-| Room in the Back | 12.00% | ~41,428 |
+| Cleaning House | 12.00% | ~41,429 |
+| Room in the Back | 12.00% | ~41,429 |
 | Beating the Heat | 11.00% | ~37,976 |
 | Booze Baron | 11.00% | ~37,976 |
 | Friends on the Force | 10.00% | ~34,524 |
@@ -36,11 +36,11 @@ Rating: 4.27 (Ranked 825)
 | Opportunity Knocked | 5.00% | ~17,262 |
 | City of Big Shoulders | 5.00% | ~17,262 |
 | Mission Mastery | 5.00% | ~17,262 |
-| Considerable Clams | 4.00% | ~13,809 |
-| Gin Joint | 4.00% | ~13,809 |
-| An Affront to the Enemy | 4.00% | ~13,809 |
-| Friends from Back Home | 4.00% | ~13,809 |
-| Half Century Mark | 4.00% | ~13,809 |
+| Considerable Clams | 4.00% | ~13,810 |
+| Gin Joint | 4.00% | ~13,810 |
+| An Affront to the Enemy | 4.00% | ~13,810 |
+| Friends from Back Home | 4.00% | ~13,810 |
+| Half Century Mark | 4.00% | ~13,810 |
 | Corner Opportunities | 3.00% | ~10,357 |
 | 2122 North Clark Street | 3.00% | ~10,357 |
 | Copious Cabbage | 3.00% | ~10,357 |
@@ -86,8 +86,8 @@ Rating: 4.27 (Ranked 825)
 | High Pillow | 0.10% | ~345 |
 | Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,237 (Ranked 43)  
-Completed: 7 (0.00%) (Ranked 295)  
+Progressed: 345,239 (Ranked 43)  
+Completed: 7 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,7 +246,7 @@ Completed: 7 (0.00%) (Ranked 295)
 | 2023-09-24 | 344,858 | 7 |
 | 2023-09-25 | 345,000 | 7 |
 | 2023-09-26 | 345,148 | 7 |
-| 2023-09-27 | 345,237 | 7 |
+| 2023-09-27 | 345,239 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 444)  
 Sum: 197 (Ranked 380)  

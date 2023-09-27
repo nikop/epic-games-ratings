@@ -2,10 +2,10 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -467,6 +467,11 @@
       "Time": "2023-09-27T19:03:54.9610259+00:00",
       "NumProgressed": 250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T21:04:16.5344795+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -487,7 +492,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_eou2",
@@ -495,7 +500,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_eou3",
@@ -503,7 +508,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_eou4",
@@ -559,7 +564,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_rogue",
@@ -567,7 +572,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_xatrix",
@@ -582,14 +587,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-27T20:03:56.8622655+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:04:16.5344787+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:59:07.9375705+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:03:56.8622837+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:59:39.0535813+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:04:16.5344947+00:00"
 }

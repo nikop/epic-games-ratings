@@ -6,9 +6,9 @@
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 49,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1006,9 +1006,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256707,
+  "EOS_Progressed": 256711,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17076,6 +17076,11 @@
       "Time": "2023-09-27T19:07:32.7083357+00:00",
       "NumProgressed": 256707,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-27T21:03:16.2084345+00:00",
+      "NumProgressed": 256711,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17087,7 +17092,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17969
+      "UsersEstimate": 17970
     },
     {
       "ID": "Act2",
@@ -17135,7 +17140,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79579
+      "UsersEstimate": 79580
     },
     {
       "ID": "BackHomeNTimes",
@@ -17143,7 +17148,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12835
+      "UsersEstimate": 12836
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -17215,7 +17220,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12835
+      "UsersEstimate": 12836
     },
     {
       "ID": "CreedsInBank2",
@@ -17287,7 +17292,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15402
+      "UsersEstimate": 15403
     },
     {
       "ID": "GrowPlants2",
@@ -17343,7 +17348,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15402
+      "UsersEstimate": 15403
     },
     {
       "ID": "KillOtherWithKatana",
@@ -17534,7 +17539,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256707,
+      "Progressed": 256711,
       "Completed": 3
     }
   ],
@@ -17542,8 +17547,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-25T11:59:20.3104585+00:00",
-  "LastChanged_Achievements": "2023-09-27T19:07:32.7083351+00:00",
+  "LastChanged_Achievements": "2023-09-27T21:03:16.2084336+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:10.9543216+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:59:17.1438593+00:00",
-  "LastUpdate_Achievements": "2023-09-27T19:07:32.7084974+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:59:49.840351+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:03:16.2086053+00:00"
 }

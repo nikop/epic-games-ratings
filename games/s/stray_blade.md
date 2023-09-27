@@ -10,7 +10,7 @@
 | Apprentice | 38.00% | ~33 |
 | A new World ahead | 32.00% | ~28 |
 | Can't touch this | 28.00% | ~24 |
-| Don't Cry Wolf | 25.00% | ~22 |
+| Don't Cry Wolf | 26.00% | ~23 |
 | Freezing Cold | 20.00% | ~17 |
 | Expert | 17.00% | ~15 |
 | Searing Heat | 15.00% | ~13 |
@@ -52,7 +52,7 @@
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

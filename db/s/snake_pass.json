@@ -3,9 +3,9 @@
   "Name": "Snake Pass",
   "ProductSlug": "snake-pass-52e630",
   "Ranking_EOS_Progress": 640,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-01-12T15:00:00+00:00",
     "PcReleaseDate": "2022-01-12T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:58.6294757+00:00",
   "LastChanged": "2023-03-31T05:57:58.6294758+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.0526692+00:00",
-  "LastUpdate_Ratings": "2023-09-27T19:57:32.3852256+00:00",
-  "LastUpdate_Achievements": "2023-09-27T20:04:14.3354502+00:00"
+  "LastUpdate_Ratings": "2023-09-27T20:57:43.1688129+00:00",
+  "LastUpdate_Achievements": "2023-09-27T21:04:36.8510753+00:00"
 }

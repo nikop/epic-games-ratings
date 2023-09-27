@@ -5,10 +5,10 @@ Rating: 4.03 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,837 |
-| World Map | 79.00% | ~1,560 |
+| Victor | 93.00% | ~1,838 |
+| World Map | 79.00% | ~1,561 |
 | Temple of Eternals | 57.00% | ~1,126 |
-| Prestigious | 54.00% | ~1,066 |
+| Prestigious | 54.00% | ~1,067 |
 | Fellowship Power | 41.00% | ~810 |
 | Guild Power | 26.00% | ~514 |
 | Prestigious x10 | 23.00% | ~454 |
@@ -22,11 +22,11 @@ Rating: 4.03 (Ranked 949)
 | Enlightenment | 16.00% | ~316 |
 | Hero inspection | 15.00% | ~296 |
 | Lieutenant | 15.00% | ~296 |
-| Milestone collector | 14.00% | ~276 |
-| Mysterious Rock | 14.00% | ~276 |
-| Natural Talent | 14.00% | ~276 |
-| Superior | 14.00% | ~276 |
-| The Unstoppable | 14.00% | ~276 |
+| Milestone collector | 14.00% | ~277 |
+| Mysterious Rock | 14.00% | ~277 |
+| Natural Talent | 14.00% | ~277 |
+| Superior | 14.00% | ~277 |
+| The Unstoppable | 14.00% | ~277 |
 | Scientist | 12.00% | ~237 |
 | Challenger | 11.00% | ~217 |
 | Daily Quest Completionist | 11.00% | ~217 |
@@ -53,11 +53,11 @@ Rating: 4.03 (Ranked 949)
 | Lock And Load | 7.00% | ~138 |
 | Missions Dedication | 7.00% | ~138 |
 | Sailor | 7.00% | ~138 |
-| Active Member | 6.00% | ~118 |
-| Ancient Knowledge | 6.00% | ~118 |
-| How Do You Turn This On? | 6.00% | ~118 |
-| Legendary | 6.00% | ~118 |
-| The Alchemist | 6.00% | ~118 |
+| Active Member | 6.00% | ~119 |
+| Ancient Knowledge | 6.00% | ~119 |
+| How Do You Turn This On? | 6.00% | ~119 |
+| Legendary | 6.00% | ~119 |
+| The Alchemist | 6.00% | ~119 |
 | Arena Challenger | 5.00% | ~99 |
 | Background Story | 5.00% | ~99 |
 | Ebony Jungle Liberator | 5.00% | ~99 |
@@ -81,8 +81,8 @@ Rating: 4.03 (Ranked 949)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,975 (Ranked 198)  
-Completed: 2 (0.10%) (Ranked 234)  
+Progressed: 1,976 (Ranked 198)  
+Completed: 2 (0.10%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,7 +239,7 @@ Completed: 2 (0.10%) (Ranked 234)
 | 2023-09-24 | 1,969 | 2 |
 | 2023-09-25 | 1,970 | 2 |
 | 2023-09-26 | 1,973 | 2 |
-| 2023-09-27 | 1,975 | 2 |
+| 2023-09-27 | 1,976 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 22  (Ranked 506)  
 Sum: 44 (Ranked 465)  
