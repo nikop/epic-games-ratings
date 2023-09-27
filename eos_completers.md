@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.04% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.01% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -16,9 +16,9 @@
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 17 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 16.67% |
-| 18 | [Island Cities](games/i/island_cities.md) | 16.06% |
-| 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
+| 17 | [Island Cities](games/i/island_cities.md) | 16.06% |
+| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
+| 19 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 14.29% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
 | 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.28% |
@@ -169,10 +169,10 @@
 | 166 | [Godlike Burger](games/g/godlike_burger.md) | 0.46% |
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 169 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
-| 169 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.45% |
-| 171 | [Tchia](games/t/tchia.md) | 0.44% |
-| 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.42% |
-| 173 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
+| 170 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.44% |
+| 170 | [Tchia](games/t/tchia.md) | 0.44% |
+| 172 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
+| 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.41% |
 | 174 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 174 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
@@ -222,9 +222,9 @@
 | 217 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 221 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 222 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 222 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.14% |
-| 224 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 224 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
+| 223 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 223 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
+| 223 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.13% |
 | 226 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 226 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 226 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
