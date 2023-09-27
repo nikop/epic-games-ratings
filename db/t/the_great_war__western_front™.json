@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 475,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2120,6 +2120,11 @@
       "Time": "2023-09-25T23:07:16.143881+00:00",
       "NumProgressed": 473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T14:10:12.1288632+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2195,7 +2200,7 @@
       "Name": "Earth Shattering",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2211,7 +2216,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2226,7 +2231,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 475,
       "Completed": 0
     }
   ],
@@ -2234,8 +2239,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-09-26T20:04:16.7782682+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:16:48.7875664+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:10:12.1288625+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.662019+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:10:47.3436798+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:16:48.7876008+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:04:08.5947535+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:10:12.1288903+00:00"
 }

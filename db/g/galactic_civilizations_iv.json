@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6701,
+  "EOS_Progressed": 6703,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6452,6 +6452,11 @@
       "Time": "2023-09-27T00:06:41.8007741+00:00",
       "NumProgressed": 6701,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T14:08:25.4037539+00:00",
+      "NumProgressed": 6703,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6495,7 +6500,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -6503,7 +6508,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "Control_All_Relics",
@@ -6527,7 +6532,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -6543,7 +6548,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "First_Major_Ally",
@@ -6567,7 +6572,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "First_Race_Met",
@@ -6575,7 +6580,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4893
     },
     {
       "ID": "First_Ship_Designed",
@@ -6583,7 +6588,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "First_Stream_Travel",
@@ -6599,7 +6604,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6679,7 +6684,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "Play_1000_Hours",
@@ -6767,7 +6772,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6783,7 +6788,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6951,7 +6956,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7038,15 +7043,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6701,
+      "Progressed": 6703,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:14:52.8221333+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:08:25.4037535+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.9419907+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:10:00.9245284+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:14:52.8223402+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:03:30.1551964+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:08:25.4038554+00:00"
 }

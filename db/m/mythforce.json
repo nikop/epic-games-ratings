@@ -701,7 +701,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3258,
+  "EOS_Progressed": 3262,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 1,
@@ -5796,6 +5796,11 @@
       "Time": "2023-09-27T13:14:29.8330868+00:00",
       "NumProgressed": 3258,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T14:07:47.6549139+00:00",
+      "NumProgressed": 3262,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5808,7 +5813,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -5856,7 +5861,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -5872,7 +5877,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -5920,7 +5925,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -5928,7 +5933,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -5944,7 +5949,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5991,15 +5996,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3258,
+      "Progressed": 3262,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:14:29.8330863+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:07:47.6549133+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:03:54.1442553+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:14:29.8331768+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:57:53.5896051+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:07:47.6550089+00:00"
 }

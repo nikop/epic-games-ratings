@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 372)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 8.00% | ~415 |
+| Secret Technique | 8.00% | ~416 |
 | Realm Estate | 7.00% | ~364 |
 | A Wonderful Discovery | 7.00% | ~364 |
 | Walls Cannot Stop Us | 7.00% | ~364 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 372)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,193 (Ranked 164)  
+Progressed: 5,194 (Ranked 165)  
 Completed: 6 (0.12%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 6 (0.12%) (Ranked 226)
 | 2023-09-23 | 5,189 | 6 |
 | 2023-09-24 | 5,190 | 6 |
 | 2023-09-25 | 5,192 | 6 |
-| 2023-09-27 | 5,193 | 6 |
+| 2023-09-27 | 5,194 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 492)  
 Sum: 25 (Ranked 499)  

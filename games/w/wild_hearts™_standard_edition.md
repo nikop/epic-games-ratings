@@ -10,7 +10,7 @@
 | Commencing of Quests | 78.00% | ~49 |
 | Charmed by the Hunt | 70.00% | ~44 |
 | Mountain Splitter | 68.00% | ~43 |
-| Man-Machine Master | 65.00% | ~41 |
+| Man-Machine Master | 67.00% | ~42 |
 | Fusion Conjuror | 63.00% | ~40 |
 | Memory Rouser | 63.00% | ~40 |
 | Subsistence Skills | 60.00% | ~38 |
@@ -19,8 +19,8 @@
 | Helpful Heart | 57.00% | ~36 |
 | Distance Devourer | 56.00% | ~35 |
 | Expert Conjuror | 54.00% | ~34 |
-| Flawless Crystal | 49.00% | ~31 |
-| Bonds of Enmity | 49.00% | ~31 |
+| Flawless Crystal | 51.00% | ~32 |
+| Bonds of Enmity | 51.00% | ~32 |
 | Axer of Auspice | 46.00% | ~29 |
 | Counter Specialist | 44.00% | ~28 |
 | Karakuri Trail | 40.00% | ~25 |

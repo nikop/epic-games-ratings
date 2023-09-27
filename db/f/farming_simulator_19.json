@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-07-20T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9018,10 +9018,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 51234,
       "NumberOfAwardsMax": 7349
+    },
+    {
+      "Time": "2023-09-27T13:57:59.3847511+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 51244,
+      "NumberOfAwardsMax": 7349
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51234,
+  "NumberOfAwards": 51244,
   "NumberOfAwardsMax": 7349,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9041,7 +9047,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6045
+      "Count": 6049
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9059,7 +9065,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5467
+      "Count": 5469
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9083,7 +9089,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 4275
+      "Count": 4279
     },
     {
       "Text": "This game has Easy Combat",
@@ -9103,8 +9109,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2023-09-26T21:57:54.0932695+00:00",
+  "LastChanged": "2023-09-27T13:57:59.3847509+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0384975+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:03:59.5848906+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:12:04.6993084+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:57:59.3847516+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:05:25.0416405+00:00"
 }

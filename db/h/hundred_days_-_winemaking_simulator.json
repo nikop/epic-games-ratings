@@ -5,9 +5,9 @@
   "Ranking_Rating": 765,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 218,
-  "Ranking_EOS_Progress": 162,
+  "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5201,
+  "EOS_Progressed": 5211,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4335,6 +4335,11 @@
       "Time": "2023-09-27T13:12:07.0772637+00:00",
       "NumProgressed": 5201,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-27T14:05:27.5584479+00:00",
+      "NumProgressed": 5211,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4347,7 +4352,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "a_10",
@@ -4377,9 +4382,9 @@
       "ID": "a_15",
       "SetID": "daiie3o",
       "Name": "Big Money",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 104
     },
     {
       "ID": "a_16",
@@ -4395,7 +4400,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1928
     },
     {
       "ID": "a_19",
@@ -4403,7 +4408,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "a_2",
@@ -4411,7 +4416,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "a_20",
@@ -4419,7 +4424,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "a_21",
@@ -4427,7 +4432,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "a_22",
@@ -4443,7 +4448,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "a_25",
@@ -4505,9 +4510,9 @@
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "a_33",
@@ -4529,9 +4534,9 @@
       "ID": "a_35",
       "SetID": "daiie3o",
       "Name": "Welcome to the club",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 104
+      "UsersEstimate": 52
     },
     {
       "ID": "a_36",
@@ -4594,7 +4599,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5201,
+      "Progressed": 5211,
       "Completed": 7
     }
   ],
@@ -4602,8 +4607,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:12:07.077263+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:05:27.5584472+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:10:21.486696+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:12:07.0773389+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:03:46.6864007+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:05:27.5585326+00:00"
 }

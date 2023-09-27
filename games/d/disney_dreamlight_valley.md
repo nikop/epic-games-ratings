@@ -23,7 +23,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Chit Chatter | 3.00% | ~309 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,292 (Ranked 138)  
-Completed: 236 (2.29%) (Ranked 94)  
+Completed: 237 (2.30%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,7 +133,7 @@ Completed: 236 (2.29%) (Ranked 94)
 | 2023-09-24 | 10,176 | 233 |
 | 2023-09-25 | 10,234 | 234 |
 | 2023-09-26 | 10,280 | 236 |
-| 2023-09-27 | 10,292 | 236 |
+| 2023-09-27 | 10,292 | 237 |
 ## Awards
 Max (Great for Beginners): 969  (Ranked 149)  
 Sum: 7,606 (Ranked 106)  

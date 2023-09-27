@@ -29,30 +29,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 4.00% | ~566 |
 | Naming Landmarks | 4.00% | ~566 |
 | Trade Caravan | 4.00% | ~566 |
-| Ambitious | 3.00% | ~424 |
-| Brilliant | 3.00% | ~424 |
-| Fountainhead | 3.00% | ~424 |
-| Great | 3.00% | ~424 |
-| Magnificent | 3.00% | ~424 |
-| Warrior | 3.00% | ~424 |
-| Wise | 3.00% | ~424 |
-| Developing Cities | 3.00% | ~424 |
-| Strong Cities | 3.00% | ~424 |
-| Able Difficulty | 3.00% | ~424 |
-| Furious Family | 3.00% | ~424 |
-| Great Ziggurat | 3.00% | ~424 |
-| Ishtar Gate | 3.00% | ~424 |
-| Lighthouse | 3.00% | ~424 |
-| Pyramids | 3.00% | ~424 |
-| Learn to Play 1 | 3.00% | ~424 |
-| Christianity | 3.00% | ~424 |
-| Babylonian Paganism | 3.00% | ~424 |
-| Carthaginian Paganism | 3.00% | ~424 |
-| Egyptian Paganism | 3.00% | ~424 |
-| Greek Paganism | 3.00% | ~424 |
-| Roman Paganism | 3.00% | ~424 |
-| Zoroastrianism | 3.00% | ~424 |
-| The Great Mage | 3.00% | ~424 |
+| Ambitious | 3.00% | ~425 |
+| Brilliant | 3.00% | ~425 |
+| Fountainhead | 3.00% | ~425 |
+| Great | 3.00% | ~425 |
+| Magnificent | 3.00% | ~425 |
+| Warrior | 3.00% | ~425 |
+| Wise | 3.00% | ~425 |
+| Developing Cities | 3.00% | ~425 |
+| Strong Cities | 3.00% | ~425 |
+| Able Difficulty | 3.00% | ~425 |
+| Furious Family | 3.00% | ~425 |
+| Great Ziggurat | 3.00% | ~425 |
+| Ishtar Gate | 3.00% | ~425 |
+| Lighthouse | 3.00% | ~425 |
+| Pyramids | 3.00% | ~425 |
+| Learn to Play 1 | 3.00% | ~425 |
+| Christianity | 3.00% | ~425 |
+| Manichaeism | 3.00% | ~425 |
+| Babylonian Paganism | 3.00% | ~425 |
+| Carthaginian Paganism | 3.00% | ~425 |
+| Egyptian Paganism | 3.00% | ~425 |
+| Greek Paganism | 3.00% | ~425 |
+| Roman Paganism | 3.00% | ~425 |
+| Zoroastrianism | 3.00% | ~425 |
+| The Great Mage | 3.00% | ~425 |
 | Regicide | 2.00% | ~283 |
 | Hanging Gardens in Babylon | 2.00% | ~283 |
 | Beloved | 2.00% | ~283 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 2.00% | ~283 |
 | Learn to Play 2 | 2.00% | ~283 |
 | Greece | 2.00% | ~283 |
-| Manichaeism | 2.00% | ~283 |
 | Persian Paganism | 2.00% | ~283 |
 | Building Wonders | 2.00% | ~283 |
 | Mythology | 2.00% | ~283 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,150 (Ranked 130)  
+Progressed: 14,151 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 5 (0.04%) (Ranked 260)
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
-| 2023-09-27 | 14,150 | 5 |
+| 2023-09-27 | 14,151 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,820 (Ranked 207)  

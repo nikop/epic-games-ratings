@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3674,
+  "EOS_Progressed": 3675,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6939,6 +6939,11 @@
       "Time": "2023-09-27T07:08:36.642784+00:00",
       "NumProgressed": 3674,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-27T14:06:04.5390741+00:00",
+      "NumProgressed": 3675,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6972,9 +6977,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 478
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7068,9 +7073,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 625
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7118,7 +7123,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7126,7 +7131,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -7150,7 +7155,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7158,7 +7163,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7174,7 +7179,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7246,7 +7251,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -7262,7 +7267,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7294,7 +7299,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -7342,7 +7347,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7366,7 +7371,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -7374,7 +7379,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -7382,7 +7387,7 @@
       "Name": "Reich To The Point",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -7398,7 +7403,7 @@
       "Name": "Covert Elimination",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -7494,7 +7499,7 @@
       "Name": "Shipbreaker",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -7502,7 +7507,7 @@
       "Name": "Sink or Swim",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -7517,13 +7522,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3625,
+      "Progressed": 3626,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3674,
+      "Progressed": 3675,
       "Completed": 11
     }
   ],
@@ -7531,8 +7536,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:12:44.7963343+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:06:04.5390736+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:08:48.9183023+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:12:44.7964489+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:02:31.6225086+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:04.5391852+00:00"
 }

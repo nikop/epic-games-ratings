@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468054,
+  "EOS_Progressed": 468057,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17350,6 +17350,11 @@
       "Time": "2023-09-27T13:14:36.7360448+00:00",
       "NumProgressed": 468054,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-27T14:08:05.956384+00:00",
+      "NumProgressed": 468057,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -17361,7 +17366,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70208
+      "UsersEstimate": 70209
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -17369,7 +17374,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70208
+      "UsersEstimate": 70209
     },
     {
       "ID": "achievement_first_death",
@@ -17377,7 +17382,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112333
+      "UsersEstimate": 112334
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -17385,7 +17390,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102972
+      "UsersEstimate": 102973
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -17393,7 +17398,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70208
+      "UsersEstimate": 70209
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -17401,7 +17406,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46805
+      "UsersEstimate": 46806
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -17409,7 +17414,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37444
+      "UsersEstimate": 37445
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -17449,7 +17454,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308916
+      "UsersEstimate": 308918
     },
     {
       "ID": "achievement_story_landa",
@@ -17473,7 +17478,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37444
+      "UsersEstimate": 37445
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -17521,7 +17526,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37444
+      "UsersEstimate": 37445
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -17529,7 +17534,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70208
+      "UsersEstimate": 70209
     },
     {
       "ID": "achievement_story_neon_child",
@@ -17545,7 +17550,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159138
+      "UsersEstimate": 159139
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17553,7 +17558,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37444
+      "UsersEstimate": 37445
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -17769,7 +17774,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -17785,7 +17790,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205944
+      "UsersEstimate": 205945
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -17793,7 +17798,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140416
+      "UsersEstimate": 140417
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -17817,7 +17822,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182541
+      "UsersEstimate": 182542
     },
     {
       "ID": "achievement_win_run_hard",
@@ -17865,7 +17870,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37444
+      "UsersEstimate": 37445
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -17873,7 +17878,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102972
+      "UsersEstimate": 102973
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -17992,21 +17997,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11988,
+      "Progressed": 11991,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468054,
+      "Progressed": 468057,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:14:36.7360444+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:08:05.9563833+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:04:29.0806754+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:14:36.7362855+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:58:28.0318395+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:08:05.9566269+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": null,
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -164,17 +164,17 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": -12.9,
+      "Percentage": -6.5,
       "XP": 15,
-      "UsersEstimate": -4
+      "UsersEstimate": -2
     },
     {
       "ID": "ACH_05",
@@ -244,9 +244,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": -6.5,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_14",
@@ -268,9 +268,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_17",
@@ -340,9 +340,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_26",
@@ -388,17 +388,17 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": -9.7,
+      "Percentage": -6.5,
       "XP": 20,
-      "UsersEstimate": -3
+      "UsersEstimate": -2
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": -9.7,
+      "Percentage": -3.2,
       "XP": 40,
-      "UsersEstimate": -3
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_34",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:13:27.2959999+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:07:42.1500405+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:13:27.2960396+00:00"
+  "LastChanged_Achievements": "2023-09-27T14:06:46.1350305+00:00",
+  "LastUpdate_Ratings": "2023-09-27T14:01:35.1765092+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:46.1350805+00:00"
 }

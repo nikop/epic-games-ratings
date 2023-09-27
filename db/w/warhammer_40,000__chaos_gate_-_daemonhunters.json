@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3765,9 +3765,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 194
     },
     {
       "ID": "Kills_Streak",
@@ -4099,8 +4099,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:13:25.1752241+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:06:44.0792662+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:04:09.7846047+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:13:25.1753348+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:58:11.2771149+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:44.0793484+00:00"
 }

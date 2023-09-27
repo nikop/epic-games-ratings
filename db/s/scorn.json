@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2358,
+  "EOS_Progressed": 2359,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.04,
   "EosHistory": [
@@ -2584,6 +2584,11 @@
       "Time": "2023-09-26T16:04:46.5408687+00:00",
       "NumProgressed": 2358,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-09-27T14:06:35.3105337+00:00",
+      "NumProgressed": 2359,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 12,
@@ -2595,7 +2600,7 @@
       "Name": "001",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "002",
@@ -2643,7 +2648,7 @@
       "Name": "007",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "008",
@@ -2651,7 +2656,7 @@
       "Name": "008",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "009",
@@ -2659,7 +2664,7 @@
       "Name": "009",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "010",
@@ -2667,7 +2672,7 @@
       "Name": "010",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "011",
@@ -2675,7 +2680,7 @@
       "Name": "011",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "012",
@@ -2683,14 +2688,14 @@
       "Name": "012",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2358,
+      "Progressed": 2359,
       "Completed": 166
     }
   ],
@@ -2698,8 +2703,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-07-23T02:06:43.3775839+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:13:15.9359295+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:06:35.3105332+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.8143464+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:03:35.9294946+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:13:15.9359703+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:57:38.3558025+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:35.3105798+00:00"
 }

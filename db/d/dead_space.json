@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -622,7 +622,7 @@
   ],
   "EOS_Progressed": 478,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1673,9 +1673,9 @@
       "ID": "achievement_29",
       "SetID": "222fo9l",
       "Name": "Legend Teller",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_3",
@@ -1753,9 +1753,9 @@
       "ID": "achievement_38",
       "SetID": "222fo9l",
       "Name": "Front Toward Enemy",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_39",
@@ -1825,9 +1825,9 @@
       "ID": "achievement_46",
       "SetID": "222fo9l",
       "Name": "Marked",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_47",
@@ -1890,8 +1890,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-22T20:58:23.6909557+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:12:49.5122993+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:06:09.2511256+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:07:46.8835038+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:12:49.5123627+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:01:37.4107569+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:09.2512297+00:00"
 }

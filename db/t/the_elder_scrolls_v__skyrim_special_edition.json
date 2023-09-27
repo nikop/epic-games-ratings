@@ -3,12 +3,12 @@
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
   "Ranking_Rating": 31,
-  "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 160,
+  "Ranking_Popularity": 128,
+  "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-06T14:00:00+00:00",
     "PcReleaseDate": "2016-10-28T17:56:00+00:00",
@@ -2476,18 +2476,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 3228,
       "NumberOfAwardsMax": 1450
+    },
+    {
+      "Time": "2023-09-27T14:03:31.2850368+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 3232,
+      "NumberOfAwardsMax": 1453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3228,
-  "NumberOfAwardsMax": 1450,
+  "NumberOfAwards": 3232,
+  "NumberOfAwardsMax": 1453,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1450
+      "Count": 1453
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2517,7 +2523,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2556,8 +2562,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-09-27T13:10:02.0774759+00:00",
+  "LastChanged": "2023-09-27T14:03:31.2850366+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:27.0586406+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:10:02.0774767+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:13:15.6955682+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:03:31.2850372+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:35.0635942+00:00"
 }

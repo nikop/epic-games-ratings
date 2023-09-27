@@ -2,10 +2,10 @@
   "ID": "0a17427d84184578bd1bc06a2f410a58",
   "Name": "Super Hydorah",
   "ProductSlug": "super-hydorah-56d575",
-  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-25T17:00:00+00:00",
     "PcReleaseDate": "2017-09-19T22:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-09-25T18:03:19.8353818+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T14:05:07.3343715+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -39,7 +44,7 @@
       "ID": "01-secret-astronaut",
       "SetID": "8j9d1h0",
       "Name": "Escaping astronaut",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -119,7 +124,7 @@
       "ID": "11-rank-1",
       "SetID": "8j9d1h0",
       "Name": "Private",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -127,7 +132,7 @@
       "ID": "12-rank-2",
       "SetID": "8j9d1h0",
       "Name": "1st Private",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -208,13 +213,13 @@
     {
       "ID": "8j9d1h0",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-25T18:03:19.8372728+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:11:47.5679329+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:05:07.334371+00:00",
   "LastUpdate_AppInfo": "2023-09-25T17:56:58.4278247+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:03:39.1640347+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:11:47.5679561+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:57:41.2986132+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:05:07.3343888+00:00"
 }

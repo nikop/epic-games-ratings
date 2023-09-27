@@ -6,25 +6,25 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~110,048 |
-| Incurious | 16.00% | ~103,575 |
-| Stroller | 15.00% | ~97,101 |
-| Climate Change | 15.00% | ~97,101 |
-| Toy Train | 13.00% | ~84,155 |
-| Advanced Hiker | 12.00% | ~77,681 |
-| Hiker | 11.00% | ~71,208 |
-| Mojave Courier | 5.00% | ~32,367 |
-| Saved by Nausicaä | 5.00% | ~32,367 |
-| Voyager | 3.00% | ~19,420 |
-| Advanced Voyager | 3.00% | ~19,420 |
-| Expert Stroller | 3.00% | ~19,420 |
-| Orient Express | 3.00% | ~19,420 |
+| Advanced Stroller | 17.00% | ~110,052 |
+| Incurious | 16.00% | ~103,578 |
+| Stroller | 15.00% | ~97,104 |
+| Climate Change | 15.00% | ~97,104 |
+| Toy Train | 13.00% | ~84,157 |
+| Advanced Hiker | 12.00% | ~77,684 |
+| Hiker | 11.00% | ~71,210 |
+| Mojave Courier | 5.00% | ~32,368 |
+| Saved by Nausicaä | 5.00% | ~32,368 |
+| Voyager | 3.00% | ~19,421 |
+| Advanced Voyager | 3.00% | ~19,421 |
+| Expert Stroller | 3.00% | ~19,421 |
+| Orient Express | 3.00% | ~19,421 |
 | Expert Hiker | 2.00% | ~12,947 |
 | Marathon | 2.00% | ~12,947 |
 | Destructionist | 2.00% | ~12,947 |
 | Lost | 2.00% | ~12,947 |
-| Rocketman | 0.70% | ~4,531 |
-| Shopaholic | 0.70% | ~4,531 |
+| Rocketman | 0.70% | ~4,532 |
+| Shopaholic | 0.70% | ~4,532 |
 | Expert Voyager | 0.60% | ~3,884 |
 | Nanuk | 0.60% | ~3,884 |
 | Dynamite Fishing | 0.60% | ~3,884 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~647 |
 | 20 Miles under the Sea | 0.10% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 647,343 (Ranked 26)  
+Progressed: 647,363 (Ranked 26)  
 Completed: 11 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 11 (0.00%) (Ranked 295)
 | 2023-09-24 | 646,855 | 11 |
 | 2023-09-25 | 647,076 | 11 |
 | 2023-09-26 | 647,283 | 11 |
-| 2023-09-27 | 647,343 | 11 |
+| 2023-09-27 | 647,363 | 11 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 278)  
-Sum: 1,574 (Ranked 220)  
+Sum: 1,575 (Ranked 220)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 169 |
 | This game has Playful Visuals | 158 |
 | This game is Highly Recommended | 158 |
-| This game has Amazing Storytelling | 145 |
+| This game has Amazing Storytelling | 146 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
 ## Ratings History
@@ -363,3 +363,4 @@ Diff (max vs sum): 58
 | 2023-09-21 | 4.64 | - | 196 | 1,572 |
 | 2023-09-25 | 4.64 | - | 197 | 1,573 |
 | 2023-09-26 | 4.64 | - | 197 | 1,574 |
+| 2023-09-27 | 4.64 | - | 197 | 1,575 |

@@ -12483,18 +12483,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 228127,
       "NumberOfAwardsMax": 82928
+    },
+    {
+      "Time": "2023-09-27T13:57:38.5733457+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 229560,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 228127,
-  "NumberOfAwardsMax": 82928,
+  "NumberOfAwards": 229560,
+  "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 82928
+      "Count": 84038
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12506,7 +12512,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10569
+      "Count": 10892
     },
     {
       "Text": "This game is Relaxing",
@@ -12563,10 +12569,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 883011,
-  "EOS_Completed": 2430,
-  "EOS_NewPlayers": 5750,
-  "EOS_NewCompleters": 309,
+  "EOS_Progressed": 883060,
+  "EOS_Completed": 2431,
+  "EOS_NewPlayers": 5784,
+  "EOS_NewCompleters": 310,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30533,6 +30539,11 @@
       "Time": "2023-09-27T13:14:24.7753102+00:00",
       "NumProgressed": 883011,
       "NumCompleted": 2430
+    },
+    {
+      "Time": "2023-09-27T14:07:42.2925405+00:00",
+      "NumProgressed": 883060,
+      "NumCompleted": 2431
     }
   ],
   "TotalAchievements": 57,
@@ -30550,9 +30561,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3532
+      "UsersEstimate": 4415
     },
     {
       "ID": "BushidoAndChill",
@@ -30574,9 +30585,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4415
+      "UsersEstimate": 5298
     },
     {
       "ID": "FollowingTheRiver",
@@ -30624,7 +30635,7 @@
       "Name": "Gunslinger",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8830
+      "UsersEstimate": 8831
     },
     {
       "ID": "HandyMan",
@@ -30646,9 +30657,9 @@
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6181
+      "UsersEstimate": 7064
     },
     {
       "ID": "LittleTokyo",
@@ -30662,9 +30673,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1766
+      "UsersEstimate": 2649
     },
     {
       "ID": "MaxPain",
@@ -30710,17 +30721,17 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 1766
     },
     {
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4415
+      "UsersEstimate": 5298
     },
     {
       "ID": "Specialist",
@@ -30728,7 +30739,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8830
+      "UsersEstimate": 8831
     },
     {
       "ID": "Temperance",
@@ -30744,7 +30755,7 @@
       "Name": "Rough Landing",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8830
+      "UsersEstimate": 8831
     },
     {
       "ID": "TheDevil",
@@ -30758,9 +30769,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 3532
     },
     {
       "ID": "TheHermit",
@@ -30832,7 +30843,7 @@
       "Name": "The Jungle",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "TrueSoldier",
@@ -30870,17 +30881,17 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6181
+      "UsersEstimate": 7064
     },
     {
       "ID": "YipMan",
       "SetID": "47clieb",
       "Name": "It\u0027s Elementary",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2649
+      "UsersEstimate": 3532
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -30999,21 +31010,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883011,
-      "Completed": 2430
+      "Progressed": 883060,
+      "Completed": 2431
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11634,
+      "Progressed": 11683,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-27T07:57:41.6042137+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:14:24.7753098+00:00",
+  "LastChanged": "2023-09-27T13:57:38.5733455+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:07:42.29254+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:03:36.1751577+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:14:24.775541+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:57:38.5733465+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:07:42.2927877+00:00"
 }

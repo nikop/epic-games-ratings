@@ -6,32 +6,32 @@ Rating: 4.46 (Ranked 632)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,690 |
-| Confirming Suspicions | 41.00% | ~1,506 |
+| Confirming Suspicions | 41.00% | ~1,507 |
 | The Kraken Wakes | 36.00% | ~1,323 |
-| It's Starting to Crack | 33.00% | ~1,212 |
+| It's Starting to Crack | 33.00% | ~1,213 |
 | Change the Channel | 30.00% | ~1,102 |
-| Lord of War | 29.00% | ~1,065 |
+| Lord of War | 29.00% | ~1,066 |
 | Taking it back | 28.00% | ~1,029 |
-| Resourceful | 26.00% | ~955 |
-| Target America | 26.00% | ~955 |
+| Resourceful | 26.00% | ~956 |
+| Target America | 26.00% | ~956 |
 | The Kraken Sleeps | 24.00% | ~882 |
 | Liberté | 22.00% | ~808 |
 | Organ Grinder | 22.00% | ~808 |
 | As Quiet as a Mouse | 22.00% | ~808 |
 | Sharpshooter | 21.00% | ~772 |
-| Gunslinger | 18.00% | ~661 |
-| Explosive Efficiency | 18.00% | ~661 |
+| Explosive Efficiency | 18.00% | ~662 |
 | Just a Flesh Wound | 17.00% | ~625 |
+| Gunslinger | 17.00% | ~625 |
 | Climbing the Ladder | 16.00% | ~588 |
 | Der Geist | 16.00% | ~588 |
 | Close Quarters | 15.00% | ~551 |
 | Brains of the Operation | 15.00% | ~551 |
-| No Stone Unturned | 14.00% | ~514 |
 | Enemy at the Gates | 14.00% | ~514 |
 | Fields of Glory | 14.00% | ~514 |
 | Skirmisher | 14.00% | ~514 |
 | Die Nussknacker Sweet! | 14.00% | ~514 |
 | Snake in the Grass | 14.00% | ~514 |
+| No Stone Unturned | 13.00% | ~478 |
 | Opposing Force | 13.00% | ~478 |
 | Set Europe Ablaze | 13.00% | ~478 |
 | Precision Is Key | 9.00% | ~331 |
@@ -55,15 +55,15 @@ Rating: 4.46 (Ranked 632)
 | Shoot for the Moon | 3.00% | ~110 |
 | If You Go Down To The Woods Today | 3.00% | ~109 |
 | Fight Another Day | 3.00% | ~109 |
-| Out of Scope | 2.00% | ~73 |
-| Eagle Eyed | 2.00% | ~73 |
-| Up close and personal | 2.00% | ~73 |
-| Can't Outrun A Bullet | 2.00% | ~73 |
-| Führerious Repetition | 2.00% | ~72 |
-| Reich To The Point | 2.00% | ~72 |
-| Covert Elimination | 2.00% | ~72 |
-| Shipbreaker | 2.00% | ~72 |
-| Sink or Swim | 2.00% | ~72 |
+| Out of Scope | 2.00% | ~74 |
+| Eagle Eyed | 2.00% | ~74 |
+| Up close and personal | 2.00% | ~74 |
+| Can't Outrun A Bullet | 2.00% | ~74 |
+| Führerious Repetition | 2.00% | ~73 |
+| Reich To The Point | 2.00% | ~73 |
+| Covert Elimination | 2.00% | ~73 |
+| Shipbreaker | 2.00% | ~73 |
+| Sink or Swim | 2.00% | ~73 |
 | Best of the Best | 1.00% | ~37 |
 | Sight Beyond Sights | 1.00% | ~37 |
 | From Führer Away | 1.00% | ~36 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 632)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,674 (Ranked 171)  
+Progressed: 3,675 (Ranked 171)  
 Completed: 11 (0.30%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 11 (0.30%) (Ranked 191)
 | 2023-09-24 | 3,662 | 11 |
 | 2023-09-25 | 3,667 | 11 |
 | 2023-09-26 | 3,672 | 11 |
-| 2023-09-27 | 3,674 | 11 |
+| 2023-09-27 | 3,675 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

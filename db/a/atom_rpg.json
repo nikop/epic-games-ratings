@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2660,6 +2660,11 @@
       "Time": "2023-09-27T06:08:44.4295305+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T14:08:13.7281966+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2727,7 +2732,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "EXPERT_1",
@@ -2791,7 +2796,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2845,9 +2850,9 @@
       "ID": "PARANOIA",
       "SetID": "bf13m8j",
       "Name": "Paranoia",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 187
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2927,7 +2932,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "VVE",
@@ -2958,15 +2963,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:14:41.2266119+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:08:13.7281958+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:06:56.5922604+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:14:41.2266689+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:00:49.9234958+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:08:13.7282443+00:00"
 }

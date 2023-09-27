@@ -5,33 +5,33 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,610 |
-| Welcome To Hell-A | 3.00% | ~20,610 |
-| Dr. Reed, I Presume? | 2.00% | ~13,740 |
-| Git Gutte! | 2.00% | ~13,740 |
-| Bookworm | 2.00% | ~13,740 |
-| Break A Leg | 2.00% | ~13,740 |
-| But Doctor, I am Butcho | 2.00% | ~13,740 |
-| Slayer Squad | 2.00% | ~13,740 |
-| Can't Handle the Truth | 2.00% | ~13,740 |
-| Coup de Grâce | 2.00% | ~13,740 |
-| Like Riding a Bike | 2.00% | ~13,740 |
-| Hazardous Materials | 2.00% | ~13,740 |
-| Friends Like These | 2.00% | ~13,740 |
-| Apex Predator | 2.00% | ~13,740 |
-| Zombologist | 2.00% | ~13,740 |
-| A Patton Emerges | 2.00% | ~13,740 |
-| Stacking the Deck | 2.00% | ~13,740 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,740 |
-| Our True Nature | 2.00% | ~13,740 |
-| This is My Weapon | 2.00% | ~13,740 |
+| Hotel California | 3.00% | ~20,611 |
+| Welcome To Hell-A | 3.00% | ~20,611 |
+| Dr. Reed, I Presume? | 2.00% | ~13,741 |
+| Git Gutte! | 2.00% | ~13,741 |
+| Bookworm | 2.00% | ~13,741 |
+| Break A Leg | 2.00% | ~13,741 |
+| But Doctor, I am Butcho | 2.00% | ~13,741 |
+| Slayer Squad | 2.00% | ~13,741 |
+| Can't Handle the Truth | 2.00% | ~13,741 |
+| Coup de Grâce | 2.00% | ~13,741 |
+| Like Riding a Bike | 2.00% | ~13,741 |
+| Hazardous Materials | 2.00% | ~13,741 |
+| Friends Like These | 2.00% | ~13,741 |
+| Apex Predator | 2.00% | ~13,741 |
+| Zombologist | 2.00% | ~13,741 |
+| A Patton Emerges | 2.00% | ~13,741 |
+| I Am the Resurrection | 2.00% | ~13,741 |
+| Stacking the Deck | 2.00% | ~13,741 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,741 |
+| Our True Nature | 2.00% | ~13,741 |
+| This is My Weapon | 2.00% | ~13,741 |
 | Making Your Mark | 1.00% | ~6,870 |
 | Anger Management | 1.00% | ~6,870 |
 | Perks of the Job | 1.00% | ~6,870 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,870 |
 | Ooh, Shiny! | 1.00% | ~6,870 |
 | Humanity Distilled | 1.00% | ~6,870 |
-| I Am the Resurrection | 1.00% | ~6,870 |
 | Down with the Sickness | 1.00% | ~6,870 |
 | Max Headroom | 0.90% | ~6,183 |
 | Go, Bobcats! | 0.80% | ~5,496 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,008 (Ranked 22)  
+Progressed: 687,034 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
-| 2023-09-27 | 687,008 | 2,176 |
+| 2023-09-27 | 687,034 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,217  (Ranked 57)  
 Sum: 9,254 (Ranked 92)  

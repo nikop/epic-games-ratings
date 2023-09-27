@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -5695,9 +5695,9 @@
       "ID": "ACH_DISCO",
       "SetID": "5nj1ea3",
       "Name": "Disco Roach",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACH_DOCEND",
@@ -6024,8 +6024,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-09-10T14:58:56.3860075+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:15:30.6523003+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:09:02.8405295+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:18.4188041+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:08:07.2148306+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:15:30.6523932+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:01:52.6962878+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:09:02.8406106+00:00"
 }

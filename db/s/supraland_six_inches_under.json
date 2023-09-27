@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1896,9 +1896,9 @@
       "ID": "Arrested",
       "SetID": "5lok9mm",
       "Name": "Arrested",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1932
     },
     {
       "ID": "Beam",
@@ -2016,9 +2016,9 @@
       "ID": "GoldenBeam",
       "SetID": "5lok9mm",
       "Name": "Got your own one now",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1932
     },
     {
       "ID": "GoodMorning",
@@ -2288,8 +2288,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-09-21T18:57:14.0312903+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:12:52.8904916+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:06:12.5374863+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:41.5945753+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:06:30.1687883+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:12:52.8905495+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:00:25.3138437+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:12.5375497+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15430,
+  "EOS_Progressed": 15431,
   "EOS_Completed": 111,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
@@ -10940,6 +10940,11 @@
       "Time": "2023-09-27T12:06:20.8561618+00:00",
       "NumProgressed": 15430,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-27T14:04:36.9737869+00:00",
+      "NumProgressed": 15431,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -11031,7 +11036,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "tpote_achievement_2",
@@ -11103,7 +11108,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "tpote_achievement_28",
@@ -11143,7 +11148,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "tpote_achievement_32",
@@ -11271,22 +11276,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5400
+      "UsersEstimate": 5401
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15430,
+      "Progressed": 15431,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:11:16.1573469+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:04:36.9737863+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:07:08.8998827+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:11:16.1575703+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:01:04.139173+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:04:36.9739524+00:00"
 }

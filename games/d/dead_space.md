@@ -28,10 +28,10 @@ Rating: 4.61 (Ranked 372)
 | Wreckage | 32.00% | ~153 |
 | Keeper of the Faith | 29.00% | ~139 |
 | Betrayed | 28.00% | ~134 |
+| Legend Teller | 28.00% | ~134 |
 | There's Always Peng! | 28.00% | ~134 |
-| Legend Teller | 27.00% | ~129 |
+| Front Toward Enemy | 27.00% | ~129 |
 | Exodus | 26.00% | ~124 |
-| Front Toward Enemy | 26.00% | ~124 |
 | Mindless Prey | 26.00% | ~124 |
 | Whole Again | 21.00% | ~100 |
 | Set A Benchmark | 21.00% | ~100 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 372)
 | Full Clearance | 18.00% | ~86 |
 | Pusher | 17.00% | ~81 |
 | Z-Baller | 17.00% | ~81 |
-| Marked | 14.00% | ~67 |
+| Marked | 15.00% | ~72 |
 | Eviscerator | 13.00% | ~62 |
 | Backbreaker | 11.00% | ~53 |
 | Wishbone | 6.00% | ~29 |

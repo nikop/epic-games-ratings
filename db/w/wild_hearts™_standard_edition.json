@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -362,9 +362,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_19",
@@ -450,9 +450,9 @@
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_29",
@@ -466,9 +466,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_30",
@@ -680,8 +680,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:12:48.4167551+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:06:08.0556489+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:10:15.3460402+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:12:48.4168355+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:03:41.2542401+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:08.0557907+00:00"
 }

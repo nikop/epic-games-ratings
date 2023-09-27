@@ -6,7 +6,7 @@
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
@@ -2631,7 +2631,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534106,
+  "EOS_Progressed": 534107,
   "EOS_Completed": 1557,
   "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 4,
@@ -20101,6 +20101,11 @@
       "Time": "2023-09-27T13:13:23.8725166+00:00",
       "NumProgressed": 534106,
       "NumCompleted": 1557
+    },
+    {
+      "Time": "2023-09-27T14:06:42.9257043+00:00",
+      "NumProgressed": 534107,
+      "NumCompleted": 1557
     }
   ],
   "TotalAchievements": 37,
@@ -20168,7 +20173,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443308
+      "UsersEstimate": 443309
     },
     {
       "ID": "HONED",
@@ -20224,7 +20229,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213642
+      "UsersEstimate": 213643
     },
     {
       "ID": "THE_CASTLE",
@@ -20352,7 +20357,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42728
+      "UsersEstimate": 42729
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -20407,15 +20412,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534106,
+      "Progressed": 534107,
       "Completed": 1557
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-24T20:57:23.7120946+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:13:23.872516+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:06:42.9257037+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:04:46.0149454+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:13:23.8727595+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:58:47.878035+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:06:42.9258779+00:00"
 }

@@ -1,14 +1,14 @@
 # Pillars of Eternity - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pillars-of-eternity)  
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
-Rating: 4.66 (Ranked 281)  
+Rating: 4.66 (Ranked 282)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~900 |
-| Completed Act I | 30.00% | ~329 |
-| 5 Upgrades in Stronghold | 26.00% | ~285 |
+| Kickstarter Backer | 82.00% | ~901 |
+| Completed Act I | 30.00% | ~330 |
+| 5 Upgrades in Stronghold | 26.00% | ~286 |
 | First 5 Levels of Od Nua | 24.00% | ~264 |
 | Make an Adventurer | 23.00% | ~253 |
 | Completed Act II | 16.00% | ~176 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,098 (Ranked 226)  
+Progressed: 1,099 (Ranked 225)  
 Completed: 4 (0.36%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 4 (0.36%) (Ranked 181)
 | 2023-09-01 | 1,096 | 4 |
 | 2023-09-04 | 1,097 | 4 |
 | 2023-09-05 | 1,098 | 4 |
+| 2023-09-27 | 1,099 | 4 |
 ## Awards
 Max (Character Customization): 1,922  (Ranked 111)  
 Sum: 4,712 (Ranked 137)  

@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 40,
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.91,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1029,6 +1029,11 @@
       "Time": "2023-09-27T13:17:16.2688128+00:00",
       "NumProgressed": 220,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-27T14:10:38.2634882+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 25,
@@ -1064,7 +1069,7 @@
       "Name": "Cable guy",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1072,7 +1077,7 @@
       "Name": "A good beginning",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "META_HALF_LINK",
@@ -1136,7 +1141,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1168,7 +1173,7 @@
       "Name": "Fashion victim",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1176,7 +1181,7 @@
       "Name": "Champollion",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1208,7 +1213,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "PROGRESS_N3",
@@ -1224,7 +1229,7 @@
       "Name": "The darkness",
       "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "PROGRESS_N5",
@@ -1239,14 +1244,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:17:16.2688123+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:10:38.2634874+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:04:46.0623122+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:17:16.268846+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:58:48.0716105+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:10:38.2635203+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "surviving-mars",
   "Ranking_Rating": 402,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 159,
+  "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2018-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3342,10 +3342,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 3229,
       "NumberOfAwardsMax": 484
+    },
+    {
+      "Time": "2023-09-27T13:58:28.216775+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3231,
+      "NumberOfAwardsMax": 484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3229,
+  "NumberOfAwards": 3231,
   "NumberOfAwardsMax": 484,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3359,7 +3365,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 387
+      "Count": 389
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3421,8 +3427,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2023-09-26T18:57:52.5731836+00:00",
+  "LastChanged": "2023-09-27T13:58:28.2167749+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.8790654+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:04:29.2862516+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:16:41.9423167+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:58:28.2167755+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:10:05.847428+00:00"
 }

@@ -9928,10 +9928,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 51557,
       "NumberOfAwardsMax": 6276
+    },
+    {
+      "Time": "2023-09-27T14:03:21.0388357+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 51564,
+      "NumberOfAwardsMax": 6276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51557,
+  "NumberOfAwards": 51564,
   "NumberOfAwardsMax": 6276,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9951,7 +9957,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5922
+      "Count": 5929
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10002,9 +10008,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 415577,
+  "EOS_Progressed": 415622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6689,
+  "EOS_NewPlayers": 6679,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28077,6 +28083,11 @@
       "Time": "2023-09-27T13:15:49.2381888+00:00",
       "NumProgressed": 415577,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T14:09:20.8262008+00:00",
+      "NumProgressed": 415622,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -29088,7 +29099,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12467
+      "UsersEstimate": 12469
     },
     {
       "ID": "achievement_grand_coalition",
@@ -29296,7 +29307,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -29656,7 +29667,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "achievement_my_true_friend",
@@ -30024,7 +30035,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -30368,7 +30379,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12467
+      "UsersEstimate": 12469
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -30696,7 +30707,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "achievement_trustworthy",
@@ -30752,7 +30763,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16623
+      "UsersEstimate": 16625
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -30784,7 +30795,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12467
+      "UsersEstimate": 12469
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -30919,21 +30930,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 415577,
+      "Progressed": 415622,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 415577,
+      "Progressed": 415622,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-27T01:45:46.1227112+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:15:49.2381883+00:00",
+  "LastChanged": "2023-09-27T14:03:21.0388355+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:09:20.8262003+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:09:53.0783439+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:15:49.239755+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:03:21.0388362+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:09:20.827504+00:00"
 }

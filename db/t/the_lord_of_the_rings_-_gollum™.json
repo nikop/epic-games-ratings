@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1356,9 +1356,9 @@
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "Chapter7",
@@ -1579,8 +1579,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:11:24.0719166+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:04:44.5586719+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.7265092+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:05:41.5581782+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:11:24.0719541+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:59:38.566162+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:04:44.5587127+00:00"
 }

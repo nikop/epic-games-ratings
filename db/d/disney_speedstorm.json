@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3306,
+  "EOS_Progressed": 3307,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 6.02,
   "EosHistory": [
@@ -5175,6 +5175,11 @@
       "Time": "2023-09-27T10:07:40.7571999+00:00",
       "NumProgressed": 3306,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-09-27T14:08:58.333516+00:00",
+      "NumProgressed": 3307,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 24,
@@ -5218,7 +5223,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "14",
@@ -5234,7 +5239,7 @@
       "Name": "FRAMED!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "16",
@@ -5274,7 +5279,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "20",
@@ -5338,7 +5343,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "6",
@@ -5377,13 +5382,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3306,
+      "Progressed": 3307,
       "Completed": 199
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:15:26.031497+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:08:58.3335153+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:05:11.1998051+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:15:26.0315829+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:59:11.4351861+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:08:58.3335684+00:00"
 }

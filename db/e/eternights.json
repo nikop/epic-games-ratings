@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -801,9 +801,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -857,9 +857,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -873,9 +873,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -928,8 +928,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:16:18.8997629+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:09:49.8197323+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:05:13.5138944+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:16:18.8997939+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:59:14.929223+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:09:49.819762+00:00"
 }

@@ -6,37 +6,38 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gunslinger | 1.00% | ~8,830 |
-| Ten out of Ten | 1.00% | ~8,830 |
-| Rough Landing | 1.00% | ~8,830 |
-| The Jungle | 0.90% | ~7,947 |
+| Gunslinger | 1.00% | ~8,831 |
+| Ten out of Ten | 1.00% | ~8,831 |
+| Rough Landing | 1.00% | ~8,831 |
+| The Jungle | 0.90% | ~7,948 |
 | Master Crafter | 0.80% | ~7,064 |
-| Mean Streets | 0.70% | ~6,181 |
+| Mean Streets | 0.80% | ~7,064 |
+| V for Vendetta | 0.80% | ~7,064 |
 | The High Priestess | 0.70% | ~6,181 |
 | Two Heads, One Bullet | 0.70% | ~6,181 |
-| V for Vendetta | 0.70% | ~6,181 |
 | Full Body Conversion | 0.60% | ~5,298 |
+| Right Back At Ya | 0.60% | ~5,298 |
 | Breathtaking | 0.60% | ~5,298 |
+| Stanislavski's Method | 0.60% | ~5,298 |
 | True Soldier | 0.60% | ~5,298 |
-| Right Back At Ya | 0.50% | ~4,415 |
-| Stanislavski's Method | 0.50% | ~4,415 |
+| To Bad Decisions! | 0.50% | ~4,415 |
 | Temperance | 0.50% | ~4,415 |
 | The Hermit | 0.50% | ~4,415 |
 | The Wheel of Fortune | 0.50% | ~4,415 |
 | True Warrior | 0.50% | ~4,415 |
-| To Bad Decisions! | 0.40% | ~3,532 |
 | The Devil | 0.40% | ~3,532 |
+| The Fool | 0.40% | ~3,532 |
+| It's Elementary | 0.40% | ~3,532 |
 | Legend of The Afterlife | 0.40% | ~3,532 |
 | City Lights | 0.30% | ~2,649 |
+| Christmas Tree Attack | 0.30% | ~2,649 |
 | The Quick and the Dead | 0.30% | ~2,649 |
-| The Fool | 0.30% | ~2,649 |
 | The Lovers | 0.30% | ~2,649 |
 | The World | 0.30% | ~2,649 |
 | Greetings from Pacifica! | 0.30% | ~2,649 |
 | Judy vs Night City | 0.30% | ~2,649 |
-| It's Elementary | 0.30% | ~2,649 |
 | Gun Fu | 0.20% | ~1,766 |
-| Christmas Tree Attack | 0.20% | ~1,766 |
+| Life of the Road | 0.20% | ~1,766 |
 | Bushido and Chill | 0.10% | ~883 |
 | To Protect and Serve | 0.10% | ~883 |
 | The Wandering Fool | 0.10% | ~883 |
@@ -47,7 +48,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Must Be Rats | 0.10% | ~883 |
 | The Wasteland | 0.10% | ~883 |
 | Daemon In The Shell | 0.10% | ~883 |
-| Life of the Road | 0.10% | ~883 |
 | The Star | 0.10% | ~883 |
 | The Sun | 0.10% | ~883 |
 | The APB is Not Enough | 0.10% | ~12 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,011 (Ranked 15)  
-Completed: 2,430 (0.28%) (Ranked 198)  
+Progressed: 883,060 (Ranked 15)  
+Completed: 2,431 (0.28%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,17 +224,17 @@ Completed: 2,430 (0.28%) (Ranked 198)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 883,011 | 2,430 |
+| 2023-09-27 | 883,060 | 2,431 |
 ## Awards
-Max (Character Customization): 82,928  (Ranked 9)  
-Sum: 228,127 (Ranked 13)  
+Max (Character Customization): 84,038  (Ranked 9)  
+Sum: 229,560 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 82,928 |
+| This game has Inclusive Character Customization | 84,038 |
 | This game has Great Boss Battles | 55,231 |
+| This game has Diverse Characters | 10,892 |
 | This game is Great for Beginners | 10,833 |
-| This game has Diverse Characters | 10,569 |
 | This game is Extremely Fun | 10,506 |
 | This game has Amazing Storytelling | 10,472 |
 | This game is Highly Recommended | 10,442 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -4
 | 2023-09-24 | 4.62 | - | 81,210 | 219,602 |
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
-| 2023-09-27 | 4.63 | - | 82,928 | 228,127 |
+| 2023-09-27 | 4.63 | - | 84,038 | 229,560 |

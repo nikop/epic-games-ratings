@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 73.00% | ~271 |
-| Be water, my friend | 62.00% | ~230 |
-| Snake Eyes | 60.00% | ~223 |
-| Fireball | 50.00% | ~186 |
-| The King of Flat | 47.00% | ~174 |
-| Hit That Ball | 37.00% | ~137 |
-| Air Slash | 36.00% | ~134 |
-| Eat That Apple | 29.00% | ~108 |
-| Tornado Chaser | 17.00% | ~63 |
-| Bomberman | 12.00% | ~45 |
-| Bubble Party | 9.00% | ~33 |
-| The Colossus | 9.00% | ~33 |
+| Dash Crash | 73.00% | ~273 |
+| Be water, my friend | 62.00% | ~232 |
+| Snake Eyes | 60.00% | ~224 |
+| Fireball | 50.00% | ~187 |
+| The King of Flat | 47.00% | ~176 |
+| Hit That Ball | 37.00% | ~138 |
+| Air Slash | 36.00% | ~135 |
+| Eat That Apple | 28.00% | ~105 |
+| Tornado Chaser | 17.00% | ~64 |
+| Bomberman | 11.00% | ~41 |
+| Bubble Party | 9.00% | ~34 |
+| The Colossus | 9.00% | ~34 |
 | Floor is Lava | 7.00% | ~26 |
 | Pim Pam Pum | 7.00% | ~26 |
 | Ambush | 5.00% | ~19 |
 | Black Belt | 4.00% | ~15 |
 | Dash Crash - Hero Edition | 4.00% | ~15 |
-| Quite The Hero | 4.00% | ~15 |
+| Quite The Hero | 3.00% | ~11 |
 | Path of the Hero | 2.00% | ~7 |
 | Snake Eyes - Hero Edition | 2.00% | ~7 |
 | The King of Flat - Hero Edition | 2.00% | ~7 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 289)  
+Progressed: 374 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-08-20 | 339 | 0 |
 | 2023-08-26 | 341 | 0 |
 | 2023-09-26 | 350 | 0 |
-| 2023-09-27 | 371 | 0 |
+| 2023-09-27 | 374 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

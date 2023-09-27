@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -461,9 +461,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Kvitky",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:11:59.2302681+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:05:19.6341502+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.4227697+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:08:13.2371397+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:11:59.2303099+00:00"
+  "LastUpdate_Ratings": "2023-09-27T14:01:57.545457+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:05:19.634211+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,11 +410,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20934,
-  "EOS_Completed": 421,
-  "EOS_NewPlayers": 476,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 2.01,
+  "EOS_Progressed": 20936,
+  "EOS_Completed": 422,
+  "EOS_NewPlayers": 473,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -17570,6 +17570,11 @@
       "Time": "2023-09-27T13:13:59.9934443+00:00",
       "NumProgressed": 20934,
       "NumCompleted": 421
+    },
+    {
+      "Time": "2023-09-27T14:07:17.7363902+00:00",
+      "NumProgressed": 20936,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 20,
@@ -17621,7 +17626,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -17677,7 +17682,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -17701,7 +17706,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16119
+      "UsersEstimate": 16121
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17725,7 +17730,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "WEST_FINISHED",
@@ -17740,15 +17745,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20934,
-      "Completed": 421
+      "Progressed": 20936,
+      "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-27T13:13:59.9934436+00:00",
+  "LastChanged_Achievements": "2023-09-27T14:07:17.7363897+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-27T13:04:38.0244946+00:00",
-  "LastUpdate_Achievements": "2023-09-27T13:13:59.9936582+00:00"
+  "LastUpdate_Ratings": "2023-09-27T13:58:36.629208+00:00",
+  "LastUpdate_Achievements": "2023-09-27T14:07:17.7366244+00:00"
 }

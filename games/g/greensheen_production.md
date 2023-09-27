@@ -12,6 +12,7 @@
 | Foraged | 38.00% | ~3 |
 | Merciful feat | 38.00% | ~3 |
 | Hunger | 38.00% | ~3 |
+| Far Ahead | 38.00% | ~3 |
 | Referee! | 38.00% | ~3 |
 | What's in the box?! | 38.00% | ~3 |
 | Signal interruption | 38.00% | ~3 |
@@ -33,7 +34,6 @@
 | How Do I Look? | 38.00% | ~3 |
 | X Best Friends | 38.00% | ~3 |
 | In The Palm Of My Hand | 25.00% | ~2 |
-| Far Ahead | 25.00% | ~2 |
 | No More Remains | 25.00% | ~2 |
 | School Kids | 25.00% | ~2 |
 | Twenty-Six | 0.00% | ~0 |

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~199 |
-| Off to a good start | 65.00% | ~149 |
+| New Recruit | 87.00% | ~200 |
+| Off to a good start | 65.00% | ~150 |
 | Do... or do not. There is no try | 48.00% | ~110 |
 | A good blaster at your side | 34.00% | ~78 |
-| Scrap collector | 24.00% | ~55 |
-| Great shot, kid! | 22.00% | ~50 |
+| Scrap collector | 23.00% | ~53 |
+| Great shot, kid! | 22.00% | ~51 |
 | The power of the Force | 19.00% | ~44 |
 | I suggest a new strategy | 19.00% | ~44 |
 | Collector | 17.00% | ~39 |
@@ -18,8 +18,8 @@
 | Shoot first | 17.00% | ~39 |
 | Tell Jabba that I've got his money | 13.00% | ~30 |
 | Survivor | 13.00% | ~30 |
-| Best star-pilot in the galaxy | 12.00% | ~27 |
-| A cunning warrior | 12.00% | ~27 |
+| Best star-pilot in the galaxy | 12.00% | ~28 |
+| A cunning warrior | 12.00% | ~28 |
 | What's the cargo? | 11.00% | ~25 |
 | A tremor in the Force | 11.00% | ~25 |
 | Never tell me the odds! | 11.00% | ~25 |
@@ -38,12 +38,12 @@
 | Precision shot | 6.00% | ~14 |
 | City in the Clouds | 6.00% | ~14 |
 | That's no moon | 6.00% | ~14 |
-| The Force is strong with this one | 5.00% | ~11 |
-| Your journey has only started | 5.00% | ~11 |
-| This is a new day, a new beginning | 5.00% | ~11 |
-| Alternative solution | 5.00% | ~11 |
-| What will you become? | 5.00% | ~11 |
-| Disturbed tranquility | 5.00% | ~11 |
+| The Force is strong with this one | 5.00% | ~12 |
+| Your journey has only started | 5.00% | ~12 |
+| This is a new day, a new beginning | 5.00% | ~12 |
+| Alternative solution | 5.00% | ~12 |
+| What will you become? | 5.00% | ~12 |
+| Disturbed tranquility | 5.00% | ~12 |
 | Playing the objective | 4.00% | ~9 |
 | The circle is now complete | 4.00% | ~9 |
 | Hold the line! | 3.00% | ~7 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.40% | ~1 |
 | Crush them with one swift stroke… | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229 (Ranked 325)  
-Completed: 1 (0.44%) (Ranked 170)  
+Progressed: 230 (Ranked 325)  
+Completed: 1 (0.43%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 1 (0.44%) (Ranked 170)
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
-| 2023-09-27 | 229 | 1 |
+| 2023-09-27 | 230 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
