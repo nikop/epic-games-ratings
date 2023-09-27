@@ -1,25 +1,25 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.77 (Ranked 991)  
+Rating: 3.77 (Ranked 992)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,462 |
-| No Half Measures | 88.00% | ~14,323 |
-| Personal Matter | 87.00% | ~14,160 |
-| But You Have Heard of Me | 72.00% | ~11,719 |
-| Double the Barrels, double the Fun | 55.00% | ~8,952 |
-| Pimp My Glide | 48.00% | ~7,812 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,673 |
-| House Party! | 34.00% | ~5,534 |
-| Make It Rain | 23.00% | ~3,743 |
-| Curse of the Seven Seas | 22.00% | ~3,581 |
-| Head First | 16.00% | ~2,604 |
-| To the World's End | 12.00% | ~1,953 |
-| Table for Six | 11.00% | ~1,790 |
+| Eeligally Ambitious | 95.00% | ~15,468 |
+| No Half Measures | 88.00% | ~14,328 |
+| Personal Matter | 87.00% | ~14,165 |
+| But You Have Heard of Me | 72.00% | ~11,723 |
+| Double the Barrels, double the Fun | 55.00% | ~8,955 |
+| Pimp My Glide | 48.00% | ~7,815 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,676 |
+| House Party! | 34.00% | ~5,536 |
+| Make It Rain | 23.00% | ~3,745 |
+| Curse of the Seven Seas | 22.00% | ~3,582 |
+| Head First | 16.00% | ~2,605 |
+| To the World's End | 12.00% | ~1,954 |
+| Table for Six | 11.00% | ~1,791 |
 | Sharing Is Caring | 10.00% | ~1,628 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,302 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,303 |
 | Morally Flexible | 6.00% | ~977 |
 | Fishing for Compliments | 5.00% | ~814 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~488 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 991)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,276 (Ranked 127)  
+Progressed: 16,282 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 16,223 | 0 |
 | 2023-09-25 | 16,229 | 0 |
 | 2023-09-26 | 16,251 | 0 |
-| 2023-09-27 | 16,276 | 0 |
+| 2023-09-27 | 16,282 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

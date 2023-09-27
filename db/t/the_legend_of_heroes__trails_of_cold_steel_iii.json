@@ -2,10 +2,10 @@
   "ID": "cb54020e6f7344368b8b14b20d63952a",
   "Name": "The Legend of Heroes: Trails of Cold Steel III",
   "ProductSlug": "the-legend-of-heroes-trails-of-cold-steel-iii",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-04-16T17:00:00+00:00",
     "PcReleaseDate": "2021-04-23T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:56:57.3788928+00:00",
   "LastChanged": "2023-03-31T05:56:57.3788929+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.1704155+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:59:37.0965616+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:55.4703835+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:59:15.3736368+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:06:34.7696178+00:00"
 }

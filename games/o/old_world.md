@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 2.00% | ~283 |
 | Points Victory | 2.00% | ~283 |
 | Poetic Leader | 2.00% | ~283 |
+| Bad Heir Day | 1.00% | ~142 |
 | Capable | 1.00% | ~142 |
 | Conqueror | 1.00% | ~142 |
 | Devout | 1.00% | ~142 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 1.00% | ~142 |
 | Double Victory | 1.00% | ~142 |
 | Win a Single Player Game | 1.00% | ~142 |
-| Bad Heir Day | 0.90% | ~127 |
 | Strong Difficulty | 0.90% | ~127 |
 | Hunters | 0.90% | ~127 |
 | Learn to Play 4 | 0.90% | ~127 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,155 (Ranked 130)  
+Progressed: 14,157 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 5 (0.04%) (Ranked 260)
 | 2023-09-24 | 14,110 | 5 |
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
-| 2023-09-27 | 14,155 | 5 |
+| 2023-09-27 | 14,157 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,821 (Ranked 207)  

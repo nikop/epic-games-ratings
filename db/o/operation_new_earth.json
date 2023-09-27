@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1470,
+  "EOS_Progressed": 1471,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -5316,6 +5316,11 @@
       "Time": "2023-09-27T16:08:04.0387381+00:00",
       "NumProgressed": 1470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T18:08:06.3827336+00:00",
+      "NumProgressed": 1471,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5431,7 +5436,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5447,7 +5452,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -5503,7 +5508,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5511,7 +5516,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -5630,14 +5635,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:07:07.0541048+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:08:06.382733+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:59:38.3519365+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:07:07.0541791+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:59:16.6116999+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:08:06.3827817+00:00"
 }

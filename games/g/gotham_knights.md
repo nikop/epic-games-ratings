@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 894)  
+Rating: 4.18 (Ranked 895)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,907 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,514 |
-| Loose Ends | 34.00% | ~24,785 |
-| To the Victor Go the Spoils | 29.00% | ~21,140 |
-| Knighthood | 28.00% | ~20,411 |
-| Get ReQ'd | 25.00% | ~18,224 |
-| Whispered Words | 25.00% | ~18,224 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,515 |
+| Loose Ends | 34.00% | ~24,786 |
+| To the Victor Go the Spoils | 29.00% | ~21,141 |
+| Knighthood | 28.00% | ~20,412 |
+| Get ReQ'd | 25.00% | ~18,225 |
+| Whispered Words | 25.00% | ~18,225 |
 | The Batman Family | 23.00% | ~16,767 |
 | Lock and Key | 23.00% | ~16,767 |
 | Something in the Clay | 21.00% | ~15,309 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 894)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,898 (Ranked 84)  
+Progressed: 72,899 (Ranked 84)  
 Completed: 118 (0.16%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,16 +227,16 @@ Completed: 118 (0.16%) (Ranked 217)
 | 2023-09-24 | 72,808 | 117 |
 | 2023-09-25 | 72,826 | 118 |
 | 2023-09-26 | 72,863 | 118 |
-| 2023-09-27 | 72,898 | 118 |
+| 2023-09-27 | 72,899 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,755  (Ranked 96)  
-Sum: 4,593 (Ranked 139)  
+Sum: 4,594 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,755 |
 | This game is Relaxing | 236 |
-| This game is Extremely Fun | 235 |
+| This game is Extremely Fun | 236 |
 | This game has Quickly Understood Controls | 234 |
 | This game has Diverse Characters | 229 |
 | This game has Amazing Storytelling | 227 |
@@ -461,4 +461,4 @@ Diff (max vs sum): -43
 | 2023-09-24 | 4.18 | 2,742 | 4,565 |
 | 2023-09-25 | 4.18 | 2,746 | 4,573 |
 | 2023-09-26 | 4.18 | 2,755 | 4,589 |
-| 2023-09-27 | 4.18 | 2,755 | 4,593 |
+| 2023-09-27 | 4.18 | 2,755 | 4,594 |

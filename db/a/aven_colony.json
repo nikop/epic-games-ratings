@@ -2,13 +2,13 @@
   "ID": "31bd7140ab344cd59a770e14b2afbcea",
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
-  "Ranking_Rating": 874,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 276,
-  "Ranking_EOS_Progress": 639,
+  "Ranking_PopularitySum": 275,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-11-04T15:00:00+00:00",
     "PcReleaseDate": "2017-07-25T15:00:00+00:00",
@@ -1540,10 +1540,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 729,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2023-09-27T17:57:10.5685511+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 730,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 729,
+  "NumberOfAwards": 730,
   "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1557,7 +1563,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1613,8 +1619,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2023-09-20T08:59:26.797854+00:00",
+  "LastChanged": "2023-09-27T17:57:10.568551+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:33.8391275+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:57:32.8220714+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:04:22.8289343+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:10.5685515+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:03:58.5507104+00:00"
 }

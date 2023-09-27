@@ -7,7 +7,7 @@
 | Choking Hazard | 45.00% | ~82 |
 | Animal Lover | 35.00% | ~64 |
 | Don't Breathe | 31.00% | ~56 |
-| Smooth Operator | 16.00% | ~29 |
+| Smooth Operator | 17.00% | ~31 |
 | Easy Listening | 15.00% | ~27 |
 | Rapturous Applause! | 15.00% | ~27 |
 | Perfect Harmony! | 13.00% | ~24 |

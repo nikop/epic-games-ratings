@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
@@ -3138,10 +3138,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4593,
       "NumberOfAwardsMax": 2755
+    },
+    {
+      "Time": "2023-09-27T17:57:53.1624905+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4594,
+      "NumberOfAwardsMax": 2755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4593,
+  "NumberOfAwards": 4594,
   "NumberOfAwardsMax": 2755,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3191,7 +3197,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 235
+      "Count": 236
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3206,9 +3212,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72898,
+  "EOS_Progressed": 72899,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16821,6 +16827,11 @@
       "Time": "2023-09-27T17:06:34.5397268+00:00",
       "NumProgressed": 72898,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-27T18:06:13.7174165+00:00",
+      "NumProgressed": 72899,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17056,7 +17067,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21140
+      "UsersEstimate": 21141
     },
     {
       "ID": "FREEZE_1_5",
@@ -17136,7 +17147,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25514
+      "UsersEstimate": 25515
     },
     {
       "ID": "HARLEY_2",
@@ -17144,7 +17155,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18224
+      "UsersEstimate": 18225
     },
     {
       "ID": "HARLEY_3",
@@ -17208,7 +17219,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20411
+      "UsersEstimate": 20412
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17224,7 +17235,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24785
+      "UsersEstimate": 24786
     },
     {
       "ID": "MYSTERY_02",
@@ -17232,7 +17243,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18224
+      "UsersEstimate": 18225
     },
     {
       "ID": "MYSTERY_03",
@@ -17319,22 +17330,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72898,
+      "Progressed": 72899,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43178,
+      "Progressed": 43179,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-27T05:59:08.3895257+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:06:34.5397264+00:00",
+  "LastChanged": "2023-09-27T17:57:53.1624903+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:06:13.717416+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:58:15.5209116+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:34.5398958+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:53.1624909+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:06:13.7175577+00:00"
 }

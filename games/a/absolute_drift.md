@@ -1,22 +1,22 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 697)  
+Rating: 4.41 (Ranked 696)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~154,237 |
-| Good Skills | 9.00% | ~138,813 |
-| Multiplier Master | 9.00% | ~138,813 |
-| Maverick | 7.00% | ~107,966 |
-| The Long Drift | 5.00% | ~77,118 |
+| Midnight Drifter | 10.00% | ~154,238 |
+| Good Skills | 9.00% | ~138,814 |
+| Multiplier Master | 9.00% | ~138,814 |
+| Maverick | 7.00% | ~107,967 |
+| The Long Drift | 5.00% | ~77,119 |
 | Drift Line Apprentice | 3.00% | ~46,271 |
 | Mad Skills | 3.00% | ~46,271 |
-| Bring the Cubic Ruckus | 2.00% | ~30,847 |
-| Jelly Donuts | 2.00% | ~30,847 |
-| Master Drifter | 2.00% | ~30,847 |
-| Spin Doctor | 2.00% | ~30,847 |
+| Bring the Cubic Ruckus | 2.00% | ~30,848 |
+| Jelly Donuts | 2.00% | ~30,848 |
+| Master Drifter | 2.00% | ~30,848 |
+| Spin Doctor | 2.00% | ~30,848 |
 | Hoon Airlines | 1.00% | ~15,424 |
 | Midnight Master | 1.00% | ~15,424 |
 | Sake Bombs | 0.90% | ~13,881 |
@@ -24,10 +24,10 @@ Number of Ratings: 216  (23.09.2022)
 | Insane Skills | 0.70% | ~10,797 |
 | Bacon Donuts | 0.60% | ~9,254 |
 | Double Rainbow | 0.50% | ~7,712 |
-| Washing Machine | 0.40% | ~6,169 |
+| Washing Machine | 0.40% | ~6,170 |
 | The Completionist | 0.10% | ~1,542 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,542,368 (Ranked 7)  
+Progressed: 1,542,379 (Ranked 7)  
 Completed: 695 (0.05%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 695 (0.05%) (Ranked 255)
 | 2023-09-24 | 1,541,951 | 693 |
 | 2023-09-25 | 1,542,118 | 695 |
 | 2023-09-26 | 1,542,272 | 695 |
-| 2023-09-27 | 1,542,368 | 695 |
+| 2023-09-27 | 1,542,379 | 695 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

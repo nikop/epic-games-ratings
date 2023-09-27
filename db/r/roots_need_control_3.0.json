@@ -2,10 +2,10 @@
   "ID": "3aac28d317064e2eb1e2e71c3d11f5fe",
   "Name": "Roots Need Control 3.0",
   "ProductSlug": "roots-need-control-30-52a709",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-20T08:00:00+00:00",
     "PcReleaseDate": "2023-03-02T03:30:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-27T02:01:13.910319+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:08:11.0225332+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:08:19.9446268+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:13.3870683+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:00:32.467537+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:08:11.0225375+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:00:16.6338191+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:08:19.9446295+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.86,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1034,6 +1034,11 @@
       "Time": "2023-09-27T14:10:38.2634882+00:00",
       "NumProgressed": 221,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-27T18:08:38.503974+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 25,
@@ -1061,7 +1066,7 @@
       "Name": "Peace walker",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1085,7 +1090,7 @@
       "Name": "Half the way",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1093,7 +1098,7 @@
       "Name": "Open door",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1147,9 +1152,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1165,7 +1170,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1189,7 +1194,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1197,7 +1202,7 @@
       "Name": "Scholar",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "PROGRESS_N1",
@@ -1205,7 +1210,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "PROGRESS_N2",
@@ -1244,14 +1249,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:09:14.6413611+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:08:38.5039736+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:58:08.4150767+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:09:14.6413899+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:46.0410444+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:08:38.5039939+00:00"
 }

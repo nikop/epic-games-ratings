@@ -2,13 +2,13 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 37,
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
     "PcReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -8258,10 +8258,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 33571,
       "NumberOfAwardsMax": 5454
+    },
+    {
+      "Time": "2023-09-27T17:58:02.1136866+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 33579,
+      "NumberOfAwardsMax": 5454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33571,
+  "NumberOfAwards": 33579,
   "NumberOfAwardsMax": 5454,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8287,7 +8293,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4873
+      "Count": 4878
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8305,7 +8311,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4726
+      "Count": 4729
     },
     {
       "Text": "This game has a Competitive Community",
@@ -8325,8 +8331,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-09-27T14:58:23.4958522+00:00",
+  "LastChanged": "2023-09-27T17:58:02.1136865+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:04.8036803+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:58:24.6402999+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:05:22.0692855+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:58:02.1136871+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:00.1155288+00:00"
 }

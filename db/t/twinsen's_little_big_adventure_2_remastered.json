@@ -2,10 +2,10 @@
   "ID": "cd2bdc1e7e134fb8b6a20b21941aa713",
   "Name": "Twinsen\u0027s Little Big Adventure 2 Remastered",
   "ProductSlug": "twinsens-little-big-adventure-remastered-48a931",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T11:56:59.6134804+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:00:04.3010796+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:05:54.4151369+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:59:48.0538255+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:33.1349746+00:00"
 }

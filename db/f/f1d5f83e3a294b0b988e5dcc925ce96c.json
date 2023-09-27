@@ -2,10 +2,10 @@
   "ID": "f1d5f83e3a294b0b988e5dcc925ce96c",
   "Name": "Stumble Upon Rumble",
   "ProductSlug": "stumble-upon-rumble-52275d",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-20T19:57:37.39723+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:59:54.2320414+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:05:40.6182291+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:59:32.670592+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:19.0823662+00:00"
 }

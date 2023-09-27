@@ -12,6 +12,7 @@ Rating: 4.50 (Ranked 573)
 | Discovery | 0.60% | ~156 |
 | Fully Upgraded | 0.60% | ~156 |
 | Solo Capture | 0.60% | ~156 |
+| Back Off | 0.50% | ~130 |
 | Clutch Capture | 0.50% | ~130 |
 | Cultured | 0.50% | ~130 |
 | Swift Rift Removers | 0.50% | ~130 |
@@ -20,7 +21,6 @@ Rating: 4.50 (Ranked 573)
 | Vaporous Expansion | 0.50% | ~130 |
 | Whoopsie | 0.50% | ~130 |
 | Animated | 0.40% | ~104 |
-| Back Off | 0.40% | ~104 |
 | Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Icing on the Cake | 0.40% | ~104 |
@@ -29,6 +29,7 @@ Rating: 4.50 (Ranked 573)
 | Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Daily Dose | 0.30% | ~78 |
+| Pesky Jerks | 0.30% | ~78 |
 | Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
@@ -37,7 +38,6 @@ Rating: 4.50 (Ranked 573)
 | Diabolical | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
 | Legions | 0.20% | ~52 |
-| Pesky Jerks | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |

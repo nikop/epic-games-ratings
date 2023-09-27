@@ -3,12 +3,12 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 334,
-  "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 123,
-  "Ranking_EOS_Progress": 639,
+  "Ranking_Popularity": 138,
+  "Ranking_PopularitySum": 121,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -7082,11 +7082,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 6126,
       "NumberOfAwardsMax": 1044
+    },
+    {
+      "Time": "2023-09-27T18:02:06.0758075+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 6194,
+      "NumberOfAwardsMax": 1100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6126,
-  "NumberOfAwardsMax": 1044,
+  "NumberOfAwards": 6194,
+  "NumberOfAwardsMax": 1100,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7099,7 +7105,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1044
+      "Count": 1100
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7141,7 +7147,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 452
+      "Count": 464
     },
     {
       "Text": "This game is Relaxing",
@@ -7176,9 +7182,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-09-27T16:03:06.7353634+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:03:50.7355648+00:00",
+  "LastChanged": "2023-09-27T18:02:06.0758073+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:03:25.7012695+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:35.8599714+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:03:13.2517411+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:03:50.73557+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:02:06.0758078+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:03:25.7012725+00:00"
 }

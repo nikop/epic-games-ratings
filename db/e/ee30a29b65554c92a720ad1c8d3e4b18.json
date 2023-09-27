@@ -2,10 +2,10 @@
   "ID": "ee30a29b65554c92a720ad1c8d3e4b18",
   "Name": "Nextbots In The Backrooms",
   "ProductSlug": "nextbots-in-the-backrooms-b5677b",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-07-02T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-05T20:57:27.5905786+00:00",
   "LastUpdate_AppInfo": "2023-09-25T15:57:07.4642635+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:59:58.8443971+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:04:47.9141731+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:59:39.1051073+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:04:24.4606486+00:00"
 }

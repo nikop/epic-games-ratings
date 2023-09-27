@@ -20,15 +20,15 @@
 | Charismatic | 53.00% | ~222 |
 | Soldier | 52.00% | ~218 |
 | Medal of Exploration III | 51.00% | ~214 |
-| Asari Ally | 50.00% | ~210 |
-| Principled | 50.00% | ~210 |
+| Asari Ally | 51.00% | ~214 |
+| Principled | 51.00% | ~214 |
 | Soldier Ally | 48.00% | ~201 |
 | Colonial Savior | 48.00% | ~201 |
 | Sentinel Ally | 45.00% | ~189 |
 | Krogan Ally | 45.00% | ~189 |
 | Paramour I | 44.00% | ~184 |
+| Merciless | 43.00% | ~180 |
 | Scientist | 43.00% | ~180 |
-| Merciless | 42.00% | ~176 |
 | Operative | 41.00% | ~172 |
 | Veteran | 39.00% | ~163 |
 | Head Hunter | 39.00% | ~163 |
@@ -49,6 +49,7 @@
 | The Justicar | 30.00% | ~126 |
 | The Quarian | 30.00% | ~126 |
 | Battlemaster | 30.00% | ~126 |
+| The Cure | 30.00% | ~126 |
 | The Prodigal | 30.00% | ~126 |
 | Big Game Hunter | 30.00% | ~126 |
 | Shopaholic | 30.00% | ~126 |
@@ -56,12 +57,11 @@
 | The Assassin | 29.00% | ~122 |
 | Fade Away | 29.00% | ~122 |
 | Ghost of the Father | 29.00% | ~122 |
-| The Cure | 29.00% | ~122 |
 | Revenge! | 29.00% | ~122 |
+| Heart of Darkness | 29.00% | ~122 |
 | Driven | 29.00% | ~122 |
 | Catharsis | 28.00% | ~117 |
 | Agent | 28.00% | ~117 |
-| Heart of Darkness | 28.00% | ~117 |
 | Bringer of War | 28.00% | ~117 |
 | Focused | 27.00% | ~113 |
 | Cat's in the Cradle | 27.00% | ~113 |
@@ -84,9 +84,9 @@
 | Savior | 21.00% | ~88 |
 | Pathfinder | 20.00% | ~84 |
 | Tunnel Rat | 20.00% | ~84 |
+| Lost and Found | 20.00% | ~84 |
 | Paramour II | 19.00% | ~80 |
 | No One Left Behind | 19.00% | ~80 |
-| Lost and Found | 19.00% | ~80 |
 | Arbiter | 18.00% | ~75 |
 | Pyromaniac | 17.00% | ~71 |
 | Electronics Specialist | 17.00% | ~71 |
@@ -117,7 +117,7 @@
 | Hijacker | 8.00% | ~34 |
 | Paramour III | 8.00% | ~34 |
 | Sky High | 7.00% | ~29 |
-| Damping Specialist | 6.00% | ~25 |
+| Damping Specialist | 7.00% | ~29 |
 | Singularity Mastery | 6.00% | ~25 |
 | Insanity I | 5.00% | ~21 |
 | Incineration Specialist | 5.00% | ~21 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~4 |
 | The One and Only | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419 (Ranked 279)  
+Progressed: 419 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |

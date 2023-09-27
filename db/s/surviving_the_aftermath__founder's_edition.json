@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9252,
+  "EOS_Progressed": 9253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13633,6 +13633,11 @@
       "Time": "2023-09-27T17:08:12.1122658+00:00",
       "NumProgressed": 9252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T18:08:21.0868681+00:00",
+      "NumProgressed": 9253,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13644,7 +13649,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "10",
@@ -13700,7 +13705,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3793
+      "UsersEstimate": 3794
     },
     {
       "ID": "17",
@@ -13724,7 +13729,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4811
+      "UsersEstimate": 4812
     },
     {
       "ID": "2",
@@ -13732,7 +13737,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "20",
@@ -13756,7 +13761,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "23",
@@ -13804,7 +13809,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "29",
@@ -13860,7 +13865,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "35",
@@ -13900,7 +13905,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "4",
@@ -14100,7 +14105,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "9",
@@ -14115,15 +14120,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9252,
+      "Progressed": 9253,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-27T12:00:16.3039892+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:08:12.1122652+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:08:21.0868674+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:18.1342921+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:58:35.016648+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:08:12.112414+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:58:12.4562168+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:08:21.08697+00:00"
 }

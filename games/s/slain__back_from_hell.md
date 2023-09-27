@@ -1,14 +1,14 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 821)  
+Rating: 4.28 (Ranked 822)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~7,471 |
-| A Good Day To Die | 15.00% | ~5,603 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,241 |
-| Right Back Atcha | 6.00% | ~2,241 |
+| Man 'O War | 20.00% | ~7,472 |
+| A Good Day To Die | 15.00% | ~5,604 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,242 |
+| Right Back Atcha | 6.00% | ~2,242 |
 | Killed by Death | 5.00% | ~1,868 |
 | Kill 'Em All | 4.00% | ~1,494 |
 | Down Boy! | 2.00% | ~747 |
@@ -20,9 +20,9 @@ Rating: 4.28 (Ranked 821)
 | Red In Tooth And Claw | 0.80% | ~299 |
 | The Sky Is Falling | 0.80% | ~299 |
 | Schadenfreude | 0.80% | ~299 |
-| Death Becomes Her | 0.70% | ~261 |
-| Hail the Great Horned Metal God! | 0.70% | ~261 |
-| That'll Come In Handy... | 0.70% | ~261 |
+| Death Becomes Her | 0.70% | ~262 |
+| Hail the Great Horned Metal God! | 0.70% | ~262 |
+| That'll Come In Handy... | 0.70% | ~262 |
 | Start As You Mean To Go On | 0.60% | ~224 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~187 |
 | Four Legged Friend | 0.40% | ~149 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 821)
 | Heart Of Steel | 0.10% | ~37 |
 | Death or Glory | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,355 (Ranked 104)  
+Progressed: 37,360 (Ranked 105)  
 Completed: 25 (0.07%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 25 (0.07%) (Ranked 245)
 | 2023-09-24 | 37,204 | 25 |
 | 2023-09-25 | 37,254 | 25 |
 | 2023-09-26 | 37,315 | 25 |
-| 2023-09-27 | 37,355 | 25 |
+| 2023-09-27 | 37,360 | 25 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 317)  
 Sum: 126 (Ranked 410)  

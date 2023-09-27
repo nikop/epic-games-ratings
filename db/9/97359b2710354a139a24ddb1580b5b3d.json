@@ -2,10 +2,10 @@
   "ID": "97359b2710354a139a24ddb1580b5b3d",
   "Name": "I Did Not Buy This Ticket",
   "ProductSlug": "i-did-not-buy-this-ticket-086fe2",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-04-13T03:00:00+00:00",
@@ -25,9 +25,251 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-27T18:05:41.3350126+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHAbyss",
+      "SetID": "bjbioka",
+      "Name": "Chance Meeting",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHAccumulator",
+      "SetID": "bjbioka",
+      "Name": "Accumulator",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHBathroom",
+      "SetID": "bjbioka",
+      "Name": "Washroom Regular",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHCanPossessed",
+      "SetID": "bjbioka",
+      "Name": "Motherly Embrace",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHCreatureComforts",
+      "SetID": "bjbioka",
+      "Name": "Traveling Companion",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHCryEnding",
+      "SetID": "bjbioka",
+      "Name": "You cried.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHDontCry",
+      "SetID": "bjbioka",
+      "Name": "You didn\u0027t cry.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHEternalPassenger",
+      "SetID": "bjbioka",
+      "Name": "Eternal Passenger",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHFinalStop",
+      "SetID": "bjbioka",
+      "Name": "Final Stop",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHGusPossessed",
+      "SetID": "bjbioka",
+      "Name": "Brotherly Bonds",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHHearthole",
+      "SetID": "bjbioka",
+      "Name": "Hearthole",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIndifferent",
+      "SetID": "bjbioka",
+      "Name": "Indifferent",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIronMemory",
+      "SetID": "bjbioka",
+      "Name": "Iron Memory",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHLostTraveler",
+      "SetID": "bjbioka",
+      "Name": "Lost Traveler",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHMeeting",
+      "SetID": "bjbioka",
+      "Name": "Dangerous Traveling",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHMirror1",
+      "SetID": "bjbioka",
+      "Name": "First Look",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHMirror2",
+      "SetID": "bjbioka",
+      "Name": "Second Look",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHMirror3",
+      "SetID": "bjbioka",
+      "Name": "Third Look",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHMirror4",
+      "SetID": "bjbioka",
+      "Name": "New Old Face",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHMomsBack",
+      "SetID": "bjbioka",
+      "Name": "Mom\u0027s Back",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHMourner",
+      "SetID": "bjbioka",
+      "Name": "Dutiful Mourner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHNewListener",
+      "SetID": "bjbioka",
+      "Name": "Eternal Listener",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHNoWay",
+      "SetID": "bjbioka",
+      "Name": "Nope",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHProtected",
+      "SetID": "bjbioka",
+      "Name": "Dutiful Sister",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHRelived",
+      "SetID": "bjbioka",
+      "Name": "Obsessive Thoughts",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHRoadtrip",
+      "SetID": "bjbioka",
+      "Name": "Family Roadtrip",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHSeat",
+      "SetID": "bjbioka",
+      "Name": "Hard Seats",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHSnitch",
+      "SetID": "bjbioka",
+      "Name": "Snitch",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHWeep",
+      "SetID": "bjbioka",
+      "Name": "Extra Hours",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHWho",
+      "SetID": "bjbioka",
+      "Name": "Who are you?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bjbioka",
@@ -37,8 +279,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:06:02.336298+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:05:41.3350104+00:00",
   "LastUpdate_AppInfo": "2023-09-25T18:57:17.9079404+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:57:34.019209+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:02.3363096+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:11.8230716+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:41.3751602+00:00"
 }

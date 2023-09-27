@@ -2,10 +2,10 @@
   "ID": "176692bf214148b1b0b1d37907d8d585",
   "Name": "Bad Rats Revenge",
   "ProductSlug": "bad-rats-revenge-7f0eed",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-29T04:00:00+00:00",
     "PcReleaseDate": "2009-07-20T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-08T05:57:15.3997023+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:55.0981021+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:59:33.801008+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:16.0442183+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:59:12.0778191+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:55.1417937+00:00"
 }

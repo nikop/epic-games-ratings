@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 83,
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -566,6 +566,11 @@
       "Time": "2023-09-27T17:06:05.6054086+00:00",
       "NumProgressed": 235,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T18:05:44.9098873+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -584,7 +589,7 @@
       "ID": "achievement_10",
       "SetID": "271ol84",
       "Name": "That got him!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -600,7 +605,7 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -634,7 +639,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_17",
@@ -658,7 +663,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_2",
@@ -688,9 +693,9 @@
       "ID": "achievement_22",
       "SetID": "271ol84",
       "Name": "Distinguished",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_23",
@@ -698,13 +703,13 @@
       "Name": "Determined",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_24",
       "SetID": "271ol84",
       "Name": "Don\u0027t get cocky",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -720,9 +725,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_27",
@@ -736,7 +741,7 @@
       "ID": "achievement_28",
       "SetID": "271ol84",
       "Name": "Master",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -802,7 +807,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_36",
@@ -818,7 +823,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_38",
@@ -896,9 +901,9 @@
       "ID": "achievement_46",
       "SetID": "cemm4l8",
       "Name": "Patience you must have",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_47",
@@ -984,15 +989,15 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_57",
       "SetID": "cemm4l8",
       "Name": "Stay in attack formation",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -1016,9 +1021,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_60",
@@ -1066,7 +1071,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_9",
@@ -1081,13 +1086,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 1
     }
   ],
@@ -1095,8 +1100,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:06:05.6054082+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:05:44.9098864+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:57:34.7522835+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:05.6054867+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:12.5870002+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:44.9099421+00:00"
 }

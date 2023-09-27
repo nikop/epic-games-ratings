@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -664,9 +664,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "ap8553i",
       "Name": "Silent Kill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:05:12.5480409+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:04:50.5907298+00:00",
   "LastUpdate_AppInfo": "2023-09-20T20:57:03.8652569+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:58:41.7021996+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:05:12.5481275+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:58:19.3612542+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:04:50.590794+00:00"
 }

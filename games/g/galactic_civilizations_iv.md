@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 898)  
+Rating: 4.17 (Ranked 899)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -40,11 +40,11 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 1.00% | ~67 |
 | Win as the Navigators | 0.90% | ~60 |
 | Win as Torians | 0.90% | ~60 |
+| Win as the Drath | 0.70% | ~47 |
 | Win as the Drengin | 0.70% | ~47 |
 | Win as the Krynn | 0.70% | ~47 |
 | Win as the Manti | 0.70% | ~47 |
 | Win as Xeloxi | 0.70% | ~47 |
-| Win as the Drath | 0.60% | ~40 |
 | Win as the Iconians | 0.60% | ~40 |
 | Win as the Iridium | 0.60% | ~40 |
 | Win as the Onyx | 0.60% | ~40 |

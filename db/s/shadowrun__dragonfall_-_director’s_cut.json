@@ -3,12 +3,12 @@
   "Name": "Shadowrun: Dragonfall - Director\u2019s Cut",
   "ProductSlug": "shadowrun-dragonfall",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 354,
+  "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 426,
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -491,6 +491,6 @@
   "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
   "LastChanged": "2023-09-10T18:59:04.2222738+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:13.0390236+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:00:05.9483408+00:00",
+  "LastUpdate_Ratings": "2023-09-27T17:59:49.8227799+00:00",
   "LastUpdate_Achievements": "2023-09-27T17:03:29.1419952+00:00"
 }

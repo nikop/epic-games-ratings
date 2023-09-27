@@ -2,10 +2,10 @@
   "ID": "ab073857ed6d43cab9dc834f5cf1d8d5",
   "Name": "Farm Day 2023",
   "ProductSlug": "farm-day-2023-32f8e0",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-31T13:00:00+00:00",
     "PcReleaseDate": "2023-03-31T13:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-03T22:58:01.4271371+00:00",
   "LastChanged": "2023-04-03T22:58:01.4271372+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:26.0231945+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:00:28.0007335+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:58.4963646+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:00:12.4603301+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:06:37.9029775+00:00"
 }

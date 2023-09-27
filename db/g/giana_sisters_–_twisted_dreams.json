@@ -2,10 +2,10 @@
   "ID": "a6ec2216a9ec4a5097854a37ef003662",
   "Name": "Giana Sisters \u2013 Twisted Dreams",
   "ProductSlug": "giana-sisters-twisted-dreams-9124c7",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-07-01T01:00:00+00:00",
     "PcReleaseDate": "2012-10-22T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.3965063+00:00",
   "LastChanged": "2023-03-31T05:58:18.3965064+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.0589547+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:57:39.1584232+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:05:57.6534625+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:16.9562445+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:36.3791041+00:00"
 }

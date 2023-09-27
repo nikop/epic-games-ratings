@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2591,
+  "EOS_Progressed": 2592,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -3750,6 +3750,11 @@
       "Time": "2023-09-27T16:05:30.0851984+00:00",
       "NumProgressed": 2591,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-27T18:04:35.4088457+00:00",
+      "NumProgressed": 2592,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 53,
@@ -3785,7 +3790,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -3801,7 +3806,7 @@
       "Name": "Hijack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3817,7 +3822,7 @@
       "Name": "No more holding back",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -3825,7 +3830,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3841,7 +3846,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3897,7 +3902,7 @@
       "Name": "Old friend",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -3937,7 +3942,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3945,7 +3950,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3977,7 +3982,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4001,7 +4006,7 @@
       "Name": "Devineur",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -4033,7 +4038,7 @@
       "Name": "Terbisia",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -4055,9 +4060,9 @@
       "ID": "STB_MISSION9_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Truth is a dark mirror",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 285
     },
     {
       "ID": "STB_PET_DOG",
@@ -4121,7 +4126,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -4137,7 +4142,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4184,7 +4189,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2591,
+      "Progressed": 2592,
       "Completed": 10
     }
   ],
@@ -4192,8 +4197,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:04:57.9494401+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:04:35.4088445+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:04.8253651+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:00:33.5632579+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:04:57.9495172+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:00:17.748685+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:04:35.4088981+00:00"
 }

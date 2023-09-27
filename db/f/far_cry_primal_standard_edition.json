@@ -3,12 +3,12 @@
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
   "Ranking_Rating": 206,
-  "Ranking_Popularity": 219,
+  "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 310,
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2016-03-01T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T15:00:00+00:00",
@@ -1085,6 +1085,6 @@
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
   "LastChanged": "2023-09-27T09:58:37.9816223+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:15.8562837+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:58:06.4859226+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:57.1380783+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:44.1476778+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:06:36.544868+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 100,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2152,7 +2152,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 40707,
+  "EOS_Progressed": 40708,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 0,
@@ -19422,6 +19422,11 @@
       "Time": "2023-09-27T16:07:47.2415705+00:00",
       "NumProgressed": 40707,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-27T18:06:32.1269611+00:00",
+      "NumProgressed": 40708,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -19433,7 +19438,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8141
+      "UsersEstimate": 8142
     },
     {
       "ID": "achievements_10",
@@ -19465,7 +19470,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23203
+      "UsersEstimate": 23204
     },
     {
       "ID": "achievements_14",
@@ -19481,7 +19486,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19132
+      "UsersEstimate": 19133
     },
     {
       "ID": "achievements_17",
@@ -19489,7 +19494,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "achievements_19",
@@ -19537,7 +19542,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24424
+      "UsersEstimate": 24425
     },
     {
       "ID": "achievements_24",
@@ -19585,7 +19590,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13433
+      "UsersEstimate": 13434
     },
     {
       "ID": "achievements_3",
@@ -19617,7 +19622,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "achievements_33",
@@ -19689,7 +19694,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8141
+      "UsersEstimate": 8142
     },
     {
       "ID": "achievements_41",
@@ -19737,7 +19742,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 34601
+      "UsersEstimate": 34602
     },
     {
       "ID": "achievements_47",
@@ -19801,7 +19806,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23203
+      "UsersEstimate": 23204
     },
     {
       "ID": "achievements_54",
@@ -19817,7 +19822,7 @@
       "Name": "Calcination",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8141
+      "UsersEstimate": 8142
     },
     {
       "ID": "achievements_56",
@@ -19857,7 +19862,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "achievements_61",
@@ -19865,7 +19870,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8141
+      "UsersEstimate": 8142
     },
     {
       "ID": "achievements_62",
@@ -19913,7 +19918,7 @@
       "Name": "Nightmare of the Humanity - III",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "achievements_68",
@@ -20009,7 +20014,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 29716
+      "UsersEstimate": 29717
     },
     {
       "ID": "achievements_8",
@@ -20032,15 +20037,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 40707,
+      "Progressed": 40708,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-24T02:19:26.222873+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:06:52.8269503+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:06:32.1269606+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.2364761+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:57:47.0528218+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:52.8271655+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:24.5359337+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:06:32.127108+00:00"
 }

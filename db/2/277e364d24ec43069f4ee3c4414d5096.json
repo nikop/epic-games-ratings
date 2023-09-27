@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109269,
+  "EOS_Progressed": 109273,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12401,6 +12401,11 @@
       "Time": "2023-09-27T17:06:28.7390228+00:00",
       "NumProgressed": 109269,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-27T18:06:07.9544455+00:00",
+      "NumProgressed": 109273,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -12420,7 +12425,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 84137
+      "UsersEstimate": 84140
     },
     {
       "ID": "EAwards_10",
@@ -12436,7 +12441,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28410
+      "UsersEstimate": 28411
     },
     {
       "ID": "EAwards_12",
@@ -12484,7 +12489,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39337
+      "UsersEstimate": 39338
     },
     {
       "ID": "EAwards_18",
@@ -12492,7 +12497,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "EAwards_19",
@@ -12508,7 +12513,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 52449
+      "UsersEstimate": 52451
     },
     {
       "ID": "EAwards_20",
@@ -12556,7 +12561,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "EAwards_26",
@@ -12572,7 +12577,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "EAwards_28",
@@ -12596,7 +12601,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "EAwards_30",
@@ -12684,7 +12689,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13112
+      "UsersEstimate": 13113
     },
     {
       "ID": "EAwards_40",
@@ -12764,7 +12769,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "EAwards_6",
@@ -12788,7 +12793,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13112
+      "UsersEstimate": 13113
     },
     {
       "ID": "EAwards_9",
@@ -12803,7 +12808,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 109269,
+      "Progressed": 109273,
       "Completed": 42
     }
   ],
@@ -12811,8 +12816,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:06:28.7390224+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:06:07.9544451+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.3019497+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:59:19.0309382+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:28.739167+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:58:57.1753372+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:06:07.9545363+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 898,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -6847,9 +6847,9 @@
       "ID": "Win_As_Drath",
       "SetID": "4h07amh",
       "Name": "Win as the Drath",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_As_Drengin",
@@ -7055,8 +7055,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-09-27T17:06:04.1663173+00:00",
+  "LastChanged_Achievements": "2023-09-27T18:05:43.3849167+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.9419907+00:00",
-  "LastUpdate_Ratings": "2023-09-27T17:00:28.1071124+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:06:04.1664337+00:00"
+  "LastUpdate_Ratings": "2023-09-27T18:00:12.5392817+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:05:43.3850029+00:00"
 }

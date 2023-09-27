@@ -1,23 +1,23 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.43 (Ranked 674)  
+Rating: 4.41 (Ranked 696)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~800 |
-| And so it begins | 73.00% | ~768 |
-| No pressure | 70.00% | ~736 |
-| Memento | 62.00% | ~652 |
-| Let there be light | 60.00% | ~631 |
+| And so it begins | 73.00% | ~769 |
+| No pressure | 70.00% | ~737 |
+| Memento | 62.00% | ~653 |
+| Let there be light | 60.00% | ~632 |
 | I think you dropped this | 55.00% | ~579 |
-| Soulmate? | 54.00% | ~568 |
+| Soulmate? | 54.00% | ~569 |
 | Excellent service | 50.00% | ~526 |
 | Roll with it | 46.00% | ~484 |
 | Humble beginnings | 44.00% | ~463 |
 | Love is in the air | 44.00% | ~463 |
-| Fine, I'll do it myself | 43.00% | ~452 |
-| Moving up | 41.00% | ~431 |
+| Fine, I'll do it myself | 43.00% | ~453 |
+| Moving up | 41.00% | ~432 |
 | No need to call anyone | 40.00% | ~421 |
 | Big fortune | 32.00% | ~337 |
 | Still more work ahead | 29.00% | ~305 |
@@ -28,13 +28,13 @@ Rating: 4.43 (Ranked 674)
 | Broken heart | 23.00% | ~242 |
 | Island boy | 21.00% | ~221 |
 | You're a star | 19.00% | ~200 |
-| Unstoppable | 18.00% | ~189 |
-| Reunited | 18.00% | ~189 |
+| Unstoppable | 18.00% | ~190 |
+| Reunited | 18.00% | ~190 |
 | King of hospitality | 11.00% | ~116 |
 | Top spot in town | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052 (Ranked 229)  
-Completed: 15 (1.43%) (Ranked 113)  
+Progressed: 1,053 (Ranked 229)  
+Completed: 15 (1.42%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 15 (1.43%) (Ranked 113)
 | 2023-09-24 | 1,042 | 15 |
 | 2023-09-25 | 1,046 | 15 |
 | 2023-09-26 | 1,049 | 15 |
-| 2023-09-27 | 1,052 | 15 |
+| 2023-09-27 | 1,053 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -186,3 +186,4 @@ Completed: 15 (1.43%) (Ranked 113)
 | 2023-09-24 | 4.39 | 0 | 0 |
 | 2023-09-25 | 4.41 | 0 | 0 |
 | 2023-09-26 | 4.43 | 0 | 0 |
+| 2023-09-27 | 4.41 | 0 | 0 |

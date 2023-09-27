@@ -2,10 +2,10 @@
   "ID": "d696915035d84092a02a646f25530ccd",
   "Name": "Bus Driver Simulator",
   "ProductSlug": "bus-driver-simulator-186e62",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-16T10:00:00+00:00",
     "PcReleaseDate": "2019-12-04T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-07T22:57:12.9485384+00:00",
   "LastUpdate_AppInfo": "2023-09-22T07:57:14.1463933+00:00",
-  "LastUpdate_Ratings": "2023-09-27T16:57:27.4501364+00:00",
-  "LastUpdate_Achievements": "2023-09-27T17:04:34.0874595+00:00"
+  "LastUpdate_Ratings": "2023-09-27T17:57:05.3164964+00:00",
+  "LastUpdate_Achievements": "2023-09-27T18:04:09.6738678+00:00"
 }

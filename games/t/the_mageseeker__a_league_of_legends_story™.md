@@ -5,12 +5,12 @@ Rating: 4.82 (Ranked 66)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,487 |
-| No more cages! | 92.00% | ~2,384 |
-| Everfrost | 79.00% | ~2,047 |
-| Pentakill | 78.00% | ~2,021 |
-| Dark Forest | 78.00% | ~2,021 |
-| The use of petricite | 75.00% | ~1,943 |
+| For Demacia | 96.00% | ~2,488 |
+| No more cages! | 92.00% | ~2,385 |
+| Everfrost | 79.00% | ~2,048 |
+| Pentakill | 78.00% | ~2,022 |
+| Dark Forest | 78.00% | ~2,022 |
+| The use of petricite | 75.00% | ~1,944 |
 | You can pet the dog | 61.00% | ~1,581 |
 | Big Helmet Bro | 38.00% | ~985 |
 | Thornbarrow | 38.00% | ~985 |
@@ -20,9 +20,9 @@ Rating: 4.82 (Ranked 66)
 | Ternmoat Headquarters | 36.00% | ~933 |
 | Cypress Glen Headquarters | 33.00% | ~855 |
 | Petricite Burst | 32.00% | ~829 |
-| Old friend | 30.00% | ~777 |
-| Hijack | 29.00% | ~751 |
-| Devineur | 29.00% | ~751 |
+| Old friend | 30.00% | ~778 |
+| Hijack | 29.00% | ~752 |
+| Devineur | 29.00% | ~752 |
 | Whispers in the Woods I | 27.00% | ~700 |
 | Ancient power | 26.00% | ~674 |
 | I chose my shackles | 25.00% | ~648 |
@@ -32,10 +32,10 @@ Rating: 4.82 (Ranked 66)
 | Iffighain Headquarters | 22.00% | ~570 |
 | Full equipped | 22.00% | ~570 |
 | Glyndemere | 21.00% | ~544 |
-| Whispers in the Woods II | 18.00% | ~466 |
-| Quickmoore Headquarters | 18.00% | ~466 |
-| No more holding back | 17.00% | ~440 |
-| Terbisia | 17.00% | ~440 |
+| Whispers in the Woods II | 18.00% | ~467 |
+| Quickmoore Headquarters | 18.00% | ~467 |
+| No more holding back | 17.00% | ~441 |
+| Terbisia | 17.00% | ~441 |
 | Whispers in the Woods III | 16.00% | ~415 |
 | Friendly fire | 16.00% | ~415 |
 | True power | 16.00% | ~415 |
@@ -48,9 +48,9 @@ Rating: 4.82 (Ranked 66)
 | I smell fear | 13.00% | ~337 |
 | The end of the experiments | 12.00% | ~311 |
 | The Great City of Demacia | 12.00% | ~311 |
-| Truth is a dark mirror | 12.00% | ~311 |
 | Call it 'redistribution of magic | 12.00% | ~311 |
 | Do you trust me? | 11.00% | ~285 |
+| Truth is a dark mirror | 11.00% | ~285 |
 | Back to sleep, then... | 11.00% | ~285 |
 | Chains master | 10.00% | ~259 |
 | The great mage rebellion starts now | 10.00% | ~259 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 66)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,591 (Ranked 191)  
+Progressed: 2,592 (Ranked 191)  
 Completed: 10 (0.39%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 10 (0.39%) (Ranked 175)
 | 2023-09-24 | 2,581 | 9 |
 | 2023-09-25 | 2,585 | 9 |
 | 2023-09-26 | 2,589 | 10 |
-| 2023-09-27 | 2,591 | 10 |
+| 2023-09-27 | 2,592 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
