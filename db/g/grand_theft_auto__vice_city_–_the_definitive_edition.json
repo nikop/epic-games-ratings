@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 137,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -674,6 +674,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 83,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2023-09-27T21:58:13.386086+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 83,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
@@ -688,7 +694,7 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 10437,
+  "EOS_Progressed": 10438,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 2,
@@ -10658,6 +10664,11 @@
       "Time": "2023-09-27T21:06:03.317811+00:00",
       "NumProgressed": 10437,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-27T22:06:48.9091181+00:00",
+      "NumProgressed": 10438,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10725,7 +10736,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH09",
@@ -10837,7 +10848,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "ACH23",
@@ -10845,7 +10856,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "ACH24",
@@ -10940,16 +10951,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10437,
+      "Progressed": 10438,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-26T19:58:08.3512241+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:06:03.3178106+00:00",
+  "LastChanged": "2023-09-27T21:58:13.3860859+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:06:48.9091175+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:57:55.7219397+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:06:03.3178983+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:58:13.3860865+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:06:48.9092052+00:00"
 }

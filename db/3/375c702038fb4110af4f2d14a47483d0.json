@@ -2,9 +2,9 @@
   "ID": "375c702038fb4110af4f2d14a47483d0",
   "Name": "The Panic Room. House of secrets",
   "ProductSlug": "panic-room-4de5e7",
-  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-08T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T17:57:17.5587716+00:00",
   "LastUpdate_AppInfo": "2023-09-24T06:57:03.640662+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:00:24.0883383+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:08:26.6094009+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:01:14.9888863+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:09:13.9335403+00:00"
 }

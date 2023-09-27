@@ -1,20 +1,20 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 334)  
+Rating: 4.63 (Ranked 333)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 2.00% | ~17,669 |
 | Rough Landing | 2.00% | ~17,669 |
-| Gunslinger | 1.00% | ~8,834 |
-| The Jungle | 1.00% | ~8,834 |
-| Master Crafter | 0.90% | ~7,951 |
+| Gunslinger | 1.00% | ~8,835 |
+| Master Crafter | 1.00% | ~8,835 |
+| The Jungle | 1.00% | ~8,835 |
 | Mean Streets | 0.90% | ~7,951 |
 | Two Heads, One Bullet | 0.90% | ~7,951 |
 | V for Vendetta | 0.90% | ~7,951 |
-| The High Priestess | 0.80% | ~7,067 |
+| The High Priestess | 0.80% | ~7,068 |
 | Full Body Conversion | 0.70% | ~6,184 |
 | Right Back At Ya | 0.70% | ~6,184 |
 | Breathtaking | 0.70% | ~6,184 |
@@ -37,14 +37,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gun Fu | 0.30% | ~2,650 |
 | Christmas Tree Attack | 0.30% | ~2,650 |
 | Greetings from Pacifica! | 0.30% | ~2,650 |
+| Bushido and Chill | 0.20% | ~1,767 |
+| Autojock | 0.20% | ~1,767 |
+| I Am The Law | 0.20% | ~1,767 |
 | Must Be Rats | 0.20% | ~1,767 |
 | Life of the Road | 0.20% | ~1,767 |
-| Bushido and Chill | 0.10% | ~883 |
 | To Protect and Serve | 0.10% | ~883 |
 | The Wandering Fool | 0.10% | ~883 |
-| Autojock | 0.10% | ~883 |
 | Frequent Flyer | 0.10% | ~883 |
-| I Am The Law | 0.10% | ~883 |
 | Little Tokyo | 0.10% | ~883 |
 | The Wasteland | 0.10% | ~883 |
 | Daemon In The Shell | 0.10% | ~883 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,432 (Ranked 15)  
-Completed: 2,441 (0.28%) (Ranked 198)  
+Progressed: 883,466 (Ranked 15)  
+Completed: 2,441 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 2,441 (0.28%) (Ranked 198)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 883,432 | 2,441 |
+| 2023-09-27 | 883,466 | 2,441 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
 Sum: 230,297 (Ranked 13)  

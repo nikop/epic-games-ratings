@@ -17,7 +17,7 @@ Rating: 4.71 (Ranked 190)
 | Pirates Assemble! | 27.00% | ~182 |
 | Buccaneer | 24.00% | ~162 |
 | Fishy Fish | 22.00% | ~148 |
-| All Good Things | 19.00% | ~128 |
+| All Good Things | 20.00% | ~135 |
 | Seadog | 18.00% | ~121 |
 | Persistent Parasite | 18.00% | ~121 |
 | Jaded Judge | 13.00% | ~88 |

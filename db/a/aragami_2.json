@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43339,
+  "EOS_Progressed": 43340,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15786,6 +15786,11 @@
       "Time": "2023-09-27T21:05:52.9191576+00:00",
       "NumProgressed": 43339,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-27T22:06:36.5459419+00:00",
+      "NumProgressed": 43340,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15797,7 +15802,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24703
+      "UsersEstimate": 24704
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15829,7 +15834,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -15869,7 +15874,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -15917,7 +15922,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34671
+      "UsersEstimate": 34672
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15989,7 +15994,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16035
+      "UsersEstimate": 16036
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -16013,7 +16018,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10401
+      "UsersEstimate": 10402
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -16021,7 +16026,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23836
+      "UsersEstimate": 23837
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -16029,7 +16034,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13868
+      "UsersEstimate": 13869
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -16061,7 +16066,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26003
+      "UsersEstimate": 26004
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -16069,7 +16074,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29037
+      "UsersEstimate": 29038
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -16085,7 +16090,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -16133,7 +16138,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40305
+      "UsersEstimate": 40306
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16141,14 +16146,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22536
+      "UsersEstimate": 22537
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43339,
+      "Progressed": 43340,
       "Completed": 238
     }
   ],
@@ -16156,8 +16161,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:05:52.9191569+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:06:36.5459409+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:30.907602+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:57:20.7696025+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:05:52.9193412+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:57:31.4615958+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:06:36.5461742+00:00"
 }

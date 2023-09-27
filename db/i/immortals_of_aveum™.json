@@ -463,9 +463,9 @@
       "ID": "achievement_55",
       "SetID": "18al4io",
       "Name": "Master of Carmine",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_56",
@@ -479,9 +479,9 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_6",
@@ -576,8 +576,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-24T15:01:08.8110463+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:06:02.0142704+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:06:47.3662977+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.7860154+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:57:25.5809515+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:06:02.0143172+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:57:37.1662619+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:06:47.3663728+00:00"
 }

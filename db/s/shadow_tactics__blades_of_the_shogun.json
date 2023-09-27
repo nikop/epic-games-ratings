@@ -1663,9 +1663,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 204664,
+  "EOS_Progressed": 204668,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 1323,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19778,6 +19778,11 @@
       "Time": "2023-09-27T21:09:22.2500507+00:00",
       "NumProgressed": 204664,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-09-27T22:09:44.0258663+00:00",
+      "NumProgressed": 204668,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 44,
@@ -19789,7 +19794,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20466
+      "UsersEstimate": 20467
     },
     {
       "ID": "AtheistOx",
@@ -19893,7 +19898,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14326
+      "UsersEstimate": 14327
     },
     {
       "ID": "ItsRainingMen",
@@ -19909,7 +19914,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14326
+      "UsersEstimate": 14327
     },
     {
       "ID": "Mercyful",
@@ -20037,7 +20042,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14326
+      "UsersEstimate": 14327
     },
     {
       "ID": "TanukiTime",
@@ -20077,7 +20082,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20466
+      "UsersEstimate": 20467
     },
     {
       "ID": "TimeParadox",
@@ -20133,22 +20138,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14326
+      "UsersEstimate": 14327
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 204664,
+      "Progressed": 204668,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-25T12:02:15.6586558+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:09:22.2500501+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:09:44.0258656+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.2179331+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:57:32.0569186+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:09:22.2501962+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:57:45.1021879+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:09:44.026012+00:00"
 }

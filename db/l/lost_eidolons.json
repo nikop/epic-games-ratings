@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1491,9 +1491,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 759
     },
     {
       "ID": "06",
@@ -1587,9 +1587,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 681
+      "UsersEstimate": 692
     },
     {
       "ID": "18",
@@ -1652,8 +1652,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:06:02.5194282+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:06:47.8142084+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:29.7165536+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:59:00.5320797+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:06:02.5194528+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:59:32.1979361+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:06:47.8142494+00:00"
 }

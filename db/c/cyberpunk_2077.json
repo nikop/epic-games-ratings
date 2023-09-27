@@ -2,12 +2,12 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 333,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12587,9 +12587,9 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883432,
+  "EOS_Progressed": 883466,
   "EOS_Completed": 2441,
-  "EOS_NewPlayers": 6027,
+  "EOS_NewPlayers": 6046,
   "EOS_NewCompleters": 317,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30597,6 +30597,11 @@
       "Time": "2023-09-27T21:06:18.4734274+00:00",
       "NumProgressed": 883432,
       "NumCompleted": 2441
+    },
+    {
+      "Time": "2023-09-27T22:07:06.6106708+00:00",
+      "NumProgressed": 883466,
+      "NumCompleted": 2441
     }
   ],
   "TotalAchievements": 57,
@@ -30622,9 +30627,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 1767
     },
     {
       "ID": "Cyberjunkie",
@@ -30662,9 +30667,9 @@
       "ID": "Gearhead",
       "SetID": "47clieb",
       "Name": "Autojock",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 883
+      "UsersEstimate": 1767
     },
     {
       "ID": "GetMeThereScottie",
@@ -30688,23 +30693,23 @@
       "Name": "Gunslinger",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7951
+      "UsersEstimate": 8835
     },
     {
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 883
+      "UsersEstimate": 1767
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -30840,7 +30845,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7067
+      "UsersEstimate": 7068
     },
     {
       "ID": "TheLovers",
@@ -30896,7 +30901,7 @@
       "Name": "The Jungle",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "TrueSoldier",
@@ -31063,21 +31068,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883432,
+      "Progressed": 883466,
       "Completed": 2441
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12055,
+      "Progressed": 12089,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T20:57:34.7448653+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:06:18.4734267+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:07:06.6106698+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:57:34.7448661+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:06:18.4737118+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:57:48.3146374+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:07:06.6108926+00:00"
 }

@@ -1939,9 +1939,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 135
     },
     {
       "ID": "_08_Completion_10",
@@ -2108,8 +2108,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-27T06:58:56.7562256+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:06:14.9506194+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:07:02.526446+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:57:55.2595123+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:06:14.9506503+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:58:12.8161011+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:07:02.5264843+00:00"
 }

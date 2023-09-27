@@ -6,30 +6,30 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~3,149 |
-| A normal day in Gloomhaven | 34.00% | ~2,549 |
-| Overkill | 31.00% | ~2,324 |
-| Vaccine Incoming | 30.00% | ~2,249 |
-| Spread the plague | 28.00% | ~2,099 |
-| Get over here! | 23.00% | ~1,725 |
-| Just when I thought I was out... | 18.00% | ~1,350 |
-| Mine... All Mine... | 16.00% | ~1,200 |
-| Light of my life | 15.00% | ~1,125 |
-| Anatomy Lesson | 14.00% | ~1,050 |
-| You activated my trap card! | 13.00% | ~975 |
-| Augmented rat | 13.00% | ~975 |
-| Precious! | 12.00% | ~900 |
-| Obstacle race | 12.00% | ~900 |
-| Doom and gloom | 12.00% | ~900 |
-| Grizzled veteran | 10.00% | ~750 |
-| Play it again, Sam | 8.00% | ~600 |
-| Pack leader | 7.00% | ~525 |
-| Pain is your friend | 7.00% | ~525 |
-| Black death | 7.00% | ~525 |
-| Dungeon Veteran | 6.00% | ~450 |
-| Who's the Boss? | 6.00% | ~450 |
-| Quad damage | 6.00% | ~450 |
-| Now you see me... | 5.00% | ~375 |
+| I'm not dead yet | 42.00% | ~3,154 |
+| A normal day in Gloomhaven | 34.00% | ~2,553 |
+| Overkill | 31.00% | ~2,328 |
+| Vaccine Incoming | 30.00% | ~2,253 |
+| Spread the plague | 28.00% | ~2,103 |
+| Get over here! | 23.00% | ~1,727 |
+| Just when I thought I was out... | 18.00% | ~1,352 |
+| Mine... All Mine... | 16.00% | ~1,202 |
+| Light of my life | 15.00% | ~1,126 |
+| Anatomy Lesson | 14.00% | ~1,051 |
+| You activated my trap card! | 13.00% | ~976 |
+| Augmented rat | 13.00% | ~976 |
+| Precious! | 12.00% | ~901 |
+| Obstacle race | 12.00% | ~901 |
+| Doom and gloom | 12.00% | ~901 |
+| Grizzled veteran | 10.00% | ~751 |
+| Play it again, Sam | 8.00% | ~601 |
+| Pack leader | 7.00% | ~526 |
+| Pain is your friend | 7.00% | ~526 |
+| Black death | 7.00% | ~526 |
+| Dungeon Veteran | 6.00% | ~451 |
+| Who's the Boss? | 6.00% | ~451 |
+| Quad damage | 6.00% | ~451 |
+| Now you see me... | 5.00% | ~376 |
 | Power Up! | 4.00% | ~300 |
 | The Pro from Dover | 4.00% | ~300 |
 | Pretty lights! | 4.00% | ~300 |
@@ -43,32 +43,32 @@ Number of Ratings: 68  (23.09.2022)
 | An eye for an eye | 1.00% | ~75 |
 | The Cephalophore | 1.00% | ~75 |
 | The Sniper | 1.00% | ~75 |
-| From Gloom, only greed and death emerges | 0.90% | ~67 |
-| New Blood | 0.90% | ~67 |
+| From Gloom, only greed and death emerges | 0.90% | ~68 |
+| New Blood | 0.90% | ~68 |
 | Add a bit of colour | 0.80% | ~60 |
 | The Rat King | 0.80% | ~60 |
 | How to train your Drake | 0.80% | ~60 |
-| Captain hooked | 0.70% | ~52 |
-| Betray this | 0.50% | ~37 |
+| Captain hooked | 0.70% | ~53 |
+| Betray this | 0.50% | ~38 |
 | Spoiler police! | 0.40% | ~30 |
 | A tough job | 0.40% | ~30 |
 | The Pacifist | 0.40% | ~30 |
 | Born Support | 0.40% | ~30 |
-| Pull out the big guns | 0.30% | ~22 |
-| Crimson Tornado | 0.30% | ~22 |
+| Pull out the big guns | 0.30% | ~23 |
+| Crimson Tornado | 0.30% | ~23 |
 | The evil that men do | 0.20% | ~15 |
 | Beware my power | 0.20% | ~15 |
 | The Jaws of victory! | 0.20% | ~15 |
-| A cult following | 0.10% | ~7 |
-| Over your dead body | 0.10% | ~7 |
-| The Guildmaster | 0.10% | ~7 |
-| The Cartographer | 0.10% | ~7 |
-| Lara Who? | 0.10% | ~7 |
-| MacReady Steady.. Go! | 0.10% | ~7 |
-| Hard-travelling Heroes | 0.10% | ~7 |
-| Murder Death Kill | 0.10% | ~7 |
+| A cult following | 0.10% | ~8 |
+| Over your dead body | 0.10% | ~8 |
+| The Guildmaster | 0.10% | ~8 |
+| The Cartographer | 0.10% | ~8 |
+| Lara Who? | 0.10% | ~8 |
+| MacReady Steady.. Go! | 0.10% | ~8 |
+| Hard-travelling Heroes | 0.10% | ~8 |
+| Murder Death Kill | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,498 (Ranked 149)  
+Progressed: 7,510 (Ranked 149)  
 Completed: 1 (0.01%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.01%) (Ranked 280)
 | 2023-09-24 | 6,213 | 1 |
 | 2023-09-25 | 6,698 | 1 |
 | 2023-09-26 | 7,140 | 1 |
-| 2023-09-27 | 7,498 | 1 |
+| 2023-09-27 | 7,510 | 1 |
 ## Awards
 Max (Character Customization): 3,538  (Ranked 89)  
 Sum: 8,239 (Ranked 99)  

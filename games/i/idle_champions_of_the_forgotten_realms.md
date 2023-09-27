@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~691 |
-| The Jungles of Doomspace | 0.30% | ~589 |
+| The Jungles of Doomspace | 0.30% | ~590 |
 | The Arena of Blood | 0.20% | ~393 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |
@@ -531,8 +531,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~196 |
 | Entrance of the Gladiators | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,223 (Ranked 57)  
-Completed: 2,309 (1.00%) (Ranked 131)  
+Progressed: 230,226 (Ranked 57)  
+Completed: 2,310 (1.00%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -691,10 +691,10 @@ Completed: 2,309 (1.00%) (Ranked 131)
 | 2023-09-24 | 229,967 | 2,301 |
 | 2023-09-25 | 230,056 | 2,305 |
 | 2023-09-26 | 230,150 | 2,307 |
-| 2023-09-27 | 230,223 | 2,309 |
+| 2023-09-27 | 230,226 | 2,310 |
 ## Awards
-Max (Diverse Characters): 5,329  (Ranked 68)  
-Sum: 31,782 (Ranked 39)  
+Max (Diverse Characters): 5,329  (Ranked 69)  
+Sum: 31,785 (Ranked 40)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -704,7 +704,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,662 |
 | This game has Amazing Characters | 4,136 |
 | This game is Highly Recommended | 4,128 |
-| This game has Playful Visuals | 3,440 |
+| This game has Playful Visuals | 3,443 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -952,4 +952,4 @@ Diff (max vs sum): 29
 | 2023-09-24 | 4.06 | - | 5,316 | 31,728 |
 | 2023-09-25 | 4.06 | - | 5,316 | 31,748 |
 | 2023-09-26 | 4.06 | - | 5,322 | 31,762 |
-| 2023-09-27 | 4.06 | - | 5,329 | 31,782 |
+| 2023-09-27 | 4.06 | - | 5,329 | 31,785 |

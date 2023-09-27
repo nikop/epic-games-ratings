@@ -3,11 +3,11 @@
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 866,
-  "Ranking_Popularity": 83,
-  "Ranking_PopularitySum": 58,
-  "Ranking_EOS_Progress": 640,
+  "Ranking_Popularity": 23,
+  "Ranking_PopularitySum": 36,
+  "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -9016,18 +9016,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 18481,
       "NumberOfAwardsMax": 3882
+    },
+    {
+      "Time": "2023-09-27T22:00:25.1406125+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 34793,
+      "NumberOfAwardsMax": 16312
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18481,
-  "NumberOfAwardsMax": 3882,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 34793,
+  "NumberOfAwardsMax": 16312,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 15806
+      "Count": 16312
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9089,8 +9095,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-09-27T18:59:40.4553616+00:00",
+  "LastChanged": "2023-09-27T22:00:25.1406124+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:09.2650287+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:59:44.2460917+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:09:15.7365574+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:00:25.140613+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:09:36.4899614+00:00"
 }

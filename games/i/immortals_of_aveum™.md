@@ -34,10 +34,11 @@ Rating: 4.00 (Ranked 953)
 | Scholar | 8.00% | ~2 |
 | Armaments Azure | 8.00% | ~2 |
 | Periapt Viridian | 8.00% | ~2 |
+| Shroudfane Explorer | 8.00% | ~2 |
 | Kitted Out | 4.00% | ~1 |
 | Best Dressed | 4.00% | ~1 |
 | Armaments Vert | 4.00% | ~1 |
-| Shroudfane Explorer | 4.00% | ~1 |
+| Master of Carmine | 4.00% | ~1 |
 | Tip of the Spear | 4.00% | ~1 |
 | Backtracker | 4.00% | ~1 |
 | Grand Magnus | 0.00% | ~0 |
@@ -47,7 +48,6 @@ Rating: 4.00 (Ranked 953)
 | Witch-Taker | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
 | Master of Ultramarine | 0.00% | ~0 |
-| Master of Carmine | 0.00% | ~0 |
 | Master of Malachite | 0.00% | ~0 |
 | Shroudfane Surveyor | 0.00% | ~0 |
 | Treasure Hunter | 0.00% | ~0 |

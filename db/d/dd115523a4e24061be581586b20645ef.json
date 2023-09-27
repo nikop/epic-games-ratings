@@ -2,9 +2,9 @@
   "ID": "dd115523a4e24061be581586b20645ef",
   "Name": "The Zombie Smasher",
   "ProductSlug": "the-zombie-smasher-eeafeb",
-  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-07-13T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-15T02:22:32.3312651+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.9573704+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:00:37.7862885+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:09:20.0801231+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:01:31.6802231+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:09:41.5055986+00:00"
 }

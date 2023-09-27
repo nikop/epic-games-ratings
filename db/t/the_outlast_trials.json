@@ -2,12 +2,12 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 259,
-  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-05-20T18:00:30.4536489+00:00",
@@ -2116,10 +2116,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 880,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-09-27T22:01:22.978088+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 882,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 880,
+  "NumberOfAwards": 882,
   "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2133,7 +2139,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 108
+      "Count": 110
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2196,8 +2202,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-09-27T11:01:26.5321373+00:00",
+  "LastChanged": "2023-09-27T22:01:22.9780878+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.9845252+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:00:30.5840469+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:08:13.5752193+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:01:22.9780885+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:08:58.1591926+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b9def67e597b4be7a16146146a044d02",
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
   "ProductSlug": "mechwarrior-5",
-  "Ranking_Rating": 373,
+  "Ranking_Rating": 372,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 105,
-  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4642,11 +4642,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 7689,
       "NumberOfAwardsMax": 1204
+    },
+    {
+      "Time": "2023-09-27T22:02:10.4257767+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 7692,
+      "NumberOfAwardsMax": 1205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7689,
-  "NumberOfAwardsMax": 1204,
+  "NumberOfAwards": 7692,
+  "NumberOfAwardsMax": 1205,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4689,7 +4695,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 938
+      "Count": 940
     },
     {
       "Text": "This game has a Creative Community",
@@ -4701,7 +4707,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1204
+      "Count": 1205
     }
   ],
   "EOS_Progressed": 0,
@@ -4715,8 +4721,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2023-09-27T21:01:09.5662196+00:00",
+  "LastChanged": "2023-09-27T22:02:10.4257764+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:26.0220871+00:00",
-  "LastUpdate_Ratings": "2023-09-27T21:01:09.5662205+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:08:03.6302771+00:00"
+  "LastUpdate_Ratings": "2023-09-27T22:02:10.4257772+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:08:46.5588958+00:00"
 }

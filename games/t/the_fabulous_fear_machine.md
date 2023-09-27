@@ -6,6 +6,8 @@
 | ---- | ---------- | ----- |
 | You have three wishes left | 67.00% | ~2 |
 | Master trainee | 33.00% | ~1 |
+| Jung's dream | 33.00% | ~1 |
+| The battle of Great Britain | 33.00% | ~1 |
 | You have two wishes left | 33.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
@@ -15,7 +17,6 @@
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
-| Jung's dream | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
 | A rival with no options | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
@@ -27,7 +28,6 @@
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |
-| The battle of Great Britain | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |

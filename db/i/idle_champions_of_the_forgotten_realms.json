@@ -3,8 +3,8 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 938,
-  "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 39,
+  "Ranking_Popularity": 69,
+  "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 80,
@@ -6890,10 +6890,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31782,
       "NumberOfAwardsMax": 5329
+    },
+    {
+      "Time": "2023-09-27T21:57:43.4632898+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31785,
+      "NumberOfAwardsMax": 5329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31782,
+  "NumberOfAwards": 31785,
   "NumberOfAwardsMax": 5329,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6937,13 +6943,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3440
+      "Count": 3443
     }
   ],
-  "EOS_Progressed": 230223,
-  "EOS_Completed": 2309,
-  "EOS_NewPlayers": 737,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 230226,
+  "EOS_Completed": 2310,
+  "EOS_NewPlayers": 733,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -24745,6 +24751,11 @@
       "Time": "2023-09-27T21:07:25.6124872+00:00",
       "NumProgressed": 230223,
       "NumCompleted": 2309
+    },
+    {
+      "Time": "2023-09-27T22:08:25.8912306+00:00",
+      "NumProgressed": 230226,
+      "NumCompleted": 2310
     }
   ],
   "TotalAchievements": 524,
@@ -28916,7 +28927,7 @@
       "Name": "The Jungles of Doomspace",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "objective_completed_1406",
@@ -28947,21 +28958,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 196497,
+      "Progressed": 196500,
       "Completed": 3526
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230223,
-      "Completed": 2309
+      "Progressed": 230226,
+      "Completed": 2310
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-27T20:57:30.7409989+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:07:25.6124864+00:00",
+  "LastChanged": "2023-09-27T21:57:43.4632896+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:08:25.8912301+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:22.3012466+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:57:30.741+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:07:25.6166887+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:57:43.4632907+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:08:25.8947467+00:00"
 }

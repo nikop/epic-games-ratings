@@ -9,8 +9,8 @@
 | Witch ✔ | 23.00% | ~65 |
 | Scent of Meat ✔ | 22.00% | ~62 |
 | Survival ✔ | 4.00% | ~11 |
+| Voodoo ✔ | 0.40% | ~1 |
 | Master of Unlocking ✔ | 0.40% | ~1 |
-| Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |
 | Mask ✔ | 0.00% | ~0 |
 | Seeker ✔ | 0.00% | ~0 |

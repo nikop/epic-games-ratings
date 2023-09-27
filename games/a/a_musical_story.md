@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 94.00% | ~96 |
-| Rehearsal | 93.00% | ~95 |
-| Daily Life | 90.00% | ~92 |
-| Assembly Line Work | 87.00% | ~89 |
-| Solitude | 81.00% | ~83 |
-| Pinewood, Here we come! | 74.00% | ~75 |
-| The Van | 69.00% | ~70 |
-| Road-Trip | 62.00% | ~63 |
-| A Musical Pause | 60.00% | ~61 |
-| Briget's | 51.00% | ~52 |
-| Big City Music | 48.00% | ~49 |
-| Sound of Noise | 47.00% | ~48 |
+| ECG | 95.00% | ~97 |
+| Rehearsal | 94.00% | ~96 |
+| Daily Life | 91.00% | ~93 |
+| Assembly Line Work | 88.00% | ~90 |
+| Solitude | 82.00% | ~84 |
+| Pinewood, Here we come! | 75.00% | ~76 |
+| The Van | 70.00% | ~71 |
+| Road-Trip | 63.00% | ~64 |
+| A Musical Pause | 61.00% | ~62 |
+| Briget's | 52.00% | ~53 |
+| Big City Music | 49.00% | ~50 |
+| Sound of Noise | 48.00% | ~49 |
 | Love at First Sight | 43.00% | ~44 |
 | First Kiss | 37.00% | ~38 |
 | Symbiosis | 35.00% | ~36 |
@@ -27,7 +27,7 @@
 | TV Dreams | 23.00% | ~23 |
 | The Clash | 22.00% | ~22 |
 | Dreamers | 18.00% | ~18 |
-| Time | 16.00% | ~16 |
+| Time | 17.00% | ~17 |
 | The Fix | 16.00% | ~16 |
 | The Mountains, The Valleys | 14.00% | ~14 |
 | Bad Trip | 13.00% | ~13 |

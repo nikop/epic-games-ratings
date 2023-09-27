@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18169,
+  "EOS_Progressed": 18170,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10811,6 +10811,11 @@
       "Time": "2023-09-27T20:06:00.2253205+00:00",
       "NumProgressed": 18169,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-27T22:07:31.7668631+00:00",
+      "NumProgressed": 18170,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10878,7 +10883,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "0009",
@@ -10950,7 +10955,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "0018",
@@ -11006,7 +11011,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3816
     },
     {
       "ID": "0025",
@@ -11054,7 +11059,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "0031",
@@ -11109,7 +11114,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18169,
+      "Progressed": 18170,
       "Completed": 3
     }
   ],
@@ -11117,8 +11122,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-27T21:06:39.8312769+00:00",
+  "LastChanged_Achievements": "2023-09-27T22:07:31.7668621+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-27T20:59:10.6802815+00:00",
-  "LastUpdate_Achievements": "2023-09-27T21:06:39.8314015+00:00"
+  "LastUpdate_Ratings": "2023-09-27T21:59:44.3255666+00:00",
+  "LastUpdate_Achievements": "2023-09-27T22:07:31.7669944+00:00"
 }
