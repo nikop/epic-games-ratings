@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 24.81,
+  "EOS_Completed_Percentage": 24.71,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1326,6 +1326,11 @@
       "Time": "2023-09-27T02:24:13.4514587+00:00",
       "NumProgressed": 258,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-09-27T09:09:15.9910654+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1354,7 +1359,7 @@
       "Name": "Job completed!",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "FallDeath",
@@ -1370,7 +1375,7 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Floppy",
@@ -1378,7 +1383,7 @@
       "Name": "Additional Data",
       "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Fusses",
@@ -1386,7 +1391,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "GameComplete",
@@ -1394,7 +1399,7 @@
       "Name": "Savior",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "GasDeath",
@@ -1408,17 +1413,17 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "Screwdriver",
@@ -1426,7 +1431,7 @@
       "Name": "Screwdriver",
       "Percentage": 74,
       "XP": 70,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "SecretRoom",
@@ -1434,7 +1439,7 @@
       "Name": "Researcher",
       "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Synthesis",
@@ -1442,21 +1447,21 @@
       "Name": "Beginner Chemist",
       "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:09:37.3166049+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:09:15.9910646+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.4954104+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:03:29.1692753+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:09:37.3166246+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:03:16.7092339+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:09:15.9910863+00:00"
 }

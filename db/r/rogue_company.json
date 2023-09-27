@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -8246,10 +8246,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 33564,
       "NumberOfAwardsMax": 5449
+    },
+    {
+      "Time": "2023-09-27T08:59:42.5238634+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 33566,
+      "NumberOfAwardsMax": 5449
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33564,
+  "NumberOfAwards": 33566,
   "NumberOfAwardsMax": 5449,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8299,7 +8305,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3908
+      "Count": 3910
     }
   ],
   "EOS_Progressed": 0,
@@ -8313,8 +8319,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-09-27T01:41:45.8350181+00:00",
+  "LastChanged": "2023-09-27T08:59:42.5238628+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:04.8036803+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:59:57.2366174+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:10:03.6643454+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:59:42.5238641+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:09:42.7560726+00:00"
 }

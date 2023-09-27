@@ -3,10 +3,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 3.00% | ~1 |
+| Break Out | 6.00% | ~2 |
+| Trinity | 6.00% | ~2 |
 | Shatter Them All | 3.00% | ~1 |
-| Trinity | 0.00% | ~0 |
+| Find Allies | 0.00% | ~0 |
 | Clear Sight | -3.20% | ~-1 |
+| A Taste of Wrath | -3.20% | ~-1 |
 | Forgemaster | -3.20% | ~-1 |
 | Shardbearer | -3.20% | ~-1 |
 | Shatterer | -3.20% | ~-1 |
@@ -18,13 +20,12 @@
 | All That Gold | -3.20% | ~-1 |
 | Feeling Fancy | -3.20% | ~-1 |
 | Summiter | -3.20% | ~-1 |
-| Find Allies | -6.50% | ~-2 |
 | Powerful Allies | -6.50% | ~-2 |
-| A Taste of Wrath | -6.50% | ~-2 |
 | The Mentor | -6.50% | ~-2 |
 | Adventurer | -6.50% | ~-2 |
 | Airborne | -6.50% | ~-2 |
 | Essence Blow | -6.50% | ~-2 |
+| Flawless Victory | -6.50% | ~-2 |
 | Big Bazar | -6.50% | ~-2 |
 | Scholar | -6.50% | ~-2 |
 | I Found It | -6.50% | ~-2 |
@@ -33,7 +34,6 @@
 | To Battle | -9.70% | ~-3 |
 | Godslayer | -9.70% | ~-3 |
 | Tributes of Caladrias | -9.70% | ~-3 |
-| Flawless Victory | -9.70% | ~-3 |
 | Geared Up | -9.70% | ~-3 |
 | Alchemist | -9.70% | ~-3 |
 | Stone Collection | -9.70% | ~-3 |

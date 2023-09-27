@@ -9,8 +9,8 @@
 | Capitalism | 21.00% | ~36 |
 | There's something in those trees | 12.00% | ~21 |
 | Great Producer | 12.00% | ~21 |
+| Green Energy | 12.00% | ~21 |
 | Indebted | 11.00% | ~19 |
-| Green Energy | 11.00% | ~19 |
 | Desert Power | 10.00% | ~17 |
 | Health Care | 9.00% | ~15 |
 | Desert Rat | 9.00% | ~15 |

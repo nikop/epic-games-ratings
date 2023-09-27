@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15957,
+  "EOS_Progressed": 15963,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15208,
+  "EOS_NewPlayers": 15214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -642,6 +642,11 @@
       "Time": "2023-09-27T08:10:33.3054541+00:00",
       "NumProgressed": 15957,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T09:10:12.6296518+00:00",
+      "NumProgressed": 15963,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -678,15 +683,15 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 7181
+      "UsersEstimate": 7183
     },
     {
       "ID": "achievement_13",
       "SetID": "3o4m6ni",
       "Name": "Squad Building Completionist",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6545
     },
     {
       "ID": "achievement_14",
@@ -694,7 +699,7 @@
       "Name": "The Alchemist",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 6542
+      "UsersEstimate": 6545
     },
     {
       "ID": "achievement_15",
@@ -702,7 +707,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 7021
+      "UsersEstimate": 7024
     },
     {
       "ID": "achievement_16",
@@ -710,7 +715,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "achievement_17",
@@ -718,7 +723,7 @@
       "Name": "One Moment Please!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8939
     },
     {
       "ID": "achievement_18",
@@ -726,7 +731,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "achievement_19",
@@ -758,7 +763,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 14521
+      "UsersEstimate": 14526
     },
     {
       "ID": "achievement_22",
@@ -766,7 +771,7 @@
       "Name": "Level Up!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 7659
+      "UsersEstimate": 7662
     },
     {
       "ID": "achievement_23",
@@ -774,7 +779,7 @@
       "Name": "Graduation Day",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 6223
+      "UsersEstimate": 6226
     },
     {
       "ID": "achievement_24",
@@ -878,7 +883,7 @@
       "Name": "Golden Generation",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "achievement_36",
@@ -942,7 +947,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 5904
+      "UsersEstimate": 5906
     },
     {
       "ID": "achievement_7",
@@ -950,7 +955,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "achievement_8",
@@ -958,7 +963,7 @@
       "Name": "Power Shot",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 10212
+      "UsersEstimate": 10216
     },
     {
       "ID": "achievement_9",
@@ -966,20 +971,20 @@
       "Name": "Bring it on",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 15957,
+      "Progressed": 15963,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:10:33.3054534+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:10:12.6296511+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8173027+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:04:09.4076477+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:10:33.3055191+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:04:07.9727749+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:10:12.6296888+00:00"
 }

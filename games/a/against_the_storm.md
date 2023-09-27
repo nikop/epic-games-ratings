@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 5.00% | ~836 |
 | The Scarlet Orchard | 5.00% | ~836 |
 | Homesick | 4.00% | ~669 |
+| Bandit Camp | 4.00% | ~669 |
 | Ancient Battleground | 4.00% | ~669 |
 | Sparkdew Crystals | 4.00% | ~669 |
 | Royal Outpost | 4.00% | ~669 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 4.00% | ~669 |
 | Against All Odds | 3.00% | ~502 |
 | Ruined Armory | 3.00% | ~502 |
-| Bandit Camp | 3.00% | ~502 |
 | Barren Lands | 3.00% | ~502 |
 | Haunted Forest | 3.00% | ~502 |
 | Levitating Monument | 3.00% | ~502 |

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tour Guide Extraordinaire | 38.00% | ~21 |
 | Relight my Cannon | 36.00% | ~20 |
-| Tour Guide Extraordinaire | 36.00% | ~20 |
-| Glass Act | 32.00% | ~18 |
+| Glass Act | 34.00% | ~19 |
 | Puzzle Prodigy | 27.00% | ~15 |
-| Snitch | 23.00% | ~13 |
-| A Box of Tricks | 20.00% | ~11 |
+| Snitch | 25.00% | ~14 |
+| A Box of Tricks | 21.00% | ~12 |
+| Explosive End | 21.00% | ~12 |
 | Codebreaker | 20.00% | ~11 |
-| Explosive End | 20.00% | ~11 |
 | Set Sail | 20.00% | ~11 |
 | Backstory Buff | 18.00% | ~10 |
 | Breathless End | 18.00% | ~10 |
+| Finger-Lickin' Bad | 18.00% | ~10 |
 | Bathroom Brawler | 16.00% | ~9 |
-| Finger-Lickin' Bad | 16.00% | ~9 |
 | Flying High | 13.00% | ~7 |
 | Fool's Gold | 4.00% | ~2 |
 | Freedum Fighter | 4.00% | ~2 |
+| Key Keeper's Curse | 4.00% | ~2 |
 | Escape Artist | 2.00% | ~1 |
-| Key Keeper's Curse | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 56 (Ranked 416)  
 Completed: 1 (1.79%) (Ranked 106)  

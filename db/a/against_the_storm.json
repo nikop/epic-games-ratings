@@ -2962,7 +2962,7 @@
   ],
   "EOS_Progressed": 16726,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -11254,9 +11254,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 669
     },
     {
       "ID": "WinNearBarren",
@@ -11542,8 +11542,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-27T00:00:42.6825278+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:11:01.559364+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:10:41.2389707+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.750828+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:03:22.3312991+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:11:01.5595396+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:03:10.520697+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:10:41.2390806+00:00"
 }

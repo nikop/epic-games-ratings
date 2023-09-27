@@ -5,29 +5,29 @@ Rating: 4.82 (Ranked 66)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,485 |
-| No more cages! | 92.00% | ~2,382 |
-| Everfrost | 79.00% | ~2,045 |
-| Pentakill | 78.00% | ~2,019 |
-| Dark Forest | 78.00% | ~2,019 |
+| For Demacia | 96.00% | ~2,486 |
+| No more cages! | 92.00% | ~2,383 |
+| Everfrost | 79.00% | ~2,046 |
+| Pentakill | 78.00% | ~2,020 |
+| Dark Forest | 78.00% | ~2,020 |
 | The use of petricite | 75.00% | ~1,942 |
-| You can pet the dog | 61.00% | ~1,579 |
+| You can pet the dog | 61.00% | ~1,580 |
 | Big Helmet Bro | 38.00% | ~984 |
 | Thornbarrow | 38.00% | ~984 |
 | Clarion Cove | 38.00% | ~984 |
 | Elemental master | 36.00% | ~932 |
 | Past trauma | 36.00% | ~932 |
 | Ternmoat Headquarters | 36.00% | ~932 |
-| Cypress Glen Headquarters | 33.00% | ~854 |
-| Petricite Burst | 32.00% | ~828 |
+| Cypress Glen Headquarters | 33.00% | ~855 |
+| Petricite Burst | 32.00% | ~829 |
 | Old friend | 30.00% | ~777 |
 | Hijack | 29.00% | ~751 |
 | Devineur | 29.00% | ~751 |
 | Whispers in the Woods I | 27.00% | ~699 |
 | Ancient power | 26.00% | ~673 |
-| I chose my shackles | 25.00% | ~647 |
-| Sacred Woods | 24.00% | ~621 |
-| Capelworth | 23.00% | ~595 |
+| I chose my shackles | 25.00% | ~648 |
+| Sacred Woods | 24.00% | ~622 |
+| Capelworth | 23.00% | ~596 |
 | Little light | 22.00% | ~570 |
 | Iffighain Headquarters | 22.00% | ~570 |
 | Full equipped | 22.00% | ~570 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 66)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,589 (Ranked 191)  
+Progressed: 2,590 (Ranked 191)  
 Completed: 10 (0.39%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 10 (0.39%) (Ranked 176)
 | 2023-09-24 | 2,581 | 9 |
 | 2023-09-25 | 2,585 | 9 |
 | 2023-09-26 | 2,589 | 10 |
+| 2023-09-27 | 2,590 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

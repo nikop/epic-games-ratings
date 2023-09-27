@@ -8172,9 +8172,9 @@
       "Count": 673
     }
   ],
-  "EOS_Progressed": 297410,
+  "EOS_Progressed": 297412,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25452,6 +25452,11 @@
       "Time": "2023-09-27T08:12:23.1845997+00:00",
       "NumProgressed": 297410,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-27T09:12:04.4006955+00:00",
+      "NumProgressed": 297412,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25743,7 +25748,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14870
+      "UsersEstimate": 14871
     },
     {
       "ID": "PFA_42",
@@ -25791,7 +25796,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38663
+      "UsersEstimate": 38664
     },
     {
       "ID": "PFA_7",
@@ -25799,7 +25804,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38663
+      "UsersEstimate": 38664
     },
     {
       "ID": "PFA_8",
@@ -25822,7 +25827,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297410,
+      "Progressed": 297412,
       "Completed": 477
     }
   ],
@@ -25830,8 +25835,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-27T07:05:23.8298564+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:12:23.184599+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:12:04.400695+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:05:15.6632981+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:12:23.1848895+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:05:15.0096649+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:12:04.4008381+00:00"
 }

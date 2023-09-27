@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~194 |
-| Off to a good start | 67.00% | ~148 |
-| Do... or do not. There is no try | 48.00% | ~106 |
-| A good blaster at your side | 35.00% | ~77 |
+| New Recruit | 88.00% | ~195 |
+| Off to a good start | 66.00% | ~147 |
+| Do... or do not. There is no try | 48.00% | ~107 |
+| A good blaster at your side | 35.00% | ~78 |
 | Scrap collector | 24.00% | ~53 |
 | Great shot, kid! | 23.00% | ~51 |
 | The power of the Force | 20.00% | ~44 |
@@ -30,11 +30,11 @@
 | Patience you must have | 9.00% | ~20 |
 | Support the troops | 9.00% | ~20 |
 | Not bad for a little furball | 8.00% | ~18 |
-| I've been waiting for you | 7.00% | ~15 |
-| When 900 years old you reach... | 7.00% | ~15 |
-| Determined | 7.00% | ~15 |
-| On the ball | 7.00% | ~15 |
-| Don't underestimate the Force | 7.00% | ~15 |
+| I've been waiting for you | 7.00% | ~16 |
+| When 900 years old you reach... | 7.00% | ~16 |
+| Determined | 7.00% | ~16 |
+| On the ball | 7.00% | ~16 |
+| Don't underestimate the Force | 7.00% | ~16 |
 | Precision shot | 6.00% | ~13 |
 | City in the Clouds | 6.00% | ~13 |
 | That's no moon | 6.00% | ~13 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.50% | ~1 |
 | Crush them with one swift stroke… | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 328)  
+Progressed: 222 (Ranked 328)  
 Completed: 1 (0.45%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.45%) (Ranked 169)
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
-| 2023-09-27 | 221 | 1 |
+| 2023-09-27 | 222 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 401)  
+Rating: 4.60 (Ranked 402)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -53,8 +53,8 @@ Rating: 4.60 (Ranked 401)
 | Wunderkind | 2.00% | ~18 |
 | Fitting In | 2.00% | ~18 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |
+| A Lesson in Precision | 1.00% | ~9 |
 | No Time to Waste | 1.00% | ~9 |
-| A Lesson in Precision | 0.90% | ~8 |
 | Wildlife Protection | 0.80% | ~7 |
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |

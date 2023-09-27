@@ -12563,9 +12563,9 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882823,
+  "EOS_Progressed": 882849,
   "EOS_Completed": 2428,
-  "EOS_NewPlayers": 5608,
+  "EOS_NewPlayers": 5630,
   "EOS_NewCompleters": 307,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30508,6 +30508,11 @@
       "Time": "2023-09-27T08:10:33.9687977+00:00",
       "NumProgressed": 882823,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-09-27T09:10:13.3377015+00:00",
+      "NumProgressed": 882849,
+      "NumCompleted": 2428
     }
   ],
   "TotalAchievements": 57,
@@ -30599,7 +30604,7 @@
       "Name": "Gunslinger",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "HandyMan",
@@ -30621,9 +30626,9 @@
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5297
+      "UsersEstimate": 6180
     },
     {
       "ID": "LittleTokyo",
@@ -30647,7 +30652,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "MustBeTheRats",
@@ -30727,7 +30732,7 @@
       "Name": "The Devil",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "TheFool",
@@ -30735,15 +30740,15 @@
       "Name": "The Fool",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 4414
     },
     {
       "ID": "TheHightPriestess",
@@ -30759,7 +30764,7 @@
       "Name": "The Lovers",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "TheStar",
@@ -30791,7 +30796,7 @@
       "Name": "The World",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "ThisIsPacifica",
@@ -30837,17 +30842,17 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1766
+      "UsersEstimate": 2649
     },
     {
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5297
+      "UsersEstimate": 6180
     },
     {
       "ID": "YipMan",
@@ -30855,7 +30860,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -30974,21 +30979,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882823,
+      "Progressed": 882849,
       "Completed": 2428
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11446,
+      "Progressed": 11472,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T07:57:41.6042137+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:10:33.968797+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:10:13.3377009+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:57:41.6042143+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:10:33.9690919+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:57:37.8519906+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:10:13.3379243+00:00"
 }

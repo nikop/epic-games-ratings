@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 214,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 110,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1466,
+  "EOS_Progressed": 1467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5296,6 +5296,11 @@
       "Time": "2023-09-27T05:09:21.6197849+00:00",
       "NumProgressed": 1466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T09:12:10.1790407+00:00",
+      "NumProgressed": 1467,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5569,9 +5574,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -5610,14 +5615,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1466,
+      "Progressed": 1467,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:12:28.8814943+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:12:10.1790401+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:03:28.222967+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:12:28.8815579+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:03:16.2246848+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:12:10.1791009+00:00"
 }

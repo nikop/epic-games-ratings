@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| You have three wishes left | 100.00% | ~1 |
+| You have two wishes left | 100.00% | ~1 |
 | Master trainee | 0.00% | ~0 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
@@ -15,7 +17,6 @@
 | Fanatacism is... poisonous | 0.00% | ~0 |
 | Jung's dream | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
-| You have three wishes left | 0.00% | ~0 |
 | A rival with no options | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
@@ -49,7 +50,6 @@
 | The happy farmer girl | 0.00% | ~0 |
 | Diagnosis: fear | 0.00% | ~0 |
 | Ambition is... blind | 0.00% | ~0 |
-| You have two wishes left | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 588)  

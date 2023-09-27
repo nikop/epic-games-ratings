@@ -148,17 +148,17 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": -6.5,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_03",
@@ -204,9 +204,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": -6.5,
+      "Percentage": -3.2,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_09",
@@ -220,9 +220,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_11",
@@ -300,9 +300,9 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": -9.7,
+      "Percentage": -6.5,
       "XP": 40,
-      "UsersEstimate": -3
+      "UsersEstimate": -2
     },
     {
       "ID": "ACH_21",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:09:36.846864+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:02:47.292772+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:09:36.8469133+00:00"
+  "LastChanged_Achievements": "2023-09-27T09:09:15.524921+00:00",
+  "LastUpdate_Ratings": "2023-09-27T09:02:49.8319555+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:09:15.5249504+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
   "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:11:19.7598618+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:11:00.1509457+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6765463+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:05:08.0947405+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:11:19.7598665+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:05:04.5969121+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:11:00.1509501+00:00"
 }

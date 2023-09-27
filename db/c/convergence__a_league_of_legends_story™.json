@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
@@ -2526,9 +2526,9 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -2727,8 +2727,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:10:29.3754393+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:10:08.9322864+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:00:40.0041566+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:10:29.3755255+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:00:36.1987546+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:10:08.9323486+00:00"
 }

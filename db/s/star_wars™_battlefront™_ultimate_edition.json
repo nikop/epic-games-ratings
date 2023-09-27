@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-09-27T06:08:55.0308264+00:00",
       "NumProgressed": 221,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T09:10:43.3613432+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -594,7 +599,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_17",
@@ -618,7 +623,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_2",
@@ -658,7 +663,7 @@
       "Name": "Determined",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_24",
@@ -706,7 +711,7 @@
       "Name": "On the ball",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_3",
@@ -762,7 +767,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "achievement_36",
@@ -776,9 +781,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_38",
@@ -810,7 +815,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_41",
@@ -842,7 +847,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_45",
@@ -1026,7 +1031,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_9",
@@ -1041,13 +1046,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 1
     }
   ],
@@ -1055,8 +1060,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:11:03.505978+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:10:43.3613427+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:57:40.6511522+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:11:03.5060712+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:57:37.0245771+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:10:43.3614152+00:00"
 }

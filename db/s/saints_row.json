@@ -3696,9 +3696,9 @@
       "Count": 1067
     }
   ],
-  "EOS_Progressed": 72782,
+  "EOS_Progressed": 72783,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1103,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21581,6 +21581,11 @@
       "Time": "2023-09-27T08:08:21.2496692+00:00",
       "NumProgressed": 72782,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-27T09:07:59.2831264+00:00",
+      "NumProgressed": 72783,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 53,
@@ -21688,7 +21693,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22562
+      "UsersEstimate": 22563
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -21696,7 +21701,7 @@
       "Name": "Wet Work",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22562
+      "UsersEstimate": 22563
     },
     {
       "ID": "complete_mission_1",
@@ -21800,7 +21805,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23290
+      "UsersEstimate": 23291
     },
     {
       "ID": "fully_complete_a_building",
@@ -21824,7 +21829,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10189
+      "UsersEstimate": 10190
     },
     {
       "ID": "get_betrayed",
@@ -21976,7 +21981,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 30568
+      "UsersEstimate": 30569
     },
     {
       "ID": "whole_map_purple",
@@ -22015,22 +22020,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 72782,
+      "Progressed": 72783,
       "Completed": 49
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 44419,
-      "Completed": 3949
+      "Progressed": 44420,
+      "Completed": 3950
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-25T15:59:47.5026663+00:00",
-  "LastChanged_Achievements": "2023-09-27T08:08:21.2496686+00:00",
+  "LastChanged_Achievements": "2023-09-27T09:07:59.2831256+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.9460051+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:01:50.5121645+00:00",
-  "LastUpdate_Achievements": "2023-09-27T08:08:21.2499556+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:01:46.6154169+00:00",
+  "LastUpdate_Achievements": "2023-09-27T09:07:59.2832816+00:00"
 }
