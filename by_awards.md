@@ -3,10 +3,10 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,747,994 | 4.29 | 813 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 555,600 | 4.49 | 589 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 306,935 | 4.68 | 244 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 232,670 | 4.68 | 244 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 233,080 | 4.68 | 244 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 203,362 | 4.19 | 882 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 180,699 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 149,033 | 4.51 | 551 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 149,107 | 4.51 | 551 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 117,479 | 4.69 | 222 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 82,928 | 4.63 | 334 |
 | 10 | [VALORANT](games/v/valorant.md) | 72,367 | 4.53 | 525 |
@@ -153,7 +153,7 @@
 | 151 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 945 | 4.55 | 491 |
 | 151 | [Sonic Mania](games/s/sonic_mania.md) | 945 | 4.78 | 104 |
 | 153 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 882 | 4.44 | 657 |
-| 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 861 | 4.56 | 474 |
+| 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 863 | 4.56 | 474 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 856 | 4.45 | 645 |
 | 156 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 827 | 4.69 | 222 |
 | 157 | [Frostpunk](games/f/frostpunk.md) | 815 | 4.74 | 148 |
@@ -327,7 +327,7 @@
 | 324 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 119 | 4.36 | 757 |
 | 326 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 118 | 4.64 | 315 |
 | 327 | [Overcooked](games/o/overcooked.md) | 117 | 4.66 | 281 |
-| 328 | [The Outlast Trials](games/t/the_outlast_trials.md) | 115 | 4.66 | 281 |
+| 327 | [The Outlast Trials](games/t/the_outlast_trials.md) | 117 | 4.66 | 281 |
 | 329 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 113 | 4.40 | 715 |
 | 330 | [Faeria](games/f/faeria.md) | 111 | 4.46 | 632 |
 | 330 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 111 | 4.50 | 573 |

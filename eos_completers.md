@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.06% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 88.04% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.63% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.56% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 41 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 42 | [Scorn](games/s/scorn.md) | 7.04% |
 | 43 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.67% |
@@ -47,10 +47,10 @@
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 6.02% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.96% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.94% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.88% |
-| 51 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.51% |
+| 51 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.49% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 53 | [JARS](games/j/jars.md) | 5.19% |
 | 54 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
@@ -65,7 +65,7 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.84% |
-| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.77% |
+| 66 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.76% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
 | 68 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -118,10 +118,10 @@
 | 116 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.40% |
 | 117 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 118 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.36% |
-| 118 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.36% |
+| 119 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.35% |
 | 120 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.34% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
-| 122 | [Chorus](games/c/chorus.md) | 1.24% |
+| 122 | [Chorus](games/c/chorus.md) | 1.23% |
 | 123 | [Late Shift](games/l/late_shift.md) | 1.22% |
 | 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 125 | [Infindustry](games/i/infindustry.md) | 1.11% |

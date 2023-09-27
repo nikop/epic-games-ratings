@@ -253,7 +253,7 @@
 | 244 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,958 | 82 |
 | 244 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,424 | 77 |
 | 244 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 306,935 | 3 |
-| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 232,670 | 4 |
+| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 233,080 | 4 |
 | 244 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 525 |
 | 244 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 525 |
 | 244 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 566 | 191 |
@@ -298,7 +298,7 @@
 | 281 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 54 | 399 |
 | 281 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 566 | 191 |
 | 281 | [SOMA](games/s/soma.md) | 4.66 | 0 | 525 |
-| 281 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 115 | 328 |
+| 281 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 117 | 327 |
 | 281 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,895 | 61 |
 | 281 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,414 | 90 |
 | 281 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 206 |
@@ -478,7 +478,7 @@
 | 474 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46 | 418 |
 | 474 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 525 |
 | 474 | [Deceive Inc.](games/d/deceive_inc..md) | 4.56 | 0 | 525 |
-| 474 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 861 | 154 |
+| 474 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 863 | 154 |
 | 474 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 480 |
 | 474 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 314 | 237 |
 | 474 | [Hue](games/h/hue.md) | 4.56 | 0 | 525 |
@@ -554,7 +554,7 @@
 | 551 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 798 | 160 |
 | 551 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,130 | 80 |
 | 551 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 525 |
-| 551 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 149,033 | 7 |
+| 551 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 149,107 | 7 |
 | 551 | [Far Cry](games/f/far_cry.md) | 4.51 | 28 | 474 |
 | 551 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.51 | 0 | 525 |
 | 551 | [Horace](games/h/horace.md) | 4.51 | 0 | 525 |
