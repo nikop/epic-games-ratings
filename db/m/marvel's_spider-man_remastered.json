@@ -6,9 +6,9 @@
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 639,
-  "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
     "PcReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -6092,10 +6092,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 21171,
       "NumberOfAwardsMax": 12551
+    },
+    {
+      "Time": "2023-09-27T05:58:33.8717681+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 21172,
+      "NumberOfAwardsMax": 12551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21171,
+  "NumberOfAwards": 21172,
   "NumberOfAwardsMax": 12551,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6109,7 +6115,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 999
+      "Count": 1000
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6184,8 +6190,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2023-09-27T02:58:23.3054898+00:00",
+  "LastChanged": "2023-09-27T05:58:33.8717678+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.2892347+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:58:14.0407311+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:09:32.4191961+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:58:33.8717687+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:10:43.2051556+00:00"
 }

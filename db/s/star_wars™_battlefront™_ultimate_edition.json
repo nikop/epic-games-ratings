@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 82,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -521,6 +521,11 @@
       "Time": "2023-09-27T01:50:22.7675567+00:00",
       "NumProgressed": 220,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T06:08:55.0308264+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -565,7 +570,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_14",
@@ -677,7 +682,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_27",
@@ -709,7 +714,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_30",
@@ -723,9 +728,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_32",
@@ -749,7 +754,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_35",
@@ -757,7 +762,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_36",
@@ -773,7 +778,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_38",
@@ -795,9 +800,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_40",
@@ -1013,7 +1018,7 @@
       "Name": "A cunning warrior",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_8",
@@ -1036,13 +1041,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 1
     }
   ],
@@ -1050,8 +1055,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:07:20.5572494+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:08:55.030826+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:57:27.3284628+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:07:20.5573559+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:57:33.762022+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:08:55.0309102+00:00"
 }

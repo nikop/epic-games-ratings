@@ -6,19 +6,19 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 37.00% | ~1,905 |
-| It's a good start | 10.00% | ~515 |
-| Bonjour! | 7.00% | ~360 |
+| Bye Bye | 37.00% | ~1,907 |
+| It's a good start | 10.00% | ~516 |
+| Bonjour! | 7.00% | ~361 |
 | The Assistant | 6.00% | ~309 |
 | Quack | 6.00% | ~309 |
-| Ostinata | 5.00% | ~257 |
-| The Blue Marl | 5.00% | ~257 |
-| Better than nothing? | 5.00% | ~257 |
+| Ostinata | 5.00% | ~258 |
+| The Blue Marl | 5.00% | ~258 |
+| Better than nothing? | 5.00% | ~258 |
 | A long journey | 4.00% | ~206 |
-| Big Money | 3.00% | ~154 |
-| Keep the doctor away | 3.00% | ~154 |
-| Surprise of Langhe | 3.00% | ~154 |
-| Famous | 3.00% | ~154 |
+| Big Money | 3.00% | ~155 |
+| Keep the doctor away | 3.00% | ~155 |
+| Surprise of Langhe | 3.00% | ~155 |
+| Famous | 3.00% | ~155 |
 | What is that? A castle? | 2.00% | ~103 |
 | A lot of space | 2.00% | ~103 |
 | A big garage | 2.00% | ~103 |
@@ -26,9 +26,9 @@ Number of Ratings: 7,669  (23.09.2022)
 | Exotic | 2.00% | ~103 |
 | Welcome to the club | 2.00% | ~103 |
 | Very Important Winemaker | 2.00% | ~103 |
-| Pastry Chef | 1.00% | ~51 |
-| King of Langhe | 1.00% | ~51 |
-| Gem of Monferrato | 1.00% | ~51 |
+| Pastry Chef | 1.00% | ~52 |
+| King of Langhe | 1.00% | ~52 |
+| Gem of Monferrato | 1.00% | ~52 |
 | Treasure of Roero | 0.70% | ~36 |
 | Knight of Langhe | 0.60% | ~31 |
 | King of red wines | 0.30% | ~15 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~10 |
 | Master Winemaker | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,149 (Ranked 165)  
+Progressed: 5,155 (Ranked 165)  
 Completed: 7 (0.14%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 7 (0.14%) (Ranked 222)
 | 2023-09-24 | 4,854 | 6 |
 | 2023-09-25 | 4,996 | 6 |
 | 2023-09-26 | 5,120 | 7 |
-| 2023-09-27 | 5,149 | 7 |
+| 2023-09-27 | 5,155 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 274)  
 Sum: 1,590 (Ranked 218)  

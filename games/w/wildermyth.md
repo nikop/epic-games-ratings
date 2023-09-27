@@ -14,9 +14,9 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 29.00% | ~408 |
 | How Romantic! | 28.00% | ~394 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~366 |
+| Completing the Look | 15.00% | ~211 |
 | War Endured | 15.00% | ~211 |
 | A Mythic Menagerie | 14.00% | ~197 |
-| Completing the Look | 14.00% | ~197 |
 | Who's Counting? | 14.00% | ~197 |
 | Core Failure | 14.00% | ~197 |
 | Pyrrhic Victory | 11.00% | ~155 |
@@ -29,11 +29,11 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 7.00% | ~98 |
 | A Story of Heroes | 7.00% | ~98 |
 | Legends Never Die | 6.00% | ~84 |
+| Wingknight's Prowess | 6.00% | ~84 |
 | All My Birds, Safely Home | 6.00% | ~84 |
 | Turncoat | 6.00% | ~84 |
 | In Soil, In Smoke | 5.00% | ~70 |
 | A Hunger, Sated | 5.00% | ~70 |
-| Wingknight's Prowess | 5.00% | ~70 |
 | We Emerge Changed | 4.00% | ~56 |
 | Storied Past | 4.00% | ~56 |
 | Worldwalker | 4.00% | ~56 |

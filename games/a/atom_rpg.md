@@ -39,12 +39,12 @@ Number of Ratings: 54  (23.09.2022)
 | Expert | 0.40% | ~5 |
 | It's a classic! | 0.30% | ~4 |
 | Mystical relics | 0.20% | ~2 |
+| 27 Club | 0.10% | ~1 |
 | No Name, No Slogan | 0.10% | ~1 |
-| 27 Club | 0.00% | ~0 |
-| Pacifist | 0.00% | ~0 |
+| Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,245 (Ranked 219)  
-Completed: 0 (0.00%) (Ranked 294)  
+Completed: 1 (0.08%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,6 +179,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-24 | 1,232 | 0 |
 | 2023-09-25 | 1,239 | 0 |
 | 2023-09-26 | 1,245 | 0 |
+| 2023-09-27 | 1,245 | 1 |
 ## Awards
 Max (Character Customization): 50  (Ranked 408)  
 Sum: 50 (Ranked 458)  

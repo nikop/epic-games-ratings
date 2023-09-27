@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 280)  
+Rating: 4.66 (Ranked 281)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,9 +25,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,228 |
 | Prisoners | 5.00% | ~10,228 |
 | Too Early | 5.00% | ~10,228 |
-| Gear up | 4.00% | ~8,182 |
-| Happy little accidents | 4.00% | ~8,182 |
-| Still Rollin' | 4.00% | ~8,182 |
+| Gear up | 4.00% | ~8,183 |
+| Happy little accidents | 4.00% | ~8,183 |
+| Still Rollin' | 4.00% | ~8,183 |
 | Noboru | 3.00% | ~6,137 |
 | Stoned | 3.00% | ~6,137 |
 | The Old Way | 3.00% | ~6,137 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~2,046 |
 | Undeserved Honor | 1.00% | ~2,046 |
 | When Cut Across the Neck | 0.90% | ~1,841 |
-| High Five the Moon | 0.80% | ~1,636 |
-| The Cave | 0.80% | ~1,636 |
+| High Five the Moon | 0.80% | ~1,637 |
+| The Cave | 0.80% | ~1,637 |
 | Merciful | 0.50% | ~1,023 |
 | Time Paradox | 0.50% | ~1,023 |
 | Five Shadows | 0.30% | ~614 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,560 (Ranked 62)  
-Completed: 86 (0.04%) (Ranked 258)  
+Progressed: 204,563 (Ranked 62)  
+Completed: 86 (0.04%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 86 (0.04%) (Ranked 258)
 | 2023-09-24 | 204,189 | 86 |
 | 2023-09-25 | 204,356 | 86 |
 | 2023-09-26 | 204,537 | 86 |
-| 2023-09-27 | 204,560 | 86 |
+| 2023-09-27 | 204,563 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 191)  
 Sum: 4,775 (Ranked 136)  

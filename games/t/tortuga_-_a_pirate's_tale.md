@@ -5,22 +5,22 @@ Rating: 3.77 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,444 |
-| No Half Measures | 88.00% | ~14,306 |
-| Personal Matter | 87.00% | ~14,144 |
-| But You Have Heard of Me | 72.00% | ~11,705 |
-| Double the Barrels, double the Fun | 55.00% | ~8,941 |
-| Pimp My Glide | 48.00% | ~7,803 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,665 |
-| House Party! | 34.00% | ~5,527 |
-| Make It Rain | 23.00% | ~3,739 |
+| Eeligally Ambitious | 95.00% | ~15,446 |
+| No Half Measures | 88.00% | ~14,308 |
+| Personal Matter | 87.00% | ~14,145 |
+| But You Have Heard of Me | 72.00% | ~11,706 |
+| Double the Barrels, double the Fun | 55.00% | ~8,942 |
+| Pimp My Glide | 48.00% | ~7,804 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,666 |
+| House Party! | 34.00% | ~5,528 |
+| Make It Rain | 23.00% | ~3,740 |
 | Curse of the Seven Seas | 22.00% | ~3,577 |
 | Head First | 16.00% | ~2,601 |
 | To the World's End | 12.00% | ~1,951 |
 | Table for Six | 11.00% | ~1,788 |
 | Sharing Is Caring | 10.00% | ~1,626 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,301 |
-| Morally Flexible | 6.00% | ~975 |
+| Morally Flexible | 6.00% | ~976 |
 | Fishing for Compliments | 5.00% | ~813 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~488 |
 | A True Dandy | 2.00% | ~325 |
@@ -32,8 +32,8 @@ Rating: 3.77 (Ranked 991)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,257 (Ranked 126)  
-Completed: 0 (0.00%) (Ranked 294)  
+Progressed: 16,259 (Ranked 126)  
+Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-24 | 16,223 | 0 |
 | 2023-09-25 | 16,229 | 0 |
 | 2023-09-26 | 16,251 | 0 |
-| 2023-09-27 | 16,257 | 0 |
+| 2023-09-27 | 16,259 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 34.00% | ~4,413 |
-| Captain Drummer | 29.00% | ~3,764 |
-| Stogie for Fogey | 28.00% | ~3,634 |
-| Martian Music | 28.00% | ~3,634 |
-| Celebrations are in Order | 27.00% | ~3,504 |
+| Impossible Objects | 34.00% | ~4,414 |
+| Captain Drummer | 29.00% | ~3,765 |
+| Stogie for Fogey | 28.00% | ~3,635 |
+| Martian Music | 28.00% | ~3,635 |
+| Celebrations are in Order | 27.00% | ~3,505 |
 | Spore Taste | 26.00% | ~3,375 |
-| The Pit and the Pirates | 25.00% | ~3,245 |
-| Drone Dodger | 24.00% | ~3,115 |
-| Doctor Approved | 19.00% | ~2,466 |
-| Bosmang | 17.00% | ~2,206 |
+| The Pit and the Pirates | 25.00% | ~3,246 |
+| Drone Dodger | 24.00% | ~3,116 |
+| Doctor Approved | 19.00% | ~2,467 |
+| Bosmang | 17.00% | ~2,207 |
 | Thorston Mayer | 16.00% | ~2,077 |
-| Bottoms up! | 13.00% | ~1,687 |
-| Call it Even | 12.00% | ~1,557 |
+| Bottoms up! | 13.00% | ~1,688 |
+| Call it Even | 12.00% | ~1,558 |
 | Data Archivist | 11.00% | ~1,428 |
 | Heal Thy Medic | 11.00% | ~1,428 |
 | Khan's Revenge | 10.00% | ~1,298 |
-| Data Logger | 8.00% | ~1,038 |
+| Data Logger | 8.00% | ~1,039 |
 | Miraculous Maya | 7.00% | ~909 |
 | Data Master | 6.00% | ~779 |
 | Data Recoverer | 6.00% | ~779 |
@@ -36,8 +36,8 @@ Rating: 4.55 (Ranked 491)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,979 (Ranked 133)  
-Completed: 0 (0.00%) (Ranked 294)  
+Progressed: 12,982 (Ranked 133)  
+Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-24 | 12,539 | 0 |
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
-| 2023-09-27 | 12,979 | 0 |
+| 2023-09-27 | 12,982 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

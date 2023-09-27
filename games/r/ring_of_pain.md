@@ -6,64 +6,64 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~227,256 |
-| Uncharted Territory | 89.00% | ~210,685 |
-| Getting A Glimpse | 73.00% | ~172,809 |
-| A Quick Escape | 65.00% | ~153,871 |
-| Explorer | 62.00% | ~146,770 |
-| Defeat The Dark | 61.00% | ~144,402 |
-| An Offering | 61.00% | ~144,402 |
-| Colorful Corpse | 58.00% | ~137,300 |
-| That Was Quick | 57.00% | ~134,933 |
-| A Donation | 57.00% | ~134,933 |
-| Goodbye, Frog Friend | 54.00% | ~127,832 |
-| Heavy Hitter | 53.00% | ~125,464 |
+| First Steps | 96.00% | ~227,258 |
+| Uncharted Territory | 89.00% | ~210,687 |
+| Getting A Glimpse | 73.00% | ~172,811 |
+| A Quick Escape | 65.00% | ~153,873 |
+| Explorer | 62.00% | ~146,771 |
+| Defeat The Dark | 61.00% | ~144,403 |
+| An Offering | 61.00% | ~144,403 |
+| Colorful Corpse | 58.00% | ~137,302 |
+| That Was Quick | 57.00% | ~134,934 |
+| A Donation | 57.00% | ~134,934 |
+| Goodbye, Frog Friend | 54.00% | ~127,833 |
+| Heavy Hitter | 53.00% | ~125,465 |
 | Heartless | 46.00% | ~108,894 |
 | Spine Breaker | 46.00% | ~108,894 |
-| Deflection | 45.00% | ~106,526 |
-| Sneaky | 43.00% | ~101,792 |
-| Delving Deeper | 42.00% | ~99,424 |
-| C-C-Combo | 42.00% | ~99,424 |
-| Ambitious Intent | 41.00% | ~97,057 |
-| Nothing To Lose | 40.00% | ~94,690 |
-| The Bestiary | 40.00% | ~94,690 |
-| What's Yours Is Mine | 39.00% | ~92,323 |
-| R.I.P | 37.00% | ~87,588 |
-| Shootout | 36.00% | ~85,221 |
+| Deflection | 45.00% | ~106,527 |
+| Sneaky | 43.00% | ~101,793 |
+| Delving Deeper | 42.00% | ~99,425 |
+| C-C-Combo | 42.00% | ~99,425 |
+| Ambitious Intent | 41.00% | ~97,058 |
+| Nothing To Lose | 40.00% | ~94,691 |
+| The Bestiary | 40.00% | ~94,691 |
+| What's Yours Is Mine | 39.00% | ~92,324 |
+| R.I.P | 37.00% | ~87,589 |
+| Shootout | 36.00% | ~85,222 |
 | I Am Overburdened | 35.00% | ~82,854 |
-| Cold Hearted | 34.00% | ~80,486 |
-| Dig Your Own Grave | 33.00% | ~78,119 |
-| Toxic | 33.00% | ~78,119 |
-| Who To Trust? | 32.00% | ~75,752 |
-| Flesh Wound | 29.00% | ~68,650 |
-| Walk It Off | 28.00% | ~66,283 |
-| Stone Touch | 28.00% | ~66,283 |
-| Shadow Walker | 28.00% | ~66,283 |
+| Cold Hearted | 34.00% | ~80,487 |
+| Dig Your Own Grave | 33.00% | ~78,120 |
+| Toxic | 33.00% | ~78,120 |
+| Who To Trust? | 32.00% | ~75,753 |
+| Flesh Wound | 29.00% | ~68,651 |
+| Walk It Off | 28.00% | ~66,284 |
+| Stone Touch | 28.00% | ~66,284 |
+| Shadow Walker | 28.00% | ~66,284 |
 | Consecutive Curses | 27.00% | ~63,916 |
 | Acid Bath | 27.00% | ~63,916 |
 | New Perspectives | 27.00% | ~63,916 |
 | Shapeshifting | 27.00% | ~63,916 |
-| Destroy Your Fears | 26.00% | ~61,548 |
-| Save Our Souls | 25.00% | ~59,181 |
+| Destroy Your Fears | 26.00% | ~61,549 |
+| Save Our Souls | 25.00% | ~59,182 |
 | To The Death! | 20.00% | ~47,345 |
 | Well Prepared | 20.00% | ~47,345 |
 | Just Chilling | 20.00% | ~47,345 |
 | All Consuming | 19.00% | ~44,978 |
 | Stop Hitting Yourself | 19.00% | ~44,978 |
-| Shadow Spreads | 17.00% | ~40,243 |
-| Don't Ignore Me! | 17.00% | ~40,243 |
-| Illuminate, Eliminate | 17.00% | ~40,243 |
+| Shadow Spreads | 17.00% | ~40,244 |
+| Don't Ignore Me! | 17.00% | ~40,244 |
+| Illuminate, Eliminate | 17.00% | ~40,244 |
 | Max Damage! | 16.00% | ~37,876 |
 | Doing Time | 16.00% | ~37,876 |
 | Spreading Plague | 15.00% | ~35,509 |
 | The Long Run | 14.00% | ~33,142 |
-| A Rough Road | 13.00% | ~30,774 |
-| Chain Reaction | 13.00% | ~30,774 |
+| A Rough Road | 13.00% | ~30,775 |
+| Chain Reaction | 13.00% | ~30,775 |
 | Berzerker | 12.00% | ~28,407 |
 | Antivenom | 12.00% | ~28,407 |
 | Thank You, Friend | 11.00% | ~26,040 |
-| Barbecue | 10.00% | ~23,672 |
-| Snake Sneak | 10.00% | ~23,672 |
+| Barbecue | 10.00% | ~23,673 |
+| Snake Sneak | 10.00% | ~23,673 |
 | Precious | 9.00% | ~21,305 |
 | Challenge Increases | 8.00% | ~18,938 |
 | New Game+ | 8.00% | ~18,938 |
@@ -102,13 +102,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Overthrown | 3.00% | ~7,102 |
 | Illuminate, Annihilate | 3.00% | ~7,102 |
 | Masochist | 3.00% | ~7,102 |
-| Poor Choices | 2.00% | ~4,734 |
-| Not What I Meant | 2.00% | ~4,734 |
-| A Rock And A Hard Place | 2.00% | ~4,734 |
-| Sprinter | 2.00% | ~4,734 |
-| The Tickler | 2.00% | ~4,734 |
-| Minimalist | 2.00% | ~4,734 |
-| Quick To Pick | 2.00% | ~4,734 |
+| Poor Choices | 2.00% | ~4,735 |
+| Not What I Meant | 2.00% | ~4,735 |
+| A Rock And A Hard Place | 2.00% | ~4,735 |
+| Sprinter | 2.00% | ~4,735 |
+| The Tickler | 2.00% | ~4,735 |
+| Minimalist | 2.00% | ~4,735 |
+| Quick To Pick | 2.00% | ~4,735 |
 | Hanging On | 1.00% | ~2,367 |
 | For Science | 1.00% | ~2,367 |
 | Master of Strategy | 1.00% | ~2,367 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,184 |
 | Near Death Experience | 0.30% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,725 (Ranked 53)  
+Progressed: 236,727 (Ranked 53)  
 Completed: 274 (0.12%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 274 (0.12%) (Ranked 226)
 | 2023-09-24 | 236,599 | 274 |
 | 2023-09-25 | 236,655 | 274 |
 | 2023-09-26 | 236,717 | 274 |
-| 2023-09-27 | 236,725 | 274 |
+| 2023-09-27 | 236,727 | 274 |
 ## Awards
 Max (Quickly Understood Controls): 1,495  (Ranked 125)  
 Sum: 11,575 (Ranked 80)  

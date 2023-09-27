@@ -2,11 +2,11 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -1663,9 +1663,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 204560,
+  "EOS_Progressed": 204563,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 1344,
+  "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19698,6 +19698,11 @@
       "Time": "2023-09-27T05:10:13.8799543+00:00",
       "NumProgressed": 204560,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-09-27T06:11:35.0567829+00:00",
+      "NumProgressed": 204563,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 44,
@@ -19773,7 +19778,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8182
+      "UsersEstimate": 8183
     },
     {
       "ID": "Genin",
@@ -19789,7 +19794,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8182
+      "UsersEstimate": 8183
     },
     {
       "ID": "HappyPlanning",
@@ -19805,7 +19810,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "IceIceYuki",
@@ -19941,7 +19946,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8182
+      "UsersEstimate": 8183
     },
     {
       "ID": "Stoned",
@@ -19973,7 +19978,7 @@
       "Name": "The Cave",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "TheEnd",
@@ -20060,15 +20065,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 204560,
+      "Progressed": 204563,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-25T12:02:15.6586558+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:10:13.8799536+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:11:35.0567826+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.2179331+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:57:24.2509828+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:10:13.8801298+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:57:25.3707357+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:11:35.056958+00:00"
 }

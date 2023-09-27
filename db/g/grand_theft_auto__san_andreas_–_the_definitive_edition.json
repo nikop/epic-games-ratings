@@ -992,10 +992,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 435,
       "NumberOfAwardsMax": 314
+    },
+    {
+      "Time": "2023-09-27T05:59:47.2542406+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 437,
+      "NumberOfAwardsMax": 314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 435,
+  "NumberOfAwards": 437,
   "NumberOfAwardsMax": 314,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1027,7 +1033,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1036,9 +1042,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12950,
+  "EOS_Progressed": 12951,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -11711,6 +11717,11 @@
       "Time": "2023-09-27T05:04:18.5373204+00:00",
       "NumProgressed": 12950,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-27T06:05:55.2363481+00:00",
+      "NumProgressed": 12951,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -11770,7 +11781,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "ACH08",
@@ -11778,7 +11789,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6475
+      "UsersEstimate": 6476
     },
     {
       "ID": "ACH09",
@@ -11786,7 +11797,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH10",
@@ -11826,7 +11837,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACH15",
@@ -11850,7 +11861,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH18",
@@ -11890,7 +11901,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH23",
@@ -11946,7 +11957,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH30",
@@ -12001,16 +12012,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12950,
+      "Progressed": 12951,
       "Completed": 48
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-26T14:59:29.3113573+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:04:18.5373199+00:00",
+  "LastChanged": "2023-09-27T05:59:47.2542404+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:05:55.2363476+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:59:27.3667298+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:04:18.5375227+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:59:47.2542412+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:05:55.2364908+00:00"
 }

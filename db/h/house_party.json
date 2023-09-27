@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6289,
+  "EOS_Progressed": 6292,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5433,6 +5433,11 @@
       "Time": "2023-09-27T04:05:44.4401014+00:00",
       "NumProgressed": 6289,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-27T06:06:12.0814311+00:00",
+      "NumProgressed": 6292,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5620,7 +5625,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "GoodRiddance",
@@ -5995,21 +6000,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3328,
+      "Progressed": 3331,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6289,
+      "Progressed": 6292,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:04:32.2933678+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:06:12.0814306+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:06.5804023+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:01:41.5751002+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:04:32.2934914+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:02:43.3587008+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:06:12.0815376+00:00"
 }

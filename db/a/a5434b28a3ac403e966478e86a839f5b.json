@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -427,6 +427,11 @@
       "Time": "2023-09-27T01:47:34.9460882+00:00",
       "NumProgressed": 234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T06:06:28.3266276+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -439,15 +444,15 @@
       "Name": "Assassinate the Makron",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_eou2",
@@ -471,7 +476,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_eou5",
@@ -493,9 +498,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_eou8",
@@ -503,7 +508,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_mg2",
@@ -542,14 +547,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:04:45.742003+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:06:28.3266271+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:00:45.8021512+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:04:45.7420185+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:01:44.1710963+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:06:28.3266615+00:00"
 }

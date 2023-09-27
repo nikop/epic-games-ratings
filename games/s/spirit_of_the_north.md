@@ -1,21 +1,21 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 756)  
+Rating: 4.36 (Ranked 757)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~47,564 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~47,565 |
 | INFUSED WITH LIGHT | 53.00% | ~37,072 |
 | FOXIN' AROUND | 29.00% | ~20,285 |
 | FETCH | 27.00% | ~18,886 |
 | BLOOMS OF LIGHT | 26.00% | ~18,186 |
-| AWAKEN | 22.00% | ~15,388 |
-| BEST FRIENDS | 22.00% | ~15,388 |
+| AWAKEN | 22.00% | ~15,389 |
+| BEST FRIENDS | 22.00% | ~15,389 |
 | ERADICATE | 21.00% | ~14,689 |
 | SPIRIT BARK | 21.00% | ~14,689 |
-| GARDEN OF LIGHT | 18.00% | ~12,590 |
+| GARDEN OF LIGHT | 18.00% | ~12,591 |
 | SPIRIT FORM | 16.00% | ~11,192 |
 | WRITTEN IN STONE | 16.00% | ~11,192 |
 | UPROOTING DARKNESS | 15.00% | ~10,492 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,399 |
 | KINDRED SPIRITS | 0.60% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,947 (Ranked 86)  
+Progressed: 69,948 (Ranked 86)  
 Completed: 366 (0.52%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 366 (0.52%) (Ranked 161)
 | 2023-09-24 | 69,786 | 363 |
 | 2023-09-25 | 69,863 | 364 |
 | 2023-09-26 | 69,931 | 366 |
-| 2023-09-27 | 69,947 | 366 |
+| 2023-09-27 | 69,948 | 366 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 490)  
 Sum: 114 (Ranked 416)  

@@ -622,7 +622,7 @@
   ],
   "EOS_Progressed": 470,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1635,9 +1635,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_29",
@@ -1860,8 +1860,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-22T20:58:23.6909557+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:05:22.8070634+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:07:07.6865354+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:01:09.3116307+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:05:22.8071185+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:02:09.1130603+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:07:07.6865834+00:00"
 }

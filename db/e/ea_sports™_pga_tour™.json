@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.31,
+  "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -657,6 +657,11 @@
       "Time": "2023-09-27T04:11:15.8893187+00:00",
       "NumProgressed": 260,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-27T06:11:34.2643728+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -683,9 +688,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_12",
@@ -693,7 +698,7 @@
       "Name": "From Way Downtown",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_13",
@@ -723,17 +728,17 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_18",
@@ -741,7 +746,7 @@
       "Name": "Perfect Round",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_2",
@@ -757,7 +762,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_4",
@@ -779,9 +784,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_7",
@@ -797,28 +802,28 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:10:12.9305072+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:11:34.2643719+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:00:35.4640717+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:10:12.930546+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:01:23.8078125+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:11:34.2643917+00:00"
 }

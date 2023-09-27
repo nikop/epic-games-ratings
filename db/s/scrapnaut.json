@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1225,6 +1225,11 @@
       "Time": "2023-09-26T09:04:59.389402+00:00",
       "NumProgressed": 399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T06:07:28.3264043+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1284,7 +1289,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1324,7 +1329,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_COOK",
@@ -1372,7 +1377,7 @@
       "Name": "My New Home",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_KILL_100",
@@ -1483,7 +1488,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
@@ -1491,8 +1496,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:05:39.5425346+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:07:28.3264038+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:18.5468177+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:58:42.9567907+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:05:39.5425663+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:58:56.7607569+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:07:28.3264314+00:00"
 }

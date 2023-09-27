@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249722,
+  "EOS_Progressed": 249724,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15074,6 +15074,11 @@
       "Time": "2023-09-27T03:06:13.3067832+00:00",
       "NumProgressed": 249722,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-27T06:07:51.7067106+00:00",
+      "NumProgressed": 249724,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -15157,7 +15162,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37458
+      "UsersEstimate": 37459
     },
     {
       "ID": "clearCut",
@@ -15189,7 +15194,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49944
+      "UsersEstimate": 49945
     },
     {
       "ID": "didYourTime",
@@ -15261,7 +15266,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132353
+      "UsersEstimate": 132354
     },
     {
       "ID": "indegestible",
@@ -15325,7 +15330,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124861
+      "UsersEstimate": 124862
     },
     {
       "ID": "notScared",
@@ -15349,7 +15354,7 @@
       "Name": "Please The King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "readyFight",
@@ -15452,7 +15457,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249722,
+      "Progressed": 249724,
       "Completed": 5
     }
   ],
@@ -15460,8 +15465,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:06:18.4913176+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:07:51.7067101+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.1432168+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:59:20.0908721+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:06:18.4914692+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:59:39.0432518+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:07:51.7069069+00:00"
 }

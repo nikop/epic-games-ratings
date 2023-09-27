@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18377,
+  "EOS_Progressed": 18378,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -13167,6 +13167,11 @@
       "Time": "2023-09-27T04:09:39.2221699+00:00",
       "NumProgressed": 18377,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-27T06:10:09.196158+00:00",
+      "NumProgressed": 18378,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 14,
@@ -13178,7 +13183,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14334
+      "UsersEstimate": 14335
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -13210,7 +13215,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -13289,15 +13294,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18377,
+      "Progressed": 18378,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:09:05.6742822+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:10:09.1961573+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.2859158+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:01:26.499032+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:09:05.6743698+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:02:23.9151876+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:10:09.1962988+00:00"
 }

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~191 |
-| Off to a good start | 66.00% | ~145 |
+| New Recruit | 87.00% | ~192 |
+| Off to a good start | 66.00% | ~146 |
 | Do... or do not. There is no try | 48.00% | ~106 |
 | A good blaster at your side | 35.00% | ~77 |
-| Scrap collector | 25.00% | ~55 |
+| Scrap collector | 24.00% | ~53 |
 | Great shot, kid! | 23.00% | ~51 |
 | The power of the Force | 20.00% | ~44 |
-| I suggest a new strategy | 20.00% | ~44 |
+| I suggest a new strategy | 19.00% | ~42 |
 | Collector | 18.00% | ~40 |
 | All right, I'll give it a try | 18.00% | ~40 |
 | Shoot first | 18.00% | ~40 |
-| Together we can rule the galaxy | 17.00% | ~37 |
+| Together we can rule the galaxy | 17.00% | ~38 |
 | Tell Jabba that I've got his money | 14.00% | ~31 |
 | Survivor | 13.00% | ~29 |
-| What's the cargo? | 12.00% | ~26 |
-| Never tell me the odds! | 12.00% | ~26 |
-| Best star-pilot in the galaxy | 12.00% | ~26 |
-| A cunning warrior | 12.00% | ~26 |
+| What's the cargo? | 12.00% | ~27 |
+| Never tell me the odds! | 12.00% | ~27 |
+| Best star-pilot in the galaxy | 12.00% | ~27 |
+| A cunning warrior | 12.00% | ~27 |
 | A tremor in the Force | 11.00% | ~24 |
 | Impressive. Most impressive. | 11.00% | ~24 |
 | Judge me by my size, do you? | 11.00% | ~24 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.50% | ~1 |
 | Crush them with one swift stroke… | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 329)  
+Progressed: 221 (Ranked 328)  
 Completed: 1 (0.45%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.45%) (Ranked 169)
 | 2023-09-24 | 154 | 1 |
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
-| 2023-09-27 | 220 | 1 |
+| 2023-09-27 | 221 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

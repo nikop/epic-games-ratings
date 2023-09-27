@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3132,10 +3132,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4591,
       "NumberOfAwardsMax": 2755
+    },
+    {
+      "Time": "2023-09-27T05:59:08.3895259+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4593,
+      "NumberOfAwardsMax": 2755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4591,
+  "NumberOfAwards": 4593,
   "NumberOfAwardsMax": 2755,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3155,7 +3161,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 224
+      "Count": 226
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3200,7 +3206,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72880,
+  "EOS_Progressed": 72881,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 4,
@@ -16765,6 +16771,11 @@
       "Time": "2023-09-27T05:08:18.8323324+00:00",
       "NumProgressed": 72880,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-27T06:09:29.1376326+00:00",
+      "NumProgressed": 72881,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16824,7 +16835,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16762
+      "UsersEstimate": 16763
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -16888,7 +16899,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13118
+      "UsersEstimate": 13119
     },
     {
       "ID": "CLAYFACE_3",
@@ -16936,7 +16947,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9474
+      "UsersEstimate": 9475
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -16984,7 +16995,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9474
+      "UsersEstimate": 9475
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -17152,7 +17163,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20406
+      "UsersEstimate": 20407
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17168,7 +17179,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24779
+      "UsersEstimate": 24780
     },
     {
       "ID": "MYSTERY_02",
@@ -17184,7 +17195,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16762
+      "UsersEstimate": 16763
     },
     {
       "ID": "MYSTERY_04",
@@ -17200,7 +17211,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13118
+      "UsersEstimate": 13119
     },
     {
       "ID": "MYSTERY_06",
@@ -17263,22 +17274,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72880,
+      "Progressed": 72881,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43160,
+      "Progressed": 43161,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-27T03:59:05.658265+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:08:18.8323318+00:00",
+  "LastChanged": "2023-09-27T05:59:08.3895257+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:09:29.1376321+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:58:54.5355624+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:08:18.8324937+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:59:08.3895264+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:09:29.137868+00:00"
 }

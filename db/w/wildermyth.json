@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -1629,9 +1629,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1829,9 +1829,9 @@
       "ID": "cvawn_allDrauvenSurvivedMission",
       "SetID": "95dc8p",
       "Name": "Wingknight\u0027s Prowess",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 84
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -1997,8 +1997,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:09:08.2296708+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:10:12.3015059+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:06.8645337+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:59:15.2221918+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:09:08.2297304+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:59:36.3225983+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:10:12.3015635+00:00"
 }

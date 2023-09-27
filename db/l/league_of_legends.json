@@ -4,11 +4,11 @@
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 865,
   "Ranking_Popularity": 83,
-  "Ranking_PopularitySum": 58,
+  "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 639,
-  "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2009-10-27T16:30:00+00:00",
@@ -8998,11 +8998,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 18413,
       "NumberOfAwardsMax": 3872
+    },
+    {
+      "Time": "2023-09-27T06:01:50.9814151+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 18462,
+      "NumberOfAwardsMax": 3877
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18413,
-  "NumberOfAwardsMax": 3872,
+  "NumberOfAwards": 18462,
+  "NumberOfAwardsMax": 3877,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9015,37 +9021,37 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3872
+      "Count": 3877
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 3208
+      "Count": 3214
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2947
+      "Count": 2957
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2908
+      "Count": 2913
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2752
+      "Count": 2761
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2726
+      "Count": 2740
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9071,8 +9077,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-09-25T16:59:15.5424148+00:00",
+  "LastChanged": "2023-09-27T06:01:50.9814148+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:09.2650287+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:00:55.6600554+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:09:52.5225078+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:01:50.9814156+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:11:27.6134921+00:00"
 }

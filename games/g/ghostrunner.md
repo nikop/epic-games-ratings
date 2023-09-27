@@ -29,7 +29,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | R is for Running | 16.00% | ~3,025 |
 | Dead in the air | 15.00% | ~2,836 |
 | Improvise, adapt, overrun | 13.00% | ~2,458 |
-| Pre-empative strike | 12.00% | ~2,269 |
+| Pre-empative strike | 13.00% | ~2,458 |
 | Strike | 12.00% | ~2,269 |
 | More than human | 11.00% | ~2,080 |
 | Triple A | 9.00% | ~1,702 |

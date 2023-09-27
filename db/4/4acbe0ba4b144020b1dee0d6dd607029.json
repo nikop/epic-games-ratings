@@ -3,9 +3,9 @@
   "Name": "Popcorn Rocket",
   "ProductSlug": "popcorn-rocket-869bc8",
   "Ranking_EOS_Progress": 588,
-  "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-17T16:00:00+00:00",
     "PcReleaseDate": "2023-10-17T16:00:00+00:00",
@@ -373,8 +373,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-13T06:01:30.064155+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:06:31.814301+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:08:08.4488169+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:55.054545+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:01:03.4919624+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:06:31.8143312+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:01:59.8249391+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:08:08.4488461+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-09-25T17:04:13.5242605+00:00",
       "NumProgressed": 500,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-27T06:07:19.0064026+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1205,7 +1210,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "02_collector",
@@ -1333,7 +1338,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "18_foreman",
@@ -1381,7 +1386,7 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "24_mega",
@@ -1516,15 +1521,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-09-27T05:05:31.8941922+00:00",
+  "LastChanged_Achievements": "2023-09-27T06:07:19.0064021+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:01.7956204+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:02:55.2441653+00:00",
-  "LastUpdate_Achievements": "2023-09-27T05:05:31.8942354+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:04:14.8433551+00:00",
+  "LastUpdate_Achievements": "2023-09-27T06:07:19.0064392+00:00"
 }
