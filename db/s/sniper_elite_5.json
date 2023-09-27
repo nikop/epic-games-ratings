@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3673,
+  "EOS_Progressed": 3674,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6934,6 +6934,11 @@
       "Time": "2023-09-27T03:05:32.2105818+00:00",
       "NumProgressed": 3673,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-27T07:08:36.642784+00:00",
+      "NumProgressed": 3674,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6977,7 +6982,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -7001,7 +7006,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7081,7 +7086,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7097,7 +7102,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7193,7 +7198,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7313,7 +7318,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7409,7 +7414,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7512,13 +7517,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3624,
+      "Progressed": 3625,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3673,
+      "Progressed": 3674,
       "Completed": 11
     }
   ],
@@ -7526,8 +7531,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:07:03.5431769+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:08:36.6427835+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:03:06.4907062+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:07:03.5432988+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:04:18.7492426+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:08:36.6430275+00:00"
 }

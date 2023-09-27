@@ -303,9 +303,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -471,9 +471,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -487,9 +487,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -511,9 +511,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -783,9 +783,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -846,8 +846,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:38.5176698+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:10:10.7634602+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:03:26.8081468+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:38.5177537+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:04:46.4576913+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:10:10.7635738+00:00"
 }

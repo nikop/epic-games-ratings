@@ -5544,9 +5544,9 @@
       "Count": 417
     }
   ],
-  "EOS_Progressed": 178495,
+  "EOS_Progressed": 178508,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2176,
+  "EOS_NewPlayers": 2180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23464,6 +23464,11 @@
       "Time": "2023-09-27T06:10:18.1169223+00:00",
       "NumProgressed": 178495,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-27T07:11:31.0840561+00:00",
+      "NumProgressed": 178508,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23483,7 +23488,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "Achievement_10",
@@ -23507,7 +23512,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28559
+      "UsersEstimate": 28561
     },
     {
       "ID": "Achievement_13",
@@ -23515,7 +23520,7 @@
       "Name": "It\u0027s Not What You Know...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Achievement_14",
@@ -23523,7 +23528,7 @@
       "Name": "... It\u0027s What You Can Prove",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Achievement_15",
@@ -23555,7 +23560,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44624
+      "UsersEstimate": 44627
     },
     {
       "ID": "Achievement_5",
@@ -23571,7 +23576,7 @@
       "Name": "Confined",
       "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Achievement_7",
@@ -23587,7 +23592,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16065
+      "UsersEstimate": 16066
     },
     {
       "ID": "Achievement_9",
@@ -23602,15 +23607,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 178495,
+      "Progressed": 178508,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-26T21:57:07.9787354+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:10:18.1169201+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:11:31.0840555+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.9520016+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:57:10.4451063+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:10:18.1171076+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:57:42.2058488+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:11:31.08418+00:00"
 }

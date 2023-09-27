@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.27 (Ranked 825)  
+Rating: 4.27 (Ranked 824)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,776 |
+| Corner Clout | 46.00% | ~158,778 |
 | Copacetic Coordination | 16.00% | ~55,227 |
 | Fronting the Money | 15.00% | ~51,775 |
-| The Dawn of Automation | 14.00% | ~48,323 |
-| Extraordinary Logistics | 14.00% | ~48,323 |
+| The Dawn of Automation | 14.00% | ~48,324 |
+| Extraordinary Logistics | 14.00% | ~48,324 |
 | Dirty Money | 13.00% | ~44,872 |
 | Family First | 13.00% | ~44,872 |
 | Cleaning House | 12.00% | ~41,420 |
 | Room in the Back | 12.00% | ~41,420 |
-| Beating the Heat | 11.00% | ~37,968 |
-| Booze Baron | 11.00% | ~37,968 |
+| Beating the Heat | 11.00% | ~37,969 |
+| Booze Baron | 11.00% | ~37,969 |
 | Friends on the Force | 10.00% | ~34,517 |
 | Neighborhood Watch | 10.00% | ~34,517 |
-| Core Corps | 8.00% | ~27,613 |
-| Sizeable Stash | 8.00% | ~27,613 |
+| Core Corps | 8.00% | ~27,614 |
+| Sizeable Stash | 8.00% | ~27,614 |
 | Street Fighter | 7.00% | ~24,162 |
 | Friendly Gestures | 7.00% | ~24,162 |
 | People Person | 7.00% | ~24,162 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 825)
 | Full House | 1.00% | ~3,452 |
 | The Rubber Meets the Road | 1.00% | ~3,452 |
 | Cat’s Meow Clubs | 1.00% | ~3,452 |
-| Determined Deliveries | 0.90% | ~3,106 |
-| Stepping It Up | 0.90% | ~3,106 |
+| Determined Deliveries | 0.90% | ~3,107 |
+| Stepping It Up | 0.90% | ~3,107 |
 | Boots in the Ground | 0.80% | ~2,761 |
 | Getting Fancy | 0.80% | ~2,761 |
 | Crossing Over | 0.80% | ~2,761 |
@@ -70,8 +70,8 @@ Rating: 4.27 (Ranked 825)
 | High End Booze | 0.40% | ~1,381 |
 | Working on the Railroad | 0.40% | ~1,381 |
 | In-House Maintenance | 0.40% | ~1,381 |
-| Bottled Up | 0.30% | ~1,035 |
-| Streetwise | 0.30% | ~1,035 |
+| Bottled Up | 0.30% | ~1,036 |
+| Streetwise | 0.30% | ~1,036 |
 | Dirty Work | 0.20% | ~690 |
 | Balkan Firewater | 0.20% | ~690 |
 | Windy City Win | 0.10% | ~345 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 825)
 | High Pillow | 0.10% | ~345 |
 | Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,166 (Ranked 43)  
+Progressed: 345,169 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 7 (0.00%) (Ranked 295)
 | 2023-09-24 | 344,858 | 7 |
 | 2023-09-25 | 345,000 | 7 |
 | 2023-09-26 | 345,148 | 7 |
-| 2023-09-27 | 345,166 | 7 |
+| 2023-09-27 | 345,169 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 444)  
 Sum: 197 (Ranked 380)  

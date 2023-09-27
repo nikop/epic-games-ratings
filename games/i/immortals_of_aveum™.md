@@ -10,7 +10,7 @@ Rating: 4.00 (Ranked 952)
 | Enlisted | 75.00% | ~15 |
 | Unforeseen | 70.00% | ~14 |
 | No More Names | 60.00% | ~12 |
-| Initiate | 55.00% | ~11 |
+| Initiate | 60.00% | ~12 |
 | Thrada-Kul | 45.00% | ~9 |
 | Soldier | 40.00% | ~8 |
 | Gravity-Challenged Rocks | 40.00% | ~8 |
@@ -36,6 +36,7 @@ Rating: 4.00 (Ranked 952)
 | Periapt Viridian | 10.00% | ~2 |
 | Kitted Out | 5.00% | ~1 |
 | Best Dressed | 5.00% | ~1 |
+| Armaments Vert | 5.00% | ~1 |
 | Shroudfane Explorer | 5.00% | ~1 |
 | Grand Magnus | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
@@ -43,7 +44,6 @@ Rating: 4.00 (Ranked 952)
 | Petite Bourgeoisie | 0.00% | ~0 |
 | Witch-Taker | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
-| Armaments Vert | 0.00% | ~0 |
 | Master of Ultramarine | 0.00% | ~0 |
 | Master of Carmine | 0.00% | ~0 |
 | Master of Malachite | 0.00% | ~0 |

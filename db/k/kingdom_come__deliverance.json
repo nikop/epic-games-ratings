@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 16,
@@ -7530,9 +7530,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802785,
+  "EOS_Progressed": 802787,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25310,6 +25310,11 @@
       "Time": "2023-09-27T06:08:37.1533288+00:00",
       "NumProgressed": 802785,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-27T07:10:09.4003613+00:00",
+      "NumProgressed": 802787,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25401,7 +25406,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256891
+      "UsersEstimate": 256892
     },
     {
       "ID": "Bookworm",
@@ -25433,7 +25438,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200696
+      "UsersEstimate": 200697
     },
     {
       "ID": "Chivalrous",
@@ -25481,7 +25486,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80278
+      "UsersEstimate": 80279
     },
     {
       "ID": "DavidHorak",
@@ -25489,7 +25494,7 @@
       "Name": "David Horak",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "DieByTheSplinter",
@@ -25529,7 +25534,7 @@
       "Name": "Fighter",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "Firestarter",
@@ -25729,7 +25734,7 @@
       "Name": "Mercenary\u0027s Honour",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "Merciful",
@@ -25833,7 +25838,7 @@
       "Name": "Saviour",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "Scrooge",
@@ -25857,7 +25862,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88306
+      "UsersEstimate": 88307
     },
     {
       "ID": "Sniper",
@@ -25929,7 +25934,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88306
+      "UsersEstimate": 88307
     },
     {
       "ID": "TrialAndError",
@@ -25976,15 +25981,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802785,
+      "Progressed": 802787,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-26T23:58:03.0043501+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:37.1533281+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:10:09.4003606+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:58:21.0327361+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:37.15358+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:59:13.4361192+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:10:09.4011492+00:00"
 }

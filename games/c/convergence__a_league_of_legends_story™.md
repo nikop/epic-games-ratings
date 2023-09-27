@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 401)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 30.00% | ~268 |
-| The Mysterious Stranger | 24.00% | ~214 |
-| Rail Rat | 24.00% | ~214 |
+| The Mysterious Stranger | 24.00% | ~215 |
+| Rail Rat | 24.00% | ~215 |
 | Immaculate Aim | 21.00% | ~188 |
 | The Brass Boss | 21.00% | ~188 |
 | Make Up For Lost Time | 20.00% | ~179 |
@@ -16,10 +16,10 @@ Rating: 4.60 (Ranked 401)
 | No, Thanks! | 20.00% | ~179 |
 | Breaking Down Barriers | 20.00% | ~179 |
 | The Prince in Heels | 20.00% | ~179 |
+| Honest Mistake | 20.00% | ~179 |
 | Immaculate Aim | 20.00% | ~179 |
 | The Steel Shadow | 19.00% | ~170 |
 | The Wicked Twins | 19.00% | ~170 |
-| Honest Mistake | 19.00% | ~170 |
 | Fast Learner | 19.00% | ~170 |
 | Like Clockwork | 18.00% | ~161 |
 | The Betrayer | 18.00% | ~161 |
@@ -37,15 +37,15 @@ Rating: 4.60 (Ranked 401)
 | Chaincrawler Explorer | 11.00% | ~98 |
 | Family Memories | 11.00% | ~98 |
 | Ask Questions Later | 11.00% | ~98 |
-| Sump Explorer | 10.00% | ~89 |
-| Syron for Hope | 10.00% | ~89 |
-| Theater Explorer | 10.00% | ~89 |
-| Factorywood Explorer | 9.00% | ~80 |
-| Fairgrounds Explorer | 9.00% | ~80 |
-| Corin Goes Home | 8.00% | ~71 |
-| Sartorialist | 8.00% | ~71 |
-| Cultivair Explorer | 8.00% | ~71 |
-| Entresol Explorer | 8.00% | ~71 |
+| Sump Explorer | 10.00% | ~90 |
+| Syron for Hope | 10.00% | ~90 |
+| Theater Explorer | 10.00% | ~90 |
+| Factorywood Explorer | 9.00% | ~81 |
+| Fairgrounds Explorer | 9.00% | ~81 |
+| Corin Goes Home | 8.00% | ~72 |
+| Cultivair Explorer | 8.00% | ~72 |
+| Entresol Explorer | 8.00% | ~72 |
+| Sartorialist | 7.00% | ~63 |
 | Golem Hunter | 6.00% | ~54 |
 | Clovemary for Remembering | 5.00% | ~45 |
 | Rungs Was Right | 5.00% | ~45 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 401)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893 (Ranked 234)  
+Progressed: 895 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 5 (0.56%) (Ranked 156)
 | 2023-09-23 | 889 | 5 |
 | 2023-09-24 | 891 | 5 |
 | 2023-09-26 | 893 | 5 |
+| 2023-09-27 | 895 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

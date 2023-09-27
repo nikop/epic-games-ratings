@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1447,
+  "EOS_Progressed": 1448,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2870,6 +2870,11 @@
       "Time": "2023-09-27T04:07:57.954491+00:00",
       "NumProgressed": 1447,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T07:09:54.6567122+00:00",
+      "NumProgressed": 1448,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2913,7 +2918,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Commandos",
@@ -2929,7 +2934,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Defense_Common",
@@ -2993,7 +2998,7 @@
       "Name": "Grenadier",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Hard_Serpent",
@@ -3097,7 +3102,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "We_were_not_here",
@@ -3120,15 +3125,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1447,
+      "Progressed": 1448,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:22.5890307+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:09:54.6567116+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:00:05.2878253+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:22.5890893+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:01:04.1391624+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:09:54.6567516+00:00"
 }

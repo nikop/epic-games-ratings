@@ -1,13 +1,13 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 191)  
+Rating: 4.71 (Ranked 190)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,891 |
-| Cavalier | 25.00% | ~200,696 |
+| Blacksmith's Son | 32.00% | ~256,892 |
+| Cavalier | 25.00% | ~200,697 |
 | Fatso | 23.00% | ~184,641 |
 | Awakening | 21.00% | ~168,585 |
 | Ranger | 20.00% | ~160,557 |
@@ -18,9 +18,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Insomniac | 13.00% | ~104,362 |
 | Buddy | 12.00% | ~96,334 |
 | Thief | 12.00% | ~96,334 |
-| Sinner | 11.00% | ~88,306 |
-| Traveller | 11.00% | ~88,306 |
-| Convict | 10.00% | ~80,278 |
+| Sinner | 11.00% | ~88,307 |
+| Traveller | 11.00% | ~88,307 |
+| Convict | 10.00% | ~80,279 |
 | Haggler | 9.00% | ~72,251 |
 | McLovin | 7.00% | ~56,195 |
 | Runt | 7.00% | ~56,195 |
@@ -53,10 +53,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Stealth Killer | 1.00% | ~8,028 |
 | Bailiff | 0.90% | ~7,225 |
 | Tracker | 0.90% | ~7,225 |
-| David Horak | 0.70% | ~5,619 |
-| Fighter | 0.70% | ~5,619 |
-| Mercenary's Honour | 0.70% | ~5,619 |
-| Saviour | 0.70% | ~5,619 |
+| David Horak | 0.70% | ~5,620 |
+| Fighter | 0.70% | ~5,620 |
+| Mercenary's Honour | 0.70% | ~5,620 |
+| Saviour | 0.70% | ~5,620 |
 | Edward Kelly | 0.60% | ~4,817 |
 | I Can Quit Anytime | 0.50% | ~4,014 |
 | Perfectionist | 0.50% | ~4,014 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,785 (Ranked 16)  
+Progressed: 802,787 (Ranked 16)  
 Completed: 49 (0.01%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 49 (0.01%) (Ranked 279)
 | 2023-09-24 | 802,563 | 49 |
 | 2023-09-25 | 802,669 | 49 |
 | 2023-09-26 | 802,771 | 49 |
-| 2023-09-27 | 802,785 | 49 |
+| 2023-09-27 | 802,787 | 49 |
 ## Awards
 Max (Character Customization): 7,477  (Ranked 47)  
 Sum: 27,865 (Ranked 47)  

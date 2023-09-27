@@ -5,7 +5,7 @@
   "Ranking_Rating": 589,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 355,
-  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 82,
@@ -701,9 +701,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3248,
+  "EOS_Progressed": 3250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5766,6 +5766,11 @@
       "Time": "2023-09-27T06:08:34.3944728+00:00",
       "NumProgressed": 3248,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T07:10:06.6544904+00:00",
+      "NumProgressed": 3250,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5794,7 +5799,7 @@
       "Name": "Deadication",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -5802,7 +5807,7 @@
       "Name": "Death Becomes You",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -5834,7 +5839,7 @@
       "Name": "First Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5874,7 +5879,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -5898,7 +5903,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -5914,7 +5919,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -5922,7 +5927,7 @@
       "Name": "Season Finale",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -5930,7 +5935,7 @@
       "Name": "Spending Spree",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -5961,15 +5966,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3248,
+      "Progressed": 3250,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:34.3944722+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:10:06.6544899+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:57:50.8529234+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:34.3945385+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:58:29.190612+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:10:06.6545553+00:00"
 }

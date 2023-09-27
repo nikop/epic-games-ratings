@@ -4,31 +4,31 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Evasive prey | 50.00% | ~4 |
+| Bully of Bullies | 38.00% | ~3 |
+| Foraged | 38.00% | ~3 |
+| Merciful feat | 38.00% | ~3 |
+| Referee! | 38.00% | ~3 |
 | What's in the box?! | 38.00% | ~3 |
+| Fair Prey | 38.00% | ~3 |
+| Wild Kids | 38.00% | ~3 |
+| Fly Free | 38.00% | ~3 |
 | In The Palm Of My Hand | 25.00% | ~2 |
-| Bully of Bullies | 25.00% | ~2 |
 | Toys Are For Kids | 25.00% | ~2 |
 | Hospitalised | 25.00% | ~2 |
 | Paled | 25.00% | ~2 |
 | Schooled | 25.00% | ~2 |
-| Foraged | 25.00% | ~2 |
-| Merciful feat | 25.00% | ~2 |
 | Hunger | 25.00% | ~2 |
 | Far Ahead | 25.00% | ~2 |
 | No More Remains | 25.00% | ~2 |
-| Referee! | 25.00% | ~2 |
 | Signal interruption | 25.00% | ~2 |
 | Unladylike | 25.00% | ~2 |
 | Half hat | 25.00% | ~2 |
 | ...And Stay Dead! | 25.00% | ~2 |
 | Objection | 25.00% | ~2 |
-| Fair Prey | 25.00% | ~2 |
 | Sick Kids | 25.00% | ~2 |
 | Pale Kids | 25.00% | ~2 |
 | School Kids | 25.00% | ~2 |
-| Wild Kids | 25.00% | ~2 |
 | Post Industrial | 25.00% | ~2 |
-| Fly Free | 25.00% | ~2 |
 | Medicine ball | 25.00% | ~2 |
 | Mono Tones | 25.00% | ~2 |
 | Popcorn | 25.00% | ~2 |

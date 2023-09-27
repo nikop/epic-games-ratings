@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 893,
+  "EOS_Progressed": 895,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2280,6 +2280,11 @@
       "Time": "2023-09-26T10:05:58.2180543+00:00",
       "NumProgressed": 893,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-27T07:09:58.4589605+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2331,7 +2336,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ClockworkProgress1",
@@ -2353,9 +2358,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 63
     },
     {
       "ID": "CosmeticProgress1",
@@ -2371,7 +2376,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "EntresolChests1",
@@ -2379,7 +2384,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2395,7 +2400,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FairgroundsChests1",
@@ -2403,7 +2408,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2411,7 +2416,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2451,7 +2456,7 @@
       "Name": "Rail Rat",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "HexlockGift",
@@ -2585,9 +2590,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 179
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2635,7 +2640,7 @@
       "Name": "Sump Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SyronGift",
@@ -2643,7 +2648,7 @@
       "Name": "Syron for Hope",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2659,7 +2664,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2714,7 +2719,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 893,
+      "Progressed": 895,
       "Completed": 5
     }
   ],
@@ -2722,8 +2727,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:26.1852713+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:09:58.4589599+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:00:18.4655717+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:26.18535+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:01:14.8955746+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:09:58.4590688+00:00"
 }

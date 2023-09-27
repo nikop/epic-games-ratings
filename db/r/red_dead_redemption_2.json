@@ -13826,10 +13826,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 457071,
       "NumberOfAwardsMax": 180699
+    },
+    {
+      "Time": "2023-09-27T06:59:07.4277894+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 457104,
+      "NumberOfAwardsMax": 180699
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 457071,
+  "NumberOfAwards": 457104,
   "NumberOfAwardsMax": 180699,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -13915,7 +13921,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 13185
+      "Count": 13218
     }
   ],
   "EOS_Progressed": 0,
@@ -13929,8 +13935,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-26T23:57:58.3155917+00:00",
+  "LastChanged": "2023-09-27T06:59:07.4277891+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:00.7311722+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:58:17.0620396+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:07:53.7401655+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:59:07.4277902+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:09:26.2961797+00:00"
 }

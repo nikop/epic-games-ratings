@@ -2631,7 +2631,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534085,
+  "EOS_Progressed": 534086,
   "EOS_Completed": 1556,
   "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 3,
@@ -20066,6 +20066,11 @@
       "Time": "2023-09-27T06:07:37.8438428+00:00",
       "NumProgressed": 534085,
       "NumCompleted": 1556
+    },
+    {
+      "Time": "2023-09-27T07:09:10.4805423+00:00",
+      "NumProgressed": 534086,
+      "NumCompleted": 1556
     }
   ],
   "TotalAchievements": 37,
@@ -20093,7 +20098,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165566
+      "UsersEstimate": 165567
     },
     {
       "ID": "DEVOTED",
@@ -20333,7 +20338,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341814
+      "UsersEstimate": 341815
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -20372,15 +20377,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534085,
+      "Progressed": 534086,
       "Completed": 1556
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-24T20:57:23.7120946+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:07:37.8438423+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:09:10.4805418+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:58:55.9800164+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:07:37.8440193+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:59:47.6941005+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:09:10.4806793+00:00"
 }

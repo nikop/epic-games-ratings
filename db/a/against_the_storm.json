@@ -2960,9 +2960,9 @@
       "Count": 320
     }
   ],
-  "EOS_Progressed": 16725,
+  "EOS_Progressed": 16726,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -11120,6 +11120,11 @@
       "Time": "2023-09-26T23:07:12.1804698+00:00",
       "NumProgressed": 16725,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-27T07:10:26.1816647+00:00",
+      "NumProgressed": 16726,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 50,
@@ -11131,7 +11136,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "AllFood",
@@ -11203,7 +11208,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Win5Years",
@@ -11283,7 +11288,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "WinNearFertile",
@@ -11299,7 +11304,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "WinNearForbidden",
@@ -11307,7 +11312,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "WinNearHaunted",
@@ -11371,7 +11376,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "WinNearTorrent",
@@ -11491,7 +11496,7 @@
       "Name": "Like a Machine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -11515,7 +11520,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Year1Dangerous",
@@ -11523,22 +11528,22 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16725,
+      "Progressed": 16726,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-27T00:00:42.6825278+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:53.4455307+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:10:26.1816644+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.750828+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:02:27.1304133+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:53.4456764+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:03:23.8831019+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:10:26.1817572+00:00"
 }

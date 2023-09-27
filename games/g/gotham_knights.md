@@ -5,10 +5,10 @@ Rating: 4.18 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,898 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,508 |
+| First Step Into the Knight | 52.00% | ~37,899 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,509 |
 | Loose Ends | 34.00% | ~24,780 |
-| To the Victor Go the Spoils | 29.00% | ~21,135 |
+| To the Victor Go the Spoils | 29.00% | ~21,136 |
 | Knighthood | 28.00% | ~20,407 |
 | Get ReQ'd | 25.00% | ~18,220 |
 | Whispered Words | 25.00% | ~18,220 |
@@ -19,7 +19,7 @@ Rating: 4.18 (Ranked 894)
 | Working Hard or Harley Working? | 20.00% | ~14,576 |
 | Unstoppable Force | 20.00% | ~14,576 |
 | Bad Apples in Every Orchard | 20.00% | ~14,576 |
-| Snow Problem | 19.00% | ~13,847 |
+| Snow Problem | 19.00% | ~13,848 |
 | The Show Mud Go On | 18.00% | ~13,119 |
 | From Inside Gotham's Walls | 18.00% | ~13,119 |
 | Protector of Gotham | 17.00% | ~12,390 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 894)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,881 (Ranked 84)  
+Progressed: 72,882 (Ranked 84)  
 Completed: 118 (0.16%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 118 (0.16%) (Ranked 217)
 | 2023-09-24 | 72,808 | 117 |
 | 2023-09-25 | 72,826 | 118 |
 | 2023-09-26 | 72,863 | 118 |
-| 2023-09-27 | 72,881 | 118 |
+| 2023-09-27 | 72,882 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,755  (Ranked 96)  
 Sum: 4,593 (Ranked 139)  

@@ -506,9 +506,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_mg2",
@@ -553,8 +553,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:06:28.3266271+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:08:00.7952208+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:01:44.1710963+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:06:28.3266615+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:02:32.0580849+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:08:00.79524+00:00"
 }

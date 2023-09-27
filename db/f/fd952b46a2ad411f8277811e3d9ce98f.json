@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16500,
+  "EOS_Progressed": 16504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12262,
+  "EOS_NewPlayers": 12263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2724,6 +2724,11 @@
       "Time": "2023-09-27T06:09:34.1811457+00:00",
       "NumProgressed": 16500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T07:11:07.551273+00:00",
+      "NumProgressed": 16504,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -2736,7 +2741,7 @@
       "Name": "Soldier 47",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "firstKills_1",
@@ -2824,7 +2829,7 @@
       "Name": "Kar98 Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "kills_1",
@@ -2832,7 +2837,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 7590
+      "UsersEstimate": 7592
     },
     {
       "ID": "kills_100",
@@ -2840,7 +2845,7 @@
       "Name": "Rookie Riot",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "kills_1000",
@@ -2848,7 +2853,7 @@
       "Name": "Master Soldier",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "lastBulletKills_1",
@@ -2872,7 +2877,7 @@
       "Name": "Baton Soldier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "mru2_wins_1",
@@ -2896,7 +2901,7 @@
       "Name": "Royale Surgeon",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "silencedKills_25",
@@ -2936,7 +2941,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -2983,13 +2988,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 16500,
+      "Progressed": 16504,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:09:34.181145+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:11:07.5512725+00:00",
   "LastUpdate_AppInfo": "2023-09-20T10:57:12.6169736+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:59:37.1628669+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:09:34.1811814+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:00:31.4887103+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:11:07.551313+00:00"
 }

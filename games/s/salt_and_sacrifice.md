@@ -222,13 +222,13 @@ Completed: 1,224 (1.84%) (Ranked 103)
 | 2023-09-26 | 66,388 | 1,224 |
 | 2023-09-27 | 66,390 | 1,224 |
 ## Awards
-Max (Character Customization): 969  (Ranked 148)  
-Sum: 1,937 (Ranked 205)  
+Max (Character Customization): 970  (Ranked 148)  
+Sum: 1,939 (Ranked 205)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 969 |
-| This game has Great Boss Battles | 556 |
+| This game has Inclusive Character Customization | 970 |
+| This game has Great Boss Battles | 557 |
 | This game is Extremely Fun | 67 |
 | This game has Challenging Combat | 65 |
 | This game has Unique Visuals | 59 |
@@ -379,3 +379,4 @@ Diff (max vs sum): -57
 | 2023-09-15 | 4.31 | - | 966 | 1,932 |
 | 2023-09-21 | 4.31 | - | 968 | 1,934 |
 | 2023-09-23 | 4.31 | - | 969 | 1,937 |
+| 2023-09-27 | 4.31 | - | 970 | 1,939 |

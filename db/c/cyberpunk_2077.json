@@ -12557,9 +12557,9 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882775,
+  "EOS_Progressed": 882800,
   "EOS_Completed": 2427,
-  "EOS_NewPlayers": 5573,
+  "EOS_NewPlayers": 5591,
   "EOS_NewCompleters": 306,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -30492,6 +30492,11 @@
       "Time": "2023-09-27T06:08:29.8993444+00:00",
       "NumProgressed": 882775,
       "NumCompleted": 2427
+    },
+    {
+      "Time": "2023-09-27T07:10:02.1065211+00:00",
+      "NumProgressed": 882800,
+      "NumCompleted": 2427
     }
   ],
   "TotalAchievements": 57,
@@ -30589,9 +30594,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5297
+      "UsersEstimate": 6180
     },
     {
       "ID": "IAmMaxTac",
@@ -30789,9 +30794,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6179
+      "UsersEstimate": 7062
     },
     {
       "ID": "TrueSoldier",
@@ -30958,21 +30963,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882775,
+      "Progressed": 882800,
       "Completed": 2427
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11398,
+      "Progressed": 11423,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T02:57:30.2664016+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:29.8993439+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:10:02.1065207+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:57:34.5239377+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:29.8995751+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:58:05.7051315+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:10:02.1066837+00:00"
 }

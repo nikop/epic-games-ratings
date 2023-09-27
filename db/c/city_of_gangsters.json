@@ -2,12 +2,12 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 345166,
+  "EOS_Progressed": 345169,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18547,6 +18547,11 @@
       "Time": "2023-09-27T06:07:17.6082483+00:00",
       "NumProgressed": 345166,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-27T07:08:50.4830483+00:00",
+      "NumProgressed": 345169,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18646,7 +18651,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27613
+      "UsersEstimate": 27614
     },
     {
       "ID": "ach013",
@@ -18694,7 +18699,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27613
+      "UsersEstimate": 27614
     },
     {
       "ID": "ach019",
@@ -18766,7 +18771,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158776
+      "UsersEstimate": 158778
     },
     {
       "ID": "ach028",
@@ -18782,7 +18787,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37968
+      "UsersEstimate": 37969
     },
     {
       "ID": "ach030",
@@ -18830,7 +18835,7 @@
       "Name": "Bottled Up",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ach036",
@@ -18878,7 +18883,7 @@
       "Name": "Streetwise",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ach042",
@@ -18958,7 +18963,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37968
+      "UsersEstimate": 37969
     },
     {
       "ID": "ach052",
@@ -19062,7 +19067,7 @@
       "Name": "Determined Deliveries",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ach066",
@@ -19070,7 +19075,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48323
+      "UsersEstimate": 48324
     },
     {
       "ID": "ach067",
@@ -19078,7 +19083,7 @@
       "Name": "Stepping It Up",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ach068",
@@ -19094,7 +19099,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48323
+      "UsersEstimate": 48324
     },
     {
       "ID": "ach070",
@@ -19197,7 +19202,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345166,
+      "Progressed": 345169,
       "Completed": 7
     }
   ],
@@ -19205,8 +19210,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-26T19:57:39.174823+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:07:17.6082477+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:08:50.4830477+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:57:40.4099664+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:07:17.6084865+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:58:09.9007759+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:08:50.483257+00:00"
 }

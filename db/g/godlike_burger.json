@@ -2,7 +2,7 @@
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 275,
@@ -1048,9 +1048,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "GB_KEVIN",
@@ -1161,8 +1161,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:07:34.2725944+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:09:06.7374907+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:05:25.0830846+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:07:34.2726389+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:06:56.6424165+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:09:06.7375295+00:00"
 }

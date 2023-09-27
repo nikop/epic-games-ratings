@@ -6,38 +6,38 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~719,963 |
-| The Blues | 85.00% | ~618,150 |
-| Fast | 66.00% | ~479,975 |
-| Healthbar | 55.00% | ~399,979 |
-| Force Cube | 53.00% | ~385,435 |
-| Double Jump | 48.00% | ~349,073 |
-| Regeneration | 47.00% | ~341,800 |
-| Triple Jump | 43.00% | ~312,711 |
-| Climb the hill | 42.00% | ~305,439 |
-| Through the fire pipe | 39.00% | ~283,622 |
-| MacGuffin | 38.00% | ~276,349 |
-| Just once | 37.00% | ~269,077 |
-| Armor | 30.00% | ~218,170 |
-| True holy spirit | 28.00% | ~203,626 |
-| That's how electronics work obviously | 27.00% | ~196,353 |
-| Force Cube Catapult | 25.00% | ~181,809 |
-| Holy Sword | 23.00% | ~167,264 |
-| Telefrag | 23.00% | ~167,264 |
-| Freed from prison | 21.00% | ~152,719 |
-| Stomp | 21.00% | ~152,719 |
-| Double Health | 18.00% | ~130,902 |
-| Buckle | 17.00% | ~123,630 |
-| Green Keycard | 17.00% | ~123,630 |
-| All Shells | 15.00% | ~109,085 |
-| Rattle Hag | 15.00% | ~109,085 |
-| Beam | 14.00% | ~101,813 |
+| Out of bed | 99.00% | ~719,968 |
+| The Blues | 85.00% | ~618,154 |
+| Fast | 66.00% | ~479,978 |
+| Healthbar | 55.00% | ~399,982 |
+| Force Cube | 53.00% | ~385,437 |
+| Double Jump | 48.00% | ~349,075 |
+| Regeneration | 47.00% | ~341,803 |
+| Triple Jump | 43.00% | ~312,713 |
+| Climb the hill | 42.00% | ~305,441 |
+| Through the fire pipe | 39.00% | ~283,624 |
+| MacGuffin | 38.00% | ~276,351 |
+| Just once | 37.00% | ~269,079 |
+| Armor | 30.00% | ~218,172 |
+| True holy spirit | 28.00% | ~203,627 |
+| That's how electronics work obviously | 27.00% | ~196,355 |
+| Force Cube Catapult | 25.00% | ~181,810 |
+| Holy Sword | 23.00% | ~167,265 |
+| Telefrag | 23.00% | ~167,265 |
+| Freed from prison | 21.00% | ~152,720 |
+| Stomp | 21.00% | ~152,720 |
+| Double Health | 18.00% | ~130,903 |
+| Buckle | 17.00% | ~123,631 |
+| Green Keycard | 17.00% | ~123,631 |
+| All Shells | 15.00% | ~109,086 |
+| Rattle Hag | 15.00% | ~109,086 |
+| Beam | 14.00% | ~101,814 |
 | Health Drink | 13.00% | ~94,541 |
 | Helped a star | 13.00% | ~94,541 |
 | 9 | 13.00% | ~94,541 |
 | Purple Cube | 13.00% | ~94,541 |
 | Supraball Noob | 13.00% | ~94,541 |
-| Strong | 12.00% | ~87,268 |
+| Strong | 12.00% | ~87,269 |
 | Blue King's lair | 11.00% | ~79,996 |
 | Payback | 11.00% | ~79,996 |
 | Got the coins back | 11.00% | ~79,996 |
@@ -51,11 +51,11 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~72,724 |
 | Translocator | 10.00% | ~72,724 |
 | Yellow Shot Button | 10.00% | ~72,724 |
-| Moon Door | 9.00% | ~65,451 |
-| Momentum | 9.00% | ~65,451 |
-| Through the tiny pipe | 9.00% | ~65,451 |
-| Win! | 9.00% | ~65,451 |
-| The real real teleported man | 7.00% | ~50,906 |
+| Moon Door | 9.00% | ~65,452 |
+| Momentum | 9.00% | ~65,452 |
+| Through the tiny pipe | 9.00% | ~65,452 |
+| Win! | 9.00% | ~65,452 |
+| The real real teleported man | 7.00% | ~50,907 |
 | Well deserved | 6.00% | ~43,634 |
 | Happiness | 3.00% | ~21,817 |
 | Super Sword | 3.00% | ~21,817 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~727 |
 | DLC: Top of the world | 0.10% | ~727 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,235 (Ranked 19)  
+Progressed: 727,240 (Ranked 19)  
 Completed: 739 (0.10%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,14 +265,14 @@ Completed: 739 (0.10%) (Ranked 234)
 | 2023-09-24 | 727,016 | 738 |
 | 2023-09-25 | 727,114 | 738 |
 | 2023-09-26 | 727,218 | 739 |
-| 2023-09-27 | 727,235 | 739 |
+| 2023-09-27 | 727,240 | 739 |
 ## Awards
-Max (Challenging Puzzles): 7,691  (Ranked 46)  
-Sum: 10,024 (Ranked 88)  
+Max (Challenging Puzzles): 7,692  (Ranked 46)  
+Sum: 10,025 (Ranked 88)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,691 |
+| This game features Challenging Puzzles | 7,692 |
 | This game is Educational | 282 |
 | This game is Relaxing | 277 |
 | This game has Amazing Storytelling | 276 |
@@ -445,3 +445,4 @@ Diff (max vs sum): -42
 | 2023-09-21 | 4.61 | - | 7,689 | 10,022 |
 | 2023-09-23 | 4.61 | - | 7,690 | 10,023 |
 | 2023-09-25 | 4.61 | - | 7,691 | 10,024 |
+| 2023-09-27 | 4.61 | - | 7,692 | 10,025 |

@@ -8086,24 +8086,30 @@
       "Rating": 4.76,
       "NumberOfAwards": 44398,
       "NumberOfAwardsMax": 23061
+    },
+    {
+      "Time": "2023-09-27T07:05:23.8298566+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44441,
+      "NumberOfAwardsMax": 23085
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44398,
-  "NumberOfAwardsMax": 23061,
+  "NumberOfAwards": 44441,
+  "NumberOfAwardsMax": 23085,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 23061
+      "Count": 23085
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11396
+      "Count": 11415
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8166,9 +8172,9 @@
       "Count": 673
     }
   ],
-  "EOS_Progressed": 297407,
+  "EOS_Progressed": 297408,
   "EOS_Completed": 477,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25436,6 +25442,11 @@
       "Time": "2023-09-27T06:10:24.0708857+00:00",
       "NumProgressed": 297407,
       "NumCompleted": 477
+    },
+    {
+      "Time": "2023-09-27T07:11:37.0761444+00:00",
+      "NumProgressed": 297408,
+      "NumCompleted": 477
     }
   ],
   "TotalAchievements": 45,
@@ -25511,7 +25522,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20818
+      "UsersEstimate": 20819
     },
     {
       "ID": "PFA_18",
@@ -25806,16 +25817,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297407,
+      "Progressed": 297408,
       "Completed": 477
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-27T01:45:35.1052783+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:10:24.0708852+00:00",
+  "LastChanged": "2023-09-27T07:05:23.8298564+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:11:37.0761439+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:04:04.5560923+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:10:24.0710171+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:05:23.8298571+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:11:37.076297+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 205,
+  "Ranking_Rating": 206,
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 101,
@@ -769,7 +769,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40645,
+  "EOS_Progressed": 40648,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 0,
@@ -18614,6 +18614,11 @@
       "Time": "2023-09-27T06:08:55.5143017+00:00",
       "NumProgressed": 40645,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-27T07:10:28.2431647+00:00",
+      "NumProgressed": 40648,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18665,7 +18670,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10974
+      "UsersEstimate": 10975
     },
     {
       "ID": "goals180",
@@ -18753,7 +18758,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6503
+      "UsersEstimate": 6504
     },
     {
       "ID": "playerFelipe",
@@ -18936,15 +18941,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40645,
+      "Progressed": 40648,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:55.5143011+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:10:28.2431642+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-27T05:58:59.4857445+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:55.5145257+00:00"
+  "LastUpdate_Ratings": "2023-09-27T06:59:57.3879684+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:10:28.2433052+00:00"
 }

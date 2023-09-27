@@ -39,10 +39,10 @@ Rating: 4.54 (Ranked 511)
 | Smorgasbord | 0.70% | ~4,808 |
 | Jumbo Keyring | 0.70% | ~4,808 |
 | Internet Famous | 0.60% | ~4,121 |
-| Make it So | 0.50% | ~3,434 |
-| On Safari | 0.50% | ~3,434 |
-| Not Even My Final Form | 0.50% | ~3,434 |
-| Variety is the Spice of Death | 0.50% | ~3,434 |
+| Make it So | 0.50% | ~3,435 |
+| On Safari | 0.50% | ~3,435 |
+| Not Even My Final Form | 0.50% | ~3,435 |
+| Variety is the Spice of Death | 0.50% | ~3,435 |
 | LA Influential | 0.40% | ~2,748 |
 | Gore Horse | 0.40% | ~2,748 |
 | Sole Survivor | 0.30% | ~2,061 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,895 (Ranked 22)  
+Progressed: 686,902 (Ranked 22)  
 Completed: 2,176 (0.32%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2,176 (0.32%) (Ranked 188)
 | 2023-09-24 | 685,851 | 2,172 |
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
-| 2023-09-27 | 686,895 | 2,176 |
+| 2023-09-27 | 686,902 | 2,176 |
 ## Awards
 Max (Great Boss Battles): 6,217  (Ranked 57)  
 Sum: 9,254 (Ranked 92)  

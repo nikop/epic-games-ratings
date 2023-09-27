@@ -6,27 +6,27 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,406 |
-| I'll Be Back | 85.00% | ~3,984 |
-| Sorry, I Dropped This | 77.00% | ~3,609 |
-| First Day on the Job | 77.00% | ~3,609 |
+| On My Own Two Feet | 94.00% | ~4,407 |
+| I'll Be Back | 85.00% | ~3,985 |
+| Sorry, I Dropped This | 77.00% | ~3,610 |
+| First Day on the Job | 77.00% | ~3,610 |
 | Butcher's Bill | 55.00% | ~2,578 |
-| P.A.X | 37.00% | ~1,734 |
-| Hey Listen | 37.00% | ~1,734 |
-| OPERATOR | 36.00% | ~1,687 |
+| P.A.X | 37.00% | ~1,735 |
+| Hey Listen | 37.00% | ~1,735 |
+| OPERATOR | 36.00% | ~1,688 |
 | It's Blue Light | 33.00% | ~1,547 |
 | Most Wanted | 26.00% | ~1,219 |
 | Infidel | 23.00% | ~1,078 |
 | GOLIATH | 21.00% | ~984 |
-| Firebug | 20.00% | ~937 |
+| Firebug | 20.00% | ~938 |
 | I Choose You | 18.00% | ~844 |
 | Nothing to Lose | 18.00% | ~844 |
 | Big Sister | 16.00% | ~750 |
 | SENTINEL | 16.00% | ~750 |
 | Gear Up | 15.00% | ~703 |
 | Core Power | 13.00% | ~609 |
-| The Black Cerberus | 12.00% | ~562 |
-| Watchman | 12.00% | ~562 |
+| The Black Cerberus | 12.00% | ~563 |
+| Watchman | 12.00% | ~563 |
 | CREO Killed the Video Star | 11.00% | ~516 |
 | Who's in Charge Here? | 11.00% | ~516 |
 | Shall Not Pass | 11.00% | ~516 |
@@ -48,9 +48,9 @@ Number of Ratings: 62  (23.09.2022)
 | Man of Steel | 5.00% | ~234 |
 | Jack of All Trades | 5.00% | ~234 |
 | 3-2-1 | 5.00% | ~234 |
-| For the Good of Mankind | 4.00% | ~187 |
-| Rusty Rat | 4.00% | ~187 |
-| Desecration | 4.00% | ~187 |
+| For the Good of Mankind | 4.00% | ~188 |
+| Rusty Rat | 4.00% | ~188 |
+| Desecration | 4.00% | ~188 |
 | Turing Test | 3.00% | ~141 |
 | Repeat Customer | 3.00% | ~141 |
 | Evolution Theory | 3.00% | ~141 |
@@ -67,14 +67,14 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~94 |
 | Gramophone Enthusiast | 2.00% | ~94 |
 | Bling-Bling | 1.00% | ~47 |
-| Sniffing Around | 0.80% | ~37 |
+| Sniffing Around | 0.80% | ~38 |
 | Modus Operandi | 0.70% | ~33 |
 | Suited and Booted | 0.70% | ~33 |
 | Tools of War | 0.70% | ~33 |
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,687 (Ranked 168)  
+Progressed: 4,688 (Ranked 168)  
 Completed: 16 (0.34%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 16 (0.34%) (Ranked 185)
 | 2023-09-24 | 4,671 | 16 |
 | 2023-09-25 | 4,679 | 16 |
 | 2023-09-26 | 4,684 | 16 |
-| 2023-09-27 | 4,687 | 16 |
+| 2023-09-27 | 4,688 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 469)  
 Sum: 29 (Ranked 485)  

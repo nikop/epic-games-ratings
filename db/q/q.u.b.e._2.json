@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 465,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1953,6 +1953,11 @@
       "Time": "2023-09-27T05:06:45.8050478+00:00",
       "NumProgressed": 464,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T07:09:57.4926976+00:00",
+      "NumProgressed": 465,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1971,9 +1976,9 @@
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 74
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -2157,7 +2162,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_S4",
@@ -2165,7 +2170,7 @@
       "Name": "Power Glove",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_S5",
@@ -2181,7 +2186,7 @@
       "Name": "Lost in Space",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_STATUE",
@@ -2196,15 +2201,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 465,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-27T06:08:25.3015381+00:00",
+  "LastChanged_Achievements": "2023-09-27T07:09:57.4926971+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:04:08.669093+00:00",
-  "LastUpdate_Achievements": "2023-09-27T06:08:25.3015745+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:05:25.5384863+00:00",
+  "LastUpdate_Achievements": "2023-09-27T07:09:57.4927315+00:00"
 }
