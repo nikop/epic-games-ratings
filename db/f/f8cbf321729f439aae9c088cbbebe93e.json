@@ -4,7 +4,7 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -25,9 +25,99 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-27T10:09:15.6934484+00:00",
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "_00",
+      "SetID": "670ak8f",
+      "Name": "Immunity",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_01",
+      "SetID": "670ak8f",
+      "Name": "Let there be light",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_02",
+      "SetID": "670ak8f",
+      "Name": "Only one family",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_03",
+      "SetID": "670ak8f",
+      "Name": "Strategist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_04",
+      "SetID": "670ak8f",
+      "Name": "Multitasking",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_05",
+      "SetID": "670ak8f",
+      "Name": "Lazy bones",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_06",
+      "SetID": "670ak8f",
+      "Name": "Gossiper",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_07",
+      "SetID": "670ak8f",
+      "Name": "Mastermind",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_08",
+      "SetID": "670ak8f",
+      "Name": "Real Adventurer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_09",
+      "SetID": "670ak8f",
+      "Name": "Champion",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_10",
+      "SetID": "670ak8f",
+      "Name": "Legend",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "670ak8f",
@@ -37,8 +127,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:12:48.0078031+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:09:15.6934447+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:09.2330063+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:06:46.5040247+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:12:48.007807+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:03:25.7152108+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:09:15.7344458+00:00"
 }

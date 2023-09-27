@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43332,
+  "EOS_Progressed": 43333,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15751,6 +15751,11 @@
       "Time": "2023-09-27T07:09:36.3156777+00:00",
       "NumProgressed": 43332,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-27T10:06:14.9385694+00:00",
+      "NumProgressed": 43333,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15762,7 +15767,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24699
+      "UsersEstimate": 24700
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15786,7 +15791,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7366
+      "UsersEstimate": 7367
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -15794,7 +15799,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -15834,7 +15839,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -15970,7 +15975,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8666
+      "UsersEstimate": 8667
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -15994,7 +15999,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13866
+      "UsersEstimate": 13867
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -16002,7 +16007,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27299
+      "UsersEstimate": 27300
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -16026,7 +16031,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25999
+      "UsersEstimate": 26000
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -16034,7 +16039,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29032
+      "UsersEstimate": 29033
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -16050,7 +16055,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -16066,7 +16071,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19499
+      "UsersEstimate": 19500
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -16098,7 +16103,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40299
+      "UsersEstimate": 40300
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16113,7 +16118,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43332,
+      "Progressed": 43333,
       "Completed": 238
     }
   ],
@@ -16121,8 +16126,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:09:42.9617895+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:06:14.938569+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:30.907602+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:57:06.8812304+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:09:42.9620088+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:57:19.9993922+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:06:14.938702+00:00"
 }

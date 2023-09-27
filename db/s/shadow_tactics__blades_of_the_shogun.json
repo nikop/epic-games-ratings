@@ -6,7 +6,7 @@
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -1663,9 +1663,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 204583,
+  "EOS_Progressed": 204586,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 1343,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19718,6 +19718,11 @@
       "Time": "2023-09-27T09:13:01.7568094+00:00",
       "NumProgressed": 204583,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-09-27T10:09:25.4725083+00:00",
+      "NumProgressed": 204586,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 44,
@@ -19729,7 +19734,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20458
+      "UsersEstimate": 20459
     },
     {
       "ID": "AtheistOx",
@@ -19897,7 +19902,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6137
+      "UsersEstimate": 6138
     },
     {
       "ID": "Okkoto",
@@ -19969,7 +19974,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6137
+      "UsersEstimate": 6138
     },
     {
       "ID": "StonedOx",
@@ -20009,7 +20014,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6137
+      "UsersEstimate": 6138
     },
     {
       "ID": "Thorough",
@@ -20017,7 +20022,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20458
+      "UsersEstimate": 20459
     },
     {
       "ID": "TimeParadox",
@@ -20080,15 +20085,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 204583,
+      "Progressed": 204586,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-25T12:02:15.6586558+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:13:01.7568085+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:09:25.4725078+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.2179331+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:57:30.1239263+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:13:01.756955+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:57:37.1843969+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:09:25.4726556+00:00"
 }

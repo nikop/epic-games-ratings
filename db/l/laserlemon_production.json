@@ -92,9 +92,9 @@
       "ID": "AshesToAshes",
       "SetID": "c36hpcf",
       "Name": "Ashes to Ashes",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 155,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Elusive",
@@ -148,9 +148,9 @@
       "ID": "ImLosingYou",
       "SetID": "c36hpcf",
       "Name": "I\u0027m Losing You",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "IsAnybodyOutThere",
@@ -252,9 +252,9 @@
       "ID": "WellMeetAgain",
       "SetID": "c36hpcf",
       "Name": "We\u0027ll Meet Again",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:08:52.8540897+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:05:29.3121315+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:03:16.820985+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:08:52.8541077+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:01:17.3497905+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:05:29.3121478+00:00"
 }

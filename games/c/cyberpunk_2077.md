@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 1.00% | ~8,828 |
-| Rough Landing | 1.00% | ~8,828 |
+| Ten out of Ten | 1.00% | ~8,829 |
+| Rough Landing | 1.00% | ~8,829 |
 | Gunslinger | 0.90% | ~7,946 |
 | The Jungle | 0.80% | ~7,063 |
 | Master Crafter | 0.70% | ~6,180 |
 | Mean Streets | 0.70% | ~6,180 |
+| Two Heads, One Bullet | 0.70% | ~6,180 |
 | V for Vendetta | 0.70% | ~6,180 |
 | The High Priestess | 0.60% | ~5,297 |
-| Two Heads, One Bullet | 0.60% | ~5,297 |
 | Full Body Conversion | 0.50% | ~4,414 |
 | Right Back At Ya | 0.50% | ~4,414 |
 | Breathtaking | 0.50% | ~4,414 |
 | Stanislavski's Method | 0.50% | ~4,414 |
 | The Hermit | 0.50% | ~4,414 |
 | True Soldier | 0.50% | ~4,414 |
-| To Bad Decisions! | 0.40% | ~3,531 |
-| Temperance | 0.40% | ~3,531 |
-| The Wheel of Fortune | 0.40% | ~3,531 |
-| True Warrior | 0.40% | ~3,531 |
-| Legend of The Afterlife | 0.40% | ~3,531 |
+| To Bad Decisions! | 0.40% | ~3,532 |
+| Temperance | 0.40% | ~3,532 |
+| The Wheel of Fortune | 0.40% | ~3,532 |
+| True Warrior | 0.40% | ~3,532 |
+| Legend of The Afterlife | 0.40% | ~3,532 |
 | The Quick and the Dead | 0.30% | ~2,649 |
 | The Devil | 0.30% | ~2,649 |
 | The Fool | 0.30% | ~2,649 |
 | The Lovers | 0.30% | ~2,649 |
 | The World | 0.30% | ~2,649 |
+| Greetings from Pacifica! | 0.30% | ~2,649 |
 | Judy vs Night City | 0.30% | ~2,649 |
 | It's Elementary | 0.30% | ~2,649 |
 | City Lights | 0.20% | ~1,766 |
 | Gun Fu | 0.20% | ~1,766 |
 | Christmas Tree Attack | 0.20% | ~1,766 |
-| Greetings from Pacifica! | 0.20% | ~1,766 |
 | Bushido and Chill | 0.10% | ~883 |
 | To Protect and Serve | 0.10% | ~883 |
 | The Wandering Fool | 0.10% | ~883 |
@@ -50,9 +50,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.10% | ~883 |
 | The Star | 0.10% | ~883 |
 | The Sun | 0.10% | ~883 |
-| The APB is Not Enough | 0.10% | ~11 |
-| Spin Doctor | 0.10% | ~11 |
-| Relic Ruler | 0.10% | ~11 |
+| The APB is Not Enough | 0.10% | ~12 |
+| Spin Doctor | 0.10% | ~12 |
+| Relic Ruler | 0.10% | ~12 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,849 (Ranked 15)  
-Completed: 2,428 (0.28%) (Ranked 198)  
+Progressed: 882,881 (Ranked 15)  
+Completed: 2,429 (0.28%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 2,428 (0.28%) (Ranked 198)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 882,849 | 2,428 |
+| 2023-09-27 | 882,881 | 2,429 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
 Sum: 228,127 (Ranked 13)  

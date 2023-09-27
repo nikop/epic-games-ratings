@@ -1068,17 +1068,17 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1235,8 +1235,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:12:58.3469952+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:09:23.0665072+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:59:01.9782466+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:12:58.3470395+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:58:41.3114094+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:09:23.0665292+00:00"
 }

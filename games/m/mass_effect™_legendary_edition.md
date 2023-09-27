@@ -21,7 +21,7 @@
 | Soldier | 52.00% | ~214 |
 | Medal of Exploration III | 52.00% | ~214 |
 | Asari Ally | 51.00% | ~210 |
-| Principled | 50.00% | ~206 |
+| Principled | 51.00% | ~210 |
 | Soldier Ally | 48.00% | ~197 |
 | Colonial Savior | 48.00% | ~197 |
 | Sentinel Ally | 45.00% | ~185 |

@@ -3,8 +3,8 @@
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -726,6 +726,11 @@
       "Time": "2023-09-26T23:05:53.057955+00:00",
       "NumProgressed": 155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T10:05:46.0575796+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -751,9 +756,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 83
     },
     {
       "ID": "CollectCurses",
@@ -775,9 +780,9 @@
       "ID": "DemonHunter",
       "SetID": "7g1kpc8",
       "Name": "Demonologist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "FinalBoss",
@@ -793,7 +798,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "FirstBoss",
@@ -807,9 +812,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "FourthBoss",
@@ -841,7 +846,7 @@
       "Name": "Leprechaun",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MonsterSlayer",
@@ -855,9 +860,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "ReturnShell",
@@ -896,14 +901,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:09:16.2014219+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:05:46.0575788+00:00",
   "LastUpdate_AppInfo": "2023-09-25T14:57:08.8738883+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:05:26.8945359+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:09:16.2014443+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:02:37.4962602+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:05:46.0576012+00:00"
 }

@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232589,
+  "EOS_Progressed": 232590,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17158,6 +17158,11 @@
       "Time": "2023-09-27T09:12:30.7280723+00:00",
       "NumProgressed": 232589,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-27T10:09:03.5218364+00:00",
+      "NumProgressed": 232590,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -17305,7 +17310,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76754
+      "UsersEstimate": 76755
     },
     {
       "ID": "NOBUNAGA",
@@ -17361,7 +17366,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11629
+      "UsersEstimate": 11630
     },
     {
       "ID": "RESPWND",
@@ -17433,22 +17438,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95361
+      "UsersEstimate": 95362
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232589,
+      "Progressed": 232590,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:12:30.7280715+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:09:03.5218359+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:50.3170305+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:58:12.4961846+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:12:30.7282114+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:58:00.4934665+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:09:03.5219644+00:00"
 }

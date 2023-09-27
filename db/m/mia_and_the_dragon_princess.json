@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -379,9 +379,9 @@
       "ID": "flying_high",
       "SetID": "5anb57n",
       "Name": "Flying High",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "fools_gold",
@@ -466,8 +466,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:11:24.6561916+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:07:46.9945415+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:15.3596765+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:05:53.3022028+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:11:24.656209+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:02:51.5465653+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:07:46.9945577+00:00"
 }

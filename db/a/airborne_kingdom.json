@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7237,
+  "EOS_Progressed": 7238,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4534,6 +4534,11 @@
       "Time": "2023-09-27T08:07:33.5521204+00:00",
       "NumProgressed": 7237,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-27T10:03:41.3431499+00:00",
+      "NumProgressed": 7238,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4561,7 +4566,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -4601,7 +4606,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -4609,7 +4614,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -4625,7 +4630,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -4641,7 +4646,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4673,7 +4678,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -4681,7 +4686,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -4689,7 +4694,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -4760,15 +4765,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7237,
+      "Progressed": 7238,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:07:10.5366711+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:03:41.3431494+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:11.6542569+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:04:33.1809519+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:07:10.5367194+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:01:55.8287521+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:03:41.3431957+00:00"
 }

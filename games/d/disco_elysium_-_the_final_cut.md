@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,094 |
-| Biggest Communism Builder | 24.00% | ~30,938 |
+| Goodest Of The Good Cops | 28.00% | ~36,095 |
+| Biggest Communism Builder | 24.00% | ~30,939 |
 | The World's Most Laughable Centrist | 20.00% | ~25,782 |
-| Il Coppo Del'Arte! | 18.00% | ~23,203 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,625 |
-| Hyperstellar Law Official | 16.00% | ~20,625 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,047 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,047 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,758 |
+| Il Coppo Del'Arte! | 18.00% | ~23,204 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,626 |
+| Hyperstellar Law Official | 16.00% | ~20,626 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,048 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,048 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,759 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,180 |
 | Unbelievably Boring **** | 9.00% | ~11,602 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,602 |
 | Enemy Of The Physical Realm | 8.00% | ~10,313 |
-| Hardie's Heroes | 6.00% | ~7,734 |
+| Hardie's Heroes | 6.00% | ~7,735 |
 | The Lawbringer | 4.00% | ~5,156 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,156 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,867 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,908 (Ranked 71)  
+Progressed: 128,912 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,14 +207,14 @@ Completed: 28 (0.02%) (Ranked 270)
 | 2023-09-24 | 128,733 | 28 |
 | 2023-09-25 | 128,809 | 28 |
 | 2023-09-26 | 128,897 | 28 |
-| 2023-09-27 | 128,908 | 28 |
+| 2023-09-27 | 128,912 | 28 |
 ## Awards
-Max (Character Customization): 725  (Ranked 167)  
-Sum: 1,092 (Ranked 238)  
+Max (Character Customization): 726  (Ranked 167)  
+Sum: 1,093 (Ranked 238)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 725 |
+| This game has Inclusive Character Customization | 726 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 43 |
@@ -360,3 +360,4 @@ Diff (max vs sum): -71
 | 2023-09-21 | 4.87 | - | 723 | 1,089 |
 | 2023-09-22 | 4.87 | - | 724 | 1,090 |
 | 2023-09-25 | 4.87 | - | 725 | 1,092 |
+| 2023-09-27 | 4.87 | - | 726 | 1,093 |

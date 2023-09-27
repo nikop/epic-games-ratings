@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 617,
+  "EOS_Progressed": 618,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2679,6 +2679,11 @@
       "Time": "2023-09-27T01:47:55.7493397+00:00",
       "NumProgressed": 617,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T10:04:40.8946318+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2866,7 +2871,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Packing20",
@@ -2946,7 +2951,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "TrattoriaSet",
@@ -3009,7 +3014,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 617,
+      "Progressed": 618,
       "Completed": 0
     }
   ],
@@ -3017,8 +3022,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:08:14.4951693+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:04:40.8946313+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.2940443+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:06:32.2792622+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:08:14.4952943+00:00"
+  "LastUpdate_Ratings": "2023-09-27T10:03:18.4844598+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:04:40.8946843+00:00"
 }

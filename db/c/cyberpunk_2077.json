@@ -12563,10 +12563,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882849,
-  "EOS_Completed": 2428,
-  "EOS_NewPlayers": 5630,
-  "EOS_NewCompleters": 307,
+  "EOS_Progressed": 882881,
+  "EOS_Completed": 2429,
+  "EOS_NewPlayers": 5652,
+  "EOS_NewCompleters": 308,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30513,6 +30513,11 @@
       "Time": "2023-09-27T09:10:13.3377015+00:00",
       "NumProgressed": 882849,
       "NumCompleted": 2428
+    },
+    {
+      "Time": "2023-09-27T10:06:36.6343457+00:00",
+      "NumProgressed": 882881,
+      "NumCompleted": 2429
     }
   ],
   "TotalAchievements": 57,
@@ -30532,7 +30537,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "BushidoAndChill",
@@ -30708,7 +30713,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "Temperance",
@@ -30716,7 +30721,7 @@
       "Name": "Temperance",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30724,7 +30729,7 @@
       "Name": "Rough Landing",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "TheDevil",
@@ -30788,7 +30793,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "TheWorld",
@@ -30802,9 +30807,9 @@
       "ID": "ThisIsPacifica",
       "SetID": "47clieb",
       "Name": "Greetings from Pacifica!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1766
+      "UsersEstimate": 2649
     },
     {
       "ID": "TradeUnion",
@@ -30828,15 +30833,15 @@
       "Name": "True Warrior",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5297
+      "UsersEstimate": 6180
     },
     {
       "ID": "UnderPressure",
@@ -30868,7 +30873,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "All the President\u0027s Men",
@@ -30900,7 +30905,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Easycomeeasygo",
@@ -30924,7 +30929,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Kingofcups",
@@ -30964,7 +30969,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "UltimateSurvivor",
@@ -30979,21 +30984,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882849,
-      "Completed": 2428
+      "Progressed": 882881,
+      "Completed": 2429
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11472,
+      "Progressed": 11504,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T07:57:41.6042137+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:10:13.3377009+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:06:36.6343451+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:57:37.8519906+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:10:13.3379243+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:57:42.1296807+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:06:36.6345169+00:00"
 }

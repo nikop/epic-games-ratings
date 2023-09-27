@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.60% | ~85 |
 | Old World Order | 0.60% | ~85 |
 | The Eternal Treaty | 0.50% | ~71 |
+| Learn to Play 5 | 0.50% | ~71 |
 | Persia | 0.50% | ~71 |
 | Play a Free-For-All Game (>2 Players) | 0.50% | ~71 |
 | Capturing Cities | 0.50% | ~71 |
@@ -153,7 +154,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.50% | ~71 |
 | Ancient | 0.40% | ~57 |
 | Glorious Difficulty | 0.40% | ~57 |
-| Learn to Play 5 | 0.40% | ~57 |
 | Hatti | 0.40% | ~57 |
 | Pantheon of Gods | 0.40% | ~57 |
 | Siege Tower | 0.40% | ~57 |
@@ -304,7 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,147 (Ranked 130)  
-Completed: 5 (0.04%) (Ranked 259)  
+Completed: 5 (0.04%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

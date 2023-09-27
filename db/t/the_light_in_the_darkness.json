@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2437,
+  "EOS_Progressed": 2438,
   "EOS_Completed": 222,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 9.11,
   "EosHistory": [
@@ -6208,6 +6208,11 @@
       "Time": "2023-09-26T22:04:28.2805917+00:00",
       "NumProgressed": 2437,
       "NumCompleted": 222
+    },
+    {
+      "Time": "2023-09-27T10:03:37.3088171+00:00",
+      "NumProgressed": 2438,
+      "NumCompleted": 222
     }
   ],
   "TotalAchievements": 12,
@@ -6227,7 +6232,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Building the Fox",
@@ -6283,7 +6288,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6307,14 +6312,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2437,
+      "Progressed": 2438,
       "Completed": 222
     }
   ],
@@ -6322,8 +6327,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:07:04.7198624+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:03:37.3088167+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:34.8068967+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:57:08.4682874+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:07:04.7206806+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:57:20.9792656+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:03:37.3088777+00:00"
 }

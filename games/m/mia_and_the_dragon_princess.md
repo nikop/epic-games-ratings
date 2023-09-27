@@ -17,7 +17,7 @@
 | Breathless End | 18.00% | ~10 |
 | Finger-Lickin' Bad | 18.00% | ~10 |
 | Bathroom Brawler | 16.00% | ~9 |
-| Flying High | 13.00% | ~7 |
+| Flying High | 14.00% | ~8 |
 | Fool's Gold | 4.00% | ~2 |
 | Freedum Fighter | 4.00% | ~2 |
 | Key Keeper's Curse | 4.00% | ~2 |

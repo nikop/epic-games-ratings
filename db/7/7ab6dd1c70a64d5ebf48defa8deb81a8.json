@@ -164,9 +164,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": -6.5,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_04",
@@ -212,9 +212,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": -6.5,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_10",
@@ -340,9 +340,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_26",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:09:15.524921+00:00",
-  "LastUpdate_Ratings": "2023-09-27T09:02:49.8319555+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:09:15.5249504+00:00"
+  "LastChanged_Achievements": "2023-09-27T10:05:45.6873567+00:00",
+  "LastUpdate_Ratings": "2023-09-27T10:00:57.8948679+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:05:45.6873852+00:00"
 }

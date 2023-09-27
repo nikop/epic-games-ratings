@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3305,
-  "EOS_Completed": 198,
-  "EOS_NewPlayers": 110,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 5.99,
+  "EOS_Progressed": 3306,
+  "EOS_Completed": 199,
+  "EOS_NewPlayers": 111,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 6.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -5170,6 +5170,11 @@
       "Time": "2023-09-27T09:11:15.8344861+00:00",
       "NumProgressed": 3305,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-09-27T10:07:40.7571999+00:00",
+      "NumProgressed": 3306,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 24,
@@ -5189,7 +5194,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "11",
@@ -5221,7 +5226,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "15",
@@ -5323,9 +5328,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1091
     },
     {
       "ID": "5",
@@ -5347,9 +5352,9 @@
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 65,
-      "UsersEstimate": 595
+      "UsersEstimate": 628
     },
     {
       "ID": "8",
@@ -5372,13 +5377,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3305,
-      "Completed": 198
+      "Progressed": 3306,
+      "Completed": 199
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:11:15.834485+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:07:40.7571995+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:59:34.2574105+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:11:15.8345382+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:58:59.4230771+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:07:40.7572478+00:00"
 }

@@ -7,6 +7,9 @@
 | Trinity | 6.00% | ~2 |
 | Shatter Them All | 3.00% | ~1 |
 | Find Allies | 0.00% | ~0 |
+| Powerful Allies | 0.00% | ~0 |
+| The Mentor | 0.00% | ~0 |
+| Fashion Victim | 0.00% | ~0 |
 | Clear Sight | -3.20% | ~-1 |
 | A Taste of Wrath | -3.20% | ~-1 |
 | Forgemaster | -3.20% | ~-1 |
@@ -15,13 +18,10 @@
 | Slayer | -3.20% | ~-1 |
 | Fine Feathers Make Fine Birds | -3.20% | ~-1 |
 | All There Is | -3.20% | ~-1 |
-| Fashion Victim | -3.20% | ~-1 |
 | False God | -3.20% | ~-1 |
 | All That Gold | -3.20% | ~-1 |
 | Feeling Fancy | -3.20% | ~-1 |
 | Summiter | -3.20% | ~-1 |
-| Powerful Allies | -6.50% | ~-2 |
-| The Mentor | -6.50% | ~-2 |
 | Adventurer | -6.50% | ~-2 |
 | Airborne | -6.50% | ~-2 |
 | Essence Blow | -6.50% | ~-2 |

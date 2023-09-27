@@ -6,15 +6,15 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,694 |
+| First Step | 70.00% | ~369,695 |
 | Now You're Talking | 62.00% | ~327,444 |
 | Steel Yourself | 62.00% | ~327,444 |
 | Window Dressing | 50.00% | ~264,068 |
-| Trigger Happy | 46.00% | ~242,942 |
+| Trigger Happy | 46.00% | ~242,943 |
 | Riverborn | 45.00% | ~237,661 |
 | Starry Eyed | 34.00% | ~179,566 |
 | Poking Around | 34.00% | ~179,566 |
-| Talk of the Town | 24.00% | ~126,752 |
+| Talk of the Town | 24.00% | ~126,753 |
 | AAARR! | 23.00% | ~121,471 |
 | Hello Darkness | 23.00% | ~121,471 |
 | Wind At Our Backs | 22.00% | ~116,190 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~47,532 |
 | Lost and Found | 9.00% | ~47,532 |
 | Under the Radar | 8.00% | ~42,251 |
-| Partner in Crime | 7.00% | ~36,969 |
-| Hard to Hear | 7.00% | ~36,969 |
+| Partner in Crime | 7.00% | ~36,970 |
+| Hard to Hear | 7.00% | ~36,970 |
 | Moving On Up | 6.00% | ~31,688 |
 | Owl Knows Best | 6.00% | ~31,688 |
 | Mind the Moose | 6.00% | ~31,688 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,584 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,135 (Ranked 33)  
+Progressed: 528,136 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 479 (0.09%) (Ranked 238)
 | 2023-09-24 | 528,010 | 478 |
 | 2023-09-25 | 528,062 | 478 |
 | 2023-09-26 | 528,121 | 479 |
-| 2023-09-27 | 528,135 | 479 |
+| 2023-09-27 | 528,136 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

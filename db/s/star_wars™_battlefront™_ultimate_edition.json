@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 223,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -531,6 +531,11 @@
       "Time": "2023-09-27T09:10:43.3613432+00:00",
       "NumProgressed": 222,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T10:07:18.0302467+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -549,7 +554,7 @@
       "ID": "achievement_10",
       "SetID": "271ol84",
       "Name": "That got him!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -565,7 +570,7 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -581,9 +586,9 @@
       "ID": "achievement_14",
       "SetID": "271ol84",
       "Name": "Playing the objective",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_15",
@@ -615,7 +620,7 @@
       "Name": "The power of the Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_19",
@@ -637,17 +642,17 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_22",
@@ -679,7 +684,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_26",
@@ -693,9 +698,9 @@
       "ID": "achievement_27",
       "SetID": "271ol84",
       "Name": "Your journey has only started",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_28",
@@ -735,15 +740,15 @@
       "Name": "Scrap collector",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_33",
@@ -767,7 +772,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_36",
@@ -775,7 +780,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_37",
@@ -823,7 +828,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_42",
@@ -837,7 +842,7 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -997,15 +1002,15 @@
       "ID": "achievement_61",
       "SetID": "cemm4l8",
       "Name": "The circle is now complete",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_62",
       "SetID": "cemm4l8",
       "Name": "I never doubted you!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1037,7 +1042,7 @@
       "ID": "achievement_9",
       "SetID": "271ol84",
       "Name": "Crush them with one swift stroke\u2026",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -1046,13 +1051,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 1
     }
   ],
@@ -1060,8 +1065,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-27T09:10:43.3613427+00:00",
+  "LastChanged_Achievements": "2023-09-27T10:07:18.0302461+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-27T08:57:37.0245771+00:00",
-  "LastUpdate_Achievements": "2023-09-27T09:10:43.3614152+00:00"
+  "LastUpdate_Ratings": "2023-09-27T09:57:40.9338038+00:00",
+  "LastUpdate_Achievements": "2023-09-27T10:07:18.0303086+00:00"
 }
