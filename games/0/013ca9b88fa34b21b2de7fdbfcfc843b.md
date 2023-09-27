@@ -5,27 +5,27 @@ Rating: 4.83 (Ranked 58)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,773 |
-| A Thorny Situation | 70.00% | ~3,618 |
-| ... And Spit Back Out | 59.00% | ~3,049 |
-| Break-Net Speed | 47.00% | ~2,429 |
-| Bramble Breaker | 44.00% | ~2,274 |
-| Miner 49er | 41.00% | ~2,119 |
-| Humble Collector | 39.00% | ~2,016 |
-| Calm Sailing | 33.00% | ~1,705 |
-| Open the Gate! | 30.00% | ~1,550 |
-| Mist Walker | 28.00% | ~1,447 |
-| Lumberjack | 24.00% | ~1,240 |
-| Oui, Chef! | 22.00% | ~1,137 |
+| Azoria Beckons | 73.00% | ~3,775 |
+| A Thorny Situation | 70.00% | ~3,620 |
+| ... And Spit Back Out | 59.00% | ~3,051 |
+| Break-Net Speed | 47.00% | ~2,430 |
+| Bramble Breaker | 44.00% | ~2,275 |
+| Miner 49er | 41.00% | ~2,120 |
+| Humble Collector | 39.00% | ~2,017 |
+| Calm Sailing | 33.00% | ~1,706 |
+| Open the Gate! | 30.00% | ~1,551 |
+| Mist Walker | 28.00% | ~1,448 |
+| Lumberjack | 24.00% | ~1,241 |
+| Oui, Chef! | 22.00% | ~1,138 |
 | Clear the Air | 14.00% | ~724 |
 | Botanical Breakthrough | 14.00% | ~724 |
-| Beach Comber | 12.00% | ~620 |
+| Beach Comber | 12.00% | ~621 |
 | Higher Tax Bracket | 10.00% | ~517 |
 | Search for the Hairy Grell | 9.00% | ~465 |
 | Got to Catch Them All | 6.00% | ~310 |
 | Fanatical Farmer | 6.00% | ~310 |
 | Skilled | 6.00% | ~310 |
-| Rumble in the Jumble | 5.00% | ~258 |
+| Rumble in the Jumble | 5.00% | ~259 |
 | Flaming Hot Completos | 4.00% | ~207 |
 | Fae Farmer | 4.00% | ~207 |
 | Azorian Anniversary | 4.00% | ~207 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 58)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,168 (Ranked 163)  
+Progressed: 5,171 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 295)
 | 2023-09-24 | 4,931 | 0 |
 | 2023-09-25 | 5,023 | 0 |
 | 2023-09-26 | 5,137 | 0 |
-| 2023-09-27 | 5,168 | 0 |
+| 2023-09-27 | 5,171 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

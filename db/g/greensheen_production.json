@@ -3,7 +3,7 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
@@ -85,9 +85,9 @@
       "ID": "BurnBears",
       "SetID": "aph8hbk",
       "Name": "Toys Are For Kids",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "CallSix",
@@ -117,9 +117,9 @@
       "ID": "CompleteSchool",
       "SetID": "aph8hbk",
       "Name": "Schooled",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteWilderness",
@@ -141,9 +141,9 @@
       "ID": "EmptyVendingMachine",
       "SetID": "aph8hbk",
       "Name": "Hunger",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FindAllHats",
@@ -197,17 +197,17 @@
       "ID": "HalfHatsCollected",
       "SetID": "aph8hbk",
       "Name": "Half hat",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HandOverkill",
       "SetID": "aph8hbk",
       "Name": "...And Stay Dead!",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HoleCatch",
@@ -285,9 +285,9 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Platinum",
@@ -301,17 +301,17 @@
       "ID": "Popcorn",
       "SetID": "aph8hbk",
       "Name": "Popcorn",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SixRaincoat",
       "SetID": "aph8hbk",
       "Name": "True Colours",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SpareDoc",
@@ -341,9 +341,9 @@
       "ID": "Xray",
       "SetID": "aph8hbk",
       "Name": "X Best Friends",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -355,8 +355,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:08:24.6227617+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:08:40.9625831+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:04:02.3210206+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:08:24.6227885+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:03:56.1823796+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:08:40.9626292+00:00"
 }

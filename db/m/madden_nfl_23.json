@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1483,
+  "EOS_Progressed": 1485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1272,
+  "EOS_NewPlayers": 1267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1506,6 +1506,11 @@
       "Time": "2023-09-27T07:07:32.9847394+00:00",
       "NumProgressed": 1483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-27T08:07:41.0546504+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -1518,7 +1523,7 @@
       "Name": "Primetime",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_10",
@@ -1526,7 +1531,7 @@
       "Name": "Bragging Rights",
       "Percentage": 58,
       "XP": 90,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_11",
@@ -1534,7 +1539,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_12",
@@ -1550,7 +1555,7 @@
       "Name": "Big Spender",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "achievement_14",
@@ -1558,7 +1563,7 @@
       "Name": "Dealmaker",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "achievement_15",
@@ -1566,7 +1571,7 @@
       "Name": "MVP",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 830
+      "UsersEstimate": 832
     },
     {
       "ID": "achievement_16",
@@ -1574,7 +1579,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_17",
@@ -1646,7 +1651,7 @@
       "Name": "Already in Progress",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_6",
@@ -1685,7 +1690,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1483,
+      "Progressed": 1485,
       "Completed": 0
     }
   ],
@@ -1693,8 +1698,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:07:32.9847387+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:07:41.0546498+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.8917414+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:59:00.3814902+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:07:32.9847714+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:58:27.4413524+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:07:41.0546715+00:00"
 }

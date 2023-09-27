@@ -6,28 +6,28 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,063 |
+| Simoon | 34.00% | ~31,064 |
 | Just The Two of Us | 32.00% | ~29,236 |
-| Up On High | 25.00% | ~22,840 |
-| Under The Hood | 25.00% | ~22,840 |
+| Up On High | 25.00% | ~22,841 |
+| Under The Hood | 25.00% | ~22,841 |
 | Got Your Nose | 24.00% | ~21,927 |
 | The Gift of Gab | 24.00% | ~21,927 |
 | Wrapping Up | 22.00% | ~20,100 |
-| More Than A Box Of Sand | 18.00% | ~16,445 |
+| More Than A Box Of Sand | 18.00% | ~16,446 |
 | The Dunboyne | 17.00% | ~15,532 |
 | Badge Hobbyist | 17.00% | ~15,532 |
 | Chum Novice | 16.00% | ~14,618 |
 | Silver-Tongued Sable | 16.00% | ~14,618 |
 | Sticky Paws | 16.00% | ~14,618 |
 | Bubble Up | 16.00% | ~14,618 |
-| Thread The Needle | 15.00% | ~13,704 |
+| Thread The Needle | 15.00% | ~13,705 |
 | Power to the People | 14.00% | ~12,791 |
 | Take That! | 13.00% | ~11,877 |
 | Nesting Giant | 13.00% | ~11,877 |
 | Treasure Tracker | 13.00% | ~11,877 |
 | Big Spender | 13.00% | ~11,877 |
-| Badge Collector | 12.00% | ~10,963 |
-| Quite The Catch | 12.00% | ~10,963 |
+| Badge Collector | 12.00% | ~10,964 |
+| Quite The Catch | 12.00% | ~10,964 |
 | Rowleys Way | 11.00% | ~10,050 |
 | The Machinist Mask | 10.00% | ~9,136 |
 | The Cartographer Mask | 10.00% | ~9,136 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,482 |
 | The Gliding | 5.00% | ~4,568 |
 | The Entertainer Mask | 5.00% | ~4,568 |
-| The Quick and the Curious | 4.00% | ~3,654 |
-| Bike Aficionado | 4.00% | ~3,654 |
+| The Quick and the Curious | 4.00% | ~3,655 |
+| Bike Aficionado | 4.00% | ~3,655 |
 | Chum Expert | 3.00% | ~2,741 |
 | Gastric Bypass | 3.00% | ~2,741 |
 | The Angler Mask | 3.00% | ~2,741 |
 | Vivacious Vivarium | 2.00% | ~1,827 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,362 (Ranked 77)  
+Progressed: 91,364 (Ranked 77)  
 Completed: 923 (1.01%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 923 (1.01%) (Ranked 129)
 | 2023-09-24 | 91,079 | 918 |
 | 2023-09-25 | 91,200 | 921 |
 | 2023-09-26 | 91,325 | 921 |
-| 2023-09-27 | 91,362 | 923 |
+| 2023-09-27 | 91,364 | 923 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
 Sum: 87 (Ranked 428)  

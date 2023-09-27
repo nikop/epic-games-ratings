@@ -6,51 +6,52 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,320 |
-| Zealous | 6.00% | ~54,274 |
-| Skillful | 6.00% | ~54,274 |
-| Not half bad | 5.00% | ~45,228 |
-| Apt Survivor | 5.00% | ~45,228 |
-| Survival Treasures | 5.00% | ~45,228 |
-| Make Some Noise | 5.00% | ~45,228 |
-| No one left behind | 4.00% | ~36,183 |
-| Medic | 4.00% | ~36,183 |
-| Handyman | 4.00% | ~36,183 |
-| Nerves of steel | 4.00% | ~36,183 |
-| Bloody Millionaire | 4.00% | ~36,183 |
-| I | 4.00% | ~36,183 |
-| Sorted | 4.00% | ~36,183 |
-| Resurgence | 4.00% | ~36,183 |
-| The Grand Sacrifice | 3.00% | ~27,137 |
-| Agonizing Escape | 3.00% | ~27,137 |
-| Backdoor Escape | 3.00% | ~27,137 |
-| I've got your back | 3.00% | ~27,137 |
-| Perfect Escape | 3.00% | ~27,137 |
-| Perfect Killing | 3.00% | ~27,137 |
-| Risk it all | 3.00% | ~27,137 |
-| Engineer | 3.00% | ~27,137 |
-| Healthy Obsession | 3.00% | ~27,137 |
-| Close Shave | 3.00% | ~27,137 |
-| Preemptive Strike | 3.00% | ~27,137 |
-| Humanitarian | 3.00% | ~27,137 |
-| MU/TH/UR Dearest | 3.00% | ~27,137 |
-| Blood on your hands | 2.00% | ~18,091 |
-| Apt Killer | 2.00% | ~18,091 |
-| Vulture | 2.00% | ~18,091 |
-| II | 2.00% | ~18,091 |
-| III | 2.00% | ~18,091 |
-| Holiday Get-Together | 2.00% | ~18,091 |
-| Cherish your Life | 2.00% | ~18,091 |
-| Wounded Healer | 2.00% | ~18,091 |
-| First to the Punch | 2.00% | ~18,091 |
-| Every Last Drop | 2.00% | ~18,091 |
-| Raccoon City Recruit | 2.00% | ~18,091 |
-| With Scars to Show | 2.00% | ~18,091 |
-| Flight to Freedom | 2.00% | ~18,091 |
-| A Fast Death | 2.00% | ~18,091 |
-| Lifting The Fog | 2.00% | ~18,091 |
-| Chorus of Chaos | 2.00% | ~18,091 |
-| Second Act | 2.00% | ~18,091 |
+| It wakes | 7.00% | ~63,322 |
+| Zealous | 6.00% | ~54,276 |
+| Skillful | 6.00% | ~54,276 |
+| Not half bad | 5.00% | ~45,230 |
+| Apt Survivor | 5.00% | ~45,230 |
+| Survival Treasures | 5.00% | ~45,230 |
+| Make Some Noise | 5.00% | ~45,230 |
+| No one left behind | 4.00% | ~36,184 |
+| Medic | 4.00% | ~36,184 |
+| Handyman | 4.00% | ~36,184 |
+| Nerves of steel | 4.00% | ~36,184 |
+| Bloody Millionaire | 4.00% | ~36,184 |
+| I | 4.00% | ~36,184 |
+| Sorted | 4.00% | ~36,184 |
+| Resurgence | 4.00% | ~36,184 |
+| The Grand Sacrifice | 3.00% | ~27,138 |
+| Agonizing Escape | 3.00% | ~27,138 |
+| Backdoor Escape | 3.00% | ~27,138 |
+| I've got your back | 3.00% | ~27,138 |
+| Perfect Escape | 3.00% | ~27,138 |
+| Perfect Killing | 3.00% | ~27,138 |
+| Risk it all | 3.00% | ~27,138 |
+| Engineer | 3.00% | ~27,138 |
+| Healthy Obsession | 3.00% | ~27,138 |
+| Close Shave | 3.00% | ~27,138 |
+| Preemptive Strike | 3.00% | ~27,138 |
+| Humanitarian | 3.00% | ~27,138 |
+| MU/TH/UR Dearest | 3.00% | ~27,138 |
+| Blood on your hands | 2.00% | ~18,092 |
+| Apt Killer | 2.00% | ~18,092 |
+| Vulture | 2.00% | ~18,092 |
+| II | 2.00% | ~18,092 |
+| III | 2.00% | ~18,092 |
+| Holiday Get-Together | 2.00% | ~18,092 |
+| Cherish your Life | 2.00% | ~18,092 |
+| Unforgettable Getaway | 2.00% | ~18,092 |
+| Wounded Healer | 2.00% | ~18,092 |
+| First to the Punch | 2.00% | ~18,092 |
+| Every Last Drop | 2.00% | ~18,092 |
+| Raccoon City Recruit | 2.00% | ~18,092 |
+| With Scars to Show | 2.00% | ~18,092 |
+| Flight to Freedom | 2.00% | ~18,092 |
+| A Fast Death | 2.00% | ~18,092 |
+| Lifting The Fog | 2.00% | ~18,092 |
+| Chorus of Chaos | 2.00% | ~18,092 |
+| Second Act | 2.00% | ~18,092 |
 | A bite for the Entity | 1.00% | ~9,046 |
 | Blood on your face | 1.00% | ~9,046 |
 | Escape Artist | 1.00% | ~9,046 |
@@ -69,7 +70,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Near-Death Experience | 1.00% | ~9,046 |
 | Campbell's Chapel Legacy | 1.00% | ~9,046 |
 | Ancestor's Rite | 1.00% | ~9,046 |
-| Unforgettable Getaway | 1.00% | ~9,046 |
 | Devoted Gatekeeping | 1.00% | ~9,046 |
 | Cutting Out | 1.00% | ~9,046 |
 | Outrun Evil | 1.00% | ~9,046 |
@@ -99,12 +99,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.70% | ~6,332 |
 | Prowler | 0.70% | ~6,332 |
 | Hack the Mainframe | 0.70% | ~6,332 |
-| Blood in your mouth | 0.60% | ~5,427 |
-| Heavy Burden | 0.60% | ~5,427 |
-| Power Moves | 0.60% | ~5,427 |
-| Punch Drunk | 0.60% | ~5,427 |
-| Triage | 0.60% | ~5,427 |
-| High Speed Pursuit | 0.60% | ~5,427 |
+| Blood in your mouth | 0.60% | ~5,428 |
+| Heavy Burden | 0.60% | ~5,428 |
+| Power Moves | 0.60% | ~5,428 |
+| Punch Drunk | 0.60% | ~5,428 |
+| Triage | 0.60% | ~5,428 |
+| High Speed Pursuit | 0.60% | ~5,428 |
 | Looter | 0.50% | ~4,523 |
 | Happy Holidays | 0.40% | ~3,618 |
 | Denied! | 0.40% | ~3,618 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~905 |
 | Adept Ripley | 0.10% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 904,569 (Ranked 14)  
+Progressed: 904,603 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,10 +396,10 @@ Completed: 49 (0.01%) (Ranked 279)
 | 2023-09-24 | 900,602 | 49 |
 | 2023-09-25 | 902,478 | 49 |
 | 2023-09-26 | 904,195 | 49 |
-| 2023-09-27 | 904,569 | 49 |
+| 2023-09-27 | 904,603 | 49 |
 ## Awards
 Max (Diverse Characters): 33,096  (Ranked 15)  
-Sum: 257,358 (Ranked 11)  
+Sum: 257,386 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -410,7 +410,7 @@ Diff (max vs sum): 4
 | This game is Extremely Fun | 28,761 |
 | This game has Quickly Understood Controls | 28,294 |
 | This game has Challenging Combat | 28,294 |
-| This game has Amazing Storytelling | 26,381 |
+| This game has Amazing Storytelling | 26,409 |
 | This game has a Competitive Community | 24,858 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -663,4 +663,4 @@ Diff (max vs sum): 4
 | 2023-09-24 | 4.52 | - | 33,007 | 256,759 |
 | 2023-09-25 | 4.52 | - | 33,065 | 256,940 |
 | 2023-09-26 | 4.52 | - | 33,096 | 257,212 |
-| 2023-09-27 | 4.52 | - | 33,096 | 257,358 |
+| 2023-09-27 | 4.52 | - | 33,096 | 257,386 |

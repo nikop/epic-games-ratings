@@ -530,9 +530,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_38",
@@ -610,9 +610,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_47",
@@ -650,9 +650,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_8",
@@ -680,8 +680,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:08:39.6611799+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:08:58.1593337+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:06:09.4286603+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:08:39.6612452+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:06:09.6641651+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:08:58.1593836+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1000,
+  "Ranking_Rating": 1001,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2811,8 +2811,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-09-23T22:00:03.5070604+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:08:13.317032+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:08:27.9407525+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:38.6808071+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:06:50.3945552+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:08:13.317182+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:06:51.3650722+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:08:27.9408446+00:00"
 }

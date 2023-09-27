@@ -8,8 +8,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 1.00% | ~8,828 |
 | Rough Landing | 1.00% | ~8,828 |
-| Gunslinger | 0.80% | ~7,062 |
-| The Jungle | 0.80% | ~7,062 |
+| Gunslinger | 0.90% | ~7,945 |
+| The Jungle | 0.80% | ~7,063 |
 | Master Crafter | 0.70% | ~6,180 |
 | Mean Streets | 0.60% | ~5,297 |
 | The High Priestess | 0.60% | ~5,297 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882,800 (Ranked 15)  
-Completed: 2,427 (0.27%) (Ranked 198)  
+Progressed: 882,823 (Ranked 15)  
+Completed: 2,428 (0.28%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,10 +224,10 @@ Completed: 2,427 (0.27%) (Ranked 198)
 | 2023-09-24 | 880,810 | 2,346 |
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
-| 2023-09-27 | 882,800 | 2,427 |
+| 2023-09-27 | 882,823 | 2,428 |
 ## Awards
 Max (Character Customization): 82,928  (Ranked 9)  
-Sum: 227,855 (Ranked 13)  
+Sum: 228,127 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -235,10 +235,10 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 55,231 |
 | This game is Great for Beginners | 10,833 |
 | This game has Diverse Characters | 10,569 |
+| This game is Extremely Fun | 10,506 |
 | This game has Amazing Storytelling | 10,472 |
 | This game is Highly Recommended | 10,442 |
 | This game is Relaxing | 10,288 |
-| This game is Extremely Fun | 10,234 |
 | This game has Amazing Characters | 10,209 |
 | This game has Quickly Understood Controls | 10,085 |
 | This game has a Creative Community | 6,564 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -4
 | 2023-09-24 | 4.62 | - | 81,210 | 219,602 |
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
-| 2023-09-27 | 4.63 | - | 82,928 | 227,855 |
+| 2023-09-27 | 4.63 | - | 82,928 | 228,127 |

@@ -20,10 +20,10 @@ Number of Ratings: 154  (23.09.2022)
 | Miles "Tails" Prower | 59.00% | ~306 |
 | Bubbly Breath | 58.00% | ~301 |
 | Boss Rush Attempt | 52.00% | ~270 |
-| Cleared Sonic the Hedgehog | 49.00% | ~254 |
+| Cleared Sonic the Hedgehog | 50.00% | ~260 |
 | Super Sonic | 44.00% | ~228 |
+| Beware Stingers! | 43.00% | ~223 |
 | Shut Down Metal Sonic | 42.00% | ~218 |
-| Beware Stingers! | 42.00% | ~218 |
 | Museum Time | 42.00% | ~218 |
 | Very First Mission Clear! | 42.00% | ~218 |
 | Cleared Sonic the Hedgehog 2 | 41.00% | ~213 |

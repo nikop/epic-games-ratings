@@ -4,7 +4,7 @@
   "ProductSlug": "garden-in-671c44",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:11:34.1882879+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:12:19.5457215+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:11.7904031+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:00:36.1471938+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:11:34.1883293+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:00:09.0758067+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:12:19.5457635+00:00"
 }

@@ -38,6 +38,7 @@ Rating: 4.00 (Ranked 952)
 | Best Dressed | 5.00% | ~1 |
 | Armaments Vert | 5.00% | ~1 |
 | Shroudfane Explorer | 5.00% | ~1 |
+| Tip of the Spear | 5.00% | ~1 |
 | Grand Magnus | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
@@ -48,7 +49,6 @@ Rating: 4.00 (Ranked 952)
 | Master of Carmine | 0.00% | ~0 |
 | Master of Malachite | 0.00% | ~0 |
 | Shroudfane Surveyor | 0.00% | ~0 |
-| Tip of the Spear | 0.00% | ~0 |
 | Treasure Hunter | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 | Backtracker | 0.00% | ~0 |

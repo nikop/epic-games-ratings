@@ -12477,10 +12477,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 227855,
       "NumberOfAwardsMax": 82928
+    },
+    {
+      "Time": "2023-09-27T07:57:41.6042138+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 228127,
+      "NumberOfAwardsMax": 82928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227855,
+  "NumberOfAwards": 228127,
   "NumberOfAwardsMax": 82928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12548,7 +12554,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 10234
+      "Count": 10506
     },
     {
       "Text": "This game has a Creative Community",
@@ -12557,11 +12563,11 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882800,
-  "EOS_Completed": 2427,
-  "EOS_NewPlayers": 5591,
-  "EOS_NewCompleters": 306,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Progressed": 882823,
+  "EOS_Completed": 2428,
+  "EOS_NewPlayers": 5608,
+  "EOS_NewCompleters": 307,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:44.711689+00:00",
@@ -30497,6 +30503,11 @@
       "Time": "2023-09-27T07:10:02.1065211+00:00",
       "NumProgressed": 882800,
       "NumCompleted": 2427
+    },
+    {
+      "Time": "2023-09-27T08:10:33.9687977+00:00",
+      "NumProgressed": 882823,
+      "NumCompleted": 2428
     }
   ],
   "TotalAchievements": 57,
@@ -30586,9 +30597,9 @@
       "ID": "Gunslinger",
       "SetID": "47clieb",
       "Name": "Gunslinger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7062
+      "UsersEstimate": 7945
     },
     {
       "ID": "HandyMan",
@@ -30796,7 +30807,7 @@
       "Name": "The Jungle",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7062
+      "UsersEstimate": 7063
     },
     {
       "ID": "TrueSoldier",
@@ -30963,21 +30974,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882800,
-      "Completed": 2427
+      "Progressed": 882823,
+      "Completed": 2428
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11423,
+      "Progressed": 11446,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-27T02:57:30.2664016+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:10:02.1065207+00:00",
+  "LastChanged": "2023-09-27T07:57:41.6042137+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:10:33.968797+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T06:58:05.7051315+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:10:02.1066837+00:00"
+  "LastUpdate_Ratings": "2023-09-27T07:57:41.6042143+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:10:33.9690919+00:00"
 }

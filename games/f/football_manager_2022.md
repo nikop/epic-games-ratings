@@ -12,21 +12,21 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's Sold! | 48.00% | ~227,412 |
 | I'm The Boss! | 42.00% | ~198,986 |
 | Hat-trick | 41.00% | ~194,248 |
-| Scoring Streak | 38.00% | ~180,034 |
+| Scoring Streak | 38.00% | ~180,035 |
 | Unbeatable! | 37.00% | ~175,297 |
 | Thumping | 37.00% | ~175,297 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,821 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,822 |
 | Total Support | 32.00% | ~151,608 |
 | Record Signing | 32.00% | ~151,608 |
-| He's a Natural | 31.00% | ~146,870 |
-| Millionaire's Club | 31.00% | ~146,870 |
-| Team Performance | 30.00% | ~142,132 |
+| He's a Natural | 31.00% | ~146,871 |
+| Millionaire's Club | 31.00% | ~146,871 |
+| Team Performance | 30.00% | ~142,133 |
 | Parked The Bus | 29.00% | ~137,395 |
 | Shrewd Spender | 29.00% | ~137,395 |
 | Star Man | 29.00% | ~137,395 |
 | Attack! | 28.00% | ~132,657 |
-| Tremendous Trio | 27.00% | ~127,919 |
-| Record Sale | 27.00% | ~127,919 |
+| Tremendous Trio | 27.00% | ~127,920 |
+| Record Sale | 27.00% | ~127,920 |
 | You're On Fire | 26.00% | ~123,182 |
 | On A Roll | 26.00% | ~123,182 |
 | Unstoppable Force | 26.00% | ~123,182 |
@@ -37,10 +37,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | The Boss | 24.00% | ~113,706 |
 | Top Of The Class | 23.00% | ~108,968 |
 | Goal Machine | 23.00% | ~108,968 |
-| Splashing The Cash | 22.00% | ~104,230 |
-| Clean Bill of Health | 22.00% | ~104,230 |
-| What A Goal! | 22.00% | ~104,230 |
-| Cup Glory! | 22.00% | ~104,230 |
+| Splashing The Cash | 22.00% | ~104,231 |
+| Clean Bill of Health | 22.00% | ~104,231 |
+| What A Goal! | 22.00% | ~104,231 |
+| Cup Glory! | 22.00% | ~104,231 |
 | Irresistible Force | 20.00% | ~94,755 |
 | Excellent Match Cohesion | 20.00% | ~94,755 |
 | Do The Double | 19.00% | ~90,017 |
@@ -50,8 +50,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Beating Expectations | 15.00% | ~71,066 |
 | Rushed signing | 15.00% | ~71,066 |
 | Window Shopping | 15.00% | ~71,066 |
-| Eyes and Ears | 14.00% | ~66,328 |
-| Comeback King! | 14.00% | ~66,328 |
+| Eyes and Ears | 14.00% | ~66,329 |
+| Comeback King! | 14.00% | ~66,329 |
 | You're Up! | 13.00% | ~61,591 |
 | Money, Money, Money | 12.00% | ~56,853 |
 | Superb Strike | 10.00% | ~47,378 |
@@ -63,11 +63,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Headhunted | 9.00% | ~42,640 |
 | Domination | 9.00% | ~42,640 |
 | Best In The Business | 8.00% | ~37,902 |
-| Legend | 6.00% | ~28,426 |
-| Win the Club World Cup | 6.00% | ~28,426 |
-| Parked The Tank | 6.00% | ~28,426 |
-| World Renowned | 6.00% | ~28,426 |
-| Head-to-Head | 6.00% | ~28,426 |
+| Legend | 6.00% | ~28,427 |
+| Win the Club World Cup | 6.00% | ~28,427 |
+| Parked The Tank | 6.00% | ~28,427 |
+| World Renowned | 6.00% | ~28,427 |
+| Head-to-Head | 6.00% | ~28,427 |
 | Going Places | 5.00% | ~23,689 |
 | We Trust You | 5.00% | ~23,689 |
 | Trophy Hoarder | 4.00% | ~18,951 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,775 (Ranked 36)  
+Progressed: 473,776 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,14 +265,14 @@ Completed: 21 (0.00%) (Ranked 295)
 | 2023-09-24 | 473,686 | 21 |
 | 2023-09-25 | 473,723 | 21 |
 | 2023-09-26 | 473,773 | 21 |
-| 2023-09-27 | 473,775 | 21 |
+| 2023-09-27 | 473,776 | 21 |
 ## Awards
-Max (Relaxing): 6,453  (Ranked 54)  
-Sum: 50,790 (Ranked 26)  
+Max (Relaxing): 6,455  (Ranked 54)  
+Sum: 50,792 (Ranked 26)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,453 |
+| This game is Relaxing | 6,455 |
 | This game is Extremely Fun | 6,051 |
 | This game has Competitive Players | 5,886 |
 | This game has Quickly Understood Controls | 5,870 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 28
 | 2023-09-24 | 4.80 | - | 6,453 | 50,779 |
 | 2023-09-25 | 4.80 | - | 6,453 | 50,784 |
 | 2023-09-26 | 4.80 | - | 6,453 | 50,788 |
-| 2023-09-27 | 4.80 | - | 6,453 | 50,790 |
+| 2023-09-27 | 4.80 | - | 6,455 | 50,792 |

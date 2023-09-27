@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145271,
+  "EOS_Progressed": 145273,
   "EOS_Completed": 278,
-  "EOS_NewPlayers": 1169,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12356,6 +12356,11 @@
       "Time": "2023-09-27T07:13:15.7466837+00:00",
       "NumProgressed": 145271,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-09-27T08:13:38.6653224+00:00",
+      "NumProgressed": 145273,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 31,
@@ -12375,7 +12380,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101690
+      "UsersEstimate": 101691
     },
     {
       "ID": "EAwards_10",
@@ -12391,7 +12396,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29054
+      "UsersEstimate": 29055
     },
     {
       "ID": "EAwards_12",
@@ -12551,7 +12556,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27601
+      "UsersEstimate": 27602
     },
     {
       "ID": "EAwards_30",
@@ -12559,7 +12564,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13074
+      "UsersEstimate": 13075
     },
     {
       "ID": "EAwards_4",
@@ -12599,7 +12604,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53750
+      "UsersEstimate": 53751
     },
     {
       "ID": "EAwards_9",
@@ -12614,7 +12619,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 145271,
+      "Progressed": 145273,
       "Completed": 278
     }
   ],
@@ -12622,8 +12627,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-23T09:58:54.9188675+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:13:15.746683+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:13:38.6653219+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:04:45.7771004+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:13:15.7468256+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:04:40.2039229+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:13:38.6654201+00:00"
 }

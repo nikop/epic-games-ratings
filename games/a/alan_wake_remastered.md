@@ -15,7 +15,7 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 19.00% | ~12,590 |
 | Paging Mr. Wake | 19.00% | ~12,590 |
 | Back! Back, I Say! | 18.00% | ~11,927 |
-| Finders Keepers | 17.00% | ~11,264 |
+| Finders Keepers | 17.00% | ~11,265 |
 | Sound and Fury | 16.00% | ~10,602 |
 | Missed by a Mile | 16.00% | ~10,602 |
 | Damn Good Cup of Coffee | 16.00% | ~10,602 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 11.00% | ~7,289 |
 | Energized! | 11.00% | ~7,289 |
 | Right of Way | 10.00% | ~6,626 |
-| What Light Through Yonder Window | 9.00% | ~5,963 |
+| What Light Through Yonder Window | 9.00% | ~5,964 |
 | Tornado Wrangler | 8.00% | ~5,301 |
 | Departure | 8.00% | ~5,301 |
 | A Friend in Need | 8.00% | ~2,378 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,261 (Ranked 89)  
+Progressed: 66,262 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 66 (0.10%) (Ranked 234)
 | 2023-09-24 | 66,142 | 66 |
 | 2023-09-25 | 66,202 | 66 |
 | 2023-09-26 | 66,247 | 66 |
-| 2023-09-27 | 66,261 | 66 |
+| 2023-09-27 | 66,262 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66261,
+  "EOS_Progressed": 66262,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16024,6 +16024,11 @@
       "Time": "2023-09-27T07:10:44.9788447+00:00",
       "NumProgressed": 66261,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-27T08:11:22.6436219+00:00",
+      "NumProgressed": 66262,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16227,7 +16232,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5964
     },
     {
       "ID": "26",
@@ -16355,7 +16360,7 @@
       "Name": "Finders Keepers",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11264
+      "UsersEstimate": 11265
     },
     {
       "ID": "42",
@@ -16570,21 +16575,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66261,
+      "Progressed": 66262,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29729,
+      "Progressed": 29730,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-27T07:10:44.978844+00:00",
+  "LastChanged_Achievements": "2023-09-27T08:11:22.643621+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-27T07:05:57.8493577+00:00",
-  "LastUpdate_Achievements": "2023-09-27T07:10:44.9790384+00:00"
+  "LastUpdate_Ratings": "2023-09-27T08:05:56.181292+00:00",
+  "LastUpdate_Achievements": "2023-09-27T08:11:22.6437966+00:00"
 }
