@@ -2704,9 +2704,9 @@
       "ID": "COMRADE_YOGI",
       "SetID": "bf13m8j",
       "Name": "Comrade Yogi",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DOUBLE_AGENT",
@@ -2744,9 +2744,9 @@
       "ID": "GHOSTBUSTER",
       "SetID": "bf13m8j",
       "Name": "Ghostbuster",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "GRAVE_DIGGER_1",
@@ -2808,9 +2808,9 @@
       "ID": "NO_NAME",
       "SetID": "bf13m8j",
       "Name": "No Name, No Slogan",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ONE_HIT_WONDER_1",
@@ -2960,8 +2960,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-27T04:08:21.0004499+00:00",
+  "LastChanged_Achievements": "2023-09-27T05:07:11.6933471+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:01:06.4254616+00:00",
-  "LastUpdate_Achievements": "2023-09-27T04:08:21.0004905+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:00:34.0776538+00:00",
+  "LastUpdate_Achievements": "2023-09-27T05:07:11.6933897+00:00"
 }

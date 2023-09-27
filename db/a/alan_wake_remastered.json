@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66257,
+  "EOS_Progressed": 66260,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
@@ -16014,6 +16014,11 @@
       "Time": "2023-09-27T04:08:49.88197+00:00",
       "NumProgressed": 66257,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-27T05:08:04.5601817+00:00",
+      "NumProgressed": 66260,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16025,7 +16030,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27828
+      "UsersEstimate": 27829
     },
     {
       "ID": "02",
@@ -16033,7 +16038,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17227
+      "UsersEstimate": 17228
     },
     {
       "ID": "03",
@@ -16041,7 +16046,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17227
+      "UsersEstimate": 17228
     },
     {
       "ID": "04",
@@ -16057,7 +16062,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15239
+      "UsersEstimate": 15240
     },
     {
       "ID": "06",
@@ -16073,7 +16078,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8613
+      "UsersEstimate": 8614
     },
     {
       "ID": "08",
@@ -16113,7 +16118,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8613
+      "UsersEstimate": 8614
     },
     {
       "ID": "13",
@@ -16121,7 +16126,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "14",
@@ -16137,7 +16142,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "16",
@@ -16161,7 +16166,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "19",
@@ -16249,7 +16254,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10601
+      "UsersEstimate": 10602
     },
     {
       "ID": "30",
@@ -16265,7 +16270,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11926
+      "UsersEstimate": 11927
     },
     {
       "ID": "32",
@@ -16273,7 +16278,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21865
+      "UsersEstimate": 21866
     },
     {
       "ID": "33",
@@ -16289,7 +16294,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "35",
@@ -16297,7 +16302,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22527
+      "UsersEstimate": 22528
     },
     {
       "ID": "36",
@@ -16385,7 +16390,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10601
+      "UsersEstimate": 10602
     },
     {
       "ID": "47",
@@ -16521,7 +16526,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "64",
@@ -16560,21 +16565,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66257,
+      "Progressed": 66260,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29725,
+      "Progressed": 29728,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-27T04:08:49.8819691+00:00",
+  "LastChanged_Achievements": "2023-09-27T05:08:04.5601811+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:04:12.2751072+00:00",
-  "LastUpdate_Achievements": "2023-09-27T04:08:49.8821363+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:03:13.4127919+00:00",
+  "LastUpdate_Achievements": "2023-09-27T05:08:04.5603802+00:00"
 }

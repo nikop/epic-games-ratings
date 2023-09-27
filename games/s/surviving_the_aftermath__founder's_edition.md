@@ -6,16 +6,16 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,656 |
-| Leader | 60.00% | ~5,547 |
+| First Step | 72.00% | ~6,657 |
+| Leader | 60.00% | ~5,548 |
 | Explorer | 53.00% | ~4,900 |
-| Healer | 52.00% | ~4,807 |
+| Healer | 52.00% | ~4,808 |
 | Aspiring Inventor | 44.00% | ~4,068 |
-| Adventurer | 41.00% | ~3,790 |
+| Adventurer | 41.00% | ~3,791 |
 | Famous Healer | 38.00% | ~3,513 |
 | Local Leader | 35.00% | ~3,236 |
-| Famous Explorer | 34.00% | ~3,143 |
-| New Opportunities | 34.00% | ~3,143 |
+| Famous Explorer | 34.00% | ~3,144 |
+| New Opportunities | 34.00% | ~3,144 |
 | Energized | 33.00% | ~3,051 |
 | The Long Haul | 33.00% | ~3,051 |
 | The Great Healer | 31.00% | ~2,866 |
@@ -24,9 +24,9 @@ Number of Ratings: 836  (23.09.2022)
 | Cleaner | 28.00% | ~2,589 |
 | Catastrofan | 28.00% | ~2,589 |
 | Finders, Keepers | 26.00% | ~2,404 |
-| Top Notch | 25.00% | ~2,311 |
-| Great Leader | 23.00% | ~2,126 |
-| Mentor | 23.00% | ~2,126 |
+| Top Notch | 25.00% | ~2,312 |
+| Great Leader | 23.00% | ~2,127 |
+| Mentor | 23.00% | ~2,127 |
 | Merchant | 22.00% | ~2,034 |
 | Ice Lakes | 22.00% | ~2,034 |
 | Real Survivor | 22.00% | ~2,034 |
@@ -40,8 +40,8 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Adventurer | 14.00% | ~1,294 |
 | Prepared for Anything | 13.00% | ~1,202 |
 | Big Catastrofan | 13.00% | ~1,202 |
-| It's a Finnish Thing | 10.00% | ~924 |
-| Sky Burial | 10.00% | ~924 |
+| It's a Finnish Thing | 10.00% | ~925 |
+| Sky Burial | 10.00% | ~925 |
 | Trader | 9.00% | ~832 |
 | Bread and Circuses | 8.00% | ~740 |
 | New Eden | 7.00% | ~647 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,245 (Ranked 141)  
+Progressed: 9,246 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 0 (0.00%) (Ranked 294)
 | 2023-09-24 | 9,206 | 0 |
 | 2023-09-25 | 9,225 | 0 |
 | 2023-09-26 | 9,242 | 0 |
-| 2023-09-27 | 9,245 | 0 |
+| 2023-09-27 | 9,246 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 337)  
 Sum: 702 (Ranked 281)  

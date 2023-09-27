@@ -32,15 +32,15 @@ Number of Ratings: 54  (23.09.2022)
 | Neanderthal | 1.00% | ~12 |
 | It was worth a shot | 1.00% | ~12 |
 | Cosmic Horror | 1.00% | ~12 |
-| Ghostbuster | 0.60% | ~7 |
+| Ghostbuster | 0.70% | ~9 |
 | Tourist Korallov | 0.60% | ~7 |
+| Comrade Yogi | 0.50% | ~6 |
 | Cheeki Breeki | 0.40% | ~5 |
-| Comrade Yogi | 0.40% | ~5 |
 | Expert | 0.40% | ~5 |
 | It's a classic! | 0.30% | ~4 |
 | Mystical relics | 0.20% | ~2 |
+| No Name, No Slogan | 0.10% | ~1 |
 | 27 Club | 0.00% | ~0 |
-| No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,245 (Ranked 219)  

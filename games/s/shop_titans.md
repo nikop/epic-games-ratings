@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,102 |
-| Titan's First Steps | 3.00% | ~4,102 |
+| Sponsored by Argon | 3.00% | ~4,103 |
+| Titan's First Steps | 3.00% | ~4,103 |
 | Basic in Bulk | 2.00% | ~2,735 |
 | Disintermediation | 2.00% | ~2,735 |
 | It's Free Real Estate | 2.00% | ~2,735 |
@@ -42,13 +42,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.70% | ~957 |
 | Helping Hand | 0.70% | ~957 |
 | Natural 20 | 0.70% | ~957 |
-| Tax not Included | 0.60% | ~820 |
-| For the Hoard! | 0.60% | ~820 |
-| Power of Love | 0.60% | ~820 |
-| Trash to Treasure | 0.60% | ~820 |
-| Royal Ransom | 0.60% | ~820 |
-| Seasoned Journeyman | 0.60% | ~820 |
-| Magical Harmony | 0.60% | ~820 |
+| Tax not Included | 0.60% | ~821 |
+| For the Hoard! | 0.60% | ~821 |
+| Power of Love | 0.60% | ~821 |
+| Trash to Treasure | 0.60% | ~821 |
+| Royal Ransom | 0.60% | ~821 |
+| Seasoned Journeyman | 0.60% | ~821 |
+| Magical Harmony | 0.60% | ~821 |
 | A Notch Above the Rest | 0.50% | ~684 |
 | Cream of the Crop | 0.50% | ~684 |
 | Proud Paladin | 0.50% | ~684 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,750 (Ranked 69)  
+Progressed: 136,751 (Ranked 69)  
 Completed: 157 (0.11%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 157 (0.11%) (Ranked 230)
 | 2023-09-24 | 136,667 | 154 |
 | 2023-09-25 | 136,703 | 155 |
 | 2023-09-26 | 136,744 | 156 |
-| 2023-09-27 | 136,750 | 157 |
+| 2023-09-27 | 136,751 | 157 |
 ## Awards
 Max (Great for Beginners): 4,760  (Ranked 70)  
 Sum: 27,297 (Ranked 48)  

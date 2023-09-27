@@ -38,9 +38,9 @@ Rating: 4.03 (Ranked 949)
 | Scroll Master | 11.00% | ~217 |
 | The power of Awakening | 11.00% | ~217 |
 | Frostfire Liberator | 10.00% | ~197 |
+| Master Enchanter | 10.00% | ~197 |
 | Moving Up The Ladder | 10.00% | ~197 |
 | Here We Go Again | 9.00% | ~178 |
-| Master Enchanter | 9.00% | ~178 |
 | The father of Dragons | 9.00% | ~178 |
 | Trader | 9.00% | ~178 |
 | Crystal Mining | 8.00% | ~158 |

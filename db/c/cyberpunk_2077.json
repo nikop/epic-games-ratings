@@ -12557,10 +12557,10 @@
       "Count": 6564
     }
   ],
-  "EOS_Progressed": 882716,
-  "EOS_Completed": 2425,
-  "EOS_NewPlayers": 5529,
-  "EOS_NewCompleters": 304,
+  "EOS_Progressed": 882744,
+  "EOS_Completed": 2427,
+  "EOS_NewPlayers": 5552,
+  "EOS_NewCompleters": 306,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -30482,6 +30482,11 @@
       "Time": "2023-09-27T04:08:05.5200732+00:00",
       "NumProgressed": 882716,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-09-27T05:06:49.5938893+00:00",
+      "NumProgressed": 882744,
+      "NumCompleted": 2427
     }
   ],
   "TotalAchievements": 57,
@@ -30499,9 +30504,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 3531
     },
     {
       "ID": "BushidoAndChill",
@@ -30515,9 +30520,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 4414
     },
     {
       "ID": "Denied",
@@ -30667,9 +30672,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3531
+      "UsersEstimate": 4414
     },
     {
       "ID": "Specialist",
@@ -30723,17 +30728,17 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4414
+      "UsersEstimate": 5296
     },
     {
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1765
+      "UsersEstimate": 2648
     },
     {
       "ID": "TheStar",
@@ -30948,21 +30953,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 882716,
-      "Completed": 2425
+      "Progressed": 882744,
+      "Completed": 2427
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 11339,
+      "Progressed": 11367,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-27T02:57:30.2664016+00:00",
-  "LastChanged_Achievements": "2023-09-27T04:08:05.5200722+00:00",
+  "LastChanged_Achievements": "2023-09-27T05:06:49.5938887+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T03:57:31.2845235+00:00",
-  "LastUpdate_Achievements": "2023-09-27T04:08:05.5202382+00:00"
+  "LastUpdate_Ratings": "2023-09-27T04:57:29.4911729+00:00",
+  "LastUpdate_Achievements": "2023-09-27T05:06:49.5941294+00:00"
 }

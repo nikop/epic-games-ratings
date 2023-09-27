@@ -1,27 +1,27 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 164)  
+Rating: 4.73 (Ranked 163)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,262 |
-| Newcomers | 79.00% | ~10,529 |
+| Under a New Sun | 92.00% | ~12,263 |
+| Newcomers | 79.00% | ~10,530 |
 | A Burden of Blood | 74.00% | ~9,863 |
 | Protector's Duty | 70.00% | ~9,330 |
-| In our Wake | 68.00% | ~9,063 |
-| Alchemist | 68.00% | ~9,063 |
-| Leaving all Behind | 65.00% | ~8,663 |
-| Felons | 62.00% | ~8,263 |
-| A Sea of Promises | 61.00% | ~8,130 |
-| Tales and Revelations | 57.00% | ~7,597 |
+| In our Wake | 68.00% | ~9,064 |
+| Alchemist | 68.00% | ~9,064 |
+| Leaving all Behind | 65.00% | ~8,664 |
+| Felons | 62.00% | ~8,264 |
+| A Sea of Promises | 61.00% | ~8,131 |
+| Tales and Revelations | 57.00% | ~7,598 |
 | Bloodline | 52.00% | ~6,931 |
 | The Cradle of Centuries | 49.00% | ~6,531 |
 | The Life We Deserve | 46.00% | ~6,131 |
 | Night guard | 43.00% | ~5,731 |
 | Nothing Left | 39.00% | ~5,198 |
-| Healing our Wounds | 37.00% | ~4,931 |
-| Dying Sun | 33.00% | ~4,398 |
+| Healing our Wounds | 37.00% | ~4,932 |
+| Dying Sun | 33.00% | ~4,399 |
 | Improved crossbow | 27.00% | ~3,599 |
 | King Hugo | 25.00% | ~3,332 |
 | Mercy | 24.00% | ~3,199 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 164)
 | Old protector | 2.00% | ~267 |
 | Malignant | 1.00% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,328 (Ranked 132)  
+Progressed: 13,329 (Ranked 132)  
 Completed: 47 (0.35%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 47 (0.35%) (Ranked 183)
 | 2023-09-24 | 13,273 | 47 |
 | 2023-09-25 | 13,305 | 47 |
 | 2023-09-26 | 13,325 | 47 |
-| 2023-09-27 | 13,328 | 47 |
+| 2023-09-27 | 13,329 | 47 |
 ## Awards
 Max (Great Boss Battles): 422  (Ranked 215)  
 Sum: 647 (Ranked 294)  

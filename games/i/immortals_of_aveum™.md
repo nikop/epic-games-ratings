@@ -9,7 +9,7 @@ Rating: 4.00 (Ranked 952)
 | Maybe Engage a Little | 74.00% | ~14 |
 | Enlisted | 74.00% | ~14 |
 | Unforeseen | 68.00% | ~13 |
-| No More Names | 53.00% | ~10 |
+| No More Names | 58.00% | ~11 |
 | Initiate | 53.00% | ~10 |
 | Thrada-Kul | 42.00% | ~8 |
 | Soldier | 37.00% | ~7 |
@@ -19,13 +19,13 @@ Rating: 4.00 (Ranked 952)
 | Control is an Illusion | 16.00% | ~3 |
 | The Means to Save It | 16.00% | ~3 |
 | Resilience to Sin | 16.00% | ~3 |
+| Socialite | 16.00% | ~3 |
 | Armsman | 16.00% | ~3 |
 | A Familiar Nest | 11.00% | ~2 |
 | Geas Aristeya | 11.00% | ~2 |
 | A Perfect Cycle | 11.00% | ~2 |
 | Recruit | 11.00% | ~2 |
 | Lights Army | 11.00% | ~2 |
-| Socialite | 11.00% | ~2 |
 | Periapt Alizarin | 11.00% | ~2 |
 | Veteran | 11.00% | ~2 |
 | Good Boy | 11.00% | ~2 |

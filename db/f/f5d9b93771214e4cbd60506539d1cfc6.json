@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145258,
+  "EOS_Progressed": 145260,
   "EOS_Completed": 278,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1166,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12341,6 +12341,11 @@
       "Time": "2023-09-27T04:11:15.5593169+00:00",
       "NumProgressed": 145258,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-09-27T05:10:12.4074615+00:00",
+      "NumProgressed": 145260,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 31,
@@ -12360,7 +12365,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101681
+      "UsersEstimate": 101682
     },
     {
       "ID": "EAwards_10",
@@ -12392,7 +12397,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8715
+      "UsersEstimate": 8716
     },
     {
       "ID": "EAwards_14",
@@ -12448,7 +12453,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40672
+      "UsersEstimate": 40673
     },
     {
       "ID": "EAwards_20",
@@ -12464,7 +12469,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15978
+      "UsersEstimate": 15979
     },
     {
       "ID": "EAwards_22",
@@ -12560,7 +12565,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15978
+      "UsersEstimate": 15979
     },
     {
       "ID": "EAwards_6",
@@ -12568,7 +12573,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36314
+      "UsersEstimate": 36315
     },
     {
       "ID": "EAwards_7",
@@ -12584,7 +12589,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53745
+      "UsersEstimate": 53746
     },
     {
       "ID": "EAwards_9",
@@ -12599,7 +12604,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 145258,
+      "Progressed": 145260,
       "Completed": 278
     }
   ],
@@ -12607,8 +12612,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-23T09:58:54.9188675+00:00",
-  "LastChanged_Achievements": "2023-09-27T04:11:15.5593163+00:00",
+  "LastChanged_Achievements": "2023-09-27T05:10:12.407461+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:03:10.9851498+00:00",
-  "LastUpdate_Achievements": "2023-09-27T04:11:15.5594145+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:02:23.6888958+00:00",
+  "LastUpdate_Achievements": "2023-09-27T05:10:12.4076302+00:00"
 }

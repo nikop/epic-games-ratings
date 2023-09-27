@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_2",
@@ -342,9 +342,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 53,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_41",
@@ -551,8 +551,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-24T15:01:08.8110463+00:00",
-  "LastChanged_Achievements": "2023-09-27T04:07:47.976369+00:00",
+  "LastChanged_Achievements": "2023-09-27T05:06:35.6419901+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.7860154+00:00",
-  "LastUpdate_Ratings": "2023-09-27T03:57:16.6385085+00:00",
-  "LastUpdate_Achievements": "2023-09-27T04:07:47.9764148+00:00"
+  "LastUpdate_Ratings": "2023-09-27T04:57:14.8825088+00:00",
+  "LastUpdate_Achievements": "2023-09-27T05:06:35.6420338+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5291,6 +5291,11 @@
       "Time": "2023-09-27T04:10:19.5799858+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-27T05:09:21.6197849+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5430,7 +5435,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5494,7 +5499,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5526,7 +5531,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5564,9 +5569,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -5580,9 +5585,9 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -5605,14 +5610,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-27T04:10:19.5799844+00:00",
+  "LastChanged_Achievements": "2023-09-27T05:09:21.6197844+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
-  "LastUpdate_Ratings": "2023-09-27T04:02:15.0490555+00:00",
-  "LastUpdate_Achievements": "2023-09-27T04:10:19.5800466+00:00"
+  "LastUpdate_Ratings": "2023-09-27T05:01:31.2850867+00:00",
+  "LastUpdate_Achievements": "2023-09-27T05:09:21.6198567+00:00"
 }
