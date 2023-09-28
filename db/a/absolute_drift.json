@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1542500,
+  "EOS_Progressed": 1542507,
   "EOS_Completed": 696,
-  "EOS_NewPlayers": 1173,
+  "EOS_NewPlayers": 1170,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -18599,6 +18599,11 @@
       "Time": "2023-09-28T15:09:46.564433+00:00",
       "NumProgressed": 1542500,
       "NumCompleted": 696
+    },
+    {
+      "Time": "2023-09-28T16:09:08.145233+00:00",
+      "NumProgressed": 1542507,
+      "NumCompleted": 696
     }
   ],
   "TotalAchievements": 20,
@@ -18634,7 +18639,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7712
+      "UsersEstimate": 7713
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -18650,7 +18655,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10797
+      "UsersEstimate": 10798
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -18658,7 +18663,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138825
+      "UsersEstimate": 138826
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -18674,7 +18679,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10797
+      "UsersEstimate": 10798
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -18706,7 +18711,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154250
+      "UsersEstimate": 154251
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -18722,7 +18727,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138825
+      "UsersEstimate": 138826
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -18746,7 +18751,7 @@
       "Name": "The Completionist",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ACH_THE_LONG_DRIFT",
@@ -18769,15 +18774,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1542500,
+      "Progressed": 1542507,
       "Completed": 696
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:09:46.5644327+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:09:08.1452323+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.8511247+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:00:55.543404+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:09:46.5645634+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:00:22.0326248+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:09:08.1453738+00:00"
 }

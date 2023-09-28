@@ -242,12 +242,12 @@ Completed: 2 (0.10%) (Ranked 235)
 | 2023-09-27 | 1,976 | 2 |
 | 2023-09-28 | 1,977 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 22  (Ranked 506)  
-Sum: 44 (Ranked 466)  
-Diff (max vs sum): 40  
+Max (Great for Beginners): 23  (Ranked 504)  
+Sum: 45 (Ranked 466)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 22 |
+| This game is Great for Beginners | 23 |
 | This game is Great for Quick Sessions | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -289,3 +289,4 @@ Diff (max vs sum): 40
 | 2023-09-15 | 4.02 | 22 | 43 |
 | 2023-09-23 | 4.02 | 22 | 44 |
 | 2023-09-25 | 4.03 | 22 | 44 |
+| 2023-09-28 | 4.03 | 23 | 45 |

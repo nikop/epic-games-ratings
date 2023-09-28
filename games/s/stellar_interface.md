@@ -66,17 +66,18 @@
 | Beetle | 5.00% | ~3 |
 | Anger Management | 5.00% | ~3 |
 | Almost There II | 5.00% | ~3 |
+| Bronze Alchemist | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Rambo V | 3.00% | ~2 |
+| Space Magellan | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
 | Usurper III | 3.00% | ~2 |
+| Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Tovarish | 2.00% | ~1 |
 | Archer's Bronze Fate | 2.00% | ~1 |
-| Bronze Alchemist | 2.00% | ~1 |
 | Galactic Ensign | 2.00% | ~1 |
-| Space Magellan | 2.00% | ~1 |
 | Golden Alchemist | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | Golden BBQ | 2.00% | ~1 |
@@ -86,7 +87,7 @@
 | Surrounded | 2.00% | ~1 |
 | Silver Tovarish | 2.00% | ~1 |
 | Silver Alchemist | 2.00% | ~1 |
-| Silver BBQ | 2.00% | ~1 |
+| Galactic Captain | 2.00% | ~1 |
 | Merchant Prince III | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
@@ -127,7 +128,6 @@
 | Galactic Colonel | 0.00% | ~0 |
 | Archer's Silver Fate | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
-| Galactic Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 407)  
+Progressed: 64 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

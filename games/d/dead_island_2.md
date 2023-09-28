@@ -1,12 +1,12 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 512)  
+Rating: 4.54 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,625 |
-| Welcome To Hell-A | 3.00% | ~20,625 |
+| Hotel California | 3.00% | ~20,626 |
+| Welcome To Hell-A | 3.00% | ~20,626 |
 | Dr. Reed, I Presume? | 2.00% | ~13,750 |
 | Git Gutte! | 2.00% | ~13,750 |
 | Bookworm | 2.00% | ~13,750 |
@@ -37,21 +37,21 @@ Rating: 4.54 (Ranked 512)
 | Jumbo Keyring | 0.80% | ~5,500 |
 | Go, Bobcats! | 0.80% | ~5,500 |
 | Rising Star | 0.80% | ~5,500 |
-| Smorgasbord | 0.70% | ~4,812 |
+| Smorgasbord | 0.70% | ~4,813 |
 | Not Even My Final Form | 0.60% | ~4,125 |
 | Internet Famous | 0.60% | ~4,125 |
-| Make it So | 0.50% | ~3,437 |
-| On Safari | 0.50% | ~3,437 |
-| Variety is the Spice of Death | 0.50% | ~3,437 |
+| Make it So | 0.50% | ~3,438 |
+| On Safari | 0.50% | ~3,438 |
+| Variety is the Spice of Death | 0.50% | ~3,438 |
 | LA Influential | 0.40% | ~2,750 |
 | Gore Horse | 0.40% | ~2,750 |
-| Sole Survivor | 0.30% | ~2,062 |
-| Sharpest Tool in the Box | 0.30% | ~2,062 |
-| Survival Skills | 0.30% | ~2,062 |
-| Donk! | 0.10% | ~687 |
-| Bucket List | 0.10% | ~687 |
+| Sole Survivor | 0.30% | ~2,063 |
+| Sharpest Tool in the Box | 0.30% | ~2,063 |
+| Survival Skills | 0.30% | ~2,063 |
+| Donk! | 0.10% | ~688 |
+| Bucket List | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,491 (Ranked 22)  
+Progressed: 687,520 (Ranked 22)  
 Completed: 2,177 (0.32%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 2,177 (0.32%) (Ranked 189)
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
 | 2023-09-27 | 687,260 | 2,176 |
-| 2023-09-28 | 687,491 | 2,177 |
+| 2023-09-28 | 687,520 | 2,177 |
 ## Awards
 Max (Great Boss Battles): 6,229  (Ranked 58)  
 Sum: 9,277 (Ranked 92)  

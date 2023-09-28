@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 303,
   "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 141,
@@ -1160,7 +1160,7 @@
   ],
   "EOS_Progressed": 5384,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10798,9 +10798,9 @@
       "ID": "ACH_THOUSANDPOPULATION",
       "SetID": "1p8ab95",
       "Name": "Un-Lonely Island",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2530
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10870,8 +10870,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-28T14:01:11.893357+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:05:03.0047282+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:04:41.9325989+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:01:45.432634+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:05:03.0048197+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:01:02.9403635+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:04:41.9327001+00:00"
 }

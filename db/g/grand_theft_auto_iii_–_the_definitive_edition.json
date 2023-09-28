@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8153,
+  "EOS_Progressed": 8154,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9399,6 +9399,11 @@
       "Time": "2023-09-28T15:07:38.6875195+00:00",
       "NumProgressed": 8153,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-28T16:06:58.0086836+00:00",
+      "NumProgressed": 8154,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9410,7 +9415,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "ACH02",
@@ -9434,7 +9439,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "ACH05",
@@ -9538,7 +9543,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "ACH18",
@@ -9632,16 +9637,16 @@
       "ID": "ACH29",
       "SetID": "552d41m",
       "Name": "King of Liberty City",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8153,
+      "Progressed": 8154,
       "Completed": 53
     }
   ],
@@ -9649,8 +9654,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:07:38.6875191+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:06:58.0086833+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.067951+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:58:03.7558276+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:07:38.6875938+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:57:58.7761377+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:06:58.0087784+00:00"
 }

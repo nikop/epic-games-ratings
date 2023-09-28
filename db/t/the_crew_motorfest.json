@@ -4,10 +4,10 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 283,
   "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 287,
-  "Ranking_EOS_Progress": 644,
+  "Ranking_PopularitySum": 282,
+  "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -468,10 +468,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 670,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-09-28T15:57:45.9802941+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 697,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 670,
+  "NumberOfAwards": 697,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -479,7 +485,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 68
+      "Count": 77
     },
     {
       "Text": "This game is Relaxing",
@@ -491,7 +497,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 72
+      "Count": 82
     },
     {
       "Text": "This game is Highly Recommended",
@@ -515,7 +521,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 65
     },
     {
       "Text": "This game has Competitive Players",
@@ -554,8 +560,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-09-28T11:57:23.3169042+00:00",
+  "LastChanged": "2023-09-28T15:57:45.980294+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:32.9943262+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:57:49.2183402+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:04:21.8472726+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:57:45.9802945+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:03:50.8887698+00:00"
 }

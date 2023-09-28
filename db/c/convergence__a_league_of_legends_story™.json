@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2469,9 +2469,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 224
     },
     {
       "ID": "HexlockGift",
@@ -2742,8 +2742,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:07:51.2806144+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:07:08.9995971+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:00:18.2650615+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:07:51.2806701+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:59:50.9164305+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:07:08.9996774+00:00"
 }

@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 247331,
+  "EOS_Progressed": 247336,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18339,6 +18339,11 @@
       "Time": "2023-09-28T15:07:00.8077546+00:00",
       "NumProgressed": 247331,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T16:06:25.4546605+00:00",
+      "NumProgressed": 247336,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -18350,7 +18355,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66779
+      "UsersEstimate": 66781
     },
     {
       "ID": "ACH_AON",
@@ -18414,7 +18419,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32153
+      "UsersEstimate": 32154
     },
     {
       "ID": "ACH_HATTRICK",
@@ -18494,7 +18499,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69253
+      "UsersEstimate": 69254
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -18566,7 +18571,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59359
+      "UsersEstimate": 59361
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -18622,7 +18627,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17313
+      "UsersEstimate": 17314
     },
     {
       "ID": "ACH_MEMESMART",
@@ -18654,7 +18659,7 @@
       "Name": "Griever",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17313
+      "UsersEstimate": 17314
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -18662,7 +18667,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "ACH_SCRATCH",
@@ -18670,7 +18675,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61833
+      "UsersEstimate": 61834
     },
     {
       "ID": "ACH_SOREAD",
@@ -18742,7 +18747,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -18765,7 +18770,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 247331,
+      "Progressed": 247336,
       "Completed": 7
     }
   ],
@@ -18773,8 +18778,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:07:00.8077539+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:06:25.4546594+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:14.4356466+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:58:00.19285+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:07:00.807909+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:57:55.6906285+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:06:25.4549261+00:00"
 }

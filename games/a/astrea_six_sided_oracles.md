@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mechanical Buddy | 100.00% | ~14 |
 | Meissa's Savior | 100.00% | ~14 |
 | Purification Pioneer | 100.00% | ~14 |
-| Mechanical Buddy | 93.00% | ~13 |
 | Dicesmithing Time! | 86.00% | ~12 |
 | Endless Tricks | 79.00% | ~11 |
-| Wild's Keeper | 71.00% | ~10 |
+| Wild's Keeper | 79.00% | ~11 |
+| Mind Illuminator | 64.00% | ~9 |
 | Sanctuary Guardian | 64.00% | ~9 |
-| Mind Illuminator | 57.00% | ~8 |
 | Stellar Dismantler | 43.00% | ~6 |
 | Sentinelphobic | 36.00% | ~5 |
 | Stellar Haste | 36.00% | ~5 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 489)  
+Progressed: 14 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

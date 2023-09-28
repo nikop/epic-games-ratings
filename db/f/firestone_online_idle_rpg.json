@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 949,
-  "Ranking_Popularity": 506,
+  "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -284,18 +284,24 @@
       "Rating": 4.03,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-09-28T15:57:46.2899993+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -306,7 +312,7 @@
   ],
   "EOS_Progressed": 1977,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6396,9 +6402,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-09-25T16:03:05.6391271+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:08:47.6319685+00:00",
+  "LastChanged": "2023-09-28T15:57:46.2899992+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:07:57.2768895+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:57:49.5985893+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:08:47.6320665+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:57:46.2899997+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:07:57.2769941+00:00"
 }

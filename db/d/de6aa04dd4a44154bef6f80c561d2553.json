@@ -2,9 +2,9 @@
   "ID": "de6aa04dd4a44154bef6f80c561d2553",
   "Name": "Xuan-Yuan Sword VII",
   "ProductSlug": "xuan-yuan-sword-7-22c442",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -66,9 +66,9 @@
       "ID": "ARestWellDeserved",
       "SetID": "c8fdd59",
       "Name": "A Rest Well Deserved",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AspirationOfYuanchu",
@@ -106,17 +106,17 @@
       "ID": "Chapter01_TheDesperado",
       "SetID": "c8fdd59",
       "Name": "The Desperado",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter03_DangerousDeal",
@@ -425,8 +425,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:08:31.5090213+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:07:43.5723268+00:00",
   "LastUpdate_AppInfo": "2023-09-25T09:57:22.6099691+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:58:49.5252873+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:08:31.50906+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:58:37.0583+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:07:43.5723618+00:00"
 }

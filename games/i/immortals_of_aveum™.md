@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 953)
 | Master of Malachite | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 462)  
+Progressed: 26 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

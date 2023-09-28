@@ -15,7 +15,7 @@
 | Arcade | 33.00% | ~38 |
 | Custom Court | 29.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 364)  
+Progressed: 114 (Ranked 365)  
 Completed: 31 (27.19%) (Ranked 7)  
 ## EOS Players History
 | Date | Progressed | Completed |

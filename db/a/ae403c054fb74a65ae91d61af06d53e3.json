@@ -2,10 +2,10 @@
   "ID": "ae403c054fb74a65ae91d61af06d53e3",
   "Name": "Super Adventure Hand",
   "ProductSlug": "super-adventure-hand-62ec9a",
-  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
     "PcReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -111,9 +111,9 @@
       "ID": "ach_flick_littleone",
       "SetID": "8787m1a",
       "Name": "An Embarrassing Mistake",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_levelresult_10",
@@ -143,9 +143,9 @@
       "ID": "ach_save_littleone",
       "SetID": "8787m1a",
       "Name": "First Save",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_stun_feet",
@@ -198,8 +198,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:05:34.5710135+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:05:09.8399188+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:29.9094674+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:00:21.5665757+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:05:34.5710226+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:59:53.5485199+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:05:09.8399316+00:00"
 }

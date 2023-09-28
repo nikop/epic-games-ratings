@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,865 |
-| The Killing Jar | 8.00% | ~14,992 |
-| Not Your Average Trait | 8.00% | ~14,992 |
-| Expanding Horizons | 7.00% | ~13,118 |
-| Quest for Survival | 7.00% | ~13,118 |
-| Gleaming the Cube | 6.00% | ~11,244 |
-| Not a Janitor | 6.00% | ~11,244 |
-| Familiar Face | 6.00% | ~11,244 |
-| Duality | 6.00% | ~11,244 |
-| Boss'n Up | 6.00% | ~11,244 |
-| Good, But Could Be Better! | 6.00% | ~11,244 |
-| Trait Chaser | 6.00% | ~11,244 |
+| First of Many | 9.00% | ~16,867 |
+| The Killing Jar | 8.00% | ~14,993 |
+| Not Your Average Trait | 8.00% | ~14,993 |
+| Expanding Horizons | 7.00% | ~13,119 |
+| Quest for Survival | 7.00% | ~13,119 |
+| Gleaming the Cube | 6.00% | ~11,245 |
+| Not a Janitor | 6.00% | ~11,245 |
+| Familiar Face | 6.00% | ~11,245 |
+| Duality | 6.00% | ~11,245 |
+| Boss'n Up | 6.00% | ~11,245 |
+| Good, But Could Be Better! | 6.00% | ~11,245 |
+| Trait Chaser | 6.00% | ~11,245 |
 | Not So Special Now | 5.00% | ~9,370 |
 | Equal Measures | 5.00% | ~9,370 |
 | Blue Goddess | 5.00% | ~9,370 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Proving Grounds | 1.00% | ~1,874 |
 | Ghost in the Machine | 0.90% | ~1,687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,394 (Ranked 65)  
+Progressed: 187,410 (Ranked 65)  
 Completed: 342 (0.18%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,17 +130,17 @@ Completed: 342 (0.18%) (Ranked 215)
 | 2023-09-25 | 186,460 | 334 |
 | 2023-09-26 | 186,828 | 336 |
 | 2023-09-27 | 187,199 | 340 |
-| 2023-09-28 | 187,394 | 342 |
+| 2023-09-28 | 187,410 | 342 |
 ## Awards
-Max (Great Boss Battles): 1,729  (Ranked 118)  
-Sum: 3,596 (Ranked 155)  
+Max (Great Boss Battles): 1,733  (Ranked 118)  
+Sum: 3,602 (Ranked 155)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,729 |
+| This game has Great Boss Battles | 1,733 |
 | This game is Extremely Fun | 211 |
 | This game has Challenging Combat | 206 |
-| This game has Diverse Characters | 204 |
+| This game has Diverse Characters | 206 |
 | This game is Highly Recommended | 197 |
 | This game is Relaxing | 197 |
 | This game has Amazing Characters | 193 |
@@ -215,4 +215,4 @@ Diff (max vs sum): -37
 | 2023-09-25 | 4.76 | 1,712 | 3,531 |
 | 2023-09-26 | 4.76 | 1,724 | 3,560 |
 | 2023-09-27 | 4.76 | 1,729 | 3,586 |
-| 2023-09-28 | 4.76 | 1,729 | 3,596 |
+| 2023-09-28 | 4.76 | 1,733 | 3,602 |

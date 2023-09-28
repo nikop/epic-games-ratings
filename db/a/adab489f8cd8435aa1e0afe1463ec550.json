@@ -2,7 +2,7 @@
   "ID": "adab489f8cd8435aa1e0afe1463ec550",
   "Name": "CyberTD",
   "ProductSlug": "cybertd-22dbd6",
-  "Ranking_EOS_Progress": 554,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 113,
@@ -124,9 +124,9 @@
       "ID": "18",
       "SetID": "6hl9l7f",
       "Name": "Monolith",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "19",
@@ -148,17 +148,17 @@
       "ID": "20",
       "SetID": "6hl9l7f",
       "Name": "Jammer",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "21",
       "SetID": "6hl9l7f",
       "Name": "Laser Fiend",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "22",
@@ -188,9 +188,9 @@
       "ID": "25",
       "SetID": "6hl9l7f",
       "Name": "Milestone Reached",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "26",
@@ -386,8 +386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:05:19.6054699+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:04:56.4673419+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:01:48.5934266+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:05:19.6055034+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:01:05.3396062+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:04:56.4673747+00:00"
 }

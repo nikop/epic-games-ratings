@@ -10,9 +10,9 @@
 | Shatter Them All | 13.00% | ~4 |
 | The Collector | 13.00% | ~4 |
 | A Taste of Wrath | 10.00% | ~3 |
+| Adventurer | 10.00% | ~3 |
 | Scholar | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
-| Adventurer | 6.00% | ~2 |
 | Geared Up | 6.00% | ~2 |
 | Fashion Victim | 6.00% | ~2 |
 | Calm before the Storm | 3.00% | ~1 |
@@ -40,7 +40,7 @@
 | Flawless Victory | -6.50% | ~-2 |
 | Stone Collection | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 455)  
+Progressed: 31 (Ranked 456)  
 Completed: 1 (3.23%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |

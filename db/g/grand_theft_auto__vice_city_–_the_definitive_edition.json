@@ -700,9 +700,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 10457,
+  "EOS_Progressed": 10458,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10720,6 +10720,11 @@
       "Time": "2023-09-28T15:07:35.8521164+00:00",
       "NumProgressed": 10457,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-28T16:06:55.6217476+00:00",
+      "NumProgressed": 10458,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10891,7 +10896,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4810
+      "UsersEstimate": 4811
     },
     {
       "ID": "ACH22",
@@ -10899,7 +10904,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "ACH23",
@@ -11002,7 +11007,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10457,
+      "Progressed": 10458,
       "Completed": 58
     }
   ],
@@ -11010,8 +11015,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-28T04:58:25.0774214+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:07:35.8521159+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:06:55.6217468+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:59:01.2998225+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:07:35.8522065+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:58:46.6685716+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:06:55.6218516+00:00"
 }

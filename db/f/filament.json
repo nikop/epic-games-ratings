@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 791,
   "Ranking_Popularity": 194,
-  "Ranking_PopularitySum": 285,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 94,
@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202404,
+  "EOS_Progressed": 202407,
   "EOS_Completed": 508,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17645,6 +17645,11 @@
       "Time": "2023-09-28T15:04:42.9517579+00:00",
       "NumProgressed": 202404,
       "NumCompleted": 508
+    },
+    {
+      "Time": "2023-09-28T16:04:24.08732+00:00",
+      "NumProgressed": 202407,
+      "NumCompleted": 508
     }
   ],
   "TotalAchievements": 29,
@@ -17680,7 +17685,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190260
+      "UsersEstimate": 190263
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17840,7 +17845,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20240
+      "UsersEstimate": 20241
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -17856,7 +17861,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16192
+      "UsersEstimate": 16193
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -17887,7 +17892,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202404,
+      "Progressed": 202407,
       "Completed": 508
     }
   ],
@@ -17895,8 +17900,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:04:42.9517574+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:04:24.0873192+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.1014806+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:59:45.4406781+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:04:42.951886+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:59:23.4665282+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:04:24.0874794+00:00"
 }

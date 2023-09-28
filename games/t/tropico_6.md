@@ -7,7 +7,7 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,038 |
-| Un-Lonely Island | 46.00% | ~2,477 |
+| Un-Lonely Island | 47.00% | ~2,530 |
 | The Beginning of a Servantship | 45.00% | ~2,423 |
 | Trade Is My Trait | 37.00% | ~1,992 |
 | Number 18 | 24.00% | ~1,292 |
@@ -211,8 +211,8 @@ Completed: 2 (0.04%) (Ranked 261)
 | 2023-09-28 | 5,384 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 343)  
-Sum: 694 (Ranked 282)  
-Diff (max vs sum): 61  
+Sum: 694 (Ranked 283)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

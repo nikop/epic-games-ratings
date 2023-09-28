@@ -39,7 +39,7 @@
 | Twenty-Six | 0.00% | ~0 |
 | Primetime Content Consumer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 513)  
+Progressed: 8 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

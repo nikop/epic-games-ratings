@@ -1,9 +1,9 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": null,
@@ -244,9 +244,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_14",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:06:55.8450273+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:01:26.6400693+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:06:55.8450534+00:00"
+  "LastChanged_Achievements": "2023-09-28T16:06:21.146384+00:00",
+  "LastUpdate_Ratings": "2023-09-28T16:00:47.4050793+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:06:21.1464208+00:00"
 }

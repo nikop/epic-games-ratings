@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37951,
+  "EOS_Progressed": 37954,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17037,6 +17037,11 @@
       "Time": "2023-09-28T14:06:19.4056604+00:00",
       "NumProgressed": 37951,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-28T16:06:12.3081006+00:00",
+      "NumProgressed": 37954,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17168,7 +17173,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13662
+      "UsersEstimate": 13663
     },
     {
       "ID": "ach_die10",
@@ -17256,7 +17261,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5313
+      "UsersEstimate": 5314
     },
     {
       "ID": "ach_legacysalvager",
@@ -17400,7 +17405,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6831
+      "UsersEstimate": 6832
     },
     {
       "ID": "ach_terror100",
@@ -17479,15 +17484,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37951,
+      "Progressed": 37954,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:06:45.7758504+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:06:12.3081+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.9799405+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:00:34.8092984+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:06:45.776+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:00:04.786411+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:06:12.3082568+00:00"
 }

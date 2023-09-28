@@ -2446,18 +2446,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 3596,
       "NumberOfAwardsMax": 1729
+    },
+    {
+      "Time": "2023-09-28T16:00:43.9813679+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 3602,
+      "NumberOfAwardsMax": 1733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3596,
-  "NumberOfAwardsMax": 1729,
+  "NumberOfAwards": 3602,
+  "NumberOfAwardsMax": 1733,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1729
+      "Count": 1733
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2481,7 +2487,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 204
+      "Count": 206
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2520,9 +2526,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 187394,
+  "EOS_Progressed": 187410,
   "EOS_Completed": 342,
-  "EOS_NewPlayers": 3103,
+  "EOS_NewPlayers": 3092,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10720,6 +10726,11 @@
       "Time": "2023-09-28T15:09:42.034381+00:00",
       "NumProgressed": 187394,
       "NumCompleted": 342
+    },
+    {
+      "Time": "2023-09-28T16:09:04.2597631+00:00",
+      "NumProgressed": 187410,
+      "NumCompleted": 342
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -10732,7 +10743,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13118
+      "UsersEstimate": 13119
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -10780,7 +10791,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -10812,7 +10823,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -10852,7 +10863,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13118
+      "UsersEstimate": 13119
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -10876,7 +10887,7 @@
       "Name": "Not a Janitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "Meet_Flautist",
@@ -10884,7 +10895,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "Meet_Meidra",
@@ -10916,7 +10927,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16865
+      "UsersEstimate": 16867
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -10924,7 +10935,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -10964,7 +10975,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "Obtain_Guns_A",
@@ -11036,7 +11047,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "Obtain_Traits_B",
@@ -11092,7 +11103,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -11108,7 +11119,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11244
+      "UsersEstimate": 11245
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -11131,16 +11142,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 187394,
+      "Progressed": 187410,
       "Completed": 342
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-09-28T09:00:05.3931683+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:09:42.0343807+00:00",
+  "LastChanged": "2023-09-28T16:00:43.9813678+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:09:04.2597627+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.0716311+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:01:22.3524286+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:09:42.0344737+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:00:43.9813683+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:09:04.2598637+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -19,8 +19,8 @@
   "Tags": [],
   "EOS_Progressed": 274,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 155,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 151,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
     {
@@ -780,9 +780,9 @@
       "ID": "achievement_15",
       "SetID": "7ldgi7j",
       "Name": "Victory Lap",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_16",
@@ -868,9 +868,9 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
@@ -882,8 +882,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:10:19.9046204+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:09:36.6081283+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:00:58.5634277+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:10:19.9046381+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:00:24.7481433+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:09:36.6081463+00:00"
 }

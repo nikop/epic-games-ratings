@@ -5,7 +5,7 @@
   "Ranking_Rating": 883,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 140,
-  "Ranking_EOS_Progress": 84,
+  "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 64,
@@ -3242,9 +3242,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72922,
+  "EOS_Progressed": 72923,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16932,6 +16932,11 @@
       "Time": "2023-09-28T15:09:07.5358534+00:00",
       "NumProgressed": 72922,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-28T16:08:14.3616517+00:00",
+      "NumProgressed": 72923,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17167,7 +17172,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21147
+      "UsersEstimate": 21148
     },
     {
       "ID": "FREEZE_1_5",
@@ -17255,7 +17260,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18230
+      "UsersEstimate": 18231
     },
     {
       "ID": "HARLEY_3",
@@ -17263,7 +17268,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14584
+      "UsersEstimate": 14585
     },
     {
       "ID": "HARLEY_4",
@@ -17287,7 +17292,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37919
+      "UsersEstimate": 37920
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17311,7 +17316,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14584
+      "UsersEstimate": 14585
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -17335,7 +17340,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24793
+      "UsersEstimate": 24794
     },
     {
       "ID": "MYSTERY_02",
@@ -17343,7 +17348,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18230
+      "UsersEstimate": 18231
     },
     {
       "ID": "MYSTERY_03",
@@ -17359,7 +17364,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14584
+      "UsersEstimate": 14585
     },
     {
       "ID": "MYSTERY_05",
@@ -17399,7 +17404,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8021
+      "UsersEstimate": 8022
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -17430,13 +17435,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72922,
+      "Progressed": 72923,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43202,
+      "Progressed": 43203,
       "Completed": 2668
     }
   ],
@@ -17444,8 +17449,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-28T13:04:39.3599982+00:00",
-  "LastChanged_Achievements": "2023-09-28T15:09:07.535853+00:00",
+  "LastChanged_Achievements": "2023-09-28T16:08:14.3616509+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:59:36.8320271+00:00",
-  "LastUpdate_Achievements": "2023-09-28T15:09:07.5359931+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:59:16.3902351+00:00",
+  "LastUpdate_Achievements": "2023-09-28T16:08:14.3618849+00:00"
 }

@@ -13,7 +13,7 @@
 | Mountain Splitter | 68.00% | ~48 |
 | Fusion Conjuror | 65.00% | ~46 |
 | Memory Rouser | 65.00% | ~46 |
-| Master of the Skies | 59.00% | ~42 |
+| Master of the Skies | 61.00% | ~43 |
 | Subsistence Skills | 59.00% | ~42 |
 | Kemono Hunter | 59.00% | ~42 |
 | Helpful Heart | 56.00% | ~40 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 13.00% | ~9 |
 | Tsukumo Whisperer | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 402)  
+Progressed: 71 (Ranked 403)  
 Completed: 1 (1.41%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,45 +6,45 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,277 |
-| Landlord | 33.00% | ~20,542 |
-| Bannerlord | 23.00% | ~14,317 |
-| Horde breaker | 23.00% | ~14,317 |
-| Lawmaker | 23.00% | ~14,317 |
-| Trained | 23.00% | ~14,317 |
-| The king is pleased | 18.00% | ~11,205 |
-| King Solomon | 17.00% | ~10,582 |
-| I can do it | 16.00% | ~9,960 |
-| Apple of my eye | 15.00% | ~9,337 |
-| God of the Arena | 13.00% | ~8,092 |
-| Against all odds | 12.00% | ~7,470 |
-| This Is Our Land | 12.00% | ~7,470 |
-| Duelist | 10.00% | ~6,225 |
-| Dynasty | 10.00% | ~6,225 |
-| Swordbearer | 10.00% | ~6,225 |
-| What have the Romans ever done for us? | 10.00% | ~6,225 |
-| I spit on your grave | 9.00% | ~5,602 |
-| Butterlord | 8.00% | ~4,980 |
-| Know your enemy | 7.00% | ~4,357 |
-| Mastery | 7.00% | ~4,357 |
-| Crush your enemies | 5.00% | ~3,112 |
-| My way | 5.00% | ~3,112 |
+| Lawbringer | 39.00% | ~24,280 |
+| Landlord | 33.00% | ~20,545 |
+| Bannerlord | 23.00% | ~14,319 |
+| Horde breaker | 23.00% | ~14,319 |
+| Lawmaker | 23.00% | ~14,319 |
+| Trained | 23.00% | ~14,319 |
+| The king is pleased | 18.00% | ~11,206 |
+| King Solomon | 17.00% | ~10,584 |
+| I can do it | 16.00% | ~9,961 |
+| Apple of my eye | 15.00% | ~9,339 |
+| God of the Arena | 13.00% | ~8,093 |
+| Against all odds | 12.00% | ~7,471 |
+| This Is Our Land | 12.00% | ~7,471 |
+| Duelist | 10.00% | ~6,226 |
+| Dynasty | 10.00% | ~6,226 |
+| Swordbearer | 10.00% | ~6,226 |
+| What have the Romans ever done for us? | 10.00% | ~6,226 |
+| I spit on your grave | 9.00% | ~5,603 |
+| Butterlord | 8.00% | ~4,981 |
+| Know your enemy | 7.00% | ~4,358 |
+| Mastery | 7.00% | ~4,358 |
+| Crush your enemies | 5.00% | ~3,113 |
+| My way | 5.00% | ~3,113 |
 | Crowdfunded | 4.00% | ~2,490 |
 | Veni vidi vici | 4.00% | ~2,490 |
-| Freedom! | 3.00% | ~1,867 |
-| Long live the Empire! | 3.00% | ~1,867 |
-| Real Estate | 3.00% | ~1,867 |
-| Entrepreneur | 1.00% | ~622 |
-| Supreme Emperor | 1.00% | ~622 |
+| Freedom! | 3.00% | ~1,868 |
+| Long live the Empire! | 3.00% | ~1,868 |
+| Real Estate | 3.00% | ~1,868 |
+| Entrepreneur | 1.00% | ~623 |
+| Supreme Emperor | 1.00% | ~623 |
 | Crackshot | 0.80% | ~498 |
 | Undercover | 0.80% | ~498 |
 | Fat Cat | 0.70% | ~436 |
-| Catch | 0.60% | ~373 |
+| Catch | 0.60% | ~374 |
 | Slice 'n dice | 0.50% | ~311 |
 | Ride it like you stole it | 0.40% | ~249 |
 | Mounted Archery | 0.30% | ~187 |
-| Great Granny | 0.20% | ~124 |
-| Strike! | 0.20% | ~124 |
+| Great Granny | 0.20% | ~125 |
+| Strike! | 0.20% | ~125 |
 | Best served cold | 0.10% | ~62 |
 | Butcher of Calradia | 0.10% | ~62 |
 | Explorer | 0.10% | ~62 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,249 (Ranked 91)  
+Progressed: 62,257 (Ranked 91)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 62,040 | 0 |
 | 2023-09-26 | 62,113 | 0 |
 | 2023-09-27 | 62,189 | 0 |
-| 2023-09-28 | 62,249 | 0 |
+| 2023-09-28 | 62,257 | 0 |
 ## Awards
 Max (Character Customization): 7,151  (Ranked 52)  
-Sum: 14,628 (Ranked 67)  
+Sum: 14,629 (Ranked 67)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -231,7 +231,7 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 930 |
 | This game is Highly Recommended | 881 |
 | This game is Extremely Fun | 840 |
-| This game has Amazing Storytelling | 825 |
+| This game has Amazing Storytelling | 826 |
 | This game is Relaxing | 814 |
 | This game has Amazing Characters | 812 |
 | This game has Quickly Understood Controls | 798 |
@@ -497,4 +497,4 @@ Diff (max vs sum): -15
 | 2023-09-25 | 4.74 | - | 7,135 | 14,591 |
 | 2023-09-26 | 4.74 | - | 7,135 | 14,598 |
 | 2023-09-27 | 4.74 | - | 7,144 | 14,617 |
-| 2023-09-28 | 4.74 | - | 7,151 | 14,628 |
+| 2023-09-28 | 4.74 | - | 7,151 | 14,629 |

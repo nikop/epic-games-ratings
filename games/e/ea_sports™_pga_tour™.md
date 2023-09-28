@@ -14,14 +14,14 @@
 | Bomb's Away | 49.00% | ~134 |
 | Competitor's Spirit | 44.00% | ~121 |
 | The Strongest Field in Golf | 36.00% | ~99 |
-| Ace in the Hole | 31.00% | ~85 |
+| Ace in the Hole | 32.00% | ~88 |
 | From Many, One | 30.00% | ~82 |
 | Golf's Original Championship | 26.00% | ~71 |
 | A Tradition Unlike Any Other | 25.00% | ~68 |
 | A Passion for Excellence | 24.00% | ~66 |
 | The Ultimate Prize | 19.00% | ~52 |
 | Golfer Versus Golfer | 17.00% | ~47 |
-| Victory Lap | 10.00% | ~27 |
+| Victory Lap | 11.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 274 (Ranked 311)  
 Completed: 7 (2.55%) (Ranked 88)  
