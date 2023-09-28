@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8144,
+  "EOS_Progressed": 8145,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9369,6 +9369,11 @@
       "Time": "2023-09-28T07:07:59.9372605+00:00",
       "NumProgressed": 8144,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-28T08:05:40.0139918+00:00",
+      "NumProgressed": 8145,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9452,7 +9457,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "ACH11",
@@ -9484,7 +9489,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "ACH15",
@@ -9611,7 +9616,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8144,
+      "Progressed": 8145,
       "Completed": 53
     }
   ],
@@ -9619,8 +9624,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:07:59.9372594+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:05:40.0139912+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.067951+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:58:30.5476854+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:07:59.9373338+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:57:18.6479368+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:05:40.0140691+00:00"
 }

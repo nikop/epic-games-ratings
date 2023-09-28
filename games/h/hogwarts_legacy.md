@@ -5,12 +5,12 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,617 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,618 |
 | First Class Student | 13.00% | ~38,668 |
 | Troll with the Punches | 13.00% | ~38,668 |
 | A Keen Sense of Spell | 12.00% | ~35,694 |
-| A Talent for Spending | 11.00% | ~32,719 |
-| That's a Keeper | 11.00% | ~32,719 |
+| A Talent for Spending | 11.00% | ~32,720 |
+| That's a Keeper | 11.00% | ~32,720 |
 | Grappling with a Graphorn | 10.00% | ~29,745 |
 | The One Who Mastered Memories | 10.00% | ~29,745 |
 | The Hallowed Hero | 10.00% | ~29,745 |
@@ -25,7 +25,7 @@ Rating: 4.76 (Ranked 120)
 | A Sallow Grave | 8.00% | ~23,796 |
 | Flight the Good Flight | 8.00% | ~23,796 |
 | The Spell Master | 8.00% | ~23,796 |
-| Beast Friends | 7.00% | ~20,821 |
+| Beast Friends | 7.00% | ~20,822 |
 | The Seeker of Knowledge | 6.00% | ~17,847 |
 | The Root of the Problem | 6.00% | ~17,847 |
 | Third Time's a Charm | 6.00% | ~17,847 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 120)
 | The Intrepid Explorer | 4.00% | ~11,898 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,898 |
 | The Wise Owl | 4.00% | ~11,898 |
-| Put Down Roots | 3.00% | ~8,923 |
-| The Auror's Apprentice | 3.00% | ~8,923 |
-| Floo Around the World | 3.00% | ~8,923 |
+| Put Down Roots | 3.00% | ~8,924 |
+| The Auror's Apprentice | 3.00% | ~8,924 |
+| Floo Around the World | 3.00% | ~8,924 |
 | The Good Samaritan | 2.00% | ~5,949 |
 | Rise to the Challenges | 2.00% | ~5,949 |
 | Finishing Touches | 2.00% | ~5,949 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,449 (Ranked 45)  
+Progressed: 297,450 (Ranked 45)  
 Completed: 478 (0.16%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 478 (0.16%) (Ranked 218)
 | 2023-09-25 | 297,339 | 477 |
 | 2023-09-26 | 297,390 | 477 |
 | 2023-09-27 | 297,436 | 478 |
-| 2023-09-28 | 297,449 | 478 |
+| 2023-09-28 | 297,450 | 478 |
 ## Awards
 Max (Character Customization): 23,108  (Ranked 17)  
-Sum: 44,521 (Ranked 30)  
+Sum: 44,525 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,067 |
 | This game is Extremely Fun | 1,060 |
 | This game has Amazing Characters | 1,034 |
-| This game is Highly Recommended | 1,024 |
+| This game is Highly Recommended | 1,028 |
 | This game has Quickly Understood Controls | 956 |
 | This game has Beautiful Visuals | 896 |
 | This game has a Creative Community | 675 |
@@ -422,4 +422,4 @@ Diff (max vs sum): -13
 | 2023-09-25 | 4.76 | 23,029 | 44,298 |
 | 2023-09-26 | 4.76 | 23,061 | 44,391 |
 | 2023-09-27 | 4.76 | 23,085 | 44,478 |
-| 2023-09-28 | 4.76 | 23,108 | 44,521 |
+| 2023-09-28 | 4.76 | 23,108 | 44,525 |

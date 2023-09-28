@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2524,9 +2524,9 @@
       "ID": "ID_33_SONIC2_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog 2",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "ID_34_SONIC3K_CLEAR_ALL_STAGE",
@@ -2556,8 +2556,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:08:24.523968+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:05:57.214303+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.5215389+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:58:22.2601685+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:08:24.5240125+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:57:13.2881123+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:05:57.214342+00:00"
 }

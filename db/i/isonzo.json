@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6985,
+  "EOS_Progressed": 6986,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5833,6 +5833,11 @@
       "Time": "2023-09-27T21:07:26.0363206+00:00",
       "NumProgressed": 6985,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-28T08:06:46.4116589+00:00",
+      "NumProgressed": 6986,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5852,7 +5857,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5980,7 +5985,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -6012,7 +6017,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -6020,7 +6025,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -6196,14 +6201,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6985,
+      "Progressed": 6986,
       "Completed": 8
     }
   ],
@@ -6211,8 +6216,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:09:33.9731162+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:06:46.4116583+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:33.8019238+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:58:52.3601982+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:09:33.9732122+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:57:33.1777814+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:06:46.4117252+00:00"
 }

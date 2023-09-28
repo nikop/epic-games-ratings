@@ -2,10 +2,10 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -217,6 +217,11 @@
       "Time": "2023-09-27T14:09:34.6323626+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T08:03:20.6556501+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -236,7 +241,7 @@
       "Name": "Artistic fool",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "0000_achv_fallspot",
@@ -244,15 +249,15 @@
       "Name": "Summit attempt",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "0000_achv_findbugs",
       "SetID": "dhn82m5",
       "Name": "Quite a buggy game",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -276,7 +281,7 @@
       "Name": "Fine Listener",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "0000_achv_nosnoop",
@@ -308,7 +313,7 @@
       "Name": "The Green, the Fat, the Ugly",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "0000_achv_spotinteract",
@@ -316,7 +321,7 @@
       "Name": "Useless but beautiful",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "0000_achv_spotlick",
@@ -332,7 +337,7 @@
       "Name": "Nothing can stop me",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "1001_achv_shadowplay",
@@ -356,13 +361,13 @@
       "Name": "Open up wide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 66
     },
@@ -378,7 +383,7 @@
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 66
     },
@@ -388,7 +393,7 @@
       "Name": "Handyman",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "1006_achv_pacifist",
@@ -434,9 +439,9 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -500,7 +505,7 @@
       "Name": "Checkmate in 8 moves",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "3003_achv_allKyraTexts",
@@ -524,7 +529,7 @@
       "Name": "Achoo!!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -540,7 +545,7 @@
       "Name": "Mumbo Jumbo",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "3014_achv_sendspot",
@@ -548,7 +553,7 @@
       "Name": "It\u0027s not easy being green!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "3014_achv_shootgate",
@@ -580,7 +585,7 @@
       "Name": "Home is where the heart is",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "4004_achv_mirror",
@@ -595,7 +600,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:04:24.7473149+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:03:20.6556495+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:44.1627709+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:01:11.6505423+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:04:24.7473589+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:59:03.3547456+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:03:20.6556913+00:00"
 }

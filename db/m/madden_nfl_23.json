@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1553,
+  "EOS_Progressed": 1554,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1606,6 +1606,11 @@
       "Time": "2023-09-28T07:05:23.6199873+00:00",
       "NumProgressed": 1553,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T08:03:48.3390641+00:00",
+      "NumProgressed": 1554,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -1642,7 +1647,7 @@
       "Name": "Stud Finder",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "achievement_13",
@@ -1650,7 +1655,7 @@
       "Name": "Big Spender",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "achievement_14",
@@ -1746,7 +1751,7 @@
       "Name": "Already in Progress",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_6",
@@ -1785,7 +1790,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1553,
+      "Progressed": 1554,
       "Completed": 0
     }
   ],
@@ -1793,8 +1798,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:05:23.6199864+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:03:48.3390632+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.8917414+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:59:27.5282182+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:05:23.6200355+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:57:56.1833186+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:03:48.3390932+00:00"
 }

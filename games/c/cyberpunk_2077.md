@@ -26,10 +26,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.60% | ~5,302 |
 | True Warrior | 0.60% | ~5,302 |
 | Legend of The Afterlife | 0.60% | ~5,302 |
-| The Devil | 0.50% | ~4,418 |
-| The Fool | 0.50% | ~4,418 |
-| The Lovers | 0.50% | ~4,418 |
-| It's Elementary | 0.50% | ~4,418 |
+| The Devil | 0.50% | ~4,419 |
+| The Fool | 0.50% | ~4,419 |
+| The Lovers | 0.50% | ~4,419 |
+| It's Elementary | 0.50% | ~4,419 |
 | Christmas Tree Attack | 0.40% | ~3,535 |
 | The Quick and the Dead | 0.40% | ~3,535 |
 | The World | 0.40% | ~3,535 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,697 (Ranked 15)  
+Progressed: 883,719 (Ranked 15)  
 Completed: 2,448 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 2,448 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,697 | 2,448 |
+| 2023-09-28 | 883,719 | 2,448 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
 Sum: 232,264 (Ranked 13)  

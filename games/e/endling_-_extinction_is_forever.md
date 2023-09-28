@@ -12,7 +12,7 @@
 | Tasty | 38.00% | ~191 |
 | Lullaby | 31.00% | ~156 |
 | You Can Pet The Fox | 30.00% | ~151 |
-| Hard Fox Life | 24.00% | ~121 |
+| Hard Fox Life | 25.00% | ~126 |
 | Never Let Down | 24.00% | ~121 |
 | A Barking Fox Doesn't Bite | 22.00% | ~111 |
 | Chicken Dinner | 21.00% | ~106 |
@@ -33,7 +33,7 @@
 | Easter Egg | 2.00% | ~10 |
 | Endling | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503 (Ranked 264)  
+Progressed: 503 (Ranked 265)  
 Completed: 3 (0.60%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |

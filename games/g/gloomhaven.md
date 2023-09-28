@@ -6,30 +6,30 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~3,213 |
-| A normal day in Gloomhaven | 34.00% | ~2,601 |
-| Overkill | 31.00% | ~2,372 |
-| Vaccine Incoming | 30.00% | ~2,295 |
-| Spread the plague | 29.00% | ~2,218 |
-| Get over here! | 23.00% | ~1,760 |
-| Just when I thought I was out... | 18.00% | ~1,377 |
-| Mine... All Mine... | 17.00% | ~1,300 |
-| Light of my life | 15.00% | ~1,148 |
-| Anatomy Lesson | 14.00% | ~1,071 |
-| You activated my trap card! | 13.00% | ~994 |
-| Augmented rat | 13.00% | ~994 |
-| Precious! | 12.00% | ~918 |
-| Obstacle race | 12.00% | ~918 |
-| Doom and gloom | 12.00% | ~918 |
-| Grizzled veteran | 10.00% | ~765 |
-| Play it again, Sam | 8.00% | ~612 |
+| I'm not dead yet | 42.00% | ~3,218 |
+| A normal day in Gloomhaven | 34.00% | ~2,605 |
+| Overkill | 31.00% | ~2,375 |
+| Vaccine Incoming | 30.00% | ~2,299 |
+| Spread the plague | 29.00% | ~2,222 |
+| Get over here! | 23.00% | ~1,762 |
+| Just when I thought I was out... | 18.00% | ~1,379 |
+| Mine... All Mine... | 17.00% | ~1,303 |
+| Light of my life | 15.00% | ~1,149 |
+| Anatomy Lesson | 14.00% | ~1,073 |
+| You activated my trap card! | 13.00% | ~996 |
+| Augmented rat | 13.00% | ~996 |
+| Precious! | 12.00% | ~919 |
+| Obstacle race | 12.00% | ~919 |
+| Doom and gloom | 12.00% | ~919 |
+| Grizzled veteran | 10.00% | ~766 |
+| Play it again, Sam | 8.00% | ~613 |
 | Pack leader | 7.00% | ~536 |
 | Pain is your friend | 7.00% | ~536 |
 | Black death | 7.00% | ~536 |
-| Dungeon Veteran | 6.00% | ~459 |
-| Who's the Boss? | 6.00% | ~459 |
-| Quad damage | 6.00% | ~459 |
-| Now you see me... | 5.00% | ~382 |
+| Dungeon Veteran | 6.00% | ~460 |
+| Who's the Boss? | 6.00% | ~460 |
+| Quad damage | 6.00% | ~460 |
+| Now you see me... | 5.00% | ~383 |
 | Power Up! | 4.00% | ~306 |
 | The Pro from Dover | 4.00% | ~306 |
 | Pretty lights! | 4.00% | ~306 |
@@ -39,10 +39,10 @@ Number of Ratings: 68  (23.09.2022)
 | Master Assassin | 2.00% | ~153 |
 | Grin and bear it | 2.00% | ~153 |
 | An axe to grind | 2.00% | ~153 |
-| Down the hatch | 1.00% | ~76 |
-| An eye for an eye | 1.00% | ~76 |
-| The Cephalophore | 1.00% | ~76 |
-| The Sniper | 1.00% | ~76 |
+| Down the hatch | 1.00% | ~77 |
+| An eye for an eye | 1.00% | ~77 |
+| The Cephalophore | 1.00% | ~77 |
+| The Sniper | 1.00% | ~77 |
 | New Blood | 0.90% | ~69 |
 | From Gloom, only greed and death emerges | 0.80% | ~61 |
 | Add a bit of colour | 0.80% | ~61 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~8 |
 | Murder Death Kill | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,650 (Ranked 148)  
+Progressed: 7,662 (Ranked 148)  
 Completed: 1 (0.01%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,10 +83,10 @@ Completed: 1 (0.01%) (Ranked 280)
 | 2023-09-25 | 6,698 | 1 |
 | 2023-09-26 | 7,140 | 1 |
 | 2023-09-27 | 7,530 | 1 |
-| 2023-09-28 | 7,650 | 1 |
+| 2023-09-28 | 7,662 | 1 |
 ## Awards
 Max (Character Customization): 3,538  (Ranked 89)  
-Sum: 8,239 (Ranked 99)  
+Sum: 8,240 (Ranked 99)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -98,7 +98,7 @@ Diff (max vs sum): -10
 | This game has Amazing Characters | 483 |
 | This game is Relaxing | 482 |
 | This game has Quickly Understood Controls | 480 |
-| This game has Amazing Storytelling | 479 |
+| This game has Amazing Storytelling | 480 |
 | This game has Unique Visuals | 374 |
 | This game has a Creative Community | 209 |
 | This game has Obsessive Gameplay | 152 |
@@ -279,3 +279,4 @@ Diff (max vs sum): -10
 | 2023-09-25 | 4.47 | - | 3,534 | 8,227 |
 | 2023-09-26 | 4.47 | - | 3,534 | 8,233 |
 | 2023-09-27 | 4.47 | - | 3,538 | 8,239 |
+| 2023-09-28 | 4.47 | - | 3,538 | 8,240 |

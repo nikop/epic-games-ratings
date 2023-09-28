@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 247299,
+  "EOS_Progressed": 247301,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18299,6 +18299,11 @@
       "Time": "2023-09-28T07:07:22.8365068+00:00",
       "NumProgressed": 247299,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T08:05:13.4024437+00:00",
+      "NumProgressed": 247301,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -18358,7 +18363,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -18718,14 +18723,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 247299,
+      "Progressed": 247301,
       "Completed": 7
     }
   ],
@@ -18733,8 +18738,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:07:22.8365058+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:05:13.4024431+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:14.4356466+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:58:27.0988118+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:07:22.8366894+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:57:16.4091796+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:05:13.402598+00:00"
 }

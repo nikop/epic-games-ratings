@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -204,9 +204,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_09",
@@ -268,9 +268,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_17",
@@ -284,9 +284,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_19",
@@ -308,9 +308,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": -6.5,
+      "Percentage": -3.2,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_22",
@@ -348,9 +348,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_27",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:07:18.803854+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:01:51.44683+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:07:18.8038838+00:00"
+  "LastChanged_Achievements": "2023-09-28T08:05:10.3720331+00:00",
+  "LastUpdate_Ratings": "2023-09-28T07:59:29.089487+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:05:10.372081+00:00"
 }

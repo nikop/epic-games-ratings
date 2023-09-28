@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13070,
+  "EOS_Progressed": 13071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1938,
+  "EOS_NewPlayers": 1935,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6910,6 +6910,11 @@
       "Time": "2023-09-28T07:04:13.4227939+00:00",
       "NumProgressed": 13070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T08:03:12.5619163+00:00",
+      "NumProgressed": 13071,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6946,7 +6951,7 @@
       "Name": "Data Archivist",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "13",
@@ -6970,7 +6975,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "16",
@@ -7154,14 +7159,14 @@
       "Name": "Impossible Objects",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4575
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13070,
+      "Progressed": 13071,
       "Completed": 0
     }
   ],
@@ -7169,8 +7174,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:04:13.4227929+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:03:12.5619155+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:04:08.475511+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:04:13.4228759+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:03:09.0351524+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:03:12.5620352+00:00"
 }

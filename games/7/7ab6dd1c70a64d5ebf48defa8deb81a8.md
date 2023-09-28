@@ -5,15 +5,15 @@
 | ---- | ---------- | ----- |
 | Powerful Allies | 16.00% | ~5 |
 | Trinity | 13.00% | ~4 |
+| Shatter Them All | 13.00% | ~4 |
 | Find Allies | 10.00% | ~3 |
-| Shatter Them All | 10.00% | ~3 |
+| Essence Blow | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
-| Essence Blow | 6.00% | ~2 |
-| A Taste of Wrath | 3.00% | ~1 |
+| A Taste of Wrath | 6.00% | ~2 |
+| Scholar | 6.00% | ~2 |
 | Adventurer | 3.00% | ~1 |
 | Geared Up | 3.00% | ~1 |
 | Fashion Victim | 3.00% | ~1 |
-| Scholar | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
 | The Collector | 3.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
@@ -26,6 +26,7 @@
 | Shardbearer | -3.20% | ~-1 |
 | Shatterer | -3.20% | ~-1 |
 | Slayer | -3.20% | ~-1 |
+| Big Bazar | -3.20% | ~-1 |
 | Fine Feathers Make Fine Birds | -3.20% | ~-1 |
 | All There Is | -3.20% | ~-1 |
 | False God | -3.20% | ~-1 |
@@ -36,7 +37,6 @@
 | Calm before the Storm | -6.50% | ~-2 |
 | Tributes of Caladrias | -6.50% | ~-2 |
 | Flawless Victory | -6.50% | ~-2 |
-| Big Bazar | -6.50% | ~-2 |
 | Stone Collection | -6.50% | ~-2 |
 | A Queen's Tale | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)

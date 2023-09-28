@@ -5,22 +5,22 @@ Rating: 4.61 (Ranked 372)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 94.00% | ~473 |
+| Marksman | 94.00% | ~474 |
 | Welcome Aboard | 85.00% | ~428 |
-| Lab Rat | 71.00% | ~357 |
-| All Systems Go | 62.00% | ~312 |
+| Lab Rat | 71.00% | ~358 |
+| All Systems Go | 63.00% | ~318 |
 | Brute Force | 62.00% | ~312 |
 | Cannon Fodder | 57.00% | ~287 |
 | Autofire | 55.00% | ~277 |
 | Raise the Stakes | 55.00% | ~277 |
+| Story Teller | 51.00% | ~257 |
 | True Believer | 51.00% | ~257 |
-| Story Teller | 50.00% | ~252 |
-| Surgeon | 46.00% | ~231 |
-| Exterminator | 44.00% | ~221 |
-| Greenhouse Effect | 44.00% | ~221 |
-| Freeze | 43.00% | ~216 |
-| Full Arsenal | 40.00% | ~201 |
-| Live with the Hot Ones | 38.00% | ~191 |
+| Surgeon | 46.00% | ~232 |
+| Exterminator | 44.00% | ~222 |
+| Greenhouse Effect | 44.00% | ~222 |
+| Freeze | 43.00% | ~217 |
+| Full Arsenal | 40.00% | ~202 |
+| Live with the Hot Ones | 38.00% | ~192 |
 | S.O.S. | 35.00% | ~176 |
 | Get Off My Ship! | 34.00% | ~171 |
 | Strange Transmissions | 34.00% | ~171 |
@@ -41,8 +41,8 @@ Rating: 4.61 (Ranked 372)
 | Pack Rat | 18.00% | ~91 |
 | Full Clearance | 18.00% | ~91 |
 | Z-Baller | 17.00% | ~86 |
-| Marked | 15.00% | ~75 |
-| Eviscerator | 13.00% | ~65 |
+| Marked | 14.00% | ~71 |
+| Eviscerator | 13.00% | ~66 |
 | Backbreaker | 11.00% | ~55 |
 | Trusted Contractor | 5.00% | ~25 |
 | Wishbone | 5.00% | ~25 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 372)
 | Reunion | 2.00% | ~10 |
 | Untouchable | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503 (Ranked 264)  
+Progressed: 504 (Ranked 263)  
 Completed: 3 (0.60%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 3 (0.60%) (Ranked 152)
 | 2023-09-25 | 419 | 2 |
 | 2023-09-26 | 461 | 3 |
 | 2023-09-27 | 488 | 3 |
-| 2023-09-28 | 503 | 3 |
+| 2023-09-28 | 504 | 3 |
 ## Awards
 Max (Great Boss Battles): 95  (Ranked 351)  
 Sum: 95 (Ranked 424)  

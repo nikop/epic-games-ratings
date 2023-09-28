@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2017-11-16T15:00:00+00:00",
@@ -3404,7 +3404,7 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 132084,
+  "EOS_Progressed": 132085,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 0,
@@ -21369,6 +21369,11 @@
       "Time": "2023-09-28T07:06:44.6079329+00:00",
       "NumProgressed": 132084,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-09-28T08:04:46.3089215+00:00",
+      "NumProgressed": 132085,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 67,
@@ -21380,7 +21385,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 89817
+      "UsersEstimate": 89818
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -21452,7 +21457,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 108309
+      "UsersEstimate": 108310
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -21476,7 +21481,7 @@
       "Name": "Developers, Developers, Developers, Developers!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 21133
+      "UsersEstimate": 21134
     },
     {
       "ID": "TANNENBERG_ACH_EQUALITY_FOR_ALL",
@@ -21500,7 +21505,7 @@
       "Name": "Fog of War",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 54154
+      "UsersEstimate": 54155
     },
     {
       "ID": "TANNENBERG_ACH_FORWARD_OBSERVER",
@@ -21580,7 +21585,7 @@
       "Name": "Hydra",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 47550
+      "UsersEstimate": 47551
     },
     {
       "ID": "TANNENBERG_ACH_IMMOVABLE_OBJECT",
@@ -21588,7 +21593,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 117555
+      "UsersEstimate": 117556
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -21604,7 +21609,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 105667
+      "UsersEstimate": 105668
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -21620,7 +21625,7 @@
       "Name": "Kesselschlacht",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 29058
+      "UsersEstimate": 29059
     },
     {
       "ID": "TANNENBERG_ACH_LEAD_HARVEST",
@@ -21772,7 +21777,7 @@
       "Name": "Skynet Confirmed",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 30379
+      "UsersEstimate": 30380
     },
     {
       "ID": "TANNENBERG_ACH_STEADY_SUPPLY",
@@ -21780,7 +21785,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 79250
+      "UsersEstimate": 79251
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -21796,7 +21801,7 @@
       "Name": "Stronghold",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 46229
+      "UsersEstimate": 46230
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD_DENIED",
@@ -21844,7 +21849,7 @@
       "Name": "This Belongs to Us Now",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 47550
+      "UsersEstimate": 47551
     },
     {
       "ID": "TANNENBERG_ACH_THIS_IS_MY_MACHINE_GUN",
@@ -21915,15 +21920,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 132084,
+      "Progressed": 132085,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-09-25T13:58:26.2231991+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:06:44.6079319+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:04:46.3089211+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:56:59.8385288+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:00:57.0985687+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:06:44.6081411+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:58:54.0717876+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:04:46.3090938+00:00"
 }

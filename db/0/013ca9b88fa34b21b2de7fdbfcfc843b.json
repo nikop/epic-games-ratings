@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5325,
+  "EOS_Progressed": 5326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2520,6 +2520,11 @@
       "Time": "2023-09-28T07:07:40.9398429+00:00",
       "NumProgressed": 5325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T08:05:26.0978331+00:00",
+      "NumProgressed": 5326,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -2532,7 +2537,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -2540,7 +2545,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -2548,7 +2553,7 @@
       "Name": "Calm Sailing",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -2572,7 +2577,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -2628,7 +2633,7 @@
       "Name": "Miner 49er",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -2716,7 +2721,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -2780,7 +2785,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -2796,7 +2801,7 @@
       "Name": "House Proud",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -2811,7 +2816,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5325,
+      "Progressed": 5326,
       "Completed": 0
     }
   ],
@@ -2819,8 +2824,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-26T19:02:05.5015028+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:07:40.9398419+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:05:26.0978324+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:03:05.8728322+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:07:40.9398965+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:00:17.9880106+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:05:26.0978894+00:00"
 }

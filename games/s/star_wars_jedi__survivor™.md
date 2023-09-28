@@ -5,46 +5,46 @@ Rating: 4.49 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~2,873 |
-| For Saw Gerrera | 97.00% | ~2,815 |
-| Grab Some Seat | 86.00% | ~2,496 |
-| Can You Pet the Bogling? | 81.00% | ~2,351 |
-| The Past Made Present | 73.00% | ~2,118 |
-| Survivors, We Adapt | 68.00% | ~1,973 |
-| They Never Saw It Coming | 66.00% | ~1,915 |
-| Among the Masters | 66.00% | ~1,915 |
-| Who Gives a Puck | 61.00% | ~1,770 |
-| Mirror Match | 59.00% | ~1,712 |
-| Now, This Isn't Podracing | 52.00% | ~1,509 |
-| For the Path | 51.00% | ~1,480 |
-| Cleaning Up | 49.00% | ~1,422 |
-| Skywalker | 48.00% | ~1,393 |
-| Out of Bedlam | 46.00% | ~1,335 |
-| Hey, Luke At Us | 43.00% | ~1,248 |
-| Kitted Out | 40.00% | ~1,161 |
-| Riposte | 39.00% | ~1,132 |
-| Tanalorr Bound | 36.00% | ~1,045 |
-| Greezy Money | 35.00% | ~1,016 |
-| Tragedy | 33.00% | ~958 |
-| Catch! | 33.00% | ~958 |
-| They're Probably Fine | 33.00% | ~958 |
-| At the Precipice | 32.00% | ~929 |
-| Into the Abyss | 30.00% | ~871 |
-| A Place You Could Call Home | 28.00% | ~813 |
-| There Is No Try | 28.00% | ~813 |
-| Han Slowlo | 27.00% | ~784 |
-| The Jedi Path | 23.00% | ~667 |
-| This Is Canon | 22.00% | ~638 |
-| It's a Trap | 19.00% | ~551 |
-| You've Got A Friend | 17.00% | ~493 |
-| Reconnaissance | 14.00% | ~406 |
-| King of the World | 12.00% | ~348 |
-| A Presence I've Not Felt Since... | 11.00% | ~319 |
-| Max Capacity | 10.00% | ~290 |
-| Slam Dunk | 8.00% | ~232 |
-| Star Tours | 7.00% | ~203 |
-| Caij Match | 7.00% | ~203 |
-| Gambler | 7.00% | ~203 |
+| Rooftop Duel | 99.00% | ~2,879 |
+| For Saw Gerrera | 97.00% | ~2,821 |
+| Grab Some Seat | 86.00% | ~2,501 |
+| Can You Pet the Bogling? | 81.00% | ~2,355 |
+| The Past Made Present | 73.00% | ~2,123 |
+| Survivors, We Adapt | 68.00% | ~1,977 |
+| They Never Saw It Coming | 66.00% | ~1,919 |
+| Among the Masters | 66.00% | ~1,919 |
+| Who Gives a Puck | 61.00% | ~1,774 |
+| Mirror Match | 60.00% | ~1,745 |
+| Now, This Isn't Podracing | 52.00% | ~1,512 |
+| For the Path | 51.00% | ~1,483 |
+| Cleaning Up | 49.00% | ~1,425 |
+| Skywalker | 48.00% | ~1,396 |
+| Out of Bedlam | 46.00% | ~1,338 |
+| Hey, Luke At Us | 43.00% | ~1,250 |
+| Kitted Out | 40.00% | ~1,163 |
+| Riposte | 39.00% | ~1,134 |
+| Tanalorr Bound | 36.00% | ~1,047 |
+| Greezy Money | 35.00% | ~1,018 |
+| Tragedy | 34.00% | ~989 |
+| Catch! | 33.00% | ~960 |
+| They're Probably Fine | 33.00% | ~960 |
+| At the Precipice | 32.00% | ~931 |
+| Into the Abyss | 30.00% | ~872 |
+| A Place You Could Call Home | 28.00% | ~814 |
+| There Is No Try | 28.00% | ~814 |
+| Han Slowlo | 27.00% | ~785 |
+| The Jedi Path | 23.00% | ~669 |
+| This Is Canon | 22.00% | ~640 |
+| It's a Trap | 19.00% | ~553 |
+| You've Got A Friend | 17.00% | ~494 |
+| Reconnaissance | 14.00% | ~407 |
+| King of the World | 12.00% | ~349 |
+| A Presence I've Not Felt Since... | 11.00% | ~320 |
+| Max Capacity | 10.00% | ~291 |
+| Slam Dunk | 8.00% | ~233 |
+| Star Tours | 7.00% | ~204 |
+| Caij Match | 7.00% | ~204 |
+| Gambler | 7.00% | ~204 |
 | Growth Spurt | 6.00% | ~174 |
 | I'm a Living Legend | 5.00% | ~145 |
 | Get Down From There | 4.00% | ~116 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 588)
 | Splurgle | 2.00% | ~58 |
 | Blood, Sweat, and Tears | 2.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,902 (Ranked 187)  
+Progressed: 2,908 (Ranked 187)  
 Completed: 9 (0.31%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 9 (0.31%) (Ranked 190)
 | 2023-09-25 | 2,318 | 7 |
 | 2023-09-26 | 2,588 | 7 |
 | 2023-09-27 | 2,827 | 9 |
-| 2023-09-28 | 2,902 | 9 |
+| 2023-09-28 | 2,908 | 9 |
 ## Awards
 Max (Great Boss Battles): 2,737  (Ranked 97)  
 Sum: 3,985 (Ranked 147)  

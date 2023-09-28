@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8146,10 +8146,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44521,
       "NumberOfAwardsMax": 23108
+    },
+    {
+      "Time": "2023-09-28T08:00:20.9446278+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44525,
+      "NumberOfAwardsMax": 23108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44521,
+  "NumberOfAwards": 44525,
   "NumberOfAwardsMax": 23108,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8205,7 +8211,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1024
+      "Count": 1028
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8226,7 +8232,7 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 297449,
+  "EOS_Progressed": 297450,
   "EOS_Completed": 478,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 2,
@@ -25596,6 +25602,11 @@
       "Time": "2023-09-28T07:09:59.9623+00:00",
       "NumProgressed": 297449,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-28T08:07:04.7673976+00:00",
+      "NumProgressed": 297450,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25607,7 +25618,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44617
+      "UsersEstimate": 44618
     },
     {
       "ID": "PFA_10",
@@ -25671,7 +25682,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20821
+      "UsersEstimate": 20822
     },
     {
       "ID": "PFA_18",
@@ -25767,7 +25778,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "PFA_29",
@@ -25783,7 +25794,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "PFA_30",
@@ -25791,7 +25802,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32719
+      "UsersEstimate": 32720
     },
     {
       "ID": "PFA_31",
@@ -25823,7 +25834,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "PFA_35",
@@ -25951,7 +25962,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32719
+      "UsersEstimate": 32720
     },
     {
       "ID": "PFA_9",
@@ -25966,16 +25977,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297449,
+      "Progressed": 297450,
       "Completed": 478
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-28T07:03:10.2991358+00:00",
-  "LastChanged_Achievements": "2023-09-28T07:09:59.9622991+00:00",
+  "LastChanged": "2023-09-28T08:00:20.9446276+00:00",
+  "LastChanged_Achievements": "2023-09-28T08:07:04.7673968+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:03:10.2991364+00:00",
-  "LastUpdate_Achievements": "2023-09-28T07:09:59.9624705+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:00:20.9446436+00:00",
+  "LastUpdate_Achievements": "2023-09-28T08:07:04.7676466+00:00"
 }

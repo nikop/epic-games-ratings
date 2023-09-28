@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,854 |
+| First of Many | 9.00% | ~16,855 |
 | The Killing Jar | 8.00% | ~14,982 |
 | Not Your Average Trait | 8.00% | ~14,982 |
-| Expanding Horizons | 7.00% | ~13,109 |
-| Quest for Survival | 7.00% | ~13,109 |
-| Gleaming the Cube | 6.00% | ~11,236 |
-| Not a Janitor | 6.00% | ~11,236 |
-| Familiar Face | 6.00% | ~11,236 |
-| Duality | 6.00% | ~11,236 |
-| Boss'n Up | 6.00% | ~11,236 |
-| Good, But Could Be Better! | 6.00% | ~11,236 |
-| Trait Chaser | 6.00% | ~11,236 |
+| Expanding Horizons | 7.00% | ~13,110 |
+| Quest for Survival | 7.00% | ~13,110 |
+| Gleaming the Cube | 6.00% | ~11,237 |
+| Not a Janitor | 6.00% | ~11,237 |
+| Familiar Face | 6.00% | ~11,237 |
+| Duality | 6.00% | ~11,237 |
+| Boss'n Up | 6.00% | ~11,237 |
+| Good, But Could Be Better! | 6.00% | ~11,237 |
+| Trait Chaser | 6.00% | ~11,237 |
 | Not So Special Now | 5.00% | ~9,364 |
 | Equal Measures | 5.00% | ~9,364 |
 | Blue Goddess | 5.00% | ~9,364 |
@@ -43,20 +43,20 @@ Rating: 4.76 (Ranked 120)
 | Edgelord | 3.00% | ~5,618 |
 | The Ultimate Weapon | 3.00% | ~5,618 |
 | No One Should Have All That Power | 3.00% | ~5,618 |
-| Crafty | 2.00% | ~3,745 |
-| Only Human | 2.00% | ~3,745 |
-| Red Room | 2.00% | ~3,745 |
-| The Collector | 2.00% | ~3,745 |
-| Scrap Hoarder | 2.00% | ~3,745 |
-| Carnage in C-Minor | 2.00% | ~3,745 |
-| Maxed Out! | 2.00% | ~3,745 |
-| Transmutate | 2.00% | ~3,745 |
+| Crafty | 2.00% | ~3,746 |
+| Only Human | 2.00% | ~3,746 |
+| Red Room | 2.00% | ~3,746 |
+| The Collector | 2.00% | ~3,746 |
+| Scrap Hoarder | 2.00% | ~3,746 |
+| Carnage in C-Minor | 2.00% | ~3,746 |
+| Maxed Out! | 2.00% | ~3,746 |
+| Transmutate | 2.00% | ~3,746 |
 | The Trigger | 1.00% | ~1,873 |
 | Cutting Edge | 1.00% | ~1,873 |
 | Proving Grounds | 1.00% | ~1,873 |
-| Ghost in the Machine | 0.90% | ~1,685 |
+| Ghost in the Machine | 0.90% | ~1,686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,272 (Ranked 65)  
+Progressed: 187,281 (Ranked 65)  
 Completed: 340 (0.18%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 340 (0.18%) (Ranked 215)
 | 2023-09-25 | 186,460 | 334 |
 | 2023-09-26 | 186,828 | 336 |
 | 2023-09-27 | 187,199 | 340 |
-| 2023-09-28 | 187,272 | 340 |
+| 2023-09-28 | 187,281 | 340 |
 ## Awards
 Max (Great Boss Battles): 1,729  (Ranked 118)  
 Sum: 3,594 (Ranked 155)  
