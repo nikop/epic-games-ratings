@@ -164,17 +164,17 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": -6.5,
+      "Percentage": -3.2,
       "XP": 15,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_05",
@@ -204,9 +204,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_09",
@@ -268,9 +268,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_17",
@@ -380,9 +380,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_31",
@@ -404,9 +404,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_35",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:05:42.8071401+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:00:08.05074+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:05:42.8071699+00:00"
+  "LastChanged_Achievements": "2023-09-28T10:05:21.7475366+00:00",
+  "LastUpdate_Ratings": "2023-09-28T09:59:31.9880063+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:05:21.747559+00:00"
 }

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~232 |
-| Off to a good start | 66.00% | ~174 |
-| Do... or do not. There is no try | 48.00% | ~127 |
+| New Recruit | 88.00% | ~234 |
+| Off to a good start | 65.00% | ~173 |
+| Do... or do not. There is no try | 48.00% | ~128 |
 | A good blaster at your side | 34.00% | ~90 |
 | Scrap collector | 23.00% | ~61 |
-| Great shot, kid! | 21.00% | ~55 |
-| The power of the Force | 19.00% | ~50 |
+| Great shot, kid! | 21.00% | ~56 |
+| The power of the Force | 18.00% | ~48 |
 | Together we can rule the galaxy | 18.00% | ~48 |
 | All right, I'll give it a try | 18.00% | ~48 |
 | I suggest a new strategy | 18.00% | ~48 |
 | Shoot first | 17.00% | ~45 |
-| Collector | 16.00% | ~42 |
+| Collector | 16.00% | ~43 |
 | Survivor | 14.00% | ~37 |
-| Tell Jabba that I've got his money | 13.00% | ~34 |
+| Tell Jabba that I've got his money | 12.00% | ~32 |
 | What's the cargo? | 11.00% | ~29 |
 | A tremor in the Force | 11.00% | ~29 |
 | Never tell me the odds! | 11.00% | ~29 |
 | Best star-pilot in the galaxy | 11.00% | ~29 |
 | Judge me by my size, do you? | 11.00% | ~29 |
 | A cunning warrior | 11.00% | ~29 |
-| Impressive. Most impressive. | 10.00% | ~26 |
+| Impressive. Most impressive. | 10.00% | ~27 |
 | "Gonk? Gonk!" | 9.00% | ~24 |
 | Distinguished | 8.00% | ~21 |
 | Patience you must have | 8.00% | ~21 |
 | Support the troops | 8.00% | ~21 |
-| Determined | 7.00% | ~18 |
-| On the ball | 7.00% | ~18 |
-| Not bad for a little furball | 7.00% | ~18 |
-| Don't underestimate the Force | 7.00% | ~18 |
+| Determined | 7.00% | ~19 |
+| On the ball | 7.00% | ~19 |
+| Not bad for a little furball | 7.00% | ~19 |
+| Don't underestimate the Force | 7.00% | ~19 |
 | I've been waiting for you | 6.00% | ~16 |
 | When 900 years old you reach... | 6.00% | ~16 |
 | City in the Clouds | 6.00% | ~16 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~1 |
 | Crush them with one swift stroke… | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264 (Ranked 315)  
+Progressed: 266 (Ranked 314)  
 Completed: 1 (0.38%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.38%) (Ranked 176)
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
 | 2023-09-27 | 253 | 1 |
-| 2023-09-28 | 264 | 1 |
+| 2023-09-28 | 266 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

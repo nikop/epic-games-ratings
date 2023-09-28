@@ -22,11 +22,11 @@
 | Medal of Exploration III | 52.00% | ~228 |
 | Asari Ally | 51.00% | ~223 |
 | Principled | 51.00% | ~223 |
-| Soldier Ally | 48.00% | ~210 |
+| Soldier Ally | 49.00% | ~215 |
 | Colonial Savior | 48.00% | ~210 |
 | Sentinel Ally | 46.00% | ~201 |
-| Krogan Ally | 45.00% | ~197 |
-| Paramour I | 44.00% | ~193 |
+| Krogan Ally | 46.00% | ~201 |
+| Paramour I | 45.00% | ~197 |
 | Scientist | 43.00% | ~188 |
 | Merciless | 42.00% | ~184 |
 | Operative | 40.00% | ~175 |
@@ -79,8 +79,8 @@
 | Against All Odds | 23.00% | ~101 |
 | A House Divided | 23.00% | ~101 |
 | Weapon Specialist | 23.00% | ~101 |
+| Liberator | 23.00% | ~101 |
 | World Shaker | 22.00% | ~96 |
-| Liberator | 22.00% | ~96 |
 | Savior | 21.00% | ~92 |
 | Tunnel Rat | 20.00% | ~88 |
 | Paramour II | 19.00% | ~83 |
@@ -103,7 +103,7 @@
 | Mail Slot | 13.00% | ~57 |
 | Warp Mastery | 13.00% | ~57 |
 | Well Connected | 13.00% | ~57 |
-| Master and Commander | 12.00% | ~53 |
+| Master and Commander | 13.00% | ~57 |
 | Barrier Mastery | 11.00% | ~48 |
 | Combined Arms | 11.00% | ~48 |
 | Executioner | 11.00% | ~48 |

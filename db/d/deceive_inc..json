@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 122,
@@ -258,7 +258,7 @@
   "Tags": [],
   "EOS_Progressed": 18174,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11024,9 +11024,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3998
     },
     {
       "ID": "0025",
@@ -11137,8 +11137,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:06:39.6696354+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:06:19.4096762+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:59:35.6394837+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:39.6698075+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:58:58.4133447+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:06:19.4097481+00:00"
 }

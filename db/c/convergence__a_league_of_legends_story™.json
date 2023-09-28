@@ -2477,9 +2477,9 @@
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2742,8 +2742,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:06:20.0819225+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:05:59.4478218+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:59:24.9770026+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:20.082029+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:58:47.6281861+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:05:59.4478712+00:00"
 }

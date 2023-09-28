@@ -5,6 +5,7 @@
 | ---- | ---------- | ----- |
 | Toys Are For Kids | 50.00% | ~4 |
 | Schooled | 50.00% | ~4 |
+| ...And Stay Dead! | 50.00% | ~4 |
 | True Colours | 50.00% | ~4 |
 | Evasive prey | 50.00% | ~4 |
 | Bully of Bullies | 38.00% | ~3 |
@@ -19,7 +20,6 @@
 | Signal interruption | 38.00% | ~3 |
 | Unladylike | 38.00% | ~3 |
 | Half hat | 38.00% | ~3 |
-| ...And Stay Dead! | 38.00% | ~3 |
 | Objection | 38.00% | ~3 |
 | Fair Prey | 38.00% | ~3 |
 | Sick Kids | 38.00% | ~3 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1181,
+  "EOS_Progressed": 1182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1869,6 +1869,11 @@
       "Time": "2023-09-28T03:05:47.8667567+00:00",
       "NumProgressed": 1181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T10:05:59.6433438+00:00",
+      "NumProgressed": 1182,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1905,15 +1910,15 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 213
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1953,7 +1958,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2079,9 +2084,9 @@
       "ID": "ML_ACHIEVEMENT_26",
       "SetID": "c7hf6a4",
       "Name": "Evangelist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -2169,15 +2174,15 @@
       "Name": "Bitter Rivalry",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 449
+      "UsersEstimate": 437
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2233,7 +2238,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2272,14 +2277,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1181,
+      "Progressed": 1182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:06:20.2677396+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:05:59.6433434+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:58:36.7858116+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:20.2678339+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:58:00.3137457+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:05:59.6433872+00:00"
 }

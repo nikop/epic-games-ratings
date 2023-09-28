@@ -3,23 +3,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Powerful Allies | 16.00% | ~5 |
+| Powerful Allies | 19.00% | ~6 |
 | Find Allies | 13.00% | ~4 |
 | Trinity | 13.00% | ~4 |
+| Essence Blow | 13.00% | ~4 |
 | Shatter Them All | 13.00% | ~4 |
-| Essence Blow | 10.00% | ~3 |
+| A Taste of Wrath | 10.00% | ~3 |
+| The Collector | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
-| A Taste of Wrath | 6.00% | ~2 |
 | Adventurer | 6.00% | ~2 |
 | Scholar | 6.00% | ~2 |
-| The Collector | 6.00% | ~2 |
 | Geared Up | 3.00% | ~1 |
 | Fashion Victim | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
+| Alchemist | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
+| Calm before the Storm | -3.20% | ~-1 |
 | To Battle | -3.20% | ~-1 |
 | Godslayer | -3.20% | ~-1 |
 | Clear Sight | -3.20% | ~-1 |
@@ -32,10 +34,8 @@
 | All There Is | -3.20% | ~-1 |
 | False God | -3.20% | ~-1 |
 | All That Gold | -3.20% | ~-1 |
-| Alchemist | -3.20% | ~-1 |
 | Feeling Fancy | -3.20% | ~-1 |
 | Summiter | -3.20% | ~-1 |
-| Calm before the Storm | -6.50% | ~-2 |
 | Tributes of Caladrias | -6.50% | ~-2 |
 | Flawless Victory | -6.50% | ~-2 |
 | Stone Collection | -6.50% | ~-2 |

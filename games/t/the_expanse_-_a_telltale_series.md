@@ -1,23 +1,23 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.55 (Ranked 490)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 35.00% | ~4,575 |
+| Impossible Objects | 35.00% | ~4,576 |
 | Captain Drummer | 30.00% | ~3,922 |
 | Stogie for Fogey | 29.00% | ~3,791 |
-| Martian Music | 28.00% | ~3,660 |
-| Celebrations are in Order | 28.00% | ~3,660 |
+| Martian Music | 28.00% | ~3,661 |
+| Celebrations are in Order | 28.00% | ~3,661 |
 | Spore Taste | 26.00% | ~3,399 |
 | The Pit and the Pirates | 25.00% | ~3,268 |
-| Drone Dodger | 24.00% | ~3,137 |
+| Drone Dodger | 24.00% | ~3,138 |
 | Doctor Approved | 19.00% | ~2,484 |
 | Bosmang | 18.00% | ~2,353 |
 | Thorston Mayer | 16.00% | ~2,092 |
-| Bottoms up! | 13.00% | ~1,699 |
-| Call it Even | 13.00% | ~1,699 |
+| Bottoms up! | 13.00% | ~1,700 |
+| Call it Even | 13.00% | ~1,700 |
 | Data Archivist | 12.00% | ~1,569 |
 | Heal Thy Medic | 11.00% | ~1,438 |
 | Khan's Revenge | 10.00% | ~1,307 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 491)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,072 (Ranked 133)  
+Progressed: 13,074 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
 | 2023-09-27 | 13,049 | 0 |
-| 2023-09-28 | 13,072 | 0 |
+| 2023-09-28 | 13,074 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

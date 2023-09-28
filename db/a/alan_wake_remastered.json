@@ -2,12 +2,12 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66348,
+  "EOS_Progressed": 66351,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16139,6 +16139,11 @@
       "Time": "2023-09-28T09:06:56.5385308+00:00",
       "NumProgressed": 66348,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-28T10:06:36.6063158+00:00",
+      "NumProgressed": 66351,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16150,7 +16155,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27866
+      "UsersEstimate": 27867
     },
     {
       "ID": "02",
@@ -16158,7 +16163,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17250
+      "UsersEstimate": 17251
     },
     {
       "ID": "03",
@@ -16166,7 +16171,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17250
+      "UsersEstimate": 17251
     },
     {
       "ID": "04",
@@ -16182,7 +16187,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "06",
@@ -16190,7 +16195,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12606
+      "UsersEstimate": 12607
     },
     {
       "ID": "07",
@@ -16198,7 +16203,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8625
+      "UsersEstimate": 8626
     },
     {
       "ID": "08",
@@ -16214,7 +16219,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9952
+      "UsersEstimate": 9953
     },
     {
       "ID": "10",
@@ -16230,7 +16235,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "12",
@@ -16238,7 +16243,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8625
+      "UsersEstimate": 8626
     },
     {
       "ID": "13",
@@ -16262,7 +16267,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "16",
@@ -16302,7 +16307,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "21",
@@ -16310,7 +16315,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9952
+      "UsersEstimate": 9953
     },
     {
       "ID": "22",
@@ -16342,7 +16347,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5971
+      "UsersEstimate": 5972
     },
     {
       "ID": "26",
@@ -16398,7 +16403,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21895
+      "UsersEstimate": 21896
     },
     {
       "ID": "33",
@@ -16414,7 +16419,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "35",
@@ -16422,7 +16427,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22558
+      "UsersEstimate": 22559
     },
     {
       "ID": "36",
@@ -16430,7 +16435,7 @@
       "Name": "Carny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "37",
@@ -16486,7 +16491,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12606
+      "UsersEstimate": 12607
     },
     {
       "ID": "44",
@@ -16526,7 +16531,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "49",
@@ -16550,7 +16555,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "52",
@@ -16622,7 +16627,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "61",
@@ -16685,21 +16690,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66348,
+      "Progressed": 66351,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29816,
+      "Progressed": 29819,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:06:56.5385301+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:06:36.606315+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:57:59.2976926+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:56.5388336+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:57:22.6482627+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:06:36.6064475+00:00"
 }

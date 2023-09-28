@@ -2,7 +2,7 @@
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 280,
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2022-10-15T13:33:12.9761112+00:00",
@@ -63,6 +63,12 @@
     {
       "Time": "2023-09-23T08:58:33.5454882+00:00",
       "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-28T09:59:33.6365234+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -691,9 +697,9 @@
   "FirstSeen": "2022-07-30T17:02:29.7644171+00:00",
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
-  "LastChanged": "2023-09-23T08:58:33.5454881+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:05:19.9605736+00:00",
+  "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:04:58.2503254+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.7249609+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:00:09.6277455+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:05:19.9606047+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:59:33.636524+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:04:58.2503727+00:00"
 }

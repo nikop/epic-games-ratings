@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 561,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
@@ -627,6 +627,11 @@
       "Time": "2023-09-27T16:06:09.2321032+00:00",
       "NumProgressed": 560,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-09-28T10:05:48.4907732+00:00",
+      "NumProgressed": 561,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 20,
@@ -638,7 +643,7 @@
       "Name": "Beat It",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "blast_from_the_past",
@@ -646,7 +651,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "deadly_secret",
@@ -654,7 +659,7 @@
       "Name": "Deadly Secret",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ending_1",
@@ -668,9 +673,9 @@
       "ID": "ending_2",
       "SetID": "d4f4pll",
       "Name": "Second Chances",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "ending_3",
@@ -694,7 +699,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ending_6",
@@ -710,7 +715,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ending_8",
@@ -718,7 +723,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "falling_for_you",
@@ -742,7 +747,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "kindar_surprise",
@@ -750,7 +755,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "not_a_people_person",
@@ -774,7 +779,7 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -790,14 +795,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 561,
       "Completed": 19
     }
   ],
@@ -805,8 +810,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:06:09.2962595+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:05:48.4907728+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:09.9166003+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:00:38.8084629+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:09.2962911+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:00:03.4411386+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:05:48.4907882+00:00"
 }

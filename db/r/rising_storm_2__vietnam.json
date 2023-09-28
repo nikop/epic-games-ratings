@@ -3,8 +3,8 @@
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 572,
-  "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 109,
+  "Ranking_Popularity": 158,
+  "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
@@ -6205,24 +6205,30 @@
       "Rating": 4.5,
       "NumberOfAwards": 7235,
       "NumberOfAwardsMax": 812
+    },
+    {
+      "Time": "2023-09-28T09:58:45.9956003+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7255,
+      "NumberOfAwardsMax": 813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7235,
-  "NumberOfAwardsMax": 812,
+  "NumberOfAwards": 7255,
+  "NumberOfAwardsMax": 813,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 812
+      "Count": 813
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 794
+      "Count": 799
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6234,31 +6240,31 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 722
+      "Count": 724
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 706
+      "Count": 709
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 776
+      "Count": 777
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 675
+      "Count": 677
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 636
+      "Count": 641
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6276,7 +6282,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 617
+      "Count": 618
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6296,8 +6302,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-09-25T18:58:53.4478077+00:00",
+  "LastChanged": "2023-09-28T09:58:45.9956001+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.0550948+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:59:23.3312895+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:59.2259712+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:58:45.9956007+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:06:39.3494276+00:00"
 }

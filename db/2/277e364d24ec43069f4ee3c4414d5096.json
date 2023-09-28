@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109319,
+  "EOS_Progressed": 109323,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 870,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12471,6 +12471,11 @@
       "Time": "2023-09-28T09:07:04.9411683+00:00",
       "NumProgressed": 109319,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-28T10:06:45.5054343+00:00",
+      "NumProgressed": 109323,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -12490,7 +12495,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 84176
+      "UsersEstimate": 84179
     },
     {
       "ID": "EAwards_10",
@@ -12498,7 +12503,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12025
+      "UsersEstimate": 12026
     },
     {
       "ID": "EAwards_11",
@@ -12506,7 +12511,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28423
+      "UsersEstimate": 28424
     },
     {
       "ID": "EAwards_12",
@@ -12546,7 +12551,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "EAwards_17",
@@ -12554,7 +12559,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39355
+      "UsersEstimate": 39356
     },
     {
       "ID": "EAwards_18",
@@ -12578,7 +12583,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 52473
+      "UsersEstimate": 52475
     },
     {
       "ID": "EAwards_20",
@@ -12610,7 +12615,7 @@
       "Name": "These are not fertilized",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "EAwards_24",
@@ -12618,7 +12623,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "EAwards_25",
@@ -12634,7 +12639,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12025
+      "UsersEstimate": 12026
     },
     {
       "ID": "EAwards_27",
@@ -12690,7 +12695,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "EAwards_33",
@@ -12754,7 +12759,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13118
+      "UsersEstimate": 13119
     },
     {
       "ID": "EAwards_40",
@@ -12850,7 +12855,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12025
+      "UsersEstimate": 12026
     },
     {
       "ID": "EAwards_8",
@@ -12858,7 +12863,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13118
+      "UsersEstimate": 13119
     },
     {
       "ID": "EAwards_9",
@@ -12873,7 +12878,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 109319,
+      "Progressed": 109323,
       "Completed": 42
     }
   ],
@@ -12881,8 +12886,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:07:04.9411679+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:06:45.5054338+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.3019497+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:00:00.4627811+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:07:04.9412928+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:59:24.2781548+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:06:45.5055337+00:00"
 }

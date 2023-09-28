@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -456,6 +456,11 @@
       "Time": "2023-09-28T05:05:58.9470527+00:00",
       "NumProgressed": 391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T10:05:04.0567706+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -481,9 +486,9 @@
       "ID": "DashAttack",
       "SetID": "d9ekhim",
       "Name": "Fireball",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 188
     },
     {
       "ID": "DashDashDash",
@@ -617,9 +622,9 @@
       "ID": "NinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Air Slash",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 133
     },
     {
       "ID": "OhNo",
@@ -818,7 +823,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 0
     }
   ],
@@ -826,8 +831,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:05:25.4849451+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:05:04.0567701+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:00:53.027613+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:05:25.4850105+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:00:17.8929555+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:05:04.0568048+00:00"
 }

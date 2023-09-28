@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,188 (Ranked 41)  
+Progressed: 416,209 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1 (0.00%) (Ranked 296)
 | 2023-09-25 | 414,499 | 1 |
 | 2023-09-26 | 415,263 | 1 |
 | 2023-09-27 | 416,011 | 1 |
-| 2023-09-28 | 416,188 | 1 |
+| 2023-09-28 | 416,209 | 1 |
 ## Awards
 Max (Educational): 6,290  (Ranked 57)  
 Sum: 51,644 (Ranked 24)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15441,
+  "EOS_Progressed": 15442,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10980,6 +10980,11 @@
       "Time": "2023-09-28T08:03:38.0451218+00:00",
       "NumProgressed": 15441,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-28T10:03:49.1750002+00:00",
+      "NumProgressed": 15442,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -10999,7 +11004,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "tpote_achievement_11",
@@ -11007,7 +11012,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3551
+      "UsersEstimate": 3552
     },
     {
       "ID": "tpote_achievement_12",
@@ -11071,7 +11076,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "tpote_achievement_2",
@@ -11095,7 +11100,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "tpote_achievement_22",
@@ -11143,7 +11148,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "tpote_achievement_28",
@@ -11183,7 +11188,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "tpote_achievement_32",
@@ -11205,9 +11210,9 @@
       "ID": "tpote_achievement_34",
       "SetID": "3jcf6c3",
       "Name": "A cry for help",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1235
     },
     {
       "ID": "tpote_achievement_35",
@@ -11255,7 +11260,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6176
+      "UsersEstimate": 6177
     },
     {
       "ID": "tpote_achievement_40",
@@ -11311,22 +11316,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5404
+      "UsersEstimate": 5405
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15441,
+      "Progressed": 15442,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:04:13.3731369+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:03:49.1749998+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:59:55.7301345+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:04:13.3732413+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:59:19.418059+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:03:49.1750785+00:00"
 }

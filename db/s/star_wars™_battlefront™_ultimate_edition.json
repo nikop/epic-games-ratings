@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 82,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 266,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -621,6 +621,11 @@
       "Time": "2023-09-28T09:06:43.0683703+00:00",
       "NumProgressed": 264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T10:06:22.8934051+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -703,9 +708,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_19",
@@ -729,15 +734,15 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_22",
@@ -753,7 +758,7 @@
       "Name": "Determined",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_24",
@@ -801,7 +806,7 @@
       "Name": "On the ball",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_3",
@@ -857,7 +862,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_36",
@@ -865,15 +870,15 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_38",
@@ -905,7 +910,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_41",
@@ -921,7 +926,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_43",
@@ -1073,7 +1078,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_60",
@@ -1121,7 +1126,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_9",
@@ -1136,13 +1141,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 266,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 264,
+      "Progressed": 266,
       "Completed": 1
     }
   ],
@@ -1150,8 +1155,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:06:43.0683697+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:06:22.8934046+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:58:17.1061439+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:43.0684454+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:57:40.8052308+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:06:22.8934608+00:00"
 }

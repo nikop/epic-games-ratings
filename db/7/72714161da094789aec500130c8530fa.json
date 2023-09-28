@@ -442,9 +442,9 @@
       "ID": "_machinegun",
       "SetID": "2d5739o",
       "Name": "Machinegun",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "_magnet",
@@ -538,9 +538,9 @@
       "ID": "_shotgun",
       "SetID": "2d5739o",
       "Name": "Shotgun",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "_slow_bullets",
@@ -562,9 +562,9 @@
       "ID": "_spc_v2",
       "SetID": "2d5739o",
       "Name": "SPC v2",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "_spc_v3",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:05:44.7014689+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:05:23.6564419+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:00:09.9552056+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:05:44.7015311+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:59:33.9105647+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:05:23.6565559+00:00"
 }

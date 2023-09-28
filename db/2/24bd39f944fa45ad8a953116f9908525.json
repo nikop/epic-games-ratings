@@ -2,7 +2,7 @@
   "ID": "24bd39f944fa45ad8a953116f9908525",
   "Name": "HAAK",
   "ProductSlug": "haak-1401cb",
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 113,
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:06:58.775026+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:06:38.9393124+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2867463+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:00:32.7074953+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:06:58.7750902+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:59:57.0920604+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:06:38.9393532+00:00"
 }

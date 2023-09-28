@@ -3236,7 +3236,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72919,
+  "EOS_Progressed": 72920,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
@@ -16911,6 +16911,11 @@
       "Time": "2023-09-28T09:07:10.5526935+00:00",
       "NumProgressed": 72919,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-28T10:06:51.2554578+00:00",
+      "NumProgressed": 72920,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16970,7 +16975,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16771
+      "UsersEstimate": 16772
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17034,7 +17039,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "CLAYFACE_3",
@@ -17082,7 +17087,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9479
+      "UsersEstimate": 9480
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -17130,7 +17135,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9479
+      "UsersEstimate": 9480
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -17298,7 +17303,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20417
+      "UsersEstimate": 20418
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17314,7 +17319,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24792
+      "UsersEstimate": 24793
     },
     {
       "ID": "MYSTERY_02",
@@ -17330,7 +17335,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16771
+      "UsersEstimate": 16772
     },
     {
       "ID": "MYSTERY_04",
@@ -17346,7 +17351,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "MYSTERY_06",
@@ -17409,13 +17414,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72919,
+      "Progressed": 72920,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43199,
+      "Progressed": 43200,
       "Completed": 2668
     }
   ],
@@ -17423,8 +17428,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-28T05:58:30.2815758+00:00",
-  "LastChanged_Achievements": "2023-09-28T09:07:10.5526929+00:00",
+  "LastChanged_Achievements": "2023-09-28T10:06:51.2554572+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:58:58.441164+00:00",
-  "LastUpdate_Achievements": "2023-09-28T09:07:10.5529487+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:58:20.6311667+00:00",
+  "LastUpdate_Achievements": "2023-09-28T10:06:51.2555699+00:00"
 }
