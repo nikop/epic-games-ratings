@@ -2700,9 +2700,9 @@
       "ID": "ACHV_11",
       "SetID": "8p5mlmc",
       "Name": "Denying Prophecy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHV_12",
@@ -3085,8 +3085,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:03:26.4056332+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:03:21.3076469+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.9693567+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:01:19.9360034+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:03:26.4057396+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:01:16.0163354+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:03:21.3077212+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 20,
+  "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12629,10 +12629,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884130,
+  "EOS_Progressed": 884175,
   "EOS_Completed": 2458,
-  "EOS_NewPlayers": 6335,
-  "EOS_NewCompleters": 317,
+  "EOS_NewPlayers": 6330,
+  "EOS_NewCompleters": 307,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30739,6 +30739,11 @@
       "Time": "2023-09-28T17:07:33.835243+00:00",
       "NumProgressed": 884130,
       "NumCompleted": 2458
+    },
+    {
+      "Time": "2023-09-28T18:07:25.365574+00:00",
+      "NumProgressed": 884175,
+      "NumCompleted": 2458
     }
   ],
   "TotalAchievements": 57,
@@ -30774,7 +30779,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7957
+      "UsersEstimate": 7958
     },
     {
       "ID": "Denied",
@@ -30782,7 +30787,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7957
+      "UsersEstimate": 7958
     },
     {
       "ID": "FollowingTheRiver",
@@ -30830,7 +30835,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17683
+      "UsersEstimate": 17684
     },
     {
       "ID": "HandyMan",
@@ -30838,7 +30843,7 @@
       "Name": "Master Crafter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "IAmMaxTac",
@@ -30854,7 +30859,7 @@
       "Name": "Mean Streets",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "LittleTokyo",
@@ -30894,7 +30899,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7957
+      "UsersEstimate": 7958
     },
     {
       "ID": "NoMansLand",
@@ -30916,17 +30921,17 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 2653
     },
     {
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7073
+      "UsersEstimate": 7958
     },
     {
       "ID": "Specialist",
@@ -30934,7 +30939,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17683
+      "UsersEstimate": 17684
     },
     {
       "ID": "Temperance",
@@ -30950,7 +30955,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17683
+      "UsersEstimate": 17684
     },
     {
       "ID": "TheDevil",
@@ -30982,7 +30987,7 @@
       "Name": "The High Priestess",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "TheLovers",
@@ -31038,7 +31043,7 @@
       "Name": "The Jungle",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "TrueSoldier",
@@ -31046,15 +31051,15 @@
       "Name": "True Soldier",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7957
+      "UsersEstimate": 7958
     },
     {
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6189
+      "UsersEstimate": 7073
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31062,7 +31067,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "UnderPressure",
@@ -31078,7 +31083,7 @@
       "Name": "V for Vendetta",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8842
     },
     {
       "ID": "YipMan",
@@ -31205,21 +31210,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884130,
+      "Progressed": 884175,
       "Completed": 2458
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12753,
+      "Progressed": 12798,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T16:58:24.2673941+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:07:33.8352425+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:07:25.3655735+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:58:24.2673951+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:07:33.8354733+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:58:19.3326897+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:07:25.3657295+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 282,
-  "Ranking_EOS_Progress": 141,
+  "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 114,
@@ -1263,9 +1263,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9269,
+  "EOS_Progressed": 9270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13688,6 +13688,11 @@
       "Time": "2023-09-28T17:09:36.9838601+00:00",
       "NumProgressed": 9269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T18:09:27.0106561+00:00",
+      "NumProgressed": 9270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13699,7 +13704,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5561
+      "UsersEstimate": 5562
     },
     {
       "ID": "10",
@@ -13739,7 +13744,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "15",
@@ -13747,7 +13752,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "16",
@@ -13755,7 +13760,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "17",
@@ -13795,7 +13800,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "21",
@@ -13803,7 +13808,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "22",
@@ -13819,7 +13824,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "24",
@@ -13835,7 +13840,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "26",
@@ -13947,7 +13952,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "39",
@@ -13963,7 +13968,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "40",
@@ -14011,7 +14016,7 @@
       "Name": "Look, no Hands!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "46",
@@ -14091,7 +14096,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "55",
@@ -14147,7 +14152,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "8",
@@ -14170,15 +14175,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9269,
+      "Progressed": 9270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-27T12:00:16.3039892+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:09:36.9838594+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:09:27.0106555+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:18.1342921+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:59:55.5659214+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:09:36.9840962+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:59:50.5974022+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:09:27.0108073+00:00"
 }

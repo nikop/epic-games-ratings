@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6280,9 +6280,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136812,
+  "EOS_Progressed": 136816,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22815,6 +22815,11 @@
       "Time": "2023-09-28T17:08:04.8100633+00:00",
       "NumProgressed": 136812,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-09-28T18:07:56.2819613+00:00",
+      "NumProgressed": 136816,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 112,
@@ -22874,7 +22879,7 @@
       "Name": "Ascended",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ascend02",
@@ -23018,7 +23023,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "collection02",
@@ -23234,7 +23239,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "furniture02",
@@ -23290,7 +23295,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "gold01",
@@ -23418,7 +23423,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "level03",
@@ -23698,7 +23703,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "workers03",
@@ -23721,15 +23726,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136812,
+      "Progressed": 136816,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-28T06:59:09.0234422+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:08:04.8100626+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:07:56.2819606+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:58:32.0064485+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:08:04.810533+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:58:27.4506375+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:07:56.2822315+00:00"
 }

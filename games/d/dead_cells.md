@@ -4,12 +4,12 @@
 Rating: 4.87 (Ranked 25)  
 Number of Ratings: 1,319  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 285  (Ranked 244)  
-Sum: 2,426 (Ranked 181)  
+Max (Diverse Characters): 286  (Ranked 244)  
+Sum: 2,427 (Ranked 181)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 285 |
+| This game has Diverse Characters | 286 |
 | This game is Highly Recommended | 254 |
 | This game is Relaxing | 253 |
 | This game has Quickly Understood Controls | 251 |
@@ -236,4 +236,4 @@ Diff (max vs sum): 63
 | 2023-09-25 | 4.87 | - | 285 | 2,421 |
 | 2023-09-26 | 4.87 | - | 285 | 2,422 |
 | 2023-09-27 | 4.87 | - | 285 | 2,424 |
-| 2023-09-28 | 4.87 | - | 285 | 2,426 |
+| 2023-09-28 | 4.87 | - | 286 | 2,427 |

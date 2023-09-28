@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,283 (Ranked 57)  
+Progressed: 230,289 (Ranked 57)  
 Completed: 2,311 (1.00%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -692,7 +692,7 @@ Completed: 2,311 (1.00%) (Ranked 131)
 | 2023-09-25 | 230,056 | 2,305 |
 | 2023-09-26 | 230,150 | 2,307 |
 | 2023-09-27 | 230,228 | 2,310 |
-| 2023-09-28 | 230,283 | 2,311 |
+| 2023-09-28 | 230,289 | 2,311 |
 ## Awards
 Max (Diverse Characters): 5,333  (Ranked 69)  
 Sum: 31,799 (Ranked 40)  

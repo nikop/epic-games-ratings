@@ -2,10 +2,10 @@
   "ID": "ae403c054fb74a65ae91d61af06d53e3",
   "Name": "Super Adventure Hand",
   "ProductSlug": "super-adventure-hand-62ec9a",
-  "Ranking_EOS_Progress": 521,
-  "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
     "PcReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 7,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 14.29,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 2,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 28.57,
   "EosHistory": [
     {
       "Time": "2023-09-06T00:03:02.9960632+00:00",
@@ -61,6 +61,11 @@
       "Time": "2023-09-27T21:04:21.9333878+00:00",
       "NumProgressed": 7,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T18:05:05.5246875+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-06T00:03:02.9964561+00:00",
@@ -79,9 +84,9 @@
       "ID": "ach_boss_defeated_nodeath",
       "SetID": "8787m1a",
       "Name": "Flawless Boss De-feet",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_first_watch",
@@ -103,9 +108,9 @@
       "ID": "ach_flick_key",
       "SetID": "8787m1a",
       "Name": "Key Flick",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_flick_littleone",
@@ -135,9 +140,9 @@
       "ID": "ach_levelresult_50",
       "SetID": "8787m1a",
       "Name": "Master Hand",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_save_littleone",
@@ -193,13 +198,13 @@
       "ID": "8787m1a",
       "IsBase": true,
       "Progressed": 7,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:05:11.7503052+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:05:05.524687+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:29.9094674+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:00:10.1997198+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:05:11.7503229+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:00:05.4780244+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:05:05.5247063+00:00"
 }

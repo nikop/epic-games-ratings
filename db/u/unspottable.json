@@ -2,9 +2,9 @@
   "ID": "bc00696af836471cbacfd496e9e5f877",
   "Name": "Unspottable",
   "ProductSlug": "unspottable",
-  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-12-14T19:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -71,6 +71,11 @@
       "Time": "2023-09-23T14:07:16.3531503+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T18:08:55.3738306+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T16:07:15.5883282+00:00",
@@ -81,7 +86,7 @@
       "ID": "UNS_AIRSTRIKE",
       "SetID": "322abb1",
       "Name": "Airstrike",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "UNS_BIG_WIN",
       "SetID": "322abb1",
       "Name": "Big Win",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -105,7 +110,7 @@
       "ID": "UNS_CATCH_ME",
       "SetID": "322abb1",
       "Name": "Catch me if you can",
-      "Percentage": 88,
+      "Percentage": 78,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -137,7 +142,7 @@
       "ID": "UNS_FLAT_MEN",
       "SetID": "322abb1",
       "Name": "Flat Men",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "UNS_HA_HA",
       "SetID": "322abb1",
       "Name": "Ha-Ha!",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "UNS_MISSION_IMPOSSIBLE",
       "SetID": "322abb1",
       "Name": "Mission Impossible",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "UNS_NIGHT_VISION",
       "SetID": "322abb1",
       "Name": "Night vision",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -209,7 +214,7 @@
       "ID": "UNS_OUT_AREA",
       "SetID": "322abb1",
       "Name": "Out of my area",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -217,7 +222,7 @@
       "ID": "UNS_ROBOT_CLEANER",
       "SetID": "322abb1",
       "Name": "Robot cleaner",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -225,7 +230,7 @@
       "ID": "UNS_SHORT_AND_SWEET",
       "SetID": "322abb1",
       "Name": "Short and Sweet",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -233,7 +238,7 @@
       "ID": "UNS_SHORT_CIRCUIT",
       "SetID": "322abb1",
       "Name": "Short Circuit",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -241,7 +246,7 @@
       "ID": "UNS_SKYNET_WINS",
       "SetID": "322abb1",
       "Name": "Skynet Wins",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -249,7 +254,7 @@
       "ID": "UNS_SNEAKY_WINS",
       "SetID": "322abb1",
       "Name": "Sneaky Exit",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -257,7 +262,7 @@
       "ID": "UNS_TEACHER_PET",
       "SetID": "322abb1",
       "Name": "Teacher\u0027s pet",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -273,7 +278,7 @@
       "ID": "UNS_UNDER_THE_SPOT",
       "SetID": "322abb1",
       "Name": "Under the spotlights",
-      "Percentage": 63,
+      "Percentage": 56,
       "XP": 30,
       "UsersEstimate": 5
     }
@@ -282,7 +287,7 @@
     {
       "ID": "322abb1",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
@@ -290,8 +295,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.2382786+00:00",
   "FirstSeenAchievements": "2023-07-03T15:05:05.5856649+00:00",
   "LastChanged": "2023-03-31T05:58:41.2382787+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:09:04.4990815+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:08:55.3738302+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:26.7060042+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:57:45.0529643+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:09:04.4991132+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:57:40.0499367+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:08:55.3738494+00:00"
 }

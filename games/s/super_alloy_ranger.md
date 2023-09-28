@@ -33,13 +33,13 @@
 | The Zero Dimensional Capital Conqueror | 6.00% | ~5 |
 | The Inactivated Frozen Conqueror | 6.00% | ~5 |
 | Death Bringer Conqueror | 6.00% | ~5 |
+| Rapidfire | 6.00% | ~5 |
+| Air Interception | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | The Looping Space Conqueror | 4.00% | ~4 |
 | Space Ranger: Prologue | 4.00% | ~4 |
 | Breaking the Limit | 4.00% | ~4 |
 | The Truth? | 4.00% | ~4 |
-| Rapidfire | 4.00% | ~4 |
-| Air Interception | 4.00% | ~4 |
 | Break Through the Forbidden | 3.00% | ~3 |
 | Proliferation | 3.00% | ~3 |
 | Burn After Reading | 3.00% | ~3 |

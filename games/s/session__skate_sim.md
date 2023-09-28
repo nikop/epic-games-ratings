@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,978 (Ranked 187)  
+Progressed: 2,978 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,8 +209,8 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-28 | 2,978 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
-Sum: 473 (Ranked 313)  
-Diff (max vs sum): 86  
+Sum: 474 (Ranked 311)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 54 |
@@ -221,7 +221,7 @@ Diff (max vs sum): 86
 | This game has Amazing Storytelling | 43 |
 | This game is Relaxing | 42 |
 | This game is Extremely Fun | 41 |
-| This game has Diverse Characters | 40 |
+| This game has Diverse Characters | 41 |
 | This game has Quickly Understood Controls | 37 |
 | This game has Challenging Combat | 29 |
 | This game is Educational | 22 |
@@ -371,3 +371,4 @@ Diff (max vs sum): 86
 | 2023-09-23 | 4.69 | - | 54 | 471 |
 | 2023-09-24 | 4.69 | - | 54 | 472 |
 | 2023-09-27 | 4.69 | - | 54 | 473 |
+| 2023-09-28 | 4.69 | - | 54 | 474 |

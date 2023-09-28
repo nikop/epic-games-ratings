@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11944,
+  "EOS_Progressed": 11947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10726,6 +10726,11 @@
       "Time": "2023-09-28T17:08:09.807614+00:00",
       "NumProgressed": 11944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T18:08:00.9998774+00:00",
+      "NumProgressed": 11947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -10737,7 +10742,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -10809,7 +10814,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5255
+      "UsersEstimate": 5257
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -10936,14 +10941,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11944,
+      "Progressed": 11947,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:08:09.8076134+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:08:00.9998767+00:00",
   "LastUpdate_AppInfo": "2023-09-23T01:36:02.081664+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:01:44.6294437+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:08:09.8076983+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:01:40.7598635+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:08:00.9999799+00:00"
 }

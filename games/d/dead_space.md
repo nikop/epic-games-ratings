@@ -7,7 +7,7 @@ Rating: 4.61 (Ranked 372)
 | ---- | ---------- | ----- |
 | Marksman | 94.00% | ~497 |
 | Welcome Aboard | 84.00% | ~444 |
-| Lab Rat | 70.00% | ~370 |
+| Lab Rat | 71.00% | ~376 |
 | All Systems Go | 61.00% | ~323 |
 | Brute Force | 60.00% | ~317 |
 | Cannon Fodder | 56.00% | ~296 |
@@ -31,8 +31,8 @@ Rating: 4.61 (Ranked 372)
 | There's Always Peng! | 28.00% | ~148 |
 | Legend Teller | 27.00% | ~143 |
 | Front Toward Enemy | 27.00% | ~143 |
+| Exodus | 26.00% | ~138 |
 | Mindless Prey | 26.00% | ~138 |
-| Exodus | 25.00% | ~132 |
 | Whole Again | 21.00% | ~111 |
 | Set A Benchmark | 20.00% | ~106 |
 | Final Regeneration | 19.00% | ~101 |
@@ -69,12 +69,12 @@ Completed: 3 (0.57%) (Ranked 156)
 | 2023-09-27 | 488 | 3 |
 | 2023-09-28 | 529 | 3 |
 ## Awards
-Max (Great Boss Battles): 95  (Ranked 351)  
-Sum: 95 (Ranked 425)  
-Diff (max vs sum): -74  
+Max (Great Boss Battles): 97  (Ranked 347)  
+Sum: 97 (Ranked 424)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 95 |
+| This game has Great Boss Battles | 97 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -174,3 +174,4 @@ Diff (max vs sum): -74
 | 2023-09-18 | 4.61 | 93 | 93 |
 | 2023-09-21 | 4.61 | 94 | 94 |
 | 2023-09-22 | 4.61 | 95 | 95 |
+| 2023-09-28 | 4.61 | 97 | 97 |

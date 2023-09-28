@@ -40,7 +40,7 @@ Number of Ratings: 180  (23.09.2022)
 | The ugly smell of success | 23.00% | ~390 |
 | Climate change | 22.00% | ~373 |
 | Old timer | 22.00% | ~373 |
-| Heavily loaded | 21.00% | ~356 |
+| Heavily loaded | 22.00% | ~373 |
 | Bob Ross | 16.00% | ~271 |
 | Campaign expert | 11.00% | ~186 |
 | Truck Fever | 11.00% | ~186 |
@@ -54,8 +54,8 @@ Number of Ratings: 180  (23.09.2022)
 | Antique | 4.00% | ~68 |
 | Cannot get enough | 4.00% | ~68 |
 | Transport corporation | 4.00% | ~68 |
+| Transport tycoon (Hard mode) | 3.00% | ~51 |
 | Industrialist | 3.00% | ~51 |
-| Transport tycoon (Hard mode) | 2.00% | ~34 |
 | No country for old trains | 2.00% | ~34 |
 | Charles Alton Ellis | 2.00% | ~34 |
 | Campaign tycoon | 2.00% | ~34 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 490,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 363,
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3521,
+  "EOS_Progressed": 3522,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4909,6 +4909,11 @@
       "Time": "2023-09-28T16:08:21.1086669+00:00",
       "NumProgressed": 3521,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-28T18:08:45.8410406+00:00",
+      "NumProgressed": 3522,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -4920,7 +4925,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "AceDetective_9",
@@ -4944,7 +4949,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "BloodAndJustice_50",
@@ -4960,7 +4965,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "CrowdPleaser",
@@ -5032,7 +5037,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -5048,7 +5053,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "LightofLevant_18",
@@ -5168,7 +5173,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -5240,7 +5245,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5255,15 +5260,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3521,
+      "Progressed": 3522,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:08:54.8652195+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:08:45.8410402+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:58:22.2670201+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:08:54.865283+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:58:17.3925202+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:08:45.8410974+00:00"
 }

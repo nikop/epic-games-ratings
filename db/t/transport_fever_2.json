@@ -3851,9 +3851,9 @@
       "ID": "achAccumulate1BHard",
       "SetID": "dgl390n",
       "Name": "Transport tycoon (Hard mode)",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "achAccumulate1M",
@@ -4107,9 +4107,9 @@
       "ID": "achHeavilyLoaded",
       "SetID": "dgl390n",
       "Name": "Heavily loaded",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 373
     },
     {
       "ID": "achHq",
@@ -4315,8 +4315,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-27T13:06:29.0044251+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:09:48.8611164+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:09:39.3067558+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.8657884+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:00:25.8899403+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:09:48.8612531+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:00:21.2643785+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:09:39.3068391+00:00"
 }

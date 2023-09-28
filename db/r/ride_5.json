@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1185,
+  "EOS_Progressed": 1186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1884,6 +1884,11 @@
       "Time": "2023-09-28T16:07:08.8905912+00:00",
       "NumProgressed": 1185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T18:07:22.3939234+00:00",
+      "NumProgressed": 1186,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1894,9 +1899,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 498
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1904,7 +1909,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1912,7 +1917,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1984,7 +1989,7 @@
       "Name": "Legendary!!!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2104,7 +2109,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2184,7 +2189,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2192,7 +2197,7 @@
       "Name": "Eat My Dust",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2287,14 +2292,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1185,
+      "Progressed": 1186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:07:30.9495243+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:07:22.3939229+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:58:54.2486672+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:07:30.9495822+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:58:49.1583887+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:07:22.3939844+00:00"
 }

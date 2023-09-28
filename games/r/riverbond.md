@@ -6,14 +6,14 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,736 |
-| Now You're Talking | 62.00% | ~327,481 |
-| Steel Yourself | 62.00% | ~327,481 |
+| First Step | 70.00% | ~369,737 |
+| Now You're Talking | 62.00% | ~327,482 |
+| Steel Yourself | 62.00% | ~327,482 |
 | Window Dressing | 50.00% | ~264,098 |
 | Trigger Happy | 46.00% | ~242,970 |
 | Riverborn | 45.00% | ~237,688 |
-| Starry Eyed | 34.00% | ~179,586 |
-| Poking Around | 34.00% | ~179,586 |
+| Starry Eyed | 34.00% | ~179,587 |
+| Poking Around | 34.00% | ~179,587 |
 | Talk of the Town | 24.00% | ~126,767 |
 | AAARR! | 23.00% | ~121,485 |
 | Hello Darkness | 23.00% | ~121,485 |
@@ -24,8 +24,8 @@ Number of Ratings: 617  (23.09.2022)
 | To Victory! | 15.00% | ~79,229 |
 | Two of a Kind | 14.00% | ~73,947 |
 | Keep On Trucking | 13.00% | ~68,665 |
-| Going on an Adventure | 11.00% | ~58,101 |
-| Make Peace, Not War | 11.00% | ~58,101 |
+| Going on an Adventure | 11.00% | ~58,102 |
+| Make Peace, Not War | 11.00% | ~58,102 |
 | Walking The Line | 10.00% | ~52,820 |
 | Not So Cute Anymore | 10.00% | ~52,820 |
 | Road Less Travelled | 9.00% | ~47,538 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,585 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,195 (Ranked 33)  
+Progressed: 528,196 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 479 (0.09%) (Ranked 239)
 | 2023-09-25 | 528,062 | 478 |
 | 2023-09-26 | 528,121 | 479 |
 | 2023-09-27 | 528,162 | 479 |
-| 2023-09-28 | 528,195 | 479 |
+| 2023-09-28 | 528,196 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

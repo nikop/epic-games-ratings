@@ -5,33 +5,33 @@ Rating: 4.83 (Ranked 57)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,929 |
-| A Thorny Situation | 70.00% | ~3,767 |
-| ... And Spit Back Out | 59.00% | ~3,175 |
-| Break-Net Speed | 47.00% | ~2,530 |
-| Bramble Breaker | 43.00% | ~2,314 |
-| Miner 49er | 40.00% | ~2,153 |
-| Humble Collector | 39.00% | ~2,099 |
-| Calm Sailing | 33.00% | ~1,776 |
-| Open the Gate! | 30.00% | ~1,615 |
-| Mist Walker | 28.00% | ~1,507 |
-| Lumberjack | 24.00% | ~1,292 |
-| Oui, Chef! | 21.00% | ~1,130 |
-| Clear the Air | 15.00% | ~807 |
-| Botanical Breakthrough | 14.00% | ~753 |
-| Beach Comber | 12.00% | ~646 |
-| Search for the Hairy Grell | 10.00% | ~538 |
-| Higher Tax Bracket | 10.00% | ~538 |
-| Got to Catch Them All | 6.00% | ~323 |
-| Rumble in the Jumble | 6.00% | ~323 |
-| Fanatical Farmer | 6.00% | ~323 |
-| Skilled | 6.00% | ~323 |
-| Flaming Hot Completos | 4.00% | ~215 |
-| Fae Farmer | 4.00% | ~215 |
-| Scattered Scroll Scrounger | 4.00% | ~215 |
-| Azorian Anniversary | 4.00% | ~215 |
-| I Now Pronounce You... | 3.00% | ~161 |
-| Chatty Neighbor | 3.00% | ~161 |
+| Azoria Beckons | 73.00% | ~3,937 |
+| A Thorny Situation | 70.00% | ~3,775 |
+| ... And Spit Back Out | 59.00% | ~3,182 |
+| Break-Net Speed | 47.00% | ~2,535 |
+| Bramble Breaker | 43.00% | ~2,319 |
+| Miner 49er | 40.00% | ~2,157 |
+| Humble Collector | 39.00% | ~2,103 |
+| Calm Sailing | 33.00% | ~1,780 |
+| Open the Gate! | 30.00% | ~1,618 |
+| Mist Walker | 28.00% | ~1,510 |
+| Lumberjack | 24.00% | ~1,294 |
+| Oui, Chef! | 21.00% | ~1,133 |
+| Clear the Air | 15.00% | ~809 |
+| Botanical Breakthrough | 14.00% | ~755 |
+| Beach Comber | 12.00% | ~647 |
+| Search for the Hairy Grell | 10.00% | ~539 |
+| Higher Tax Bracket | 10.00% | ~539 |
+| Got to Catch Them All | 6.00% | ~324 |
+| Rumble in the Jumble | 6.00% | ~324 |
+| Fanatical Farmer | 6.00% | ~324 |
+| Skilled | 6.00% | ~324 |
+| Flaming Hot Completos | 4.00% | ~216 |
+| Fae Farmer | 4.00% | ~216 |
+| Scattered Scroll Scrounger | 4.00% | ~216 |
+| I Now Pronounce You... | 4.00% | ~216 |
+| Azorian Anniversary | 4.00% | ~216 |
+| Chatty Neighbor | 3.00% | ~162 |
 | Right Tool For the Job | 2.00% | ~108 |
 | House Proud | 2.00% | ~108 |
 | Angling Authority | 0.80% | ~43 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 57)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,382 (Ranked 163)  
+Progressed: 5,393 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 5,023 | 0 |
 | 2023-09-26 | 5,137 | 0 |
 | 2023-09-27 | 5,284 | 0 |
-| 2023-09-28 | 5,382 | 0 |
+| 2023-09-28 | 5,393 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -13916,10 +13916,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 458665,
       "NumberOfAwardsMax": 181336
+    },
+    {
+      "Time": "2023-09-28T17:58:50.8901233+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 458945,
+      "NumberOfAwardsMax": 181336
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458665,
+  "NumberOfAwards": 458945,
   "NumberOfAwardsMax": 181336,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -13933,7 +13939,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 99736
+      "Count": 99914
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13957,7 +13963,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 17794
+      "Count": 17845
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -13999,7 +14005,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 17473
+      "Count": 17524
     },
     {
       "Text": "This game has a Creative Community",
@@ -14019,8 +14025,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-28T16:58:55.9872788+00:00",
+  "LastChanged": "2023-09-28T17:58:50.8901231+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:00.7311722+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:58:55.9872795+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:06:48.6921453+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:58:50.890124+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:06:40.8776181+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 949,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1977,
+  "EOS_Progressed": 1978,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5785,6 +5785,11 @@
       "Time": "2023-09-28T15:08:47.6319688+00:00",
       "NumProgressed": 1977,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-28T18:08:18.149827+00:00",
+      "NumProgressed": 1978,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5860,7 +5865,7 @@
       "Name": "Challenger",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "conqueror",
@@ -5884,7 +5889,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "doingmypart",
@@ -5892,7 +5897,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "dragonclicker",
@@ -5988,7 +5993,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "frostfireliberator",
@@ -6060,7 +6065,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "inspection",
@@ -6116,7 +6121,7 @@
       "Name": "Mastery",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "milestonecollector",
@@ -6148,7 +6153,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "mysteriousrock",
@@ -6204,7 +6209,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "sailor",
@@ -6228,7 +6233,7 @@
       "Name": "Scroll Master",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "silverwoodliberator",
@@ -6292,7 +6297,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "theunstoppable",
@@ -6356,7 +6361,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "warmachinesarmy",
@@ -6388,14 +6393,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1977,
+      "Progressed": 1978,
       "Completed": 2
     }
   ],
@@ -6403,8 +6408,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-28T15:57:46.2899992+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:08:26.857245+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:08:18.1498264+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:57:37.8378118+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:08:26.8573634+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:57:33.2129656+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:08:18.1499329+00:00"
 }

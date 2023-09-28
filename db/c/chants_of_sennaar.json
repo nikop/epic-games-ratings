@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 225,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.78,
   "EosHistory": [
@@ -1063,17 +1063,17 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "META_ALL_LINK",
@@ -1159,9 +1159,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1223,9 +1223,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "PROGRESS_N2",
@@ -1255,9 +1255,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
@@ -1270,8 +1270,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-28T17:09:57.5858826+00:00",
+  "LastChanged_Achievements": "2023-09-28T18:09:48.2505814+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:59:14.8435121+00:00",
-  "LastUpdate_Achievements": "2023-09-28T17:09:57.5859186+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:59:09.9289678+00:00",
+  "LastUpdate_Achievements": "2023-09-28T18:09:48.250606+00:00"
 }

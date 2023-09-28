@@ -5,8 +5,8 @@ Rating: 4.03 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,839 |
-| World Map | 79.00% | ~1,562 |
+| Victor | 93.00% | ~1,840 |
+| World Map | 79.00% | ~1,563 |
 | Temple of Eternals | 57.00% | ~1,127 |
 | Prestigious | 54.00% | ~1,068 |
 | Fellowship Power | 41.00% | ~811 |
@@ -28,16 +28,16 @@ Rating: 4.03 (Ranked 949)
 | Superior | 14.00% | ~277 |
 | The Unstoppable | 14.00% | ~277 |
 | Scientist | 12.00% | ~237 |
-| Challenger | 11.00% | ~217 |
-| Daily Quest Completionist | 11.00% | ~217 |
-| Doing My Part | 11.00% | ~217 |
-| Four Leaf Clover | 11.00% | ~217 |
-| Hunter | 11.00% | ~217 |
-| Mastery | 11.00% | ~217 |
-| Moving Up The Ladder | 11.00% | ~217 |
-| Relic Of The Past | 11.00% | ~217 |
-| Scroll Master | 11.00% | ~217 |
-| The power of Awakening | 11.00% | ~217 |
+| Challenger | 11.00% | ~218 |
+| Daily Quest Completionist | 11.00% | ~218 |
+| Doing My Part | 11.00% | ~218 |
+| Four Leaf Clover | 11.00% | ~218 |
+| Hunter | 11.00% | ~218 |
+| Mastery | 11.00% | ~218 |
+| Moving Up The Ladder | 11.00% | ~218 |
+| Relic Of The Past | 11.00% | ~218 |
+| Scroll Master | 11.00% | ~218 |
+| The power of Awakening | 11.00% | ~218 |
 | Frostfire Liberator | 10.00% | ~198 |
 | Master Enchanter | 10.00% | ~198 |
 | Here We Go Again | 9.00% | ~178 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 949)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,977 (Ranked 199)  
+Progressed: 1,978 (Ranked 199)  
 Completed: 2 (0.10%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,11 +240,11 @@ Completed: 2 (0.10%) (Ranked 235)
 | 2023-09-25 | 1,970 | 2 |
 | 2023-09-26 | 1,973 | 2 |
 | 2023-09-27 | 1,976 | 2 |
-| 2023-09-28 | 1,977 | 2 |
+| 2023-09-28 | 1,978 | 2 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 504)  
-Sum: 45 (Ranked 466)  
-Diff (max vs sum): 38  
+Sum: 45 (Ranked 467)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 23 |

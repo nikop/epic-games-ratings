@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.48 (Ranked 607)  
+Rating: 4.48 (Ranked 608)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,12 +12,12 @@ Rating: 4.48 (Ranked 607)
 | A Cheese Grater to the Face | 19.00% | ~217 |
 | Put it on a shelf | 18.00% | ~205 |
 | It's like an haircut | 17.00% | ~194 |
-| Suit up | 16.00% | ~182 |
+| Suit up | 16.00% | ~183 |
 | Walked like an Egyptian | 15.00% | ~171 |
 | Ride in the rising sun | 15.00% | ~171 |
 | Running at the speed of sound | 13.00% | ~148 |
 | Rookie No-No More | 12.00% | ~137 |
-| Martian explorer | 11.00% | ~125 |
+| Martian explorer | 11.00% | ~126 |
 | To the core | 8.00% | ~91 |
 | Blurred photofinish | 8.00% | ~91 |
 | First step into a larger world | 7.00% | ~80 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 607)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,140 (Ranked 224)  
+Progressed: 1,141 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 1,131 | 0 |
 | 2023-09-26 | 1,133 | 0 |
 | 2023-09-27 | 1,135 | 0 |
-| 2023-09-28 | 1,140 | 0 |
+| 2023-09-28 | 1,141 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

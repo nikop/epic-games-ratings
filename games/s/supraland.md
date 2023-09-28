@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~720,094 |
-| The Blues | 85.00% | ~618,263 |
-| Fast | 66.00% | ~480,063 |
-| Healthbar | 55.00% | ~400,052 |
-| Force Cube | 53.00% | ~385,505 |
-| Double Jump | 48.00% | ~349,137 |
-| Regeneration | 47.00% | ~341,863 |
-| Triple Jump | 43.00% | ~312,768 |
-| Climb the hill | 42.00% | ~305,495 |
-| Through the fire pipe | 39.00% | ~283,674 |
-| MacGuffin | 38.00% | ~276,400 |
-| Just once | 37.00% | ~269,126 |
-| Armor | 30.00% | ~218,210 |
-| True holy spirit | 28.00% | ~203,663 |
-| That's how electronics work obviously | 27.00% | ~196,389 |
-| Force Cube Catapult | 25.00% | ~181,842 |
-| Holy Sword | 23.00% | ~167,295 |
-| Telefrag | 23.00% | ~167,295 |
-| Freed from prison | 21.00% | ~152,747 |
-| Stomp | 21.00% | ~152,747 |
-| Double Health | 18.00% | ~130,926 |
+| Out of bed | 99.00% | ~720,098 |
+| The Blues | 85.00% | ~618,266 |
+| Fast | 66.00% | ~480,066 |
+| Healthbar | 55.00% | ~400,055 |
+| Force Cube | 53.00% | ~385,507 |
+| Double Jump | 48.00% | ~349,139 |
+| Regeneration | 47.00% | ~341,865 |
+| Triple Jump | 43.00% | ~312,770 |
+| Climb the hill | 42.00% | ~305,496 |
+| Through the fire pipe | 39.00% | ~283,675 |
+| MacGuffin | 38.00% | ~276,401 |
+| Just once | 37.00% | ~269,128 |
+| Armor | 30.00% | ~218,212 |
+| True holy spirit | 28.00% | ~203,664 |
+| That's how electronics work obviously | 27.00% | ~196,390 |
+| Force Cube Catapult | 25.00% | ~181,843 |
+| Holy Sword | 23.00% | ~167,296 |
+| Telefrag | 23.00% | ~167,296 |
+| Freed from prison | 21.00% | ~152,748 |
+| Stomp | 21.00% | ~152,748 |
+| Double Health | 18.00% | ~130,927 |
 | Buckle | 17.00% | ~123,653 |
 | Green Keycard | 17.00% | ~123,653 |
-| All Shells | 15.00% | ~109,105 |
-| Rattle Hag | 15.00% | ~109,105 |
+| All Shells | 15.00% | ~109,106 |
+| Rattle Hag | 15.00% | ~109,106 |
 | Beam | 14.00% | ~101,832 |
 | Health Drink | 13.00% | ~94,558 |
 | Helped a star | 13.00% | ~94,558 |
 | 9 | 13.00% | ~94,558 |
 | Purple Cube | 13.00% | ~94,558 |
 | Supraball Noob | 13.00% | ~94,558 |
-| Strong | 12.00% | ~87,284 |
-| Blue King's lair | 11.00% | ~80,010 |
-| Payback | 11.00% | ~80,010 |
-| Got the coins back | 11.00% | ~80,010 |
-| Got the gun back | 11.00% | ~80,010 |
-| Infiltrated | 11.00% | ~80,010 |
-| Robbed | 11.00% | ~80,010 |
+| Strong | 12.00% | ~87,285 |
+| Blue King's lair | 11.00% | ~80,011 |
+| Payback | 11.00% | ~80,011 |
+| Got the coins back | 11.00% | ~80,011 |
+| Got the gun back | 11.00% | ~80,011 |
+| Infiltrated | 11.00% | ~80,011 |
+| Robbed | 11.00% | ~80,011 |
 | Fire Flies | 10.00% | ~72,737 |
 | Cave Flies | 10.00% | ~72,737 |
 | Gold Scam | 10.00% | ~72,737 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~727 |
 | DLC: Top of the world | 0.10% | ~727 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,368 (Ranked 19)  
+Progressed: 727,372 (Ranked 19)  
 Completed: 739 (0.10%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 739 (0.10%) (Ranked 235)
 | 2023-09-25 | 727,114 | 738 |
 | 2023-09-26 | 727,218 | 739 |
 | 2023-09-27 | 727,319 | 739 |
-| 2023-09-28 | 727,368 | 739 |
+| 2023-09-28 | 727,372 | 739 |
 ## Awards
 Max (Challenging Puzzles): 7,693  (Ranked 47)  
-Sum: 10,028 (Ranked 88)  
+Sum: 10,029 (Ranked 88)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -277,7 +277,7 @@ Diff (max vs sum): -41
 | This game is Educational | 282 |
 | This game is Relaxing | 277 |
 | This game has Amazing Storytelling | 277 |
-| This game has Amazing Characters | 275 |
+| This game has Amazing Characters | 276 |
 | This game has Quickly Understood Controls | 268 |
 | This game is Great for Beginners | 266 |
 | This game is Extremely Fun | 260 |
@@ -447,4 +447,4 @@ Diff (max vs sum): -41
 | 2023-09-23 | 4.61 | - | 7,690 | 10,023 |
 | 2023-09-25 | 4.61 | - | 7,691 | 10,024 |
 | 2023-09-27 | 4.61 | - | 7,692 | 10,027 |
-| 2023-09-28 | 4.61 | - | 7,693 | 10,028 |
+| 2023-09-28 | 4.61 | - | 7,693 | 10,029 |
