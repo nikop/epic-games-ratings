@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 81.82% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.02% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 81.33% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.54% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
@@ -50,7 +50,7 @@
 | 48 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.80% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.78% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.75% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 53 | [JARS](games/j/jars.md) | 5.19% |
 | 54 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
@@ -97,11 +97,11 @@
 | 95 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.32% |
 | 96 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 97 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 98 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.09% |
-| 99 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.06% |
-| 100 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.05% |
-| 101 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
-| 102 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |
+| 98 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.05% |
+| 99 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.04% |
+| 100 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.01% |
+| 101 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 1.89% |
+| 101 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |
 | 103 | [Night Book](games/n/night_book.md) | 1.86% |
 | 104 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 105 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.83% |
@@ -155,9 +155,9 @@
 | 153 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 153 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 153 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
-| 156 | [Dead Space](games/d/dead_space.md) | 0.57% |
-| 157 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
-| 157 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
+| 156 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
+| 156 | [Dead Space](games/d/dead_space.md) | 0.56% |
+| 156 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 159 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 159 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
 | 161 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
@@ -199,7 +199,7 @@
 | 197 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 197 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 199 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.28% |
-| 200 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.26% |
+| 200 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
 | 201 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 201 | [Filament](games/f/filament.md) | 0.25% |
 | 201 | [Scrapnaut](games/s/scrapnaut.md) | 0.25% |
@@ -643,4 +643,4 @@
 | 296 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 296 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 296 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,315 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,316 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
