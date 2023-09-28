@@ -153,7 +153,7 @@
 | 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,455 | 29 |
 | 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 704 | 172 |
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 525 |
-| 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,144 | 52 |
+| 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,151 | 52 |
 | 148 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 525 |
 | 148 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 38,580 | 13 |
 | 148 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 525 |
@@ -419,7 +419,6 @@
 | 401 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 457 | 210 |
 | 401 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 86 | 361 |
 | 419 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 421 |
-| 419 | [DOOM 3](games/d/doom_3.md) | 4.59 | 68 | 386 |
 | 419 | [GRIME](games/g/grime.md) | 4.59 | 38 | 439 |
 | 419 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 61 | 394 |
 | 419 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 668 | 178 |
@@ -435,22 +434,23 @@
 | 419 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 714 | 169 |
 | 419 | [Void Bastards](games/v/void_bastards.md) | 4.59 | 22 | 506 |
 | 419 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 20 | 521 |
-| 436 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,518 | 11 |
-| 436 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 167 | 294 |
-| 436 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 525 |
-| 436 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 254 |
-| 436 | [GRIT](games/g/grit.md) | 4.58 | 0 | 525 |
-| 436 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 518 |
-| 436 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 8,209 | 43 |
-| 436 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,495 | 125 |
-| 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 315 |
-| 436 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 271 |
-| 436 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 525 |
-| 436 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 403 |
-| 436 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,386 | 56 |
-| 436 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 525 |
-| 436 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 267 |
-| 436 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,501 | 25 |
+| 435 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,518 | 11 |
+| 435 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 167 | 294 |
+| 435 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 525 |
+| 435 | [DOOM 3](games/d/doom_3.md) | 4.58 | 68 | 386 |
+| 435 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 254 |
+| 435 | [GRIT](games/g/grit.md) | 4.58 | 0 | 525 |
+| 435 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 518 |
+| 435 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 8,209 | 43 |
+| 435 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,495 | 125 |
+| 435 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 315 |
+| 435 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 271 |
+| 435 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 525 |
+| 435 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 403 |
+| 435 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,386 | 56 |
+| 435 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 525 |
+| 435 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 267 |
+| 435 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,501 | 25 |
 | 452 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 525 |
 | 452 | [Among Us](games/a/among_us.md) | 4.57 | 2,687 | 98 |
 | 452 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 0 | 525 |

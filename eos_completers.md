@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.10% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 86.92% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -139,8 +139,8 @@
 | 137 | [Hades](games/h/hades.md) | 0.91% |
 | 138 | [Eternights](games/e/eternights.md) | 0.87% |
 | 139 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 140 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 141 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
+| 140 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
+| 140 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.79% |
 | 143 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 144 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -398,6 +398,7 @@
 | 296 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 0.00% |
 | 296 | [Foretales](games/f/foretales.md) | 0.00% |
 | 296 | [Forklift Extreme - Deluxe Edition](games/f/forklift_extreme_-_deluxe_edition.md) | 0.00% |
+| 296 | [FRACTALS OF DESTINY](games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 0.00% |
 | 296 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 0.00% |
 | 296 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.00% |
 | 296 | [FUR Squadron](games/f/fur_squadron.md) | 0.00% |
