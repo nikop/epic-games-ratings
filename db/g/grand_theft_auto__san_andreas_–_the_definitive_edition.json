@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1054,9 +1054,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12987,
+  "EOS_Progressed": 12988,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -11814,6 +11814,11 @@
       "Time": "2023-09-28T02:19:13.8330405+00:00",
       "NumProgressed": 12987,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-28T04:03:51.9857261+00:00",
+      "NumProgressed": 12988,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -11825,7 +11830,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10520
     },
     {
       "ID": "ACH02",
@@ -12017,7 +12022,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH26",
@@ -12104,7 +12109,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12987,
+      "Progressed": 12988,
       "Completed": 48
     }
   ],
@@ -12112,8 +12117,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-27T17:58:08.9408675+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:03:46.6688217+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:03:51.9857257+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:58:21.9205447+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:03:46.6689187+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:58:37.4805596+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:03:51.9858192+00:00"
 }

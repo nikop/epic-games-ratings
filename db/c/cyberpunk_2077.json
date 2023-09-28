@@ -12611,9 +12611,9 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883580,
+  "EOS_Progressed": 883618,
   "EOS_Completed": 2445,
-  "EOS_NewPlayers": 6095,
+  "EOS_NewPlayers": 6120,
   "EOS_NewCompleters": 321,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30651,6 +30651,11 @@
       "Time": "2023-09-28T03:05:49.9409259+00:00",
       "NumProgressed": 883580,
       "NumCompleted": 2445
+    },
+    {
+      "Time": "2023-09-28T04:05:55.6186839+00:00",
+      "NumProgressed": 883618,
+      "NumCompleted": 2445
     }
   ],
   "TotalAchievements": 57,
@@ -30670,7 +30675,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "BushidoAndChill",
@@ -30684,9 +30689,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6185
+      "UsersEstimate": 7069
     },
     {
       "ID": "Denied",
@@ -30766,7 +30771,7 @@
       "Name": "Mean Streets",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7952
+      "UsersEstimate": 7953
     },
     {
       "ID": "LittleTokyo",
@@ -30780,9 +30785,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2651
+      "UsersEstimate": 3534
     },
     {
       "ID": "MaxPain",
@@ -30854,7 +30859,7 @@
       "Name": "Temperance",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30894,7 +30899,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7952
+      "UsersEstimate": 7953
     },
     {
       "ID": "TheLovers",
@@ -30926,7 +30931,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "TheWorld",
@@ -30966,7 +30971,7 @@
       "Name": "True Warrior",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -30974,7 +30979,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7952
+      "UsersEstimate": 7953
     },
     {
       "ID": "UnderPressure",
@@ -31006,7 +31011,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31117,21 +31122,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883580,
+      "Progressed": 883618,
       "Completed": 2445
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12203,
+      "Progressed": 12241,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T02:57:28.3247541+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:05:49.9409255+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:05:55.6186833+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:57:28.3247549+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:05:49.941098+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:57:43.8736183+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:05:55.6188457+00:00"
 }

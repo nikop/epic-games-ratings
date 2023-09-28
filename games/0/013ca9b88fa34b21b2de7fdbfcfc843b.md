@@ -5,31 +5,31 @@ Rating: 4.83 (Ranked 57)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~3,879 |
-| A Thorny Situation | 70.00% | ~3,720 |
-| ... And Spit Back Out | 59.00% | ~3,135 |
-| Break-Net Speed | 47.00% | ~2,498 |
-| Bramble Breaker | 43.00% | ~2,285 |
-| Miner 49er | 41.00% | ~2,179 |
-| Humble Collector | 39.00% | ~2,072 |
+| Azoria Beckons | 73.00% | ~3,881 |
+| A Thorny Situation | 70.00% | ~3,721 |
+| ... And Spit Back Out | 59.00% | ~3,136 |
+| Break-Net Speed | 47.00% | ~2,499 |
+| Bramble Breaker | 43.00% | ~2,286 |
+| Miner 49er | 41.00% | ~2,180 |
+| Humble Collector | 39.00% | ~2,073 |
 | Calm Sailing | 33.00% | ~1,754 |
-| Open the Gate! | 30.00% | ~1,594 |
+| Open the Gate! | 30.00% | ~1,595 |
 | Mist Walker | 28.00% | ~1,488 |
-| Lumberjack | 24.00% | ~1,275 |
-| Oui, Chef! | 21.00% | ~1,116 |
+| Lumberjack | 24.00% | ~1,276 |
+| Oui, Chef! | 22.00% | ~1,170 |
 | Clear the Air | 15.00% | ~797 |
 | Botanical Breakthrough | 14.00% | ~744 |
 | Beach Comber | 12.00% | ~638 |
-| Search for the Hairy Grell | 10.00% | ~531 |
-| Higher Tax Bracket | 10.00% | ~531 |
+| Search for the Hairy Grell | 10.00% | ~532 |
+| Higher Tax Bracket | 10.00% | ~532 |
 | Got to Catch Them All | 6.00% | ~319 |
 | Rumble in the Jumble | 6.00% | ~319 |
 | Fanatical Farmer | 6.00% | ~319 |
 | Skilled | 6.00% | ~319 |
 | Flaming Hot Completos | 4.00% | ~213 |
 | Fae Farmer | 4.00% | ~213 |
-| Scattered Scroll Scrounger | 4.00% | ~213 |
 | Azorian Anniversary | 4.00% | ~213 |
+| Scattered Scroll Scrounger | 3.00% | ~159 |
 | I Now Pronounce You... | 3.00% | ~159 |
 | Chatty Neighbor | 3.00% | ~159 |
 | Right Tool For the Job | 2.00% | ~106 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 57)
 | Giving the People What They Want | 0.10% | ~5 |
 | Very Skilled | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,314 (Ranked 162)  
+Progressed: 5,316 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 5,023 | 0 |
 | 2023-09-26 | 5,137 | 0 |
 | 2023-09-27 | 5,284 | 0 |
-| 2023-09-28 | 5,314 | 0 |
+| 2023-09-28 | 5,316 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

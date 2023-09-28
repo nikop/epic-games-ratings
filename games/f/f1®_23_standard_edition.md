@@ -5,7 +5,7 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~2,273 |
+| Getting on the Step | 93.00% | ~2,298 |
 | On the Top Step | 85.00% | ~2,100 |
 | Setting up for Success | 74.00% | ~1,829 |
 | Team Orders | 72.00% | ~1,779 |

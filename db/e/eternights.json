@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230,
+  "EOS_Progressed": 231,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -721,6 +721,11 @@
       "Time": "2023-09-27T17:07:05.6309563+00:00",
       "NumProgressed": 230,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-28T04:03:23.4671626+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -765,7 +770,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -773,7 +778,7 @@
       "Name": "Min\u0027s Promise",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -813,7 +818,7 @@
       "Name": "Shelter Escape",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -845,7 +850,7 @@
       "Name": "Truebro",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -867,9 +872,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -899,9 +904,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -932,14 +937,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:24:06.2547362+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:03:23.4671611+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:58:13.0571123+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:24:06.2547572+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:58:28.4895163+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:03:23.4695113+00:00"
 }

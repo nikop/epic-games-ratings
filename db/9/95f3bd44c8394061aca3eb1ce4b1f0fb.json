@@ -4,7 +4,7 @@
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -501,6 +501,11 @@
       "Time": "2023-09-27T23:04:55.1140275+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T04:04:48.7712913+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -526,7 +531,7 @@
       "ID": "FourPlayers",
       "SetID": "9ajogia",
       "Name": "Socialite",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -534,7 +539,7 @@
       "ID": "NotPermitted",
       "SetID": "9ajogia",
       "Name": "Caged",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -551,14 +556,14 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:04:42.7932619+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:04:48.7712908+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:42.1261307+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:59:51.8412222+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:04:42.7932725+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:00:07.6709742+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:04:48.7712987+00:00"
 }

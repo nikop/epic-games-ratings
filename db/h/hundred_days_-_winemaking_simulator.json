@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1006,9 +1006,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5275,
+  "EOS_Progressed": 5276,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1127,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4406,6 +4406,11 @@
       "Time": "2023-09-28T03:03:29.3249919+00:00",
       "NumProgressed": 5275,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T04:03:34.74191+00:00",
+      "NumProgressed": 5276,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4490,7 +4495,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "a_21",
@@ -4514,7 +4519,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "a_25",
@@ -4665,7 +4670,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5275,
+      "Progressed": 5276,
       "Completed": 7
     }
   ],
@@ -4673,8 +4678,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-27T20:02:10.5441398+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:03:29.3249915+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:03:34.7419096+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:03:09.5671956+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:03:29.325039+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:03:13.6797687+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:03:34.7419552+00:00"
 }

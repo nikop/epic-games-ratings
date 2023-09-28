@@ -3708,9 +3708,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 72875,
+  "EOS_Progressed": 72877,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21688,6 +21688,11 @@
       "Time": "2023-09-28T03:04:18.0141913+00:00",
       "NumProgressed": 72875,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-28T04:04:23.7452754+00:00",
+      "NumProgressed": 72877,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 53,
@@ -21795,7 +21800,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22591
+      "UsersEstimate": 22592
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -21803,7 +21808,7 @@
       "Name": "Wet Work",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22591
+      "UsersEstimate": 22592
     },
     {
       "ID": "complete_mission_1",
@@ -21811,7 +21816,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 33522
+      "UsersEstimate": 33523
     },
     {
       "ID": "customize_a_vehicle",
@@ -21827,7 +21832,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26235
+      "UsersEstimate": 26236
     },
     {
       "ID": "cutting_edge_materials",
@@ -21843,7 +21848,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4372
+      "UsersEstimate": 4373
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -21883,7 +21888,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 13846
+      "UsersEstimate": 13847
     },
     {
       "ID": "empire_tier_4",
@@ -21907,7 +21912,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23320
+      "UsersEstimate": 23321
     },
     {
       "ID": "fully_complete_a_building",
@@ -21915,7 +21920,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16761
+      "UsersEstimate": 16762
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -21947,7 +21952,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26235
+      "UsersEstimate": 26236
     },
     {
       "ID": "hit_max_level",
@@ -21971,7 +21976,7 @@
       "Name": "Picking Fights",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 13846
+      "UsersEstimate": 13847
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -21979,7 +21984,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19676
+      "UsersEstimate": 19677
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -22051,7 +22056,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19676
+      "UsersEstimate": 19677
     },
     {
       "ID": "two_thirds_purple",
@@ -22122,13 +22127,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 72875,
+      "Progressed": 72877,
       "Completed": 49
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 44512,
+      "Progressed": 44514,
       "Completed": 3955
     }
   ],
@@ -22136,8 +22141,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-27T18:59:22.3361896+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:04:18.0141907+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:04:23.7452749+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.9460051+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:58:55.8757242+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:04:18.0143778+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:59:11.4561888+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:04:23.7454313+00:00"
 }

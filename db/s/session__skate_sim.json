@@ -976,9 +976,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2968,
+  "EOS_Progressed": 2969,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5061,6 +5061,11 @@
       "Time": "2023-09-28T03:04:34.7248916+00:00",
       "NumProgressed": 2968,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T04:04:40.6607954+00:00",
+      "NumProgressed": 2969,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5224,7 +5229,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5455,15 +5460,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2968,
+      "Progressed": 2969,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-27T16:58:20.5851302+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:04:34.7248909+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:04:40.6607948+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:58:11.4552706+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:04:34.7249615+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:58:26.9108128+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:04:40.6608589+00:00"
 }

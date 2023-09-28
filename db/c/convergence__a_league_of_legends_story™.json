@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2290,6 +2290,11 @@
       "Time": "2023-09-28T03:05:47.4803404+00:00",
       "NumProgressed": 896,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T04:05:53.1493305+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2325,7 +2330,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2373,7 +2378,7 @@
       "Name": "Street Style",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "CultivairChests1",
@@ -2437,7 +2442,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "GadgetCompletion1",
@@ -2451,9 +2456,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 117
     },
     {
       "ID": "GrindingTime1",
@@ -2501,7 +2506,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "NoCritterSump",
@@ -2724,7 +2729,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 5
     }
   ],
@@ -2732,8 +2737,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:05:47.4803398+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:05:53.14933+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:58:32.4378018+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:05:47.4804434+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:58:48.2011029+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:05:53.1493898+00:00"
 }

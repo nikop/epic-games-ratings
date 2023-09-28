@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.97,
+  "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1881,6 +1881,11 @@
       "Time": "2023-09-27T20:05:38.5850135+00:00",
       "NumProgressed": 674,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-28T04:05:52.6918168+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1901,7 +1906,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "_03_FinishAct1",
@@ -1925,7 +1930,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1973,7 +1978,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "_12_Completion_50",
@@ -2019,9 +2024,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 277
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2037,7 +2042,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2061,7 +2066,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2069,7 +2074,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2100,7 +2105,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 20
     }
   ],
@@ -2108,8 +2113,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-27T06:58:56.7562256+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:05:47.0874296+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:05:52.6918163+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:57:44.1357131+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:05:47.0874814+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:57:59.7584501+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:05:52.6918456+00:00"
 }

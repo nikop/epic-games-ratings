@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 402)  
+Rating: 4.60 (Ranked 401)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,11 +28,11 @@ Rating: 4.60 (Ranked 402)
 | The Loose Cannon | 17.00% | ~152 |
 | Check Your Pulse | 17.00% | ~152 |
 | The Family Fortune | 17.00% | ~152 |
-| Street Style | 16.00% | ~143 |
-| The Man Who Shattered Time | 16.00% | ~143 |
-| Treasure Trove | 14.00% | ~125 |
-| Whiz Kid | 14.00% | ~125 |
-| Cartographer | 14.00% | ~125 |
+| Street Style | 16.00% | ~144 |
+| The Man Who Shattered Time | 16.00% | ~144 |
+| Treasure Trove | 14.00% | ~126 |
+| Cartographer | 14.00% | ~126 |
+| Whiz Kid | 13.00% | ~117 |
 | Good Neighbor | 12.00% | ~108 |
 | Chaincrawler Explorer | 11.00% | ~99 |
 | Family Memories | 11.00% | ~99 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 402)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896 (Ranked 234)  
+Progressed: 897 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 5 (0.56%) (Ranked 157)
 | 2023-09-24 | 891 | 5 |
 | 2023-09-26 | 893 | 5 |
 | 2023-09-27 | 895 | 5 |
-| 2023-09-28 | 896 | 5 |
+| 2023-09-28 | 897 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

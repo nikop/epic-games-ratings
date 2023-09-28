@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4908,
+  "EOS_Progressed": 4909,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1618,6 +1618,11 @@
       "Time": "2023-09-28T03:06:42.5883097+00:00",
       "NumProgressed": 4908,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-28T04:06:48.529969+00:00",
+      "NumProgressed": 4909,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -1654,7 +1659,7 @@
       "Name": "Bzzzt",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3338
     },
     {
       "ID": "achievement_01_05",
@@ -1662,7 +1667,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "achievement_01_06",
@@ -1670,7 +1675,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "achievement_01_07",
@@ -1694,7 +1699,7 @@
       "Name": "Right Foot",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "achievement_01_10",
@@ -1702,7 +1707,7 @@
       "Name": "Beat the Clock",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "achievement_02_01",
@@ -1718,7 +1723,7 @@
       "Name": "Amateur Champion",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_02_03",
@@ -1822,7 +1827,7 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_03_08",
@@ -1918,7 +1923,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "achievement_04_09",
@@ -1926,14 +1931,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 4908,
+      "Progressed": 4909,
       "Completed": 10
     }
   ],
@@ -1941,8 +1946,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-09-26T18:04:36.0445807+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:06:42.5883093+00:00",
+  "LastChanged_Achievements": "2023-09-28T04:06:48.5299683+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:03:09.684033+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:06:42.5883514+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:03:13.9194689+00:00",
+  "LastUpdate_Achievements": "2023-09-28T04:06:48.5300052+00:00"
 }
