@@ -168,9 +168,9 @@
       "ID": "DO_N_RUNS_0",
       "SetID": "dcng643",
       "Name": "Newbie",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DO_N_RUNS_1",
@@ -312,9 +312,9 @@
       "ID": "KILL_BOSS_1",
       "SetID": "dcng643",
       "Name": "Toad Slayer",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_BOSS_10",
@@ -448,9 +448,9 @@
       "ID": "KILL_BOSS_WITHOUT_DASH",
       "SetID": "dcng643",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_BOSS_WITH_BASIC_GUN",
@@ -726,8 +726,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-09-27T23:08:30.9961249+00:00",
+  "LastChanged_Achievements": "2023-09-28T00:09:39.4001785+00:00",
   "LastUpdate_AppInfo": "2023-09-21T17:57:07.2566661+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:59:34.2989011+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:08:30.9962169+00:00"
+  "LastUpdate_Ratings": "2023-09-28T00:00:00.7758402+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:09:39.4002856+00:00"
 }

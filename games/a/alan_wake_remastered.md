@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,852 |
-| Let There Be Light | 34.00% | ~22,547 |
-| Float Like a Butterfly | 33.00% | ~21,884 |
+| Follow the Light | 42.00% | ~27,853 |
+| Let There Be Light | 34.00% | ~22,548 |
+| Float Like a Butterfly | 33.00% | ~21,885 |
 | Nordic Walking | 26.00% | ~17,242 |
 | Bright Falls' Finest | 26.00% | ~17,242 |
-| Under a Thin Layer of Skin | 23.00% | ~15,252 |
+| Under a Thin Layer of Skin | 23.00% | ~15,253 |
 | Park Ranger | 19.00% | ~12,600 |
 | Paging Mr. Wake | 19.00% | ~12,600 |
 | Back! Back, I Say! | 18.00% | ~11,937 |
-| Finders Keepers | 17.00% | ~11,273 |
-| Sound and Fury | 16.00% | ~10,610 |
-| Missed by a Mile | 16.00% | ~10,610 |
-| Damn Good Cup of Coffee | 16.00% | ~10,610 |
-| Wheels Within Wheels | 15.00% | ~9,947 |
-| They're Heeeeeere! | 15.00% | ~9,947 |
+| Finders Keepers | 17.00% | ~11,274 |
+| Sound and Fury | 16.00% | ~10,611 |
+| Missed by a Mile | 16.00% | ~10,611 |
+| Damn Good Cup of Coffee | 16.00% | ~10,611 |
+| Wheels Within Wheels | 15.00% | ~9,948 |
+| They're Heeeeeere! | 15.00% | ~9,948 |
 | Iron Horse | 14.00% | ~9,284 |
 | The Six-Gun Scribe | 14.00% | ~9,284 |
 | Collateral Carnage | 14.00% | ~9,284 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 12.00% | ~7,958 |
 | The Lady of the Light | 11.00% | ~7,295 |
 | Energized! | 11.00% | ~7,295 |
-| Right of Way | 10.00% | ~6,631 |
-| What Light Through Yonder Window | 9.00% | ~5,968 |
+| Right of Way | 10.00% | ~6,632 |
+| What Light Through Yonder Window | 9.00% | ~5,969 |
 | Tornado Wrangler | 8.00% | ~5,305 |
 | Departure | 8.00% | ~5,305 |
 | A Friend in Need | 8.00% | ~2,383 |
@@ -47,8 +47,8 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 5.00% | ~3,316 |
 | Boob Tube | 4.00% | ~2,653 |
 | Heartbreaker | 4.00% | ~1,191 |
-| Carny | 3.00% | ~1,989 |
-| Kill Your Darlings | 3.00% | ~893 |
+| Carny | 3.00% | ~1,990 |
+| Kill Your Darlings | 3.00% | ~894 |
 | Medical Opinions | 2.00% | ~1,326 |
 | Taken Season | 2.00% | ~1,326 |
 | An Idyllic Small Town | 2.00% | ~1,326 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,314 (Ranked 89)  
+Progressed: 66,317 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 66 (0.10%) (Ranked 235)
 | 2023-09-25 | 66,202 | 66 |
 | 2023-09-26 | 66,247 | 66 |
 | 2023-09-27 | 66,314 | 66 |
+| 2023-09-28 | 66,317 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

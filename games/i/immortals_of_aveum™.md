@@ -5,33 +5,33 @@ Rating: 4.00 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 79.00% | ~19 |
-| Battlefields Have Memories | 79.00% | ~19 |
-| Maybe Engage a Little | 79.00% | ~19 |
-| Enlisted | 79.00% | ~19 |
-| No More Names | 67.00% | ~16 |
-| Initiate | 67.00% | ~16 |
-| Thrada-Kul | 58.00% | ~14 |
-| Soldier | 42.00% | ~10 |
-| Gravity-Challenged Rocks | 42.00% | ~10 |
-| All the Major Food Groups | 33.00% | ~8 |
-| The Means to Save It | 29.00% | ~7 |
-| Beggars Would Ride | 29.00% | ~7 |
-| Control is an Illusion | 25.00% | ~6 |
-| Resilience to Sin | 25.00% | ~6 |
-| Socialite | 25.00% | ~6 |
-| A Familiar Nest | 21.00% | ~5 |
-| Armsman | 21.00% | ~5 |
-| Periapt Alizarin | 21.00% | ~5 |
-| Geas Aristeya | 17.00% | ~4 |
-| A Perfect Cycle | 17.00% | ~4 |
-| Recruit | 17.00% | ~4 |
-| Good Boy | 17.00% | ~4 |
-| Lights Army | 13.00% | ~3 |
-| Armaments Gules | 13.00% | ~3 |
-| Periapt Cerulean | 13.00% | ~3 |
-| Veteran | 13.00% | ~3 |
-| Shroudfane Explorer | 13.00% | ~3 |
+| Unforeseen | 80.00% | ~20 |
+| Battlefields Have Memories | 80.00% | ~20 |
+| Maybe Engage a Little | 80.00% | ~20 |
+| Enlisted | 80.00% | ~20 |
+| No More Names | 68.00% | ~17 |
+| Initiate | 68.00% | ~17 |
+| Thrada-Kul | 60.00% | ~15 |
+| Soldier | 44.00% | ~11 |
+| Gravity-Challenged Rocks | 44.00% | ~11 |
+| All the Major Food Groups | 36.00% | ~9 |
+| The Means to Save It | 32.00% | ~8 |
+| Beggars Would Ride | 32.00% | ~8 |
+| Control is an Illusion | 28.00% | ~7 |
+| Resilience to Sin | 28.00% | ~7 |
+| Socialite | 28.00% | ~7 |
+| A Familiar Nest | 24.00% | ~6 |
+| Geas Aristeya | 24.00% | ~6 |
+| Armsman | 24.00% | ~6 |
+| Periapt Alizarin | 24.00% | ~6 |
+| A Perfect Cycle | 20.00% | ~5 |
+| Recruit | 20.00% | ~5 |
+| Armaments Gules | 16.00% | ~4 |
+| Good Boy | 16.00% | ~4 |
+| Lights Army | 12.00% | ~3 |
+| Periapt Cerulean | 12.00% | ~3 |
+| Veteran | 12.00% | ~3 |
+| Shroudfane Explorer | 12.00% | ~3 |
 | Scholar | 8.00% | ~2 |
 | Armaments Azure | 8.00% | ~2 |
 | Periapt Viridian | 8.00% | ~2 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 953)
 | Treasure Hunter | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 466)  
+Progressed: 25 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 15 | 0 |
 | 2023-09-26 | 18 | 0 |
 | 2023-09-27 | 24 | 0 |
+| 2023-09-28 | 25 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

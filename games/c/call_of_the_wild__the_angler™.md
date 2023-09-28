@@ -7,14 +7,14 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 79.00% | ~4,674 |
-| Hey Good Hookin | 69.00% | ~4,082 |
-| I'm on a Boat! | 59.00% | ~3,490 |
-| Scaling up | 56.00% | ~3,313 |
+| Hey Good Hookin | 69.00% | ~4,083 |
+| I'm on a Boat! | 60.00% | ~3,550 |
+| Scaling up | 56.00% | ~3,314 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,254 |
 | More Fish in the Sea | 49.00% | ~2,899 |
-| Ready to Rod and Roll | 46.00% | ~2,721 |
+| Ready to Rod and Roll | 46.00% | ~2,722 |
 | Fish Out of Water | 36.00% | ~2,130 |
-| License to Gill | 33.00% | ~1,952 |
+| License to Gill | 33.00% | ~1,953 |
 | Things that go Splash in the Night | 31.00% | ~1,834 |
 | Goldfish? | 29.00% | ~1,716 |
 | Going for Gold | 26.00% | ~1,538 |
@@ -26,13 +26,13 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 8.00% | ~473 |
 | I'm the Captain Now | 6.00% | ~355 |
 | Big Fish Small Pond | 5.00% | ~296 |
-| The Beetles | 3.00% | ~177 |
-| Gonna Need a Bigger Boat | 3.00% | ~177 |
+| The Beetles | 3.00% | ~178 |
+| Gonna Need a Bigger Boat | 3.00% | ~178 |
 | No Fin left to give | 2.00% | ~118 |
 | Rod and Troll | 2.00% | ~106 |
 | Taylor Made | 1.00% | ~59 |
 | Fish upon a Star | 0.70% | ~37 |
-| Head for Heights | 0.60% | ~35 |
+| Head for Heights | 0.60% | ~36 |
 | Lake Me up Before You Go Go | 0.50% | ~30 |
 | Golden Ridge Ranger | 0.40% | ~24 |
 | Trollsporet Tale Teller | 0.40% | ~21 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,916 (Ranked 157)  
+Progressed: 5,917 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 5,891 | 0 |
 | 2023-09-26 | 5,903 | 0 |
 | 2023-09-27 | 5,916 | 0 |
+| 2023-09-28 | 5,917 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 446)  
 Sum: 177 (Ranked 390)  

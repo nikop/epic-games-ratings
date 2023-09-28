@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.30% | ~691 |
 | The Jungles of Doomspace | 0.30% | ~590 |
+| Beast Intentions | 0.20% | ~460 |
 | The Arena of Blood | 0.20% | ~393 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |
@@ -54,7 +55,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~197 |
 | Zarak's Revenge | 0.10% | ~197 |
 | Bully for You! | 0.10% | ~197 |
-| Beast Intentions | 0.10% | ~230 |
 | Wet Feet | 0.10% | ~230 |
 | The Dark Heart | 0.10% | ~197 |
 | Undergeared | 0.10% | ~197 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,228 (Ranked 57)  
+Progressed: 230,231 (Ranked 57)  
 Completed: 2,310 (1.00%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -692,6 +692,7 @@ Completed: 2,310 (1.00%) (Ranked 131)
 | 2023-09-25 | 230,056 | 2,305 |
 | 2023-09-26 | 230,150 | 2,307 |
 | 2023-09-27 | 230,228 | 2,310 |
+| 2023-09-28 | 230,231 | 2,310 |
 ## Awards
 Max (Diverse Characters): 5,329  (Ranked 69)  
 Sum: 31,785 (Ranked 40)  

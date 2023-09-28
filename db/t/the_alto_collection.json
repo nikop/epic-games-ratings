@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40722,
+  "EOS_Progressed": 40725,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18699,6 +18699,11 @@
       "Time": "2023-09-27T23:06:41.8038419+00:00",
       "NumProgressed": 40722,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T00:07:31.0761752+00:00",
+      "NumProgressed": 40725,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18734,7 +18739,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4479
+      "UsersEstimate": 4480
     },
     {
       "ID": "distance500000",
@@ -18750,7 +18755,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10995
+      "UsersEstimate": 10996
     },
     {
       "ID": "goals180",
@@ -18790,7 +18795,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "journeyer",
@@ -18934,7 +18939,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4479
+      "UsersEstimate": 4480
     },
     {
       "ID": "ultimate",
@@ -18974,7 +18979,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6108
+      "UsersEstimate": 6109
     },
     {
       "ID": "unlockpaz",
@@ -19021,15 +19026,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40722,
+      "Progressed": 40725,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-27T23:06:41.8038411+00:00",
+  "LastChanged_Achievements": "2023-09-28T00:07:31.0761746+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:58:21.2173691+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:06:41.8040877+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:58:30.8599996+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:07:31.0763592+00:00"
 }

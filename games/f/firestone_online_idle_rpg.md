@@ -27,7 +27,7 @@ Rating: 4.03 (Ranked 949)
 | Natural Talent | 14.00% | ~277 |
 | Superior | 14.00% | ~277 |
 | The Unstoppable | 14.00% | ~277 |
-| Scientist | 12.00% | ~237 |
+| Scientist | 13.00% | ~257 |
 | Challenger | 11.00% | ~217 |
 | Daily Quest Completionist | 11.00% | ~217 |
 | Doing My Part | 11.00% | ~217 |

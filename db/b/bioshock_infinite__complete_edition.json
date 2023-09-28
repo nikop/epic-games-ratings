@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-infinite-complete-edition",
   "Ranking_Rating": 205,
   "Ranking_Popularity": 75,
-  "Ranking_PopularitySum": 126,
+  "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 407,
@@ -2329,6 +2329,6 @@
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
   "LastChanged": "2023-09-24T21:58:56.1750577+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:48.3829979+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:59:26.3305869+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:06:49.6822691+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:59:50.8549209+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:07:40.525681+00:00"
 }

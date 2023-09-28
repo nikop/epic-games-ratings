@@ -8134,10 +8134,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44478,
       "NumberOfAwardsMax": 23085
+    },
+    {
+      "Time": "2023-09-28T00:01:41.611727+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44480,
+      "NumberOfAwardsMax": 23085
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44478,
+  "NumberOfAwards": 44480,
   "NumberOfAwardsMax": 23085,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8211,10 +8217,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 673
+      "Count": 675
     }
   ],
-  "EOS_Progressed": 297436,
+  "EOS_Progressed": 297437,
   "EOS_Completed": 478,
   "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 2,
@@ -25549,6 +25555,11 @@
       "Time": "2023-09-27T23:07:48.0582993+00:00",
       "NumProgressed": 297436,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-28T00:08:49.0117721+00:00",
+      "NumProgressed": 297437,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25560,7 +25571,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44615
+      "UsersEstimate": 44616
     },
     {
       "ID": "PFA_10",
@@ -25919,16 +25930,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297436,
+      "Progressed": 297437,
       "Completed": 478
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-27T23:00:57.1171243+00:00",
-  "LastChanged_Achievements": "2023-09-27T23:07:48.0582985+00:00",
+  "LastChanged": "2023-09-28T00:01:41.6117268+00:00",
+  "LastChanged_Achievements": "2023-09-28T00:08:49.0117716+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-27T23:00:57.117125+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:07:48.0584462+00:00"
+  "LastUpdate_Ratings": "2023-09-28T00:01:41.6117275+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:08:49.0119464+00:00"
 }

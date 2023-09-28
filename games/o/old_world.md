@@ -12,23 +12,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 6.00% | ~850 |
 | Intrepid | 5.00% | ~708 |
 | The Clergy | 5.00% | ~708 |
-| Able | 4.00% | ~566 |
-| Architect | 4.00% | ~566 |
-| Enlightened | 4.00% | ~566 |
-| Glorious | 4.00% | ~566 |
-| Good | 4.00% | ~566 |
-| Just | 4.00% | ~566 |
-| Keystone | 4.00% | ~566 |
-| Learned | 4.00% | ~566 |
-| Mason | 4.00% | ~566 |
-| Noble | 4.00% | ~566 |
-| Pioneer | 4.00% | ~566 |
-| Strong | 4.00% | ~566 |
-| Hanging Gardens | 4.00% | ~566 |
-| Oracle | 4.00% | ~566 |
-| Judaism | 4.00% | ~566 |
-| Naming Landmarks | 4.00% | ~566 |
-| Trade Caravan | 4.00% | ~566 |
+| Able | 4.00% | ~567 |
+| Architect | 4.00% | ~567 |
+| Enlightened | 4.00% | ~567 |
+| Glorious | 4.00% | ~567 |
+| Good | 4.00% | ~567 |
+| Just | 4.00% | ~567 |
+| Keystone | 4.00% | ~567 |
+| Learned | 4.00% | ~567 |
+| Mason | 4.00% | ~567 |
+| Noble | 4.00% | ~567 |
+| Pioneer | 4.00% | ~567 |
+| Strong | 4.00% | ~567 |
+| Hanging Gardens | 4.00% | ~567 |
+| Oracle | 4.00% | ~567 |
+| Judaism | 4.00% | ~567 |
+| Naming Landmarks | 4.00% | ~567 |
+| Trade Caravan | 4.00% | ~567 |
 | Ambitious | 3.00% | ~425 |
 | Brilliant | 3.00% | ~425 |
 | Fountainhead | 3.00% | ~425 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,161 (Ranked 130)  
+Progressed: 14,163 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,6 +464,7 @@ Completed: 5 (0.04%) (Ranked 261)
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
+| 2023-09-28 | 14,163 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,821 (Ranked 207)  

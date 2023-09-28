@@ -6,24 +6,24 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,408 |
+| Sowwy! | 31.00% | ~70,409 |
 | Where's that freaking Dwarf? | 5.00% | ~11,356 |
 | Alt+F4 | 5.00% | ~11,356 |
 | Déjà vu | 4.00% | ~9,085 |
 | A beer, two curses, three companions | 3.00% | ~6,814 |
 | Sock! SOCK! | 3.00% | ~6,814 |
 | GG EZ | 3.00% | ~6,814 |
+| DM intervention | 3.00% | ~6,814 |
 | Speedrun | 3.00% | ~6,814 |
-| Livin' in a dwarven paradise | 2.00% | ~4,542 |
-| Way of the Wimp | 2.00% | ~4,542 |
-| The plot thickens... At the tavern | 2.00% | ~4,542 |
-| The demons' feast | 2.00% | ~4,542 |
-| The Great Library | 2.00% | ~4,542 |
-| The Woman in the High Castle | 2.00% | ~4,542 |
-| DM intervention | 2.00% | ~4,542 |
-| Team Building Exercise | 2.00% | ~4,542 |
-| Oh, when I'll be level 10... | 2.00% | ~4,542 |
-| Fireproof Wizardess | 2.00% | ~4,542 |
+| Livin' in a dwarven paradise | 2.00% | ~4,543 |
+| Way of the Wimp | 2.00% | ~4,543 |
+| The plot thickens... At the tavern | 2.00% | ~4,543 |
+| The demons' feast | 2.00% | ~4,543 |
+| The Great Library | 2.00% | ~4,543 |
+| The Woman in the High Castle | 2.00% | ~4,543 |
+| Team Building Exercise | 2.00% | ~4,543 |
+| Oh, when I'll be level 10... | 2.00% | ~4,543 |
+| Fireproof Wizardess | 2.00% | ~4,543 |
 | Shiny and Crôm | 1.00% | ~2,271 |
 | Torture and Sensibility | 1.00% | ~2,271 |
 | Urik's Depths | 1.00% | ~2,271 |
@@ -47,9 +47,9 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.60% | ~1,363 |
 | We come in peace | 0.50% | ~1,136 |
 | Lëgal Legend | 0.50% | ~1,136 |
-| Holistic Adventuring Party | 0.40% | ~908 |
-| An old poacher makes the best gamekeeper | 0.40% | ~908 |
-| Law and Order | 0.40% | ~908 |
+| Holistic Adventuring Party | 0.40% | ~909 |
+| An old poacher makes the best gamekeeper | 0.40% | ~909 |
+| Law and Order | 0.40% | ~909 |
 | Scholar of the Lands of Fangh | 0.30% | ~681 |
 | It's been a hard day's night | 0.30% | ~681 |
 | Friendly fire | 0.20% | ~454 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,123 (Ranked 58)  
+Progressed: 227,127 (Ranked 58)  
 Completed: 4 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 4 (0.00%) (Ranked 296)
 | 2023-09-25 | 226,750 | 3 |
 | 2023-09-26 | 226,941 | 3 |
 | 2023-09-27 | 227,123 | 4 |
+| 2023-09-28 | 227,127 | 4 |
 ## Awards
 Max (Character Customization): 199  (Ranked 277)  
 Sum: 387 (Ranked 327)  

@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.60% | ~821 |
 | Magical Harmony | 0.60% | ~821 |
 | Special Ingredient | 0.60% | ~821 |
+| Complete Monopoly | 0.60% | ~821 |
 | A Notch Above the Rest | 0.50% | ~684 |
 | Cream of the Crop | 0.50% | ~684 |
 | Proud Paladin | 0.50% | ~684 |
@@ -83,7 +84,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.50% | ~684 |
 | King's Shadow | 0.50% | ~684 |
 | Exotic Commodities | 0.50% | ~684 |
-| Complete Monopoly | 0.50% | ~684 |
 | King's Blade | 0.50% | ~684 |
 | Top of the World | 0.40% | ~547 |
 | Constellated | 0.40% | ~547 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,784 (Ranked 69)  
+Progressed: 136,785 (Ranked 69)  
 Completed: 157 (0.11%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 157 (0.11%) (Ranked 231)
 | 2023-09-25 | 136,703 | 155 |
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
+| 2023-09-28 | 136,785 | 157 |
 ## Awards
 Max (Great for Beginners): 4,760  (Ranked 71)  
 Sum: 27,301 (Ranked 49)  

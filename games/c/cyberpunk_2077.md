@@ -11,45 +11,45 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,835 |
 | Master Crafter | 1.00% | ~8,835 |
 | The Jungle | 1.00% | ~8,835 |
-| Mean Streets | 0.90% | ~7,951 |
-| The High Priestess | 0.90% | ~7,951 |
-| Two Heads, One Bullet | 0.90% | ~7,951 |
-| V for Vendetta | 0.90% | ~7,951 |
-| Full Body Conversion | 0.70% | ~6,184 |
-| Right Back At Ya | 0.70% | ~6,184 |
-| Breathtaking | 0.70% | ~6,184 |
-| Stanislavski's Method | 0.70% | ~6,184 |
-| True Soldier | 0.70% | ~6,184 |
+| Mean Streets | 0.90% | ~7,952 |
+| The High Priestess | 0.90% | ~7,952 |
+| Two Heads, One Bullet | 0.90% | ~7,952 |
+| V for Vendetta | 0.90% | ~7,952 |
+| Full Body Conversion | 0.70% | ~6,185 |
+| Right Back At Ya | 0.70% | ~6,185 |
+| Breathtaking | 0.70% | ~6,185 |
+| Stanislavski's Method | 0.70% | ~6,185 |
+| The Hermit | 0.70% | ~6,185 |
+| True Soldier | 0.70% | ~6,185 |
 | Temperance | 0.60% | ~5,301 |
-| The Hermit | 0.60% | ~5,301 |
 | The Wheel of Fortune | 0.60% | ~5,301 |
 | True Warrior | 0.60% | ~5,301 |
 | Legend of The Afterlife | 0.60% | ~5,301 |
-| To Bad Decisions! | 0.50% | ~4,417 |
-| The Fool | 0.50% | ~4,417 |
+| To Bad Decisions! | 0.50% | ~4,418 |
+| The Devil | 0.50% | ~4,418 |
+| The Fool | 0.50% | ~4,418 |
 | The Quick and the Dead | 0.40% | ~3,534 |
-| The Devil | 0.40% | ~3,534 |
 | The Lovers | 0.40% | ~3,534 |
 | The World | 0.40% | ~3,534 |
 | Judy vs Night City | 0.40% | ~3,534 |
 | It's Elementary | 0.40% | ~3,534 |
-| City Lights | 0.30% | ~2,650 |
-| Gun Fu | 0.30% | ~2,650 |
-| Christmas Tree Attack | 0.30% | ~2,650 |
-| Greetings from Pacifica! | 0.30% | ~2,650 |
+| City Lights | 0.30% | ~2,651 |
+| Gun Fu | 0.30% | ~2,651 |
+| Christmas Tree Attack | 0.30% | ~2,651 |
+| Greetings from Pacifica! | 0.30% | ~2,651 |
 | Bushido and Chill | 0.20% | ~1,767 |
 | Autojock | 0.20% | ~1,767 |
 | I Am The Law | 0.20% | ~1,767 |
 | Must Be Rats | 0.20% | ~1,767 |
 | Life of the Road | 0.20% | ~1,767 |
-| To Protect and Serve | 0.10% | ~883 |
-| The Wandering Fool | 0.10% | ~883 |
-| Frequent Flyer | 0.10% | ~883 |
-| Little Tokyo | 0.10% | ~883 |
-| The Wasteland | 0.10% | ~883 |
-| Daemon In The Shell | 0.10% | ~883 |
-| The Star | 0.10% | ~883 |
-| The Sun | 0.10% | ~883 |
+| To Protect and Serve | 0.10% | ~884 |
+| The Wandering Fool | 0.10% | ~884 |
+| Frequent Flyer | 0.10% | ~884 |
+| Little Tokyo | 0.10% | ~884 |
+| The Wasteland | 0.10% | ~884 |
+| Daemon In The Shell | 0.10% | ~884 |
+| The Star | 0.10% | ~884 |
+| The Sun | 0.10% | ~884 |
 | The APB is Not Enough | 0.10% | ~12 |
 | Spin Doctor | 0.10% | ~12 |
 | Relic Ruler | 0.10% | ~12 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,484 (Ranked 15)  
+Progressed: 883,512 (Ranked 15)  
 Completed: 2,443 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 2,443 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
+| 2023-09-28 | 883,512 | 2,443 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
 Sum: 230,844 (Ranked 13)  

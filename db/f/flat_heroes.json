@@ -2,9 +2,9 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -436,6 +436,11 @@
       "Time": "2023-09-27T21:05:09.3684315+00:00",
       "NumProgressed": 386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T00:05:41.5325478+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -463,7 +468,7 @@
       "Name": "Fireball",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "DashDashDash",
@@ -471,7 +476,7 @@
       "Name": "Be water, my friend",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -727,7 +732,7 @@
       "Name": "Dash Crash",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "World2Boss",
@@ -749,9 +754,9 @@
       "ID": "World4Boss",
       "SetID": "d9ekhim",
       "Name": "Hit That Ball",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 139
     },
     {
       "ID": "World5Boss",
@@ -775,7 +780,7 @@
       "Name": "Bomberman",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "World8Boss",
@@ -798,7 +803,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 0
     }
   ],
@@ -806,8 +811,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-27T23:05:09.1812496+00:00",
+  "LastChanged_Achievements": "2023-09-28T00:05:41.5325471+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-27T23:00:50.3957685+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:05:09.1813+00:00"
+  "LastUpdate_Ratings": "2023-09-28T00:01:33.4471669+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:05:41.5325899+00:00"
 }

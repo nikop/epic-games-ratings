@@ -6946,9 +6946,9 @@
       "Count": 3443
     }
   ],
-  "EOS_Progressed": 230228,
+  "EOS_Progressed": 230231,
   "EOS_Completed": 2310,
-  "EOS_NewPlayers": 732,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -24761,6 +24761,11 @@
       "Time": "2023-09-27T23:07:24.9204887+00:00",
       "NumProgressed": 230228,
       "NumCompleted": 2310
+    },
+    {
+      "Time": "2023-09-28T00:08:21.9780717+00:00",
+      "NumProgressed": 230231,
+      "NumCompleted": 2310
     }
   ],
   "TotalAchievements": 524,
@@ -25138,9 +25143,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 460
     },
     {
       "ID": "objective_completed_110",
@@ -28963,21 +28968,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 196502,
+      "Progressed": 196505,
       "Completed": 3527
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230228,
+      "Progressed": 230231,
       "Completed": 2310
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-27T21:57:43.4632896+00:00",
-  "LastChanged_Achievements": "2023-09-27T23:07:24.9204878+00:00",
+  "LastChanged_Achievements": "2023-09-28T00:08:21.9780711+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:22.3012466+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:57:32.3432653+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:07:24.923821+00:00"
+  "LastUpdate_Ratings": "2023-09-27T23:57:31.0383553+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:08:21.9997385+00:00"
 }

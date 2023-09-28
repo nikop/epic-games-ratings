@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24889,
+  "EOS_Progressed": 24890,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18485,6 +18485,11 @@
       "Time": "2023-09-27T23:07:54.7411926+00:00",
       "NumProgressed": 24889,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-09-28T00:08:56.8007763+00:00",
+      "NumProgressed": 24890,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 22,
@@ -18518,9 +18523,9 @@
       "ID": "1018",
       "SetID": "9l3d3cl",
       "Name": "Unbowed, Unbent, Unbroken",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1493
     },
     {
       "ID": "1019",
@@ -18624,7 +18629,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "1032",
@@ -18671,15 +18676,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24889,
+      "Progressed": 24890,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-27T23:07:54.7411919+00:00",
+  "LastChanged_Achievements": "2023-09-28T00:08:56.8007757+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-27T22:59:56.1116172+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:07:54.7413194+00:00"
+  "LastUpdate_Ratings": "2023-09-28T00:00:27.1084794+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:08:56.8009085+00:00"
 }

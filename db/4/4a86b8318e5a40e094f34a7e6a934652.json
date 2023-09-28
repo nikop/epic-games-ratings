@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 148,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -813,9 +813,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
@@ -828,8 +828,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-27T23:05:20.1359926+00:00",
+  "LastChanged_Achievements": "2023-09-28T00:05:54.3388492+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-09-27T23:00:33.2755383+00:00",
-  "LastUpdate_Achievements": "2023-09-27T23:05:20.1360173+00:00"
+  "LastUpdate_Ratings": "2023-09-28T00:01:12.3547931+00:00",
+  "LastUpdate_Achievements": "2023-09-28T00:05:54.3388731+00:00"
 }
