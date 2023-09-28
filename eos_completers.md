@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 86.39% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 86.07% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -36,7 +36,7 @@
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 35 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.51% |
 | 36 | [Sonic Origins](games/s/sonic_origins.md) | 8.05% |
-| 37 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.00% |
+| 37 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.84% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.74% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
@@ -47,11 +47,11 @@
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.25% |
-| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 6.00% |
-| 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 49 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.80% |
-| 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.80% |
+| 48 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
+| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.80% |
+| 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.80% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.72% |
 | 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 54 | [JARS](games/j/jars.md) | 5.19% |
 | 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
@@ -127,8 +127,8 @@
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 126 | [Infindustry](games/i/infindustry.md) | 1.10% |
 | 127 | [Trifox](games/t/trifox.md) | 1.09% |
-| 128 | [Adios](games/a/adios.md) | 1.04% |
-| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
+| 129 | [Adios](games/a/adios.md) | 1.04% |
 | 130 | [Sable](games/s/sable.md) | 1.01% |
 | 131 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
 | 131 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
@@ -151,9 +151,9 @@
 | 149 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 149 | [Haven](games/h/haven.md) | 0.61% |
 | 149 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
-| 152 | [Dead Space](games/d/dead_space.md) | 0.60% |
 | 152 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.60% |
-| 154 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.59% |
+| 153 | [Dead Space](games/d/dead_space.md) | 0.59% |
+| 153 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.59% |
 | 155 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 155 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
 | 157 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
@@ -499,6 +499,7 @@
 | 296 | [One Military Camp](games/o/one_military_camp.md) | 0.00% |
 | 296 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
 | 296 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 0.00% |
+| 296 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 0.00% |
 | 296 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.00% |
 | 296 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
 | 296 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 0.00% |
@@ -600,6 +601,7 @@
 | 296 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 0.00% |
 | 296 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 0.00% |
 | 296 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.00% |
+| 296 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 0.00% |
 | 296 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 0.00% |
 | 296 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 0.00% |
 | 296 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
@@ -640,4 +642,4 @@
 | 296 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 296 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 296 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,311 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,312 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
