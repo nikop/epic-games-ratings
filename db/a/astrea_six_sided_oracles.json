@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -310,9 +310,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 82,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "EndlessTricks",
@@ -718,9 +718,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 73,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -733,8 +733,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:48:40.4661456+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:21:13.556012+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:39:24.0743231+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:48:40.4662369+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:12:59.5801251+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:21:13.5560832+00:00"
 }

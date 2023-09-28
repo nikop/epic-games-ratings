@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~222 |
-| Off to a good start | 65.00% | ~166 |
-| Do... or do not. There is no try | 47.00% | ~120 |
+| New Recruit | 88.00% | ~226 |
+| Off to a good start | 65.00% | ~167 |
+| Do... or do not. There is no try | 48.00% | ~123 |
 | A good blaster at your side | 34.00% | ~87 |
 | Scrap collector | 23.00% | ~59 |
-| Great shot, kid! | 22.00% | ~56 |
-| The power of the Force | 19.00% | ~48 |
+| Great shot, kid! | 21.00% | ~54 |
+| The power of the Force | 19.00% | ~49 |
 | Together we can rule the galaxy | 18.00% | ~46 |
 | I suggest a new strategy | 18.00% | ~46 |
-| Shoot first | 17.00% | ~43 |
+| All right, I'll give it a try | 17.00% | ~44 |
+| Shoot first | 17.00% | ~44 |
 | Collector | 16.00% | ~41 |
-| All right, I'll give it a try | 16.00% | ~41 |
 | Survivor | 14.00% | ~36 |
-| Tell Jabba that I've got his money | 13.00% | ~33 |
+| Tell Jabba that I've got his money | 12.00% | ~31 |
+| Best star-pilot in the galaxy | 12.00% | ~31 |
 | What's the cargo? | 11.00% | ~28 |
 | A tremor in the Force | 11.00% | ~28 |
 | Never tell me the odds! | 11.00% | ~28 |
-| Best star-pilot in the galaxy | 11.00% | ~28 |
 | Judge me by my size, do you? | 11.00% | ~28 |
 | A cunning warrior | 11.00% | ~28 |
 | Impressive. Most impressive. | 10.00% | ~26 |
 | "Gonk? Gonk!" | 9.00% | ~23 |
-| Distinguished | 8.00% | ~20 |
-| Patience you must have | 8.00% | ~20 |
-| Support the troops | 8.00% | ~20 |
+| Distinguished | 8.00% | ~21 |
+| Patience you must have | 8.00% | ~21 |
+| Support the troops | 8.00% | ~21 |
 | Determined | 7.00% | ~18 |
 | On the ball | 7.00% | ~18 |
 | Not bad for a little furball | 7.00% | ~18 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~1 |
 | Crush them with one swift stroke… | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255 (Ranked 319)  
+Progressed: 257 (Ranked 318)  
 Completed: 1 (0.39%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.39%) (Ranked 175)
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
 | 2023-09-27 | 253 | 1 |
-| 2023-09-28 | 255 | 1 |
+| 2023-09-28 | 257 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

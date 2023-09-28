@@ -16,7 +16,7 @@ Rating: 4.48 (Ranked 608)
 | Walked like an Egyptian | 15.00% | ~171 |
 | Ride in the rising sun | 15.00% | ~171 |
 | Running at the speed of sound | 13.00% | ~148 |
-| Rookie No-No More | 12.00% | ~136 |
+| Rookie No-No More | 12.00% | ~137 |
 | Martian explorer | 11.00% | ~125 |
 | To the core | 8.00% | ~91 |
 | Blurred photofinish | 8.00% | ~91 |
@@ -27,11 +27,11 @@ Rating: 4.48 (Ranked 608)
 | EZ game EZ life | 6.00% | ~68 |
 | Longshot | 6.00% | ~68 |
 | B-asic! | 5.00% | ~57 |
-| Under the neon lights | 4.00% | ~45 |
-| All Power to Engines! | 4.00% | ~45 |
-| Almost broke the game | 4.00% | ~45 |
-| Better luck next time | 4.00% | ~45 |
-| Dev, this! | 4.00% | ~45 |
+| Under the neon lights | 4.00% | ~46 |
+| All Power to Engines! | 4.00% | ~46 |
+| Almost broke the game | 4.00% | ~46 |
+| Better luck next time | 4.00% | ~46 |
+| Dev, this! | 4.00% | ~46 |
 | Try them all | 3.00% | ~34 |
 | A-mazing! | 3.00% | ~34 |
 | To infinity and gravity! | 3.00% | ~34 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 608)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,137 (Ranked 223)  
+Progressed: 1,138 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 1,131 | 0 |
 | 2023-09-26 | 1,133 | 0 |
 | 2023-09-27 | 1,135 | 0 |
-| 2023-09-28 | 1,137 | 0 |
+| 2023-09-28 | 1,138 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

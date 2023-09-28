@@ -2,7 +2,7 @@
   "ID": "5c59642227a2412fb38f324d1772914e",
   "Name": "Train Valley 2",
   "ProductSlug": "train-valley-2-3606da",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 659,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 42,
@@ -2198,9 +2198,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 399194,
+  "EOS_Progressed": 399195,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2944,
+  "EOS_NewPlayers": 2942,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11568,6 +11568,11 @@
       "Time": "2023-09-28T01:49:43.8375395+00:00",
       "NumProgressed": 399194,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-28T02:21:59.0009954+00:00",
+      "NumProgressed": 399195,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 89,
@@ -11651,7 +11656,7 @@
       "Name": "Beginner",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 39919
+      "UsersEstimate": 39920
     },
     {
       "ID": "AchievementBridgeBuilder",
@@ -11691,7 +11696,7 @@
       "Name": "Common cause",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 99798
+      "UsersEstimate": 99799
     },
     {
       "ID": "AchievementCriticalCare",
@@ -11699,7 +11704,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 103790
+      "UsersEstimate": 103791
     },
     {
       "ID": "AchievementDealmaker",
@@ -11763,7 +11768,7 @@
       "Name": "Full garage",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 239516
+      "UsersEstimate": 239517
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -11779,7 +11784,7 @@
       "Name": "Get out my way",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 111774
+      "UsersEstimate": 111775
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -11803,7 +11808,7 @@
       "Name": "Individual delivery",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 183629
+      "UsersEstimate": 183630
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -11955,7 +11960,7 @@
       "Name": "Non-Stop",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 175645
+      "UsersEstimate": 175646
     },
     {
       "ID": "AchievementOneWay",
@@ -11963,7 +11968,7 @@
       "Name": "One way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 39919
+      "UsersEstimate": 39920
     },
     {
       "ID": "AchievementOuroboros",
@@ -12011,7 +12016,7 @@
       "Name": "Relocation",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 39919
+      "UsersEstimate": 39920
     },
     {
       "ID": "AchievementSabotage",
@@ -12290,21 +12295,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 398535,
+      "Progressed": 398536,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 399194,
+      "Progressed": 399195,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-09-27T22:01:40.2140647+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:49:43.8375389+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:21:59.0009952+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:13.6492117+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:43:28.8372884+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:49:43.8377446+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:15:41.6207503+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:21:59.001173+00:00"
 }

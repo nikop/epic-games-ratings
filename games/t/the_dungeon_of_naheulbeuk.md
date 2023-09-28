@@ -20,12 +20,12 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 2.00% | ~4,543 |
 | The demons' feast | 2.00% | ~4,543 |
 | The Great Library | 2.00% | ~4,543 |
+| Torture and Sensibility | 2.00% | ~4,543 |
 | The Woman in the High Castle | 2.00% | ~4,543 |
 | Team Building Exercise | 2.00% | ~4,543 |
 | Oh, when I'll be level 10... | 2.00% | ~4,543 |
 | Fireproof Wizardess | 2.00% | ~4,543 |
 | Shiny and Crôm | 1.00% | ~2,271 |
-| Torture and Sensibility | 1.00% | ~2,271 |
 | Urik's Depths | 1.00% | ~2,271 |
 | The Dungeon Master | 1.00% | ~2,271 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,271 |

@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
@@ -1663,7 +1663,7 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 204687,
+  "EOS_Progressed": 204689,
   "EOS_Completed": 86,
   "EOS_NewPlayers": 1322,
   "EOS_NewCompleters": 3,
@@ -19798,6 +19798,11 @@
       "Time": "2023-09-28T01:51:24.2366654+00:00",
       "NumProgressed": 204687,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-09-28T02:24:40.2396051+00:00",
+      "NumProgressed": 204689,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 44,
@@ -19873,7 +19878,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8187
+      "UsersEstimate": 8188
     },
     {
       "ID": "Genin",
@@ -19889,7 +19894,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8187
+      "UsersEstimate": 8188
     },
     {
       "ID": "HappyPlanning",
@@ -19905,7 +19910,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "IceIceYuki",
@@ -20041,7 +20046,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8187
+      "UsersEstimate": 8188
     },
     {
       "ID": "Stoned",
@@ -20073,7 +20078,7 @@
       "Name": "The Cave",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "TheEnd",
@@ -20160,15 +20165,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 204687,
+      "Progressed": 204689,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-25T12:02:15.6586558+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:51:24.2366648+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:24:40.2396048+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.2179331+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:39:37.4982138+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:51:24.2368598+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:13:08.7734985+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:24:40.2398016+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,849 |
-| keep it tidy | 77.00% | ~7,899 |
-| podium | 72.00% | ~7,386 |
-| medium attack | 60.00% | ~6,155 |
+| light attack | 96.00% | ~9,850 |
+| keep it tidy | 77.00% | ~7,900 |
+| podium | 72.00% | ~7,387 |
+| medium attack | 60.00% | ~6,156 |
 | brail | 57.00% | ~5,848 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,309 |
 | grocery-getter | 40.00% | ~4,104 |
-| rwd only | 26.00% | ~2,667 |
-| food tour: pasta | 26.00% | ~2,667 |
-| to finish first, first you must finish | 21.00% | ~2,154 |
-| autopilot | 21.00% | ~2,154 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,154 |
+| rwd only | 26.00% | ~2,668 |
+| food tour: pasta | 26.00% | ~2,668 |
+| to finish first, first you must finish | 21.00% | ~2,155 |
+| autopilot | 21.00% | ~2,155 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,155 |
 | turbo | 20.00% | ~2,052 |
 | food tour: pretzel | 19.00% | ~1,949 |
 | bicycle race | 15.00% | ~1,539 |
@@ -28,7 +28,7 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 13.00% | ~1,334 |
 | snorkel | 13.00% | ~1,334 |
 | where is the stage? | 12.00% | ~1,231 |
-| maximum attack | 11.00% | ~1,128 |
+| maximum attack | 11.00% | ~1,129 |
 | espresso | 10.00% | ~1,026 |
 | parallel universe | 10.00% | ~1,026 |
 | mittens | 8.00% | ~821 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,259 (Ranked 139)  
+Progressed: 10,260 (Ranked 139)  
 Completed: 9 (0.09%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 9 (0.09%) (Ranked 239)
 | 2023-09-25 | 10,256 | 9 |
 | 2023-09-26 | 10,258 | 9 |
 | 2023-09-27 | 10,259 | 9 |
+| 2023-09-28 | 10,260 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

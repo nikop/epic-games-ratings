@@ -5,26 +5,26 @@ Rating: 4.55 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 35.00% | ~4,570 |
-| Captain Drummer | 30.00% | ~3,917 |
-| Stogie for Fogey | 29.00% | ~3,787 |
-| Martian Music | 28.00% | ~3,656 |
-| Celebrations are in Order | 28.00% | ~3,656 |
-| Spore Taste | 26.00% | ~3,395 |
-| The Pit and the Pirates | 25.00% | ~3,264 |
-| Drone Dodger | 24.00% | ~3,134 |
-| Doctor Approved | 19.00% | ~2,481 |
-| Bosmang | 18.00% | ~2,350 |
-| Thorston Mayer | 16.00% | ~2,089 |
+| Impossible Objects | 35.00% | ~4,571 |
+| Captain Drummer | 30.00% | ~3,918 |
+| Stogie for Fogey | 29.00% | ~3,788 |
+| Martian Music | 28.00% | ~3,657 |
+| Celebrations are in Order | 28.00% | ~3,657 |
+| Spore Taste | 26.00% | ~3,396 |
+| The Pit and the Pirates | 25.00% | ~3,265 |
+| Drone Dodger | 24.00% | ~3,135 |
+| Doctor Approved | 19.00% | ~2,482 |
+| Bosmang | 18.00% | ~2,351 |
+| Thorston Mayer | 16.00% | ~2,090 |
 | Bottoms up! | 13.00% | ~1,698 |
 | Call it Even | 13.00% | ~1,698 |
 | Data Archivist | 12.00% | ~1,567 |
-| Heal Thy Medic | 11.00% | ~1,436 |
+| Heal Thy Medic | 11.00% | ~1,437 |
 | Khan's Revenge | 10.00% | ~1,306 |
 | Data Logger | 8.00% | ~1,045 |
 | Miraculous Maya | 7.00% | ~914 |
 | Data Master | 7.00% | ~914 |
-| Data Recoverer | 6.00% | ~783 |
+| Data Recoverer | 6.00% | ~784 |
 | No Belter Left Behind | 4.00% | ~522 |
 | Debris Spree | 4.00% | ~522 |
 | Urshanabi Hoarder | 3.00% | ~392 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 491)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,058 (Ranked 133)  
+Progressed: 13,061 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
 | 2023-09-27 | 13,049 | 0 |
-| 2023-09-28 | 13,058 | 0 |
+| 2023-09-28 | 13,061 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16592,
+  "EOS_Progressed": 16598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15843,
+  "EOS_NewPlayers": 15849,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -727,6 +727,11 @@
       "Time": "2023-09-28T01:48:48.1694157+00:00",
       "NumProgressed": 16592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T02:21:19.1217744+00:00",
+      "NumProgressed": 16598,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -763,7 +768,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 7632
+      "UsersEstimate": 7635
     },
     {
       "ID": "achievement_13",
@@ -771,7 +776,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6969
+      "UsersEstimate": 6971
     },
     {
       "ID": "achievement_14",
@@ -779,7 +784,7 @@
       "Name": "The Alchemist",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7135
+      "UsersEstimate": 7137
     },
     {
       "ID": "achievement_15",
@@ -787,7 +792,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7469
     },
     {
       "ID": "achievement_16",
@@ -795,7 +800,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "achievement_17",
@@ -803,7 +808,7 @@
       "Name": "One Moment Please!",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 9457
+      "UsersEstimate": 9461
     },
     {
       "ID": "achievement_18",
@@ -843,7 +848,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 15099
+      "UsersEstimate": 15104
     },
     {
       "ID": "achievement_22",
@@ -851,7 +856,7 @@
       "Name": "Level Up!",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8296
+      "UsersEstimate": 8299
     },
     {
       "ID": "achievement_23",
@@ -859,7 +864,7 @@
       "Name": "Graduation Day",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 6969
+      "UsersEstimate": 6971
     },
     {
       "ID": "achievement_24",
@@ -899,7 +904,7 @@
       "Name": "First of Many",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "achievement_29",
@@ -1027,7 +1032,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 6471
+      "UsersEstimate": 6473
     },
     {
       "ID": "achievement_7",
@@ -1035,7 +1040,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3652
     },
     {
       "ID": "achievement_8",
@@ -1043,7 +1048,7 @@
       "Name": "Power Shot",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 10951
+      "UsersEstimate": 10955
     },
     {
       "ID": "achievement_9",
@@ -1051,20 +1056,20 @@
       "Name": "Bring it on",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3486
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 16592,
+      "Progressed": 16598,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:48:48.1694148+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:21:19.121774+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8173027+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:43:05.2522015+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:48:48.1694516+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:15:25.9135081+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:21:19.12181+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "darksiders",
   "Ranking_Rating": 402,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 440,
+  "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
@@ -751,6 +751,6 @@
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
   "LastChanged": "2023-09-24T20:00:31.8241865+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:33.2595584+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:44:17.0883463+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:48:55.0786795+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:18:12.8810777+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:21:23.9988103+00:00"
 }

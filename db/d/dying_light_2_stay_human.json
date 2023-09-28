@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -9985,9 +9985,9 @@
       "Count": 716
     }
   ],
-  "EOS_Progressed": 629350,
+  "EOS_Progressed": 629351,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 2805,
+  "EOS_NewPlayers": 2798,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28095,6 +28095,11 @@
       "Time": "2023-09-28T01:50:26.4395742+00:00",
       "NumProgressed": 629350,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-09-28T02:22:29.3725593+00:00",
+      "NumProgressed": 629351,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 65,
@@ -28106,7 +28111,7 @@
       "Name": "Into the Unknown",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 220272
+      "UsersEstimate": 220273
     },
     {
       "ID": "achievement_02",
@@ -28114,7 +28119,7 @@
       "Name": "First Shot",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 220272
+      "UsersEstimate": 220273
     },
     {
       "ID": "achievement_03",
@@ -28154,7 +28159,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 144750
+      "UsersEstimate": 144751
     },
     {
       "ID": "achievement_08",
@@ -28162,7 +28167,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 94402
+      "UsersEstimate": 94403
     },
     {
       "ID": "achievement_09",
@@ -28194,7 +28199,7 @@
       "Name": "Going Down",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 94402
+      "UsersEstimate": 94403
     },
     {
       "ID": "achievement_13",
@@ -28202,7 +28207,7 @@
       "Name": "Family First",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 94402
+      "UsersEstimate": 94403
     },
     {
       "ID": "achievement_14",
@@ -28242,7 +28247,7 @@
       "Name": "Sancho Panza",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 195098
+      "UsersEstimate": 195099
     },
     {
       "ID": "achievement_19",
@@ -28298,7 +28303,7 @@
       "Name": "Flag Burning",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 169924
+      "UsersEstimate": 169925
     },
     {
       "ID": "achievement_26",
@@ -28386,7 +28391,7 @@
       "Name": "After the Fall",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 119576
+      "UsersEstimate": 119577
     },
     {
       "ID": "achievement_37",
@@ -28426,7 +28431,7 @@
       "Name": "Tanning Salon",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18880
+      "UsersEstimate": 18881
     },
     {
       "ID": "achievement_42",
@@ -28458,7 +28463,7 @@
       "Name": "That\u0027s Teamwork!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18880
+      "UsersEstimate": 18881
     },
     {
       "ID": "achievement_46",
@@ -28490,7 +28495,7 @@
       "Name": "Ironheart",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 18880
+      "UsersEstimate": 18881
     },
     {
       "ID": "achievement_50",
@@ -28498,7 +28503,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18880
+      "UsersEstimate": 18881
     },
     {
       "ID": "achievement_51",
@@ -28625,21 +28630,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 629350,
+      "Progressed": 629351,
       "Completed": 63
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 274794,
+      "Progressed": 274795,
       "Completed": 1430
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-09-28T01:41:52.2240811+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:50:26.4395736+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:22:29.372559+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:49.5234383+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:41:52.224082+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:50:26.4397988+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:14:38.0751733+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:22:29.3727195+00:00"
 }

@@ -12519,10 +12519,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 231720,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-28T02:13:10.9005689+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 231967,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 231720,
+  "NumberOfAwards": 231967,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12548,7 +12554,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 10288
+      "Count": 10535
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12599,9 +12605,9 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883554,
+  "EOS_Progressed": 883564,
   "EOS_Completed": 2445,
-  "EOS_NewPlayers": 6084,
+  "EOS_NewPlayers": 6085,
   "EOS_NewCompleters": 321,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30629,6 +30635,11 @@
       "Time": "2023-09-28T01:48:48.7708092+00:00",
       "NumProgressed": 883554,
       "NumCompleted": 2445
+    },
+    {
+      "Time": "2023-09-28T02:21:19.6774312+00:00",
+      "NumProgressed": 883564,
+      "NumCompleted": 2445
     }
   ],
   "TotalAchievements": 57,
@@ -30670,9 +30681,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6185
+      "UsersEstimate": 7069
     },
     {
       "ID": "FollowingTheRiver",
@@ -30934,9 +30945,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6185
+      "UsersEstimate": 7069
     },
     {
       "ID": "TrueWarrior",
@@ -31095,21 +31106,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883554,
+      "Progressed": 883564,
       "Completed": 2445
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12177,
+      "Progressed": 12187,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-28T01:39:40.6883213+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:48:48.7708087+00:00",
+  "LastChanged": "2023-09-28T02:13:10.9005688+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:21:19.677431+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:39:40.6883219+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:48:48.7709673+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:13:10.9005694+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:21:19.6776228+00:00"
 }

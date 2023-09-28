@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209580,
+  "EOS_Progressed": 209581,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18428,6 +18428,11 @@
       "Time": "2023-09-28T01:50:49.5577589+00:00",
       "NumProgressed": 209580,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-28T02:24:15.4500208+00:00",
+      "NumProgressed": 209581,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -18487,7 +18492,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 115269
+      "UsersEstimate": 115270
     },
     {
       "ID": "Checkmate",
@@ -18511,7 +18516,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 146706
+      "UsersEstimate": 146707
     },
     {
       "ID": "DoubleCheck",
@@ -18615,7 +18620,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 27245
+      "UsersEstimate": 27246
     },
     {
       "ID": "Octopus",
@@ -18623,7 +18628,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 27245
+      "UsersEstimate": 27246
     },
     {
       "ID": "PieceCollector",
@@ -18687,7 +18692,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 37724
+      "UsersEstimate": 37725
     },
     {
       "ID": "StrangerDanger",
@@ -18742,7 +18747,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 209580,
+      "Progressed": 209581,
       "Completed": 2
     }
   ],
@@ -18750,8 +18755,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:50:49.5577583+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:24:15.4500205+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:04.336913+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:39:26.9090287+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:50:49.5579175+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:13:01.5588578+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:24:15.4501537+00:00"
 }

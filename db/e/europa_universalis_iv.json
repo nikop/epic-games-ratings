@@ -10032,9 +10032,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 416052,
+  "EOS_Progressed": 416063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6605,
+  "EOS_NewPlayers": 6608,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28167,6 +28167,11 @@
       "Time": "2023-09-28T01:50:15.1792977+00:00",
       "NumProgressed": 416052,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T02:22:21.582699+00:00",
+      "NumProgressed": 416063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -28570,7 +28575,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -29386,7 +29391,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -30114,7 +30119,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -30786,7 +30791,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "achievement_trustworthy",
@@ -30842,7 +30847,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16642
+      "UsersEstimate": 16643
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -31009,21 +31014,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 416052,
+      "Progressed": 416063,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 416052,
+      "Progressed": 416063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-27T22:02:01.523423+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:50:15.1792972+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:22:21.5826985+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:43:50.3160427+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:50:15.1809304+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:15:55.6145086+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:22:21.5836952+00:00"
 }

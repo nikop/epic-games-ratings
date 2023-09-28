@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10259,
+  "EOS_Progressed": 10260,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-09-27T11:04:31.6394525+00:00",
       "NumProgressed": 10259,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-28T02:19:54.3925+00:00",
+      "NumProgressed": 10260,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1600,7 +1605,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1616,7 +1621,7 @@
       "Name": "autopilot",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1704,7 +1709,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1752,7 +1757,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7899
+      "UsersEstimate": 7900
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1816,7 +1821,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9849
+      "UsersEstimate": 9850
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1824,7 +1829,7 @@
       "Name": "maximum attack",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_MAX_SPEED_MEDIUM",
@@ -1832,7 +1837,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "ACH_NIGHT",
@@ -1864,7 +1869,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1912,7 +1917,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1928,22 +1933,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7386
+      "UsersEstimate": 7387
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10259,
+      "Progressed": 10260,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:46:50.4537961+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:19:54.3924996+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.7566421+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:39:32.1309998+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:46:50.4538585+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:13:05.2370876+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:19:54.392569+00:00"
 }

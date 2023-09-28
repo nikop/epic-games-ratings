@@ -17,7 +17,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 3,
@@ -702,6 +702,11 @@
       "Time": "2023-09-28T00:09:38.0045195+00:00",
       "NumProgressed": 271,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-28T02:24:39.5890514+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -714,7 +719,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_10",
@@ -736,9 +741,9 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_13",
@@ -746,7 +751,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_14",
@@ -754,7 +759,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_15",
@@ -770,7 +775,7 @@
       "Name": "Star Power",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_17",
@@ -778,7 +783,7 @@
       "Name": "Clean Sheet",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_18",
@@ -810,7 +815,7 @@
       "Name": "From Many, One",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_5",
@@ -834,7 +839,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_8",
@@ -857,13 +862,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:51:23.3988681+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:24:39.5890512+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:41:58.4630943+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:51:23.3988892+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:14:42.0852872+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:24:39.5890667+00:00"
 }

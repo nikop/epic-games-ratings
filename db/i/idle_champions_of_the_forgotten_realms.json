@@ -6946,7 +6946,7 @@
       "Count": 3443
     }
   ],
-  "EOS_Progressed": 230236,
+  "EOS_Progressed": 230237,
   "EOS_Completed": 2310,
   "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 15,
@@ -24771,6 +24771,11 @@
       "Time": "2023-09-28T01:50:08.9473688+00:00",
       "NumProgressed": 230236,
       "NumCompleted": 2310
+    },
+    {
+      "Time": "2023-09-28T02:22:17.2865298+00:00",
+      "NumProgressed": 230237,
+      "NumCompleted": 2310
     }
   ],
   "TotalAchievements": 524,
@@ -28956,9 +28961,9 @@
       "ID": "objective_completed_1410",
       "SetID": "415jc5c",
       "Name": "The Arena of Blood",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 590
     },
     {
       "ID": "objective_completed_1411",
@@ -28973,21 +28978,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 196510,
+      "Progressed": 196511,
       "Completed": 3527
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230236,
+      "Progressed": 230237,
       "Completed": 2310
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-27T21:57:43.4632896+00:00",
-  "LastChanged_Achievements": "2023-09-28T01:50:08.9473683+00:00",
+  "LastChanged_Achievements": "2023-09-28T02:22:17.2865293+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:22.3012466+00:00",
-  "LastUpdate_Ratings": "2023-09-28T01:39:35.7982187+00:00",
-  "LastUpdate_Achievements": "2023-09-28T01:50:08.9507981+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:13:07.6883068+00:00",
+  "LastUpdate_Achievements": "2023-09-28T02:22:17.2891447+00:00"
 }
