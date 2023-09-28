@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,919 |
-| Cavalier | 25.00% | ~200,718 |
+| Blacksmith's Son | 32.00% | ~256,920 |
+| Cavalier | 25.00% | ~200,719 |
 | Fatso | 23.00% | ~184,661 |
-| Awakening | 21.00% | ~168,603 |
-| Ranger | 20.00% | ~160,574 |
-| Scrooge | 20.00% | ~160,574 |
+| Awakening | 21.00% | ~168,604 |
+| Ranger | 20.00% | ~160,575 |
+| Scrooge | 20.00% | ~160,575 |
 | Anorectic | 16.00% | ~128,460 |
 | Bookworm | 15.00% | ~120,431 |
 | Firestarter | 15.00% | ~120,431 |
-| Insomniac | 13.00% | ~104,373 |
+| Insomniac | 13.00% | ~104,374 |
 | Buddy | 12.00% | ~96,345 |
 | Thief | 12.00% | ~96,345 |
 | Sinner | 11.00% | ~88,316 |
 | Traveller | 11.00% | ~88,316 |
-| Convict | 10.00% | ~80,287 |
-| Haggler | 9.00% | ~72,258 |
+| Convict | 10.00% | ~80,288 |
+| Haggler | 9.00% | ~72,259 |
 | McLovin | 7.00% | ~56,201 |
 | Runt | 7.00% | ~56,201 |
 | Casanova | 6.00% | ~48,172 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~24,086 |
 | Ginger in a Pickle | 3.00% | ~24,086 |
 | Kingdom did not come | 3.00% | ~24,086 |
-| Completionist | 2.00% | ~16,057 |
-| Death by splinter | 2.00% | ~16,057 |
-| King Charming | 2.00% | ~16,057 |
-| Knightrider | 2.00% | ~16,057 |
-| Level Cap | 2.00% | ~16,057 |
-| Arena Master | 2.00% | ~16,057 |
-| Robber Baron | 2.00% | ~16,057 |
-| Talmberger | 2.00% | ~16,057 |
-| The End | 2.00% | ~16,057 |
+| Completionist | 2.00% | ~16,058 |
+| Death by splinter | 2.00% | ~16,058 |
+| King Charming | 2.00% | ~16,058 |
+| Knightrider | 2.00% | ~16,058 |
+| Level Cap | 2.00% | ~16,058 |
+| Arena Master | 2.00% | ~16,058 |
+| Robber Baron | 2.00% | ~16,058 |
+| Talmberger | 2.00% | ~16,058 |
+| The End | 2.00% | ~16,058 |
 | Woman's Lot | 1.00% | ~8,029 |
 | Chivalrous Soul | 1.00% | ~8,029 |
 | Spoilsport | 1.00% | ~8,029 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,872 (Ranked 17)  
+Progressed: 802,875 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,10 +250,10 @@ Completed: 49 (0.01%) (Ranked 280)
 | 2023-09-25 | 802,669 | 49 |
 | 2023-09-26 | 802,771 | 49 |
 | 2023-09-27 | 802,854 | 49 |
-| 2023-09-28 | 802,872 | 49 |
+| 2023-09-28 | 802,875 | 49 |
 ## Awards
 Max (Character Customization): 7,477  (Ranked 48)  
-Sum: 27,867 (Ranked 48)  
+Sum: 27,869 (Ranked 48)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -265,7 +265,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 1,671 |
 | This game is Highly Recommended | 1,669 |
 | This game has Amazing Characters | 1,646 |
-| This game has Realistic Visuals | 1,642 |
+| This game has Realistic Visuals | 1,644 |
 | This game is Educational | 1,591 |
 | This game is Relaxing | 1,520 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -517,3 +517,4 @@ Diff (max vs sum): 0
 | 2023-09-25 | 4.71 | - | 7,472 | 27,851 |
 | 2023-09-26 | 4.71 | - | 7,477 | 27,865 |
 | 2023-09-27 | 4.71 | - | 7,477 | 27,867 |
+| 2023-09-28 | 4.71 | - | 7,477 | 27,869 |

@@ -2,9 +2,9 @@
   "ID": "9fce794446ac40aea4c4e3c4cf07c162",
   "Name": "Ugly",
   "ProductSlug": "ugly-da09b2",
-  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2023-09-22T22:05:53.8438567+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T07:09:56.6880419+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -115,7 +120,7 @@
       "ID": "DEL_II",
       "SetID": "35d3i7a",
       "Name": "Are you beautiful?",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -219,7 +224,7 @@
       "ID": "MEM_III",
       "SetID": "35d3i7a",
       "Name": "Sweet nightmares, little caterpillar.",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -243,7 +248,7 @@
       "ID": "MEM_V",
       "SetID": "35d3i7a",
       "Name": "Put on the mask!",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -307,7 +312,7 @@
       "ID": "MEM_XIV",
       "SetID": "35d3i7a",
       "Name": "You could be BEAUTIFUL.",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -323,7 +328,7 @@
       "ID": "MEM_XV",
       "SetID": "35d3i7a",
       "Name": "I will make you a REAL prince.",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -331,7 +336,7 @@
       "ID": "MEM_XVI",
       "SetID": "35d3i7a",
       "Name": "Now you are ready.",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -476,13 +481,13 @@
     {
       "ID": "35d3i7a",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:08:05.430201+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:09:56.6880409+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.2620834+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:02:18.235464+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:08:05.4302381+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:04:06.5002277+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:09:56.6880905+00:00"
 }

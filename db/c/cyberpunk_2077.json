@@ -12611,10 +12611,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883666,
-  "EOS_Completed": 2447,
-  "EOS_NewPlayers": 6141,
-  "EOS_NewCompleters": 323,
+  "EOS_Progressed": 883697,
+  "EOS_Completed": 2448,
+  "EOS_NewPlayers": 6161,
+  "EOS_NewCompleters": 324,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30666,6 +30666,11 @@
       "Time": "2023-09-28T06:06:09.349351+00:00",
       "NumProgressed": 883666,
       "NumCompleted": 2447
+    },
+    {
+      "Time": "2023-09-28T07:08:15.3413768+00:00",
+      "NumProgressed": 883697,
+      "NumCompleted": 2448
     }
   ],
   "TotalAchievements": 57,
@@ -30701,7 +30706,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "Denied",
@@ -30709,7 +30714,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "FollowingTheRiver",
@@ -30821,7 +30826,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "NoMansLand",
@@ -30861,7 +30866,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17674
     },
     {
       "ID": "Temperance",
@@ -30877,7 +30882,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17674
     },
     {
       "ID": "TheDevil",
@@ -30973,7 +30978,7 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "TrueWarrior",
@@ -31011,9 +31016,9 @@
       "ID": "YipMan",
       "SetID": "47clieb",
       "Name": "It\u0027s Elementary",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3535
+      "UsersEstimate": 4418
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31132,21 +31137,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883666,
-      "Completed": 2447
+      "Progressed": 883697,
+      "Completed": 2448
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12289,
+      "Progressed": 12320,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T02:57:28.3247541+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:06:09.3493506+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:08:15.341376+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:57:41.3595798+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:06:09.349488+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:59:01.5006419+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:08:15.3415877+00:00"
 }

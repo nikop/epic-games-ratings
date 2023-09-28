@@ -3708,9 +3708,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 72886,
+  "EOS_Progressed": 72890,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1046,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21703,6 +21703,11 @@
       "Time": "2023-09-28T06:04:17.9770121+00:00",
       "NumProgressed": 72886,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-28T07:06:02.7659704+00:00",
+      "NumProgressed": 72890,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 53,
@@ -21730,7 +21735,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13119
+      "UsersEstimate": 13120
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -21746,7 +21751,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8017
+      "UsersEstimate": 8018
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -21810,7 +21815,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22595
+      "UsersEstimate": 22596
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -21818,7 +21823,7 @@
       "Name": "Wet Work",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22595
+      "UsersEstimate": 22596
     },
     {
       "ID": "complete_mission_1",
@@ -21826,7 +21831,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 33528
+      "UsersEstimate": 33529
     },
     {
       "ID": "customize_a_vehicle",
@@ -21834,7 +21839,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24052
+      "UsersEstimate": 24054
     },
     {
       "ID": "customize_a_weapon",
@@ -21842,7 +21847,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26239
+      "UsersEstimate": 26240
     },
     {
       "ID": "cutting_edge_materials",
@@ -21898,7 +21903,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 13848
+      "UsersEstimate": 13849
     },
     {
       "ID": "empire_tier_4",
@@ -21906,7 +21911,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8747
     },
     {
       "ID": "empire_tier_5",
@@ -21922,7 +21927,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23324
+      "UsersEstimate": 23325
     },
     {
       "ID": "fully_complete_a_building",
@@ -21930,7 +21935,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16764
+      "UsersEstimate": 16765
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -21946,7 +21951,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10204
+      "UsersEstimate": 10205
     },
     {
       "ID": "get_betrayed",
@@ -21962,7 +21967,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26239
+      "UsersEstimate": 26240
     },
     {
       "ID": "hit_max_level",
@@ -21986,7 +21991,7 @@
       "Name": "Picking Fights",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 13848
+      "UsersEstimate": 13849
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -21994,7 +21999,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19679
+      "UsersEstimate": 19680
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -22010,7 +22015,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 24781
+      "UsersEstimate": 24783
     },
     {
       "ID": "one_third_purple",
@@ -22018,7 +22023,7 @@
       "Name": "Neighborly",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "own_100_pieces_of_clothing",
@@ -22034,7 +22039,7 @@
       "Name": "Prankster",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "purchase_2_emotes",
@@ -22058,7 +22063,7 @@
       "Name": "Tourist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "staggered_by_vending_machine",
@@ -22066,7 +22071,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19679
+      "UsersEstimate": 19680
     },
     {
       "ID": "two_thirds_purple",
@@ -22098,7 +22103,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 30612
+      "UsersEstimate": 30614
     },
     {
       "ID": "whole_map_purple",
@@ -22122,7 +22127,7 @@
       "Name": "Face Off",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -22137,13 +22142,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 72886,
+      "Progressed": 72890,
       "Completed": 49
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 44523,
+      "Progressed": 44527,
       "Completed": 3955
     }
   ],
@@ -22151,8 +22156,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-27T18:59:22.3361896+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:04:17.9770117+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:06:02.7659695+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.9460051+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:59:33.3620122+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:04:17.977104+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:01:21.4275304+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:06:02.766209+00:00"
 }

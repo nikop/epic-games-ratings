@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1822,9 +1822,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 266687,
+  "EOS_Progressed": 266692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2043,
+  "EOS_NewPlayers": 2046,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19972,6 +19972,11 @@
       "Time": "2023-09-28T06:04:49.6434311+00:00",
       "NumProgressed": 266687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T07:06:40.2211551+00:00",
+      "NumProgressed": 266692,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -20071,7 +20076,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10667
+      "UsersEstimate": 10668
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -20207,7 +20212,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 218683
+      "UsersEstimate": 218687
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20215,22 +20220,22 @@
       "Name": "I know the Rules",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 96007
+      "UsersEstimate": 96009
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 266687,
+      "Progressed": 266692,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-09-24T01:47:23.5017691+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:04:49.6434307+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:06:40.2211541+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:35.6488874+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:57:20.250402+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:04:49.6435321+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:58:35.9082537+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:06:40.2213223+00:00"
 }

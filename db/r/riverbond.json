@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528168,
+  "EOS_Progressed": 528169,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -17654,6 +17654,11 @@
       "Time": "2023-09-28T05:06:41.9664428+00:00",
       "NumProgressed": 528168,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-28T07:07:41.648073+00:00",
+      "NumProgressed": 528169,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 57,
@@ -17705,7 +17710,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58098
+      "UsersEstimate": 58099
     },
     {
       "ID": "15",
@@ -17745,7 +17750,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327464
+      "UsersEstimate": 327465
     },
     {
       "ID": "2",
@@ -17761,7 +17766,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126760
+      "UsersEstimate": 126761
     },
     {
       "ID": "21",
@@ -17769,7 +17774,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58098
+      "UsersEstimate": 58099
     },
     {
       "ID": "22",
@@ -17969,7 +17974,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42253
+      "UsersEstimate": 42254
     },
     {
       "ID": "45",
@@ -17993,7 +17998,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327464
+      "UsersEstimate": 327465
     },
     {
       "ID": "48",
@@ -18041,7 +18046,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242957
+      "UsersEstimate": 242958
     },
     {
       "ID": "53",
@@ -18120,15 +18125,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528168,
+      "Progressed": 528169,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:05:41.0758379+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:07:41.6480721+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:31.7826677+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:02:07.5753407+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:05:41.0759567+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:03:23.6060639+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:07:41.6482575+00:00"
 }

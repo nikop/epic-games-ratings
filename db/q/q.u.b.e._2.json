@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1978,6 +1978,11 @@
       "Time": "2023-09-28T01:48:43.6695813+00:00",
       "NumProgressed": 470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T07:08:09.9113054+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2006,7 +2011,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2124,9 +2129,9 @@
       "ID": "ACH_EXSITE",
       "SetID": "232494e",
       "Name": "Infinity Loop",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_HUB1",
@@ -2182,7 +2187,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_S4",
@@ -2190,7 +2195,7 @@
       "Name": "Power Glove",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_S5",
@@ -2198,7 +2203,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2206,7 +2211,7 @@
       "Name": "Lost in Space",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_STATUE",
@@ -2221,15 +2226,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:06:04.8604976+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:08:09.9113043+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:01:06.9144348+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:06:04.8605231+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:03:12.4788691+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:08:09.9113425+00:00"
 }

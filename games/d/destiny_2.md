@@ -1,37 +1,37 @@
 # Destiny 2
 [Store](https://store.epicgames.com/en-US/p/destiny-2)  
 [View Rawdata](../../db/d/destiny_2.json)  
-Rating: 4.49 (Ranked 589)  
+Rating: 4.49 (Ranked 588)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Long and Winding Road | 93.00% | ~509,391 |
-| The People's Hero | 56.00% | ~306,730 |
-| In A Flash | 32.00% | ~175,274 |
-| Lest Ye Be Judged | 24.00% | ~131,456 |
-| Heart of Darkness | 24.00% | ~131,456 |
-| Cayde's Pathfinder | 23.00% | ~125,978 |
-| Ikora's Protégé | 21.00% | ~115,024 |
-| The Life Exotic | 19.00% | ~104,069 |
-| Heart of the Awoken | 18.00% | ~98,592 |
-| Zavala's Lieutenant | 17.00% | ~93,114 |
-| Challenge Accepted | 16.00% | ~87,637 |
-| High-Stakes Play | 16.00% | ~87,637 |
-| Show Me What You Got | 16.00% | ~87,637 |
-| Legends Grow | 14.00% | ~76,682 |
-| Exotique | 13.00% | ~71,205 |
-| Nothing Left to Say | 13.00% | ~71,205 |
-| An Exotic Journey | 12.00% | ~65,728 |
-| Darkness Falls | 12.00% | ~65,728 |
-| Belly Of The Beast | 10.00% | ~54,773 |
-| The Prestige | 7.00% | ~38,341 |
-| Fashion Statement | 7.00% | ~38,341 |
-| Wishing for the Best | 6.00% | ~32,864 |
-| Seal the Deal | 4.00% | ~21,909 |
+| Long and Winding Road | 93.00% | ~509,408 |
+| The People's Hero | 56.00% | ~306,740 |
+| In A Flash | 32.00% | ~175,280 |
+| Lest Ye Be Judged | 24.00% | ~131,460 |
+| Heart of Darkness | 24.00% | ~131,460 |
+| Cayde's Pathfinder | 23.00% | ~125,982 |
+| Ikora's Protégé | 21.00% | ~115,028 |
+| The Life Exotic | 19.00% | ~104,072 |
+| Heart of the Awoken | 18.00% | ~98,595 |
+| Zavala's Lieutenant | 17.00% | ~93,118 |
+| Challenge Accepted | 16.00% | ~87,640 |
+| High-Stakes Play | 16.00% | ~87,640 |
+| Show Me What You Got | 16.00% | ~87,640 |
+| Legends Grow | 14.00% | ~76,685 |
+| Exotique | 13.00% | ~71,208 |
+| Nothing Left to Say | 13.00% | ~71,208 |
+| An Exotic Journey | 12.00% | ~65,730 |
+| Darkness Falls | 12.00% | ~65,730 |
+| Belly Of The Beast | 10.00% | ~54,775 |
+| The Prestige | 7.00% | ~38,343 |
+| Fashion Statement | 7.00% | ~38,343 |
+| Wishing for the Best | 6.00% | ~32,865 |
+| Seal the Deal | 4.00% | ~21,910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,732 (Ranked 30)  
-Completed: 15,286 (2.79%) (Ranked 84)  
+Progressed: 547,750 (Ranked 30)  
+Completed: 15,287 (2.79%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 15,286 (2.79%) (Ranked 84)
 | 2023-09-25 | 546,435 | 15,228 |
 | 2023-09-26 | 547,013 | 15,246 |
 | 2023-09-27 | 547,600 | 15,279 |
-| 2023-09-28 | 547,732 | 15,286 |
+| 2023-09-28 | 547,750 | 15,287 |
 ## Awards
 Max (Great Boss Battles): 37,872  (Ranked 14)  
 Sum: 95,868 (Ranked 16)  

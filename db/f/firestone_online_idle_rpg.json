@@ -5823,9 +5823,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "blueprintupgrades",
@@ -6392,8 +6392,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-25T16:03:05.6391271+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:06:52.6274744+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:09:06.7390191+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
   "LastUpdate_Ratings": "2023-09-28T06:02:15.7620227+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:06:52.6275584+00:00"
+  "LastUpdate_Achievements": "2023-09-28T07:09:06.7391458+00:00"
 }

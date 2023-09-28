@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -1807,6 +1807,11 @@
       "Time": "2023-09-27T20:03:20.3137997+00:00",
       "NumProgressed": 855,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T07:05:06.4371983+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1827,7 +1832,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "AC02",
@@ -1835,7 +1840,7 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "AC03",
@@ -1843,7 +1848,7 @@
       "Name": "Blood and Gold",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "AC04",
@@ -1851,7 +1856,7 @@
       "Name": "Blood and Iron",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "AC05",
@@ -1859,7 +1864,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "AC06",
@@ -1867,7 +1872,7 @@
       "Name": "The Last Ascension",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "AC07",
@@ -1883,7 +1888,7 @@
       "Name": "Forged in Fire",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "AC09",
@@ -1923,7 +1928,7 @@
       "Name": "Second Psalm.",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "AC14",
@@ -1979,7 +1984,7 @@
       "Name": "Still Among Us",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AC21",
@@ -2003,7 +2008,7 @@
       "Name": "Hide and Seek",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "AC24",
@@ -2027,7 +2032,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "AC27",
@@ -2041,9 +2046,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 411
     },
     {
       "ID": "AC29",
@@ -2059,7 +2064,7 @@
       "Name": "The Anointed One",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "AC31",
@@ -2083,7 +2088,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "AC34",
@@ -2123,7 +2128,7 @@
       "Name": "Edge of Orison",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "AC39",
@@ -2186,7 +2191,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 0
     }
   ],
@@ -2194,8 +2199,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:03:30.726868+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:05:06.4371972+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:00:31.1742914+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:03:30.7269059+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:02:28.2732226+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:05:06.4372624+00:00"
 }

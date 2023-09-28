@@ -6218,11 +6218,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27301,
       "NumberOfAwardsMax": 4760
+    },
+    {
+      "Time": "2023-09-28T06:59:09.0234423+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27302,
+      "NumberOfAwardsMax": 4761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27301,
-  "NumberOfAwardsMax": 4760,
+  "NumberOfAwards": 27302,
+  "NumberOfAwardsMax": 4761,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6241,7 +6247,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4760
+      "Count": 4761
     },
     {
       "Text": "This game has Easy Combat",
@@ -6274,9 +6280,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136787,
+  "EOS_Progressed": 136789,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22759,6 +22765,11 @@
       "Time": "2023-09-28T04:06:15.7212378+00:00",
       "NumProgressed": 136787,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-09-28T07:08:44.1983541+00:00",
+      "NumProgressed": 136789,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 112,
@@ -23088,9 +23099,9 @@
       "ID": "damage03",
       "SetID": "anfd17p",
       "Name": "Omae wa Mou Shindeiru",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 684
     },
     {
       "ID": "donovan_a",
@@ -23665,15 +23676,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136787,
+      "Progressed": 136789,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-27T20:57:41.1670498+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:06:33.5383749+00:00",
+  "LastChanged": "2023-09-28T06:59:09.0234422+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:08:44.1983532+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:57:47.3951582+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:06:33.5385708+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:59:09.0234427+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:08:44.1986659+00:00"
 }

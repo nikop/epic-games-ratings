@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3313,
+  "EOS_Progressed": 3314,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 6.01,
+  "EOS_Completed_Percentage": 6,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -5205,6 +5205,11 @@
       "Time": "2023-09-28T05:08:11.211797+00:00",
       "NumProgressed": 3313,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-09-28T07:09:16.4386373+00:00",
+      "NumProgressed": 3314,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 24,
@@ -5312,7 +5317,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "21",
@@ -5360,7 +5365,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "5",
@@ -5368,7 +5373,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "6",
@@ -5384,7 +5389,7 @@
       "Name": "MASTER",
       "Percentage": 19,
       "XP": 65,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "8",
@@ -5407,13 +5412,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3313,
+      "Progressed": 3314,
       "Completed": 199
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:07:01.2847974+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:09:16.4386363+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:58:36.7456987+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:07:01.2848366+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:00:09.9803292+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:09:16.4387439+00:00"
 }

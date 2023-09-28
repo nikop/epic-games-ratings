@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 2.00% | ~17,673 |
-| Rough Landing | 2.00% | ~17,673 |
+| Ten out of Ten | 2.00% | ~17,674 |
+| Rough Landing | 2.00% | ~17,674 |
 | Gunslinger | 1.00% | ~8,837 |
 | Master Crafter | 1.00% | ~8,837 |
 | Mean Streets | 1.00% | ~8,837 |
@@ -15,10 +15,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 1.00% | ~8,837 |
 | V for Vendetta | 1.00% | ~8,837 |
 | The High Priestess | 0.90% | ~7,953 |
-| Full Body Conversion | 0.80% | ~7,069 |
-| Right Back At Ya | 0.80% | ~7,069 |
-| Breathtaking | 0.80% | ~7,069 |
-| True Soldier | 0.80% | ~7,069 |
+| Full Body Conversion | 0.80% | ~7,070 |
+| Right Back At Ya | 0.80% | ~7,070 |
+| Breathtaking | 0.80% | ~7,070 |
+| True Soldier | 0.80% | ~7,070 |
 | Stanislavski's Method | 0.70% | ~6,186 |
 | The Hermit | 0.70% | ~6,186 |
 | The Wheel of Fortune | 0.70% | ~6,186 |
@@ -29,12 +29,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Devil | 0.50% | ~4,418 |
 | The Fool | 0.50% | ~4,418 |
 | The Lovers | 0.50% | ~4,418 |
+| It's Elementary | 0.50% | ~4,418 |
 | Christmas Tree Attack | 0.40% | ~3,535 |
 | The Quick and the Dead | 0.40% | ~3,535 |
 | The World | 0.40% | ~3,535 |
 | Greetings from Pacifica! | 0.40% | ~3,535 |
 | Judy vs Night City | 0.40% | ~3,535 |
-| It's Elementary | 0.40% | ~3,535 |
 | City Lights | 0.30% | ~2,651 |
 | Gun Fu | 0.30% | ~2,651 |
 | Bushido and Chill | 0.20% | ~1,767 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,666 (Ranked 15)  
-Completed: 2,447 (0.28%) (Ranked 199)  
+Progressed: 883,697 (Ranked 15)  
+Completed: 2,448 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 2,447 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,666 | 2,447 |
+| 2023-09-28 | 883,697 | 2,448 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
 Sum: 232,264 (Ranked 13)  

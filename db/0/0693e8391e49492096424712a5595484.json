@@ -1792,9 +1792,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 249
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2056,9 +2056,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "RogueRum",
@@ -2127,8 +2127,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:03:07.2719725+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:04:18.9118448+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:00:22.338455+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:03:07.2720071+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:02:17.5072405+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:04:18.9118982+00:00"
 }

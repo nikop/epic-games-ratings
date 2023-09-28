@@ -7515,10 +7515,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50796,
       "NumberOfAwardsMax": 6455
+    },
+    {
+      "Time": "2023-09-28T07:02:33.3696316+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50797,
+      "NumberOfAwardsMax": 6455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50796,
+  "NumberOfAwards": 50797,
   "NumberOfAwardsMax": 6455,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -7562,7 +7568,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5886
+      "Count": 5887
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7589,7 +7595,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473821,
+  "EOS_Progressed": 473822,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
@@ -24489,6 +24495,11 @@
       "Time": "2023-09-28T04:08:17.6738561+00:00",
       "NumProgressed": 473821,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-28T07:10:27.4772424+00:00",
+      "NumProgressed": 473822,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -24516,7 +24527,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123193
+      "UsersEstimate": 123194
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -24556,7 +24567,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123193
+      "UsersEstimate": 123194
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -24612,7 +24623,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142146
+      "UsersEstimate": 142147
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -24684,7 +24695,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236910
+      "UsersEstimate": 236911
     },
     {
       "ID": "achievement_club_world_cup",
@@ -24892,7 +24903,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123193
+      "UsersEstimate": 123194
     },
     {
       "ID": "achievement_mr_delegator",
@@ -24916,7 +24927,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 75811
+      "UsersEstimate": 75812
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -24924,7 +24935,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165837
+      "UsersEstimate": 165838
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -25044,7 +25055,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227434
+      "UsersEstimate": 227435
     },
     {
       "ID": "achievement_signed_a_player",
@@ -25052,7 +25063,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236910
+      "UsersEstimate": 236911
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -25084,7 +25095,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 118455
+      "UsersEstimate": 118456
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -25132,7 +25143,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236910
+      "UsersEstimate": 236911
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -25283,15 +25294,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473821,
+      "Progressed": 473822,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-09-28T05:01:12.2419972+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:08:31.141023+00:00",
+  "LastChanged": "2023-09-28T07:02:33.3696314+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:10:27.4772414+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:26.8428516+00:00",
-  "LastUpdate_Ratings": "2023-09-28T06:00:35.2707643+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:08:31.1411943+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:02:33.3696323+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:10:27.4775778+00:00"
 }

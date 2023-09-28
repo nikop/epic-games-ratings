@@ -10138,9 +10138,9 @@
       "ID": "HUNT_WOLF_5",
       "SetID": "5349c2e",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 779
     },
     {
       "ID": "KILL_RAIDER",
@@ -10290,8 +10290,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-21T15:01:07.3222764+00:00",
-  "LastChanged_Achievements": "2023-09-28T06:04:50.3723166+00:00",
+  "LastChanged_Achievements": "2023-09-28T07:06:41.1358118+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:21.8810446+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:58:59.6547141+00:00",
-  "LastUpdate_Achievements": "2023-09-28T06:04:50.3723798+00:00"
+  "LastUpdate_Ratings": "2023-09-28T07:00:38.9966223+00:00",
+  "LastUpdate_Achievements": "2023-09-28T07:06:41.1358893+00:00"
 }

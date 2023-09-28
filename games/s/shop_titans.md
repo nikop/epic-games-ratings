@@ -63,6 +63,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.50% | ~684 |
 | Flying off the Shelves | 0.50% | ~684 |
 | This Power Level...! | 0.50% | ~684 |
+| Omae wa Mou Shindeiru | 0.50% | ~684 |
 | Master of Transmutation | 0.50% | ~684 |
 | Hidden Potential | 0.50% | ~684 |
 | Supercharged | 0.50% | ~684 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.40% | ~547 |
 | Fillin' the Bin | 0.40% | ~547 |
 | Industrial Evolution | 0.40% | ~547 |
-| Omae wa Mou Shindeiru | 0.40% | ~547 |
 | Ritualist | 0.40% | ~547 |
 | By Your Powers Combined... | 0.40% | ~547 |
 | A Legend is Born | 0.40% | ~547 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,787 (Ranked 69)  
+Progressed: 136,789 (Ranked 69)  
 Completed: 157 (0.11%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,14 +280,14 @@ Completed: 157 (0.11%) (Ranked 231)
 | 2023-09-25 | 136,703 | 155 |
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
-| 2023-09-28 | 136,787 | 157 |
+| 2023-09-28 | 136,789 | 157 |
 ## Awards
-Max (Great for Beginners): 4,760  (Ranked 71)  
-Sum: 27,301 (Ranked 49)  
+Max (Great for Beginners): 4,761  (Ranked 71)  
+Sum: 27,302 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,760 |
+| This game is Great for Beginners | 4,761 |
 | This game is Relaxing | 4,017 |
 | This game has Quickly Understood Controls | 4,004 |
 | This game has Diverse Characters | 3,893 |
@@ -542,3 +542,4 @@ Diff (max vs sum): 22
 | 2023-09-25 | 3.99 | - | 4,758 | 27,292 |
 | 2023-09-26 | 3.99 | - | 4,760 | 27,297 |
 | 2023-09-27 | 3.99 | - | 4,760 | 27,301 |
+| 2023-09-28 | 3.99 | - | 4,761 | 27,302 |

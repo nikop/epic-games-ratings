@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,645 |
+| Until death do us apart | 4.00% | ~16,646 |
 | That's a Grand Army | 3.00% | ~12,484 |
 | That is mine! | 3.00% | ~12,484 |
 | Victorious! | 3.00% | ~12,484 |
-| Brothers in Arms | 2.00% | ~8,322 |
-| For the Glory | 2.00% | ~8,322 |
-| That's a Grand Navy | 2.00% | ~8,322 |
-| Seriously?! | 2.00% | ~8,322 |
+| Brothers in Arms | 2.00% | ~8,323 |
+| For the Glory | 2.00% | ~8,323 |
+| That's a Grand Navy | 2.00% | ~8,323 |
+| Seriously?! | 2.00% | ~8,323 |
 | Cold War | 1.00% | ~4,161 |
 | Defender of the Faith | 1.00% | ~4,161 |
 | It's all about the money | 1.00% | ~4,161 |
@@ -31,11 +31,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,081 |
 | Combined Arms | 0.50% | ~2,081 |
 | This navy can take it all | 0.50% | ~2,081 |
-| Azur semé de lis or | 0.40% | ~1,664 |
-| Factionalism | 0.40% | ~1,664 |
-| Gentle Persuasion | 0.40% | ~1,664 |
-| Isn't this the way to India? | 0.40% | ~1,664 |
-| Queen of Conquest | 0.40% | ~1,664 |
+| Azur semé de lis or | 0.40% | ~1,665 |
+| Factionalism | 0.40% | ~1,665 |
+| Gentle Persuasion | 0.40% | ~1,665 |
+| Isn't this the way to India? | 0.40% | ~1,665 |
+| Queen of Conquest | 0.40% | ~1,665 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,248 |
 | Bright Spark | 0.30% | ~1,248 |
 | Down Under | 0.30% | ~1,248 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,120 (Ranked 41)  
+Progressed: 416,140 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1 (0.00%) (Ranked 296)
 | 2023-09-25 | 414,499 | 1 |
 | 2023-09-26 | 415,263 | 1 |
 | 2023-09-27 | 416,011 | 1 |
-| 2023-09-28 | 416,120 | 1 |
+| 2023-09-28 | 416,140 | 1 |
 ## Awards
 Max (Educational): 6,290  (Ranked 57)  
 Sum: 51,632 (Ranked 24)  
