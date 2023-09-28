@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 85.72% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 85.32% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.36% |
@@ -52,12 +52,12 @@
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.80% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.78% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.22% |
-| 54 | [JARS](games/j/jars.md) | 5.19% |
-| 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
-| 56 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.88% |
-| 57 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
-| 58 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 53 | [JARS](games/j/jars.md) | 5.19% |
+| 54 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
+| 55 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.88% |
+| 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
+| 57 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 58 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
 | 59 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.40% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
@@ -66,7 +66,7 @@
 | 64 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
-| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.79% |
+| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.78% |
 | 68 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
 | 69 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -79,7 +79,7 @@
 | 77 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 77 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 79 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
-| 80 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.96% |
+| 80 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.95% |
 | 81 | [Mega City Police](games/m/mega_city_police.md) | 2.94% |
 | 82 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 83 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
