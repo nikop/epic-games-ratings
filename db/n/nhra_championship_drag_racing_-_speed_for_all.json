@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 832,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -803,6 +803,11 @@
       "Time": "2023-09-28T16:04:05.485407+00:00",
       "NumProgressed": 831,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T22:03:28.947979+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -814,7 +819,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "11",
@@ -846,7 +851,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "15",
@@ -1054,7 +1059,7 @@
       "Name": "Cash Rules Everything Around Me",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "8",
@@ -1077,7 +1082,7 @@
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 832,
       "Completed": 0
     }
   ],
@@ -1085,8 +1090,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:03:19.5962419+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:03:28.9479786+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.4459576+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:58:12.2653354+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:03:19.596279+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:58:26.4967922+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:03:28.9480078+00:00"
 }

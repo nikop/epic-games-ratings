@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -270,7 +270,7 @@
   "Tags": [],
   "EOS_Progressed": 24089,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5254,9 +5254,9 @@
       "ID": "ACH_NOT_KENNY",
       "SetID": "cdkbb11",
       "Name": "Playing Favorites",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_STANS_STUFF",
@@ -5389,8 +5389,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-22T19:00:44.5707796+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:03:08.8142966+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:03:17.9355939+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:33.5378459+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:02:09.6940696+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:03:08.8143901+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:02:17.5024424+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:03:17.9357408+00:00"
 }

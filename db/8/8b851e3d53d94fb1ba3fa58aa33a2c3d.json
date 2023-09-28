@@ -336,9 +336,9 @@
       "ID": "ATTENTIVENESS",
       "SetID": "e4de54",
       "Name": "Attentiveness",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "A_STRANGE_SPRING",
@@ -591,8 +591,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:04:21.4215681+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:04:52.1060359+00:00",
   "LastUpdate_AppInfo": "2023-09-23T02:10:06.3767125+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:59:51.0073665+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:04:21.4216038+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:00:08.4268549+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:04:52.1060697+00:00"
 }

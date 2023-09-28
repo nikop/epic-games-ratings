@@ -6286,9 +6286,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136818,
+  "EOS_Progressed": 136821,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22831,6 +22831,11 @@
       "Time": "2023-09-28T20:06:01.2001193+00:00",
       "NumProgressed": 136818,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-09-28T22:06:43.3379083+00:00",
+      "NumProgressed": 136821,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 112,
@@ -22848,9 +22853,9 @@
       "ID": "advlevel02",
       "SetID": "anfd17p",
       "Name": "On the Path to Greatness",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 1095
     },
     {
       "ID": "advlevel03",
@@ -23737,15 +23742,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136818,
+      "Progressed": 136821,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-28T20:57:55.8489062+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:06:10.7385174+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:06:43.3379078+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:57:55.8489074+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:06:10.7387651+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:58:08.4918174+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:06:43.3382363+00:00"
 }

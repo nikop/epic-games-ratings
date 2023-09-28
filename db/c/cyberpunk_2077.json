@@ -12641,9 +12641,9 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884312,
-  "EOS_Completed": 2460,
-  "EOS_NewPlayers": 6331,
+  "EOS_Progressed": 884335,
+  "EOS_Completed": 2461,
+  "EOS_NewPlayers": 6309,
   "EOS_NewCompleters": 290,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30771,6 +30771,11 @@
       "Time": "2023-09-28T21:05:47.8621387+00:00",
       "NumProgressed": 884312,
       "NumCompleted": 2460
+    },
+    {
+      "Time": "2023-09-28T22:06:20.3434108+00:00",
+      "NumProgressed": 884335,
+      "NumCompleted": 2461
     }
   ],
   "TotalAchievements": 57,
@@ -30862,7 +30867,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17686
+      "UsersEstimate": 17687
     },
     {
       "ID": "HandyMan",
@@ -30966,7 +30971,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17686
+      "UsersEstimate": 17687
     },
     {
       "ID": "Temperance",
@@ -30974,7 +30979,7 @@
       "Name": "Temperance",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7075
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30982,7 +30987,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17686
+      "UsersEstimate": 17687
     },
     {
       "ID": "TheDevil",
@@ -31044,9 +31049,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7959
     },
     {
       "ID": "TheWorld",
@@ -31086,7 +31091,7 @@
       "Name": "True Warrior",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7075
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31126,7 +31131,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7075
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31237,21 +31242,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884312,
-      "Completed": 2460
+      "Progressed": 884335,
+      "Completed": 2461
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12935,
+      "Progressed": 12958,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T20:57:50.5306051+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:05:47.8621379+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:06:20.3434099+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:57:50.5306059+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:05:47.862296+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:58:03.1382463+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:06:20.3435593+00:00"
 }

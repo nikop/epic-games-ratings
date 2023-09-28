@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~250 |
-| Off to a good start | 66.00% | ~187 |
-| Do... or do not. There is no try | 49.00% | ~139 |
-| A good blaster at your side | 35.00% | ~99 |
-| Scrap collector | 23.00% | ~65 |
-| Great shot, kid! | 20.00% | ~57 |
-| The power of the Force | 18.00% | ~51 |
-| Together we can rule the galaxy | 18.00% | ~51 |
-| All right, I'll give it a try | 18.00% | ~51 |
-| I suggest a new strategy | 17.00% | ~48 |
-| Shoot first | 17.00% | ~48 |
-| Collector | 16.00% | ~45 |
+| New Recruit | 89.00% | ~257 |
+| Off to a good start | 65.00% | ~188 |
+| Do... or do not. There is no try | 49.00% | ~142 |
+| A good blaster at your side | 35.00% | ~101 |
+| Scrap collector | 22.00% | ~64 |
+| Great shot, kid! | 20.00% | ~58 |
+| The power of the Force | 18.00% | ~52 |
+| Together we can rule the galaxy | 17.00% | ~49 |
+| All right, I'll give it a try | 17.00% | ~49 |
+| I suggest a new strategy | 17.00% | ~49 |
+| Collector | 16.00% | ~46 |
+| Shoot first | 16.00% | ~46 |
 | Survivor | 14.00% | ~40 |
-| Tell Jabba that I've got his money | 12.00% | ~34 |
-| Best star-pilot in the galaxy | 12.00% | ~34 |
-| What's the cargo? | 11.00% | ~31 |
-| A tremor in the Force | 11.00% | ~31 |
-| Never tell me the odds! | 11.00% | ~31 |
-| Impressive. Most impressive. | 11.00% | ~31 |
-| A cunning warrior | 11.00% | ~31 |
-| Judge me by my size, do you? | 10.00% | ~28 |
+| Tell Jabba that I've got his money | 12.00% | ~35 |
+| Best star-pilot in the galaxy | 11.00% | ~32 |
+| A cunning warrior | 11.00% | ~32 |
+| What's the cargo? | 10.00% | ~29 |
+| A tremor in the Force | 10.00% | ~29 |
+| Never tell me the odds! | 10.00% | ~29 |
+| Impressive. Most impressive. | 10.00% | ~29 |
+| Judge me by my size, do you? | 10.00% | ~29 |
 | "Gonk? Gonk!" | 9.00% | ~26 |
 | Distinguished | 8.00% | ~23 |
 | Patience you must have | 8.00% | ~23 |
@@ -43,16 +43,16 @@
 | Alternative solution | 5.00% | ~14 |
 | What will you become? | 5.00% | ~14 |
 | Disturbed tranquility | 5.00% | ~14 |
-| Playing the objective | 4.00% | ~11 |
-| The Force is strong with this one | 4.00% | ~11 |
-| Ackbar's Elite | 4.00% | ~11 |
-| Onwards! | 4.00% | ~11 |
-| The circle is now complete | 4.00% | ~11 |
+| Playing the objective | 4.00% | ~12 |
+| The Force is strong with this one | 4.00% | ~12 |
+| The circle is now complete | 4.00% | ~12 |
 | Hold the line! | 3.00% | ~9 |
 | Safety ain't the point of a joyride | 3.00% | ~9 |
+| Ackbar's Elite | 3.00% | ~9 |
 | Do we take prisoners? | 3.00% | ~9 |
 | You have your moments | 3.00% | ~9 |
 | When surrounded by war... | 3.00% | ~9 |
+| Onwards! | 3.00% | ~9 |
 | A New Hope | 2.00% | ~6 |
 | No such thing as luck | 2.00% | ~6 |
 | I’ll take that bet | 2.00% | ~6 |
@@ -64,11 +64,11 @@
 | Stay on target | 0.70% | ~2 |
 | Master | 0.70% | ~2 |
 | Stay in attack formation | 0.70% | ~2 |
-| Walker defender | 0.40% | ~1 |
-| I never doubted you! | 0.40% | ~1 |
-| Crush them with one swift stroke… | 0.40% | ~1 |
+| Walker defender | 0.30% | ~1 |
+| I never doubted you! | 0.30% | ~1 |
+| Crush them with one swift stroke… | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 308)  
+Progressed: 289 (Ranked 307)  
 Completed: 1 (0.35%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.35%) (Ranked 184)
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
 | 2023-09-27 | 253 | 1 |
-| 2023-09-28 | 284 | 1 |
+| 2023-09-28 | 289 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

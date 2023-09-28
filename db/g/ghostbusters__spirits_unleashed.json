@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2232,9 +2232,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26068,
+  "EOS_Progressed": 26069,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13747,6 +13747,11 @@
       "Time": "2023-09-28T20:03:11.1903328+00:00",
       "NumProgressed": 26068,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-28T22:03:34.1055953+00:00",
+      "NumProgressed": 26069,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13756,9 +13761,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 235
     },
     {
       "ID": "Animated",
@@ -13844,9 +13849,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 182
     },
     {
       "ID": "Dont_Need_These",
@@ -14165,7 +14170,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26068,
+      "Progressed": 26069,
       "Completed": 58
     }
   ],
@@ -14173,8 +14178,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:03:24.6798304+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:03:34.1055948+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:58:39.9898846+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:03:24.6799447+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:58:54.8687477+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:03:34.1057174+00:00"
 }

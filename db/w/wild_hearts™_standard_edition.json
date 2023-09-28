@@ -3,9 +3,9 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 403,
-  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 73,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -682,9 +682,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_7",
@@ -720,8 +720,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:04:36.1751773+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:05:07.1038916+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:57:04.5521042+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:04:36.1752186+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:57:16.1106943+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:05:07.1039384+00:00"
 }

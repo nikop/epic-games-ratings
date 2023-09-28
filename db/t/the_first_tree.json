@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36181,
+  "EOS_Progressed": 36182,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14229,6 +14229,11 @@
       "Time": "2023-09-28T21:05:07.0835737+00:00",
       "NumProgressed": 36181,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-28T22:05:39.2229578+00:00",
+      "NumProgressed": 36182,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 14,
@@ -14320,7 +14325,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 9045
+      "UsersEstimate": 9046
     },
     {
       "ID": "firstItem",
@@ -14328,7 +14333,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27859
+      "UsersEstimate": 27860
     },
     {
       "ID": "roots",
@@ -14351,15 +14356,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36181,
+      "Progressed": 36182,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:05:07.083573+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:05:39.2229574+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.0710228+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:59:07.5025573+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:05:07.083667+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:59:23.8588905+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:05:39.223061+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 28  (23.09.2022)
 | Need to think | 41.00% | ~207 |
 | Completely nuts! | 39.00% | ~197 |
 | Just in time! | 33.00% | ~166 |
-| Europe | 31.00% | ~156 |
+| Europe | 32.00% | ~161 |
 | It's no coincidence. | 29.00% | ~146 |
 | Madness! | 29.00% | ~146 |
 | Philatelist | 26.00% | ~131 |

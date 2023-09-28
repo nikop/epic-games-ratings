@@ -2,9 +2,9 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -113,6 +113,11 @@
       "Time": "2023-09-15T04:06:47.6261076+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T22:09:08.9088406+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -124,13 +129,13 @@
       "Name": "We\u0027ve only just begun",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 77
     },
@@ -138,7 +143,7 @@
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -315,7 +320,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
@@ -323,8 +328,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:08:35.1749955+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:09:08.9088398+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:58.6570925+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:59:40.1763539+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:08:35.175016+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:59:57.1969088+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:09:08.9088592+00:00"
 }

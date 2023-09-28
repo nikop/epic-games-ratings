@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -914,9 +914,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_111",
@@ -1042,9 +1042,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_126",
@@ -1122,9 +1122,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_20",
@@ -1138,9 +1138,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 342
     },
     {
       "ID": "achievement_22",
@@ -1162,9 +1162,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_25",
@@ -1354,9 +1354,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_47",
@@ -1762,9 +1762,9 @@
       "ID": "achievement_92",
       "SetID": "d252ncf",
       "Name": "Fact Finder",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_93",
@@ -1818,9 +1818,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
@@ -1838,8 +1838,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:05:19.3981199+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:05:51.9870593+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:59:53.8557758+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:05:19.3983559+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:00:11.4263107+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:05:51.987266+00:00"
 }

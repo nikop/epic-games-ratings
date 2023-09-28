@@ -7,7 +7,7 @@
 | Land of the Rising Sun | 100.00% | ~73 |
 | Hidden History | 84.00% | ~61 |
 | Budding Conjuror | 81.00% | ~59 |
-| Commencing of Quests | 75.00% | ~55 |
+| Commencing of Quests | 77.00% | ~56 |
 | Charmed by the Hunt | 70.00% | ~51 |
 | Man-Machine Master | 67.00% | ~49 |
 | Mountain Splitter | 67.00% | ~49 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 73 (Ranked 403)  
-Completed: 1 (1.37%) (Ranked 119)  
+Completed: 1 (1.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

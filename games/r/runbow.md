@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 632)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,379 |
-| My First Runbow | 50.00% | ~124,886 |
-| It's The Fall | 26.00% | ~64,941 |
+| In The Zone | 53.00% | ~132,381 |
+| My First Runbow | 50.00% | ~124,888 |
+| It's The Fall | 26.00% | ~64,942 |
 | The Stunner | 22.00% | ~54,950 |
-| Be Aggressive | 21.00% | ~52,452 |
-| Curator | 20.00% | ~49,954 |
-| Crowning Around | 18.00% | ~44,959 |
-| Can You Dig It? | 17.00% | ~42,461 |
+| Be Aggressive | 21.00% | ~52,453 |
+| Curator | 20.00% | ~49,955 |
+| Crowning Around | 18.00% | ~44,960 |
+| Can You Dig It? | 17.00% | ~42,462 |
 | You Juan-A-Go? | 16.00% | ~39,964 |
 | Chan-tastic | 15.00% | ~37,466 |
 | Muddy Waters | 14.00% | ~34,968 |
-| Toasty! | 13.00% | ~32,470 |
+| Toasty! | 13.00% | ~32,471 |
 | Lazy Laser | 8.00% | ~19,982 |
 | Just A Phaze | 7.00% | ~17,484 |
 | Into The Drift | 7.00% | ~17,484 |
@@ -24,9 +24,9 @@ Rating: 4.46 (Ranked 632)
 | Butt Butt | 6.00% | ~14,986 |
 | He Who Laughs Last | 3.00% | ~7,493 |
 | Shoo, Cat! | 3.00% | ~7,493 |
-| And You're Okay | 2.00% | ~4,995 |
-| Blotbuster | 2.00% | ~4,995 |
-| Thunderstruck | 2.00% | ~4,995 |
+| And You're Okay | 2.00% | ~4,996 |
+| Blotbuster | 2.00% | ~4,996 |
+| Thunderstruck | 2.00% | ~4,996 |
 | Just A Bit | 1.00% | ~2,498 |
 | Tubular, Dude | 1.00% | ~2,498 |
 | What A Trip | 1.00% | ~2,498 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 632)
 | Talent Scout | 0.10% | ~250 |
 | True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,772 (Ranked 50)  
+Progressed: 249,775 (Ranked 50)  
 Completed: 6 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 6 (0.00%) (Ranked 297)
 | 2023-09-25 | 249,692 | 5 |
 | 2023-09-26 | 249,719 | 5 |
 | 2023-09-27 | 249,744 | 6 |
-| 2023-09-28 | 249,772 | 6 |
+| 2023-09-28 | 249,775 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

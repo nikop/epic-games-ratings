@@ -6,23 +6,23 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~423 |
 | Spectre Inductee | 84.00% | ~378 |
-| Medal of Exploration I | 75.00% | ~338 |
+| Medal of Exploration I | 76.00% | ~342 |
 | Search and Rescue | 72.00% | ~324 |
 | Recruit | 71.00% | ~320 |
 | Quarian Ally | 68.00% | ~306 |
 | Honorarium of Corporate Service | 66.00% | ~297 |
-| Medal of Heroism | 63.00% | ~284 |
+| Medal of Heroism | 64.00% | ~288 |
 | Medal of Exploration II | 59.00% | ~266 |
 | Turian Ally | 57.00% | ~256 |
 | Council Legion of Merit | 56.00% | ~252 |
 | Medal of Honor | 54.00% | ~243 |
 | Meritorious Service Medal | 54.00% | ~243 |
 | Charismatic | 54.00% | ~243 |
+| Soldier | 52.00% | ~234 |
 | Medal of Exploration III | 52.00% | ~234 |
-| Soldier | 51.00% | ~230 |
 | Asari Ally | 51.00% | ~230 |
 | Principled | 51.00% | ~230 |
-| Soldier Ally | 48.00% | ~216 |
+| Soldier Ally | 49.00% | ~220 |
 | Colonial Savior | 48.00% | ~216 |
 | Sentinel Ally | 47.00% | ~212 |
 | Krogan Ally | 47.00% | ~212 |
@@ -38,9 +38,9 @@
 | Archivist | 36.00% | ~162 |
 | Completionist | 36.00% | ~162 |
 | Missing in Action | 36.00% | ~162 |
+| The Convict | 35.00% | ~158 |
 | Colony Defense | 34.00% | ~153 |
 | The Archangel | 34.00% | ~153 |
-| The Convict | 34.00% | ~153 |
 | The Krogan | 34.00% | ~153 |
 | The Professor | 34.00% | ~153 |
 | Galactic Explorer | 34.00% | ~153 |
@@ -74,25 +74,25 @@
 | Untouchable | 24.00% | ~108 |
 | Eye of the Hurricane | 24.00% | ~108 |
 | Suicide Mission | 24.00% | ~108 |
+| Giant Killer | 23.00% | ~104 |
 | Mission Accomplished | 23.00% | ~104 |
 | Against All Odds | 23.00% | ~104 |
 | A House Divided | 23.00% | ~104 |
 | Weapon Specialist | 23.00% | ~104 |
 | Liberator | 23.00% | ~104 |
-| Giant Killer | 22.00% | ~99 |
 | World Shaker | 22.00% | ~99 |
 | Savior | 21.00% | ~94 |
 | Pathfinder | 20.00% | ~90 |
 | Tunnel Rat | 20.00% | ~90 |
+| Lost and Found | 20.00% | ~90 |
 | Paramour II | 19.00% | ~86 |
 | No One Left Behind | 19.00% | ~86 |
 | Arbiter | 19.00% | ~86 |
-| Lost and Found | 19.00% | ~86 |
 | Electronics Specialist | 18.00% | ~81 |
 | Party Crasher | 18.00% | ~81 |
+| Fact Finder | 18.00% | ~81 |
 | Problem Solver | 18.00% | ~81 |
 | Sabotage Specialist | 17.00% | ~76 |
-| Fact Finder | 17.00% | ~76 |
 | Pyromaniac | 16.00% | ~72 |
 | Throw Mastery | 16.00% | ~72 |
 | Hard Target | 16.00% | ~72 |

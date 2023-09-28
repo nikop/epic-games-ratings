@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gunslinger | 2.00% | ~17,686 |
-| Ten out of Ten | 2.00% | ~17,686 |
-| Rough Landing | 2.00% | ~17,686 |
+| Gunslinger | 2.00% | ~17,687 |
+| Ten out of Ten | 2.00% | ~17,687 |
+| Rough Landing | 2.00% | ~17,687 |
 | Full Body Conversion | 1.00% | ~8,843 |
 | Right Back At Ya | 1.00% | ~8,843 |
 | Master Crafter | 1.00% | ~8,843 |
@@ -21,10 +21,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.90% | ~7,959 |
 | Stanislavski's Method | 0.90% | ~7,959 |
 | The Hermit | 0.90% | ~7,959 |
-| Temperance | 0.80% | ~7,074 |
-| The Wheel of Fortune | 0.80% | ~7,074 |
-| True Warrior | 0.80% | ~7,074 |
-| Legend of The Afterlife | 0.80% | ~7,074 |
+| The Wheel of Fortune | 0.90% | ~7,959 |
+| Temperance | 0.80% | ~7,075 |
+| True Warrior | 0.80% | ~7,075 |
+| Legend of The Afterlife | 0.80% | ~7,075 |
 | To Bad Decisions! | 0.70% | ~6,190 |
 | The Devil | 0.60% | ~5,306 |
 | The Fool | 0.60% | ~5,306 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 884,312 (Ranked 15)  
-Completed: 2,460 (0.28%) (Ranked 200)  
+Progressed: 884,335 (Ranked 15)  
+Completed: 2,461 (0.28%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 2,460 (0.28%) (Ranked 200)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 884,312 | 2,460 |
+| 2023-09-28 | 884,335 | 2,461 |
 ## Awards
 Max (Character Customization): 85,114  (Ranked 9)  
 Sum: 234,712 (Ranked 13)  

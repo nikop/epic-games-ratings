@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~1,056 |
-| Waff! | 94.00% | ~1,034 |
+| Waff! | 95.00% | ~1,045 |
 | Into the Barn | 87.00% | ~957 |
 | A Prophecy | 85.00% | ~935 |
 | Sword, Shield, Fight! | 76.00% | ~836 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~99 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,100 (Ranked 226)  
-Completed: 85 (7.73%) (Ranked 38)  
+Completed: 85 (7.73%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

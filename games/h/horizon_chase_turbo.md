@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~947,069 |
-| I Need a Bigger Garage | 63.00% | ~662,948 |
-| Pump my Ride | 47.00% | ~494,581 |
-| Ghostbuster | 33.00% | ~347,259 |
-| Call Roadside Assistance | 18.00% | ~189,414 |
-| That Was Close | 18.00% | ~189,414 |
-| Quickie | 11.00% | ~115,753 |
-| California Dreamer | 7.00% | ~73,661 |
-| Can't Touch This | 5.00% | ~52,615 |
-| Comeback | 4.00% | ~42,092 |
-| Driver from Ipanema | 3.00% | ~31,569 |
-| Carménère Taster | 3.00% | ~31,569 |
-| Supersonic | 3.00% | ~31,569 |
-| Marathonist | 3.00% | ~31,569 |
-| Living Legend | 3.00% | ~31,569 |
+| The First of Many | 90.00% | ~947,088 |
+| I Need a Bigger Garage | 63.00% | ~662,962 |
+| Pump my Ride | 47.00% | ~494,590 |
+| Ghostbuster | 33.00% | ~347,266 |
+| Call Roadside Assistance | 18.00% | ~189,418 |
+| That Was Close | 18.00% | ~189,418 |
+| Quickie | 11.00% | ~115,755 |
+| California Dreamer | 7.00% | ~73,662 |
+| Can't Touch This | 5.00% | ~52,616 |
+| Comeback | 4.00% | ~42,093 |
+| Driver from Ipanema | 3.00% | ~31,570 |
+| Carménère Taster | 3.00% | ~31,570 |
+| Supersonic | 3.00% | ~31,570 |
+| Marathonist | 3.00% | ~31,570 |
+| Living Legend | 3.00% | ~31,570 |
 | God of Roads | 2.00% | ~21,046 |
 | Pathfinder | 2.00% | ~21,046 |
 | Go-Kart Champion | 2.00% | ~21,046 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,523 |
 | Crocodile Hunter | 0.90% | ~9,471 |
 | Old Master | 0.90% | ~9,471 |
-| Volcano Surfer | 0.80% | ~8,418 |
-| Otaku | 0.80% | ~8,418 |
+| Volcano Surfer | 0.80% | ~8,419 |
+| Otaku | 0.80% | ~8,419 |
 | Survivor | 0.60% | ~6,314 |
 | King of the World | 0.60% | ~6,314 |
-| Getting Famous | 0.50% | ~5,261 |
+| Getting Famous | 0.50% | ~5,262 |
 | Now Go Play Outside | 0.30% | ~3,157 |
 | Master of the Racetrack | 0.20% | ~2,105 |
 | Transporter | 0.10% | ~1,052 |
 | Look Mom, No Hands! | 0.10% | ~1,052 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052,299 (Ranked 13)  
+Progressed: 1,052,320 (Ranked 13)  
 Completed: 439 (0.04%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 439 (0.04%) (Ranked 262)
 | 2023-09-25 | 1,050,853 | 437 |
 | 2023-09-26 | 1,051,366 | 439 |
 | 2023-09-27 | 1,051,856 | 439 |
-| 2023-09-28 | 1,052,299 | 439 |
+| 2023-09-28 | 1,052,320 | 439 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 301)  
 Sum: 1,302 (Ranked 230)  

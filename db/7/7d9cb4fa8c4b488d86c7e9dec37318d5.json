@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-09-28T20:05:58.5222663+00:00",
       "NumProgressed": 228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T22:06:40.4627494+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -998,7 +1003,7 @@
       "Name": "1 Suicide Guy statue",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Game Completed",
@@ -1028,9 +1033,9 @@
       "ID": "Statue Collector Master",
       "SetID": "1fffk9d",
       "Name": "20 Suicide Guy statues",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "Statue Collector beginner",
@@ -1038,7 +1043,7 @@
       "Name": "5 Suicide Guy statues",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Suicide Guy",
@@ -1046,7 +1051,7 @@
       "Name": "Firest level completed!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "The Breaker",
@@ -1061,14 +1066,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:06:07.9060003+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:06:40.462749+00:00",
   "LastUpdate_AppInfo": "2023-09-27T04:57:05.9023048+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:59:34.8157708+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:06:07.9060165+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:59:51.6272044+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:06:40.4627679+00:00"
 }

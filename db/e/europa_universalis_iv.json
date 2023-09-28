@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9994,11 +9994,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 51724,
       "NumberOfAwardsMax": 6290
+    },
+    {
+      "Time": "2023-09-28T21:57:35.240908+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 51750,
+      "NumberOfAwardsMax": 6316
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51724,
-  "NumberOfAwardsMax": 6290,
+  "NumberOfAwards": 51750,
+  "NumberOfAwardsMax": 6316,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -10029,7 +10035,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6290
+      "Count": 6316
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10068,9 +10074,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 416685,
+  "EOS_Progressed": 416719,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6521,
+  "EOS_NewPlayers": 6517,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28303,6 +28309,11 @@
       "Time": "2023-09-28T21:08:05.5997386+00:00",
       "NumProgressed": 416685,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T22:08:08.2199995+00:00",
+      "NumProgressed": 416719,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -28442,7 +28453,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -28706,7 +28717,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -28826,7 +28837,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "achievement_cold_war",
@@ -28850,7 +28861,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -29314,7 +29325,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12501
+      "UsersEstimate": 12502
     },
     {
       "ID": "achievement_grand_coalition",
@@ -30594,7 +30605,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12501
+      "UsersEstimate": 12502
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -30818,7 +30829,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -30866,7 +30877,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -30978,7 +30989,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16667
+      "UsersEstimate": 16669
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -31010,7 +31021,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12501
+      "UsersEstimate": 12502
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -31145,21 +31156,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 416685,
+      "Progressed": 416719,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 416685,
+      "Progressed": 416719,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-28T20:57:22.7014326+00:00",
-  "LastChanged_Achievements": "2023-09-28T21:08:05.599738+00:00",
+  "LastChanged": "2023-09-28T21:57:35.2409079+00:00",
+  "LastChanged_Achievements": "2023-09-28T22:08:08.2199991+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:57:22.7014341+00:00",
-  "LastUpdate_Achievements": "2023-09-28T21:08:05.6009377+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:57:35.2409094+00:00",
+  "LastUpdate_Achievements": "2023-09-28T22:08:08.2213993+00:00"
 }
