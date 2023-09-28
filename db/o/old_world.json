@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1767,9 +1767,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14171,
+  "EOS_Progressed": 14173,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12437,6 +12437,11 @@
       "Time": "2023-09-28T12:05:13.0689802+00:00",
       "NumProgressed": 14171,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T14:05:43.3410478+00:00",
+      "NumProgressed": 14173,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -14102,9 +14107,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -14815,21 +14820,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14171,
+      "Progressed": 14173,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14171,
+      "Progressed": 14173,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-28T08:03:05.7552911+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:11:01.3017578+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:05:43.3410472+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:08:15.4061865+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:11:01.3024985+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:03:18.7675273+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:05:43.3418437+00:00"
 }

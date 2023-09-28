@@ -1,10 +1,10 @@
 # Marvel's Midnight Suns
 [Store](https://store.epicgames.com/en-US/p/marvels-midnight-suns)  
 [View Rawdata](../../db/m/marvel's_midnight_suns.json)  
-Rating: 4.53 (Ranked 526)  
+Rating: 4.53 (Ranked 525)  
 ## Awards
 Max (Character Customization): 1,457  (Ranked 127)  
-Sum: 3,217 (Ranked 162)  
+Sum: 3,218 (Ranked 162)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -35
 | This game is Extremely Fun | 204 |
 | This game has Amazing Characters | 203 |
 | This game has Diverse Characters | 193 |
-| This game has a Creative Community | 103 |
+| This game has a Creative Community | 104 |
 | This game has Challenging Combat | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -239,4 +239,4 @@ Diff (max vs sum): -35
 | 2023-09-25 | 4.53 | 1,455 | 3,196 |
 | 2023-09-26 | 4.53 | 1,455 | 3,202 |
 | 2023-09-27 | 4.53 | 1,455 | 3,215 |
-| 2023-09-28 | 4.53 | 1,457 | 3,217 |
+| 2023-09-28 | 4.53 | 1,457 | 3,218 |

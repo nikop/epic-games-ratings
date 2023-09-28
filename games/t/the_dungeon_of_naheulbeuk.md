@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,427 |
-| Where's that freaking Dwarf? | 5.00% | ~11,359 |
-| Alt+F4 | 5.00% | ~11,359 |
-| Déjà vu | 4.00% | ~9,087 |
+| Sowwy! | 31.00% | ~70,430 |
+| Where's that freaking Dwarf? | 5.00% | ~11,360 |
+| Alt+F4 | 5.00% | ~11,360 |
+| Déjà vu | 4.00% | ~9,088 |
 | A beer, two curses, three companions | 3.00% | ~6,816 |
 | Sock! SOCK! | 3.00% | ~6,816 |
 | GG EZ | 3.00% | ~6,816 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,272 |
 | Thieves' Guild Accreditation | 1.00% | ~2,272 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,045 |
-| Dead for good | 0.80% | ~1,817 |
-| Lust and Debauchery | 0.80% | ~1,817 |
-| Material Girl | 0.80% | ~1,817 |
+| Dead for good | 0.80% | ~1,818 |
+| Lust and Debauchery | 0.80% | ~1,818 |
+| Material Girl | 0.80% | ~1,818 |
 | Gargantua | 0.70% | ~1,590 |
 | In Navalu's footsteps | 0.60% | ~1,363 |
 | We come in peace | 0.50% | ~1,136 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,185 (Ranked 58)  
+Progressed: 227,194 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,16 +215,16 @@ Completed: 5 (0.00%) (Ranked 296)
 | 2023-09-25 | 226,750 | 3 |
 | 2023-09-26 | 226,941 | 3 |
 | 2023-09-27 | 227,123 | 4 |
-| 2023-09-28 | 227,185 | 5 |
+| 2023-09-28 | 227,194 | 5 |
 ## Awards
 Max (Character Customization): 199  (Ranked 277)  
-Sum: 388 (Ranked 327)  
-Diff (max vs sum): -50  
+Sum: 389 (Ranked 326)  
+Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 199 |
 | This game is Relaxing | 29 |
-| This game is Great for Beginners | 27 |
+| This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Highly Recommended | 22 |
@@ -376,4 +376,4 @@ Diff (max vs sum): -50
 | 2023-09-25 | 4.59 | - | 198 | 384 |
 | 2023-09-26 | 4.59 | - | 199 | 386 |
 | 2023-09-27 | 4.59 | - | 199 | 387 |
-| 2023-09-28 | 4.59 | - | 199 | 388 |
+| 2023-09-28 | 4.59 | - | 199 | 389 |

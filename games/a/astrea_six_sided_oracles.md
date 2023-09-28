@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 92.00% | ~12 |
-| Meissa's Savior | 92.00% | ~12 |
-| Purification Pioneer | 92.00% | ~12 |
+| Mechanical Buddy | 100.00% | ~13 |
+| Meissa's Savior | 100.00% | ~13 |
+| Purification Pioneer | 100.00% | ~13 |
 | Dicesmithing Time! | 85.00% | ~11 |
 | Endless Tricks | 85.00% | ~11 |
 | Wild's Keeper | 77.00% | ~10 |
+| Sanctuary Guardian | 69.00% | ~9 |
 | Mind Illuminator | 62.00% | ~8 |
-| Sanctuary Guardian | 62.00% | ~8 |
 | Stellar Dismantler | 46.00% | ~6 |
 | Sentinelphobic | 38.00% | ~5 |
 | Stellar Haste | 38.00% | ~5 |
@@ -34,6 +34,7 @@
 | Denying Destiny | 8.00% | ~1 |
 | Favored by the Cosmos | 8.00% | ~1 |
 | Plague Doctor | 8.00% | ~1 |
+| Prestidigitation | 8.00% | ~1 |
 | The Dark Moon | 8.00% | ~1 |
 | The Goddes Avatar | 8.00% | ~1 |
 | Wave Bender | 8.00% | ~1 |
@@ -71,7 +72,6 @@
 | Noctuan Champion | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
-| Prestidigitation | 0.00% | ~0 |
 | Purification Avatar | 0.00% | ~0 |
 | Reflexive Mind | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |

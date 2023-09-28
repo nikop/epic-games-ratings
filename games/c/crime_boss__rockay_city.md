@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 969)  
+Rating: 3.94 (Ranked 970)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,11 +14,11 @@ Rating: 3.94 (Ranked 969)
 | Off the Rocks | 0.50% | ~442 |
 | Rockay Rex | 0.50% | ~442 |
 | Roid Ranger | 0.40% | ~354 |
+| Hidden Sonata | 0.40% | ~354 |
 | Case Closed | 0.40% | ~354 |
 | King of the Hill | 0.40% | ~354 |
 | Raider’s Ruin | 0.40% | ~354 |
 | Dragonslayer | 0.40% | ~354 |
-| Hidden Sonata | 0.30% | ~265 |
 | Track Star | 0.30% | ~265 |
 | Headhunter | 0.30% | ~265 |
 | True Player | 0.30% | ~265 |

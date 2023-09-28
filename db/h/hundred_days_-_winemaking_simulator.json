@@ -1006,7 +1006,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5327,
+  "EOS_Progressed": 5335,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 2,
@@ -4456,6 +4456,11 @@
       "Time": "2023-09-28T13:09:29.7295253+00:00",
       "NumProgressed": 5327,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T14:03:53.0915278+00:00",
+      "NumProgressed": 5335,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4468,7 +4473,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "a_10",
@@ -4516,7 +4521,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1974
     },
     {
       "ID": "a_19",
@@ -4532,7 +4537,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_20",
@@ -4572,7 +4577,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_26",
@@ -4650,9 +4655,9 @@
       "ID": "a_35",
       "SetID": "daiie3o",
       "Name": "Welcome to the club",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 107
+      "UsersEstimate": 53
     },
     {
       "ID": "a_36",
@@ -4715,7 +4720,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5327,
+      "Progressed": 5335,
       "Completed": 7
     }
   ],
@@ -4723,8 +4728,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-27T20:02:10.5441398+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:09:29.7295246+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:03:53.0915275+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:02:49.4608834+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:09:29.729562+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:57:25.8790168+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:03:53.0915609+00:00"
 }

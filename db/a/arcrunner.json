@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 760,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1698,6 +1698,11 @@
       "Time": "2023-09-27T11:06:21.4319669+00:00",
       "NumProgressed": 759,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T14:07:12.6441167+00:00",
+      "NumProgressed": 760,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1875,9 +1880,9 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1940,13 +1945,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 760,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 3
     }
   ],
@@ -1954,8 +1959,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:12:31.4938411+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:07:12.6441163+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.5489762+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:05:00.8788875+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:12:31.4938673+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:59:36.7173514+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:07:12.6441448+00:00"
 }

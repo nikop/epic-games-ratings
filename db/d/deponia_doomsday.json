@@ -5,10 +5,10 @@
   "Ranking_Rating": 490,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -392,6 +392,11 @@
       "Time": "2023-09-27T09:08:45.0170522+00:00",
       "NumProgressed": 420,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-28T14:05:58.3713133+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -483,7 +488,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "dep4_achievement_2",
@@ -513,9 +518,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "dep4_achievement_23",
@@ -529,9 +534,9 @@
       "ID": "dep4_achievement_24",
       "SetID": "5d32b60",
       "Name": "Thuna...?",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "dep4_achievement_25",
@@ -547,7 +552,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "dep4_achievement_27",
@@ -563,7 +568,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "dep4_achievement_29",
@@ -579,7 +584,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "dep4_achievement_30",
@@ -587,7 +592,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "dep4_achievement_31",
@@ -690,7 +695,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 6
     }
   ],
@@ -698,8 +703,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:11:16.9062107+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:05:58.3713128+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.7249609+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:06:23.5413245+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:11:16.9062401+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:00:57.3353666+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:05:58.3713381+00:00"
 }

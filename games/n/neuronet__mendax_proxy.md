@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Day of the Rest of Your Life | 73.00% | ~19 |
 | Hello World | 69.00% | ~18 |
-| I Think, Therefore I Am | 65.00% | ~17 |
+| I Think, Therefore I Am | 69.00% | ~18 |
 | The Real Beginning | 65.00% | ~17 |
 | Shook Up | 58.00% | ~15 |
 | Vaccinated | 54.00% | ~14 |

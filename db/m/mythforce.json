@@ -701,9 +701,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3296,
+  "EOS_Progressed": 3297,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5881,6 +5881,11 @@
       "Time": "2023-09-28T13:12:46.6194811+00:00",
       "NumProgressed": 3296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T14:07:28.2526814+00:00",
+      "NumProgressed": 3297,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5949,7 +5954,7 @@
       "Name": "First Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -5989,7 +5994,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -6045,7 +6050,7 @@
       "Name": "Spending Spree",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -6076,15 +6081,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3296,
+      "Progressed": 3297,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:12:46.6194807+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:07:28.2526809+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:03:54.8519274+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:12:46.6195174+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:58:31.5525403+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:07:28.2527191+00:00"
 }

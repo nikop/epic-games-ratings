@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.51,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -281,6 +281,11 @@
       "Time": "2023-09-27T01:48:46.8869911+00:00",
       "NumProgressed": 47,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-28T14:06:26.9672427+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -306,7 +311,7 @@
       "ID": "Bonus",
       "SetID": "6j29jep",
       "Name": "Something more...",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -314,7 +319,7 @@
       "ID": "Bonus_Fragile",
       "SetID": "6j29jep",
       "Name": "Something more... (fragile)",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -499,14 +504,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:11:46.277996+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:06:26.9672423+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:10.7492176+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:07:20.0745647+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:11:46.278012+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:02:03.534296+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:06:26.9672587+00:00"
 }

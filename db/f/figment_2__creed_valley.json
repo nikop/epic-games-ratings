@@ -2,10 +2,10 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 498,
+  "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -89,6 +89,11 @@
       "Time": "2023-09-24T07:07:33.735301+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T14:09:14.8706314+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -98,7 +103,7 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -106,7 +111,7 @@
       "ID": "combat_thought_block_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Heavy Thoughts",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -122,7 +127,7 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -130,7 +135,7 @@
       "ID": "fluff_hit_by_coco_bulb",
       "SetID": "7e96e7l",
       "Name": "Ouch, that hurt!",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -178,7 +183,7 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -186,7 +191,7 @@
       "ID": "story_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Fight like an idiot",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -218,7 +223,7 @@
       "ID": "story_jester_land",
       "SetID": "7e96e7l",
       "Name": "Flee like an idiot",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -226,7 +231,7 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -243,7 +248,7 @@
     {
       "ID": "7e96e7l",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
@@ -251,8 +256,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:14:34.0885069+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:09:14.8706309+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.2885829+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:06:13.03717+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:14:34.0885168+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:00:46.7396323+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:09:14.8706426+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -13892,18 +13892,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 458100,
       "NumberOfAwardsMax": 181017
+    },
+    {
+      "Time": "2023-09-28T13:58:48.0242961+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 458525,
+      "NumberOfAwardsMax": 181336
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458100,
-  "NumberOfAwardsMax": 181017,
+  "NumberOfAwards": 458525,
+  "NumberOfAwardsMax": 181336,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 181017
+      "Count": 181336
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -13915,13 +13921,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 18123
+      "Count": 18175
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 18026
+      "Count": 18080
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13995,8 +14001,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-28T09:58:01.4701088+00:00",
+  "LastChanged": "2023-09-28T13:58:48.024296+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:00.7311722+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:04:11.4296095+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:12:01.2015017+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:58:48.0242968+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:06:41.4868583+00:00"
 }

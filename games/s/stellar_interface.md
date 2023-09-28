@@ -55,6 +55,7 @@
 | Silver Foundation | 6.00% | ~4 |
 | Silver Pest Control | 6.00% | ~4 |
 | Fighting Fit II | 6.00% | ~4 |
+| Bronze BBQ | 5.00% | ~3 |
 | Pilgrim | 5.00% | ~3 |
 | Golden Foundation | 5.00% | ~3 |
 | Golden Pest Control | 5.00% | ~3 |
@@ -65,7 +66,6 @@
 | Beetle | 5.00% | ~3 |
 | Anger Management | 5.00% | ~3 |
 | Almost There II | 5.00% | ~3 |
-| Bronze BBQ | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |

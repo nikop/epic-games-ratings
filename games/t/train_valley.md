@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.48 (Ranked 608)  
+Rating: 4.48 (Ranked 607)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,8 +23,8 @@ Number of Ratings: 28  (23.09.2022)
 | Ouroboros | 24.00% | ~120 |
 | Non Stop! | 24.00% | ~120 |
 | Foreman | 21.00% | ~105 |
+| Missed it! | 20.00% | ~100 |
 | Russia | 19.00% | ~95 |
-| Missed it! | 19.00% | ~95 |
 | America | 18.00% | ~90 |
 | Sabotage | 16.00% | ~80 |
 | Engineer | 11.00% | ~55 |

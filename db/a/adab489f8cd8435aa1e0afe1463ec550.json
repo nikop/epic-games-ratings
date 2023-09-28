@@ -4,8 +4,8 @@
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -76,9 +76,9 @@
       "ID": "12",
       "SetID": "6hl9l7f",
       "Name": "Weapon Unlocked",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "13",
@@ -116,9 +116,9 @@
       "ID": "17",
       "SetID": "6hl9l7f",
       "Name": "Launcher",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "18",
@@ -172,9 +172,9 @@
       "ID": "23",
       "SetID": "6hl9l7f",
       "Name": "Megashield",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "24",
@@ -386,8 +386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:10:19.5722143+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:05:01.7606192+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:06:41.5612327+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:10:19.5722445+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:01:14.8668158+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:05:01.7606456+00:00"
 }

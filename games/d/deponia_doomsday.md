@@ -7,25 +7,25 @@ Rating: 4.55 (Ranked 490)
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 88.00% | ~370 |
 | And again, and again, and... | 64.00% | ~269 |
-| Burn, Elysium, burn! | 62.00% | ~260 |
-| Kuvaq Minigame-Master | 61.00% | ~256 |
-| FunScore | 55.00% | ~231 |
+| Burn, Elysium, burn! | 62.00% | ~261 |
+| Kuvaq Minigame-Master | 61.00% | ~257 |
+| FunScore | 55.00% | ~232 |
 | Funtime's over | 53.00% | ~223 |
 | Chunky | 50.00% | ~210 |
 | Shall we play a game? | 49.00% | ~206 |
 | Boat of love, boat of love | 48.00% | ~202 |
 | School's out | 43.00% | ~181 |
-| Scaffolding Expert | 37.00% | ~155 |
-| Elysian Minigame-Master | 37.00% | ~155 |
+| Scaffolding Expert | 37.00% | ~156 |
+| Elysian Minigame-Master | 37.00% | ~156 |
 | Sole Music | 35.00% | ~147 |
-| No man left behind! | 30.00% | ~126 |
 | Portals come in packs | 30.00% | ~126 |
+| No man left behind! | 29.00% | ~122 |
 | Photo Friend | 26.00% | ~109 |
 | Brainfreeze | 21.00% | ~88 |
 | And everything comes full circle. | 20.00% | ~84 |
 | Masseltov | 19.00% | ~80 |
 | Quickdraw | 16.00% | ~67 |
-| Thuna...? | 15.00% | ~63 |
+| Thuna...? | 14.00% | ~59 |
 | Monstrous Harassment | 14.00% | ~59 |
 | Heading the inverter | 14.00% | ~59 |
 | Blast from the Past | 13.00% | ~55 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 490)
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 280)  
+Progressed: 421 (Ranked 279)  
 Completed: 6 (1.43%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 6 (1.43%) (Ranked 113)
 | 2023-09-24 | 415 | 6 |
 | 2023-09-25 | 419 | 6 |
 | 2023-09-27 | 420 | 6 |
+| 2023-09-28 | 421 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

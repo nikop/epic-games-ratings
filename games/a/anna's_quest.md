@@ -33,9 +33,9 @@
 | Beekeeper | 30.00% | ~15 |
 | Ring-a-ding-ding | 30.00% | ~15 |
 | Pain in the hands | 30.00% | ~15 |
+| Singstar | 28.00% | ~14 |
 | Turn the last page | 26.00% | ~13 |
 | Makeover | 26.00% | ~13 |
-| Singstar | 26.00% | ~13 |
 | Bahahahaha... | 24.00% | ~12 |
 | Kill it! KILL IT! | 24.00% | ~12 |
 | Guilty conscience | 20.00% | ~10 |

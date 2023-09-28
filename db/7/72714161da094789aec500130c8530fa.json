@@ -3,9 +3,9 @@
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 51,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.84,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 9.8,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -256,6 +256,11 @@
       "Time": "2023-09-28T09:05:44.7014697+00:00",
       "NumProgressed": 51,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-28T14:06:31.2808164+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -370,9 +375,9 @@
       "ID": "_forcefield",
       "SetID": "2d5739o",
       "Name": "Forcefield",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "_grenade",
@@ -474,9 +479,9 @@
       "ID": "_mothership",
       "SetID": "2d5739o",
       "Name": "Mothership",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "_orbpack",
@@ -612,13 +617,13 @@
       "ID": "2d5739o",
       "IsBase": true,
       "Progressed": 51,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:11:50.7491155+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:06:31.2808159+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:06:24.0306745+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:11:50.7491372+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:00:57.7131334+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:06:31.2808451+00:00"
 }

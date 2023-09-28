@@ -6,63 +6,63 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~491,520 |
-| Good Samaritan | 90.00% | ~480,835 |
-| Rebuilding America | 79.00% | ~422,066 |
-| Like and Be Liked | 77.00% | ~411,381 |
-| Apprentice Builder | 72.00% | ~384,668 |
-| A New Day for the UCA | 71.00% | ~379,325 |
-| A Baby Blessing | 64.00% | ~341,927 |
-| Prominent Porter | 64.00% | ~341,927 |
-| Building Bridges | 64.00% | ~341,927 |
-| Well Connected | 62.00% | ~331,242 |
-| The Custom Kid | 61.00% | ~325,899 |
-| Chiral Crafter | 59.00% | ~315,214 |
-| Boots Are a Porter's Best Friend | 59.00% | ~315,214 |
-| The People's Porter | 56.00% | ~299,186 |
-| I Couldn't Hold it In! | 56.00% | ~299,186 |
-| Everyday Delivery | 52.00% | ~277,816 |
-| A Shout in the Dark | 50.00% | ~267,130 |
-| A Thirst for Knowledge | 48.00% | ~256,445 |
-| Snooze 'n' Soothe | 48.00% | ~256,445 |
-| Soothing Sounds | 46.00% | ~245,760 |
-| We Need You | 45.00% | ~240,417 |
-| Catcher Crusher | 45.00% | ~240,417 |
-| Sleep Tight, Little BB | 44.00% | ~235,075 |
-| Giver of Gifts | 39.00% | ~208,362 |
-| All Roads Lead to the UCA | 39.00% | ~208,362 |
-| Well-Traveled | 37.00% | ~197,677 |
-| The Automation Revolution | 36.00% | ~192,334 |
-| Pathfinder | 36.00% | ~192,334 |
-| I Won't Break | 32.00% | ~170,964 |
-| BB... | 32.00% | ~170,964 |
-| The World's Most Popular Porter | 29.00% | ~154,936 |
-| Pumped Porter | 28.00% | ~149,593 |
-| We're Whole Again | 28.00% | ~149,593 |
-| BBs: A Bridge Between This World and the One Beyond | 26.00% | ~138,908 |
-| Soak and Sigh | 25.00% | ~133,565 |
-| "BB" | 25.00% | ~133,565 |
-| Deliveries Done | 24.00% | ~128,223 |
-| Sixty Deaths and Sixty Births in a Day | 22.00% | ~117,537 |
-| The Particle of God | 21.00% | ~112,195 |
-| I'm Your Die-Hardman | 21.00% | ~112,195 |
-| Bring Back My Baby | 21.00% | ~112,195 |
-| She's waiting for you on the Beach. | 21.00% | ~112,195 |
-| Thank You, Sam | 20.00% | ~106,852 |
-| Thanks for Everything | 20.00% | ~106,852 |
-| The Post Guides the Present | 17.00% | ~90,824 |
-| Rest In Pieces | 16.00% | ~85,482 |
-| Hooked on Delivering!? | 15.00% | ~80,139 |
-| Childminder | 14.00% | ~74,797 |
-| Public Service Porter | 12.00% | ~64,111 |
-| God Particle Go-Getter | 9.00% | ~48,083 |
-| A Helping Hand | 5.00% | ~26,713 |
-| The Past Guides the Present | 5.00% | ~26,713 |
+| Delivering Is What I Do | 92.00% | ~491,535 |
+| Good Samaritan | 90.00% | ~480,849 |
+| Rebuilding America | 79.00% | ~422,079 |
+| Like and Be Liked | 77.00% | ~411,393 |
+| Apprentice Builder | 72.00% | ~384,679 |
+| A New Day for the UCA | 71.00% | ~379,337 |
+| A Baby Blessing | 64.00% | ~341,937 |
+| Prominent Porter | 64.00% | ~341,937 |
+| Building Bridges | 64.00% | ~341,937 |
+| Well Connected | 62.00% | ~331,252 |
+| The Custom Kid | 61.00% | ~325,909 |
+| Chiral Crafter | 59.00% | ~315,223 |
+| Boots Are a Porter's Best Friend | 59.00% | ~315,223 |
+| The People's Porter | 56.00% | ~299,195 |
+| I Couldn't Hold it In! | 56.00% | ~299,195 |
+| Everyday Delivery | 52.00% | ~277,824 |
+| A Shout in the Dark | 50.00% | ~267,138 |
+| A Thirst for Knowledge | 48.00% | ~256,453 |
+| Snooze 'n' Soothe | 48.00% | ~256,453 |
+| Soothing Sounds | 46.00% | ~245,767 |
+| We Need You | 45.00% | ~240,425 |
+| Catcher Crusher | 45.00% | ~240,425 |
+| Sleep Tight, Little BB | 44.00% | ~235,082 |
+| Giver of Gifts | 39.00% | ~208,368 |
+| All Roads Lead to the UCA | 39.00% | ~208,368 |
+| Well-Traveled | 37.00% | ~197,682 |
+| The Automation Revolution | 36.00% | ~192,340 |
+| Pathfinder | 36.00% | ~192,340 |
+| I Won't Break | 32.00% | ~170,969 |
+| BB... | 32.00% | ~170,969 |
+| The World's Most Popular Porter | 29.00% | ~154,940 |
+| Pumped Porter | 28.00% | ~149,598 |
+| We're Whole Again | 28.00% | ~149,598 |
+| BBs: A Bridge Between This World and the One Beyond | 26.00% | ~138,912 |
+| Soak and Sigh | 25.00% | ~133,569 |
+| "BB" | 25.00% | ~133,569 |
+| Deliveries Done | 24.00% | ~128,226 |
+| Sixty Deaths and Sixty Births in a Day | 22.00% | ~117,541 |
+| The Particle of God | 21.00% | ~112,198 |
+| I'm Your Die-Hardman | 21.00% | ~112,198 |
+| Bring Back My Baby | 21.00% | ~112,198 |
+| She's waiting for you on the Beach. | 21.00% | ~112,198 |
+| Thank You, Sam | 20.00% | ~106,855 |
+| Thanks for Everything | 20.00% | ~106,855 |
+| The Post Guides the Present | 17.00% | ~90,827 |
+| Rest In Pieces | 16.00% | ~85,484 |
+| Hooked on Delivering!? | 15.00% | ~80,142 |
+| Childminder | 14.00% | ~74,799 |
+| Public Service Porter | 12.00% | ~64,113 |
+| God Particle Go-Getter | 9.00% | ~48,085 |
+| A Helping Hand | 5.00% | ~26,714 |
+| The Past Guides the Present | 5.00% | ~26,714 |
 | Any Porter in a Storm | 3.00% | ~16,028 |
-| Birth of a Legend | 2.00% | ~10,685 |
-| In Sam We Trust | 2.00% | ~10,685 |
-| Best Beloved | 2.00% | ~10,685 |
-| Great Deliverer | 2.00% | ~10,685 |
+| Birth of a Legend | 2.00% | ~10,686 |
+| In Sam We Trust | 2.00% | ~10,686 |
+| Best Beloved | 2.00% | ~10,686 |
+| Great Deliverer | 2.00% | ~10,686 |
 | Master Builder | 0.90% | ~4,808 |
 | Growth of a Legend | 0.80% | ~4,274 |
 | Fount of Knowledge | 0.70% | ~3,740 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,137 |
 | Homo Faber | 0.40% | ~2,137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,261 (Ranked 31)  
+Progressed: 534,277 (Ranked 31)  
 Completed: 2,023 (0.38%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 2,023 (0.38%) (Ranked 176)
 | 2023-09-25 | 533,836 | 2,020 |
 | 2023-09-26 | 534,011 | 2,021 |
 | 2023-09-27 | 534,152 | 2,022 |
-| 2023-09-28 | 534,261 | 2,023 |
+| 2023-09-28 | 534,277 | 2,023 |
 ## Awards
 Max (Great Boss Battles): 8,294  (Ranked 42)  
 Sum: 14,159 (Ranked 71)  

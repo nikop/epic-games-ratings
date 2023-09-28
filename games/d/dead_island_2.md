@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,623 |
-| Welcome To Hell-A | 3.00% | ~20,623 |
+| Hotel California | 3.00% | ~20,624 |
+| Welcome To Hell-A | 3.00% | ~20,624 |
 | Dr. Reed, I Presume? | 2.00% | ~13,749 |
 | Git Gutte! | 2.00% | ~13,749 |
 | Bookworm | 2.00% | ~13,749 |
@@ -26,14 +26,14 @@ Rating: 4.54 (Ranked 512)
 | Personal Assistant Personally Assisted | 2.00% | ~13,749 |
 | Our True Nature | 2.00% | ~13,749 |
 | This is My Weapon | 2.00% | ~13,749 |
-| Making Your Mark | 1.00% | ~6,874 |
-| Anger Management | 1.00% | ~6,874 |
-| Perks of the Job | 1.00% | ~6,874 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,874 |
-| Ooh, Shiny! | 1.00% | ~6,874 |
-| Humanity Distilled | 1.00% | ~6,874 |
-| Down with the Sickness | 1.00% | ~6,874 |
-| Max Headroom | 1.00% | ~6,874 |
+| Making Your Mark | 1.00% | ~6,875 |
+| Anger Management | 1.00% | ~6,875 |
+| Perks of the Job | 1.00% | ~6,875 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,875 |
+| Ooh, Shiny! | 1.00% | ~6,875 |
+| Humanity Distilled | 1.00% | ~6,875 |
+| Down with the Sickness | 1.00% | ~6,875 |
+| Max Headroom | 1.00% | ~6,875 |
 | Jumbo Keyring | 0.80% | ~5,500 |
 | Go, Bobcats! | 0.80% | ~5,500 |
 | Rising Star | 0.80% | ~5,500 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 512)
 | Donk! | 0.10% | ~687 |
 | Bucket List | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,439 (Ranked 22)  
-Completed: 2,176 (0.32%) (Ranked 189)  
+Progressed: 687,457 (Ranked 22)  
+Completed: 2,177 (0.32%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,10 +212,10 @@ Completed: 2,176 (0.32%) (Ranked 189)
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
 | 2023-09-27 | 687,260 | 2,176 |
-| 2023-09-28 | 687,439 | 2,176 |
+| 2023-09-28 | 687,457 | 2,177 |
 ## Awards
 Max (Great Boss Battles): 6,229  (Ranked 58)  
-Sum: 9,275 (Ranked 92)  
+Sum: 9,277 (Ranked 92)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -34
 | This game has Amazing Storytelling | 360 |
 | This game is Extremely Fun | 351 |
 | This game is Highly Recommended | 342 |
-| This game has Amazing Characters | 338 |
+| This game has Amazing Characters | 340 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -391,4 +391,4 @@ Diff (max vs sum): -34
 | 2023-09-25 | 4.54 | 6,204 | 9,227 |
 | 2023-09-26 | 4.54 | 6,217 | 9,252 |
 | 2023-09-27 | 4.54 | 6,229 | 9,274 |
-| 2023-09-28 | 4.54 | 6,229 | 9,275 |
+| 2023-09-28 | 4.54 | 6,229 | 9,277 |

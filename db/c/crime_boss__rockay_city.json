@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 969,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3752,7 +3752,7 @@
   ],
   "EOS_Progressed": 88432,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20468,9 +20468,9 @@
       "ID": "ACH_0013",
       "SetID": "3kam13l",
       "Name": "Hidden Sonata",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_0014",
@@ -20787,8 +20787,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-28T11:59:42.9625477+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:11:42.2286345+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:06:23.061047+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:05:36.379502+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:11:42.228736+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:00:11.745955+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:06:23.0611555+00:00"
 }

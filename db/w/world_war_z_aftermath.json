@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -9077,10 +9077,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 28779,
       "NumberOfAwardsMax": 4538
+    },
+    {
+      "Time": "2023-09-28T13:57:28.568289+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 28785,
+      "NumberOfAwardsMax": 4538
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28779,
+  "NumberOfAwards": 28785,
   "NumberOfAwardsMax": 4538,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9100,7 +9106,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3381
+      "Count": 3384
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9124,7 +9130,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3268
+      "Count": 3271
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9158,9 +9164,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-09-28T07:03:10.6811436+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:14:34.4609511+00:00",
+  "LastChanged": "2023-09-28T13:57:28.5682889+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:09:15.271661+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.9782167+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:02:52.388791+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:14:34.4609543+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:57:28.5682895+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:09:15.2716648+00:00"
 }

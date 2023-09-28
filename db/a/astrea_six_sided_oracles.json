@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -440,17 +440,17 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 92,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 92,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MindIlluminator",
@@ -504,9 +504,9 @@
       "ID": "Prestidigitation",
       "SetID": "1jeo1g7",
       "Name": "Prestidigitation",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PurificationAvatar",
@@ -520,9 +520,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 92,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ReflexiveMind",
@@ -552,9 +552,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Sentinelphobic",
@@ -743,8 +743,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:12:33.8189741+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:07:14.9511034+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:03:26.4231264+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:12:33.819047+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:58:02.6291874+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:07:14.9511714+00:00"
 }

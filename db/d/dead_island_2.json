@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4840,10 +4840,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9275,
       "NumberOfAwardsMax": 6229
+    },
+    {
+      "Time": "2023-09-28T13:58:49.4339996+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9277,
+      "NumberOfAwardsMax": 6229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9275,
+  "NumberOfAwards": 9277,
   "NumberOfAwardsMax": 6229,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4881,7 +4887,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 338
+      "Count": 340
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4902,10 +4908,10 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 687439,
-  "EOS_Completed": 2176,
-  "EOS_NewPlayers": 3875,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 687457,
+  "EOS_Completed": 2177,
+  "EOS_NewPlayers": 3867,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -23052,6 +23058,11 @@
       "Time": "2023-09-28T13:09:20.1176399+00:00",
       "NumProgressed": 687439,
       "NumCompleted": 2176
+    },
+    {
+      "Time": "2023-09-28T14:03:43.7298258+00:00",
+      "NumProgressed": 687457,
+      "NumCompleted": 2177
     }
   ],
   "TotalAchievements": 45,
@@ -23071,7 +23082,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_ammo_ran",
@@ -23087,7 +23098,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -23111,7 +23122,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_bookworm",
@@ -23143,7 +23154,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -23223,7 +23234,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20623
+      "UsersEstimate": 20624
     },
     {
       "ID": "ach_impressive_aim",
@@ -23279,7 +23290,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_magnum_opus",
@@ -23303,7 +23314,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_revival_tour",
@@ -23319,7 +23330,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_secrets_of_la",
@@ -23359,7 +23370,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_the_vcla",
@@ -23399,7 +23410,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20623
+      "UsersEstimate": 20624
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23422,22 +23433,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 687439,
-      "Completed": 2176
+      "Progressed": 687457,
+      "Completed": 2177
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 12981,
-      "Completed": 12981
+      "Progressed": 12999,
+      "Completed": 12999
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-28T04:58:31.377595+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:09:20.1176394+00:00",
+  "LastChanged": "2023-09-28T13:58:49.4339995+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:03:43.7298254+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:04:13.0628282+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:09:20.1177555+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:58:49.434+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:03:43.729939+00:00"
 }

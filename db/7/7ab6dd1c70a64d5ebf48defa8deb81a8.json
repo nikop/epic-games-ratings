@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -172,25 +172,25 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_07",
@@ -356,9 +356,9 @@
       "ID": "ACH_27",
       "SetID": "efe2lj",
       "Name": "False God",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_28",
@@ -404,9 +404,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_35",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:11:48.1488941+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:06:21.2631651+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:11:48.1489163+00:00"
+  "LastChanged_Achievements": "2023-09-28T14:06:28.7517167+00:00",
+  "LastUpdate_Ratings": "2023-09-28T14:00:54.870093+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:06:28.7517383+00:00"
 }

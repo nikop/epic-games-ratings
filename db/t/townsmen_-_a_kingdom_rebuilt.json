@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -1995,9 +1995,9 @@
       "ID": "ACHIEVEMENT_TAXES2",
       "SetID": "9eacipp",
       "Name": "Tax-man II",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -2155,8 +2155,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:09:18.9085796+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:03:42.6957662+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.2239811+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:02:55.9390254+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:09:18.9086833+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:57:32.0823833+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:03:42.6958692+00:00"
 }

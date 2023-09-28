@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_Completed": 33,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2439,
+  "EOS_Progressed": 2440,
   "EOS_Completed": 224,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 9.18,
   "EosHistory": [
@@ -6228,6 +6228,11 @@
       "Time": "2023-09-28T07:05:10.2946446+00:00",
       "NumProgressed": 2439,
       "NumCompleted": 224
+    },
+    {
+      "Time": "2023-09-28T14:04:29.0483392+00:00",
+      "NumProgressed": 2440,
+      "NumCompleted": 224
     }
   ],
   "TotalAchievements": 12,
@@ -6263,7 +6268,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "Jacques a Dit",
@@ -6271,7 +6276,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "Jakob",
@@ -6279,7 +6284,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Jude",
@@ -6295,7 +6300,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Little Helper",
@@ -6334,7 +6339,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2439,
+      "Progressed": 2440,
       "Completed": 224
     }
   ],
@@ -6342,8 +6347,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:09:46.4679134+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:04:29.0483387+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:34.8068967+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:03:27.1295134+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:09:46.467951+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:58:03.3783438+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:04:29.0483763+00:00"
 }

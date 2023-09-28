@@ -10,10 +10,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 6.00% | ~1,004 |
 | Taking Action | 6.00% | ~1,004 |
 | No Deaths | 6.00% | ~1,004 |
-| Overcoming Difficulty | 5.00% | ~836 |
-| Fertile Meadows | 5.00% | ~836 |
-| Coral Forest | 5.00% | ~836 |
-| The Scarlet Orchard | 5.00% | ~836 |
+| Overcoming Difficulty | 5.00% | ~837 |
+| Fertile Meadows | 5.00% | ~837 |
+| Coral Forest | 5.00% | ~837 |
+| The Scarlet Orchard | 5.00% | ~837 |
 | Homesick | 4.00% | ~669 |
 | Bandit Camp | 4.00% | ~669 |
 | Ancient Battleground | 4.00% | ~669 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,730 (Ranked 126)  
+Progressed: 16,731 (Ranked 126)  
 Completed: 52 (0.31%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 52 (0.31%) (Ranked 190)
 | 2023-09-25 | 16,711 | 51 |
 | 2023-09-26 | 16,725 | 51 |
 | 2023-09-27 | 16,730 | 52 |
+| 2023-09-28 | 16,731 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 431  (Ranked 212)  
 Sum: 3,160 (Ranked 165)  

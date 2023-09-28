@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -349,8 +349,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:03:28.0729996+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:03:24.7441545+00:00",
   "LastUpdate_AppInfo": "2023-09-26T16:57:05.5703282+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:05:41.6436264+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:03:28.07302+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:00:16.8741262+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:03:24.7446665+00:00"
 }

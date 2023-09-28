@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40761,
+  "EOS_Progressed": 40762,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18769,6 +18769,11 @@
       "Time": "2023-09-28T13:13:09.8173428+00:00",
       "NumProgressed": 40761,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T14:07:51.9407034+00:00",
+      "NumProgressed": 40762,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18820,7 +18825,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11005
+      "UsersEstimate": 11006
     },
     {
       "ID": "goals180",
@@ -18836,7 +18841,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3669
     },
     {
       "ID": "goals75",
@@ -18900,7 +18905,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6929
+      "UsersEstimate": 6930
     },
     {
       "ID": "novice",
@@ -19091,15 +19096,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40761,
+      "Progressed": 40762,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-28T13:13:09.8173424+00:00",
+  "LastChanged_Achievements": "2023-09-28T14:07:51.940703+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:04:33.7081149+00:00",
-  "LastUpdate_Achievements": "2023-09-28T13:13:09.8174426+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:59:10.0259127+00:00",
+  "LastUpdate_Achievements": "2023-09-28T14:07:51.940812+00:00"
 }
