@@ -150,7 +150,7 @@
 | 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 525 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 815 | 157 |
 | 148 | [Haven](games/h/haven.md) | 4.74 | 0 | 525 |
-| 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,347 | 29 |
+| 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,455 | 29 |
 | 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 704 | 172 |
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 525 |
 | 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,144 | 52 |
@@ -584,7 +584,7 @@
 | 572 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 111 | 330 |
 | 572 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 525 |
 | 572 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.50 | 498 | 202 |
-| 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 640 | 182 |
+| 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 642 | 182 |
 | 572 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 525 |
 | 572 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 812 | 158 |
 | 572 | [Solitairica](games/s/solitairica.md) | 4.50 | 84 | 362 |
@@ -602,7 +602,7 @@
 | 589 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 456 |
 | 589 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 24 | 496 |
 | 589 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 525 |
-| 589 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 555,600 | 2 |
+| 589 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 556,618 | 2 |
 | 589 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 525 |
 | 589 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,737 | 97 |
 | 589 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 525 |
@@ -851,7 +851,7 @@
 | 848 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 463 |
 | 848 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 506 |
 | 848 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 525 |
-| 848 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 640 | 182 |
+| 848 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 640 | 183 |
 | 848 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 525 |
 | 848 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 418 |
 | 848 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 525 |
@@ -894,7 +894,7 @@
 | 882 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 74 | 378 |
 | 882 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 525 |
 | 894 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 525 |
-| 894 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,755 | 96 |
+| 894 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,761 | 96 |
 | 894 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 349 |
 | 894 | [SYNCED](games/s/synced.md) | 4.18 | 34 | 456 |
 | 894 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 525 |
@@ -940,12 +940,12 @@
 | 938 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 525 |
 | 938 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 525 |
 | 938 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,329 | 69 |
+| 938 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.06 | 0 | 525 |
 | 938 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 525 |
-| 942 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.05 | 0 | 525 |
-| 942 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.05 | 0 | 525 |
-| 942 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
-| 942 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 468 | 205 |
-| 942 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 525 |
+| 943 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.05 | 0 | 525 |
+| 943 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
+| 943 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 468 | 205 |
+| 943 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 525 |
 | 947 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 525 |
 | 947 | [Tharsis](games/t/tharsis.md) | 4.04 | 0 | 525 |
 | 949 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.03 | 22 | 506 |

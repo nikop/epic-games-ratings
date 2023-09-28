@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,750,751 | 4.29 | 814 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 555,600 | 4.49 | 589 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 556,618 | 4.49 | 589 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 307,591 | 4.68 | 245 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 233,080 | 4.68 | 245 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 203,624 | 4.19 | 882 |
@@ -28,7 +28,7 @@
 | 26 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,991 | 4.60 | 402 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,771 | 4.60 | 402 |
 | 28 | [Maneater](games/m/maneater.md) | 13,697 | 4.49 | 589 |
-| 29 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 13,347 | 4.74 | 148 |
+| 29 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 13,455 | 4.74 | 148 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,054 | 4.43 | 674 |
 | 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,690 | 4.36 | 757 |
 | 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,551 | 4.86 | 30 |
@@ -95,7 +95,7 @@
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,285 | 4.57 | 452 |
 | 94 | [Hades](games/h/hades.md) | 3,281 | 4.92 | 4 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,810 | 4.50 | 572 |
-| 96 | [Gotham Knights](games/g/gotham_knights.md) | 2,755 | 4.18 | 894 |
+| 96 | [Gotham Knights](games/g/gotham_knights.md) | 2,761 | 4.18 | 894 |
 | 97 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,737 | 4.49 | 589 |
 | 98 | [Among Us](games/a/among_us.md) | 2,687 | 4.57 | 452 |
 | 99 | [Path of Exile](games/p/path_of_exile.md) | 2,636 | 4.62 | 353 |
@@ -181,8 +181,8 @@
 | 179 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 665 | 4.73 | 163 |
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 664 | 4.67 | 263 |
 | 181 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 643 | 4.67 | 263 |
-| 182 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 640 | 4.50 | 572 |
-| 182 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 640 | 4.24 | 848 |
+| 182 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 642 | 4.50 | 572 |
+| 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 640 | 4.24 | 848 |
 | 184 | [Riders Republic](games/r/riders_republic.md) | 633 | 4.75 | 140 |
 | 185 | [Dark Deity](games/d/dark_deity.md) | 618 | 4.16 | 903 |
 | 186 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 612 | 4.63 | 333 |
@@ -204,7 +204,7 @@
 | 202 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 498 | 4.50 | 572 |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 497 | 4.72 | 176 |
 | 204 | [Surviving Mars](games/s/surviving_mars.md) | 484 | 4.60 | 402 |
-| 205 | [Second Extinction™](games/s/second_extinction™.md) | 468 | 4.05 | 942 |
+| 205 | [Second Extinction™](games/s/second_extinction™.md) | 468 | 4.05 | 943 |
 | 206 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 463 | 3.94 | 970 |
 | 207 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 460 | 4.40 | 715 |
 | 207 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 283 |
@@ -280,7 +280,7 @@
 | 278 | [Unrailed!](games/u/unrailed!.md) | 197 | 4.64 | 315 |
 | 279 | [Crashlands](games/c/crashlands.md) | 194 | 4.66 | 283 |
 | 280 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 193 | 4.52 | 537 |
-| 281 | [Pinball FX](games/p/pinball_fx.md) | 191 | 4.05 | 942 |
+| 281 | [Pinball FX](games/p/pinball_fx.md) | 191 | 4.05 | 943 |
 | 282 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 185 | 4.62 | 353 |
 | 283 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 184 | 4.63 | 333 |
 | 284 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.08 | 929 |

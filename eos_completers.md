@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.62% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.60% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -36,7 +36,7 @@
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 35 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.51% |
 | 36 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
-| 37 | [Sonic Origins](games/s/sonic_origins.md) | 8.08% |
+| 37 | [Sonic Origins](games/s/sonic_origins.md) | 8.06% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.74% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
@@ -94,9 +94,9 @@
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
 | 92 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.38% |
 | 94 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 95 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.32% |
+| 95 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.31% |
 | 96 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 97 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.23% |
+| 97 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.21% |
 | 98 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 99 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.06% |
 | 100 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.05% |
@@ -123,7 +123,7 @@
 | 121 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.34% |
 | 122 | [Lemon Cake](games/l/lemon_cake.md) | 1.33% |
 | 123 | [Chorus](games/c/chorus.md) | 1.23% |
-| 124 | [Late Shift](games/l/late_shift.md) | 1.22% |
+| 124 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 126 | [Infindustry](games/i/infindustry.md) | 1.11% |
 | 127 | [Trifox](games/t/trifox.md) | 1.09% |
@@ -211,12 +211,12 @@
 | 209 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 209 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.21% |
 | 211 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.20% |
-| 212 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
-| 212 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 214 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.18% |
-| 214 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 214 | [Remnant 2](games/r/remnant_2.md) | 0.18% |
-| 214 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
+| 211 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.20% |
+| 213 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
+| 213 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
+| 215 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 215 | [Remnant 2](games/r/remnant_2.md) | 0.18% |
+| 215 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 218 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 218 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 218 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
