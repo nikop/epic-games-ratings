@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4475,18 +4475,24 @@
       "Rating": 4.92,
       "NumberOfAwards": 7949,
       "NumberOfAwardsMax": 3281
+    },
+    {
+      "Time": "2023-09-28T13:06:03.6062189+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7951,
+      "NumberOfAwardsMax": 3283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7949,
-  "NumberOfAwardsMax": 3281,
+  "NumberOfAwards": 7951,
+  "NumberOfAwardsMax": 3283,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3281
+      "Count": 3283
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4573,9 +4579,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 704301,
+  "EOS_Progressed": 704302,
   "EOS_Completed": 6380,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -21758,6 +21764,11 @@
       "Time": "2023-09-28T12:06:19.4411943+00:00",
       "NumProgressed": 704301,
       "NumCompleted": 6380
+    },
+    {
+      "Time": "2023-09-28T13:12:14.7446495+00:00",
+      "NumProgressed": 704302,
+      "NumCompleted": 6380
     }
   ],
   "TotalAchievements": 49,
@@ -21769,7 +21780,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 267634
+      "UsersEstimate": 267635
     },
     {
       "ID": "AchAresKills",
@@ -21817,7 +21828,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 225376
+      "UsersEstimate": 225377
     },
     {
       "ID": "AchClearAnyRun",
@@ -21833,7 +21844,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563441
+      "UsersEstimate": 563442
     },
     {
       "ID": "AchClearElysium",
@@ -21873,7 +21884,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 626828
+      "UsersEstimate": 626829
     },
     {
       "ID": "AchCrushedThanatos",
@@ -21881,7 +21892,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 316935
+      "UsersEstimate": 316936
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -21897,7 +21908,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 197204
+      "UsersEstimate": 197205
     },
     {
       "ID": "AchForgedBond",
@@ -21905,7 +21916,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 197204
+      "UsersEstimate": 197205
     },
     {
       "ID": "AchFoundAllSummons",
@@ -21961,7 +21972,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 260591
+      "UsersEstimate": 260592
     },
     {
       "ID": "AchManyCosmetics",
@@ -21969,7 +21980,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 190161
+      "UsersEstimate": 190162
     },
     {
       "ID": "AchManyQuests",
@@ -21977,7 +21988,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 176075
+      "UsersEstimate": 176076
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -21985,7 +21996,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 246505
+      "UsersEstimate": 246506
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -22041,7 +22052,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253548
+      "UsersEstimate": 253549
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -22057,7 +22068,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 260591
+      "UsersEstimate": 260592
     },
     {
       "ID": "AchPickedManyHammers",
@@ -22081,7 +22092,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 183118
+      "UsersEstimate": 183119
     },
     {
       "ID": "AchReachedEpilogue",
@@ -22121,7 +22132,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 295806
+      "UsersEstimate": 295807
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -22145,7 +22156,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 281720
+      "UsersEstimate": 281721
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -22160,15 +22171,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 704301,
+      "Progressed": 704302,
       "Completed": 6380
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-09-28T08:59:56.2224053+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:06:19.4411938+00:00",
+  "LastChanged": "2023-09-28T13:06:03.6062188+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:12:14.744649+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.4290692+00:00",
-  "LastUpdate_Ratings": "2023-09-28T12:00:06.4856292+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:06:19.4413365+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:06:03.6062193+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:12:14.7447603+00:00"
 }

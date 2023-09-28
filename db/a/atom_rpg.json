@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1249,
+  "EOS_Progressed": 1250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2680,6 +2680,11 @@
       "Time": "2023-09-28T10:06:12.9872334+00:00",
       "NumProgressed": 1249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T13:12:57.2613511+00:00",
+      "NumProgressed": 1250,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2739,7 +2744,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -2747,7 +2752,7 @@
       "Name": "Atom Agent",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "EXPERT_1",
@@ -2787,7 +2792,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "INDY_1",
@@ -2803,7 +2808,7 @@
       "Name": "Tourist Korallov",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KRAINA_GRZYBOW_1",
@@ -2843,7 +2848,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2955,7 +2960,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "WANDERER_1",
@@ -2963,7 +2968,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "WISHMASTER_1",
@@ -2971,22 +2976,22 @@
       "Name": "Wishmaster",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1249,
+      "Progressed": 1250,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:06:57.9007626+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:12:57.2613497+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:59:57.8025792+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:06:57.9008045+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:05:53.106323+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:12:57.2613758+00:00"
 }

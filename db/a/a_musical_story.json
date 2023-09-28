@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -601,9 +601,9 @@
       "ID": "L3_FINISH",
       "SetID": "6finf64",
       "Name": "Solitude",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "L3_PERFECT",
@@ -625,9 +625,9 @@
       "ID": "L4_PERFECT",
       "SetID": "6finf64",
       "Name": "Dreamers",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "L5_FINISH",
@@ -746,8 +746,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:09:09.0595223+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:14:27.8303464+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:21.1563523+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:57:15.1683473+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:09:09.0595764+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:02:50.9837226+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:14:27.8303866+00:00"
 }

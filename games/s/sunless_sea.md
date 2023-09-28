@@ -6,19 +6,19 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,659 |
+| Sink Beneath the Waves | 36.00% | ~13,661 |
 | Sweet Sorrow | 18.00% | ~6,830 |
-| Rules the Waves | 17.00% | ~6,450 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,691 |
+| Rules the Waves | 17.00% | ~6,451 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,692 |
 | Rival | 14.00% | ~5,312 |
-| Correspondent | 12.00% | ~4,553 |
-| Lose Your Mind | 12.00% | ~4,553 |
-| Sound Mind? | 12.00% | ~4,553 |
+| Correspondent | 12.00% | ~4,554 |
+| Lose Your Mind | 12.00% | ~4,554 |
+| Sound Mind? | 12.00% | ~4,554 |
 | Salt's Curse | 11.00% | ~4,174 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,174 |
 | The Fall of the House | 11.00% | ~4,174 |
 | Shipmate | 11.00% | ~4,174 |
-| One Year at Zee | 8.00% | ~3,035 |
+| One Year at Zee | 8.00% | ~3,036 |
 | Pupil | 7.00% | ~2,656 |
 | Salvager | 7.00% | ~2,656 |
 | Open Your Ears | 7.00% | ~2,656 |
@@ -42,11 +42,11 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~379 |
 | Under the zee | 1.00% | ~379 |
 | A current under zee | 1.00% | ~379 |
-| Never Stop Sinking... | 0.90% | ~341 |
-| The beauty of the deep | 0.90% | ~341 |
-| Leviathan | 0.90% | ~341 |
-| No regrets | 0.90% | ~341 |
-| Depth charge | 0.90% | ~341 |
+| Never Stop Sinking... | 0.90% | ~342 |
+| The beauty of the deep | 0.90% | ~342 |
+| Leviathan | 0.90% | ~342 |
+| No regrets | 0.90% | ~342 |
+| Depth charge | 0.90% | ~342 |
 | A zee-change | 0.80% | ~304 |
 | What lies beneath | 0.70% | ~266 |
 | Stone's Curse | 0.70% | ~266 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,943 (Ranked 104)  
+Progressed: 37,946 (Ranked 104)  
 Completed: 3 (0.01%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 3 (0.01%) (Ranked 280)
 | 2023-09-25 | 37,848 | 3 |
 | 2023-09-26 | 37,885 | 3 |
 | 2023-09-27 | 37,923 | 3 |
-| 2023-09-28 | 37,943 | 3 |
+| 2023-09-28 | 37,946 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 271)  
 Sum: 285 (Ranked 350)  

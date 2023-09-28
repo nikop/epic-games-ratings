@@ -4,7 +4,7 @@
   "ProductSlug": "monorail-stories-4b4a69",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-09-30T12:00:00+00:00",
@@ -54,8 +54,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.1772361+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.4628972+00:00",
   "LastChanged": "2023-03-31T05:58:44.1772362+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:05:15.5200399+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:11:03.7044377+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:21.2200986+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:57:15.6641153+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:05:15.5200438+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:02:51.5129859+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:11:03.7044419+00:00"
 }

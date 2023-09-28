@@ -1,11 +1,11 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 894)  
+Rating: 4.19 (Ranked 882)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,918 |
+| First Step Into the Knight | 52.00% | ~37,919 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,522 |
 | Loose Ends | 34.00% | ~24,793 |
 | To the Victor Go the Spoils | 29.00% | ~21,147 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 894)
 | Snow Problem | 19.00% | ~13,855 |
 | The Show Mud Go On | 18.00% | ~13,126 |
 | From Inside Gotham's Walls | 18.00% | ~13,126 |
-| Protector of Gotham | 17.00% | ~12,396 |
+| Protector of Gotham | 17.00% | ~12,397 |
 | Universal Health Scare | 16.00% | ~11,667 |
 | In Your Element | 15.00% | ~10,938 |
 | Voiceless | 15.00% | ~10,938 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 894)
 | Seeking Asylum | 14.00% | ~10,209 |
 | Not On My Watch | 13.00% | ~9,480 |
 | Shock Til They Drop | 13.00% | ~9,480 |
-| End of an Era | 12.00% | ~8,750 |
-| Bulldozed | 12.00% | ~8,750 |
-| Gotham Knight | 12.00% | ~8,750 |
+| End of an Era | 12.00% | ~8,751 |
+| Bulldozed | 12.00% | ~8,751 |
+| Gotham Knight | 12.00% | ~8,751 |
 | Gotham City Confidential | 11.00% | ~8,021 |
 | Drone You Out | 10.00% | ~7,292 |
 | Out of Their League | 9.00% | ~6,563 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 894)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,920 (Ranked 84)  
+Progressed: 72,921 (Ranked 84)  
 Completed: 118 (0.16%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 118 (0.16%) (Ranked 218)
 | 2023-09-25 | 72,826 | 118 |
 | 2023-09-26 | 72,863 | 118 |
 | 2023-09-27 | 72,905 | 118 |
-| 2023-09-28 | 72,920 | 118 |
+| 2023-09-28 | 72,921 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,761  (Ranked 96)  
-Sum: 4,604 (Ranked 140)  
+Sum: 4,605 (Ranked 140)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -239,7 +239,7 @@ Diff (max vs sum): -44
 | This game has Quickly Understood Controls | 236 |
 | This game is Relaxing | 236 |
 | This game is Extremely Fun | 236 |
-| This game has Diverse Characters | 229 |
+| This game has Diverse Characters | 230 |
 | This game has Amazing Characters | 227 |
 | This game has Amazing Storytelling | 227 |
 | This game is Highly Recommended | 227 |
@@ -463,4 +463,4 @@ Diff (max vs sum): -44
 | 2023-09-25 | 4.18 | 2,746 | 4,573 |
 | 2023-09-26 | 4.18 | 2,755 | 4,589 |
 | 2023-09-27 | 4.18 | 2,761 | 4,602 |
-| 2023-09-28 | 4.18 | 2,761 | 4,604 |
+| 2023-09-28 | 4.19 | 2,761 | 4,605 |

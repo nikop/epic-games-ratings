@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 84,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -3168,10 +3168,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4604,
       "NumberOfAwardsMax": 2761
+    },
+    {
+      "Time": "2023-09-28T13:04:39.3599984+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 4605,
+      "NumberOfAwardsMax": 2761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4604,
+  "NumberOfAwards": 4605,
   "NumberOfAwardsMax": 2761,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3227,7 +3233,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 229
+      "Count": 230
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3236,9 +3242,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72920,
+  "EOS_Progressed": 72921,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16916,6 +16922,11 @@
       "Time": "2023-09-28T10:06:51.2554578+00:00",
       "NumProgressed": 72920,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-28T13:13:49.072062+00:00",
+      "NumProgressed": 72921,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17007,7 +17018,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8750
+      "UsersEstimate": 8751
     },
     {
       "ID": "APPLY_STATUS",
@@ -17023,7 +17034,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12396
+      "UsersEstimate": 12397
     },
     {
       "ID": "CLAYFACE_1",
@@ -17103,7 +17114,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8750
+      "UsersEstimate": 8751
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -17271,7 +17282,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37918
+      "UsersEstimate": 37919
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17375,7 +17386,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8750
+      "UsersEstimate": 8751
     },
     {
       "ID": "SECRET_CACHE",
@@ -17414,22 +17425,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72920,
+      "Progressed": 72921,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43200,
+      "Progressed": 43201,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-28T05:58:30.2815758+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:07:43.9676419+00:00",
+  "LastChanged": "2023-09-28T13:04:39.3599982+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:13:49.0720616+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:58:51.5846667+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:07:43.9677805+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:04:39.3599988+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:13:49.0721677+00:00"
 }

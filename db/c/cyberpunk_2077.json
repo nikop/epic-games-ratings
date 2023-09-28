@@ -12617,10 +12617,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883865,
-  "EOS_Completed": 2452,
-  "EOS_NewPlayers": 6244,
-  "EOS_NewCompleters": 327,
+  "EOS_Progressed": 883914,
+  "EOS_Completed": 2453,
+  "EOS_NewPlayers": 6263,
+  "EOS_NewCompleters": 328,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30702,6 +30702,11 @@
       "Time": "2023-09-28T12:06:44.2332345+00:00",
       "NumProgressed": 883865,
       "NumCompleted": 2452
+    },
+    {
+      "Time": "2023-09-28T13:12:41.9072875+00:00",
+      "NumProgressed": 883914,
+      "NumCompleted": 2453
     }
   ],
   "TotalAchievements": 57,
@@ -30713,7 +30718,7 @@
       "Name": "City Lights",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "BornToBeWild",
@@ -30743,9 +30748,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7955
     },
     {
       "ID": "FollowingTheRiver",
@@ -30785,7 +30790,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "Gunslinger",
@@ -30833,7 +30838,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "MaxPain",
@@ -30841,7 +30846,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "MustBeTheRats",
@@ -30897,7 +30902,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17677
+      "UsersEstimate": 17678
     },
     {
       "ID": "Temperance",
@@ -30913,7 +30918,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17677
+      "UsersEstimate": 17678
     },
     {
       "ID": "TheDevil",
@@ -30921,7 +30926,7 @@
       "Name": "The Devil",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "TheFool",
@@ -30929,15 +30934,15 @@
       "Name": "The Fool",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6187
+      "UsersEstimate": 7071
     },
     {
       "ID": "TheHightPriestess",
@@ -30953,7 +30958,7 @@
       "Name": "The Lovers",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "TheStar",
@@ -30967,9 +30972,9 @@
       "ID": "TheSun",
       "SetID": "47clieb",
       "Name": "The Sun",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 884
+      "UsersEstimate": 1768
     },
     {
       "ID": "TheWheelOfFortune",
@@ -30985,7 +30990,7 @@
       "Name": "The World",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "ThisIsPacifica",
@@ -30993,7 +30998,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "TradeUnion",
@@ -31007,9 +31012,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7071
+      "UsersEstimate": 7955
     },
     {
       "ID": "TrueWarrior",
@@ -31033,7 +31038,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "VForVendetta",
@@ -31049,15 +31054,15 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5303
+      "UsersEstimate": 6187
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31089,7 +31094,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Easycomeeasygo",
@@ -31113,7 +31118,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Kingofcups",
@@ -31153,7 +31158,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "UltimateSurvivor",
@@ -31168,21 +31173,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883865,
-      "Completed": 2452
+      "Progressed": 883914,
+      "Completed": 2453
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12488,
+      "Progressed": 12537,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T08:58:17.619982+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:06:44.233234+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:12:41.9072872+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:58:01.4100127+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:06:44.2333938+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:03:42.4740476+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:12:41.9074198+00:00"
 }

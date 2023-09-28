@@ -4,7 +4,7 @@
   "ProductSlug": "power-vacuum-3b662e",
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-04T04:00:00+00:00",
@@ -272,8 +272,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-30T09:00:58.4633941+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:05:08.1436639+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:10:55.6959553+00:00",
   "LastUpdate_AppInfo": "2023-09-26T19:57:06.1866389+00:00",
-  "LastUpdate_Ratings": "2023-09-28T12:03:13.5757407+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:05:08.1436784+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:08:06.6068819+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:10:55.6959679+00:00"
 }

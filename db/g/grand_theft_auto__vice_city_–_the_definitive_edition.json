@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 490,
   "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -700,9 +700,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 10453,
+  "EOS_Progressed": 10454,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10710,6 +10710,11 @@
       "Time": "2023-09-28T10:05:48.9508614+00:00",
       "NumProgressed": 10453,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-28T13:12:24.972532+00:00",
+      "NumProgressed": 10454,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10825,7 +10830,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "ACH15",
@@ -10881,7 +10886,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4808
+      "UsersEstimate": 4809
     },
     {
       "ID": "ACH22",
@@ -10897,7 +10902,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     },
     {
       "ID": "ACH24",
@@ -10992,7 +10997,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10453,
+      "Progressed": 10454,
       "Completed": 58
     }
   ],
@@ -11000,8 +11005,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-28T04:58:25.0774214+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:06:28.3864372+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:12:24.9725317+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:58:22.690701+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:06:28.3865229+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:04:06.5436201+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:12:24.9725962+00:00"
 }

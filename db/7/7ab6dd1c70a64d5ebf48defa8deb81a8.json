@@ -180,17 +180,17 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_07",
@@ -324,9 +324,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_24",
@@ -340,17 +340,17 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_27",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:05:55.5541895+00:00",
-  "LastUpdate_Ratings": "2023-09-28T12:00:24.8151273+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:05:55.554218+00:00"
+  "LastChanged_Achievements": "2023-09-28T13:11:48.1488941+00:00",
+  "LastUpdate_Ratings": "2023-09-28T13:06:21.2631651+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:11:48.1489163+00:00"
 }

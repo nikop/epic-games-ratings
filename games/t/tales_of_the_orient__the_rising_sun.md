@@ -10,8 +10,8 @@
 | 10 is good! | 61.00% | ~11 |
 | 1 Hour! | 61.00% | ~11 |
 | One-quarter mark | 39.00% | ~7 |
+| 5 Hours! | 33.00% | ~6 |
 | Half way! | 28.00% | ~5 |
-| 5 Hours! | 28.00% | ~5 |
 | 10 Hours! | 22.00% | ~4 |
 | Almost there! | 22.00% | ~4 |
 | You did it! | 11.00% | ~2 |

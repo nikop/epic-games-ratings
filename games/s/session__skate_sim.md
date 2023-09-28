@@ -6,14 +6,14 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,784 |
-| Keeping it classy | 27.00% | ~803 |
-| Welcome to the family | 21.00% | ~624 |
+| You're free now! | 60.00% | ~1,786 |
+| Keeping it classy | 27.00% | ~804 |
+| Welcome to the family | 21.00% | ~625 |
 | The finer things in life | 19.00% | ~565 |
-| Backpacker | 14.00% | ~416 |
-| Go with the Flow | 13.00% | ~386 |
-| Plastic Surgeon | 10.00% | ~297 |
-| The flip trick crown jewel | 10.00% | ~297 |
+| Backpacker | 14.00% | ~417 |
+| Go with the Flow | 13.00% | ~387 |
+| Plastic Surgeon | 10.00% | ~298 |
+| The flip trick crown jewel | 10.00% | ~298 |
 | Good vibes | 9.00% | ~268 |
 | Keep the dream alive | 9.00% | ~268 |
 | The hard way | 9.00% | ~268 |
@@ -22,13 +22,13 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~208 |
 | That pinch! | 7.00% | ~208 |
 | Tight lipslides | 7.00% | ~208 |
-| Bottom ply killer | 6.00% | ~178 |
-| Fulfilled the dream | 6.00% | ~178 |
-| G'Day Mate! | 6.00% | ~178 |
-| NAHELL! | 6.00% | ~178 |
-| Purple passion | 6.00% | ~178 |
-| Squad goals | 6.00% | ~178 |
-| Sup widdit big dog! | 6.00% | ~178 |
+| Bottom ply killer | 6.00% | ~179 |
+| Fulfilled the dream | 6.00% | ~179 |
+| G'Day Mate! | 6.00% | ~179 |
+| NAHELL! | 6.00% | ~179 |
+| Purple passion | 6.00% | ~179 |
+| Squad goals | 6.00% | ~179 |
+| Sup widdit big dog! | 6.00% | ~179 |
 | Commence the Hijinx! | 5.00% | ~149 |
 | DIY Boss | 5.00% | ~149 |
 | Globetrotter | 5.00% | ~149 |
@@ -44,9 +44,9 @@ Number of Ratings: 111  (23.09.2022)
 | We get it, you're good | 4.00% | ~119 |
 | Hoarder | 3.00% | ~89 |
 | Pew-Pew | 3.00% | ~89 |
-| Cross lock country | 2.00% | ~59 |
-| Many plys later... | 2.00% | ~59 |
-| That was wheelie fun | 2.00% | ~59 |
+| Cross lock country | 2.00% | ~60 |
+| Many plys later... | 2.00% | ~60 |
+| That was wheelie fun | 2.00% | ~60 |
 | Dipped! | 1.00% | ~30 |
 | Skatepark hero | 1.00% | ~30 |
 | Bing Bong! | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,973 (Ranked 186)  
+Progressed: 2,976 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 2,943 | 0 |
 | 2023-09-26 | 2,954 | 0 |
 | 2023-09-27 | 2,965 | 0 |
-| 2023-09-28 | 2,973 | 0 |
+| 2023-09-28 | 2,976 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
 Sum: 473 (Ranked 313)  

@@ -2563,10 +2563,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1960,
       "NumberOfAwardsMax": 284
+    },
+    {
+      "Time": "2023-09-28T13:04:29.2353504+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1961,
+      "NumberOfAwardsMax": 284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1960,
+  "NumberOfAwards": 1961,
   "NumberOfAwardsMax": 284,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2598,7 +2604,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 240
+      "Count": 241
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2631,9 +2637,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534159,
+  "EOS_Progressed": 534160,
   "EOS_Completed": 1558,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -20201,6 +20207,11 @@
       "Time": "2023-09-28T12:05:52.7038395+00:00",
       "NumProgressed": 534159,
       "NumCompleted": 1558
+    },
+    {
+      "Time": "2023-09-28T13:11:44.8045206+00:00",
+      "NumProgressed": 534160,
+      "NumCompleted": 1558
     }
   ],
   "TotalAchievements": 37,
@@ -20228,7 +20239,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165589
+      "UsersEstimate": 165590
     },
     {
       "ID": "DEVOTED",
@@ -20268,7 +20279,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443352
+      "UsersEstimate": 443353
     },
     {
       "ID": "HONED",
@@ -20332,7 +20343,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58757
+      "UsersEstimate": 58758
     },
     {
       "ID": "THE_CAVE",
@@ -20484,7 +20495,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85465
+      "UsersEstimate": 85466
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -20507,15 +20518,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534159,
+      "Progressed": 534160,
       "Completed": 1558
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-09-24T20:57:23.7120946+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:05:52.7038391+00:00",
+  "LastChanged": "2023-09-28T13:04:29.2353503+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:11:44.8045201+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.3325284+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:58:42.9335786+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:05:52.7039708+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:04:29.2353508+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:11:44.8046239+00:00"
 }

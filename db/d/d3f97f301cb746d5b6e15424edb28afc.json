@@ -342,9 +342,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -510,9 +510,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -861,8 +861,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:06:53.0005023+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:12:51.8276607+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-28T12:01:14.3082979+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:06:53.0006119+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:07:16.909984+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:12:51.8277424+00:00"
 }

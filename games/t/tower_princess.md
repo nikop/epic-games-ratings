@@ -41,7 +41,7 @@
 | Get Good! | 0.00% | ~0 |
 | Wise Talk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 590)  
+Progressed: 1 (Ranked 591)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

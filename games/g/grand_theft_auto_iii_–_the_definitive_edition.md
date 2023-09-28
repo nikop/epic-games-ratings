@@ -5,37 +5,37 @@ Rating: 4.19 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~6,763 |
-| Disposing of the Evidence | 38.00% | ~3,096 |
-| Without a Scratch | 34.00% | ~2,770 |
-| Wreckless Driving | 28.00% | ~2,281 |
-| A Marked Man | 25.00% | ~2,037 |
+| First Day on the Job | 83.00% | ~6,765 |
+| Disposing of the Evidence | 38.00% | ~3,097 |
+| Without a Scratch | 34.00% | ~2,771 |
+| Wreckless Driving | 28.00% | ~2,282 |
+| A Marked Man | 25.00% | ~2,038 |
 | Street Sweeper | 18.00% | ~1,467 |
-| Liberty City Minute | 17.00% | ~1,385 |
+| Liberty City Minute | 17.00% | ~1,386 |
 | Offshore Delivery | 14.00% | ~1,141 |
 | Dirty Money | 12.00% | ~978 |
 | By a Mile | 10.00% | ~815 |
 | Not So Fast | 10.00% | ~815 |
 | Right-hand Man | 10.00% | ~815 |
-| A Gift from the King | 7.00% | ~570 |
+| A Gift from the King | 7.00% | ~571 |
 | Full Artillery | 4.00% | ~326 |
-| Mob Boss | 3.00% | ~244 |
+| Mob Boss | 3.00% | ~245 |
 | Where To? | 2.00% | ~163 |
 | Splish Splash | 2.00% | ~163 |
 | Playing Doctor | 2.00% | ~163 |
 | Liberty City Secrets | 2.00% | ~163 |
-| Escape Artist | 1.00% | ~81 |
-| Planned Ahead | 1.00% | ~81 |
-| Got This Figured Out | 1.00% | ~81 |
-| Wheels Up | 1.00% | ~81 |
-| Come Out to Play-y-y-y | 1.00% | ~81 |
-| Man Toyz | 1.00% | ~81 |
-| Going Rogue | 1.00% | ~81 |
-| Furious First Responder | 1.00% | ~81 |
+| Escape Artist | 1.00% | ~82 |
+| Planned Ahead | 1.00% | ~82 |
+| Got This Figured Out | 1.00% | ~82 |
+| Wheels Up | 1.00% | ~82 |
+| Come Out to Play-y-y-y | 1.00% | ~82 |
+| Man Toyz | 1.00% | ~82 |
+| Going Rogue | 1.00% | ~82 |
+| Furious First Responder | 1.00% | ~82 |
 | Is That All You've Got? | 0.90% | ~73 |
 | King of Liberty City | 0.70% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,148 (Ranked 146)  
+Progressed: 8,151 (Ranked 146)  
 Completed: 53 (0.65%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 53 (0.65%) (Ranked 147)
 | 2023-09-25 | 8,078 | 52 |
 | 2023-09-26 | 8,110 | 53 |
 | 2023-09-27 | 8,134 | 53 |
-| 2023-09-28 | 8,148 | 53 |
+| 2023-09-28 | 8,151 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "40f6e4beb45a4bbfb77fdb6774331e83",
   "Name": "Golfing in Aether",
   "ProductSlug": "golfing-in-aether-cfac43",
-  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:06:23.6489195+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:12:19.5646515+00:00",
   "LastUpdate_AppInfo": "2023-09-28T03:57:17.8611085+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:58:21.1808225+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:06:23.6489304+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:04:04.9405729+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:12:19.564661+00:00"
 }

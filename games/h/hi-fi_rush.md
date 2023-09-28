@@ -12,13 +12,13 @@ Rating: 4.85 (Ranked 42)
 | Thanks for the free chip, Peppermint! | 12.00% | ~493 |
 | Who put gears in there? | 12.00% | ~493 |
 | You got this, Peppermint? | 11.00% | ~452 |
-| Perfect Parry | 10.00% | ~410 |
-| Alright, that felt AWESOME! | 10.00% | ~410 |
-| This will cost you big time | 9.00% | ~369 |
-| I play my own way! | 9.00% | ~369 |
-| Z-shielding's got nothing on us! | 9.00% | ~369 |
-| Uh, they were broken when I got here | 9.00% | ~369 |
-| Kissing the sky! | 9.00% | ~369 |
+| Perfect Parry | 10.00% | ~411 |
+| Alright, that felt AWESOME! | 10.00% | ~411 |
+| This will cost you big time | 9.00% | ~370 |
+| I play my own way! | 9.00% | ~370 |
+| Z-shielding's got nothing on us! | 9.00% | ~370 |
+| Uh, they were broken when I got here | 9.00% | ~370 |
+| Kissing the sky! | 9.00% | ~370 |
 | The Negotiator | 8.00% | ~328 |
 | Whoa! There's ANOTHER health bar!? | 8.00% | ~328 |
 | I look cool. But I can look COOLER. | 8.00% | ~328 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,105 (Ranked 171)  
+Progressed: 4,106 (Ranked 171)  
 Completed: 8 (0.19%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 8 (0.19%) (Ranked 212)
 | 2023-09-25 | 4,093 | 8 |
 | 2023-09-26 | 4,097 | 8 |
 | 2023-09-27 | 4,099 | 8 |
-| 2023-09-28 | 4,105 | 8 |
+| 2023-09-28 | 4,106 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

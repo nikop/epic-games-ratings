@@ -8,7 +8,7 @@
 | Rehearsal | 94.00% | ~96 |
 | Daily Life | 91.00% | ~93 |
 | Assembly Line Work | 88.00% | ~90 |
-| Solitude | 82.00% | ~84 |
+| Solitude | 83.00% | ~85 |
 | Pinewood, Here we come! | 75.00% | ~76 |
 | The Van | 70.00% | ~71 |
 | Road-Trip | 63.00% | ~64 |
@@ -26,7 +26,7 @@
 | Flat Tire | 25.00% | ~26 |
 | TV Dreams | 23.00% | ~23 |
 | The Clash | 22.00% | ~22 |
-| Dreamers | 18.00% | ~18 |
+| Dreamers | 19.00% | ~19 |
 | Time | 17.00% | ~17 |
 | The Fix | 16.00% | ~16 |
 | The Mountains, The Valleys | 14.00% | ~14 |

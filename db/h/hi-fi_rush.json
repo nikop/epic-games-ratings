@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4105,
+  "EOS_Progressed": 4106,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6800,6 +6800,11 @@
       "Time": "2023-09-28T10:05:32.6581562+00:00",
       "NumProgressed": 4105,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-28T13:12:03.1086072+00:00",
+      "NumProgressed": 4106,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6827,7 +6832,7 @@
       "Name": "This will cost you big time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "Ach004",
@@ -6939,7 +6944,7 @@
       "Name": "I play my own way!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "Ach018",
@@ -7019,7 +7024,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "Ach028",
@@ -7051,7 +7056,7 @@
       "Name": "Perfect Parry",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "Ach032",
@@ -7067,7 +7072,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "Ach034",
@@ -7091,7 +7096,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "Ach037",
@@ -7187,7 +7192,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "Ach049",
@@ -7378,13 +7383,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4105,
+      "Progressed": 4106,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2626,
+      "Progressed": 2627,
       "Completed": 1930
     }
   ],
@@ -7392,8 +7397,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:06:09.0273177+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:12:03.1086068+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-28T11:57:37.0065817+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:06:09.0274213+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:03:15.4436291+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:12:03.108698+00:00"
 }

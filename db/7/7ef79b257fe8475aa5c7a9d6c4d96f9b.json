@@ -2,9 +2,9 @@
   "ID": "7ef79b257fe8475aa5c7a9d6c4d96f9b",
   "Name": "Metro Simulator 2",
   "ProductSlug": "metro-simulator-2-532ff8",
-  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Progress": 591,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-05T03:00:00+00:00",
@@ -112,8 +112,8 @@
   ],
   "FirstSeen": "2023-07-10T13:57:10.3527698+00:00",
   "FirstSeenAchievements": "2023-06-15T09:00:36.7536566+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:03:27.3545596+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:08:23.1291119+00:00",
   "LastUpdate_AppInfo": "2023-09-24T01:41:45.4548343+00:00",
-  "LastUpdate_Ratings": "2023-09-28T12:00:41.8864756+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:03:27.3545735+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:06:41.0115256+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:08:23.1291204+00:00"
 }

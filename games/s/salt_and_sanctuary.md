@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~443,352 |
+| Find Sanctuary | 83.00% | ~443,353 |
 | The Three | 64.00% | ~341,862 |
 | The Banquet | 40.00% | ~213,664 |
-| Devara's Light | 31.00% | ~165,589 |
+| Devara's Light | 31.00% | ~165,590 |
 | The Iron Ones | 18.00% | ~96,149 |
-| The Village | 16.00% | ~85,465 |
+| The Village | 16.00% | ~85,466 |
 | The Forest | 15.00% | ~80,124 |
 | The Keep | 14.00% | ~74,782 |
 | Branded | 13.00% | ~69,441 |
 | The Imposter | 13.00% | ~69,441 |
-| The Castle | 11.00% | ~58,757 |
+| The Castle | 11.00% | ~58,758 |
 | The Dome | 9.00% | ~48,074 |
 | The Red Hall | 9.00% | ~48,074 |
 | The Sacrifice | 8.00% | ~42,733 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,683 |
 | Fading Fast | 1.00% | ~5,342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,159 (Ranked 32)  
+Progressed: 534,160 (Ranked 32)  
 Completed: 1,558 (0.29%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,17 +205,17 @@ Completed: 1,558 (0.29%) (Ranked 197)
 | 2023-09-25 | 534,001 | 1,554 |
 | 2023-09-26 | 534,075 | 1,556 |
 | 2023-09-27 | 534,134 | 1,558 |
-| 2023-09-28 | 534,159 | 1,558 |
+| 2023-09-28 | 534,160 | 1,558 |
 ## Awards
 Max (Challenging Combat): 284  (Ranked 245)  
-Sum: 1,960 (Ranked 204)  
+Sum: 1,961 (Ranked 204)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 284 |
 | This game has Quickly Understood Controls | 260 |
 | This game is Highly Recommended | 258 |
-| This game has Diverse Characters | 240 |
+| This game has Diverse Characters | 241 |
 | This game is Extremely Fun | 239 |
 | This game has Amazing Storytelling | 231 |
 | This game has Amazing Characters | 227 |
@@ -388,3 +388,4 @@ Diff (max vs sum): 41
 | 2023-09-18 | 4.61 | - | 283 | 1,956 |
 | 2023-09-19 | 4.61 | - | 283 | 1,957 |
 | 2023-09-24 | 4.61 | - | 284 | 1,960 |
+| 2023-09-28 | 4.61 | - | 284 | 1,961 |

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 100.00% | ~12 |
-| Meissa's Savior | 100.00% | ~12 |
-| Purification Pioneer | 100.00% | ~12 |
-| Dicesmithing Time! | 92.00% | ~11 |
-| Endless Tricks | 92.00% | ~11 |
-| Wild's Keeper | 83.00% | ~10 |
-| Mind Illuminator | 67.00% | ~8 |
-| Sanctuary Guardian | 67.00% | ~8 |
-| Stellar Dismantler | 50.00% | ~6 |
-| Sentinelphobic | 42.00% | ~5 |
-| Stellar Haste | 42.00% | ~5 |
-| The Corruption Goddess | 42.00% | ~5 |
-| Unbeatable | 42.00% | ~5 |
-| Sadistic Plan | 33.00% | ~4 |
-| Skeptical | 33.00% | ~4 |
-| Dice Specialist | 25.00% | ~3 |
-| Anomaly Destroyer | 17.00% | ~2 |
-| Heart Gate | 17.00% | ~2 |
-| Loyal Partner | 17.00% | ~2 |
-| Pocket Astrarium | 17.00% | ~2 |
-| Shard Spender | 17.00% | ~2 |
-| Star Killer | 17.00% | ~2 |
-| Unepic Hero | 17.00% | ~2 |
+| Mechanical Buddy | 92.00% | ~12 |
+| Meissa's Savior | 92.00% | ~12 |
+| Purification Pioneer | 92.00% | ~12 |
+| Dicesmithing Time! | 85.00% | ~11 |
+| Endless Tricks | 85.00% | ~11 |
+| Wild's Keeper | 77.00% | ~10 |
+| Mind Illuminator | 62.00% | ~8 |
+| Sanctuary Guardian | 62.00% | ~8 |
+| Stellar Dismantler | 46.00% | ~6 |
+| Sentinelphobic | 38.00% | ~5 |
+| Stellar Haste | 38.00% | ~5 |
+| The Corruption Goddess | 38.00% | ~5 |
+| Unbeatable | 38.00% | ~5 |
+| Sadistic Plan | 31.00% | ~4 |
+| Skeptical | 31.00% | ~4 |
+| Anomaly Destroyer | 23.00% | ~3 |
+| Dice Specialist | 23.00% | ~3 |
+| Heart Gate | 15.00% | ~2 |
+| Loyal Partner | 15.00% | ~2 |
+| Pocket Astrarium | 15.00% | ~2 |
+| Shard Spender | 15.00% | ~2 |
+| Star Killer | 15.00% | ~2 |
+| Unepic Hero | 15.00% | ~2 |
 | Arch-Oracle | 8.00% | ~1 |
 | Astral Adventurer | 8.00% | ~1 |
 | Astral Seeker | 8.00% | ~1 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 497)  
+Progressed: 13 (Ranked 493)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-22 | 5 | 0 |
 | 2023-09-24 | 9 | 0 |
 | 2023-09-27 | 10 | 0 |
-| 2023-09-28 | 12 | 0 |
+| 2023-09-28 | 13 | 0 |

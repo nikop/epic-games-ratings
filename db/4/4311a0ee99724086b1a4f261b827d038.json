@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -290,9 +290,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 221924,
+  "EOS_Progressed": 221937,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2148,
+  "EOS_NewPlayers": 2145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7805,6 +7805,11 @@
       "Time": "2023-09-28T12:07:52.8024259+00:00",
       "NumProgressed": 221924,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T13:13:59.1972594+00:00",
+      "NumProgressed": 221937,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -7873,7 +7878,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 44385
+      "UsersEstimate": 44387
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -7881,7 +7886,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19973
+      "UsersEstimate": 19974
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -7889,7 +7894,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11096
+      "UsersEstimate": 11097
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -7905,7 +7910,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -7921,7 +7926,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -7929,7 +7934,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -7937,7 +7942,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -8001,7 +8006,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28850
+      "UsersEstimate": 28852
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8009,7 +8014,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15535
+      "UsersEstimate": 15536
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -8017,7 +8022,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -8073,7 +8078,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55481
+      "UsersEstimate": 55484
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8088,7 +8093,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 221924,
+      "Progressed": 221937,
       "Completed": 0
     }
   ],
@@ -8096,8 +8101,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-24T19:58:48.7144516+00:00",
-  "LastChanged_Achievements": "2023-09-28T12:07:52.8024254+00:00",
+  "LastChanged_Achievements": "2023-09-28T13:13:59.1972589+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.9329368+00:00",
-  "LastUpdate_Ratings": "2023-09-28T12:00:31.427389+00:00",
-  "LastUpdate_Achievements": "2023-09-28T12:07:52.8024972+00:00"
+  "LastUpdate_Ratings": "2023-09-28T13:06:29.0127384+00:00",
+  "LastUpdate_Achievements": "2023-09-28T13:13:59.1973127+00:00"
 }
