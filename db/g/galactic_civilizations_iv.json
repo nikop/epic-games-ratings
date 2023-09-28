@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6705,
+  "EOS_Progressed": 6706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6467,6 +6467,11 @@
       "Time": "2023-09-28T00:07:29.3246904+00:00",
       "NumProgressed": 6705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T01:49:16.1758567+00:00",
+      "NumProgressed": 6706,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6518,7 +6523,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "Control_All_Relics",
@@ -6582,7 +6587,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "First_Race_Met",
@@ -6598,7 +6603,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "First_Stream_Travel",
@@ -6614,7 +6619,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6670,7 +6675,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "Level_5_Ship",
@@ -6798,7 +6803,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6940,9 +6945,9 @@
       "ID": "Win_As_Torian",
       "SetID": "4h07amh",
       "Name": "Win as Torians",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "Win_As_Xeloxi",
@@ -6966,7 +6971,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7053,15 +7058,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6705,
+      "Progressed": 6706,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-09-28T00:07:29.3246898+00:00",
+  "LastChanged_Achievements": "2023-09-28T01:49:16.1758562+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:24.9419907+00:00",
-  "LastUpdate_Ratings": "2023-09-28T00:02:05.9632903+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:07:29.324808+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:43:57.0720381+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:49:16.175967+00:00"
 }

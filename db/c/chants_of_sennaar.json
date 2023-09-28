@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.83,
+  "EOS_Completed_Percentage": 5.8,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1044,6 +1044,11 @@
       "Time": "2023-09-27T21:09:19.9084124+00:00",
       "NumProgressed": 223,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-28T01:51:21.7921303+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 25,
@@ -1079,7 +1084,7 @@
       "Name": "Cable guy",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1109,9 +1114,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1127,7 +1132,7 @@
       "Name": "A great audience",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1135,7 +1140,7 @@
       "Name": "For its own good",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1159,7 +1164,7 @@
       "Name": "Rascal",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1175,7 +1180,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1199,7 +1204,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1207,7 +1212,7 @@
       "Name": "Scholar",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PROGRESS_N1",
@@ -1245,23 +1250,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-28T00:09:36.3640422+00:00",
+  "LastChanged_Achievements": "2023-09-28T01:51:21.7921297+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-27T23:58:25.208425+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:09:36.3640712+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:40:29.1386013+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:51:21.7921578+00:00"
 }

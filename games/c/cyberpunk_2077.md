@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 2.00% | ~17,670 |
-| Rough Landing | 2.00% | ~17,670 |
-| Gunslinger | 1.00% | ~8,835 |
-| Master Crafter | 1.00% | ~8,835 |
-| The Jungle | 1.00% | ~8,835 |
+| Ten out of Ten | 2.00% | ~17,671 |
+| Rough Landing | 2.00% | ~17,671 |
+| Gunslinger | 1.00% | ~8,836 |
+| Master Crafter | 1.00% | ~8,836 |
+| The Jungle | 1.00% | ~8,836 |
 | Mean Streets | 0.90% | ~7,952 |
 | The High Priestess | 0.90% | ~7,952 |
 | Two Heads, One Bullet | 0.90% | ~7,952 |
@@ -21,11 +21,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.70% | ~6,185 |
 | The Hermit | 0.70% | ~6,185 |
 | True Soldier | 0.70% | ~6,185 |
+| To Bad Decisions! | 0.60% | ~5,301 |
 | Temperance | 0.60% | ~5,301 |
 | The Wheel of Fortune | 0.60% | ~5,301 |
 | True Warrior | 0.60% | ~5,301 |
 | Legend of The Afterlife | 0.60% | ~5,301 |
-| To Bad Decisions! | 0.50% | ~4,418 |
 | The Devil | 0.50% | ~4,418 |
 | The Fool | 0.50% | ~4,418 |
 | The Quick and the Dead | 0.40% | ~3,534 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,512 (Ranked 15)  
-Completed: 2,443 (0.28%) (Ranked 199)  
+Progressed: 883,554 (Ranked 15)  
+Completed: 2,445 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,15 +225,15 @@ Completed: 2,443 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,512 | 2,443 |
+| 2023-09-28 | 883,554 | 2,445 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
-Sum: 230,844 (Ranked 13)  
+Sum: 231,720 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 84,038 |
-| This game has Great Boss Battles | 55,231 |
+| This game has Great Boss Battles | 56,107 |
 | This game has Diverse Characters | 10,892 |
 | This game is Great for Beginners | 10,833 |
 | This game has Amazing Storytelling | 10,776 |
@@ -498,3 +498,4 @@ Diff (max vs sum): -4
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
+| 2023-09-28 | 4.63 | - | 84,038 | 231,720 |

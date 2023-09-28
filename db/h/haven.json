@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1467,
+  "EOS_Progressed": 1468,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1844,6 +1844,11 @@
       "Time": "2023-09-27T17:03:56.0596486+00:00",
       "NumProgressed": 1467,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-28T01:46:21.0442033+00:00",
+      "NumProgressed": 1468,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1911,7 +1916,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "17",
@@ -1919,7 +1924,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "18",
@@ -1983,7 +1988,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "25",
@@ -1991,7 +1996,7 @@
       "Name": "Heartstrings",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "27",
@@ -2015,7 +2020,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "30",
@@ -2063,7 +2068,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "7",
@@ -2094,15 +2099,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1467,
+      "Progressed": 1468,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-28T00:04:31.8646334+00:00",
+  "LastChanged_Achievements": "2023-09-28T01:46:21.0442027+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:10.3938601+00:00",
-  "LastUpdate_Ratings": "2023-09-27T23:58:59.0756556+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:04:31.8646681+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:41:01.8506174+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:46:21.0442315+00:00"
 }

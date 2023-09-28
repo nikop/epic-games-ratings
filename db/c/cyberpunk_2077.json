@@ -12513,10 +12513,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 230844,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-28T01:39:40.6883215+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 231720,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230844,
+  "NumberOfAwards": 231720,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12530,7 +12536,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 55231
+      "Count": 56107
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12593,10 +12599,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883512,
-  "EOS_Completed": 2443,
-  "EOS_NewPlayers": 6061,
-  "EOS_NewCompleters": 319,
+  "EOS_Progressed": 883554,
+  "EOS_Completed": 2445,
+  "EOS_NewPlayers": 6084,
+  "EOS_NewCompleters": 321,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30618,6 +30624,11 @@
       "Time": "2023-09-28T00:07:01.7109443+00:00",
       "NumProgressed": 883512,
       "NumCompleted": 2443
+    },
+    {
+      "Time": "2023-09-28T01:48:48.7708092+00:00",
+      "NumProgressed": 883554,
+      "NumCompleted": 2445
     }
   ],
   "TotalAchievements": 57,
@@ -30635,9 +30646,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4418
+      "UsersEstimate": 5301
     },
     {
       "ID": "BushidoAndChill",
@@ -30709,7 +30720,7 @@
       "Name": "Gunslinger",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8835
+      "UsersEstimate": 8836
     },
     {
       "ID": "HandyMan",
@@ -30717,7 +30728,7 @@
       "Name": "Master Crafter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8835
+      "UsersEstimate": 8836
     },
     {
       "ID": "IAmMaxTac",
@@ -30813,7 +30824,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17670
+      "UsersEstimate": 17671
     },
     {
       "ID": "Temperance",
@@ -30829,7 +30840,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17670
+      "UsersEstimate": 17671
     },
     {
       "ID": "TheDevil",
@@ -30917,7 +30928,7 @@
       "Name": "The Jungle",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8835
+      "UsersEstimate": 8836
     },
     {
       "ID": "TrueSoldier",
@@ -31084,21 +31095,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883512,
-      "Completed": 2443
+      "Progressed": 883554,
+      "Completed": 2445
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12135,
+      "Progressed": 12177,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-27T22:57:36.3632053+00:00",
-  "LastChanged_Achievements": "2023-09-28T00:07:01.7109435+00:00",
+  "LastChanged": "2023-09-28T01:39:40.6883213+00:00",
+  "LastChanged_Achievements": "2023-09-28T01:48:48.7708087+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-27T23:57:35.9615678+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:07:01.711153+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:39:40.6883219+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:48:48.7709673+00:00"
 }

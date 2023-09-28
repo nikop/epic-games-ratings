@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 120)
 | The Sort Who Makes an Entrance | 15.00% | ~44,616 |
 | First Class Student | 13.00% | ~38,667 |
 | Troll with the Punches | 13.00% | ~38,667 |
-| A Keen Sense of Spell | 12.00% | ~35,692 |
+| A Keen Sense of Spell | 12.00% | ~35,693 |
 | A Talent for Spending | 11.00% | ~32,718 |
 | That's a Keeper | 11.00% | ~32,718 |
 | Grappling with a Graphorn | 10.00% | ~29,744 |
@@ -31,12 +31,12 @@ Rating: 4.76 (Ranked 120)
 | Third Time's a Charm | 6.00% | ~17,846 |
 | Raising Expectations | 6.00% | ~17,846 |
 | The Ends Petrify the Means | 5.00% | ~14,872 |
-| The Toast of the Town | 4.00% | ~11,897 |
-| Going Through the Potions | 4.00% | ~11,897 |
-| Room with a View | 4.00% | ~11,897 |
-| The Intrepid Explorer | 4.00% | ~11,897 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,897 |
-| The Wise Owl | 4.00% | ~11,897 |
+| The Toast of the Town | 4.00% | ~11,898 |
+| Going Through the Potions | 4.00% | ~11,898 |
+| Room with a View | 4.00% | ~11,898 |
+| The Intrepid Explorer | 4.00% | ~11,898 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,898 |
+| The Wise Owl | 4.00% | ~11,898 |
 | Put Down Roots | 3.00% | ~8,923 |
 | The Auror's Apprentice | 3.00% | ~8,923 |
 | Floo Around the World | 3.00% | ~8,923 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 120)
 | Demiguise Dread | 1.00% | ~2,974 |
 | A Forte for Achievement | 1.00% | ~2,974 |
 | Merlin's Beard! | 0.90% | ~2,677 |
-| Spilled Milk | 0.80% | ~2,379 |
+| Spilled Milk | 0.80% | ~2,380 |
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,437 (Ranked 45)  
+Progressed: 297,438 (Ranked 45)  
 Completed: 478 (0.16%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 478 (0.16%) (Ranked 218)
 | 2023-09-25 | 297,339 | 477 |
 | 2023-09-26 | 297,390 | 477 |
 | 2023-09-27 | 297,436 | 478 |
-| 2023-09-28 | 297,437 | 478 |
+| 2023-09-28 | 297,438 | 478 |
 ## Awards
 Max (Character Customization): 23,085  (Ranked 17)  
 Sum: 44,480 (Ranked 30)  

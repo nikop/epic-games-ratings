@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 94.00% | ~90 |
-| Training Simulation | 81.00% | ~78 |
-| Kuku Bird Hunter | 73.00% | ~70 |
-| Fashion Connoisseur | 69.00% | ~66 |
-| Storm Traveller | 69.00% | ~66 |
-| Wolf King Killer | 68.00% | ~65 |
+| Travel Streamer | 94.00% | ~91 |
+| Training Simulation | 80.00% | ~78 |
+| Kuku Bird Hunter | 72.00% | ~70 |
+| Fashion Connoisseur | 68.00% | ~66 |
+| Storm Traveller | 68.00% | ~66 |
+| Wolf King Killer | 67.00% | ~65 |
 | Arms Mechanic | 61.00% | ~59 |
 | Flower Thief | 58.00% | ~56 |
 | Apostle of Flame | 56.00% | ~54 |
 | Beginner Cook | 55.00% | ~53 |
 | Beginner Artificer | 54.00% | ~52 |
-| Seal Breaker | 49.00% | ~47 |
-| Handyman | 47.00% | ~45 |
-| Giant Lizard Killer | 46.00% | ~44 |
-| Nosebleeder | 45.00% | ~43 |
-| Guardian | 44.00% | ~42 |
-| Trader | 40.00% | ~38 |
-| Weapon Boost | 40.00% | ~38 |
+| Seal Breaker | 48.00% | ~47 |
+| Handyman | 46.00% | ~45 |
+| Giant Lizard Killer | 45.00% | ~44 |
+| Nosebleeder | 44.00% | ~43 |
+| Guardian | 43.00% | ~42 |
+| Trader | 39.00% | ~38 |
+| Weapon Boost | 39.00% | ~38 |
 | Flying Kobold Killer | 34.00% | ~33 |
 | Youth Magnet | 34.00% | ~33 |
 | Lethal Blade Mantis Killer | 33.00% | ~32 |
@@ -33,9 +33,9 @@
 | Cave Master | 26.00% | ~25 |
 | Face Slapper | 26.00% | ~25 |
 | Master Cook | 19.00% | ~18 |
-| Berserker Slayer | 15.00% | ~14 |
-| Warden Slayer | 14.00% | ~13 |
-| Giantess Slayer | 13.00% | ~12 |
+| Berserker Slayer | 14.00% | ~14 |
+| Warden Slayer | 13.00% | ~13 |
+| Giantess Slayer | 12.00% | ~12 |
 | Boss challenge | 11.00% | ~11 |
 | Big Face Goalkeeper Challenge | 4.00% | ~4 |
 | Silver Moon Wolf King Challenge | 4.00% | ~4 |
@@ -50,7 +50,7 @@
 | Giant Lizard Challenge | 2.00% | ~2 |
 | Berserker Challenge | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 382)  
+Progressed: 97 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-18 | 94 | 0 |
 | 2023-09-22 | 95 | 0 |
 | 2023-09-24 | 96 | 0 |
+| 2023-09-28 | 97 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

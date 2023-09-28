@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8220,9 +8220,9 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 297437,
+  "EOS_Progressed": 297438,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25560,6 +25560,11 @@
       "Time": "2023-09-28T00:08:49.0117721+00:00",
       "NumProgressed": 297437,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-28T01:50:35.1076376+00:00",
+      "NumProgressed": 297438,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25659,7 +25664,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "PFA_20",
@@ -25691,7 +25696,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35692
+      "UsersEstimate": 35693
     },
     {
       "ID": "PFA_24",
@@ -25723,7 +25728,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "PFA_28",
@@ -25771,7 +25776,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "PFA_33",
@@ -25779,7 +25784,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "PFA_34",
@@ -25819,7 +25824,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "PFA_39",
@@ -25835,7 +25840,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "PFA_40",
@@ -25891,7 +25896,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "PFA_6",
@@ -25930,7 +25935,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297437,
+      "Progressed": 297438,
       "Completed": 478
     }
   ],
@@ -25938,8 +25943,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-28T00:01:41.6117268+00:00",
-  "LastChanged_Achievements": "2023-09-28T00:08:49.0117716+00:00",
+  "LastChanged_Achievements": "2023-09-28T01:50:35.107637+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-28T00:01:41.6117275+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:08:49.0119464+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:43:42.9157971+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:50:35.1078064+00:00"
 }

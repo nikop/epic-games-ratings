@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~68 |
+| Land of the Rising Sun | 100.00% | ~69 |
 | Hidden History | 83.00% | ~57 |
 | Budding Conjuror | 83.00% | ~57 |
-| Commencing of Quests | 75.00% | ~52 |
+| Commencing of Quests | 77.00% | ~53 |
+| Man-Machine Master | 68.00% | ~47 |
 | Charmed by the Hunt | 68.00% | ~47 |
 | Mountain Splitter | 67.00% | ~46 |
-| Man-Machine Master | 65.00% | ~45 |
-| Fusion Conjuror | 62.00% | ~43 |
+| Fusion Conjuror | 64.00% | ~44 |
 | Memory Rouser | 62.00% | ~43 |
 | Master of the Skies | 59.00% | ~41 |
 | Subsistence Skills | 58.00% | ~40 |
@@ -28,7 +28,7 @@
 | Mighty Marmelizer | 39.00% | ~27 |
 | Fair Means or Foul | 39.00% | ~27 |
 | Single Minded | 38.00% | ~26 |
-| Kemono at Heart | 36.00% | ~25 |
+| Kemono at Heart | 38.00% | ~26 |
 | Reincarnation Cycle Stopper | 36.00% | ~25 |
 | Team Hunter | 35.00% | ~24 |
 | Artful Assister | 32.00% | ~22 |

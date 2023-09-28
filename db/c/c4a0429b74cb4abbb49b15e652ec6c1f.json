@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
     "PcReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -1827,9 +1827,9 @@
       "ID": "visit_cleric",
       "SetID": "5fi1i42",
       "Name": "Visit Cleric",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "waifu_kata",
@@ -1850,8 +1850,8 @@
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-28T00:06:25.8916824+00:00",
+  "LastChanged_Achievements": "2023-09-28T01:48:13.5144101+00:00",
   "LastUpdate_AppInfo": "2023-09-21T10:57:56.1922629+00:00",
-  "LastUpdate_Ratings": "2023-09-28T00:01:32.3511771+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:06:25.8917064+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:43:33.3210298+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:48:13.5144666+00:00"
 }

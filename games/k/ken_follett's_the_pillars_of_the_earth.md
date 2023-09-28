@@ -8,15 +8,15 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,175 |
 | Man of politics | 35.00% | ~5,403 |
-| Friends of sorts | 33.00% | ~5,094 |
-| Yet another secret | 33.00% | ~5,094 |
+| Friends of sorts | 33.00% | ~5,095 |
+| Yet another secret | 33.00% | ~5,095 |
 | Let there be darkness | 32.00% | ~4,940 |
 | End of Book One | 30.00% | ~4,631 |
 | Garden of Eden | 24.00% | ~3,705 |
 | Full house | 24.00% | ~3,705 |
 | Wannabe knight | 23.00% | ~3,551 |
 | Help an old friend | 22.00% | ~3,396 |
-| Two of us | 20.00% | ~3,087 |
+| Two of us | 20.00% | ~3,088 |
 | Negotiation skills | 18.00% | ~2,779 |
 | Workers' union | 18.00% | ~2,779 |
 | End of Book Two | 18.00% | ~2,779 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,161 |
 | Jack was here! | 14.00% | ~2,161 |
 | Exterminator | 13.00% | ~2,007 |
-| Whodunnit | 12.00% | ~1,852 |
+| Whodunnit | 12.00% | ~1,853 |
 | Good midwife | 11.00% | ~1,698 |
 | Friar Tuck | 11.00% | ~1,698 |
 | First profit | 11.00% | ~1,698 |
@@ -41,15 +41,15 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~772 |
 | Lone wolf | 5.00% | ~772 |
 | Vox Populi | 5.00% | ~772 |
-| Revenge | 4.00% | ~617 |
-| Self-defense | 4.00% | ~617 |
-| Countess Aliena | 4.00% | ~617 |
+| Revenge | 4.00% | ~618 |
+| Self-defense | 4.00% | ~618 |
+| Countess Aliena | 4.00% | ~618 |
 | Care, like a brother cares | 3.00% | ~463 |
 | A brush with death | 3.00% | ~463 |
 | Boy of mystery | 2.00% | ~309 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,437 (Ranked 129)  
-Completed: 111 (0.72%) (Ranked 145)  
+Progressed: 15,438 (Ranked 129)  
+Completed: 111 (0.72%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,6 +209,7 @@ Completed: 111 (0.72%) (Ranked 145)
 | 2023-09-25 | 15,404 | 111 |
 | 2023-09-26 | 15,427 | 111 |
 | 2023-09-27 | 15,437 | 111 |
+| 2023-09-28 | 15,438 | 111 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 303)  
 Sum: 193 (Ranked 383)  

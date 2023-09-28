@@ -2,13 +2,13 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 822,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.28,
   "NumberOfRatings": 5442,
   "RatingHistory": [
     {
@@ -4232,6 +4232,12 @@
       "Rating": 4.27,
       "NumberOfAwards": 7211,
       "NumberOfAwardsMax": 3786
+    },
+    {
+      "Time": "2023-09-28T01:42:51.6037805+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 7211,
+      "NumberOfAwardsMax": 3786
     }
   ],
   "ReviewsDisabled": false,
@@ -4305,8 +4311,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2023-09-27T07:03:47.2620457+00:00",
+  "LastChanged": "2023-09-28T01:42:51.6037803+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:22.8770538+00:00",
-  "LastUpdate_Ratings": "2023-09-28T00:00:49.7835034+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:03:23.0921182+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:42:51.6037809+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:45:13.8499635+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ginsha-604f11",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2023-08-24T15:00:00+00:00",
@@ -244,8 +244,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-21T19:02:15.2654272+00:00",
-  "LastChanged_Achievements": "2023-09-28T00:06:29.2826125+00:00",
+  "LastChanged_Achievements": "2023-09-28T01:48:16.7866486+00:00",
   "LastUpdate_AppInfo": "2023-09-25T21:56:58.3869685+00:00",
-  "LastUpdate_Ratings": "2023-09-27T23:58:29.6557069+00:00",
-  "LastUpdate_Achievements": "2023-09-28T00:06:29.2826305+00:00"
+  "LastUpdate_Ratings": "2023-09-28T01:40:32.9759671+00:00",
+  "LastUpdate_Achievements": "2023-09-28T01:48:16.786666+00:00"
 }

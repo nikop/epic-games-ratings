@@ -7,7 +7,9 @@
 | You have three wishes left | 67.00% | ~2 |
 | Master trainee | 33.00% | ~1 |
 | Jung's dream | 33.00% | ~1 |
+| Giant | 33.00% | ~1 |
 | The battle of Great Britain | 33.00% | ~1 |
+| A continent with chemistry | 33.00% | ~1 |
 | You have two wishes left | 33.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
@@ -17,7 +19,6 @@
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
-| Giant | 0.00% | ~0 |
 | A rival with no options | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
@@ -38,7 +39,6 @@
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
-| A continent with chemistry | 0.00% | ~0 |
 | Kirlian's best disciple | 0.00% | ~0 |
 | Thirst for Oleum | 0.00% | ~0 |
 | The barbarian invasions | 0.00% | ~0 |

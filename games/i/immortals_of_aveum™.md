@@ -20,15 +20,15 @@ Rating: 4.00 (Ranked 953)
 | Control is an Illusion | 28.00% | ~7 |
 | Resilience to Sin | 28.00% | ~7 |
 | Socialite | 28.00% | ~7 |
+| Armsman | 28.00% | ~7 |
 | A Familiar Nest | 24.00% | ~6 |
 | Geas Aristeya | 24.00% | ~6 |
-| Armsman | 24.00% | ~6 |
+| A Perfect Cycle | 24.00% | ~6 |
+| Recruit | 24.00% | ~6 |
 | Periapt Alizarin | 24.00% | ~6 |
-| A Perfect Cycle | 20.00% | ~5 |
-| Recruit | 20.00% | ~5 |
+| Lights Army | 16.00% | ~4 |
 | Armaments Gules | 16.00% | ~4 |
 | Good Boy | 16.00% | ~4 |
-| Lights Army | 12.00% | ~3 |
 | Periapt Cerulean | 12.00% | ~3 |
 | Veteran | 12.00% | ~3 |
 | Shroudfane Explorer | 12.00% | ~3 |
@@ -39,7 +39,9 @@ Rating: 4.00 (Ranked 953)
 | Best Dressed | 4.00% | ~1 |
 | Armaments Vert | 4.00% | ~1 |
 | Master of Carmine | 4.00% | ~1 |
+| Shroudfane Surveyor | 4.00% | ~1 |
 | Tip of the Spear | 4.00% | ~1 |
+| Treasure Hunter | 4.00% | ~1 |
 | Backtracker | 4.00% | ~1 |
 | Grand Magnus | 0.00% | ~0 |
 | Family Business | 0.00% | ~0 |
@@ -49,8 +51,6 @@ Rating: 4.00 (Ranked 953)
 | Out of Time | 0.00% | ~0 |
 | Master of Ultramarine | 0.00% | ~0 |
 | Master of Malachite | 0.00% | ~0 |
-| Shroudfane Surveyor | 0.00% | ~0 |
-| Treasure Hunter | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 465)  
