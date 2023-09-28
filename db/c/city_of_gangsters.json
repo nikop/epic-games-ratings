@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 828,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 345354,
+  "EOS_Progressed": 345355,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1032,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18747,6 +18747,11 @@
       "Time": "2023-09-28T22:05:16.8248977+00:00",
       "NumProgressed": 345354,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T23:05:38.9851231+00:00",
+      "NumProgressed": 345355,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18774,7 +18779,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41442
+      "UsersEstimate": 41443
     },
     {
       "ID": "ach004",
@@ -18814,7 +18819,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41442
+      "UsersEstimate": 41443
     },
     {
       "ID": "ach009",
@@ -19062,7 +19067,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34535
+      "UsersEstimate": 34536
     },
     {
       "ID": "ach040",
@@ -19222,7 +19227,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34535
+      "UsersEstimate": 34536
     },
     {
       "ID": "ach060",
@@ -19397,7 +19402,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345354,
+      "Progressed": 345355,
       "Completed": 7
     }
   ],
@@ -19405,8 +19410,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-26T19:57:39.174823+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:16.8248972+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:05:38.9851226+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:05.0935271+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:16.8251066+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:58:10.7653112+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:05:38.9852905+00:00"
 }

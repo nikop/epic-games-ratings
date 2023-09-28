@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,875 |
-| The Killing Jar | 8.00% | ~15,000 |
-| Not Your Average Trait | 8.00% | ~15,000 |
+| First of Many | 9.00% | ~16,876 |
+| The Killing Jar | 8.00% | ~15,001 |
+| Not Your Average Trait | 8.00% | ~15,001 |
 | Expanding Horizons | 7.00% | ~13,125 |
 | Quest for Survival | 7.00% | ~13,125 |
 | Gleaming the Cube | 6.00% | ~11,250 |
@@ -54,9 +54,9 @@ Rating: 4.76 (Ranked 120)
 | The Trigger | 1.00% | ~1,875 |
 | Cutting Edge | 1.00% | ~1,875 |
 | Proving Grounds | 1.00% | ~1,875 |
-| Ghost in the Machine | 0.90% | ~1,687 |
+| Ghost in the Machine | 0.90% | ~1,688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,496 (Ranked 65)  
+Progressed: 187,507 (Ranked 65)  
 Completed: 342 (0.18%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,20 +130,20 @@ Completed: 342 (0.18%) (Ranked 216)
 | 2023-09-25 | 186,460 | 334 |
 | 2023-09-26 | 186,828 | 336 |
 | 2023-09-27 | 187,199 | 340 |
-| 2023-09-28 | 187,496 | 342 |
+| 2023-09-28 | 187,507 | 342 |
 ## Awards
 Max (Great Boss Battles): 1,733  (Ranked 118)  
-Sum: 3,606 (Ranked 155)  
+Sum: 3,619 (Ranked 155)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,733 |
-| This game is Extremely Fun | 211 |
-| This game has Challenging Combat | 206 |
+| This game is Extremely Fun | 216 |
+| This game has Challenging Combat | 212 |
 | This game has Diverse Characters | 206 |
+| This game is Relaxing | 198 |
 | This game is Highly Recommended | 197 |
-| This game is Relaxing | 197 |
-| This game has Amazing Characters | 193 |
+| This game has Amazing Characters | 194 |
 | This game has Amazing Storytelling | 186 |
 | This game has Quickly Understood Controls | 180 |
 | This game has Unique Visuals | 163 |
@@ -215,4 +215,4 @@ Diff (max vs sum): -37
 | 2023-09-25 | 4.76 | 1,712 | 3,531 |
 | 2023-09-26 | 4.76 | 1,724 | 3,560 |
 | 2023-09-27 | 4.76 | 1,729 | 3,586 |
-| 2023-09-28 | 4.76 | 1,733 | 3,606 |
+| 2023-09-28 | 4.76 | 1,733 | 3,619 |

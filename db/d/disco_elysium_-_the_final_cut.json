@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1331,9 +1331,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129038,
+  "EOS_Progressed": 129040,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17531,6 +17531,11 @@
       "Time": "2023-09-28T21:04:51.6086148+00:00",
       "NumProgressed": 129038,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-28T23:05:47.6242258+00:00",
+      "NumProgressed": 129040,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17590,7 +17595,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -17598,7 +17603,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30969
+      "UsersEstimate": 30970
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -17702,7 +17707,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11613
+      "UsersEstimate": 11614
     },
     {
       "ID": "ACH_GLUTEN",
@@ -17758,7 +17763,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18065
+      "UsersEstimate": 18066
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -17822,7 +17827,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18065
+      "UsersEstimate": 18066
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -17861,15 +17866,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129038,
+      "Progressed": 129040,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-27T09:59:07.5046433+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:23.2283123+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:05:47.6242251+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.5946316+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:57.0076368+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:23.2284476+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:59:20.0515996+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:05:47.624329+00:00"
 }

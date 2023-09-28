@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 100.00% | ~73 |
 | Hidden History | 84.00% | ~61 |
-| Budding Conjuror | 81.00% | ~59 |
+| Budding Conjuror | 82.00% | ~60 |
 | Commencing of Quests | 77.00% | ~56 |
 | Charmed by the Hunt | 70.00% | ~51 |
 | Man-Machine Master | 67.00% | ~49 |
@@ -16,8 +16,8 @@
 | Master of the Skies | 60.00% | ~44 |
 | Subsistence Skills | 60.00% | ~44 |
 | Kemono Hunter | 60.00% | ~44 |
+| Helpful Heart | 56.00% | ~41 |
 | Distance Devourer | 55.00% | ~40 |
-| Helpful Heart | 55.00% | ~40 |
 | Expert Conjuror | 53.00% | ~39 |
 | Flawless Crystal | 51.00% | ~37 |
 | Bonds of Enmity | 49.00% | ~36 |

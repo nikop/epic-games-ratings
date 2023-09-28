@@ -2,13 +2,13 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 79,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
     "PcReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -8371,11 +8371,17 @@
       "Rating": 4.44,
       "NumberOfAwards": 25842,
       "NumberOfAwardsMax": 4360
+    },
+    {
+      "Time": "2023-09-28T23:00:22.1631094+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 25855,
+      "NumberOfAwardsMax": 4370
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25842,
-  "NumberOfAwardsMax": 4360,
+  "NumberOfAwards": 25855,
+  "NumberOfAwardsMax": 4370,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -8388,7 +8394,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4360
+      "Count": 4370
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8418,7 +8424,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3109
+      "Count": 3112
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8450,8 +8456,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-09-28T19:00:53.0495665+00:00",
+  "LastChanged": "2023-09-28T23:00:22.1631093+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:03.2439088+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:59:42.1256897+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:03:26.7563496+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:00:22.1631098+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:03:44.177904+00:00"
 }

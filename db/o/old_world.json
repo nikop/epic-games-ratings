@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 303,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14868,8 +14868,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-28T08:03:05.7552911+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:02.030356+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:05:20.196443+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:02:17.7800856+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:02.0312598+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:03:04.2013448+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:05:20.1972442+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,884 |
-| Let There Be Light | 34.00% | ~22,573 |
-| Float Like a Butterfly | 33.00% | ~21,909 |
-| Nordic Walking | 26.00% | ~17,262 |
-| Bright Falls' Finest | 26.00% | ~17,262 |
-| Under a Thin Layer of Skin | 23.00% | ~15,270 |
-| Park Ranger | 19.00% | ~12,614 |
-| Paging Mr. Wake | 19.00% | ~12,614 |
-| Back! Back, I Say! | 18.00% | ~11,950 |
-| Finders Keepers | 18.00% | ~11,950 |
+| Follow the Light | 42.00% | ~27,886 |
+| Let There Be Light | 34.00% | ~22,574 |
+| Float Like a Butterfly | 33.00% | ~21,910 |
+| Nordic Walking | 26.00% | ~17,263 |
+| Bright Falls' Finest | 26.00% | ~17,263 |
+| Under a Thin Layer of Skin | 23.00% | ~15,271 |
+| Park Ranger | 19.00% | ~12,615 |
+| Paging Mr. Wake | 19.00% | ~12,615 |
+| Back! Back, I Say! | 18.00% | ~11,951 |
+| Finders Keepers | 18.00% | ~11,951 |
 | Sound and Fury | 16.00% | ~10,623 |
 | Missed by a Mile | 16.00% | ~10,623 |
 | Damn Good Cup of Coffee | 16.00% | ~10,623 |
@@ -33,20 +33,20 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 12.00% | ~7,967 |
 | The Lady of the Light | 11.00% | ~7,303 |
 | Energized! | 11.00% | ~7,303 |
-| Right of Way | 10.00% | ~6,639 |
-| What Light Through Yonder Window | 9.00% | ~5,975 |
-| Tornado Wrangler | 8.00% | ~5,311 |
-| Departure | 8.00% | ~5,311 |
+| Right of Way | 10.00% | ~6,640 |
+| What Light Through Yonder Window | 9.00% | ~5,976 |
+| Tornado Wrangler | 8.00% | ~5,312 |
+| Departure | 8.00% | ~5,312 |
 | A Friend in Need | 8.00% | ~2,389 |
-| Drink 'Em Both Up | 6.00% | ~3,983 |
-| Hardboiled Writer | 6.00% | ~3,983 |
+| Drink 'Em Both Up | 6.00% | ~3,984 |
+| Hardboiled Writer | 6.00% | ~3,984 |
 | A Friend Indeed | 6.00% | ~1,792 |
 | Ding! | 6.00% | ~1,792 |
 | Children of the Elder God | 5.00% | ~3,320 |
 | If It Flies, It Burns | 5.00% | ~3,320 |
 | KBF-FM | 5.00% | ~3,320 |
 | Boob Tube | 4.00% | ~2,656 |
-| Heartbreaker | 4.00% | ~1,194 |
+| Heartbreaker | 4.00% | ~1,195 |
 | Carny | 3.00% | ~1,992 |
 | Kill Your Darlings | 3.00% | ~896 |
 | Medical Opinions | 2.00% | ~1,328 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,391 (Ranked 89)  
+Progressed: 66,395 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 66 (0.10%) (Ranked 236)
 | 2023-09-25 | 66,202 | 66 |
 | 2023-09-26 | 66,247 | 66 |
 | 2023-09-27 | 66,314 | 66 |
-| 2023-09-28 | 66,391 | 66 |
+| 2023-09-28 | 66,395 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

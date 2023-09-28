@@ -5,37 +5,37 @@ Rating: 4.24 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,652 |
-| Don't I Know You...? | 77.00% | ~1,590 |
-| Jailbreak | 66.00% | ~1,363 |
-| Suited and Booted | 39.00% | ~805 |
+| Rigged And Ready | 80.00% | ~1,654 |
+| Don't I Know You...? | 77.00% | ~1,592 |
+| Jailbreak | 66.00% | ~1,364 |
+| Suited and Booted | 39.00% | ~806 |
 | HEADSHOT! | 38.00% | ~785 |
-| Sleeping With The Fishes | 36.00% | ~743 |
+| Sleeping With The Fishes | 36.00% | ~744 |
 | Overheated | 30.00% | ~620 |
 | High Performance | 30.00% | ~620 |
-| Powered Up | 28.00% | ~578 |
-| Studied The Blade | 25.00% | ~516 |
+| Powered Up | 28.00% | ~579 |
+| Studied The Blade | 25.00% | ~517 |
 | Home Invasion | 23.00% | ~475 |
-| Luminary | 22.00% | ~454 |
-| It's a Trap | 22.00% | ~454 |
+| Luminary | 22.00% | ~455 |
+| It's a Trap | 22.00% | ~455 |
 | True Survivor | 21.00% | ~434 |
 | Offensive Defense | 20.00% | ~413 |
 | Shocking | 20.00% | ~413 |
-| Court Martial | 19.00% | ~392 |
-| Clean Cut | 19.00% | ~392 |
-| Unforeseeable Consequences | 19.00% | ~392 |
+| Court Martial | 19.00% | ~393 |
+| Clean Cut | 19.00% | ~393 |
+| Unforeseeable Consequences | 19.00% | ~393 |
 | Dead Again | 18.00% | ~372 |
 | Full Arsenal | 17.00% | ~351 |
 | Can't Trust Banks | 15.00% | ~310 |
-| Mommy Dearest | 14.00% | ~289 |
-| Bad Dog | 13.00% | ~268 |
-| Where It All Began | 13.00% | ~268 |
-| Risk Tolerant | 13.00% | ~268 |
-| What A Catchy Song | 13.00% | ~268 |
+| Mommy Dearest | 13.00% | ~269 |
+| Bad Dog | 13.00% | ~269 |
+| Where It All Began | 13.00% | ~269 |
+| Risk Tolerant | 13.00% | ~269 |
+| What A Catchy Song | 13.00% | ~269 |
 | Corrupted Beauty | 12.00% | ~248 |
 | Marked For Success | 12.00% | ~248 |
 | Sorry, Didn't See You There | 12.00% | ~248 |
-| Triplets | 10.00% | ~206 |
+| Triplets | 10.00% | ~207 |
 | Denying Prophecy | 9.00% | ~186 |
 | Defense in Depth | 9.00% | ~186 |
 | Stimulating The Local Economy | 9.00% | ~186 |
@@ -59,11 +59,11 @@ Rating: 4.24 (Ranked 849)
 | Three Birds With One Stone | 2.00% | ~41 |
 | Box Office Smash | 2.00% | ~41 |
 | Going Postal | 2.00% | ~41 |
-| The Easy Way Out | 2.00% | ~41 |
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~21 |
+| The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,065 (Ranked 198)  
+Progressed: 2,067 (Ranked 198)  
 Completed: 12 (0.58%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 12 (0.58%) (Ranked 154)
 | 2023-09-25 | 2,055 | 12 |
 | 2023-09-26 | 2,056 | 12 |
 | 2023-09-27 | 2,062 | 12 |
-| 2023-09-28 | 2,065 | 12 |
+| 2023-09-28 | 2,067 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

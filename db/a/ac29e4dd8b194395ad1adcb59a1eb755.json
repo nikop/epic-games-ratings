@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -98,9 +98,9 @@
       "ID": "achievement_superman",
       "SetID": "b9jpe8p",
       "Name": "Superman",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_winner",
@@ -120,8 +120,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:03:04.7689252+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:03:15.7397613+00:00",
   "LastUpdate_AppInfo": "2023-09-26T14:57:13.5590857+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:24.0974205+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:03:04.7689487+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:58:35.356124+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:03:15.7397727+00:00"
 }

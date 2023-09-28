@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 632)  
+Rating: 4.46 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,21 +9,21 @@ Rating: 4.46 (Ranked 632)
 | Confirming Suspicions | 41.00% | ~1,508 |
 | The Kraken Wakes | 36.00% | ~1,324 |
 | It's Starting to Crack | 33.00% | ~1,214 |
-| Change the Channel | 30.00% | ~1,103 |
+| Change the Channel | 30.00% | ~1,104 |
 | Lord of War | 29.00% | ~1,067 |
 | Taking it back | 28.00% | ~1,030 |
-| Resourceful | 26.00% | ~956 |
-| Target America | 26.00% | ~956 |
+| Resourceful | 26.00% | ~957 |
+| Target America | 26.00% | ~957 |
 | The Kraken Sleeps | 24.00% | ~883 |
 | Liberté | 22.00% | ~809 |
 | Organ Grinder | 22.00% | ~809 |
 | As Quiet as a Mouse | 22.00% | ~809 |
-| Sharpshooter | 21.00% | ~772 |
+| Sharpshooter | 21.00% | ~773 |
 | Gunslinger | 18.00% | ~662 |
 | Explosive Efficiency | 18.00% | ~662 |
 | Just a Flesh Wound | 17.00% | ~625 |
-| Climbing the Ladder | 16.00% | ~588 |
-| Der Geist | 16.00% | ~588 |
+| Climbing the Ladder | 16.00% | ~589 |
+| Der Geist | 16.00% | ~589 |
 | Close Quarters | 15.00% | ~552 |
 | Brains of the Operation | 15.00% | ~552 |
 | No Stone Unturned | 14.00% | ~515 |
@@ -41,7 +41,7 @@ Rating: 4.46 (Ranked 632)
 | The Long Game | 5.00% | ~184 |
 | It'll Buff Right Out | 5.00% | ~184 |
 | Don't hold your breath | 5.00% | ~184 |
-| Operation Foxley | 5.00% | ~181 |
+| Operation Foxley | 5.00% | ~182 |
 | Strategist | 4.00% | ~147 |
 | Tinkerer | 4.00% | ~147 |
 | Locomotion Commotion | 4.00% | ~147 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 632)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,678 (Ranked 175)  
+Progressed: 3,679 (Ranked 175)  
 Completed: 11 (0.30%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 11 (0.30%) (Ranked 194)
 | 2023-09-25 | 3,667 | 11 |
 | 2023-09-26 | 3,672 | 11 |
 | 2023-09-27 | 3,675 | 11 |
-| 2023-09-28 | 3,678 | 11 |
+| 2023-09-28 | 3,679 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

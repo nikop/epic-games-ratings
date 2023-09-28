@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21022,
+  "EOS_Progressed": 21024,
   "EOS_Completed": 422,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
@@ -17705,6 +17705,11 @@
       "Time": "2023-09-28T22:06:01.1312919+00:00",
       "NumProgressed": 21022,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-09-28T23:06:35.3374013+00:00",
+      "NumProgressed": 21024,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 20,
@@ -17780,7 +17785,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "FOUND_ERIN",
@@ -17836,7 +17841,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16187
+      "UsersEstimate": 16188
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17844,7 +17849,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5886
+      "UsersEstimate": 5887
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17875,15 +17880,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21022,
+      "Progressed": 21024,
       "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:06:01.1312912+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:06:35.3374007+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:34.0052297+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:06:01.1314302+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:58:48.5221909+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:06:35.3375013+00:00"
 }

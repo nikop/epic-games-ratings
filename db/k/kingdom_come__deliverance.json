@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7468,10 +7468,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27873,
       "NumberOfAwardsMax": 7480
+    },
+    {
+      "Time": "2023-09-28T22:58:38.7014537+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27875,
+      "NumberOfAwardsMax": 7480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27873,
+  "NumberOfAwards": 27875,
   "NumberOfAwardsMax": 7480,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7503,7 +7509,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1694
+      "Count": 1696
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7554,9 +7560,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802956,
+  "EOS_Progressed": 802957,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25534,6 +25540,11 @@
       "Time": "2023-09-28T22:06:27.7737159+00:00",
       "NumProgressed": 802956,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-28T23:07:09.5873762+00:00",
+      "NumProgressed": 802957,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25633,7 +25644,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120443
+      "UsersEstimate": 120444
     },
     {
       "ID": "Buddy",
@@ -25761,7 +25772,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120443
+      "UsersEstimate": 120444
     },
     {
       "ID": "Freud",
@@ -26200,15 +26211,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802956,
+      "Progressed": 802957,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-28T13:58:49.2480537+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:06:27.7737153+00:00",
+  "LastChanged": "2023-09-28T22:58:38.7014535+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:07:09.5873756+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:26.6640717+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:06:27.7739252+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:58:38.7014541+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:07:09.5875372+00:00"
 }

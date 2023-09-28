@@ -2458,10 +2458,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 3606,
       "NumberOfAwardsMax": 1733
+    },
+    {
+      "Time": "2023-09-28T23:00:44.4619916+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 3619,
+      "NumberOfAwardsMax": 1733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3606,
+  "NumberOfAwards": 3619,
   "NumberOfAwardsMax": 1733,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2481,13 +2487,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 211
+      "Count": 216
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 206
+      "Count": 212
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2517,7 +2523,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 193
+      "Count": 194
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2529,12 +2535,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 197
+      "Count": 198
     }
   ],
-  "EOS_Progressed": 187496,
+  "EOS_Progressed": 187507,
   "EOS_Completed": 342,
-  "EOS_NewPlayers": 3055,
+  "EOS_NewPlayers": 3059,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10767,6 +10773,11 @@
       "Time": "2023-09-28T22:08:15.6634568+00:00",
       "NumProgressed": 187496,
       "NumCompleted": 342
+    },
+    {
+      "Time": "2023-09-28T23:08:36.5380483+00:00",
+      "NumProgressed": 187507,
+      "NumCompleted": 342
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -10803,7 +10814,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -10859,7 +10870,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15000
+      "UsersEstimate": 15001
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -10963,7 +10974,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16875
+      "UsersEstimate": 16876
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -11083,7 +11094,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15000
+      "UsersEstimate": 15001
     },
     {
       "ID": "Obtain_Traits_B",
@@ -11178,16 +11189,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 187496,
+      "Progressed": 187507,
       "Completed": 342
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-09-28T21:59:58.3878356+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:08:15.6634545+00:00",
+  "LastChanged": "2023-09-28T23:00:44.4619915+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:08:36.5380478+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.0716311+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:59:58.3878363+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:08:15.6636145+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:00:44.461992+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:08:36.5381233+00:00"
 }

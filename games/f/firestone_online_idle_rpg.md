@@ -74,7 +74,7 @@ Rating: 4.03 (Ranked 950)
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
 | Pokerface | 0.90% | ~18 |
-| Angel Power | 0.70% | ~14 |
+| Angel Power | 0.80% | ~16 |
 | Conqueror | 0.70% | ~14 |
 | Silverwood liberator | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |

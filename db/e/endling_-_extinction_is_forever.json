@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -821,9 +821,9 @@
       "ID": "TROP012",
       "SetID": "9n0dl35",
       "Name": "Never Give Up",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "TROP013",
@@ -958,8 +958,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:45.8983275+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:06:15.9798397+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7907321+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:05.2186329+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:45.8983494+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:58:10.756627+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:06:15.9798613+00:00"
 }

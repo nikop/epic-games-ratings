@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,10 +524,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66391,
+  "EOS_Progressed": 66395,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 461,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 464,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -16204,6 +16204,11 @@
       "Time": "2023-09-28T22:06:57.7249573+00:00",
       "NumProgressed": 66391,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-28T23:07:48.8307851+00:00",
+      "NumProgressed": 66395,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16215,7 +16220,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27884
+      "UsersEstimate": 27886
     },
     {
       "ID": "02",
@@ -16223,7 +16228,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17262
+      "UsersEstimate": 17263
     },
     {
       "ID": "03",
@@ -16231,7 +16236,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17262
+      "UsersEstimate": 17263
     },
     {
       "ID": "04",
@@ -16247,7 +16252,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15270
+      "UsersEstimate": 15271
     },
     {
       "ID": "06",
@@ -16255,7 +16260,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12614
+      "UsersEstimate": 12615
     },
     {
       "ID": "07",
@@ -16311,7 +16316,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "14",
@@ -16335,7 +16340,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5311
+      "UsersEstimate": 5312
     },
     {
       "ID": "17",
@@ -16343,7 +16348,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5311
+      "UsersEstimate": 5312
     },
     {
       "ID": "18",
@@ -16351,7 +16356,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "19",
@@ -16407,7 +16412,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "26",
@@ -16455,7 +16460,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "32",
@@ -16463,7 +16468,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21909
+      "UsersEstimate": 21910
     },
     {
       "ID": "33",
@@ -16487,7 +16492,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22573
+      "UsersEstimate": 22574
     },
     {
       "ID": "36",
@@ -16527,7 +16532,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6639
+      "UsersEstimate": 6640
     },
     {
       "ID": "41",
@@ -16535,7 +16540,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "42",
@@ -16551,7 +16556,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12614
+      "UsersEstimate": 12615
     },
     {
       "ID": "44",
@@ -16743,28 +16748,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66391,
+      "Progressed": 66395,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29859,
+      "Progressed": 29863,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:06:57.7249569+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:07:48.8307845+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:57:43.4745432+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:06:57.7251234+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:57:40.5658939+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:07:48.830915+00:00"
 }

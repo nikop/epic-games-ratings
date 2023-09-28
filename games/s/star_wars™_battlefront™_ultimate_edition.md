@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 89.00% | ~257 |
-| Off to a good start | 65.00% | ~188 |
+| Off to a good start | 66.00% | ~191 |
 | Do... or do not. There is no try | 49.00% | ~142 |
 | A good blaster at your side | 35.00% | ~101 |
 | Scrap collector | 22.00% | ~64 |
@@ -18,9 +18,9 @@
 | Shoot first | 16.00% | ~46 |
 | Survivor | 14.00% | ~40 |
 | Tell Jabba that I've got his money | 12.00% | ~35 |
+| What's the cargo? | 11.00% | ~32 |
 | Best star-pilot in the galaxy | 11.00% | ~32 |
 | A cunning warrior | 11.00% | ~32 |
-| What's the cargo? | 10.00% | ~29 |
 | A tremor in the Force | 10.00% | ~29 |
 | Never tell me the odds! | 10.00% | ~29 |
 | Impressive. Most impressive. | 10.00% | ~29 |

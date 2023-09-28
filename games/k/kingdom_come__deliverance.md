@@ -13,8 +13,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Ranger | 20.00% | ~160,591 |
 | Scrooge | 20.00% | ~160,591 |
 | Anorectic | 16.00% | ~128,473 |
-| Bookworm | 15.00% | ~120,443 |
-| Firestarter | 15.00% | ~120,443 |
+| Bookworm | 15.00% | ~120,444 |
+| Firestarter | 15.00% | ~120,444 |
 | Insomniac | 13.00% | ~104,384 |
 | Buddy | 12.00% | ~96,355 |
 | Thief | 12.00% | ~96,355 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802,956 (Ranked 17)  
+Progressed: 802,957 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,10 +250,10 @@ Completed: 49 (0.01%) (Ranked 281)
 | 2023-09-25 | 802,669 | 49 |
 | 2023-09-26 | 802,771 | 49 |
 | 2023-09-27 | 802,854 | 49 |
-| 2023-09-28 | 802,956 | 49 |
+| 2023-09-28 | 802,957 | 49 |
 ## Awards
 Max (Character Customization): 7,480  (Ranked 48)  
-Sum: 27,873 (Ranked 48)  
+Sum: 27,875 (Ranked 48)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -261,7 +261,7 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 5,509 |
 | This game has Challenging Combat | 1,746 |
 | This game has Amazing Storytelling | 1,703 |
-| This game has Diverse Characters | 1,694 |
+| This game has Diverse Characters | 1,696 |
 | This game is Extremely Fun | 1,671 |
 | This game is Highly Recommended | 1,669 |
 | This game has Amazing Characters | 1,646 |
@@ -517,4 +517,4 @@ Diff (max vs sum): 0
 | 2023-09-25 | 4.71 | - | 7,472 | 27,851 |
 | 2023-09-26 | 4.71 | - | 7,477 | 27,865 |
 | 2023-09-27 | 4.71 | - | 7,477 | 27,867 |
-| 2023-09-28 | 4.71 | - | 7,480 | 27,873 |
+| 2023-09-28 | 4.71 | - | 7,480 | 27,875 |

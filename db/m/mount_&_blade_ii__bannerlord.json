@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7515,9 +7515,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62295,
+  "EOS_Progressed": 62296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24655,6 +24655,11 @@
       "Time": "2023-09-28T22:05:32.811265+00:00",
       "NumProgressed": 62295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T23:05:59.9266513+00:00",
+      "NumProgressed": 62296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24666,7 +24671,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "Apple of my eye",
@@ -24890,7 +24895,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20557
+      "UsersEstimate": 20558
     },
     {
       "ID": "Lawbringer",
@@ -25026,7 +25031,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "This is Sparta",
@@ -25073,15 +25078,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62295,
+      "Progressed": 62296,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-28T18:58:11.8419099+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:32.8112646+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:05:59.9266505+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:57:50.1936531+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:32.8114205+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:57:49.8318464+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:05:59.9267688+00:00"
 }

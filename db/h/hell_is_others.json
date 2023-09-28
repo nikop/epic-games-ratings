@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1006,9 +1006,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256716,
+  "EOS_Progressed": 256717,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17101,6 +17101,11 @@
       "Time": "2023-09-28T18:03:40.6781775+00:00",
       "NumProgressed": 256716,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-28T23:03:41.7089541+00:00",
+      "NumProgressed": 256717,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17224,7 +17229,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7701
+      "UsersEstimate": 7702
     },
     {
       "ID": "CreditLevel3",
@@ -17384,7 +17389,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7701
+      "UsersEstimate": 7702
     },
     {
       "ID": "KillOtherWithMine",
@@ -17559,7 +17564,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256716,
+      "Progressed": 256717,
       "Completed": 3
     }
   ],
@@ -17567,8 +17572,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-25T11:59:20.3104585+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:03:24.8838397+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:03:41.7089535+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:10.9543216+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:00:00.341206+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:03:24.883987+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:00:47.2738977+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:03:41.7090724+00:00"
 }

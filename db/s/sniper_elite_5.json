@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3678,
+  "EOS_Progressed": 3679,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6959,6 +6959,11 @@
       "Time": "2023-09-28T20:04:22.8573275+00:00",
       "NumProgressed": 3678,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-28T23:05:24.2262238+00:00",
+      "NumProgressed": 3679,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6970,7 +6975,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7106,7 +7111,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7194,7 +7199,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7202,7 +7207,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7306,7 +7311,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7362,7 +7367,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7442,7 +7447,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7537,13 +7542,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3629,
+      "Progressed": 3630,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3678,
+      "Progressed": 3679,
       "Completed": 11
     }
   ],
@@ -7551,8 +7556,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:05.2463256+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:05:24.2262233+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:00:31.5639861+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:05.2464597+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:01:29.6148383+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:05:24.2263144+00:00"
 }

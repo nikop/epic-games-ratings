@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 741,
+  "EOS_Progressed": 742,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 10.66,
+  "EOS_Completed_Percentage": 10.65,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2601,6 +2601,11 @@
       "Time": "2023-09-28T16:09:23.200723+00:00",
       "NumProgressed": 741,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-09-28T23:09:06.7373442+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 30,
@@ -2612,7 +2617,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "LEVEL_002",
@@ -2628,7 +2633,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "LEVEL_004",
@@ -2652,7 +2657,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "LEVEL_007",
@@ -2660,7 +2665,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "LEVEL_008",
@@ -2724,7 +2729,7 @@
       "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_016",
@@ -2834,9 +2839,9 @@
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 67
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_030",
@@ -2851,14 +2856,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 741,
+      "Progressed": 742,
       "Completed": 79
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:08:31.5129921+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:09:06.7373437+00:00",
   "LastUpdate_AppInfo": "2023-09-25T23:57:04.6641187+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:02:04.9483735+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:08:31.5130328+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:02:06.2677155+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:09:06.7373762+00:00"
 }

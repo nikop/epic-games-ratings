@@ -1316,9 +1316,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428197,
+  "EOS_Progressed": 428198,
   "EOS_Completed": 534,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12161,6 +12161,11 @@
       "Time": "2023-09-28T17:05:46.503129+00:00",
       "NumProgressed": 428197,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2023-09-28T23:05:21.0555292+00:00",
+      "NumProgressed": 428198,
+      "NumCompleted": 534
     }
   ],
   "TotalAchievements": 41,
@@ -12188,7 +12193,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256918
+      "UsersEstimate": 256919
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -12204,7 +12209,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107049
+      "UsersEstimate": 107050
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -12252,7 +12257,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256918
+      "UsersEstimate": 256919
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -12340,7 +12345,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406787
+      "UsersEstimate": 406788
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12356,7 +12361,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308302
+      "UsersEstimate": 308303
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -12372,7 +12377,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295456
+      "UsersEstimate": 295457
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -12452,7 +12457,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239790
+      "UsersEstimate": 239791
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -12499,15 +12504,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428197,
+      "Progressed": 428198,
       "Completed": 534
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-27T18:58:07.482737+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:02.8012551+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:05:21.0555287+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:18.0671281+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:40.4119248+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:02.8013573+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:58:57.2954853+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:05:21.0556097+00:00"
 }

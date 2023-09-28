@@ -6,49 +6,49 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~21,792 |
-| The Evilest Evil | 58.00% | ~18,318 |
-| Twistram is devastated | 57.00% | ~18,002 |
-| The Gehenna Stones | 49.00% | ~15,475 |
-| No one has to die today! | 46.00% | ~14,528 |
-| Death and destruction! | 45.00% | ~14,212 |
-| The Swamplanders from the swamplands | 43.00% | ~13,580 |
+| The Shadow strikes | 69.00% | ~21,793 |
+| The Evilest Evil | 58.00% | ~18,319 |
+| Twistram is devastated | 57.00% | ~18,003 |
+| The Gehenna Stones | 49.00% | ~15,476 |
+| No one has to die today! | 46.00% | ~14,529 |
+| Death and destruction! | 45.00% | ~14,213 |
+| The Swamplanders from the swamplands | 43.00% | ~13,581 |
 | Rusty Steel | 41.00% | ~12,949 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,633 |
-| The last burger | 37.00% | ~11,685 |
-| Braiiiiins! | 37.00% | ~11,685 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,634 |
+| The last burger | 37.00% | ~11,686 |
+| Braiiiiins! | 37.00% | ~11,686 |
 | Hands off the Dungeonheart! | 36.00% | ~11,370 |
-| A trip on sea, what fun it can be | 34.00% | ~10,738 |
-| Damned good | 33.00% | ~10,422 |
-| Stock Market Crash | 31.00% | ~9,790 |
-| Factory farming | 31.00% | ~9,790 |
+| A trip on sea, what fun it can be | 34.00% | ~10,739 |
+| Damned good | 33.00% | ~10,423 |
+| Stock Market Crash | 31.00% | ~9,791 |
+| Factory farming | 31.00% | ~9,791 |
 | Not-So-Overproud | 30.00% | ~9,475 |
 | For a handfull of Catapults | 29.00% | ~9,159 |
 | Shadow hunter | 29.00% | ~9,159 |
-| Ogre Solo! | 28.00% | ~8,843 |
-| Thirst quencher | 27.00% | ~8,527 |
-| Destroy the thing | 26.00% | ~8,211 |
-| Tide Master | 26.00% | ~8,211 |
+| Ogre Solo! | 28.00% | ~8,844 |
+| Thirst quencher | 27.00% | ~8,528 |
+| Destroy the thing | 26.00% | ~8,212 |
+| Tide Master | 26.00% | ~8,212 |
 | Difficult family relationships | 25.00% | ~7,896 |
 | MASS-O-BOT | 24.00% | ~7,580 |
 | Prepare the grave | 24.00% | ~7,580 |
 | Angel of Fire | 24.00% | ~7,580 |
 | Where there is Light, there is Shadow | 23.00% | ~7,264 |
 | At the foot of Mount Destiny | 22.00% | ~6,948 |
-| The Force disturbed | 21.00% | ~6,632 |
-| The Victorious Evil | 20.00% | ~6,316 |
+| The Force disturbed | 21.00% | ~6,633 |
+| The Victorious Evil | 20.00% | ~6,317 |
 | Chorus of damnation | 19.00% | ~6,001 |
 | We don’t have time! | 19.00% | ~6,001 |
 | The Stones’ Power | 18.00% | ~5,685 |
 | Flat as a pancake | 17.00% | ~5,369 |
 | Lifeguard | 17.00% | ~5,369 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,737 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,738 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,790 |
 | Then let them eat cake! | 12.00% | ~3,790 |
 | The White Knight | 10.00% | ~3,158 |
 | Please, no interruptions! | 10.00% | ~3,158 |
-| Use the terrain | 9.00% | ~2,842 |
-| Prison Break | 9.00% | ~2,842 |
+| Use the terrain | 9.00% | ~2,843 |
+| Prison Break | 9.00% | ~2,843 |
 | Hearts of Iron | 8.00% | ~2,527 |
 | Master of Traps | 8.00% | ~2,527 |
 | Ignore The Level Designer’s Plan | 8.00% | ~2,527 |
@@ -61,13 +61,13 @@ Number of Ratings: 1,635  (23.09.2022)
 | Band of Brothers | 5.00% | ~1,579 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,263 |
 | I need a hero! | 4.00% | ~1,263 |
-| Storm And Stress | 3.00% | ~947 |
-| I love the smell of Catapult fire! | 3.00% | ~947 |
+| Storm And Stress | 3.00% | ~948 |
+| I love the smell of Catapult fire! | 3.00% | ~948 |
 | Discoverer | 2.00% | ~632 |
 | Not a scratch | 2.00% | ~632 |
 | Sacrifices! | 2.00% | ~632 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,582 (Ranked 108)  
+Progressed: 31,584 (Ranked 108)  
 Completed: 260 (0.82%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 260 (0.82%) (Ranked 141)
 | 2023-09-25 | 31,350 | 259 |
 | 2023-09-26 | 31,418 | 260 |
 | 2023-09-27 | 31,503 | 260 |
-| 2023-09-28 | 31,582 | 260 |
+| 2023-09-28 | 31,584 | 260 |
 ## Awards
 Max (Great for Beginners): 354  (Ranked 229)  
 Sum: 2,656 (Ranked 175)  

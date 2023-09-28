@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,542 |
+| Getting Started | 81.00% | ~10,543 |
 | Pay 'n' Spray | 51.00% | ~6,638 |
 | All Dressed Up for San Fierro | 26.00% | ~3,384 |
 | The American Dream | 19.00% | ~2,473 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 473)
 | ...Here we go again | 0.50% | ~65 |
 | I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,015 (Ranked 136)  
+Progressed: 13,016 (Ranked 136)  
 Completed: 48 (0.37%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,16 +202,16 @@ Completed: 48 (0.37%) (Ranked 180)
 | 2023-09-25 | 12,891 | 47 |
 | 2023-09-26 | 12,938 | 48 |
 | 2023-09-27 | 12,980 | 48 |
-| 2023-09-28 | 13,015 | 48 |
+| 2023-09-28 | 13,016 | 48 |
 ## Awards
 Max (Great Boss Battles): 316  (Ranked 237)  
-Sum: 444 (Ranked 317)  
+Sum: 445 (Ranked 317)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 316 |
 | This game is Relaxing | 29 |
-| This game has Amazing Storytelling | 26 |
+| This game has Amazing Storytelling | 27 |
 | This game has Amazing Characters | 26 |
 | This game is Highly Recommended | 26 |
 | This game is Extremely Fun | 21 |
@@ -350,4 +350,4 @@ Diff (max vs sum): -80
 | 2023-09-25 | 4.56 | 310 | 431 |
 | 2023-09-26 | 4.56 | 314 | 435 |
 | 2023-09-27 | 4.56 | 314 | 440 |
-| 2023-09-28 | 4.56 | 316 | 444 |
+| 2023-09-28 | 4.56 | 316 | 445 |

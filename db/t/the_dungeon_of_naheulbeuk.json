@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 227293,
+  "EOS_Progressed": 227303,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1536,
+  "EOS_NewPlayers": 1538,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12661,6 +12661,11 @@
       "Time": "2023-09-28T22:05:21.4107149+00:00",
       "NumProgressed": 227293,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T23:05:45.2793361+00:00",
+      "NumProgressed": 227303,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13120,7 +13125,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 72734
+      "UsersEstimate": 72737
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13208,7 +13213,7 @@
       "Name": "We come in peace",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "MinistrelEpic",
@@ -13280,7 +13285,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "QuestPriestess",
@@ -13375,21 +13380,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 227293,
+      "Progressed": 227303,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 227293,
+      "Progressed": 227303,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-28T13:58:30.1157691+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:05:21.4107146+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:05:45.2793356+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:58:11.1444982+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:05:21.4108947+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:58:19.0172623+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:05:45.279475+00:00"
 }

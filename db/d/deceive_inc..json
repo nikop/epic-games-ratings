@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18178,
+  "EOS_Progressed": 18180,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10846,6 +10846,11 @@
       "Time": "2023-09-28T21:06:06.4893962+00:00",
       "NumProgressed": 18178,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-28T23:07:24.0971948+00:00",
+      "NumProgressed": 18180,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10873,7 +10878,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "0004",
@@ -10921,7 +10926,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4000
     },
     {
       "ID": "0010",
@@ -10945,7 +10950,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "0013",
@@ -10961,7 +10966,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "0015",
@@ -11041,7 +11046,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "0025",
@@ -11049,7 +11054,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "0026",
@@ -11071,9 +11076,9 @@
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4181
     },
     {
       "ID": "0029",
@@ -11097,7 +11102,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "0032",
@@ -11121,7 +11126,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "0035",
@@ -11144,7 +11149,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18178,
+      "Progressed": 18180,
       "Completed": 3
     }
   ],
@@ -11152,8 +11157,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-28T22:06:39.0908175+00:00",
+  "LastChanged_Achievements": "2023-09-28T23:07:24.0971943+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-28T21:59:26.4841923+00:00",
-  "LastUpdate_Achievements": "2023-09-28T22:06:39.0909163+00:00"
+  "LastUpdate_Ratings": "2023-09-28T22:59:59.6827769+00:00",
+  "LastUpdate_Achievements": "2023-09-28T23:07:24.0972702+00:00"
 }
