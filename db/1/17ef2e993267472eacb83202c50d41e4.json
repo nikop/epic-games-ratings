@@ -2,13 +2,13 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 980,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -19,11 +19,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.85,
+  "Rating": 3.86,
   "RatingHistory": [
     {
       "Time": "2023-09-24T07:59:49.2549091+00:00",
       "Rating": 3.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-28T09:00:22.5097713+00:00",
+      "Rating": 3.86,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -32,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6640,
+  "EOS_Progressed": 6641,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2847,6 +2853,11 @@
       "Time": "2023-09-28T08:04:35.8019309+00:00",
       "NumProgressed": 6640,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T09:05:09.1813313+00:00",
+      "NumProgressed": 6641,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -2979,7 +2990,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "GamesPlayed10",
@@ -3450,16 +3461,16 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6640,
+      "Progressed": 6641,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2023-09-24T07:59:49.2549087+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:04:35.8019303+00:00",
+  "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:05:09.1813307+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:59:44.1190378+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:04:35.8021014+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:00:22.5097717+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:05:09.1814681+00:00"
 }

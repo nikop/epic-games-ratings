@@ -20,8 +20,8 @@
 | Chapter III | 24.00% | ~30 |
 | Like a moth in the Wind | 24.00% | ~30 |
 | Shadow on the wall | 23.00% | ~29 |
+| Quite a buggy game | 22.00% | ~28 |
 | Bubblekillerfamily | 22.00% | ~28 |
-| Quite a buggy game | 21.00% | ~26 |
 | Mirror mirror on the wall... | 21.00% | ~26 |
 | Pacifist | 20.00% | ~25 |
 | Fastidious Clown | 19.00% | ~24 |

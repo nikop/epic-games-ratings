@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 894,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3236,7 +3236,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72918,
+  "EOS_Progressed": 72919,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
@@ -16906,6 +16906,11 @@
       "Time": "2023-09-28T08:06:40.5316787+00:00",
       "NumProgressed": 72918,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-28T09:07:10.5526935+00:00",
+      "NumProgressed": 72919,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17141,7 +17146,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21146
+      "UsersEstimate": 21147
     },
     {
       "ID": "FREEZE_1_5",
@@ -17157,7 +17162,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13854
+      "UsersEstimate": 13855
     },
     {
       "ID": "FREEZE_3",
@@ -17221,7 +17226,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25521
+      "UsersEstimate": 25522
     },
     {
       "ID": "HARLEY_2",
@@ -17261,7 +17266,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37917
+      "UsersEstimate": 37918
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17404,13 +17409,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72918,
+      "Progressed": 72919,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43198,
+      "Progressed": 43199,
       "Completed": 2668
     }
   ],
@@ -17418,8 +17423,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-28T05:58:30.2815758+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:06:40.5316779+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:07:10.5526929+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:58:18.4705529+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:06:40.5319275+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:58:58.441164+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:07:10.5529487+00:00"
 }

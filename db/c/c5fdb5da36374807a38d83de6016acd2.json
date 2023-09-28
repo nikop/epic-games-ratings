@@ -2,10 +2,10 @@
   "ID": "c5fdb5da36374807a38d83de6016acd2",
   "Name": "Cuban Missile Crisis",
   "ProductSlug": "cuban-missile-crisis-bd96ab",
-  "Ranking_EOS_Progress": 642,
+  "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2005-05-06T18:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-26T17:57:12.0493384+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:57:27.3007357+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:03:38.0867718+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:58:06.0078021+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:04:13.3823976+00:00"
 }

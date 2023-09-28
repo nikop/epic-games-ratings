@@ -4,8 +4,8 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -664,8 +664,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:06:49.1624292+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:07:19.0422956+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:31.3697516+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:00:30.2820344+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:06:49.1624406+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:01:07.5321147+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:07:19.0423145+00:00"
 }

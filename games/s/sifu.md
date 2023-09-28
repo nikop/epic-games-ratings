@@ -11,6 +11,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.30% | ~2,146 |
 | Life is your teacher | 0.30% | ~2,146 |
 | Lightning Hands | 0.30% | ~2,146 |
+| Project Arena | 0.30% | ~74 |
 | Fight the way you practice | 0.30% | ~74 |
 | The Hateful Pole Fighter | 0.20% | ~1,431 |
 | A Lady's Blood in the Snow | 0.20% | ~1,431 |
@@ -28,7 +29,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.20% | ~1,431 |
 | Rumble in the Hangar | 0.20% | ~1,431 |
 | Take damage to save time | 0.20% | ~1,431 |
-| Project Arena | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
 | Muk Yan Master | 0.10% | ~715 |
 | Tiger on Fire | 0.10% | ~715 |

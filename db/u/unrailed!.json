@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2684,9 +2684,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 647531,
+  "EOS_Progressed": 647534,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2054,
+  "EOS_NewPlayers": 2047,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20749,6 +20749,11 @@
       "Time": "2023-09-28T08:04:43.5423425+00:00",
       "NumProgressed": 647531,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-28T09:05:16.6808326+00:00",
+      "NumProgressed": 647534,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 52,
@@ -20768,7 +20773,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 71228
+      "UsersEstimate": 71229
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -20800,7 +20805,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 110080
+      "UsersEstimate": 110081
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -21175,15 +21180,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 647531,
+      "Progressed": 647534,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-27T14:01:08.6940615+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:04:43.5423418+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:05:16.6808318+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:04.3897046+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:59:17.7663258+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:04:43.5425899+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:59:56.8983271+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:05:16.6809992+00:00"
 }

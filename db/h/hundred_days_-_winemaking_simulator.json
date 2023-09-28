@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1006,7 +1006,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5298,
+  "EOS_Progressed": 5303,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1142,
   "EOS_NewCompleters": 2,
@@ -4431,6 +4431,11 @@
       "Time": "2023-09-28T08:03:26.0030529+00:00",
       "NumProgressed": 5298,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T09:03:21.6230016+00:00",
+      "NumProgressed": 5303,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4491,7 +4496,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1962
     },
     {
       "ID": "a_19",
@@ -4649,9 +4654,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "a_6",
@@ -4690,7 +4695,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5298,
+      "Progressed": 5303,
       "Completed": 7
     }
   ],
@@ -4698,8 +4703,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-27T20:02:10.5441398+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:03:26.0030522+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:03:21.6230012+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:06.5499643+00:00",
-  "LastUpdate_Ratings": "2023-09-28T08:00:31.5576766+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:03:26.0031278+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:01:08.8001118+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:03:21.6230479+00:00"
 }

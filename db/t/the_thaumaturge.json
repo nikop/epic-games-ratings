@@ -2,10 +2,10 @@
   "ID": "69b34ef4e8ce44738fccd2b2cfb22a60",
   "Name": "The Thaumaturge",
   "ProductSlug": "the-thaumaturge-3d7b2c",
-  "Ranking_EOS_Progress": 642,
+  "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.1926975+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:57:46.229893+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:04:13.3602385+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:58:24.7414669+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:04:47.0267572+00:00"
 }

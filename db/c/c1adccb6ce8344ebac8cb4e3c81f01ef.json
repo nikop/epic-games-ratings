@@ -2,10 +2,10 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -1766,8 +1766,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:06:21.1719654+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:06:52.0290565+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:52.153897+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:59:26.0421239+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:06:21.171985+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:00:05.0127645+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:06:52.0290784+00:00"
 }

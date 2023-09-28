@@ -12531,10 +12531,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 232264,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-28T08:58:17.6199822+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 232543,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232264,
+  "NumberOfAwards": 232543,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12602,7 +12608,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 10506
+      "Count": 10785
     },
     {
       "Text": "This game has a Creative Community",
@@ -12611,9 +12617,9 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883719,
+  "EOS_Progressed": 883742,
   "EOS_Completed": 2448,
-  "EOS_NewPlayers": 6170,
+  "EOS_NewPlayers": 6173,
   "EOS_NewCompleters": 323,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30676,6 +30682,11 @@
       "Time": "2023-09-28T08:05:50.7628489+00:00",
       "NumProgressed": 883719,
       "NumCompleted": 2448
+    },
+    {
+      "Time": "2023-09-28T09:06:22.3911624+00:00",
+      "NumProgressed": 883742,
+      "NumCompleted": 2448
     }
   ],
   "TotalAchievements": 57,
@@ -30871,7 +30882,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "Temperance",
@@ -30887,7 +30898,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "TheDevil",
@@ -30917,9 +30928,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7953
+      "UsersEstimate": 8837
     },
     {
       "ID": "TheLovers",
@@ -31142,21 +31153,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883719,
+      "Progressed": 883742,
       "Completed": 2448
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12342,
+      "Progressed": 12365,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-28T02:57:28.3247541+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:05:50.7628484+00:00",
+  "LastChanged": "2023-09-28T08:58:17.619982+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:06:22.3911617+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:57:39.1531639+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:05:50.7630153+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:58:17.6199826+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:06:22.3914607+00:00"
 }

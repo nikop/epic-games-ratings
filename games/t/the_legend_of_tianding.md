@@ -30,6 +30,13 @@
 | Coward | 0.00% | ~0 |
 | Tomb Raider | 0.00% | ~0 |
 | Fight Fire With Fire | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 590)  
+Completed: 0 (0.00%) (Ranked 296)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-28 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

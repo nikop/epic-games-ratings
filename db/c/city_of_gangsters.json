@@ -3,12 +3,12 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 827,
-  "Ranking_Popularity": 444,
+  "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 345270,
+  "EOS_Progressed": 345274,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1058,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18677,6 +18677,11 @@
       "Time": "2023-09-28T08:04:50.1300898+00:00",
       "NumProgressed": 345270,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T09:05:23.0068549+00:00",
+      "NumProgressed": 345274,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18704,7 +18709,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41432
+      "UsersEstimate": 41433
     },
     {
       "ID": "ach004",
@@ -18744,7 +18749,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41432
+      "UsersEstimate": 41433
     },
     {
       "ID": "ach009",
@@ -18792,7 +18797,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51790
+      "UsersEstimate": 51791
     },
     {
       "ID": "ach015",
@@ -18816,7 +18821,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44885
+      "UsersEstimate": 44886
     },
     {
       "ID": "ach018",
@@ -18896,7 +18901,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158824
+      "UsersEstimate": 158826
     },
     {
       "ID": "ach028",
@@ -19040,7 +19045,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44885
+      "UsersEstimate": 44886
     },
     {
       "ID": "ach046",
@@ -19216,7 +19221,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55243
+      "UsersEstimate": 55244
     },
     {
       "ID": "ach069",
@@ -19327,7 +19332,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345270,
+      "Progressed": 345274,
       "Completed": 7
     }
   ],
@@ -19335,8 +19340,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-26T19:57:39.174823+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:04:50.1300891+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:05:23.006854+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:57:41.1280002+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:04:50.1302957+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:58:19.5308312+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:05:23.007204+00:00"
 }

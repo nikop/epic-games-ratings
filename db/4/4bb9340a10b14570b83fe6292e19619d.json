@@ -2,10 +2,10 @@
   "ID": "4bb9340a10b14570b83fe6292e19619d",
   "Name": "Class of \u002709",
   "ProductSlug": "class-of-09-b7c7ab",
-  "Ranking_EOS_Progress": 642,
+  "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-28T07:00:00+00:00",
     "PcReleaseDate": "2021-06-11T07:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-23T02:23:47.3203558+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:05:38.8212228+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:06:10.4889947+00:00",
   "LastUpdate_AppInfo": "2023-09-22T07:57:13.7417759+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:59:48.0231616+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:05:38.8212271+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:00:26.2349842+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:06:10.4889995+00:00"
 }

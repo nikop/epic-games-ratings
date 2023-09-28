@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -754,9 +754,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 527023,
+  "EOS_Progressed": 527025,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1815,
+  "EOS_NewPlayers": 1811,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18674,6 +18674,11 @@
       "Time": "2023-09-28T08:08:25.226429+00:00",
       "NumProgressed": 527023,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-28T09:09:33.1565925+00:00",
+      "NumProgressed": 527025,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -18781,7 +18786,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 205539
+      "UsersEstimate": 205540
     },
     {
       "ID": "DeadlyAssassin",
@@ -18789,7 +18794,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79053
+      "UsersEstimate": 79054
     },
     {
       "ID": "DogEatDog",
@@ -18813,7 +18818,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31621
+      "UsersEstimate": 31622
     },
     {
       "ID": "GoForIt",
@@ -18829,7 +18834,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73783
+      "UsersEstimate": 73784
     },
     {
       "ID": "Handy",
@@ -18837,7 +18842,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 216079
+      "UsersEstimate": 216080
     },
     {
       "ID": "HoldingYourOwn",
@@ -18933,7 +18938,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 400537
+      "UsersEstimate": 400539
     },
     {
       "ID": "ProPlayer",
@@ -19044,7 +19049,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 527023,
+      "Progressed": 527025,
       "Completed": 2
     }
   ],
@@ -19052,8 +19057,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-26T16:59:34.4929543+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:08:25.2264284+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:09:33.156592+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:39.502046+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:58:58.4489283+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:08:25.2265748+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:59:38.0427898+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:09:33.1567733+00:00"
 }

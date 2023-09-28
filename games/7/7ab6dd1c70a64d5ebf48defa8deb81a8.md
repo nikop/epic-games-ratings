@@ -4,21 +4,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 16.00% | ~5 |
+| Find Allies | 13.00% | ~4 |
 | Trinity | 13.00% | ~4 |
 | Shatter Them All | 13.00% | ~4 |
-| Find Allies | 10.00% | ~3 |
 | Essence Blow | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
 | A Taste of Wrath | 6.00% | ~2 |
+| Adventurer | 6.00% | ~2 |
 | Scholar | 6.00% | ~2 |
-| Adventurer | 3.00% | ~1 |
+| The Collector | 6.00% | ~2 |
 | Geared Up | 3.00% | ~1 |
 | Fashion Victim | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
-| The Collector | 3.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
+| A Queen's Tale | 0.00% | ~0 |
 | To Battle | -3.20% | ~-1 |
 | Godslayer | -3.20% | ~-1 |
 | Clear Sight | -3.20% | ~-1 |
@@ -38,7 +39,6 @@
 | Tributes of Caladrias | -6.50% | ~-2 |
 | Flawless Victory | -6.50% | ~-2 |
 | Stone Collection | -6.50% | ~-2 |
-| A Queen's Tale | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 455)  
 Completed: 1 (3.23%) (Ranked 75)  

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~230 |
-| Off to a good start | 66.00% | ~172 |
-| Do... or do not. There is no try | 48.00% | ~125 |
-| A good blaster at your side | 34.00% | ~89 |
-| Scrap collector | 23.00% | ~60 |
+| New Recruit | 88.00% | ~232 |
+| Off to a good start | 66.00% | ~174 |
+| Do... or do not. There is no try | 48.00% | ~127 |
+| A good blaster at your side | 34.00% | ~90 |
+| Scrap collector | 23.00% | ~61 |
 | Great shot, kid! | 21.00% | ~55 |
 | The power of the Force | 19.00% | ~50 |
-| Together we can rule the galaxy | 18.00% | ~47 |
-| I suggest a new strategy | 18.00% | ~47 |
-| All right, I'll give it a try | 17.00% | ~44 |
-| Shoot first | 17.00% | ~44 |
+| Together we can rule the galaxy | 18.00% | ~48 |
+| All right, I'll give it a try | 18.00% | ~48 |
+| I suggest a new strategy | 18.00% | ~48 |
+| Shoot first | 17.00% | ~45 |
 | Collector | 16.00% | ~42 |
 | Survivor | 14.00% | ~37 |
 | Tell Jabba that I've got his money | 13.00% | ~34 |
@@ -25,16 +25,16 @@
 | Judge me by my size, do you? | 11.00% | ~29 |
 | A cunning warrior | 11.00% | ~29 |
 | Impressive. Most impressive. | 10.00% | ~26 |
-| "Gonk? Gonk!" | 9.00% | ~23 |
+| "Gonk? Gonk!" | 9.00% | ~24 |
 | Distinguished | 8.00% | ~21 |
 | Patience you must have | 8.00% | ~21 |
 | Support the troops | 8.00% | ~21 |
-| I've been waiting for you | 7.00% | ~18 |
-| When 900 years old you reach... | 7.00% | ~18 |
 | Determined | 7.00% | ~18 |
 | On the ball | 7.00% | ~18 |
 | Not bad for a little furball | 7.00% | ~18 |
 | Don't underestimate the Force | 7.00% | ~18 |
+| I've been waiting for you | 6.00% | ~16 |
+| When 900 years old you reach... | 6.00% | ~16 |
 | City in the Clouds | 6.00% | ~16 |
 | That's no moon | 6.00% | ~16 |
 | The Force is strong with this one | 5.00% | ~13 |
@@ -45,8 +45,8 @@
 | What will you become? | 5.00% | ~13 |
 | The circle is now complete | 5.00% | ~13 |
 | Disturbed tranquility | 5.00% | ~13 |
-| Playing the objective | 4.00% | ~10 |
-| Ackbar's Elite | 4.00% | ~10 |
+| Playing the objective | 4.00% | ~11 |
+| Ackbar's Elite | 4.00% | ~11 |
 | Hold the line! | 3.00% | ~8 |
 | Safety ain't the point of a joyride | 3.00% | ~8 |
 | No such thing as luck | 3.00% | ~8 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~1 |
 | Crush them with one swift stroke… | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 317)  
+Progressed: 264 (Ranked 315)  
 Completed: 1 (0.38%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.38%) (Ranked 176)
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
 | 2023-09-27 | 253 | 1 |
-| 2023-09-28 | 261 | 1 |
+| 2023-09-28 | 264 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

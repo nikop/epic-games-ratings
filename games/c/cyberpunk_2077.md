@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 2.00% | ~17,674 |
-| Rough Landing | 2.00% | ~17,674 |
+| Ten out of Ten | 2.00% | ~17,675 |
+| Rough Landing | 2.00% | ~17,675 |
 | Gunslinger | 1.00% | ~8,837 |
 | Master Crafter | 1.00% | ~8,837 |
 | Mean Streets | 1.00% | ~8,837 |
+| The High Priestess | 1.00% | ~8,837 |
 | The Jungle | 1.00% | ~8,837 |
 | Two Heads, One Bullet | 1.00% | ~8,837 |
 | V for Vendetta | 1.00% | ~8,837 |
-| The High Priestess | 0.90% | ~7,953 |
 | Full Body Conversion | 0.80% | ~7,070 |
 | Right Back At Ya | 0.80% | ~7,070 |
 | Breathtaking | 0.80% | ~7,070 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,719 (Ranked 15)  
+Progressed: 883,742 (Ranked 15)  
 Completed: 2,448 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,10 +225,10 @@ Completed: 2,448 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,719 | 2,448 |
+| 2023-09-28 | 883,742 | 2,448 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
-Sum: 232,264 (Ranked 13)  
+Sum: 232,543 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -236,10 +236,10 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 56,107 |
 | This game is Great for Beginners | 11,130 |
 | This game has Diverse Characters | 10,892 |
+| This game is Extremely Fun | 10,785 |
 | This game has Amazing Storytelling | 10,776 |
 | This game is Highly Recommended | 10,741 |
 | This game is Relaxing | 10,535 |
-| This game is Extremely Fun | 10,506 |
 | This game has Amazing Characters | 10,457 |
 | This game has Quickly Understood Controls | 10,322 |
 | This game has a Creative Community | 6,760 |
@@ -498,4 +498,4 @@ Diff (max vs sum): -4
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
-| 2023-09-28 | 4.63 | - | 84,038 | 232,264 |
+| 2023-09-28 | 4.63 | - | 84,038 | 232,543 |

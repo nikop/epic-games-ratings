@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468095,
+  "EOS_Progressed": 468096,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17440,6 +17440,11 @@
       "Time": "2023-09-28T08:05:59.2509805+00:00",
       "NumProgressed": 468095,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-28T09:06:30.6944704+00:00",
+      "NumProgressed": 468096,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -17603,7 +17608,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51490
+      "UsersEstimate": 51491
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -17635,7 +17640,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159152
+      "UsersEstimate": 159153
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17883,7 +17888,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140428
+      "UsersEstimate": 140429
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -17899,7 +17904,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51490
+      "UsersEstimate": 51491
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -18082,21 +18087,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12029,
+      "Progressed": 12030,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468095,
+      "Progressed": 468096,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:05:59.2509799+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:06:30.6944696+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:58:03.2941608+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:05:59.2512025+00:00"
+  "LastUpdate_Ratings": "2023-09-28T08:58:43.4863828+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:06:30.6948162+00:00"
 }

@@ -4,12 +4,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Toys Are For Kids | 50.00% | ~4 |
+| Schooled | 50.00% | ~4 |
 | True Colours | 50.00% | ~4 |
 | Evasive prey | 50.00% | ~4 |
 | Bully of Bullies | 38.00% | ~3 |
 | Hospitalised | 38.00% | ~3 |
 | Paled | 38.00% | ~3 |
-| Schooled | 38.00% | ~3 |
 | Foraged | 38.00% | ~3 |
 | Merciful feat | 38.00% | ~3 |
 | Hunger | 38.00% | ~3 |

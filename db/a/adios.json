@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,10 +114,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74419,
+  "EOS_Progressed": 74421,
   "EOS_Completed": 776,
-  "EOS_NewPlayers": 637,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 639,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -18019,6 +18019,11 @@
       "Time": "2023-09-28T08:04:39.6112384+00:00",
       "NumProgressed": 74419,
       "NumCompleted": 776
+    },
+    {
+      "Time": "2023-09-28T09:05:12.7627238+00:00",
+      "NumProgressed": 74421,
+      "NumCompleted": 776
     }
   ],
   "TotalAchievements": 25,
@@ -18046,7 +18051,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13395
+      "UsersEstimate": 13396
     },
     {
       "ID": "Audiophile",
@@ -18062,7 +18067,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16372
+      "UsersEstimate": 16373
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -18070,7 +18075,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13395
+      "UsersEstimate": 13396
     },
     {
       "ID": "Butcher",
@@ -18182,7 +18187,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9674
+      "UsersEstimate": 9675
     },
     {
       "ID": "Sniper",
@@ -18229,7 +18234,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74419,
+      "Progressed": 74421,
       "Completed": 776
     }
   ],
@@ -18237,8 +18242,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-28T08:04:39.6112377+00:00",
+  "LastChanged_Achievements": "2023-09-28T09:05:12.7627231+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-28T07:59:41.3796366+00:00",
-  "LastUpdate_Achievements": "2023-09-28T08:04:39.6114555+00:00"
+  "LastUpdate_Ratings": "2023-09-28T09:00:19.7710566+00:00",
+  "LastUpdate_Achievements": "2023-09-28T09:05:12.7629546+00:00"
 }
