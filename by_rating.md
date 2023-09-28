@@ -159,7 +159,7 @@
 | 148 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 525 |
 | 148 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 525 |
 | 148 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 525 |
-| 148 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 810 | 159 |
+| 148 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 813 | 158 |
 | 148 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 525 |
 | 148 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 525 |
 | 163 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 422 | 215 |
@@ -172,7 +172,7 @@
 | 163 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 525 |
 | 163 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 525 |
 | 163 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 525 |
-| 163 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 83 | 364 |
+| 163 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 83 | 365 |
 | 163 | [Townscaper](games/t/townscaper.md) | 4.73 | 0 | 525 |
 | 163 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 665 | 179 |
 | 176 | [Cave Story+](games/c/cave_story+.md) | 4.72 | 106 | 336 |
@@ -213,7 +213,7 @@
 | 205 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 52 | 404 |
 | 205 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,321 | 132 |
 | 205 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,895 | 113 |
-| 205 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 468 |
+| 205 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 469 |
 | 205 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 48 | 413 |
 | 205 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 525 |
 | 205 | [The Witness](games/t/the_witness.md) | 4.70 | 181 | 285 |
@@ -356,7 +356,7 @@
 | 353 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 386 | 223 |
 | 353 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 247 |
 | 353 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 456 |
-| 353 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 83 | 364 |
+| 353 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 83 | 365 |
 | 353 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,501 | 124 |
 | 353 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.62 | 0 | 525 |
 | 353 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.62 | 38 | 439 |
@@ -469,7 +469,7 @@
 | 452 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 525 |
 | 452 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,978 | 82 |
 | 452 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 467 |
-| 452 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,649 | 20 |
+| 452 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,656 | 20 |
 | 452 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,778 | 116 |
 | 452 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 525 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 69 | 384 |
@@ -494,7 +494,7 @@
 | 491 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 525 |
 | 491 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 408 |
 | 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,432 | 130 |
-| 491 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 83 | 364 |
+| 491 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 84 | 362 |
 | 491 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 449 |
 | 491 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 276 | 249 |
 | 491 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 21 | 518 |
@@ -586,9 +586,9 @@
 | 572 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.50 | 547 | 196 |
 | 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 642 | 182 |
 | 572 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 525 |
-| 572 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 812 | 158 |
+| 572 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 812 | 159 |
 | 572 | [Solitairica](games/s/solitairica.md) | 4.50 | 84 | 362 |
-| 589 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 29 | 469 |
+| 589 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 29 | 470 |
 | 589 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 392 |
 | 589 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 525 |
 | 589 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,997 | 109 |
@@ -684,7 +684,7 @@
 | 674 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 525 |
 | 674 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 525 |
 | 674 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 421 |
-| 674 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 469 |
+| 674 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 470 |
 | 674 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 283 | 246 |
 | 687 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 234 | 263 |
 | 687 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 40 | 432 |
@@ -740,7 +740,7 @@
 | 735 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 583 | 189 |
 | 735 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 297 |
 | 735 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 173 | 290 |
-| 735 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 29 | 469 |
+| 735 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 31 | 467 |
 | 735 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 74 | 378 |
 | 735 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.38 | 0 | 525 |
 | 735 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 0 | 525 |
@@ -796,7 +796,7 @@
 | 791 | [House Party](games/h/house_party.md) | 4.32 | 0 | 525 |
 | 791 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 525 |
 | 791 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,454 | 67 |
-| 791 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 469 |
+| 791 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 470 |
 | 791 | [Vampyr](games/v/vampyr.md) | 4.32 | 561 | 195 |
 | 791 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 525 |
 | 791 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 525 |
@@ -971,7 +971,7 @@
 | 966 | [Ironcast](games/i/ironcast.md) | 3.95 | 0 | 525 |
 | 970 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 463 | 206 |
 | 970 | [Patron](games/p/patron.md) | 3.94 | 0 | 525 |
-| 972 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 469 |
+| 972 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 470 |
 | 972 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 525 |
 | 974 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.92 | 0 | 525 |
 | 975 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.91 | 0 | 525 |
