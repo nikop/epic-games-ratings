@@ -137,9 +137,9 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 49,
+      "Percentage": 52,
       "XP": 80,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "10",
@@ -177,9 +177,9 @@
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "5",
@@ -234,8 +234,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:06:22.4258328+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:06:48.9863981+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.2909483+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:59:55.2559329+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:06:22.4258406+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:00:20.8041359+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:06:48.9864078+00:00"
 }

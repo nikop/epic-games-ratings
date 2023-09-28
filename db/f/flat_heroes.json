@@ -778,17 +778,17 @@
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 236
     },
     {
       "ID": "World3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "World4Boss",
@@ -851,8 +851,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:06:06.1256597+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:06:30.6637941+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:57:23.7189909+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:06:06.1256898+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:57:35.4930483+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:06:30.6638324+00:00"
 }

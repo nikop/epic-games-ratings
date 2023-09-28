@@ -364,9 +364,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
       "SetID": "caeik3h",
       "Name": "No Survivors I",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
@@ -452,9 +452,9 @@
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -666,8 +666,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:06:25.8212679+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:06:52.712819+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:00:10.4097132+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:06:25.821333+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:00:37.3617211+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:06:52.7128993+00:00"
 }

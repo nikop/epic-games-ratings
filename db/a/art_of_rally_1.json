@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10261,
+  "EOS_Progressed": 10262,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1591,6 +1591,11 @@
       "Time": "2023-09-28T12:05:01.4703919+00:00",
       "NumProgressed": 10261,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-28T15:05:51.2324274+00:00",
+      "NumProgressed": 10262,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1706,7 +1711,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1762,7 +1767,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7901
+      "UsersEstimate": 7902
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1826,7 +1831,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9851
+      "UsersEstimate": 9852
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1938,22 +1943,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7388
+      "UsersEstimate": 7389
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10261,
+      "Progressed": 10262,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:05:30.1118729+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:05:51.232427+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.7566421+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:58:10.8767001+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:05:30.1119078+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:58:26.3527723+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:05:51.232465+00:00"
 }

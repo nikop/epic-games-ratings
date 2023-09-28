@@ -7,26 +7,26 @@ Number of Ratings: 74  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~4,056 |
-| A Grove Replanted | 53.00% | ~3,838 |
-| Fields Watered | 41.00% | ~2,969 |
-| Seekers Found | 41.00% | ~2,969 |
-| Settling the Skies | 41.00% | ~2,969 |
+| A Grove Replanted | 53.00% | ~3,839 |
+| Fields Watered | 41.00% | ~2,970 |
+| Seekers Found | 41.00% | ~2,970 |
+| Settling the Skies | 41.00% | ~2,970 |
 | Wind Powered | 40.00% | ~2,897 |
-| It Takes a Village | 34.00% | ~2,462 |
+| It Takes a Village | 34.00% | ~2,463 |
 | On the Town | 28.00% | ~2,028 |
 | Daylight Found | 26.00% | ~1,883 |
-| Irons Scorched | 25.00% | ~1,810 |
-| Islands Connected | 25.00% | ~1,810 |
+| Irons Scorched | 25.00% | ~1,811 |
+| Islands Connected | 25.00% | ~1,811 |
 | Harp Tuned | 23.00% | ~1,666 |
 | Pyre Ignited | 23.00% | ~1,666 |
 | Travelers Returned | 23.00% | ~1,666 |
 | Hopes Hoisted | 22.00% | ~1,593 |
-| Knowledge Shared | 20.00% | ~1,448 |
-| Relic Finder | 20.00% | ~1,448 |
+| Knowledge Shared | 20.00% | ~1,449 |
+| Relic Finder | 20.00% | ~1,449 |
 | Worthy of the Title | 19.00% | ~1,376 |
 | A Peaceful Respite | 14.00% | ~1,014 |
-| A Learned Scholar | 13.00% | ~941 |
-| Prophecy Fulfilled | 13.00% | ~941 |
+| A Learned Scholar | 13.00% | ~942 |
+| Prophecy Fulfilled | 13.00% | ~942 |
 | A Wanderer’s Guide | 11.00% | ~797 |
 | Knowledge Seeker | 7.00% | ~507 |
 | The Cycle Continues | 3.00% | ~217 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~145 |
 | A True Challenge | 2.00% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,242 (Ranked 150)  
+Progressed: 7,243 (Ranked 150)  
 Completed: 53 (0.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 53 (0.73%) (Ranked 143)
 | 2023-09-25 | 7,230 | 53 |
 | 2023-09-26 | 7,236 | 53 |
 | 2023-09-27 | 7,240 | 53 |
-| 2023-09-28 | 7,242 | 53 |
+| 2023-09-28 | 7,243 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

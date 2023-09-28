@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
@@ -11781,10 +11781,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 269937,
       "NumberOfAwardsMax": 61553
+    },
+    {
+      "Time": "2023-09-28T14:59:10.8278144+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 269956,
+      "NumberOfAwardsMax": 61553
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269937,
+  "NumberOfAwards": 269956,
   "NumberOfAwardsMax": 61553,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11810,7 +11816,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21052
+      "Count": 21060
     },
     {
       "Text": "This game is Educational",
@@ -11828,7 +11834,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 19924
+      "Count": 19933
     },
     {
       "Text": "This game has Competitive Players",
@@ -11846,7 +11852,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 19846
+      "Count": 19848
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11872,8 +11878,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-09-28T13:58:51.7651626+00:00",
+  "LastChanged": "2023-09-28T14:59:10.8278138+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.4866423+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:58:51.7651632+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:05:16.5111291+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:59:10.8278155+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:05:35.8617564+00:00"
 }

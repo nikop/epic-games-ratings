@@ -5,9 +5,9 @@
   "Ranking_Rating": 607,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-09-28T11:04:55.0456532+00:00",
       "NumProgressed": 502,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-28T15:06:28.864454+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1271,7 +1276,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "09_russia",
@@ -1279,7 +1284,7 @@
       "Name": "Russia",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "10_japan",
@@ -1343,7 +1348,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "18_foreman",
@@ -1351,7 +1356,7 @@
       "Name": "Foreman",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "19_justintime",
@@ -1373,9 +1378,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "22_ouroboros",
@@ -1383,7 +1388,7 @@
       "Name": "Ouroboros",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "23_closecall",
@@ -1391,7 +1396,7 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "24_mega",
@@ -1431,7 +1436,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "29_madness",
@@ -1526,15 +1531,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:06:04.4337334+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:06:28.8644536+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:01.7956204+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:57:39.6233168+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:06:04.4337631+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:57:53.0838989+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:06:28.8644901+00:00"
 }

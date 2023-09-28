@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2812,9 +2812,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 77198,
+  "EOS_Progressed": 77199,
   "EOS_Completed": 136,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -20567,6 +20567,11 @@
       "Time": "2023-09-28T14:07:46.6704785+00:00",
       "NumProgressed": 77198,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2023-09-28T15:08:18.9863392+00:00",
+      "NumProgressed": 77199,
+      "NumCompleted": 136
     }
   ],
   "TotalAchievements": 30,
@@ -20658,7 +20663,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 28563
+      "UsersEstimate": 28564
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20666,7 +20671,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 21615
+      "UsersEstimate": 21616
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -20674,7 +20679,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 24703
+      "UsersEstimate": 24704
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -20714,7 +20719,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 20071
+      "UsersEstimate": 20072
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -20754,7 +20759,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 27791
+      "UsersEstimate": 27792
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -20817,15 +20822,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 77198,
+      "Progressed": 77199,
       "Completed": 136
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-25T07:59:53.3149974+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:07:46.6704777+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:08:18.9863388+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:08.0322517+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:02:12.5372161+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:07:46.6705774+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:03:10.0925454+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:08:18.9864758+00:00"
 }

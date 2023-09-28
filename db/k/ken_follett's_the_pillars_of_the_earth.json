@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15444,
+  "EOS_Progressed": 15445,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10995,6 +10995,11 @@
       "Time": "2023-09-28T14:04:27.8878125+00:00",
       "NumProgressed": 15444,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-09-28T15:04:42.0428174+00:00",
+      "NumProgressed": 15445,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 41,
@@ -11070,7 +11075,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2626
     },
     {
       "ID": "tpote_achievement_18",
@@ -11110,7 +11115,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4633
+      "UsersEstimate": 4634
     },
     {
       "ID": "tpote_achievement_22",
@@ -11326,22 +11331,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5405
+      "UsersEstimate": 5406
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15444,
+      "Progressed": 15445,
       "Completed": 111
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:04:27.887812+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:04:42.0428171+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:00:37.187093+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:04:27.8878864+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:01:06.8525576+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:04:42.0429156+00:00"
 }

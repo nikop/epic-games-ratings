@@ -508,9 +508,9 @@
       "ID": "Cleared500LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo V",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Cleared50LevelsAchievement",
@@ -1012,9 +1012,9 @@
       "ID": "Killed50BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper III",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LilySpacecraftUnlockAchievement",
@@ -1300,9 +1300,9 @@
       "ID": "VisitLostLord50TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage III",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VisitMerchant100TimeAchievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:05:22.3348188+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:05:42.6877323+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:58:46.8022811+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:05:22.3349759+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:59:05.4895054+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:05:42.6879334+00:00"
 }

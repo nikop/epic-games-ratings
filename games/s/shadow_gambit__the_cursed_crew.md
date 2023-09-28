@@ -6,7 +6,7 @@ Rating: 4.71 (Ranked 190)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 68.00% | ~460 |
-| The Adventure Begins | 54.00% | ~366 |
+| The Adventure Begins | 55.00% | ~372 |
 | Swabbie | 43.00% | ~291 |
 | With Great Power… | 41.00% | ~278 |
 | This Belongs in a Museum | 38.00% | ~257 |
@@ -33,7 +33,7 @@ Rating: 4.71 (Ranked 190)
 | Welcome Back Jester | 4.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 677 (Ranked 248)  
-Completed: 20 (2.95%) (Ranked 80)  
+Completed: 20 (2.95%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

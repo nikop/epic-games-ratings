@@ -11,7 +11,7 @@ Rating: 4.82 (Ranked 66)
 | Pentakill | 78.00% | ~2,023 |
 | Dark Forest | 78.00% | ~2,023 |
 | The use of petricite | 75.00% | ~1,946 |
-| You can pet the dog | 61.00% | ~1,582 |
+| You can pet the dog | 62.00% | ~1,608 |
 | Big Helmet Bro | 38.00% | ~986 |
 | Thornbarrow | 38.00% | ~986 |
 | Clarion Cove | 38.00% | ~986 |

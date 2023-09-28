@@ -15,7 +15,7 @@
 | Memory Rouser | 65.00% | ~46 |
 | Master of the Skies | 59.00% | ~42 |
 | Subsistence Skills | 59.00% | ~42 |
-| Kemono Hunter | 58.00% | ~41 |
+| Kemono Hunter | 59.00% | ~42 |
 | Helpful Heart | 56.00% | ~40 |
 | Distance Devourer | 55.00% | ~39 |
 | Expert Conjuror | 52.00% | ~37 |

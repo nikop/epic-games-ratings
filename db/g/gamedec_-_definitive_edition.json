@@ -414,9 +414,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 247328,
+  "EOS_Progressed": 247331,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18334,6 +18334,11 @@
       "Time": "2023-09-28T14:06:33.1812976+00:00",
       "NumProgressed": 247328,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T15:07:00.8077546+00:00",
+      "NumProgressed": 247331,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -18385,7 +18390,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29679
+      "UsersEstimate": 29680
     },
     {
       "ID": "ACH_ENJOY",
@@ -18489,7 +18494,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69252
+      "UsersEstimate": 69253
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -18577,7 +18582,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12366
+      "UsersEstimate": 12367
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -18665,7 +18670,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61832
+      "UsersEstimate": 61833
     },
     {
       "ID": "ACH_SOREAD",
@@ -18729,7 +18734,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12366
+      "UsersEstimate": 12367
     },
     {
       "ID": "ACH_WAKEUP",
@@ -18760,7 +18765,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 247328,
+      "Progressed": 247331,
       "Completed": 7
     }
   ],
@@ -18768,8 +18773,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:06:33.1812972+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:07:00.8077539+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:14.4356466+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:57:46.4742465+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:06:33.1814227+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:58:00.19285+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:07:00.807909+00:00"
 }

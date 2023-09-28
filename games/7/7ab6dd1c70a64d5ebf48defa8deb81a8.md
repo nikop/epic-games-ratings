@@ -41,7 +41,7 @@
 | Stone Collection | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 455)  
-Completed: 1 (3.23%) (Ranked 75)  
+Completed: 1 (3.23%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

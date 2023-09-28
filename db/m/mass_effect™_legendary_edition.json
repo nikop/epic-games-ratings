@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1153,9 +1153,9 @@
       "ID": "achievement_26",
       "SetID": "b9pe172",
       "Name": "Krogan Ally",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_27",
@@ -1217,9 +1217,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_34",
@@ -1729,9 +1729,9 @@
       "ID": "achievement_91",
       "SetID": "d252ncf",
       "Name": "Well Connected",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_92",
@@ -1813,8 +1813,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:06:45.8185544+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:07:14.7533489+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:01:08.4031726+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:06:45.8187326+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:01:41.277798+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:07:14.7535748+00:00"
 }

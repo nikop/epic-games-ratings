@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~720 |
+| Don't Panic! | 97.00% | ~721 |
 | Friendzone | 80.00% | ~594 |
 | Space Colonization | 80.00% | ~594 |
-| Hello World | 74.00% | ~549 |
-| Space Engineer | 64.00% | ~475 |
-| Tinkerer | 63.00% | ~467 |
-| Dust to Dust | 58.00% | ~430 |
-| Across The Stars | 48.00% | ~356 |
-| Crafty | 48.00% | ~356 |
-| All Seats Taken | 39.00% | ~289 |
+| Hello World | 74.00% | ~550 |
+| Space Engineer | 64.00% | ~476 |
+| Tinkerer | 63.00% | ~468 |
+| Dust to Dust | 58.00% | ~431 |
+| Across The Stars | 48.00% | ~357 |
+| Crafty | 48.00% | ~357 |
+| All Seats Taken | 39.00% | ~290 |
 | For Science! | 35.00% | ~260 |
-| Meet the Petersons | 32.00% | ~237 |
+| Meet the Petersons | 32.00% | ~238 |
 | Stay Cool | 29.00% | ~215 |
 | KIA | 26.00% | ~193 |
 | Mutiny in making | 24.00% | ~178 |
-| Et tu, Astrocitizen? | 20.00% | ~148 |
+| Et tu, Astrocitizen? | 20.00% | ~149 |
 | Eco-Shuttle | 19.00% | ~141 |
 | Space Explorer | 16.00% | ~119 |
 | Hands Full | 14.00% | ~104 |
@@ -34,7 +34,7 @@
 | Flawless Maegangement | 7.00% | ~52 |
 | Extreme Makeover | 5.00% | ~37 |
 | The Improvinator | 4.00% | ~30 |
-| The Last Supper | 4.00% | ~30 |
+| The Last Supper | 3.00% | ~22 |
 | 2018: A Soup Odyssey | 3.00% | ~22 |
 | Bovine Domain | 2.00% | ~15 |
 | That's No Moon! | 2.00% | ~15 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742 (Ranked 241)  
+Progressed: 743 (Ranked 241)  
 Completed: 1 (0.13%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 1 (0.13%) (Ranked 224)
 | 2023-09-25 | 738 | 1 |
 | 2023-09-26 | 741 | 1 |
 | 2023-09-27 | 742 | 1 |
+| 2023-09-28 | 743 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

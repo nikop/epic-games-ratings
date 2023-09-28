@@ -54,31 +54,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 3.00% | ~425 |
 | Zoroastrianism | 3.00% | ~425 |
 | The Great Mage | 3.00% | ~425 |
-| Regicide | 2.00% | ~283 |
-| Hanging Gardens in Babylon | 2.00% | ~283 |
-| Beloved | 2.00% | ~283 |
-| Drillmaster | 2.00% | ~283 |
-| Intercessor | 2.00% | ~283 |
-| Mighty | 2.00% | ~283 |
-| Valiant | 2.00% | ~283 |
-| Victorious | 2.00% | ~283 |
-| Legendary Cities | 2.00% | ~283 |
-| Just Difficulty | 2.00% | ~283 |
-| Artisans | 2.00% | ~283 |
-| Sages | 2.00% | ~283 |
-| Acropolis | 2.00% | ~283 |
-| Apadana | 2.00% | ~283 |
-| Colossus | 2.00% | ~283 |
-| Mausoleum | 2.00% | ~283 |
-| Musaeum | 2.00% | ~283 |
-| Necropolis | 2.00% | ~283 |
-| Learn to Play 2 | 2.00% | ~283 |
-| Greece | 2.00% | ~283 |
-| Persian Paganism | 2.00% | ~283 |
-| Building Wonders | 2.00% | ~283 |
-| Mythology | 2.00% | ~283 |
-| Points Victory | 2.00% | ~283 |
-| Poetic Leader | 2.00% | ~283 |
+| Regicide | 2.00% | ~284 |
+| Hanging Gardens in Babylon | 2.00% | ~284 |
+| Beloved | 2.00% | ~284 |
+| Drillmaster | 2.00% | ~284 |
+| Intercessor | 2.00% | ~284 |
+| Mighty | 2.00% | ~284 |
+| Valiant | 2.00% | ~284 |
+| Victorious | 2.00% | ~284 |
+| Legendary Cities | 2.00% | ~284 |
+| Just Difficulty | 2.00% | ~284 |
+| Artisans | 2.00% | ~284 |
+| Sages | 2.00% | ~284 |
+| Acropolis | 2.00% | ~284 |
+| Apadana | 2.00% | ~284 |
+| Colossus | 2.00% | ~284 |
+| Mausoleum | 2.00% | ~284 |
+| Musaeum | 2.00% | ~284 |
+| Necropolis | 2.00% | ~284 |
+| Learn to Play 2 | 2.00% | ~284 |
+| Greece | 2.00% | ~284 |
+| Persian Paganism | 2.00% | ~284 |
+| Building Wonders | 2.00% | ~284 |
+| Mythology | 2.00% | ~284 |
+| Points Victory | 2.00% | ~284 |
+| Poetic Leader | 2.00% | ~284 |
 | Bad Heir Day | 1.00% | ~142 |
 | Capable | 1.00% | ~142 |
 | Conqueror | 1.00% | ~142 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,173 (Ranked 130)  
+Progressed: 14,175 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 5 (0.04%) (Ranked 261)
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
-| 2023-09-28 | 14,173 | 5 |
+| 2023-09-28 | 14,175 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,823 (Ranked 207)  

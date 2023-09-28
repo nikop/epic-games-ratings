@@ -6,44 +6,44 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 98.00% | ~1,225 |
-| One HIT wonder | 35.00% | ~438 |
-| Wanderer | 35.00% | ~438 |
-| One shot, one kill | 28.00% | ~350 |
-| Traveler | 25.00% | ~312 |
+| Atom Agent | 98.00% | ~1,228 |
+| One HIT wonder | 35.00% | ~439 |
+| Wanderer | 35.00% | ~439 |
+| One shot, one kill | 28.00% | ~351 |
+| Traveler | 25.00% | ~313 |
 | Head Burst | 19.00% | ~238 |
-| Explorer | 18.00% | ~225 |
-| Grave Robber | 18.00% | ~225 |
-| Paranoia | 16.00% | ~200 |
+| Explorer | 18.00% | ~226 |
+| Grave Robber | 18.00% | ~226 |
 | Double agent | 15.00% | ~188 |
+| Paranoia | 15.00% | ~188 |
 | Kraina Grzybow | 10.00% | ~125 |
-| Love Guru | 9.00% | ~112 |
-| Savant | 9.00% | ~112 |
+| Love Guru | 9.00% | ~113 |
+| Savant | 9.00% | ~113 |
 | Bustin' nuts | 8.00% | ~100 |
 | Not-so-private Eye | 8.00% | ~100 |
 | Superhuman | 8.00% | ~100 |
 | The Vitinsky Rifle | 7.00% | ~88 |
-| Protection racket | 5.00% | ~62 |
-| Secret room | 5.00% | ~62 |
+| Protection racket | 5.00% | ~63 |
+| Secret room | 5.00% | ~63 |
 | Indy | 4.00% | ~50 |
 | Sacrifice | 4.00% | ~50 |
 | Wishmaster | 3.00% | ~38 |
 | Career criminal | 2.00% | ~25 |
-| Neanderthal | 1.00% | ~12 |
-| It was worth a shot | 1.00% | ~12 |
-| Cosmic Horror | 1.00% | ~12 |
+| Neanderthal | 1.00% | ~13 |
+| It was worth a shot | 1.00% | ~13 |
+| Cosmic Horror | 1.00% | ~13 |
 | Ghostbuster | 0.70% | ~9 |
 | Tourist Korallov | 0.60% | ~8 |
 | Comrade Yogi | 0.50% | ~6 |
 | Cheeki Breeki | 0.40% | ~5 |
 | Expert | 0.40% | ~5 |
 | It's a classic! | 0.30% | ~4 |
-| Mystical relics | 0.20% | ~2 |
+| Mystical relics | 0.20% | ~3 |
 | 27 Club | 0.10% | ~1 |
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,250 (Ranked 219)  
+Progressed: 1,253 (Ranked 219)  
 Completed: 1 (0.08%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.08%) (Ranked 245)
 | 2023-09-25 | 1,239 | 0 |
 | 2023-09-26 | 1,245 | 0 |
 | 2023-09-27 | 1,247 | 1 |
-| 2023-09-28 | 1,250 | 1 |
+| 2023-09-28 | 1,253 | 1 |
 ## Awards
 Max (Character Customization): 50  (Ranked 408)  
 Sum: 50 (Ranked 458)  

@@ -57,18 +57,18 @@
 | Not little hacker | 36.00% | ~118 |
 | Absolute Champion! | 36.00% | ~118 |
 | Your own way | 36.00% | ~118 |
+| The lonesome road | 35.00% | ~115 |
+| Key memories | 35.00% | ~115 |
 | Anyone can resist | 35.00% | ~115 |
+| The heart of the Resistance | 35.00% | ~115 |
 | Another world | 34.00% | ~112 |
-| The lonesome road | 34.00% | ~112 |
 | Keep nature safe | 34.00% | ~112 |
 | Family comes first | 34.00% | ~112 |
-| Key memories | 34.00% | ~112 |
 | Careerist | 34.00% | ~112 |
-| The heart of the Resistance | 34.00% | ~112 |
 | Trap disarmed | 33.00% | ~109 |
 | The last bell ring | 33.00% | ~109 |
+| Better cooking at home | 31.00% | ~102 |
 | Silver’s past | 30.00% | ~99 |
-| Better cooking at home | 30.00% | ~99 |
 | The only right decision | 30.00% | ~99 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 329 (Ranked 295)  

@@ -6,49 +6,49 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~3,253 |
-| A normal day in Gloomhaven | 34.00% | ~2,633 |
-| Overkill | 31.00% | ~2,401 |
-| Vaccine Incoming | 30.00% | ~2,324 |
-| Spread the plague | 29.00% | ~2,246 |
-| Get over here! | 23.00% | ~1,781 |
-| Just when I thought I was out... | 18.00% | ~1,394 |
-| Mine... All Mine... | 17.00% | ~1,317 |
-| Light of my life | 15.00% | ~1,162 |
-| Anatomy Lesson | 14.00% | ~1,084 |
-| You activated my trap card! | 13.00% | ~1,007 |
-| Augmented rat | 13.00% | ~1,007 |
-| Precious! | 12.00% | ~929 |
-| Obstacle race | 12.00% | ~929 |
-| Doom and gloom | 12.00% | ~929 |
-| Grizzled veteran | 10.00% | ~774 |
-| Play it again, Sam | 8.00% | ~620 |
-| Pack leader | 7.00% | ~542 |
-| Pain is your friend | 7.00% | ~542 |
-| Black death | 7.00% | ~542 |
+| I'm not dead yet | 42.00% | ~3,258 |
+| A normal day in Gloomhaven | 34.00% | ~2,638 |
+| Overkill | 31.00% | ~2,405 |
+| Vaccine Incoming | 30.00% | ~2,327 |
+| Spread the plague | 29.00% | ~2,250 |
+| Get over here! | 23.00% | ~1,784 |
+| Just when I thought I was out... | 18.00% | ~1,396 |
+| Mine... All Mine... | 17.00% | ~1,319 |
+| Light of my life | 15.00% | ~1,164 |
+| Anatomy Lesson | 14.00% | ~1,086 |
+| You activated my trap card! | 13.00% | ~1,009 |
+| Augmented rat | 13.00% | ~1,009 |
+| Precious! | 12.00% | ~931 |
+| Obstacle race | 12.00% | ~931 |
+| Doom and gloom | 12.00% | ~931 |
+| Grizzled veteran | 10.00% | ~776 |
+| Play it again, Sam | 8.00% | ~621 |
+| Pack leader | 7.00% | ~543 |
+| Pain is your friend | 7.00% | ~543 |
+| Black death | 7.00% | ~543 |
 | Dungeon Veteran | 6.00% | ~465 |
 | Who's the Boss? | 6.00% | ~465 |
-| The Pro from Dover | 5.00% | ~387 |
-| Quad damage | 5.00% | ~387 |
-| Now you see me... | 5.00% | ~387 |
+| Quad damage | 6.00% | ~465 |
+| The Pro from Dover | 5.00% | ~388 |
+| Now you see me... | 5.00% | ~388 |
 | Power Up! | 4.00% | ~310 |
 | Pretty lights! | 4.00% | ~310 |
-| Caught off guard | 3.00% | ~232 |
+| Caught off guard | 3.00% | ~233 |
 | I hate portals | 2.00% | ~155 |
 | Merchant of doom | 2.00% | ~155 |
 | Master Assassin | 2.00% | ~155 |
 | Grin and bear it | 2.00% | ~155 |
 | An axe to grind | 2.00% | ~155 |
-| Down the hatch | 1.00% | ~77 |
-| An eye for an eye | 1.00% | ~77 |
-| The Cephalophore | 1.00% | ~77 |
-| The Sniper | 1.00% | ~77 |
+| Down the hatch | 1.00% | ~78 |
+| An eye for an eye | 1.00% | ~78 |
+| The Cephalophore | 1.00% | ~78 |
+| The Sniper | 1.00% | ~78 |
 | New Blood | 0.90% | ~70 |
 | From Gloom, only greed and death emerges | 0.80% | ~62 |
 | Add a bit of colour | 0.80% | ~62 |
 | The Rat King | 0.80% | ~62 |
 | How to train your Drake | 0.80% | ~62 |
-| Captain hooked | 0.60% | ~46 |
+| Captain hooked | 0.70% | ~54 |
 | Betray this | 0.50% | ~39 |
 | The Pacifist | 0.50% | ~39 |
 | Spoiler police! | 0.40% | ~31 |
@@ -56,10 +56,10 @@ Number of Ratings: 68  (23.09.2022)
 | Born Support | 0.40% | ~31 |
 | Pull out the big guns | 0.30% | ~23 |
 | Crimson Tornado | 0.30% | ~23 |
-| The evil that men do | 0.20% | ~15 |
-| MacReady Steady.. Go! | 0.20% | ~15 |
-| Beware my power | 0.20% | ~15 |
-| The Jaws of victory! | 0.20% | ~15 |
+| The evil that men do | 0.20% | ~16 |
+| MacReady Steady.. Go! | 0.20% | ~16 |
+| Beware my power | 0.20% | ~16 |
+| The Jaws of victory! | 0.20% | ~16 |
 | A cult following | 0.10% | ~8 |
 | Over your dead body | 0.10% | ~8 |
 | The Guildmaster | 0.10% | ~8 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~8 |
 | Murder Death Kill | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,745 (Ranked 148)  
+Progressed: 7,758 (Ranked 148)  
 Completed: 1 (0.01%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.01%) (Ranked 280)
 | 2023-09-25 | 6,698 | 1 |
 | 2023-09-26 | 7,140 | 1 |
 | 2023-09-27 | 7,530 | 1 |
-| 2023-09-28 | 7,745 | 1 |
+| 2023-09-28 | 7,758 | 1 |
 ## Awards
 Max (Character Customization): 3,538  (Ranked 89)  
 Sum: 8,240 (Ranked 99)  

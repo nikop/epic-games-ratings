@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13082,
+  "EOS_Progressed": 13083,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1901,
+  "EOS_NewPlayers": 1897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6945,6 +6945,11 @@
       "Time": "2023-09-28T14:03:35.4731171+00:00",
       "NumProgressed": 13082,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T15:04:05.5865819+00:00",
+      "NumProgressed": 13083,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6973,7 +6978,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "12",
@@ -6995,9 +7000,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2486
     },
     {
       "ID": "15",
@@ -7021,7 +7026,7 @@
       "Name": "Spore Taste",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3401
+      "UsersEstimate": 3402
     },
     {
       "ID": "18",
@@ -7196,7 +7201,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13082,
+      "Progressed": 13083,
       "Completed": 0
     }
   ],
@@ -7204,8 +7209,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:03:35.4731163+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:04:05.5865816+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:57:32.7760947+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:03:35.4731852+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:57:45.3044656+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:04:05.586649+00:00"
 }

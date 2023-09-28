@@ -4,7 +4,7 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -127,8 +127,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:09:28.0666944+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:10:11.5156334+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:09.2330063+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:57:54.2536612+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:09:28.0667008+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:58:08.8031517+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:10:11.5156429+00:00"
 }

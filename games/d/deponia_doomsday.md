@@ -17,7 +17,7 @@ Rating: 4.55 (Ranked 490)
 | School's out | 43.00% | ~181 |
 | Scaffolding Expert | 37.00% | ~156 |
 | Elysian Minigame-Master | 37.00% | ~156 |
-| Sole Music | 35.00% | ~147 |
+| Sole Music | 36.00% | ~152 |
 | Portals come in packs | 30.00% | ~126 |
 | No man left behind! | 29.00% | ~122 |
 | Photo Friend | 26.00% | ~109 |
@@ -34,11 +34,11 @@ Rating: 4.55 (Ranked 490)
 | Paradox! | 10.00% | ~42 |
 | Weapons 101 | 8.00% | ~34 |
 | Sadist | 8.00% | ~34 |
+| Distraction | 6.00% | ~25 |
 | The customer is always right | 6.00% | ~25 |
 | Pacifist | 6.00% | ~25 |
 | Apoca...huh? | 6.00% | ~25 |
 | Against better judgement | 6.00% | ~25 |
-| Distraction | 5.00% | ~21 |
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)

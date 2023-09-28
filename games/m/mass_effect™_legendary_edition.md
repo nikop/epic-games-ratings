@@ -7,8 +7,8 @@
 | Distinguished Service Medal | 93.00% | ~412 |
 | Spectre Inductee | 84.00% | ~372 |
 | Medal of Exploration I | 75.00% | ~332 |
+| Search and Rescue | 72.00% | ~319 |
 | Recruit | 71.00% | ~315 |
-| Search and Rescue | 71.00% | ~315 |
 | Quarian Ally | 68.00% | ~301 |
 | Honorarium of Corporate Service | 66.00% | ~292 |
 | Medal of Heroism | 64.00% | ~284 |
@@ -25,7 +25,7 @@
 | Soldier Ally | 49.00% | ~217 |
 | Colonial Savior | 48.00% | ~213 |
 | Sentinel Ally | 46.00% | ~204 |
-| Krogan Ally | 45.00% | ~199 |
+| Krogan Ally | 46.00% | ~204 |
 | Paramour I | 44.00% | ~195 |
 | Scientist | 43.00% | ~190 |
 | Merciless | 42.00% | ~186 |
@@ -100,9 +100,9 @@
 | Hard Target | 15.00% | ~66 |
 | Saboteur | 15.00% | ~66 |
 | Last Witness | 15.00% | ~66 |
+| Well Connected | 14.00% | ~62 |
 | Mail Slot | 13.00% | ~58 |
 | Warp Mastery | 13.00% | ~58 |
-| Well Connected | 13.00% | ~58 |
 | Master and Commander | 13.00% | ~58 |
 | Barrier Mastery | 11.00% | ~49 |
 | Combined Arms | 11.00% | ~49 |

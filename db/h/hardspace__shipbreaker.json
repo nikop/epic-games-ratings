@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 916,
+  "EOS_Progressed": 917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1749,6 +1749,11 @@
       "Time": "2023-09-28T10:06:11.34732+00:00",
       "NumProgressed": 916,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T15:08:08.480572+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1760,7 +1765,7 @@
       "Name": "Act I Complete",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1768,7 +1773,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1792,7 +1797,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1816,7 +1821,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -1896,7 +1901,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1912,7 +1917,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1928,7 +1933,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1975,7 +1980,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 916,
+      "Progressed": 917,
       "Completed": 0
     }
   ],
@@ -1983,8 +1988,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:07:37.0970966+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:08:08.4805714+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:25.2041878+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:03:10.1478754+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:07:37.0971211+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:03:17.4536282+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:08:08.4806+00:00"
 }

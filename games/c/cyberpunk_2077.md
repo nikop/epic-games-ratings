@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 2.00% | ~17,679 |
-| Rough Landing | 2.00% | ~17,679 |
+| Ten out of Ten | 2.00% | ~17,680 |
+| Rough Landing | 2.00% | ~17,680 |
 | Gunslinger | 1.00% | ~8,840 |
 | Master Crafter | 1.00% | ~8,840 |
 | Mean Streets | 1.00% | ~8,840 |
@@ -17,18 +17,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 1.00% | ~8,840 |
 | Full Body Conversion | 0.90% | ~7,956 |
 | Right Back At Ya | 0.90% | ~7,956 |
+| Breathtaking | 0.90% | ~7,956 |
 | True Soldier | 0.90% | ~7,956 |
-| Breathtaking | 0.80% | ~7,072 |
 | Stanislavski's Method | 0.80% | ~7,072 |
 | The Hermit | 0.80% | ~7,072 |
+| The Wheel of Fortune | 0.80% | ~7,072 |
 | To Bad Decisions! | 0.70% | ~6,188 |
 | Temperance | 0.70% | ~6,188 |
-| The Wheel of Fortune | 0.70% | ~6,188 |
 | True Warrior | 0.70% | ~6,188 |
 | Legend of The Afterlife | 0.70% | ~6,188 |
+| The Fool | 0.60% | ~5,304 |
 | The Quick and the Dead | 0.50% | ~4,420 |
 | The Devil | 0.50% | ~4,420 |
-| The Fool | 0.50% | ~4,420 |
 | The Lovers | 0.50% | ~4,420 |
 | The World | 0.50% | ~4,420 |
 | It's Elementary | 0.50% | ~4,420 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,959 (Ranked 15)  
-Completed: 2,455 (0.28%) (Ranked 199)  
+Progressed: 884,012 (Ranked 15)  
+Completed: 2,456 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 2,455 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,959 | 2,455 |
+| 2023-09-28 | 884,012 | 2,456 |
 ## Awards
 Max (Character Customization): 85,114  (Ranked 9)  
 Sum: 233,926 (Ranked 13)  

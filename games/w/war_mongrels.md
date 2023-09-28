@@ -7,23 +7,23 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 66.00% | ~341 |
-| Cowardice | 59.00% | ~304 |
+| Cowardice | 59.00% | ~305 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~258 |
 | Eat Lead! | 48.00% | ~248 |
-| The Breaking Point | 46.00% | ~237 |
+| The Breaking Point | 45.00% | ~233 |
 | Prospector | 44.00% | ~227 |
 | Here Comes the Boom | 44.00% | ~227 |
 | Treasure Hunter | 41.00% | ~212 |
-| The Motivation | 40.00% | ~206 |
-| Sniper Wolf | 40.00% | ~206 |
+| The Motivation | 40.00% | ~207 |
+| Sniper Wolf | 40.00% | ~207 |
 | Heroism | 38.00% | ~196 |
 | Missing in Action | 36.00% | ~186 |
-| Collectibles of Chapter I | 34.00% | ~175 |
-| Consequences | 34.00% | ~175 |
-| King of Knives | 33.00% | ~170 |
+| Collectibles of Chapter I | 34.00% | ~176 |
+| Consequences | 34.00% | ~176 |
+| King of Knives | 33.00% | ~171 |
 | Opportunities | 32.00% | ~165 |
 | The Horror | 30.00% | ~155 |
-| The Difference | 27.00% | ~139 |
+| The Difference | 27.00% | ~140 |
 | Vengeance | 26.00% | ~134 |
 | Collectibles of Chapter II | 23.00% | ~119 |
 | Broken Hopes | 23.00% | ~119 |
@@ -33,12 +33,12 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 19.00% | ~98 |
 | Atonement | 18.00% | ~93 |
 | Helping Hand | 16.00% | ~83 |
-| Without a Second Thought | 16.00% | ~83 |
-| Collectibles of Chapter III | 15.00% | ~77 |
-| Collectibles of Chapter IV | 15.00% | ~77 |
+| Collectibles of Chapter III | 15.00% | ~78 |
+| Collectibles of Chapter IV | 15.00% | ~78 |
+| Without a Second Thought | 15.00% | ~78 |
 | Collectibles of Chapter V | 10.00% | ~52 |
-| Such is War! | 9.00% | ~46 |
-| Tiptoe Around | 9.00% | ~46 |
+| Such is War! | 9.00% | ~47 |
+| Tiptoe Around | 9.00% | ~47 |
 | Collectibles of Chapter XII | 7.00% | ~36 |
 | Piece of Cake | 7.00% | ~36 |
 | Collectibles of Chapter VII | 6.00% | ~31 |
@@ -47,9 +47,9 @@ Number of Ratings: 34  (23.09.2022)
 | It Will Rain | 5.00% | ~26 |
 | Not Spill a Drop | 5.00% | ~26 |
 | Collectibles of Chapter XI | 4.00% | ~21 |
-| Collectibles of Chapter VI | 3.00% | ~15 |
-| Collectibles of Chapter IX | 3.00% | ~15 |
-| Collectibles of Chapter X | 3.00% | ~15 |
+| Collectibles of Chapter VI | 3.00% | ~16 |
+| Collectibles of Chapter IX | 3.00% | ~16 |
+| Collectibles of Chapter X | 3.00% | ~16 |
 | Hold a Door | 2.00% | ~10 |
 | Daddy Would Be Proud | 2.00% | ~10 |
 | Warm Up | 0.40% | ~2 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516 (Ranked 263)  
+Progressed: 517 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-23 | 513 | 0 |
 | 2023-09-24 | 515 | 0 |
 | 2023-09-27 | 516 | 0 |
+| 2023-09-28 | 517 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

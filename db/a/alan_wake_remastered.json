@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66361,
+  "EOS_Progressed": 66363,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16164,6 +16164,11 @@
       "Time": "2023-09-28T14:08:11.3581227+00:00",
       "NumProgressed": 66361,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-28T15:08:45.9613653+00:00",
+      "NumProgressed": 66363,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16199,7 +16204,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "05",
@@ -16279,7 +16284,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7963
+      "UsersEstimate": 7964
     },
     {
       "ID": "15",
@@ -16359,7 +16364,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7963
+      "UsersEstimate": 7964
     },
     {
       "ID": "25",
@@ -16367,7 +16372,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "26",
@@ -16375,7 +16380,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7963
+      "UsersEstimate": 7964
     },
     {
       "ID": "27",
@@ -16407,7 +16412,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7963
+      "UsersEstimate": 7964
     },
     {
       "ID": "31",
@@ -16423,7 +16428,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21899
+      "UsersEstimate": 21900
     },
     {
       "ID": "33",
@@ -16710,21 +16715,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66361,
+      "Progressed": 66363,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29829,
+      "Progressed": 29831,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:08:11.3581221+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:08:45.961365+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:57:52.2400963+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:08:11.358249+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:58:06.615794+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:08:45.9615222+00:00"
 }

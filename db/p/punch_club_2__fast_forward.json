@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1359,9 +1359,9 @@
       "ID": "carla_journey",
       "SetID": "69co12a",
       "Name": "The lonesome road",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "courier_win",
@@ -1439,9 +1439,9 @@
       "ID": "flash_k",
       "SetID": "69co12a",
       "Name": "Key memories",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "flash_silver",
@@ -1455,9 +1455,9 @@
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "get_tape",
@@ -1703,9 +1703,9 @@
       "ID": "resistance_true",
       "SetID": "69co12a",
       "Name": "The heart of the Resistance",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "seashell_hunter",
@@ -1806,8 +1806,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:03:36.3553653+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:04:06.4369976+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:09.0565974+00:00",
-  "LastUpdate_Ratings": "2023-09-28T14:01:38.3456133+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:03:36.3554328+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:02:14.6659201+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:04:06.4370753+00:00"
 }

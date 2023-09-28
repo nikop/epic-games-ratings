@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1939,
+  "EOS_Progressed": 1940,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2793,6 +2793,11 @@
       "Time": "2023-09-28T14:05:52.9031559+00:00",
       "NumProgressed": 1939,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-28T15:06:16.3784288+00:00",
+      "NumProgressed": 1940,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2804,7 +2809,7 @@
       "Name": "Become King",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "Collect20Gold",
@@ -2820,7 +2825,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2828,7 +2833,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "CollectAllStatues",
@@ -2876,7 +2881,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2948,7 +2953,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "GetTHWeapon",
@@ -2956,7 +2961,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "Kill25Bugs",
@@ -2964,7 +2969,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "Kill25Frogs",
@@ -2996,7 +3001,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "RepairChef",
@@ -3020,7 +3025,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "RescueBrothers",
@@ -3043,22 +3048,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1939,
+      "Progressed": 1940,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 580,
-      "Completed": 580
+      "Progressed": 581,
+      "Completed": 581
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:05:52.9031554+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:06:16.3784284+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.8813304+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:58:29.0739885+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:05:52.9031862+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:58:46.0275136+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:06:16.3784638+00:00"
 }

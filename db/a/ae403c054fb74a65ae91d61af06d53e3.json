@@ -4,7 +4,7 @@
   "ProductSlug": "super-adventure-hand-62ec9a",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -127,9 +127,9 @@
       "ID": "ach_levelresult_25",
       "SetID": "8787m1a",
       "Name": "Apprentice Hand",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_levelresult_50",
@@ -151,9 +151,9 @@
       "ID": "ach_stun_feet",
       "SetID": "8787m1a",
       "Name": "Take That!",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_thimble_apprentice",
@@ -198,8 +198,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:05:15.3803251+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:05:34.5710135+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:29.9094674+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:59:55.9346733+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:05:15.3803356+00:00"
+  "LastUpdate_Ratings": "2023-09-28T15:00:21.5665757+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:05:34.5710226+00:00"
 }

@@ -67,26 +67,26 @@
 | Anger Management | 5.00% | ~3 |
 | Almost There II | 5.00% | ~3 |
 | Cartridge Hoarder | 3.00% | ~2 |
+| Rambo V | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
+| Usurper III | 3.00% | ~2 |
+| Collateral Damage III | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Tovarish | 2.00% | ~1 |
 | Archer's Bronze Fate | 2.00% | ~1 |
 | Bronze Alchemist | 2.00% | ~1 |
 | Galactic Ensign | 2.00% | ~1 |
-| Rambo V | 2.00% | ~1 |
 | Space Magellan | 2.00% | ~1 |
 | Golden Alchemist | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | Golden BBQ | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
-| Usurper III | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
 | Silver Tovarish | 2.00% | ~1 |
 | Silver Alchemist | 2.00% | ~1 |
 | Silver BBQ | 2.00% | ~1 |
-| Collateral Damage III | 2.00% | ~1 |
 | Merchant Prince III | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |

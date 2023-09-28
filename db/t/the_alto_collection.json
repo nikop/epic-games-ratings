@@ -769,7 +769,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40762,
+  "EOS_Progressed": 40767,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
@@ -18774,6 +18774,11 @@
       "Time": "2023-09-28T14:07:51.9407034+00:00",
       "NumProgressed": 40762,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T15:08:24.5343615+00:00",
+      "NumProgressed": 40767,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18825,7 +18830,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11006
+      "UsersEstimate": 11007
     },
     {
       "ID": "goals180",
@@ -18913,7 +18918,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6522
+      "UsersEstimate": 6523
     },
     {
       "ID": "playerFelipe",
@@ -18993,7 +18998,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10598
+      "UsersEstimate": 10599
     },
     {
       "ID": "sandboarder",
@@ -19041,7 +19046,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "unlockmaya",
@@ -19049,7 +19054,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "unlockpaz",
@@ -19096,15 +19101,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40762,
+      "Progressed": 40767,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-28T14:07:51.940703+00:00",
+  "LastChanged_Achievements": "2023-09-28T15:08:24.5343611+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-28T13:59:10.0259127+00:00",
-  "LastUpdate_Achievements": "2023-09-28T14:07:51.940812+00:00"
+  "LastUpdate_Ratings": "2023-09-28T14:59:30.9842504+00:00",
+  "LastUpdate_Achievements": "2023-09-28T15:08:24.5345024+00:00"
 }
