@@ -6,44 +6,44 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 2.00% | ~17,672 |
-| Rough Landing | 2.00% | ~17,672 |
+| Ten out of Ten | 2.00% | ~17,673 |
+| Rough Landing | 2.00% | ~17,673 |
 | Gunslinger | 1.00% | ~8,836 |
 | Master Crafter | 1.00% | ~8,836 |
+| Mean Streets | 1.00% | ~8,836 |
 | The Jungle | 1.00% | ~8,836 |
 | V for Vendetta | 1.00% | ~8,836 |
-| Mean Streets | 0.90% | ~7,953 |
 | The High Priestess | 0.90% | ~7,953 |
 | Two Heads, One Bullet | 0.90% | ~7,953 |
 | Full Body Conversion | 0.80% | ~7,069 |
 | Right Back At Ya | 0.80% | ~7,069 |
+| Breathtaking | 0.80% | ~7,069 |
 | True Soldier | 0.80% | ~7,069 |
-| Breathtaking | 0.70% | ~6,185 |
-| Stanislavski's Method | 0.70% | ~6,185 |
-| The Hermit | 0.70% | ~6,185 |
+| Stanislavski's Method | 0.70% | ~6,186 |
+| The Hermit | 0.70% | ~6,186 |
+| The Wheel of Fortune | 0.70% | ~6,186 |
 | To Bad Decisions! | 0.60% | ~5,302 |
 | Temperance | 0.60% | ~5,302 |
-| The Wheel of Fortune | 0.60% | ~5,302 |
 | True Warrior | 0.60% | ~5,302 |
 | Legend of The Afterlife | 0.60% | ~5,302 |
 | The Devil | 0.50% | ~4,418 |
 | The Fool | 0.50% | ~4,418 |
 | The Lovers | 0.50% | ~4,418 |
-| Christmas Tree Attack | 0.40% | ~3,534 |
-| The Quick and the Dead | 0.40% | ~3,534 |
-| The World | 0.40% | ~3,534 |
-| Greetings from Pacifica! | 0.40% | ~3,534 |
-| Judy vs Night City | 0.40% | ~3,534 |
-| It's Elementary | 0.40% | ~3,534 |
+| Christmas Tree Attack | 0.40% | ~3,535 |
+| The Quick and the Dead | 0.40% | ~3,535 |
+| The World | 0.40% | ~3,535 |
+| Greetings from Pacifica! | 0.40% | ~3,535 |
+| Judy vs Night City | 0.40% | ~3,535 |
+| It's Elementary | 0.40% | ~3,535 |
 | City Lights | 0.30% | ~2,651 |
 | Gun Fu | 0.30% | ~2,651 |
 | Bushido and Chill | 0.20% | ~1,767 |
+| The Wandering Fool | 0.20% | ~1,767 |
 | Autojock | 0.20% | ~1,767 |
 | I Am The Law | 0.20% | ~1,767 |
 | Must Be Rats | 0.20% | ~1,767 |
 | Life of the Road | 0.20% | ~1,767 |
 | To Protect and Serve | 0.10% | ~884 |
-| The Wandering Fool | 0.10% | ~884 |
 | Frequent Flyer | 0.10% | ~884 |
 | Little Tokyo | 0.10% | ~884 |
 | The Wasteland | 0.10% | ~884 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,618 (Ranked 15)  
-Completed: 2,445 (0.28%) (Ranked 199)  
+Progressed: 883,647 (Ranked 15)  
+Completed: 2,447 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 2,445 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,618 | 2,445 |
+| 2023-09-28 | 883,647 | 2,447 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
 Sum: 232,264 (Ranked 13)  

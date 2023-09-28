@@ -6,51 +6,51 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~1,034 |
-| Voices from the Past | 78.00% | ~949 |
-| Space Traveler | 78.00% | ~949 |
-| Demigod | 75.00% | ~913 |
-| The Great Destroyer | 74.00% | ~901 |
-| Shields Down | 71.00% | ~864 |
-| Helping Hand | 67.00% | ~815 |
-| Safe Home | 66.00% | ~803 |
-| Paragon | 62.00% | ~755 |
-| Old Days Born Anew | 61.00% | ~742 |
-| Full Arsenal | 56.00% | ~682 |
-| Controlled Demolition | 55.00% | ~669 |
-| Payback | 52.00% | ~633 |
-| Huntress | 52.00% | ~633 |
-| Born to Drift | 51.00% | ~621 |
-| Relentless | 48.00% | ~584 |
-| The Path Forward | 45.00% | ~548 |
-| Disruption | 43.00% | ~523 |
-| Phoenix | 43.00% | ~523 |
-| Cult Slayer | 40.00% | ~487 |
-| Origin | 40.00% | ~487 |
+| Another Life | 84.00% | ~1,024 |
+| Voices from the Past | 78.00% | ~951 |
+| Space Traveler | 78.00% | ~951 |
+| Demigod | 75.00% | ~914 |
+| The Great Destroyer | 74.00% | ~902 |
+| Shields Down | 71.00% | ~865 |
+| Helping Hand | 67.00% | ~817 |
+| Safe Home | 66.00% | ~805 |
+| Paragon | 62.00% | ~756 |
+| Old Days Born Anew | 61.00% | ~744 |
+| Full Arsenal | 56.00% | ~683 |
+| Controlled Demolition | 55.00% | ~670 |
+| Payback | 52.00% | ~634 |
+| Huntress | 52.00% | ~634 |
+| Born to Drift | 51.00% | ~622 |
+| Relentless | 48.00% | ~585 |
+| The Path Forward | 45.00% | ~549 |
+| Disruption | 43.00% | ~524 |
+| Phoenix | 43.00% | ~524 |
+| Cult Slayer | 40.00% | ~488 |
+| Origin | 39.00% | ~475 |
 | It Was An Accident | 39.00% | ~475 |
-| Set in Motion | 38.00% | ~462 |
-| In the Eye of the Storm | 37.00% | ~450 |
-| The Crimson Void | 35.00% | ~426 |
+| Set in Motion | 38.00% | ~463 |
+| In the Eye of the Storm | 37.00% | ~451 |
+| The Crimson Void | 35.00% | ~427 |
 | The Nameless Dread | 34.00% | ~414 |
-| Time to Spear | 31.00% | ~377 |
-| Mastery of Weapons | 30.00% | ~365 |
-| Disciple | 30.00% | ~365 |
-| Two Birds | 26.00% | ~316 |
-| Ghosts | 25.00% | ~304 |
-| Uneasy Alliance | 24.00% | ~292 |
+| Time to Spear | 31.00% | ~378 |
+| Mastery of Weapons | 30.00% | ~366 |
+| Disciple | 30.00% | ~366 |
+| Two Birds | 26.00% | ~317 |
+| Ghosts | 25.00% | ~305 |
+| Uneasy Alliance | 24.00% | ~293 |
 | Mastery of Combat | 23.00% | ~280 |
 | Retaliate | 22.00% | ~268 |
 | Mastery of Rites | 21.00% | ~256 |
 | Power Chord | 21.00% | ~256 |
 | Crash Test | 21.00% | ~256 |
-| Ascension | 20.00% | ~243 |
-| Rise as One | 19.00% | ~231 |
+| Ascension | 20.00% | ~244 |
+| Rise as One | 19.00% | ~232 |
 | Showoff | 15.00% | ~183 |
 | Overcharged | 10.00% | ~122 |
 | Radiation Area | 10.00% | ~122 |
 | At Least You Tried | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,217 (Ranked 221)  
+Progressed: 1,219 (Ranked 221)  
 Completed: 15 (1.23%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,11 @@ Completed: 15 (1.23%) (Ranked 123)
 | 2023-09-25 | 1,212 | 15 |
 | 2023-09-26 | 1,213 | 15 |
 | 2023-09-27 | 1,217 | 15 |
+| 2023-09-28 | 1,219 | 15 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 461)  
-Sum: 33 (Ranked 482)  
-Diff (max vs sum): -21  
+Sum: 33 (Ranked 483)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 33 |

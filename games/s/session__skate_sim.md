@@ -6,9 +6,9 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,781 |
+| You're free now! | 60.00% | ~1,783 |
 | Keeping it classy | 27.00% | ~802 |
-| Welcome to the family | 21.00% | ~623 |
+| Welcome to the family | 21.00% | ~624 |
 | The finer things in life | 19.00% | ~564 |
 | Backpacker | 14.00% | ~416 |
 | Go with the Flow | 13.00% | ~386 |
@@ -29,13 +29,13 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~178 |
 | Squad goals | 6.00% | ~178 |
 | Sup widdit big dog! | 6.00% | ~178 |
-| Commence the Hijinx! | 5.00% | ~148 |
-| DIY Boss | 5.00% | ~148 |
-| Globetrotter | 5.00% | ~148 |
-| Laid back | 5.00% | ~148 |
-| Lines for days | 5.00% | ~148 |
-| Renaissance man | 5.00% | ~148 |
-| Trick shot marksman | 5.00% | ~148 |
+| Commence the Hijinx! | 5.00% | ~149 |
+| DIY Boss | 5.00% | ~149 |
+| Globetrotter | 5.00% | ~149 |
+| Laid back | 5.00% | ~149 |
+| Lines for days | 5.00% | ~149 |
+| Renaissance man | 5.00% | ~149 |
+| Trick shot marksman | 5.00% | ~149 |
 | Cops called! | 4.00% | ~119 |
 | G.O.A.T. status | 4.00% | ~119 |
 | Manny Destroys All | 4.00% | ~119 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,969 (Ranked 186)  
+Progressed: 2,971 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 2,943 | 0 |
 | 2023-09-26 | 2,954 | 0 |
 | 2023-09-27 | 2,965 | 0 |
-| 2023-09-28 | 2,969 | 0 |
+| 2023-09-28 | 2,971 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
 Sum: 473 (Ranked 313)  

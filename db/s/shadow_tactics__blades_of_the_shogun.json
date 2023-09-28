@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1663,9 +1663,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 204695,
+  "EOS_Progressed": 204705,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1318,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19813,6 +19813,11 @@
       "Time": "2023-09-28T04:09:09.9266643+00:00",
       "NumProgressed": 204695,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-09-28T05:09:43.2345141+00:00",
+      "NumProgressed": 204705,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 44,
@@ -19896,7 +19901,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22516
+      "UsersEstimate": 22518
     },
     {
       "ID": "HappyLittleAccidents",
@@ -19952,7 +19957,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "Meticulous",
@@ -20120,7 +20125,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "UndeservedHonor",
@@ -20175,15 +20180,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 204695,
+      "Progressed": 204705,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-25T12:02:15.6586558+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:09:09.9266635+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:09:43.2345139+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.2179331+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:57:41.8272196+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:09:09.9268275+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:57:58.9582295+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:09:43.2346243+00:00"
 }

@@ -675,9 +675,9 @@
       "ID": "ENEMY_6",
       "SetID": "50pdlpn",
       "Name": "Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ENEMY_7",
@@ -986,8 +986,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:03:30.6725118+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:03:38.8261568+00:00",
   "LastUpdate_AppInfo": "2023-09-25T18:57:17.5566843+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:00:12.5819673+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:03:30.6725945+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:01:35.3897338+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:03:38.826219+00:00"
 }

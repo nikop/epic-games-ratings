@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -206,9 +206,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -230,9 +230,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -310,9 +310,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 70,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -358,17 +358,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -566,9 +566,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -638,9 +638,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -774,9 +774,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -861,8 +861,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:06:02.4296468+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:07:23.1631997+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:00:08.1351171+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:06:02.429752+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:01:28.810461+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:07:23.1632796+00:00"
 }

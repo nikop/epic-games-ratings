@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 364,
+  "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -680,23 +680,29 @@
       "Rating": 4.55,
       "NumberOfAwards": 83,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2023-09-28T04:58:25.0774216+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 83,
-  "NumberOfAwardsMax": 83,
+  "NumberOfAwards": 84,
+  "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 83
+      "Count": 84
     }
   ],
   "EOS_Progressed": 10441,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -10968,9 +10974,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-27T21:58:13.3860859+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:05:43.1971047+00:00",
+  "LastChanged": "2023-09-28T04:58:25.0774214+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:06:56.3712536+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:58:00.1752037+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:05:43.1971912+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:58:25.0774219+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:06:56.3713192+00:00"
 }

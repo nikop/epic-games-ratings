@@ -4,7 +4,7 @@
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13466,
+  "EOS_Progressed": 13500,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 1294,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 87.32,
+  "EOS_Completed_Percentage": 87.1,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -3484,6 +3484,11 @@
       "Time": "2023-09-28T04:05:10.5486538+00:00",
       "NumProgressed": 13466,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-28T05:06:12.1047879+00:00",
+      "NumProgressed": 13500,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -3504,7 +3509,7 @@
       "Name": "First blood",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4320
     },
     {
       "ID": "grenadeKills",
@@ -3520,7 +3525,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "headshots1000",
@@ -3528,7 +3533,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "headshots500",
@@ -3536,7 +3541,7 @@
       "Name": "Head popping II",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "knifeKills",
@@ -3544,7 +3549,7 @@
       "Name": "Knife Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "matchesLost",
@@ -3568,7 +3573,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "rifleKills",
@@ -3607,13 +3612,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 13466,
+      "Progressed": 13500,
       "Completed": 11759
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:05:10.5486534+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:06:12.1047873+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6814414+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:59:30.3663013+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:05:10.5486874+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:00:34.523487+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:06:12.1048127+00:00"
 }

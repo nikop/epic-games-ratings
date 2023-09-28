@@ -1434,9 +1434,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1272043,
+  "EOS_Progressed": 1272044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2715,
+  "EOS_NewPlayers": 2701,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15159,6 +15159,11 @@
       "Time": "2023-09-28T04:08:20.6289407+00:00",
       "NumProgressed": 1272043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T05:09:31.5428563+00:00",
+      "NumProgressed": 1272044,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -15290,7 +15295,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 101763
+      "UsersEstimate": 101764
     },
     {
       "ID": "10_hero_prop_kills",
@@ -15505,7 +15510,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1272043,
+      "Progressed": 1272044,
       "Completed": 0
     }
   ],
@@ -15513,8 +15518,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-09-28T02:59:49.4224043+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:08:20.6289402+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:09:31.5428557+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:57:00.8656259+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:00:05.2410159+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:08:20.6290563+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:01:24.7644402+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:09:31.5429697+00:00"
 }

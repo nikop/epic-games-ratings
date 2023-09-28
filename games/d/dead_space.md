@@ -16,9 +16,9 @@ Rating: 4.61 (Ranked 372)
 | Story Teller | 51.00% | ~253 |
 | True Believer | 51.00% | ~253 |
 | Surgeon | 46.00% | ~229 |
+| Exterminator | 45.00% | ~224 |
 | Greenhouse Effect | 45.00% | ~224 |
 | Freeze | 44.00% | ~219 |
-| Exterminator | 44.00% | ~219 |
 | Full Arsenal | 40.00% | ~199 |
 | Live with the Hot Ones | 38.00% | ~189 |
 | S.O.S. | 36.00% | ~179 |
@@ -31,8 +31,8 @@ Rating: 4.61 (Ranked 372)
 | Legend Teller | 28.00% | ~139 |
 | There's Always Peng! | 28.00% | ~139 |
 | Front Toward Enemy | 27.00% | ~134 |
-| Exodus | 25.00% | ~124 |
-| Mindless Prey | 25.00% | ~124 |
+| Exodus | 26.00% | ~129 |
+| Mindless Prey | 26.00% | ~129 |
 | Whole Again | 22.00% | ~109 |
 | Set A Benchmark | 21.00% | ~104 |
 | Final Regeneration | 19.00% | ~94 |

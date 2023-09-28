@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 231,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -872,9 +872,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -943,8 +943,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:03:23.4671611+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:03:29.132102+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:58:28.4895163+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:03:23.4695113+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:59:05.5860657+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:03:29.1321294+00:00"
 }

@@ -6,28 +6,28 @@ Rating: 4.60 (Ranked 401)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 30.00% | ~269 |
-| The Mysterious Stranger | 24.00% | ~215 |
-| Rail Rat | 24.00% | ~215 |
-| Immaculate Aim | 21.00% | ~188 |
-| The Brass Boss | 21.00% | ~188 |
-| The Steel Shadow | 20.00% | ~179 |
-| Make Up For Lost Time | 20.00% | ~179 |
-| Time Flies | 20.00% | ~179 |
-| The Harder They Fall | 20.00% | ~179 |
-| No, Thanks! | 20.00% | ~179 |
-| Breaking Down Barriers | 20.00% | ~179 |
-| The Prince in Heels | 20.00% | ~179 |
-| Honest Mistake | 20.00% | ~179 |
-| Immaculate Aim | 20.00% | ~179 |
-| The Wicked Twins | 19.00% | ~170 |
-| Fast Learner | 19.00% | ~170 |
-| Like Clockwork | 18.00% | ~161 |
-| The Betrayer | 18.00% | ~161 |
-| Golem Chaser | 18.00% | ~161 |
-| Right On Time | 17.00% | ~152 |
-| The Loose Cannon | 17.00% | ~152 |
-| Check Your Pulse | 17.00% | ~152 |
-| The Family Fortune | 17.00% | ~152 |
+| The Mysterious Stranger | 24.00% | ~216 |
+| Rail Rat | 24.00% | ~216 |
+| Immaculate Aim | 21.00% | ~189 |
+| The Brass Boss | 21.00% | ~189 |
+| The Steel Shadow | 20.00% | ~180 |
+| Make Up For Lost Time | 20.00% | ~180 |
+| Time Flies | 20.00% | ~180 |
+| The Harder They Fall | 20.00% | ~180 |
+| No, Thanks! | 20.00% | ~180 |
+| Breaking Down Barriers | 20.00% | ~180 |
+| The Prince in Heels | 20.00% | ~180 |
+| Honest Mistake | 20.00% | ~180 |
+| Immaculate Aim | 20.00% | ~180 |
+| The Wicked Twins | 19.00% | ~171 |
+| Fast Learner | 19.00% | ~171 |
+| Like Clockwork | 18.00% | ~162 |
+| The Betrayer | 18.00% | ~162 |
+| Golem Chaser | 18.00% | ~162 |
+| Right On Time | 17.00% | ~153 |
+| The Loose Cannon | 17.00% | ~153 |
+| Check Your Pulse | 17.00% | ~153 |
+| The Family Fortune | 17.00% | ~153 |
 | Street Style | 16.00% | ~144 |
 | The Man Who Shattered Time | 16.00% | ~144 |
 | Treasure Trove | 14.00% | ~126 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 401)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897 (Ranked 234)  
+Progressed: 898 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 5 (0.56%) (Ranked 157)
 | 2023-09-24 | 891 | 5 |
 | 2023-09-26 | 893 | 5 |
 | 2023-09-27 | 895 | 5 |
-| 2023-09-28 | 897 | 5 |
+| 2023-09-28 | 898 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

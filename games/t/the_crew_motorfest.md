@@ -4,18 +4,18 @@
 Rating: 4.66 (Ranked 282)  
 ## Awards
 Max (Relaxing): 93  (Ranked 354)  
-Sum: 652 (Ranked 293)  
-Diff (max vs sum): 61  
+Sum: 665 (Ranked 289)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 93 |
 | This game has Quickly Understood Controls | 83 |
 | This game is Highly Recommended | 81 |
+| This game has Diverse Characters | 76 |
 | This game is Extremely Fun | 72 |
 | This game has Competitive Players | 70 |
 | This game has Amazing Storytelling | 68 |
 | This game is Great for Beginners | 65 |
-| This game has Diverse Characters | 63 |
 | This game has Amazing Characters | 57 |
 | This game is Great for Quick Sessions | 57 |
 | This game has a Competitive Community | 56 |
@@ -34,4 +34,4 @@ Diff (max vs sum): 61
 | 2023-09-25 | 4.66 | 67 | 562 |
 | 2023-09-26 | 4.66 | 83 | 687 |
 | 2023-09-27 | 4.67 | 93 | 697 |
-| 2023-09-28 | 4.66 | 93 | 652 |
+| 2023-09-28 | 4.66 | 93 | 665 |

@@ -2956,9 +2956,9 @@
       "Count": 193
     }
   ],
-  "EOS_Progressed": 727329,
+  "EOS_Progressed": 727330,
   "EOS_Completed": 739,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -20871,6 +20871,11 @@
       "Time": "2023-09-28T03:09:09.0871486+00:00",
       "NumProgressed": 727329,
       "NumCompleted": 739
+    },
+    {
+      "Time": "2023-09-28T05:03:27.3473374+00:00",
+      "NumProgressed": 727330,
+      "NumCompleted": 739
     }
   ],
   "TotalAchievements": 98,
@@ -20906,7 +20911,7 @@
       "Name": "All Shells",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 109099
+      "UsersEstimate": 109100
     },
     {
       "ID": "Armor",
@@ -20946,7 +20951,7 @@
       "Name": "Rattle Hag",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 109099
+      "UsersEstimate": 109100
     },
     {
       "ID": "BirdsongCourier",
@@ -21114,7 +21119,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 283658
+      "UsersEstimate": 283659
     },
     {
       "ID": "FliesBeam",
@@ -21130,7 +21135,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 385484
+      "UsersEstimate": 385485
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -21242,7 +21247,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 400031
+      "UsersEstimate": 400032
     },
     {
       "ID": "Healthregen",
@@ -21266,7 +21271,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 305478
+      "UsersEstimate": 305479
     },
     {
       "ID": "Holy_Sword",
@@ -21394,7 +21399,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 720056
+      "UsersEstimate": 720057
     },
     {
       "ID": "PanicLights",
@@ -21514,7 +21519,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 480037
+      "UsersEstimate": 480038
     },
     {
       "ID": "Strong",
@@ -21522,7 +21527,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 87279
+      "UsersEstimate": 87280
     },
     {
       "ID": "SuperSword",
@@ -21594,7 +21599,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 312751
+      "UsersEstimate": 312752
     },
     {
       "ID": "True_Holy_Spirit",
@@ -21665,15 +21670,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 727329,
+      "Progressed": 727330,
       "Completed": 739
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-09-27T17:57:13.2792529+00:00",
-  "LastChanged_Achievements": "2023-09-28T03:09:09.0871481+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:03:27.3473361+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.2601521+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:57:44.1098379+00:00",
-  "LastUpdate_Achievements": "2023-09-28T03:09:09.0874802+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:58:02.267858+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:03:27.348438+00:00"
 }

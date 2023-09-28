@@ -269,7 +269,7 @@ Completed: 21 (0.00%) (Ranked 296)
 | 2023-09-28 | 473,821 | 21 |
 ## Awards
 Max (Relaxing): 6,455  (Ranked 55)  
-Sum: 50,795 (Ranked 26)  
+Sum: 50,796 (Ranked 26)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 5,871 |
 | This game is Highly Recommended | 5,861 |
 | This game is Educational | 5,852 |
-| This game has Diverse Characters | 5,533 |
+| This game has Diverse Characters | 5,534 |
 | This game has Amazing Storytelling | 4,913 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,373 |
@@ -532,4 +532,4 @@ Diff (max vs sum): 29
 | 2023-09-25 | 4.80 | - | 6,453 | 50,784 |
 | 2023-09-26 | 4.80 | - | 6,453 | 50,788 |
 | 2023-09-27 | 4.80 | - | 6,455 | 50,792 |
-| 2023-09-28 | 4.80 | - | 6,455 | 50,795 |
+| 2023-09-28 | 4.80 | - | 6,455 | 50,796 |

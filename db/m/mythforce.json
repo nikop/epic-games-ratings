@@ -701,9 +701,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3290,
+  "EOS_Progressed": 3291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5856,6 +5856,11 @@
       "Time": "2023-09-28T04:05:58.8538842+00:00",
       "NumProgressed": 3290,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T05:07:18.4382264+00:00",
+      "NumProgressed": 3291,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5948,7 +5953,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -6051,15 +6056,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3290,
+      "Progressed": 3291,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:05:58.8538837+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:07:18.4382259+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:57:52.0588162+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:05:58.8539304+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:58:13.6323173+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:07:18.4382639+00:00"
 }

@@ -769,7 +769,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40737,
+  "EOS_Progressed": 40739,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
@@ -18724,6 +18724,11 @@
       "Time": "2023-09-28T04:06:16.1860203+00:00",
       "NumProgressed": 40737,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T05:07:41.599991+00:00",
+      "NumProgressed": 40739,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18775,7 +18780,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10999
+      "UsersEstimate": 11000
     },
     {
       "ID": "goals180",
@@ -18791,7 +18796,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "goals75",
@@ -18855,7 +18860,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6925
+      "UsersEstimate": 6926
     },
     {
       "ID": "novice",
@@ -18991,7 +18996,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "unlockmaya",
@@ -19046,15 +19051,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40737,
+      "Progressed": 40739,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:06:16.1860197+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:07:41.5999905+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:58:18.4000006+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:06:16.1861587+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:58:51.3458767+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:07:41.600102+00:00"
 }

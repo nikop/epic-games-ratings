@@ -1686,9 +1686,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1909,8 +1909,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:03:42.9800382+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:04:15.5289816+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4431883+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:58:04.9299523+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:03:42.9801252+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:58:31.9136257+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:04:15.529049+00:00"
 }

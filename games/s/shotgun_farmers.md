@@ -18,7 +18,7 @@
 | 10K | 30.00% | ~90 |
 | Amateur Survivor | 30.00% | ~75 |
 | 15K | 28.00% | ~84 |
-| Quick-Draw Pod | 23.00% | ~58 |
+| Quick-Draw Pod | 24.00% | ~60 |
 | Drinking Problem | 22.00% | ~66 |
 | Professional Survivor | 22.00% | ~55 |
 | Grave Digger | 22.00% | ~55 |

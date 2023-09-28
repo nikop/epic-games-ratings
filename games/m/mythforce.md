@@ -21,7 +21,7 @@ Number of Ratings: 285  (23.09.2022)
 | Cold-Blooded Critters | 9.00% | ~296 |
 | Death Becomes You | 7.00% | ~230 |
 | Flawless Victory | 6.00% | ~197 |
-| The Harder They Fall | 5.00% | ~164 |
+| The Harder They Fall | 5.00% | ~165 |
 | On this Episode! | 4.00% | ~132 |
 | Deadication | 3.00% | ~99 |
 | Season Finale | 3.00% | ~99 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.30% | ~10 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,290 (Ranked 181)  
+Progressed: 3,291 (Ranked 181)  
 Completed: 1 (0.03%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.03%) (Ranked 268)
 | 2023-09-25 | 3,199 | 1 |
 | 2023-09-26 | 3,240 | 1 |
 | 2023-09-27 | 3,281 | 1 |
-| 2023-09-28 | 3,290 | 1 |
+| 2023-09-28 | 3,291 | 1 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 456)  
 Sum: 275 (Ranked 355)  

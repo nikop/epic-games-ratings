@@ -12,12 +12,12 @@
 | Charmed by the Hunt | 68.00% | ~47 |
 | Mountain Splitter | 67.00% | ~46 |
 | Fusion Conjuror | 64.00% | ~44 |
-| Memory Rouser | 62.00% | ~43 |
+| Memory Rouser | 64.00% | ~44 |
 | Master of the Skies | 59.00% | ~41 |
 | Subsistence Skills | 59.00% | ~41 |
 | Kemono Hunter | 58.00% | ~40 |
 | Helpful Heart | 57.00% | ~39 |
-| Distance Devourer | 54.00% | ~37 |
+| Distance Devourer | 55.00% | ~38 |
 | Expert Conjuror | 52.00% | ~36 |
 | Flawless Crystal | 51.00% | ~35 |
 | Bonds of Enmity | 49.00% | ~34 |
@@ -32,8 +32,8 @@
 | Reincarnation Cycle Stopper | 36.00% | ~25 |
 | Team Hunter | 35.00% | ~24 |
 | Artful Assister | 32.00% | ~22 |
+| Karakuri Isle | 30.00% | ~21 |
 | Unrivaled in Arms | 30.00% | ~21 |
-| Karakuri Isle | 29.00% | ~20 |
 | Threaded Harmony | 29.00% | ~20 |
 | Left Arm Leverager | 28.00% | ~19 |
 | Style Seeker | 28.00% | ~19 |

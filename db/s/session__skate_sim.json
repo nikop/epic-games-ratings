@@ -976,9 +976,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2969,
+  "EOS_Progressed": 2971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5066,6 +5066,11 @@
       "Time": "2023-09-28T04:04:40.6607954+00:00",
       "NumProgressed": 2969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T05:05:32.0831394+00:00",
+      "NumProgressed": 2971,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5101,7 +5106,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -5133,7 +5138,7 @@
       "Name": "DIY Boss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -5173,7 +5178,7 @@
       "Name": "Globetrotter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -5237,7 +5242,7 @@
       "Name": "Laid back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -5245,7 +5250,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -5317,7 +5322,7 @@
       "Name": "Renaissance man",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -5413,7 +5418,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -5445,7 +5450,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5453,22 +5458,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1783
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2969,
+      "Progressed": 2971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-27T16:58:20.5851302+00:00",
-  "LastChanged_Achievements": "2023-09-28T04:04:40.6607948+00:00",
+  "LastChanged_Achievements": "2023-09-28T05:05:32.0831389+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-28T03:58:26.9108128+00:00",
-  "LastUpdate_Achievements": "2023-09-28T04:04:40.6608589+00:00"
+  "LastUpdate_Ratings": "2023-09-28T04:59:03.1422123+00:00",
+  "LastUpdate_Achievements": "2023-09-28T05:05:32.083191+00:00"
 }
