@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 711,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.2,
+  "EOS_Completed_Percentage": 16.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2968,6 +2968,11 @@
       "Time": "2023-09-27T14:05:11.5918629+00:00",
       "NumProgressed": 710,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-09-28T12:04:34.0404829+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 22,
@@ -2979,7 +2984,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "LEVEL_002",
@@ -2993,9 +2998,9 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 469
+      "UsersEstimate": 476
     },
     {
       "ID": "LEVEL_004",
@@ -3011,7 +3016,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "LEVEL_006",
@@ -3019,7 +3024,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "LEVEL_007",
@@ -3035,7 +3040,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "LEVEL_009",
@@ -3067,7 +3072,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_013",
@@ -3154,7 +3159,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 711,
       "Completed": 115
     }
   ],
@@ -3162,8 +3167,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:04:05.9309352+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:04:34.0404824+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.7877198+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:59:21.1463741+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:04:05.9309953+00:00"
+  "LastUpdate_Ratings": "2023-09-28T12:00:07.8900437+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:04:34.0405195+00:00"
 }

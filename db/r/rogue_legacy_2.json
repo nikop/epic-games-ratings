@@ -1427,7 +1427,7 @@
   ],
   "EOS_Progressed": 23246,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8591,9 +8591,9 @@
       "ID": "Icarus",
       "SetID": "3ojhj46",
       "Name": "Maybe Wax Doesn\u0027t Melt",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "NightmareKhidr",
@@ -8685,8 +8685,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-15T20:58:44.7315324+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:35.203943+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:06:20.697606+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.049408+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:58:26.8701831+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:35.2040743+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:58:59.0209209+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:06:20.697679+00:00"
 }

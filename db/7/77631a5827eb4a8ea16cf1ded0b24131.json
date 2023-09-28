@@ -4,7 +4,7 @@
   "ProductSlug": "lifespace-traveler-1cc49a",
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-03T22:00:00+00:00",
@@ -152,8 +152,8 @@
   ],
   "FirstSeen": "2023-08-10T16:58:01.8278987+00:00",
   "FirstSeenAchievements": "2023-07-21T09:02:21.6744728+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:37.2563676+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:06:23.0309041+00:00",
   "LastUpdate_AppInfo": "2023-09-22T13:01:37.9537654+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:59:30.4339221+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:37.2563801+00:00"
+  "LastUpdate_Ratings": "2023-09-28T12:00:21.6467789+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:06:23.0309135+00:00"
 }

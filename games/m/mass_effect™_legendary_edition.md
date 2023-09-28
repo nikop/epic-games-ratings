@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~410 |
-| Spectre Inductee | 83.00% | ~366 |
+| Spectre Inductee | 84.00% | ~370 |
 | Medal of Exploration I | 75.00% | ~331 |
 | Recruit | 71.00% | ~313 |
 | Search and Rescue | 71.00% | ~313 |
@@ -26,7 +26,7 @@
 | Colonial Savior | 48.00% | ~212 |
 | Sentinel Ally | 46.00% | ~203 |
 | Krogan Ally | 46.00% | ~203 |
-| Paramour I | 44.00% | ~194 |
+| Paramour I | 45.00% | ~198 |
 | Scientist | 43.00% | ~190 |
 | Merciless | 42.00% | ~185 |
 | Operative | 40.00% | ~176 |
@@ -80,8 +80,8 @@
 | A House Divided | 23.00% | ~101 |
 | Weapon Specialist | 23.00% | ~101 |
 | Liberator | 23.00% | ~101 |
+| Savior | 22.00% | ~97 |
 | World Shaker | 22.00% | ~97 |
-| Savior | 21.00% | ~93 |
 | Pathfinder | 20.00% | ~88 |
 | Tunnel Rat | 20.00% | ~88 |
 | Lost and Found | 20.00% | ~88 |
@@ -99,7 +99,7 @@
 | Last Resort | 15.00% | ~66 |
 | Hard Target | 15.00% | ~66 |
 | Saboteur | 15.00% | ~66 |
-| Last Witness | 14.00% | ~62 |
+| Last Witness | 15.00% | ~66 |
 | Mail Slot | 13.00% | ~57 |
 | Warp Mastery | 13.00% | ~57 |
 | Well Connected | 13.00% | ~57 |

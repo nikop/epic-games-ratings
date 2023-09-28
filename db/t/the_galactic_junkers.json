@@ -4,7 +4,7 @@
   "ProductSlug": "the-galactic-junkers-7fef21",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "A_Board_1_Ship",
       "SetID": "56632p4",
       "Name": "Pirate",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "A_Board_25_Ships",
@@ -245,9 +245,9 @@
       "ID": "A_Extinguish_1_Fire",
       "SetID": "56632p4",
       "Name": "Firefighter",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "A_Extinguish_25_Fires",
@@ -269,9 +269,9 @@
       "ID": "A_Fix_1_System",
       "SetID": "56632p4",
       "Name": "Mechanic",
-      "Percentage": 92,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "A_Fix_50_Systems",
@@ -293,9 +293,9 @@
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "A_Meet_Uncle_Steff",
@@ -317,9 +317,9 @@
       "ID": "A_Mine_1_Asteroid",
       "SetID": "56632p4",
       "Name": "Miner",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "A_Mine_25_Asteroid",
@@ -357,9 +357,9 @@
       "ID": "A_Salvage_1_Wreck",
       "SetID": "56632p4",
       "Name": "Salvager",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "A_Salvage_25_Wrecks",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:55.0953674+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:06:44.7891001+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.3675991+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:58:07.9142627+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:55.0953871+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:58:35.1349149+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:06:44.7891181+00:00"
 }

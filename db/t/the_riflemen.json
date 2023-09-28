@@ -4,7 +4,7 @@
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
@@ -18,12 +18,14 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13782,
+  "EOS_Progressed": 13853,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 1563,
+  "EOS_NewPlayers": 1626,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 85.32,
+  "EOS_Completed_Percentage": 84.88,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -3519,6 +3521,11 @@
       "Time": "2023-09-28T11:05:07.7988961+00:00",
       "NumProgressed": 13782,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-28T12:05:48.1303496+00:00",
+      "NumProgressed": 13853,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -3539,7 +3546,7 @@
       "Name": "First blood",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4571
     },
     {
       "ID": "grenadeKills",
@@ -3555,7 +3562,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 416
     },
     {
       "ID": "headshots1000",
@@ -3587,7 +3594,7 @@
       "Name": "Hang in there",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "matchesWon",
@@ -3595,7 +3602,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "revengeMedal",
@@ -3611,7 +3618,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "shotgunKills",
@@ -3642,13 +3649,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 13782,
+      "Progressed": 13853,
       "Completed": 11759
     }
   ],
+  "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:07.7988952+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:05:48.1303492+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6814414+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:59:32.8012793+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:07.7989567+00:00"
+  "LastUpdate_Ratings": "2023-09-28T12:00:24.9112512+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:05:48.130388+00:00"
 }

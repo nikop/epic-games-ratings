@@ -30,6 +30,7 @@ Rating: 3.94 (Ranked 969)
 | Freebooter | 0.20% | ~177 |
 | Moneybags | 0.20% | ~177 |
 | Olympus Ascended | 0.20% | ~177 |
+| Ding Dong | 0.20% | ~177 |
 | All that Glitters | 0.20% | ~34 |
 | Rockay Raider | 0.10% | ~88 |
 | Rockay Knight | 0.10% | ~88 |
@@ -38,7 +39,6 @@ Rating: 3.94 (Ranked 969)
 | Full House | 0.10% | ~88 |
 | Groundhog Days | 0.10% | ~88 |
 | Cracked the Jack | 0.10% | ~88 |
-| Ding Dong | 0.10% | ~88 |
 | Red Star | 0.10% | ~88 |
 | Geek Out | 0.10% | ~88 |
 | Classy Joint | 0.10% | ~88 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 969)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,430 (Ranked 78)  
+Progressed: 88,431 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,17 +208,17 @@ Completed: 46 (0.05%) (Ranked 256)
 | 2023-09-25 | 88,338 | 46 |
 | 2023-09-26 | 88,367 | 46 |
 | 2023-09-27 | 88,409 | 46 |
-| 2023-09-28 | 88,430 | 46 |
+| 2023-09-28 | 88,431 | 46 |
 ## Awards
 Max (Diverse Characters): 463  (Ranked 206)  
-Sum: 2,209 (Ranked 196)  
-Diff (max vs sum): 10  
+Sum: 2,215 (Ranked 194)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 463 |
-| This game has Quickly Understood Controls | 450 |
+| This game has Quickly Understood Controls | 454 |
 | This game is Highly Recommended | 437 |
-| This game has Challenging Combat | 434 |
+| This game has Challenging Combat | 436 |
 | This game has Amazing Characters | 425 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -406,3 +406,4 @@ Diff (max vs sum): 10
 | 2023-09-25 | 3.93 | 458 | 2,193 |
 | 2023-09-26 | 3.94 | 460 | 2,201 |
 | 2023-09-27 | 3.94 | 463 | 2,209 |
+| 2023-09-28 | 3.94 | 463 | 2,215 |

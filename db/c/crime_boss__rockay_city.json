@@ -4,10 +4,10 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 969,
   "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 196,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3688,10 +3688,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2209,
       "NumberOfAwardsMax": 463
+    },
+    {
+      "Time": "2023-09-28T11:59:42.9625479+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2215,
+      "NumberOfAwardsMax": 463
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2209,
+  "NumberOfAwards": 2215,
   "NumberOfAwardsMax": 463,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3717,13 +3723,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 450
+      "Count": 454
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 434
+      "Count": 436
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3744,9 +3750,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88430,
+  "EOS_Progressed": 88431,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20419,6 +20425,11 @@
       "Time": "2023-09-28T11:05:09.564623+00:00",
       "NumProgressed": 88430,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-28T12:05:50.1966674+00:00",
+      "NumProgressed": 88431,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -20620,9 +20631,9 @@
       "ID": "ACH_0330",
       "SetID": "3kam13l",
       "Name": "Ding Dong",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_0340",
@@ -20757,22 +20768,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88430,
+      "Progressed": 88431,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16777,
+      "Progressed": 16778,
       "Completed": 15536
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-27T18:59:08.2546622+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:09.5646224+00:00",
+  "LastChanged": "2023-09-28T11:59:42.9625477+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:05:50.196667+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.9834817+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:59:01.4377914+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:09.5648725+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:59:42.9625483+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:05:50.1968063+00:00"
 }

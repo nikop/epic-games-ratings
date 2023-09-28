@@ -12617,10 +12617,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883816,
-  "EOS_Completed": 2451,
-  "EOS_NewPlayers": 6209,
-  "EOS_NewCompleters": 326,
+  "EOS_Progressed": 883865,
+  "EOS_Completed": 2452,
+  "EOS_NewPlayers": 6244,
+  "EOS_NewCompleters": 327,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30697,6 +30697,11 @@
       "Time": "2023-09-28T11:05:54.6349176+00:00",
       "NumProgressed": 883816,
       "NumCompleted": 2451
+    },
+    {
+      "Time": "2023-09-28T12:06:44.2332345+00:00",
+      "NumProgressed": 883865,
+      "NumCompleted": 2452
     }
   ],
   "TotalAchievements": 57,
@@ -30788,7 +30793,7 @@
       "Name": "Gunslinger",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8839
     },
     {
       "ID": "HandyMan",
@@ -30796,7 +30801,7 @@
       "Name": "Master Crafter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8839
     },
     {
       "ID": "IAmMaxTac",
@@ -30812,7 +30817,7 @@
       "Name": "Mean Streets",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8839
     },
     {
       "ID": "LittleTokyo",
@@ -30892,7 +30897,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "Temperance",
@@ -30908,7 +30913,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "TheDevil",
@@ -30940,7 +30945,7 @@
       "Name": "The High Priestess",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8839
     },
     {
       "ID": "TheLovers",
@@ -30996,7 +31001,7 @@
       "Name": "The Jungle",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8839
     },
     {
       "ID": "TrueSoldier",
@@ -31020,7 +31025,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8839
     },
     {
       "ID": "UnderPressure",
@@ -31036,7 +31041,7 @@
       "Name": "V for Vendetta",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8839
     },
     {
       "ID": "YipMan",
@@ -31163,21 +31168,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883816,
-      "Completed": 2451
+      "Progressed": 883865,
+      "Completed": 2452
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12439,
+      "Progressed": 12488,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T08:58:17.619982+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:54.6349167+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:06:44.233234+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:57:40.4362898+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:54.6351578+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:58:01.4100127+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:06:44.2333938+00:00"
 }

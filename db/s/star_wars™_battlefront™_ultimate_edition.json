@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -626,6 +626,11 @@
       "Time": "2023-09-28T10:06:22.8934051+00:00",
       "NumProgressed": 266,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T12:07:09.9964818+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -644,7 +649,7 @@
       "ID": "achievement_10",
       "SetID": "271ol84",
       "Name": "That got him!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -660,7 +665,7 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -684,9 +689,9 @@
       "ID": "achievement_15",
       "SetID": "271ol84",
       "Name": "The Force is strong with this one",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_16",
@@ -724,9 +729,9 @@
       "ID": "achievement_2",
       "SetID": "271ol84",
       "Name": "in a galaxy far, far away....",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_20",
@@ -796,7 +801,7 @@
       "ID": "achievement_28",
       "SetID": "271ol84",
       "Name": "Master",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -862,7 +867,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_36",
@@ -878,7 +883,7 @@
       "Name": "Off to a good start",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_38",
@@ -908,17 +913,17 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_42",
@@ -942,7 +947,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_45",
@@ -1052,7 +1057,7 @@
       "ID": "achievement_57",
       "SetID": "cemm4l8",
       "Name": "Stay in attack formation",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -1092,9 +1097,9 @@
       "ID": "achievement_61",
       "SetID": "cemm4l8",
       "Name": "The circle is now complete",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_62",
@@ -1141,13 +1146,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 1
     }
   ],
@@ -1155,8 +1160,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:06:16.5457432+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:07:09.9964812+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:57:39.9426356+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:06:16.5458461+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:58:00.768465+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:07:09.9965623+00:00"
 }

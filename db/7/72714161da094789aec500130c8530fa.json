@@ -386,9 +386,9 @@
       "ID": "_heavy_laser",
       "SetID": "2d5739o",
       "Name": "Heavy laser",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "_heavy_shotgun",
@@ -426,9 +426,9 @@
       "ID": "_laser_mine",
       "SetID": "2d5739o",
       "Name": "Laser mine",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_lightsaber_mine",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:16.095618+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:05:57.9563477+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:59:34.6725841+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:16.0956677+00:00"
+  "LastUpdate_Ratings": "2023-09-28T12:00:27.2592289+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:05:57.9563822+00:00"
 }

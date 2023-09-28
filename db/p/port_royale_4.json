@@ -240,7 +240,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -2230,6 +2230,11 @@
       "Time": "2023-09-27T21:07:01.0015249+00:00",
       "NumProgressed": 933,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T12:07:26.9377027+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2241,7 +2246,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH001",
@@ -2249,7 +2254,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH002",
@@ -2297,7 +2302,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH008",
@@ -2337,15 +2342,15 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH014",
@@ -2353,15 +2358,15 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH015",
       "SetID": "69nfp41",
       "Name": "Groundskeeper",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH016",
@@ -2409,13 +2414,13 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH022",
       "SetID": "69nfp41",
       "Name": "Fleet Admiral",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -2463,7 +2468,7 @@
       "ID": "ACH028",
       "SetID": "69nfp41",
       "Name": "Traffic chaos",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -2473,7 +2478,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH030",
@@ -2497,7 +2502,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH033",
@@ -2551,9 +2556,9 @@
       "ID": "ACH039",
       "SetID": "69nfp41",
       "Name": "Panel of experts",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH040",
@@ -2593,7 +2598,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH045",
@@ -2625,7 +2630,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH049",
@@ -2640,15 +2645,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:06:30.9698278+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:07:26.9377022+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.6290536+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:57:42.098602+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:06:30.9700087+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:58:03.393215+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:07:26.937759+00:00"
 }

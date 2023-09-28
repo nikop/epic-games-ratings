@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 2.00% | ~17,676 |
-| Rough Landing | 2.00% | ~17,676 |
-| Gunslinger | 1.00% | ~8,838 |
-| Master Crafter | 1.00% | ~8,838 |
-| Mean Streets | 1.00% | ~8,838 |
-| The High Priestess | 1.00% | ~8,838 |
-| The Jungle | 1.00% | ~8,838 |
-| Two Heads, One Bullet | 1.00% | ~8,838 |
-| V for Vendetta | 1.00% | ~8,838 |
+| Ten out of Ten | 2.00% | ~17,677 |
+| Rough Landing | 2.00% | ~17,677 |
+| Gunslinger | 1.00% | ~8,839 |
+| Master Crafter | 1.00% | ~8,839 |
+| Mean Streets | 1.00% | ~8,839 |
+| The High Priestess | 1.00% | ~8,839 |
+| The Jungle | 1.00% | ~8,839 |
+| Two Heads, One Bullet | 1.00% | ~8,839 |
+| V for Vendetta | 1.00% | ~8,839 |
 | Full Body Conversion | 0.80% | ~7,071 |
 | Right Back At Ya | 0.80% | ~7,071 |
 | Breathtaking | 0.80% | ~7,071 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,816 (Ranked 15)  
-Completed: 2,451 (0.28%) (Ranked 199)  
+Progressed: 883,865 (Ranked 15)  
+Completed: 2,452 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 2,451 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,816 | 2,451 |
+| 2023-09-28 | 883,865 | 2,452 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
 Sum: 232,543 (Ranked 13)  

@@ -33,13 +33,13 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Greed | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
 | Good Practice | 0.20% | ~46 |
+| Maybe Wax Doesn't Melt | 0.20% | ~46 |
 | A Glimpse of the Future | 0.20% | ~46 |
 | Wasted Betrayal | 0.20% | ~46 |
 | Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
 | Erebus Purified | 0.10% | ~23 |
 | It Was Just an Estimate | 0.10% | ~23 |
-| Maybe Wax Doesn't Melt | 0.10% | ~23 |
 | Had to Do It | 0.10% | ~23 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |

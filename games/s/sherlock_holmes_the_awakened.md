@@ -22,9 +22,9 @@ Rating: 4.62 (Ranked 353)
 | Back In The Saddle | 48.00% | ~321 |
 | No Man Is An Island | 48.00% | ~321 |
 | At Wits' End | 47.00% | ~314 |
+| Bookworm | 45.00% | ~301 |
 | Up In Flames | 45.00% | ~301 |
 | Fhtagn! | 45.00% | ~301 |
-| Bookworm | 44.00% | ~294 |
 | Going Once... | 40.00% | ~268 |
 | Let Me Be Frank | 39.00% | ~261 |
 | Brain Food | 38.00% | ~254 |

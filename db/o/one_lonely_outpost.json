@@ -4,7 +4,7 @@
   "ProductSlug": "one-lonely-outpost-12afa6",
   "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-26T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-26T22:58:47.5524028+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:24.0706012+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:58:21.1664273+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:04:01.1040885+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:58:51.9051435+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:04:28.0140789+00:00"
 }

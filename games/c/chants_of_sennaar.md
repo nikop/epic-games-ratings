@@ -21,8 +21,8 @@
 | In this together | 28.00% | ~63 |
 | Open door | 26.00% | ~58 |
 | Feels like springtime | 24.00% | ~54 |
+| Rascal | 24.00% | ~54 |
 | Free at last | 23.00% | ~52 |
-| Rascal | 23.00% | ~52 |
 | Alchemists Express | 22.00% | ~50 |
 | I did it | 18.00% | ~40 |
 | A Link to the Past | 18.00% | ~40 |

@@ -6,16 +6,16 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~946,826 |
-| I Need a Bigger Garage | 63.00% | ~662,778 |
-| Pump my Ride | 47.00% | ~494,454 |
-| Ghostbuster | 33.00% | ~347,170 |
-| Call Roadside Assistance | 18.00% | ~189,365 |
-| That Was Close | 18.00% | ~189,365 |
-| Quickie | 11.00% | ~115,723 |
-| California Dreamer | 7.00% | ~73,642 |
-| Can't Touch This | 5.00% | ~52,601 |
-| Comeback | 4.00% | ~42,081 |
+| The First of Many | 90.00% | ~946,844 |
+| I Need a Bigger Garage | 63.00% | ~662,791 |
+| Pump my Ride | 47.00% | ~494,463 |
+| Ghostbuster | 33.00% | ~347,176 |
+| Call Roadside Assistance | 18.00% | ~189,369 |
+| That Was Close | 18.00% | ~189,369 |
+| Quickie | 11.00% | ~115,725 |
+| California Dreamer | 7.00% | ~73,643 |
+| Can't Touch This | 5.00% | ~52,602 |
+| Comeback | 4.00% | ~42,082 |
 | Driver from Ipanema | 3.00% | ~31,561 |
 | Carménère Taster | 3.00% | ~31,561 |
 | Supersonic | 3.00% | ~31,561 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,052 |
 | Look Mom, No Hands! | 0.10% | ~1,052 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052,029 (Ranked 13)  
+Progressed: 1,052,049 (Ranked 13)  
 Completed: 439 (0.04%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 439 (0.04%) (Ranked 261)
 | 2023-09-25 | 1,050,853 | 437 |
 | 2023-09-26 | 1,051,366 | 439 |
 | 2023-09-27 | 1,051,856 | 439 |
-| 2023-09-28 | 1,052,029 | 439 |
+| 2023-09-28 | 1,052,049 | 439 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 301)  
 Sum: 1,302 (Ranked 230)  

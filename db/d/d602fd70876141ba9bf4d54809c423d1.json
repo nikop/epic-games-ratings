@@ -1032,9 +1032,9 @@
       "ID": "ACHIEVEMENT_67",
       "SetID": "8ddjaeg",
       "Name": "Got to Destroy the Brain",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_68",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-28T11:05:23.3164789+00:00",
+  "LastChanged_Achievements": "2023-09-28T12:06:06.537725+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:07.8295465+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:58:47.2301761+00:00",
-  "LastUpdate_Achievements": "2023-09-28T11:05:23.3166047+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:59:25.1205426+00:00",
+  "LastUpdate_Achievements": "2023-09-28T12:06:06.5378135+00:00"
 }
