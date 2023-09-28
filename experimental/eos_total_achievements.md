@@ -255,6 +255,7 @@
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
 | [Planet Cube - Edge](../games/p/planet_cube_-_edge.md) | 40 | 1,000 |
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
+| [Soulstice](../games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 40 | 1,000 |
 | [The Spirit and the Mouse](../games/t/the_spirit_and_the_mouse.md) | 40 | 1,000 |
 | [Them and Us](../games/t/them_and_us.md) | 40 | 1,000 |
 | [Tropico 6](../games/t/tropico_6.md) | 40 | 1,000 |

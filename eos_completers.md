@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 83.40% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 82.88% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.02% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -26,7 +26,7 @@
 | 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.87% |
 | 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 26 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.68% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.66% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.19% |
 | 29 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -39,7 +39,7 @@
 | 37 | [Sonic Origins](games/s/sonic_origins.md) | 8.03% |
 | 38 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.71% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.58% |
 | 42 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 43 | [Scorn](games/s/scorn.md) | 7.03% |
@@ -79,13 +79,13 @@
 | 76 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 78 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 79 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.95% |
-| 80 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.94% |
 | 80 | [Mega City Police](games/m/mega_city_police.md) | 2.94% |
-| 82 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 83 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
-| 84 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
-| 85 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 86 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
+| 81 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 82 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
+| 83 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
+| 84 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
+| 86 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.62% |
 | 87 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 88 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.55% |
 | 89 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -179,12 +179,12 @@
 | 176 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 179 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 179 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
 | 179 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.37% |
-| 181 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
-| 181 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 183 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
-| 183 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
-| 183 | [It Takes Two](games/i/it_takes_two.md) | 0.35% |
+| 182 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
+| 182 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 184 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 184 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
 | 186 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
 | 186 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 186 | [The Surge](games/t/the_surge.md) | 0.34% |
@@ -555,6 +555,7 @@
 | 296 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
 | 296 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
 | 296 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 0.00% |
+| 296 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 0.00% |
 | 296 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 296 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 0.00% |
 | 296 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.00% |
