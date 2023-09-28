@@ -13,18 +13,18 @@ Rating: 4.50 (Ranked 573)
 | Discovery | 0.60% | ~156 |
 | Fully Upgraded | 0.60% | ~156 |
 | Vaporous Expansion | 0.60% | ~156 |
+| Whoopsie | 0.60% | ~156 |
 | Back Off | 0.50% | ~130 |
 | Clutch Capture | 0.50% | ~130 |
 | Cultured | 0.50% | ~130 |
+| Icing on the Cake | 0.50% | ~130 |
 | Swift Rift Removers | 0.50% | ~130 |
 | Teamwork | 0.50% | ~130 |
 | There you are! | 0.50% | ~130 |
-| Whoopsie | 0.50% | ~130 |
 | Animated | 0.40% | ~104 |
 | Daily Dose | 0.40% | ~104 |
 | Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
-| Icing on the Cake | 0.40% | ~104 |
 | Right back at ya | 0.40% | ~104 |
 | Summoner | 0.40% | ~104 |
 | Terrifying | 0.40% | ~104 |

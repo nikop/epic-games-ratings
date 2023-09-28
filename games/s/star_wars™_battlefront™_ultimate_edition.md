@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~249 |
+| New Recruit | 88.00% | ~250 |
 | Off to a good start | 66.00% | ~187 |
 | Do... or do not. There is no try | 49.00% | ~139 |
 | A good blaster at your side | 35.00% | ~99 |
@@ -25,7 +25,7 @@
 | Impressive. Most impressive. | 11.00% | ~31 |
 | A cunning warrior | 11.00% | ~31 |
 | Judge me by my size, do you? | 10.00% | ~28 |
-| "Gonk? Gonk!" | 9.00% | ~25 |
+| "Gonk? Gonk!" | 9.00% | ~26 |
 | Distinguished | 8.00% | ~23 |
 | Patience you must have | 8.00% | ~23 |
 | Support the troops | 8.00% | ~23 |
@@ -48,11 +48,11 @@
 | Ackbar's Elite | 4.00% | ~11 |
 | Onwards! | 4.00% | ~11 |
 | The circle is now complete | 4.00% | ~11 |
-| Hold the line! | 3.00% | ~8 |
-| Safety ain't the point of a joyride | 3.00% | ~8 |
-| Do we take prisoners? | 3.00% | ~8 |
-| You have your moments | 3.00% | ~8 |
-| When surrounded by war... | 3.00% | ~8 |
+| Hold the line! | 3.00% | ~9 |
+| Safety ain't the point of a joyride | 3.00% | ~9 |
+| Do we take prisoners? | 3.00% | ~9 |
+| You have your moments | 3.00% | ~9 |
+| When surrounded by war... | 3.00% | ~9 |
 | A New Hope | 2.00% | ~6 |
 | No such thing as luck | 2.00% | ~6 |
 | I’ll take that bet | 2.00% | ~6 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~1 |
 | Crush them with one swift stroke… | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283 (Ranked 308)  
+Progressed: 284 (Ranked 308)  
 Completed: 1 (0.35%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.35%) (Ranked 184)
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
 | 2023-09-27 | 253 | 1 |
-| 2023-09-28 | 283 | 1 |
+| 2023-09-28 | 284 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

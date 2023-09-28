@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1092,9 +1092,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1108,9 +1108,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1275,8 +1275,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:08:31.9878129+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:08:37.8630206+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:58:15.8470663+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:08:31.9878317+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:58:24.2314928+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:08:37.8630464+00:00"
 }

@@ -14,10 +14,10 @@
 | A good beginning | 37.00% | ~84 |
 | True G4M3R | 37.00% | ~84 |
 | One last step | 35.00% | ~79 |
-| Cable guy | 32.00% | ~72 |
+| Cable guy | 33.00% | ~75 |
+| Half the way | 32.00% | ~72 |
 | Champollion | 32.00% | ~72 |
 | Peace walker | 31.00% | ~70 |
-| Half the way | 31.00% | ~70 |
 | In this together | 29.00% | ~66 |
 | Open door | 26.00% | ~59 |
 | Feels like springtime | 24.00% | ~54 |
@@ -31,7 +31,7 @@
 | Fashion victim | 12.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 226 (Ranked 329)  
-Completed: 13 (5.75%) (Ranked 52)  
+Completed: 13 (5.75%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

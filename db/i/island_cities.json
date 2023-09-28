@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 115,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.15,
+  "EOS_Completed_Percentage": 16.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2978,6 +2978,11 @@
       "Time": "2023-09-28T20:03:43.4828107+00:00",
       "NumProgressed": 712,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-09-28T21:03:56.1532897+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 22,
@@ -2997,15 +3002,15 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 477
+      "UsersEstimate": 471
     },
     {
       "ID": "LEVEL_004",
@@ -3029,7 +3034,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "LEVEL_007",
@@ -3037,7 +3042,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "LEVEL_008",
@@ -3061,7 +3066,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "LEVEL_011",
@@ -3093,7 +3098,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LEVEL_015",
@@ -3164,7 +3169,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 115
     }
   ],
@@ -3172,8 +3177,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:03:43.4828104+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:03:56.1532891+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.7877198+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:59:26.906539+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:03:43.4828378+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:59:32.8846304+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:03:56.1533288+00:00"
 }

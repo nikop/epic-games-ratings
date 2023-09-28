@@ -6992,9 +6992,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7551,8 +7551,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:04:22.8573271+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:04:34.3081992+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:00:08.6006746+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:04:22.8574126+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:00:13.7225443+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:04:34.3083109+00:00"
 }

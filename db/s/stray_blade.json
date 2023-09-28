@@ -755,9 +755,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -818,8 +818,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:08:33.0287055+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:08:38.6632694+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.6458275+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:00:31.2141778+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:08:33.0287381+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:02:04.8880402+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:08:38.6633083+00:00"
 }

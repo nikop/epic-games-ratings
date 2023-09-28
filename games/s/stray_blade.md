@@ -7,7 +7,7 @@
 | Self-Defence | 89.00% | ~77 |
 | Tinkerer | 70.00% | ~61 |
 | Welcome to the Club | 39.00% | ~34 |
-| Apprentice | 38.00% | ~33 |
+| Apprentice | 39.00% | ~34 |
 | A new World ahead | 32.00% | ~28 |
 | Can't touch this | 28.00% | ~24 |
 | Don't Cry Wolf | 26.00% | ~23 |

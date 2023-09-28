@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1384,6 +1384,11 @@
       "Time": "2023-09-27T22:04:24.6276696+00:00",
       "NumProgressed": 421,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-28T21:03:49.2476347+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1395,7 +1400,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "completeact2",
@@ -1403,7 +1408,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "completeact3",
@@ -1411,7 +1416,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "findalltapes",
@@ -1435,7 +1440,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "scoreminrankrb2",
@@ -1457,9 +1462,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 38
     },
     {
       "ID": "scoreminrankrh1",
@@ -1467,7 +1472,7 @@
       "Name": "Souvenirs",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "scoreminrankrp1",
@@ -1514,7 +1519,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 2
     }
   ],
@@ -1522,8 +1527,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:03:36.2908788+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:03:49.2476337+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:57:31.1267065+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:03:36.2908949+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:57:40.3510465+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:03:49.2476554+00:00"
 }

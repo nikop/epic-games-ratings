@@ -12555,10 +12555,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 234398,
       "NumberOfAwardsMax": 85114
+    },
+    {
+      "Time": "2023-09-28T20:57:50.5306053+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 234712,
+      "NumberOfAwardsMax": 85114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 234398,
+  "NumberOfAwards": 234712,
   "NumberOfAwardsMax": 85114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12614,7 +12620,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10322
+      "Count": 10636
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12635,10 +12641,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884262,
+  "EOS_Progressed": 884312,
   "EOS_Completed": 2460,
-  "EOS_NewPlayers": 6321,
-  "EOS_NewCompleters": 295,
+  "EOS_NewPlayers": 6331,
+  "EOS_NewCompleters": 290,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30760,6 +30766,11 @@
       "Time": "2023-09-28T20:05:38.2447115+00:00",
       "NumProgressed": 884262,
       "NumCompleted": 2460
+    },
+    {
+      "Time": "2023-09-28T21:05:47.8621387+00:00",
+      "NumProgressed": 884312,
+      "NumCompleted": 2460
     }
   ],
   "TotalAchievements": 57,
@@ -30851,7 +30862,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17685
+      "UsersEstimate": 17686
     },
     {
       "ID": "HandyMan",
@@ -30889,9 +30900,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3537
+      "UsersEstimate": 4422
     },
     {
       "ID": "MaxPain",
@@ -30899,7 +30910,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "MustBeTheRats",
@@ -30915,7 +30926,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "NoMansLand",
@@ -30947,7 +30958,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "Specialist",
@@ -30955,7 +30966,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17685
+      "UsersEstimate": 17686
     },
     {
       "ID": "Temperance",
@@ -30971,7 +30982,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17685
+      "UsersEstimate": 17686
     },
     {
       "ID": "TheDevil",
@@ -30995,7 +31006,7 @@
       "Name": "The Hermit",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "TheHightPriestess",
@@ -31043,7 +31054,7 @@
       "Name": "The World",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "ThisIsPacifica",
@@ -31091,7 +31102,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "VForVendetta",
@@ -31113,9 +31124,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6190
+      "UsersEstimate": 7074
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31226,21 +31237,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884262,
+      "Progressed": 884312,
       "Completed": 2460
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12885,
+      "Progressed": 12935,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-28T18:58:31.2114301+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:05:38.2447111+00:00",
+  "LastChanged": "2023-09-28T20:57:50.5306051+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:05:47.8621379+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:57:41.5275663+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:05:38.2448393+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:57:50.5306059+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:05:47.862296+00:00"
 }

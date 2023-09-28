@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,882 |
-| Let There Be Light | 34.00% | ~22,571 |
-| Float Like a Butterfly | 33.00% | ~21,907 |
-| Nordic Walking | 26.00% | ~17,260 |
-| Bright Falls' Finest | 26.00% | ~17,260 |
+| Follow the Light | 42.00% | ~27,883 |
+| Let There Be Light | 34.00% | ~22,572 |
+| Float Like a Butterfly | 33.00% | ~21,908 |
+| Nordic Walking | 26.00% | ~17,261 |
+| Bright Falls' Finest | 26.00% | ~17,261 |
 | Under a Thin Layer of Skin | 23.00% | ~15,269 |
-| Park Ranger | 19.00% | ~12,613 |
-| Paging Mr. Wake | 19.00% | ~12,613 |
-| Back! Back, I Say! | 18.00% | ~11,949 |
-| Finders Keepers | 18.00% | ~11,949 |
+| Park Ranger | 19.00% | ~12,614 |
+| Paging Mr. Wake | 19.00% | ~12,614 |
+| Back! Back, I Say! | 18.00% | ~11,950 |
+| Finders Keepers | 18.00% | ~11,950 |
 | Sound and Fury | 16.00% | ~10,622 |
 | Missed by a Mile | 16.00% | ~10,622 |
 | Damn Good Cup of Coffee | 16.00% | ~10,622 |
@@ -31,9 +31,9 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 12.00% | ~7,966 |
 | Thunder and Lightning | 12.00% | ~7,966 |
 | Two For the Price of One | 12.00% | ~7,966 |
-| The Lady of the Light | 11.00% | ~7,302 |
-| Energized! | 11.00% | ~7,302 |
-| Right of Way | 10.00% | ~6,638 |
+| The Lady of the Light | 11.00% | ~7,303 |
+| Energized! | 11.00% | ~7,303 |
+| Right of Way | 10.00% | ~6,639 |
 | What Light Through Yonder Window | 9.00% | ~5,975 |
 | Tornado Wrangler | 8.00% | ~5,311 |
 | Departure | 8.00% | ~5,311 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,385 (Ranked 89)  
+Progressed: 66,387 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 66 (0.10%) (Ranked 236)
 | 2023-09-25 | 66,202 | 66 |
 | 2023-09-26 | 66,247 | 66 |
 | 2023-09-27 | 66,314 | 66 |
-| 2023-09-28 | 66,385 | 66 |
+| 2023-09-28 | 66,387 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

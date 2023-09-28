@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,7 +223,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37437,
+  "EOS_Progressed": 37440,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
@@ -17923,6 +17923,11 @@
       "Time": "2023-09-28T20:03:15.7321485+00:00",
       "NumProgressed": 37437,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-28T21:03:29.0553093+00:00",
+      "NumProgressed": 37440,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -17942,7 +17947,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -17958,7 +17963,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -17966,7 +17971,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -18022,7 +18027,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -18070,7 +18075,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -18078,7 +18083,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -18102,7 +18107,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -18165,7 +18170,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37437,
+      "Progressed": 37440,
       "Completed": 25
     }
   ],
@@ -18173,8 +18178,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:03:15.732148+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:03:29.0553085+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:47.3776756+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:59:13.6644656+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:03:15.7322451+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:59:19.2916134+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:03:29.0554377+00:00"
 }

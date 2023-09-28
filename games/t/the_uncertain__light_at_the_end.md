@@ -1,7 +1,7 @@
 # The Uncertain: Light at the End
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-light-at-the-end)  
 [View Rawdata](../../db/t/the_uncertain__light_at_the_end.json)  
-Rating: 3.82 (Ranked 987)  
+Rating: 3.82 (Ranked 986)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

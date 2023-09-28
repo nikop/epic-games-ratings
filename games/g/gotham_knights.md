@@ -5,35 +5,35 @@ Rating: 4.19 (Ranked 884)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,923 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,525 |
+| First Step Into the Knight | 52.00% | ~37,924 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,526 |
 | Loose Ends | 34.00% | ~24,796 |
-| To the Victor Go the Spoils | 29.00% | ~21,149 |
+| To the Victor Go the Spoils | 29.00% | ~21,150 |
 | Knighthood | 28.00% | ~20,420 |
 | Get ReQ'd | 25.00% | ~18,232 |
 | Whispered Words | 25.00% | ~18,232 |
-| The Batman Family | 23.00% | ~16,773 |
-| Lock and Key | 23.00% | ~16,773 |
+| The Batman Family | 23.00% | ~16,774 |
+| Lock and Key | 23.00% | ~16,774 |
 | Something in the Clay | 21.00% | ~15,315 |
 | Quartzer Life Crisis | 21.00% | ~15,315 |
 | Working Hard or Harley Working? | 20.00% | ~14,586 |
 | Unstoppable Force | 20.00% | ~14,586 |
 | Bad Apples in Every Orchard | 20.00% | ~14,586 |
-| Snow Problem | 19.00% | ~13,856 |
+| Snow Problem | 19.00% | ~13,857 |
 | The Show Mud Go On | 18.00% | ~13,127 |
 | From Inside Gotham's Walls | 18.00% | ~13,127 |
 | Protector of Gotham | 17.00% | ~12,398 |
-| Universal Health Scare | 16.00% | ~11,668 |
-| In Your Element | 15.00% | ~10,939 |
-| Voiceless | 15.00% | ~10,939 |
+| Universal Health Scare | 16.00% | ~11,669 |
+| In Your Element | 15.00% | ~10,940 |
+| Voiceless | 15.00% | ~10,940 |
 | Rock and a Hard Place | 14.00% | ~10,210 |
 | Cooldown | 14.00% | ~10,210 |
 | Seeking Asylum | 14.00% | ~10,210 |
 | Not On My Watch | 13.00% | ~9,481 |
 | Shock Til They Drop | 13.00% | ~9,481 |
-| End of an Era | 12.00% | ~8,751 |
-| Bulldozed | 12.00% | ~8,751 |
-| Gotham Knight | 12.00% | ~8,751 |
+| End of an Era | 12.00% | ~8,752 |
+| Bulldozed | 12.00% | ~8,752 |
+| Gotham Knight | 12.00% | ~8,752 |
 | Gotham City Confidential | 11.00% | ~8,022 |
 | Drone You Out | 10.00% | ~7,293 |
 | Out of Their League | 9.00% | ~6,564 |
@@ -54,7 +54,7 @@ Rating: 4.19 (Ranked 884)
 | Icebreaker | 0.80% | ~346 |
 | History Major | 0.80% | ~583 |
 | A Sophisticated Mallet | 0.80% | ~346 |
-| Read Owl About It | 0.70% | ~510 |
+| Read Owl About It | 0.70% | ~511 |
 | Gotham's Greatest Depths | 0.60% | ~259 |
 | Don't Mecha Big Deal About It | 0.60% | ~259 |
 | Confronting Your Demon | 0.60% | ~259 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 884)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,928 (Ranked 85)  
+Progressed: 72,930 (Ranked 85)  
 Completed: 118 (0.16%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 118 (0.16%) (Ranked 219)
 | 2023-09-25 | 72,826 | 118 |
 | 2023-09-26 | 72,863 | 118 |
 | 2023-09-27 | 72,905 | 118 |
-| 2023-09-28 | 72,928 | 118 |
+| 2023-09-28 | 72,930 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,761  (Ranked 96)  
 Sum: 4,605 (Ranked 140)  

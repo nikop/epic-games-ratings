@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -1998,6 +1998,11 @@
       "Time": "2023-09-28T19:07:37.757374+00:00",
       "NumProgressed": 475,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T21:05:43.8331549+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2026,7 +2031,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2170,7 +2175,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_PEAK",
@@ -2186,7 +2191,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_REDEND",
@@ -2194,7 +2199,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_S1",
@@ -2202,15 +2207,15 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_S5",
@@ -2218,7 +2223,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2226,7 +2231,7 @@
       "Name": "Lost in Space",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_STATUE",
@@ -2241,15 +2246,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:05:34.2060337+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:05:43.833154+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:57:05.5137236+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:05:34.2060591+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:57:14.7357822+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:05:43.8331868+00:00"
 }

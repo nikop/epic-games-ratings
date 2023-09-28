@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18176,
+  "EOS_Progressed": 18178,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10841,6 +10841,11 @@
       "Time": "2023-09-28T19:08:08.5061328+00:00",
       "NumProgressed": 18176,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-28T21:06:06.4893962+00:00",
+      "NumProgressed": 18178,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10852,7 +10857,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5271
+      "UsersEstimate": 5272
     },
     {
       "ID": "0002",
@@ -11034,9 +11039,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3999
+      "UsersEstimate": 3817
     },
     {
       "ID": "0025",
@@ -11052,7 +11057,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "0027",
@@ -11060,7 +11065,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "0028",
@@ -11100,7 +11105,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "0033",
@@ -11108,7 +11113,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "0034",
@@ -11139,7 +11144,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18176,
+      "Progressed": 18178,
       "Completed": 3
     }
   ],
@@ -11147,8 +11152,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:05:57.1509425+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:06:06.4893954+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:59:04.0904924+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:05:57.1510141+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:59:09.9045342+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:06:06.4894905+00:00"
 }

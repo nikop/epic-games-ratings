@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,297 (Ranked 57)  
+Progressed: 230,302 (Ranked 57)  
 Completed: 2,311 (1.00%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -692,17 +692,17 @@ Completed: 2,311 (1.00%) (Ranked 132)
 | 2023-09-25 | 230,056 | 2,305 |
 | 2023-09-26 | 230,150 | 2,307 |
 | 2023-09-27 | 230,228 | 2,310 |
-| 2023-09-28 | 230,297 | 2,311 |
+| 2023-09-28 | 230,302 | 2,311 |
 ## Awards
 Max (Diverse Characters): 5,333  (Ranked 69)  
-Sum: 31,799 (Ranked 40)  
+Sum: 31,801 (Ranked 40)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,333 |
 | This game is Great for Beginners | 5,319 |
 | This game has Quickly Understood Controls | 4,778 |
-| This game is Relaxing | 4,662 |
+| This game is Relaxing | 4,664 |
 | This game has Amazing Characters | 4,136 |
 | This game is Highly Recommended | 4,128 |
 | This game has Playful Visuals | 3,443 |
@@ -954,4 +954,4 @@ Diff (max vs sum): 29
 | 2023-09-25 | 4.06 | - | 5,316 | 31,748 |
 | 2023-09-26 | 4.06 | - | 5,322 | 31,762 |
 | 2023-09-27 | 4.06 | - | 5,329 | 31,785 |
-| 2023-09-28 | 4.06 | - | 5,333 | 31,799 |
+| 2023-09-28 | 4.06 | - | 5,333 | 31,801 |

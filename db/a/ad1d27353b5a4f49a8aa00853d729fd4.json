@@ -3,8 +3,8 @@
   "Name": "SPACE ELITE FORCE",
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 426,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "beebot",
       "SetID": "94981fl",
       "Name": "bee bot",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "destroy_battle_cruiser",
@@ -377,17 +377,17 @@
       "ID": "laserbot",
       "SetID": "94981fl",
       "Name": "laserbot",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "machinegun",
       "SetID": "94981fl",
       "Name": "machine gun",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "max_hp",
@@ -528,8 +528,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:06:01.6758768+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:06:11.0896925+00:00",
   "LastUpdate_AppInfo": "2023-09-22T15:57:09.7928478+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:00:07.5866888+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:06:01.6758959+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:00:12.7480289+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:06:11.0897171+00:00"
 }

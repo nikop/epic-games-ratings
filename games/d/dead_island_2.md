@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,629 |
-| Welcome To Hell-A | 3.00% | ~20,629 |
+| Hotel California | 3.00% | ~20,630 |
+| Welcome To Hell-A | 3.00% | ~20,630 |
 | Dr. Reed, I Presume? | 2.00% | ~13,753 |
 | Git Gutte! | 2.00% | ~13,753 |
 | Bookworm | 2.00% | ~13,753 |
@@ -26,18 +26,18 @@ Rating: 4.54 (Ranked 513)
 | Personal Assistant Personally Assisted | 2.00% | ~13,753 |
 | Our True Nature | 2.00% | ~13,753 |
 | This is My Weapon | 2.00% | ~13,753 |
-| Making Your Mark | 1.00% | ~6,876 |
-| Anger Management | 1.00% | ~6,876 |
-| Perks of the Job | 1.00% | ~6,876 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,876 |
-| Ooh, Shiny! | 1.00% | ~6,876 |
-| Humanity Distilled | 1.00% | ~6,876 |
-| Down with the Sickness | 1.00% | ~6,876 |
-| Max Headroom | 1.00% | ~6,876 |
+| Making Your Mark | 1.00% | ~6,877 |
+| Anger Management | 1.00% | ~6,877 |
+| Perks of the Job | 1.00% | ~6,877 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,877 |
+| Ooh, Shiny! | 1.00% | ~6,877 |
+| Humanity Distilled | 1.00% | ~6,877 |
+| Down with the Sickness | 1.00% | ~6,877 |
+| Max Headroom | 1.00% | ~6,877 |
 | Jumbo Keyring | 0.80% | ~5,501 |
 | Go, Bobcats! | 0.80% | ~5,501 |
 | Rising Star | 0.80% | ~5,501 |
-| Smorgasbord | 0.70% | ~4,813 |
+| Smorgasbord | 0.70% | ~4,814 |
 | Not Even My Final Form | 0.60% | ~4,126 |
 | Internet Famous | 0.60% | ~4,126 |
 | Make it So | 0.50% | ~3,438 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 513)
 | Donk! | 0.10% | ~688 |
 | Bucket List | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,637 (Ranked 22)  
+Progressed: 687,656 (Ranked 22)  
 Completed: 2,177 (0.32%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 2,177 (0.32%) (Ranked 190)
 | 2023-09-25 | 686,363 | 2,174 |
 | 2023-09-26 | 686,808 | 2,176 |
 | 2023-09-27 | 687,260 | 2,176 |
-| 2023-09-28 | 687,637 | 2,177 |
+| 2023-09-28 | 687,656 | 2,177 |
 ## Awards
 Max (Great Boss Battles): 6,229  (Ranked 58)  
 Sum: 9,277 (Ranked 92)  

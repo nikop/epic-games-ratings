@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Conscience | 32.00% | ~79 |
+| Clean Conscience | 33.00% | ~82 |
 | So it goes | 31.00% | ~77 |
 | A New Broom Sweeps Clean | 17.00% | ~42 |
 | Small-time Finder | 15.00% | ~37 |
@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.40% | ~0 |
 | That’s One Big Pile | 0.40% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 324)  
-Completed: 6 (2.43%) (Ranked 91)  
+Progressed: 248 (Ranked 324)  
+Completed: 6 (2.42%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 6 (2.43%) (Ranked 91)
 | 2023-09-10 | 244 | 6 |
 | 2023-09-14 | 245 | 6 |
 | 2023-09-16 | 247 | 6 |
+| 2023-09-28 | 248 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

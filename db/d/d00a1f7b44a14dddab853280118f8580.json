@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -794,17 +794,17 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 60,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_skip_1",
@@ -841,8 +841,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:03:30.9317102+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:03:44.0000607+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:12:48.3415052+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:00:05.1461585+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:03:30.9317234+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:00:10.5407219+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:03:44.0000784+00:00"
 }

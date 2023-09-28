@@ -835,9 +835,9 @@
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "World7Boss",
@@ -876,8 +876,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:04:36.6698328+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:04:47.6422623+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:57:00.7057198+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:04:36.6698631+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:57:09.9542096+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:04:47.6423009+00:00"
 }

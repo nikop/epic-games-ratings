@@ -4,7 +4,7 @@
   "ProductSlug": "omen-of-sorrow",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-06-07T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.1159995+00:00",
   "LastChanged": "2023-03-31T05:57:36.1159997+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:18.7180181+00:00",
-  "LastUpdate_Ratings": "2023-09-28T20:00:28.0044849+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:03:38.764076+00:00"
+  "LastUpdate_Ratings": "2023-09-28T21:00:32.1060599+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:03:51.6071557+00:00"
 }

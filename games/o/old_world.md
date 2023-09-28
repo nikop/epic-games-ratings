@@ -29,32 +29,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 4.00% | ~567 |
 | Naming Landmarks | 4.00% | ~567 |
 | Trade Caravan | 4.00% | ~567 |
-| Ambitious | 3.00% | ~425 |
-| Brilliant | 3.00% | ~425 |
-| Fountainhead | 3.00% | ~425 |
-| Great | 3.00% | ~425 |
-| Magnificent | 3.00% | ~425 |
-| Warrior | 3.00% | ~425 |
-| Wise | 3.00% | ~425 |
-| Developing Cities | 3.00% | ~425 |
-| Strong Cities | 3.00% | ~425 |
-| Able Difficulty | 3.00% | ~425 |
-| Furious Family | 3.00% | ~425 |
-| Great Ziggurat | 3.00% | ~425 |
-| Ishtar Gate | 3.00% | ~425 |
-| Lighthouse | 3.00% | ~425 |
-| Necropolis | 3.00% | ~425 |
-| Pyramids | 3.00% | ~425 |
-| Learn to Play 1 | 3.00% | ~425 |
-| Christianity | 3.00% | ~425 |
-| Manichaeism | 3.00% | ~425 |
-| Babylonian Paganism | 3.00% | ~425 |
-| Carthaginian Paganism | 3.00% | ~425 |
-| Egyptian Paganism | 3.00% | ~425 |
-| Greek Paganism | 3.00% | ~425 |
-| Roman Paganism | 3.00% | ~425 |
-| Zoroastrianism | 3.00% | ~425 |
-| The Great Mage | 3.00% | ~425 |
+| Ambitious | 3.00% | ~426 |
+| Brilliant | 3.00% | ~426 |
+| Fountainhead | 3.00% | ~426 |
+| Great | 3.00% | ~426 |
+| Magnificent | 3.00% | ~426 |
+| Warrior | 3.00% | ~426 |
+| Wise | 3.00% | ~426 |
+| Developing Cities | 3.00% | ~426 |
+| Strong Cities | 3.00% | ~426 |
+| Able Difficulty | 3.00% | ~426 |
+| Furious Family | 3.00% | ~426 |
+| Great Ziggurat | 3.00% | ~426 |
+| Ishtar Gate | 3.00% | ~426 |
+| Lighthouse | 3.00% | ~426 |
+| Necropolis | 3.00% | ~426 |
+| Pyramids | 3.00% | ~426 |
+| Learn to Play 1 | 3.00% | ~426 |
+| Christianity | 3.00% | ~426 |
+| Manichaeism | 3.00% | ~426 |
+| Babylonian Paganism | 3.00% | ~426 |
+| Carthaginian Paganism | 3.00% | ~426 |
+| Egyptian Paganism | 3.00% | ~426 |
+| Greek Paganism | 3.00% | ~426 |
+| Roman Paganism | 3.00% | ~426 |
+| Zoroastrianism | 3.00% | ~426 |
+| The Great Mage | 3.00% | ~426 |
 | Regicide | 2.00% | ~284 |
 | Hanging Gardens in Babylon | 2.00% | ~284 |
 | Beloved | 2.00% | ~284 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,182 (Ranked 131)  
+Progressed: 14,184 (Ranked 132)  
 Completed: 5 (0.04%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 5 (0.04%) (Ranked 262)
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
-| 2023-09-28 | 14,182 | 5 |
+| 2023-09-28 | 14,184 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,823 (Ranked 207)  

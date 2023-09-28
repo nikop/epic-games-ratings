@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.43,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -496,6 +496,11 @@
       "Time": "2023-09-16T22:08:57.3339764+00:00",
       "NumProgressed": 247,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-28T21:05:35.2986975+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -681,9 +686,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "VIPER_HACKING",
@@ -698,13 +703,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 6
     }
   ],
@@ -712,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:05:25.178095+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:05:35.2986967+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.5366908+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:58:36.4987815+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:05:25.178117+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:58:43.6341087+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:05:35.2987189+00:00"
 }

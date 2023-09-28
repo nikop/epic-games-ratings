@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.8,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -371,6 +371,11 @@
       "Time": "2023-09-27T13:11:59.2302686+00:00",
       "NumProgressed": 69,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-28T21:04:02.0102262+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -413,7 +418,7 @@
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -421,7 +426,7 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -429,7 +434,7 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
       "UsersEstimate": 28
     },
@@ -469,7 +474,7 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -501,7 +506,7 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -509,7 +514,7 @@
       "ID": "Pejsek",
       "SetID": "ag48e8e",
       "Name": "Dog",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -525,7 +530,7 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -541,7 +546,7 @@
       "ID": "Sova",
       "SetID": "ag48e8e",
       "Name": "Owl",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -549,7 +554,7 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -622,14 +627,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-28T20:03:49.4800548+00:00",
+  "LastChanged_Achievements": "2023-09-28T21:04:02.0102255+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.4227697+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:59:52.2563187+00:00",
-  "LastUpdate_Achievements": "2023-09-28T20:03:49.4800755+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:59:57.053897+00:00",
+  "LastUpdate_Achievements": "2023-09-28T21:04:02.0102522+00:00"
 }
