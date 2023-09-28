@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under the Bridge | 86.00% | ~83 |
+| Under the Bridge | 85.00% | ~83 |
 | Treasure Hunter | 10.00% | ~10 |
 | Space Invader | 6.00% | ~6 |
 | Budget Killer | 5.00% | ~5 |
@@ -19,8 +19,8 @@
 | Unboxing Video | 2.00% | ~2 |
 | Mise-en-scènester | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 382)  
-Completed: 2 (2.06%) (Ranked 99)  
+Progressed: 98 (Ranked 380)  
+Completed: 2 (2.04%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,3 +57,4 @@ Completed: 2 (2.06%) (Ranked 99)
 | 2023-09-25 | 95 | 2 |
 | 2023-09-26 | 96 | 2 |
 | 2023-09-27 | 97 | 2 |
+| 2023-09-28 | 98 | 2 |

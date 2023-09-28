@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,709 (Ranked 153)  
+Progressed: 6,709 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,9 +242,9 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-27 | 6,704 | 0 |
 | 2023-09-28 | 6,709 | 0 |
 ## Awards
-Max (Diverse Characters): 94  (Ranked 353)  
+Max (Diverse Characters): 94  (Ranked 354)  
 Sum: 681 (Ranked 284)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

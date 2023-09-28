@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1060,9 +1060,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13009,
+  "EOS_Progressed": 13012,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -11885,6 +11885,11 @@
       "Time": "2023-09-28T18:04:21.2504043+00:00",
       "NumProgressed": 13009,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-28T19:04:40.2793163+00:00",
+      "NumProgressed": 13012,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -11896,7 +11901,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10537
+      "UsersEstimate": 10540
     },
     {
       "ID": "ACH02",
@@ -11952,7 +11957,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6504
+      "UsersEstimate": 6506
     },
     {
       "ID": "ACH09",
@@ -12008,7 +12013,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH16",
@@ -12040,7 +12045,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH20",
@@ -12064,7 +12069,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH23",
@@ -12072,7 +12077,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "ACH24",
@@ -12120,7 +12125,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH30",
@@ -12175,7 +12180,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13009,
+      "Progressed": 13012,
       "Completed": 48
     }
   ],
@@ -12183,8 +12188,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-28T15:59:37.1854751+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:04:21.2504039+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:04:40.2793157+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:59:45.1859185+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:04:21.2505473+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:59:55.9957426+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:04:40.2794183+00:00"
 }

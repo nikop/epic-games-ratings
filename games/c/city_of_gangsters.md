@@ -5,15 +5,15 @@ Rating: 4.27 (Ranked 827)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~158,855 |
+| Corner Clout | 46.00% | ~158,856 |
 | Copacetic Coordination | 16.00% | ~55,254 |
-| Fronting the Money | 15.00% | ~51,800 |
+| Fronting the Money | 15.00% | ~51,801 |
 | The Dawn of Automation | 14.00% | ~48,347 |
 | Extraordinary Logistics | 14.00% | ~48,347 |
 | Dirty Money | 13.00% | ~44,894 |
 | Family First | 13.00% | ~44,894 |
-| Cleaning House | 12.00% | ~41,440 |
-| Room in the Back | 12.00% | ~41,440 |
+| Cleaning House | 12.00% | ~41,441 |
+| Room in the Back | 12.00% | ~41,441 |
 | Beating the Heat | 11.00% | ~37,987 |
 | Booze Baron | 11.00% | ~37,987 |
 | Friends on the Force | 10.00% | ~34,534 |
@@ -36,11 +36,11 @@ Rating: 4.27 (Ranked 827)
 | Opportunity Knocked | 5.00% | ~17,267 |
 | City of Big Shoulders | 5.00% | ~17,267 |
 | Mission Mastery | 5.00% | ~17,267 |
-| Considerable Clams | 4.00% | ~13,813 |
-| Gin Joint | 4.00% | ~13,813 |
-| An Affront to the Enemy | 4.00% | ~13,813 |
-| Friends from Back Home | 4.00% | ~13,813 |
-| Half Century Mark | 4.00% | ~13,813 |
+| Considerable Clams | 4.00% | ~13,814 |
+| Gin Joint | 4.00% | ~13,814 |
+| An Affront to the Enemy | 4.00% | ~13,814 |
+| Friends from Back Home | 4.00% | ~13,814 |
+| Half Century Mark | 4.00% | ~13,814 |
 | Corner Opportunities | 3.00% | ~10,360 |
 | 2122 North Clark Street | 3.00% | ~10,360 |
 | Copious Cabbage | 3.00% | ~10,360 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 827)
 | High Pillow | 0.10% | ~345 |
 | Station Master | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,336 (Ranked 43)  
+Progressed: 345,339 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 7 (0.00%) (Ranked 296)
 | 2023-09-25 | 345,000 | 7 |
 | 2023-09-26 | 345,148 | 7 |
 | 2023-09-27 | 345,243 | 7 |
-| 2023-09-28 | 345,336 | 7 |
+| 2023-09-28 | 345,339 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 445)  
 Sum: 197 (Ranked 380)  

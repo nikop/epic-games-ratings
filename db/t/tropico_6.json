@@ -3,11 +3,11 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 303,
-  "Ranking_Popularity": 343,
+  "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1158,9 +1158,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5384,
+  "EOS_Progressed": 5385,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10533,6 +10533,11 @@
       "Time": "2023-09-28T15:05:03.0047287+00:00",
       "NumProgressed": 5384,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-28T19:04:53.3004684+00:00",
+      "NumProgressed": 5385,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10600,7 +10605,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -10704,7 +10709,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10800,7 +10805,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -10863,15 +10868,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5384,
+      "Progressed": 5385,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-28T14:01:11.893357+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:04:34.465973+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:04:53.3004678+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:01:28.9339566+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:04:34.466083+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:01:40.1606718+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:04:53.3005582+00:00"
 }

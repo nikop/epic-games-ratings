@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -588,9 +588,9 @@
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_014",
@@ -933,8 +933,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:07:51.0213244+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:08:08.5458759+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.2120388+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:57:23.7989573+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:07:51.0213712+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:57:35.9040052+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:08:08.5459185+00:00"
 }

@@ -292,9 +292,9 @@
       "ID": "37",
       "SetID": "6hl9l7f",
       "Name": "Smoking Can Kill",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "38",
@@ -386,8 +386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:04:50.6833176+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:05:09.4785297+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:01:32.1309601+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:04:50.6833676+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:01:43.1491082+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:05:09.4785656+00:00"
 }

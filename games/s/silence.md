@@ -6,34 +6,34 @@
 | ---- | ---------- | ----- |
 | Chapter I | 52.00% | ~66 |
 | Fire in the... nevermind | 52.00% | ~66 |
-| Haute cuisine | 48.00% | ~60 |
-| I didn't do it! | 40.00% | ~50 |
+| Haute cuisine | 47.00% | ~60 |
+| I didn't do it! | 39.00% | ~50 |
 | Demolition expert | 38.00% | ~48 |
 | Wooooooow! | 37.00% | ~47 |
-| Keep away from children | 36.00% | ~45 |
-| Artistic fool | 33.00% | ~42 |
-| Open up wide | 33.00% | ~42 |
-| Let the boot talk | 32.00% | ~40 |
+| Keep away from children | 35.00% | ~44 |
+| Artistic fool | 32.00% | ~41 |
+| Open up wide | 32.00% | ~41 |
+| Let the boot talk | 31.00% | ~39 |
 | Chapter II | 27.00% | ~34 |
-| Handyman | 25.00% | ~32 |
-| Achoo!! | 25.00% | ~32 |
+| Handyman | 24.00% | ~30 |
+| Achoo!! | 24.00% | ~30 |
 | Chapter III | 24.00% | ~30 |
 | Like a moth in the Wind | 24.00% | ~30 |
 | Shadow on the wall | 23.00% | ~29 |
 | Quite a buggy game | 22.00% | ~28 |
 | Bubblekillerfamily | 22.00% | ~28 |
-| Mirror mirror on the wall... | 21.00% | ~26 |
 | Pacifist | 20.00% | ~25 |
+| Mirror mirror on the wall... | 20.00% | ~25 |
 | Fastidious Clown | 19.00% | ~24 |
 | It's not easy being green! | 18.00% | ~23 |
 | Home is where the heart is | 18.00% | ~23 |
 | Master of Thermodynamics | 15.00% | ~19 |
 | Death is a part of life | 14.00% | ~18 |
-| Unfullfilled dreams | 13.00% | ~16 |
+| Unfullfilled dreams | 13.00% | ~17 |
 | To err is human... | 11.00% | ~14 |
 | Useless but beautiful | 10.00% | ~13 |
 | Nothing can stop me | 10.00% | ~13 |
-| Mumbo Jumbo | 10.00% | ~13 |
+| Mumbo Jumbo | 9.00% | ~11 |
 | Lollipop | 8.00% | ~10 |
 | Where there is life, there is hope | 8.00% | ~10 |
 | It's nothing personal | 7.00% | ~9 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.80% | ~1 |
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 360)  
+Progressed: 127 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-24 | 122 | 0 |
 | 2023-09-26 | 124 | 0 |
 | 2023-09-27 | 125 | 0 |
-| 2023-09-28 | 126 | 0 |
+| 2023-09-28 | 127 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

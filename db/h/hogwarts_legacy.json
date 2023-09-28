@@ -8232,9 +8232,9 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 297467,
+  "EOS_Progressed": 297472,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25647,6 +25647,11 @@
       "Time": "2023-09-28T18:03:23.2671305+00:00",
       "NumProgressed": 297467,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-28T19:03:33.5947003+00:00",
+      "NumProgressed": 297472,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25658,7 +25663,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44620
+      "UsersEstimate": 44621
     },
     {
       "ID": "PFA_10",
@@ -25706,7 +25711,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23797
+      "UsersEstimate": 23798
     },
     {
       "ID": "PFA_16",
@@ -25730,7 +25735,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23797
+      "UsersEstimate": 23798
     },
     {
       "ID": "PFA_19",
@@ -25738,7 +25743,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23797
+      "UsersEstimate": 23798
     },
     {
       "ID": "PFA_2",
@@ -25778,7 +25783,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35696
+      "UsersEstimate": 35697
     },
     {
       "ID": "PFA_24",
@@ -25842,7 +25847,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32721
+      "UsersEstimate": 32722
     },
     {
       "ID": "PFA_31",
@@ -25938,7 +25943,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14874
     },
     {
       "ID": "PFA_42",
@@ -25962,7 +25967,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23797
+      "UsersEstimate": 23798
     },
     {
       "ID": "PFA_45",
@@ -26002,7 +26007,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32721
+      "UsersEstimate": 32722
     },
     {
       "ID": "PFA_9",
@@ -26017,7 +26022,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297467,
+      "Progressed": 297472,
       "Completed": 478
     }
   ],
@@ -26025,8 +26030,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-28T08:00:20.9446276+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:03:23.26713+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:03:33.5946995+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:57:24.4215059+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:03:23.2673155+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:57:36.4744337+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:03:33.5948981+00:00"
 }

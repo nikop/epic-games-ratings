@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Hero Arrives | 100.00% | ~1 |
 | Death Battle | 0.00% | ~0 |
 | Phantom Kunoichi | 0.00% | ~0 |
 | Killing Machine | 0.00% | ~0 |
@@ -16,7 +17,6 @@
 | Tour Guide | 0.00% | ~0 |
 | The Real O.G. | 0.00% | ~0 |
 | The End of an Outlaw | 0.00% | ~0 |
-| Hero Arrives | 0.00% | ~0 |
 | The Hero of the People | 0.00% | ~0 |
 | The Legend | 0.00% | ~0 |
 | Demon Slayer | 0.00% | ~0 |

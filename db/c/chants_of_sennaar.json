@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.78,
+  "EOS_Completed_Percentage": 5.75,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1054,6 +1054,11 @@
       "Time": "2023-09-28T10:08:22.4328001+00:00",
       "NumProgressed": 225,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-28T19:10:04.130316+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 25,
@@ -1073,7 +1078,7 @@
       "Name": "In this together",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "META_ALL_LINK",
@@ -1097,7 +1102,7 @@
       "Name": "A good beginning",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "META_HALF_LINK",
@@ -1113,7 +1118,7 @@
       "Name": "Open door",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1153,7 +1158,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1177,7 +1182,7 @@
       "Name": "True G4M3R",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1225,7 +1230,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PROGRESS_N2",
@@ -1241,7 +1246,7 @@
       "Name": "A new dawn",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N4",
@@ -1264,14 +1269,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:09:48.2505814+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:10:04.1303154+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:59:09.9289678+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:09:48.250606+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:59:20.8118772+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:10:04.1303404+00:00"
 }

@@ -44,8 +44,8 @@ Rating: 4.60 (Ranked 401)
 | Factorywood Explorer | 9.00% | ~81 |
 | Fairgrounds Explorer | 9.00% | ~81 |
 | Corin Goes Home | 8.00% | ~72 |
+| Sartorialist | 8.00% | ~72 |
 | Entresol Explorer | 8.00% | ~72 |
-| Sartorialist | 7.00% | ~63 |
 | Golem Hunter | 6.00% | ~54 |
 | Clovemary for Remembering | 5.00% | ~45 |
 | Hexlock for Protection | 5.00% | ~45 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 401)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 899 (Ranked 235)  
-Completed: 5 (0.56%) (Ranked 157)  
+Completed: 5 (0.56%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

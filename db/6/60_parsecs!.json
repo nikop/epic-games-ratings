@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 746,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -848,6 +848,11 @@
       "Time": "2023-09-28T17:09:27.4375898+00:00",
       "NumProgressed": 745,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T19:09:34.3188909+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -865,9 +870,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 351
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -921,9 +926,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 351
     },
     {
       "ID": "Achievement_DontPanic",
@@ -931,7 +936,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "Achievement_DustToDust",
@@ -939,7 +944,7 @@
       "Name": "Dust to Dust",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1019,7 +1024,7 @@
       "Name": "Gold Medalist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Achievement_HandsFull",
@@ -1035,7 +1040,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1083,7 +1088,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1115,7 +1120,7 @@
       "Name": "Non-Fiction",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Achievement_SecondLife",
@@ -1147,7 +1152,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1195,7 +1200,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "Achievement_Traitor",
@@ -1210,7 +1215,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 746,
       "Completed": 1
     }
   ],
@@ -1218,8 +1223,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:09:17.7924849+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:09:34.3188904+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:00.3989341+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:01:23.2886462+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:09:17.79253+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:01:34.6137601+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:09:34.3189453+00:00"
 }

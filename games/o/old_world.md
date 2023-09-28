@@ -65,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 2.00% | ~284 |
 | Just Difficulty | 2.00% | ~284 |
 | Artisans | 2.00% | ~284 |
+| Champions | 2.00% | ~284 |
 | Sages | 2.00% | ~284 |
 | Acropolis | 2.00% | ~284 |
 | Apadana | 2.00% | ~284 |
@@ -88,7 +89,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 1.00% | ~142 |
 | Subjugator | 1.00% | ~142 |
 | Good Difficulty | 1.00% | ~142 |
-| Champions | 1.00% | ~142 |
 | Landowners | 1.00% | ~142 |
 | Patrons | 1.00% | ~142 |
 | Riders | 1.00% | ~142 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,179 (Ranked 131)  
+Progressed: 14,181 (Ranked 131)  
 Completed: 5 (0.04%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 5 (0.04%) (Ranked 261)
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
-| 2023-09-28 | 14,179 | 5 |
+| 2023-09-28 | 14,181 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,823 (Ranked 207)  

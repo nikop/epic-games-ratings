@@ -12,7 +12,7 @@
 | First wall | 52.00% | ~120 |
 | Piggyback Expert | 50.00% | ~116 |
 | Second wall | 37.00% | ~85 |
-| Expert Scavenger | 33.00% | ~76 |
+| Expert Scavenger | 34.00% | ~79 |
 | Their Rock | 29.00% | ~67 |
 | Yuna's Promise | 28.00% | ~65 |
 | Stone Retriever | 26.00% | ~60 |

@@ -16,7 +16,7 @@ Rating: 3.83 (Ranked 984)
 | K.O.! | 44.00% | ~709 |
 | Intermediate Chemist | 40.00% | ~644 |
 | Decorative Mind | 32.00% | ~516 |
-| Lumber Specialist | 31.00% | ~499 |
+| Lumber Specialist | 32.00% | ~516 |
 | Catch of the Day | 26.00% | ~419 |
 | Kind-hearted | 25.00% | ~403 |
 | Amateur Chef | 22.00% | ~354 |
@@ -45,7 +45,7 @@ Rating: 3.83 (Ranked 984)
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,611 (Ranked 210)  
-Completed: 9 (0.56%) (Ranked 157)  
+Completed: 9 (0.56%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

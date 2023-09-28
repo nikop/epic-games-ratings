@@ -10,6 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.30% | ~590 |
 | The Arena of Blood | 0.30% | ~590 |
 | Beast Intentions | 0.20% | ~461 |
+| The Cursed Farmer | 0.20% | ~461 |
 | Slow Down Showdown | 0.20% | ~393 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |
@@ -218,7 +219,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~230 |
 | Our Time To Shine | 0.10% | ~230 |
 | Review by the Blackstaff | 0.10% | ~197 |
-| The Cursed Farmer | 0.10% | ~230 |
 | The Ring of Regeneration | 0.10% | ~230 |
 | The Crumbling Temple | 0.10% | ~230 |
 | The Death Curse | 0.10% | ~230 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,289 (Ranked 57)  
+Progressed: 230,295 (Ranked 57)  
 Completed: 2,311 (1.00%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -692,7 +692,7 @@ Completed: 2,311 (1.00%) (Ranked 131)
 | 2023-09-25 | 230,056 | 2,305 |
 | 2023-09-26 | 230,150 | 2,307 |
 | 2023-09-27 | 230,228 | 2,310 |
-| 2023-09-28 | 230,289 | 2,311 |
+| 2023-09-28 | 230,295 | 2,311 |
 ## Awards
 Max (Diverse Characters): 5,333  (Ranked 69)  
 Sum: 31,799 (Ranked 40)  

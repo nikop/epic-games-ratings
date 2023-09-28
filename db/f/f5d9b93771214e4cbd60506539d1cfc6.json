@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -212,10 +212,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145445,
+  "EOS_Progressed": 145455,
   "EOS_Completed": 282,
-  "EOS_NewPlayers": 1144,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1146,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -12537,6 +12537,11 @@
       "Time": "2023-09-28T18:09:48.8237382+00:00",
       "NumProgressed": 145445,
       "NumCompleted": 282
+    },
+    {
+      "Time": "2023-09-28T19:10:04.7592453+00:00",
+      "NumProgressed": 145455,
+      "NumCompleted": 282
     }
   ],
   "TotalAchievements": 31,
@@ -12556,7 +12561,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101812
+      "UsersEstimate": 101818
     },
     {
       "ID": "EAwards_10",
@@ -12564,7 +12569,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20362
+      "UsersEstimate": 20364
     },
     {
       "ID": "EAwards_11",
@@ -12572,7 +12577,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29089
+      "UsersEstimate": 29091
     },
     {
       "ID": "EAwards_12",
@@ -12580,7 +12585,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24726
+      "UsersEstimate": 24727
     },
     {
       "ID": "EAwards_13",
@@ -12596,7 +12601,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56724
+      "UsersEstimate": 56727
     },
     {
       "ID": "EAwards_15",
@@ -12604,7 +12609,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17453
+      "UsersEstimate": 17455
     },
     {
       "ID": "EAwards_16",
@@ -12620,7 +12625,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31998
+      "UsersEstimate": 32000
     },
     {
       "ID": "EAwards_18",
@@ -12628,7 +12633,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31998
+      "UsersEstimate": 32000
     },
     {
       "ID": "EAwards_19",
@@ -12644,7 +12649,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40725
+      "UsersEstimate": 40727
     },
     {
       "ID": "EAwards_20",
@@ -12660,7 +12665,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15999
+      "UsersEstimate": 16000
     },
     {
       "ID": "EAwards_22",
@@ -12684,7 +12689,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7272
+      "UsersEstimate": 7273
     },
     {
       "ID": "EAwards_25",
@@ -12700,7 +12705,7 @@
       "Name": "Who put these here???",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "EAwards_27",
@@ -12708,7 +12713,7 @@
       "Name": "El Savior",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "EAwards_28",
@@ -12716,7 +12721,7 @@
       "Name": "World Champion",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "EAwards_29",
@@ -12724,7 +12729,7 @@
       "Name": "The Devil wears Revenge!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "EAwards_3",
@@ -12732,7 +12737,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27635
+      "UsersEstimate": 27636
     },
     {
       "ID": "EAwards_30",
@@ -12740,7 +12745,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13090
+      "UsersEstimate": 13091
     },
     {
       "ID": "EAwards_4",
@@ -12748,7 +12753,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 21817
+      "UsersEstimate": 21818
     },
     {
       "ID": "EAwards_5",
@@ -12756,7 +12761,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15999
+      "UsersEstimate": 16000
     },
     {
       "ID": "EAwards_6",
@@ -12764,7 +12769,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36361
+      "UsersEstimate": 36364
     },
     {
       "ID": "EAwards_7",
@@ -12780,7 +12785,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53815
+      "UsersEstimate": 53818
     },
     {
       "ID": "EAwards_9",
@@ -12788,14 +12793,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17453
+      "UsersEstimate": 17455
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 145445,
+      "Progressed": 145455,
       "Completed": 282
     }
   ],
@@ -12803,8 +12808,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-28T14:01:47.960468+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:09:48.8237376+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:10:04.7592449+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:02:08.6215406+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:09:48.8238679+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:02:19.4032672+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:10:04.7593559+00:00"
 }

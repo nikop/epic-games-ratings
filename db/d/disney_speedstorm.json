@@ -2,8 +2,8 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_Progress": 137,
+  "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10110,
-  "EOS_Completed": 211,
-  "EOS_NewPlayers": 6902,
-  "EOS_NewCompleters": 27,
-  "EOS_Completed_Percentage": 2.09,
+  "EOS_Progressed": 11267,
+  "EOS_Completed": 213,
+  "EOS_NewPlayers": 8058,
+  "EOS_NewCompleters": 29,
+  "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -5267,6 +5267,11 @@
       "Time": "2023-09-28T18:08:28.1274265+00:00",
       "NumProgressed": 10110,
       "NumCompleted": 211
+    },
+    {
+      "Time": "2023-09-28T19:08:44.8602464+00:00",
+      "NumProgressed": 11267,
+      "NumCompleted": 213
     }
   ],
   "TotalAchievements": 24,
@@ -5278,55 +5283,55 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 708
+      "UsersEstimate": 789
     },
     {
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1465
     },
     {
       "ID": "11",
       "SetID": "9p3jgda",
       "Name": "PERFECTLY POISED",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 451
     },
     {
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 563
     },
     {
       "ID": "13",
       "SetID": "9p3jgda",
       "Name": "EXPERIENCED CREW",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 303
+      "UsersEstimate": 225
     },
     {
       "ID": "14",
       "SetID": "9p3jgda",
       "Name": "IT MAKES BOOM!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1690
     },
     {
       "ID": "15",
       "SetID": "9p3jgda",
       "Name": "FRAMED!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 225
     },
     {
       "ID": "16",
@@ -5334,23 +5339,23 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 506
+      "UsersEstimate": 563
     },
     {
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 563
     },
     {
       "ID": "18",
       "SetID": "9p3jgda",
       "Name": "ACE BRAWLER",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 563
     },
     {
       "ID": "19",
@@ -5358,7 +5363,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 5,
       "XP": 85,
-      "UsersEstimate": 506
+      "UsersEstimate": 563
     },
     {
       "ID": "2",
@@ -5366,15 +5371,15 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 809
+      "UsersEstimate": 901
     },
     {
       "ID": "20",
       "SetID": "9p3jgda",
       "Name": "PROTECTED",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1127
     },
     {
       "ID": "21",
@@ -5382,7 +5387,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 506
+      "UsersEstimate": 563
     },
     {
       "ID": "22",
@@ -5390,55 +5395,55 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 404
+      "UsersEstimate": 451
     },
     {
       "ID": "23",
       "SetID": "9p3jgda",
       "Name": "A TIGER\u0027S FEAR",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1127
     },
     {
       "ID": "24",
       "SetID": "9p3jgda",
       "Name": "HERE ARE SOME BARE NECESSITIES",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1127
     },
     {
       "ID": "3",
       "SetID": "9p3jgda",
       "Name": "FRIENDLY",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 563
     },
     {
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1127
     },
     {
       "ID": "5",
       "SetID": "9p3jgda",
       "Name": "ROOKIE",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2704
     },
     {
       "ID": "6",
       "SetID": "9p3jgda",
       "Name": "PRO",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1239
     },
     {
       "ID": "7",
@@ -5446,7 +5451,7 @@
       "Name": "MASTER",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 607
+      "UsersEstimate": 676
     },
     {
       "ID": "8",
@@ -5454,7 +5459,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 404
+      "UsersEstimate": 451
     },
     {
       "ID": "9",
@@ -5462,21 +5467,21 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 506
+      "UsersEstimate": 563
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 10110,
-      "Completed": 211
+      "Progressed": 11267,
+      "Completed": 213
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:08:28.1274258+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:08:44.860246+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.6111213+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:59:29.107325+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:08:28.1275529+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:59:40.0276504+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:08:44.8602988+00:00"
 }

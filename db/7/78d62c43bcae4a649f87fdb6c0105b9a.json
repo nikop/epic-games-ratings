@@ -61,17 +61,17 @@
       "ID": "bisont",
       "SetID": "40o2ndb",
       "Name": "The Good, the Bad and the Rooster",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "forest",
@@ -109,9 +109,9 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "mafia",
@@ -181,9 +181,9 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 85,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "world3insane",
@@ -197,9 +197,9 @@
       "ID": "world4",
       "SetID": "40o2ndb",
       "Name": "Sleep well Mwamwa Princess",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 85,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "world4insane",
@@ -244,8 +244,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:04:33.6914332+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:04:52.5507212+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3549601+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:57:16.6275806+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:04:33.6914645+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:57:28.5563544+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:04:52.5507394+00:00"
 }

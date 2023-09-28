@@ -45,12 +45,12 @@
 | Burn After Reading | 3.00% | ~3 |
 | Alloy Rangers, Assemble! | 2.00% | ~2 |
 | Pumped Up | 2.00% | ~2 |
-| Easy Peasy | 1.00% | ~1 |
+| Easy Peasy | 2.00% | ~2 |
+| Mischief Time | 1.00% | ~1 |
 | Clean Sweep | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |
 | Flawless | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
-| Mischief Time | 0.00% | ~0 |
 | Art is an Explosion | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |

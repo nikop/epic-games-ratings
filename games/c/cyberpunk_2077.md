@@ -9,23 +9,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 2.00% | ~17,684 |
 | Ten out of Ten | 2.00% | ~17,684 |
 | Rough Landing | 2.00% | ~17,684 |
+| Right Back At Ya | 1.00% | ~8,842 |
 | Master Crafter | 1.00% | ~8,842 |
 | Mean Streets | 1.00% | ~8,842 |
 | The High Priestess | 1.00% | ~8,842 |
 | The Jungle | 1.00% | ~8,842 |
+| True Soldier | 1.00% | ~8,842 |
 | Two Heads, One Bullet | 1.00% | ~8,842 |
 | V for Vendetta | 1.00% | ~8,842 |
 | Full Body Conversion | 0.90% | ~7,958 |
-| Right Back At Ya | 0.90% | ~7,958 |
 | Breathtaking | 0.90% | ~7,958 |
 | Stanislavski's Method | 0.90% | ~7,958 |
-| True Soldier | 0.90% | ~7,958 |
-| The Hermit | 0.80% | ~7,073 |
-| The Wheel of Fortune | 0.80% | ~7,073 |
-| True Warrior | 0.80% | ~7,073 |
-| To Bad Decisions! | 0.70% | ~6,189 |
-| Temperance | 0.70% | ~6,189 |
-| Legend of The Afterlife | 0.70% | ~6,189 |
+| Temperance | 0.80% | ~7,074 |
+| The Hermit | 0.80% | ~7,074 |
+| The Wheel of Fortune | 0.80% | ~7,074 |
+| True Warrior | 0.80% | ~7,074 |
+| To Bad Decisions! | 0.70% | ~6,190 |
+| Legend of The Afterlife | 0.70% | ~6,190 |
 | The Devil | 0.60% | ~5,305 |
 | The Fool | 0.60% | ~5,305 |
 | The Lovers | 0.60% | ~5,305 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 884,175 (Ranked 15)  
-Completed: 2,458 (0.28%) (Ranked 199)  
+Progressed: 884,221 (Ranked 15)  
+Completed: 2,459 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,10 +225,10 @@ Completed: 2,458 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 884,175 | 2,458 |
+| 2023-09-28 | 884,221 | 2,459 |
 ## Awards
 Max (Character Customization): 85,114  (Ranked 9)  
-Sum: 234,110 (Ranked 13)  
+Sum: 234,398 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -236,8 +236,8 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 56,107 |
 | This game has Diverse Characters | 11,199 |
 | This game is Great for Beginners | 11,130 |
+| This game has Amazing Storytelling | 11,064 |
 | This game is Extremely Fun | 10,785 |
-| This game has Amazing Storytelling | 10,776 |
 | This game is Highly Recommended | 10,741 |
 | This game is Relaxing | 10,535 |
 | This game has Amazing Characters | 10,457 |
@@ -498,4 +498,4 @@ Diff (max vs sum): -4
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
-| 2023-09-28 | 4.63 | - | 85,114 | 234,110 |
+| 2023-09-28 | 4.63 | - | 85,114 | 234,398 |

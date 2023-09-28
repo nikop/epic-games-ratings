@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1822,9 +1822,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 266781,
+  "EOS_Progressed": 266792,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2051,
+  "EOS_NewPlayers": 2049,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20032,6 +20032,11 @@
       "Time": "2023-09-28T18:05:47.6782282+00:00",
       "NumProgressed": 266781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T19:06:05.9995072+00:00",
+      "NumProgressed": 266792,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -20091,7 +20096,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26678
+      "UsersEstimate": 26679
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -20131,7 +20136,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10672
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -20163,7 +20168,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -20203,7 +20208,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26678
+      "UsersEstimate": 26679
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -20251,7 +20256,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -20267,7 +20272,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 218760
+      "UsersEstimate": 218769
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20275,22 +20280,22 @@
       "Name": "I know the Rules",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 96041
+      "UsersEstimate": 96045
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 266781,
+      "Progressed": 266792,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-09-24T01:47:23.5017691+00:00",
-  "LastChanged_Achievements": "2023-09-28T18:05:47.6782276+00:00",
+  "LastChanged_Achievements": "2023-09-28T19:06:05.9995066+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:35.6488874+00:00",
-  "LastUpdate_Ratings": "2023-09-28T17:57:53.2018848+00:00",
-  "LastUpdate_Achievements": "2023-09-28T18:05:47.6784082+00:00"
+  "LastUpdate_Ratings": "2023-09-28T18:58:05.0284509+00:00",
+  "LastUpdate_Achievements": "2023-09-28T19:06:05.9996575+00:00"
 }
