@@ -12525,10 +12525,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 231967,
       "NumberOfAwardsMax": 84038
+    },
+    {
+      "Time": "2023-09-28T02:57:28.3247543+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 232264,
+      "NumberOfAwardsMax": 84038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 231967,
+  "NumberOfAwards": 232264,
   "NumberOfAwardsMax": 84038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12578,7 +12584,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 10833
+      "Count": 11130
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12605,9 +12611,9 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883564,
+  "EOS_Progressed": 883580,
   "EOS_Completed": 2445,
-  "EOS_NewPlayers": 6085,
+  "EOS_NewPlayers": 6095,
   "EOS_NewCompleters": 321,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -30640,6 +30646,11 @@
       "Time": "2023-09-28T02:21:19.6774312+00:00",
       "NumProgressed": 883564,
       "NumCompleted": 2445
+    },
+    {
+      "Time": "2023-09-28T03:05:49.9409259+00:00",
+      "NumProgressed": 883580,
+      "NumCompleted": 2445
     }
   ],
   "TotalAchievements": 57,
@@ -30835,7 +30846,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17671
+      "UsersEstimate": 17672
     },
     {
       "ID": "Temperance",
@@ -30851,7 +30862,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17671
+      "UsersEstimate": 17672
     },
     {
       "ID": "TheDevil",
@@ -30889,9 +30900,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3534
+      "UsersEstimate": 4418
     },
     {
       "ID": "TheStar",
@@ -30929,9 +30940,9 @@
       "ID": "ThisIsPacifica",
       "SetID": "47clieb",
       "Name": "Greetings from Pacifica!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2651
+      "UsersEstimate": 3534
     },
     {
       "ID": "TradeUnion",
@@ -30977,9 +30988,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7952
+      "UsersEstimate": 8836
     },
     {
       "ID": "YipMan",
@@ -31106,21 +31117,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883564,
+      "Progressed": 883580,
       "Completed": 2445
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12187,
+      "Progressed": 12203,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-28T02:13:10.9005688+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:21:19.677431+00:00",
+  "LastChanged": "2023-09-28T02:57:28.3247541+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:05:49.9409255+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:13:10.9005694+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:21:19.6776228+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:57:28.3247549+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:05:49.941098+00:00"
 }

@@ -446,9 +446,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -534,9 +534,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SanctuaryGuardian",
@@ -733,8 +733,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:21:13.556012+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:05:44.0037319+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:12:59.5801251+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:21:13.5560832+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:57:17.2477192+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:05:44.0038367+00:00"
 }

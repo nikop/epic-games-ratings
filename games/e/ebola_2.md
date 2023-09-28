@@ -10,11 +10,11 @@
 | Scent of Meat ✔ | 22.00% | ~62 |
 | Survival ✔ | 4.00% | ~11 |
 | Voodoo ✔ | 0.40% | ~1 |
+| Exterminate pests ✔ | 0.40% | ~1 |
 | Master of Unlocking ✔ | 0.40% | ~1 |
 | Light will show the truth ✔ | 0.00% | ~0 |
 | Mask ✔ | 0.00% | ~0 |
 | Seeker ✔ | 0.00% | ~0 |
-| Exterminate pests ✔ | 0.00% | ~0 |
 | Doctor ✔ | 0.00% | ~0 |
 | Recruit ✔ | 0.00% | ~0 |
 | Hardcore ✔ | 0.00% | ~0 |

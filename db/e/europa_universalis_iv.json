@@ -10032,9 +10032,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 416063,
+  "EOS_Progressed": 416072,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6608,
+  "EOS_NewPlayers": 6606,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28172,6 +28172,11 @@
       "Time": "2023-09-28T02:22:21.582699+00:00",
       "NumProgressed": 416063,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T03:06:50.5971592+00:00",
+      "NumProgressed": 416072,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -28839,7 +28844,7 @@
       "Name": "Double the Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -30135,7 +30140,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -30735,7 +30740,7 @@
       "Name": "Total Control",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -31014,21 +31019,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 416063,
+      "Progressed": 416072,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 416063,
+      "Progressed": 416072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-27T22:02:01.523423+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:22:21.5826985+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:06:50.5971587+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:15:55.6145086+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:22:21.5836952+00:00"
+  "LastUpdate_Ratings": "2023-09-28T03:00:08.8491129+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:06:50.5986107+00:00"
 }

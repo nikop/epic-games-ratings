@@ -9,6 +9,7 @@
 | Jung's dream | 33.00% | ~1 |
 | Giant | 33.00% | ~1 |
 | The battle of Great Britain | 33.00% | ~1 |
+| Pulp! Out of this World | 33.00% | ~1 |
 | A continent with chemistry | 33.00% | ~1 |
 | The barbarian invasions | 33.00% | ~1 |
 | The happy farmer girl | 33.00% | ~1 |
@@ -37,7 +38,6 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Pulp! Terror Tales in the Night | 0.00% | ~0 |
 | Pulp! Where Monsters Dwell | 0.00% | ~0 |
-| Pulp! Out of this World | 0.00% | ~0 |
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |

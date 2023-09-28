@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 895,
+  "EOS_Progressed": 896,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2285,6 +2285,11 @@
       "Time": "2023-09-27T07:09:58.4589605+00:00",
       "NumProgressed": 895,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T03:05:47.4803404+00:00",
+      "NumProgressed": 896,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2312,7 +2317,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ChestCompletion1",
@@ -2392,7 +2397,7 @@
       "Name": "Family Memories",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FactorywoodChests1",
@@ -2584,7 +2589,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "RewindParry",
@@ -2688,7 +2693,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WatcherSpared",
@@ -2696,7 +2701,7 @@
       "Name": "Good Neighbor",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2719,7 +2724,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 895,
+      "Progressed": 896,
       "Completed": 5
     }
   ],
@@ -2727,8 +2732,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:21:17.0402585+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:05:47.4803398+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:14:16.3666969+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:21:17.0403088+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:58:32.4378018+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:05:47.4804434+00:00"
 }

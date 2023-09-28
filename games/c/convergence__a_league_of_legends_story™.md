@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 402)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 30.00% | ~268 |
+| Time Heals All Wounds | 30.00% | ~269 |
 | The Mysterious Stranger | 24.00% | ~215 |
 | Rail Rat | 24.00% | ~215 |
 | Immaculate Aim | 21.00% | ~188 |
@@ -33,10 +33,10 @@ Rating: 4.60 (Ranked 402)
 | Treasure Trove | 14.00% | ~125 |
 | Whiz Kid | 14.00% | ~125 |
 | Cartographer | 14.00% | ~125 |
-| Good Neighbor | 12.00% | ~107 |
-| Chaincrawler Explorer | 11.00% | ~98 |
-| Family Memories | 11.00% | ~98 |
-| Ask Questions Later | 11.00% | ~98 |
+| Good Neighbor | 12.00% | ~108 |
+| Chaincrawler Explorer | 11.00% | ~99 |
+| Family Memories | 11.00% | ~99 |
+| Ask Questions Later | 11.00% | ~99 |
 | Sump Explorer | 10.00% | ~90 |
 | Syron for Hope | 10.00% | ~90 |
 | Theater Explorer | 10.00% | ~90 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 402)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895 (Ranked 234)  
+Progressed: 896 (Ranked 234)  
 Completed: 5 (0.56%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 5 (0.56%) (Ranked 157)
 | 2023-09-24 | 891 | 5 |
 | 2023-09-26 | 893 | 5 |
 | 2023-09-27 | 895 | 5 |
+| 2023-09-28 | 896 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

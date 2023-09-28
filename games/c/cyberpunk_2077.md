@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 2.00% | ~17,671 |
-| Rough Landing | 2.00% | ~17,671 |
+| Ten out of Ten | 2.00% | ~17,672 |
+| Rough Landing | 2.00% | ~17,672 |
 | Gunslinger | 1.00% | ~8,836 |
 | Master Crafter | 1.00% | ~8,836 |
 | The Jungle | 1.00% | ~8,836 |
+| V for Vendetta | 1.00% | ~8,836 |
 | Mean Streets | 0.90% | ~7,952 |
 | The High Priestess | 0.90% | ~7,952 |
 | Two Heads, One Bullet | 0.90% | ~7,952 |
-| V for Vendetta | 0.90% | ~7,952 |
 | Right Back At Ya | 0.80% | ~7,069 |
 | True Soldier | 0.80% | ~7,069 |
 | Full Body Conversion | 0.70% | ~6,185 |
@@ -28,15 +28,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.60% | ~5,301 |
 | The Devil | 0.50% | ~4,418 |
 | The Fool | 0.50% | ~4,418 |
+| The Lovers | 0.50% | ~4,418 |
 | The Quick and the Dead | 0.40% | ~3,534 |
-| The Lovers | 0.40% | ~3,534 |
 | The World | 0.40% | ~3,534 |
+| Greetings from Pacifica! | 0.40% | ~3,534 |
 | Judy vs Night City | 0.40% | ~3,534 |
 | It's Elementary | 0.40% | ~3,534 |
 | City Lights | 0.30% | ~2,651 |
 | Gun Fu | 0.30% | ~2,651 |
 | Christmas Tree Attack | 0.30% | ~2,651 |
-| Greetings from Pacifica! | 0.30% | ~2,651 |
 | Bushido and Chill | 0.20% | ~1,767 |
 | Autojock | 0.20% | ~1,767 |
 | I Am The Law | 0.20% | ~1,767 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883,564 (Ranked 15)  
+Progressed: 883,580 (Ranked 15)  
 Completed: 2,445 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,17 +225,17 @@ Completed: 2,445 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 883,564 | 2,445 |
+| 2023-09-28 | 883,580 | 2,445 |
 ## Awards
 Max (Character Customization): 84,038  (Ranked 9)  
-Sum: 231,967 (Ranked 13)  
+Sum: 232,264 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 84,038 |
 | This game has Great Boss Battles | 56,107 |
+| This game is Great for Beginners | 11,130 |
 | This game has Diverse Characters | 10,892 |
-| This game is Great for Beginners | 10,833 |
 | This game has Amazing Storytelling | 10,776 |
 | This game is Highly Recommended | 10,741 |
 | This game is Relaxing | 10,535 |
@@ -498,4 +498,4 @@ Diff (max vs sum): -4
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
-| 2023-09-28 | 4.63 | - | 84,038 | 231,967 |
+| 2023-09-28 | 4.63 | - | 84,038 | 232,264 |

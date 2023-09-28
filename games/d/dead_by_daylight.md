@@ -6,54 +6,54 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,418 |
-| Zealous | 6.00% | ~54,358 |
-| Skillful | 6.00% | ~54,358 |
-| Not half bad | 5.00% | ~45,299 |
-| Apt Survivor | 5.00% | ~45,299 |
-| Survival Treasures | 5.00% | ~45,299 |
-| Make Some Noise | 5.00% | ~45,299 |
-| No one left behind | 4.00% | ~36,239 |
-| Medic | 4.00% | ~36,239 |
-| Handyman | 4.00% | ~36,239 |
-| Nerves of steel | 4.00% | ~36,239 |
-| Bloody Millionaire | 4.00% | ~36,239 |
-| I | 4.00% | ~36,239 |
-| Sorted | 4.00% | ~36,239 |
-| Resurgence | 4.00% | ~36,239 |
-| The Grand Sacrifice | 3.00% | ~27,179 |
-| Agonizing Escape | 3.00% | ~27,179 |
-| Backdoor Escape | 3.00% | ~27,179 |
-| I've got your back | 3.00% | ~27,179 |
-| Perfect Escape | 3.00% | ~27,179 |
-| Perfect Killing | 3.00% | ~27,179 |
-| Risk it all | 3.00% | ~27,179 |
-| Engineer | 3.00% | ~27,179 |
-| Healthy Obsession | 3.00% | ~27,179 |
-| Close Shave | 3.00% | ~27,179 |
-| Preemptive Strike | 3.00% | ~27,179 |
-| Humanitarian | 3.00% | ~27,179 |
-| MU/TH/UR Dearest | 3.00% | ~27,179 |
-| Blood on your hands | 2.00% | ~18,119 |
-| Apt Killer | 2.00% | ~18,119 |
-| Vulture | 2.00% | ~18,119 |
-| II | 2.00% | ~18,119 |
-| III | 2.00% | ~18,119 |
-| Item of Obsession | 2.00% | ~18,119 |
-| Holiday Get-Together | 2.00% | ~18,119 |
-| Cherish your Life | 2.00% | ~18,119 |
-| Unforgettable Getaway | 2.00% | ~18,119 |
-| Wounded Healer | 2.00% | ~18,119 |
-| First to the Punch | 2.00% | ~18,119 |
-| Old West Oasis | 2.00% | ~18,119 |
-| Every Last Drop | 2.00% | ~18,119 |
-| Raccoon City Recruit | 2.00% | ~18,119 |
-| With Scars to Show | 2.00% | ~18,119 |
-| Flight to Freedom | 2.00% | ~18,119 |
-| A Fast Death | 2.00% | ~18,119 |
-| Lifting The Fog | 2.00% | ~18,119 |
-| Chorus of Chaos | 2.00% | ~18,119 |
-| Second Act | 2.00% | ~18,119 |
+| It wakes | 7.00% | ~63,420 |
+| Zealous | 6.00% | ~54,360 |
+| Skillful | 6.00% | ~54,360 |
+| Not half bad | 5.00% | ~45,300 |
+| Apt Survivor | 5.00% | ~45,300 |
+| Survival Treasures | 5.00% | ~45,300 |
+| Make Some Noise | 5.00% | ~45,300 |
+| No one left behind | 4.00% | ~36,240 |
+| Medic | 4.00% | ~36,240 |
+| Handyman | 4.00% | ~36,240 |
+| Nerves of steel | 4.00% | ~36,240 |
+| Bloody Millionaire | 4.00% | ~36,240 |
+| I | 4.00% | ~36,240 |
+| Sorted | 4.00% | ~36,240 |
+| Resurgence | 4.00% | ~36,240 |
+| The Grand Sacrifice | 3.00% | ~27,180 |
+| Agonizing Escape | 3.00% | ~27,180 |
+| Backdoor Escape | 3.00% | ~27,180 |
+| I've got your back | 3.00% | ~27,180 |
+| Perfect Escape | 3.00% | ~27,180 |
+| Perfect Killing | 3.00% | ~27,180 |
+| Risk it all | 3.00% | ~27,180 |
+| Engineer | 3.00% | ~27,180 |
+| Healthy Obsession | 3.00% | ~27,180 |
+| Close Shave | 3.00% | ~27,180 |
+| Preemptive Strike | 3.00% | ~27,180 |
+| Humanitarian | 3.00% | ~27,180 |
+| MU/TH/UR Dearest | 3.00% | ~27,180 |
+| Blood on your hands | 2.00% | ~18,120 |
+| Apt Killer | 2.00% | ~18,120 |
+| Vulture | 2.00% | ~18,120 |
+| II | 2.00% | ~18,120 |
+| III | 2.00% | ~18,120 |
+| Item of Obsession | 2.00% | ~18,120 |
+| Holiday Get-Together | 2.00% | ~18,120 |
+| Cherish your Life | 2.00% | ~18,120 |
+| Unforgettable Getaway | 2.00% | ~18,120 |
+| Wounded Healer | 2.00% | ~18,120 |
+| First to the Punch | 2.00% | ~18,120 |
+| Old West Oasis | 2.00% | ~18,120 |
+| Every Last Drop | 2.00% | ~18,120 |
+| Raccoon City Recruit | 2.00% | ~18,120 |
+| With Scars to Show | 2.00% | ~18,120 |
+| Flight to Freedom | 2.00% | ~18,120 |
+| A Fast Death | 2.00% | ~18,120 |
+| Lifting The Fog | 2.00% | ~18,120 |
+| Chorus of Chaos | 2.00% | ~18,120 |
+| Second Act | 2.00% | ~18,120 |
 | A bite for the Entity | 1.00% | ~9,060 |
 | Blood on your face | 1.00% | ~9,060 |
 | Escape Artist | 1.00% | ~9,060 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~906 |
 | Adept Ripley | 0.10% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 905,971 (Ranked 14)  
+Progressed: 906,007 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 49 (0.01%) (Ranked 280)
 | 2023-09-25 | 902,478 | 49 |
 | 2023-09-26 | 904,195 | 49 |
 | 2023-09-27 | 905,769 | 49 |
-| 2023-09-28 | 905,971 | 49 |
+| 2023-09-28 | 906,007 | 49 |
 ## Awards
 Max (Diverse Characters): 33,134  (Ranked 15)  
 Sum: 257,485 (Ranked 12)  

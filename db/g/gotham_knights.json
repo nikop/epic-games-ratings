@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 895,
   "Ranking_Popularity": 96,
-  "Ranking_PopularitySum": 139,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 130,
@@ -3230,9 +3230,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72911,
+  "EOS_Progressed": 72912,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16875,6 +16875,11 @@
       "Time": "2023-09-28T01:49:58.5367865+00:00",
       "NumProgressed": 72911,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-28T03:06:38.2229634+00:00",
+      "NumProgressed": 72912,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16990,7 +16995,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15311
+      "UsersEstimate": 15312
     },
     {
       "ID": "CLAYFACE_2",
@@ -17046,7 +17051,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9478
+      "UsersEstimate": 9479
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -17094,7 +17099,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9478
+      "UsersEstimate": 9479
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -17118,7 +17123,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15311
+      "UsersEstimate": 15312
     },
     {
       "ID": "FREEZE_2",
@@ -17373,13 +17378,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72911,
+      "Progressed": 72912,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43191,
+      "Progressed": 43192,
       "Completed": 2668
     }
   ],
@@ -17387,8 +17392,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-28T02:13:50.0653303+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:22:09.0656366+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:06:38.222963+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:13:50.0653315+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:22:09.0658053+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:58:06.6991676+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:06:38.2231104+00:00"
 }

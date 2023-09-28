@@ -17,7 +17,7 @@
 | True Story! | 43.00% | ~40 |
 | Bedroom Secret Spot | 38.00% | ~36 |
 | Kick It | 31.00% | ~29 |
-| Classroom Secret Spot | 29.00% | ~27 |
+| Classroom Secret Spot | 30.00% | ~28 |
 | At least everyone still had fun | 29.00% | ~27 |
 | Spooky | 28.00% | ~26 |
 | Grand Slam! | 26.00% | ~24 |

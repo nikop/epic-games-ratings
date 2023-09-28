@@ -6946,7 +6946,7 @@
       "Count": 3443
     }
   ],
-  "EOS_Progressed": 230237,
+  "EOS_Progressed": 230238,
   "EOS_Completed": 2310,
   "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 15,
@@ -24776,6 +24776,11 @@
       "Time": "2023-09-28T02:22:17.2865298+00:00",
       "NumProgressed": 230237,
       "NumCompleted": 2310
+    },
+    {
+      "Time": "2023-09-28T03:06:46.4952167+00:00",
+      "NumProgressed": 230238,
+      "NumCompleted": 2310
     }
   ],
   "TotalAchievements": 524,
@@ -28953,9 +28958,9 @@
       "ID": "objective_completed_1406",
       "SetID": "415jc5c",
       "Name": "Slow Down Showdown",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 393
     },
     {
       "ID": "objective_completed_1410",
@@ -28978,21 +28983,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 196511,
-      "Completed": 3527
+      "Progressed": 196512,
+      "Completed": 3528
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230237,
+      "Progressed": 230238,
       "Completed": 2310
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-27T21:57:43.4632896+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:22:17.2865293+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:06:46.4952162+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:22.3012466+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:13:07.6883068+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:22:17.2891447+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:57:25.0419396+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:06:46.4985756+00:00"
 }

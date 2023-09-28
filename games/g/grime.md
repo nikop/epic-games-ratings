@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.00% | ~0 |
 | Enrich | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,646 (Ranked 67)  
+Progressed: 149,647 (Ranked 67)  
 Completed: 1 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 1 (0.00%) (Ranked 296)
 | 2023-09-25 | 149,638 | 1 |
 | 2023-09-26 | 149,644 | 1 |
 | 2023-09-27 | 149,645 | 1 |
-| 2023-09-28 | 149,646 | 1 |
+| 2023-09-28 | 149,647 | 1 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 439)  
 Sum: 244 (Ranked 362)  

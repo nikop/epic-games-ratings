@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,851 |
+| First of Many | 9.00% | ~16,852 |
 | The Killing Jar | 8.00% | ~14,979 |
 | Not Your Average Trait | 8.00% | ~14,979 |
-| Expanding Horizons | 7.00% | ~13,106 |
-| Quest for Survival | 7.00% | ~13,106 |
+| Expanding Horizons | 7.00% | ~13,107 |
+| Quest for Survival | 7.00% | ~13,107 |
 | Gleaming the Cube | 6.00% | ~11,234 |
 | Not a Janitor | 6.00% | ~11,234 |
 | Familiar Face | 6.00% | ~11,234 |
@@ -24,17 +24,17 @@ Rating: 4.76 (Ranked 120)
 | Shhh...It's a Secret | 5.00% | ~9,362 |
 | Almost There | 5.00% | ~9,362 |
 | Make Some Room | 5.00% | ~9,362 |
-| Chaos | 4.00% | ~7,489 |
-| Traitor | 4.00% | ~7,489 |
-| Forever is a Long Time Coming | 4.00% | ~7,489 |
-| Power Surge | 4.00% | ~7,489 |
-| The God Gambit | 4.00% | ~7,489 |
-| Dark Designs | 4.00% | ~7,489 |
-| Madman's Paradise | 4.00% | ~7,489 |
-| Was This Supposed To Happen? | 4.00% | ~7,489 |
-| The Web | 4.00% | ~7,489 |
-| Scrap Collector | 4.00% | ~7,489 |
-| All These Traits� | 4.00% | ~7,489 |
+| Chaos | 4.00% | ~7,490 |
+| Traitor | 4.00% | ~7,490 |
+| Forever is a Long Time Coming | 4.00% | ~7,490 |
+| Power Surge | 4.00% | ~7,490 |
+| The God Gambit | 4.00% | ~7,490 |
+| Dark Designs | 4.00% | ~7,490 |
+| Madman's Paradise | 4.00% | ~7,490 |
+| Was This Supposed To Happen? | 4.00% | ~7,490 |
+| The Web | 4.00% | ~7,490 |
+| Scrap Collector | 4.00% | ~7,490 |
+| All These Traits� | 4.00% | ~7,490 |
 | Am I Seeing This? | 3.00% | ~5,617 |
 | The Agenda | 3.00% | ~5,617 |
 | Tall Tales | 3.00% | ~5,617 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Proving Grounds | 1.00% | ~1,872 |
 | Ghost in the Machine | 0.90% | ~1,685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,232 (Ranked 65)  
+Progressed: 187,240 (Ranked 65)  
 Completed: 340 (0.18%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,10 +130,10 @@ Completed: 340 (0.18%) (Ranked 215)
 | 2023-09-25 | 186,460 | 334 |
 | 2023-09-26 | 186,828 | 336 |
 | 2023-09-27 | 187,199 | 340 |
-| 2023-09-28 | 187,232 | 340 |
+| 2023-09-28 | 187,240 | 340 |
 ## Awards
 Max (Great Boss Battles): 1,729  (Ranked 118)  
-Sum: 3,589 (Ranked 155)  
+Sum: 3,593 (Ranked 155)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -141,8 +141,8 @@ Diff (max vs sum): -37
 | This game is Extremely Fun | 211 |
 | This game has Challenging Combat | 206 |
 | This game has Diverse Characters | 204 |
+| This game is Highly Recommended | 197 |
 | This game is Relaxing | 197 |
-| This game is Highly Recommended | 193 |
 | This game has Amazing Characters | 193 |
 | This game has Amazing Storytelling | 186 |
 | This game has Quickly Understood Controls | 176 |
@@ -215,4 +215,4 @@ Diff (max vs sum): -37
 | 2023-09-25 | 4.76 | 1,712 | 3,531 |
 | 2023-09-26 | 4.76 | 1,724 | 3,560 |
 | 2023-09-27 | 4.76 | 1,729 | 3,586 |
-| 2023-09-28 | 4.76 | 1,729 | 3,589 |
+| 2023-09-28 | 4.76 | 1,729 | 3,593 |

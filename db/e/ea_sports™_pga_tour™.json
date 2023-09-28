@@ -3,9 +3,9 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -18,10 +18,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 272,
-  "EOS_Completed": 6,
-  "EOS_NewPlayers": 167,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.21,
+  "EOS_Completed": 7,
+  "EOS_NewPlayers": 165,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -707,6 +707,11 @@
       "Time": "2023-09-28T02:24:39.5890514+00:00",
       "NumProgressed": 272,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-28T03:09:36.4889819+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -757,9 +762,9 @@
       "ID": "achievement_14",
       "SetID": "7ldgi7j",
       "Name": "Golfer Versus Golfer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_15",
@@ -863,12 +868,12 @@
       "ID": "7ldgi7j",
       "IsBase": true,
       "Progressed": 272,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:24:39.5890512+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:09:36.4889813+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:14:42.0852872+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:24:39.5890667+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:58:57.6765916+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:09:36.4889997+00:00"
 }

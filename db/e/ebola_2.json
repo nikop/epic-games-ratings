@@ -1152,9 +1152,9 @@
       "ID": "achCrow",
       "SetID": "1al1mjg",
       "Name": "Exterminate pests \u2714",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achExplosion",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:24:29.4260155+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:09:26.0936568+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:09.697141+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:15:30.3597607+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:24:29.4260352+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:59:44.3467526+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:09:26.0936817+00:00"
 }

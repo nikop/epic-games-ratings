@@ -470,9 +470,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 91459,
+  "EOS_Progressed": 91460,
   "EOS_Completed": 924,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1069,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -18560,6 +18560,11 @@
       "Time": "2023-09-28T01:47:56.278671+00:00",
       "NumProgressed": 91459,
       "NumCompleted": 924
+    },
+    {
+      "Time": "2023-09-28T03:05:13.1239073+00:00",
+      "NumProgressed": 91460,
+      "NumCompleted": 924
     }
   ],
   "TotalAchievements": 56,
@@ -18683,7 +18688,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 14633
+      "UsersEstimate": 14634
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -18723,7 +18728,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10060
+      "UsersEstimate": 10061
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -18907,7 +18912,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 14633
+      "UsersEstimate": 14634
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -18915,7 +18920,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14633
+      "UsersEstimate": 14634
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -18955,7 +18960,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 14633
+      "UsersEstimate": 14634
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -19018,15 +19023,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 91459,
+      "Progressed": 91460,
       "Completed": 924
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-21T18:01:45.6584473+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:20:41.8564456+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:05:13.1239069+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:31.1720988+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:13:45.7534622+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:20:41.856614+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:58:02.582442+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:05:13.1240962+00:00"
 }

@@ -10,16 +10,16 @@
 | Dicesmithing Time! | 91.00% | ~10 |
 | Endless Tricks | 91.00% | ~10 |
 | Wild's Keeper | 82.00% | ~9 |
+| Mind Illuminator | 64.00% | ~7 |
 | Sanctuary Guardian | 64.00% | ~7 |
-| Mind Illuminator | 55.00% | ~6 |
 | Stellar Dismantler | 55.00% | ~6 |
+| Sadistic Plan | 36.00% | ~4 |
 | Sentinelphobic | 36.00% | ~4 |
 | Skeptical | 36.00% | ~4 |
 | Stellar Haste | 36.00% | ~4 |
 | The Corruption Goddess | 36.00% | ~4 |
 | Unbeatable | 36.00% | ~4 |
 | Dice Specialist | 27.00% | ~3 |
-| Sadistic Plan | 27.00% | ~3 |
 | Anomaly Destroyer | 18.00% | ~2 |
 | Heart Gate | 18.00% | ~2 |
 | Loyal Partner | 18.00% | ~2 |

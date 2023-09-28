@@ -6,10 +6,10 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Real Expedition | 6.00% | ~1,004 |
 | The Marshlands | 6.00% | ~1,004 |
 | Taking Action | 6.00% | ~1,004 |
 | No Deaths | 6.00% | ~1,004 |
-| First Real Expedition | 5.00% | ~836 |
 | Overcoming Difficulty | 5.00% | ~836 |
 | Fertile Meadows | 5.00% | ~836 |
 | Coral Forest | 5.00% | ~836 |

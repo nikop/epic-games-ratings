@@ -28,7 +28,7 @@ Rating: 4.85 (Ranked 42)
 | You must like calling me in, Chai | 7.00% | ~287 |
 | Out in a puff of smoke | 7.00% | ~287 |
 | Does that say weakpoint? | 7.00% | ~287 |
-| NOW we got a kickass hideout! | 7.00% | ~183 |
+| NOW we got a kickass hideout! | 7.00% | ~184 |
 | I have to read these things? | 6.00% | ~246 |
 | Perfecter Parry-er! | 6.00% | ~246 |
 | Well that was a rush! | 4.00% | ~164 |
@@ -50,7 +50,7 @@ Rating: 4.85 (Ranked 42)
 | You ever parry a volcano? | 0.80% | ~33 |
 | New bad guys? No problem! | 0.80% | ~21 |
 | OK, well THEY came after ME! | 0.60% | ~25 |
-| Easy Listening | 0.50% | ~20 |
+| Easy Listening | 0.50% | ~21 |
 | Choose your own adventure | 0.50% | ~13 |
 | Now this is how you fight like a team! | 0.40% | ~16 |
 | And the crowd goes wild! | 0.30% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,100 (Ranked 170)  
+Progressed: 4,101 (Ranked 170)  
 Completed: 8 (0.20%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 8 (0.20%) (Ranked 211)
 | 2023-09-25 | 4,093 | 8 |
 | 2023-09-26 | 4,097 | 8 |
 | 2023-09-27 | 4,099 | 8 |
-| 2023-09-28 | 4,100 | 8 |
+| 2023-09-28 | 4,101 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

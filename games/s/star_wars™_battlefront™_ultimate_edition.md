@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~226 |
-| Off to a good start | 65.00% | ~167 |
-| Do... or do not. There is no try | 48.00% | ~123 |
-| A good blaster at your side | 34.00% | ~87 |
-| Scrap collector | 23.00% | ~59 |
+| New Recruit | 88.00% | ~228 |
+| Off to a good start | 66.00% | ~171 |
+| Do... or do not. There is no try | 47.00% | ~122 |
+| A good blaster at your side | 34.00% | ~88 |
+| Scrap collector | 23.00% | ~60 |
 | Great shot, kid! | 21.00% | ~54 |
 | The power of the Force | 19.00% | ~49 |
-| Together we can rule the galaxy | 18.00% | ~46 |
-| I suggest a new strategy | 18.00% | ~46 |
+| Together we can rule the galaxy | 18.00% | ~47 |
+| I suggest a new strategy | 18.00% | ~47 |
 | All right, I'll give it a try | 17.00% | ~44 |
 | Shoot first | 17.00% | ~44 |
 | Collector | 16.00% | ~41 |
@@ -22,9 +22,9 @@
 | What's the cargo? | 11.00% | ~28 |
 | A tremor in the Force | 11.00% | ~28 |
 | Never tell me the odds! | 11.00% | ~28 |
-| Judge me by my size, do you? | 11.00% | ~28 |
 | A cunning warrior | 11.00% | ~28 |
 | Impressive. Most impressive. | 10.00% | ~26 |
+| Judge me by my size, do you? | 10.00% | ~26 |
 | "Gonk? Gonk!" | 9.00% | ~23 |
 | Distinguished | 8.00% | ~21 |
 | Patience you must have | 8.00% | ~21 |
@@ -33,9 +33,9 @@
 | On the ball | 7.00% | ~18 |
 | Not bad for a little furball | 7.00% | ~18 |
 | Don't underestimate the Force | 7.00% | ~18 |
-| I've been waiting for you | 6.00% | ~15 |
-| When 900 years old you reach... | 6.00% | ~15 |
-| City in the Clouds | 6.00% | ~15 |
+| I've been waiting for you | 6.00% | ~16 |
+| When 900 years old you reach... | 6.00% | ~16 |
+| City in the Clouds | 6.00% | ~16 |
 | The Force is strong with this one | 5.00% | ~13 |
 | Your journey has only started | 5.00% | ~13 |
 | Precision shot | 5.00% | ~13 |
@@ -45,13 +45,13 @@
 | What will you become? | 5.00% | ~13 |
 | Disturbed tranquility | 5.00% | ~13 |
 | Playing the objective | 4.00% | ~10 |
-| Ackbar's Elite | 4.00% | ~10 |
-| You have your moments | 4.00% | ~10 |
 | The circle is now complete | 4.00% | ~10 |
 | Hold the line! | 3.00% | ~8 |
 | Safety ain't the point of a joyride | 3.00% | ~8 |
+| Ackbar's Elite | 3.00% | ~8 |
 | No such thing as luck | 3.00% | ~8 |
 | Do we take prisoners? | 3.00% | ~8 |
+| You have your moments | 3.00% | ~8 |
 | When surrounded by war... | 3.00% | ~8 |
 | Onwards! | 3.00% | ~8 |
 | A New Hope | 2.00% | ~5 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~1 |
 | Crush them with one swift stroke… | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 318)  
+Progressed: 259 (Ranked 318)  
 Completed: 1 (0.39%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.39%) (Ranked 175)
 | 2023-09-25 | 188 | 1 |
 | 2023-09-26 | 216 | 1 |
 | 2023-09-27 | 253 | 1 |
-| 2023-09-28 | 257 | 1 |
+| 2023-09-28 | 259 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

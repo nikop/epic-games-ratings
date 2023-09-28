@@ -14,7 +14,7 @@
 | Fusion Conjuror | 64.00% | ~44 |
 | Memory Rouser | 62.00% | ~43 |
 | Master of the Skies | 59.00% | ~41 |
-| Subsistence Skills | 58.00% | ~40 |
+| Subsistence Skills | 59.00% | ~41 |
 | Kemono Hunter | 58.00% | ~40 |
 | Helpful Heart | 57.00% | ~39 |
 | Distance Devourer | 54.00% | ~37 |
@@ -23,8 +23,8 @@
 | Bonds of Enmity | 49.00% | ~34 |
 | Counter Specialist | 45.00% | ~31 |
 | Axer of Auspice | 45.00% | ~31 |
+| Karakuri Trail | 41.00% | ~28 |
 | Snare Specialist | 41.00% | ~28 |
-| Karakuri Trail | 39.00% | ~27 |
 | Mighty Marmelizer | 39.00% | ~27 |
 | Fair Means or Foul | 39.00% | ~27 |
 | Single Minded | 38.00% | ~26 |

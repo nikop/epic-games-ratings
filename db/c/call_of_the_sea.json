@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121707,
+  "EOS_Progressed": 121708,
   "EOS_Completed": 1002,
-  "EOS_NewPlayers": 1241,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18293,6 +18293,11 @@
       "Time": "2023-09-28T02:19:44.853426+00:00",
       "NumProgressed": 121707,
       "NumCompleted": 1002
+    },
+    {
+      "Time": "2023-09-28T03:04:17.5028234+00:00",
+      "NumProgressed": 121708,
+      "NumCompleted": 1002
     }
   ],
   "TotalAchievements": 34,
@@ -18352,7 +18357,7 @@
       "Name": "Play it again, Norah",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8519
+      "UsersEstimate": 8520
     },
     {
       "ID": "ACH_L00_INTRO_END",
@@ -18424,7 +18429,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 25558
+      "UsersEstimate": 25559
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -18528,7 +18533,7 @@
       "Name": "Underwater Royalty",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8519
+      "UsersEstimate": 8520
     },
     {
       "ID": "ACH_L06_ARCADIA",
@@ -18575,7 +18580,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 121707,
+      "Progressed": 121708,
       "Completed": 1002
     }
   ],
@@ -18583,8 +18588,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-28T02:19:44.8534256+00:00",
+  "LastChanged_Achievements": "2023-09-28T03:04:17.5028231+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:29.1830312+00:00",
-  "LastUpdate_Ratings": "2023-09-28T02:13:53.1511121+00:00",
-  "LastUpdate_Achievements": "2023-09-28T02:19:44.8535931+00:00"
+  "LastUpdate_Ratings": "2023-09-28T02:58:09.7379195+00:00",
+  "LastUpdate_Achievements": "2023-09-28T03:04:17.5029609+00:00"
 }
