@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
+  "EOS_Progressed": 712,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.17,
+  "EOS_Completed_Percentage": 16.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2973,6 +2973,11 @@
       "Time": "2023-09-28T12:04:34.0404829+00:00",
       "NumProgressed": 711,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-09-28T20:03:43.4828107+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 22,
@@ -2984,15 +2989,15 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 611
+      "UsersEstimate": 619
     },
     {
       "ID": "LEVEL_003",
@@ -3000,7 +3005,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "LEVEL_004",
@@ -3008,7 +3013,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "LEVEL_005",
@@ -3048,7 +3053,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "LEVEL_010",
@@ -3080,7 +3085,7 @@
       "Name": "Elevated ring",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "LEVEL_014",
@@ -3159,7 +3164,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 711,
+      "Progressed": 712,
       "Completed": 115
     }
   ],
@@ -3167,8 +3172,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:05:07.3639222+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:03:43.4828104+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.7877198+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:01:03.9560762+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:05:07.3639683+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:26.906539+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:03:43.4828378+00:00"
 }

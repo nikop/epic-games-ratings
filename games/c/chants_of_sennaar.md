@@ -25,13 +25,13 @@
 | Free at last | 23.00% | ~52 |
 | Alchemists Express | 23.00% | ~52 |
 | I did it | 19.00% | ~43 |
-| A Link to the Past | 18.00% | ~41 |
+| A Link to the Past | 19.00% | ~43 |
 | A great audience | 15.00% | ~34 |
 | For its own good | 15.00% | ~34 |
 | Fashion victim | 12.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 226 (Ranked 329)  
-Completed: 13 (5.75%) (Ranked 51)  
+Completed: 13 (5.75%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

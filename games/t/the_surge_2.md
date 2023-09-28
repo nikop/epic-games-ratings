@@ -1,24 +1,24 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 848)  
+Rating: 4.24 (Ranked 849)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,651 |
-| Don't I Know You...? | 77.00% | ~1,589 |
-| Jailbreak | 66.00% | ~1,362 |
+| Rigged And Ready | 80.00% | ~1,652 |
+| Don't I Know You...? | 76.00% | ~1,569 |
+| Jailbreak | 65.00% | ~1,342 |
 | Suited and Booted | 39.00% | ~805 |
-| HEADSHOT! | 38.00% | ~784 |
+| HEADSHOT! | 38.00% | ~785 |
 | Sleeping With The Fishes | 36.00% | ~743 |
-| Overheated | 30.00% | ~619 |
-| High Performance | 30.00% | ~619 |
+| Overheated | 30.00% | ~620 |
+| High Performance | 30.00% | ~620 |
 | Powered Up | 28.00% | ~578 |
 | Studied The Blade | 25.00% | ~516 |
 | Home Invasion | 23.00% | ~475 |
 | Luminary | 22.00% | ~454 |
 | It's a Trap | 22.00% | ~454 |
-| True Survivor | 21.00% | ~433 |
+| True Survivor | 21.00% | ~434 |
 | Offensive Defense | 20.00% | ~413 |
 | Shocking | 20.00% | ~413 |
 | Court Martial | 19.00% | ~392 |
@@ -41,7 +41,7 @@ Rating: 4.24 (Ranked 848)
 | Stimulating The Local Economy | 9.00% | ~186 |
 | A Little Banged Up | 8.00% | ~165 |
 | Following In Their Footsteps | 8.00% | ~165 |
-| Reverse Engineering | 7.00% | ~144 |
+| Reverse Engineering | 7.00% | ~145 |
 | Reborn | 6.00% | ~124 |
 | Remote Surgery | 6.00% | ~124 |
 | Turbo Booster | 6.00% | ~124 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 848)
 | Loot, Pillage & Craft | 2.00% | ~41 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,064 (Ranked 198)  
-Completed: 12 (0.58%) (Ranked 153)  
+Progressed: 2,065 (Ranked 198)  
+Completed: 12 (0.58%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 12 (0.58%) (Ranked 153)
 | 2023-09-25 | 2,055 | 12 |
 | 2023-09-26 | 2,056 | 12 |
 | 2023-09-27 | 2,062 | 12 |
-| 2023-09-28 | 2,064 | 12 |
+| 2023-09-28 | 2,065 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

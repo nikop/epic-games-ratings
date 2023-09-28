@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.54 (Ranked 1,002)  
+Rating: 3.54 (Ranked 1,003)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,6 +39,7 @@ Rating: 3.54 (Ranked 1,002)
 | Sisterhood | 0.20% | ~3 |
 | What Lies Below | 0.20% | ~3 |
 | Check, Please! | 0.20% | ~3 |
+| Starve the Beast | 0.20% | ~3 |
 | So Anyway I Started Blasting | 0.20% | ~3 |
 | Blacklight Down | 0.20% | ~3 |
 | Dexterity Save | 0.20% | ~3 |
@@ -50,7 +51,6 @@ Rating: 3.54 (Ranked 1,002)
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
 | Empty Nest Syndrome | 0.10% | ~2 |
-| Starve the Beast | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Bloody Initiate | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
@@ -73,7 +73,7 @@ Rating: 3.54 (Ranked 1,002)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,748 (Ranked 205)  
-Completed: 0 (0.00%) (Ranked 296)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

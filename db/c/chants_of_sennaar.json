@@ -3,7 +3,7 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 51,
+  "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -1156,9 +1156,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1275,8 +1275,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:10:04.1303154+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:08:31.9878129+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:59:20.8118772+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:10:04.1303404+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:58:15.8470663+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:08:31.9878317+00:00"
 }

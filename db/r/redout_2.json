@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1360,9 +1360,9 @@
       "ID": "WINBEAT",
       "SetID": "3dh70f3",
       "Name": "Beat you to it!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WINGRANDSLAM",
@@ -1409,8 +1409,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:08:12.7385861+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:06:00.4359673+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.7086726+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:00:11.1604444+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:08:12.7386379+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:58:51.4732211+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:06:00.4360088+00:00"
 }

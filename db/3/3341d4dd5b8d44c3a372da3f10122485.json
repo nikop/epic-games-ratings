@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -736,9 +736,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 80,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Intro",
@@ -760,9 +760,9 @@
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 80,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Konec",
@@ -776,9 +776,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Majak",
@@ -792,25 +792,25 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 75,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 75,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Snekoun",
@@ -824,17 +824,17 @@
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 75,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:06:04.8039048+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:04:25.6250618+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.5559895+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:01:46.84691+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:06:04.8039215+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:56.0068108+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:04:25.625073+00:00"
 }

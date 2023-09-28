@@ -5,26 +5,26 @@ Rating: 4.55 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 35.00% | ~4,586 |
-| Captain Drummer | 30.00% | ~3,931 |
-| Stogie for Fogey | 29.00% | ~3,800 |
-| Martian Music | 28.00% | ~3,669 |
-| Celebrations are in Order | 28.00% | ~3,669 |
-| Spore Taste | 26.00% | ~3,407 |
-| The Pit and the Pirates | 25.00% | ~3,276 |
-| Drone Dodger | 24.00% | ~3,144 |
-| Doctor Approved | 20.00% | ~2,620 |
-| Bosmang | 18.00% | ~2,358 |
-| Thorston Mayer | 16.00% | ~2,096 |
-| Bottoms up! | 13.00% | ~1,703 |
-| Call it Even | 13.00% | ~1,703 |
-| Data Archivist | 12.00% | ~1,572 |
-| Heal Thy Medic | 11.00% | ~1,441 |
-| Khan's Revenge | 10.00% | ~1,310 |
-| Data Logger | 8.00% | ~1,048 |
-| Miraculous Maya | 7.00% | ~917 |
-| Data Master | 7.00% | ~917 |
-| Data Recoverer | 6.00% | ~786 |
+| Impossible Objects | 35.00% | ~4,588 |
+| Captain Drummer | 30.00% | ~3,933 |
+| Stogie for Fogey | 29.00% | ~3,802 |
+| Martian Music | 28.00% | ~3,671 |
+| Celebrations are in Order | 28.00% | ~3,671 |
+| Spore Taste | 26.00% | ~3,408 |
+| The Pit and the Pirates | 25.00% | ~3,277 |
+| Drone Dodger | 24.00% | ~3,146 |
+| Doctor Approved | 20.00% | ~2,622 |
+| Bosmang | 18.00% | ~2,360 |
+| Thorston Mayer | 16.00% | ~2,097 |
+| Bottoms up! | 13.00% | ~1,704 |
+| Call it Even | 13.00% | ~1,704 |
+| Data Archivist | 12.00% | ~1,573 |
+| Heal Thy Medic | 11.00% | ~1,442 |
+| Khan's Revenge | 10.00% | ~1,311 |
+| Data Logger | 8.00% | ~1,049 |
+| Miraculous Maya | 7.00% | ~918 |
+| Data Master | 7.00% | ~918 |
+| Data Recoverer | 6.00% | ~787 |
 | No Belter Left Behind | 4.00% | ~524 |
 | Debris Spree | 4.00% | ~524 |
 | Urshanabi Hoarder | 3.00% | ~393 |
@@ -36,8 +36,8 @@ Rating: 4.55 (Ranked 490)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,102 (Ranked 133)  
-Completed: 0 (0.00%) (Ranked 296)  
+Progressed: 13,109 (Ranked 133)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
 | 2023-09-27 | 13,049 | 0 |
-| 2023-09-28 | 13,102 | 0 |
+| 2023-09-28 | 13,109 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

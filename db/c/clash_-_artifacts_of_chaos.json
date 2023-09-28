@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 370,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -288,6 +288,11 @@
       "Time": "2023-09-18T01:51:14.8323607+00:00",
       "NumProgressed": 108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T20:04:56.2833189+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -313,7 +318,7 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 32
     },
@@ -323,7 +328,7 @@
       "Name": "Your Training Is Complete",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement13",
@@ -345,7 +350,7 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -355,15 +360,15 @@
       "Name": "The Bigger They Are",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "Achievement18",
@@ -371,7 +376,7 @@
       "Name": "Over the Moon",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement19",
@@ -393,7 +398,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -401,7 +406,7 @@
       "ID": "Achievement21",
       "SetID": "jf6ho5",
       "Name": "Stilt House",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -411,7 +416,7 @@
       "Name": "Enemies of Fate",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement4",
@@ -427,7 +432,7 @@
       "Name": "Red in Tooth and Claw",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement6",
@@ -449,7 +454,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
       "UsersEstimate": 31
     },
@@ -466,7 +471,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 1
     }
   ],
@@ -474,8 +479,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:06:45.4030257+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:04:56.2833185+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:00.2700811+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:00:24.4600963+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:06:45.4030444+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:00.6931525+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:04:56.283332+00:00"
 }

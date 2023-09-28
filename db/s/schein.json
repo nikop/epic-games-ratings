@@ -3,9 +3,9 @@
   "Name": "Schein",
   "ProductSlug": "schein-77f039",
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-04T16:00:00+00:00",
     "PcReleaseDate": "2014-10-09T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:41.7496161+00:00",
   "LastChanged": "2023-03-31T05:57:41.7496161+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.4937849+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:59:43.2708513+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:06:11.1263585+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:58:31.7630501+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:04:30.1142797+00:00"
 }

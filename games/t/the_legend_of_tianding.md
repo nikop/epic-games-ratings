@@ -4,11 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Final Showdown | 100.00% | ~1 |
 | Hero Arrives | 100.00% | ~1 |
+| The Hero of the People | 100.00% | ~1 |
 | Death Battle | 0.00% | ~0 |
 | Phantom Kunoichi | 0.00% | ~0 |
 | Killing Machine | 0.00% | ~0 |
-| Final Showdown | 0.00% | ~0 |
 | Divine Retribution | 0.00% | ~0 |
 | Eat the Rich | 0.00% | ~0 |
 | Big Eater | 0.00% | ~0 |
@@ -17,7 +18,6 @@
 | Tour Guide | 0.00% | ~0 |
 | The Real O.G. | 0.00% | ~0 |
 | The End of an Outlaw | 0.00% | ~0 |
-| The Hero of the People | 0.00% | ~0 |
 | The Legend | 0.00% | ~0 |
 | Demon Slayer | 0.00% | ~0 |
 | Urban Explorer | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Fight Fire With Fire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 594)  
-Completed: 0 (0.00%) (Ranked 296)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

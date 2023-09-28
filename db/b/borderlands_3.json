@@ -2,13 +2,13 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -12464,10 +12464,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 370781,
       "NumberOfAwardsMax": 117549
+    },
+    {
+      "Time": "2023-09-28T19:59:18.0069367+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 370839,
+      "NumberOfAwardsMax": 117549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 370781,
+  "NumberOfAwards": 370839,
   "NumberOfAwardsMax": 117549,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12487,7 +12493,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26636
+      "Count": 26663
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12499,7 +12505,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27325
+      "Count": 27356
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12549,8 +12555,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-09-28T15:00:55.9192464+00:00",
+  "LastChanged": "2023-09-28T19:59:18.0069365+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.5483195+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:00:50.7514906+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:05:07.1278243+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:18.0069371+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:03:43.2484741+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1754,6 +1754,11 @@
       "Time": "2023-09-28T15:08:08.480572+00:00",
       "NumProgressed": 917,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T20:05:48.7056706+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1763,9 +1768,9 @@
       "ID": "ACH_ACT_1_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act I Complete",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1789,7 +1794,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1803,9 +1808,9 @@
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
       "SetID": "108h92c",
       "Name": "A successful procedure!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1829,7 +1834,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1845,7 +1850,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 669
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1861,7 +1866,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1901,7 +1906,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1909,7 +1914,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1917,7 +1922,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1925,7 +1930,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1941,7 +1946,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1965,7 +1970,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1973,14 +1978,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 919,
       "Completed": 0
     }
   ],
@@ -1988,8 +1993,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:07:56.95967+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:05:48.7056702+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:25.2041878+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:03:09.9121547+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:07:56.9597001+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:00:32.272575+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:05:48.7056914+00:00"
 }

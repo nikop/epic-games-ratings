@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,959 |
-| Jeef Skeejj | 44.00% | ~205,973 |
-| Careful planning | 39.00% | ~182,567 |
+| The Shutdown | 66.00% | ~308,961 |
+| Jeef Skeejj | 44.00% | ~205,974 |
+| Careful planning | 39.00% | ~182,568 |
 | Second Coming | 34.00% | ~159,161 |
-| Jeef Skagg | 30.00% | ~140,436 |
+| Jeef Skagg | 30.00% | ~140,437 |
 | Mother | 25.00% | ~117,030 |
 | In space, no one can hear you scream | 24.00% | ~112,349 |
-| Chapter I: Echoes | 22.00% | ~102,986 |
-| Excelsior Rule | 22.00% | ~102,986 |
+| Chapter I: Echoes | 22.00% | ~102,987 |
+| Excelsior Rule | 22.00% | ~102,987 |
 | Things persisted in not being what they seemed | 20.00% | ~93,624 |
 | Knightmare Frames | 15.00% | ~70,218 |
 | May His passing cleanse the world | 15.00% | ~70,218 |
@@ -28,9 +28,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,450 |
 | Back to Ganyma | 8.00% | ~37,450 |
 | Kaos Rule | 8.00% | ~37,450 |
-| Admiral Okonkwo | 7.00% | ~32,768 |
-| The Survivalists | 7.00% | ~32,768 |
-| The Tech Specialist | 7.00% | ~32,768 |
+| Admiral Okonkwo | 7.00% | ~32,769 |
+| The Survivalists | 7.00% | ~32,769 |
+| The Tech Specialist | 7.00% | ~32,769 |
 | Chapter V: Memories of None | 6.00% | ~28,087 |
 | Meet your maker | 6.00% | ~28,087 |
 | The Impersonator | 6.00% | ~28,087 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,120 (Ranked 37)  
-Completed: 18 (0.00%) (Ranked 296)  
+Progressed: 468,122 (Ranked 37)  
+Completed: 18 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,7 +247,7 @@ Completed: 18 (0.00%) (Ranked 296)
 | 2023-09-25 | 467,992 | 18 |
 | 2023-09-26 | 468,039 | 18 |
 | 2023-09-27 | 468,077 | 18 |
-| 2023-09-28 | 468,120 | 18 |
+| 2023-09-28 | 468,122 | 18 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 240 (Ranked 364)  

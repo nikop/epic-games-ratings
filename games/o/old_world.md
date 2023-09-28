@@ -10,9 +10,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 7.00% | ~993 |
 | Explorer | 6.00% | ~851 |
 | Friendly Family | 6.00% | ~851 |
+| Able | 5.00% | ~709 |
 | Intrepid | 5.00% | ~709 |
 | The Clergy | 5.00% | ~709 |
-| Able | 4.00% | ~567 |
 | Architect | 4.00% | ~567 |
 | Enlightened | 4.00% | ~567 |
 | Glorious | 4.00% | ~567 |
@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 3.00% | ~425 |
 | Ishtar Gate | 3.00% | ~425 |
 | Lighthouse | 3.00% | ~425 |
+| Necropolis | 3.00% | ~425 |
 | Pyramids | 3.00% | ~425 |
 | Learn to Play 1 | 3.00% | ~425 |
 | Christianity | 3.00% | ~425 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 2.00% | ~284 |
 | Mausoleum | 2.00% | ~284 |
 | Musaeum | 2.00% | ~284 |
-| Necropolis | 2.00% | ~284 |
 | Learn to Play 2 | 2.00% | ~284 |
 | Greece | 2.00% | ~284 |
 | Persian Paganism | 2.00% | ~284 |
@@ -169,6 +169,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.30% | ~43 |
 | Run, Pheidippides, Run! | 0.30% | ~43 |
 | Nenikekamen | 0.30% | ~43 |
+| Macedonian Wars | 0.30% | ~43 |
 | Assyria | 0.30% | ~43 |
 | Apadana in Parsa | 0.30% | ~43 |
 | Play a MP Teams Game | 0.30% | ~43 |
@@ -187,7 +188,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.20% | ~28 |
 | Like a Lion | 0.20% | ~28 |
 | Tell the Spartans | 0.20% | ~28 |
-| Macedonian Wars | 0.20% | ~28 |
 | Medo-Babylonian Conquest | 0.20% | ~28 |
 | Realistic Mortality | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,181 (Ranked 131)  
-Completed: 5 (0.04%) (Ranked 261)  
+Progressed: 14,182 (Ranked 131)  
+Completed: 5 (0.04%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -464,7 +464,7 @@ Completed: 5 (0.04%) (Ranked 261)
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
-| 2023-09-28 | 14,181 | 5 |
+| 2023-09-28 | 14,182 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,823 (Ranked 207)  

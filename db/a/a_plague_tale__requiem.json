@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -476,9 +476,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13367,
+  "EOS_Progressed": 13368,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -9271,6 +9271,11 @@
       "Time": "2023-09-28T18:07:10.4754445+00:00",
       "NumProgressed": 13367,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-28T20:05:26.9930314+00:00",
+      "NumProgressed": 13368,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -9282,7 +9287,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12298
+      "UsersEstimate": 12299
     },
     {
       "ID": "ACH_02",
@@ -9290,7 +9295,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10560
+      "UsersEstimate": 10561
     },
     {
       "ID": "ACH_03",
@@ -9306,7 +9311,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9357
+      "UsersEstimate": 9358
     },
     {
       "ID": "ACH_05",
@@ -9346,7 +9351,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7619
+      "UsersEstimate": 7620
     },
     {
       "ID": "ACH_10",
@@ -9378,7 +9383,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5213
+      "UsersEstimate": 5214
     },
     {
       "ID": "ACH_14",
@@ -9410,7 +9415,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ACH_18",
@@ -9561,7 +9566,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13367,
+      "Progressed": 13368,
       "Completed": 47
     }
   ],
@@ -9569,8 +9574,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-27T10:59:16.3934909+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:07:27.9235424+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:05:26.993031+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:00:02.5144148+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:07:27.9236222+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:58:45.3038377+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:05:26.9930975+00:00"
 }

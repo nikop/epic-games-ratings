@@ -54,12 +54,12 @@ Rating: 4.48 (Ranked 608)
 | Better than half the studio... | 1.00% | ~11 |
 | Grandslam | 1.00% | ~11 |
 | Redout Grandmaster | 0.90% | ~10 |
-| Beat you to it! | 0.80% | ~9 |
+| Beat you to it! | 0.90% | ~10 |
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,141 (Ranked 224)  
-Completed: 0 (0.00%) (Ranked 296)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,11 +2,11 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 956,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -6280,9 +6280,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136816,
+  "EOS_Progressed": 136818,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22820,6 +22820,11 @@
       "Time": "2023-09-28T18:07:56.2819613+00:00",
       "NumProgressed": 136816,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-09-28T20:06:01.2001193+00:00",
+      "NumProgressed": 136818,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 112,
@@ -22999,7 +23004,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "chest02",
@@ -23647,7 +23652,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "twinenchant01",
@@ -23726,15 +23731,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136816,
+      "Progressed": 136818,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-28T06:59:09.0234422+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:08:13.7888272+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:06:01.2001189+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:58:38.8838497+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:08:13.7891379+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:57:46.6740232+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:06:01.2003168+00:00"
 }

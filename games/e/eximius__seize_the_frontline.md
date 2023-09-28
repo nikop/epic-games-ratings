@@ -1,7 +1,7 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.17 (Ranked 898)  
+Rating: 4.17 (Ranked 899)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,7 +23,7 @@ Rating: 4.17 (Ranked 898)
 | Many More to Come | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 197,516 (Ranked 64)  
-Completed: 4 (0.00%) (Ranked 296)  
+Completed: 4 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

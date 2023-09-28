@@ -2,11 +2,11 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18411,
+  "EOS_Progressed": 18412,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -13292,6 +13292,11 @@
       "Time": "2023-09-28T19:09:13.8356818+00:00",
       "NumProgressed": 18411,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-28T20:06:45.7706485+00:00",
+      "NumProgressed": 18412,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 14,
@@ -13375,7 +13380,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -13414,15 +13419,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18411,
+      "Progressed": 18412,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:09:13.8356813+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:06:45.7706482+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.2859158+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:01:33.3729365+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:09:13.835796+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:47.2158798+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:06:45.7707205+00:00"
 }

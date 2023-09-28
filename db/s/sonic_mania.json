@@ -4,11 +4,11 @@
   "ProductSlug": "sonic-mania",
   "Ranking_Rating": 104,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 216,
+  "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T18:52:05+00:00",
@@ -1519,10 +1519,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 1603,
       "NumberOfAwardsMax": 945
+    },
+    {
+      "Time": "2023-09-28T19:57:01.1021741+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1604,
+      "NumberOfAwardsMax": 945
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1603,
+  "NumberOfAwards": 1604,
   "NumberOfAwardsMax": 945,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1596,7 +1602,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1622,8 +1628,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2023-09-24T04:59:18.3556091+00:00",
+  "LastChanged": "2023-09-28T19:57:01.102174+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.2123009+00:00",
-  "LastUpdate_Ratings": "2023-09-28T18:57:31.753491+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:05:42.9511938+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:57:01.1021744+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:04:09.6418649+00:00"
 }

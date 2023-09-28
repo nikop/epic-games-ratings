@@ -1,7 +1,7 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 619)  
+Rating: 4.47 (Ranked 618)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -65,7 +65,7 @@ Number of Ratings: 617  (23.09.2022)
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 528,198 (Ranked 33)  
-Completed: 479 (0.09%) (Ranked 239)  
+Completed: 479 (0.09%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

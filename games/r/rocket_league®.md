@@ -96,7 +96,7 @@ Number of Ratings: 366,020  (23.09.2022)
 | Winning is Winning | 0.10% | ~25,974 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,974,434 (Ranked 2)  
-Completed: 2,346 (0.01%) (Ranked 280)  
+Completed: 2,346 (0.01%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

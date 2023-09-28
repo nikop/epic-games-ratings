@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~46,364 |
-| Worth it | 63.00% | ~37,448 |
-| Eagle Eye | 55.00% | ~32,693 |
-| Corpseman I | 40.00% | ~23,776 |
-| Blast fishing | 37.00% | ~21,993 |
-| Not alone | 32.00% | ~19,021 |
-| Headhunter I | 26.00% | ~15,455 |
-| Manual Labour I | 25.00% | ~14,860 |
-| Developers, Developers, Developers | 24.00% | ~14,266 |
-| Basic Training | 24.00% | ~14,266 |
-| Furchtlos und Treu | 13.00% | ~7,727 |
+| Setting an example | 78.00% | ~46,367 |
+| Worth it | 63.00% | ~37,450 |
+| Eagle Eye | 55.00% | ~32,695 |
+| Corpseman I | 40.00% | ~23,778 |
+| Blast fishing | 37.00% | ~21,995 |
+| Not alone | 32.00% | ~19,022 |
+| Headhunter I | 26.00% | ~15,456 |
+| Manual Labour I | 25.00% | ~14,861 |
+| Developers, Developers, Developers | 24.00% | ~14,267 |
+| Basic Training | 24.00% | ~14,267 |
+| Furchtlos und Treu | 13.00% | ~7,728 |
 | Gott Mit Uns | 12.00% | ~7,133 |
 | This We'll Defend! | 9.00% | ~5,350 |
 | Anker wirf! | 9.00% | ~5,350 |
 | Providentiea Memor | 9.00% | ~5,350 |
 | For King and Country | 9.00% | ~5,350 |
-| Battle hardened | 8.00% | ~4,755 |
+| Battle hardened | 8.00% | ~4,756 |
 | Semper Fidelis! | 7.00% | ~4,161 |
 | Honneur et Patrie | 7.00% | ~4,161 |
 | In Treue Fest | 5.00% | ~2,972 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~59 |
 | Blood Brother | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,441 (Ranked 92)  
-Completed: 4 (0.01%) (Ranked 280)  
+Progressed: 59,445 (Ranked 92)  
+Completed: 4 (0.01%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 4 (0.01%) (Ranked 280)
 | 2023-09-25 | 59,252 | 4 |
 | 2023-09-26 | 59,313 | 4 |
 | 2023-09-27 | 59,379 | 4 |
-| 2023-09-28 | 59,441 | 4 |
+| 2023-09-28 | 59,445 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 348)  
 Sum: 777 (Ranked 271)  

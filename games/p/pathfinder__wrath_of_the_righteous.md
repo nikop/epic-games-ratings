@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,428 (Ranked 136)  
-Completed: 0 (0.00%) (Ranked 296)  
+Progressed: 11,428 (Ranked 137)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,7 +287,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-28 | 11,428 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 119)  
-Sum: 6,964 (Ranked 115)  
+Sum: 6,965 (Ranked 115)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): 4
 | This game has Diverse Characters | 622 |
 | This game has Amazing Storytelling | 614 |
 | This game has Challenging Combat | 581 |
-| This game has Quickly Understood Controls | 570 |
+| This game has Quickly Understood Controls | 571 |
 | This game is Relaxing | 549 |
 | This game has a Creative Community | 386 |
 | This game has Obsessive Gameplay | 364 |
@@ -528,4 +528,4 @@ Diff (max vs sum): 4
 | 2023-09-24 | 4.76 | - | 1,718 | 6,960 |
 | 2023-09-25 | 4.76 | - | 1,718 | 6,961 |
 | 2023-09-26 | 4.76 | - | 1,718 | 6,963 |
-| 2023-09-28 | 4.76 | - | 1,718 | 6,964 |
+| 2023-09-28 | 4.76 | - | 1,718 | 6,965 |

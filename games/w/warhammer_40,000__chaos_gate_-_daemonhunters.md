@@ -10,9 +10,9 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 6.00% | ~195 |
 | Look Over There! | 5.00% | ~162 |
 | Not So Fast... | 5.00% | ~162 |
+| Purging Spree | 5.00% | ~162 |
 | An Ill Omen | 5.00% | ~162 |
 | Blood for the Blood God! | 4.00% | ~130 |
-| Purging Spree | 4.00% | ~130 |
 | Bloodless | 4.00% | ~130 |
 | Surgical Excision | 3.00% | ~97 |
 | Friendly Fire | 3.00% | ~97 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,244 (Ranked 185)  
-Completed: 0 (0.00%) (Ranked 296)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

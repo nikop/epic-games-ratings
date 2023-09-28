@@ -1,7 +1,7 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 895)  
+Rating: 4.18 (Ranked 896)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 71  (23.09.2022)
 | Is she really dead? | 47.00% | ~708 |
 | Screwdriver | 45.00% | ~678 |
 | Cutepie | 42.00% | ~633 |
-| Someone was here | 41.00% | ~617 |
+| Someone was here | 42.00% | ~633 |
 | Ghost Hunters | 41.00% | ~617 |
 | Alone | 40.00% | ~602 |
 | Pack Rat | 40.00% | ~602 |
@@ -19,7 +19,7 @@ Number of Ratings: 71  (23.09.2022)
 | Spicy | 6.00% | ~90 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,506 (Ranked 212)  
-Completed: 73 (4.85%) (Ranked 55)  
+Completed: 73 (4.85%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 594,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -71,9 +71,9 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BeatBossTing",
@@ -151,9 +151,9 @@
       "ID": "HardcorePlayer",
       "SetID": "123m9l1",
       "Name": "The Hero of the People",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Legendary",
@@ -264,8 +264,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:08:44.4948577+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:06:23.958339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:03.9666352+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:00:54.033577+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:08:44.4948798+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:20.3136082+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:06:23.9583544+00:00"
 }

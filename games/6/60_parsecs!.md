@@ -11,7 +11,7 @@
 | Space Engineer | 64.00% | ~477 |
 | Tinkerer | 63.00% | ~470 |
 | Dust to Dust | 58.00% | ~433 |
-| Across The Stars | 47.00% | ~351 |
+| Across The Stars | 48.00% | ~358 |
 | Crafty | 47.00% | ~351 |
 | All Seats Taken | 39.00% | ~291 |
 | For Science! | 35.00% | ~261 |
@@ -50,7 +50,7 @@
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 746 (Ranked 242)  
-Completed: 1 (0.13%) (Ranked 224)  
+Completed: 1 (0.13%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

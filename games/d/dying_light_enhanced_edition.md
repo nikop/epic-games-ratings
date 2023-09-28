@@ -86,7 +86,7 @@ Number of Ratings: 3,181  (23.09.2022)
 | Into the lava | 0.10% | ~3,977 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,976,873 (Ranked 3)  
-Completed: 45 (0.00%) (Ranked 296)  
+Completed: 45 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

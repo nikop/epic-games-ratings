@@ -26,8 +26,8 @@
 | The Guest Area | 0.00% | ~0 |
 | The Lady's Quarters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 507)  
-Completed: 0 (0.00%) (Ranked 296)  
+Progressed: 11 (Ranked 508)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

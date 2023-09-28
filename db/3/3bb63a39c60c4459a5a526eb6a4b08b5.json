@@ -3,9 +3,9 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2751,6 +2751,11 @@
       "Time": "2023-09-28T10:06:14.0757214+00:00",
       "NumProgressed": 748,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T20:05:52.2870016+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2896,9 +2901,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 97
     },
     {
       "ID": "LargeTerritories",
@@ -2978,7 +2983,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "NotPlanned",
@@ -3090,21 +3095,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:08:01.8363907+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:05:52.2870011+00:00",
   "LastUpdate_AppInfo": "2023-09-26T13:04:17.0353541+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:01:52.5870937+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:08:01.8364411+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:59.6441535+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:05:52.2870407+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1433,9 +1433,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 178
     },
     {
       "ID": "LightsOut",
@@ -1528,8 +1528,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:07:35.7604719+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:05:32.8223719+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:15.4401249+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:00:20.5581682+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:07:35.7604967+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:58:57.9015986+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:05:32.8223887+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -461,9 +461,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87053,
+  "EOS_Progressed": 87056,
   "EOS_Completed": 401,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -18221,6 +18221,11 @@
       "Time": "2023-09-28T19:03:28.1595374+00:00",
       "NumProgressed": 87053,
       "NumCompleted": 401
+    },
+    {
+      "Time": "2023-09-28T20:02:15.2648139+00:00",
+      "NumProgressed": 87056,
+      "NumCompleted": 401
     }
   ],
   "TotalAchievements": 10,
@@ -18288,7 +18293,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8705
+      "UsersEstimate": 8706
     },
     {
       "ID": "Level00BowlingStrike",
@@ -18296,7 +18301,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30469
+      "UsersEstimate": 30470
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -18311,15 +18316,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 87053,
+      "Progressed": 87056,
       "Completed": 401
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-09-24T23:58:27.9935067+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:03:28.1595368+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:02:15.2648134+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:07.215192+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:01:05.8573554+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:03:28.1597769+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:28.0446914+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:02:15.2649264+00:00"
 }

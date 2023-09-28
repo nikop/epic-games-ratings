@@ -2,13 +2,13 @@
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
   "ProductSlug": "second-extinction",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 944,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-30T12:00:00+00:00",
     "PcReleaseDate": "2020-10-13T16:01:00+00:00",
@@ -1248,8 +1248,8 @@
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
   "LastChanged": "2023-09-27T15:59:09.5288696+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:04:15.5902343+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:03:05.0020508+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:22.0651872+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:00:06.8927413+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:04:15.5902403+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:58:48.5619061+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:03:05.0020536+00:00"
 }

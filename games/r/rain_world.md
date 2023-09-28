@@ -1,7 +1,7 @@
 # Rain World
 [Store](https://store.epicgames.com/en-US/p/rain-world-4c860c)  
 [View Rawdata](../../db/r/rain_world.json)  
-Rating: 4.89 (Ranked 12)  
+Rating: 4.88 (Ranked 18)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -20,3 +20,4 @@ Rating: 4.89 (Ranked 12)
 | 2023-08-26 | 4.91 | 0 | 0 |
 | 2023-09-17 | 4.88 | 0 | 0 |
 | 2023-09-18 | 4.89 | 0 | 0 |
+| 2023-09-28 | 4.88 | 0 | 0 |

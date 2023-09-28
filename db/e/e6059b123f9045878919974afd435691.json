@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 830,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1961,6 +1961,11 @@
       "Time": "2023-09-25T05:07:34.8776823+00:00",
       "NumProgressed": 829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T20:03:24.1488959+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1972,7 +1977,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1980,7 +1985,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2020,7 +2025,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2028,7 +2033,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -2044,7 +2049,7 @@
       "Name": "Capraphobia",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2052,7 +2057,7 @@
       "Name": "The Judge, the Jury and the ... Barkannan",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -2076,7 +2081,7 @@
       "Name": "Main Course",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -2090,9 +2095,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 166
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2100,7 +2105,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2108,7 +2113,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -2148,7 +2153,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -2172,7 +2177,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2250,9 +2255,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 415
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2276,7 +2281,7 @@
       "Name": "Call The Winchester",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2404,7 +2409,7 @@
       "Name": "The Last of Us",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2499,14 +2504,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:04:41.2170227+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:03:24.1488955+00:00",
   "LastUpdate_AppInfo": "2023-09-21T20:56:53.0416285+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:02:22.8525805+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:04:41.2171064+00:00"
+  "LastUpdate_Ratings": "2023-09-28T20:00:21.2667866+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:03:24.1489579+00:00"
 }

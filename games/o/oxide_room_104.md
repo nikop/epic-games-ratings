@@ -13,7 +13,7 @@
 | Let's play a game… | 75.00% | ~136 |
 | Soundtrack | 64.00% | ~116 |
 | First aid | 63.00% | ~115 |
-| Antidote | 54.00% | ~98 |
+| Antidote | 55.00% | ~100 |
 | Pick the right door | 26.00% | ~47 |
 | The third floor | 19.00% | ~35 |
 | One-way | 16.00% | ~29 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 182 (Ranked 342)  
-Completed: 0 (0.00%) (Ranked 296)  
+Completed: 0 (0.00%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

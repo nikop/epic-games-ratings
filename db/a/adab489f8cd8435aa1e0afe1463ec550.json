@@ -3,9 +3,9 @@
   "Name": "CyberTD",
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 556,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "30",
       "SetID": "6hl9l7f",
       "Name": "Laser Fireworks",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "31",
@@ -386,8 +386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:05:09.4785297+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:03:44.9654827+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:01:43.1491082+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:05:09.4785656+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:53.4629449+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:03:44.9655102+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 259,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -497,6 +497,11 @@
       "Time": "2023-09-28T19:05:17.2144176+00:00",
       "NumProgressed": 257,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T20:03:50.5022125+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -517,15 +522,15 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_eou3",
@@ -533,7 +538,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_eou4",
@@ -547,9 +552,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_eou6",
@@ -557,7 +562,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_eou7",
@@ -565,7 +570,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_eou8",
@@ -612,14 +617,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 259,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-28T19:05:17.2144172+00:00",
+  "LastChanged_Achievements": "2023-09-28T20:03:50.5022119+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-28T19:01:05.2690224+00:00",
-  "LastUpdate_Achievements": "2023-09-28T19:05:17.2144342+00:00"
+  "LastUpdate_Ratings": "2023-09-28T19:59:27.6669045+00:00",
+  "LastUpdate_Achievements": "2023-09-28T20:03:50.502222+00:00"
 }
