@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1761,9 +1761,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14166,
+  "EOS_Progressed": 14167,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12411,6 +12411,11 @@
       "Time": "2023-09-28T04:04:41.2201037+00:00",
       "NumProgressed": 14166,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T06:04:38.7889675+00:00",
+      "NumProgressed": 14167,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12606,7 +12611,7 @@
       "Name": "Silver Victory (Carthage 1)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
@@ -12614,7 +12619,7 @@
       "Name": "Carthage - Riches and Influence",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
@@ -12742,7 +12747,7 @@
       "Name": "Cleopatra\u0027s Love",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
@@ -13182,7 +13187,7 @@
       "Name": "Great Difficulty",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
@@ -13198,7 +13203,7 @@
       "Name": "Magnificent Difficulty",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
@@ -13214,7 +13219,7 @@
       "Name": "Strong Difficulty",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -13246,7 +13251,7 @@
       "Name": "Event Level High",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
@@ -13278,7 +13283,7 @@
       "Name": "Hunters",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -13398,7 +13403,7 @@
       "Name": "Run, Pheidippides, Run!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -13406,7 +13411,7 @@
       "Name": "Nenikekamen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_PLATAEA_WIN",
@@ -13966,7 +13971,7 @@
       "Name": "Learn to Play 4",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -14022,7 +14027,7 @@
       "Name": "Assyria",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
@@ -14030,7 +14035,7 @@
       "Name": "Babylonia",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -14110,7 +14115,7 @@
       "Name": "Apadana in Parsa",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_PLAY_1V1",
@@ -14150,7 +14155,7 @@
       "Name": "Play a MP Teams Game",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
@@ -14262,7 +14267,7 @@
       "Name": "Hittite Paganism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -14310,7 +14315,7 @@
       "Name": "Circus Maximus in Roma",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
@@ -14318,7 +14323,7 @@
       "Name": "Pantheon in Roma",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
@@ -14518,7 +14523,7 @@
       "Name": "Turreted Elephant",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -14774,7 +14779,7 @@
       "Name": "Hypatia the Teacher",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_THE_ROYAL_COUPLE",
@@ -14789,21 +14794,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14166,
+      "Progressed": 14167,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14166,
+      "Progressed": 14167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-27T17:03:06.788748+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:05:32.8723154+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:04:38.7889671+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:03:19.1722235+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:05:32.8730586+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:02:15.2744122+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:04:38.7897221+00:00"
 }

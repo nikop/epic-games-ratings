@@ -123,12 +123,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 1.00% | ~142 |
 | Double Victory | 1.00% | ~142 |
 | Win a Single Player Game | 1.00% | ~142 |
-| Strong Difficulty | 0.90% | ~127 |
-| Hunters | 0.90% | ~127 |
-| Learn to Play 4 | 0.90% | ~127 |
-| Babylonia | 0.90% | ~127 |
-| Hittite Paganism | 0.90% | ~127 |
-| Turreted Elephant | 0.90% | ~127 |
+| Strong Difficulty | 0.90% | ~128 |
+| Hunters | 0.90% | ~128 |
+| Learn to Play 4 | 0.90% | ~128 |
+| Babylonia | 0.90% | ~128 |
+| Hittite Paganism | 0.90% | ~128 |
+| Turreted Elephant | 0.90% | ~128 |
 | Ishtar Gate in Babylon | 0.80% | ~113 |
 | Clerics | 0.80% | ~113 |
 | One True Faith | 0.80% | ~113 |
@@ -161,20 +161,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.40% | ~57 |
 | Pilgrimage | 0.40% | ~57 |
 | Patriarch St Paul | 0.40% | ~57 |
-| Silver Victory (Carthage 1) | 0.30% | ~42 |
-| Carthage - Riches and Influence | 0.30% | ~42 |
-| Cleopatra's Love | 0.30% | ~42 |
-| Great Difficulty | 0.30% | ~42 |
-| Magnificent Difficulty | 0.30% | ~42 |
-| Event Level High | 0.30% | ~42 |
-| Run, Pheidippides, Run! | 0.30% | ~42 |
-| Nenikekamen | 0.30% | ~42 |
-| Assyria | 0.30% | ~42 |
-| Apadana in Parsa | 0.30% | ~42 |
-| Play a MP Teams Game | 0.30% | ~42 |
-| Circus Maximus in Roma | 0.30% | ~42 |
-| Pantheon in Roma | 0.30% | ~42 |
-| Hypatia the Teacher | 0.30% | ~42 |
+| Silver Victory (Carthage 1) | 0.30% | ~43 |
+| Carthage - Riches and Influence | 0.30% | ~43 |
+| Cleopatra's Love | 0.30% | ~43 |
+| Great Difficulty | 0.30% | ~43 |
+| Magnificent Difficulty | 0.30% | ~43 |
+| Event Level High | 0.30% | ~43 |
+| Run, Pheidippides, Run! | 0.30% | ~43 |
+| Nenikekamen | 0.30% | ~43 |
+| Assyria | 0.30% | ~43 |
+| Apadana in Parsa | 0.30% | ~43 |
+| Play a MP Teams Game | 0.30% | ~43 |
+| Circus Maximus in Roma | 0.30% | ~43 |
+| Pantheon in Roma | 0.30% | ~43 |
+| Hypatia the Teacher | 0.30% | ~43 |
 | Blade of the Monkey | 0.20% | ~28 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Bronze Victory (Carthage 2) | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,166 (Ranked 130)  
+Progressed: 14,167 (Ranked 130)  
 Completed: 5 (0.04%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 5 (0.04%) (Ranked 261)
 | 2023-09-25 | 14,126 | 5 |
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
-| 2023-09-28 | 14,166 | 5 |
+| 2023-09-28 | 14,167 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,821 (Ranked 207)  

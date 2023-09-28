@@ -2,10 +2,10 @@
   "ID": "6e94f7b986474bd89e9490a45d3606b3",
   "Name": "Subwar 2050",
   "ProductSlug": "subwar-2050-9ec629",
-  "Ranking_EOS_Progress": 641,
+  "Ranking_EOS_Progress": 642,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-07-14T22:00:00+00:00",
     "PcReleaseDate": "2023-07-14T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T06:57:00.1947314+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:00:59.0512705+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:06:17.2663402+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:00:23.2166771+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:05:18.6745018+00:00"
 }

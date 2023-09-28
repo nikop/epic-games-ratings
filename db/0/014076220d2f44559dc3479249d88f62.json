@@ -2,10 +2,10 @@
   "ID": "014076220d2f44559dc3479249d88f62",
   "Name": "Prison City",
   "ProductSlug": "prison-city-ac156c",
-  "Ranking_EOS_Progress": 641,
+  "Ranking_EOS_Progress": 642,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-29T07:00:00+00:00",
     "PcReleaseDate": "2023-08-29T07:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-09-25T20:58:11.0176919+00:00",
   "FirstSeenAchievements": "2023-08-23T17:02:28.4949028+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:07:55.2600938+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:06:46.0868793+00:00",
   "LastUpdate_AppInfo": "2023-09-27T18:57:00.753598+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:59:20.0307755+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:07:55.260097+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:58:51.13566+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:06:46.0868823+00:00"
 }

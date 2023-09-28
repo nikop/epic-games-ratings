@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 436,
+  "Ranking_Rating": 435,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -732,9 +732,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3241,
+  "EOS_Progressed": 3242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3542,6 +3542,11 @@
       "Time": "2023-09-27T22:06:07.6071792+00:00",
       "NumProgressed": 3241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T06:05:19.9727521+00:00",
+      "NumProgressed": 3242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3745,7 +3750,7 @@
       "Name": "Executioner",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Kills_Exterminator",
@@ -3777,7 +3782,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Kills_Streak",
@@ -3991,9 +3996,9 @@
       "ID": "SacristaCompleted",
       "SetID": "3jha1np",
       "Name": "Long Distance Call",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "SkilledKnight",
@@ -4096,21 +4101,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3241,
+      "Progressed": 3242,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3241,
+      "Progressed": 3242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:06:18.655912+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:05:19.9727511+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:58:23.850218+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:06:18.6559794+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:58:01.1433231+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:05:19.9728183+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16312,
+  "EOS_Progressed": 16313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4726,6 +4726,11 @@
       "Time": "2023-09-28T05:08:16.2277168+00:00",
       "NumProgressed": 16312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T06:07:05.8116793+00:00",
+      "NumProgressed": 16313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4737,7 +4742,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15496
+      "UsersEstimate": 15497
     },
     {
       "ID": "ACH001",
@@ -4745,7 +4750,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14028
+      "UsersEstimate": 14029
     },
     {
       "ID": "ACH0010",
@@ -4873,7 +4878,7 @@
       "Name": "Pirate King",
       "Percentage": 0.8,
       "XP": 110,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH0025",
@@ -4921,7 +4926,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "ACH008",
@@ -4929,7 +4934,7 @@
       "Name": "Oooh, We\u0027re Half Way There",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH009",
@@ -4944,7 +4949,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16312,
+      "Progressed": 16313,
       "Completed": 0
     }
   ],
@@ -4952,8 +4957,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:08:16.227716+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:07:05.8116789+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.9271545+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:00:27.9062134+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:08:16.2277536+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:59:52.1877577+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:07:05.8117147+00:00"
 }

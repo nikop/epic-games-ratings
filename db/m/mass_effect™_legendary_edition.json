@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -939,9 +939,9 @@
       "ID": "achievement_12",
       "SetID": "b9pe172",
       "Name": "Damping Specialist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_120",
@@ -1267,9 +1267,9 @@
       "ID": "achievement_42",
       "SetID": "b9pe172",
       "Name": "No One Left Behind",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_43",
@@ -1783,8 +1783,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:06:36.3995333+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:05:36.0751604+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:00:47.5575011+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:06:36.3997109+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:00:12.1559433+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:05:36.0753346+00:00"
 }

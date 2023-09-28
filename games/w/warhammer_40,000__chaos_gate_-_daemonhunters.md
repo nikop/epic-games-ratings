@@ -1,13 +1,13 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 436)  
+Rating: 4.58 (Ranked 435)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 6.00% | ~194 |
-| Watch Where You Step... | 6.00% | ~194 |
+| Executioner | 6.00% | ~195 |
+| Watch Where You Step... | 6.00% | ~195 |
 | Look Over There! | 5.00% | ~162 |
 | Not So Fast... | 5.00% | ~162 |
 | An Ill Omen | 5.00% | ~162 |
@@ -30,9 +30,9 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~32 |
 | Exterminator | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
+| Long Distance Call | 0.90% | ~29 |
 | Only in Death | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
-| Long Distance Call | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
 | Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~23 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,241 (Ranked 184)  
+Progressed: 3,242 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 3,237 | 0 |
 | 2023-09-26 | 3,238 | 0 |
 | 2023-09-27 | 3,241 | 0 |
+| 2023-09-28 | 3,242 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 474 (Ranked 312)  

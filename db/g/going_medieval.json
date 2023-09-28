@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1280,7 +1280,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5989,
+  "EOS_Progressed": 5990,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -10020,6 +10020,11 @@
       "Time": "2023-09-28T02:20:12.6760303+00:00",
       "NumProgressed": 5989,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-28T06:04:50.372317+00:00",
+      "NumProgressed": 5990,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10039,7 +10044,7 @@
       "Name": "Beam Me Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -10079,7 +10084,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4313
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -10127,7 +10132,7 @@
       "Name": "Where Wolf?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "HUNT_WOLF_5",
@@ -10143,7 +10148,7 @@
       "Name": "Retribution",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -10159,7 +10164,7 @@
       "Name": "Feast or Famine",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -10167,7 +10172,7 @@
       "Name": "Fit For A King",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -10175,7 +10180,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -10191,7 +10196,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4132
+      "UsersEstimate": 4133
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -10199,7 +10204,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -10215,7 +10220,7 @@
       "Name": "Winter Is Here",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -10231,7 +10236,7 @@
       "Name": "The First Week",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -10247,7 +10252,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -10255,7 +10260,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -10271,22 +10276,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5989,
+      "Progressed": 5990,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-21T15:01:07.3222764+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:05:45.6944354+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:04:50.3723166+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:21.8810446+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:59:29.8225874+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:05:45.6944945+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:58:59.6547141+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:04:50.3723798+00:00"
 }

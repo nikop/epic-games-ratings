@@ -2,10 +2,10 @@
   "ID": "96ccba8fe8e649dfa6f96cee11e625e1",
   "Name": "Atlas Mod Kit",
   "ProductSlug": "atlas-mod-kit",
-  "Ranking_EOS_Progress": 641,
+  "Ranking_EOS_Progress": 642,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T12:59:23.0128655+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:59:30.6830553+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:07:31.8204092+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:59:00.4655671+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:06:25.376696+00:00"
 }

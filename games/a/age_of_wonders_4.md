@@ -26,6 +26,7 @@ Rating: 4.61 (Ranked 372)
 | Mighty Hoard | 5.00% | ~260 |
 | Valley of Wonders | 4.00% | ~208 |
 | Return of the Wizard King | 4.00% | ~208 |
+| Enchanted Archipelago | 4.00% | ~208 |
 | Digging for Treasure | 4.00% | ~208 |
 | Preparation Is Everything | 4.00% | ~208 |
 | Fiery Friend | 4.00% | ~208 |
@@ -34,7 +35,6 @@ Rating: 4.61 (Ranked 372)
 | Lord of Chaos | 3.00% | ~156 |
 | Arch Mage | 3.00% | ~156 |
 | The Creator | 3.00% | ~156 |
-| Enchanted Archipelago | 3.00% | ~156 |
 | The Goddess of Nature | 3.00% | ~156 |
 | Eternal Lord | 3.00% | ~156 |
 | Crimson Caldera | 3.00% | ~156 |

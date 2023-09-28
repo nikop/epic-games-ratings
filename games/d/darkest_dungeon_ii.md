@@ -6,53 +6,53 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~110,606 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~84,441 |
-| A Clear Conscience | 69.00% | ~82,062 |
-| Unleash Hell | 68.00% | ~80,873 |
-| Unfulfilled Desires | 68.00% | ~80,873 |
-| Funny Guy | 67.00% | ~79,684 |
-| Unshackled | 67.00% | ~79,684 |
-| Long Live the King | 66.00% | ~78,494 |
-| Resurrection | 62.00% | ~73,737 |
-| Wyrdly Reconstructed | 62.00% | ~73,737 |
-| Boxcar Kid | 60.00% | ~71,359 |
-| Rush Hour | 60.00% | ~71,359 |
-| To Grandmother's House | 60.00% | ~71,359 |
-| Serenity Now! | 53.00% | ~63,033 |
-| Hope Rekindled | 50.00% | ~59,466 |
-| Ramble On | 49.00% | ~58,276 |
-| Nope | 48.00% | ~57,087 |
-| This Looks Familiar | 38.00% | ~45,194 |
-| Now Stay Dead | 37.00% | ~44,004 |
-| Merry Time | 36.00% | ~42,815 |
-| Harvest Festival | 36.00% | ~42,815 |
-| Hot Air | 36.00% | ~42,815 |
-| Creep and Sleep | 33.00% | ~39,247 |
-| Overdue Notice | 32.00% | ~38,058 |
-| Banishment | 31.00% | ~36,869 |
-| Whale | 31.00% | ~36,869 |
-| FNG | 29.00% | ~34,490 |
-| Predator | 25.00% | ~29,733 |
-| Reverse Banditry | 25.00% | ~29,733 |
-| Autodidact | 24.00% | ~28,543 |
+| A Place to Lay Your Head | 93.00% | ~110,609 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~84,443 |
+| A Clear Conscience | 69.00% | ~82,064 |
+| Unleash Hell | 68.00% | ~80,875 |
+| Unfulfilled Desires | 68.00% | ~80,875 |
+| Funny Guy | 67.00% | ~79,686 |
+| Unshackled | 67.00% | ~79,686 |
+| Long Live the King | 66.00% | ~78,496 |
+| Resurrection | 62.00% | ~73,739 |
+| Wyrdly Reconstructed | 62.00% | ~73,739 |
+| Boxcar Kid | 60.00% | ~71,360 |
+| Rush Hour | 60.00% | ~71,360 |
+| To Grandmother's House | 60.00% | ~71,360 |
+| Serenity Now! | 53.00% | ~63,035 |
+| Hope Rekindled | 50.00% | ~59,467 |
+| Ramble On | 49.00% | ~58,278 |
+| Nope | 48.00% | ~57,088 |
+| This Looks Familiar | 38.00% | ~45,195 |
+| Now Stay Dead | 37.00% | ~44,006 |
+| Merry Time | 36.00% | ~42,816 |
+| Harvest Festival | 36.00% | ~42,816 |
+| Hot Air | 36.00% | ~42,816 |
+| Creep and Sleep | 33.00% | ~39,248 |
+| Overdue Notice | 32.00% | ~38,059 |
+| Banishment | 31.00% | ~36,870 |
+| Whale | 31.00% | ~36,870 |
+| FNG | 29.00% | ~34,491 |
+| Predator | 25.00% | ~29,734 |
+| Reverse Banditry | 25.00% | ~29,734 |
+| Autodidact | 24.00% | ~28,544 |
 | Meat and Greet | 22.00% | ~26,165 |
 | Road Trip | 22.00% | ~26,165 |
 | Spelunker | 21.00% | ~24,976 |
 | Eyes Up | 21.00% | ~24,976 |
-| It Rings a Bell | 20.00% | ~23,786 |
+| It Rings a Bell | 20.00% | ~23,787 |
 | Escape from the Black Hole | 18.00% | ~21,408 |
-| Dissector | 17.00% | ~20,218 |
-| It Happens | 17.00% | ~20,218 |
+| Dissector | 17.00% | ~20,219 |
+| It Happens | 17.00% | ~20,219 |
 | This Belongs in a Museum | 16.00% | ~19,029 |
 | Handled | 16.00% | ~19,029 |
-| Catch and Decease | 14.00% | ~16,650 |
+| Catch and Decease | 14.00% | ~16,651 |
 | Not Today! | 13.00% | ~15,461 |
 | Deprogramming | 13.00% | ~15,461 |
 | Shrine of Reflection | 12.00% | ~14,272 |
-| When You Want Something Done Right | 11.00% | ~13,082 |
+| When You Want Something Done Right | 11.00% | ~13,083 |
 | Body of Work | 10.00% | ~11,893 |
-| Utopia | 8.00% | ~9,514 |
+| Utopia | 8.00% | ~9,515 |
 | Hat Trick | 7.00% | ~8,325 |
 | No More Mouths to Feed | 6.00% | ~7,136 |
 | Ichthyophobic | 5.00% | ~5,947 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~119 |
 | No Gravestone Left Unturned | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,931 (Ranked 73)  
+Progressed: 118,934 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 1 (0.00%) (Ranked 296)
 | 2023-09-25 | 118,756 | 1 |
 | 2023-09-26 | 118,834 | 1 |
 | 2023-09-27 | 118,913 | 1 |
-| 2023-09-28 | 118,931 | 1 |
+| 2023-09-28 | 118,934 | 1 |
 ## Awards
 Max (Character Customization): 7,419  (Ranked 49)  
 Sum: 19,391 (Ranked 57)  

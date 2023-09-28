@@ -5,9 +5,9 @@ Rating: 3.77 (Ranked 993)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,496 |
+| Eeligally Ambitious | 95.00% | ~15,497 |
 | No Half Measures | 88.00% | ~14,355 |
-| Personal Matter | 86.00% | ~14,028 |
+| Personal Matter | 86.00% | ~14,029 |
 | But You Have Heard of Me | 72.00% | ~11,745 |
 | Double the Barrels, double the Fun | 55.00% | ~8,972 |
 | Pimp My Glide | 48.00% | ~7,830 |
@@ -16,7 +16,7 @@ Rating: 3.77 (Ranked 993)
 | Make It Rain | 23.00% | ~3,752 |
 | Curse of the Seven Seas | 22.00% | ~3,589 |
 | Head First | 16.00% | ~2,610 |
-| To the World's End | 12.00% | ~1,957 |
+| To the World's End | 12.00% | ~1,958 |
 | Table for Six | 11.00% | ~1,794 |
 | Sharing Is Caring | 10.00% | ~1,631 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,305 |
@@ -25,14 +25,14 @@ Rating: 3.77 (Ranked 993)
 | After All, Why Shouldn't I Keep It? | 3.00% | ~489 |
 | A True Dandy | 2.00% | ~326 |
 | A New Legend Awaits | 1.00% | ~163 |
-| Pirate King | 0.80% | ~130 |
-| Oooh, We're Half Way There | 0.80% | ~130 |
+| Pirate King | 0.80% | ~131 |
+| Oooh, We're Half Way There | 0.80% | ~131 |
 | Devilishly Talented | 0.10% | ~16 |
 | Heavy Tunaing | 0.10% | ~16 |
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,312 (Ranked 127)  
+Progressed: 16,313 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 16,229 | 0 |
 | 2023-09-26 | 16,251 | 0 |
 | 2023-09-27 | 16,304 | 0 |
-| 2023-09-28 | 16,312 | 0 |
+| 2023-09-28 | 16,313 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -5574,9 +5574,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 178760,
+  "EOS_Progressed": 178765,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2188,
+  "EOS_NewPlayers": 2189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23599,6 +23599,11 @@
       "Time": "2023-09-28T05:03:34.9885591+00:00",
       "NumProgressed": 178760,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-28T06:03:10.5692993+00:00",
+      "NumProgressed": 178765,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23690,7 +23695,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44690
+      "UsersEstimate": 44691
     },
     {
       "ID": "Achievement_5",
@@ -23722,7 +23727,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16088
+      "UsersEstimate": 16089
     },
     {
       "ID": "Achievement_9",
@@ -23737,15 +23742,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 178760,
+      "Progressed": 178765,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-28T01:39:26.8902002+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:03:34.9885582+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:03:10.5692989+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:28.9520016+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:57:49.0294411+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:03:34.9886704+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:57:29.7321216+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:03:10.5694007+00:00"
 }

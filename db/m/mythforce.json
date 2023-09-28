@@ -701,7 +701,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3291,
+  "EOS_Progressed": 3292,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 1,
@@ -5861,6 +5861,11 @@
       "Time": "2023-09-28T05:07:18.4382264+00:00",
       "NumProgressed": 3291,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T06:06:13.2687066+00:00",
+      "NumProgressed": 3292,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5937,7 +5942,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -5985,7 +5990,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -6047,24 +6052,24 @@
       "ID": "MF_Ach_VexedHer",
       "SetID": "9b9n573",
       "Name": "Vexed Her",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3291,
+      "Progressed": 3292,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:07:18.4382259+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:06:13.268706+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:58:13.6323173+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:07:18.4382639+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:57:51.7587875+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:06:13.2687485+00:00"
 }

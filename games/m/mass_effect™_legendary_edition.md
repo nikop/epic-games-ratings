@@ -85,9 +85,9 @@
 | Pathfinder | 20.00% | ~87 |
 | Tunnel Rat | 20.00% | ~87 |
 | Paramour II | 19.00% | ~83 |
+| No One Left Behind | 19.00% | ~83 |
 | Arbiter | 19.00% | ~83 |
 | Lost and Found | 19.00% | ~83 |
-| No One Left Behind | 18.00% | ~78 |
 | Pyromaniac | 17.00% | ~74 |
 | Electronics Specialist | 17.00% | ~74 |
 | Party Crasher | 17.00% | ~74 |
@@ -117,7 +117,7 @@
 | Paramour III | 9.00% | ~39 |
 | Overload Specialist | 9.00% | ~39 |
 | Sky High | 7.00% | ~30 |
-| Damping Specialist | 6.00% | ~26 |
+| Damping Specialist | 7.00% | ~30 |
 | Incineration Specialist | 6.00% | ~26 |
 | Singularity Mastery | 6.00% | ~26 |
 | Insanity I | 5.00% | ~22 |

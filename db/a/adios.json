@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74414,
+  "EOS_Progressed": 74416,
   "EOS_Completed": 775,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18004,6 +18004,11 @@
       "Time": "2023-09-28T05:05:40.3302211+00:00",
       "NumProgressed": 74414,
       "NumCompleted": 775
+    },
+    {
+      "Time": "2023-09-28T06:04:45.2289891+00:00",
+      "NumProgressed": 74416,
+      "NumCompleted": 775
     }
   ],
   "TotalAchievements": 25,
@@ -18047,7 +18052,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16371
+      "UsersEstimate": 16372
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -18143,7 +18148,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11906
+      "UsersEstimate": 11907
     },
     {
       "ID": "Nothing Left to Say",
@@ -18159,7 +18164,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7441
+      "UsersEstimate": 7442
     },
     {
       "ID": "Right On Target",
@@ -18214,7 +18219,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74414,
+      "Progressed": 74416,
       "Completed": 775
     }
   ],
@@ -18222,8 +18227,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:05:40.3302204+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:04:45.2289888+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:00:51.0373672+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:05:40.3303172+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:00:15.9402481+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:04:45.2290865+00:00"
 }

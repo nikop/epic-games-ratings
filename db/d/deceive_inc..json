@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18172,
+  "EOS_Progressed": 18174,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10826,6 +10826,11 @@
       "Time": "2023-09-28T00:07:27.0006359+00:00",
       "NumProgressed": 18172,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-28T06:06:30.4541919+00:00",
+      "NumProgressed": 18174,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10853,7 +10858,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "0004",
@@ -10973,7 +10978,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "0019",
@@ -11019,9 +11024,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3817
     },
     {
       "ID": "0025",
@@ -11029,7 +11034,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "0026",
@@ -11061,7 +11066,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "0030",
@@ -11124,7 +11129,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18172,
+      "Progressed": 18174,
       "Completed": 3
     }
   ],
@@ -11132,8 +11137,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:07:37.6318151+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:06:30.4541915+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:59:48.6278608+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:07:37.6318848+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:59:16.6498935+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:06:30.4542605+00:00"
 }

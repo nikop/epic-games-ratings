@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6319,9 +6319,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 208
     },
     {
       "ID": "20",
@@ -6646,8 +6646,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-25T16:58:14.5238308+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:07:44.4744399+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:06:36.6454989+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:14.6179541+00:00",
-  "LastUpdate_Ratings": "2023-09-28T04:59:19.8615037+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:07:44.4745045+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:58:50.9842479+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:06:36.6455632+00:00"
 }

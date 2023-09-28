@@ -20,6 +20,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.20% | ~1,431 |
 | Street Fighting | 0.20% | ~1,431 |
 | State of constant learning | 0.20% | ~1,431 |
+| Qi Gong: Mind | 0.20% | ~1,431 |
 | Qi Gong: Breath | 0.20% | ~1,431 |
 | Qi Gong: Essence | 0.20% | ~1,431 |
 | I know Kung-Fu | 0.20% | ~1,431 |
@@ -42,7 +43,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.10% | ~715 |
 | Healing Memory | 0.10% | ~715 |
 | Dance of the Praying Mantis | 0.10% | ~715 |
-| Qi Gong: Mind | 0.10% | ~715 |
 | The 36th Chamber of Kung-Fu | 0.10% | ~715 |
 | Master of the Phoenix Eye Fist | 0.10% | ~715 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~715 |

@@ -21,7 +21,7 @@ Number of Ratings: 209  (23.09.2022)
 | Surprise | 93.00% | ~2,091 |
 | Magnet | 91.00% | ~2,046 |
 | Industrial Area | 90.00% | ~2,023 |
-| Magnet Repel | 88.00% | ~1,978 |
+| Magnet Repel | 89.00% | ~2,001 |
 | You feel middle classy | 87.00% | ~1,956 |
 | Boomeraxe | 87.00% | ~1,956 |
 | Iron Pickaxe | 87.00% | ~1,956 |

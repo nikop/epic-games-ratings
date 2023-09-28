@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 4910,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1654,9 +1654,9 @@
       "ID": "achievement_01_03",
       "SetID": "4f1m94d",
       "Name": "Brand New Ride",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2848
     },
     {
       "ID": "achievement_01_04",
@@ -1951,8 +1951,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-09-26T18:04:36.0445807+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:08:25.1901273+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:07:13.8275993+00:00",
   "LastUpdate_AppInfo": "2023-09-21T16:57:16.7378524+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:03:13.1702533+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:08:25.1901587+00:00"
+  "LastUpdate_Ratings": "2023-09-28T06:02:10.0679475+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:07:13.8276293+00:00"
 }

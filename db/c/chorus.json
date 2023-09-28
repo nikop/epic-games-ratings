@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -2366,9 +2366,9 @@
       "ID": "MissionScavengingJob",
       "SetID": "a6c395p",
       "Name": "Another Life",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1036
     },
     {
       "ID": "MissionShipyard",
@@ -2494,8 +2494,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-09-28T05:08:07.2535888+00:00",
+  "LastChanged_Achievements": "2023-09-28T06:06:57.1867373+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.4828325+00:00",
-  "LastUpdate_Ratings": "2023-09-28T05:00:05.922226+00:00",
-  "LastUpdate_Achievements": "2023-09-28T05:08:07.2536257+00:00"
+  "LastUpdate_Ratings": "2023-09-28T05:59:31.9343221+00:00",
+  "LastUpdate_Achievements": "2023-09-28T06:06:57.1867714+00:00"
 }
