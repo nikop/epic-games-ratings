@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 86.92% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 86.66% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -31,7 +31,7 @@
 | 29 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 31 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.14% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.18% |
 | 33 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 9.09% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 35 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.51% |
@@ -44,10 +44,10 @@
 | 42 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 43 | [Scorn](games/s/scorn.md) | 7.03% |
 | 44 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.67% |
-| 45 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.38% |
-| 46 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
-| 47 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 6.01% |
+| 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
+| 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 46 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.25% |
+| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 6.00% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 49 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.80% |
@@ -127,8 +127,8 @@
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 126 | [Infindustry](games/i/infindustry.md) | 1.10% |
 | 127 | [Trifox](games/t/trifox.md) | 1.09% |
-| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
-| 129 | [Adios](games/a/adios.md) | 1.04% |
+| 128 | [Adios](games/a/adios.md) | 1.04% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 130 | [Sable](games/s/sable.md) | 1.01% |
 | 131 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
 | 131 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
@@ -144,7 +144,7 @@
 | 142 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.79% |
 | 143 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 144 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 144 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.72% |
+| 145 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.71% |
 | 146 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 147 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 148 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
@@ -171,10 +171,10 @@
 | 166 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 170 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 171 | [Tchia](games/t/tchia.md) | 0.44% |
-| 172 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.40% |
 | 172 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 172 | [Train Valley](games/t/train_valley.md) | 0.40% |
-| 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
+| 174 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.39% |
+| 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 176 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 176 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
