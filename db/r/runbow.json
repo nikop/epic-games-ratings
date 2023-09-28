@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249752,
+  "EOS_Progressed": 249753,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15164,6 +15164,11 @@
       "Time": "2023-09-28T06:05:31.8945941+00:00",
       "NumProgressed": 249752,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-28T11:05:22.8902089+00:00",
+      "NumProgressed": 249753,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15271,7 +15276,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44955
+      "UsersEstimate": 44956
     },
     {
       "ID": "curator",
@@ -15279,7 +15284,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49950
+      "UsersEstimate": 49951
     },
     {
       "ID": "didYourTime",
@@ -15479,7 +15484,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54945
+      "UsersEstimate": 54946
     },
     {
       "ID": "thunderstruck",
@@ -15542,7 +15547,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249752,
+      "Progressed": 249753,
       "Completed": 6
     }
   ],
@@ -15550,8 +15555,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:05:30.3190274+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:05:22.8902082+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.1432168+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:58:33.2217483+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:05:30.3191359+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:58:33.4216564+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:05:22.8904411+00:00"
 }

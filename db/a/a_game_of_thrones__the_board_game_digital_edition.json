@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24904,
+  "EOS_Progressed": 24907,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -18530,6 +18530,11 @@
       "Time": "2023-09-28T10:07:17.2173661+00:00",
       "NumProgressed": 24904,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-09-28T11:07:11.7261755+00:00",
+      "NumProgressed": 24907,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 22,
@@ -18613,7 +18618,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "1025",
@@ -18637,7 +18642,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "1028",
@@ -18653,7 +18658,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "1030",
@@ -18677,7 +18682,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9962
+      "UsersEstimate": 9963
     },
     {
       "ID": "1033",
@@ -18709,22 +18714,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24904,
+      "Progressed": 24907,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:07:17.2173657+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:07:11.726175+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:59:34.3927152+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:07:17.2174622+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:59:35.1819019+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:07:11.7263105+00:00"
 }

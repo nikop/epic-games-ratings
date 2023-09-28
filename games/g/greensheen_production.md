@@ -6,6 +6,7 @@
 | Toys Are For Kids | 50.00% | ~4 |
 | Schooled | 50.00% | ~4 |
 | ...And Stay Dead! | 50.00% | ~4 |
+| Mono Tones | 50.00% | ~4 |
 | True Colours | 50.00% | ~4 |
 | Evasive prey | 50.00% | ~4 |
 | Bully of Bullies | 38.00% | ~3 |
@@ -28,7 +29,6 @@
 | Post Industrial | 38.00% | ~3 |
 | Fly Free | 38.00% | ~3 |
 | Medicine ball | 38.00% | ~3 |
-| Mono Tones | 38.00% | ~3 |
 | Popcorn | 38.00% | ~3 |
 | First do no harm | 38.00% | ~3 |
 | How Do I Look? | 38.00% | ~3 |

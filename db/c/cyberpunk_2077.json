@@ -12617,10 +12617,10 @@
       "Count": 6760
     }
   ],
-  "EOS_Progressed": 883770,
-  "EOS_Completed": 2450,
-  "EOS_NewPlayers": 6183,
-  "EOS_NewCompleters": 325,
+  "EOS_Progressed": 883816,
+  "EOS_Completed": 2451,
+  "EOS_NewPlayers": 6209,
+  "EOS_NewCompleters": 326,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30692,6 +30692,11 @@
       "Time": "2023-09-28T10:06:01.675837+00:00",
       "NumProgressed": 883770,
       "NumCompleted": 2450
+    },
+    {
+      "Time": "2023-09-28T11:05:54.6349176+00:00",
+      "NumProgressed": 883816,
+      "NumCompleted": 2451
     }
   ],
   "TotalAchievements": 57,
@@ -30701,9 +30706,9 @@
       "ID": "Bladerunner",
       "SetID": "47clieb",
       "Name": "City Lights",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2651
+      "UsersEstimate": 3535
     },
     {
       "ID": "BornToBeWild",
@@ -30727,7 +30732,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7070
+      "UsersEstimate": 7071
     },
     {
       "ID": "Denied",
@@ -30735,7 +30740,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7070
+      "UsersEstimate": 7071
     },
     {
       "ID": "FollowingTheRiver",
@@ -30829,9 +30834,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3535
+      "UsersEstimate": 4419
     },
     {
       "ID": "MustBeTheRats",
@@ -30847,7 +30852,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7070
+      "UsersEstimate": 7071
     },
     {
       "ID": "NoMansLand",
@@ -30879,7 +30884,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7070
+      "UsersEstimate": 7071
     },
     {
       "ID": "Specialist",
@@ -30887,7 +30892,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17675
+      "UsersEstimate": 17676
     },
     {
       "ID": "Temperance",
@@ -30895,7 +30900,7 @@
       "Name": "Temperance",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6186
+      "UsersEstimate": 6187
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30903,7 +30908,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17675
+      "UsersEstimate": 17676
     },
     {
       "ID": "TheDevil",
@@ -30927,7 +30932,7 @@
       "Name": "The Hermit",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6186
+      "UsersEstimate": 6187
     },
     {
       "ID": "TheHightPriestess",
@@ -30967,15 +30972,15 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6186
+      "UsersEstimate": 6187
     },
     {
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 3535
+      "UsersEstimate": 4419
     },
     {
       "ID": "ThisIsPacifica",
@@ -30999,7 +31004,7 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7070
+      "UsersEstimate": 7071
     },
     {
       "ID": "TrueWarrior",
@@ -31007,7 +31012,7 @@
       "Name": "True Warrior",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6186
+      "UsersEstimate": 6187
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31158,21 +31163,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 883770,
-      "Completed": 2450
+      "Progressed": 883816,
+      "Completed": 2451
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12393,
+      "Progressed": 12439,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T08:58:17.619982+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:06:01.6758365+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:05:54.6349167+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:57:41.3178254+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:06:01.6759627+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:57:40.4362898+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:05:54.6351578+00:00"
 }

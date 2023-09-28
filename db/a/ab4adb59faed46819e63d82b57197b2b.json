@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
     "PcReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -130,9 +130,9 @@
       "ID": "DESTROY_N_BARRELS",
       "SetID": "dcng643",
       "Name": "Uselessness",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DIE_N_TIMES_IN_ROOM",
@@ -736,8 +736,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:03:25.3795644+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:03:16.5897165+00:00",
   "LastUpdate_AppInfo": "2023-09-21T17:57:07.2566661+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:59:17.0079922+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:03:25.3796422+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:59:17.0419586+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:03:16.5898126+00:00"
 }

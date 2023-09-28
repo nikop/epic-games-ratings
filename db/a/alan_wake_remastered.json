@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66351,
+  "EOS_Progressed": 66353,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 1,
@@ -16144,6 +16144,11 @@
       "Time": "2023-09-28T10:06:36.6063158+00:00",
       "NumProgressed": 66351,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-28T11:06:30.5770991+00:00",
+      "NumProgressed": 66353,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16155,7 +16160,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27867
+      "UsersEstimate": 27868
     },
     {
       "ID": "02",
@@ -16163,7 +16168,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17251
+      "UsersEstimate": 17252
     },
     {
       "ID": "03",
@@ -16171,7 +16176,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17251
+      "UsersEstimate": 17252
     },
     {
       "ID": "04",
@@ -16395,7 +16400,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11943
+      "UsersEstimate": 11944
     },
     {
       "ID": "32",
@@ -16427,7 +16432,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22559
+      "UsersEstimate": 22560
     },
     {
       "ID": "36",
@@ -16475,7 +16480,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11943
+      "UsersEstimate": 11944
     },
     {
       "ID": "42",
@@ -16690,21 +16695,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66351,
+      "Progressed": 66353,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29819,
+      "Progressed": 29821,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:06:36.606315+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:06:30.5770982+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:57:22.6482627+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:06:36.6064475+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:57:21.801188+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:06:30.5773334+00:00"
 }

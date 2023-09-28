@@ -6,26 +6,26 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,033 |
-| Un-Lonely Island | 46.00% | ~2,473 |
-| The Beginning of a Servantship | 45.00% | ~2,420 |
-| Trade Is My Trait | 37.00% | ~1,989 |
-| Number 18 | 24.00% | ~1,290 |
+| Just One...More...Term... | 75.00% | ~4,034 |
+| Un-Lonely Island | 46.00% | ~2,474 |
+| The Beginning of a Servantship | 45.00% | ~2,421 |
+| Trade Is My Trait | 37.00% | ~1,990 |
+| Number 18 | 24.00% | ~1,291 |
 | We Don't Have Time For That | 19.00% | ~1,022 |
+| The Legend of Langostino | 17.00% | ~914 |
 | The Governator | 17.00% | ~914 |
-| Caribbean Comrade | 16.00% | ~860 |
-| The Legend of Langostino | 16.00% | ~860 |
+| Caribbean Comrade | 16.00% | ~861 |
 | The Dreamer of Dreams | 15.00% | ~807 |
-| Go Sovereigns! | 11.00% | ~591 |
-| For Science! | 11.00% | ~591 |
+| Go Sovereigns! | 11.00% | ~592 |
+| For Science! | 11.00% | ~592 |
 | Happy Ending? | 10.00% | ~538 |
 | Of Seals And Men | 10.00% | ~538 |
 | Shackadelic | 10.00% | ~538 |
 | Double Trouble | 8.00% | ~430 |
 | Firestarter | 8.00% | ~430 |
-| I Owe You Nothing | 7.00% | ~376 |
-| Make Tropico Great Again! | 7.00% | ~376 |
-| French Connection | 7.00% | ~376 |
+| I Owe You Nothing | 7.00% | ~377 |
+| Make Tropico Great Again! | 7.00% | ~377 |
+| French Connection | 7.00% | ~377 |
 | Don't Panic! | 6.00% | ~323 |
 | Beware The Betman | 6.00% | ~323 |
 | Viva Tropico! | 5.00% | ~269 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~48 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,377 (Ranked 161)  
+Progressed: 5,379 (Ranked 161)  
 Completed: 2 (0.04%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 2 (0.04%) (Ranked 261)
 | 2023-09-25 | 5,340 | 2 |
 | 2023-09-26 | 5,355 | 2 |
 | 2023-09-27 | 5,374 | 2 |
-| 2023-09-28 | 5,377 | 2 |
+| 2023-09-28 | 5,379 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 343)  
 Sum: 693 (Ranked 282)  

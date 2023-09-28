@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13074,
+  "EOS_Progressed": 13075,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1929,
+  "EOS_NewPlayers": 1922,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6925,6 +6925,11 @@
       "Time": "2023-09-28T10:03:24.5426253+00:00",
       "NumProgressed": 13074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T11:03:15.8271358+00:00",
+      "NumProgressed": 13075,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -6945,7 +6950,7 @@
       "Name": "Data Miner",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "11",
@@ -6953,7 +6958,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "12",
@@ -6985,7 +6990,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "16",
@@ -7001,7 +7006,7 @@
       "Name": "Spore Taste",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "18",
@@ -7073,7 +7078,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "26",
@@ -7089,7 +7094,7 @@
       "Name": "Bosmang",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "28",
@@ -7153,7 +7158,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "8",
@@ -7176,7 +7181,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13074,
+      "Progressed": 13075,
       "Completed": 0
     }
   ],
@@ -7184,8 +7189,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:03:24.5426249+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:03:15.8271353+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:57:08.9665141+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:03:24.5426815+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:57:08.0369687+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:03:15.8272067+00:00"
 }

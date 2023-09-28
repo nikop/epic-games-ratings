@@ -3,8 +3,8 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -285,9 +285,9 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Platinum",
@@ -355,8 +355,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:04:39.9546651+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:04:32.6824172+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:59:52.9643144+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:04:39.9546857+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:59:53.9957786+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:04:32.6824608+00:00"
 }

@@ -40,9 +40,9 @@ Number of Ratings: 98  (23.09.2022)
 | The Enlightment | 6.00% | ~419 |
 | Generalissimo | 5.00% | ~349 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~279 |
+| Seeing Red | 4.00% | ~279 |
 | Farewell to Arms | 3.00% | ~210 |
 | Ponte of No Return | 3.00% | ~210 |
-| Seeing Red | 3.00% | ~210 |
 | Soča Drag | 3.00% | ~210 |
 | Saboteur | 2.00% | ~140 |
 | Compagnia della Morte | 1.00% | ~70 |

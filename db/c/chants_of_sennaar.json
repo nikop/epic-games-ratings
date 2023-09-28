@@ -1175,9 +1175,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1270,8 +1270,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:08:22.4327996+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:09:06.4526384+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:58:13.453968+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:08:22.4328195+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:58:13.6467651+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:09:06.4526646+00:00"
 }

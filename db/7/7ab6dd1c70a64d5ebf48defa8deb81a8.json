@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -172,9 +172,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_05",
@@ -316,9 +316,9 @@
       "ID": "ACH_22",
       "SetID": "efe2lj",
       "Name": "Fine Feathers Make Fine Birds",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 60,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_23",
@@ -396,9 +396,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_34",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:05:21.7475366+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:59:31.9880063+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:05:21.747559+00:00"
+  "LastChanged_Achievements": "2023-09-28T11:05:14.1005488+00:00",
+  "LastUpdate_Ratings": "2023-09-28T10:59:32.7564663+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:05:14.1005992+00:00"
 }

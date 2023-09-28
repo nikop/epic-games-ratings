@@ -1208,7 +1208,7 @@
   ],
   "EOS_Progressed": 18974,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18845,9 +18845,9 @@
       "ID": "PreempativeStrike",
       "SetID": "6ce5bmd",
       "Name": "Pre-empative strike",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2467
     },
     {
       "ID": "PushItToTheLimit",
@@ -19019,8 +19019,8 @@
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-25T05:01:02.6046686+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:03:46.3171224+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:03:37.7086092+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.6439511+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:57:42.8819806+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:03:46.3172357+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:57:42.104379+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:03:37.7087695+00:00"
 }

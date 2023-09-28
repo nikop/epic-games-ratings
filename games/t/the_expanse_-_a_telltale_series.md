@@ -7,20 +7,20 @@ Rating: 4.55 (Ranked 490)
 | ---- | ---------- | ----- |
 | Impossible Objects | 35.00% | ~4,576 |
 | Captain Drummer | 30.00% | ~3,922 |
-| Stogie for Fogey | 29.00% | ~3,791 |
+| Stogie for Fogey | 29.00% | ~3,792 |
 | Martian Music | 28.00% | ~3,661 |
 | Celebrations are in Order | 28.00% | ~3,661 |
-| Spore Taste | 26.00% | ~3,399 |
-| The Pit and the Pirates | 25.00% | ~3,268 |
+| Spore Taste | 26.00% | ~3,400 |
+| The Pit and the Pirates | 25.00% | ~3,269 |
 | Drone Dodger | 24.00% | ~3,138 |
 | Doctor Approved | 19.00% | ~2,484 |
-| Bosmang | 18.00% | ~2,353 |
+| Bosmang | 18.00% | ~2,354 |
 | Thorston Mayer | 16.00% | ~2,092 |
 | Bottoms up! | 13.00% | ~1,700 |
 | Call it Even | 13.00% | ~1,700 |
 | Data Archivist | 12.00% | ~1,569 |
 | Heal Thy Medic | 11.00% | ~1,438 |
-| Khan's Revenge | 10.00% | ~1,307 |
+| Khan's Revenge | 10.00% | ~1,308 |
 | Data Logger | 8.00% | ~1,046 |
 | Miraculous Maya | 7.00% | ~915 |
 | Data Master | 7.00% | ~915 |
@@ -29,14 +29,14 @@ Rating: 4.55 (Ranked 490)
 | Debris Spree | 4.00% | ~523 |
 | Urshanabi Hoarder | 3.00% | ~392 |
 | Brother's Reaper | 3.00% | ~392 |
-| Data Miner | 2.00% | ~261 |
-| Grave Robber | 2.00% | ~261 |
+| Data Miner | 2.00% | ~262 |
+| Grave Robber | 2.00% | ~262 |
 | Scavenger Star | 0.40% | ~52 |
 | Data Collector | 0.30% | ~39 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,074 (Ranked 133)  
+Progressed: 13,075 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 296)
 | 2023-09-25 | 12,768 | 0 |
 | 2023-09-26 | 12,944 | 0 |
 | 2023-09-27 | 13,049 | 0 |
-| 2023-09-28 | 13,074 | 0 |
+| 2023-09-28 | 13,075 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

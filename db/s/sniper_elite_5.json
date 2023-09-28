@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3675,
+  "EOS_Progressed": 3676,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6944,6 +6944,11 @@
       "Time": "2023-09-27T14:06:04.5390741+00:00",
       "NumProgressed": 3675,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-28T11:04:42.8817278+00:00",
+      "NumProgressed": 3676,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -6963,7 +6968,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6995,7 +7000,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7003,7 +7008,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7019,7 +7024,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7035,7 +7040,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7083,7 +7088,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -7171,7 +7176,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7195,7 +7200,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7219,7 +7224,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7291,7 +7296,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7522,13 +7527,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3626,
+      "Progressed": 3627,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3675,
+      "Progressed": 3676,
       "Completed": 11
     }
   ],
@@ -7536,8 +7541,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:04:50.2706927+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:04:42.8817271+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:00:00.5194424+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:04:50.2707819+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:00:01.5426077+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:04:42.8818799+00:00"
 }

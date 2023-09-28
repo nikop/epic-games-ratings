@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662649,
+  "EOS_Progressed": 662650,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16103,6 +16103,11 @@
       "Time": "2023-09-28T08:05:46.4810849+00:00",
       "NumProgressed": 662649,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-28T11:05:50.5025304+00:00",
+      "NumProgressed": 662650,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -16114,7 +16119,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477107
+      "UsersEstimate": 477108
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16122,7 +16127,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384336
+      "UsersEstimate": 384337
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16130,7 +16135,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152409
+      "UsersEstimate": 152410
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -16186,7 +16191,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46385
+      "UsersEstimate": 46386
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -16250,7 +16255,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152409
+      "UsersEstimate": 152410
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -16266,7 +16271,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112650
+      "UsersEstimate": 112651
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -16298,7 +16303,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19879
+      "UsersEstimate": 19880
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -16346,7 +16351,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46385
+      "UsersEstimate": 46386
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -16370,7 +16375,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19879
+      "UsersEstimate": 19880
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -16418,7 +16423,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19879
+      "UsersEstimate": 19880
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -16426,7 +16431,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46385
+      "UsersEstimate": 46386
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -16497,15 +16502,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662649,
+      "Progressed": 662650,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:05:57.5621973+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:05:50.5025299+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:12.7823898+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:57:42.2594661+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:05:57.5623192+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:57:41.4455114+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:05:50.5026691+00:00"
 }

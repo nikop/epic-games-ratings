@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -476,9 +476,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13357,
+  "EOS_Progressed": 13358,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -9241,6 +9241,11 @@
       "Time": "2023-09-28T10:05:51.11595+00:00",
       "NumProgressed": 13357,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-28T11:05:44.0364147+00:00",
+      "NumProgressed": 13358,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -9252,7 +9257,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12288
+      "UsersEstimate": 12289
     },
     {
       "ID": "ACH_02",
@@ -9260,7 +9265,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10552
+      "UsersEstimate": 10553
     },
     {
       "ID": "ACH_03",
@@ -9276,7 +9281,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9350
+      "UsersEstimate": 9351
     },
     {
       "ID": "ACH_05",
@@ -9292,7 +9297,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "ACH_07",
@@ -9300,7 +9305,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8281
+      "UsersEstimate": 8282
     },
     {
       "ID": "ACH_08",
@@ -9316,7 +9321,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7613
+      "UsersEstimate": 7614
     },
     {
       "ID": "ACH_10",
@@ -9340,7 +9345,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6144
+      "UsersEstimate": 6145
     },
     {
       "ID": "ACH_13",
@@ -9348,7 +9353,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5209
+      "UsersEstimate": 5210
     },
     {
       "ID": "ACH_14",
@@ -9372,7 +9377,7 @@
       "Name": "King Hugo",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "ACH_17",
@@ -9428,7 +9433,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "ACH_24",
@@ -9436,7 +9441,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACH_25",
@@ -9531,7 +9536,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13357,
+      "Progressed": 13358,
       "Completed": 47
     }
   ],
@@ -9539,8 +9544,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-27T10:59:16.3934909+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:05:51.1159495+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:05:44.0364142+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:58:40.7698917+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:05:51.1160139+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:58:41.2053785+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:05:44.0365031+00:00"
 }

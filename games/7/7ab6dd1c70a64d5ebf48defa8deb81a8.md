@@ -16,12 +16,13 @@
 | Geared Up | 3.00% | ~1 |
 | Fashion Victim | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
+| Miner | 3.00% | ~1 |
+| Calm before the Storm | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
+| Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
-| Miner | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
-| Calm before the Storm | -3.20% | ~-1 |
 | To Battle | -3.20% | ~-1 |
 | Godslayer | -3.20% | ~-1 |
 | Clear Sight | -3.20% | ~-1 |
@@ -30,7 +31,6 @@
 | Shatterer | -3.20% | ~-1 |
 | Slayer | -3.20% | ~-1 |
 | Big Bazar | -3.20% | ~-1 |
-| Fine Feathers Make Fine Birds | -3.20% | ~-1 |
 | All There Is | -3.20% | ~-1 |
 | False God | -3.20% | ~-1 |
 | All That Gold | -3.20% | ~-1 |

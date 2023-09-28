@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145404,
+  "EOS_Progressed": 145405,
   "EOS_Completed": 280,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1150,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12491,6 +12491,11 @@
       "Time": "2023-09-28T10:08:22.9237926+00:00",
       "NumProgressed": 145404,
       "NumCompleted": 280
+    },
+    {
+      "Time": "2023-09-28T11:09:06.9309997+00:00",
+      "NumProgressed": 145405,
+      "NumCompleted": 280
     }
   ],
   "TotalAchievements": 31,
@@ -12510,7 +12515,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101783
+      "UsersEstimate": 101784
     },
     {
       "ID": "EAwards_10",
@@ -12558,7 +12563,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17448
+      "UsersEstimate": 17449
     },
     {
       "ID": "EAwards_16",
@@ -12614,7 +12619,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15994
+      "UsersEstimate": 15995
     },
     {
       "ID": "EAwards_22",
@@ -12710,7 +12715,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15994
+      "UsersEstimate": 15995
     },
     {
       "ID": "EAwards_6",
@@ -12734,7 +12739,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 53799
+      "UsersEstimate": 53800
     },
     {
       "ID": "EAwards_9",
@@ -12742,14 +12747,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17448
+      "UsersEstimate": 17449
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 145404,
+      "Progressed": 145405,
       "Completed": 280
     }
   ],
@@ -12757,8 +12762,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-23T09:58:54.9188675+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:08:22.9237922+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:09:06.9309989+00:00",
   "LastUpdate_AppInfo": "2023-09-22T01:38:41.8395829+00:00",
-  "LastUpdate_Ratings": "2023-09-28T10:00:09.5787219+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:08:22.9238706+00:00"
+  "LastUpdate_Ratings": "2023-09-28T11:00:10.9697628+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:09:06.9311804+00:00"
 }

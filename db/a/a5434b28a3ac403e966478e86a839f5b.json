@@ -505,9 +505,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_eou2",
@@ -608,8 +608,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-28T10:04:20.4478365+00:00",
+  "LastChanged_Achievements": "2023-09-28T11:04:13.0255112+00:00",
   "LastUpdate_AppInfo": "2023-09-21T21:57:01.3125231+00:00",
-  "LastUpdate_Ratings": "2023-09-28T09:59:21.8277957+00:00",
-  "LastUpdate_Achievements": "2023-09-28T10:04:20.4478465+00:00"
+  "LastUpdate_Ratings": "2023-09-28T10:59:21.96186+00:00",
+  "LastUpdate_Achievements": "2023-09-28T11:04:13.0255252+00:00"
 }
