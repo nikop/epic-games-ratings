@@ -1,11 +1,11 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 86.66% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 86.39% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 28.44% |
+| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.36% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 27.19% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -177,10 +177,10 @@
 | 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 176 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 176 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
 | 176 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.38% |
 | 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 181 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 180 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 180 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
 | 182 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 182 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 184 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
@@ -246,15 +246,15 @@
 | 239 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 245 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 245 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.08% |
-| 247 | [Black Book](games/b/black_book.md) | 0.07% |
 | 247 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
 | 247 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 247 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 247 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 247 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 253 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 253 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 253 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 252 | [Black Book](games/b/black_book.md) | 0.06% |
+| 252 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 252 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 252 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 256 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 256 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 256 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |

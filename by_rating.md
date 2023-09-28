@@ -41,7 +41,7 @@
 | 30 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 525 |
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 509 | 202 |
 | 30 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 525 |
-| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,869 | 46 |
+| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,873 | 46 |
 | 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,578 | 65 |
 | 42 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 525 |
 | 42 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.85 | 0 | 525 |
@@ -73,7 +73,7 @@
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 456 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 709 | 170 |
 | 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 255 | 257 |
-| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,599 | 54 |
+| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,603 | 54 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 414 | 218 |
 | 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 48 | 413 |
 | 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 525 |
@@ -120,9 +120,9 @@
 | 115 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.77 | 48 | 413 |
 | 115 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 525 |
 | 120 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.76 | 28 | 474 |
-| 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,433 | 24 |
+| 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,442 | 24 |
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 525 |
-| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,342 | 92 |
+| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,345 | 92 |
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 972 | 148 |
 | 120 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 790 | 161 |
 | 120 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,108 | 17 |
@@ -434,7 +434,7 @@
 | 419 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 714 | 169 |
 | 419 | [Void Bastards](games/v/void_bastards.md) | 4.59 | 22 | 506 |
 | 419 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 20 | 521 |
-| 435 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,518 | 11 |
+| 435 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,553 | 11 |
 | 435 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 167 | 294 |
 | 435 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 525 |
 | 435 | [DOOM 3](games/d/doom_3.md) | 4.58 | 68 | 386 |
@@ -916,10 +916,10 @@
 | 909 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 276 |
 | 909 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 525 |
 | 909 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 525 |
-| 917 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.14 | 0 | 525 |
 | 917 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 525 |
 | 917 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 525 |
-| 920 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 525 |
+| 919 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 525 |
+| 919 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.13 | 0 | 525 |
 | 921 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 525 |
 | 922 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 89 | 359 |
 | 922 | [Obduction](games/o/obduction.md) | 4.10 | 54 | 399 |

@@ -170,7 +170,7 @@
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | - | - | 0 | - |
 | [Arena Renovation](games/a/a475e165d6c6476d9417458bc53cd71b.md) | - | - | 0 | - |
 | [Arise: A Simple Story](games/a/arise__a_simple_story.md) | - | - | 0 | - |
-| [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 435 | 61,518 | 11 |
+| [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 435 | 61,553 | 11 |
 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | - | - | 0 | - |
 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 922 | 89 | 359 |
 | [ART IS RIFLE](games/4/4b7032faef9f4152afeac58dfe13c3f2.md) | - | - | - | - |
@@ -330,7 +330,7 @@
 | [Blacksmith Master](games/b/blacksmith_master.md) | - | - | - | - |
 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 245 | 0 | 525 |
 | [Blade Strangers](games/b/blade_strangers.md) | - | - | 0 | - |
-| [Blair Witch](games/b/blair_witch.md) | 4.13 | 920 | 0 | 525 |
+| [Blair Witch](games/b/blair_witch.md) | 4.13 | 919 | 0 | 525 |
 | [Blanc](games/b/blanc.md) | - | - | 0 | - |
 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 866 | 32 | 463 |
 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 30 | 156 | 301 |
@@ -368,7 +368,7 @@
 | [Boom Blaster](games/b/boom_blaster.md) | - | - | 0 | - |
 | [Boomerang X](games/b/boomerang_x.md) | - | - | 0 | - |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | - | - | - | - |
-| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 120 | 15,433 | 24 |
+| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 120 | 15,442 | 24 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 221 | 117,549 | 8 |
 | [Borderlands: The Handsome Collection](games/b/borderlands__the_handsome_collection.md) | - | - | - | - |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 572 | 415 | 217 |
@@ -635,7 +635,7 @@
 | [Dark Matter](games/d/dark_matter.md) | - | - | 0 | - |
 | [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | - | - | - | - |
 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 245 | 7,419 | 49 |
-| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 120 | 3,342 | 92 |
+| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 120 | 3,345 | 92 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 537 | 43 | 427 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 353 | 386 | 223 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 572 | 91 | 357 |
@@ -767,7 +767,7 @@
 | [DOOM II](games/d/doom_ii.md) | 4.64 | 315 | 27 | 481 |
 | [DOOMBLADE](games/1/12a3a68913864eaa8420e575eb6dbd42.md) | - | - | 0 | - |
 | [Doomed Lands](games/d/doomed_lands.md) | - | - | 0 | - |
-| [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.14 | 917 | 0 | 525 |
+| [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.13 | 919 | 0 | 525 |
 | [Doomsday Paradise](games/d/doomsday_paradise.md) | - | - | - | - |
 | [Doomsday Vault](games/d/doomsday_vault.md) | - | - | 0 | - |
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | - | - | 0 | - |
@@ -868,7 +868,7 @@
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | - | - | - | - |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | - | - | 0 | - |
 | [Engine Evolution 2023](games/6/6a47fb709a8c4f68b7638c29ea628194.md) | - | - | - | - |
-| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 42 | 7,869 | 46 |
+| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 42 | 7,873 | 46 |
 | [Entropic Decay](games/6/634b4057b29d483a9f3d6541b362f681.md) | - | - | - | - |
 | [Epic Games store](games/e/epic_games_store.md) | - | - | - | - |
 | [Epic Wallet](games/e/epic_wallet.md) | - | - | - | - |
@@ -2331,7 +2331,7 @@
 | [Shy Cats Hidden Orchestra](games/7/744c73d9f99f416dabceeacaf91031a1.md) | - | - | - | - |
 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 148 | 38,580 | 13 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 953 | 0 | 525 |
-| [Sifu](games/s/sifu.md) | 4.82 | 66 | 6,599 | 54 |
+| [Sifu](games/s/sifu.md) | 4.82 | 66 | 6,603 | 54 |
 | [Silence](games/s/silence.md) | - | - | 0 | - |
 | [Silt](games/s/silt.md) | - | - | 0 | - |
 | [SIMULACRA 3](games/s/simulacra_3.md) | - | - | 0 | - |
@@ -2957,8 +2957,8 @@
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 735 | 206 | 273 |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.69 | 221 | 0 | 525 |
