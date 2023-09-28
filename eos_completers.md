@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.49% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.32% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -79,7 +79,7 @@
 | 77 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 77 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
 | 77 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 80 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.97% |
+| 80 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.96% |
 | 81 | [Mega City Police](games/m/mega_city_police.md) | 2.94% |
 | 82 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 83 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
@@ -87,7 +87,7 @@
 | 85 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 86 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 87 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
-| 88 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.57% |
+| 88 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.56% |
 | 89 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 90 | [Lamentum](games/l/lamentum.md) | 2.49% |
 | 91 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.43% |
@@ -149,10 +149,10 @@
 | 147 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 148 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 149 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
-| 149 | [Dead Space](games/d/dead_space.md) | 0.61% |
 | 149 | [Haven](games/h/haven.md) | 0.61% |
 | 149 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
-| 153 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.60% |
+| 152 | [Dead Space](games/d/dead_space.md) | 0.60% |
+| 152 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.60% |
 | 154 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.59% |
 | 155 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 155 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
