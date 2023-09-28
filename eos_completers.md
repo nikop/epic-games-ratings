@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.51% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.50% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -189,10 +189,10 @@
 | 186 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 186 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 189 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.32% |
-| 191 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 191 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 191 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 190 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.31% |
+| 190 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 194 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 194 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
 | 194 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
