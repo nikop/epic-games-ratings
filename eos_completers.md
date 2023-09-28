@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.50% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 87.49% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.52% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.38% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -36,7 +36,7 @@
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 35 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.51% |
 | 36 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.16% |
-| 37 | [Sonic Origins](games/s/sonic_origins.md) | 8.06% |
+| 37 | [Sonic Origins](games/s/sonic_origins.md) | 8.05% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.74% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
@@ -60,8 +60,8 @@
 | 58 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 59 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.40% |
-| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
-| 62 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.12% |
+| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 61 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.12% |
 | 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 64 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -87,16 +87,16 @@
 | 85 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 86 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 87 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
-| 88 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 89 | [Lamentum](games/l/lamentum.md) | 2.49% |
-| 90 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.43% |
-| 90 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
-| 92 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.38% |
-| 94 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 95 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.31% |
-| 96 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 97 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.21% |
+| 88 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.57% |
+| 89 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 90 | [Lamentum](games/l/lamentum.md) | 2.49% |
+| 91 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.43% |
+| 91 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.43% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
+| 93 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.38% |
+| 95 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
+| 96 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.32% |
+| 97 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 98 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 99 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.06% |
 | 100 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.05% |
@@ -245,13 +245,13 @@
 | 239 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 239 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 245 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 246 | [Black Book](games/b/black_book.md) | 0.07% |
-| 246 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
-| 246 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
-| 246 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 246 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 246 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.07% |
-| 246 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 245 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.08% |
+| 247 | [Black Book](games/b/black_book.md) | 0.07% |
+| 247 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
+| 247 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 247 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 247 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 247 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 253 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 253 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 253 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |

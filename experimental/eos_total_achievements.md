@@ -423,6 +423,7 @@
 | [Shadow Gambit: The Cursed Crew](../games/s/shadow_gambit__the_cursed_crew.md) | 26 | 1,000 |
 | [SPINGUN](../games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 26 | 1,000 |
 | [The Isle Tide Hotel](../games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 26 | 1,000 |
+| [The Legend of Tianding](../games/t/the_legend_of_tianding.md) | 26 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
 | [12 orbits](../games/1/12_orbits.md) | 25 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |

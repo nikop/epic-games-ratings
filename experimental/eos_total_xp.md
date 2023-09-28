@@ -614,6 +614,7 @@
 | [The House of Da Vinci 3](../games/6/6bd33f792d3d4350ab80acb891597df8.md) | 30 | 1,000 |
 | [The Inheritance of Crimson Manor](../games/t/the_inheritance_of_crimson_manor.md) | 12 | 1,000 |
 | [The Isle Tide Hotel](../games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 26 | 1,000 |
+| [The Legend of Tianding](../games/t/the_legend_of_tianding.md) | 26 | 1,000 |
 | [The Library of Babel](../games/t/the_library_of_babel.md) | 35 | 1,000 |
 | [The Light in the Darkness](../games/t/the_light_in_the_darkness.md) | 12 | 1,000 |
 | [The Lord of the Rings - Gollum™](../games/t/the_lord_of_the_rings_-_gollum™.md) | 36 | 1,000 |
