@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12543,10 +12543,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 233926,
       "NumberOfAwardsMax": 85114
+    },
+    {
+      "Time": "2023-09-28T16:58:24.2673944+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 234110,
+      "NumberOfAwardsMax": 85114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 233926,
+  "NumberOfAwards": 234110,
   "NumberOfAwardsMax": 85114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12620,13 +12626,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 6760
+      "Count": 6944
     }
   ],
-  "EOS_Progressed": 884063,
-  "EOS_Completed": 2457,
-  "EOS_NewPlayers": 6325,
-  "EOS_NewCompleters": 326,
+  "EOS_Progressed": 884130,
+  "EOS_Completed": 2458,
+  "EOS_NewPlayers": 6335,
+  "EOS_NewCompleters": 317,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30728,6 +30734,11 @@
       "Time": "2023-09-28T16:07:11.4305366+00:00",
       "NumProgressed": 884063,
       "NumCompleted": 2457
+    },
+    {
+      "Time": "2023-09-28T17:07:33.835243+00:00",
+      "NumProgressed": 884130,
+      "NumCompleted": 2458
     }
   ],
   "TotalAchievements": 57,
@@ -30739,7 +30750,7 @@
       "Name": "City Lights",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "BornToBeWild",
@@ -30747,7 +30758,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6188
+      "UsersEstimate": 6189
     },
     {
       "ID": "BushidoAndChill",
@@ -30811,7 +30822,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "Gunslinger",
@@ -30819,7 +30830,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17681
+      "UsersEstimate": 17683
     },
     {
       "ID": "HandyMan",
@@ -30859,7 +30870,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "MaxPain",
@@ -30867,7 +30878,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "MustBeTheRats",
@@ -30923,7 +30934,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17681
+      "UsersEstimate": 17683
     },
     {
       "ID": "Temperance",
@@ -30931,7 +30942,7 @@
       "Name": "Temperance",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6188
+      "UsersEstimate": 6189
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -30939,15 +30950,15 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17681
+      "UsersEstimate": 17683
     },
     {
       "ID": "TheDevil",
       "SetID": "47clieb",
       "Name": "The Devil",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4420
+      "UsersEstimate": 5305
     },
     {
       "ID": "TheFool",
@@ -30955,7 +30966,7 @@
       "Name": "The Fool",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5305
     },
     {
       "ID": "TheHermit",
@@ -30979,7 +30990,7 @@
       "Name": "The Lovers",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5305
     },
     {
       "ID": "TheStar",
@@ -31011,7 +31022,7 @@
       "Name": "The World",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "ThisIsPacifica",
@@ -31019,7 +31030,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "TradeUnion",
@@ -31043,7 +31054,7 @@
       "Name": "True Warrior",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6188
+      "UsersEstimate": 6189
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31057,9 +31068,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3536
+      "UsersEstimate": 4421
     },
     {
       "ID": "VForVendetta",
@@ -31075,7 +31086,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31083,7 +31094,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6188
+      "UsersEstimate": 6189
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31137,9 +31148,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "Kingofcups",
@@ -31194,21 +31205,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884063,
-      "Completed": 2457
+      "Progressed": 884130,
+      "Completed": 2458
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12686,
+      "Progressed": 12753,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-28T13:58:19.404068+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:07:11.4305359+00:00",
+  "LastChanged": "2023-09-28T16:58:24.2673941+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:07:33.8352425+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:25.2488847+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:07:11.4307352+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:58:24.2673951+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:07:33.8354733+00:00"
 }

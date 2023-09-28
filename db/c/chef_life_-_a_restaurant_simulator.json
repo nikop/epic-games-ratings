@@ -2,10 +2,10 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2699,6 +2699,11 @@
       "Time": "2023-09-28T14:05:31.7482262+00:00",
       "NumProgressed": 621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T17:05:30.9037763+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2886,7 +2891,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "Packing20",
@@ -2974,7 +2979,7 @@
       "Name": "Italian Style",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "UnlockAssiette",
@@ -3029,7 +3034,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 0
     }
   ],
@@ -3037,8 +3042,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:05:25.8871791+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:05:30.9037757+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.2940443+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:03:23.5732939+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:05:25.8872332+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:03:15.0641401+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:05:30.9038611+00:00"
 }

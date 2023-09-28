@@ -4,8 +4,8 @@
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -132,9 +132,9 @@
       "ID": "19",
       "SetID": "6hl9l7f",
       "Name": "Spine Dragon",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "2",
@@ -348,17 +348,17 @@
       "ID": "6",
       "SetID": "6hl9l7f",
       "Name": "Loadout Accepted",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "7",
       "SetID": "6hl9l7f",
       "Name": "ViKing 2000",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "8",
@@ -386,8 +386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:04:56.4673419+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:04:56.2938999+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:01:05.3396062+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:04:56.4673747+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:01:35.9909169+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:04:56.2939607+00:00"
 }

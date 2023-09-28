@@ -3,8 +3,8 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -722,6 +722,11 @@
       "Time": "2023-09-28T13:15:05.3475671+00:00",
       "NumProgressed": 274,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-28T17:09:58.5196759+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -750,7 +755,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_12",
@@ -790,7 +795,7 @@
       "Name": "Star Power",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_17",
@@ -798,7 +803,7 @@
       "Name": "Clean Sheet",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_18",
@@ -806,7 +811,7 @@
       "Name": "Perfect Round",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_2",
@@ -814,15 +819,15 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_3",
       "SetID": "7ldgi7j",
       "Name": "A Passion for Excellence",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_4",
@@ -836,9 +841,9 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_6",
@@ -862,7 +867,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 60,
       "XP": 35,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_9",
@@ -877,13 +882,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:09:36.6081283+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:09:58.5196751+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:00:24.7481433+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:09:36.6081463+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:00:46.7365182+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:09:58.5197+00:00"
 }

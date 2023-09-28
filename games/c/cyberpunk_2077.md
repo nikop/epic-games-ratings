@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gunslinger | 2.00% | ~17,681 |
-| Ten out of Ten | 2.00% | ~17,681 |
-| Rough Landing | 2.00% | ~17,681 |
+| Gunslinger | 2.00% | ~17,683 |
+| Ten out of Ten | 2.00% | ~17,683 |
+| Rough Landing | 2.00% | ~17,683 |
 | Master Crafter | 1.00% | ~8,841 |
 | Mean Streets | 1.00% | ~8,841 |
 | The High Priestess | 1.00% | ~8,841 |
@@ -22,21 +22,21 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.80% | ~7,073 |
 | The Hermit | 0.80% | ~7,073 |
 | The Wheel of Fortune | 0.80% | ~7,073 |
-| To Bad Decisions! | 0.70% | ~6,188 |
-| Temperance | 0.70% | ~6,188 |
-| True Warrior | 0.70% | ~6,188 |
-| Legend of The Afterlife | 0.70% | ~6,188 |
-| The Fool | 0.60% | ~5,304 |
-| The Lovers | 0.60% | ~5,304 |
-| The Quick and the Dead | 0.50% | ~4,420 |
-| The Devil | 0.50% | ~4,420 |
-| The World | 0.50% | ~4,420 |
-| It's Elementary | 0.50% | ~4,420 |
-| City Lights | 0.40% | ~3,536 |
-| Gun Fu | 0.40% | ~3,536 |
-| Christmas Tree Attack | 0.40% | ~3,536 |
-| Greetings from Pacifica! | 0.40% | ~3,536 |
-| Judy vs Night City | 0.40% | ~3,536 |
+| To Bad Decisions! | 0.70% | ~6,189 |
+| Temperance | 0.70% | ~6,189 |
+| True Warrior | 0.70% | ~6,189 |
+| Legend of The Afterlife | 0.70% | ~6,189 |
+| The Devil | 0.60% | ~5,305 |
+| The Fool | 0.60% | ~5,305 |
+| The Lovers | 0.60% | ~5,305 |
+| The Quick and the Dead | 0.50% | ~4,421 |
+| The World | 0.50% | ~4,421 |
+| Judy vs Night City | 0.50% | ~4,421 |
+| It's Elementary | 0.50% | ~4,421 |
+| City Lights | 0.40% | ~3,537 |
+| Gun Fu | 0.40% | ~3,537 |
+| Christmas Tree Attack | 0.40% | ~3,537 |
+| Greetings from Pacifica! | 0.40% | ~3,537 |
 | Bushido and Chill | 0.20% | ~1,768 |
 | The Wandering Fool | 0.20% | ~1,768 |
 | Autojock | 0.20% | ~1,768 |
@@ -45,13 +45,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Must Be Rats | 0.20% | ~1,768 |
 | Life of the Road | 0.20% | ~1,768 |
 | The Sun | 0.20% | ~1,768 |
+| Spin Doctor | 0.20% | ~26 |
 | To Protect and Serve | 0.10% | ~884 |
 | Little Tokyo | 0.10% | ~884 |
 | The Wasteland | 0.10% | ~884 |
 | Daemon In The Shell | 0.10% | ~884 |
 | The Star | 0.10% | ~884 |
 | The APB is Not Enough | 0.10% | ~13 |
-| Spin Doctor | 0.10% | ~13 |
 | Relic Ruler | 0.10% | ~13 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 884,063 (Ranked 15)  
-Completed: 2,457 (0.28%) (Ranked 199)  
+Progressed: 884,130 (Ranked 15)  
+Completed: 2,458 (0.28%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,10 +225,10 @@ Completed: 2,457 (0.28%) (Ranked 199)
 | 2023-09-25 | 881,541 | 2,384 |
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
-| 2023-09-28 | 884,063 | 2,457 |
+| 2023-09-28 | 884,130 | 2,458 |
 ## Awards
 Max (Character Customization): 85,114  (Ranked 9)  
-Sum: 233,926 (Ranked 13)  
+Sum: 234,110 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -242,7 +242,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 10,535 |
 | This game has Amazing Characters | 10,457 |
 | This game has Quickly Understood Controls | 10,322 |
-| This game has a Creative Community | 6,760 |
+| This game has a Creative Community | 6,944 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -498,4 +498,4 @@ Diff (max vs sum): -4
 | 2023-09-25 | 4.62 | - | 81,778 | 222,002 |
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
-| 2023-09-28 | 4.63 | - | 85,114 | 233,926 |
+| 2023-09-28 | 4.63 | - | 85,114 | 234,110 |

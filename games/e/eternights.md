@@ -25,12 +25,12 @@
 | Plushyboy | 6.00% | ~14 |
 | Flawless | 5.00% | ~12 |
 | Yohan's Promise | 4.00% | ~9 |
-| LOVEassistant | 3.00% | ~7 |
+| LOVEassistant | 4.00% | ~9 |
 | Dreamboat | 2.00% | ~5 |
 | True Player | 0.90% | ~2 |
 | Bond Lord | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 326)  
+Progressed: 231 (Ranked 327)  
 Completed: 2 (0.87%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |

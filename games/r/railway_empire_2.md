@@ -10,7 +10,7 @@ Rating: 4.46 (Ranked 632)
 | Departure | 73.00% | ~1,429 |
 | From X to Y | 72.00% | ~1,409 |
 | Way of Iron | 70.00% | ~1,370 |
-| Mystery Tour | 68.00% | ~1,331 |
+| Mystery Tour | 69.00% | ~1,350 |
 | We brake for nobody | 67.00% | ~1,311 |
 | Brainstorm | 66.00% | ~1,292 |
 | Mind the Gap | 65.00% | ~1,272 |
@@ -61,7 +61,7 @@ Rating: 4.46 (Ranked 632)
 | Together we stand | 0.60% | ~12 |
 | Three Cheers for Progress | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,957 (Ranked 199)  
+Progressed: 1,957 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3242,9 +3242,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72923,
+  "EOS_Progressed": 72924,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -16937,6 +16937,11 @@
       "Time": "2023-09-28T16:08:14.3616517+00:00",
       "NumProgressed": 72923,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-28T17:08:46.8796178+00:00",
+      "NumProgressed": 72924,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -16996,7 +17001,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16772
+      "UsersEstimate": 16773
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17036,7 +17041,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10938
+      "UsersEstimate": 10939
     },
     {
       "ID": "CHALLENGES_1",
@@ -17188,7 +17193,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13855
+      "UsersEstimate": 13856
     },
     {
       "ID": "FREEZE_3",
@@ -17324,7 +17329,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20418
+      "UsersEstimate": 20419
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17356,7 +17361,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16772
+      "UsersEstimate": 16773
     },
     {
       "ID": "MYSTERY_04",
@@ -17380,7 +17385,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10938
+      "UsersEstimate": 10939
     },
     {
       "ID": "MYSTERY_07",
@@ -17435,13 +17440,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72923,
+      "Progressed": 72924,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43203,
+      "Progressed": 43204,
       "Completed": 2668
     }
   ],
@@ -17449,8 +17454,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-28T13:04:39.3599982+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:08:14.3616509+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:08:46.8796171+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:59:16.3902351+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:08:14.3618849+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:59:25.8983702+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:08:46.8798699+00:00"
 }

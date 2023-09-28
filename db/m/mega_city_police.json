@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -327,9 +327,9 @@
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LEVEL_03",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:06:17.3826261+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:06:30.3331786+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:16.8397179+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:58.767327+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:06:17.3826474+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:59:04.9178021+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:06:30.3332134+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 401,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 898,
+  "EOS_Progressed": 899,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2300,6 +2300,11 @@
       "Time": "2023-09-28T05:07:10.8025052+00:00",
       "NumProgressed": 898,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T17:07:31.1058198+00:00",
+      "NumProgressed": 899,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2471,7 +2476,7 @@
       "Name": "Rail Rat",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "HexlockGift",
@@ -2599,7 +2604,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "RewindParry",
@@ -2734,7 +2739,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 898,
+      "Progressed": 899,
       "Completed": 5
     }
   ],
@@ -2742,8 +2747,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:07:08.9995971+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:07:31.1058191+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:59:50.9164305+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:07:08.9996774+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:00:07.0448703+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:07:31.1059019+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,7 +524,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3676,
+  "EOS_Progressed": 3677,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -6949,6 +6949,11 @@
       "Time": "2023-09-28T11:04:42.8817278+00:00",
       "NumProgressed": 3676,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-28T17:05:49.7310566+00:00",
+      "NumProgressed": 3677,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7128,7 +7133,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7208,7 +7213,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7216,7 +7221,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7328,7 +7333,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7336,7 +7341,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7527,13 +7532,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3627,
+      "Progressed": 3628,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3676,
+      "Progressed": 3677,
       "Completed": 11
     }
   ],
@@ -7541,8 +7546,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:05:41.8605652+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:05:49.7310559+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:01:23.6831801+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:05:41.8606704+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:01:58.0887004+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:05:49.7312543+00:00"
 }

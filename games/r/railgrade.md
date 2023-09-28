@@ -7,19 +7,19 @@ Rating: 4.55 (Ranked 490)
 | ---- | ---------- | ----- |
 | Trevithick's Legacy | 99.00% | ~19,058 |
 | Before the Downfall | 95.00% | ~18,288 |
-| Money like Water | 93.00% | ~17,903 |
+| Money like Water | 93.00% | ~17,902 |
 | Minimalist | 91.00% | ~17,518 |
-| Builder | 84.00% | ~16,171 |
+| Builder | 84.00% | ~16,170 |
 | Eraser | 71.00% | ~13,668 |
-| Pocket of Trains | 66.00% | ~12,706 |
-| Inspector | 60.00% | ~11,551 |
+| Pocket of Trains | 66.00% | ~12,705 |
+| Inspector | 60.00% | ~11,550 |
 | Going the Distance | 55.00% | ~10,588 |
 | Oil Baron | 43.00% | ~8,278 |
 | Loads-a-Money | 43.00% | ~8,278 |
 | Helper of the People | 40.00% | ~7,700 |
 | Simplification | 34.00% | ~6,545 |
 | Box of Trains | 34.00% | ~6,545 |
-| Let There be Light | 33.00% | ~6,353 |
+| Let There be Light | 33.00% | ~6,352 |
 | Hot Water | 31.00% | ~5,968 |
 | Indecisive | 30.00% | ~5,775 |
 | The scenic route | 28.00% | ~5,390 |
@@ -28,7 +28,7 @@ Rating: 4.55 (Ranked 490)
 | 8K is Enough for Everyone | 23.00% | ~4,428 |
 | Trains over Pipes | 23.00% | ~4,428 |
 | Man of Steel | 17.00% | ~3,273 |
-| Room Full of Trains | 13.00% | ~2,503 |
+| Room Full of Trains | 13.00% | ~2,502 |
 | Investor | 10.00% | ~1,925 |
 | Multiverse | 7.00% | ~1,348 |
 | The poor groundwater levels | 7.00% | ~1,348 |
@@ -36,14 +36,14 @@ Rating: 4.55 (Ranked 490)
 | High Flier | 3.00% | ~578 |
 | To infinity, and beyond! | 3.00% | ~578 |
 | Space industrialization | 2.00% | ~385 |
-| Deertastic | 1.00% | ~193 |
-| High tech | 1.00% | ~193 |
-| Cleanup crew | 1.00% | ~193 |
-| Flying Lightning | 1.00% | ~193 |
+| Deertastic | 1.00% | ~192 |
+| High tech | 1.00% | ~192 |
+| Cleanup crew | 1.00% | ~192 |
+| Flying Lightning | 1.00% | ~192 |
 | Overdeer | 0.60% | ~116 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,251 (Ranked 118)  
+Progressed: 19,250 (Ranked 118)  
 Completed: 35 (0.18%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,13 +204,13 @@ Completed: 35 (0.18%) (Ranked 215)
 | 2023-09-28 | 19,254 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 359)  
-Sum: 667 (Ranked 288)  
+Sum: 668 (Ranked 288)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 89 |
 | This game has Quickly Understood Controls | 89 |
 | This game is Relaxing | 88 |
-| This game is Great for Beginners | 88 |
 | This game is Highly Recommended | 88 |
 | This game is Extremely Fun | 84 |
 | This game has Amazing Storytelling | 81 |
@@ -281,3 +281,4 @@ Diff (max vs sum): 71
 | 2023-09-18 | 4.54 | 88 | 666 |
 | 2023-09-21 | 4.55 | 88 | 666 |
 | 2023-09-24 | 4.55 | 89 | 667 |
+| 2023-09-28 | 4.55 | 89 | 668 |

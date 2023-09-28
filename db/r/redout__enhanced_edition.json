@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232671,
+  "EOS_Progressed": 232672,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17288,6 +17288,11 @@
       "Time": "2023-09-28T16:09:14.4749186+00:00",
       "NumProgressed": 232671,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-28T17:09:33.1802245+00:00",
+      "NumProgressed": 232672,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -17435,7 +17440,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76781
+      "UsersEstimate": 76782
     },
     {
       "ID": "NOBUNAGA",
@@ -17563,22 +17568,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95395
+      "UsersEstimate": 95396
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232671,
+      "Progressed": 232672,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:09:14.4749178+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:09:33.180224+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:50.3170305+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:40.5790984+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:09:14.4750877+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:58:42.9399235+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:09:33.1804488+00:00"
 }

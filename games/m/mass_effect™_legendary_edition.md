@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~413 |
-| Spectre Inductee | 83.00% | ~369 |
+| Spectre Inductee | 84.00% | ~373 |
 | Medal of Exploration I | 75.00% | ~333 |
 | Recruit | 71.00% | ~315 |
 | Search and Rescue | 71.00% | ~315 |
@@ -61,8 +61,8 @@
 | Revenge! | 29.00% | ~129 |
 | Heart of Darkness | 29.00% | ~129 |
 | Driven | 29.00% | ~129 |
+| Focused | 28.00% | ~124 |
 | Catharsis | 28.00% | ~124 |
-| Focused | 27.00% | ~120 |
 | Cat's in the Cradle | 27.00% | ~120 |
 | Doppelganger | 27.00% | ~120 |
 | Treason | 27.00% | ~120 |
@@ -82,10 +82,10 @@
 | Liberator | 23.00% | ~102 |
 | Savior | 22.00% | ~98 |
 | World Shaker | 22.00% | ~98 |
+| Pathfinder | 20.00% | ~89 |
 | Tunnel Rat | 20.00% | ~89 |
 | Paramour II | 19.00% | ~84 |
 | No One Left Behind | 19.00% | ~84 |
-| Pathfinder | 19.00% | ~84 |
 | Arbiter | 19.00% | ~84 |
 | Lost and Found | 19.00% | ~84 |
 | Electronics Specialist | 18.00% | ~80 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~4 |
 | The One and Only | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 273)  
+Progressed: 444 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

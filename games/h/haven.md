@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~29 |
 | À la carte | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,470 (Ranked 213)  
+Progressed: 1,470 (Ranked 214)  
 Completed: 9 (0.61%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |

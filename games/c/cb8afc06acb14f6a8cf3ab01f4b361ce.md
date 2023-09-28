@@ -4,24 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 8.00% | ~16 |
-| Let's raise the stakes!! | 8.00% | ~16 |
-| The touch of Chaos | 5.00% | ~10 |
-| Your wounds… They are healing so fast! | 5.00% | ~10 |
-| Bring it on! | 5.00% | ~10 |
-| A powerful aura was here | 3.00% | ~6 |
-| Rumors are true | 3.00% | ~6 |
-| We'll be careful | 3.00% | ~6 |
-| Back to your senses | 3.00% | ~6 |
-| They tricked me | 3.00% | ~6 |
-| We need to talk | 3.00% | ~6 |
-| I feel drawn to it | 3.00% | ~6 |
-| Here to stay | 3.00% | ~6 |
-| Counting on you | 3.00% | ~6 |
-| This is the end | 3.00% | ~6 |
-| We can choose to fight | 3.00% | ~6 |
-| They won't last long | 3.00% | ~6 |
-| Pride is a sin, young Knight | 3.00% | ~6 |
+| The touch of Chaos | 16.00% | ~432 |
+| May the Torchbearer light our way | 10.00% | ~270 |
+| A powerful aura was here | 2.00% | ~54 |
+| Bring it on! | 2.00% | ~54 |
+| Let's raise the stakes!! | 2.00% | ~54 |
+| You want more? I've got more! | 0.30% | ~8 |
+| Rumors are true | 0.10% | ~3 |
+| We'll be careful | 0.10% | ~3 |
+| Back to your senses | 0.10% | ~3 |
+| They tricked me | 0.10% | ~3 |
+| We need to talk | 0.10% | ~3 |
+| I feel drawn to it | 0.10% | ~3 |
+| Here to stay | 0.10% | ~3 |
+| Counting on you | 0.10% | ~3 |
+| This is the end | 0.10% | ~3 |
+| We can choose to fight | 0.10% | ~3 |
+| They won't last long | 0.10% | ~3 |
+| Pride is a sin, young Knight | 0.10% | ~3 |
+| Your wounds… They are healing so fast! | 0.10% | ~3 |
 | No damsels in distress | 0.00% | ~0 |
 | The immortal is bound to reborn | 0.00% | ~0 |
 | A legend among Chimeras | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | Their fate is sealed | 0.00% | ~0 |
 | Not even from this world | 0.00% | ~0 |
 | I've been waiting for this! | 0.00% | ~0 |
-| You want more? I've got more! | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
 | We learned it the hard way | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
@@ -45,9 +45,9 @@
 | Chaos be damned! | 0.00% | ~0 |
 | I took a risk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 335)  
+Progressed: 2,698 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-28 | 206 | 0 |
+| 2023-09-28 | 2,698 | 0 |

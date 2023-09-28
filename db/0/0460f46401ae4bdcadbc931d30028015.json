@@ -5,10 +5,10 @@
   "Ranking_Rating": 938,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 206,
+  "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "ID": "achievement_15",
       "SetID": "aiin7da",
       "Name": "Pocket Ace",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_16",
@@ -1198,8 +1198,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-28T00:01:49.1182859+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:08:12.9338256+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:08:45.4060983+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:57:51.1208458+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:08:12.9338602+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:57:43.2063449+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:08:45.4061301+00:00"
 }

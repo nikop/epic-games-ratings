@@ -30,7 +30,7 @@
 | No real winner | 0.00% | ~0 |
 | Triple Punch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 514)  
+Progressed: 8 (Ranked 515)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1767,9 +1767,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14177,
+  "EOS_Progressed": 14179,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12452,6 +12452,11 @@
       "Time": "2023-09-28T16:05:37.176496+00:00",
       "NumProgressed": 14177,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-28T17:05:44.4228984+00:00",
+      "NumProgressed": 14179,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13087,7 +13092,7 @@
       "Name": "Settler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -14085,9 +14090,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -14215,7 +14220,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -14830,21 +14835,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14177,
+      "Progressed": 14179,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14177,
+      "Progressed": 14179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-28T08:03:05.7552911+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:05:37.1764957+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:05:44.4228975+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:34.4356147+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:03:20.8216137+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:05:37.1774704+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:03:11.7487477+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:05:44.4239238+00:00"
 }

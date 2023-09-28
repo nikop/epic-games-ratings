@@ -23,8 +23,8 @@ Rating: 4.42 (Ranked 687)
 | Technophobe | 40.00% | ~587 |
 | Recycler | 39.00% | ~572 |
 | Are you not entertained? | 35.00% | ~513 |
+| Ganglord | 35.00% | ~513 |
 | Jarhead | 35.00% | ~513 |
-| Ganglord | 34.00% | ~499 |
 | Infiltrator | 34.00% | ~499 |
 | Experienced | 32.00% | ~469 |
 | Pushing Daisy | 32.00% | ~469 |
@@ -57,7 +57,7 @@ Rating: 4.42 (Ranked 687)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,467 (Ranked 215)  
+Progressed: 1,467 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

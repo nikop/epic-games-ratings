@@ -6,25 +6,25 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 31.00% | ~70,434 |
-| Where's that freaking Dwarf? | 5.00% | ~11,360 |
-| Alt+F4 | 5.00% | ~11,360 |
-| Déjà vu | 4.00% | ~9,088 |
-| A beer, two curses, three companions | 3.00% | ~6,816 |
-| Sock! SOCK! | 3.00% | ~6,816 |
-| GG EZ | 3.00% | ~6,816 |
-| DM intervention | 3.00% | ~6,816 |
-| Speedrun | 3.00% | ~6,816 |
-| Livin' in a dwarven paradise | 2.00% | ~4,544 |
-| Way of the Wimp | 2.00% | ~4,544 |
-| The plot thickens... At the tavern | 2.00% | ~4,544 |
-| The demons' feast | 2.00% | ~4,544 |
-| The Great Library | 2.00% | ~4,544 |
-| Torture and Sensibility | 2.00% | ~4,544 |
-| The Woman in the High Castle | 2.00% | ~4,544 |
-| Team Building Exercise | 2.00% | ~4,544 |
-| Oh, when I'll be level 10... | 2.00% | ~4,544 |
-| Fireproof Wizardess | 2.00% | ~4,544 |
+| Sowwy! | 31.00% | ~70,442 |
+| Where's that freaking Dwarf? | 5.00% | ~11,362 |
+| Alt+F4 | 5.00% | ~11,362 |
+| Déjà vu | 4.00% | ~9,089 |
+| A beer, two curses, three companions | 3.00% | ~6,817 |
+| Sock! SOCK! | 3.00% | ~6,817 |
+| GG EZ | 3.00% | ~6,817 |
+| DM intervention | 3.00% | ~6,817 |
+| Speedrun | 3.00% | ~6,817 |
+| Livin' in a dwarven paradise | 2.00% | ~4,545 |
+| Way of the Wimp | 2.00% | ~4,545 |
+| The plot thickens... At the tavern | 2.00% | ~4,545 |
+| The demons' feast | 2.00% | ~4,545 |
+| The Great Library | 2.00% | ~4,545 |
+| Torture and Sensibility | 2.00% | ~4,545 |
+| The Woman in the High Castle | 2.00% | ~4,545 |
+| Team Building Exercise | 2.00% | ~4,545 |
+| Oh, when I'll be level 10... | 2.00% | ~4,545 |
+| Fireproof Wizardess | 2.00% | ~4,545 |
 | Shiny and Crôm | 1.00% | ~2,272 |
 | Urik's Depths | 1.00% | ~2,272 |
 | The Dungeon Master | 1.00% | ~2,272 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.80% | ~1,818 |
 | Lust and Debauchery | 0.80% | ~1,818 |
 | Material Girl | 0.80% | ~1,818 |
-| Gargantua | 0.70% | ~1,590 |
+| Gargantua | 0.70% | ~1,591 |
 | In Navalu's footsteps | 0.60% | ~1,363 |
 | We come in peace | 0.50% | ~1,136 |
 | Lëgal Legend | 0.50% | ~1,136 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,206 (Ranked 58)  
+Progressed: 227,232 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 5 (0.00%) (Ranked 296)
 | 2023-09-25 | 226,750 | 3 |
 | 2023-09-26 | 226,941 | 3 |
 | 2023-09-27 | 227,123 | 4 |
-| 2023-09-28 | 227,206 | 5 |
+| 2023-09-28 | 227,232 | 5 |
 ## Awards
 Max (Character Customization): 199  (Ranked 277)  
 Sum: 389 (Ranked 326)  

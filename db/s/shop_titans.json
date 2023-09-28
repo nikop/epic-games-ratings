@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6280,9 +6280,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136808,
+  "EOS_Progressed": 136812,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -22810,6 +22810,11 @@
       "Time": "2023-09-28T16:07:38.3811794+00:00",
       "NumProgressed": 136808,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-09-28T17:08:04.8100633+00:00",
+      "NumProgressed": 136812,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 112,
@@ -23435,9 +23440,9 @@
       "ID": "lilu_a",
       "SetID": "anfd17p",
       "Name": "Miracle Alchemist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 821
     },
     {
       "ID": "loot01",
@@ -23499,9 +23504,9 @@
       "ID": "master04",
       "SetID": "anfd17p",
       "Name": "Precision Engineering",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 684
     },
     {
       "ID": "master05",
@@ -23531,9 +23536,9 @@
       "ID": "quest01",
       "SetID": "anfd17p",
       "Name": "Did we pack lunch?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1231
     },
     {
       "ID": "quest02",
@@ -23716,15 +23721,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136808,
+      "Progressed": 136812,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-28T06:59:09.0234422+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:07:38.3811788+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:08:04.8100626+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:31.7036708+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:07:38.3814349+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:58:32.0064485+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:08:04.810533+00:00"
 }

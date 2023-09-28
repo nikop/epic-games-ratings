@@ -4,8 +4,8 @@
   "ProductSlug": "atrio-the-dark-wild",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.57182+00:00",
   "LastChanged": "2023-03-31T05:58:30.5718201+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:48.6369804+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:18.4761503+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:09:32.0632536+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:58:16.1407986+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:09:53.206554+00:00"
 }

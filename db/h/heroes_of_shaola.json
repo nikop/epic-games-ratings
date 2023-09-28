@@ -4,8 +4,8 @@
   "ProductSlug": "heroes-of-shaola-c82f2f",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-31T00:00:00+00:00",
     "PcReleaseDate": "2019-08-01T06:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T11:57:10.866287+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:26.06184+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:06:12.1212829+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:58:25.2372403+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:06:23.4716013+00:00"
 }

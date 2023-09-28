@@ -2,10 +2,10 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 231,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -864,9 +864,9 @@
       "ID": "ACHIEVEMENT_25_LoveAssistant",
       "SetID": "9bke6f1",
       "Name": "LOVEassistant",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_2_FirstBond",
@@ -943,8 +943,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:03:39.900999+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:03:35.9582329+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:59:24.9109776+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:03:39.9010369+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:59:35.7201264+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:03:35.9582953+00:00"
 }

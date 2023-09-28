@@ -28,12 +28,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.90% | ~1,231 |
 | Where it Hurts | 0.90% | ~1,231 |
 | Gild-Gotten Goods | 0.90% | ~1,231 |
+| Did we pack lunch? | 0.90% | ~1,231 |
 | Ascended | 0.80% | ~1,094 |
 | Blank Page Syndrome | 0.80% | ~1,094 |
 | Efficient Floor Space | 0.80% | ~1,094 |
 | Gem Expert | 0.80% | ~1,094 |
 | Accomplished Merchant | 0.80% | ~1,094 |
-| Did we pack lunch? | 0.80% | ~1,094 |
 | Arcane Industries | 0.80% | ~1,094 |
 | On the Path to Greatness | 0.70% | ~958 |
 | Research & Development | 0.70% | ~958 |
@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 0.60% | ~821 |
 | Trash to Treasure | 0.60% | ~821 |
 | Royal Ransom | 0.60% | ~821 |
+| Miracle Alchemist | 0.60% | ~821 |
 | Seasoned Journeyman | 0.60% | ~821 |
 | Magical Harmony | 0.60% | ~821 |
 | Special Ingredient | 0.60% | ~821 |
@@ -75,8 +76,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fat Cat Tag Team | 0.50% | ~684 |
 | Item of Renown | 0.50% | ~684 |
 | Master Merchant | 0.50% | ~684 |
-| Miracle Alchemist | 0.50% | ~684 |
 | Laden with Loot | 0.50% | ~684 |
+| Precision Engineering | 0.50% | ~684 |
 | Scourge of the Seas | 0.50% | ~684 |
 | Attrition Mission | 0.50% | ~684 |
 | Glittering Collection | 0.50% | ~684 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.40% | ~547 |
 | Necromancer Queen | 0.40% | ~547 |
 | Bountiful Harvest | 0.40% | ~547 |
-| Precision Engineering | 0.40% | ~547 |
 | Master Recycler | 0.40% | ~547 |
 | Economy of Scarce | 0.40% | ~547 |
 | The Free Encyclopedia | 0.30% | ~410 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,808 (Ranked 69)  
+Progressed: 136,812 (Ranked 69)  
 Completed: 157 (0.11%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 157 (0.11%) (Ranked 231)
 | 2023-09-25 | 136,703 | 155 |
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
-| 2023-09-28 | 136,808 | 157 |
+| 2023-09-28 | 136,812 | 157 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,302 (Ranked 49)  

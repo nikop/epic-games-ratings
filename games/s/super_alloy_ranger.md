@@ -23,11 +23,11 @@
 | Grand Escape | 11.00% | ~10 |
 | he Ultra Fortress Conqueror | 8.00% | ~7 |
 | Keep it Up, rookie! | 8.00% | ~7 |
+| Antaeus | 8.00% | ~7 |
 | The Deep Frozen Conqueror | 7.00% | ~6 |
 | The Infinite Train Conqueror | 7.00% | ~6 |
 | The Paradox Coordinate Conqueror | 7.00% | ~6 |
 | The Hypergravitational Abyss Conqueror | 7.00% | ~6 |
-| Antaeus | 7.00% | ~6 |
 | Hell of a Fight | 7.00% | ~6 |
 | The Sunken City Conqueror | 6.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 6.00% | ~5 |
@@ -43,8 +43,8 @@
 | Break Through the Forbidden | 3.00% | ~3 |
 | Proliferation | 3.00% | ~3 |
 | Burn After Reading | 3.00% | ~3 |
+| Alloy Rangers, Assemble! | 2.00% | ~2 |
 | Pumped Up | 2.00% | ~2 |
-| Alloy Rangers, Assemble! | 1.00% | ~1 |
 | Easy Peasy | 1.00% | ~1 |
 | Clean Sweep | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |

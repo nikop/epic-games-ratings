@@ -2,10 +2,10 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
       "Time": "2023-09-27T08:07:47.5439321+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T17:04:39.208221+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T01:48:39.6492868+00:00",
@@ -64,7 +69,7 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -80,7 +85,7 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 125,
+      "Percentage": 100,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -104,7 +109,7 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -144,7 +149,7 @@
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 85,
       "UsersEstimate": 2
     },
@@ -176,7 +181,7 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 85,
       "UsersEstimate": 1
     },
@@ -233,14 +238,14 @@
     {
       "ID": "40o2ndb",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:04:41.3824777+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:04:39.2082204+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3549601+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:57:32.4754294+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:04:41.3824939+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:57:21.0905226+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:04:39.2082439+00:00"
 }

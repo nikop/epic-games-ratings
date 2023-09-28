@@ -16,8 +16,8 @@
 | One last step | 34.00% | ~76 |
 | Cable guy | 32.00% | ~72 |
 | Champollion | 32.00% | ~72 |
+| Peace walker | 31.00% | ~70 |
 | Half the way | 31.00% | ~70 |
-| Peace walker | 30.00% | ~68 |
 | In this together | 28.00% | ~63 |
 | Open door | 26.00% | ~58 |
 | Feels like springtime | 24.00% | ~54 |
@@ -30,7 +30,7 @@
 | For its own good | 15.00% | ~34 |
 | Fashion victim | 12.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 328)  
+Progressed: 225 (Ranked 329)  
 Completed: 13 (5.78%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |

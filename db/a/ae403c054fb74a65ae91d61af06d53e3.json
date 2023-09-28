@@ -4,7 +4,7 @@
   "ProductSlug": "super-adventure-hand-62ec9a",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -71,9 +71,9 @@
       "ID": "ach_boss_defeated",
       "SetID": "8787m1a",
       "Name": "De-feet the Boss",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_boss_defeated_nodeath",
@@ -95,9 +95,9 @@
       "ID": "ach_flick_count",
       "SetID": "8787m1a",
       "Name": "Sir Flicksalot",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_flick_key",
@@ -175,9 +175,9 @@
       "ID": "ach_thimble_master",
       "SetID": "8787m1a",
       "Name": "Thimble Master",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_watch_wear",
@@ -198,8 +198,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:05:09.8399188+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:05:11.7503052+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:29.9094674+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:59:53.5485199+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:05:09.8399316+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:00:10.1997198+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:05:11.7503229+00:00"
 }

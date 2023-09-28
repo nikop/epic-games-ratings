@@ -2,10 +2,10 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45,6 +45,11 @@
       "Time": "2023-09-28T16:03:34.3838976+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-28T17:03:29.5634556+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -55,7 +60,7 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -79,7 +84,7 @@
       "ID": "achMaxEngine",
       "SetID": "7ji07dj",
       "Name": "Firing on All Cylinders",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -95,7 +100,7 @@
       "ID": "achMaxTransmission",
       "SetID": "7ji07dj",
       "Name": "Moving Up a Gear",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -111,15 +116,15 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achScoutMaxStar",
       "SetID": "7ji07dj",
       "Name": "Employee of the Month",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "achSponsorMain1",
       "SetID": "7ji07dj",
       "Name": "Executive Approval",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -280,13 +285,13 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:03:34.3838965+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:03:29.5634548+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:57:43.1753074+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:03:34.3839311+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:57:34.2846475+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:03:29.5634946+00:00"
 }

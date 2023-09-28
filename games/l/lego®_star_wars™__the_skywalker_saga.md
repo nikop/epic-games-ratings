@@ -6,12 +6,12 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,201 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,202 |
 | ''I don't like you either!'' | 79.00% | ~40,886 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,263 |
-| ''Impressive, most impressive'' | 71.00% | ~36,745 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,264 |
+| ''Impressive, most impressive'' | 71.00% | ~36,746 |
 | The Phantom Menace | 59.00% | ~30,535 |
-| ''Aggressive Negotiations'' | 58.00% | ~30,017 |
+| ''Aggressive Negotiations'' | 58.00% | ~30,018 |
 | ''I can fly anything'' | 57.00% | ~29,500 |
 | ''And who gave you permission...?'' | 53.00% | ~27,430 |
 | A New Hope | 48.00% | ~24,842 |
@@ -19,9 +19,9 @@ Number of Ratings: 2,536  (23.09.2022)
 | Revenge of the Sith | 40.00% | ~20,702 |
 | The Empire Strikes Back | 37.00% | ~19,149 |
 | ''A fine addition to my collection'' | 37.00% | ~19,149 |
-| Return of the Jedi | 32.00% | ~16,561 |
+| Return of the Jedi | 32.00% | ~16,562 |
 | The Force Awakens | 27.00% | ~13,974 |
-| The Last Jedi | 23.00% | ~11,903 |
+| The Last Jedi | 23.00% | ~11,904 |
 | The Rise of Skywalker | 20.00% | ~10,351 |
 | ''It's true... all of it'' | 19.00% | ~9,833 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,833 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~518 |
 | ''I've never seen a real one!'' | 0.90% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,754 (Ranked 96)  
+Progressed: 51,755 (Ranked 96)  
 Completed: 235 (0.45%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,14 +213,14 @@ Completed: 235 (0.45%) (Ranked 170)
 | 2023-09-25 | 51,743 | 235 |
 | 2023-09-26 | 51,747 | 235 |
 | 2023-09-27 | 51,751 | 235 |
-| 2023-09-28 | 51,754 | 235 |
+| 2023-09-28 | 51,755 | 235 |
 ## Awards
-Max (Great Boss Battles): 2,415  (Ranked 103)  
-Sum: 6,631 (Ranked 119)  
+Max (Great Boss Battles): 2,416  (Ranked 103)  
+Sum: 6,632 (Ranked 119)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,415 |
+| This game has Great Boss Battles | 2,416 |
 | This game is Great for Beginners | 503 |
 | This game has Diverse Characters | 500 |
 | This game has Amazing Characters | 486 |
@@ -451,4 +451,4 @@ Diff (max vs sum): -16
 | 2023-09-24 | 4.78 | - | 2,411 | 6,621 |
 | 2023-09-25 | 4.78 | - | 2,414 | 6,624 |
 | 2023-09-27 | 4.78 | - | 2,415 | 6,627 |
-| 2023-09-28 | 4.78 | - | 2,415 | 6,631 |
+| 2023-09-28 | 4.78 | - | 2,416 | 6,632 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 949,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,7 +240,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -2245,6 +2245,11 @@
       "Time": "2023-09-28T16:07:56.5823665+00:00",
       "NumProgressed": 937,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T17:08:26.1131014+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2256,15 +2261,15 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH001",
       "SetID": "69nfp41",
       "Name": "Seafarer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH002",
@@ -2368,7 +2373,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH015",
@@ -2424,7 +2429,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH022",
@@ -2472,7 +2477,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH028",
@@ -2488,7 +2493,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH030",
@@ -2496,7 +2501,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH031",
@@ -2544,7 +2549,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH037",
@@ -2560,7 +2565,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH039",
@@ -2632,7 +2637,7 @@
       "Name": "Overpopulation",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH048",
@@ -2640,7 +2645,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH049",
@@ -2655,15 +2660,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:07:56.5823659+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:08:26.1131007+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.6290536+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:27.4227501+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:07:56.5824255+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:58:26.6991353+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:08:26.1132002+00:00"
 }

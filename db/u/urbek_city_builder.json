@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "FAITH_2",
@@ -1802,8 +1802,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:03:29.0580161+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:03:22.9951617+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:12.0994806+00:00",
-  "LastUpdate_Ratings": "2023-09-28T15:58:40.2516074+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:03:29.0581409+00:00"
+  "LastUpdate_Ratings": "2023-09-28T16:58:42.5485178+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:03:22.9953155+00:00"
 }

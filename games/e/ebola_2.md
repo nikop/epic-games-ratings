@@ -10,12 +10,12 @@
 | Scent of Meat ✔ | 22.00% | ~62 |
 | Survival ✔ | 4.00% | ~11 |
 | Voodoo ✔ | 0.40% | ~1 |
+| Mask ✔ | 0.40% | ~1 |
 | Exterminate pests ✔ | 0.40% | ~1 |
+| Doctor ✔ | 0.40% | ~1 |
 | Master of Unlocking ✔ | 0.40% | ~1 |
 | Light will show the truth ✔ | 0.00% | ~0 |
-| Mask ✔ | 0.00% | ~0 |
 | Seeker ✔ | 0.00% | ~0 |
-| Doctor ✔ | 0.00% | ~0 |
 | Recruit ✔ | 0.00% | ~0 |
 | Hardcore ✔ | 0.00% | ~0 |
 | Angel ✔ | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | King of survival ✔ | 0.00% | ~0 |
 | Saved the planet ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283 (Ranked 307)  
+Progressed: 283 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

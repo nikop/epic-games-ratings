@@ -2,10 +2,10 @@
   "ID": "0ab59318bba240478a251395e7bc4a4e",
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 745,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -843,6 +843,11 @@
       "Time": "2023-09-28T16:09:09.6376937+00:00",
       "NumProgressed": 744,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-28T17:09:27.4375898+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -862,7 +867,7 @@
       "Name": "Across The Stars",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -878,7 +883,7 @@
       "Name": "All Seats Taken",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -918,7 +923,7 @@
       "Name": "Crafty",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Achievement_DontPanic",
@@ -926,15 +931,15 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 425
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -942,7 +947,7 @@
       "Name": "Eco-Shuttle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Achievement_ExtremeMakeover",
@@ -990,7 +995,7 @@
       "Name": "For Science!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Achievement_Friendzone",
@@ -998,7 +1003,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1054,7 +1059,7 @@
       "Name": "KIA",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Achievement_LastSupper",
@@ -1142,15 +1147,15 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "Achievement_SpaceEngineer",
       "SetID": "c01p6e5",
       "Name": "Space Engineer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 469
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1198,14 +1203,14 @@
       "Name": "Et tu, Astrocitizen?",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 745,
       "Completed": 1
     }
   ],
@@ -1213,8 +1218,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-09-28T16:09:09.6376931+00:00",
+  "LastChanged_Achievements": "2023-09-28T17:09:27.4375892+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:00.3989341+00:00",
-  "LastUpdate_Ratings": "2023-09-28T16:00:58.3160272+00:00",
-  "LastUpdate_Achievements": "2023-09-28T16:09:09.6377338+00:00"
+  "LastUpdate_Ratings": "2023-09-28T17:01:27.2901977+00:00",
+  "LastUpdate_Achievements": "2023-09-28T17:09:27.4376318+00:00"
 }
