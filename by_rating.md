@@ -15,7 +15,7 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 525 |
 | 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 525 |
 | 12 | [Rain World](games/r/rain_world.md) | 4.89 | 0 | 525 |
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 437 | 211 |
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 438 | 211 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 525 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,676 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 310 |
@@ -518,24 +518,24 @@
 | 512 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 525 |
 | 512 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 73 | 382 |
 | 512 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 506 |
+| 512 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 525 |
 | 512 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 525 |
 | 512 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 457 |
 | 512 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 96 | 349 |
 | 512 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 525 |
 | 512 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 525 |
 | 512 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 516 | 200 |
-| 525 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 492 |
-| 525 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 525 |
-| 525 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,325 | 18 |
-| 525 | [Everything](games/e/everything.md) | 4.53 | 0 | 525 |
-| 525 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,457 | 127 |
-| 525 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 525 |
-| 525 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 525 |
-| 525 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 496 |
-| 525 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 22 | 506 |
-| 525 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 525 |
-| 525 | [VALORANT](games/v/valorant.md) | 4.53 | 72,509 | 10 |
-| 525 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 347 |
+| 526 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 492 |
+| 526 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 525 |
+| 526 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,325 | 18 |
+| 526 | [Everything](games/e/everything.md) | 4.53 | 0 | 525 |
+| 526 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,457 | 127 |
+| 526 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 525 |
+| 526 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 496 |
+| 526 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 22 | 506 |
+| 526 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 525 |
+| 526 | [VALORANT](games/v/valorant.md) | 4.53 | 72,509 | 10 |
+| 526 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 347 |
 | 537 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 43 | 427 |
 | 537 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 33,134 | 15 |
 | 537 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 22 | 506 |
@@ -555,7 +555,7 @@
 | 551 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 798 | 160 |
 | 551 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,130 | 81 |
 | 551 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 525 |
-| 551 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 149,107 | 7 |
+| 551 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 149,205 | 7 |
 | 551 | [Far Cry](games/f/far_cry.md) | 4.51 | 28 | 474 |
 | 551 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.51 | 0 | 525 |
 | 551 | [Horace](games/h/horace.md) | 4.51 | 0 | 525 |
@@ -583,7 +583,7 @@
 | 572 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,810 | 95 |
 | 572 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 111 | 330 |
 | 572 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 525 |
-| 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 642 | 182 |
+| 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 642 | 183 |
 | 572 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 525 |
 | 572 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 813 | 158 |
 | 572 | [Solitairica](games/s/solitairica.md) | 4.50 | 84 | 362 |
@@ -822,7 +822,7 @@
 | 814 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 308 |
 | 814 | [Steelrising](games/s/steelrising.md) | 4.29 | 36 | 447 |
 | 822 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 525 |
-| 822 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,788 | 84 |
+| 822 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,788 | 85 |
 | 822 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 20 | 521 |
 | 822 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 126 | 317 |
 | 822 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 290 |
@@ -851,7 +851,7 @@
 | 848 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 463 |
 | 848 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 506 |
 | 848 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 525 |
-| 848 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 640 | 183 |
+| 848 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 645 | 182 |
 | 848 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 525 |
 | 848 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 418 |
 | 848 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 525 |
@@ -961,7 +961,7 @@
 | 956 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,761 | 71 |
 | 960 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 525 |
 | 960 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.98 | 0 | 525 |
-| 960 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,773 | 85 |
+| 960 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,798 | 84 |
 | 960 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 525 |
 | 964 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 525 |
 | 965 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 421 |
