@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 77.93% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 77.77% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.54% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -90,7 +90,7 @@
 | 88 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 89 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 90 | [Lamentum](games/l/lamentum.md) | 2.49% |
-| 91 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.47% |
+| 91 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.46% |
 | 92 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 92 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.42% |
 | 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
@@ -142,8 +142,8 @@
 | 140 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 141 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 141 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 143 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.78% |
 | 143 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.78% |
+| 144 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.76% |
 | 145 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 146 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 147 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.67% |
@@ -643,4 +643,4 @@
 | 298 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 298 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 298 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,318 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,319 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
