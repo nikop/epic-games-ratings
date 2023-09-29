@@ -8,14 +8,14 @@ Rating: 3.94 (Ranked 971)
 | First One’s Free | 0.90% | ~797 |
 | Downed but Not Outed | 0.90% | ~797 |
 | Neophyte Ninja | 0.80% | ~708 |
-| Too Old for This | 0.70% | ~619 |
+| Too Old for This | 0.70% | ~620 |
 | Underworld Initiate | 0.60% | ~531 |
-| Roid Ranger | 0.50% | ~442 |
-| King of the Hill | 0.50% | ~442 |
-| Fancy Pants | 0.50% | ~442 |
-| Off the Rocks | 0.50% | ~442 |
-| Dragonslayer | 0.50% | ~442 |
-| Rockay Rex | 0.50% | ~442 |
+| Roid Ranger | 0.50% | ~443 |
+| King of the Hill | 0.50% | ~443 |
+| Fancy Pants | 0.50% | ~443 |
+| Off the Rocks | 0.50% | ~443 |
+| Dragonslayer | 0.50% | ~443 |
+| Rockay Rex | 0.50% | ~443 |
 | Hidden Sonata | 0.40% | ~354 |
 | Case Closed | 0.40% | ~354 |
 | Raider’s Ruin | 0.40% | ~354 |
@@ -32,22 +32,22 @@ Rating: 3.94 (Ranked 971)
 | Olympus Ascended | 0.20% | ~177 |
 | Ding Dong | 0.20% | ~177 |
 | All that Glitters | 0.20% | ~34 |
-| Rockay Raider | 0.10% | ~88 |
-| Rockay Knight | 0.10% | ~88 |
-| Privateer | 0.10% | ~88 |
-| Talent Scout | 0.10% | ~88 |
-| Full House | 0.10% | ~88 |
-| Groundhog Days | 0.10% | ~88 |
-| Cracked the Jack | 0.10% | ~88 |
-| Red Star | 0.10% | ~88 |
-| Geek Out | 0.10% | ~88 |
-| Classy Joint | 0.10% | ~88 |
-| Impossible Dreamer | 0.10% | ~88 |
+| Rockay Raider | 0.10% | ~89 |
+| Rockay Knight | 0.10% | ~89 |
+| Privateer | 0.10% | ~89 |
+| Talent Scout | 0.10% | ~89 |
+| Full House | 0.10% | ~89 |
+| Groundhog Days | 0.10% | ~89 |
+| Cracked the Jack | 0.10% | ~89 |
+| Red Star | 0.10% | ~89 |
+| Geek Out | 0.10% | ~89 |
+| Classy Joint | 0.10% | ~89 |
+| Impossible Dreamer | 0.10% | ~89 |
 | All for One | 0.10% | ~17 |
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,500 (Ranked 78)  
+Progressed: 88,503 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 46 (0.05%) (Ranked 259)
 | 2023-09-26 | 88,367 | 46 |
 | 2023-09-27 | 88,409 | 46 |
 | 2023-09-28 | 88,457 | 46 |
-| 2023-09-29 | 88,500 | 46 |
+| 2023-09-29 | 88,503 | 46 |
 ## Awards
 Max (Diverse Characters): 466  (Ranked 206)  
 Sum: 2,222 (Ranked 194)  

@@ -1491,9 +1491,9 @@
       "ID": "ACHIEVEMENT_FIRE1",
       "SetID": "9eacipp",
       "Name": "When there\u0027s fire...",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -2155,8 +2155,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-29T16:04:48.10382+00:00",
+  "LastChanged_Achievements": "2023-09-29T17:03:34.2572633+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.2239811+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:58:11.830477+00:00",
-  "LastUpdate_Achievements": "2023-09-29T16:04:48.1039764+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:57:36.9480011+00:00",
+  "LastUpdate_Achievements": "2023-09-29T17:03:34.2574021+00:00"
 }

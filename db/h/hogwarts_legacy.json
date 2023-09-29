@@ -2,13 +2,13 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8188,10 +8188,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44600,
       "NumberOfAwardsMax": 23132
+    },
+    {
+      "Time": "2023-09-29T16:57:34.1234568+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44606,
+      "NumberOfAwardsMax": 23132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44600,
+  "NumberOfAwards": 44606,
   "NumberOfAwardsMax": 23132,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8247,7 +8253,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1028
+      "Count": 1034
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8268,9 +8274,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297507,
+  "EOS_Progressed": 297510,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25758,6 +25764,11 @@
       "Time": "2023-09-29T14:03:36.2448716+00:00",
       "NumProgressed": 297507,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-29T17:03:16.5667161+00:00",
+      "NumProgressed": 297510,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25809,7 +25820,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17850
+      "UsersEstimate": 17851
     },
     {
       "ID": "PFA_15",
@@ -25833,7 +25844,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20825
+      "UsersEstimate": 20826
     },
     {
       "ID": "PFA_18",
@@ -25905,7 +25916,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17850
+      "UsersEstimate": 17851
     },
     {
       "ID": "PFA_26",
@@ -25937,7 +25948,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17850
+      "UsersEstimate": 17851
     },
     {
       "ID": "PFA_3",
@@ -26049,7 +26060,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14875
+      "UsersEstimate": 14876
     },
     {
       "ID": "PFA_42",
@@ -26057,7 +26068,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17850
+      "UsersEstimate": 17851
     },
     {
       "ID": "PFA_43",
@@ -26128,16 +26139,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297507,
+      "Progressed": 297510,
       "Completed": 478
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-29T14:57:50.5280163+00:00",
-  "LastChanged_Achievements": "2023-09-29T16:04:23.143748+00:00",
+  "LastChanged": "2023-09-29T16:57:34.1234565+00:00",
+  "LastChanged_Achievements": "2023-09-29T17:03:16.5667156+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:58:07.3651886+00:00",
-  "LastUpdate_Achievements": "2023-09-29T16:04:23.1440264+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:57:34.1234573+00:00",
+  "LastUpdate_Achievements": "2023-09-29T17:03:16.5668644+00:00"
 }

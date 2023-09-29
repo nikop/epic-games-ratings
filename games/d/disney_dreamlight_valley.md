@@ -1,16 +1,16 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,279 |
-| Photographer | 69.00% | ~7,175 |
-| Valley's Helper | 62.00% | ~6,447 |
-| Constructor | 51.00% | ~5,303 |
-| Renovator | 51.00% | ~5,303 |
+| Goofy's Investor | 70.00% | ~7,281 |
+| Photographer | 69.00% | ~7,177 |
+| Valley's Helper | 62.00% | ~6,449 |
+| Constructor | 51.00% | ~5,305 |
+| Renovator | 51.00% | ~5,305 |
 | Bestest Friend | 47.00% | ~4,888 |
 | Banker | 39.00% | ~4,056 |
 | Gardener | 31.00% | ~3,224 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~520 |
 | Chit Chatter | 3.00% | ~312 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,399 (Ranked 140)  
+Progressed: 10,401 (Ranked 140)  
 Completed: 241 (2.32%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,10 +135,10 @@ Completed: 241 (2.32%) (Ranked 98)
 | 2023-09-26 | 10,280 | 236 |
 | 2023-09-27 | 10,320 | 239 |
 | 2023-09-28 | 10,372 | 240 |
-| 2023-09-29 | 10,399 | 241 |
+| 2023-09-29 | 10,401 | 241 |
 ## Awards
 Max (Great for Beginners): 972  (Ranked 148)  
-Sum: 7,615 (Ranked 106)  
+Sum: 7,616 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): 42
 | This game has Diverse Characters | 837 |
 | This game has Amazing Characters | 803 |
 | This game is Highly Recommended | 802 |
-| This game is Relaxing | 801 |
+| This game is Relaxing | 802 |
 | This game has Amazing Storytelling | 767 |
 | This game is Extremely Fun | 749 |
 | This game has Quickly Understood Controls | 744 |
@@ -356,3 +356,4 @@ Diff (max vs sum): 42
 | 2023-09-26 | 4.76 | - | 969 | 7,604 |
 | 2023-09-27 | 4.76 | - | 972 | 7,611 |
 | 2023-09-28 | 4.76 | - | 972 | 7,615 |
+| 2023-09-29 | 4.76 | - | 972 | 7,616 |

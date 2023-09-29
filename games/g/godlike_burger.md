@@ -18,7 +18,7 @@ Rating: 4.27 (Ranked 826)
 | INDIVIDUAL APPROACH | 20.00% | ~89 |
 | MARTYR | 19.00% | ~85 |
 | HELL'S KITCHEN | 18.00% | ~80 |
-| CELEBRITY | 16.00% | ~71 |
+| CELEBRITY | 17.00% | ~76 |
 | GRATITUDE | 16.00% | ~71 |
 | LAW-ABIDING CITIZEN | 10.00% | ~44 |
 | PRUDENT | 10.00% | ~44 |

@@ -4,10 +4,10 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 950,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 467,
+  "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -290,10 +290,16 @@
       "Rating": 4.03,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-09-29T16:57:40.1311315+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45,
+  "NumberOfAwards": 65,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -308,6 +314,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 1978,
@@ -5983,9 +5995,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 831
     },
     {
       "ID": "fourleafclover",
@@ -6407,9 +6419,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-09-28T15:57:46.2899992+00:00",
-  "LastChanged_Achievements": "2023-09-29T16:09:11.9206121+00:00",
+  "LastChanged": "2023-09-29T16:57:40.1311312+00:00",
+  "LastChanged_Achievements": "2023-09-29T17:06:45.5553561+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:58:17.0224257+00:00",
-  "LastUpdate_Achievements": "2023-09-29T16:09:11.9207243+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:57:40.1311317+00:00",
+  "LastUpdate_Achievements": "2023-09-29T17:06:45.5554702+00:00"
 }

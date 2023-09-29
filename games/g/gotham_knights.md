@@ -5,23 +5,23 @@ Rating: 4.18 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,935 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,533 |
-| Loose Ends | 34.00% | ~24,803 |
+| First Step Into the Knight | 52.00% | ~37,936 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,534 |
+| Loose Ends | 34.00% | ~24,804 |
 | To the Victor Go the Spoils | 29.00% | ~21,156 |
-| Knighthood | 28.00% | ~20,426 |
+| Knighthood | 28.00% | ~20,427 |
 | Get ReQ'd | 25.00% | ~18,238 |
 | Whispered Words | 25.00% | ~18,238 |
 | The Batman Family | 23.00% | ~16,779 |
 | Lock and Key | 23.00% | ~16,779 |
 | Something in the Clay | 21.00% | ~15,320 |
 | Quartzer Life Crisis | 21.00% | ~15,320 |
-| Working Hard or Harley Working? | 20.00% | ~14,590 |
-| Unstoppable Force | 20.00% | ~14,590 |
-| Bad Apples in Every Orchard | 20.00% | ~14,590 |
+| Working Hard or Harley Working? | 20.00% | ~14,591 |
+| Unstoppable Force | 20.00% | ~14,591 |
+| Bad Apples in Every Orchard | 20.00% | ~14,591 |
 | Snow Problem | 19.00% | ~13,861 |
-| The Show Mud Go On | 18.00% | ~13,131 |
-| From Inside Gotham's Walls | 18.00% | ~13,131 |
+| The Show Mud Go On | 18.00% | ~13,132 |
+| From Inside Gotham's Walls | 18.00% | ~13,132 |
 | Protector of Gotham | 17.00% | ~12,402 |
 | Universal Health Scare | 16.00% | ~11,672 |
 | In Your Element | 15.00% | ~10,943 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 895)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,951 (Ranked 85)  
+Progressed: 72,953 (Ranked 85)  
 Completed: 118 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,16 +229,16 @@ Completed: 118 (0.16%) (Ranked 221)
 | 2023-09-26 | 72,863 | 118 |
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
-| 2023-09-29 | 72,951 | 118 |
+| 2023-09-29 | 72,953 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,768  (Ranked 96)  
-Sum: 4,621 (Ranked 140)  
+Sum: 4,622 (Ranked 140)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,768 |
+| This game has Quickly Understood Controls | 237 |
 | This game is Relaxing | 237 |
-| This game has Quickly Understood Controls | 236 |
 | This game is Extremely Fun | 236 |
 | This game has Diverse Characters | 234 |
 | This game is Highly Recommended | 229 |
@@ -465,4 +465,4 @@ Diff (max vs sum): -44
 | 2023-09-26 | 4.18 | 2,755 | 4,589 |
 | 2023-09-27 | 4.18 | 2,761 | 4,602 |
 | 2023-09-28 | 4.19 | 2,761 | 4,605 |
-| 2023-09-29 | 4.18 | 2,768 | 4,621 |
+| 2023-09-29 | 4.18 | 2,768 | 4,622 |

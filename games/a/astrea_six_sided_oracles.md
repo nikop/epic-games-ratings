@@ -8,22 +8,22 @@
 | Meissa's Savior | 96.00% | ~23 |
 | Purification Pioneer | 96.00% | ~23 |
 | Dicesmithing Time! | 83.00% | ~20 |
-| Wild's Keeper | 71.00% | ~17 |
-| Sanctuary Guardian | 67.00% | ~16 |
+| Wild's Keeper | 75.00% | ~18 |
+| Sanctuary Guardian | 71.00% | ~17 |
 | Endless Tricks | 63.00% | ~15 |
 | Mind Illuminator | 46.00% | ~11 |
 | Stellar Dismantler | 33.00% | ~8 |
+| Unbeatable | 29.00% | ~7 |
 | Star Killer | 25.00% | ~6 |
-| Unbeatable | 25.00% | ~6 |
 | Sadistic Plan | 21.00% | ~5 |
 | Sentinelphobic | 21.00% | ~5 |
 | Stellar Haste | 21.00% | ~5 |
 | The Corruption Goddess | 21.00% | ~5 |
 | Anomaly Destroyer | 17.00% | ~4 |
 | Astral Adventurer | 17.00% | ~4 |
+| Loyal Partner | 17.00% | ~4 |
 | Skeptical | 17.00% | ~4 |
 | Dice Specialist | 13.00% | ~3 |
-| Loyal Partner | 13.00% | ~3 |
 | Shard Spender | 13.00% | ~3 |
 | Denying Destiny | 8.00% | ~2 |
 | Heart Gate | 8.00% | ~2 |
@@ -33,6 +33,7 @@
 | Wave Bender | 8.00% | ~2 |
 | Arch-Oracle | 4.00% | ~1 |
 | Astral Seeker | 4.00% | ~1 |
+| Astral Tinkerer | 4.00% | ~1 |
 | Can't touch this | 4.00% | ~1 |
 | Favored by the Cosmos | 4.00% | ~1 |
 | Heavy Purger | 4.00% | ~1 |
@@ -48,7 +49,6 @@
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
 | Artificer | 0.00% | ~0 |
-| Astral Tinkerer | 0.00% | ~0 |
 | Astrarium of Holding | 0.00% | ~0 |
 | Astrea's Saviors | 0.00% | ~0 |
 | Astrium Specialist | 0.00% | ~0 |

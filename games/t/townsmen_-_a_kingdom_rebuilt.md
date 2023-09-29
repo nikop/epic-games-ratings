@@ -58,6 +58,7 @@ Number of Ratings: 37  (23.09.2022)
 | Genius | 2.00% | ~86 |
 | I've been everywhere V | 2.00% | ~86 |
 | Tools of the trade III | 2.00% | ~86 |
+| When there's fire... | 1.00% | ~43 |
 | Survivalist | 1.00% | ~43 |
 | Lord of War | 1.00% | ~43 |
 | Plague strikes! | 1.00% | ~43 |
@@ -70,7 +71,6 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere I | 1.00% | ~43 |
 | Tax-man V | 1.00% | ~43 |
 | A time consuming game V | 1.00% | ~43 |
-| When there's fire... | 0.90% | ~39 |
 | I've been everywhere II | 0.90% | ~39 |
 | I've been everywhere VI | 0.80% | ~34 |
 | Last man standing | 0.70% | ~30 |

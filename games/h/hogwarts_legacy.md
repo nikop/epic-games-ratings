@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,12 +25,12 @@ Rating: 4.76 (Ranked 120)
 | A Sallow Grave | 8.00% | ~23,801 |
 | Flight the Good Flight | 8.00% | ~23,801 |
 | The Spell Master | 8.00% | ~23,801 |
-| Beast Friends | 7.00% | ~20,825 |
-| The Seeker of Knowledge | 6.00% | ~17,850 |
-| The Root of the Problem | 6.00% | ~17,850 |
-| Third Time's a Charm | 6.00% | ~17,850 |
-| Raising Expectations | 6.00% | ~17,850 |
-| The Ends Petrify the Means | 5.00% | ~14,875 |
+| Beast Friends | 7.00% | ~20,826 |
+| The Seeker of Knowledge | 6.00% | ~17,851 |
+| The Root of the Problem | 6.00% | ~17,851 |
+| Third Time's a Charm | 6.00% | ~17,851 |
+| Raising Expectations | 6.00% | ~17,851 |
+| The Ends Petrify the Means | 5.00% | ~14,876 |
 | The Toast of the Town | 4.00% | ~11,900 |
 | Going Through the Potions | 4.00% | ~11,900 |
 | Room with a View | 4.00% | ~11,900 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,507 (Ranked 46)  
+Progressed: 297,510 (Ranked 46)  
 Completed: 478 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,10 +213,10 @@ Completed: 478 (0.16%) (Ranked 221)
 | 2023-09-26 | 297,390 | 477 |
 | 2023-09-27 | 297,436 | 478 |
 | 2023-09-28 | 297,480 | 478 |
-| 2023-09-29 | 297,507 | 478 |
+| 2023-09-29 | 297,510 | 478 |
 ## Awards
 Max (Character Customization): 23,132  (Ranked 17)  
-Sum: 44,600 (Ranked 30)  
+Sum: 44,606 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,071 |
 | This game is Extremely Fun | 1,065 |
 | This game has Amazing Characters | 1,037 |
-| This game is Highly Recommended | 1,028 |
+| This game is Highly Recommended | 1,034 |
 | This game has Quickly Understood Controls | 961 |
 | This game has Beautiful Visuals | 896 |
 | This game has a Creative Community | 677 |
@@ -424,4 +424,4 @@ Diff (max vs sum): -13
 | 2023-09-26 | 4.76 | 23,061 | 44,391 |
 | 2023-09-27 | 4.76 | 23,085 | 44,478 |
 | 2023-09-28 | 4.76 | 23,108 | 44,540 |
-| 2023-09-29 | 4.76 | 23,132 | 44,600 |
+| 2023-09-29 | 4.76 | 23,132 | 44,606 |

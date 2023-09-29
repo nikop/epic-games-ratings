@@ -1,16 +1,16 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 334)  
+Rating: 4.63 (Ranked 335)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rough Landing | 3.00% | ~26,552 |
-| Gunslinger | 2.00% | ~17,701 |
-| Master Crafter | 2.00% | ~17,701 |
-| Ten out of Ten | 2.00% | ~17,701 |
-| The Jungle | 2.00% | ~17,701 |
+| Ten out of Ten | 3.00% | ~26,553 |
+| Rough Landing | 3.00% | ~26,553 |
+| Gunslinger | 2.00% | ~17,702 |
+| Master Crafter | 2.00% | ~17,702 |
+| The Jungle | 2.00% | ~17,702 |
 | Full Body Conversion | 1.00% | ~8,851 |
 | Right Back At Ya | 1.00% | ~8,851 |
 | Mean Streets | 1.00% | ~8,851 |
@@ -23,20 +23,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 1.00% | ~8,851 |
 | Two Heads, One Bullet | 1.00% | ~8,851 |
 | V for Vendetta | 1.00% | ~8,851 |
-| To Bad Decisions! | 0.90% | ~7,965 |
-| Temperance | 0.90% | ~7,965 |
-| Legend of The Afterlife | 0.90% | ~7,965 |
-| The Lovers | 0.80% | ~7,080 |
-| The Quick and the Dead | 0.70% | ~6,195 |
-| The Devil | 0.70% | ~6,195 |
-| The Fool | 0.70% | ~6,195 |
-| It's Elementary | 0.70% | ~6,195 |
-| Gun Fu | 0.60% | ~5,310 |
-| Christmas Tree Attack | 0.60% | ~5,310 |
-| The World | 0.60% | ~5,310 |
-| Judy vs Night City | 0.60% | ~5,310 |
-| City Lights | 0.50% | ~4,425 |
-| Greetings from Pacifica! | 0.50% | ~4,425 |
+| To Bad Decisions! | 0.90% | ~7,966 |
+| Temperance | 0.90% | ~7,966 |
+| Legend of The Afterlife | 0.90% | ~7,966 |
+| The Fool | 0.80% | ~7,081 |
+| The Lovers | 0.80% | ~7,081 |
+| The Quick and the Dead | 0.70% | ~6,196 |
+| The Devil | 0.70% | ~6,196 |
+| It's Elementary | 0.70% | ~6,196 |
+| Gun Fu | 0.60% | ~5,311 |
+| Christmas Tree Attack | 0.60% | ~5,311 |
+| The World | 0.60% | ~5,311 |
+| Judy vs Night City | 0.60% | ~5,311 |
+| City Lights | 0.50% | ~4,426 |
+| Greetings from Pacifica! | 0.50% | ~4,426 |
 | Bushido and Chill | 0.30% | ~2,655 |
 | Autojock | 0.30% | ~2,655 |
 | I Am The Law | 0.30% | ~2,655 |
@@ -46,9 +46,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.20% | ~1,770 |
 | The Wandering Fool | 0.20% | ~1,770 |
 | Frequent Flyer | 0.20% | ~1,770 |
+| Little Tokyo | 0.20% | ~1,770 |
 | The Star | 0.20% | ~1,770 |
 | The Sun | 0.20% | ~1,770 |
-| Little Tokyo | 0.10% | ~885 |
 | The Wasteland | 0.10% | ~885 |
 | Daemon In The Shell | 0.10% | ~885 |
 | The APB is Not Enough | 0.10% | ~14 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,054 (Ranked 15)  
-Completed: 2,475 (0.28%) (Ranked 201)  
+Progressed: 885,104 (Ranked 15)  
+Completed: 2,476 (0.28%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,10 +226,10 @@ Completed: 2,475 (0.28%) (Ranked 201)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 885,054 | 2,475 |
+| 2023-09-29 | 885,104 | 2,476 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 238,580 (Ranked 13)  
+Sum: 238,780 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 10,821 |
 | This game has Amazing Characters | 10,747 |
 | This game has Quickly Understood Controls | 10,636 |
-| This game has a Creative Community | 6,944 |
+| This game has a Creative Community | 7,144 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -500,4 +500,4 @@ Diff (max vs sum): -4
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
-| 2023-09-29 | 4.63 | - | 86,225 | 238,580 |
+| 2023-09-29 | 4.63 | - | 86,225 | 238,780 |

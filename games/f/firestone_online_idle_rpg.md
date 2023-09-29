@@ -9,7 +9,7 @@ Rating: 4.03 (Ranked 950)
 | World Map | 79.00% | ~1,563 |
 | Temple of Eternals | 57.00% | ~1,127 |
 | Prestigious | 54.00% | ~1,068 |
-| Fellowship Power | 41.00% | ~811 |
+| Fellowship Power | 42.00% | ~831 |
 | Guild Power | 26.00% | ~514 |
 | Prestigious x10 | 23.00% | ~455 |
 | The game is on | 21.00% | ~415 |
@@ -243,12 +243,13 @@ Completed: 2 (0.10%) (Ranked 238)
 | 2023-09-28 | 1,978 | 2 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 504)  
-Sum: 45 (Ranked 467)  
-Diff (max vs sum): 37  
+Sum: 65 (Ranked 451)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 23 |
 | This game is Great for Quick Sessions | 22 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -290,3 +291,4 @@ Diff (max vs sum): 37
 | 2023-09-23 | 4.02 | 22 | 44 |
 | 2023-09-25 | 4.03 | 22 | 44 |
 | 2023-09-28 | 4.03 | 23 | 45 |
+| 2023-09-29 | 4.03 | 23 | 65 |

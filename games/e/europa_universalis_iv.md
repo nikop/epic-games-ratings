@@ -6,36 +6,36 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,694 |
-| That's a Grand Army | 3.00% | ~12,521 |
-| That is mine! | 3.00% | ~12,521 |
-| Victorious! | 3.00% | ~12,521 |
-| Brothers in Arms | 2.00% | ~8,347 |
-| For the Glory | 2.00% | ~8,347 |
-| That's a Grand Navy | 2.00% | ~8,347 |
-| Seriously?! | 2.00% | ~8,347 |
+| Until death do us apart | 4.00% | ~16,697 |
+| That's a Grand Army | 3.00% | ~12,523 |
+| That is mine! | 3.00% | ~12,523 |
+| Victorious! | 3.00% | ~12,523 |
+| Brothers in Arms | 2.00% | ~8,348 |
+| For the Glory | 2.00% | ~8,348 |
+| That's a Grand Navy | 2.00% | ~8,348 |
+| Seriously?! | 2.00% | ~8,348 |
 | Cold War | 1.00% | ~4,174 |
 | Defender of the Faith | 1.00% | ~4,174 |
 | It's all about the money | 1.00% | ~4,174 |
 | The Princess is in this Castle | 1.00% | ~4,174 |
 | True Catholic | 1.00% | ~4,174 |
-| It's all about luck | 0.90% | ~3,756 |
-| Respected | 0.90% | ~3,756 |
-| Truly Divine Ruler | 0.90% | ~3,756 |
+| It's all about luck | 0.90% | ~3,757 |
+| Respected | 0.90% | ~3,757 |
+| Truly Divine Ruler | 0.90% | ~3,757 |
 | Blockader | 0.80% | ~3,339 |
 | Double the Love | 0.80% | ~3,339 |
 | Total Control | 0.80% | ~3,339 |
 | Royal Authority | 0.70% | ~2,922 |
-| My armies are invincible! | 0.60% | ~2,504 |
+| My armies are invincible! | 0.60% | ~2,505 |
 | Agressive Expander | 0.50% | ~2,087 |
 | City of Cities | 0.50% | ~2,087 |
 | Combined Arms | 0.50% | ~2,087 |
 | This navy can take it all | 0.50% | ~2,087 |
-| Azur semé de lis or | 0.40% | ~1,669 |
-| Factionalism | 0.40% | ~1,669 |
-| Gentle Persuasion | 0.40% | ~1,669 |
-| Isn't this the way to India? | 0.40% | ~1,669 |
-| Queen of Conquest | 0.40% | ~1,669 |
+| Azur semé de lis or | 0.40% | ~1,670 |
+| Factionalism | 0.40% | ~1,670 |
+| Gentle Persuasion | 0.40% | ~1,670 |
+| Isn't this the way to India? | 0.40% | ~1,670 |
+| Queen of Conquest | 0.40% | ~1,670 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,252 |
 | Bright Spark | 0.30% | ~1,252 |
 | Down Under | 0.30% | ~1,252 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,360 (Ranked 41)  
+Progressed: 417,417 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,7 +523,7 @@ Completed: 1 (0.00%) (Ranked 299)
 | 2023-09-26 | 415,263 | 1 |
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
-| 2023-09-29 | 417,360 | 1 |
+| 2023-09-29 | 417,417 | 1 |
 ## Awards
 Max (Educational): 6,316  (Ranked 57)  
 Sum: 51,820 (Ranked 24)  

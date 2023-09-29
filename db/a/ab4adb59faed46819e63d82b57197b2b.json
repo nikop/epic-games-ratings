@@ -4,7 +4,7 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -420,9 +420,9 @@
       "ID": "KILL_BOSS_5",
       "SetID": "dcng643",
       "Name": "Fitless",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_BOSS_6",
@@ -476,9 +476,9 @@
       "ID": "KILL_N_ENEMIES",
       "SetID": "dcng643",
       "Name": "Rambo",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_N_ENEMIES_AT_1_HP",
@@ -739,8 +739,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-09-29T16:04:39.1317703+00:00",
+  "LastChanged_Achievements": "2023-09-29T17:03:28.1685295+00:00",
   "LastUpdate_AppInfo": "2023-09-28T17:57:13.9113888+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:01:32.6130748+00:00",
-  "LastUpdate_Achievements": "2023-09-29T16:04:39.1319379+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:59:51.2471501+00:00",
+  "LastUpdate_Achievements": "2023-09-29T17:03:28.1686217+00:00"
 }

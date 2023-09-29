@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 3.00% | ~20,638 |
-| Welcome To Hell-A | 3.00% | ~20,638 |
+| Hotel California | 3.00% | ~20,639 |
+| Welcome To Hell-A | 3.00% | ~20,639 |
 | Dr. Reed, I Presume? | 2.00% | ~13,759 |
 | Git Gutte! | 2.00% | ~13,759 |
 | Bookworm | 2.00% | ~13,759 |
@@ -27,13 +27,13 @@ Rating: 4.54 (Ranked 512)
 | Personal Assistant Personally Assisted | 2.00% | ~13,759 |
 | Our True Nature | 2.00% | ~13,759 |
 | This is My Weapon | 2.00% | ~13,759 |
-| Making Your Mark | 1.00% | ~6,879 |
-| Anger Management | 1.00% | ~6,879 |
-| Perks of the Job | 1.00% | ~6,879 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,879 |
-| Humanity Distilled | 1.00% | ~6,879 |
-| Down with the Sickness | 1.00% | ~6,879 |
-| Max Headroom | 1.00% | ~6,879 |
+| Making Your Mark | 1.00% | ~6,880 |
+| Anger Management | 1.00% | ~6,880 |
+| Perks of the Job | 1.00% | ~6,880 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,880 |
+| Humanity Distilled | 1.00% | ~6,880 |
+| Down with the Sickness | 1.00% | ~6,880 |
+| Max Headroom | 1.00% | ~6,880 |
 | Jumbo Keyring | 0.80% | ~5,504 |
 | Go, Bobcats! | 0.80% | ~5,504 |
 | Rising Star | 0.80% | ~5,504 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 512)
 | Donk! | 0.10% | ~688 |
 | Bucket List | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,943 (Ranked 22)  
+Progressed: 687,967 (Ranked 22)  
 Completed: 2,177 (0.32%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 2,177 (0.32%) (Ranked 192)
 | 2023-09-26 | 686,808 | 2,176 |
 | 2023-09-27 | 687,260 | 2,176 |
 | 2023-09-28 | 687,692 | 2,177 |
-| 2023-09-29 | 687,943 | 2,177 |
+| 2023-09-29 | 687,967 | 2,177 |
 ## Awards
 Max (Great Boss Battles): 6,245  (Ranked 58)  
 Sum: 9,304 (Ranked 91)  

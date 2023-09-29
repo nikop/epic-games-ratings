@@ -23,10 +23,10 @@ Number of Ratings: 177  (23.09.2022)
 | Amy | 0.80% | ~50 |
 | The Muse: Madison | 0.80% | ~50 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
-| The Crush | 0.70% | ~44 |
 | Amy: Scavenger Hunt | 0.60% | ~38 |
 | It Smells Like Roses | 0.60% | ~20 |
 | Stephanie | 0.60% | ~38 |
+| The Crush | 0.60% | ~38 |
 | The Magic Number | 0.60% | ~38 |
 | Vickie | 0.60% | ~38 |
 | Benedict Brahrnold | 0.50% | ~32 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,307 (Ranked 158)  
+Progressed: 6,308 (Ranked 158)  
 Completed: 3 (0.05%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 3 (0.05%) (Ranked 259)
 | 2023-09-26 | 6,286 | 3 |
 | 2023-09-27 | 6,300 | 3 |
 | 2023-09-28 | 6,304 | 3 |
-| 2023-09-29 | 6,307 | 3 |
+| 2023-09-29 | 6,308 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -792,9 +792,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_10",
@@ -942,8 +942,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-29T16:10:12.2044276+00:00",
+  "LastChanged_Achievements": "2023-09-29T17:08:28.4572291+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:01:28.7917411+00:00",
-  "LastUpdate_Achievements": "2023-09-29T16:10:12.204458+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:59:48.5833984+00:00",
+  "LastUpdate_Achievements": "2023-09-29T17:08:28.4572483+00:00"
 }

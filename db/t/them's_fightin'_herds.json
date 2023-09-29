@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 57,
@@ -250,9 +250,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 230350,
+  "EOS_Progressed": 230351,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17115,6 +17115,11 @@
       "Time": "2023-09-29T16:07:55.1069554+00:00",
       "NumProgressed": 230350,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-29T17:05:50.4463515+00:00",
+      "NumProgressed": 230351,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -17294,7 +17299,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6910
+      "UsersEstimate": 6911
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -17349,7 +17354,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230350,
+      "Progressed": 230351,
       "Completed": 5
     }
   ],
@@ -17357,8 +17362,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-24T16:59:25.0658821+00:00",
-  "LastChanged_Achievements": "2023-09-29T16:07:55.1069546+00:00",
+  "LastChanged_Achievements": "2023-09-29T17:05:50.446351+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.470572+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:01:47.2325428+00:00",
-  "LastUpdate_Achievements": "2023-09-29T16:07:55.107082+00:00"
+  "LastUpdate_Ratings": "2023-09-29T17:00:00.3031451+00:00",
+  "LastUpdate_Achievements": "2023-09-29T17:05:50.4464785+00:00"
 }

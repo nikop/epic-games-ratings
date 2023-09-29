@@ -4,7 +4,7 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
@@ -1638,8 +1638,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-29T16:07:55.9749027+00:00",
+  "LastChanged_Achievements": "2023-09-29T17:05:50.9706232+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:12.7025281+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:02:15.022007+00:00",
-  "LastUpdate_Achievements": "2023-09-29T16:07:55.9749382+00:00"
+  "LastUpdate_Ratings": "2023-09-29T17:00:20.0638813+00:00",
+  "LastUpdate_Achievements": "2023-09-29T17:05:50.9706447+00:00"
 }

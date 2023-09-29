@@ -29,13 +29,13 @@
 | The Paradox Coordinate Conqueror | 7.00% | ~6 |
 | The Hypergravitational Abyss Conqueror | 7.00% | ~6 |
 | Hell of a Fight | 7.00% | ~6 |
+| Decapitation Strike | 7.00% | ~6 |
 | The Sunken City Conqueror | 6.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 6.00% | ~5 |
 | The Inactivated Frozen Conqueror | 6.00% | ~5 |
 | Death Bringer Conqueror | 6.00% | ~5 |
 | Rapidfire | 6.00% | ~5 |
 | Air Interception | 6.00% | ~5 |
-| Decapitation Strike | 6.00% | ~5 |
 | The Looping Space Conqueror | 4.00% | ~4 |
 | Space Ranger: Prologue | 4.00% | ~4 |
 | Breaking the Limit | 4.00% | ~4 |
@@ -48,10 +48,10 @@
 | Easy Peasy | 2.00% | ~2 |
 | Clean Sweep | 2.00% | ~2 |
 | Mischief Time | 1.00% | ~1 |
+| Art is an Explosion | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |
 | Flawless | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
-| Art is an Explosion | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

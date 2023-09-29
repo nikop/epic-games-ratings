@@ -26,8 +26,8 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 8.00% | ~475 |
 | I'm the Captain Now | 6.00% | ~356 |
 | Big Fish Small Pond | 5.00% | ~297 |
+| The Beetles | 3.00% | ~178 |
 | Gonna Need a Bigger Boat | 3.00% | ~178 |
-| The Beetles | 2.00% | ~119 |
 | No Fin left to give | 2.00% | ~119 |
 | Rod and Troll | 2.00% | ~106 |
 | Taylor Made | 1.00% | ~59 |

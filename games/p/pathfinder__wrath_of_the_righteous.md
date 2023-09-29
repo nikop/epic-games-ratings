@@ -1,17 +1,17 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,858 |
+| Devoured by Darkness | 25.00% | ~2,859 |
 | A Spark | 18.00% | ~2,058 |
 | Burning City | 17.00% | ~1,944 |
 | Mythic Choices | 14.00% | ~1,601 |
 | Defender's Heart | 14.00% | ~1,601 |
-| Banner over the Citadel | 13.00% | ~1,486 |
+| Banner over the Citadel | 13.00% | ~1,487 |
 | Queen's Gratitude | 12.00% | ~1,372 |
 | Fifth Crusade | 8.00% | ~915 |
 | Embrace of the Abyss | 6.00% | ~686 |
@@ -33,9 +33,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~343 |
 | Core of the Riddle | 3.00% | ~343 |
 | Hey, I Know You! | 3.00% | ~343 |
-| Hanged Man's Notes | 3.00% | ~306 |
-| The Lady of the Forest | 3.00% | ~306 |
-| Beware Still Water | 3.00% | ~306 |
+| Hanged Man's Notes | 3.00% | ~307 |
+| The Lady of the Forest | 3.00% | ~307 |
+| Beware Still Water | 3.00% | ~307 |
 | Path of the Demon | 2.00% | ~229 |
 | Path of the Aeon | 2.00% | ~229 |
 | Path of the Lich | 2.00% | ~229 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,434 (Ranked 138)  
+Progressed: 11,435 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 11,417 | 0 |
 | 2023-09-27 | 11,423 | 0 |
 | 2023-09-28 | 11,429 | 0 |
-| 2023-09-29 | 11,434 | 0 |
+| 2023-09-29 | 11,435 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 119)  
 Sum: 6,965 (Ranked 115)  
