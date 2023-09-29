@@ -73,7 +73,7 @@
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 457 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 717 | 170 |
 | 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 255 | 257 |
-| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,603 | 54 |
+| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,610 | 54 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 415 | 217 |
 | 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 48 | 413 |
 | 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 525 |
@@ -193,7 +193,7 @@
 | 191 | [Barony](games/b/barony.md) | 4.71 | 85 | 362 |
 | 191 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 450 |
 | 191 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 525 |
-| 191 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,480 | 48 |
+| 191 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,487 | 48 |
 | 191 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.71 | 132 | 312 |
 | 191 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 525 |
 | 191 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 525 |
@@ -482,7 +482,7 @@
 | 474 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 482 |
 | 474 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 316 | 237 |
 | 474 | [Hue](games/h/hue.md) | 4.56 | 0 | 525 |
-| 474 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 447 |
+| 474 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 448 |
 | 474 | [IXION](games/i/ixion.md) | 4.56 | 0 | 525 |
 | 474 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 525 |
 | 474 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,748 | 72 |
@@ -820,7 +820,7 @@
 | 815 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 735 | 166 |
 | 815 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 525 |
 | 815 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 308 |
-| 815 | [Steelrising](games/s/steelrising.md) | 4.29 | 36 | 447 |
+| 815 | [Steelrising](games/s/steelrising.md) | 4.29 | 37 | 445 |
 | 822 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 525 |
 | 822 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,788 | 85 |
 | 822 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 126 | 317 |
@@ -899,7 +899,7 @@
 | 895 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 351 |
 | 895 | [SYNCED](games/s/synced.md) | 4.18 | 38 | 440 |
 | 895 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 525 |
-| 900 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 447 |
+| 900 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 448 |
 | 900 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 525 |
 | 900 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 354 |
 | 900 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 525 |
@@ -997,9 +997,9 @@
 | 994 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.77 | 0 | 525 |
 | 994 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 525 |
 | 994 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 525 |
-| 998 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.73 | 0 | 525 |
-| 999 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 525 |
-| 1,000 | [Blood of Steel](games/b/blood_of_steel.md) | 3.69 | 0 | 525 |
-| 1,001 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 525 |
+| 998 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 525 |
+| 999 | [Blood of Steel](games/b/blood_of_steel.md) | 3.69 | 0 | 525 |
+| 1,000 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 525 |
+| 1,001 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.65 | 0 | 525 |
 | 1,002 | [Adios](games/a/adios.md) | 3.55 | 0 | 525 |
 | 1,003 | [Redfall](games/r/redfall.md) | 3.54 | 0 | 525 |

@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 77.22% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 77.09% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.08% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -53,9 +53,9 @@
 | 50 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.63% |
 | 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 54 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.26% |
-| 55 | [JARS](games/j/jars.md) | 5.19% |
-| 56 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
+| 54 | [JARS](games/j/jars.md) | 5.19% |
+| 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
+| 56 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.88% |
 | 57 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 59 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
@@ -66,8 +66,8 @@
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.78% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.60% |
+| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.79% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.59% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -144,8 +144,8 @@
 | 141 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 143 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.78% |
 | 144 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
-| 145 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.72% |
 | 145 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
+| 146 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.71% |
 | 147 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.67% |
 | 147 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
 | 149 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
@@ -199,8 +199,8 @@
 | 195 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 198 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 198 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 198 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.29% |
-| 201 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.28% |
+| 200 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.28% |
+| 200 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.28% |
 | 202 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
 | 203 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 203 | [Filament](games/f/filament.md) | 0.25% |
