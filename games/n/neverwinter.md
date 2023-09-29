@@ -1,7 +1,7 @@
 # Neverwinter
 [Store](https://store.epicgames.com/en-US/p/neverwinter)  
 [View Rawdata](../../db/n/neverwinter.json)  
-Rating: 4.29 (Ranked 815)  
+Rating: 4.30 (Ranked 807)  
 Number of Ratings: 1,084  (23.09.2022)  
 ## Awards
 Max (Character Customization): 735  (Ranked 166)  
@@ -233,3 +233,4 @@ Diff (max vs sum): -24
 | 2023-09-24 | 4.29 | - | 733 | 2,307 |
 | 2023-09-26 | 4.29 | - | 734 | 2,308 |
 | 2023-09-27 | 4.29 | - | 735 | 2,310 |
+| 2023-09-29 | 4.30 | - | 735 | 2,310 |

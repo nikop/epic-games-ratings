@@ -2,10 +2,10 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 62,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.84,
+  "EOS_Progressed": 66,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 58,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -129,6 +129,11 @@
       "Time": "2023-09-29T18:06:44.3718849+00:00",
       "NumProgressed": 62,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-29T19:05:58.3689615+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -139,7 +144,7 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 140,
       "UsersEstimate": 17
     },
@@ -147,9 +152,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 85,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_DONUTS",
@@ -157,31 +162,31 @@
       "Name": "Sweet tooth",
       "Percentage": 68,
       "XP": 45,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
       "SetID": "6f5dahd",
       "Name": "Get back to work",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 185,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 85,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -189,44 +194,44 @@
       "Name": "Good listener",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_SPEEDRUN",
       "SetID": "6f5dahd",
       "Name": "Fast as lightning",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 180,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 65,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 62,
-      "Completed": 3
+      "Progressed": 66,
+      "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:06:44.3718844+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:05:58.3689607+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:02:10.1001585+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:06:44.3718925+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:03:06.3640961+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:05:58.3689731+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 826,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 115,
@@ -1189,9 +1189,9 @@
       "ID": "GB_WITHOUT_BREAKING_A_SWEAT",
       "SetID": "8ga3kd9",
       "Name": "WITHOUT BREAKING A SWEAT",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     }
   ],
   "AchievementSets": [
@@ -1206,8 +1206,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:06:14.5971267+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:05:35.8897201+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:58:13.4951065+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:06:14.5971472+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:58:14.5926026+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:05:35.889745+00:00"
 }

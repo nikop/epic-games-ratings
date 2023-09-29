@@ -1,38 +1,38 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.77 (Ranked 994)  
+Rating: 3.77 (Ranked 995)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,614 |
-| No Half Measures | 88.00% | ~14,464 |
-| Personal Matter | 86.00% | ~14,135 |
-| But You Have Heard of Me | 72.00% | ~11,834 |
-| Double the Barrels, double the Fun | 55.00% | ~9,040 |
-| Pimp My Glide | 48.00% | ~7,889 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,739 |
-| House Party! | 34.00% | ~5,588 |
-| Make It Rain | 23.00% | ~3,780 |
-| Curse of the Seven Seas | 22.00% | ~3,616 |
-| Head First | 16.00% | ~2,630 |
-| To the World's End | 12.00% | ~1,972 |
-| Table for Six | 11.00% | ~1,808 |
+| Eeligally Ambitious | 95.00% | ~15,620 |
+| No Half Measures | 88.00% | ~14,469 |
+| Personal Matter | 86.00% | ~14,140 |
+| But You Have Heard of Me | 72.00% | ~11,838 |
+| Double the Barrels, double the Fun | 55.00% | ~9,043 |
+| Pimp My Glide | 48.00% | ~7,892 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,741 |
+| House Party! | 34.00% | ~5,590 |
+| Make It Rain | 23.00% | ~3,782 |
+| Curse of the Seven Seas | 22.00% | ~3,617 |
+| Head First | 16.00% | ~2,631 |
+| To the World's End | 12.00% | ~1,973 |
+| Table for Six | 11.00% | ~1,809 |
 | Sharing Is Caring | 10.00% | ~1,644 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,315 |
-| Morally Flexible | 6.00% | ~986 |
+| Morally Flexible | 6.00% | ~987 |
 | Fishing for Compliments | 5.00% | ~822 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~493 |
 | A True Dandy | 2.00% | ~329 |
 | A New Legend Awaits | 1.00% | ~164 |
-| Pirate King | 0.80% | ~131 |
-| Oooh, We're Half Way There | 0.80% | ~131 |
+| Pirate King | 0.80% | ~132 |
+| Oooh, We're Half Way There | 0.80% | ~132 |
 | Devilishly Talented | 0.10% | ~16 |
 | Heavy Tunaing | 0.10% | ~16 |
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,436 (Ranked 129)  
+Progressed: 16,442 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 16,251 | 0 |
 | 2023-09-27 | 16,304 | 0 |
 | 2023-09-28 | 16,374 | 0 |
-| 2023-09-29 | 16,436 | 0 |
+| 2023-09-29 | 16,442 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

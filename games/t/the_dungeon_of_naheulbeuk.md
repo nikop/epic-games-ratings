@@ -6,15 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,788 |
-| Where's that freaking Dwarf? | 5.00% | ~11,373 |
-| Alt+F4 | 5.00% | ~11,373 |
-| Déjà vu | 4.00% | ~9,098 |
+| Sowwy! | 32.00% | ~72,791 |
+| Where's that freaking Dwarf? | 5.00% | ~11,374 |
+| Alt+F4 | 5.00% | ~11,374 |
+| Déjà vu | 4.00% | ~9,099 |
 | A beer, two curses, three companions | 3.00% | ~6,824 |
 | Sock! SOCK! | 3.00% | ~6,824 |
 | GG EZ | 3.00% | ~6,824 |
 | DM intervention | 3.00% | ~6,824 |
 | Speedrun | 3.00% | ~6,824 |
+| Fireproof Wizardess | 3.00% | ~6,824 |
 | Livin' in a dwarven paradise | 2.00% | ~4,549 |
 | Way of the Wimp | 2.00% | ~4,549 |
 | The plot thickens... At the tavern | 2.00% | ~4,549 |
@@ -24,7 +25,6 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 2.00% | ~4,549 |
 | Team Building Exercise | 2.00% | ~4,549 |
 | Oh, when I'll be level 10... | 2.00% | ~4,549 |
-| Fireproof Wizardess | 2.00% | ~4,549 |
 | Shiny and Crôm | 1.00% | ~2,275 |
 | Urik's Depths | 1.00% | ~2,275 |
 | The Dungeon Master | 1.00% | ~2,275 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,462 (Ranked 58)  
+Progressed: 227,472 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 5 (0.00%) (Ranked 299)
 | 2023-09-26 | 226,941 | 3 |
 | 2023-09-27 | 227,123 | 4 |
 | 2023-09-28 | 227,303 | 5 |
-| 2023-09-29 | 227,462 | 5 |
+| 2023-09-29 | 227,472 | 5 |
 ## Awards
 Max (Character Customization): 199  (Ranked 277)  
 Sum: 389 (Ranked 327)  

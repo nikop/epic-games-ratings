@@ -5292,9 +5292,9 @@
       "ID": "ACH_LOVES-YOU-BACK",
       "SetID": "72olkc5",
       "Name": "Loves You Back",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_MANNY-SLAYS-ALL",
@@ -5508,8 +5508,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-28T17:59:28.29898+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:05:35.3620609+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:05:06.4752958+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:59:42.0830221+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:05:35.3621195+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:59:17.534311+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:05:06.475363+00:00"
 }

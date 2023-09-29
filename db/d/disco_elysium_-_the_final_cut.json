@@ -1331,9 +1331,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129084,
+  "EOS_Progressed": 129086,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17616,6 +17616,11 @@
       "Time": "2023-09-29T18:06:05.697563+00:00",
       "NumProgressed": 129084,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-29T19:05:29.5887836+00:00",
+      "NumProgressed": 129086,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17683,7 +17688,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30980
+      "UsersEstimate": 30981
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -17731,7 +17736,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20653
+      "UsersEstimate": 20654
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -17763,7 +17768,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20653
+      "UsersEstimate": 20654
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -17946,15 +17951,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129084,
+      "Progressed": 129086,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-27T09:59:07.5046433+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:06:05.6975626+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:05:29.5887831+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.5946316+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:59:49.9053317+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:06:05.6976604+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:59:23.5994448+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:05:29.588895+00:00"
 }

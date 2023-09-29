@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 971)  
+Rating: 3.94 (Ranked 972)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,11 +14,11 @@ Rating: 3.94 (Ranked 971)
 | King of the Hill | 0.50% | ~443 |
 | Fancy Pants | 0.50% | ~443 |
 | Off the Rocks | 0.50% | ~443 |
+| Raider’s Ruin | 0.50% | ~443 |
 | Dragonslayer | 0.50% | ~443 |
 | Rockay Rex | 0.50% | ~443 |
 | Hidden Sonata | 0.40% | ~354 |
 | Case Closed | 0.40% | ~354 |
-| Raider’s Ruin | 0.40% | ~354 |
 | Track Star | 0.30% | ~266 |
 | Headhunter | 0.30% | ~266 |
 | True Player | 0.30% | ~266 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 971)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,507 (Ranked 78)  
+Progressed: 88,508 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 46 (0.05%) (Ranked 259)
 | 2023-09-26 | 88,367 | 46 |
 | 2023-09-27 | 88,409 | 46 |
 | 2023-09-28 | 88,457 | 46 |
-| 2023-09-29 | 88,507 | 46 |
+| 2023-09-29 | 88,508 | 46 |
 ## Awards
 Max (Diverse Characters): 466  (Ranked 206)  
 Sum: 2,222 (Ranked 194)  

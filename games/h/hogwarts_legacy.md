@@ -21,10 +21,10 @@ Rating: 4.76 (Ranked 119)
 | Coasting Along | 10.00% | ~29,752 |
 | Followed the Butterflies | 9.00% | ~26,777 |
 | Rising From the Ashes | 9.00% | ~26,777 |
-| The Avenging Gazelle | 8.00% | ~23,801 |
-| A Sallow Grave | 8.00% | ~23,801 |
-| Flight the Good Flight | 8.00% | ~23,801 |
-| The Spell Master | 8.00% | ~23,801 |
+| The Avenging Gazelle | 8.00% | ~23,802 |
+| A Sallow Grave | 8.00% | ~23,802 |
+| Flight the Good Flight | 8.00% | ~23,802 |
+| The Spell Master | 8.00% | ~23,802 |
 | Beast Friends | 7.00% | ~20,826 |
 | The Seeker of Knowledge | 6.00% | ~17,851 |
 | The Root of the Problem | 6.00% | ~17,851 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,517 (Ranked 46)  
+Progressed: 297,519 (Ranked 46)  
 Completed: 478 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 478 (0.16%) (Ranked 221)
 | 2023-09-26 | 297,390 | 477 |
 | 2023-09-27 | 297,436 | 478 |
 | 2023-09-28 | 297,480 | 478 |
-| 2023-09-29 | 297,517 | 478 |
+| 2023-09-29 | 297,519 | 478 |
 ## Awards
 Max (Character Customization): 23,132  (Ranked 17)  
 Sum: 44,606 (Ranked 30)  

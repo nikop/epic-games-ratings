@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 861,
+  "EOS_Progressed": 862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1832,6 +1832,11 @@
       "Time": "2023-09-29T18:04:19.5753149+00:00",
       "NumProgressed": 861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T19:04:10.9938708+00:00",
+      "NumProgressed": 862,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1852,7 +1857,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "AC02",
@@ -1868,7 +1873,7 @@
       "Name": "Blood and Gold",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "AC04",
@@ -1876,7 +1881,7 @@
       "Name": "Blood and Iron",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "AC05",
@@ -1884,7 +1889,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "AC06",
@@ -1898,9 +1903,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 517
     },
     {
       "ID": "AC08",
@@ -1908,7 +1913,7 @@
       "Name": "Forged in Fire",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "AC09",
@@ -1916,7 +1921,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "AC10",
@@ -1924,7 +1929,7 @@
       "Name": "The Wait is Over",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "AC11",
@@ -1932,7 +1937,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "AC12",
@@ -1940,7 +1945,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AC13",
@@ -1948,7 +1953,7 @@
       "Name": "Second Psalm.",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "AC14",
@@ -1964,7 +1969,7 @@
       "Name": "Full Devotion",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "AC16",
@@ -1988,7 +1993,7 @@
       "Name": "Acquired Taste",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "AC19",
@@ -2004,7 +2009,7 @@
       "Name": "Still Among Us",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "AC21",
@@ -2060,7 +2065,7 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "AC28",
@@ -2092,7 +2097,7 @@
       "Name": "The Merciless One",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "AC32",
@@ -2100,7 +2105,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "AC33",
@@ -2124,7 +2129,7 @@
       "Name": "Flawless Penance",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AC36",
@@ -2211,7 +2216,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 861,
+      "Progressed": 862,
       "Completed": 0
     }
   ],
@@ -2219,8 +2224,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:04:19.5753146+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:04:10.9938703+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
   "LastUpdate_Ratings": "2023-09-29T18:02:06.4686872+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:04:19.5753521+00:00"
+  "LastUpdate_Achievements": "2023-09-29T19:04:10.9939195+00:00"
 }

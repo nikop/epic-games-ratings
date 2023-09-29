@@ -383,9 +383,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -495,17 +495,17 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 92,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 92,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MindIlluminator",
@@ -575,9 +575,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 92,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ReflexiveMind",
@@ -783,9 +783,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 72,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -798,8 +798,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:07:09.6021969+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:06:17.4144332+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:58:21.6095146+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:07:09.6022673+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:58:20.493658+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:06:17.4145223+00:00"
 }

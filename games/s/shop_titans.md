@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 958)  
+Rating: 3.99 (Ranked 959)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -71,6 +71,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.50% | ~684 |
 | Supercharged | 0.50% | ~684 |
 | Expansion in Session | 0.50% | ~684 |
+| Ritualist | 0.50% | ~684 |
 | Cranked up to 11 | 0.50% | ~684 |
 | Fit for a King | 0.50% | ~684 |
 | Mammonite | 0.50% | ~684 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.40% | ~547 |
 | Fillin' the Bin | 0.40% | ~547 |
 | Industrial Evolution | 0.40% | ~547 |
-| Ritualist | 0.40% | ~547 |
 | By Your Powers Combined... | 0.40% | ~547 |
 | A Legend is Born | 0.40% | ~547 |
 | Necromancer Queen | 0.40% | ~547 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,857 (Ranked 69)  
+Progressed: 136,863 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 158 (0.12%) (Ranked 230)
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
-| 2023-09-29 | 136,857 | 158 |
+| 2023-09-29 | 136,863 | 158 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,304 (Ranked 49)  

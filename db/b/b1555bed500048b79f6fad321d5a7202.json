@@ -2,9 +2,9 @@
   "ID": "b1555bed500048b79f6fad321d5a7202",
   "Name": "Nova Strike",
   "ProductSlug": "nova-strike",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-09-17T19:06:50.8427563+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T19:06:48.3602804+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-27T09:00:47.837898+00:00",
@@ -117,7 +122,7 @@
       "Name": "Take-off",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "10",
@@ -131,7 +136,7 @@
       "ID": "11",
       "SetID": "5lmgb5n",
       "Name": "Lots of guns",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -139,15 +144,15 @@
       "ID": "12",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Not that one ! \u00BB",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "13",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Catch me ! \u00BB",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -155,9 +160,9 @@
       "ID": "14",
       "SetID": "5lmgb5n",
       "Name": "Space warrior",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "15",
@@ -187,7 +192,7 @@
       "ID": "2",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Missed your train ? \u00BB",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -203,7 +208,7 @@
       "ID": "4",
       "SetID": "5lmgb5n",
       "Name": "Shipwreck",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -211,7 +216,7 @@
       "ID": "5",
       "SetID": "5lmgb5n",
       "Name": "Mission complete",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -219,9 +224,9 @@
       "ID": "6",
       "SetID": "5lmgb5n",
       "Name": "I\u0027ll be back",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "7",
@@ -235,7 +240,7 @@
       "ID": "8",
       "SetID": "5lmgb5n",
       "Name": "Fine-tuned",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -243,7 +248,7 @@
       "ID": "9",
       "SetID": "5lmgb5n",
       "Name": "Prepared for everything",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -252,14 +257,14 @@
     {
       "ID": "5lmgb5n",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-01T17:57:15.417179+00:00",
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:07:51.4801799+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:06:48.3602799+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:21.2105032+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:01:39.5953544+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:07:51.480192+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:00:39.3619057+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:06:48.3602933+00:00"
 }

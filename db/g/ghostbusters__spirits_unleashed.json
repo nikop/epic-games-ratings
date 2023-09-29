@@ -2232,9 +2232,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26083,
+  "EOS_Progressed": 26085,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13797,6 +13797,11 @@
       "Time": "2023-09-29T18:04:13.5722796+00:00",
       "NumProgressed": 26083,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-29T19:04:06.6820605+00:00",
+      "NumProgressed": 26085,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13856,7 +13861,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Collector",
@@ -13934,9 +13939,9 @@
       "ID": "Fragile_Panes",
       "SetID": "819popo",
       "Name": "Fragile Panes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Fully_Upgraded",
@@ -13944,7 +13949,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "GB_In_Training",
@@ -14144,7 +14149,7 @@
       "Name": "Teamwork",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Terrifying",
@@ -14192,7 +14197,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Welcome_Crew",
@@ -14208,14 +14213,14 @@
       "Name": "Whoopsie",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26083,
+      "Progressed": 26085,
       "Completed": 58
     }
   ],
@@ -14223,8 +14228,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:04:13.5722792+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:04:06.68206+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:03.3442417+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:59:47.0479995+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:04:13.5723649+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:59:21.060019+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:04:06.6821933+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,319 |
+| Lawbringer | 39.00% | ~24,320 |
 | Landlord | 33.00% | ~20,578 |
 | Bannerlord | 23.00% | ~14,342 |
 | Horde breaker | 23.00% | ~14,342 |
@@ -16,7 +16,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 17.00% | ~10,601 |
 | I can do it | 16.00% | ~9,977 |
 | Apple of my eye | 15.00% | ~9,354 |
-| God of the Arena | 13.00% | ~8,106 |
+| God of the Arena | 13.00% | ~8,107 |
 | Against all odds | 12.00% | ~7,483 |
 | This Is Our Land | 12.00% | ~7,483 |
 | Duelist | 10.00% | ~6,236 |
@@ -38,7 +38,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 1.00% | ~624 |
 | Crackshot | 0.80% | ~499 |
 | Undercover | 0.80% | ~499 |
-| Fat Cat | 0.70% | ~436 |
+| Fat Cat | 0.70% | ~437 |
 | Catch | 0.60% | ~374 |
 | Slice 'n dice | 0.50% | ~312 |
 | Ride it like you stole it | 0.40% | ~249 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,357 (Ranked 91)  
+Progressed: 62,358 (Ranked 91)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,16 +220,16 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 62,113 | 0 |
 | 2023-09-27 | 62,189 | 0 |
 | 2023-09-28 | 62,296 | 0 |
-| 2023-09-29 | 62,357 | 0 |
+| 2023-09-29 | 62,358 | 0 |
 ## Awards
 Max (Character Customization): 7,155  (Ranked 52)  
-Sum: 14,640 (Ranked 67)  
+Sum: 14,646 (Ranked 67)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,155 |
 | This game is Great for Beginners | 983 |
-| This game has Diverse Characters | 930 |
+| This game has Diverse Characters | 936 |
 | This game is Highly Recommended | 881 |
 | This game is Extremely Fun | 841 |
 | This game has Amazing Storytelling | 826 |
@@ -499,4 +499,4 @@ Diff (max vs sum): -15
 | 2023-09-26 | 4.74 | - | 7,135 | 14,598 |
 | 2023-09-27 | 4.74 | - | 7,144 | 14,617 |
 | 2023-09-28 | 4.74 | - | 7,151 | 14,631 |
-| 2023-09-29 | 4.74 | - | 7,155 | 14,640 |
+| 2023-09-29 | 4.74 | - | 7,155 | 14,646 |

@@ -3,8 +3,8 @@
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 396,
-  "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
@@ -332,17 +332,17 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_FIND_SECRET",
@@ -404,17 +404,17 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:06:47.3038105+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:06:00.5024319+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:06.1716028+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:02:10.9238373+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:06:47.3038223+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:03:06.7180803+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:06:00.5024495+00:00"
 }

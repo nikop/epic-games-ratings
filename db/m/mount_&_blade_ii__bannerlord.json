@@ -7465,10 +7465,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14640,
       "NumberOfAwardsMax": 7155
+    },
+    {
+      "Time": "2023-09-29T18:58:19.4522262+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14646,
+      "NumberOfAwardsMax": 7155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14640,
+  "NumberOfAwards": 14646,
   "NumberOfAwardsMax": 7155,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7524,7 +7530,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 930
+      "Count": 936
     },
     {
       "Text": "This game is Relaxing",
@@ -7545,9 +7551,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62357,
+  "EOS_Progressed": 62358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24775,6 +24781,11 @@
       "Time": "2023-09-29T18:06:18.104941+00:00",
       "NumProgressed": 62357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T19:05:38.5514195+00:00",
+      "NumProgressed": 62358,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24898,7 +24909,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "Freedom",
@@ -24914,7 +24925,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8106
+      "UsersEstimate": 8107
     },
     {
       "ID": "Great Granny",
@@ -25018,7 +25029,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24319
+      "UsersEstimate": 24320
     },
     {
       "ID": "Lawmaker",
@@ -25193,15 +25204,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62357,
+      "Progressed": 62358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-29T16:57:59.0025637+00:00",
-  "LastChanged_Achievements": "2023-09-29T18:06:18.1049404+00:00",
+  "LastChanged": "2023-09-29T18:58:19.4522261+00:00",
+  "LastChanged_Achievements": "2023-09-29T19:05:38.5514189+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:58:20.047203+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:06:18.1050619+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:58:19.4522271+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:05:38.5515669+00:00"
 }

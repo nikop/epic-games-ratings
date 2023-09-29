@@ -56,6 +56,7 @@ Number of Ratings: 371  (23.09.2022)
 | Abomination | 0.20% | ~6 |
 | Killing Rampage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
+| Crisis Management | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
@@ -69,13 +70,12 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
-| Crisis Management | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,247 (Ranked 185)  
+Progressed: 3,247 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |

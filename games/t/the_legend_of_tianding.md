@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Phantom Kunoichi | 100.00% | ~1 |
 | Killing Machine | 100.00% | ~1 |
 | Final Showdown | 100.00% | ~1 |
 | Eat the Rich | 100.00% | ~1 |
@@ -11,7 +12,6 @@
 | The Hero of the People | 100.00% | ~1 |
 | Sewer Rat | 100.00% | ~1 |
 | Death Battle | 0.00% | ~0 |
-| Phantom Kunoichi | 0.00% | ~0 |
 | Divine Retribution | 0.00% | ~0 |
 | Big Eater | 0.00% | ~0 |
 | Dispel Rumors | 0.00% | ~0 |

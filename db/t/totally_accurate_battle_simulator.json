@@ -4,10 +4,10 @@
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 161,
+  "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
@@ -3921,10 +3921,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 3231,
       "NumberOfAwardsMax": 375
+    },
+    {
+      "Time": "2023-09-29T18:59:09.2411058+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 3235,
+      "NumberOfAwardsMax": 375
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3231,
+  "NumberOfAwards": 3235,
   "NumberOfAwardsMax": 375,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3950,7 +3956,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 325
+      "Count": 327
     },
     {
       "Text": "This game is Relaxing",
@@ -3974,13 +3980,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 368
+      "Count": 369
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 308
+      "Count": 309
     },
     {
       "Text": "This game has a Creative Community",
@@ -4024,8 +4030,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2023-09-29T14:59:07.3829759+00:00",
+  "LastChanged": "2023-09-29T18:59:09.2411057+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:37.1042136+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:59:31.103555+00:00",
-  "LastUpdate_Achievements": "2023-09-29T18:05:28.1481349+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:59:09.2411063+00:00",
+  "LastUpdate_Achievements": "2023-09-29T19:05:00.9924791+00:00"
 }

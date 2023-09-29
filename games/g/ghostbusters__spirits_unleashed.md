@@ -10,11 +10,11 @@ Rating: 4.50 (Ranked 573)
 | Meticulously Efficient | 0.80% | ~209 |
 | Discovery | 0.70% | ~183 |
 | Solo Capture | 0.70% | ~183 |
-| I collect Spores, Molds, and Fungi | 0.60% | ~156 |
-| Fully Upgraded | 0.60% | ~156 |
-| Teamwork | 0.60% | ~156 |
-| Vaporous Expansion | 0.60% | ~156 |
-| Whoopsie | 0.60% | ~156 |
+| I collect Spores, Molds, and Fungi | 0.60% | ~157 |
+| Fully Upgraded | 0.60% | ~157 |
+| Teamwork | 0.60% | ~157 |
+| Vaporous Expansion | 0.60% | ~157 |
+| Whoopsie | 0.60% | ~157 |
 | Back Off | 0.50% | ~130 |
 | Clutch Capture | 0.50% | ~130 |
 | Cultured | 0.50% | ~130 |
@@ -39,13 +39,13 @@ Rating: 4.50 (Ranked 573)
 | Collector | 0.20% | ~52 |
 | Diabolical | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
+| Fragile Panes | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
-| Fragile Panes | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
 | Liability | 0.10% | ~26 |
 | Line em' up | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,083 (Ranked 113)  
+Progressed: 26,085 (Ranked 113)  
 Completed: 58 (0.22%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 58 (0.22%) (Ranked 210)
 | 2023-09-26 | 26,042 | 58 |
 | 2023-09-27 | 26,057 | 58 |
 | 2023-09-28 | 26,071 | 58 |
-| 2023-09-29 | 26,083 | 58 |
+| 2023-09-29 | 26,085 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 257)  
 Sum: 2,331 (Ranked 188)  

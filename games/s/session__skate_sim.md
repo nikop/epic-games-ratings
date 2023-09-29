@@ -51,9 +51,9 @@ Number of Ratings: 111  (23.09.2022)
 | Skatepark hero | 1.00% | ~30 |
 | Bing Bong! | 0.10% | ~3 |
 | Golden! | 0.10% | ~3 |
+| Loves You Back | 0.10% | ~3 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
-| Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,979 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 299)  
