@@ -1,33 +1,33 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 904)  
+Rating: 4.16 (Ranked 905)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,037 |
-| Unlocked Potential | 9.00% | ~3,633 |
-| Tinkerer | 7.00% | ~2,826 |
-| Knock 'Em Dead | 7.00% | ~2,826 |
-| Pilgrimage: Initiate | 7.00% | ~2,826 |
-| Hell of a Run | 7.00% | ~2,826 |
-| Leapfrogger | 6.00% | ~2,422 |
-| Call of the Fount: Baptized | 6.00% | ~2,422 |
-| No Mercy | 5.00% | ~2,019 |
-| Explorer: Seeker | 5.00% | ~2,019 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,615 |
-| Stuck | 4.00% | ~1,615 |
-| Help Me Out Here | 4.00% | ~1,615 |
-| Outdoorsperson | 3.00% | ~1,211 |
-| The Interloper | 3.00% | ~1,211 |
-| Hop, Step, Jump | 3.00% | ~1,211 |
-| Endless Runner | 3.00% | ~1,211 |
-| What Must Be Done | 2.00% | ~807 |
-| Might and Main | 2.00% | ~807 |
-| Damned If You Do... | 2.00% | ~807 |
-| Explorer: Pathfinder | 2.00% | ~807 |
-| Shocker | 2.00% | ~807 |
-| From Every Angle | 2.00% | ~807 |
+| Attachments | 10.00% | ~4,039 |
+| Unlocked Potential | 9.00% | ~3,635 |
+| Tinkerer | 7.00% | ~2,828 |
+| Knock 'Em Dead | 7.00% | ~2,828 |
+| Pilgrimage: Initiate | 7.00% | ~2,828 |
+| Hell of a Run | 7.00% | ~2,828 |
+| Leapfrogger | 6.00% | ~2,424 |
+| Call of the Fount: Baptized | 6.00% | ~2,424 |
+| No Mercy | 5.00% | ~2,020 |
+| Explorer: Seeker | 5.00% | ~2,020 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,616 |
+| Stuck | 4.00% | ~1,616 |
+| Help Me Out Here | 4.00% | ~1,616 |
+| Outdoorsperson | 3.00% | ~1,212 |
+| The Interloper | 3.00% | ~1,212 |
+| Hop, Step, Jump | 3.00% | ~1,212 |
+| Endless Runner | 3.00% | ~1,212 |
+| What Must Be Done | 2.00% | ~808 |
+| Might and Main | 2.00% | ~808 |
+| Damned If You Do... | 2.00% | ~808 |
+| Explorer: Pathfinder | 2.00% | ~808 |
+| Shocker | 2.00% | ~808 |
+| From Every Angle | 2.00% | ~808 |
 | The Hue of Blue | 1.00% | ~404 |
 | The Truth Will Out | 1.00% | ~404 |
 | Breaking Point | 1.00% | ~404 |
@@ -59,8 +59,8 @@ Rating: 4.16 (Ranked 904)
 | Remembrance | 0.10% | ~40 |
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,371 (Ranked 105)  
-Completed: 3 (0.01%) (Ranked 282)  
+Progressed: 40,394 (Ranked 105)  
+Completed: 3 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,7 +221,7 @@ Completed: 3 (0.01%) (Ranked 282)
 | 2023-09-26 | 40,073 | 3 |
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
-| 2023-09-29 | 40,371 | 3 |
+| 2023-09-29 | 40,394 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

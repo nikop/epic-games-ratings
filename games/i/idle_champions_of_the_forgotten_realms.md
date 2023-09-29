@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 940)  
+Rating: 4.06 (Ranked 941)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,408 (Ranked 56)  
+Progressed: 230,416 (Ranked 56)  
 Completed: 2,312 (1.00%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -693,17 +693,17 @@ Completed: 2,312 (1.00%) (Ranked 133)
 | 2023-09-26 | 230,150 | 2,307 |
 | 2023-09-27 | 230,228 | 2,310 |
 | 2023-09-28 | 230,310 | 2,311 |
-| 2023-09-29 | 230,408 | 2,312 |
+| 2023-09-29 | 230,416 | 2,312 |
 ## Awards
 Max (Diverse Characters): 5,341  (Ranked 69)  
-Sum: 31,837 (Ranked 40)  
+Sum: 31,838 (Ranked 40)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,341 |
 | This game is Great for Beginners | 5,331 |
 | This game has Quickly Understood Controls | 4,780 |
-| This game is Relaxing | 4,664 |
+| This game is Relaxing | 4,665 |
 | This game has Amazing Characters | 4,138 |
 | This game is Highly Recommended | 4,133 |
 | This game has Playful Visuals | 3,450 |
@@ -956,4 +956,4 @@ Diff (max vs sum): 29
 | 2023-09-26 | 4.06 | - | 5,322 | 31,762 |
 | 2023-09-27 | 4.06 | - | 5,329 | 31,785 |
 | 2023-09-28 | 4.06 | - | 5,333 | 31,803 |
-| 2023-09-29 | 4.06 | - | 5,341 | 31,837 |
+| 2023-09-29 | 4.06 | - | 5,341 | 31,838 |

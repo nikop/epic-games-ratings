@@ -2,13 +2,13 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -10175,10 +10175,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 47176,
       "NumberOfAwardsMax": 17384
+    },
+    {
+      "Time": "2023-09-29T22:02:12.0276067+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 47185,
+      "NumberOfAwardsMax": 17384
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47176,
+  "NumberOfAwards": 47185,
   "NumberOfAwardsMax": 17384,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10198,7 +10204,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3716
+      "Count": 3719
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10228,7 +10234,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3657
+      "Count": 3663
     },
     {
       "Text": "This game has Unique Visuals",
@@ -10260,8 +10266,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-09-29T21:02:15.6833787+00:00",
+  "LastChanged": "2023-09-29T22:02:12.0276064+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:12.4825863+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:02:15.6833794+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:04:28.7117731+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:02:12.0276071+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:04:35.245697+00:00"
 }

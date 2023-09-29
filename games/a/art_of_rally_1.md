@@ -6,22 +6,22 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,852 |
+| light attack | 96.00% | ~9,853 |
 | keep it tidy | 77.00% | ~7,903 |
-| podium | 72.00% | ~7,389 |
+| podium | 72.00% | ~7,390 |
 | medium attack | 60.00% | ~6,158 |
 | brail | 57.00% | ~5,850 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,310 |
-| grocery-getter | 40.00% | ~4,105 |
-| rwd only | 26.00% | ~2,668 |
-| food tour: pasta | 26.00% | ~2,668 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,311 |
+| grocery-getter | 40.00% | ~4,106 |
+| rwd only | 26.00% | ~2,669 |
+| food tour: pasta | 26.00% | ~2,669 |
 | to finish first, first you must finish | 21.00% | ~2,155 |
 | autopilot | 21.00% | ~2,155 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,155 |
 | turbo | 20.00% | ~2,053 |
 | food tour: pretzel | 19.00% | ~1,950 |
-| bicycle race | 15.00% | ~1,539 |
-| car wash | 15.00% | ~1,539 |
+| bicycle race | 15.00% | ~1,540 |
+| car wash | 15.00% | ~1,540 |
 | monster | 14.00% | ~1,437 |
 | the artist | 14.00% | ~1,437 |
 | perkele | 13.00% | ~1,334 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,263 (Ranked 141)  
+Progressed: 10,264 (Ranked 141)  
 Completed: 9 (0.09%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 9 (0.09%) (Ranked 242)
 | 2023-09-26 | 10,258 | 9 |
 | 2023-09-27 | 10,259 | 9 |
 | 2023-09-28 | 10,262 | 9 |
-| 2023-09-29 | 10,263 | 9 |
+| 2023-09-29 | 10,264 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

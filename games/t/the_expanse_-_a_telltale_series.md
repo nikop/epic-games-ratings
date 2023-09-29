@@ -1,17 +1,17 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 490)  
+Rating: 4.55 (Ranked 491)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 35.00% | ~4,619 |
-| Captain Drummer | 30.00% | ~3,959 |
-| Stogie for Fogey | 29.00% | ~3,827 |
-| Martian Music | 28.00% | ~3,695 |
-| Celebrations are in Order | 28.00% | ~3,695 |
-| Spore Taste | 27.00% | ~3,563 |
-| The Pit and the Pirates | 26.00% | ~3,431 |
+| Impossible Objects | 35.00% | ~4,621 |
+| Captain Drummer | 30.00% | ~3,961 |
+| Stogie for Fogey | 29.00% | ~3,829 |
+| Martian Music | 28.00% | ~3,697 |
+| Celebrations are in Order | 28.00% | ~3,697 |
+| Spore Taste | 27.00% | ~3,565 |
+| The Pit and the Pirates | 26.00% | ~3,433 |
 | Drone Dodger | 25.00% | ~3,300 |
 | Doctor Approved | 20.00% | ~2,640 |
 | Bosmang | 19.00% | ~2,508 |
@@ -36,8 +36,8 @@ Rating: 4.55 (Ranked 490)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,198 (Ranked 135)  
-Completed: 0 (0.00%) (Ranked 299)  
+Progressed: 13,202 (Ranked 135)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 12,944 | 0 |
 | 2023-09-27 | 13,049 | 0 |
 | 2023-09-28 | 13,120 | 0 |
-| 2023-09-29 | 13,198 | 0 |
+| 2023-09-29 | 13,202 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 136,
@@ -1072,9 +1072,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13034,
+  "EOS_Progressed": 13035,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -11977,6 +11977,11 @@
       "Time": "2023-09-29T18:04:29.4509642+00:00",
       "NumProgressed": 13034,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-29T22:04:06.140407+00:00",
+      "NumProgressed": 13035,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -12036,7 +12041,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "ACH08",
@@ -12044,7 +12049,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "ACH09",
@@ -12068,7 +12073,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "ACH12",
@@ -12267,7 +12272,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13034,
+      "Progressed": 13035,
       "Completed": 48
     }
   ],
@@ -12275,8 +12280,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-29T18:59:29.2350087+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:03:59.451047+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:04:06.1404062+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:59:19.3860272+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:03:59.4511454+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:59:06.7217452+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:04:06.1405969+00:00"
 }

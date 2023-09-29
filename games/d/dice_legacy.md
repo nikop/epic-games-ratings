@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.27 (Ranked 825)  
+Rating: 4.27 (Ranked 826)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,8 +21,8 @@ Rating: 4.27 (Ranked 825)
 | Greedy | 4.00% | ~44 |
 | The Stranded King | 4.00% | ~44 |
 | Prophecy Fulfilled | 4.00% | ~44 |
+| The Greedy Ones | 3.00% | ~33 |
 | The First King | 2.00% | ~22 |
-| The Greedy Ones | 2.00% | ~22 |
 | The Unruly Ones | 2.00% | ~22 |
 | The great fire | 1.00% | ~11 |
 | The Council | 1.00% | ~11 |
@@ -51,8 +51,8 @@ Rating: 4.27 (Ranked 825)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100 (Ranked 227)  
-Completed: 0 (0.00%) (Ranked 299)  
+Progressed: 1,101 (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 1,097 | 0 |
 | 2023-09-27 | 1,098 | 0 |
 | 2023-09-28 | 1,099 | 0 |
-| 2023-09-29 | 1,100 | 0 |
+| 2023-09-29 | 1,101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -7178,10 +7178,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 6387,
       "NumberOfAwardsMax": 1139
+    },
+    {
+      "Time": "2023-09-29T22:02:19.8478758+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 6401,
+      "NumberOfAwardsMax": 1139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6387,
+  "NumberOfAwards": 6401,
   "NumberOfAwardsMax": 1139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7201,7 +7207,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 875
+      "Count": 889
     },
     {
       "Text": "This game has a Creative Community",
@@ -7272,9 +7278,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-09-29T20:02:16.9114498+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:04:11.0528619+00:00",
+  "LastChanged": "2023-09-29T22:02:19.8478756+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:04:17.814581+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:35.8599714+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:02:24.8964006+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:04:11.0528661+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:02:19.8478764+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:04:17.8145844+00:00"
 }

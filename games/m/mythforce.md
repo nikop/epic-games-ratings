@@ -1,36 +1,36 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 588)  
+Rating: 4.49 (Ranked 589)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~719 |
-| Debuff Dogpile | 20.00% | ~685 |
-| Hit 'Em Where It Hurts | 20.00% | ~685 |
-| Perk Shard Punch Card | 20.00% | ~685 |
-| That'll Leave a Mark | 20.00% | ~685 |
-| Mushroom Madness! | 18.00% | ~616 |
-| First Strike | 15.00% | ~513 |
-| Horder Better Faster Stronger | 15.00% | ~513 |
-| Spending Spree | 15.00% | ~513 |
+| Faceroll the Bones | 21.00% | ~720 |
+| Debuff Dogpile | 20.00% | ~686 |
+| Hit 'Em Where It Hurts | 20.00% | ~686 |
+| Perk Shard Punch Card | 20.00% | ~686 |
+| That'll Leave a Mark | 20.00% | ~686 |
+| Mushroom Madness! | 18.00% | ~617 |
+| First Strike | 15.00% | ~514 |
+| Horder Better Faster Stronger | 15.00% | ~514 |
+| Spending Spree | 15.00% | ~514 |
 | Everything Must Go! | 12.00% | ~411 |
 | Ten Steps from the Grave | 12.00% | ~411 |
 | Next Time on MythForce... | 11.00% | ~377 |
-| Cold-Blooded Critters | 9.00% | ~308 |
+| Cold-Blooded Critters | 9.00% | ~309 |
 | Death Becomes You | 7.00% | ~240 |
-| Flawless Victory | 6.00% | ~205 |
+| Flawless Victory | 6.00% | ~206 |
 | The Harder They Fall | 5.00% | ~171 |
 | On this Episode! | 4.00% | ~137 |
 | Deadication | 3.00% | ~103 |
 | Season Finale | 3.00% | ~103 |
-| We've Got a Kaiju on the Field | 2.00% | ~68 |
+| We've Got a Kaiju on the Field | 2.00% | ~69 |
 | The Fourth Gate | 1.00% | ~34 |
 | Vexed Her | 0.40% | ~14 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,423 (Ranked 182)  
+Progressed: 3,429 (Ranked 182)  
 Completed: 1 (0.03%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.03%) (Ranked 271)
 | 2023-09-26 | 3,240 | 1 |
 | 2023-09-27 | 3,281 | 1 |
 | 2023-09-28 | 3,340 | 1 |
-| 2023-09-29 | 3,423 | 1 |
+| 2023-09-29 | 3,429 | 1 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 457)  
 Sum: 278 (Ranked 354)  

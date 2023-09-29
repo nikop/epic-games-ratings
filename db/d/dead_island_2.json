@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 512,
+  "Ranking_Rating": 513,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4932,10 +4932,10 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 688078,
+  "EOS_Progressed": 688096,
   "EOS_Completed": 2177,
-  "EOS_NewPlayers": 3712,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 3705,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -23242,6 +23242,11 @@
       "Time": "2023-09-29T21:03:36.7840082+00:00",
       "NumProgressed": 688078,
       "NumCompleted": 2177
+    },
+    {
+      "Time": "2023-09-29T22:03:43.2053078+00:00",
+      "NumProgressed": 688096,
+      "NumCompleted": 2177
     }
   ],
   "TotalAchievements": 45,
@@ -23389,7 +23394,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4129
     },
     {
       "ID": "ach_hazardous_materials",
@@ -23413,7 +23418,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20642
+      "UsersEstimate": 20643
     },
     {
       "ID": "ach_impressive_aim",
@@ -23429,7 +23434,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4129
     },
     {
       "ID": "ach_investigator",
@@ -23589,7 +23594,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20642
+      "UsersEstimate": 20643
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23612,22 +23617,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 688078,
+      "Progressed": 688096,
       "Completed": 2177
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 13620,
-      "Completed": 13620
+      "Progressed": 13638,
+      "Completed": 13638
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-29T15:59:37.5257526+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:03:36.7840077+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:03:43.2053073+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:58:44.1659527+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:03:36.7841609+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:58:32.6348491+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:03:43.2054541+00:00"
 }

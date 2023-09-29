@@ -1,25 +1,25 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.77 (Ranked 995)  
+Rating: 3.77 (Ranked 996)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,629 |
-| No Half Measures | 88.00% | ~14,478 |
-| Personal Matter | 86.00% | ~14,149 |
-| But You Have Heard of Me | 72.00% | ~11,845 |
-| Double the Barrels, double the Fun | 55.00% | ~9,049 |
-| Pimp My Glide | 48.00% | ~7,897 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,745 |
-| House Party! | 34.00% | ~5,594 |
-| Make It Rain | 23.00% | ~3,784 |
-| Curse of the Seven Seas | 22.00% | ~3,619 |
-| Head First | 16.00% | ~2,632 |
-| To the World's End | 12.00% | ~1,974 |
+| Eeligally Ambitious | 95.00% | ~15,634 |
+| No Half Measures | 88.00% | ~14,482 |
+| Personal Matter | 86.00% | ~14,153 |
+| But You Have Heard of Me | 72.00% | ~11,849 |
+| Double the Barrels, double the Fun | 55.00% | ~9,051 |
+| Pimp My Glide | 48.00% | ~7,899 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,747 |
+| House Party! | 34.00% | ~5,595 |
+| Make It Rain | 23.00% | ~3,785 |
+| Curse of the Seven Seas | 22.00% | ~3,621 |
+| Head First | 16.00% | ~2,633 |
+| To the World's End | 12.00% | ~1,975 |
 | Table for Six | 11.00% | ~1,810 |
-| Sharing Is Caring | 10.00% | ~1,645 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,316 |
+| Sharing Is Caring | 10.00% | ~1,646 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,317 |
 | Morally Flexible | 6.00% | ~987 |
 | Fishing for Compliments | 5.00% | ~823 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~494 |
@@ -32,8 +32,8 @@ Rating: 3.77 (Ranked 995)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,452 (Ranked 129)  
-Completed: 0 (0.00%) (Ranked 299)  
+Progressed: 16,457 (Ranked 129)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 16,251 | 0 |
 | 2023-09-27 | 16,304 | 0 |
 | 2023-09-28 | 16,374 | 0 |
-| 2023-09-29 | 16,452 | 0 |
+| 2023-09-29 | 16,457 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 950,
+  "Ranking_Rating": 951,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6422,6 +6422,6 @@
   "LastChanged": "2023-09-29T16:57:40.1311312+00:00",
   "LastChanged_Achievements": "2023-09-29T21:06:38.4349274+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:57:53.0779214+00:00",
+  "LastUpdate_Ratings": "2023-09-29T21:57:39.0832154+00:00",
   "LastUpdate_Achievements": "2023-09-29T21:06:38.43504+00:00"
 }

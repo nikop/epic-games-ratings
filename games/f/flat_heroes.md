@@ -7,7 +7,7 @@
 | Dash Crash | 72.00% | ~323 |
 | Be water, my friend | 58.00% | ~260 |
 | Snake Eyes | 57.00% | ~256 |
-| Fireball | 46.00% | ~207 |
+| Fireball | 47.00% | ~211 |
 | The King of Flat | 42.00% | ~189 |
 | Hit That Ball | 34.00% | ~153 |
 | Air Slash | 32.00% | ~144 |
@@ -50,7 +50,7 @@
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 449 (Ranked 275)  
-Completed: 0 (0.00%) (Ranked 299)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

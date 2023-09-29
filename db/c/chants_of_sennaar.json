@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1280,9 +1280,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 80,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
@@ -1295,8 +1295,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:08:37.1304568+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:08:40.2818375+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:58:55.1383456+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:08:37.1304827+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:58:43.2563616+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:08:40.2818578+00:00"
 }

@@ -1,45 +1,45 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 608)  
+Rating: 4.48 (Ranked 609)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,687 |
-| Leader | 60.00% | ~5,573 |
-| Explorer | 53.00% | ~4,923 |
-| Healer | 52.00% | ~4,830 |
-| Aspiring Inventor | 44.00% | ~4,087 |
-| Adventurer | 41.00% | ~3,808 |
-| Famous Healer | 38.00% | ~3,529 |
-| Local Leader | 35.00% | ~3,251 |
-| Famous Explorer | 34.00% | ~3,158 |
-| New Opportunities | 34.00% | ~3,158 |
-| Energized | 33.00% | ~3,065 |
-| The Long Haul | 33.00% | ~3,065 |
-| The Great Healer | 31.00% | ~2,879 |
-| Survivor | 31.00% | ~2,879 |
+| First Step | 72.00% | ~6,689 |
+| Leader | 60.00% | ~5,574 |
+| Explorer | 53.00% | ~4,924 |
+| Healer | 52.00% | ~4,831 |
+| Aspiring Inventor | 44.00% | ~4,088 |
+| Adventurer | 41.00% | ~3,809 |
+| Famous Healer | 38.00% | ~3,530 |
+| Local Leader | 35.00% | ~3,252 |
+| Famous Explorer | 34.00% | ~3,159 |
+| New Opportunities | 34.00% | ~3,159 |
+| Energized | 33.00% | ~3,066 |
+| The Long Haul | 33.00% | ~3,066 |
+| The Great Healer | 31.00% | ~2,880 |
+| Survivor | 31.00% | ~2,880 |
 | Legendary Explorer | 28.00% | ~2,601 |
 | Cleaner | 28.00% | ~2,601 |
 | Catastrofan | 28.00% | ~2,601 |
 | Finders, Keepers | 26.00% | ~2,415 |
 | Top Notch | 25.00% | ~2,322 |
-| Great Leader | 23.00% | ~2,136 |
-| Mentor | 23.00% | ~2,136 |
-| Merchant | 22.00% | ~2,043 |
-| Ice Lakes | 22.00% | ~2,043 |
-| Real Survivor | 22.00% | ~2,043 |
+| Great Leader | 23.00% | ~2,137 |
+| Mentor | 23.00% | ~2,137 |
+| Merchant | 22.00% | ~2,044 |
+| Ice Lakes | 22.00% | ~2,044 |
+| Real Survivor | 22.00% | ~2,044 |
 | Rocket Surgeon | 20.00% | ~1,858 |
 | War Never Changes | 19.00% | ~1,765 |
 | Friendly | 17.00% | ~1,579 |
 | Big Game Hunter | 17.00% | ~1,579 |
 | Spreading Influence | 17.00% | ~1,579 |
 | Around the World | 16.00% | ~1,486 |
-| Bookworm | 15.00% | ~1,393 |
-| Famous Adventurer | 14.00% | ~1,300 |
-| Prepared for Anything | 13.00% | ~1,207 |
-| Big Catastrofan | 13.00% | ~1,207 |
+| Bookworm | 15.00% | ~1,394 |
+| Famous Adventurer | 14.00% | ~1,301 |
+| Prepared for Anything | 13.00% | ~1,208 |
+| Big Catastrofan | 13.00% | ~1,208 |
 | It's a Finnish Thing | 10.00% | ~929 |
 | Sky Burial | 10.00% | ~929 |
 | Trader | 9.00% | ~836 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,288 (Ranked 144)  
-Completed: 0 (0.00%) (Ranked 299)  
+Progressed: 9,290 (Ranked 144)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 9,242 | 0 |
 | 2023-09-27 | 9,258 | 0 |
 | 2023-09-28 | 9,271 | 0 |
-| 2023-09-29 | 9,288 | 0 |
+| 2023-09-29 | 9,290 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 338)  
 Sum: 704 (Ranked 282)  

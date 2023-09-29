@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 97.00% | ~145 |
+| You're Going Down! | 97.00% | ~146 |
 | To Each Their Own | 46.00% | ~69 |
 | You Get An Upgrade, You Get An Upgrade! | 22.00% | ~33 |
-| Like Phileas Fogg | 17.00% | ~25 |
-| Onwards and Upwards | 17.00% | ~25 |
+| Like Phileas Fogg | 17.00% | ~26 |
+| Onwards and Upwards | 17.00% | ~26 |
 | Serial Winner | 12.00% | ~18 |
 | Highly Qualified | 10.00% | ~15 |
 | Start Your Engines | 10.00% | ~15 |
-| No Room for Improvement | 9.00% | ~13 |
-| Lone Wolf | 9.00% | ~13 |
+| No Room for Improvement | 9.00% | ~14 |
+| Lone Wolf | 9.00% | ~14 |
 | Nerd | 6.00% | ~9 |
 | Playing God | 6.00% | ~9 |
-| First and Foremost | 5.00% | ~7 |
-| Made Mother Proud | 5.00% | ~7 |
-| Winner Winner Chicken Dinner | 5.00% | ~7 |
-| Upgradeaholic | 5.00% | ~7 |
-| Tailor-Made | 5.00% | ~7 |
+| First and Foremost | 5.00% | ~8 |
+| Made Mother Proud | 5.00% | ~8 |
+| Winner Winner Chicken Dinner | 5.00% | ~8 |
+| Upgradeaholic | 5.00% | ~8 |
+| Tailor-Made | 5.00% | ~8 |
 | Gotta Go Fast! | 4.00% | ~6 |
 | POI Hunter | 3.00% | ~4 |
 | Seven-League Boots | 3.00% | ~4 |
@@ -37,15 +37,15 @@
 | Shopping List | 2.00% | ~3 |
 | Made Father Proud | 2.00% | ~3 |
 | Win-Win! | 2.00% | ~3 |
-| Golden Ratio | 1.00% | ~1 |
-| Checklist | 1.00% | ~1 |
-| Time Is of the Essence | 1.00% | ~1 |
-| Supersport Superfan | 1.00% | ~1 |
-| Superbike Superfan | 1.00% | ~1 |
-| Playing Favourites | 1.00% | ~1 |
+| Golden Ratio | 1.00% | ~2 |
+| Checklist | 1.00% | ~2 |
+| Time Is of the Essence | 1.00% | ~2 |
+| Supersport Superfan | 1.00% | ~2 |
+| Superbike Superfan | 1.00% | ~2 |
+| Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 355)  
-Completed: 2 (1.34%) (Ranked 121)  
+Progressed: 150 (Ranked 354)  
+Completed: 2 (1.33%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,4 +124,4 @@ Completed: 2 (1.34%) (Ranked 121)
 | 2023-09-24 | 146 | 2 |
 | 2023-09-25 | 147 | 2 |
 | 2023-09-27 | 148 | 2 |
-| 2023-09-29 | 149 | 2 |
+| 2023-09-29 | 150 | 2 |

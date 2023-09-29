@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 474)  
+Rating: 4.56 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,9 +17,9 @@ Rating: 4.56 (Ranked 474)
 | The Ship of Theseus | 13.00% | ~416 |
 | Guy de Borderlands | 12.00% | ~384 |
 | Ain't Nobody Got Time for That | 12.00% | ~384 |
+| Exceeding Capacity | 11.00% | ~352 |
 | Hope Seeker | 11.00% | ~352 |
 | A Hunk of Junk | 10.00% | ~320 |
-| Exceeding Capacity | 10.00% | ~320 |
 | Breaking Protocol | 10.00% | ~320 |
 | Man's Best Friend | 8.00% | ~256 |
 | Sightseeing | 7.00% | ~224 |
@@ -64,7 +64,7 @@ Rating: 4.56 (Ranked 474)
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,197 (Ranked 187)  
-Completed: 0 (0.00%) (Ranked 299)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

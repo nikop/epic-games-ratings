@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 630,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3682,
+  "EOS_Progressed": 3683,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6979,6 +6979,11 @@
       "Time": "2023-09-29T14:06:01.0986582+00:00",
       "NumProgressed": 3682,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-29T22:05:00.5285508+00:00",
+      "NumProgressed": 3683,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7030,7 +7035,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7038,7 +7043,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7118,7 +7123,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -7206,7 +7211,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7214,7 +7219,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7254,7 +7259,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7382,7 +7387,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7557,13 +7562,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3633,
+      "Progressed": 3634,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3682,
+      "Progressed": 3683,
       "Completed": 11
     }
   ],
@@ -7571,8 +7576,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:04:54.7495401+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:05:00.5285501+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:03.4551683+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:02:13.4645883+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:04:54.7496489+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:02:09.7696317+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:05:00.5286634+00:00"
 }

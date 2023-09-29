@@ -2,13 +2,13 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7249,
+  "EOS_Progressed": 7250,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4594,6 +4594,11 @@
       "Time": "2023-09-29T20:03:49.6285484+00:00",
       "NumProgressed": 7249,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-29T22:04:04.8433296+00:00",
+      "NumProgressed": 7250,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4605,7 +4610,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -4645,7 +4650,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -4677,7 +4682,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -4725,7 +4730,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -4757,7 +4762,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4059
+      "UsersEstimate": 4060
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4781,7 +4786,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -4797,7 +4802,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -4813,22 +4818,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7249,
+      "Progressed": 7250,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:03:58.4121548+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:04:04.8433292+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:11.6542569+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:57:22.0323352+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:03:58.4122005+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:57:07.3753496+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:04:04.8433763+00:00"
 }

@@ -12,16 +12,16 @@
 | Sanctuary Guardian | 72.00% | ~18 |
 | Endless Tricks | 68.00% | ~17 |
 | Mind Illuminator | 52.00% | ~13 |
-| Stellar Dismantler | 40.00% | ~10 |
+| Stellar Dismantler | 44.00% | ~11 |
 | Star Killer | 28.00% | ~7 |
 | Unbeatable | 28.00% | ~7 |
 | Anomaly Destroyer | 20.00% | ~5 |
 | Astral Adventurer | 20.00% | ~5 |
+| Loyal Partner | 20.00% | ~5 |
 | Sadistic Plan | 20.00% | ~5 |
 | Sentinelphobic | 20.00% | ~5 |
 | Stellar Haste | 20.00% | ~5 |
 | The Corruption Goddess | 20.00% | ~5 |
-| Loyal Partner | 16.00% | ~4 |
 | Skeptical | 16.00% | ~4 |
 | Dice Specialist | 12.00% | ~3 |
 | Shard Spender | 12.00% | ~3 |
@@ -86,7 +86,7 @@
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 469)  
-Completed: 0 (0.00%) (Ranked 299)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

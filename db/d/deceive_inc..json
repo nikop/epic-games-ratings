@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18187,
+  "EOS_Progressed": 18191,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10876,6 +10876,11 @@
       "Time": "2023-09-29T21:06:20.7130503+00:00",
       "NumProgressed": 18187,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-29T22:06:26.4130133+00:00",
+      "NumProgressed": 18191,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10887,7 +10892,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5274
+      "UsersEstimate": 5275
     },
     {
       "ID": "0002",
@@ -10895,7 +10900,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "0003",
@@ -10927,7 +10932,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "0007",
@@ -10951,7 +10956,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "0010",
@@ -10975,7 +10980,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2911
     },
     {
       "ID": "0013",
@@ -10991,7 +10996,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2911
     },
     {
       "ID": "0015",
@@ -11069,9 +11074,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4001
+      "UsersEstimate": 3820
     },
     {
       "ID": "0025",
@@ -11101,9 +11106,9 @@
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4184
     },
     {
       "ID": "0029",
@@ -11111,7 +11116,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "0030",
@@ -11127,7 +11132,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "0032",
@@ -11151,7 +11156,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "0035",
@@ -11159,7 +11164,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "0036",
@@ -11174,7 +11179,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18187,
+      "Progressed": 18191,
       "Completed": 3
     }
   ],
@@ -11182,8 +11187,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:06:20.7130499+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:06:26.4130126+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:59:40.8872075+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:06:20.7131486+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:59:28.1095719+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:06:26.4131396+00:00"
 }

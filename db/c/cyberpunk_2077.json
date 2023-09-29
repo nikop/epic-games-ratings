@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
@@ -12695,10 +12695,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885276,
+  "EOS_Progressed": 885314,
   "EOS_Completed": 2478,
-  "EOS_NewPlayers": 6450,
-  "EOS_NewCompleters": 227,
+  "EOS_NewPlayers": 6451,
+  "EOS_NewCompleters": 226,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30945,6 +30945,11 @@
       "Time": "2023-09-29T21:06:03.9582193+00:00",
       "NumProgressed": 885276,
       "NumCompleted": 2478
+    },
+    {
+      "Time": "2023-09-29T22:06:09.6011828+00:00",
+      "NumProgressed": 885314,
+      "NumCompleted": 2478
     }
   ],
   "TotalAchievements": 57,
@@ -30956,7 +30961,7 @@
       "Name": "City Lights",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4426
+      "UsersEstimate": 4427
     },
     {
       "ID": "BornToBeWild",
@@ -30964,7 +30969,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7967
+      "UsersEstimate": 7968
     },
     {
       "ID": "BushidoAndChill",
@@ -31002,9 +31007,9 @@
       "ID": "Fortuneteller",
       "SetID": "47clieb",
       "Name": "The Wandering Fool",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1771
+      "UsersEstimate": 2656
     },
     {
       "ID": "Gearhead",
@@ -31140,7 +31145,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26558
+      "UsersEstimate": 26559
     },
     {
       "ID": "Temperance",
@@ -31156,7 +31161,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26558
+      "UsersEstimate": 26559
     },
     {
       "ID": "TheDevil",
@@ -31172,7 +31177,7 @@
       "Name": "The Fool",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7082
+      "UsersEstimate": 7083
     },
     {
       "ID": "TheHermit",
@@ -31196,7 +31201,7 @@
       "Name": "The Lovers",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7082
+      "UsersEstimate": 7083
     },
     {
       "ID": "TheStar",
@@ -31236,7 +31241,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4426
+      "UsersEstimate": 4427
     },
     {
       "ID": "TradeUnion",
@@ -31411,21 +31416,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885276,
+      "Progressed": 885314,
       "Completed": 2478
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13899,
+      "Progressed": 13937,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-29T20:58:21.9511499+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:06:03.9582189+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:06:09.6011823+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:58:21.9511505+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:06:03.9583814+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:58:10.2279169+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:06:09.601351+00:00"
 }

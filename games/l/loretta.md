@@ -27,8 +27,8 @@
 | Murmuration | 14.00% | ~1 |
 | Spiders In My Head | 14.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 523)  
-Completed: 0 (0.00%) (Ranked 299)  
+Progressed: 7 (Ranked 524)  
+Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~36,900 |
-| I read Shakespeare and stuff | 64.00% | ~31,488 |
-| Just a sprinkle | 63.00% | ~30,996 |
-| I'm stumped | 61.00% | ~30,012 |
-| Plant get enough | 60.00% | ~29,520 |
-| It's just the beginning | 59.00% | ~29,028 |
-| This is just my weekend vehicle | 58.00% | ~28,536 |
-| Hard work pays off | 53.00% | ~26,076 |
-| It's never too late to farm | 50.00% | ~24,600 |
-| All out of Land | 44.00% | ~21,648 |
-| Field Trip | 43.00% | ~21,156 |
-| I like to switch it up | 40.00% | ~19,680 |
-| Help me to help you | 38.00% | ~18,696 |
-| Ultimutt Pawesomeness | 28.00% | ~13,776 |
-| Van Gogh | 26.00% | ~12,792 |
-| You wood not believe it | 22.00% | ~10,824 |
-| Vehicle fleet | 22.00% | ~10,824 |
+| Own use | 75.00% | ~36,902 |
+| I read Shakespeare and stuff | 64.00% | ~31,490 |
+| Just a sprinkle | 63.00% | ~30,998 |
+| I'm stumped | 61.00% | ~30,014 |
+| Plant get enough | 60.00% | ~29,522 |
+| It's just the beginning | 59.00% | ~29,030 |
+| This is just my weekend vehicle | 58.00% | ~28,538 |
+| Hard work pays off | 53.00% | ~26,078 |
+| It's never too late to farm | 50.00% | ~24,602 |
+| All out of Land | 44.00% | ~21,649 |
+| Field Trip | 43.00% | ~21,157 |
+| I like to switch it up | 40.00% | ~19,681 |
+| Help me to help you | 38.00% | ~18,697 |
+| Ultimutt Pawesomeness | 28.00% | ~13,777 |
+| Van Gogh | 26.00% | ~12,793 |
+| You wood not believe it | 22.00% | ~10,825 |
+| Vehicle fleet | 22.00% | ~10,825 |
 | The plot thickens | 16.00% | ~7,872 |
 | Large-scale supplier | 16.00% | ~7,872 |
 | Well-Oiled Machine | 16.00% | ~7,872 |
@@ -50,8 +50,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~197 |
 | Raisin the stakes | 0.30% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,200 (Ranked 98)  
-Completed: 6 (0.01%) (Ranked 282)  
+Progressed: 49,203 (Ranked 98)  
+Completed: 6 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 6 (0.01%) (Ranked 282)
 | 2023-09-26 | 49,107 | 6 |
 | 2023-09-27 | 49,142 | 6 |
 | 2023-09-28 | 49,174 | 6 |
-| 2023-09-29 | 49,200 | 6 |
+| 2023-09-29 | 49,203 | 6 |
 ## Awards
 Max (Great for Beginners): 5,065  (Ranked 70)  
 Sum: 40,697 (Ranked 33)  

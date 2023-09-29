@@ -1,25 +1,25 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 850)  
+Rating: 4.24 (Ranked 851)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~354,442 |
-| Well educated | 37.00% | ~273,215 |
-| City Planner | 19.00% | ~140,300 |
-| Deforester | 17.00% | ~125,531 |
-| Big Hauling | 16.00% | ~118,147 |
-| Apprentice Manufacturer | 13.00% | ~95,995 |
-| Exporter | 13.00% | ~95,995 |
-| I would drive 500 tiles... | 12.00% | ~88,610 |
-| Landscaper | 12.00% | ~88,610 |
+| Entrepreneur | 48.00% | ~354,447 |
+| Well educated | 37.00% | ~273,219 |
+| City Planner | 19.00% | ~140,302 |
+| Deforester | 17.00% | ~125,533 |
+| Big Hauling | 16.00% | ~118,149 |
+| Apprentice Manufacturer | 13.00% | ~95,996 |
+| Exporter | 13.00% | ~95,996 |
+| I would drive 500 tiles... | 12.00% | ~88,612 |
+| Landscaper | 12.00% | ~88,612 |
 | Railwayman | 8.00% | ~59,074 |
-| Penniless | 6.00% | ~44,305 |
-| Massive Gains | 6.00% | ~44,305 |
+| Penniless | 6.00% | ~44,306 |
+| Massive Gains | 6.00% | ~44,306 |
 | Salesman | 3.00% | ~22,153 |
-| Engineer | 2.00% | ~14,768 |
-| High Flyer | 2.00% | ~14,768 |
+| Engineer | 2.00% | ~14,769 |
+| High Flyer | 2.00% | ~14,769 |
 | Captain | 0.80% | ~5,907 |
 | Billionaire | 0.70% | ~5,169 |
 | Vroom Vroom | 0.40% | ~2,954 |
@@ -33,8 +33,8 @@ Rating: 4.24 (Ranked 850)
 | Master Builder | 0.10% | ~738 |
 | Hard working | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,420 (Ranked 18)  
-Completed: 4 (0.00%) (Ranked 299)  
+Progressed: 738,431 (Ranked 18)  
+Completed: 4 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,7 +195,7 @@ Completed: 4 (0.00%) (Ranked 299)
 | 2023-09-26 | 737,679 | 3 |
 | 2023-09-27 | 737,915 | 4 |
 | 2023-09-28 | 738,144 | 4 |
-| 2023-09-29 | 738,420 | 4 |
+| 2023-09-29 | 738,431 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -974,6 +974,11 @@
       "Time": "2023-09-29T21:05:16.4833656+00:00",
       "NumProgressed": 447,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-29T22:05:22.308294+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -1065,7 +1070,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -1081,7 +1086,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -1089,7 +1094,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -1113,7 +1118,7 @@
       "Name": "KEVIN!",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -1137,7 +1142,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1169,7 +1174,7 @@
       "Name": "RAMBO",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -1201,14 +1206,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 2
     }
   ],
@@ -1216,8 +1221,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:05:16.4833651+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:05:22.3082936+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:58:05.6267798+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:05:16.483391+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:57:52.2393508+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:05:22.3083203+00:00"
 }

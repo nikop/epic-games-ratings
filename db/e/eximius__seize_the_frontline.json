@@ -2,13 +2,13 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197572,
+  "EOS_Progressed": 197578,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17777,6 +17777,11 @@
       "Time": "2023-09-29T21:05:01.976952+00:00",
       "NumProgressed": 197572,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-29T22:05:07.8646692+00:00",
+      "NumProgressed": 197578,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -17796,7 +17801,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 140276
+      "UsersEstimate": 140280
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -17820,7 +17825,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35563
+      "UsersEstimate": 35564
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -17892,7 +17897,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3951
+      "UsersEstimate": 3952
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -17915,7 +17920,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197572,
+      "Progressed": 197578,
       "Completed": 4
     }
   ],
@@ -17923,8 +17928,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-09-24T20:58:16.0014057+00:00",
-  "LastChanged_Achievements": "2023-09-29T21:05:01.9769516+00:00",
+  "LastChanged_Achievements": "2023-09-29T22:05:07.8646687+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.1648517+00:00",
-  "LastUpdate_Ratings": "2023-09-29T20:59:41.9525933+00:00",
-  "LastUpdate_Achievements": "2023-09-29T21:05:01.9770702+00:00"
+  "LastUpdate_Ratings": "2023-09-29T21:59:29.1667202+00:00",
+  "LastUpdate_Achievements": "2023-09-29T22:05:07.8647886+00:00"
 }

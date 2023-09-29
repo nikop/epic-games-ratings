@@ -17,8 +17,8 @@
 | Unfinished | 3.00% | ~9 |
 | Denial | 2.00% | ~6 |
 | Help | 2.00% | ~6 |
+| Interpret | 2.00% | ~6 |
 | All endings | 1.00% | ~3 |
-| Interpret | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 300 (Ranked 304)  
 Completed: 3 (1.00%) (Ranked 133)  

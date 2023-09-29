@@ -1,27 +1,27 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.82 (Ranked 987)  
+Rating: 3.82 (Ranked 988)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~400,819 |
-| Handy | 41.00% | ~216,231 |
-| Cold Caller | 39.00% | ~205,683 |
-| A Bit On The Side | 26.00% | ~137,122 |
-| Backdoor | 25.00% | ~131,848 |
-| Rank Amateur | 21.00% | ~110,753 |
-| Three Way | 18.00% | ~94,931 |
-| Deadly Assassin | 15.00% | ~79,109 |
-| Gutshot | 14.00% | ~73,835 |
-| Risk It For A Biscuit | 13.00% | ~68,561 |
-| Showoff | 13.00% | ~68,561 |
-| W.H.I.P. | 11.00% | ~58,013 |
-| Bet Bet Bet | 9.00% | ~47,465 |
-| Blindman's Bluff | 9.00% | ~47,465 |
-| Poker Joker | 9.00% | ~47,465 |
-| Never Give Up | 8.00% | ~42,191 |
-| Total Knock Out | 8.00% | ~42,191 |
+| Pro Creation | 76.00% | ~400,826 |
+| Handy | 41.00% | ~216,235 |
+| Cold Caller | 39.00% | ~205,687 |
+| A Bit On The Side | 26.00% | ~137,125 |
+| Backdoor | 25.00% | ~131,851 |
+| Rank Amateur | 21.00% | ~110,755 |
+| Three Way | 18.00% | ~94,933 |
+| Deadly Assassin | 15.00% | ~79,110 |
+| Gutshot | 14.00% | ~73,836 |
+| Risk It For A Biscuit | 13.00% | ~68,562 |
+| Showoff | 13.00% | ~68,562 |
+| W.H.I.P. | 11.00% | ~58,014 |
+| Bet Bet Bet | 9.00% | ~47,466 |
+| Blindman's Bluff | 9.00% | ~47,466 |
+| Poker Joker | 9.00% | ~47,466 |
+| Never Give Up | 8.00% | ~42,192 |
+| Total Knock Out | 8.00% | ~42,192 |
 | Dog Eat Dog | 7.00% | ~36,918 |
 | Quack Quack | 7.00% | ~36,918 |
 | The Bigger They Are | 7.00% | ~36,918 |
@@ -51,8 +51,8 @@ Rating: 3.82 (Ranked 987)
 | Rounder | 0.10% | ~527 |
 | Top Dog | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,393 (Ranked 34)  
-Completed: 2 (0.00%) (Ranked 299)  
+Progressed: 527,403 (Ranked 34)  
+Completed: 2 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 2 (0.00%) (Ranked 299)
 | 2023-09-26 | 526,751 | 2 |
 | 2023-09-27 | 526,975 | 2 |
 | 2023-09-28 | 527,182 | 2 |
-| 2023-09-29 | 527,393 | 2 |
+| 2023-09-29 | 527,403 | 2 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 426)  
 Sum: 118 (Ranked 413)  

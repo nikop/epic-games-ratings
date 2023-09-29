@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~270 |
 | Watch The World Burn | 5.00% | ~270 |
 | Fairy Tale Come True | 5.00% | ~270 |
+| Apocalypso | 4.00% | ~216 |
 | Been there, Done That | 3.00% | ~162 |
-| Apocalypso | 3.00% | ~162 |
 | Narcissist | 3.00% | ~162 |
 | Promising Endeavors | 3.00% | ~162 |
 | The Time For Wonders | 3.00% | ~162 |

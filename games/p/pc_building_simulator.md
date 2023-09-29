@@ -1,34 +1,34 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,746,463 |
-| Easy to forget | 46.00% | ~1,639,537 |
-| Back in the black | 39.00% | ~1,390,042 |
-| That's what I'm talking about | 29.00% | ~1,033,621 |
-| The Best of Both Worlds | 25.00% | ~891,053 |
-| Get your wings | 20.00% | ~712,842 |
-| Double trouble | 16.00% | ~570,274 |
-| Smashing it | 11.00% | ~392,063 |
-| But can it run Crysis? | 9.00% | ~320,779 |
-| My favourite feature... | 9.00% | ~320,779 |
-| From humble beginnings... | 7.00% | ~249,495 |
-| Customer satisfaction | 7.00% | ~249,495 |
-| Keeping things neat | 4.00% | ~142,568 |
-| Seems you're pretty good at this | 4.00% | ~142,568 |
-| Bending over backwards | 4.00% | ~142,568 |
-| Triple threat | 3.00% | ~106,926 |
-| You rock at this! | 3.00% | ~106,926 |
-| Your music sucks | 3.00% | ~106,926 |
-| I'm broke, Uncle! | 2.00% | ~71,284 |
-| Maybe you should try something else? | 2.00% | ~71,284 |
-| Taking care of business | 2.00% | ~71,284 |
-| Perfection | 2.00% | ~71,284 |
-| Calling in Sick | 2.00% | ~71,284 |
+| You need to plug it in... | 49.00% | ~1,746,473 |
+| Easy to forget | 46.00% | ~1,639,546 |
+| Back in the black | 39.00% | ~1,390,050 |
+| That's what I'm talking about | 29.00% | ~1,033,627 |
+| The Best of Both Worlds | 25.00% | ~891,058 |
+| Get your wings | 20.00% | ~712,846 |
+| Double trouble | 16.00% | ~570,277 |
+| Smashing it | 11.00% | ~392,065 |
+| But can it run Crysis? | 9.00% | ~320,781 |
+| My favourite feature... | 9.00% | ~320,781 |
+| From humble beginnings... | 7.00% | ~249,496 |
+| Customer satisfaction | 7.00% | ~249,496 |
+| Keeping things neat | 4.00% | ~142,569 |
+| Seems you're pretty good at this | 4.00% | ~142,569 |
+| Bending over backwards | 4.00% | ~142,569 |
+| Triple threat | 3.00% | ~106,927 |
+| You rock at this! | 3.00% | ~106,927 |
+| Your music sucks | 3.00% | ~106,927 |
+| I'm broke, Uncle! | 2.00% | ~71,285 |
+| Maybe you should try something else? | 2.00% | ~71,285 |
+| Taking care of business | 2.00% | ~71,285 |
+| Perfection | 2.00% | ~71,285 |
+| Calling in Sick | 2.00% | ~71,285 |
 | Overvolted | 1.00% | ~35,642 |
 | If you fail the first time... | 1.00% | ~35,642 |
 | Amazonian | 1.00% | ~35,642 |
@@ -38,7 +38,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Majority Shareholder | 1.00% | ~35,642 |
 | Owner | 1.00% | ~35,642 |
 | Show off | 0.90% | ~32,078 |
-| Work ethic 101 | 0.70% | ~24,949 |
+| Work ethic 101 | 0.70% | ~24,950 |
 | Building momentum | 0.60% | ~21,385 |
 | Lead by example | 0.60% | ~21,385 |
 | Treat yourself - RAM | 0.50% | ~17,821 |
@@ -59,8 +59,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,564 |
 | Treat yourself - GPU | 0.10% | ~3,564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,564,211 (Ranked 5)  
-Completed: 35 (0.00%) (Ranked 299)  
+Progressed: 3,564,230 (Ranked 5)  
+Completed: 35 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,16 +221,16 @@ Completed: 35 (0.00%) (Ranked 299)
 | 2023-09-26 | 3,563,158 | 35 |
 | 2023-09-27 | 3,563,524 | 35 |
 | 2023-09-28 | 3,563,862 | 35 |
-| 2023-09-29 | 3,564,211 | 35 |
+| 2023-09-29 | 3,564,230 | 35 |
 ## Awards
 Max (Great for Beginners): 1,075  (Ranked 141)  
-Sum: 8,039 (Ranked 100)  
+Sum: 8,040 (Ranked 100)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,075 |
 | This game is Educational | 1,001 |
-| This game is Extremely Fun | 995 |
+| This game is Extremely Fun | 996 |
 | This game is Relaxing | 987 |
 | This game has Quickly Understood Controls | 946 |
 | This game is Highly Recommended | 897 |
@@ -458,4 +458,4 @@ Diff (max vs sum): 41
 | 2023-09-26 | 4.65 | - | 1,074 | 8,031 |
 | 2023-09-27 | 4.65 | - | 1,074 | 8,034 |
 | 2023-09-28 | 4.65 | - | 1,075 | 8,037 |
-| 2023-09-29 | 4.65 | - | 1,075 | 8,039 |
+| 2023-09-29 | 4.65 | - | 1,075 | 8,040 |

@@ -1,20 +1,20 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 869)  
+Rating: 4.21 (Ranked 870)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~10,005 |
-| Battering Crew | 20.00% | ~5,003 |
-| The Kingsroad | 18.00% | ~4,502 |
-| Well Stocked | 14.00% | ~3,502 |
+| Conqueror | 40.00% | ~10,008 |
+| Battering Crew | 20.00% | ~5,004 |
+| The Kingsroad | 18.00% | ~4,503 |
+| Well Stocked | 14.00% | ~3,503 |
 | Royal Fleet | 13.00% | ~3,252 |
-| The Kraken’s Grasp | 9.00% | ~2,251 |
-| Daggers in the Dark | 8.00% | ~2,001 |
-| Alliance | 8.00% | ~2,001 |
-| A Long Journey | 8.00% | ~2,001 |
+| The Kraken’s Grasp | 9.00% | ~2,252 |
+| Daggers in the Dark | 8.00% | ~2,002 |
+| Alliance | 8.00% | ~2,002 |
+| A Long Journey | 8.00% | ~2,002 |
 | Ours is the Fury | 7.00% | ~1,751 |
 | Winter is Coming | 7.00% | ~1,751 |
 | Oathkeeper | 7.00% | ~1,751 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Defender of the Wall | 6.00% | ~1,501 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,251 |
 | Growing Strong | 5.00% | ~1,251 |
-| What is Dead may Never Die | 3.00% | ~750 |
-| The Swift | 3.00% | ~750 |
+| What is Dead may Never Die | 3.00% | ~751 |
+| The Swift | 3.00% | ~751 |
 | King in the North | 2.00% | ~500 |
 | War of the Five Kings | 1.00% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,013 (Ranked 114)  
+Progressed: 25,019 (Ranked 114)  
 Completed: 62 (0.25%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 62 (0.25%) (Ranked 204)
 | 2023-09-26 | 24,833 | 61 |
 | 2023-09-27 | 24,889 | 61 |
 | 2023-09-28 | 24,949 | 61 |
-| 2023-09-29 | 25,013 | 62 |
+| 2023-09-29 | 25,019 | 62 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 320)  
 Sum: 786 (Ranked 271)  

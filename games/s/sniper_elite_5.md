@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 630)  
+Rating: 4.46 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.46 (Ranked 630)
 | Change the Channel | 30.00% | ~1,105 |
 | Lord of War | 29.00% | ~1,068 |
 | Taking it back | 28.00% | ~1,031 |
-| Resourceful | 26.00% | ~957 |
-| Target America | 26.00% | ~957 |
+| Resourceful | 26.00% | ~958 |
+| Target America | 26.00% | ~958 |
 | The Kraken Sleeps | 24.00% | ~884 |
 | Liberté | 22.00% | ~810 |
 | Organ Grinder | 22.00% | ~810 |
@@ -26,11 +26,11 @@ Rating: 4.46 (Ranked 630)
 | Der Geist | 16.00% | ~589 |
 | Close Quarters | 15.00% | ~552 |
 | Brains of the Operation | 15.00% | ~552 |
-| Enemy at the Gates | 14.00% | ~515 |
-| Fields of Glory | 14.00% | ~515 |
-| Skirmisher | 14.00% | ~515 |
-| Die Nussknacker Sweet! | 14.00% | ~515 |
-| Snake in the Grass | 14.00% | ~515 |
+| Enemy at the Gates | 14.00% | ~516 |
+| Fields of Glory | 14.00% | ~516 |
+| Skirmisher | 14.00% | ~516 |
+| Die Nussknacker Sweet! | 14.00% | ~516 |
+| Snake in the Grass | 14.00% | ~516 |
 | No Stone Unturned | 13.00% | ~479 |
 | Opposing Force | 13.00% | ~479 |
 | Set Europe Ablaze | 13.00% | ~479 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 630)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,682 (Ranked 175)  
+Progressed: 3,683 (Ranked 175)  
 Completed: 11 (0.30%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 11 (0.30%) (Ranked 196)
 | 2023-09-26 | 3,672 | 11 |
 | 2023-09-27 | 3,675 | 11 |
 | 2023-09-28 | 3,679 | 11 |
-| 2023-09-29 | 3,682 | 11 |
+| 2023-09-29 | 3,683 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
