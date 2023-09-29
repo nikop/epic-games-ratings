@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 77.09% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 76.93% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.08% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -66,8 +66,8 @@
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.79% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.59% |
+| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.78% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -145,7 +145,7 @@
 | 143 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.78% |
 | 144 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 145 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
-| 146 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.71% |
+| 146 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.69% |
 | 147 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.67% |
 | 147 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
 | 149 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
@@ -173,15 +173,15 @@
 | 171 | [Godlike Burger](games/g/godlike_burger.md) | 0.45% |
 | 171 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 173 | [Tchia](games/t/tchia.md) | 0.44% |
-| 174 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 174 | [Train Valley](games/t/train_valley.md) | 0.40% |
-| 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.39% |
+| 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.42% |
+| 175 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 175 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 177 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 177 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 177 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
 | 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 180 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 180 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
-| 180 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.37% |
+| 181 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 181 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.37% |
 | 183 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 183 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 185 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
