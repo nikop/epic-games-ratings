@@ -13,13 +13,13 @@
 | Piggyback Expert | 50.00% | ~116 |
 | Second wall | 38.00% | ~88 |
 | Expert Scavenger | 34.00% | ~79 |
-| Their Rock | 28.00% | ~65 |
+| Their Rock | 29.00% | ~67 |
 | Yuna's Promise | 28.00% | ~65 |
 | Stone Retriever | 26.00% | ~60 |
 | Find myself | 25.00% | ~58 |
 | Truebro | 22.00% | ~51 |
 | Min's Promise | 19.00% | ~44 |
-| Sia's Promise | 17.00% | ~39 |
+| Sia's Promise | 18.00% | ~42 |
 | Romantic | 16.00% | ~37 |
 | TentacleMAN | 11.00% | ~26 |
 | Plushyboy | 6.00% | ~14 |

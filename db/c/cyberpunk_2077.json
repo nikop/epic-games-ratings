@@ -12567,10 +12567,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 235282,
       "NumberOfAwardsMax": 85114
+    },
+    {
+      "Time": "2023-09-29T01:39:53.7897616+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 236213,
+      "NumberOfAwardsMax": 85114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 235282,
+  "NumberOfAwards": 236213,
   "NumberOfAwardsMax": 85114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12584,7 +12590,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 56107
+      "Count": 57038
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12647,10 +12653,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884386,
+  "EOS_Progressed": 884449,
   "EOS_Completed": 2462,
-  "EOS_NewPlayers": 6305,
-  "EOS_NewCompleters": 285,
+  "EOS_NewPlayers": 6312,
+  "EOS_NewCompleters": 279,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30792,6 +30798,11 @@
       "Time": "2023-09-29T00:06:25.6885949+00:00",
       "NumProgressed": 884386,
       "NumCompleted": 2462
+    },
+    {
+      "Time": "2023-09-29T01:47:51.3065559+00:00",
+      "NumProgressed": 884449,
+      "NumCompleted": 2462
     }
   ],
   "TotalAchievements": 57,
@@ -30883,7 +30894,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17688
+      "UsersEstimate": 17689
     },
     {
       "ID": "HandyMan",
@@ -30931,7 +30942,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "MustBeTheRats",
@@ -30979,7 +30990,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "Specialist",
@@ -30987,7 +30998,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17688
+      "UsersEstimate": 17689
     },
     {
       "ID": "Temperance",
@@ -30995,7 +31006,7 @@
       "Name": "Temperance",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7075
+      "UsersEstimate": 7076
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31003,7 +31014,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17688
+      "UsersEstimate": 17689
     },
     {
       "ID": "TheDevil",
@@ -31011,7 +31022,7 @@
       "Name": "The Devil",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "TheFool",
@@ -31019,7 +31030,7 @@
       "Name": "The Fool",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "TheHermit",
@@ -31027,7 +31038,7 @@
       "Name": "The Hermit",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "TheHightPriestess",
@@ -31043,7 +31054,7 @@
       "Name": "The Lovers",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "TheStar",
@@ -31067,7 +31078,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "TheWorld",
@@ -31107,7 +31118,7 @@
       "Name": "True Warrior",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7075
+      "UsersEstimate": 7076
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31139,7 +31150,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31147,7 +31158,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7075
+      "UsersEstimate": 7076
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31258,21 +31269,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884386,
+      "Progressed": 884449,
       "Completed": 2462
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13009,
+      "Progressed": 13072,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-28T22:58:07.9195041+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:06:25.6885944+00:00",
+  "LastChanged": "2023-09-29T01:39:53.7897614+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:47:51.3065554+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:58:00.4166925+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:06:25.6887716+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:39:53.789762+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:47:51.3066822+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "c9e2559572f64192b1e37049eee27783",
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-27T14:45:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-04-27T21:57:06.0421028+00:00",
@@ -120,15 +120,21 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-29T01:44:17.0808973+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1760,
+  "EOS_Progressed": 1761,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5201,6 +5207,11 @@
       "Time": "2023-09-29T00:04:35.4869081+00:00",
       "NumProgressed": 1760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T01:46:17.7380639+00:00",
+      "NumProgressed": 1761,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 77,
@@ -5827,22 +5838,22 @@
     {
       "ID": "1b9olh7",
       "IsBase": true,
-      "Progressed": 1760,
+      "Progressed": 1761,
       "Completed": 0
     },
     {
       "ID": "8ce16g",
       "IsBase": false,
-      "Progressed": 1760,
+      "Progressed": 1761,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-04-27T21:57:06.0397133+00:00",
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
-  "LastChanged": "2023-09-28T02:15:57.1859971+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:04:35.4869073+00:00",
+  "LastChanged": "2023-09-29T01:44:17.0808971+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:46:17.7380632+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.9290777+00:00",
-  "LastUpdate_Ratings": "2023-09-29T00:02:08.4814156+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:04:35.4870255+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:44:17.0808976+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:46:17.7381543+00:00"
 }

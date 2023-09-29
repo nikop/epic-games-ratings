@@ -9,27 +9,27 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~236,926 |
 | He's Signed! | 50.00% | ~236,926 |
 | First Victory | 50.00% | ~236,926 |
-| He's Sold! | 48.00% | ~227,448 |
-| I'm The Boss! | 42.00% | ~199,017 |
+| He's Sold! | 48.00% | ~227,449 |
+| I'm The Boss! | 42.00% | ~199,018 |
 | Hat-trick | 41.00% | ~194,279 |
-| Scoring Streak | 38.00% | ~180,063 |
+| Scoring Streak | 38.00% | ~180,064 |
 | Unbeatable! | 37.00% | ~175,325 |
 | Thumping | 37.00% | ~175,325 |
 | Superb Dressing Room Atmosphere | 35.00% | ~165,848 |
-| Total Support | 32.00% | ~151,632 |
-| Record Signing | 32.00% | ~151,632 |
+| Total Support | 32.00% | ~151,633 |
+| Record Signing | 32.00% | ~151,633 |
 | He's a Natural | 31.00% | ~146,894 |
 | Millionaire's Club | 31.00% | ~146,894 |
-| Team Performance | 30.00% | ~142,155 |
+| Team Performance | 30.00% | ~142,156 |
 | Parked The Bus | 29.00% | ~137,417 |
 | Shrewd Spender | 29.00% | ~137,417 |
 | Star Man | 29.00% | ~137,417 |
-| Attack! | 28.00% | ~132,678 |
+| Attack! | 28.00% | ~132,679 |
 | Tremendous Trio | 27.00% | ~127,940 |
 | Record Sale | 27.00% | ~127,940 |
-| You're On Fire | 26.00% | ~123,201 |
-| On A Roll | 26.00% | ~123,201 |
-| Unstoppable Force | 26.00% | ~123,201 |
+| You're On Fire | 26.00% | ~123,202 |
+| On A Roll | 26.00% | ~123,202 |
+| Unstoppable Force | 26.00% | ~123,202 |
 | Armchair Expert | 25.00% | ~118,463 |
 | Fantastic Five | 24.00% | ~113,724 |
 | Full Faith | 24.00% | ~113,724 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,851 (Ranked 36)  
+Progressed: 473,852 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 21 (0.00%) (Ranked 298)
 | 2023-09-26 | 473,773 | 21 |
 | 2023-09-27 | 473,813 | 21 |
 | 2023-09-28 | 473,851 | 21 |
+| 2023-09-29 | 473,852 | 21 |
 ## Awards
 Max (Relaxing): 6,455  (Ranked 55)  
 Sum: 50,804 (Ranked 26)  

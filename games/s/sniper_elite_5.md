@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 631)  
+Rating: 4.46 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.46 (Ranked 631)
 | Organ Grinder | 22.00% | ~809 |
 | As Quiet as a Mouse | 22.00% | ~809 |
 | Sharpshooter | 21.00% | ~773 |
+| Explosive Efficiency | 19.00% | ~699 |
 | Gunslinger | 18.00% | ~662 |
-| Explosive Efficiency | 18.00% | ~662 |
 | Just a Flesh Wound | 17.00% | ~625 |
 | Climbing the Ladder | 16.00% | ~589 |
 | Der Geist | 16.00% | ~589 |

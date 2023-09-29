@@ -6,8 +6,8 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,041 |
-| Un-Lonely Island | 47.00% | ~2,532 |
+| Just One...More...Term... | 75.00% | ~4,042 |
+| Un-Lonely Island | 47.00% | ~2,533 |
 | The Beginning of a Servantship | 45.00% | ~2,425 |
 | Trade Is My Trait | 37.00% | ~1,994 |
 | Number 18 | 24.00% | ~1,293 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Terraformer | 2.00% | ~108 |
 | Curse of the Mummy | 2.00% | ~108 |
 | From Knight to Little Duck | 1.00% | ~54 |
-| Survivor | 0.90% | ~48 |
+| Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,388 (Ranked 165)  
+Progressed: 5,389 (Ranked 165)  
 Completed: 2 (0.04%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 2 (0.04%) (Ranked 263)
 | 2023-09-26 | 5,355 | 2 |
 | 2023-09-27 | 5,374 | 2 |
 | 2023-09-28 | 5,388 | 2 |
+| 2023-09-29 | 5,389 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 344)  
 Sum: 694 (Ranked 283)  

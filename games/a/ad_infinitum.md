@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of Despair | 82.00% | ~31 |
-| Morgengrauen | 79.00% | ~30 |
+| Path of Despair | 84.00% | ~32 |
+| Morgengrauen | 82.00% | ~31 |
 | Not alone | 47.00% | ~18 |
 | Hunger | 42.00% | ~16 |
 | Awaken | 39.00% | ~15 |
@@ -34,7 +34,7 @@
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 446)  
+Progressed: 38 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |

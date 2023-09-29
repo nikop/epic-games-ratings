@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "ID": "ALLTRACKSFUJI",
       "SetID": "3dh70f3",
       "Name": "Ride in the rising sun",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 183
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1088,9 +1088,9 @@
       "ID": "ALLTRACKSTARTARUS",
       "SetID": "3dh70f3",
       "Name": "To the core",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 103
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1120,9 +1120,9 @@
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 148
     },
     {
       "ID": "CAREERCLASSA",
@@ -1409,8 +1409,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:06:51.4404875+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:48:12.8812956+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.7086726+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:59:22.6263891+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:06:51.44054+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:41:02.0562146+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:48:12.8813364+00:00"
 }

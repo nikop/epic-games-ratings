@@ -3,12 +3,12 @@
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 791,
-  "Ranking_Popularity": 194,
+  "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202426,
+  "EOS_Progressed": 202428,
   "EOS_Completed": 508,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17680,6 +17680,11 @@
       "Time": "2023-09-28T23:04:01.9359562+00:00",
       "NumProgressed": 202426,
       "NumCompleted": 508
+    },
+    {
+      "Time": "2023-09-29T01:45:35.5296767+00:00",
+      "NumProgressed": 202428,
+      "NumCompleted": 508
     }
   ],
   "TotalAchievements": 29,
@@ -17715,7 +17720,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190280
+      "UsersEstimate": 190282
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17922,7 +17927,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202426,
+      "Progressed": 202428,
       "Completed": 508
     }
   ],
@@ -17930,8 +17935,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:03:45.227166+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:45:35.5296761+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.1014806+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:58:57.1062559+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:03:45.2273045+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:40:40.5119864+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:45:35.5297761+00:00"
 }

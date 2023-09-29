@@ -8,8 +8,8 @@ Rating: 4.50 (Ranked 573)
 | Stylish | 1.00% | ~261 |
 | Advancement | 0.90% | ~235 |
 | Meticulously Efficient | 0.80% | ~209 |
-| Discovery | 0.70% | ~182 |
-| Solo Capture | 0.70% | ~182 |
+| Discovery | 0.70% | ~183 |
+| Solo Capture | 0.70% | ~183 |
 | I collect Spores, Molds, and Fungi | 0.60% | ~156 |
 | Fully Upgraded | 0.60% | ~156 |
 | Vaporous Expansion | 0.60% | ~156 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,071 (Ranked 111)  
+Progressed: 26,072 (Ranked 111)  
 Completed: 58 (0.22%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 58 (0.22%) (Ranked 209)
 | 2023-09-26 | 26,042 | 58 |
 | 2023-09-27 | 26,057 | 58 |
 | 2023-09-28 | 26,071 | 58 |
+| 2023-09-29 | 26,072 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 256)  
 Sum: 2,331 (Ranked 188)  

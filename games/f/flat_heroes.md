@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 71.00% | ~298 |
-| Be water, my friend | 59.00% | ~248 |
-| Snake Eyes | 58.00% | ~244 |
-| Fireball | 47.00% | ~197 |
-| The King of Flat | 43.00% | ~181 |
-| Hit That Ball | 34.00% | ~143 |
-| Air Slash | 33.00% | ~139 |
-| Eat That Apple | 26.00% | ~109 |
+| Dash Crash | 71.00% | ~300 |
+| Be water, my friend | 59.00% | ~250 |
+| Snake Eyes | 58.00% | ~245 |
+| Fireball | 47.00% | ~199 |
+| The King of Flat | 43.00% | ~182 |
+| Hit That Ball | 34.00% | ~144 |
+| Air Slash | 33.00% | ~140 |
+| Eat That Apple | 26.00% | ~110 |
 | Tornado Chaser | 15.00% | ~63 |
-| Bomberman | 11.00% | ~46 |
+| Bomberman | 11.00% | ~47 |
 | Bubble Party | 8.00% | ~34 |
 | The Colossus | 8.00% | ~34 |
-| Floor is Lava | 7.00% | ~29 |
+| Floor is Lava | 7.00% | ~30 |
 | Pim Pam Pum | 6.00% | ~25 |
-| Ambush | 5.00% | ~21 |
 | Black Belt | 4.00% | ~17 |
 | Dash Crash - Hero Edition | 4.00% | ~17 |
+| Ambush | 4.00% | ~17 |
 | Quite The Hero | 3.00% | ~13 |
 | Vertigo | 2.00% | ~8 |
 | Rogue | 2.00% | ~8 |
 | Path of the Hero | 1.00% | ~4 |
 | Snake Eyes - Hero Edition | 1.00% | ~4 |
 | The King of Flat - Hero Edition | 1.00% | ~4 |
-| Hit That Ball - Hero Edition | 1.00% | ~4 |
 | Eat That Apple - Hero Edition | 1.00% | ~4 |
-| Tornado Chaser - Hero Edition | 1.00% | ~4 |
-| Bomberman - Hero Edition | 1.00% | ~4 |
 | Snakecharmer | 1.00% | ~4 |
-| Oh, no | 1.00% | ~4 |
 | Apprentice | 1.00% | ~4 |
+| Hit That Ball - Hero Edition | 0.90% | ~4 |
+| Tornado Chaser - Hero Edition | 0.90% | ~4 |
+| Bomberman - Hero Edition | 0.90% | ~4 |
+| Oh, no | 0.90% | ~4 |
 | The Colossus - Hero Edition | 0.70% | ~3 |
 | Killing Spree | 0.70% | ~3 |
 | Rogue - Hero Edition | 0.50% | ~2 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 282)  
+Progressed: 423 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 298)
 | 2023-09-26 | 350 | 0 |
 | 2023-09-27 | 386 | 0 |
 | 2023-09-28 | 416 | 0 |
-| 2023-09-29 | 420 | 0 |
+| 2023-09-29 | 423 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

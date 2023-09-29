@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 130,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74491,
+  "EOS_Progressed": 74493,
   "EOS_Completed": 777,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18099,6 +18099,11 @@
       "Time": "2023-09-29T00:04:58.4137666+00:00",
       "NumProgressed": 74491,
       "NumCompleted": 777
+    },
+    {
+      "Time": "2023-09-29T01:46:37.0144914+00:00",
+      "NumProgressed": 74493,
+      "NumCompleted": 777
     }
   ],
   "TotalAchievements": 25,
@@ -18126,7 +18131,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13408
+      "UsersEstimate": 13409
     },
     {
       "ID": "Audiophile",
@@ -18150,7 +18155,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13408
+      "UsersEstimate": 13409
     },
     {
       "ID": "Butcher",
@@ -18166,7 +18171,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "Fair\u0027sFair",
@@ -18182,7 +18187,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14898
+      "UsersEstimate": 14899
     },
     {
       "ID": "Hearty",
@@ -18214,7 +18219,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14898
+      "UsersEstimate": 14899
     },
     {
       "ID": "Meaty",
@@ -18230,7 +18235,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14153
+      "UsersEstimate": 14154
     },
     {
       "ID": "Nice Try",
@@ -18246,7 +18251,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5214
+      "UsersEstimate": 5215
     },
     {
       "ID": "Piano Man",
@@ -18270,7 +18275,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5214
+      "UsersEstimate": 5215
     },
     {
       "ID": "Spicy",
@@ -18309,7 +18314,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74491,
+      "Progressed": 74493,
       "Completed": 777
     }
   ],
@@ -18317,8 +18322,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:04:58.4137658+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:46:37.0144908+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-29T00:00:34.967581+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:04:58.413917+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:42:02.4153593+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:46:37.0145873+00:00"
 }

@@ -3,10 +3,10 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 490,
-  "Ranking_Popularity": 362,
+  "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -700,9 +700,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 10467,
+  "EOS_Progressed": 10468,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10750,6 +10750,11 @@
       "Time": "2023-09-28T23:06:43.2171578+00:00",
       "NumProgressed": 10467,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-29T01:47:38.9936623+00:00",
+      "NumProgressed": 10468,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10865,7 +10870,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4396
+      "UsersEstimate": 4397
     },
     {
       "ID": "ACH15",
@@ -10929,7 +10934,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ACH23",
@@ -11032,7 +11037,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10467,
+      "Progressed": 10468,
       "Completed": 58
     }
   ],
@@ -11040,8 +11045,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-28T04:58:25.0774214+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:06:10.2974596+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:47:38.9936617+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:58:21.102214+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:06:10.2975541+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:40:11.344525+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:47:38.9937343+00:00"
 }

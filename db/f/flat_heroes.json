@@ -2,9 +2,9 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -521,6 +521,11 @@
       "Time": "2023-09-29T00:05:14.7160016+00:00",
       "NumProgressed": 420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T01:46:51.0017158+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -548,7 +553,7 @@
       "Name": "Fireball",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 199
     },
     {
       "ID": "DashDashDash",
@@ -556,7 +561,7 @@
       "Name": "Be water, my friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 250
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -572,7 +577,7 @@
       "Name": "Floor is Lava",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HeroWorld10Boss",
@@ -610,7 +615,7 @@
       "ID": "HeroWorld4Boss",
       "SetID": "d9ekhim",
       "Name": "Hit That Ball - Hero Edition",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -626,7 +631,7 @@
       "ID": "HeroWorld6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser - Hero Edition",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -634,7 +639,7 @@
       "ID": "HeroWorld7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman - Hero Edition",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -674,9 +679,9 @@
       "ID": "MultiNinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Ambush",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "NinjaSlayer",
@@ -684,13 +689,13 @@
       "Name": "Air Slash",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "OhNo",
       "SetID": "d9ekhim",
       "Name": "Oh, no",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -812,7 +817,7 @@
       "Name": "Dash Crash",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 300
     },
     {
       "ID": "World2Boss",
@@ -820,7 +825,7 @@
       "Name": "Snake Eyes",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "World3Boss",
@@ -828,7 +833,7 @@
       "Name": "The King of Flat",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "World4Boss",
@@ -836,7 +841,7 @@
       "Name": "Hit That Ball",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "World5Boss",
@@ -844,7 +849,7 @@
       "Name": "Eat That Apple",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "World6Boss",
@@ -860,7 +865,7 @@
       "Name": "Bomberman",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "World8Boss",
@@ -883,7 +888,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 423,
       "Completed": 0
     }
   ],
@@ -891,8 +896,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:05:14.7160013+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:46:51.0017152+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:57:11.2765736+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:05:14.7160389+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:39:12.7850998+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:46:51.0017465+00:00"
 }

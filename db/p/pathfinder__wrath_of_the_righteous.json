@@ -3818,9 +3818,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11429,
+  "EOS_Progressed": 11431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12983,6 +12983,11 @@
       "Time": "2023-09-28T23:03:59.0329308+00:00",
       "NumProgressed": 11429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T01:45:33.4789469+00:00",
+      "NumProgressed": 11431,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12994,7 +12999,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2857
+      "UsersEstimate": 2858
     },
     {
       "ID": "02_BurningCity",
@@ -13122,7 +13127,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "18_MythicChoices",
@@ -13194,7 +13199,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "28_GreatUpstart",
@@ -13202,7 +13207,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "29_StrategicVictory",
@@ -13338,7 +13343,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "46_AllPathsOpen",
@@ -13346,7 +13351,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13362,7 +13367,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "49_Flame",
@@ -13418,7 +13423,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "56_GetToad",
@@ -13921,21 +13926,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10211,
+      "Progressed": 10213,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11429,
+      "Progressed": 11431,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-28T19:57:20.929108+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:03:42.6885186+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:45:33.4789462+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:57:35.3290746+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:03:42.6887619+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:39:32.5837572+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:45:33.4791155+00:00"
 }

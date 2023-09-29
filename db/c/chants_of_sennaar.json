@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 227,
-  "EOS_Completed": 13,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 40,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.73,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 6.17,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1064,6 +1064,11 @@
       "Time": "2023-09-29T00:08:39.9830285+00:00",
       "NumProgressed": 227,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-29T01:50:37.5739078+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 25,
@@ -1153,9 +1158,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1169,9 +1174,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1241,9 +1246,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "PROGRESS_N3",
@@ -1265,9 +1270,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 80,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
@@ -1275,13 +1280,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 227,
-      "Completed": 13
+      "Completed": 14
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-29T00:08:39.9830279+00:00",
+  "LastChanged_Achievements": "2023-09-29T01:50:37.5739072+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:58:41.4212171+00:00",
-  "LastUpdate_Achievements": "2023-09-29T00:08:39.9830652+00:00"
+  "LastUpdate_Ratings": "2023-09-29T01:40:27.6453737+00:00",
+  "LastUpdate_Achievements": "2023-09-29T01:50:37.5739273+00:00"
 }

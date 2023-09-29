@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 100.00% | ~73 |
-| Hidden History | 84.00% | ~61 |
+| Hidden History | 85.00% | ~62 |
 | Budding Conjuror | 82.00% | ~60 |
 | Commencing of Quests | 77.00% | ~56 |
 | Charmed by the Hunt | 70.00% | ~51 |
@@ -21,7 +21,7 @@
 | Expert Conjuror | 53.00% | ~39 |
 | Flawless Crystal | 51.00% | ~37 |
 | Bonds of Enmity | 49.00% | ~36 |
-| Counter Specialist | 45.00% | ~33 |
+| Counter Specialist | 47.00% | ~34 |
 | Axer of Auspice | 45.00% | ~33 |
 | Karakuri Trail | 41.00% | ~30 |
 | Snare Specialist | 40.00% | ~29 |

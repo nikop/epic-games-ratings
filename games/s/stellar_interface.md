@@ -86,6 +86,7 @@
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
 | Silver Tovarish | 2.00% | ~1 |
+| Archer's Silver Fate | 2.00% | ~1 |
 | Silver Alchemist | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | Merchant Prince III | 2.00% | ~1 |
@@ -126,7 +127,6 @@
 | Usurper V | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
-| Archer's Silver Fate | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |
