@@ -1212,9 +1212,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19024,
+  "EOS_Progressed": 19025,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18702,6 +18702,11 @@
       "Time": "2023-09-29T01:45:32.4629778+00:00",
       "NumProgressed": 19024,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-29T02:19:54.3464645+00:00",
+      "NumProgressed": 19025,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 45,
@@ -18769,7 +18774,7 @@
       "Name": "Fine addition",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "FinishLine",
@@ -18809,7 +18814,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8180
+      "UsersEstimate": 8181
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -18849,7 +18854,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14458
+      "UsersEstimate": 14459
     },
     {
       "ID": "MoreThanHuman",
@@ -18865,7 +18870,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "ObedientMachine",
@@ -18937,7 +18942,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10273
+      "UsersEstimate": 10274
     },
     {
       "ID": "RunningWild",
@@ -18945,7 +18950,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "Scrapped",
@@ -19009,7 +19014,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -19041,7 +19046,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "WhereAreMyKeys",
@@ -19065,28 +19070,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5707
+      "UsersEstimate": 5708
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19024,
+      "Progressed": 19025,
       "Completed": 46
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19024,
+      "Progressed": 19025,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-28T18:58:34.012867+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:45:32.4629772+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:19:54.3464641+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.6439511+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:39:55.6054653+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:45:32.4630891+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:13:55.9551518+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:19:54.3465741+00:00"
 }

@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,163 |
 | Jack was here! | 14.00% | ~2,163 |
 | Exterminator | 13.00% | ~2,009 |
-| Whodunnit | 12.00% | ~1,854 |
+| Whodunnit | 13.00% | ~2,009 |
 | Good midwife | 11.00% | ~1,700 |
 | Friar Tuck | 11.00% | ~1,700 |
 | First profit | 11.00% | ~1,700 |

@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59454,
+  "EOS_Progressed": 59455,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19433,6 +19433,11 @@
       "Time": "2023-09-29T00:05:19.166773+00:00",
       "NumProgressed": 59454,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-29T02:21:15.4894295+00:00",
+      "NumProgressed": 59455,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -19700,7 +19705,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19025
+      "UsersEstimate": 19026
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -19732,7 +19737,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37456
+      "UsersEstimate": 37457
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -19740,7 +19745,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7134
+      "UsersEstimate": 7135
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -19812,7 +19817,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 46374
+      "UsersEstimate": 46375
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -19915,15 +19920,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59454,
+      "Progressed": 59455,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:46:54.6443308+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:21:15.4894292+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:03.9161751+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:40:19.1269189+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:46:54.6444555+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:14:19.2437005+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:21:15.4895537+00:00"
 }

@@ -12,8 +12,8 @@ Rating: 4.24 (Ranked 849)
 | Big Hauling | 16.00% | ~118,107 |
 | Apprentice Manufacturer | 13.00% | ~95,962 |
 | Exporter | 13.00% | ~95,962 |
-| I would drive 500 tiles... | 12.00% | ~88,580 |
-| Landscaper | 12.00% | ~88,580 |
+| I would drive 500 tiles... | 12.00% | ~88,581 |
+| Landscaper | 12.00% | ~88,581 |
 | Railwayman | 8.00% | ~59,054 |
 | Penniless | 6.00% | ~44,290 |
 | Massive Gains | 6.00% | ~44,290 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 849)
 | Master Builder | 0.10% | ~738 |
 | Hard working | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,170 (Ranked 18)  
+Progressed: 738,171 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 4 (0.00%) (Ranked 298)
 | 2023-09-26 | 737,679 | 3 |
 | 2023-09-27 | 737,915 | 4 |
 | 2023-09-28 | 738,144 | 4 |
-| 2023-09-29 | 738,170 | 4 |
+| 2023-09-29 | 738,171 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

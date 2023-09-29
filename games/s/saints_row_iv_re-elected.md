@@ -1,26 +1,26 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 715)  
+Rating: 4.40 (Ranked 714)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~176,083 |
-| Destroyer-In-Chief | 57.00% | ~156,824 |
-| There Is No Pancakes | 54.00% | ~148,570 |
-| First of Many | 42.00% | ~115,554 |
-| Woah. | 37.00% | ~101,798 |
-| Don't Look Down | 29.00% | ~79,787 |
-| Don't Panic | 28.00% | ~77,036 |
-| Ooo A Piece of Candy! | 23.00% | ~63,280 |
-| Ghost in the Machine | 18.00% | ~49,523 |
-| All Too Easy | 15.00% | ~41,269 |
-| Didn't Need to See Him Naked | 14.00% | ~38,518 |
-| Indomitable | 10.00% | ~27,513 |
+| Zero Saints Thirty | 64.00% | ~176,086 |
+| Destroyer-In-Chief | 57.00% | ~156,827 |
+| There Is No Pancakes | 54.00% | ~148,573 |
+| First of Many | 42.00% | ~115,557 |
+| Woah. | 37.00% | ~101,800 |
+| Don't Look Down | 29.00% | ~79,789 |
+| Don't Panic | 28.00% | ~77,038 |
+| Ooo A Piece of Candy! | 23.00% | ~63,281 |
+| Ghost in the Machine | 18.00% | ~49,524 |
+| All Too Easy | 15.00% | ~41,270 |
+| Didn't Need to See Him Naked | 14.00% | ~38,519 |
+| Indomitable | 10.00% | ~27,514 |
 | Blast from the Past | 9.00% | ~24,762 |
 | Bow to the Boss! | 9.00% | ~24,762 |
 | Friend of the Raptors | 9.00% | ~24,762 |
-| About Time! | 8.00% | ~22,010 |
+| About Time! | 8.00% | ~22,011 |
 | Actor-Turned-Politician | 7.00% | ~19,259 |
 | Betrayed | 7.00% | ~19,259 |
 | Maximum Stopping Power | 7.00% | ~19,259 |
@@ -28,7 +28,7 @@ Rating: 4.40 (Ranked 715)
 | You Chose... Poorly | 7.00% | ~19,259 |
 | Double Team | 6.00% | ~16,508 |
 | Keymaster | 6.00% | ~16,508 |
-| Imperator | 5.00% | ~13,756 |
+| Imperator | 5.00% | ~13,757 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~11,005 |
 | Half Way Home | 4.00% | ~11,005 |
 | How It Should Be | 4.00% | ~11,005 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 715)
 | Super Power Team Up! | 0.10% | ~275 |
 | Ultimate Hot Potato | 0.10% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275,129 (Ranked 47)  
+Progressed: 275,135 (Ranked 47)  
 Completed: 15 (0.01%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 15 (0.01%) (Ranked 282)
 | 2023-09-26 | 274,076 | 15 |
 | 2023-09-27 | 274,578 | 15 |
 | 2023-09-28 | 275,066 | 15 |
-| 2023-09-29 | 275,129 | 15 |
+| 2023-09-29 | 275,135 | 15 |
 ## Awards
 Max (Great Boss Battles): 460  (Ranked 208)  
 Sum: 460 (Ranked 315)  

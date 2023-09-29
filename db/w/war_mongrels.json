@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1602,6 +1602,11 @@
       "Time": "2023-09-29T01:45:53.3059774+00:00",
       "NumProgressed": 518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T02:20:15.2239254+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1717,7 +1722,7 @@
       "Name": "Explorer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_COLL_20",
@@ -1731,9 +1736,9 @@
       "ID": "ACH_COLL_ALL",
       "SetID": "1j25agn",
       "Name": "Treasure Hunter",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1843,9 +1848,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1853,7 +1858,7 @@
       "Name": "The Motivation",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1885,7 +1890,7 @@
       "Name": "The Horror",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1957,7 +1962,7 @@
       "Name": "Missing in Action",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1997,7 +2002,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2029,7 +2034,7 @@
       "Name": "Food Massacre",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2037,7 +2042,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -2084,15 +2089,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:45:53.3059769+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:20:15.223925+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:22.669879+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:39:23.8847109+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:45:53.3060282+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:13:25.2908789+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:20:15.2239746+00:00"
 }

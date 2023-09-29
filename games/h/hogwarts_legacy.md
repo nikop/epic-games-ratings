@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 120)
 | Flight the Good Flight | 8.00% | ~23,799 |
 | The Spell Master | 8.00% | ~23,799 |
 | Beast Friends | 7.00% | ~20,824 |
-| The Seeker of Knowledge | 6.00% | ~17,849 |
-| The Root of the Problem | 6.00% | ~17,849 |
-| Third Time's a Charm | 6.00% | ~17,849 |
-| Raising Expectations | 6.00% | ~17,849 |
+| The Seeker of Knowledge | 6.00% | ~17,850 |
+| The Root of the Problem | 6.00% | ~17,850 |
+| Third Time's a Charm | 6.00% | ~17,850 |
+| Raising Expectations | 6.00% | ~17,850 |
 | The Ends Petrify the Means | 5.00% | ~14,875 |
 | The Toast of the Town | 4.00% | ~11,900 |
 | Going Through the Potions | 4.00% | ~11,900 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~892 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,491 (Ranked 46)  
+Progressed: 297,492 (Ranked 46)  
 Completed: 478 (0.16%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 478 (0.16%) (Ranked 220)
 | 2023-09-26 | 297,390 | 477 |
 | 2023-09-27 | 297,436 | 478 |
 | 2023-09-28 | 297,480 | 478 |
-| 2023-09-29 | 297,491 | 478 |
+| 2023-09-29 | 297,492 | 478 |
 ## Awards
 Max (Character Customization): 23,108  (Ranked 17)  
 Sum: 44,551 (Ranked 30)  

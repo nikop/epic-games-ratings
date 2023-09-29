@@ -10080,7 +10080,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 416793,
+  "EOS_Progressed": 416806,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 6518,
   "EOS_NewCompleters": 1,
@@ -28335,6 +28335,11 @@
       "Time": "2023-09-29T01:50:06.1423987+00:00",
       "NumProgressed": 416793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T02:24:12.7768697+00:00",
+      "NumProgressed": 416806,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -29000,9 +29005,9 @@
       "ID": "achievement_double_the_love",
       "SetID": "67mdiil",
       "Name": "Double the Love",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3334
+      "UsersEstimate": 2918
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -31177,21 +31182,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 416793,
+      "Progressed": 416806,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 416793,
+      "Progressed": 416806,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-28T23:57:26.9474964+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:50:06.1423977+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:24:12.7768694+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:23.3035309+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:39:25.4636937+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:50:06.1436135+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:13:26.912944+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:24:12.7779451+00:00"
 }

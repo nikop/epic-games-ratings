@@ -326,7 +326,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109412,
+  "EOS_Progressed": 109413,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 0,
@@ -12551,6 +12551,11 @@
       "Time": "2023-09-29T01:49:06.8627617+00:00",
       "NumProgressed": 109412,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-09-29T02:22:53.9970932+00:00",
+      "NumProgressed": 109413,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 49,
@@ -12570,7 +12575,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 84247
+      "UsersEstimate": 84248
     },
     {
       "ID": "EAwards_10",
@@ -12634,7 +12639,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39388
+      "UsersEstimate": 39389
     },
     {
       "ID": "EAwards_18",
@@ -12754,7 +12759,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "EAwards_31",
@@ -12834,7 +12839,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13129
+      "UsersEstimate": 13130
     },
     {
       "ID": "EAwards_40",
@@ -12938,7 +12943,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13129
+      "UsersEstimate": 13130
     },
     {
       "ID": "EAwards_9",
@@ -12953,7 +12958,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 109412,
+      "Progressed": 109413,
       "Completed": 42
     }
   ],
@@ -12961,8 +12966,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:49:06.8627611+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:22:53.9970925+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.6231409+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:41:41.715155+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:49:06.8628513+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:15:39.2173713+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:22:53.9971845+00:00"
 }

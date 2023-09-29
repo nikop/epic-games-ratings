@@ -7,22 +7,22 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 69.00% | ~21,801 |
-| The Evilest Evil | 58.00% | ~18,325 |
-| Twistram is devastated | 57.00% | ~18,009 |
+| The Evilest Evil | 58.00% | ~18,326 |
+| Twistram is devastated | 57.00% | ~18,010 |
 | The Gehenna Stones | 49.00% | ~15,482 |
 | No one has to die today! | 46.00% | ~14,534 |
 | Death and destruction! | 45.00% | ~14,218 |
 | The Swamplanders from the swamplands | 43.00% | ~13,586 |
 | Rusty Steel | 41.00% | ~12,954 |
 | The One-Huge-Army-Building Evil | 40.00% | ~12,638 |
-| The last burger | 37.00% | ~11,690 |
-| Braiiiiins! | 37.00% | ~11,690 |
-| Hands off the Dungeonheart! | 36.00% | ~11,374 |
-| A trip on sea, what fun it can be | 34.00% | ~10,742 |
-| Damned good | 33.00% | ~10,426 |
-| Stock Market Crash | 31.00% | ~9,794 |
-| Factory farming | 31.00% | ~9,794 |
-| Not-So-Overproud | 30.00% | ~9,478 |
+| The last burger | 37.00% | ~11,691 |
+| Braiiiiins! | 37.00% | ~11,691 |
+| Hands off the Dungeonheart! | 36.00% | ~11,375 |
+| A trip on sea, what fun it can be | 34.00% | ~10,743 |
+| Damned good | 33.00% | ~10,427 |
+| Stock Market Crash | 31.00% | ~9,795 |
+| Factory farming | 31.00% | ~9,795 |
+| Not-So-Overproud | 30.00% | ~9,479 |
 | For a handfull of Catapults | 29.00% | ~9,163 |
 | Shadow hunter | 29.00% | ~9,163 |
 | Ogre Solo! | 28.00% | ~8,847 |
@@ -43,8 +43,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Flat as a pancake | 17.00% | ~5,371 |
 | Lifeguard | 17.00% | ~5,371 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,739 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~3,791 |
-| Then let them eat cake! | 12.00% | ~3,791 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~3,792 |
+| Then let them eat cake! | 12.00% | ~3,792 |
 | The White Knight | 10.00% | ~3,160 |
 | Please, no interruptions! | 10.00% | ~3,160 |
 | Use the terrain | 9.00% | ~2,844 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~632 |
 | Sacrifices! | 2.00% | ~632 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,595 (Ranked 108)  
+Progressed: 31,596 (Ranked 108)  
 Completed: 260 (0.82%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 260 (0.82%) (Ranked 142)
 | 2023-09-26 | 31,418 | 260 |
 | 2023-09-27 | 31,503 | 260 |
 | 2023-09-28 | 31,584 | 260 |
-| 2023-09-29 | 31,595 | 260 |
+| 2023-09-29 | 31,596 | 260 |
 ## Awards
 Max (Great for Beginners): 354  (Ranked 229)  
 Sum: 2,656 (Ranked 175)  

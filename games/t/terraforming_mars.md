@@ -6,22 +6,22 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,586 |
+| It's a steal! | 37.00% | ~28,587 |
 | Final touch | 36.00% | ~27,814 |
-| Prop-M Rover | 32.00% | ~24,723 |
+| Prop-M Rover | 32.00% | ~24,724 |
 | Changing the Planet | 28.00% | ~21,633 |
 | Sojourner | 26.00% | ~20,088 |
-| Beagle 2 | 24.00% | ~18,542 |
+| Beagle 2 | 24.00% | ~18,543 |
 | New Home | 23.00% | ~17,770 |
-| Winner Winner Terraformer | 22.00% | ~16,997 |
-| Project Manager | 19.00% | ~14,679 |
-| Curiosity | 19.00% | ~14,679 |
-| Collector | 19.00% | ~14,679 |
-| Master | 19.00% | ~14,679 |
+| Winner Winner Terraformer | 22.00% | ~16,998 |
+| Project Manager | 19.00% | ~14,680 |
+| Curiosity | 19.00% | ~14,680 |
+| Collector | 19.00% | ~14,680 |
+| Master | 19.00% | ~14,680 |
 | No Longer Red | 18.00% | ~13,907 |
 | Self-sufficient | 18.00% | ~13,907 |
 | Money money | 15.00% | ~11,589 |
-| Biggest Reward | 14.00% | ~10,816 |
+| Biggest Reward | 14.00% | ~10,817 |
 | Acquired knowledge | 13.00% | ~10,044 |
 | First Journey | 12.00% | ~9,271 |
 | Hellenic Elysium | 12.00% | ~9,271 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~8,499 |
 | Spirit | 10.00% | ~7,726 |
 | Ultimate success | 10.00% | ~7,726 |
-| Variety Expert | 9.00% | ~6,953 |
+| Variety Expert | 9.00% | ~6,954 |
 | Frequent tester | 8.00% | ~6,181 |
 | Determined | 8.00% | ~6,181 |
 | Terraformer | 4.00% | ~3,090 |
 | Team Effort | 3.00% | ~2,318 |
 | Opportunity | 3.00% | ~2,318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,260 (Ranked 82)  
+Progressed: 77,262 (Ranked 82)  
 Completed: 136 (0.18%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 136 (0.18%) (Ranked 217)
 | 2023-09-26 | 77,070 | 136 |
 | 2023-09-27 | 77,162 | 136 |
 | 2023-09-28 | 77,242 | 136 |
-| 2023-09-29 | 77,260 | 136 |
+| 2023-09-29 | 77,262 | 136 |
 ## Awards
 Max (Relaxing): 516  (Ranked 200)  
 Sum: 3,174 (Ranked 164)  

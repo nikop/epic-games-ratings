@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21032,
+  "EOS_Progressed": 21033,
   "EOS_Completed": 422,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
@@ -17720,6 +17720,11 @@
       "Time": "2023-09-29T01:47:32.1331053+00:00",
       "NumProgressed": 21032,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-09-29T02:21:50.8267249+00:00",
+      "NumProgressed": 21033,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 20,
@@ -17731,7 +17736,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -17747,7 +17752,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -17867,7 +17872,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -17890,15 +17895,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21032,
+      "Progressed": 21033,
       "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:47:32.1331047+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:21:50.8267245+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:40:22.9965923+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:47:32.1331989+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:14:23.0914039+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:21:50.8268143+00:00"
 }

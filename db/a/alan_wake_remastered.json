@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66405,
+  "EOS_Progressed": 66406,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16219,6 +16219,11 @@
       "Time": "2023-09-29T01:48:28.2286255+00:00",
       "NumProgressed": 66405,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-29T02:22:45.8304845+00:00",
+      "NumProgressed": 66406,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16230,7 +16235,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27890
+      "UsersEstimate": 27891
     },
     {
       "ID": "02",
@@ -16238,7 +16243,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17265
+      "UsersEstimate": 17266
     },
     {
       "ID": "03",
@@ -16246,15 +16251,15 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17265
+      "UsersEstimate": 17266
     },
     {
       "ID": "04",
       "SetID": "212770e",
       "Name": "Boob Tube",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2656
+      "UsersEstimate": 3320
     },
     {
       "ID": "05",
@@ -16422,7 +16427,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5976
+      "UsersEstimate": 5977
     },
     {
       "ID": "26",
@@ -16542,7 +16547,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6640
+      "UsersEstimate": 6641
     },
     {
       "ID": "41",
@@ -16765,21 +16770,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66405,
+      "Progressed": 66406,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29873,
+      "Progressed": 29874,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:48:28.2286246+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:22:45.8304842+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:39:33.759679+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:48:28.2289309+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:13:34.5486591+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:22:45.8306166+00:00"
 }

@@ -26,12 +26,12 @@ Rating: 4.50 (Ranked 573)
 | Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
 | Right back at ya | 0.40% | ~104 |
+| Side Hustle | 0.40% | ~104 |
 | Summoner | 0.40% | ~104 |
 | Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Legions | 0.30% | ~78 |
 | Pesky Jerks | 0.30% | ~78 |
-| Side Hustle | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |

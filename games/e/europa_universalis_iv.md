@@ -23,8 +23,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.90% | ~3,751 |
 | Truly Divine Ruler | 0.90% | ~3,751 |
 | Blockader | 0.80% | ~3,334 |
-| Double the Love | 0.80% | ~3,334 |
 | Total Control | 0.80% | ~3,334 |
+| Double the Love | 0.70% | ~2,918 |
 | Royal Authority | 0.70% | ~2,918 |
 | My armies are invincible! | 0.60% | ~2,501 |
 | Agressive Expander | 0.50% | ~2,084 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,793 (Ranked 41)  
+Progressed: 416,806 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,7 +523,7 @@ Completed: 1 (0.00%) (Ranked 298)
 | 2023-09-26 | 415,263 | 1 |
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
-| 2023-09-29 | 416,793 | 1 |
+| 2023-09-29 | 416,806 | 1 |
 ## Awards
 Max (Educational): 6,316  (Ranked 57)  
 Sum: 51,764 (Ranked 24)  

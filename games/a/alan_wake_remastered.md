@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,890 |
+| Follow the Light | 42.00% | ~27,891 |
 | Let There Be Light | 34.00% | ~22,578 |
 | Float Like a Butterfly | 33.00% | ~21,914 |
-| Nordic Walking | 26.00% | ~17,265 |
-| Bright Falls' Finest | 26.00% | ~17,265 |
+| Nordic Walking | 26.00% | ~17,266 |
+| Bright Falls' Finest | 26.00% | ~17,266 |
 | Under a Thin Layer of Skin | 23.00% | ~15,273 |
 | Park Ranger | 19.00% | ~12,617 |
 | Paging Mr. Wake | 19.00% | ~12,617 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 12.00% | ~7,969 |
 | The Lady of the Light | 11.00% | ~7,305 |
 | Energized! | 11.00% | ~7,305 |
-| Right of Way | 10.00% | ~6,640 |
-| What Light Through Yonder Window | 9.00% | ~5,976 |
+| Right of Way | 10.00% | ~6,641 |
+| What Light Through Yonder Window | 9.00% | ~5,977 |
 | Tornado Wrangler | 8.00% | ~5,312 |
 | Departure | 8.00% | ~5,312 |
 | A Friend in Need | 8.00% | ~2,390 |
@@ -42,10 +42,10 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 6.00% | ~3,984 |
 | A Friend Indeed | 6.00% | ~1,792 |
 | Ding! | 6.00% | ~1,792 |
+| Boob Tube | 5.00% | ~3,320 |
 | Children of the Elder God | 5.00% | ~3,320 |
 | If It Flies, It Burns | 5.00% | ~3,320 |
 | KBF-FM | 5.00% | ~3,320 |
-| Boob Tube | 4.00% | ~2,656 |
 | Heartbreaker | 4.00% | ~1,195 |
 | Carny | 3.00% | ~1,992 |
 | Kill Your Darlings | 3.00% | ~896 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,405 (Ranked 89)  
+Progressed: 66,406 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 66 (0.10%) (Ranked 237)
 | 2023-09-26 | 66,247 | 66 |
 | 2023-09-27 | 66,314 | 66 |
 | 2023-09-28 | 66,395 | 66 |
-| 2023-09-29 | 66,405 | 66 |
+| 2023-09-29 | 66,406 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

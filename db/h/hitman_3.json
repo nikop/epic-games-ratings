@@ -10015,9 +10015,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1339428,
+  "EOS_Progressed": 1339430,
   "EOS_Completed": 2151,
-  "EOS_NewPlayers": 2915,
+  "EOS_NewPlayers": 2914,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28230,6 +28230,11 @@
       "Time": "2023-09-29T01:50:18.7453913+00:00",
       "NumProgressed": 1339428,
       "NumCompleted": 2151
+    },
+    {
+      "Time": "2023-09-29T02:25:04.8115351+00:00",
+      "NumProgressed": 1339430,
+      "NumCompleted": 2151
     }
   ],
   "TotalAchievements": 47,
@@ -28257,7 +28262,7 @@
       "Name": "Seizing the Opportunity",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 348251
+      "UsersEstimate": 348252
     },
     {
       "ID": "ACH_003",
@@ -28313,7 +28318,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 616137
+      "UsersEstimate": 616138
     },
     {
       "ID": "ACH_010",
@@ -28321,7 +28326,7 @@
       "Name": "Shortcut Killer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66971
+      "UsersEstimate": 66972
     },
     {
       "ID": "ACH_011",
@@ -28337,7 +28342,7 @@
       "Name": "Death From Above",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 602743
+      "UsersEstimate": 602744
     },
     {
       "ID": "ACH_013",
@@ -28353,7 +28358,7 @@
       "Name": "Treacherous Architecture",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66971
+      "UsersEstimate": 66972
     },
     {
       "ID": "ACH_015",
@@ -28377,7 +28382,7 @@
       "Name": "Stair Master",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 66971
+      "UsersEstimate": 66972
     },
     {
       "ID": "ACH_018",
@@ -28433,7 +28438,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 482194
+      "UsersEstimate": 482195
     },
     {
       "ID": "ACH_025",
@@ -28441,7 +28446,7 @@
       "Name": "Followed the Trails",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 66971
+      "UsersEstimate": 66972
     },
     {
       "ID": "ACH_026",
@@ -28465,7 +28470,7 @@
       "Name": "Last Call",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 66971
+      "UsersEstimate": 66972
     },
     {
       "ID": "ACH_029",
@@ -28481,7 +28486,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 442011
+      "UsersEstimate": 442012
     },
     {
       "ID": "ACH_031",
@@ -28577,7 +28582,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 401828
+      "UsersEstimate": 401829
     },
     {
       "ID": "ACH_043",
@@ -28616,15 +28621,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1339428,
+      "Progressed": 1339430,
       "Completed": 2151
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-09-28T22:58:52.3017431+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:50:18.7453907+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:25:04.8115348+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:41.0229764+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:40:25.5610263+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:50:18.7455065+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:14:25.7442305+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:25:04.8116497+00:00"
 }

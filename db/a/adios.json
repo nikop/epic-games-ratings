@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74493,
+  "EOS_Progressed": 74495,
   "EOS_Completed": 777,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18104,6 +18104,11 @@
       "Time": "2023-09-29T01:46:37.0144914+00:00",
       "NumProgressed": 74493,
       "NumCompleted": 777
+    },
+    {
+      "Time": "2023-09-29T02:20:57.9424475+00:00",
+      "NumProgressed": 74495,
+      "NumCompleted": 777
     }
   ],
   "TotalAchievements": 25,
@@ -18147,7 +18152,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16388
+      "UsersEstimate": 16389
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -18203,7 +18208,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6704
+      "UsersEstimate": 6705
     },
     {
       "ID": "Magnetic Miracles",
@@ -18259,7 +18264,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7449
+      "UsersEstimate": 7450
     },
     {
       "ID": "Right On Target",
@@ -18307,14 +18312,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74493,
+      "Progressed": 74495,
       "Completed": 777
     }
   ],
@@ -18322,8 +18327,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-29T01:46:37.0144908+00:00",
+  "LastChanged_Achievements": "2023-09-29T02:20:57.9424471+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-29T01:42:02.4153593+00:00",
-  "LastUpdate_Achievements": "2023-09-29T01:46:37.0145873+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:16:02.7274504+00:00",
+  "LastUpdate_Achievements": "2023-09-29T02:20:57.9425419+00:00"
 }

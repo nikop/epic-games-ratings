@@ -6,19 +6,19 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~239,294 |
-| Into the Unknown | 35.00% | ~220,402 |
-| First Shot | 35.00% | ~220,402 |
-| Herzlich Wilkommen! | 33.00% | ~207,808 |
-| Good Night & Good Luck | 33.00% | ~207,808 |
+| You Never Forget Your First... | 38.00% | ~239,295 |
+| Into the Unknown | 35.00% | ~220,403 |
+| First Shot | 35.00% | ~220,403 |
+| Herzlich Wilkommen! | 33.00% | ~207,809 |
+| Good Night & Good Luck | 33.00% | ~207,809 |
 | Sancho Panza | 31.00% | ~195,214 |
-| Oh, So This Is How It Works! | 29.00% | ~182,619 |
+| Oh, So This Is How It Works! | 29.00% | ~182,620 |
 | Flag Burning | 27.00% | ~170,025 |
-| Can't Touch This! | 25.00% | ~157,430 |
-| Under Pressure | 24.00% | ~151,133 |
-| On the Trail of the Enemy | 24.00% | ~151,133 |
-| Light in the Darkness | 24.00% | ~151,133 |
-| It Wasn't That Hard, Was It? | 24.00% | ~151,133 |
+| Can't Touch This! | 25.00% | ~157,431 |
+| Under Pressure | 24.00% | ~151,134 |
+| On the Trail of the Enemy | 24.00% | ~151,134 |
+| Light in the Darkness | 24.00% | ~151,134 |
+| It Wasn't That Hard, Was It? | 24.00% | ~151,134 |
 | Get Outta My House! | 23.00% | ~144,836 |
 | Night Hunter | 22.00% | ~138,539 |
 | Being All Social | 22.00% | ~138,539 |
@@ -26,7 +26,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | We Will Be Heard! | 18.00% | ~113,350 |
 | Known Associate | 17.00% | ~107,053 |
 | Tunnel Entrance | 17.00% | ~107,053 |
-| Brush with Death | 16.00% | ~100,755 |
+| Brush with Death | 16.00% | ~100,756 |
 | Debris and Ashes | 15.00% | ~94,458 |
 | Going Down | 15.00% | ~94,458 |
 | Family First | 15.00% | ~94,458 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 14.00% | ~88,161 |
 | Terminal Headache | 14.00% | ~88,161 |
 | Slowpoke! | 12.00% | ~75,567 |
-| Tickets, Please! | 7.00% | ~44,080 |
+| Tickets, Please! | 7.00% | ~44,081 |
 | Parkour Master | 6.00% | ~37,783 |
 | Combat Master | 6.00% | ~37,783 |
 | Municipal Services | 5.00% | ~31,486 |
@@ -55,8 +55,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Fit as a Fiddle | 2.00% | ~12,594 |
 | Nemesis | 1.00% | ~2,752 |
 | Enter the Hall | 1.00% | ~2,752 |
-| A Friend in Need... | 0.90% | ~5,667 |
-| Night of Terrors | 0.90% | ~2,476 |
+| A Friend in Need... | 0.90% | ~5,668 |
+| Night of Terrors | 0.90% | ~2,477 |
 | Man On a Mission | 0.80% | ~5,038 |
 | Get the Point? | 0.80% | ~5,038 |
 | My Friend, Ciro | 0.70% | ~1,926 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~275 |
 | Connoisseur | 0.10% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 629,721 (Ranked 27)  
+Progressed: 629,723 (Ranked 27)  
 Completed: 63 (0.01%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 63 (0.01%) (Ranked 282)
 | 2023-09-26 | 628,985 | 63 |
 | 2023-09-27 | 629,335 | 63 |
 | 2023-09-28 | 629,703 | 63 |
-| 2023-09-29 | 629,721 | 63 |
+| 2023-09-29 | 629,723 | 63 |
 ## Awards
 Max (Character Customization): 9,306  (Ranked 40)  
 Sum: 22,728 (Ranked 54)  
