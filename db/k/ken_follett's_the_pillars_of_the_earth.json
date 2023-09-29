@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -527,7 +527,7 @@
   ],
   "EOS_Progressed": 15462,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11229,9 +11229,9 @@
       "ID": "tpote_achievement_28",
       "SetID": "3jcf6c3",
       "Name": "Whodunnit",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 2010
     },
     {
       "ID": "tpote_achievement_29",
@@ -11405,8 +11405,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:03:50.5277332+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:04:21.2144564+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:59:53.8220093+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:03:50.5278358+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:00:57.8594429+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:04:21.2145308+00:00"
 }

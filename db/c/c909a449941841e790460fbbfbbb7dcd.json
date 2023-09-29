@@ -4,8 +4,8 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "DEFEATED_20000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Exterminator",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -360,9 +360,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "14g34pl",
       "Name": "Western is safe!",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REACH_LEVEL_10",
@@ -399,8 +399,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:03:19.8106901+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:03:41.5412193+00:00",
   "LastUpdate_AppInfo": "2023-09-26T16:57:05.5703282+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:59:39.6737143+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:03:19.810704+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:00:38.2231644+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:03:41.5412306+00:00"
 }

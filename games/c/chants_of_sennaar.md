@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 55.00% | ~126 |
-| Welcome to the Tower | 52.00% | ~119 |
-| The great escape | 47.00% | ~108 |
+| Welcome to the Tower | 53.00% | ~121 |
+| The great escape | 48.00% | ~110 |
 | The Preacher's fate | 45.00% | ~103 |
 | A new dawn | 41.00% | ~94 |
 | Scholar | 40.00% | ~92 |
@@ -18,7 +18,7 @@
 | Champollion | 33.00% | ~76 |
 | Half the way | 32.00% | ~73 |
 | Peace walker | 31.00% | ~71 |
-| In this together | 29.00% | ~66 |
+| In this together | 30.00% | ~69 |
 | Open door | 27.00% | ~62 |
 | Feels like springtime | 24.00% | ~55 |
 | Rascal | 24.00% | ~55 |

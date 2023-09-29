@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "ID": "not_alone",
       "SetID": "c4ipj3h",
       "Name": "Not Alone",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 170
     },
     {
       "ID": "nueva_beginnings",
@@ -1225,8 +1225,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:07:14.4869363+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:08:18.4064469+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:24.0381007+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:58:13.7378586+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:07:14.4869566+00:00"
+  "LastUpdate_Ratings": "2023-09-29T17:58:39.5225903+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:08:18.4064616+00:00"
 }

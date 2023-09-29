@@ -20,8 +20,8 @@ Rating: 4.46 (Ranked 630)
 | Poor Devil | 54.00% | ~1,059 |
 | Facility Manager | 53.00% | ~1,039 |
 | Producer | 50.00% | ~980 |
+| Bridge Builder | 42.00% | ~824 |
 | Apprentice | 41.00% | ~804 |
-| Bridge Builder | 41.00% | ~804 |
 | Access granted | 35.00% | ~686 |
 | Going once, going twice, sold | 35.00% | ~686 |
 | Bull and bear | 34.00% | ~667 |
@@ -38,7 +38,7 @@ Rating: 4.46 (Ranked 630)
 | Breaking Ground | 22.00% | ~431 |
 | Trailblazer | 21.00% | ~412 |
 | Traffic Junction | 21.00% | ~412 |
-| Traffic Jam | 19.00% | ~373 |
+| Traffic Jam | 20.00% | ~392 |
 | Resistance is futile | 17.00% | ~333 |
 | Networker | 17.00% | ~333 |
 | Assimilated | 16.00% | ~314 |

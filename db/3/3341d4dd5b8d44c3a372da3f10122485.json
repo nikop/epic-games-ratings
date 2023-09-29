@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 105,
-  "EOS_Completed": 50,
+  "EOS_Completed": 51,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 47.62,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 48.57,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -736,6 +736,11 @@
       "Time": "2023-09-29T17:04:56.117803+00:00",
       "NumProgressed": 105,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-29T18:05:45.709219+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -786,9 +791,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Majak",
@@ -842,9 +847,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
@@ -852,13 +857,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 105,
-      "Completed": 50
+      "Completed": 51
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:04:56.1178025+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:05:45.7092184+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.5559895+00:00",
-  "LastUpdate_Ratings": "2023-09-29T17:02:04.8896046+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:04:56.1178188+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:01:39.9713797+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:05:45.7092313+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1636,
+  "EOS_Progressed": 1637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1741,6 +1741,11 @@
       "Time": "2023-09-29T16:05:24.4367019+00:00",
       "NumProgressed": 1636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T18:04:34.5867962+00:00",
+      "NumProgressed": 1637,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -1753,7 +1758,7 @@
       "Name": "Primetime",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_10",
@@ -1785,7 +1790,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "achievement_14",
@@ -1793,7 +1798,7 @@
       "Name": "Dealmaker",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_15",
@@ -1801,7 +1806,7 @@
       "Name": "MVP",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_16",
@@ -1911,16 +1916,16 @@
       "ID": "achievement_9",
       "SetID": "c8fif6p",
       "Name": "Head-to-Head",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1636,
+      "Progressed": 1637,
       "Completed": 0
     }
   ],
@@ -1928,8 +1933,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:04:01.0091343+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:04:34.5867954+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.8917414+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:58:30.5247652+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:04:01.0091588+00:00"
+  "LastUpdate_Ratings": "2023-09-29T17:59:02.8189903+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:04:34.5868125+00:00"
 }

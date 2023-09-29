@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21075,
+  "EOS_Progressed": 21078,
   "EOS_Completed": 422,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 8,
@@ -17795,6 +17795,11 @@
       "Time": "2023-09-29T17:05:48.3096815+00:00",
       "NumProgressed": 21075,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-09-29T18:06:52.6098921+00:00",
+      "NumProgressed": 21078,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 20,
@@ -17814,7 +17819,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "EAST_FINISHED",
@@ -17870,7 +17875,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "FOUND_ERIN",
@@ -17886,7 +17891,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "FOUND_MAMBA",
@@ -17894,7 +17899,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -17910,7 +17915,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "GAME_FINISHED",
@@ -17926,7 +17931,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16228
+      "UsersEstimate": 16230
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17934,7 +17939,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17965,15 +17970,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21075,
+      "Progressed": 21078,
       "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:05:48.3096811+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:06:52.6098917+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:58:41.8454072+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:05:48.3098289+00:00"
+  "LastUpdate_Ratings": "2023-09-29T17:59:18.8955927+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:06:52.6099825+00:00"
 }

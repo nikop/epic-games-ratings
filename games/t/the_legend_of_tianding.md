@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Killing Machine | 100.00% | ~1 |
 | Final Showdown | 100.00% | ~1 |
 | Eat the Rich | 100.00% | ~1 |
 | Hero Arrives | 100.00% | ~1 |
 | The Hero of the People | 100.00% | ~1 |
+| Sewer Rat | 100.00% | ~1 |
 | Death Battle | 0.00% | ~0 |
 | Phantom Kunoichi | 0.00% | ~0 |
-| Killing Machine | 0.00% | ~0 |
 | Divine Retribution | 0.00% | ~0 |
 | Big Eater | 0.00% | ~0 |
 | Dispel Rumors | 0.00% | ~0 |
@@ -24,7 +25,6 @@
 | Taoist | 0.00% | ~0 |
 | Steal Her Away | 0.00% | ~0 |
 | Captain Mustache | 0.00% | ~0 |
-| Sewer Rat | 0.00% | ~0 |
 | Not Today | 0.00% | ~0 |
 | Talk to the Fist | 0.00% | ~0 |
 | Coward | 0.00% | ~0 |

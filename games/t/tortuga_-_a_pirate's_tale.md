@@ -5,23 +5,23 @@ Rating: 3.77 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,608 |
-| No Half Measures | 88.00% | ~14,458 |
-| Personal Matter | 86.00% | ~14,129 |
-| But You Have Heard of Me | 72.00% | ~11,829 |
-| Double the Barrels, double the Fun | 55.00% | ~9,036 |
-| Pimp My Glide | 48.00% | ~7,886 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,736 |
-| House Party! | 34.00% | ~5,586 |
-| Make It Rain | 23.00% | ~3,779 |
-| Curse of the Seven Seas | 22.00% | ~3,614 |
-| Head First | 16.00% | ~2,629 |
-| To the World's End | 12.00% | ~1,971 |
-| Table for Six | 11.00% | ~1,807 |
-| Sharing Is Caring | 10.00% | ~1,643 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,314 |
+| Eeligally Ambitious | 95.00% | ~15,614 |
+| No Half Measures | 88.00% | ~14,464 |
+| Personal Matter | 86.00% | ~14,135 |
+| But You Have Heard of Me | 72.00% | ~11,834 |
+| Double the Barrels, double the Fun | 55.00% | ~9,040 |
+| Pimp My Glide | 48.00% | ~7,889 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,739 |
+| House Party! | 34.00% | ~5,588 |
+| Make It Rain | 23.00% | ~3,780 |
+| Curse of the Seven Seas | 22.00% | ~3,616 |
+| Head First | 16.00% | ~2,630 |
+| To the World's End | 12.00% | ~1,972 |
+| Table for Six | 11.00% | ~1,808 |
+| Sharing Is Caring | 10.00% | ~1,644 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,315 |
 | Morally Flexible | 6.00% | ~986 |
-| Fishing for Compliments | 5.00% | ~821 |
+| Fishing for Compliments | 5.00% | ~822 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~493 |
 | A True Dandy | 2.00% | ~329 |
 | A New Legend Awaits | 1.00% | ~164 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 994)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,429 (Ranked 129)  
+Progressed: 16,436 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 16,251 | 0 |
 | 2023-09-27 | 16,304 | 0 |
 | 2023-09-28 | 16,374 | 0 |
-| 2023-09-29 | 16,429 | 0 |
+| 2023-09-29 | 16,436 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

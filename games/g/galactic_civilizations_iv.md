@@ -7,20 +7,20 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~5,306 |
-| Worker Specialization | 78.00% | ~5,238 |
+| Worker Specialization | 78.00% | ~5,239 |
 | First Contact | 73.00% | ~4,903 |
 | Win a Battle | 66.00% | ~4,433 |
-| Anomaly Researcher | 62.00% | ~4,164 |
-| Unleash My Power | 62.00% | ~4,164 |
-| Own 30 Planets | 34.00% | ~2,283 |
+| Anomaly Researcher | 62.00% | ~4,165 |
+| Unleash My Power | 62.00% | ~4,165 |
+| Own 30 Planets | 34.00% | ~2,284 |
 | Xenocide | 32.00% | ~2,149 |
 | Design a Civilization | 32.00% | ~2,149 |
 | Commodity Trader | 31.00% | ~2,082 |
-| Design a Ship | 28.00% | ~1,880 |
+| Design a Ship | 28.00% | ~1,881 |
 | Commodity Seller | 25.00% | ~1,679 |
 | Prestige Victory! | 14.00% | ~940 |
 | Galactic War | 11.00% | ~739 |
-| Trading Partner | 9.00% | ~604 |
+| Trading Partner | 9.00% | ~605 |
 | Fleet Victory | 8.00% | ~537 |
 | Win as Terrans | 7.00% | ~470 |
 | Gain an Ally | 6.00% | ~403 |
@@ -28,8 +28,8 @@ Number of Ratings: 429  (23.09.2022)
 | War with the Unknown | 5.00% | ~336 |
 | Win Quickly | 5.00% | ~336 |
 | Conquest Victory! | 4.00% | ~269 |
-| Pirate Cleansing | 3.00% | ~201 |
-| Win an Immense Game | 3.00% | ~201 |
+| Pirate Cleansing | 3.00% | ~202 |
+| Win an Immense Game | 3.00% | ~202 |
 | Artifact Mastery | 2.00% | ~134 |
 | Win as Altarians | 2.00% | ~134 |
 | Win as the Mimot | 2.00% | ~134 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,716 (Ranked 155)  
+Progressed: 6,717 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 6,700 | 0 |
 | 2023-09-27 | 6,704 | 0 |
 | 2023-09-28 | 6,709 | 0 |
-| 2023-09-29 | 6,716 | 0 |
+| 2023-09-29 | 6,717 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 354)  
 Sum: 681 (Ranked 284)  

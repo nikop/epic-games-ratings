@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 72,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "cold_feet",
@@ -156,9 +156,9 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "if_the_suit_fits",
@@ -292,9 +292,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 56,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "the_swell_celebration",
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:07:17.2713398+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:08:22.0217095+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.2852285+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:59:55.6693473+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:07:17.271361+00:00"
+  "LastUpdate_Ratings": "2023-09-29T18:01:00.5087058+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:08:22.0217241+00:00"
 }

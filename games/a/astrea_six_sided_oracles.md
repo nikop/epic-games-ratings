@@ -4,29 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 96.00% | ~23 |
-| Meissa's Savior | 96.00% | ~23 |
-| Purification Pioneer | 96.00% | ~23 |
-| Dicesmithing Time! | 83.00% | ~20 |
-| Wild's Keeper | 75.00% | ~18 |
-| Sanctuary Guardian | 71.00% | ~17 |
-| Endless Tricks | 63.00% | ~15 |
-| Mind Illuminator | 46.00% | ~11 |
-| Stellar Dismantler | 33.00% | ~8 |
-| Unbeatable | 29.00% | ~7 |
-| Star Killer | 25.00% | ~6 |
-| Sadistic Plan | 21.00% | ~5 |
-| Sentinelphobic | 21.00% | ~5 |
-| Stellar Haste | 21.00% | ~5 |
-| The Corruption Goddess | 21.00% | ~5 |
-| Anomaly Destroyer | 17.00% | ~4 |
-| Astral Adventurer | 17.00% | ~4 |
-| Loyal Partner | 17.00% | ~4 |
-| Skeptical | 17.00% | ~4 |
-| Dice Specialist | 13.00% | ~3 |
-| Shard Spender | 13.00% | ~3 |
+| Mechanical Buddy | 92.00% | ~23 |
+| Meissa's Savior | 92.00% | ~23 |
+| Purification Pioneer | 92.00% | ~23 |
+| Dicesmithing Time! | 80.00% | ~20 |
+| Wild's Keeper | 72.00% | ~18 |
+| Sanctuary Guardian | 68.00% | ~17 |
+| Endless Tricks | 60.00% | ~15 |
+| Mind Illuminator | 48.00% | ~12 |
+| Stellar Dismantler | 36.00% | ~9 |
+| Unbeatable | 28.00% | ~7 |
+| Star Killer | 24.00% | ~6 |
+| Sadistic Plan | 20.00% | ~5 |
+| Sentinelphobic | 20.00% | ~5 |
+| Stellar Haste | 20.00% | ~5 |
+| The Corruption Goddess | 20.00% | ~5 |
+| Anomaly Destroyer | 16.00% | ~4 |
+| Astral Adventurer | 16.00% | ~4 |
+| Loyal Partner | 16.00% | ~4 |
+| Skeptical | 16.00% | ~4 |
+| Dice Specialist | 12.00% | ~3 |
+| Shard Spender | 12.00% | ~3 |
+| Can't touch this | 8.00% | ~2 |
 | Denying Destiny | 8.00% | ~2 |
 | Heart Gate | 8.00% | ~2 |
+| Heavy Purger | 8.00% | ~2 |
 | Pocket Astrarium | 8.00% | ~2 |
 | Prestidigitation | 8.00% | ~2 |
 | Unepic Hero | 8.00% | ~2 |
@@ -34,9 +36,7 @@
 | Arch-Oracle | 4.00% | ~1 |
 | Astral Seeker | 4.00% | ~1 |
 | Astral Tinkerer | 4.00% | ~1 |
-| Can't touch this | 4.00% | ~1 |
 | Favored by the Cosmos | 4.00% | ~1 |
-| Heavy Purger | 4.00% | ~1 |
 | Plague Doctor | 4.00% | ~1 |
 | The Dark Moon | 4.00% | ~1 |
 | The Goddes Avatar | 4.00% | ~1 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 469)  
+Progressed: 25 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-24 | 9 | 0 |
 | 2023-09-27 | 10 | 0 |
 | 2023-09-28 | 14 | 0 |
-| 2023-09-29 | 24 | 0 |
+| 2023-09-29 | 25 | 0 |

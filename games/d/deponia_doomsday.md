@@ -13,7 +13,7 @@ Rating: 4.55 (Ranked 490)
 | Funtime's over | 53.00% | ~223 |
 | Chunky | 50.00% | ~210 |
 | Shall we play a game? | 49.00% | ~206 |
-| Boat of love, boat of love | 48.00% | ~202 |
+| Boat of love, boat of love | 49.00% | ~206 |
 | School's out | 43.00% | ~181 |
 | Elysian Minigame-Master | 38.00% | ~160 |
 | Scaffolding Expert | 37.00% | ~156 |

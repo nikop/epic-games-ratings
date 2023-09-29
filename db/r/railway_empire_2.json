@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -232,7 +232,7 @@
   "Tags": [],
   "EOS_Progressed": 1961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5107,9 +5107,9 @@
       "ID": "A16",
       "SetID": "9b7p7eo",
       "Name": "Traffic Jam",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 392
     },
     {
       "ID": "A17",
@@ -5315,9 +5315,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 824
     },
     {
       "ID": "A43",
@@ -5428,8 +5428,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-28T13:58:27.851753+00:00",
-  "LastChanged_Achievements": "2023-09-29T17:03:30.6691133+00:00",
+  "LastChanged_Achievements": "2023-09-29T18:03:55.7849889+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:41.1464016+00:00",
-  "LastUpdate_Ratings": "2023-09-29T16:58:18.8884069+00:00",
-  "LastUpdate_Achievements": "2023-09-29T17:03:30.6691937+00:00"
+  "LastUpdate_Ratings": "2023-09-29T17:58:46.6535315+00:00",
+  "LastUpdate_Achievements": "2023-09-29T18:03:55.7850516+00:00"
 }

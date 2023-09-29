@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,683 |
-| Sweet Sorrow | 18.00% | ~6,841 |
-| Rules the Waves | 17.00% | ~6,461 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,701 |
-| Rival | 14.00% | ~5,321 |
+| Sink Beneath the Waves | 36.00% | ~13,684 |
+| Sweet Sorrow | 18.00% | ~6,842 |
+| Rules the Waves | 17.00% | ~6,462 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,702 |
+| Rival | 14.00% | ~5,322 |
 | Correspondent | 12.00% | ~4,561 |
 | Lose Your Mind | 12.00% | ~4,561 |
 | Sound Mind? | 12.00% | ~4,561 |
@@ -19,11 +19,11 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~4,181 |
 | Shipmate | 11.00% | ~4,181 |
 | One Year at Zee | 8.00% | ~3,041 |
-| Pupil | 7.00% | ~2,660 |
-| Salvager | 7.00% | ~2,660 |
-| Open Your Ears | 7.00% | ~2,660 |
-| The Ascent of Man | 7.00% | ~2,660 |
-| Zee Fever | 5.00% | ~1,900 |
+| Pupil | 7.00% | ~2,661 |
+| Salvager | 7.00% | ~2,661 |
+| Open Your Ears | 7.00% | ~2,661 |
+| The Ascent of Man | 7.00% | ~2,661 |
+| Zee Fever | 5.00% | ~1,901 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,520 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,520 |
 | Storm's Curse | 3.00% | ~1,140 |
@@ -35,6 +35,7 @@ Number of Ratings: 401  (23.09.2022)
 | Frightful, sheer, no-man-fathomed | 1.00% | ~380 |
 | The Bell Tolls | 1.00% | ~380 |
 | His bones in whispers | 1.00% | ~380 |
+| The beauty of the deep | 1.00% | ~380 |
 | The dragon in the zee | 1.00% | ~380 |
 | Thanks for all the fish | 1.00% | ~380 |
 | Knife, Cup and Bone | 1.00% | ~380 |
@@ -43,7 +44,6 @@ Number of Ratings: 401  (23.09.2022)
 | Under the zee | 1.00% | ~380 |
 | A current under zee | 1.00% | ~380 |
 | Never Stop Sinking... | 0.90% | ~342 |
-| The beauty of the deep | 0.90% | ~342 |
 | Leviathan | 0.90% | ~342 |
 | No regrets | 0.90% | ~342 |
 | Depth charge | 0.90% | ~342 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,007 (Ranked 105)  
+Progressed: 38,011 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 3 (0.01%) (Ranked 282)
 | 2023-09-26 | 37,885 | 3 |
 | 2023-09-27 | 37,923 | 3 |
 | 2023-09-28 | 37,972 | 3 |
-| 2023-09-29 | 38,007 | 3 |
+| 2023-09-29 | 38,011 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 272)  
 Sum: 285 (Ranked 350)  

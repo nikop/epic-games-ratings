@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,553 |
-| Rough Landing | 3.00% | ~26,553 |
-| Gunslinger | 2.00% | ~17,702 |
-| Master Crafter | 2.00% | ~17,702 |
-| The Jungle | 2.00% | ~17,702 |
+| Ten out of Ten | 3.00% | ~26,554 |
+| Rough Landing | 3.00% | ~26,554 |
+| Gunslinger | 2.00% | ~17,703 |
+| Master Crafter | 2.00% | ~17,703 |
+| The Jungle | 2.00% | ~17,703 |
 | Full Body Conversion | 1.00% | ~8,851 |
 | Right Back At Ya | 1.00% | ~8,851 |
 | Mean Streets | 1.00% | ~8,851 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,104 (Ranked 15)  
+Progressed: 885,148 (Ranked 15)  
 Completed: 2,476 (0.28%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2,476 (0.28%) (Ranked 201)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 885,104 | 2,476 |
+| 2023-09-29 | 885,148 | 2,476 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
 Sum: 238,780 (Ranked 13)  

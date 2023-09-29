@@ -9,9 +9,9 @@ Rating: 4.54 (Ranked 512)
 | Greasy Palms | 42.00% | ~4,400 |
 | South American Connection | 25.00% | ~2,619 |
 | Life of the Party | 20.00% | ~2,095 |
-| Big Heat from Little Havana | 15.00% | ~1,571 |
-| Chauffeur | 15.00% | ~1,571 |
-| Tommy Two-Wheels | 15.00% | ~1,571 |
+| Big Heat from Little Havana | 15.00% | ~1,572 |
+| Chauffeur | 15.00% | ~1,572 |
+| Tommy Two-Wheels | 15.00% | ~1,572 |
 | Salutations My Little Friend | 11.00% | ~1,152 |
 | Iron-y | 10.00% | ~1,048 |
 | Gun for Hire | 9.00% | ~943 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 512)
 | Done it All | 0.90% | ~94 |
 | Kingpin | 0.60% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,476 (Ranked 139)  
+Progressed: 10,477 (Ranked 139)  
 Completed: 58 (0.55%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 58 (0.55%) (Ranked 160)
 | 2023-09-26 | 10,408 | 58 |
 | 2023-09-27 | 10,439 | 58 |
 | 2023-09-28 | 10,467 | 58 |
-| 2023-09-29 | 10,476 | 58 |
+| 2023-09-29 | 10,477 | 58 |
 ## Awards
 Max (Great Boss Battles): 86  (Ranked 361)  
 Sum: 86 (Ranked 430)  
