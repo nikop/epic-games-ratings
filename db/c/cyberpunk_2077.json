@@ -12585,10 +12585,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 236829,
       "NumberOfAwardsMax": 85114
+    },
+    {
+      "Time": "2023-09-29T08:58:05.4735983+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 237132,
+      "NumberOfAwardsMax": 85114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 236829,
+  "NumberOfAwards": 237132,
   "NumberOfAwardsMax": 85114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12656,7 +12662,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 10785
+      "Count": 11088
     },
     {
       "Text": "This game has a Creative Community",
@@ -12665,10 +12671,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884673,
+  "EOS_Progressed": 884716,
   "EOS_Completed": 2469,
-  "EOS_NewPlayers": 6362,
-  "EOS_NewCompleters": 271,
+  "EOS_NewPlayers": 6376,
+  "EOS_NewCompleters": 268,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30850,6 +30856,11 @@
       "Time": "2023-09-29T08:06:15.7472603+00:00",
       "NumProgressed": 884673,
       "NumCompleted": 2469
+    },
+    {
+      "Time": "2023-09-29T09:06:15.3772035+00:00",
+      "NumProgressed": 884716,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 57,
@@ -30859,9 +30870,9 @@
       "ID": "Bladerunner",
       "SetID": "47clieb",
       "Name": "City Lights",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3539
+      "UsersEstimate": 4424
     },
     {
       "ID": "BornToBeWild",
@@ -30869,7 +30880,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "BushidoAndChill",
@@ -30899,9 +30910,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 1769
     },
     {
       "ID": "Fortuneteller",
@@ -30933,7 +30944,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "Gunslinger",
@@ -30941,7 +30952,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17693
+      "UsersEstimate": 17694
     },
     {
       "ID": "HandyMan",
@@ -30981,7 +30992,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "MaxPain",
@@ -31045,15 +31056,15 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17693
+      "UsersEstimate": 17694
     },
     {
       "ID": "Temperance",
       "SetID": "47clieb",
       "Name": "Temperance",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7962
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31061,7 +31072,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17693
+      "UsersEstimate": 17694
     },
     {
       "ID": "TheDevil",
@@ -31141,7 +31152,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "TradeUnion",
@@ -31149,7 +31160,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17693
+      "UsersEstimate": 17694
     },
     {
       "ID": "TrueSoldier",
@@ -31181,7 +31192,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "VForVendetta",
@@ -31205,7 +31216,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31316,21 +31327,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884673,
+      "Progressed": 884716,
       "Completed": 2469
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13296,
+      "Progressed": 13339,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-29T02:57:54.9280243+00:00",
-  "LastChanged_Achievements": "2023-09-29T08:06:15.7472597+00:00",
+  "LastChanged": "2023-09-29T08:58:05.4735982+00:00",
+  "LastChanged_Achievements": "2023-09-29T09:06:15.3772031+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:58:06.2639512+00:00",
-  "LastUpdate_Achievements": "2023-09-29T08:06:15.7474232+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:58:05.4735987+00:00",
+  "LastUpdate_Achievements": "2023-09-29T09:06:15.3773297+00:00"
 }

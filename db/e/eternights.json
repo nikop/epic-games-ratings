@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -778,9 +778,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -890,9 +890,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -953,8 +953,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-29T08:03:41.1178164+00:00",
+  "LastChanged_Achievements": "2023-09-29T09:03:40.7680307+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4169386+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:58:53.6382381+00:00",
-  "LastUpdate_Achievements": "2023-09-29T08:03:41.1178398+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:58:52.4882346+00:00",
+  "LastUpdate_Achievements": "2023-09-29T09:03:40.7680484+00:00"
 }

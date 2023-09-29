@@ -297,9 +297,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -385,9 +385,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -417,9 +417,9 @@
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
       "SetID": "caeik3h",
       "Name": "You Didn\u0027t See Nothing",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
@@ -671,8 +671,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-09-29T08:05:32.1736172+00:00",
+  "LastChanged_Achievements": "2023-09-29T09:05:31.7284958+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:59:27.395901+00:00",
-  "LastUpdate_Achievements": "2023-09-29T08:05:32.1737007+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:59:27.1843395+00:00",
+  "LastUpdate_Achievements": "2023-09-29T09:05:31.7285688+00:00"
 }

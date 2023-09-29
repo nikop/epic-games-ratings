@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 100.00% | ~17 |
-| Meissa's Savior | 100.00% | ~17 |
-| Purification Pioneer | 100.00% | ~17 |
-| Dicesmithing Time! | 88.00% | ~15 |
-| Endless Tricks | 71.00% | ~12 |
-| Wild's Keeper | 71.00% | ~12 |
-| Sanctuary Guardian | 65.00% | ~11 |
-| Mind Illuminator | 53.00% | ~9 |
-| Stellar Dismantler | 41.00% | ~7 |
-| Sadistic Plan | 29.00% | ~5 |
-| Sentinelphobic | 29.00% | ~5 |
-| Stellar Haste | 29.00% | ~5 |
-| The Corruption Goddess | 29.00% | ~5 |
-| Unbeatable | 29.00% | ~5 |
-| Skeptical | 24.00% | ~4 |
-| Anomaly Destroyer | 18.00% | ~3 |
-| Dice Specialist | 18.00% | ~3 |
-| Astral Adventurer | 12.00% | ~2 |
-| Heart Gate | 12.00% | ~2 |
-| Loyal Partner | 12.00% | ~2 |
-| Pocket Astrarium | 12.00% | ~2 |
-| Prestidigitation | 12.00% | ~2 |
-| Shard Spender | 12.00% | ~2 |
-| Star Killer | 12.00% | ~2 |
-| Unepic Hero | 12.00% | ~2 |
+| Mechanical Buddy | 94.00% | ~17 |
+| Meissa's Savior | 94.00% | ~17 |
+| Purification Pioneer | 94.00% | ~17 |
+| Dicesmithing Time! | 83.00% | ~15 |
+| Endless Tricks | 67.00% | ~12 |
+| Sanctuary Guardian | 67.00% | ~12 |
+| Wild's Keeper | 67.00% | ~12 |
+| Mind Illuminator | 50.00% | ~9 |
+| Stellar Dismantler | 39.00% | ~7 |
+| Sadistic Plan | 28.00% | ~5 |
+| Sentinelphobic | 28.00% | ~5 |
+| Stellar Haste | 28.00% | ~5 |
+| The Corruption Goddess | 28.00% | ~5 |
+| Unbeatable | 28.00% | ~5 |
+| Skeptical | 22.00% | ~4 |
+| Anomaly Destroyer | 17.00% | ~3 |
+| Dice Specialist | 17.00% | ~3 |
+| Astral Adventurer | 11.00% | ~2 |
+| Heart Gate | 11.00% | ~2 |
+| Loyal Partner | 11.00% | ~2 |
+| Pocket Astrarium | 11.00% | ~2 |
+| Prestidigitation | 11.00% | ~2 |
+| Shard Spender | 11.00% | ~2 |
+| Star Killer | 11.00% | ~2 |
+| Unepic Hero | 11.00% | ~2 |
 | Arch-Oracle | 6.00% | ~1 |
 | Astral Seeker | 6.00% | ~1 |
 | Can't touch this | 6.00% | ~1 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 481)  
+Progressed: 18 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 298)
 | 2023-09-24 | 9 | 0 |
 | 2023-09-27 | 10 | 0 |
 | 2023-09-28 | 14 | 0 |
-| 2023-09-29 | 17 | 0 |
+| 2023-09-29 | 18 | 0 |

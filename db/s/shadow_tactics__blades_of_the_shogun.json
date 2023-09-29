@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 62,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 495,
   "RatingHistory": [
     {
@@ -1595,6 +1595,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 4775,
       "NumberOfAwardsMax": 566
+    },
+    {
+      "Time": "2023-09-29T08:58:03.5964033+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4775,
+      "NumberOfAwardsMax": 566
     }
   ],
   "ReviewsDisabled": false,
@@ -1669,9 +1675,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 204879,
+  "EOS_Progressed": 204887,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1308,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -19954,6 +19960,11 @@
       "Time": "2023-09-29T08:03:35.303589+00:00",
       "NumProgressed": 204879,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-09-29T09:03:34.8465872+00:00",
+      "NumProgressed": 204887,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 44,
@@ -19965,7 +19976,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20488
+      "UsersEstimate": 20489
     },
     {
       "ID": "AtheistOx",
@@ -20005,7 +20016,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16390
+      "UsersEstimate": 16391
     },
     {
       "ID": "FiveShadows",
@@ -20037,7 +20048,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22537
+      "UsersEstimate": 22538
     },
     {
       "ID": "HappyLittleAccidents",
@@ -20133,7 +20144,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "Okkoto",
@@ -20181,7 +20192,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16390
+      "UsersEstimate": 16391
     },
     {
       "ID": "Rollin",
@@ -20189,7 +20200,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16390
+      "UsersEstimate": 16391
     },
     {
       "ID": "StillRollin",
@@ -20205,7 +20216,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "StonedOx",
@@ -20221,7 +20232,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16390
+      "UsersEstimate": 16391
     },
     {
       "ID": "TheCave",
@@ -20245,7 +20256,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "Thorough",
@@ -20253,7 +20264,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20488
+      "UsersEstimate": 20489
     },
     {
       "ID": "TimeParadox",
@@ -20316,15 +20327,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 204879,
+      "Progressed": 204887,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-09-28T10:57:38.4340019+00:00",
-  "LastChanged_Achievements": "2023-09-29T08:03:35.3035883+00:00",
+  "LastChanged": "2023-09-29T08:58:03.5964031+00:00",
+  "LastChanged_Achievements": "2023-09-29T09:03:34.8465868+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.2179331+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:58:04.3927794+00:00",
-  "LastUpdate_Achievements": "2023-09-29T08:03:35.3037332+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:58:03.5964036+00:00",
+  "LastUpdate_Achievements": "2023-09-29T09:03:34.8467002+00:00"
 }

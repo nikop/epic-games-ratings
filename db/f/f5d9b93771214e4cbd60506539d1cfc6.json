@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145538,
+  "EOS_Progressed": 145539,
   "EOS_Completed": 282,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12607,6 +12607,11 @@
       "Time": "2023-09-29T08:09:42.6854059+00:00",
       "NumProgressed": 145538,
       "NumCompleted": 282
+    },
+    {
+      "Time": "2023-09-29T09:09:21.6728342+00:00",
+      "NumProgressed": 145539,
+      "NumCompleted": 282
     }
   ],
   "TotalAchievements": 31,
@@ -12650,7 +12655,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24741
+      "UsersEstimate": 24742
     },
     {
       "ID": "EAwards_13",
@@ -12690,7 +12695,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32018
+      "UsersEstimate": 32019
     },
     {
       "ID": "EAwards_18",
@@ -12698,7 +12703,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32018
+      "UsersEstimate": 32019
     },
     {
       "ID": "EAwards_19",
@@ -12810,7 +12815,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13098
+      "UsersEstimate": 13099
     },
     {
       "ID": "EAwards_4",
@@ -12834,7 +12839,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36384
+      "UsersEstimate": 36385
     },
     {
       "ID": "EAwards_7",
@@ -12865,7 +12870,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 145538,
+      "Progressed": 145539,
       "Completed": 282
     }
   ],
@@ -12873,8 +12878,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-28T14:01:47.960468+00:00",
-  "LastChanged_Achievements": "2023-09-29T08:09:42.6854053+00:00",
+  "LastChanged_Achievements": "2023-09-29T09:09:21.6728339+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.0774295+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:57:18.5396506+00:00",
-  "LastUpdate_Achievements": "2023-09-29T08:09:42.685503+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:57:16.2535469+00:00",
+  "LastUpdate_Achievements": "2023-09-29T09:09:21.6729227+00:00"
 }

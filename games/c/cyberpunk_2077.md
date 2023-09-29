@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gunslinger | 2.00% | ~17,693 |
-| Ten out of Ten | 2.00% | ~17,693 |
-| Rough Landing | 2.00% | ~17,693 |
-| The Jungle | 2.00% | ~17,693 |
+| Gunslinger | 2.00% | ~17,694 |
+| Ten out of Ten | 2.00% | ~17,694 |
+| Rough Landing | 2.00% | ~17,694 |
+| The Jungle | 2.00% | ~17,694 |
 | Full Body Conversion | 1.00% | ~8,847 |
 | Right Back At Ya | 1.00% | ~8,847 |
 | Master Crafter | 1.00% | ~8,847 |
@@ -21,25 +21,26 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 1.00% | ~8,847 |
 | Two Heads, One Bullet | 1.00% | ~8,847 |
 | V for Vendetta | 1.00% | ~8,847 |
+| Temperance | 0.90% | ~7,962 |
 | The Wheel of Fortune | 0.90% | ~7,962 |
 | True Warrior | 0.90% | ~7,962 |
-| To Bad Decisions! | 0.80% | ~7,077 |
-| Temperance | 0.80% | ~7,077 |
-| Legend of The Afterlife | 0.80% | ~7,077 |
+| To Bad Decisions! | 0.80% | ~7,078 |
+| Legend of The Afterlife | 0.80% | ~7,078 |
 | The Fool | 0.70% | ~6,193 |
 | The Lovers | 0.70% | ~6,193 |
 | The Quick and the Dead | 0.60% | ~5,308 |
 | The Devil | 0.60% | ~5,308 |
 | The World | 0.60% | ~5,308 |
 | It's Elementary | 0.60% | ~5,308 |
-| Gun Fu | 0.50% | ~4,423 |
-| Christmas Tree Attack | 0.50% | ~4,423 |
-| Greetings from Pacifica! | 0.50% | ~4,423 |
-| Judy vs Night City | 0.50% | ~4,423 |
-| City Lights | 0.40% | ~3,539 |
+| City Lights | 0.50% | ~4,424 |
+| Gun Fu | 0.50% | ~4,424 |
+| Christmas Tree Attack | 0.50% | ~4,424 |
+| Greetings from Pacifica! | 0.50% | ~4,424 |
+| Judy vs Night City | 0.50% | ~4,424 |
 | Must Be Rats | 0.30% | ~2,654 |
 | Life of the Road | 0.30% | ~2,654 |
 | Bushido and Chill | 0.20% | ~1,769 |
+| To Protect and Serve | 0.20% | ~1,769 |
 | The Wandering Fool | 0.20% | ~1,769 |
 | Autojock | 0.20% | ~1,769 |
 | Frequent Flyer | 0.20% | ~1,769 |
@@ -47,7 +48,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.20% | ~1,769 |
 | The Sun | 0.20% | ~1,769 |
 | Spin Doctor | 0.20% | ~27 |
-| To Protect and Serve | 0.10% | ~885 |
 | Little Tokyo | 0.10% | ~885 |
 | The Wasteland | 0.10% | ~885 |
 | Daemon In The Shell | 0.10% | ~885 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 884,673 (Ranked 15)  
+Progressed: 884,716 (Ranked 15)  
 Completed: 2,469 (0.28%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 2,469 (0.28%) (Ranked 201)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 884,673 | 2,469 |
+| 2023-09-29 | 884,716 | 2,469 |
 ## Awards
 Max (Character Customization): 85,114  (Ranked 9)  
-Sum: 236,829 (Ranked 13)  
+Sum: 237,132 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -237,10 +237,10 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 57,038 |
 | This game is Great for Beginners | 11,460 |
 | This game has Diverse Characters | 11,199 |
+| This game is Extremely Fun | 11,088 |
 | This game has Amazing Storytelling | 11,064 |
 | This game is Highly Recommended | 11,021 |
 | This game is Relaxing | 10,821 |
-| This game is Extremely Fun | 10,785 |
 | This game has Amazing Characters | 10,747 |
 | This game has Quickly Understood Controls | 10,636 |
 | This game has a Creative Community | 6,944 |
@@ -500,4 +500,4 @@ Diff (max vs sum): -4
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
-| 2023-09-29 | 4.63 | - | 85,114 | 236,829 |
+| 2023-09-29 | 4.63 | - | 85,114 | 237,132 |

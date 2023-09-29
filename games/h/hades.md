@@ -6,45 +6,45 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~626,875 |
-| Escaped Asphodel | 80.00% | ~563,483 |
-| Arms Collector | 71.00% | ~500,091 |
-| Friends in High Places | 68.00% | ~478,961 |
-| Escaped Elysium | 66.00% | ~464,874 |
-| Chthonic Colleagues | 63.00% | ~443,743 |
-| Is There No Escape? | 52.00% | ~366,264 |
-| Death Dealer | 45.00% | ~316,959 |
-| Skelly Slayer | 42.00% | ~295,829 |
+| Escaped Tartarus | 89.00% | ~626,877 |
+| Escaped Asphodel | 80.00% | ~563,485 |
+| Arms Collector | 71.00% | ~500,093 |
+| Friends in High Places | 68.00% | ~478,962 |
+| Escaped Elysium | 66.00% | ~464,875 |
+| Chthonic Colleagues | 63.00% | ~443,744 |
+| Is There No Escape? | 52.00% | ~366,265 |
+| Death Dealer | 45.00% | ~316,960 |
+| Skelly Slayer | 42.00% | ~295,830 |
 | Well Stocked | 40.00% | ~281,742 |
 | Back to Work | 38.00% | ~267,655 |
-| Day-or-Night Trader | 37.00% | ~260,611 |
-| Blessed by the Gods | 37.00% | ~260,611 |
-| Urge to Sing | 36.00% | ~253,567 |
-| Blood Bound | 35.00% | ~246,524 |
-| Three-Headed Boy | 32.00% | ~225,393 |
-| River Denizens | 28.00% | ~197,219 |
-| Grown Close | 28.00% | ~197,219 |
+| Day-or-Night Trader | 37.00% | ~260,612 |
+| Blessed by the Gods | 37.00% | ~260,612 |
+| Urge to Sing | 36.00% | ~253,568 |
+| Blood Bound | 35.00% | ~246,525 |
+| Three-Headed Boy | 32.00% | ~225,394 |
+| River Denizens | 28.00% | ~197,220 |
+| Grown Close | 28.00% | ~197,220 |
 | Home Makeover | 27.00% | ~190,176 |
-| The Family Secret | 26.00% | ~183,132 |
-| Had to Happen | 25.00% | ~176,088 |
-| To Charon's Credit | 23.00% | ~162,001 |
-| Tools of the Architect | 23.00% | ~162,001 |
-| Master of Arms | 23.00% | ~162,001 |
+| The Family Secret | 26.00% | ~183,133 |
+| Had to Happen | 25.00% | ~176,089 |
+| To Charon's Credit | 23.00% | ~162,002 |
+| Tools of the Architect | 23.00% | ~162,002 |
+| Master of Arms | 23.00% | ~162,002 |
 | Rare Collectible | 22.00% | ~154,958 |
-| Weapon of Fate | 21.00% | ~147,914 |
-| Something From Everyone | 19.00% | ~133,827 |
+| Weapon of Fate | 21.00% | ~147,915 |
+| Something From Everyone | 19.00% | ~133,828 |
 | Hold the Onions | 18.00% | ~126,784 |
-| Well Versed | 17.00% | ~119,740 |
+| Well Versed | 17.00% | ~119,741 |
 | War-God's Bloodlust | 15.00% | ~105,653 |
 | Musician and Muse | 14.00% | ~98,610 |
 | The Useless Trinket | 13.00% | ~91,566 |
 | Champion of Elysium | 13.00% | ~91,566 |
-| Slashed Benefits | 12.00% | ~84,522 |
+| Slashed Benefits | 12.00% | ~84,523 |
 | Haste of Hermes | 11.00% | ~77,479 |
-| Bad Call | 10.00% | ~70,435 |
-| Nyx's Mirror | 10.00% | ~70,435 |
-| Night and Darkness | 10.00% | ~70,435 |
-| End to Torment | 10.00% | ~70,435 |
+| Bad Call | 10.00% | ~70,436 |
+| Nyx's Mirror | 10.00% | ~70,436 |
+| Night and Darkness | 10.00% | ~70,436 |
+| End to Torment | 10.00% | ~70,436 |
 | Dark Reflections | 9.00% | ~63,392 |
 | Thanks, But No Thanks | 9.00% | ~63,392 |
 | Infernal Arms | 9.00% | ~63,392 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,174 |
 | Friends Forever | 4.00% | ~28,174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,354 (Ranked 21)  
+Progressed: 704,356 (Ranked 21)  
 Completed: 6,382 (0.91%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,15 +218,15 @@ Completed: 6,382 (0.91%) (Ranked 138)
 | 2023-09-26 | 704,231 | 6,380 |
 | 2023-09-27 | 704,273 | 6,380 |
 | 2023-09-28 | 704,331 | 6,382 |
-| 2023-09-29 | 704,354 | 6,382 |
+| 2023-09-29 | 704,356 | 6,382 |
 ## Awards
 Max (Character Customization): 3,283  (Ranked 94)  
-Sum: 7,951 (Ranked 102)  
+Sum: 7,954 (Ranked 102)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,283 |
-| This game has Great Boss Battles | 2,306 |
+| This game has Great Boss Battles | 2,309 |
 | This game is Highly Recommended | 265 |
 | This game is Great for Beginners | 256 |
 | This game has Amazing Storytelling | 246 |
@@ -474,3 +474,4 @@ Diff (max vs sum): -8
 | 2023-09-26 | 4.92 | - | 3,279 | 7,939 |
 | 2023-09-27 | 4.92 | - | 3,281 | 7,941 |
 | 2023-09-28 | 4.92 | - | 3,283 | 7,951 |
+| 2023-09-29 | 4.92 | - | 3,283 | 7,954 |

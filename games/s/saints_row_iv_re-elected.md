@@ -5,30 +5,30 @@ Rating: 4.40 (Ranked 714)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~176,160 |
-| Destroyer-In-Chief | 57.00% | ~156,892 |
-| There Is No Pancakes | 54.00% | ~148,635 |
-| First of Many | 42.00% | ~115,605 |
-| Woah. | 37.00% | ~101,842 |
-| Don't Look Down | 29.00% | ~79,822 |
-| Don't Panic | 28.00% | ~77,070 |
-| Ooo A Piece of Candy! | 23.00% | ~63,308 |
-| Ghost in the Machine | 18.00% | ~49,545 |
-| All Too Easy | 15.00% | ~41,288 |
-| Didn't Need to See Him Naked | 14.00% | ~38,535 |
-| Indomitable | 10.00% | ~27,525 |
-| Blast from the Past | 9.00% | ~24,772 |
-| Bow to the Boss! | 9.00% | ~24,772 |
-| Friend of the Raptors | 9.00% | ~24,772 |
-| About Time! | 8.00% | ~22,020 |
+| Zero Saints Thirty | 64.00% | ~176,166 |
+| Destroyer-In-Chief | 57.00% | ~156,898 |
+| There Is No Pancakes | 54.00% | ~148,640 |
+| First of Many | 42.00% | ~115,609 |
+| Woah. | 37.00% | ~101,846 |
+| Don't Look Down | 29.00% | ~79,825 |
+| Don't Panic | 28.00% | ~77,073 |
+| Ooo A Piece of Candy! | 23.00% | ~63,310 |
+| Ghost in the Machine | 18.00% | ~49,547 |
+| All Too Easy | 15.00% | ~41,289 |
+| Didn't Need to See Him Naked | 14.00% | ~38,536 |
+| Indomitable | 10.00% | ~27,526 |
+| Blast from the Past | 9.00% | ~24,773 |
+| Bow to the Boss! | 9.00% | ~24,773 |
+| Friend of the Raptors | 9.00% | ~24,773 |
+| About Time! | 8.00% | ~22,021 |
 | Actor-Turned-Politician | 7.00% | ~19,268 |
 | Betrayed | 7.00% | ~19,268 |
 | Maximum Stopping Power | 7.00% | ~19,268 |
 | Poodle Skirt | 7.00% | ~19,268 |
 | You Chose... Poorly | 7.00% | ~19,268 |
-| Double Team | 6.00% | ~16,515 |
-| Keymaster | 6.00% | ~16,515 |
-| Imperator | 5.00% | ~13,762 |
+| Double Team | 6.00% | ~16,516 |
+| Keymaster | 6.00% | ~16,516 |
+| Imperator | 5.00% | ~13,763 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~11,010 |
 | Half Way Home | 4.00% | ~11,010 |
 | How It Should Be | 4.00% | ~11,010 |
@@ -49,13 +49,13 @@ Rating: 4.40 (Ranked 714)
 | The Face of the Saints | 2.00% | ~5,505 |
 | The Twin Saints | 2.00% | ~5,505 |
 | Where's My Cape? | 2.00% | ~5,505 |
-| A Real Cluster.... | 1.00% | ~2,752 |
-| A Very Genki Holiday | 1.00% | ~2,752 |
-| Here! Catch! | 1.00% | ~2,752 |
-| Minty Fresh! | 1.00% | ~2,752 |
-| Switch Hitter | 1.00% | ~2,752 |
-| The Whole Story | 1.00% | ~2,752 |
-| Zoo Keeper | 1.00% | ~2,752 |
+| A Real Cluster.... | 1.00% | ~2,753 |
+| A Very Genki Holiday | 1.00% | ~2,753 |
+| Here! Catch! | 1.00% | ~2,753 |
+| Minty Fresh! | 1.00% | ~2,753 |
+| Switch Hitter | 1.00% | ~2,753 |
+| The Whole Story | 1.00% | ~2,753 |
+| Zoo Keeper | 1.00% | ~2,753 |
 | Make a List, Check it Twice | 0.90% | ~2,477 |
 | Back in the Day | 0.70% | ~1,927 |
 | Dear Santa | 0.70% | ~1,927 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 714)
 | Super Power Team Up! | 0.10% | ~275 |
 | Ultimate Hot Potato | 0.10% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275,250 (Ranked 47)  
+Progressed: 275,259 (Ranked 47)  
 Completed: 15 (0.01%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 15 (0.01%) (Ranked 281)
 | 2023-09-26 | 274,076 | 15 |
 | 2023-09-27 | 274,578 | 15 |
 | 2023-09-28 | 275,066 | 15 |
-| 2023-09-29 | 275,250 | 15 |
+| 2023-09-29 | 275,259 | 15 |
 ## Awards
 Max (Great Boss Battles): 460  (Ranked 208)  
 Sum: 460 (Ranked 315)  

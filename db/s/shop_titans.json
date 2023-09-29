@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6286,7 +6286,7 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136832,
+  "EOS_Progressed": 136835,
   "EOS_Completed": 158,
   "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 5,
@@ -22876,6 +22876,11 @@
       "Time": "2023-09-29T08:06:38.2502159+00:00",
       "NumProgressed": 136832,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-09-29T09:06:38.0852699+00:00",
+      "NumProgressed": 136835,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -22917,9 +22922,9 @@
       "ID": "advlevel05",
       "SetID": "anfd17p",
       "Name": "Top of the World",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 684
     },
     {
       "ID": "argon_a",
@@ -23103,7 +23108,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "collection05",
@@ -23127,7 +23132,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "commonres03",
@@ -23191,7 +23196,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "damage02",
@@ -23279,7 +23284,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "fullmoon",
@@ -23375,7 +23380,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "gold04",
@@ -23447,7 +23452,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "jackslot03",
@@ -23599,7 +23604,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "quest02",
@@ -23615,7 +23620,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "quest04",
@@ -23719,7 +23724,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "uncommonres01",
@@ -23782,15 +23787,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136832,
+      "Progressed": 136835,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-28T20:57:55.8489062+00:00",
-  "LastChanged_Achievements": "2023-09-29T08:06:38.2502146+00:00",
+  "LastChanged_Achievements": "2023-09-29T09:06:38.0852694+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:58:11.4826839+00:00",
-  "LastUpdate_Achievements": "2023-09-29T08:06:38.2504948+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:58:10.7394422+00:00",
+  "LastUpdate_Achievements": "2023-09-29T09:06:38.0854712+00:00"
 }

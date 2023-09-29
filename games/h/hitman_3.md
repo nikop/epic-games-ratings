@@ -6,26 +6,26 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~616,162 |
-| Death From Above | 45.00% | ~602,767 |
-| Master of the Household | 38.00% | ~509,003 |
-| Death of the Party | 36.00% | ~482,214 |
-| NEXUS-47 | 33.00% | ~442,029 |
-| The Last Tango | 31.00% | ~415,239 |
-| Nightmare Fuel | 30.00% | ~401,845 |
-| The Result of Previous Training | 28.00% | ~375,055 |
-| Tools of the Trade | 28.00% | ~375,055 |
-| Cleared for Field Duty | 27.00% | ~361,660 |
-| Seizing the Opportunity | 26.00% | ~348,265 |
-| Bullet Train | 21.00% | ~281,291 |
-| Stylish Assassin | 20.00% | ~267,896 |
-| Silent Assassin | 14.00% | ~187,527 |
-| Rise Up | 13.00% | ~174,133 |
-| Evil Wine Club | 11.00% | ~147,343 |
-| Console Cowboy | 10.00% | ~133,948 |
-| Last Stop | 10.00% | ~133,948 |
-| A New Profile | 9.00% | ~120,553 |
-| Full House | 9.00% | ~120,553 |
+| Unseen Assassin | 46.00% | ~616,165 |
+| Death From Above | 45.00% | ~602,770 |
+| Master of the Household | 38.00% | ~509,006 |
+| Death of the Party | 36.00% | ~482,216 |
+| NEXUS-47 | 33.00% | ~442,032 |
+| The Last Tango | 31.00% | ~415,242 |
+| Nightmare Fuel | 30.00% | ~401,847 |
+| The Result of Previous Training | 28.00% | ~375,057 |
+| Tools of the Trade | 28.00% | ~375,057 |
+| Cleared for Field Duty | 27.00% | ~361,662 |
+| Seizing the Opportunity | 26.00% | ~348,267 |
+| Bullet Train | 21.00% | ~281,293 |
+| Stylish Assassin | 20.00% | ~267,898 |
+| Silent Assassin | 14.00% | ~187,529 |
+| Rise Up | 13.00% | ~174,134 |
+| Evil Wine Club | 11.00% | ~147,344 |
+| Console Cowboy | 10.00% | ~133,949 |
+| Last Stop | 10.00% | ~133,949 |
+| A New Profile | 9.00% | ~120,554 |
+| Full House | 9.00% | ~120,554 |
 | Dune Raider | 8.00% | ~107,159 |
 | No Stone Unturned | 8.00% | ~107,159 |
 | Train Surfing | 8.00% | ~107,159 |
@@ -38,23 +38,23 @@ Number of Ratings: 21,082  (23.09.2022)
 | Stair Master | 5.00% | ~66,974 |
 | Followed the Trails | 5.00% | ~66,974 |
 | Last Call | 5.00% | ~66,974 |
-| Upstairs, Downstairs | 4.00% | ~53,579 |
-| The Great Outdoors | 4.00% | ~53,579 |
-| Partied Out | 4.00% | ~53,579 |
-| Surveillance Master | 4.00% | ~53,579 |
-| Training Escalated | 3.00% | ~40,184 |
-| Keep Your Eyes Peeled | 3.00% | ~40,184 |
-| Warehouse Veteran | 3.00% | ~40,184 |
-| Future Shock | 3.00% | ~40,184 |
-| Hack the Planet | 3.00% | ~40,184 |
-| Master the Terroir | 3.00% | ~40,184 |
-| Vineyard Virtuoso | 3.00% | ~40,184 |
+| Upstairs, Downstairs | 4.00% | ~53,580 |
+| The Great Outdoors | 4.00% | ~53,580 |
+| Partied Out | 4.00% | ~53,580 |
+| Surveillance Master | 4.00% | ~53,580 |
+| Training Escalated | 3.00% | ~40,185 |
+| Keep Your Eyes Peeled | 3.00% | ~40,185 |
+| Warehouse Veteran | 3.00% | ~40,185 |
+| Future Shock | 3.00% | ~40,185 |
+| Hack the Planet | 3.00% | ~40,185 |
+| Master the Terroir | 3.00% | ~40,185 |
+| Vineyard Virtuoso | 3.00% | ~40,185 |
 | Bird Art | 2.00% | ~26,790 |
 | Top of the Class | 1.00% | ~13,395 |
 | Ripe for the Picking | 1.00% | ~13,395 |
 | The Creative Assassin | 0.70% | ~9,376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,339,482 (Ranked 9)  
+Progressed: 1,339,490 (Ranked 9)  
 Completed: 2,151 (0.16%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 2,151 (0.16%) (Ranked 220)
 | 2023-09-26 | 1,338,717 | 2,151 |
 | 2023-09-27 | 1,339,065 | 2,151 |
 | 2023-09-28 | 1,339,400 | 2,151 |
-| 2023-09-29 | 1,339,482 | 2,151 |
+| 2023-09-29 | 1,339,490 | 2,151 |
 ## Awards
 Max (Diverse Characters): 10,173  (Ranked 38)  
-Sum: 71,528 (Ranked 21)  
+Sum: 71,529 (Ranked 21)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 17
 | This game is Extremely Fun | 9,122 |
 | This game has Amazing Storytelling | 8,992 |
 | This game has Amazing Characters | 8,816 |
-| This game has Quickly Understood Controls | 8,480 |
+| This game has Quickly Understood Controls | 8,481 |
 | This game is Great for Beginners | 8,394 |
 | This game is Relaxing | 8,375 |
 | This game has a Creative Community | 8,167 |
@@ -510,3 +510,4 @@ Diff (max vs sum): 17
 | 2023-09-26 | 4.78 | - | 10,161 | 71,462 |
 | 2023-09-27 | 4.78 | - | 10,166 | 71,488 |
 | 2023-09-28 | 4.78 | - | 10,173 | 71,528 |
+| 2023-09-29 | 4.78 | - | 10,173 | 71,529 |

@@ -130,7 +130,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Near Death Experience | 0.30% | ~711 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 236,850 (Ranked 53)  
-Completed: 274 (0.12%) (Ranked 229)  
+Completed: 275 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 274 (0.12%) (Ranked 229)
 | 2023-09-26 | 236,717 | 274 |
 | 2023-09-27 | 236,779 | 274 |
 | 2023-09-28 | 236,829 | 274 |
-| 2023-09-29 | 236,850 | 274 |
+| 2023-09-29 | 236,850 | 275 |
 ## Awards
 Max (Quickly Understood Controls): 1,495  (Ranked 125)  
 Sum: 11,578 (Ranked 80)  

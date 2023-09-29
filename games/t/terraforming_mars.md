@@ -6,11 +6,11 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~28,594 |
+| It's a steal! | 37.00% | ~28,595 |
 | Final touch | 36.00% | ~27,822 |
-| Prop-M Rover | 32.00% | ~24,730 |
-| Changing the Planet | 28.00% | ~21,639 |
-| Sojourner | 26.00% | ~20,093 |
+| Prop-M Rover | 32.00% | ~24,731 |
+| Changing the Planet | 28.00% | ~21,640 |
+| Sojourner | 26.00% | ~20,094 |
 | Beagle 2 | 24.00% | ~18,548 |
 | New Home | 23.00% | ~17,775 |
 | Winner Winner Terraformer | 22.00% | ~17,002 |
@@ -20,8 +20,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | Master | 19.00% | ~14,684 |
 | No Longer Red | 18.00% | ~13,911 |
 | Self-sufficient | 18.00% | ~13,911 |
-| Money money | 15.00% | ~11,592 |
-| Biggest Reward | 14.00% | ~10,819 |
+| Money money | 15.00% | ~11,593 |
+| Biggest Reward | 14.00% | ~10,820 |
 | Acquired knowledge | 13.00% | ~10,047 |
 | First Journey | 12.00% | ~9,274 |
 | Hellenic Elysium | 12.00% | ~9,274 |
@@ -30,15 +30,15 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~8,501 |
 | Spirit | 10.00% | ~7,728 |
 | Ultimate success | 10.00% | ~7,728 |
-| Variety Expert | 9.00% | ~6,955 |
+| Variety Expert | 9.00% | ~6,956 |
 | Frequent tester | 8.00% | ~6,183 |
 | Determined | 8.00% | ~6,183 |
 | Terraformer | 4.00% | ~3,091 |
-| Team Effort | 3.00% | ~2,318 |
-| Opportunity | 3.00% | ~2,318 |
+| Team Effort | 3.00% | ~2,319 |
+| Opportunity | 3.00% | ~2,319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,282 (Ranked 82)  
-Completed: 136 (0.18%) (Ranked 217)  
+Progressed: 77,284 (Ranked 82)  
+Completed: 137 (0.18%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 136 (0.18%) (Ranked 217)
 | 2023-09-26 | 77,070 | 136 |
 | 2023-09-27 | 77,162 | 136 |
 | 2023-09-28 | 77,242 | 136 |
-| 2023-09-29 | 77,282 | 136 |
+| 2023-09-29 | 77,284 | 137 |
 ## Awards
 Max (Relaxing): 516  (Ranked 200)  
 Sum: 3,174 (Ranked 164)  

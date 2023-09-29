@@ -25,10 +25,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,368 |
 | Through Repetition, Perfection | 1.00% | ~1,368 |
 | Own the Means of Production | 1.00% | ~1,368 |
-| Demand for Supplies | 0.90% | ~1,231 |
-| Where it Hurts | 0.90% | ~1,231 |
-| Gild-Gotten Goods | 0.90% | ~1,231 |
-| Did we pack lunch? | 0.90% | ~1,231 |
+| Demand for Supplies | 0.90% | ~1,232 |
+| Where it Hurts | 0.90% | ~1,232 |
+| Gild-Gotten Goods | 0.90% | ~1,232 |
+| Did we pack lunch? | 0.90% | ~1,232 |
 | On the Path to Greatness | 0.80% | ~1,095 |
 | Ascended | 0.80% | ~1,095 |
 | Blank Page Syndrome | 0.80% | ~1,095 |
@@ -54,6 +54,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.60% | ~821 |
 | A Notch Above the Rest | 0.50% | ~684 |
 | Cream of the Crop | 0.50% | ~684 |
+| Top of the World | 0.50% | ~684 |
 | Proud Paladin | 0.50% | ~684 |
 | Above the Norm | 0.50% | ~684 |
 | A Ronin Reborn | 0.50% | ~684 |
@@ -87,7 +88,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.50% | ~684 |
 | Exotic Commodities | 0.50% | ~684 |
 | King's Blade | 0.50% | ~684 |
-| Top of the World | 0.40% | ~547 |
 | Constellated | 0.40% | ~547 |
 | Thirst for Knowledge | 0.40% | ~547 |
 | Booty by the Boatload | 0.40% | ~547 |
@@ -100,11 +100,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 0.40% | ~547 |
 | Master Recycler | 0.40% | ~547 |
 | Economy of Scarce | 0.40% | ~547 |
-| The Free Encyclopedia | 0.30% | ~410 |
-| Thank You Tom Nook | 0.30% | ~410 |
-| Jackpot! | 0.30% | ~410 |
-| Eternal Crusade | 0.30% | ~410 |
-| All Accounted For | 0.30% | ~410 |
+| The Free Encyclopedia | 0.30% | ~411 |
+| Thank You Tom Nook | 0.30% | ~411 |
+| Jackpot! | 0.30% | ~411 |
+| Eternal Crusade | 0.30% | ~411 |
+| All Accounted For | 0.30% | ~411 |
 | Unleashed Potential | 0.20% | ~274 |
 | JACKPOT!!! | 0.20% | ~274 |
 | Anything not Nailed Down | 0.20% | ~274 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,832 (Ranked 69)  
+Progressed: 136,835 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
-| 2023-09-29 | 136,832 | 158 |
+| 2023-09-29 | 136,835 | 158 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,304 (Ranked 49)  

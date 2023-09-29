@@ -1,13 +1,13 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 400)  
+Rating: 4.60 (Ranked 399)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,498 |
-| Having A Field Day | 75.00% | ~4,498 |
+| Get A Room | 75.00% | ~4,499 |
+| Having A Field Day | 75.00% | ~4,499 |
 | Reap What You Sow | 72.00% | ~4,319 |
 | The First Day | 69.00% | ~4,139 |
 | Green Thumb | 66.00% | ~3,959 |
@@ -18,14 +18,14 @@ Number of Ratings: 706  (23.09.2022)
 | The First Week | 54.00% | ~3,239 |
 | Beam Me Up | 51.00% | ~3,059 |
 | Studious Researcher | 51.00% | ~3,059 |
-| Feast or Famine | 44.00% | ~2,639 |
-| Adept Researcher | 44.00% | ~2,639 |
-| Retribution | 41.00% | ~2,459 |
-| ...And Don’t Come Back! | 41.00% | ~2,459 |
-| Fit For A King | 34.00% | ~2,039 |
-| Luminary Researcher | 32.00% | ~1,919 |
-| Heating Up | 30.00% | ~1,799 |
-| Winter Is Coming | 27.00% | ~1,619 |
+| Feast or Famine | 44.00% | ~2,640 |
+| Adept Researcher | 44.00% | ~2,640 |
+| Retribution | 41.00% | ~2,460 |
+| ...And Don’t Come Back! | 41.00% | ~2,460 |
+| Fit For A King | 34.00% | ~2,040 |
+| Luminary Researcher | 32.00% | ~1,920 |
+| Heating Up | 30.00% | ~1,800 |
+| Winter Is Coming | 27.00% | ~1,620 |
 | Winter Is Here | 24.00% | ~1,440 |
 | Disassembled | 21.00% | ~1,260 |
 | A Party Now | 21.00% | ~1,260 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~120 |
 | Wabbit Season | 0.60% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,998 (Ranked 160)  
+Progressed: 5,999 (Ranked 160)  
 Completed: 14 (0.23%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 14 (0.23%) (Ranked 207)
 | 2023-09-26 | 5,978 | 14 |
 | 2023-09-27 | 5,988 | 14 |
 | 2023-09-28 | 5,996 | 14 |
-| 2023-09-29 | 5,998 | 14 |
+| 2023-09-29 | 5,999 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 322)  
 Sum: 985 (Ranked 245)  

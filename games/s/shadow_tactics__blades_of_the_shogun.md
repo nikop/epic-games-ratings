@@ -1,18 +1,18 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 263)  
+Rating: 4.66 (Ranked 282)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,537 |
-| A thief's beginning | 10.00% | ~20,488 |
-| Thorough | 10.00% | ~20,488 |
-| Disguised | 8.00% | ~16,390 |
-| Rescue Takuma | 8.00% | ~16,390 |
-| Rollin' | 8.00% | ~16,390 |
-| Tanuki Time | 8.00% | ~16,390 |
+| Genin | 11.00% | ~22,538 |
+| A thief's beginning | 10.00% | ~20,489 |
+| Thorough | 10.00% | ~20,489 |
+| Disguised | 8.00% | ~16,391 |
+| Rescue Takuma | 8.00% | ~16,391 |
+| Rollin' | 8.00% | ~16,391 |
+| Tanuki Time | 8.00% | ~16,391 |
 | Ice Ice Yuki | 7.00% | ~14,342 |
 | Jonin | 7.00% | ~14,342 |
 | Stoned Ox | 7.00% | ~14,342 |
@@ -28,9 +28,9 @@ Number of Ratings: 495  (23.09.2022)
 | Gear up | 4.00% | ~8,195 |
 | Happy little accidents | 4.00% | ~8,195 |
 | Still Rollin' | 4.00% | ~8,195 |
-| Noboru | 3.00% | ~6,146 |
-| Stoned | 3.00% | ~6,146 |
-| The Old Way | 3.00% | ~6,146 |
+| Noboru | 3.00% | ~6,147 |
+| Stoned | 3.00% | ~6,147 |
+| The Old Way | 3.00% | ~6,147 |
 | Atheist Ox | 2.00% | ~4,098 |
 | It's raining men | 2.00% | ~4,098 |
 | No Gimmicks | 2.00% | ~4,098 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,879 (Ranked 62)  
+Progressed: 204,887 (Ranked 62)  
 Completed: 86 (0.04%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 86 (0.04%) (Ranked 263)
 | 2023-09-26 | 204,537 | 86 |
 | 2023-09-27 | 204,674 | 86 |
 | 2023-09-28 | 204,817 | 86 |
-| 2023-09-29 | 204,879 | 86 |
+| 2023-09-29 | 204,887 | 86 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 193)  
 Sum: 4,775 (Ranked 136)  
@@ -413,3 +413,4 @@ Diff (max vs sum): 57
 | 2023-09-24 | 4.67 | - | 566 | 4,774 |
 | 2023-09-25 | 4.66 | - | 566 | 4,775 |
 | 2023-09-28 | 4.67 | - | 566 | 4,775 |
+| 2023-09-29 | 4.66 | - | 566 | 4,775 |
