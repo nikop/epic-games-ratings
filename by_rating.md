@@ -33,7 +33,7 @@
 | 30 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 22 | 508 |
 | 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 156 | 301 |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 434 |
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 230 |
+| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 231 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,555 | 32 |
 | 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 348 |
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 157 | 300 |
@@ -53,7 +53,7 @@
 | 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 218 | 270 |
 | 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 406 | 219 |
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 525 |
-| 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 427 | 213 |
+| 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 428 | 213 |
 | 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 265 | 253 |
 | 50 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 525 |
 | 57 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 51 | 407 |
@@ -150,7 +150,7 @@
 | 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 525 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 816 | 157 |
 | 148 | [Haven](games/h/haven.md) | 4.74 | 0 | 525 |
-| 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,455 | 29 |
+| 148 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,562 | 29 |
 | 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 704 | 172 |
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 525 |
 | 148 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,151 | 52 |
@@ -403,7 +403,7 @@
 | 401 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 27 | 481 |
 | 401 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,005 | 26 |
 | 401 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 525 |
-| 401 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 339 | 230 |
+| 401 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 343 | 230 |
 | 401 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,683 | 73 |
 | 401 | [Control](games/c/control.md) | 4.60 | 8,548 | 41 |
 | 401 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 525 |
@@ -601,7 +601,7 @@
 | 588 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 457 |
 | 588 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 24 | 496 |
 | 588 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 525 |
-| 588 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 556,618 | 2 |
+| 588 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 557,617 | 2 |
 | 588 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 525 |
 | 588 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,737 | 97 |
 | 588 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 525 |
@@ -806,6 +806,7 @@
 | 801 | [Dark Light](games/d/dark_light.md) | 4.31 | 0 | 525 |
 | 801 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 970 | 150 |
 | 801 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 525 |
+| 807 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 525 |
 | 807 | [Chess Ultra](games/c/chess_ultra.md) | 4.30 | 0 | 525 |
 | 807 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 81 | 367 |
 | 807 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 525 |
@@ -813,14 +814,13 @@
 | 807 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 525 |
 | 807 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 45 | 421 |
 | 807 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 525 |
-| 814 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 525 |
-| 814 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 525 |
-| 814 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 525 |
-| 814 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,754,302 | 1 |
-| 814 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 735 | 166 |
-| 814 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 525 |
-| 814 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 308 |
-| 814 | [Steelrising](games/s/steelrising.md) | 4.29 | 36 | 447 |
+| 815 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 525 |
+| 815 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 525 |
+| 815 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,754,302 | 1 |
+| 815 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 735 | 166 |
+| 815 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 525 |
+| 815 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 308 |
+| 815 | [Steelrising](games/s/steelrising.md) | 4.29 | 36 | 447 |
 | 822 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 525 |
 | 822 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,788 | 85 |
 | 822 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 126 | 317 |
