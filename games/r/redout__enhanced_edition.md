@@ -1,7 +1,7 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 551)  
+Rating: 4.51 (Ranked 550)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 274  (23.09.2022)
 | CALLING HOUSTON | 28.00% | ~65,161 |
 | SNEAKY SNEAKY | 22.00% | ~51,198 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~51,198 |
-| GT9STRADALE | 20.00% | ~46,543 |
+| GT9STRADALE | 20.00% | ~46,544 |
 | CHALLENGER | 11.00% | ~25,599 |
 | ON A ROLL | 9.00% | ~20,945 |
 | CENTAUR | 8.00% | ~18,617 |
@@ -41,8 +41,8 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~465 |
 | ENLIGHTENED | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,717 (Ranked 55)  
-Completed: 47 (0.02%) (Ranked 273)  
+Progressed: 232,718 (Ranked 55)  
+Completed: 47 (0.02%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,7 +203,7 @@ Completed: 47 (0.02%) (Ranked 273)
 | 2023-09-26 | 232,567 | 47 |
 | 2023-09-27 | 232,627 | 47 |
 | 2023-09-28 | 232,687 | 47 |
-| 2023-09-29 | 232,717 | 47 |
+| 2023-09-29 | 232,718 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

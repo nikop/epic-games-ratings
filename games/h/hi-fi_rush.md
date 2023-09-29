@@ -47,7 +47,7 @@ Rating: 4.85 (Ranked 42)
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
 | I hit things with a guitar really well. | 1.00% | ~41 |
-| You ever parry a volcano? | 0.80% | ~33 |
+| You ever parry a volcano? | 0.90% | ~37 |
 | New bad guys? No problem! | 0.80% | ~21 |
 | OK, well THEY came after ME! | 0.60% | ~25 |
 | Easy Listening | 0.50% | ~21 |
@@ -78,7 +78,7 @@ Rating: 4.85 (Ranked 42)
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,111 (Ranked 173)  
-Completed: 8 (0.19%) (Ranked 214)  
+Completed: 8 (0.19%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

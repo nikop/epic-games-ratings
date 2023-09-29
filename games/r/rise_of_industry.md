@@ -1,26 +1,26 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 849)  
+Rating: 4.24 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~354,387 |
-| Well educated | 37.00% | ~273,173 |
-| City Planner | 19.00% | ~140,278 |
-| Deforester | 17.00% | ~125,512 |
-| Big Hauling | 16.00% | ~118,129 |
-| Apprentice Manufacturer | 13.00% | ~95,980 |
-| Exporter | 13.00% | ~95,980 |
-| I would drive 500 tiles... | 12.00% | ~88,597 |
-| Landscaper | 12.00% | ~88,597 |
-| Railwayman | 8.00% | ~59,064 |
-| Penniless | 6.00% | ~44,298 |
-| Massive Gains | 6.00% | ~44,298 |
-| Salesman | 3.00% | ~22,149 |
+| Entrepreneur | 48.00% | ~354,393 |
+| Well educated | 37.00% | ~273,178 |
+| City Planner | 19.00% | ~140,280 |
+| Deforester | 17.00% | ~125,514 |
+| Big Hauling | 16.00% | ~118,131 |
+| Apprentice Manufacturer | 13.00% | ~95,981 |
+| Exporter | 13.00% | ~95,981 |
+| I would drive 500 tiles... | 12.00% | ~88,598 |
+| Landscaper | 12.00% | ~88,598 |
+| Railwayman | 8.00% | ~59,065 |
+| Penniless | 6.00% | ~44,299 |
+| Massive Gains | 6.00% | ~44,299 |
+| Salesman | 3.00% | ~22,150 |
 | Engineer | 2.00% | ~14,766 |
 | High Flyer | 2.00% | ~14,766 |
-| Captain | 0.80% | ~5,906 |
+| Captain | 0.80% | ~5,907 |
 | Billionaire | 0.70% | ~5,168 |
 | Vroom Vroom | 0.40% | ~2,953 |
 | Excavator | 0.30% | ~2,215 |
@@ -33,8 +33,8 @@ Rating: 4.24 (Ranked 849)
 | Master Builder | 0.10% | ~738 |
 | Hard working | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,306 (Ranked 18)  
-Completed: 4 (0.00%) (Ranked 298)  
+Progressed: 738,318 (Ranked 18)  
+Completed: 4 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,7 +195,7 @@ Completed: 4 (0.00%) (Ranked 298)
 | 2023-09-26 | 737,679 | 3 |
 | 2023-09-27 | 737,915 | 4 |
 | 2023-09-28 | 738,144 | 4 |
-| 2023-09-29 | 738,306 | 4 |
+| 2023-09-29 | 738,318 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

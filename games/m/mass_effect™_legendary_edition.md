@@ -18,7 +18,7 @@
 | Charismatic | 54.00% | ~249 |
 | Medal of Honor | 53.00% | ~245 |
 | Meritorious Service Medal | 53.00% | ~245 |
-| Soldier | 51.00% | ~236 |
+| Soldier | 52.00% | ~240 |
 | Medal of Exploration III | 51.00% | ~236 |
 | Asari Ally | 50.00% | ~231 |
 | Principled | 50.00% | ~231 |
@@ -33,10 +33,10 @@
 | Veteran | 39.00% | ~180 |
 | Head Hunter | 39.00% | ~180 |
 | Scholar | 38.00% | ~176 |
-| Power Full | 37.00% | ~171 |
+| Power Full | 38.00% | ~176 |
+| Very Elusive | 37.00% | ~171 |
 | Archivist | 36.00% | ~166 |
 | Missing in Action | 36.00% | ~166 |
-| Very Elusive | 36.00% | ~166 |
 | Completionist | 35.00% | ~162 |
 | Colony Defense | 34.00% | ~157 |
 | The Convict | 34.00% | ~157 |
@@ -56,13 +56,13 @@
 | Big Game Hunter | 29.00% | ~134 |
 | Driven | 29.00% | ~134 |
 | Shopaholic | 29.00% | ~134 |
+| Focused | 28.00% | ~129 |
 | Catharsis | 28.00% | ~129 |
 | Fade Away | 28.00% | ~129 |
 | Ghost of the Father | 28.00% | ~129 |
 | Agent | 28.00% | ~129 |
 | Revenge! | 28.00% | ~129 |
 | Heart of Darkness | 28.00% | ~129 |
-| Focused | 27.00% | ~125 |
 | Cat's in the Cradle | 27.00% | ~125 |
 | Digital Exorcist | 27.00% | ~125 |
 | Bringer of War | 27.00% | ~125 |
@@ -70,8 +70,8 @@
 | Doppelganger | 26.00% | ~120 |
 | Treason | 26.00% | ~120 |
 | Friend or Foe | 25.00% | ~116 |
+| Mobilizer | 25.00% | ~116 |
 | Untouchable | 24.00% | ~111 |
-| Mobilizer | 24.00% | ~111 |
 | Eye of the Hurricane | 23.00% | ~106 |
 | Giant Killer | 23.00% | ~106 |
 | Mission Accomplished | 23.00% | ~106 |
@@ -94,11 +94,11 @@
 | Fact Finder | 17.00% | ~79 |
 | Pyromaniac | 16.00% | ~74 |
 | Sabotage Specialist | 16.00% | ~74 |
+| Throw Mastery | 16.00% | ~74 |
 | Hard Target | 16.00% | ~74 |
+| Saboteur | 16.00% | ~74 |
 | Under Pressure | 15.00% | ~69 |
 | Last Resort | 15.00% | ~69 |
-| Throw Mastery | 15.00% | ~69 |
-| Saboteur | 15.00% | ~69 |
 | Last Witness | 15.00% | ~69 |
 | Mail Slot | 13.00% | ~60 |
 | Warp Mastery | 13.00% | ~60 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 462 (Ranked 273)  
-Completed: 0 (0.00%) (Ranked 298)  
+Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

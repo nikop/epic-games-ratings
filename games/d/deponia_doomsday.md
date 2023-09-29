@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 490)
 | Portals come in packs | 30.00% | ~126 |
 | Photo Friend | 26.00% | ~109 |
 | Brainfreeze | 21.00% | ~88 |
+| Masseltov | 20.00% | ~84 |
 | And everything comes full circle. | 20.00% | ~84 |
-| Masseltov | 19.00% | ~80 |
 | Quickdraw | 16.00% | ~67 |
 | Thuna...? | 14.00% | ~59 |
 | Monstrous Harassment | 14.00% | ~59 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 490)
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 421 (Ranked 282)  
-Completed: 6 (1.43%) (Ranked 114)  
+Completed: 6 (1.43%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

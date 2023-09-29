@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 228,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.14,
   "EosHistory": [
@@ -1243,9 +1243,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "PROGRESS_N2",
@@ -1290,8 +1290,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:09:38.5621063+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:09:19.584744+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:59:35.7173917+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:09:38.5621483+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:59:02.3194546+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:09:19.584768+00:00"
 }

@@ -58,7 +58,7 @@ Number of Ratings: 801  (23.09.2022)
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,130 (Ranked 145)  
-Completed: 1 (0.01%) (Ranked 281)  
+Completed: 1 (0.01%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

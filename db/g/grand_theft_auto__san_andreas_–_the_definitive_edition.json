@@ -6,9 +6,9 @@
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1066,9 +1066,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13028,
+  "EOS_Progressed": 13030,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -11956,6 +11956,11 @@
       "Time": "2023-09-29T14:04:41.1499275+00:00",
       "NumProgressed": 13028,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-29T15:04:21.1193308+00:00",
+      "NumProgressed": 13030,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -11967,7 +11972,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10553
+      "UsersEstimate": 10554
     },
     {
       "ID": "ACH02",
@@ -12015,7 +12020,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "ACH08",
@@ -12023,7 +12028,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6644
+      "UsersEstimate": 6645
     },
     {
       "ID": "ACH09",
@@ -12079,7 +12084,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACH16",
@@ -12111,7 +12116,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACH20",
@@ -12143,7 +12148,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "ACH24",
@@ -12246,7 +12251,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13028,
+      "Progressed": 13030,
       "Completed": 48
     }
   ],
@@ -12254,8 +12259,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-28T22:59:28.3410576+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:04:41.149927+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:04:21.1193304+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:12.1619388+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:00:12.2586223+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:04:41.1500311+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:59:26.8840516+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:04:21.1194306+00:00"
 }

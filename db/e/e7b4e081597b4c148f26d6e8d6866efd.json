@@ -3,9 +3,9 @@
   "Name": "Tribu",
   "ProductSlug": "tribu-55feb1",
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-29T23:00:00+00:00",
     "PcReleaseDate": "2023-01-05T23:00:00+00:00",
@@ -151,8 +151,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T15:05:46.3823946+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:08:33.1202262+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:07:05.0031002+00:00",
   "LastUpdate_AppInfo": "2023-09-22T15:57:10.2090718+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:58:04.2362024+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:08:33.120236+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:58:00.9342043+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:07:05.0031117+00:00"
 }

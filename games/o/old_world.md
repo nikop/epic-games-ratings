@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,194 (Ranked 133)  
-Completed: 5 (0.04%) (Ranked 263)  
+Progressed: 14,195 (Ranked 133)  
+Completed: 5 (0.04%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -465,7 +465,7 @@ Completed: 5 (0.04%) (Ranked 263)
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
-| 2023-09-29 | 14,194 | 5 |
+| 2023-09-29 | 14,195 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

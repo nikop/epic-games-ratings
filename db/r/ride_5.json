@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1199,
+  "EOS_Progressed": 1200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1939,6 +1939,11 @@
       "Time": "2023-09-29T14:07:39.5590179+00:00",
       "NumProgressed": 1199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T15:06:27.221213+00:00",
+      "NumProgressed": 1200,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2342,14 +2347,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1199,
+      "Progressed": 1200,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:07:39.559017+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:06:27.2212126+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:59:15.4190575+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:07:39.5591141+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:58:49.0767648+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:06:27.2212804+00:00"
 }

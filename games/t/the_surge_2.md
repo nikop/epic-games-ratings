@@ -1,33 +1,33 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 849)  
+Rating: 4.24 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,654 |
 | Don't I Know You...? | 77.00% | ~1,592 |
-| Jailbreak | 66.00% | ~1,364 |
-| Suited and Booted | 39.00% | ~806 |
-| HEADSHOT! | 38.00% | ~785 |
+| Jailbreak | 66.00% | ~1,365 |
+| HEADSHOT! | 38.00% | ~786 |
+| Suited and Booted | 38.00% | ~786 |
 | Sleeping With The Fishes | 36.00% | ~744 |
 | Overheated | 30.00% | ~620 |
 | High Performance | 30.00% | ~620 |
 | Powered Up | 28.00% | ~579 |
 | Studied The Blade | 25.00% | ~517 |
-| Home Invasion | 23.00% | ~475 |
+| Home Invasion | 23.00% | ~476 |
 | Luminary | 22.00% | ~455 |
 | It's a Trap | 22.00% | ~455 |
 | True Survivor | 21.00% | ~434 |
-| Offensive Defense | 20.00% | ~413 |
-| Shocking | 20.00% | ~413 |
+| Offensive Defense | 20.00% | ~414 |
+| Shocking | 20.00% | ~414 |
 | Court Martial | 19.00% | ~393 |
 | Clean Cut | 19.00% | ~393 |
 | Unforeseeable Consequences | 19.00% | ~393 |
 | Dead Again | 18.00% | ~372 |
-| Full Arsenal | 17.00% | ~351 |
+| Full Arsenal | 17.00% | ~352 |
 | Can't Trust Banks | 15.00% | ~310 |
-| Mommy Dearest | 14.00% | ~289 |
+| Mommy Dearest | 14.00% | ~290 |
 | Bad Dog | 13.00% | ~269 |
 | Where It All Began | 13.00% | ~269 |
 | Risk Tolerant | 13.00% | ~269 |
@@ -35,10 +35,10 @@ Rating: 4.24 (Ranked 849)
 | Corrupted Beauty | 12.00% | ~248 |
 | Marked For Success | 12.00% | ~248 |
 | Sorry, Didn't See You There | 12.00% | ~248 |
+| Stimulating The Local Economy | 10.00% | ~207 |
 | Triplets | 10.00% | ~207 |
 | Denying Prophecy | 9.00% | ~186 |
 | Defense in Depth | 9.00% | ~186 |
-| Stimulating The Local Economy | 9.00% | ~186 |
 | A Little Banged Up | 8.00% | ~165 |
 | Following In Their Footsteps | 8.00% | ~165 |
 | Reverse Engineering | 7.00% | ~145 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 849)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,067 (Ranked 198)  
-Completed: 12 (0.58%) (Ranked 155)  
+Progressed: 2,068 (Ranked 198)  
+Completed: 12 (0.58%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,6 +192,7 @@ Completed: 12 (0.58%) (Ranked 155)
 | 2023-09-26 | 2,056 | 12 |
 | 2023-09-27 | 2,062 | 12 |
 | 2023-09-28 | 2,067 | 12 |
+| 2023-09-29 | 2,068 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

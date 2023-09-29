@@ -3,9 +3,9 @@
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 446,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -285,9 +285,9 @@
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievements.researches.all",
@@ -356,8 +356,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:05:16.7088686+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:04:46.0250053+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.4967405+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:02:28.7861982+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:05:16.7088926+00:00"
+  "LastUpdate_Ratings": "2023-09-29T15:03:16.2955425+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:04:46.0250188+00:00"
 }

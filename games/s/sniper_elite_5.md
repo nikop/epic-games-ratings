@@ -71,14 +71,14 @@ Rating: 4.46 (Ranked 630)
 | Das Familienjuwel | 1.00% | ~36 |
 | Master of Secondaries | 0.90% | ~33 |
 | Master of Rifles | 0.80% | ~29 |
+| Operation Overlord | 0.80% | ~29 |
 | Master of Pistols | 0.70% | ~26 |
 | Master-at-arms | 0.70% | ~26 |
-| Operation Overlord | 0.70% | ~25 |
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,682 (Ranked 175)  
-Completed: 11 (0.30%) (Ranked 195)  
+Completed: 11 (0.30%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

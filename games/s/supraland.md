@@ -6,51 +6,51 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~720,190 |
-| The Blues | 85.00% | ~618,345 |
-| Fast | 66.00% | ~480,127 |
-| Healthbar | 55.00% | ~400,106 |
-| Force Cube | 53.00% | ~385,556 |
-| Double Jump | 48.00% | ~349,183 |
-| Regeneration | 47.00% | ~341,909 |
-| Triple Jump | 43.00% | ~312,810 |
-| Climb the hill | 42.00% | ~305,535 |
-| Through the fire pipe | 39.00% | ~283,711 |
-| MacGuffin | 38.00% | ~276,437 |
-| Just once | 37.00% | ~269,162 |
-| Armor | 30.00% | ~218,240 |
-| True holy spirit | 28.00% | ~203,690 |
-| That's how electronics work obviously | 27.00% | ~196,416 |
-| Force Cube Catapult | 25.00% | ~181,866 |
-| Holy Sword | 23.00% | ~167,317 |
-| Telefrag | 23.00% | ~167,317 |
+| Out of bed | 99.00% | ~720,194 |
+| The Blues | 85.00% | ~618,349 |
+| Fast | 66.00% | ~480,130 |
+| Healthbar | 55.00% | ~400,108 |
+| Force Cube | 53.00% | ~385,559 |
+| Double Jump | 48.00% | ~349,185 |
+| Regeneration | 47.00% | ~341,910 |
+| Triple Jump | 43.00% | ~312,812 |
+| Climb the hill | 42.00% | ~305,537 |
+| Through the fire pipe | 39.00% | ~283,713 |
+| MacGuffin | 38.00% | ~276,438 |
+| Just once | 37.00% | ~269,164 |
+| Armor | 30.00% | ~218,241 |
+| True holy spirit | 28.00% | ~203,691 |
+| That's how electronics work obviously | 27.00% | ~196,417 |
+| Force Cube Catapult | 25.00% | ~181,867 |
+| Holy Sword | 23.00% | ~167,318 |
+| Telefrag | 23.00% | ~167,318 |
 | Freed from prison | 21.00% | ~152,768 |
 | Stomp | 21.00% | ~152,768 |
 | Double Health | 18.00% | ~130,944 |
-| Buckle | 17.00% | ~123,669 |
-| Green Keycard | 17.00% | ~123,669 |
+| Buckle | 17.00% | ~123,670 |
+| Green Keycard | 17.00% | ~123,670 |
 | All Shells | 15.00% | ~109,120 |
 | Rattle Hag | 15.00% | ~109,120 |
-| Beam | 14.00% | ~101,845 |
-| Health Drink | 13.00% | ~94,570 |
-| Helped a star | 13.00% | ~94,570 |
-| 9 | 13.00% | ~94,570 |
-| Purple Cube | 13.00% | ~94,570 |
-| Supraball Noob | 13.00% | ~94,570 |
+| Beam | 14.00% | ~101,846 |
+| Health Drink | 13.00% | ~94,571 |
+| Helped a star | 13.00% | ~94,571 |
+| 9 | 13.00% | ~94,571 |
+| Purple Cube | 13.00% | ~94,571 |
+| Supraball Noob | 13.00% | ~94,571 |
 | Strong | 12.00% | ~87,296 |
-| Blue King's lair | 11.00% | ~80,021 |
-| Payback | 11.00% | ~80,021 |
-| Got the coins back | 11.00% | ~80,021 |
-| Got the gun back | 11.00% | ~80,021 |
-| Infiltrated | 11.00% | ~80,021 |
-| Robbed | 11.00% | ~80,021 |
-| Fire Flies | 10.00% | ~72,746 |
-| Cave Flies | 10.00% | ~72,746 |
-| Gold Scam | 10.00% | ~72,746 |
-| Gold Scam Uncovered | 10.00% | ~72,746 |
-| Panic Lights | 10.00% | ~72,746 |
-| Translocator | 10.00% | ~72,746 |
-| Yellow Shot Button | 10.00% | ~72,746 |
+| Blue King's lair | 11.00% | ~80,022 |
+| Payback | 11.00% | ~80,022 |
+| Got the coins back | 11.00% | ~80,022 |
+| Got the gun back | 11.00% | ~80,022 |
+| Infiltrated | 11.00% | ~80,022 |
+| Robbed | 11.00% | ~80,022 |
+| Fire Flies | 10.00% | ~72,747 |
+| Cave Flies | 10.00% | ~72,747 |
+| Gold Scam | 10.00% | ~72,747 |
+| Gold Scam Uncovered | 10.00% | ~72,747 |
+| Panic Lights | 10.00% | ~72,747 |
+| Translocator | 10.00% | ~72,747 |
+| Yellow Shot Button | 10.00% | ~72,747 |
 | Moon Door | 9.00% | ~65,472 |
 | Momentum | 9.00% | ~65,472 |
 | Through the tiny pipe | 9.00% | ~65,472 |
@@ -105,8 +105,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~727 |
 | DLC: Top of the world | 0.10% | ~727 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,465 (Ranked 19)  
-Completed: 741 (0.10%) (Ranked 237)  
+Progressed: 727,469 (Ranked 19)  
+Completed: 741 (0.10%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,7 +267,7 @@ Completed: 741 (0.10%) (Ranked 237)
 | 2023-09-26 | 727,218 | 739 |
 | 2023-09-27 | 727,319 | 739 |
 | 2023-09-28 | 727,400 | 740 |
-| 2023-09-29 | 727,465 | 741 |
+| 2023-09-29 | 727,469 | 741 |
 ## Awards
 Max (Challenging Puzzles): 7,693  (Ranked 47)  
 Sum: 10,029 (Ranked 88)  

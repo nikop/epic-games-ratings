@@ -8,11 +8,12 @@
 | Meissa's Savior | 96.00% | ~22 |
 | Purification Pioneer | 96.00% | ~22 |
 | Dicesmithing Time! | 83.00% | ~19 |
+| Wild's Keeper | 70.00% | ~16 |
 | Sanctuary Guardian | 65.00% | ~15 |
-| Wild's Keeper | 65.00% | ~15 |
 | Endless Tricks | 61.00% | ~14 |
-| Mind Illuminator | 39.00% | ~9 |
+| Mind Illuminator | 48.00% | ~11 |
 | Stellar Dismantler | 35.00% | ~8 |
+| Star Killer | 26.00% | ~6 |
 | Unbeatable | 26.00% | ~6 |
 | Sadistic Plan | 22.00% | ~5 |
 | Sentinelphobic | 22.00% | ~5 |
@@ -21,7 +22,6 @@
 | Anomaly Destroyer | 17.00% | ~4 |
 | Astral Adventurer | 17.00% | ~4 |
 | Skeptical | 17.00% | ~4 |
-| Star Killer | 17.00% | ~4 |
 | Dice Specialist | 13.00% | ~3 |
 | Loyal Partner | 13.00% | ~3 |
 | Shard Spender | 13.00% | ~3 |
@@ -34,6 +34,7 @@
 | Astral Seeker | 4.00% | ~1 |
 | Can't touch this | 4.00% | ~1 |
 | Favored by the Cosmos | 4.00% | ~1 |
+| Heavy Purger | 4.00% | ~1 |
 | Plague Doctor | 4.00% | ~1 |
 | The Dark Moon | 4.00% | ~1 |
 | The Goddes Avatar | 4.00% | ~1 |
@@ -63,7 +64,6 @@
 | Eridanian Hero | 0.00% | ~0 |
 | Eridanian Mastery | 0.00% | ~0 |
 | Gotta tinker'em all! | 0.00% | ~0 |
-| Heavy Purger | 0.00% | ~0 |
 | If I Had Failed... | 0.00% | ~0 |
 | Lacertian Champion | 0.00% | ~0 |
 | Lacertian Hero | 0.00% | ~0 |
@@ -86,7 +86,7 @@
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 469)  
-Completed: 0 (0.00%) (Ranked 298)  
+Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

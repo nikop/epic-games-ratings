@@ -2,11 +2,11 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 868,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 114,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 24983,
+  "EOS_Progressed": 24986,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -18665,6 +18665,11 @@
       "Time": "2023-09-29T14:09:08.4850329+00:00",
       "NumProgressed": 24983,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-09-29T15:08:18.8154521+00:00",
+      "NumProgressed": 24986,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 22,
@@ -18740,7 +18745,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "1024",
@@ -18772,7 +18777,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "1028",
@@ -18812,7 +18817,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9993
+      "UsersEstimate": 9994
     },
     {
       "ID": "1033",
@@ -18820,7 +18825,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "1034",
@@ -18851,15 +18856,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 24983,
+      "Progressed": 24986,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:09:08.4850322+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:08:18.8154518+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:12.5411242+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:01:42.7722714+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:09:08.485263+00:00"
+  "LastUpdate_Ratings": "2023-09-29T15:00:26.0509263+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:08:18.8155878+00:00"
 }

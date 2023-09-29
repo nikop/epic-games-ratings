@@ -3,9 +3,9 @@
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -1248,9 +1248,9 @@
       "ID": "achVirus",
       "SetID": "1al1mjg",
       "Name": "Saved the planet \u2714",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achWitch",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:09:28.290809+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:09:12.3303326+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:09.697141+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:57:21.1357368+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:09:28.290843+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:57:30.2392365+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:09:12.3303533+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2033,9 +2033,9 @@
       "ID": "ATK_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Goat Whisperer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 108
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2520,8 +2520,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:04:42.9801657+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:04:22.5528961+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:57:34.9488806+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:04:42.9802515+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:57:39.8384463+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:04:22.5529799+00:00"
 }

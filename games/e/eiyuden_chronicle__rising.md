@@ -11,7 +11,7 @@ Number of Ratings: 48  (23.09.2022)
 | Hopeful Hunter | 68.00% | ~471 |
 | Amateur Adventurer | 65.00% | ~450 |
 | The Road to Recovery | 64.00% | ~443 |
-| Partners? | 62.00% | ~429 |
+| Partners? | 63.00% | ~436 |
 | Magical Mineral Golem | 56.00% | ~388 |
 | On Outlander Lane | 55.00% | ~381 |
 | First Time Fishing | 52.00% | ~360 |

@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.63 (Ranked 333)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.63 (Ranked 333)
 | Meet Frasier from Frasier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,090 (Ranked 115)  
-Completed: 12 (0.05%) (Ranked 258)  
+Completed: 12 (0.05%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,3 +265,4 @@ Completed: 12 (0.05%) (Ranked 258)
 | 2023-08-30 | 4.65 | 0 | 0 |
 | 2023-09-02 | 4.64 | 0 | 0 |
 | 2023-09-22 | 4.63 | 0 | 0 |
+| 2023-09-29 | 4.64 | 0 | 0 |

@@ -5,52 +5,52 @@ Rating: 4.18 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,933 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,532 |
+| First Step Into the Knight | 52.00% | ~37,935 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,533 |
 | Loose Ends | 34.00% | ~24,803 |
-| To the Victor Go the Spoils | 29.00% | ~21,155 |
+| To the Victor Go the Spoils | 29.00% | ~21,156 |
 | Knighthood | 28.00% | ~20,426 |
-| Get ReQ'd | 25.00% | ~18,237 |
-| Whispered Words | 25.00% | ~18,237 |
-| The Batman Family | 23.00% | ~16,778 |
-| Lock and Key | 23.00% | ~16,778 |
-| Something in the Clay | 21.00% | ~15,319 |
-| Quartzer Life Crisis | 21.00% | ~15,319 |
+| Get ReQ'd | 25.00% | ~18,238 |
+| Whispered Words | 25.00% | ~18,238 |
+| The Batman Family | 23.00% | ~16,779 |
+| Lock and Key | 23.00% | ~16,779 |
+| Something in the Clay | 21.00% | ~15,320 |
+| Quartzer Life Crisis | 21.00% | ~15,320 |
 | Working Hard or Harley Working? | 20.00% | ~14,590 |
 | Unstoppable Force | 20.00% | ~14,590 |
 | Bad Apples in Every Orchard | 20.00% | ~14,590 |
-| Snow Problem | 19.00% | ~13,860 |
+| Snow Problem | 19.00% | ~13,861 |
 | The Show Mud Go On | 18.00% | ~13,131 |
 | From Inside Gotham's Walls | 18.00% | ~13,131 |
-| Protector of Gotham | 17.00% | ~12,401 |
+| Protector of Gotham | 17.00% | ~12,402 |
 | Universal Health Scare | 16.00% | ~11,672 |
-| In Your Element | 15.00% | ~10,942 |
-| Voiceless | 15.00% | ~10,942 |
+| In Your Element | 15.00% | ~10,943 |
+| Voiceless | 15.00% | ~10,943 |
 | Rock and a Hard Place | 14.00% | ~10,213 |
 | Cooldown | 14.00% | ~10,213 |
 | Seeking Asylum | 14.00% | ~10,213 |
-| Not On My Watch | 13.00% | ~9,483 |
-| Shock Til They Drop | 13.00% | ~9,483 |
+| Not On My Watch | 13.00% | ~9,484 |
+| Shock Til They Drop | 13.00% | ~9,484 |
 | End of an Era | 12.00% | ~8,754 |
 | Bulldozed | 12.00% | ~8,754 |
 | Gotham Knight | 12.00% | ~8,754 |
-| Gotham City Confidential | 11.00% | ~8,024 |
+| Gotham City Confidential | 11.00% | ~8,025 |
 | Drone You Out | 10.00% | ~7,295 |
-| Out of Their League | 9.00% | ~6,565 |
-| Solid Alibi | 9.00% | ~6,565 |
-| Fusion Expert | 7.00% | ~5,106 |
+| Out of Their League | 9.00% | ~6,566 |
+| Solid Alibi | 9.00% | ~6,566 |
+| Fusion Expert | 7.00% | ~5,107 |
 | Family Meeting | 6.00% | ~4,377 |
 | A Worthy Successor | 6.00% | ~4,377 |
-| Expert Crime Fighter | 5.00% | ~3,647 |
+| Expert Crime Fighter | 5.00% | ~3,648 |
 | Dressed to Impress | 4.00% | ~2,918 |
-| A Momentum Occasion | 3.00% | ~2,188 |
-| Bat Out of Hell | 3.00% | ~2,188 |
+| A Momentum Occasion | 3.00% | ~2,189 |
+| Bat Out of Hell | 3.00% | ~2,189 |
 | Practice Makes Perfect | 2.00% | ~1,459 |
 | He'd Be So Proud of You | 2.00% | ~1,459 |
-| Talonted | 1.00% | ~729 |
-| The Man-Bat Family | 1.00% | ~729 |
-| Batarang Collector | 1.00% | ~729 |
-| Claiming the Mural High Ground | 1.00% | ~729 |
+| Talonted | 1.00% | ~730 |
+| The Man-Bat Family | 1.00% | ~730 |
+| Batarang Collector | 1.00% | ~730 |
+| Claiming the Mural High Ground | 1.00% | ~730 |
 | Icebreaker | 0.80% | ~346 |
 | History Major | 0.80% | ~584 |
 | A Sophisticated Mallet | 0.80% | ~346 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 895)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,949 (Ranked 85)  
-Completed: 118 (0.16%) (Ranked 220)  
+Progressed: 72,951 (Ranked 85)  
+Completed: 118 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,10 +229,10 @@ Completed: 118 (0.16%) (Ranked 220)
 | 2023-09-26 | 72,863 | 118 |
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
-| 2023-09-29 | 72,949 | 118 |
+| 2023-09-29 | 72,951 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,768  (Ranked 96)  
-Sum: 4,616 (Ranked 140)  
+Sum: 4,621 (Ranked 140)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -240,11 +240,11 @@ Diff (max vs sum): -44
 | This game is Relaxing | 237 |
 | This game has Quickly Understood Controls | 236 |
 | This game is Extremely Fun | 236 |
-| This game has Diverse Characters | 230 |
+| This game has Diverse Characters | 234 |
 | This game is Highly Recommended | 229 |
 | This game has Amazing Storytelling | 228 |
 | This game has Amazing Characters | 227 |
-| This game is Great for Beginners | 225 |
+| This game is Great for Beginners | 226 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -465,4 +465,4 @@ Diff (max vs sum): -44
 | 2023-09-26 | 4.18 | 2,755 | 4,589 |
 | 2023-09-27 | 4.18 | 2,761 | 4,602 |
 | 2023-09-28 | 4.19 | 2,761 | 4,605 |
-| 2023-09-29 | 4.18 | 2,768 | 4,616 |
+| 2023-09-29 | 4.18 | 2,768 | 4,621 |

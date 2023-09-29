@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,105 |
-| Titan's First Steps | 3.00% | ~4,105 |
+| Sponsored by Argon | 3.00% | ~4,106 |
+| Titan's First Steps | 3.00% | ~4,106 |
 | Basic in Bulk | 2.00% | ~2,737 |
 | Disintermediation | 2.00% | ~2,737 |
 | It's Free Real Estate | 2.00% | ~2,737 |
@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.60% | ~821 |
 | Big Game Hunting | 0.60% | ~821 |
 | For the Hoard! | 0.60% | ~821 |
+| This Power Level...! | 0.60% | ~821 |
 | Trash to Treasure | 0.60% | ~821 |
 | Royal Ransom | 0.60% | ~821 |
 | Miracle Alchemist | 0.60% | ~821 |
@@ -65,7 +66,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.50% | ~684 |
 | Locally Sourced | 0.50% | ~684 |
 | Flying off the Shelves | 0.50% | ~684 |
-| This Power Level...! | 0.50% | ~684 |
 | Omae wa Mou Shindeiru | 0.50% | ~684 |
 | Master of Transmutation | 0.50% | ~684 |
 | Hidden Potential | 0.50% | ~684 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,848 (Ranked 69)  
-Completed: 158 (0.12%) (Ranked 229)  
+Progressed: 136,850 (Ranked 69)  
+Completed: 158 (0.12%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,7 +281,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
-| 2023-09-29 | 136,848 | 158 |
+| 2023-09-29 | 136,850 | 158 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,304 (Ranked 49)  

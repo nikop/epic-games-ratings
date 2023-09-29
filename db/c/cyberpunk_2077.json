@@ -2,11 +2,11 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -12677,10 +12677,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884952,
+  "EOS_Progressed": 885001,
   "EOS_Completed": 2474,
-  "EOS_NewPlayers": 6446,
-  "EOS_NewCompleters": 255,
+  "EOS_NewPlayers": 6443,
+  "EOS_NewCompleters": 248,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30892,6 +30892,11 @@
       "Time": "2023-09-29T14:07:42.2823363+00:00",
       "NumProgressed": 884952,
       "NumCompleted": 2474
+    },
+    {
+      "Time": "2023-09-29T15:06:29.1146782+00:00",
+      "NumProgressed": 885001,
+      "NumCompleted": 2474
     }
   ],
   "TotalAchievements": 57,
@@ -30957,9 +30962,9 @@
       "ID": "Gearhead",
       "SetID": "47clieb",
       "Name": "Autojock",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1770
+      "UsersEstimate": 2655
     },
     {
       "ID": "GetMeThereScottie",
@@ -30983,15 +30988,15 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17699
+      "UsersEstimate": 17700
     },
     {
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8850
+      "UsersEstimate": 17700
     },
     {
       "ID": "IAmMaxTac",
@@ -31029,9 +31034,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5310
+      "UsersEstimate": 6195
     },
     {
       "ID": "MustBeTheRats",
@@ -31087,7 +31092,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17699
+      "UsersEstimate": 17700
     },
     {
       "ID": "Temperance",
@@ -31103,7 +31108,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17699
+      "UsersEstimate": 17700
     },
     {
       "ID": "TheDevil",
@@ -31141,9 +31146,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6195
+      "UsersEstimate": 7080
     },
     {
       "ID": "TheStar",
@@ -31191,7 +31196,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17699
+      "UsersEstimate": 17700
     },
     {
       "ID": "TrueSoldier",
@@ -31358,21 +31363,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884952,
+      "Progressed": 885001,
       "Completed": 2474
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13575,
+      "Progressed": 13624,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-29T13:58:45.5662035+00:00",
-  "LastChanged_Achievements": "2023-09-29T14:07:42.2823355+00:00",
+  "LastChanged_Achievements": "2023-09-29T15:06:29.1146775+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:58:45.5662047+00:00",
-  "LastUpdate_Achievements": "2023-09-29T14:07:42.2826352+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:58:28.9817054+00:00",
+  "LastUpdate_Achievements": "2023-09-29T15:06:29.1148875+00:00"
 }
