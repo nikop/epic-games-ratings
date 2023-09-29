@@ -9,7 +9,7 @@
 | Happy Ending | 83.00% | ~15 |
 | 10 is good! | 61.00% | ~11 |
 | 1 Hour! | 61.00% | ~11 |
-| One-quarter mark | 39.00% | ~7 |
+| One-quarter mark | 44.00% | ~8 |
 | 5 Hours! | 33.00% | ~6 |
 | Half way! | 28.00% | ~5 |
 | 10 Hours! | 22.00% | ~4 |

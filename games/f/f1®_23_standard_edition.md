@@ -5,15 +5,15 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,452 |
-| On the Top Step | 85.00% | ~2,241 |
-| Setting up for Success | 73.00% | ~1,925 |
+| Getting on the Step | 93.00% | ~2,453 |
+| On the Top Step | 85.00% | ~2,242 |
+| Setting up for Success | 74.00% | ~1,952 |
 | Team Orders | 72.00% | ~1,899 |
-| Engineer | 52.00% | ~1,371 |
+| Engineer | 53.00% | ~1,398 |
 | Familiar Faces | 46.00% | ~1,213 |
-| Going the Extra Mile | 41.00% | ~1,081 |
+| Going the Extra Mile | 41.00% | ~1,082 |
 | Sharing the Love | 37.00% | ~976 |
-| Hitting a Season | 31.00% | ~817 |
+| Hitting a Season | 31.00% | ~818 |
 | Challenge Yourself | 30.00% | ~791 |
 | Making History | 29.00% | ~765 |
 | A Dozen Pieces | 27.00% | ~712 |
@@ -28,7 +28,7 @@ Rating: 4.66 (Ranked 282)
 | Gathering Dust | 14.00% | ~369 |
 | Oil and Water | 14.00% | ~369 |
 | Proving Them Wrong | 14.00% | ~369 |
-| Hitting a Bullseye | 12.00% | ~316 |
+| Hitting a Bullseye | 12.00% | ~317 |
 | All in a Weekend's Work | 11.00% | ~290 |
 | Lightning Round the World | 11.00% | ~290 |
 | Tinkerer | 11.00% | ~290 |
@@ -42,7 +42,7 @@ Rating: 4.66 (Ranked 282)
 | Loyal Bond | 5.00% | ~132 |
 | Living up to Expectations | 5.00% | ~132 |
 | Smooth Operator | 5.00% | ~132 |
-| Peak Performance | 4.00% | ~105 |
+| Peak Performance | 4.00% | ~106 |
 | Seasoned Rookie | 3.00% | ~79 |
 | Hitting a Century | 3.00% | ~79 |
 | Wait, I know you? | 2.00% | ~53 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 282)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,637 (Ranked 191)  
+Progressed: 2,638 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 298)
 | 2023-09-26 | 2,256 | 0 |
 | 2023-09-27 | 2,454 | 0 |
 | 2023-09-28 | 2,620 | 0 |
-| 2023-09-29 | 2,637 | 0 |
+| 2023-09-29 | 2,638 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-09-29T07:05:38.0798387+00:00",
       "NumProgressed": 440,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-29T12:05:44.8148605+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -1008,15 +1013,15 @@
       "Name": "FIRST BLOOD",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "GB_GOURMET",
       "SetID": "8ga3kd9",
       "Name": "GOURMET",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
@@ -1032,7 +1037,7 @@
       "Name": "GRATITUDE",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -1056,7 +1061,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -1088,7 +1093,7 @@
       "Name": "KEVIN!",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -1112,7 +1117,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1150,9 +1155,9 @@
       "ID": "GB_SCATTERBRAIN",
       "SetID": "8ga3kd9",
       "Name": "SCATTERBRAIN",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "GB_TASTE_UNTASTY",
@@ -1183,7 +1188,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 2
     }
   ],
@@ -1191,8 +1196,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:05:29.2014733+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:05:44.8148601+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:57:53.6190176+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:05:29.2014985+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:57:56.7799289+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:05:44.8148885+00:00"
 }

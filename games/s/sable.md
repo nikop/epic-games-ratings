@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,166 |
-| Just The Two of Us | 32.00% | ~29,333 |
-| Up On High | 25.00% | ~22,916 |
-| Under The Hood | 25.00% | ~22,916 |
-| Got Your Nose | 24.00% | ~22,000 |
-| The Gift of Gab | 24.00% | ~22,000 |
-| Wrapping Up | 22.00% | ~20,166 |
-| More Than A Box Of Sand | 18.00% | ~16,500 |
-| The Dunboyne | 17.00% | ~15,583 |
-| Badge Hobbyist | 17.00% | ~15,583 |
-| Chum Novice | 16.00% | ~14,666 |
-| Silver-Tongued Sable | 16.00% | ~14,666 |
-| Sticky Paws | 16.00% | ~14,666 |
-| Bubble Up | 16.00% | ~14,666 |
-| Thread The Needle | 15.00% | ~13,750 |
-| Power to the People | 14.00% | ~12,833 |
-| Take That! | 13.00% | ~11,916 |
-| Nesting Giant | 13.00% | ~11,916 |
-| Treasure Tracker | 13.00% | ~11,916 |
-| Big Spender | 13.00% | ~11,916 |
-| Badge Collector | 12.00% | ~11,000 |
-| Quite The Catch | 12.00% | ~11,000 |
-| Rowleys Way | 11.00% | ~10,083 |
-| The Machinist Mask | 10.00% | ~9,166 |
-| The Cartographer Mask | 10.00% | ~9,166 |
-| Balfron Connection | 10.00% | ~9,166 |
-| Ceiling Of Stars | 10.00% | ~9,166 |
-| Playing Dress Up | 10.00% | ~9,166 |
+| Simoon | 34.00% | ~31,168 |
+| Just The Two of Us | 32.00% | ~29,335 |
+| Up On High | 25.00% | ~22,918 |
+| Under The Hood | 25.00% | ~22,918 |
+| Got Your Nose | 24.00% | ~22,001 |
+| The Gift of Gab | 24.00% | ~22,001 |
+| Wrapping Up | 22.00% | ~20,168 |
+| More Than A Box Of Sand | 18.00% | ~16,501 |
+| The Dunboyne | 17.00% | ~15,584 |
+| Badge Hobbyist | 17.00% | ~15,584 |
+| Chum Novice | 16.00% | ~14,667 |
+| Silver-Tongued Sable | 16.00% | ~14,667 |
+| Sticky Paws | 16.00% | ~14,667 |
+| Bubble Up | 16.00% | ~14,667 |
+| Thread The Needle | 15.00% | ~13,751 |
+| Power to the People | 14.00% | ~12,834 |
+| Take That! | 13.00% | ~11,917 |
+| Nesting Giant | 13.00% | ~11,917 |
+| Treasure Tracker | 13.00% | ~11,917 |
+| Big Spender | 13.00% | ~11,917 |
+| Badge Collector | 12.00% | ~11,001 |
+| Quite The Catch | 12.00% | ~11,001 |
+| Rowleys Way | 11.00% | ~10,084 |
+| The Machinist Mask | 10.00% | ~9,167 |
+| The Cartographer Mask | 10.00% | ~9,167 |
+| Balfron Connection | 10.00% | ~9,167 |
+| Ceiling Of Stars | 10.00% | ~9,167 |
+| Playing Dress Up | 10.00% | ~9,167 |
 | Many Different Faces | 9.00% | ~8,250 |
 | Trellick's Pillar | 9.00% | ~8,250 |
 | Centre Of Brunswick | 9.00% | ~8,250 |
 | Bike Collector | 9.00% | ~8,250 |
 | Dune Rider | 9.00% | ~8,250 |
 | Not That Kind Of Gliding | 9.00% | ~8,250 |
-| The Scrapper Mask | 8.00% | ~7,333 |
-| Shadow Of Neave | 8.00% | ~7,333 |
-| Fragile Goods | 8.00% | ~7,333 |
-| Glider on the Storm | 8.00% | ~7,333 |
-| Squeeze One Out | 8.00% | ~7,333 |
+| The Scrapper Mask | 8.00% | ~7,334 |
+| Shadow Of Neave | 8.00% | ~7,334 |
+| Fragile Goods | 8.00% | ~7,334 |
+| Glider on the Storm | 8.00% | ~7,334 |
+| Squeeze One Out | 8.00% | ~7,334 |
 | Amateur Historian | 7.00% | ~6,417 |
 | The Beetle Mask | 7.00% | ~6,417 |
 | The Guard Mask | 7.00% | ~6,417 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~5,500 |
 | Honorary Chum | 6.00% | ~5,500 |
 | Bikes Don't Fly | 6.00% | ~5,500 |
-| The Gliding | 5.00% | ~4,583 |
-| The Entertainer Mask | 5.00% | ~4,583 |
+| The Gliding | 5.00% | ~4,584 |
+| The Entertainer Mask | 5.00% | ~4,584 |
 | The Quick and the Curious | 4.00% | ~3,667 |
 | Bike Aficionado | 4.00% | ~3,667 |
 | Chum Expert | 3.00% | ~2,750 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,750 |
 | Vivacious Vivarium | 2.00% | ~1,833 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,665 (Ranked 77)  
+Progressed: 91,671 (Ranked 77)  
 Completed: 926 (1.01%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 926 (1.01%) (Ranked 131)
 | 2023-09-26 | 91,325 | 921 |
 | 2023-09-27 | 91,442 | 924 |
 | 2023-09-28 | 91,586 | 926 |
-| 2023-09-29 | 91,665 | 926 |
+| 2023-09-29 | 91,671 | 926 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
 Sum: 88 (Ranked 429)  

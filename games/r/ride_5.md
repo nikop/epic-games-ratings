@@ -38,7 +38,7 @@
 | I Don't Stop | 1.00% | ~12 |
 | Overtaking the Master | 1.00% | ~12 |
 | Exhausted but Happy | 0.90% | ~11 |
-| Next Level | 0.80% | ~10 |
+| Next Level | 0.90% | ~11 |
 | In Search of Perfection | 0.50% | ~6 |
 | Globe-trotter | 0.40% | ~5 |
 | Maximum Endurance | 0.20% | ~2 |

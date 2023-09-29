@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -734,7 +734,7 @@
   ],
   "EOS_Progressed": 3246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3587,9 +3587,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 195
     },
     {
       "ID": "BloodAndIron",
@@ -4129,8 +4129,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:05:34.6038269+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:05:51.215245+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:58:27.3704924+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:05:34.6039141+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:58:41.3055047+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:05:51.2153321+00:00"
 }

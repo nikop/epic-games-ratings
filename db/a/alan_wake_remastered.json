@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66421,
+  "EOS_Progressed": 66422,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16264,6 +16264,11 @@
       "Time": "2023-09-29T11:06:51.5720299+00:00",
       "NumProgressed": 66421,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-29T12:07:24.150829+00:00",
+      "NumProgressed": 66422,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16283,7 +16288,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17269
+      "UsersEstimate": 17270
     },
     {
       "ID": "03",
@@ -16291,7 +16296,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17269
+      "UsersEstimate": 17270
     },
     {
       "ID": "04",
@@ -16499,7 +16504,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10627
+      "UsersEstimate": 10628
     },
     {
       "ID": "30",
@@ -16531,7 +16536,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10627
+      "UsersEstimate": 10628
     },
     {
       "ID": "34",
@@ -16635,7 +16640,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10627
+      "UsersEstimate": 10628
     },
     {
       "ID": "47",
@@ -16810,21 +16815,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66421,
+      "Progressed": 66422,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29889,
+      "Progressed": 29890,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:06:51.5720296+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:07:24.1508285+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:57:50.9301756+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:06:51.5721786+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:57:53.8503281+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:07:24.1509874+00:00"
 }

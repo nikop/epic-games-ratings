@@ -249,9 +249,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -457,9 +457,9 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -545,9 +545,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -561,9 +561,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -729,17 +729,17 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -833,17 +833,17 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -896,8 +896,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:06:23.9568913+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:06:50.718878+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:57:23.3295565+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:06:23.9569981+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:57:18.6071859+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:06:50.7189824+00:00"
 }

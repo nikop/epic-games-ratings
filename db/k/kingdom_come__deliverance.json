@@ -7572,9 +7572,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802990,
+  "EOS_Progressed": 802992,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25612,6 +25612,11 @@
       "Time": "2023-09-29T11:06:23.1925872+00:00",
       "NumProgressed": 802990,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-29T12:06:49.8951785+00:00",
+      "NumProgressed": 802992,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25647,7 +25652,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128478
+      "UsersEstimate": 128479
     },
     {
       "ID": "Awakening",
@@ -25711,7 +25716,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120448
+      "UsersEstimate": 120449
     },
     {
       "ID": "Buddy",
@@ -25727,7 +25732,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48179
+      "UsersEstimate": 48180
     },
     {
       "ID": "Cavalier",
@@ -25839,7 +25844,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120448
+      "UsersEstimate": 120449
     },
     {
       "ID": "Freud",
@@ -26278,15 +26283,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802990,
+      "Progressed": 802992,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-29T10:58:31.7652158+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:06:23.1925867+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:06:49.8951779+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:58:31.7652168+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:06:23.1927885+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:58:47.152449+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:06:49.8953779+00:00"
 }

@@ -3266,9 +3266,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72947,
+  "EOS_Progressed": 72948,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17026,6 +17026,11 @@
       "Time": "2023-09-29T11:03:18.6930359+00:00",
       "NumProgressed": 72947,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-29T12:03:06.7711089+00:00",
+      "NumProgressed": 72948,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17149,7 +17154,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13130
+      "UsersEstimate": 13131
     },
     {
       "ID": "CLAYFACE_3",
@@ -17341,7 +17346,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25531
+      "UsersEstimate": 25532
     },
     {
       "ID": "HARLEY_2",
@@ -17357,7 +17362,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14589
+      "UsersEstimate": 14590
     },
     {
       "ID": "HARLEY_4",
@@ -17381,7 +17386,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37932
+      "UsersEstimate": 37933
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17405,7 +17410,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14589
+      "UsersEstimate": 14590
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -17453,7 +17458,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14589
+      "UsersEstimate": 14590
     },
     {
       "ID": "MYSTERY_05",
@@ -17461,7 +17466,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13130
+      "UsersEstimate": 13131
     },
     {
       "ID": "MYSTERY_06",
@@ -17524,13 +17529,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72947,
+      "Progressed": 72948,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43227,
+      "Progressed": 43228,
       "Completed": 2668
     }
   ],
@@ -17538,8 +17543,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-29T05:58:29.3894738+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:03:18.6930355+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:03:06.7711082+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:58:50.6817749+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:03:18.6931864+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:59:10.1700561+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:03:06.7712804+00:00"
 }

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 44,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -289,9 +289,9 @@
       "ID": "DEFEATED_20000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Exterminator",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -337,9 +337,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -384,8 +384,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:03:35.5206677+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:03:27.1929192+00:00",
   "LastUpdate_AppInfo": "2023-09-26T16:57:05.5703282+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:59:35.5869565+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:03:35.5206829+00:00"
+  "LastUpdate_Ratings": "2023-09-29T12:00:06.6215251+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:03:27.1929339+00:00"
 }

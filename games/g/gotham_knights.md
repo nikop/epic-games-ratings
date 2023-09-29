@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,932 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,531 |
+| First Step Into the Knight | 52.00% | ~37,933 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,532 |
 | Loose Ends | 34.00% | ~24,802 |
 | To the Victor Go the Spoils | 29.00% | ~21,155 |
 | Knighthood | 28.00% | ~20,425 |
@@ -16,12 +16,12 @@ Rating: 4.18 (Ranked 895)
 | Lock and Key | 23.00% | ~16,778 |
 | Something in the Clay | 21.00% | ~15,319 |
 | Quartzer Life Crisis | 21.00% | ~15,319 |
-| Working Hard or Harley Working? | 20.00% | ~14,589 |
-| Unstoppable Force | 20.00% | ~14,589 |
-| Bad Apples in Every Orchard | 20.00% | ~14,589 |
+| Working Hard or Harley Working? | 20.00% | ~14,590 |
+| Unstoppable Force | 20.00% | ~14,590 |
+| Bad Apples in Every Orchard | 20.00% | ~14,590 |
 | Snow Problem | 19.00% | ~13,860 |
-| The Show Mud Go On | 18.00% | ~13,130 |
-| From Inside Gotham's Walls | 18.00% | ~13,130 |
+| The Show Mud Go On | 18.00% | ~13,131 |
+| From Inside Gotham's Walls | 18.00% | ~13,131 |
 | Protector of Gotham | 17.00% | ~12,401 |
 | Universal Health Scare | 16.00% | ~11,672 |
 | In Your Element | 15.00% | ~10,942 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 895)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,947 (Ranked 85)  
+Progressed: 72,948 (Ranked 85)  
 Completed: 118 (0.16%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 118 (0.16%) (Ranked 220)
 | 2023-09-26 | 72,863 | 118 |
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
-| 2023-09-29 | 72,947 | 118 |
+| 2023-09-29 | 72,948 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,768  (Ranked 96)  
 Sum: 4,616 (Ranked 140)  

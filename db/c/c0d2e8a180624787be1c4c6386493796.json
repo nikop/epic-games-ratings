@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
       "SetID": "caeik3h",
       "Name": "Gotta Go Fast",
-      "Percentage": 100,
+      "Percentage": 120,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
@@ -379,9 +379,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
       "SetID": "caeik3h",
       "Name": "No Survivors I",
-      "Percentage": 100,
+      "Percentage": 120,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
@@ -681,8 +681,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:05:33.7196903+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:05:50.1583486+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:59:31.1792177+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:05:33.7197776+00:00"
+  "LastUpdate_Ratings": "2023-09-29T12:00:00.8477164+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:05:50.1584296+00:00"
 }

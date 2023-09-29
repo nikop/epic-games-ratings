@@ -626,9 +626,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1696,6 +1696,11 @@
       "Time": "2023-09-29T10:06:07.6416996+00:00",
       "NumProgressed": 562,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-29T12:05:19.7202585+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -1708,7 +1713,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_10",
@@ -1772,7 +1777,7 @@
       "Name": "Trusted Contractor",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_18",
@@ -1780,7 +1785,7 @@
       "Name": "Full Arsenal",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_19",
@@ -1788,7 +1793,7 @@
       "Name": "Built To Order",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_2",
@@ -1804,7 +1809,7 @@
       "Name": "Autofire",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_21",
@@ -1820,7 +1825,7 @@
       "Name": "A Cut Above",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_23",
@@ -1868,7 +1873,7 @@
       "Name": "Story Teller",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_29",
@@ -1876,7 +1881,7 @@
       "Name": "Legend Teller",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_3",
@@ -1884,7 +1889,7 @@
       "Name": "All Systems Go",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_30",
@@ -1900,15 +1905,15 @@
       "Name": "Marksman",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_33",
@@ -1924,7 +1929,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_35",
@@ -2044,7 +2049,7 @@
       "Name": "True Believer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_6",
@@ -2052,7 +2057,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_7",
@@ -2060,7 +2065,7 @@
       "Name": "S.O.S.",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_8",
@@ -2076,14 +2081,14 @@
       "Name": "Wreckage",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 3
     }
   ],
@@ -2091,8 +2096,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-28T18:01:12.2874889+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:05:08.7831696+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:05:19.7202579+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:00:04.9430046+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:05:08.7832182+00:00"
+  "LastUpdate_Ratings": "2023-09-29T12:00:42.5381492+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:05:19.7203091+00:00"
 }

@@ -68,6 +68,7 @@
 | Almost There II | 5.00% | ~3 |
 | Revenge | 3.00% | ~2 |
 | Bronze Tovarish | 3.00% | ~2 |
+| Archer's Bronze Fate | 3.00% | ~2 |
 | Bronze Alchemist | 3.00% | ~2 |
 | Galactic Ensign | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
@@ -80,7 +81,6 @@
 | Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
 | Merchant Prince III | 3.00% | ~2 |
-| Archer's Bronze Fate | 2.00% | ~1 |
 | Golden Alchemist | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |

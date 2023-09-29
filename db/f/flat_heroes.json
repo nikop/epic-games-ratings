@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -566,6 +566,11 @@
       "Time": "2023-09-29T11:05:18.7297307+00:00",
       "NumProgressed": 434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T12:05:32.1261757+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -593,7 +598,7 @@
       "Name": "Fireball",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "DashDashDash",
@@ -601,7 +606,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -727,9 +732,9 @@
       "ID": "NinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Air Slash",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 144
     },
     {
       "ID": "OhNo",
@@ -855,9 +860,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 314
     },
     {
       "ID": "World2Boss",
@@ -865,7 +870,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 249
     },
     {
       "ID": "World3Boss",
@@ -889,7 +894,7 @@
       "Name": "Eat That Apple",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "World6Boss",
@@ -905,7 +910,7 @@
       "Name": "Bomberman",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "World8Boss",
@@ -928,7 +933,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 436,
       "Completed": 0
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:05:18.7297303+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:05:32.1261749+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:57:31.0979025+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:05:18.7297632+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:57:28.2126931+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:05:32.1262142+00:00"
 }

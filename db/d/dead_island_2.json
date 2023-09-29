@@ -4914,9 +4914,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 687841,
+  "EOS_Progressed": 687859,
   "EOS_Completed": 2177,
-  "EOS_NewPlayers": 3823,
+  "EOS_NewPlayers": 3816,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23174,6 +23174,11 @@
       "Time": "2023-09-29T11:03:47.8046441+00:00",
       "NumProgressed": 687841,
       "NumCompleted": 2177
+    },
+    {
+      "Time": "2023-09-29T12:03:42.1990843+00:00",
+      "NumProgressed": 687859,
+      "NumCompleted": 2177
     }
   ],
   "TotalAchievements": 45,
@@ -23193,7 +23198,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_ammo_ran",
@@ -23209,7 +23214,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -23233,7 +23238,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_bookworm",
@@ -23265,7 +23270,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -23345,7 +23350,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20635
+      "UsersEstimate": 20636
     },
     {
       "ID": "ach_impressive_aim",
@@ -23401,7 +23406,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_magnum_opus",
@@ -23425,7 +23430,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_revival_tour",
@@ -23441,7 +23446,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_secrets_of_la",
@@ -23481,7 +23486,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_the_vcla",
@@ -23521,7 +23526,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20635
+      "UsersEstimate": 20636
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23544,22 +23549,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 687841,
+      "Progressed": 687859,
       "Completed": 2177
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 13383,
-      "Completed": 13383
+      "Progressed": 13401,
+      "Completed": 13401
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-28T22:58:38.9541609+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:03:47.8046437+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:03:42.1990838+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:58:32.0243013+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:03:47.8047948+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:58:47.4632459+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:03:42.1992281+00:00"
 }

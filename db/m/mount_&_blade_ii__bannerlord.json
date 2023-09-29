@@ -7533,9 +7533,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62330,
+  "EOS_Progressed": 62332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24728,6 +24728,11 @@
       "Time": "2023-09-29T11:05:31.8663726+00:00",
       "NumProgressed": 62330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T12:05:47.8924846+00:00",
+      "NumProgressed": 62332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24779,7 +24784,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "Catch",
@@ -24811,7 +24816,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "Duelist",
@@ -24963,7 +24968,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20569
+      "UsersEstimate": 20570
     },
     {
       "ID": "Lawbringer",
@@ -25019,7 +25024,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "Real Estate",
@@ -25091,7 +25096,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11219
+      "UsersEstimate": 11220
     },
     {
       "ID": "This Is Our Land",
@@ -25146,15 +25151,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62330,
+      "Progressed": 62332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-29T10:57:57.5203891+00:00",
-  "LastChanged_Achievements": "2023-09-29T11:05:31.8663717+00:00",
+  "LastChanged_Achievements": "2023-09-29T12:05:47.8924841+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:57:57.5203898+00:00",
-  "LastUpdate_Achievements": "2023-09-29T11:05:31.8665303+00:00"
+  "LastUpdate_Ratings": "2023-09-29T11:58:01.7315544+00:00",
+  "LastUpdate_Achievements": "2023-09-29T12:05:47.8926284+00:00"
 }
