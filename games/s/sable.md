@@ -6,14 +6,14 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,139 |
+| Simoon | 34.00% | ~31,140 |
 | Just The Two of Us | 32.00% | ~29,308 |
-| Up On High | 25.00% | ~22,896 |
-| Under The Hood | 25.00% | ~22,896 |
+| Up On High | 25.00% | ~22,897 |
+| Under The Hood | 25.00% | ~22,897 |
 | Got Your Nose | 24.00% | ~21,981 |
 | The Gift of Gab | 24.00% | ~21,981 |
-| Wrapping Up | 22.00% | ~20,149 |
-| More Than A Box Of Sand | 18.00% | ~16,485 |
+| Wrapping Up | 22.00% | ~20,150 |
+| More Than A Box Of Sand | 18.00% | ~16,486 |
 | The Dunboyne | 17.00% | ~15,570 |
 | Badge Hobbyist | 17.00% | ~15,570 |
 | Chum Novice | 16.00% | ~14,654 |
@@ -22,13 +22,13 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~14,654 |
 | Thread The Needle | 15.00% | ~13,738 |
 | Power to the People | 14.00% | ~12,822 |
-| Take That! | 13.00% | ~11,906 |
-| Nesting Giant | 13.00% | ~11,906 |
-| Treasure Tracker | 13.00% | ~11,906 |
-| Big Spender | 13.00% | ~11,906 |
-| Badge Collector | 12.00% | ~10,990 |
-| Quite The Catch | 12.00% | ~10,990 |
-| Rowleys Way | 11.00% | ~10,074 |
+| Take That! | 13.00% | ~11,907 |
+| Nesting Giant | 13.00% | ~11,907 |
+| Treasure Tracker | 13.00% | ~11,907 |
+| Big Spender | 13.00% | ~11,907 |
+| Badge Collector | 12.00% | ~10,991 |
+| Quite The Catch | 12.00% | ~10,991 |
+| Rowleys Way | 11.00% | ~10,075 |
 | The Machinist Mask | 10.00% | ~9,159 |
 | The Cartographer Mask | 10.00% | ~9,159 |
 | Balfron Connection | 10.00% | ~9,159 |
@@ -56,15 +56,15 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,495 |
 | The Gliding | 5.00% | ~4,579 |
 | The Entertainer Mask | 5.00% | ~4,579 |
-| The Quick and the Curious | 4.00% | ~3,663 |
-| Bike Aficionado | 4.00% | ~3,663 |
+| The Quick and the Curious | 4.00% | ~3,664 |
+| Bike Aficionado | 4.00% | ~3,664 |
 | Chum Expert | 3.00% | ~2,748 |
 | Gastric Bypass | 3.00% | ~2,748 |
 | The Angler Mask | 3.00% | ~2,748 |
 | Vivacious Vivarium | 2.00% | ~1,832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,586 (Ranked 77)  
-Completed: 926 (1.01%) (Ranked 131)  
+Progressed: 91,589 (Ranked 77)  
+Completed: 926 (1.01%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,15 +225,16 @@ Completed: 926 (1.01%) (Ranked 131)
 | 2023-09-26 | 91,325 | 921 |
 | 2023-09-27 | 91,442 | 924 |
 | 2023-09-28 | 91,586 | 926 |
+| 2023-09-29 | 91,589 | 926 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
-Sum: 87 (Ranked 429)  
+Sum: 88 (Ranked 429)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 24 |
 | This game is Extremely Fun | 22 |
-| This game is Great for Beginners | 21 |
+| This game is Great for Beginners | 22 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -317,3 +318,4 @@ Diff (max vs sum): 67
 | 2023-09-09 | 4.52 | - | 24 | 65 |
 | 2023-09-13 | 4.52 | - | 24 | 86 |
 | 2023-09-21 | 4.52 | - | 24 | 87 |
+| 2023-09-28 | 4.52 | - | 24 | 88 |

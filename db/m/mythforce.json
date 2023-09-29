@@ -6,9 +6,9 @@
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -701,9 +701,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3340,
+  "EOS_Progressed": 3342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5931,6 +5931,11 @@
       "Time": "2023-09-28T23:07:04.8166121+00:00",
       "NumProgressed": 3340,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T00:06:29.8474599+00:00",
+      "NumProgressed": 3342,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5991,7 +5996,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -6007,7 +6012,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -6055,7 +6060,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -6063,7 +6068,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -6126,15 +6131,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3340,
+      "Progressed": 3342,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:07:04.8166112+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:06:29.8474593+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:58:20.3355615+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:07:04.8166693+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:58:11.1684875+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:06:29.8475134+00:00"
 }

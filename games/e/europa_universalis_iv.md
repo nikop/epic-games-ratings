@@ -6,27 +6,27 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,670 |
-| That's a Grand Army | 3.00% | ~12,502 |
-| That is mine! | 3.00% | ~12,502 |
-| Victorious! | 3.00% | ~12,502 |
+| Until death do us apart | 4.00% | ~16,671 |
+| That's a Grand Army | 3.00% | ~12,503 |
+| That is mine! | 3.00% | ~12,503 |
+| Victorious! | 3.00% | ~12,503 |
 | Brothers in Arms | 2.00% | ~8,335 |
 | For the Glory | 2.00% | ~8,335 |
 | That's a Grand Navy | 2.00% | ~8,335 |
 | Seriously?! | 2.00% | ~8,335 |
-| Cold War | 1.00% | ~4,167 |
-| Defender of the Faith | 1.00% | ~4,167 |
-| It's all about the money | 1.00% | ~4,167 |
-| The Princess is in this Castle | 1.00% | ~4,167 |
-| True Catholic | 1.00% | ~4,167 |
+| Cold War | 1.00% | ~4,168 |
+| Defender of the Faith | 1.00% | ~4,168 |
+| It's all about the money | 1.00% | ~4,168 |
+| The Princess is in this Castle | 1.00% | ~4,168 |
+| True Catholic | 1.00% | ~4,168 |
 | It's all about luck | 0.90% | ~3,751 |
 | Respected | 0.90% | ~3,751 |
 | Truly Divine Ruler | 0.90% | ~3,751 |
 | Blockader | 0.80% | ~3,334 |
+| Double the Love | 0.80% | ~3,334 |
 | Total Control | 0.80% | ~3,334 |
-| Double the Love | 0.70% | ~2,917 |
 | Royal Authority | 0.70% | ~2,917 |
-| My armies are invincible! | 0.60% | ~2,500 |
+| My armies are invincible! | 0.60% | ~2,501 |
 | Agressive Expander | 0.50% | ~2,084 |
 | City of Cities | 0.50% | ~2,084 |
 | Combined Arms | 0.50% | ~2,084 |
@@ -45,19 +45,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,250 |
 | The Five Colonies | 0.30% | ~1,250 |
 | Trustworthy | 0.30% | ~1,250 |
-| All belongs to Mother Russia | 0.20% | ~833 |
-| At every continent | 0.20% | ~833 |
-| Early-Modern Warfare | 0.20% | ~833 |
-| Electable! | 0.20% | ~833 |
-| Grand Coalition | 0.20% | ~833 |
-| Just a Little Patience | 0.20% | ~833 |
-| One Family to Rule them All | 0.20% | ~833 |
-| Ruina Imperii | 0.20% | ~833 |
-| The pen is mightier than the sword | 0.20% | ~833 |
-| This is My Faith | 0.20% | ~833 |
-| Time Bandit | 0.20% | ~833 |
-| Traditional Player | 0.20% | ~833 |
-| Voting Streak | 0.20% | ~833 |
+| All belongs to Mother Russia | 0.20% | ~834 |
+| At every continent | 0.20% | ~834 |
+| Early-Modern Warfare | 0.20% | ~834 |
+| Electable! | 0.20% | ~834 |
+| Grand Coalition | 0.20% | ~834 |
+| Just a Little Patience | 0.20% | ~834 |
+| One Family to Rule them All | 0.20% | ~834 |
+| Ruina Imperii | 0.20% | ~834 |
+| The pen is mightier than the sword | 0.20% | ~834 |
+| This is My Faith | 0.20% | ~834 |
+| Time Bandit | 0.20% | ~834 |
+| Traditional Player | 0.20% | ~834 |
+| Voting Streak | 0.20% | ~834 |
 | The 52 Garhs | 0.10% | ~417 |
 | I don't like sand | 0.10% | ~417 |
 | A Blessed Nation | 0.10% | ~417 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,746 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 297)  
+Progressed: 416,764 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -523,14 +523,15 @@ Completed: 1 (0.00%) (Ranked 297)
 | 2023-09-26 | 415,263 | 1 |
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
+| 2023-09-29 | 416,764 | 1 |
 ## Awards
 Max (Educational): 6,316  (Ranked 57)  
-Sum: 51,750 (Ranked 24)  
+Sum: 51,764 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,316 |
-| This game is Highly Recommended | 5,998 |
+| This game is Highly Recommended | 6,012 |
 | This game has Challenging Combat | 5,978 |
 | This game has Diverse Characters | 5,943 |
 | This game is Extremely Fun | 5,939 |
@@ -796,4 +797,4 @@ Diff (max vs sum): 33
 | 2023-09-25 | 4.69 | - | 6,263 | 51,425 |
 | 2023-09-26 | 4.69 | - | 6,276 | 51,532 |
 | 2023-09-27 | 4.69 | - | 6,290 | 51,632 |
-| 2023-09-28 | 4.69 | - | 6,316 | 51,750 |
+| 2023-09-28 | 4.69 | - | 6,316 | 51,764 |

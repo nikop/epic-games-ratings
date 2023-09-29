@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~290 |
 | Your first fight | 87.00% | ~287 |
+| Good Person Chip | 86.00% | ~284 |
 | First winning | 85.00% | ~280 |
-| Good Person Chip | 85.00% | ~280 |
 | Your first job | 84.00% | ~277 |
 | Old movies enjoyer | 80.00% | ~264 |
 | Depressed visitor | 79.00% | ~261 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~99 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 330 (Ranked 296)  
-Completed: 8 (2.42%) (Ranked 91)  
+Completed: 8 (2.42%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

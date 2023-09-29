@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1856,9 +1856,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 592
+      "UsersEstimate": 601
     },
     {
       "ID": "AC04",
@@ -2209,8 +2209,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:03:58.834867+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:03:42.415316+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:01:23.4965778+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:03:58.8349051+00:00"
+  "LastUpdate_Ratings": "2023-09-29T00:00:50.5287768+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:03:42.4153683+00:00"
 }

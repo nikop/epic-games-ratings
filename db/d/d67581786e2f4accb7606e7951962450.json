@@ -3,9 +3,9 @@
   "Name": "T-Rex Dinosaur Game",
   "ProductSlug": "trex-dinosaur-game-d30355",
   "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-22T03:00:00+00:00",
     "PcReleaseDate": "2023-01-20T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-25T18:58:23.0172981+00:00",
   "LastUpdate_AppInfo": "2023-09-22T02:12:48.5161524+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:59:04.8943917+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:03:09.9981784+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:58:49.6058483+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:02:19.2271755+00:00"
 }

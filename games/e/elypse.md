@@ -10,8 +10,8 @@
 | Baited | 67.00% | ~64 |
 | "Swoosh" | 60.00% | ~57 |
 | The light at the end of the tunnel | 59.00% | ~56 |
+| Splash! | 54.00% | ~51 |
 | Masochistic | 53.00% | ~50 |
-| Splash! | 53.00% | ~50 |
 | Soft skin | 48.00% | ~46 |
 | Squid game | 42.00% | ~40 |
 | Sensitive soul | 34.00% | ~32 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 95 (Ranked 384)  
-Completed: 0 (0.00%) (Ranked 297)  
+Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

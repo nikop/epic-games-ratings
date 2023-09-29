@@ -6,23 +6,23 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,845 |
-| Tutti Eroi! | 55.00% | ~3,845 |
-| You Shall Not Pass | 53.00% | ~3,705 |
-| Avanti Savoia! | 48.00% | ~3,355 |
-| Mamma Mia! | 38.00% | ~2,656 |
-| Conrad von Hotzensocks | 36.00% | ~2,516 |
+| Tutti Eroi! | 55.00% | ~3,846 |
+| Peak Performance | 54.00% | ~3,776 |
+| You Shall Not Pass | 53.00% | ~3,706 |
+| Avanti Savoia! | 48.00% | ~3,356 |
+| Mamma Mia! | 38.00% | ~2,657 |
+| Conrad von Hotzensocks | 36.00% | ~2,517 |
 | Gabriele D'Annunzio | 34.00% | ~2,377 |
-| Silver Lining | 30.00% | ~2,097 |
+| Silver Lining | 30.00% | ~2,098 |
 | Aurelio Baruzzi | 24.00% | ~1,678 |
 | Decimation | 22.00% | ~1,538 |
 | Donatello | 22.00% | ~1,538 |
 | Veni Vidi Vici | 22.00% | ~1,538 |
 | The Italian Job | 21.00% | ~1,468 |
 | Insubordination | 20.00% | ~1,398 |
-| Ragazzi del '99 | 18.00% | ~1,258 |
-| The Lion of the Isonzo | 18.00% | ~1,258 |
-| Luigi Cadorna | 15.00% | ~1,048 |
+| Ragazzi del '99 | 18.00% | ~1,259 |
+| The Lion of the Isonzo | 18.00% | ~1,259 |
+| Luigi Cadorna | 15.00% | ~1,049 |
 | Dirty Dozen | 14.00% | ~979 |
 | Shaken, Not Stirred | 14.00% | ~979 |
 | Uomo Universale | 14.00% | ~979 |
@@ -36,8 +36,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Show Must Go On | 9.00% | ~629 |
 | Tosca | 9.00% | ~629 |
 | 12th Bottle of the Isonzo | 7.00% | ~489 |
-| Cercatore d'Oro | 6.00% | ~419 |
-| The Enlightment | 6.00% | ~419 |
+| Cercatore d'Oro | 6.00% | ~420 |
+| The Enlightment | 6.00% | ~420 |
 | Generalissimo | 5.00% | ~350 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~280 |
 | Seeing Red | 4.00% | ~280 |
@@ -52,8 +52,8 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,990 (Ranked 153)  
-Completed: 8 (0.11%) (Ranked 232)  
+Progressed: 6,992 (Ranked 153)  
+Completed: 8 (0.11%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,6 +208,7 @@ Completed: 8 (0.11%) (Ranked 232)
 | 2023-09-26 | 6,979 | 8 |
 | 2023-09-27 | 6,985 | 8 |
 | 2023-09-28 | 6,990 | 8 |
+| 2023-09-29 | 6,992 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 447)  
 Sum: 274 (Ranked 356)  

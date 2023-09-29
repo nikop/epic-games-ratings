@@ -3,9 +3,9 @@
   "Name": "Time Trap",
   "ProductSlug": "time-trap-8a9725",
   "Ranking_EOS_Progress": 508,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 11,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-09-12T14:02:14.1623151+00:00",
@@ -64,6 +64,11 @@
       "Time": "2023-09-27T23:07:44.1273701+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T00:03:04.1462925+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-12T14:02:14.1636363+00:00",
@@ -106,9 +111,9 @@
       "ID": "achievement_winner",
       "SetID": "b9jpe8p",
       "Name": "Winner",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -116,12 +121,12 @@
       "ID": "b9jpe8p",
       "IsBase": true,
       "Progressed": 11,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:03:15.7397613+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:03:04.1462916+00:00",
   "LastUpdate_AppInfo": "2023-09-26T14:57:13.5590857+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:58:35.356124+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:03:15.7397727+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:58:23.9352151+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:03:04.1463036+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 461,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "beat_c2a_bronze",
@@ -750,9 +750,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 66,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "soccer_hattrick",
@@ -861,8 +861,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:05:15.0788065+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:04:50.0599499+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:08.0521147+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:59:49.6543221+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:05:15.0788891+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:59:28.6677122+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:04:50.0600387+00:00"
 }

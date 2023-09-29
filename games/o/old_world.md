@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.40% | ~57 |
 | Hatti | 0.40% | ~57 |
 | Pantheon of Gods | 0.40% | ~57 |
+| Apadana in Parsa | 0.40% | ~57 |
 | Siege Tower | 0.40% | ~57 |
 | Conquest Victory | 0.40% | ~57 |
 | Pilgrimage | 0.40% | ~57 |
@@ -171,7 +172,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.30% | ~43 |
 | Macedonian Wars | 0.30% | ~43 |
 | Assyria | 0.30% | ~43 |
-| Apadana in Parsa | 0.30% | ~43 |
 | Play a MP Teams Game | 0.30% | ~43 |
 | Circus Maximus in Roma | 0.30% | ~43 |
 | Pantheon in Roma | 0.30% | ~43 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,185 (Ranked 133)  
-Completed: 5 (0.04%) (Ranked 262)  
+Progressed: 14,187 (Ranked 133)  
+Completed: 5 (0.04%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -465,6 +465,7 @@ Completed: 5 (0.04%) (Ranked 262)
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
+| 2023-09-29 | 14,187 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,823 (Ranked 207)  

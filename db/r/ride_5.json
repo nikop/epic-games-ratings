@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1914,6 +1914,11 @@
       "Time": "2023-09-28T23:06:57.3521241+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T00:06:23.1235714+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -1990,7 +1995,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2102,7 +2107,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2230,7 +2235,7 @@
       "Name": "Champagne Spray",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2317,14 +2322,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:06:57.3521235+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:06:23.1235708+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:58:35.702194+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:06:57.3521678+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:58:24.2364515+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:06:23.123627+00:00"
 }

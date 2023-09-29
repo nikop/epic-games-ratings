@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -12647,10 +12647,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884364,
-  "EOS_Completed": 2461,
-  "EOS_NewPlayers": 6307,
-  "EOS_NewCompleters": 286,
+  "EOS_Progressed": 884386,
+  "EOS_Completed": 2462,
+  "EOS_NewPlayers": 6305,
+  "EOS_NewCompleters": 285,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30787,6 +30787,11 @@
       "Time": "2023-09-28T23:07:00.1320014+00:00",
       "NumProgressed": 884364,
       "NumCompleted": 2461
+    },
+    {
+      "Time": "2023-09-29T00:06:25.6885949+00:00",
+      "NumProgressed": 884386,
+      "NumCompleted": 2462
     }
   ],
   "TotalAchievements": 57,
@@ -30798,7 +30803,7 @@
       "Name": "City Lights",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "BornToBeWild",
@@ -30868,9 +30873,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3537
+      "UsersEstimate": 4422
     },
     {
       "ID": "Gunslinger",
@@ -30878,7 +30883,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17687
+      "UsersEstimate": 17688
     },
     {
       "ID": "HandyMan",
@@ -30924,9 +30929,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4422
+      "UsersEstimate": 5306
     },
     {
       "ID": "MustBeTheRats",
@@ -30982,7 +30987,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17687
+      "UsersEstimate": 17688
     },
     {
       "ID": "Temperance",
@@ -30998,7 +31003,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17687
+      "UsersEstimate": 17688
     },
     {
       "ID": "TheDevil",
@@ -31078,7 +31083,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "TradeUnion",
@@ -31253,21 +31258,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884364,
-      "Completed": 2461
+      "Progressed": 884386,
+      "Completed": 2462
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 12987,
+      "Progressed": 13009,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-28T22:58:07.9195041+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:07:00.1320008+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:06:25.6885944+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:58:07.9195047+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:07:00.1321297+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:58:00.4166925+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:06:25.6887716+00:00"
 }

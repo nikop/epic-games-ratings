@@ -27,8 +27,8 @@
 | Sentinel Ally | 47.00% | ~212 |
 | Krogan Ally | 46.00% | ~208 |
 | Paramour I | 44.00% | ~199 |
+| Scientist | 44.00% | ~199 |
 | Merciless | 43.00% | ~194 |
-| Scientist | 43.00% | ~194 |
 | Operative | 40.00% | ~181 |
 | Veteran | 39.00% | ~176 |
 | Head Hunter | 39.00% | ~176 |
@@ -73,10 +73,10 @@
 | Friend or Foe | 25.00% | ~113 |
 | Mobilizer | 25.00% | ~113 |
 | Eye of the Hurricane | 24.00% | ~108 |
+| Mission Accomplished | 24.00% | ~108 |
 | Suicide Mission | 24.00% | ~108 |
+| Against All Odds | 24.00% | ~108 |
 | Giant Killer | 23.00% | ~104 |
-| Mission Accomplished | 23.00% | ~104 |
-| Against All Odds | 23.00% | ~104 |
 | A House Divided | 23.00% | ~104 |
 | Weapon Specialist | 23.00% | ~104 |
 | Liberator | 23.00% | ~104 |
@@ -95,9 +95,9 @@
 | Fact Finder | 17.00% | ~77 |
 | Pyromaniac | 16.00% | ~72 |
 | Under Pressure | 16.00% | ~72 |
+| Throw Mastery | 16.00% | ~72 |
 | Hard Target | 16.00% | ~72 |
 | Last Resort | 15.00% | ~68 |
-| Throw Mastery | 15.00% | ~68 |
 | Saboteur | 15.00% | ~68 |
 | Last Witness | 14.00% | ~63 |
 | Mail Slot | 13.00% | ~59 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 452 (Ranked 274)  
-Completed: 0 (0.00%) (Ranked 297)  
+Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -24,8 +24,8 @@
 | NOW GO AWAY! | 38.00% | ~19 |
 | Show me your true self | 36.00% | ~18 |
 | No posters allowed | 36.00% | ~18 |
+| Shattered | 34.00% | ~17 |
 | GG | 34.00% | ~17 |
-| Shattered | 32.00% | ~16 |
 | You've got mail! | 32.00% | ~16 |
 | Mischief maker | 32.00% | ~16 |
 | Close the deal | 30.00% | ~15 |

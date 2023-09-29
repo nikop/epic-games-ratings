@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70060,
+  "EOS_Progressed": 70062,
   "EOS_Completed": 370,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -17979,6 +17979,11 @@
       "Time": "2023-09-28T23:05:52.6242853+00:00",
       "NumProgressed": 70060,
       "NumCompleted": 370
+    },
+    {
+      "Time": "2023-09-29T00:05:24.1103952+00:00",
+      "NumProgressed": 70062,
+      "NumCompleted": 370
     }
   ],
   "TotalAchievements": 24,
@@ -17998,7 +18003,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15413
+      "UsersEstimate": 15414
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -18006,7 +18011,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47641
+      "UsersEstimate": 47642
     },
     {
       "ID": "BEST_FRIENDS",
@@ -18014,7 +18019,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15413
+      "UsersEstimate": 15414
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -18038,7 +18043,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18916
+      "UsersEstimate": 18917
     },
     {
       "ID": "FOXIN_AROUND",
@@ -18046,7 +18051,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20317
+      "UsersEstimate": 20318
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -18070,7 +18075,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37132
+      "UsersEstimate": 37133
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -18110,7 +18115,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6305
+      "UsersEstimate": 6306
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -18181,7 +18186,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70060,
+      "Progressed": 70062,
       "Completed": 370
     }
   ],
@@ -18189,8 +18194,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:05:52.6242848+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:05:24.1103946+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:22.181135+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:58:53.9666039+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:05:52.6243834+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:58:40.3441076+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:05:24.1105174+00:00"
 }

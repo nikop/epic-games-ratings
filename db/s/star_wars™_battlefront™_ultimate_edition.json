@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -671,6 +671,11 @@
       "Time": "2023-09-28T22:06:43.5150309+00:00",
       "NumProgressed": 289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T00:06:52.299424+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -907,7 +912,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_36",
@@ -931,7 +936,7 @@
       "Name": "Survivor",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_39",
@@ -953,9 +958,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_41",
@@ -985,9 +990,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_45",
@@ -1186,13 +1191,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 1
     }
   ],
@@ -1200,8 +1205,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:07:29.6941621+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:06:52.2994234+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-28T22:58:07.3443035+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:07:29.6942178+00:00"
+  "LastUpdate_Ratings": "2023-09-28T23:57:59.7895158+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:06:52.2994994+00:00"
 }

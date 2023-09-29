@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74490,
+  "EOS_Progressed": 74491,
   "EOS_Completed": 777,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18094,6 +18094,11 @@
       "Time": "2023-09-28T23:05:23.4598763+00:00",
       "NumProgressed": 74490,
       "NumCompleted": 777
+    },
+    {
+      "Time": "2023-09-29T00:04:58.4137666+00:00",
+      "NumProgressed": 74491,
+      "NumCompleted": 777
     }
   ],
   "TotalAchievements": 25,
@@ -18201,7 +18206,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3724
+      "UsersEstimate": 3725
     },
     {
       "ID": "Master, Commander",
@@ -18233,7 +18238,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11918
+      "UsersEstimate": 11919
     },
     {
       "ID": "Nothing Left to Say",
@@ -18304,7 +18309,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74490,
+      "Progressed": 74491,
       "Completed": 777
     }
   ],
@@ -18312,8 +18317,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:05:23.4598756+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:04:58.4137658+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:01:05.7397799+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:05:23.4599795+00:00"
+  "LastUpdate_Ratings": "2023-09-29T00:00:34.967581+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:04:58.413917+00:00"
 }

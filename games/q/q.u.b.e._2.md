@@ -37,7 +37,7 @@ Number of Ratings: 94  (23.09.2022)
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 476 (Ranked 270)  
-Completed: 1 (0.21%) (Ranked 210)  
+Completed: 1 (0.21%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

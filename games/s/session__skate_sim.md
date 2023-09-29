@@ -8,7 +8,7 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 60.00% | ~1,787 |
 | Keeping it classy | 27.00% | ~804 |
-| Welcome to the family | 21.00% | ~625 |
+| Welcome to the family | 22.00% | ~655 |
 | The finer things in life | 19.00% | ~566 |
 | Backpacker | 14.00% | ~417 |
 | Go with the Flow | 13.00% | ~387 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,978 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 297)  
+Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

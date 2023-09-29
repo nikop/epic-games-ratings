@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5427,
+  "EOS_Progressed": 5428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2600,6 +2600,11 @@
       "Time": "2023-09-28T23:06:27.6201868+00:00",
       "NumProgressed": 5427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T00:05:56.4016084+00:00",
+      "NumProgressed": 5428,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -2618,9 +2623,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 3799
+      "UsersEstimate": 3854
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -2700,15 +2705,15 @@
       "Name": "Lumberjack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2225
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -2764,7 +2769,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -2891,7 +2896,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5427,
+      "Progressed": 5428,
       "Completed": 0
     }
   ],
@@ -2899,8 +2904,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-09-26T19:02:05.5015028+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:06:27.6201862+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:05:56.4016078+00:00",
   "LastUpdate_AppInfo": "2023-09-22T03:57:07.0968101+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:02:13.2373825+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:06:27.6202205+00:00"
+  "LastUpdate_Ratings": "2023-09-29T00:02:05.4766254+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:05:56.4016525+00:00"
 }

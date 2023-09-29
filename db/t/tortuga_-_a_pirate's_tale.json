@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16374,
+  "EOS_Progressed": 16375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4811,6 +4811,11 @@
       "Time": "2023-09-28T23:08:04.8540057+00:00",
       "NumProgressed": 16374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T00:07:23.1656254+00:00",
+      "NumProgressed": 16375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4822,7 +4827,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15555
+      "UsersEstimate": 15556
     },
     {
       "ID": "ACH001",
@@ -4870,7 +4875,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "ACH0015",
@@ -4918,7 +4923,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "ACH0020",
@@ -4934,7 +4939,7 @@
       "Name": "A True Dandy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH0022",
@@ -4942,7 +4947,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5568
     },
     {
       "ID": "ACH0023",
@@ -4982,7 +4987,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14409
+      "UsersEstimate": 14410
     },
     {
       "ID": "ACH005",
@@ -4998,7 +5003,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6713
+      "UsersEstimate": 6714
     },
     {
       "ID": "ACH007",
@@ -5029,7 +5034,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16374,
+      "Progressed": 16375,
       "Completed": 0
     }
   ],
@@ -5037,8 +5042,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-28T23:08:04.8540052+00:00",
+  "LastChanged_Achievements": "2023-09-29T00:07:23.1656248+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.9271545+00:00",
-  "LastUpdate_Ratings": "2023-09-28T23:00:41.586106+00:00",
-  "LastUpdate_Achievements": "2023-09-28T23:08:04.8540439+00:00"
+  "LastUpdate_Ratings": "2023-09-29T00:00:13.9532+00:00",
+  "LastUpdate_Achievements": "2023-09-29T00:07:23.1656753+00:00"
 }
