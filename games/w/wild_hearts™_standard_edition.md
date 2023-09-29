@@ -11,14 +11,14 @@
 | Charmed by the Hunt | 69.00% | ~53 |
 | Man-Machine Master | 68.00% | ~52 |
 | Mountain Splitter | 66.00% | ~51 |
-| Fusion Conjuror | 64.00% | ~49 |
+| Fusion Conjuror | 65.00% | ~50 |
 | Memory Rouser | 64.00% | ~49 |
 | Master of the Skies | 60.00% | ~46 |
 | Subsistence Skills | 60.00% | ~46 |
 | Kemono Hunter | 60.00% | ~46 |
 | Helpful Heart | 56.00% | ~43 |
 | Distance Devourer | 55.00% | ~42 |
-| Expert Conjuror | 52.00% | ~40 |
+| Expert Conjuror | 53.00% | ~41 |
 | Flawless Crystal | 49.00% | ~38 |
 | Bonds of Enmity | 47.00% | ~36 |
 | Counter Specialist | 45.00% | ~35 |
@@ -39,9 +39,9 @@
 | Style Seeker | 26.00% | ~20 |
 | Human Believer | 26.00% | ~20 |
 | Karakuri Minato | 26.00% | ~20 |
+| Volatile Vocation | 25.00% | ~19 |
 | Jack of All Trades | 25.00% | ~19 |
 | Canyon of Karakuri | 23.00% | ~18 |
-| Volatile Vocation | 23.00% | ~18 |
 | Superlative View | 22.00% | ~17 |
 | Tender Touch | 21.00% | ~16 |
 | Quintessence of Form | 21.00% | ~16 |

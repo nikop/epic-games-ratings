@@ -6,45 +6,45 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,006 |
-| Jeef Skeejj | 44.00% | ~206,004 |
-| Careful planning | 39.00% | ~182,594 |
-| Second Coming | 34.00% | ~159,185 |
-| Jeef Skagg | 30.00% | ~140,457 |
-| Mother | 25.00% | ~117,048 |
-| In space, no one can hear you scream | 24.00% | ~112,366 |
-| Chapter I: Echoes | 22.00% | ~103,002 |
-| Excelsior Rule | 22.00% | ~103,002 |
-| Things persisted in not being what they seemed | 20.00% | ~93,638 |
-| Knightmare Frames | 15.00% | ~70,229 |
-| May His passing cleanse the world | 15.00% | ~70,229 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,229 |
-| Pope Zenon | 15.00% | ~70,229 |
-| Tetsuo | 11.00% | ~51,501 |
-| Plan for the worst | 11.00% | ~51,501 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,819 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,455 |
-| Through the mirror | 8.00% | ~37,455 |
-| General Vivar | 8.00% | ~37,455 |
-| Back to Ganyma | 8.00% | ~37,455 |
-| Kaos Rule | 8.00% | ~37,455 |
-| Admiral Okonkwo | 7.00% | ~32,773 |
-| The Survivalists | 7.00% | ~32,773 |
-| The Tech Specialist | 7.00% | ~32,773 |
-| Chapter V: Memories of None | 6.00% | ~28,091 |
-| Meet your maker | 6.00% | ~28,091 |
-| The Impersonator | 6.00% | ~28,091 |
-| The Kid | 6.00% | ~28,091 |
-| The Evangelist | 6.00% | ~28,091 |
-| The Inquisitor | 6.00% | ~28,091 |
-| The Ace Pilot | 6.00% | ~28,091 |
-| The Tech Med | 6.00% | ~28,091 |
-| The Mech Soldier | 6.00% | ~28,091 |
-| The lucky charm | 6.00% | ~28,091 |
-| The Anonymous | 6.00% | ~28,091 |
-| The Smuggler | 6.00% | ~28,091 |
-| The Crazy Repairman | 6.00% | ~28,091 |
-| The Weasel | 6.00% | ~28,091 |
+| The Shutdown | 66.00% | ~309,010 |
+| Jeef Skeejj | 44.00% | ~206,007 |
+| Careful planning | 39.00% | ~182,597 |
+| Second Coming | 34.00% | ~159,187 |
+| Jeef Skagg | 30.00% | ~140,459 |
+| Mother | 25.00% | ~117,049 |
+| In space, no one can hear you scream | 24.00% | ~112,367 |
+| Chapter I: Echoes | 22.00% | ~103,003 |
+| Excelsior Rule | 22.00% | ~103,003 |
+| Things persisted in not being what they seemed | 20.00% | ~93,639 |
+| Knightmare Frames | 15.00% | ~70,230 |
+| May His passing cleanse the world | 15.00% | ~70,230 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,230 |
+| Pope Zenon | 15.00% | ~70,230 |
+| Tetsuo | 11.00% | ~51,502 |
+| Plan for the worst | 11.00% | ~51,502 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,820 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,456 |
+| Through the mirror | 8.00% | ~37,456 |
+| General Vivar | 8.00% | ~37,456 |
+| Back to Ganyma | 8.00% | ~37,456 |
+| Kaos Rule | 8.00% | ~37,456 |
+| Admiral Okonkwo | 7.00% | ~32,774 |
+| The Survivalists | 7.00% | ~32,774 |
+| The Tech Specialist | 7.00% | ~32,774 |
+| Chapter V: Memories of None | 6.00% | ~28,092 |
+| Meet your maker | 6.00% | ~28,092 |
+| The Impersonator | 6.00% | ~28,092 |
+| The Kid | 6.00% | ~28,092 |
+| The Evangelist | 6.00% | ~28,092 |
+| The Inquisitor | 6.00% | ~28,092 |
+| The Ace Pilot | 6.00% | ~28,092 |
+| The Tech Med | 6.00% | ~28,092 |
+| The Mech Soldier | 6.00% | ~28,092 |
+| The lucky charm | 6.00% | ~28,092 |
+| The Anonymous | 6.00% | ~28,092 |
+| The Smuggler | 6.00% | ~28,092 |
+| The Crazy Repairman | 6.00% | ~28,092 |
+| The Weasel | 6.00% | ~28,092 |
 | Kill the Doctor | 5.00% | ~23,410 |
 | Forsaken | 5.00% | ~23,410 |
 | Mercy | 5.00% | ~23,410 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Rule | 1.00% | ~4,682 |
 | Excelsior Mastery | 0.90% | ~4,214 |
 | The greatest admiral of all time | 0.50% | ~2,341 |
-| Hand of the Emperor | 0.40% | ~48 |
+| Hand of the Emperor | 0.40% | ~49 |
 | Soldiers of Fortune | 0.30% | ~36 |
 | Liberator | 0.10% | ~468 |
 | The Art of War | 0.10% | ~468 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,191 (Ranked 37)  
+Progressed: 468,197 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 18 (0.00%) (Ranked 299)
 | 2023-09-26 | 468,039 | 18 |
 | 2023-09-27 | 468,077 | 18 |
 | 2023-09-28 | 468,130 | 18 |
-| 2023-09-29 | 468,191 | 18 |
+| 2023-09-29 | 468,197 | 18 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 240 (Ranked 364)  

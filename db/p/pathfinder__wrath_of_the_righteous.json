@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3824,9 +3824,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11436,
+  "EOS_Progressed": 11437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13019,6 +13019,11 @@
       "Time": "2023-09-29T20:03:44.3539368+00:00",
       "NumProgressed": 11436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T21:03:53.271851+00:00",
+      "NumProgressed": 11437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13398,7 +13403,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "49_Flame",
@@ -13957,21 +13962,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10218,
+      "Progressed": 10219,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11436,
+      "Progressed": 11437,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-29T19:57:54.7769864+00:00",
-  "LastChanged_Achievements": "2023-09-29T20:03:44.3539364+00:00",
+  "LastChanged_Achievements": "2023-09-29T21:03:53.2718505+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-29T19:57:54.776987+00:00",
-  "LastUpdate_Achievements": "2023-09-29T20:03:44.3541471+00:00"
+  "LastUpdate_Ratings": "2023-09-29T20:58:02.841088+00:00",
+  "LastUpdate_Achievements": "2023-09-29T21:03:53.2720796+00:00"
 }

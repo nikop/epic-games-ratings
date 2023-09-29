@@ -5,26 +5,26 @@ Rating: 3.77 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,626 |
-| No Half Measures | 88.00% | ~14,474 |
-| Personal Matter | 86.00% | ~14,145 |
-| But You Have Heard of Me | 72.00% | ~11,843 |
-| Double the Barrels, double the Fun | 55.00% | ~9,046 |
-| Pimp My Glide | 48.00% | ~7,895 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,744 |
-| House Party! | 34.00% | ~5,592 |
-| Make It Rain | 23.00% | ~3,783 |
+| Eeligally Ambitious | 95.00% | ~15,629 |
+| No Half Measures | 88.00% | ~14,478 |
+| Personal Matter | 86.00% | ~14,149 |
+| But You Have Heard of Me | 72.00% | ~11,845 |
+| Double the Barrels, double the Fun | 55.00% | ~9,049 |
+| Pimp My Glide | 48.00% | ~7,897 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,745 |
+| House Party! | 34.00% | ~5,594 |
+| Make It Rain | 23.00% | ~3,784 |
 | Curse of the Seven Seas | 22.00% | ~3,619 |
 | Head First | 16.00% | ~2,632 |
 | To the World's End | 12.00% | ~1,974 |
-| Table for Six | 11.00% | ~1,809 |
+| Table for Six | 11.00% | ~1,810 |
 | Sharing Is Caring | 10.00% | ~1,645 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,316 |
 | Morally Flexible | 6.00% | ~987 |
-| Fishing for Compliments | 5.00% | ~822 |
-| After All, Why Shouldn't I Keep It? | 3.00% | ~493 |
+| Fishing for Compliments | 5.00% | ~823 |
+| After All, Why Shouldn't I Keep It? | 3.00% | ~494 |
 | A True Dandy | 2.00% | ~329 |
-| A New Legend Awaits | 1.00% | ~164 |
+| A New Legend Awaits | 1.00% | ~165 |
 | Pirate King | 0.80% | ~132 |
 | Oooh, We're Half Way There | 0.80% | ~132 |
 | Devilishly Talented | 0.10% | ~16 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 995)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,448 (Ranked 129)  
+Progressed: 16,452 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 16,251 | 0 |
 | 2023-09-27 | 16,304 | 0 |
 | 2023-09-28 | 16,374 | 0 |
-| 2023-09-29 | 16,448 | 0 |
+| 2023-09-29 | 16,452 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

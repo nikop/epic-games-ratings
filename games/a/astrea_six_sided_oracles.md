@@ -10,11 +10,11 @@
 | Dicesmithing Time! | 84.00% | ~21 |
 | Wild's Keeper | 80.00% | ~20 |
 | Sanctuary Guardian | 72.00% | ~18 |
-| Endless Tricks | 64.00% | ~16 |
+| Endless Tricks | 68.00% | ~17 |
 | Mind Illuminator | 52.00% | ~13 |
-| Stellar Dismantler | 36.00% | ~9 |
+| Stellar Dismantler | 40.00% | ~10 |
+| Star Killer | 28.00% | ~7 |
 | Unbeatable | 28.00% | ~7 |
-| Star Killer | 24.00% | ~6 |
 | Anomaly Destroyer | 20.00% | ~5 |
 | Astral Adventurer | 20.00% | ~5 |
 | Sadistic Plan | 20.00% | ~5 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 468)  
+Progressed: 25 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |

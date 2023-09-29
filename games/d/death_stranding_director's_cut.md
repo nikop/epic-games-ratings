@@ -6,32 +6,32 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~491,783 |
-| Good Samaritan | 90.00% | ~481,092 |
-| Rebuilding America | 79.00% | ~422,292 |
-| Like and Be Liked | 77.00% | ~411,601 |
-| Apprentice Builder | 72.00% | ~384,874 |
-| A New Day for the UCA | 71.00% | ~379,528 |
-| A Baby Blessing | 64.00% | ~342,110 |
-| Prominent Porter | 64.00% | ~342,110 |
-| Building Bridges | 64.00% | ~342,110 |
-| Well Connected | 62.00% | ~331,419 |
+| Delivering Is What I Do | 92.00% | ~491,784 |
+| Good Samaritan | 90.00% | ~481,093 |
+| Rebuilding America | 79.00% | ~422,293 |
+| Like and Be Liked | 77.00% | ~411,602 |
+| Apprentice Builder | 72.00% | ~384,875 |
+| A New Day for the UCA | 71.00% | ~379,529 |
+| A Baby Blessing | 64.00% | ~342,111 |
+| Prominent Porter | 64.00% | ~342,111 |
+| Building Bridges | 64.00% | ~342,111 |
+| Well Connected | 62.00% | ~331,420 |
 | The Custom Kid | 61.00% | ~326,074 |
 | Chiral Crafter | 59.00% | ~315,383 |
 | Boots Are a Porter's Best Friend | 59.00% | ~315,383 |
-| The People's Porter | 56.00% | ~299,346 |
-| I Couldn't Hold it In! | 56.00% | ~299,346 |
-| Everyday Delivery | 52.00% | ~277,964 |
+| The People's Porter | 56.00% | ~299,347 |
+| I Couldn't Hold it In! | 56.00% | ~299,347 |
+| Everyday Delivery | 52.00% | ~277,965 |
 | A Shout in the Dark | 50.00% | ~267,274 |
 | A Thirst for Knowledge | 48.00% | ~256,583 |
 | Snooze 'n' Soothe | 48.00% | ~256,583 |
 | Soothing Sounds | 46.00% | ~245,892 |
-| We Need You | 45.00% | ~240,546 |
-| Catcher Crusher | 45.00% | ~240,546 |
+| We Need You | 45.00% | ~240,547 |
+| Catcher Crusher | 45.00% | ~240,547 |
 | Sleep Tight, Little BB | 44.00% | ~235,201 |
-| Giver of Gifts | 39.00% | ~208,473 |
-| All Roads Lead to the UCA | 39.00% | ~208,473 |
-| Well-Traveled | 37.00% | ~197,782 |
+| Giver of Gifts | 39.00% | ~208,474 |
+| All Roads Lead to the UCA | 39.00% | ~208,474 |
+| Well-Traveled | 37.00% | ~197,783 |
 | The Automation Revolution | 36.00% | ~192,437 |
 | Pathfinder | 36.00% | ~192,437 |
 | I Won't Break | 32.00% | ~171,055 |
@@ -42,14 +42,14 @@ Number of Ratings: 3,099  (23.09.2022)
 | BBs: A Bridge Between This World and the One Beyond | 26.00% | ~138,982 |
 | Soak and Sigh | 25.00% | ~133,637 |
 | "BB" | 25.00% | ~133,637 |
-| Deliveries Done | 24.00% | ~128,291 |
-| Sixty Deaths and Sixty Births in a Day | 22.00% | ~117,600 |
+| Deliveries Done | 24.00% | ~128,292 |
+| Sixty Deaths and Sixty Births in a Day | 22.00% | ~117,601 |
 | The Particle of God | 21.00% | ~112,255 |
 | I'm Your Die-Hardman | 21.00% | ~112,255 |
 | Bring Back My Baby | 21.00% | ~112,255 |
 | She's waiting for you on the Beach. | 21.00% | ~112,255 |
-| Thank You, Sam | 20.00% | ~106,909 |
-| Thanks for Everything | 20.00% | ~106,909 |
+| Thank You, Sam | 20.00% | ~106,910 |
+| Thanks for Everything | 20.00% | ~106,910 |
 | The Post Guides the Present | 17.00% | ~90,873 |
 | Rest In Pieces | 16.00% | ~85,528 |
 | Hooked on Delivering!? | 15.00% | ~80,182 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,138 |
 | Homo Faber | 0.40% | ~2,138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,547 (Ranked 31)  
+Progressed: 534,548 (Ranked 31)  
 Completed: 2,023 (0.38%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,10 +232,10 @@ Completed: 2,023 (0.38%) (Ranked 178)
 | 2023-09-26 | 534,011 | 2,021 |
 | 2023-09-27 | 534,152 | 2,022 |
 | 2023-09-28 | 534,335 | 2,023 |
-| 2023-09-29 | 534,547 | 2,023 |
+| 2023-09-29 | 534,548 | 2,023 |
 ## Awards
 Max (Great Boss Battles): 8,305  (Ranked 42)  
-Sum: 14,175 (Ranked 71)  
+Sum: 14,177 (Ranked 71)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): -29
 | This game has Diverse Characters | 567 |
 | This game has Amazing Characters | 546 |
 | This game is Highly Recommended | 537 |
-| This game is Extremely Fun | 534 |
+| This game is Extremely Fun | 536 |
 | This game is Educational | 531 |
 | This game has Unique Visuals | 527 |
 | This game has Quickly Understood Controls | 518 |
@@ -511,4 +511,4 @@ Diff (max vs sum): -29
 | 2023-09-26 | 4.89 | - | 8,282 | 14,131 |
 | 2023-09-27 | 4.89 | - | 8,294 | 14,156 |
 | 2023-09-28 | 4.89 | - | 8,298 | 14,163 |
-| 2023-09-29 | 4.89 | - | 8,305 | 14,175 |
+| 2023-09-29 | 4.89 | - | 8,305 | 14,177 |

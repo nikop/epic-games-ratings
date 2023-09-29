@@ -5,37 +5,37 @@ Rating: 4.00 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 83.00% | ~29 |
-| Battlefields Have Memories | 83.00% | ~29 |
-| Maybe Engage a Little | 83.00% | ~29 |
-| Enlisted | 83.00% | ~29 |
-| No More Names | 74.00% | ~26 |
-| Initiate | 69.00% | ~24 |
-| Thrada-Kul | 60.00% | ~21 |
-| Gravity-Challenged Rocks | 49.00% | ~17 |
-| Soldier | 46.00% | ~16 |
-| All the Major Food Groups | 40.00% | ~14 |
-| Beggars Would Ride | 37.00% | ~13 |
-| Control is an Illusion | 34.00% | ~12 |
-| The Means to Save It | 31.00% | ~11 |
-| Socialite | 31.00% | ~11 |
-| Resilience to Sin | 29.00% | ~10 |
-| A Familiar Nest | 26.00% | ~9 |
-| Geas Aristeya | 26.00% | ~9 |
-| Armsman | 26.00% | ~9 |
-| Periapt Alizarin | 26.00% | ~9 |
-| A Perfect Cycle | 23.00% | ~8 |
-| Recruit | 23.00% | ~8 |
+| Unforeseen | 84.00% | ~31 |
+| Battlefields Have Memories | 84.00% | ~31 |
+| Maybe Engage a Little | 84.00% | ~31 |
+| Enlisted | 84.00% | ~31 |
+| No More Names | 76.00% | ~28 |
+| Initiate | 70.00% | ~26 |
+| Thrada-Kul | 62.00% | ~23 |
+| Gravity-Challenged Rocks | 49.00% | ~18 |
+| Soldier | 46.00% | ~17 |
+| All the Major Food Groups | 41.00% | ~15 |
+| Beggars Would Ride | 38.00% | ~14 |
+| Control is an Illusion | 35.00% | ~13 |
+| The Means to Save It | 32.00% | ~12 |
+| Socialite | 32.00% | ~12 |
+| Resilience to Sin | 30.00% | ~11 |
+| A Familiar Nest | 27.00% | ~10 |
+| Periapt Alizarin | 27.00% | ~10 |
+| Geas Aristeya | 24.00% | ~9 |
+| Armsman | 24.00% | ~9 |
+| A Perfect Cycle | 22.00% | ~8 |
+| Recruit | 22.00% | ~8 |
 | Lights Army | 14.00% | ~5 |
 | Armaments Gules | 14.00% | ~5 |
+| Periapt Cerulean | 14.00% | ~5 |
 | Good Boy | 14.00% | ~5 |
-| Periapt Cerulean | 11.00% | ~4 |
 | Shroudfane Explorer | 11.00% | ~4 |
-| Scholar | 9.00% | ~3 |
-| Armaments Azure | 9.00% | ~3 |
-| Periapt Viridian | 9.00% | ~3 |
-| Veteran | 9.00% | ~3 |
-| Armaments Vert | 6.00% | ~2 |
+| Scholar | 8.00% | ~3 |
+| Armaments Azure | 8.00% | ~3 |
+| Periapt Viridian | 8.00% | ~3 |
+| Veteran | 8.00% | ~3 |
+| Armaments Vert | 5.00% | ~2 |
 | Grand Magnus | 3.00% | ~1 |
 | Kitted Out | 3.00% | ~1 |
 | Best Dressed | 3.00% | ~1 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 956)
 | Master of Malachite | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 454)  
+Progressed: 37 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 18 | 0 |
 | 2023-09-27 | 24 | 0 |
 | 2023-09-28 | 27 | 0 |
-| 2023-09-29 | 35 | 0 |
+| 2023-09-29 | 37 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

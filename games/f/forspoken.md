@@ -5,37 +5,37 @@ Rating: 4.16 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,034 |
-| Unlocked Potential | 9.00% | ~3,631 |
-| Tinkerer | 7.00% | ~2,824 |
-| Knock 'Em Dead | 7.00% | ~2,824 |
-| Pilgrimage: Initiate | 7.00% | ~2,824 |
-| Hell of a Run | 7.00% | ~2,824 |
-| Leapfrogger | 6.00% | ~2,421 |
-| Call of the Fount: Baptized | 6.00% | ~2,421 |
-| No Mercy | 5.00% | ~2,017 |
-| Explorer: Seeker | 5.00% | ~2,017 |
-| Help Me Out Here | 5.00% | ~2,017 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,614 |
-| Stuck | 4.00% | ~1,614 |
-| Outdoorsperson | 3.00% | ~1,210 |
-| The Interloper | 3.00% | ~1,210 |
-| Hop, Step, Jump | 3.00% | ~1,210 |
-| Endless Runner | 3.00% | ~1,210 |
+| Attachments | 10.00% | ~4,037 |
+| Unlocked Potential | 9.00% | ~3,633 |
+| Tinkerer | 7.00% | ~2,826 |
+| Knock 'Em Dead | 7.00% | ~2,826 |
+| Pilgrimage: Initiate | 7.00% | ~2,826 |
+| Hell of a Run | 7.00% | ~2,826 |
+| Leapfrogger | 6.00% | ~2,422 |
+| Call of the Fount: Baptized | 6.00% | ~2,422 |
+| No Mercy | 5.00% | ~2,019 |
+| Explorer: Seeker | 5.00% | ~2,019 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,615 |
+| Stuck | 4.00% | ~1,615 |
+| Help Me Out Here | 4.00% | ~1,615 |
+| Outdoorsperson | 3.00% | ~1,211 |
+| The Interloper | 3.00% | ~1,211 |
+| Hop, Step, Jump | 3.00% | ~1,211 |
+| Endless Runner | 3.00% | ~1,211 |
 | What Must Be Done | 2.00% | ~807 |
 | Might and Main | 2.00% | ~807 |
 | Damned If You Do... | 2.00% | ~807 |
 | Explorer: Pathfinder | 2.00% | ~807 |
 | Shocker | 2.00% | ~807 |
 | From Every Angle | 2.00% | ~807 |
-| The Hue of Blue | 1.00% | ~403 |
-| The Truth Will Out | 1.00% | ~403 |
-| Breaking Point | 1.00% | ~403 |
-| None the Wiser | 1.00% | ~403 |
-| Forspoken | 1.00% | ~403 |
-| Pilgrimage: Novice | 1.00% | ~403 |
-| Wildfire | 0.70% | ~282 |
-| Realized Potential | 0.70% | ~282 |
+| The Hue of Blue | 1.00% | ~404 |
+| The Truth Will Out | 1.00% | ~404 |
+| Breaking Point | 1.00% | ~404 |
+| None the Wiser | 1.00% | ~404 |
+| Forspoken | 1.00% | ~404 |
+| Pilgrimage: Novice | 1.00% | ~404 |
+| Wildfire | 0.70% | ~283 |
+| Realized Potential | 0.70% | ~283 |
 | Awakening | 0.60% | ~242 |
 | Explorer: Trailblazer | 0.60% | ~242 |
 | Through the Eyes of Another: Seer | 0.50% | ~202 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 904)
 | Remembrance | 0.10% | ~40 |
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,344 (Ranked 105)  
+Progressed: 40,371 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 3 (0.01%) (Ranked 282)
 | 2023-09-26 | 40,073 | 3 |
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
-| 2023-09-29 | 40,344 | 3 |
+| 2023-09-29 | 40,371 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

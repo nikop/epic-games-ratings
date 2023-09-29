@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -400,23 +400,29 @@
       "Rating": 4.3,
       "NumberOfAwards": 81,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2023-09-29T20:57:59.9030551+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 82,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 81,
-  "NumberOfAwardsMax": 81,
+  "NumberOfAwards": 82,
+  "NumberOfAwardsMax": 82,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 81
+      "Count": 82
     }
   ],
-  "EOS_Progressed": 247470,
+  "EOS_Progressed": 247474,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18479,6 +18485,11 @@
       "Time": "2023-09-29T20:05:16.8793757+00:00",
       "NumProgressed": 247470,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-29T21:05:25.8114505+00:00",
+      "NumProgressed": 247474,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -18490,7 +18501,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66817
+      "UsersEstimate": 66818
     },
     {
       "ID": "ACH_AON",
@@ -18530,7 +18541,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29696
+      "UsersEstimate": 29697
     },
     {
       "ID": "ACH_ENJOY",
@@ -18554,7 +18565,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32171
+      "UsersEstimate": 32172
     },
     {
       "ID": "ACH_HATTRICK",
@@ -18570,7 +18581,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22272
+      "UsersEstimate": 22273
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -18634,7 +18645,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69292
+      "UsersEstimate": 69293
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -18706,7 +18717,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59393
+      "UsersEstimate": 59394
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -18905,16 +18916,16 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 247470,
+      "Progressed": 247474,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2023-09-19T16:58:32.5327503+00:00",
-  "LastChanged_Achievements": "2023-09-29T20:05:16.8793754+00:00",
+  "LastChanged": "2023-09-29T20:57:59.9030549+00:00",
+  "LastChanged_Achievements": "2023-09-29T21:05:25.8114501+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:14.4356466+00:00",
-  "LastUpdate_Ratings": "2023-09-29T19:57:50.5531221+00:00",
-  "LastUpdate_Achievements": "2023-09-29T20:05:16.8795257+00:00"
+  "LastUpdate_Ratings": "2023-09-29T20:57:59.9030554+00:00",
+  "LastUpdate_Achievements": "2023-09-29T21:05:25.8116043+00:00"
 }

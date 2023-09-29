@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 608)
 | Rookie No-No More | 13.00% | ~148 |
 | Running at the speed of sound | 13.00% | ~148 |
 | Martian explorer | 11.00% | ~126 |
-| To the core | 8.00% | ~91 |
+| To the core | 9.00% | ~103 |
 | Blurred photofinish | 8.00% | ~91 |
 | First step into a larger world | 7.00% | ~80 |
 | Over the clouds | 6.00% | ~69 |

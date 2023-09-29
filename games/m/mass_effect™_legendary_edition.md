@@ -40,19 +40,19 @@
 | Completionist | 35.00% | ~164 |
 | The Professor | 35.00% | ~164 |
 | Colony Defense | 34.00% | ~159 |
+| The Archangel | 34.00% | ~159 |
 | The Convict | 34.00% | ~159 |
 | The Krogan | 34.00% | ~159 |
 | Galactic Explorer | 34.00% | ~159 |
-| The Archangel | 33.00% | ~155 |
 | Broke, Blind, and Bedlam | 32.00% | ~150 |
+| A Personal Touch | 30.00% | ~141 |
 | Ghost Ship | 30.00% | ~141 |
 | The Justicar | 30.00% | ~141 |
 | The Quarian | 30.00% | ~141 |
+| Battlemaster | 30.00% | ~141 |
 | The Prodigal | 30.00% | ~141 |
 | Shopaholic | 30.00% | ~141 |
-| A Personal Touch | 29.00% | ~136 |
 | The Assassin | 29.00% | ~136 |
-| Battlemaster | 29.00% | ~136 |
 | The Cure | 29.00% | ~136 |
 | Big Game Hunter | 29.00% | ~136 |
 | Agent | 29.00% | ~136 |

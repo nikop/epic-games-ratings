@@ -1,30 +1,30 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 334)  
+Rating: 4.63 (Ranked 333)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,557 |
-| Rough Landing | 3.00% | ~26,557 |
-| Gunslinger | 2.00% | ~17,705 |
-| Master Crafter | 2.00% | ~17,705 |
-| The Jungle | 2.00% | ~17,705 |
-| V for Vendetta | 2.00% | ~17,705 |
-| Full Body Conversion | 1.00% | ~8,852 |
-| Right Back At Ya | 1.00% | ~8,852 |
-| Mean Streets | 1.00% | ~8,852 |
-| Breathtaking | 1.00% | ~8,852 |
-| Stanislavski's Method | 1.00% | ~8,852 |
-| Temperance | 1.00% | ~8,852 |
-| The Hermit | 1.00% | ~8,852 |
-| The High Priestess | 1.00% | ~8,852 |
-| The Wheel of Fortune | 1.00% | ~8,852 |
-| True Soldier | 1.00% | ~8,852 |
-| True Warrior | 1.00% | ~8,852 |
-| Two Heads, One Bullet | 1.00% | ~8,852 |
-| Legend of The Afterlife | 1.00% | ~8,852 |
+| Ten out of Ten | 3.00% | ~26,558 |
+| Rough Landing | 3.00% | ~26,558 |
+| Gunslinger | 2.00% | ~17,706 |
+| Master Crafter | 2.00% | ~17,706 |
+| The Jungle | 2.00% | ~17,706 |
+| Two Heads, One Bullet | 2.00% | ~17,706 |
+| V for Vendetta | 2.00% | ~17,706 |
+| Full Body Conversion | 1.00% | ~8,853 |
+| Right Back At Ya | 1.00% | ~8,853 |
+| Mean Streets | 1.00% | ~8,853 |
+| Breathtaking | 1.00% | ~8,853 |
+| Stanislavski's Method | 1.00% | ~8,853 |
+| Temperance | 1.00% | ~8,853 |
+| The Hermit | 1.00% | ~8,853 |
+| The High Priestess | 1.00% | ~8,853 |
+| The Wheel of Fortune | 1.00% | ~8,853 |
+| True Soldier | 1.00% | ~8,853 |
+| True Warrior | 1.00% | ~8,853 |
+| Legend of The Afterlife | 1.00% | ~8,853 |
 | To Bad Decisions! | 0.90% | ~7,967 |
 | The Fool | 0.80% | ~7,082 |
 | The Lovers | 0.80% | ~7,082 |
@@ -32,9 +32,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Devil | 0.70% | ~6,197 |
 | The World | 0.70% | ~6,197 |
 | It's Elementary | 0.70% | ~6,197 |
-| Gun Fu | 0.60% | ~5,311 |
-| Christmas Tree Attack | 0.60% | ~5,311 |
-| Judy vs Night City | 0.60% | ~5,311 |
+| Gun Fu | 0.60% | ~5,312 |
+| Christmas Tree Attack | 0.60% | ~5,312 |
+| Judy vs Night City | 0.60% | ~5,312 |
 | City Lights | 0.50% | ~4,426 |
 | Greetings from Pacifica! | 0.50% | ~4,426 |
 | Life of the Road | 0.40% | ~3,541 |
@@ -43,12 +43,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.30% | ~2,656 |
 | Must Be Rats | 0.30% | ~2,656 |
 | Spin Doctor | 0.30% | ~42 |
-| To Protect and Serve | 0.20% | ~1,770 |
-| The Wandering Fool | 0.20% | ~1,770 |
-| Frequent Flyer | 0.20% | ~1,770 |
-| Little Tokyo | 0.20% | ~1,770 |
-| The Star | 0.20% | ~1,770 |
-| The Sun | 0.20% | ~1,770 |
+| To Protect and Serve | 0.20% | ~1,771 |
+| The Wandering Fool | 0.20% | ~1,771 |
+| Frequent Flyer | 0.20% | ~1,771 |
+| Little Tokyo | 0.20% | ~1,771 |
+| The Star | 0.20% | ~1,771 |
+| The Sun | 0.20% | ~1,771 |
 | The Wasteland | 0.10% | ~885 |
 | Daemon In The Shell | 0.10% | ~885 |
 | The APB is Not Enough | 0.10% | ~14 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,237 (Ranked 15)  
-Completed: 2,477 (0.28%) (Ranked 202)  
+Progressed: 885,276 (Ranked 15)  
+Completed: 2,478 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,10 +226,10 @@ Completed: 2,477 (0.28%) (Ranked 202)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 885,237 | 2,477 |
+| 2023-09-29 | 885,276 | 2,478 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 239,088 (Ranked 13)  
+Sum: 239,350 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -240,9 +240,9 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 11,372 |
 | This game is Extremely Fun | 11,088 |
 | This game is Highly Recommended | 11,021 |
+| This game has Quickly Understood Controls | 10,898 |
 | This game is Relaxing | 10,821 |
 | This game has Amazing Characters | 10,747 |
-| This game has Quickly Understood Controls | 10,636 |
 | This game has a Creative Community | 7,144 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -500,4 +500,4 @@ Diff (max vs sum): -4
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
-| 2023-09-29 | 4.63 | - | 86,225 | 239,088 |
+| 2023-09-29 | 4.63 | - | 86,225 | 239,350 |

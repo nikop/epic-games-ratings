@@ -390,9 +390,9 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_15",
@@ -486,9 +486,9 @@
       "ID": "achievement_25",
       "SetID": "2cpn27e",
       "Name": "Volatile Vocation",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_26",
@@ -718,9 +718,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_9",
@@ -740,8 +740,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-29T20:04:46.9071438+00:00",
+  "LastChanged_Achievements": "2023-09-29T21:04:56.0217816+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-29T19:57:29.4201164+00:00",
-  "LastUpdate_Achievements": "2023-09-29T20:04:46.907192+00:00"
+  "LastUpdate_Ratings": "2023-09-29T20:57:39.1893112+00:00",
+  "LastUpdate_Achievements": "2023-09-29T21:04:56.0218279+00:00"
 }

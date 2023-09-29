@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1632,
+  "EOS_Progressed": 1633,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3791,6 +3791,11 @@
       "Time": "2023-09-27T16:07:59.5279411+00:00",
       "NumProgressed": 1632,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T21:03:21.6472398+00:00",
+      "NumProgressed": 1633,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3874,7 +3879,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4018,7 +4023,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4058,7 +4063,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4185,7 +4190,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1632,
+      "Progressed": 1633,
       "Completed": 0
     }
   ],
@@ -4193,8 +4198,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-22T00:03:09.8944256+00:00",
-  "LastChanged_Achievements": "2023-09-29T20:03:12.2081564+00:00",
+  "LastChanged_Achievements": "2023-09-29T21:03:21.6472393+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:04.0645651+00:00",
-  "LastUpdate_Ratings": "2023-09-29T19:59:25.4437675+00:00",
-  "LastUpdate_Achievements": "2023-09-29T20:03:12.2082182+00:00"
+  "LastUpdate_Ratings": "2023-09-29T20:59:32.7847969+00:00",
+  "LastUpdate_Achievements": "2023-09-29T21:03:21.6473024+00:00"
 }

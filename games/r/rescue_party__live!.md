@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | ASAP | 96.00% | ~209 |
 | Medal of honor | 37.00% | ~81 |
-| Life matters | 36.00% | ~78 |
+| Life matters | 37.00% | ~81 |
 | Safety first | 33.00% | ~72 |
 | Professional team! | 25.00% | ~54 |
 | Resource manager | 14.00% | ~31 |

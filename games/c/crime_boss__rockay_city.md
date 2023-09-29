@@ -10,9 +10,9 @@ Rating: 3.94 (Ranked 972)
 | Neophyte Ninja | 0.80% | ~708 |
 | Too Old for This | 0.70% | ~620 |
 | Underworld Initiate | 0.60% | ~531 |
+| Fancy Pants | 0.60% | ~531 |
 | Roid Ranger | 0.50% | ~443 |
 | King of the Hill | 0.50% | ~443 |
-| Fancy Pants | 0.50% | ~443 |
 | Off the Rocks | 0.50% | ~443 |
 | Raider’s Ruin | 0.50% | ~443 |
 | Dragonslayer | 0.50% | ~443 |
