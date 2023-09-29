@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 130,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74496,
+  "EOS_Progressed": 74497,
   "EOS_Completed": 777,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18114,6 +18114,11 @@
       "Time": "2023-09-29T03:04:39.9391919+00:00",
       "NumProgressed": 74496,
       "NumCompleted": 777
+    },
+    {
+      "Time": "2023-09-29T04:04:30.1315259+00:00",
+      "NumProgressed": 74497,
+      "NumCompleted": 777
     }
   ],
   "TotalAchievements": 25,
@@ -18253,7 +18258,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11919
+      "UsersEstimate": 11920
     },
     {
       "ID": "Nothing Left to Say",
@@ -18277,7 +18282,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9684
+      "UsersEstimate": 9685
     },
     {
       "ID": "Sniper",
@@ -18324,7 +18329,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74496,
+      "Progressed": 74497,
       "Completed": 777
     }
   ],
@@ -18332,8 +18337,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:04:39.9391914+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:04:30.1315254+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:02.2910079+00:00",
-  "LastUpdate_Ratings": "2023-09-29T03:00:06.9664655+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:04:39.9393634+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:59:52.9506887+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:04:30.1316487+00:00"
 }

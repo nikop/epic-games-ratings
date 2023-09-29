@@ -4,7 +4,7 @@
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15013,
+  "EOS_Progressed": 15056,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2656,
+  "EOS_NewPlayers": 2691,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 78.33,
+  "EOS_Completed_Percentage": 78.1,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -3601,6 +3601,11 @@
       "Time": "2023-09-29T03:05:03.813661+00:00",
       "NumProgressed": 15013,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-29T04:04:53.186871+00:00",
+      "NumProgressed": 15056,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -3621,7 +3626,7 @@
       "Name": "First blood",
       "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5721
     },
     {
       "ID": "grenadeKills",
@@ -3637,7 +3642,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "headshots1000",
@@ -3724,14 +3729,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 15013,
+      "Progressed": 15056,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:05:03.8136606+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:04:53.1868706+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6814414+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:59:53.71028+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:05:03.8136998+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:59:41.0778695+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:04:53.1869023+00:00"
 }

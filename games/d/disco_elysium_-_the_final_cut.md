@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,133 |
+| Goodest Of The Good Cops | 28.00% | ~36,134 |
 | Biggest Communism Builder | 24.00% | ~30,972 |
 | The World's Most Laughable Centrist | 20.00% | ~25,810 |
 | Il Coppo Del'Arte! | 18.00% | ~23,229 |
@@ -15,15 +15,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,067 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,067 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,776 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,195 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,196 |
 | Unbelievably Boring **** | 9.00% | ~11,614 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,614 |
 | Enemy Of The Physical Realm | 8.00% | ~10,324 |
 | Hardie's Heroes | 6.00% | ~7,743 |
 | The Lawbringer | 4.00% | ~5,162 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,162 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,871 |
-| Bother Kim After Hours | 3.00% | ~3,871 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,872 |
+| Bother Kim After Hours | 3.00% | ~3,872 |
 | Baddest Of the Bad Cops | 2.00% | ~2,581 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,581 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,581 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,048 (Ranked 71)  
+Progressed: 129,050 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 28 (0.02%) (Ranked 273)
 | 2023-09-26 | 128,897 | 28 |
 | 2023-09-27 | 128,972 | 28 |
 | 2023-09-28 | 129,040 | 28 |
-| 2023-09-29 | 129,048 | 28 |
+| 2023-09-29 | 129,050 | 28 |
 ## Awards
 Max (Character Customization): 726  (Ranked 167)  
 Sum: 1,093 (Ranked 239)  

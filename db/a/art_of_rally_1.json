@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10262,
+  "EOS_Progressed": 10263,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1596,6 +1596,11 @@
       "Time": "2023-09-28T15:05:51.2324274+00:00",
       "NumProgressed": 10262,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-29T04:04:17.1688966+00:00",
+      "NumProgressed": 10263,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1727,7 +1732,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1767,7 +1772,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7902
+      "UsersEstimate": 7903
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1791,7 +1796,7 @@
       "Name": "comfy seats",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_FOG",
@@ -1799,7 +1804,7 @@
       "Name": "where is the stage?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1815,7 +1820,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1847,7 +1852,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6157
+      "UsersEstimate": 6158
     },
     {
       "ID": "ACH_NIGHT",
@@ -1950,15 +1955,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10262,
+      "Progressed": 10263,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:04:26.300721+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:04:17.1688963+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.7566421+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:57:48.8268452+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:04:26.3007723+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:57:45.8425589+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:04:17.1689326+00:00"
 }

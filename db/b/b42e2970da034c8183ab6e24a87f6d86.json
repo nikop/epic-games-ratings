@@ -4,7 +4,7 @@
   "ProductSlug": "shuyan-saga-cd1476",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-22T15:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -29,7 +31,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-09-29T03:59:20.612686+00:00",
   "LastUpdate_AppInfo": "2023-09-28T01:39:08.1639855+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:59:32.2768818+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:05:06.0839074+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:59:20.612689+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:04:55.3205406+00:00"
 }

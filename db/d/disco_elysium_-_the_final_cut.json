@@ -1331,9 +1331,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129048,
+  "EOS_Progressed": 129050,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17556,6 +17556,11 @@
       "Time": "2023-09-29T03:04:57.7021622+00:00",
       "NumProgressed": 129048,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-29T04:04:47.3830781+00:00",
+      "NumProgressed": 129050,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17591,7 +17596,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "ACH_COP_ART",
@@ -17647,7 +17652,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36133
+      "UsersEstimate": 36134
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -17711,7 +17716,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14195
+      "UsersEstimate": 14196
     },
     {
       "ID": "ACH_CUNO",
@@ -17791,7 +17796,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -17886,15 +17891,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129048,
+      "Progressed": 129050,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-27T09:59:07.5046433+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:04:57.7021618+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:04:47.3830777+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:07.5946316+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:58:50.6178291+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:04:57.7022902+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:58:40.8558423+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:04:47.3832012+00:00"
 }

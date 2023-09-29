@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6618,9 +6618,9 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 715365,
+  "EOS_Progressed": 715366,
   "EOS_Completed": 12904,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -21378,6 +21378,11 @@
       "Time": "2023-09-29T03:04:58.8800021+00:00",
       "NumProgressed": 715365,
       "NumCompleted": 12904
+    },
+    {
+      "Time": "2023-09-29T04:04:48.5317754+00:00",
+      "NumProgressed": 715366,
+      "NumCompleted": 12904
     }
   ],
   "TotalAchievements": 60,
@@ -21571,9 +21576,9 @@
       "ID": "24_PermaSkill_Trophy",
       "SetID": "adcm20g",
       "Name": "State of constant learning",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2146
     },
     {
       "ID": "25_ShrineMind",
@@ -21868,21 +21873,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24666,
+      "Progressed": 24667,
       "Completed": 10670
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715365,
+      "Progressed": 715366,
       "Completed": 12904
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-28T22:57:52.330245+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:04:58.8800013+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:04:48.5317751+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:35.3893321+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:57:43.6065608+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:04:58.880175+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:57:41.2137605+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:04:48.5319001+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 34.00% | ~8,650 |
-| May the Torchbearer light our way | 29.00% | ~7,378 |
-| A powerful aura was here | 14.00% | ~3,562 |
-| Let's raise the stakes!! | 6.00% | ~1,527 |
-| Bring it on! | 3.00% | ~763 |
-| Your wounds… They are healing so fast! | 1.00% | ~254 |
-| Rumors are true | 0.70% | ~178 |
-| Pride is a sin, young Knight | 0.70% | ~178 |
-| We'll be careful | 0.40% | ~102 |
-| You want more? I've got more! | 0.20% | ~51 |
-| Back to your senses | 0.10% | ~25 |
-| They tricked me | 0.10% | ~25 |
-| We need to talk | 0.10% | ~25 |
-| I feel drawn to it | 0.10% | ~25 |
-| Here to stay | 0.10% | ~25 |
-| Counting on you | 0.10% | ~25 |
-| This is the end | 0.10% | ~25 |
-| We can choose to fight | 0.10% | ~25 |
-| No damsels in distress | 0.10% | ~25 |
-| It's only pain | 0.10% | ~25 |
-| I know how to handle it | 0.10% | ~25 |
-| They won't last long | 0.10% | ~25 |
-| Call this the Judge's mercy | 0.10% | ~25 |
-| Their fate is sealed | 0.10% | ~25 |
-| I took a risk | 0.10% | ~25 |
+| The touch of Chaos | 34.00% | ~9,229 |
+| May the Torchbearer light our way | 29.00% | ~7,871 |
+| A powerful aura was here | 14.00% | ~3,800 |
+| Let's raise the stakes!! | 6.00% | ~1,629 |
+| Bring it on! | 3.00% | ~814 |
+| Your wounds… They are healing so fast! | 1.00% | ~271 |
+| Rumors are true | 0.80% | ~217 |
+| Pride is a sin, young Knight | 0.70% | ~190 |
+| We'll be careful | 0.40% | ~109 |
+| You want more? I've got more! | 0.20% | ~54 |
+| Back to your senses | 0.10% | ~27 |
+| They tricked me | 0.10% | ~27 |
+| We need to talk | 0.10% | ~27 |
+| I feel drawn to it | 0.10% | ~27 |
+| Here to stay | 0.10% | ~27 |
+| Counting on you | 0.10% | ~27 |
+| This is the end | 0.10% | ~27 |
+| We can choose to fight | 0.10% | ~27 |
+| No damsels in distress | 0.10% | ~27 |
+| It's only pain | 0.10% | ~27 |
+| I know how to handle it | 0.10% | ~27 |
+| They won't last long | 0.10% | ~27 |
+| Call this the Judge's mercy | 0.10% | ~27 |
+| Their fate is sealed | 0.10% | ~27 |
+| I took a risk | 0.10% | ~27 |
 | The immortal is bound to reborn | 0.00% | ~0 |
 | A legend among Chimeras | 0.00% | ~0 |
 | Settle this once and for all | 0.00% | ~0 |
@@ -45,10 +45,10 @@
 | We strike as one | 0.00% | ~0 |
 | Chaos be damned! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,442 (Ranked 112)  
+Progressed: 27,143 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-28 | 17,334 | 0 |
-| 2023-09-29 | 25,442 | 0 |
+| 2023-09-29 | 27,143 | 0 |

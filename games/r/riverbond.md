@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,748 |
-| Now You're Talking | 62.00% | ~327,491 |
-| Steel Yourself | 62.00% | ~327,491 |
+| First Step | 70.00% | ~369,749 |
+| Now You're Talking | 62.00% | ~327,492 |
+| Steel Yourself | 62.00% | ~327,492 |
 | Window Dressing | 50.00% | ~264,106 |
 | Trigger Happy | 46.00% | ~242,978 |
-| Riverborn | 45.00% | ~237,695 |
+| Riverborn | 45.00% | ~237,696 |
 | Starry Eyed | 34.00% | ~179,592 |
 | Poking Around | 34.00% | ~179,592 |
 | Talk of the Town | 24.00% | ~126,771 |
 | AAARR! | 23.00% | ~121,489 |
 | Hello Darkness | 23.00% | ~121,489 |
 | Wind At Our Backs | 22.00% | ~116,207 |
-| To the Beat | 20.00% | ~105,642 |
+| To the Beat | 20.00% | ~105,643 |
 | Sunny Shores | 17.00% | ~89,796 |
 | Sunday Best | 16.00% | ~84,514 |
 | To Victory! | 15.00% | ~79,232 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,411 |
 | Rising Star | 5.00% | ~26,411 |
 | Slime Slayer | 5.00% | ~26,411 |
-| Privacy, Please! | 4.00% | ~21,128 |
-| Silky Smooth | 4.00% | ~21,128 |
-| Hash It Over | 4.00% | ~21,128 |
-| Biting Tongue | 4.00% | ~21,128 |
-| What a Catch! | 4.00% | ~21,128 |
-| Hit the Spot | 4.00% | ~21,128 |
+| Privacy, Please! | 4.00% | ~21,129 |
+| Silky Smooth | 4.00% | ~21,129 |
+| Hash It Over | 4.00% | ~21,129 |
+| Biting Tongue | 4.00% | ~21,129 |
+| What a Catch! | 4.00% | ~21,129 |
+| Hit the Spot | 4.00% | ~21,129 |
 | Talk the Talk | 3.00% | ~15,846 |
 | Skin in the Game | 3.00% | ~15,846 |
 | Caving In | 3.00% | ~15,846 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,585 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,212 (Ranked 33)  
+Progressed: 528,213 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 479 (0.09%) (Ranked 241)
 | 2023-09-26 | 528,121 | 479 |
 | 2023-09-27 | 528,162 | 479 |
 | 2023-09-28 | 528,204 | 479 |
-| 2023-09-29 | 528,212 | 479 |
+| 2023-09-29 | 528,213 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

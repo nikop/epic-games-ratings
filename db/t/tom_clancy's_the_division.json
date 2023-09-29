@@ -3,11 +3,11 @@
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
   "Ranking_Rating": 419,
-  "Ranking_Popularity": 233,
+  "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
@@ -1844,18 +1844,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 896,
       "NumberOfAwardsMax": 333
+    },
+    {
+      "Time": "2023-09-29T03:59:38.7511746+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 900,
+      "NumberOfAwardsMax": 335
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 896,
-  "NumberOfAwardsMax": 333,
+  "NumberOfAwards": 900,
+  "NumberOfAwardsMax": 335,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 333
+      "Count": 335
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1885,13 +1891,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1947,8 +1953,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-09-24T11:58:24.5882898+00:00",
+  "LastChanged": "2023-09-29T03:59:38.7511744+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.0853566+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:59:51.1018685+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:06:03.194539+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:59:38.751175+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:05:51.347819+00:00"
 }

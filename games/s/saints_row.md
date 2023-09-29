@@ -6,28 +6,28 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~33,570 |
-| To The Nines | 42.00% | ~30,651 |
-| Optimized | 36.00% | ~26,272 |
-| Performance Review | 36.00% | ~26,272 |
+| First F#@!ing Day | 46.00% | ~33,571 |
+| To The Nines | 42.00% | ~30,652 |
+| Optimized | 36.00% | ~26,273 |
+| Performance Review | 36.00% | ~26,273 |
 | Making a Name | 34.00% | ~24,813 |
 | Tune Up | 33.00% | ~24,083 |
-| Landlord | 32.00% | ~23,353 |
-| The Side Job | 31.00% | ~22,623 |
-| Wet Work | 31.00% | ~22,623 |
-| Wrecking Ball | 27.00% | ~19,704 |
-| Food for Thought | 27.00% | ~19,704 |
+| Landlord | 32.00% | ~23,354 |
+| The Side Job | 31.00% | ~22,624 |
+| Wet Work | 31.00% | ~22,624 |
+| Wrecking Ball | 27.00% | ~19,705 |
+| Food for Thought | 27.00% | ~19,705 |
 | Finders Keepers | 25.00% | ~18,245 |
 | A Young Empire | 25.00% | ~18,245 |
 | Work Ethic | 23.00% | ~16,785 |
 | Power Players | 19.00% | ~13,866 |
 | Picking Fights | 19.00% | ~13,866 |
 | Quality Time | 18.00% | ~13,136 |
-| Et tu? | 17.00% | ~12,406 |
+| Et tu? | 17.00% | ~12,407 |
 | Showdown | 16.00% | ~11,677 |
 | Took It to The Limit | 16.00% | ~11,677 |
 | Kitted Out | 14.00% | ~10,217 |
-| Masters of Santo Ileso | 12.00% | ~8,757 |
+| Masters of Santo Ileso | 12.00% | ~8,758 |
 | Hijacked | 11.00% | ~8,028 |
 | The Spins | 10.00% | ~7,298 |
 | The Mechanic | 10.00% | ~7,298 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~146 |
 | Fiesta Time | 0.20% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,979 (Ranked 84)  
+Progressed: 72,980 (Ranked 84)  
 Completed: 50 (0.07%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 50 (0.07%) (Ranked 249)
 | 2023-09-26 | 72,748 | 49 |
 | 2023-09-27 | 72,860 | 49 |
 | 2023-09-28 | 72,962 | 49 |
-| 2023-09-29 | 72,979 | 50 |
+| 2023-09-29 | 72,980 | 50 |
 ## Awards
 Max (Extremely Fun): 1,068  (Ranked 142)  
 Sum: 8,660 (Ranked 97)  

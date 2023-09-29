@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468142,
+  "EOS_Progressed": 468143,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17535,6 +17535,11 @@
       "Time": "2023-09-29T03:06:01.0267705+00:00",
       "NumProgressed": 468142,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-29T04:05:49.3196673+00:00",
+      "NumProgressed": 468143,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -17722,7 +17727,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93628
+      "UsersEstimate": 93629
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -17730,7 +17735,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159168
+      "UsersEstimate": 159169
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -17970,7 +17975,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205982
+      "UsersEstimate": 205983
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -18002,7 +18007,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182575
+      "UsersEstimate": 182576
     },
     {
       "ID": "achievement_win_run_hard",
@@ -18177,21 +18182,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12076,
+      "Progressed": 12077,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468142,
+      "Progressed": 468143,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:06:01.02677+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:05:49.3196671+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.1528174+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:58:24.8451657+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:06:01.0269932+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:58:15.8874095+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:05:49.3198506+00:00"
 }

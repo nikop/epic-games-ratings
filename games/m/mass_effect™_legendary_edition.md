@@ -97,9 +97,9 @@
 | Under Pressure | 16.00% | ~73 |
 | Throw Mastery | 16.00% | ~73 |
 | Hard Target | 16.00% | ~73 |
+| Saboteur | 16.00% | ~73 |
 | Last Resort | 15.00% | ~68 |
-| Saboteur | 15.00% | ~68 |
-| Last Witness | 14.00% | ~64 |
+| Last Witness | 15.00% | ~68 |
 | Mail Slot | 13.00% | ~59 |
 | Warp Mastery | 13.00% | ~59 |
 | Well Connected | 13.00% | ~59 |

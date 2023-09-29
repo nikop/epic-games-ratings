@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -342,9 +342,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 58638,
+  "EOS_Progressed": 58650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3742,
+  "EOS_NewPlayers": 3738,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2952,6 +2952,11 @@
       "Time": "2023-09-29T03:08:19.0238595+00:00",
       "NumProgressed": 58638,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T04:08:23.3065504+00:00",
+      "NumProgressed": 58650,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -2964,7 +2969,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 13487
+      "UsersEstimate": 13490
     },
     {
       "ID": "10",
@@ -2972,7 +2977,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "11",
@@ -3028,7 +3033,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8209
+      "UsersEstimate": 8211
     },
     {
       "ID": "3",
@@ -3036,7 +3041,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6450
+      "UsersEstimate": 6452
     },
     {
       "ID": "4",
@@ -3044,7 +3049,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4691
+      "UsersEstimate": 4692
     },
     {
       "ID": "5",
@@ -3052,7 +3057,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4106
     },
     {
       "ID": "6",
@@ -3091,7 +3096,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 58638,
+      "Progressed": 58650,
       "Completed": 1
     }
   ],
@@ -3099,8 +3104,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-29T01:39:42.8264005+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:08:19.023859+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:08:23.3065501+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:11.2762553+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:57:43.8967717+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:08:19.0238979+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:57:41.5732649+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:08:23.3065795+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2023-09-27T21:03:42.9010602+00:00",
       "NumProgressed": 142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T04:03:34.9351141+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -728,7 +733,7 @@
       "Name": "Customize Ship",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_endless_120",
@@ -742,9 +747,9 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_endless_60",
@@ -752,7 +757,7 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_endless_c_60",
@@ -766,9 +771,9 @@
       "ID": "ach_endless_h_30",
       "SetID": "5a4225j",
       "Name": "Endless Hardcore 30 Seconds",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_endless_winter",
@@ -830,9 +835,9 @@
       "ID": "ach_practiceperfect",
       "SetID": "5a4225j",
       "Name": "Practice Makes Perfect",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_pulser_zone",
@@ -879,14 +884,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-09-29T03:03:42.1527441+00:00",
+  "LastChanged_Achievements": "2023-09-29T04:03:34.9351137+00:00",
   "LastUpdate_AppInfo": "2023-09-23T06:57:00.0742636+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:59:57.3955147+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:03:42.1527704+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:59:44.3194133+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:03:34.935135+00:00"
 }

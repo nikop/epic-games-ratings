@@ -4,10 +4,10 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 737,
   "Ranking_Popularity": 190,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -2484,10 +2484,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 3806,
       "NumberOfAwardsMax": 583
+    },
+    {
+      "Time": "2023-09-29T03:58:22.6670958+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3810,
+      "NumberOfAwardsMax": 583
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3806,
+  "NumberOfAwards": 3810,
   "NumberOfAwardsMax": 583,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2513,19 +2519,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 461
+      "Count": 462
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 485
+      "Count": 487
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 463
+      "Count": 464
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2563,8 +2569,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-09-25T07:57:25.6408419+00:00",
+  "LastChanged": "2023-09-29T03:58:22.6670957+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:15.3175175+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:58:31.7849637+00:00",
-  "LastUpdate_Achievements": "2023-09-29T03:05:48.1680221+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:58:22.6670964+00:00",
+  "LastUpdate_Achievements": "2023-09-29T04:05:37.0693407+00:00"
 }
