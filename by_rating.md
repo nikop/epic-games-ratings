@@ -94,7 +94,7 @@
 | 85 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 490 |
 | 85 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 525 |
 | 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,518 | 123 |
-| 94 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 533 | 199 |
+| 94 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 535 | 198 |
 | 94 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 161 | 299 |
 | 94 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 525 |
 | 94 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 525 |
@@ -125,8 +125,8 @@
 | 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,345 | 92 |
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 972 | 148 |
 | 120 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 797 | 161 |
-| 120 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,108 | 17 |
-| 120 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,610 | 74 |
+| 120 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,132 | 17 |
+| 120 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,616 | 74 |
 | 120 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 525 |
 | 120 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 525 |
 | 120 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 525 |
@@ -403,7 +403,7 @@
 | 399 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 525 |
 | 399 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 343 | 230 |
 | 399 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,686 | 73 |
-| 399 | [Control](games/c/control.md) | 4.60 | 8,548 | 41 |
+| 399 | [Control](games/c/control.md) | 4.60 | 8,551 | 41 |
 | 399 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 525 |
 | 399 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 75 | 377 |
 | 399 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,775 | 27 |
@@ -645,7 +645,7 @@
 | 630 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 525 |
 | 644 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 50 | 408 |
 | 644 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 525 |
-| 644 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 248 | 259 |
+| 644 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 249 | 258 |
 | 644 | [ELEX](games/e/elex.md) | 4.45 | 24 | 496 |
 | 644 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 861 | 155 |
 | 644 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.45 | 0 | 525 |
@@ -666,7 +666,7 @@
 | 657 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 525 |
 | 657 | [SMITE](games/s/smite.md) | 4.44 | 4,370 | 79 |
 | 657 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 525 |
-| 657 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 585 | 189 |
+| 657 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 586 | 189 |
 | 657 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 525 |
 | 657 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 346 |
 | 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 689 | 176 |
@@ -986,10 +986,10 @@
 | 984 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 525 |
 | 985 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 69 | 384 |
 | 986 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 525 |
-| 986 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.82 | 0 | 525 |
 | 986 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 525 |
-| 989 | [Poker Club](games/p/poker_club.md) | 3.81 | 44 | 426 |
-| 989 | [Spelldrifter](games/s/spelldrifter.md) | 3.81 | 0 | 525 |
+| 988 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.81 | 0 | 525 |
+| 988 | [Poker Club](games/p/poker_club.md) | 3.81 | 44 | 426 |
+| 988 | [Spelldrifter](games/s/spelldrifter.md) | 3.81 | 0 | 525 |
 | 991 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 80 | 369 |
 | 992 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,068 | 142 |
 | 992 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 525 |
