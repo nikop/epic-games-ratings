@@ -6,7 +6,7 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 61.00% | ~293 |
+| Lost in Space | 62.00% | ~298 |
 | Quick Understanding of Block Extrusion | 59.00% | ~283 |
 | Nature or Nurture | 51.00% | ~245 |
 | Power Glove | 50.00% | ~240 |

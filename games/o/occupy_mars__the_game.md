@@ -20,8 +20,8 @@ Rating: 3.99 (Ranked 958)
 | Get your hands dirty | 10.00% | ~163 |
 | Space Forest | 8.00% | ~131 |
 | All Wheel Trouble | 7.00% | ~114 |
+| ITS crash site | 6.00% | ~98 |
 | DeDust | 5.00% | ~82 |
-| ITS crash site | 5.00% | ~82 |
 | “Aliens” | 4.00% | ~65 |
 | Hard Landing | 3.00% | ~49 |
 | Plumber | 3.00% | ~49 |

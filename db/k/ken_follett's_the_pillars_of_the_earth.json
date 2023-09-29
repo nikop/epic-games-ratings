@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15457,
+  "EOS_Progressed": 15458,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11040,6 +11040,11 @@
       "Time": "2023-09-29T10:04:38.2484709+00:00",
       "NumProgressed": 15457,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-29T11:04:04.971976+00:00",
+      "NumProgressed": 15458,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11163,7 +11168,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "tpote_achievement_23",
@@ -11195,7 +11200,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "tpote_achievement_27",
@@ -11227,7 +11232,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4947
     },
     {
       "ID": "tpote_achievement_30",
@@ -11378,15 +11383,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15457,
+      "Progressed": 15458,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:04:38.2484702+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:04:04.9719755+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:01:04.8089798+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:04:38.2485959+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:59:49.9851817+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:04:04.9720749+00:00"
 }

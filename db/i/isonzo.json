@@ -3,7 +3,7 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 234,
@@ -838,7 +838,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6994,
+  "EOS_Progressed": 6995,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -5868,6 +5868,11 @@
       "Time": "2023-09-29T10:03:18.5070087+00:00",
       "NumProgressed": 6994,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-29T11:03:22.9062963+00:00",
+      "NumProgressed": 6995,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5895,7 +5900,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6015,7 +6020,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -6055,7 +6060,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -6117,9 +6122,9 @@
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
       "SetID": "akchbl3",
       "Name": "Shaken, Not Stirred",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 909
+      "UsersEstimate": 979
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -6183,7 +6188,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -6199,7 +6204,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -6238,7 +6243,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6994,
+      "Progressed": 6995,
       "Completed": 8
     }
   ],
@@ -6246,8 +6251,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:03:18.5070082+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:03:22.9062956+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:33.8019238+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:58:27.908811+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:03:18.5071105+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:58:04.5370699+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:03:22.9063696+00:00"
 }

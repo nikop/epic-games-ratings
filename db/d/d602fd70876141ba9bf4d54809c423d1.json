@@ -680,9 +680,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:06:58.963026+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:05:45.3583593+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:07.8295465+00:00",
-  "LastUpdate_Ratings": "2023-09-29T10:00:16.9582798+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:06:58.9631136+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:59:17.1106563+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:05:45.3584473+00:00"
 }

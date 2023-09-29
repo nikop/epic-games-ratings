@@ -6,6 +6,7 @@
 | Toys Are For Kids | 50.00% | ~4 |
 | Paled | 50.00% | ~4 |
 | Schooled | 50.00% | ~4 |
+| Hunger | 50.00% | ~4 |
 | ...And Stay Dead! | 50.00% | ~4 |
 | Mono Tones | 50.00% | ~4 |
 | True Colours | 50.00% | ~4 |
@@ -15,7 +16,6 @@
 | Hospitalised | 38.00% | ~3 |
 | Foraged | 38.00% | ~3 |
 | Merciful feat | 38.00% | ~3 |
-| Hunger | 38.00% | ~3 |
 | Far Ahead | 38.00% | ~3 |
 | Referee! | 38.00% | ~3 |
 | What's in the box?! | 38.00% | ~3 |

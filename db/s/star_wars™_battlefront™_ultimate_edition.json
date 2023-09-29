@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -925,9 +925,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_36",
@@ -1220,8 +1220,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:08:13.1467943+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:06:37.7092082+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:58:35.9057304+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:08:13.1468958+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:58:09.8451994+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:06:37.7092807+00:00"
 }

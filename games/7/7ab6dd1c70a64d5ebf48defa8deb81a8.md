@@ -14,8 +14,8 @@
 | Adventurer | 10.00% | ~3 |
 | Geared Up | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
+| Calm before the Storm | 6.00% | ~2 |
 | Fashion Victim | 6.00% | ~2 |
-| Calm before the Storm | 3.00% | ~1 |
 | To Battle | 3.00% | ~1 |
 | Godslayer | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |

@@ -44,6 +44,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.70% | ~958 |
 | Natural 20 | 0.70% | ~958 |
 | Tax not Included | 0.60% | ~821 |
+| Big Game Hunting | 0.60% | ~821 |
 | For the Hoard! | 0.60% | ~821 |
 | Trash to Treasure | 0.60% | ~821 |
 | Royal Ransom | 0.60% | ~821 |
@@ -60,7 +61,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.50% | ~684 |
 | The King's Caprice | 0.50% | ~684 |
 | Thirst for Knowledge | 0.50% | ~684 |
-| Big Game Hunting | 0.50% | ~684 |
 | Scrapbooker | 0.50% | ~684 |
 | Archivist | 0.50% | ~684 |
 | Locally Sourced | 0.50% | ~684 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,839 (Ranked 69)  
+Progressed: 136,841 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
-| 2023-09-29 | 136,839 | 158 |
+| 2023-09-29 | 136,841 | 158 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,304 (Ranked 49)  

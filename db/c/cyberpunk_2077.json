@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -12671,10 +12671,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884761,
+  "EOS_Progressed": 884805,
   "EOS_Completed": 2471,
-  "EOS_NewPlayers": 6400,
-  "EOS_NewCompleters": 266,
+  "EOS_NewPlayers": 6405,
+  "EOS_NewCompleters": 264,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30866,6 +30866,11 @@
       "Time": "2023-09-29T10:07:42.8446951+00:00",
       "NumProgressed": 884761,
       "NumCompleted": 2471
+    },
+    {
+      "Time": "2023-09-29T11:06:16.1714658+00:00",
+      "NumProgressed": 884805,
+      "NumCompleted": 2471
     }
   ],
   "TotalAchievements": 57,
@@ -30957,7 +30962,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17695
+      "UsersEstimate": 17696
     },
     {
       "ID": "HandyMan",
@@ -31061,7 +31066,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17695
+      "UsersEstimate": 17696
     },
     {
       "ID": "Temperance",
@@ -31077,7 +31082,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17695
+      "UsersEstimate": 17696
     },
     {
       "ID": "TheDevil",
@@ -31093,7 +31098,7 @@
       "Name": "The Fool",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     },
     {
       "ID": "TheHermit",
@@ -31117,7 +31122,7 @@
       "Name": "The Lovers",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     },
     {
       "ID": "TheStar",
@@ -31165,7 +31170,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17695
+      "UsersEstimate": 17696
     },
     {
       "ID": "TrueSoldier",
@@ -31332,21 +31337,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884761,
+      "Progressed": 884805,
       "Completed": 2471
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13384,
+      "Progressed": 13428,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-29T08:58:05.4735982+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:07:42.8446946+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:06:16.1714654+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:58:36.4858352+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:07:42.844906+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:58:10.2017872+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:06:16.1716374+00:00"
 }

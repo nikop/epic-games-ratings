@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21048,
+  "EOS_Progressed": 21050,
   "EOS_Completed": 422,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -17760,6 +17760,11 @@
       "Time": "2023-09-29T10:07:16.8170819+00:00",
       "NumProgressed": 21048,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-09-29T11:05:57.4863899+00:00",
+      "NumProgressed": 21050,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 20,
@@ -17771,7 +17776,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -17835,7 +17840,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "FOUND_ERIN",
@@ -17891,7 +17896,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16207
+      "UsersEstimate": 16208
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -17899,7 +17904,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "NORTH_FINISHED",
@@ -17915,7 +17920,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "WEST_FINISHED",
@@ -17930,15 +17935,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21048,
+      "Progressed": 21050,
       "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:07:16.8170814+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:05:57.4863895+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.2845557+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:59:20.1267155+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:07:16.8172448+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:58:39.0181661+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:05:57.4865144+00:00"
 }

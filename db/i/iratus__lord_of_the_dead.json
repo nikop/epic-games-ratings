@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2152,9 +2152,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 40812,
+  "EOS_Progressed": 40813,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -19597,6 +19597,11 @@
       "Time": "2023-09-29T10:09:02.0707879+00:00",
       "NumProgressed": 40812,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-29T11:07:12.2674696+00:00",
+      "NumProgressed": 40813,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -19608,7 +19613,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "achievements_10",
@@ -19664,7 +19669,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14284
+      "UsersEstimate": 14285
     },
     {
       "ID": "achievements_19",
@@ -19672,7 +19677,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 11427
+      "UsersEstimate": 11428
     },
     {
       "ID": "achievements_2",
@@ -19696,7 +19701,7 @@
       "Name": "I\u0027ll Be Back!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievements_22",
@@ -19712,7 +19717,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24487
+      "UsersEstimate": 24488
     },
     {
       "ID": "achievements_24",
@@ -19728,7 +19733,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 11427
+      "UsersEstimate": 11428
     },
     {
       "ID": "achievements_26",
@@ -19800,7 +19805,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 11835
+      "UsersEstimate": 11836
     },
     {
       "ID": "achievements_34",
@@ -19856,7 +19861,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 26936
+      "UsersEstimate": 26937
     },
     {
       "ID": "achievements_40",
@@ -19864,7 +19869,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "achievements_41",
@@ -19904,7 +19909,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "achievements_46",
@@ -19912,7 +19917,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 34690
+      "UsersEstimate": 34691
     },
     {
       "ID": "achievements_47",
@@ -19944,7 +19949,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 20814
+      "UsersEstimate": 20815
     },
     {
       "ID": "achievements_50",
@@ -19952,7 +19957,7 @@
       "Name": "Master of Destruction",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "achievements_51",
@@ -19984,7 +19989,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17549
+      "UsersEstimate": 17550
     },
     {
       "ID": "achievements_55",
@@ -19992,7 +19997,7 @@
       "Name": "Calcination",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "achievements_56",
@@ -20040,7 +20045,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "achievements_62",
@@ -20048,7 +20053,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11019
+      "UsersEstimate": 11020
     },
     {
       "ID": "achievements_63",
@@ -20207,15 +20212,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 40812,
+      "Progressed": 40813,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-24T02:19:26.222873+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:09:02.0707875+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:07:12.2674688+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.2364761+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:58:54.9013022+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:09:02.0710366+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:58:22.5229658+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:07:12.2676702+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3266,9 +3266,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72946,
+  "EOS_Progressed": 72947,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17021,6 +17021,11 @@
       "Time": "2023-09-29T09:03:14.4895507+00:00",
       "NumProgressed": 72946,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-29T11:03:18.6930359+00:00",
+      "NumProgressed": 72947,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17152,7 +17157,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10212
+      "UsersEstimate": 10213
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -17256,7 +17261,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21154
+      "UsersEstimate": 21155
     },
     {
       "ID": "FREEZE_1_5",
@@ -17280,7 +17285,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10212
+      "UsersEstimate": 10213
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -17344,7 +17349,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18236
+      "UsersEstimate": 18237
     },
     {
       "ID": "HARLEY_3",
@@ -17360,7 +17365,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11671
+      "UsersEstimate": 11672
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -17432,7 +17437,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18236
+      "UsersEstimate": 18237
     },
     {
       "ID": "MYSTERY_03",
@@ -17472,7 +17477,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10212
+      "UsersEstimate": 10213
     },
     {
       "ID": "MYSTERY_08",
@@ -17519,13 +17524,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72946,
+      "Progressed": 72947,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43226,
+      "Progressed": 43227,
       "Completed": 2668
     }
   ],
@@ -17533,8 +17538,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-29T05:58:29.3894738+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:03:12.4849356+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:03:18.6930355+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:59:37.6324958+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:03:12.485093+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:58:50.6817749+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:03:18.6931864+00:00"
 }

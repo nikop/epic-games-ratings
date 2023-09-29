@@ -8,10 +8,10 @@ Rating: 4.18 (Ranked 895)
 | First Step Into the Knight | 52.00% | ~37,932 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,531 |
 | Loose Ends | 34.00% | ~24,802 |
-| To the Victor Go the Spoils | 29.00% | ~21,154 |
+| To the Victor Go the Spoils | 29.00% | ~21,155 |
 | Knighthood | 28.00% | ~20,425 |
-| Get ReQ'd | 25.00% | ~18,236 |
-| Whispered Words | 25.00% | ~18,236 |
+| Get ReQ'd | 25.00% | ~18,237 |
+| Whispered Words | 25.00% | ~18,237 |
 | The Batman Family | 23.00% | ~16,778 |
 | Lock and Key | 23.00% | ~16,778 |
 | Something in the Clay | 21.00% | ~15,319 |
@@ -23,12 +23,12 @@ Rating: 4.18 (Ranked 895)
 | The Show Mud Go On | 18.00% | ~13,130 |
 | From Inside Gotham's Walls | 18.00% | ~13,130 |
 | Protector of Gotham | 17.00% | ~12,401 |
-| Universal Health Scare | 16.00% | ~11,671 |
+| Universal Health Scare | 16.00% | ~11,672 |
 | In Your Element | 15.00% | ~10,942 |
 | Voiceless | 15.00% | ~10,942 |
-| Rock and a Hard Place | 14.00% | ~10,212 |
-| Cooldown | 14.00% | ~10,212 |
-| Seeking Asylum | 14.00% | ~10,212 |
+| Rock and a Hard Place | 14.00% | ~10,213 |
+| Cooldown | 14.00% | ~10,213 |
+| Seeking Asylum | 14.00% | ~10,213 |
 | Not On My Watch | 13.00% | ~9,483 |
 | Shock Til They Drop | 13.00% | ~9,483 |
 | End of an Era | 12.00% | ~8,754 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 895)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,946 (Ranked 85)  
+Progressed: 72,947 (Ranked 85)  
 Completed: 118 (0.16%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 118 (0.16%) (Ranked 220)
 | 2023-09-26 | 72,863 | 118 |
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
-| 2023-09-29 | 72,946 | 118 |
+| 2023-09-29 | 72,947 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,768  (Ranked 96)  
 Sum: 4,616 (Ranked 140)  

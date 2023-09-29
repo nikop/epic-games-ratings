@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249787,
+  "EOS_Progressed": 249788,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15244,6 +15244,11 @@
       "Time": "2023-09-29T10:06:57.0644509+00:00",
       "NumProgressed": 249787,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-29T11:05:43.8671553+00:00",
+      "NumProgressed": 249788,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15359,7 +15364,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49957
+      "UsersEstimate": 49958
     },
     {
       "ID": "didYourTime",
@@ -15431,7 +15436,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132387
+      "UsersEstimate": 132388
     },
     {
       "ID": "indegestible",
@@ -15622,7 +15627,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249787,
+      "Progressed": 249788,
       "Completed": 6
     }
   ],
@@ -15630,8 +15635,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-29T10:06:57.0644502+00:00",
+  "LastChanged_Achievements": "2023-09-29T11:05:43.8671542+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.1432168+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:59:56.0989982+00:00",
-  "LastUpdate_Achievements": "2023-09-29T10:06:57.0646108+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:59:03.0675107+00:00",
+  "LastUpdate_Achievements": "2023-09-29T11:05:43.8672891+00:00"
 }
