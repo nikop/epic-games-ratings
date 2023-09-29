@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 78.51% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 78.33% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.54% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -32,22 +32,22 @@
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 31 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 9.62% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.20% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 34 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 9.09% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 36 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.33% |
-| 36 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 8.33% |
-| 38 | [Sonic Origins](games/s/sonic_origins.md) | 8.00% |
-| 39 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
+| 37 | [Sonic Origins](games/s/sonic_origins.md) | 8.00% |
+| 38 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
+| 39 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 7.69% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.66% |
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.58% |
 | 43 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 44 | [Scorn](games/s/scorn.md) | 7.03% |
-| 45 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 6.90% |
-| 46 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.67% |
-| 47 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
-| 48 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 45 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.67% |
+| 46 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
+| 47 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 47 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 6.25% |
 | 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.17% |
 | 50 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
 | 51 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -67,7 +67,7 @@
 | 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.78% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.68% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.67% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -137,9 +137,9 @@
 | 135 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 136 | [A Musical Story](games/a/a_musical_story.md) | 0.98% |
 | 137 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
-| 138 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.91% |
 | 138 | [Hades](games/h/hades.md) | 0.91% |
-| 140 | [Eternights](games/e/eternights.md) | 0.86% |
+| 139 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.86% |
+| 139 | [Eternights](games/e/eternights.md) | 0.86% |
 | 141 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 142 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
 | 142 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |

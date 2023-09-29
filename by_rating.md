@@ -63,7 +63,7 @@
 | 57 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.83 | 0 | 525 |
 | 57 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 525 |
 | 57 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 247 | 260 |
-| 57 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 92 | 355 |
+| 57 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 92 | 356 |
 | 57 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 450 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 525 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,656 | 120 |
@@ -287,7 +287,7 @@
 | 283 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 430 |
 | 283 | [Crashlands](games/c/crashlands.md) | 4.66 | 194 | 279 |
 | 283 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,293 | 133 |
-| 283 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 354 | 229 |
+| 283 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 355 | 229 |
 | 283 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 47 | 416 |
 | 283 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.66 | 0 | 525 |
 | 283 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 525 |
@@ -338,7 +338,7 @@
 | 333 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 525 |
 | 333 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.63 | 85,114 | 9 |
 | 333 | [Death's Door](games/d/death's_door.md) | 4.63 | 0 | 525 |
-| 333 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,230 | 106 |
+| 333 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,231 | 106 |
 | 333 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.63 | 0 | 525 |
 | 333 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.63 | 0 | 525 |
 | 333 | [GigaBash](games/g/gigabash.md) | 4.63 | 0 | 525 |
@@ -503,7 +503,7 @@
 | 490 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 525 |
 | 490 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 948 | 151 |
 | 490 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 89 | 359 |
-| 490 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 92 | 355 |
+| 490 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 93 | 355 |
 | 490 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.55 | 0 | 525 |
 | 490 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.55 | 0 | 525 |
 | 490 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 525 |
@@ -759,7 +759,7 @@
 | 757 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 525 |
 | 757 | [Core](games/c/core.md) | 4.36 | 754 | 165 |
 | 757 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 290 |
-| 757 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,690 | 31 |
+| 757 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,693 | 31 |
 | 757 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 525 |
 | 757 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 525 |
 | 757 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 490 |

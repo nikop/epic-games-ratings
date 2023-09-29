@@ -30,7 +30,7 @@
 | 28 | [Maneater](games/m/maneater.md) | 13,699 | 4.49 | 588 |
 | 29 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 13,562 | 4.74 | 148 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,067 | 4.43 | 674 |
-| 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,690 | 4.36 | 757 |
+| 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,693 | 4.36 | 757 |
 | 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,555 | 4.86 | 30 |
 | 33 | [NBA 2K21](games/n/nba_2k21.md) | 11,763 | 4.39 | 727 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 11,706 | 4.88 | 18 |
@@ -105,7 +105,7 @@
 | 103 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2,424 | 4.33 | 780 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,416 | 4.78 | 104 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,253 | 4.67 | 263 |
-| 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,230 | 4.63 | 333 |
+| 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,231 | 4.63 | 333 |
 | 107 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,207 | 4.41 | 696 |
 | 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,149 | 4.37 | 748 |
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,997 | 4.49 | 588 |
@@ -228,7 +228,7 @@
 | 226 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 957 |
 | 227 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 362 | 4.32 | 791 |
 | 228 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 358 | 4.55 | 490 |
-| 229 | [Dungeons 3](games/d/dungeons_3.md) | 354 | 4.66 | 283 |
+| 229 | [Dungeons 3](games/d/dungeons_3.md) | 355 | 4.66 | 283 |
 | 230 | [Brawlhalla](games/b/brawlhalla.md) | 343 | 4.60 | 401 |
 | 231 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 30 |
 | 232 | [The Messenger](games/t/the_messenger.md) | 334 | 4.81 | 79 |
@@ -354,8 +354,8 @@
 | 351 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 96 | 4.54 | 513 |
 | 353 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 696 |
 | 354 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 94 | 4.17 | 900 |
-| 355 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 92 | 4.55 | 490 |
-| 355 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 92 | 4.83 | 57 |
+| 355 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 93 | 4.55 | 490 |
+| 356 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 92 | 4.83 | 57 |
 | 357 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 573 |
 | 358 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 90 | 4.68 | 245 |
 | 359 | [Armored Warfare](games/a/armored_warfare.md) | 89 | 4.10 | 923 |
