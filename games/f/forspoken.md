@@ -5,23 +5,23 @@ Rating: 4.16 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,039 |
-| Unlocked Potential | 9.00% | ~3,635 |
-| Tinkerer | 7.00% | ~2,828 |
-| Knock 'Em Dead | 7.00% | ~2,828 |
-| Pilgrimage: Initiate | 7.00% | ~2,828 |
-| Hell of a Run | 7.00% | ~2,828 |
-| Leapfrogger | 6.00% | ~2,424 |
-| Call of the Fount: Baptized | 6.00% | ~2,424 |
-| No Mercy | 5.00% | ~2,020 |
-| Explorer: Seeker | 5.00% | ~2,020 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,616 |
-| Stuck | 4.00% | ~1,616 |
-| Help Me Out Here | 4.00% | ~1,616 |
-| Outdoorsperson | 3.00% | ~1,212 |
-| The Interloper | 3.00% | ~1,212 |
-| Hop, Step, Jump | 3.00% | ~1,212 |
-| Endless Runner | 3.00% | ~1,212 |
+| Attachments | 10.00% | ~4,042 |
+| Unlocked Potential | 9.00% | ~3,638 |
+| Tinkerer | 7.00% | ~2,830 |
+| Knock 'Em Dead | 7.00% | ~2,830 |
+| Pilgrimage: Initiate | 7.00% | ~2,830 |
+| Hell of a Run | 7.00% | ~2,830 |
+| Leapfrogger | 6.00% | ~2,426 |
+| Call of the Fount: Baptized | 6.00% | ~2,426 |
+| No Mercy | 5.00% | ~2,021 |
+| Explorer: Seeker | 5.00% | ~2,021 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,617 |
+| Stuck | 4.00% | ~1,617 |
+| Help Me Out Here | 4.00% | ~1,617 |
+| Outdoorsperson | 3.00% | ~1,213 |
+| The Interloper | 3.00% | ~1,213 |
+| Hop, Step, Jump | 3.00% | ~1,213 |
+| Endless Runner | 3.00% | ~1,213 |
 | What Must Be Done | 2.00% | ~808 |
 | Might and Main | 2.00% | ~808 |
 | Damned If You Do... | 2.00% | ~808 |
@@ -36,8 +36,8 @@ Rating: 4.16 (Ranked 905)
 | Pilgrimage: Novice | 1.00% | ~404 |
 | Wildfire | 0.70% | ~283 |
 | Realized Potential | 0.70% | ~283 |
-| Awakening | 0.60% | ~242 |
-| Explorer: Trailblazer | 0.60% | ~242 |
+| Awakening | 0.60% | ~243 |
+| Explorer: Trailblazer | 0.60% | ~243 |
 | Through the Eyes of Another: Seer | 0.50% | ~202 |
 | Archivist | 0.30% | ~121 |
 | Craftsperson | 0.30% | ~121 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 905)
 | Remembrance | 0.10% | ~40 |
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,394 (Ranked 105)  
+Progressed: 40,425 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 3 (0.01%) (Ranked 283)
 | 2023-09-26 | 40,073 | 3 |
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
-| 2023-09-29 | 40,394 | 3 |
+| 2023-09-29 | 40,425 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

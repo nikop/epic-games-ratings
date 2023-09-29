@@ -7,27 +7,27 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~369,786 |
-| Now You're Talking | 62.00% | ~327,524 |
-| Steel Yourself | 62.00% | ~327,524 |
-| Window Dressing | 50.00% | ~264,132 |
+| Now You're Talking | 62.00% | ~327,525 |
+| Steel Yourself | 62.00% | ~327,525 |
+| Window Dressing | 50.00% | ~264,133 |
 | Trigger Happy | 46.00% | ~243,002 |
-| Riverborn | 45.00% | ~237,719 |
+| Riverborn | 45.00% | ~237,720 |
 | Starry Eyed | 34.00% | ~179,610 |
 | Poking Around | 34.00% | ~179,610 |
 | Talk of the Town | 24.00% | ~126,784 |
 | AAARR! | 23.00% | ~121,501 |
 | Hello Darkness | 23.00% | ~121,501 |
-| Wind At Our Backs | 22.00% | ~116,218 |
+| Wind At Our Backs | 22.00% | ~116,219 |
 | To the Beat | 20.00% | ~105,653 |
 | Sunny Shores | 17.00% | ~89,805 |
-| Sunday Best | 16.00% | ~84,522 |
+| Sunday Best | 16.00% | ~84,523 |
 | To Victory! | 15.00% | ~79,240 |
 | Two of a Kind | 14.00% | ~73,957 |
-| Keep On Trucking | 13.00% | ~68,674 |
+| Keep On Trucking | 13.00% | ~68,675 |
 | Going on an Adventure | 11.00% | ~58,109 |
 | Make Peace, Not War | 11.00% | ~58,109 |
-| Walking The Line | 10.00% | ~52,826 |
-| Not So Cute Anymore | 10.00% | ~52,826 |
+| Walking The Line | 10.00% | ~52,827 |
+| Not So Cute Anymore | 10.00% | ~52,827 |
 | Road Less Travelled | 9.00% | ~47,544 |
 | Lost and Found | 9.00% | ~47,544 |
 | Under the Radar | 8.00% | ~42,261 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,585 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,265 (Ranked 33)  
+Progressed: 528,266 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 479 (0.09%) (Ranked 242)
 | 2023-09-26 | 528,121 | 479 |
 | 2023-09-27 | 528,162 | 479 |
 | 2023-09-28 | 528,204 | 479 |
-| 2023-09-29 | 528,265 | 479 |
+| 2023-09-29 | 528,266 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

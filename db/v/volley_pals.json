@@ -4,7 +4,7 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 26.96,
+  "EOS_Completed_Percentage": 26.72,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -621,6 +621,11 @@
       "Time": "2023-09-29T14:08:32.6663175+00:00",
       "NumProgressed": 115,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-09-29T23:07:58.7377601+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 10,
@@ -632,13 +637,13 @@
       "Name": "Beach",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 100,
       "UsersEstimate": 77
     },
@@ -646,9 +651,9 @@
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_3",
@@ -664,7 +669,7 @@
       "Name": "Science Laboratory",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_5",
@@ -686,7 +691,7 @@
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 41
     },
@@ -702,23 +707,23 @@
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-09-29T22:06:41.8523627+00:00",
+  "LastChanged_Achievements": "2023-09-29T23:07:58.7377597+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.0391154+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:57:28.0153251+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:06:41.8523751+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:57:57.284648+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:07:58.7377708+00:00"
 }

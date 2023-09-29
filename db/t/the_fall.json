@@ -2,12 +2,12 @@
   "ID": "d16f231f238646e881bb0cd83e1d30c8",
   "Name": "The Fall",
   "ProductSlug": "the-fall",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-03-18T15:00:00+00:00",
@@ -391,6 +391,6 @@
   "FirstSeen": "2022-07-22T20:31:38.7819539+00:00",
   "LastChanged": "2023-09-12T08:59:29.1089143+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.0099163+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:57:30.1029751+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:03:53.6928925+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:58:00.5928614+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:04:16.8594169+00:00"
 }

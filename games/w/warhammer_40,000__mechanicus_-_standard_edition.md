@@ -6,17 +6,17 @@ Rating: 4.43 (Ranked 676)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~58,126 |
-| This is only the beginning | 19.00% | ~42,476 |
-| Knowledge is power | 12.00% | ~26,827 |
-| Power Ranger | 9.00% | ~20,120 |
-| Galvanic Rifle | 9.00% | ~20,120 |
-| Taser Goad | 9.00% | ~20,120 |
-| Radium Ready | 9.00% | ~20,120 |
-| Half a cog | 9.00% | ~20,120 |
+| This is only the beginning | 19.00% | ~42,477 |
+| Knowledge is power | 12.00% | ~26,828 |
+| Power Ranger | 9.00% | ~20,121 |
+| Galvanic Rifle | 9.00% | ~20,121 |
+| Taser Goad | 9.00% | ~20,121 |
+| Radium Ready | 9.00% | ~20,121 |
+| Half a cog | 9.00% | ~20,121 |
 | Watch them crumble | 6.00% | ~13,414 |
-| Competent Cohort | 4.00% | ~8,942 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,942 |
-| One with the Machine | 4.00% | ~8,942 |
+| Competent Cohort | 4.00% | ~8,943 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,943 |
+| One with the Machine | 4.00% | ~8,943 |
 | Legio Cybernetica | 3.00% | ~6,707 |
 | Fleshy Disposal | 3.00% | ~6,707 |
 | Battle Servitor | 2.00% | ~4,471 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 676)
 | Impatient destruction | 2.00% | ~4,471 |
 | Vivisected Vizier | 2.00% | ~4,471 |
 | Architect Abortion | 2.00% | ~4,471 |
-| Cohortus Maximus | 0.80% | ~1,788 |
+| Cohortus Maximus | 0.80% | ~1,789 |
 | Mother of Xenarites | 0.40% | ~894 |
 | False God | 0.30% | ~671 |
 | Hard | 0.20% | ~447 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 676)
 | Perma-live | 0.10% | ~224 |
 | Purge the Heretek | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,560 (Ranked 59)  
+Progressed: 223,563 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 5 (0.00%) (Ranked 300)
 | 2023-09-26 | 223,371 | 5 |
 | 2023-09-27 | 223,430 | 5 |
 | 2023-09-28 | 223,493 | 5 |
-| 2023-09-29 | 223,560 | 5 |
+| 2023-09-29 | 223,563 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 246)  
 Sum: 2,153 (Ranked 198)  

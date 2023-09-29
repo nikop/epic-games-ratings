@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,559 |
-| Rough Landing | 3.00% | ~26,559 |
-| Gunslinger | 2.00% | ~17,706 |
-| Master Crafter | 2.00% | ~17,706 |
-| The Jungle | 2.00% | ~17,706 |
-| Two Heads, One Bullet | 2.00% | ~17,706 |
-| V for Vendetta | 2.00% | ~17,706 |
+| Ten out of Ten | 3.00% | ~26,560 |
+| Rough Landing | 3.00% | ~26,560 |
+| Gunslinger | 2.00% | ~17,707 |
+| Master Crafter | 2.00% | ~17,707 |
+| The Jungle | 2.00% | ~17,707 |
+| Two Heads, One Bullet | 2.00% | ~17,707 |
+| V for Vendetta | 2.00% | ~17,707 |
 | Full Body Conversion | 1.00% | ~8,853 |
 | Right Back At Ya | 1.00% | ~8,853 |
 | Mean Streets | 1.00% | ~8,853 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,314 (Ranked 15)  
-Completed: 2,478 (0.28%) (Ranked 202)  
+Progressed: 885,339 (Ranked 15)  
+Completed: 2,480 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,10 +226,10 @@ Completed: 2,478 (0.28%) (Ranked 202)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 885,314 | 2,478 |
+| 2023-09-29 | 885,339 | 2,480 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 239,350 (Ranked 13)  
+Sum: 239,962 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -238,11 +238,11 @@ Diff (max vs sum): -4
 | This game has Diverse Characters | 11,536 |
 | This game is Great for Beginners | 11,460 |
 | This game has Amazing Storytelling | 11,372 |
+| This game is Highly Recommended | 11,338 |
 | This game is Extremely Fun | 11,088 |
-| This game is Highly Recommended | 11,021 |
+| This game has Amazing Characters | 11,042 |
 | This game has Quickly Understood Controls | 10,898 |
 | This game is Relaxing | 10,821 |
-| This game has Amazing Characters | 10,747 |
 | This game has a Creative Community | 7,144 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -500,4 +500,4 @@ Diff (max vs sum): -4
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
-| 2023-09-29 | 4.63 | - | 86,225 | 239,350 |
+| 2023-09-29 | 4.63 | - | 86,225 | 239,962 |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7531,
+  "EOS_Progressed": 7532,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -7159,6 +7159,11 @@
       "Time": "2023-09-29T13:09:48.7859119+00:00",
       "NumProgressed": 7531,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-29T23:06:41.17959+00:00",
+      "NumProgressed": 7532,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7186,7 +7191,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -7194,7 +7199,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -7242,7 +7247,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -7337,7 +7342,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7531,
+      "Progressed": 7532,
       "Completed": 33
     }
   ],
@@ -7345,8 +7350,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-29T22:05:42.4524237+00:00",
+  "LastChanged_Achievements": "2023-09-29T23:06:41.1795896+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:07.4802166+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:57:21.6435286+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:05:42.4524812+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:57:47.4485933+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:06:41.1796347+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57108,
+  "EOS_Progressed": 57109,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10048,6 +10048,11 @@
       "Time": "2023-09-29T21:03:35.6098743+00:00",
       "NumProgressed": 57108,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-29T23:04:01.2646557+00:00",
+      "NumProgressed": 57109,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10203,7 +10208,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "HarshLove",
@@ -10395,7 +10400,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "TimelySplash",
@@ -10450,7 +10455,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57108,
+      "Progressed": 57109,
       "Completed": 6
     }
   ],
@@ -10458,8 +10463,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-29T22:03:41.9381131+00:00",
+  "LastChanged_Achievements": "2023-09-29T23:04:01.2646553+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:04.8622812+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:57:12.6370357+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:03:41.9382172+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:57:35.8846801+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:04:01.2647328+00:00"
 }

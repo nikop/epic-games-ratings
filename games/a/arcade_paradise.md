@@ -14,16 +14,16 @@ Rating: 4.56 (Ranked 475)
 | Bug Fixer | 26.00% | ~177 |
 | Existential dread | 26.00% | ~177 |
 | Gerald of Riviera | 26.00% | ~177 |
-| Goal | 22.00% | ~149 |
+| Goal | 23.00% | ~156 |
 | I ran the numbers | 15.00% | ~102 |
 | Taking the plunge | 14.00% | ~95 |
 | Hidden Packages | 11.00% | ~75 |
 | GOOOAAAL | 10.00% | ~68 |
 | Ahoy Hoy | 7.00% | ~48 |
+| Jimmy Goldman Would be Proud | 7.00% | ~48 |
 | Bombscare | 6.00% | ~41 |
 | Rhythm is a dancer | 6.00% | ~41 |
 | New Kid on the Block | 6.00% | ~41 |
-| Jimmy Goldman Would be Proud | 6.00% | ~41 |
 | You Spin Me Round | 6.00% | ~41 |
 | Your Bloody Valentine | 5.00% | ~34 |
 | Crowning achievement | 4.00% | ~27 |

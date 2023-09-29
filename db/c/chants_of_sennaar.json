@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1120,9 +1120,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "META_HALF_LINK",
@@ -1295,8 +1295,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-29T22:08:40.2818375+00:00",
+  "LastChanged_Achievements": "2023-09-29T23:09:19.2355868+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:58:43.2563616+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:08:40.2818578+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:59:38.6666625+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:09:19.2356049+00:00"
 }

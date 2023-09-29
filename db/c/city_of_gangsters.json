@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 43,
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 345493,
+  "EOS_Progressed": 345495,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1022,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18867,6 +18867,11 @@
       "Time": "2023-09-29T22:05:11.0846626+00:00",
       "NumProgressed": 345493,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-29T23:05:59.2037248+00:00",
+      "NumProgressed": 345495,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18966,7 +18971,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27639
+      "UsersEstimate": 27640
     },
     {
       "ID": "ach013",
@@ -19014,7 +19019,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27639
+      "UsersEstimate": 27640
     },
     {
       "ID": "ach019",
@@ -19086,7 +19091,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158927
+      "UsersEstimate": 158928
     },
     {
       "ID": "ach028",
@@ -19182,7 +19187,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34549
+      "UsersEstimate": 34550
     },
     {
       "ID": "ach040",
@@ -19342,7 +19347,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34549
+      "UsersEstimate": 34550
     },
     {
       "ID": "ach060",
@@ -19517,7 +19522,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345493,
+      "Progressed": 345495,
       "Completed": 7
     }
   ],
@@ -19525,8 +19530,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-26T19:57:39.174823+00:00",
-  "LastChanged_Achievements": "2023-09-29T22:05:11.0846622+00:00",
+  "LastChanged_Achievements": "2023-09-29T23:05:59.2037242+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:58:12.1965516+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:05:11.0848709+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:58:56.8387424+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:05:59.2038775+00:00"
 }

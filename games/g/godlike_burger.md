@@ -1,41 +1,41 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.27 (Ranked 826)  
+Rating: 4.27 (Ranked 827)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 81.00% | ~363 |
-| FIRST BLOOD | 76.00% | ~340 |
-| KEVIN! | 66.00% | ~296 |
-| JACK OF ALL TRADES | 59.00% | ~264 |
-| CRIMINAL | 53.00% | ~237 |
-| GRANDMA WOULD BE PROUD | 44.00% | ~197 |
-| WITHOUT BREAKING A SWEAT | 39.00% | ~175 |
-| HONORS STUDENT | 35.00% | ~157 |
-| BUTCHER | 25.00% | ~112 |
+| MASTER CHEF | 81.00% | ~365 |
+| FIRST BLOOD | 75.00% | ~338 |
+| KEVIN! | 66.00% | ~298 |
+| JACK OF ALL TRADES | 59.00% | ~266 |
+| CRIMINAL | 53.00% | ~239 |
+| GRANDMA WOULD BE PROUD | 43.00% | ~194 |
+| WITHOUT BREAKING A SWEAT | 39.00% | ~176 |
+| HONORS STUDENT | 35.00% | ~158 |
+| BUTCHER | 25.00% | ~113 |
 | RAMBO | 22.00% | ~99 |
 | INDIVIDUAL APPROACH | 20.00% | ~90 |
-| MARTYR | 19.00% | ~85 |
+| MARTYR | 19.00% | ~86 |
 | HELL'S KITCHEN | 18.00% | ~81 |
-| CELEBRITY | 17.00% | ~76 |
+| CELEBRITY | 16.00% | ~72 |
 | GRATITUDE | 16.00% | ~72 |
 | LAW-ABIDING CITIZEN | 10.00% | ~45 |
 | PRUDENT | 10.00% | ~45 |
 | PATTY-KILLER | 8.00% | ~36 |
-| EXPERIMENTALIST | 7.00% | ~31 |
-| GOURMET | 7.00% | ~31 |
-| SCATTERBRAIN | 7.00% | ~31 |
+| EXPERIMENTALIST | 7.00% | ~32 |
+| GOURMET | 7.00% | ~32 |
+| SCATTERBRAIN | 7.00% | ~32 |
 | TASTE UNTASTY | 4.00% | ~18 |
-| HIGH TECHNOLOGIES | 3.00% | ~13 |
+| HIGH TECHNOLOGIES | 3.00% | ~14 |
 | CORRUPTIONIST | 2.00% | ~9 |
 | I'VE SEEN SOME… | 2.00% | ~9 |
-| DEBTOR | 1.00% | ~4 |
+| DEBTOR | 1.00% | ~5 |
 | TRAVELER | 0.90% | ~4 |
 | MISTER ALL THUMBS | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448 (Ranked 276)  
-Completed: 2 (0.45%) (Ranked 172)  
+Progressed: 451 (Ranked 275)  
+Completed: 2 (0.44%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 2 (0.45%) (Ranked 172)
 | 2023-09-26 | 432 | 2 |
 | 2023-09-27 | 434 | 2 |
 | 2023-09-28 | 437 | 2 |
-| 2023-09-29 | 448 | 2 |
+| 2023-09-29 | 451 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

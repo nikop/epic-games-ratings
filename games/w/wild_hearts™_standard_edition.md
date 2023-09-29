@@ -20,7 +20,7 @@
 | Distance Devourer | 55.00% | ~42 |
 | Expert Conjuror | 53.00% | ~41 |
 | Flawless Crystal | 49.00% | ~38 |
-| Bonds of Enmity | 47.00% | ~36 |
+| Bonds of Enmity | 48.00% | ~37 |
 | Counter Specialist | 45.00% | ~35 |
 | Axer of Auspice | 43.00% | ~33 |
 | Karakuri Trail | 42.00% | ~32 |

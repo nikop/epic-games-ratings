@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8280,9 +8280,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297527,
+  "EOS_Progressed": 297529,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25800,6 +25800,11 @@
       "Time": "2023-09-29T22:03:28.2638191+00:00",
       "NumProgressed": 297527,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-29T23:03:43.3835987+00:00",
+      "NumProgressed": 297529,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26035,7 +26040,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26777
+      "UsersEstimate": 26778
     },
     {
       "ID": "PFA_36",
@@ -26163,14 +26168,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26777
+      "UsersEstimate": 26778
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297527,
+      "Progressed": 297529,
       "Completed": 479
     }
   ],
@@ -26178,8 +26183,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-29T20:57:46.9866363+00:00",
-  "LastChanged_Achievements": "2023-09-29T22:03:28.2638184+00:00",
+  "LastChanged_Achievements": "2023-09-29T23:03:43.3835984+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:57:33.3543911+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:03:28.2639653+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:58:04.591421+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:03:43.3837098+00:00"
 }

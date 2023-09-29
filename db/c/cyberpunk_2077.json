@@ -12615,10 +12615,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 239350,
       "NumberOfAwardsMax": 86225
+    },
+    {
+      "Time": "2023-09-29T22:58:54.135901+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 239962,
+      "NumberOfAwardsMax": 86225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 239350,
+  "NumberOfAwards": 239962,
   "NumberOfAwardsMax": 86225,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12662,7 +12668,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11021
+      "Count": 11338
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12680,7 +12686,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 10747
+      "Count": 11042
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12695,10 +12701,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885314,
-  "EOS_Completed": 2478,
-  "EOS_NewPlayers": 6451,
-  "EOS_NewCompleters": 226,
+  "EOS_Progressed": 885339,
+  "EOS_Completed": 2480,
+  "EOS_NewPlayers": 6448,
+  "EOS_NewCompleters": 228,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30950,6 +30956,11 @@
       "Time": "2023-09-29T22:06:09.6011828+00:00",
       "NumProgressed": 885314,
       "NumCompleted": 2478
+    },
+    {
+      "Time": "2023-09-29T23:07:16.4102804+00:00",
+      "NumProgressed": 885339,
+      "NumCompleted": 2480
     }
   ],
   "TotalAchievements": 57,
@@ -31041,7 +31052,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17706
+      "UsersEstimate": 17707
     },
     {
       "ID": "HandyMan",
@@ -31049,7 +31060,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17706
+      "UsersEstimate": 17707
     },
     {
       "ID": "IAmMaxTac",
@@ -31145,7 +31156,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26559
+      "UsersEstimate": 26560
     },
     {
       "ID": "Temperance",
@@ -31161,7 +31172,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26559
+      "UsersEstimate": 26560
     },
     {
       "ID": "TheDevil",
@@ -31249,7 +31260,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17706
+      "UsersEstimate": 17707
     },
     {
       "ID": "TrueSoldier",
@@ -31273,7 +31284,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17706
+      "UsersEstimate": 17707
     },
     {
       "ID": "UnderPressure",
@@ -31289,7 +31300,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17706
+      "UsersEstimate": 17707
     },
     {
       "ID": "YipMan",
@@ -31416,21 +31427,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885314,
-      "Completed": 2478
+      "Progressed": 885339,
+      "Completed": 2480
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13937,
+      "Progressed": 13962,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-29T20:58:21.9511499+00:00",
-  "LastChanged_Achievements": "2023-09-29T22:06:09.6011823+00:00",
+  "LastChanged": "2023-09-29T22:58:54.1359008+00:00",
+  "LastChanged_Achievements": "2023-09-29T23:07:16.4102798+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T21:58:10.2279169+00:00",
-  "LastUpdate_Achievements": "2023-09-29T22:06:09.601351+00:00"
+  "LastUpdate_Ratings": "2023-09-29T22:58:54.1359018+00:00",
+  "LastUpdate_Achievements": "2023-09-29T23:07:16.4104329+00:00"
 }
