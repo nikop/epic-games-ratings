@@ -123,6 +123,7 @@
 | [Breachway](games/b/breachway.md) | 2023-12-31 | - |  | - | - |
 | [Capes](games/c/capes.md) | 2023-12-31 | - |  | - | - |
 | [Capital Command](games/c/capital_command.md) | 2023-12-31 | - |  | - | - |
+| [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2023-12-31 | - |  | - | - |
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2023-12-31 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2023-12-31 | - |  | - | - |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-12-31 | - |  | - | - |
@@ -290,7 +291,6 @@
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | 2099-01-01 | - |  | - | - |
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
-| [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2099-01-01 | - |  | - | - |
 | [Clash Heroes of Feralia Terra](games/e/efb6aef408a04c04aa5f69e565b5a918.md) | 2099-01-01 | - |  | - | - |
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | - |  | - | - |
 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 2099-01-01 | - |  | - | - |
