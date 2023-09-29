@@ -534,7 +534,7 @@
 | 525 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 496 |
 | 525 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 23 | 504 |
 | 525 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 525 |
-| 525 | [VALORANT](games/v/valorant.md) | 4.53 | 72,509 | 10 |
+| 525 | [VALORANT](games/v/valorant.md) | 4.53 | 72,643 | 10 |
 | 525 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 348 |
 | 537 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 43 | 427 |
 | 537 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 33,179 | 15 |
@@ -697,7 +697,6 @@
 | 688 | [Warpips](games/w/warpips.md) | 4.42 | 28 | 474 |
 | 696 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 525 |
 | 696 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 525 |
-| 696 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 525 |
 | 696 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 67 | 389 |
 | 696 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 249 | 258 |
 | 696 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 525 |
@@ -714,18 +713,19 @@
 | 696 | [Sheltered](games/s/sheltered.md) | 4.41 | 273 | 251 |
 | 696 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 525 |
 | 696 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,371 | 131 |
-| 715 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,034 | 143 |
-| 715 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 525 |
-| 715 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 525 |
-| 715 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.40 | 0 | 525 |
-| 715 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.40 | 0 | 525 |
-| 715 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.40 | 0 | 525 |
-| 715 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 525 |
-| 715 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 525 |
-| 715 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 460 | 208 |
-| 715 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 525 |
-| 715 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 566 | 193 |
-| 715 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 113 | 329 |
+| 714 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 525 |
+| 714 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,034 | 143 |
+| 714 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 525 |
+| 714 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 525 |
+| 714 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.40 | 0 | 525 |
+| 714 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.40 | 0 | 525 |
+| 714 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.40 | 0 | 525 |
+| 714 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 525 |
+| 714 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 525 |
+| 714 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 460 | 208 |
+| 714 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 525 |
+| 714 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 566 | 193 |
+| 714 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 113 | 329 |
 | 727 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 525 |
 | 727 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 525 |
 | 727 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.39 | 0 | 525 |

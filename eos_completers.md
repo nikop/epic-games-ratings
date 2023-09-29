@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 78.67% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 78.51% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.54% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -89,8 +89,8 @@
 | 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 88 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 89 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 90 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.49% |
 | 90 | [Lamentum](games/l/lamentum.md) | 2.49% |
+| 91 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.48% |
 | 92 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 92 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.42% |
 | 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
@@ -128,17 +128,17 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 127 | [Infindustry](games/i/infindustry.md) | 1.10% |
 | 128 | [Trifox](games/t/trifox.md) | 1.09% |
-| 129 | [Adios](games/a/adios.md) | 1.04% |
-| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
+| 130 | [Adios](games/a/adios.md) | 1.04% |
 | 131 | [Sable](games/s/sable.md) | 1.01% |
 | 132 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
 | 132 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 135 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 136 | [A Musical Story](games/a/a_musical_story.md) | 0.98% |
-| 137 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.95% |
-| 138 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
-| 139 | [Hades](games/h/hades.md) | 0.91% |
+| 137 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
+| 138 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.91% |
+| 138 | [Hades](games/h/hades.md) | 0.91% |
 | 140 | [Eternights](games/e/eternights.md) | 0.86% |
 | 141 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 142 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
