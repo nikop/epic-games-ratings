@@ -376,9 +376,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1254,
+  "EOS_Progressed": 1255,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2701,6 +2701,11 @@
       "Time": "2023-09-28T20:05:50.4364469+00:00",
       "NumProgressed": 1254,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T07:06:48.3926154+00:00",
+      "NumProgressed": 1255,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2768,7 +2773,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "EXPERT_1",
@@ -2832,7 +2837,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2999,15 +3004,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1254,
+      "Progressed": 1255,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:57.9337751+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:48.3926146+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:02.895525+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:59:22.8192784+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:57.9338185+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:00:07.8106963+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:48.392657+00:00"
 }

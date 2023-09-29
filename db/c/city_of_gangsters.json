@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 345380,
+  "EOS_Progressed": 345382,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1024,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18787,6 +18787,11 @@
       "Time": "2023-09-29T06:04:46.9247429+00:00",
       "NumProgressed": 345380,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-29T07:05:23.2471873+00:00",
+      "NumProgressed": 345382,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -18886,7 +18891,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27630
+      "UsersEstimate": 27631
     },
     {
       "ID": "ach013",
@@ -18926,7 +18931,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44899
+      "UsersEstimate": 44900
     },
     {
       "ID": "ach018",
@@ -18934,7 +18939,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27630
+      "UsersEstimate": 27631
     },
     {
       "ID": "ach019",
@@ -19006,7 +19011,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 158875
+      "UsersEstimate": 158876
     },
     {
       "ID": "ach028",
@@ -19150,7 +19155,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44899
+      "UsersEstimate": 44900
     },
     {
       "ID": "ach046",
@@ -19437,7 +19442,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 345380,
+      "Progressed": 345382,
       "Completed": 7
     }
   ],
@@ -19445,8 +19450,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-26T19:57:39.174823+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:04:46.9247423+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:05:23.247187+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:29.7353811+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:57:50.6533458+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:04:46.9249842+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:58:13.8104079+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:05:23.2473856+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1425,9 +1425,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23250,
+  "EOS_Progressed": 23251,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8365,6 +8365,11 @@
       "Time": "2023-09-28T18:06:57.8319921+00:00",
       "NumProgressed": 23250,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-09-29T07:06:11.6026041+00:00",
+      "NumProgressed": 23251,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -8472,7 +8477,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -8480,7 +8485,7 @@
       "Name": "For Greed",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "BossFinalDefeated",
@@ -8488,7 +8493,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -8512,7 +8517,7 @@
       "Name": "For Penance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "BossGardenDefeated",
@@ -8520,7 +8525,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -8552,7 +8557,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BoxerBoss",
@@ -8568,7 +8573,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "EndTimerFail",
@@ -8600,7 +8605,7 @@
       "Name": "Good Practice",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Icarus",
@@ -8608,7 +8613,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NightmareKhidr",
@@ -8616,7 +8621,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "PetDragon",
@@ -8632,7 +8637,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "RogueMode",
@@ -8656,7 +8661,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "TitleDrop",
@@ -8687,21 +8692,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23250,
+      "Progressed": 23251,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2180,
+      "Progressed": 2181,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-15T20:58:44.7315324+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:27.3284226+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:11.6026034+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.049408+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:58:35.3576089+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:27.3284979+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:59:09.8901655+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:11.6026766+00:00"
 }

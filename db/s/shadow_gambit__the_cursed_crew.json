@@ -5,10 +5,10 @@
   "Ranking_Rating": 190,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -86,9 +86,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.95,
   "EosHistory": [
@@ -1896,6 +1896,11 @@
       "Time": "2023-09-28T20:05:35.3507849+00:00",
       "NumProgressed": 678,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-29T07:06:31.8406255+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1916,7 +1921,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "_03_FinishAct1",
@@ -1924,7 +1929,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1948,7 +1953,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "_07_FinishAct3",
@@ -2004,7 +2009,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_14_Completion_70",
@@ -2115,7 +2120,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 20
     }
   ],
@@ -2123,8 +2128,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-27T06:58:56.7562256+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:44.0984244+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:31.8406249+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:58:05.1845217+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:44.0984568+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:58:31.6795355+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:31.8406553+00:00"
 }

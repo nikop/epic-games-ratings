@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1456,
+  "EOS_Progressed": 1457,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2905,6 +2905,11 @@
       "Time": "2023-09-28T17:07:24.9875978+00:00",
       "NumProgressed": 1456,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T07:06:27.4404005+00:00",
+      "NumProgressed": 1457,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2996,7 +3001,7 @@
       "Name": "E1M1",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Everyone_is_here",
@@ -3004,7 +3009,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Experienced_strategist",
@@ -3044,7 +3049,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "High_noon",
@@ -3155,15 +3160,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1456,
+      "Progressed": 1457,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:40.4156897+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:27.4404+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:20.3862703+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:58:52.0405481+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:40.4157365+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:59:30.6061151+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:27.4404405+00:00"
 }

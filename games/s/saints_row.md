@@ -6,8 +6,8 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~33,577 |
-| To The Nines | 42.00% | ~30,657 |
+| First F#@!ing Day | 46.00% | ~33,578 |
+| To The Nines | 42.00% | ~30,658 |
 | Optimized | 36.00% | ~26,278 |
 | Performance Review | 36.00% | ~26,278 |
 | Making a Name | 34.00% | ~24,818 |
@@ -15,10 +15,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | Landlord | 32.00% | ~23,358 |
 | The Side Job | 31.00% | ~22,628 |
 | Wet Work | 31.00% | ~22,628 |
-| Wrecking Ball | 27.00% | ~19,708 |
-| Food for Thought | 27.00% | ~19,708 |
-| Finders Keepers | 25.00% | ~18,248 |
-| A Young Empire | 25.00% | ~18,248 |
+| Wrecking Ball | 27.00% | ~19,709 |
+| Food for Thought | 27.00% | ~19,709 |
+| Finders Keepers | 25.00% | ~18,249 |
+| A Young Empire | 25.00% | ~18,249 |
 | Work Ethic | 23.00% | ~16,789 |
 | Power Players | 19.00% | ~13,869 |
 | Picking Fights | 19.00% | ~13,869 |
@@ -29,8 +29,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | Kitted Out | 14.00% | ~10,219 |
 | Masters of Santo Ileso | 12.00% | ~8,759 |
 | Hijacked | 11.00% | ~8,029 |
-| The Spins | 10.00% | ~7,299 |
-| The Mechanic | 10.00% | ~7,299 |
+| The Spins | 10.00% | ~7,300 |
+| The Mechanic | 10.00% | ~7,300 |
 | Closet Space | 8.00% | ~5,840 |
 | We could go home, or… | 7.00% | ~5,110 |
 | Challenge Accepted | 7.00% | ~5,110 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~146 |
 | Fiesta Time | 0.20% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,994 (Ranked 84)  
+Progressed: 72,995 (Ranked 84)  
 Completed: 50 (0.07%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 50 (0.07%) (Ranked 249)
 | 2023-09-26 | 72,748 | 49 |
 | 2023-09-27 | 72,860 | 49 |
 | 2023-09-28 | 72,962 | 49 |
-| 2023-09-29 | 72,994 | 50 |
+| 2023-09-29 | 72,995 | 50 |
 ## Awards
 Max (Extremely Fun): 1,068  (Ranked 142)  
 Sum: 8,660 (Ranked 97)  

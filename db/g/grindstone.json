@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5157,
+  "EOS_Progressed": 5158,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -785,6 +785,11 @@
       "Time": "2023-09-26T23:07:05.5968139+00:00",
       "NumProgressed": 5157,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-09-29T07:06:55.5577289+00:00",
+      "NumProgressed": 5158,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -900,7 +905,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -924,7 +929,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -932,7 +937,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -940,7 +945,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -972,7 +977,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1004,7 +1009,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4023
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1028,7 +1033,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -1036,7 +1041,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1084,7 +1089,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1092,7 +1097,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1140,7 +1145,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1172,7 +1177,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1180,22 +1185,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5157,
+      "Progressed": 5158,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:06:04.0015385+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:55.5577282+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:46.4227927+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:59:16.0542355+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:06:04.0015857+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:59:59.7925179+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:55.5578032+00:00"
 }

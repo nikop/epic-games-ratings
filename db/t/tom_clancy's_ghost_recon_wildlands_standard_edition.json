@@ -2,13 +2,13 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
-  "Ranking_Rating": 372,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 871,
   "RatingHistory": [
     {
@@ -3474,10 +3474,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1759,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-09-29T06:57:14.5176544+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1760,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1759,
+  "NumberOfAwards": 1760,
   "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3533,7 +3539,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 195
+      "Count": 196
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3553,8 +3559,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-09-28T22:57:01.728789+00:00",
+  "LastChanged": "2023-09-29T06:57:14.5176543+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:09.1696246+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:57:03.0643319+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:02:30.776789+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:57:14.5176549+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:03:14.8135783+00:00"
 }

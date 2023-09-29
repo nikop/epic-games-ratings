@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -783,9 +783,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -807,9 +807,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "TAKE_LEECH",
@@ -823,9 +823,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:04:57.3176756+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:05:35.3160809+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:56:54.3565535+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:04:57.3176933+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:57:03.440021+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:05:35.3161+00:00"
 }

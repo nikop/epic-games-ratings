@@ -37,12 +37,12 @@ Number of Ratings: 45  (23.09.2022)
 | We Emerge Changed | 4.00% | ~56 |
 | Storied Past | 4.00% | ~56 |
 | Worldwalker | 4.00% | ~56 |
+| Bears are Scary | 4.00% | ~56 |
 | Grillmaster | 4.00% | ~56 |
 | No Time for Clawmonsters | 4.00% | ~56 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
 | No More Nightmares | 3.00% | ~42 |
-| Bears are Scary | 3.00% | ~42 |
 | Some Say I'm Too Flashy | 3.00% | ~42 |
 | Into Mulch | 3.00% | ~42 |
 | Astrology | 3.00% | ~42 |

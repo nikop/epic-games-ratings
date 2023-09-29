@@ -45,8 +45,8 @@
 | The Professor | 34.00% | ~155 |
 | Galactic Explorer | 34.00% | ~155 |
 | Broke, Blind, and Bedlam | 33.00% | ~150 |
+| Ghost Ship | 31.00% | ~141 |
 | A Personal Touch | 30.00% | ~137 |
-| Ghost Ship | 30.00% | ~137 |
 | The Justicar | 30.00% | ~137 |
 | The Quarian | 30.00% | ~137 |
 | The Prodigal | 30.00% | ~137 |

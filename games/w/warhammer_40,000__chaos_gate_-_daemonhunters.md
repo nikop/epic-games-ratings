@@ -10,9 +10,9 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 6.00% | ~195 |
 | Look Over There! | 5.00% | ~162 |
 | Not So Fast... | 5.00% | ~162 |
+| Purging Spree | 5.00% | ~162 |
 | An Ill Omen | 5.00% | ~162 |
 | Blood for the Blood God! | 4.00% | ~130 |
-| Purging Spree | 4.00% | ~130 |
 | Bloodless | 4.00% | ~130 |
 | Surgical Excision | 3.00% | ~97 |
 | Friendly Fire | 3.00% | ~97 |
@@ -45,6 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.50% | ~16 |
 | Hands-On Research | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
+| True Mastery | 0.30% | ~10 |
 | Reign of Confusion | 0.30% | ~10 |
 | Suffer Not the Mutant | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~6 |
@@ -52,7 +53,6 @@ Number of Ratings: 371  (23.09.2022)
 | Clean Slate | 0.20% | ~6 |
 | Warp Flickers | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
-| True Mastery | 0.20% | ~6 |
 | Abomination | 0.20% | ~6 |
 | Killing Rampage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |

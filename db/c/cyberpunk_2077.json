@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12665,10 +12665,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884587,
-  "EOS_Completed": 2464,
-  "EOS_NewPlayers": 6330,
-  "EOS_NewCompleters": 271,
+  "EOS_Progressed": 884628,
+  "EOS_Completed": 2465,
+  "EOS_NewPlayers": 6350,
+  "EOS_NewCompleters": 269,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30840,6 +30840,11 @@
       "Time": "2023-09-29T06:05:46.9093096+00:00",
       "NumProgressed": 884587,
       "NumCompleted": 2464
+    },
+    {
+      "Time": "2023-09-29T07:06:35.2761385+00:00",
+      "NumProgressed": 884628,
+      "NumCompleted": 2465
     }
   ],
   "TotalAchievements": 57,
@@ -30851,7 +30856,7 @@
       "Name": "City Lights",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "BornToBeWild",
@@ -30931,7 +30936,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17692
+      "UsersEstimate": 17693
     },
     {
       "ID": "HandyMan",
@@ -31035,7 +31040,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17692
+      "UsersEstimate": 17693
     },
     {
       "ID": "Temperance",
@@ -31051,7 +31056,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17692
+      "UsersEstimate": 17693
     },
     {
       "ID": "TheDevil",
@@ -31075,7 +31080,7 @@
       "Name": "The Hermit",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7961
+      "UsersEstimate": 7962
     },
     {
       "ID": "TheHightPriestess",
@@ -31115,7 +31120,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7961
+      "UsersEstimate": 7962
     },
     {
       "ID": "TheWorld",
@@ -31139,7 +31144,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17692
+      "UsersEstimate": 17693
     },
     {
       "ID": "TrueSoldier",
@@ -31153,9 +31158,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7962
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31251,7 +31256,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Kingofcups",
@@ -31306,21 +31311,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884587,
-      "Completed": 2464
+      "Progressed": 884628,
+      "Completed": 2465
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13210,
+      "Progressed": 13251,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-29T02:57:54.9280243+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:46.909309+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:35.276138+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:57:48.7341763+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:46.9094854+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:58:11.1261258+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:35.2762989+00:00"
 }

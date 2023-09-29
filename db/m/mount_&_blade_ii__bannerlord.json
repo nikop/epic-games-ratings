@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7521,7 +7521,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62313,
+  "EOS_Progressed": 62315,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
@@ -24691,6 +24691,11 @@
       "Time": "2023-09-29T06:05:01.6978059+00:00",
       "NumProgressed": 62313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T07:05:40.6691378+00:00",
+      "NumProgressed": 62315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24782,7 +24787,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6231
+      "UsersEstimate": 6232
     },
     {
       "ID": "Dynasty",
@@ -24790,7 +24795,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6231
+      "UsersEstimate": 6232
     },
     {
       "ID": "Entrepreneur",
@@ -24894,7 +24899,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10594
     },
     {
       "ID": "Kingslayer",
@@ -24926,7 +24931,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20563
+      "UsersEstimate": 20564
     },
     {
       "ID": "Lawbringer",
@@ -24934,7 +24939,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24302
+      "UsersEstimate": 24303
     },
     {
       "ID": "Lawmaker",
@@ -25046,7 +25051,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6231
+      "UsersEstimate": 6232
     },
     {
       "ID": "The king is pleased",
@@ -25054,7 +25059,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11216
+      "UsersEstimate": 11217
     },
     {
       "ID": "This Is Our Land",
@@ -25102,22 +25107,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6231
+      "UsersEstimate": 6232
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62313,
+      "Progressed": 62315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-29T04:58:14.4137887+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:01.6978052+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:05:40.6691371+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:57:36.3082131+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:01.6979594+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:57:55.3007671+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:05:40.6692823+00:00"
 }

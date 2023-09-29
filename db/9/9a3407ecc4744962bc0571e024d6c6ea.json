@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1470,9 +1470,9 @@
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 395
+      "UsersEstimate": 401
     },
     {
       "ID": "Relic",
@@ -1533,8 +1533,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:41.4913484+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:28.5915133+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:15.4401249+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:59:01.7230261+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:41.4913737+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:59:42.4074943+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:28.5915382+00:00"
 }

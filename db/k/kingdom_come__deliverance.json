@@ -6,9 +6,9 @@
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7566,7 +7566,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802971,
+  "EOS_Progressed": 802972,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 0,
@@ -25581,6 +25581,11 @@
       "Time": "2023-09-29T06:05:53.8168845+00:00",
       "NumProgressed": 802971,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-29T07:06:43.486065+00:00",
+      "NumProgressed": 802972,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25616,7 +25621,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128475
+      "UsersEstimate": 128476
     },
     {
       "ID": "Awakening",
@@ -25792,7 +25797,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184683
+      "UsersEstimate": 184684
     },
     {
       "ID": "Fighter",
@@ -26247,15 +26252,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802971,
+      "Progressed": 802972,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-28T23:58:26.9394356+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:53.8168842+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:43.486064+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:58:10.1059918+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:53.8170917+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:58:38.1989877+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:43.4862653+00:00"
 }

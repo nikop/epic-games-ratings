@@ -6,25 +6,25 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,054 |
-| The Journey Begins | 98.00% | ~5,054 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,022 |
-| There is No Escape | 71.00% | ~3,661 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,249 |
-| Royal Flush | 62.00% | ~3,197 |
-| Timber! | 60.00% | ~3,094 |
+| Quinceañera Time | 98.00% | ~5,055 |
+| The Journey Begins | 98.00% | ~5,055 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,023 |
+| There is No Escape | 71.00% | ~3,662 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,250 |
+| Royal Flush | 62.00% | ~3,198 |
+| Timber! | 60.00% | ~3,095 |
 | Survive the Bombsequences | 59.00% | ~3,043 |
 | Killed 20 Jerks | 54.00% | ~2,785 |
-| Death Defied | 53.00% | ~2,733 |
-| Fortunate Soul | 50.00% | ~2,578 |
+| Death Defied | 53.00% | ~2,734 |
+| Fortunate Soul | 50.00% | ~2,579 |
 | Jerk-Slayer | 43.00% | ~2,218 |
 | Employee of the Month | 37.00% | ~1,908 |
 | I Believe I Can Fly | 37.00% | ~1,908 |
 | Bone Collector | 35.00% | ~1,805 |
 | Fe-Festival | 35.00% | ~1,805 |
-| Top of the Food Chain | 32.00% | ~1,650 |
-| Humerus Achievement | 32.00% | ~1,650 |
-| Pardon my Slob | 32.00% | ~1,650 |
+| Top of the Food Chain | 32.00% | ~1,651 |
+| Humerus Achievement | 32.00% | ~1,651 |
+| Pardon my Slob | 32.00% | ~1,651 |
 | Ghost Facers! | 28.00% | ~1,444 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,083 |
 | Royal Flush, Again | 19.00% | ~980 |
@@ -38,7 +38,7 @@ Number of Ratings: 63  (23.09.2022)
 | Collected 50 mushrooms | 14.00% | ~722 |
 | Budding Gardener | 14.00% | ~722 |
 | Stop Hitting Each Other | 14.00% | ~722 |
-| Ultimate Jerk | 13.00% | ~670 |
+| Ultimate Jerk | 13.00% | ~671 |
 | Hot Potato | 11.00% | ~567 |
 | Off the Beaten Path | 10.00% | ~516 |
 | It's Been a Blast | 9.00% | ~464 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,157 (Ranked 168)  
+Progressed: 5,158 (Ranked 168)  
 Completed: 30 (0.58%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 30 (0.58%) (Ranked 155)
 | 2023-09-17 | 5,155 | 30 |
 | 2023-09-23 | 5,156 | 30 |
 | 2023-09-26 | 5,157 | 30 |
+| 2023-09-29 | 5,158 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

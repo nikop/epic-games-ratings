@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1310,9 +1310,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_4",
@@ -1858,8 +1858,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:20.6720772+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:06:03.6950265+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:59:52.8135259+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:20.6723345+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:00:44.3807398+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:06:03.6952574+00:00"
 }

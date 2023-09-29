@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3527,
+  "EOS_Progressed": 3528,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4934,6 +4934,11 @@
       "Time": "2023-09-29T02:24:04.9186091+00:00",
       "NumProgressed": 3527,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-29T07:07:39.8012128+00:00",
+      "NumProgressed": 3528,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5001,7 +5006,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Eureka_23",
@@ -5129,7 +5134,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5217,7 +5222,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "TheStuffOfLegends",
@@ -5280,15 +5285,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3527,
+      "Progressed": 3528,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:08:10.654219+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:07:39.8012123+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:57:47.4925675+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:08:10.6542833+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:58:09.6067343+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:07:39.8012746+00:00"
 }

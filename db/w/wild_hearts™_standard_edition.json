@@ -338,9 +338,9 @@
       "ID": "achievement_10",
       "SetID": "2cpn27e",
       "Name": "Karakuri Trail",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_11",
@@ -720,8 +720,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:04:38.1092169+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:05:12.6019402+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:57:04.0210239+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:04:38.1092677+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:57:15.6731885+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:05:12.6019807+00:00"
 }

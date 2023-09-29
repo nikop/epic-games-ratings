@@ -23,7 +23,7 @@
 | Bonds of Enmity | 49.00% | ~36 |
 | Counter Specialist | 47.00% | ~34 |
 | Axer of Auspice | 45.00% | ~33 |
-| Karakuri Trail | 41.00% | ~30 |
+| Karakuri Trail | 42.00% | ~31 |
 | Snare Specialist | 40.00% | ~29 |
 | Single Minded | 38.00% | ~28 |
 | Mighty Marmelizer | 38.00% | ~28 |

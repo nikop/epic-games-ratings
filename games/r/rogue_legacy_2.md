@@ -10,12 +10,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | Spells and Swords | 3.00% | ~698 |
 | Harvest and Home | 2.00% | ~465 |
 | Poise and Poisons | 2.00% | ~465 |
-| Hands and Hammers | 1.00% | ~232 |
-| King and Kin | 1.00% | ~232 |
-| Progenitor and Protégé | 1.00% | ~232 |
-| Suns and Soldiers | 1.00% | ~232 |
-| No Harm in Looking | 1.00% | ~232 |
-| Prequel to the Sequel | 1.00% | ~232 |
+| Hands and Hammers | 1.00% | ~233 |
+| King and Kin | 1.00% | ~233 |
+| Progenitor and Protégé | 1.00% | ~233 |
+| Suns and Soldiers | 1.00% | ~233 |
+| No Harm in Looking | 1.00% | ~233 |
+| Prequel to the Sequel | 1.00% | ~233 |
 | For Glory | 0.70% | ~163 |
 | Truly Blessed | 0.60% | ~140 |
 | Pillow Investments | 0.50% | ~116 |
@@ -30,12 +30,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | Just the Beginning | 0.30% | ~70 |
 | Jack of all Trades | 0.30% | ~70 |
 | Color Coordination | 0.30% | ~70 |
-| For Greed | 0.20% | ~46 |
-| For Penance | 0.20% | ~46 |
-| Good Practice | 0.20% | ~46 |
-| Maybe Wax Doesn't Melt | 0.20% | ~46 |
-| A Glimpse of the Future | 0.20% | ~46 |
-| Wasted Betrayal | 0.20% | ~46 |
+| For Greed | 0.20% | ~47 |
+| For Penance | 0.20% | ~47 |
+| Good Practice | 0.20% | ~47 |
+| Maybe Wax Doesn't Melt | 0.20% | ~47 |
+| A Glimpse of the Future | 0.20% | ~47 |
+| Wasted Betrayal | 0.20% | ~47 |
 | Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
 | Erebus Purified | 0.10% | ~23 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,250 (Ranked 116)  
+Progressed: 23,251 (Ranked 116)  
 Completed: 35 (0.15%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 35 (0.15%) (Ranked 224)
 | 2023-09-26 | 23,231 | 35 |
 | 2023-09-27 | 23,240 | 35 |
 | 2023-09-28 | 23,250 | 35 |
+| 2023-09-29 | 23,251 | 35 |
 ## Awards
 Max (Extremely Fun): 222  (Ranked 266)  
 Sum: 1,691 (Ranked 212)  

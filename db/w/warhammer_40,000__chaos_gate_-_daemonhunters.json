@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3798,9 +3798,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 162
     },
     {
       "ID": "Kills_Vakir",
@@ -4014,9 +4014,9 @@
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "StrategicCommand",
@@ -4124,8 +4124,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:04.5968695+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:05:44.1069371+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:11.4782234+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:58:05.3260768+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:04.5969596+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:58:31.8672603+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:05:44.1070322+00:00"
 }

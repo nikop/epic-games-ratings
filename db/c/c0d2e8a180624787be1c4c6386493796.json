@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -609,9 +609,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -671,8 +671,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:05:03.5679457+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:05:42.852497+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:59:09.5780505+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:05:03.5680351+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:59:52.1145414+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:05:42.8525915+00:00"
 }

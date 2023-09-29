@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 84,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2023-09-29T05:07:45.2648355+00:00",
       "NumProgressed": 292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T07:07:01.1720936+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -776,9 +781,9 @@
       "ID": "achievement_19",
       "SetID": "271ol84",
       "Name": "When 900 years old you reach...",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_2",
@@ -816,9 +821,9 @@
       "ID": "achievement_23",
       "SetID": "271ol84",
       "Name": "Determined",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_24",
@@ -866,7 +871,7 @@
       "Name": "On the ball",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_3",
@@ -922,7 +927,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_36",
@@ -936,9 +941,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_38",
@@ -986,7 +991,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_43",
@@ -1000,9 +1005,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_45",
@@ -1138,7 +1143,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_60",
@@ -1186,7 +1191,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_9",
@@ -1201,13 +1206,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 1
     }
   ],
@@ -1215,8 +1220,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-29T06:06:08.6467045+00:00",
+  "LastChanged_Achievements": "2023-09-29T07:07:01.1720929+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:57:48.3555105+00:00",
-  "LastUpdate_Achievements": "2023-09-29T06:06:08.6467813+00:00"
+  "LastUpdate_Ratings": "2023-09-29T06:58:10.6279328+00:00",
+  "LastUpdate_Achievements": "2023-09-29T07:07:01.1721686+00:00"
 }
