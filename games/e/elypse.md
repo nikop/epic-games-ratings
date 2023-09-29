@@ -13,7 +13,7 @@
 | Splash! | 54.00% | ~51 |
 | Masochistic | 53.00% | ~50 |
 | Soft skin | 49.00% | ~47 |
-| Squid game | 42.00% | ~40 |
+| Squid game | 43.00% | ~41 |
 | Sensitive soul | 34.00% | ~32 |
 | Rock Solid | 33.00% | ~31 |
 | Hard Rock | 33.00% | ~31 |
@@ -22,8 +22,8 @@
 | Rooftop | 27.00% | ~26 |
 | Homeless | 27.00% | ~26 |
 | Big badaboom! | 25.00% | ~24 |
+| Magnitude 5 | 23.00% | ~22 |
 | Bookworm | 23.00% | ~22 |
-| Magnitude 5 | 22.00% | ~21 |
 | Payback | 22.00% | ~21 |
 | Nokron tower | 21.00% | ~20 |
 | Full power | 20.00% | ~19 |

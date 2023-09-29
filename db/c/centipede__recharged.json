@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17449,
+  "EOS_Progressed": 17450,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -12677,6 +12677,11 @@
       "Time": "2023-09-29T07:06:28.3645126+00:00",
       "NumProgressed": 17449,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-09-29T08:06:09.9928788+00:00",
+      "NumProgressed": 17450,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 16,
@@ -12688,7 +12693,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4711
+      "UsersEstimate": 4712
     },
     {
       "ID": "Burning_For_You",
@@ -12744,7 +12749,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "I_Am_The_Storm",
@@ -12784,7 +12789,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "Sole_Survivor",
@@ -12808,22 +12813,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17449,
+      "Progressed": 17450,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:06:28.364512+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:06:09.9928782+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.0114311+00:00",
-  "LastUpdate_Ratings": "2023-09-29T06:59:22.6662389+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:06:28.3645986+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:59:03.7150396+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:06:09.9929646+00:00"
 }

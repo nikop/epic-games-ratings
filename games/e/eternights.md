@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New arm | 82.00% | ~191 |
-| Shelter Escape | 81.00% | ~189 |
+| Shelter Escape | 82.00% | ~191 |
 | The First Bond | 73.00% | ~170 |
 | Novice Scavenger | 65.00% | ~151 |
 | Master Craftsman | 52.00% | ~121 |

@@ -8,16 +8,16 @@
 | Meissa's Savior | 100.00% | ~17 |
 | Purification Pioneer | 100.00% | ~17 |
 | Dicesmithing Time! | 88.00% | ~15 |
+| Endless Tricks | 71.00% | ~12 |
 | Wild's Keeper | 71.00% | ~12 |
-| Endless Tricks | 65.00% | ~11 |
 | Sanctuary Guardian | 65.00% | ~11 |
 | Mind Illuminator | 53.00% | ~9 |
-| Stellar Dismantler | 35.00% | ~6 |
+| Stellar Dismantler | 41.00% | ~7 |
+| Sadistic Plan | 29.00% | ~5 |
 | Sentinelphobic | 29.00% | ~5 |
 | Stellar Haste | 29.00% | ~5 |
 | The Corruption Goddess | 29.00% | ~5 |
 | Unbeatable | 29.00% | ~5 |
-| Sadistic Plan | 24.00% | ~4 |
 | Skeptical | 24.00% | ~4 |
 | Anomaly Destroyer | 18.00% | ~3 |
 | Dice Specialist | 18.00% | ~3 |

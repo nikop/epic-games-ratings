@@ -378,9 +378,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_16",
@@ -418,9 +418,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_20",
@@ -720,8 +720,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:05:12.6019402+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:05:06.586391+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-29T06:57:15.6731885+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:05:12.6019807+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:57:21.7727018+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:05:06.5864388+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -853,6 +853,11 @@
       "Time": "2023-09-28T19:09:34.3188909+00:00",
       "NumProgressed": 746,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T08:03:24.5275012+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -872,7 +877,7 @@
       "Name": "Across The Stars",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -936,15 +941,15 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 426
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1006,9 +1011,9 @@
       "ID": "Achievement_Friendzone",
       "SetID": "c01p6e5",
       "Name": "Friendzone",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 598
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1032,7 +1037,7 @@
       "Name": "Hands Full",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Achievement_HelloWorld",
@@ -1040,7 +1045,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1152,7 +1157,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1160,7 +1165,7 @@
       "Name": "Space Engineer",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1168,7 +1173,7 @@
       "Name": "Space Explorer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Achievement_SpaceSelfie",
@@ -1184,7 +1189,7 @@
       "Name": "Stay Cool",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -1200,7 +1205,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Achievement_Traitor",
@@ -1215,7 +1220,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 1
     }
   ],
@@ -1223,8 +1228,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:03:10.5956732+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:03:24.5275007+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:00.3989341+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:00:43.1346137+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:03:10.5957218+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:00:08.5219355+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:03:24.5275468+00:00"
 }

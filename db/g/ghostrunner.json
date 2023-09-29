@@ -1212,9 +1212,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19035,
+  "EOS_Progressed": 19036,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18727,6 +18727,11 @@
       "Time": "2023-09-29T07:03:53.6749015+00:00",
       "NumProgressed": 19035,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-29T08:04:00.0845676+00:00",
+      "NumProgressed": 19036,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 45,
@@ -18890,7 +18895,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "ObedientMachine",
@@ -18914,7 +18919,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "OutOfOrder",
@@ -18922,7 +18927,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "Perfection",
@@ -18930,7 +18935,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6091
+      "UsersEstimate": 6092
     },
     {
       "ID": "PreempativeStrike",
@@ -18970,7 +18975,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "Scrapped",
@@ -19010,7 +19015,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11611
+      "UsersEstimate": 11612
     },
     {
       "ID": "SwordToAGunfight",
@@ -19090,28 +19095,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19035,
+      "Progressed": 19036,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19035,
+      "Progressed": 19036,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-28T18:58:34.012867+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:03:53.674901+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:04:00.0845671+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.6439511+00:00",
-  "LastUpdate_Ratings": "2023-09-29T06:58:13.6548472+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:03:53.6750465+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:58:08.1452662+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:04:00.0847081+00:00"
 }

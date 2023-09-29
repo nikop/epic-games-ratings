@@ -10,6 +10,7 @@
 | Mono Tones | 50.00% | ~4 |
 | True Colours | 50.00% | ~4 |
 | Evasive prey | 50.00% | ~4 |
+| In The Palm Of My Hand | 38.00% | ~3 |
 | Bully of Bullies | 38.00% | ~3 |
 | Hospitalised | 38.00% | ~3 |
 | Foraged | 38.00% | ~3 |
@@ -33,7 +34,6 @@
 | First do no harm | 38.00% | ~3 |
 | How Do I Look? | 38.00% | ~3 |
 | X Best Friends | 38.00% | ~3 |
-| In The Palm Of My Hand | 25.00% | ~2 |
 | No More Remains | 25.00% | ~2 |
 | School Kids | 25.00% | ~2 |
 | Twenty-Six | 0.00% | ~0 |

@@ -16,7 +16,7 @@ Rating: 4.66 (Ranked 283)
 | Hitting a Season | 31.00% | ~815 |
 | Challenge Yourself | 30.00% | ~788 |
 | Making History | 29.00% | ~762 |
-| A Dozen Pieces | 26.00% | ~683 |
+| A Dozen Pieces | 27.00% | ~710 |
 | Spring Cleaning | 22.00% | ~578 |
 | Network Success | 22.00% | ~578 |
 | Writing a new Chapter | 22.00% | ~578 |

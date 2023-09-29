@@ -6,19 +6,19 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,894 |
+| Follow the Light | 42.00% | ~27,895 |
 | Let There Be Light | 34.00% | ~22,581 |
 | Float Like a Butterfly | 33.00% | ~21,917 |
 | Nordic Walking | 26.00% | ~17,268 |
 | Bright Falls' Finest | 26.00% | ~17,268 |
-| Under a Thin Layer of Skin | 23.00% | ~15,275 |
+| Under a Thin Layer of Skin | 23.00% | ~15,276 |
 | Park Ranger | 19.00% | ~12,619 |
 | Paging Mr. Wake | 19.00% | ~12,619 |
 | Back! Back, I Say! | 18.00% | ~11,955 |
 | Finders Keepers | 18.00% | ~11,955 |
-| Sound and Fury | 16.00% | ~10,626 |
-| Missed by a Mile | 16.00% | ~10,626 |
-| Damn Good Cup of Coffee | 16.00% | ~10,626 |
+| Sound and Fury | 16.00% | ~10,627 |
+| Missed by a Mile | 16.00% | ~10,627 |
+| Damn Good Cup of Coffee | 16.00% | ~10,627 |
 | Wheels Within Wheels | 15.00% | ~9,962 |
 | They're Heeeeeere! | 15.00% | ~9,962 |
 | Iron Horse | 14.00% | ~9,298 |
@@ -48,7 +48,7 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 5.00% | ~3,321 |
 | Heartbreaker | 4.00% | ~1,195 |
 | Carny | 3.00% | ~1,992 |
-| Kill Your Darlings | 3.00% | ~896 |
+| Kill Your Darlings | 3.00% | ~897 |
 | Medical Opinions | 2.00% | ~1,328 |
 | Taken Season | 2.00% | ~1,328 |
 | An Idyllic Small Town | 2.00% | ~1,328 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,415 (Ranked 89)  
+Progressed: 66,416 (Ranked 88)  
 Completed: 66 (0.10%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 66 (0.10%) (Ranked 237)
 | 2023-09-26 | 66,247 | 66 |
 | 2023-09-27 | 66,314 | 66 |
 | 2023-09-28 | 66,395 | 66 |
-| 2023-09-29 | 66,415 | 66 |
+| 2023-09-29 | 66,416 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

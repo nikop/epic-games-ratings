@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 895,
   "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 455,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 35,
@@ -322,10 +322,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 58,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-09-29T07:57:55.9195694+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58,
+  "NumberOfAwards": 79,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -340,11 +346,17 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 58681,
+  "EOS_Progressed": 58687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3724,
+  "EOS_NewPlayers": 3717,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2972,6 +2984,11 @@
       "Time": "2023-09-29T07:08:13.7214285+00:00",
       "NumProgressed": 58681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T08:09:27.3142134+00:00",
+      "NumProgressed": 58687,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -2984,7 +3001,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 13497
+      "UsersEstimate": 13498
     },
     {
       "ID": "10",
@@ -3048,7 +3065,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8215
+      "UsersEstimate": 8216
     },
     {
       "ID": "3",
@@ -3056,7 +3073,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6455
+      "UsersEstimate": 6456
     },
     {
       "ID": "4",
@@ -3064,7 +3081,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4694
+      "UsersEstimate": 4695
     },
     {
       "ID": "5",
@@ -3111,16 +3128,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 58681,
+      "Progressed": 58687,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-09-29T01:39:42.8264005+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:08:13.721428+00:00",
+  "LastChanged": "2023-09-29T07:57:55.9195693+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:09:27.3142127+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:11.2762553+00:00",
-  "LastUpdate_Ratings": "2023-09-29T06:57:58.1104719+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:08:13.7214554+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:57:55.9195696+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:09:27.3142441+00:00"
 }

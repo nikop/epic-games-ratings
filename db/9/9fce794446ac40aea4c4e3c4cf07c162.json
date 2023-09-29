@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -221,17 +221,17 @@
       "ID": "MEM_II",
       "SetID": "35d3i7a",
       "Name": "Not my son!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_III",
       "SetID": "35d3i7a",
       "Name": "Sweet nightmares, little caterpillar.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_IV",
@@ -333,9 +333,9 @@
       "ID": "MEM_XV",
       "SetID": "35d3i7a",
       "Name": "I will make you a REAL prince.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XVI",
@@ -349,9 +349,9 @@
       "ID": "MEM_XVII",
       "SetID": "35d3i7a",
       "Name": "I like your loneliness.",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XVIII",
@@ -445,9 +445,9 @@
       "ID": "PROJ_I",
       "SetID": "35d3i7a",
       "Name": "Beauty.",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROJ_II",
@@ -491,8 +491,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:02:32.1068302+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:03:18.2167704+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.2620834+00:00",
-  "LastUpdate_Ratings": "2023-09-29T07:02:29.4298831+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:02:32.1069376+00:00"
+  "LastUpdate_Ratings": "2023-09-29T08:03:15.5204196+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:03:18.2168229+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,886 |
-| The Killing Jar | 8.00% | ~15,010 |
-| Not Your Average Trait | 8.00% | ~15,010 |
-| Expanding Horizons | 7.00% | ~13,134 |
-| Quest for Survival | 7.00% | ~13,134 |
+| First of Many | 9.00% | ~16,887 |
+| The Killing Jar | 8.00% | ~15,011 |
+| Not Your Average Trait | 8.00% | ~15,011 |
+| Expanding Horizons | 7.00% | ~13,135 |
+| Quest for Survival | 7.00% | ~13,135 |
 | Gleaming the Cube | 6.00% | ~11,258 |
 | Not a Janitor | 6.00% | ~11,258 |
 | Familiar Face | 6.00% | ~11,258 |
@@ -17,13 +17,13 @@ Rating: 4.76 (Ranked 120)
 | Boss'n Up | 6.00% | ~11,258 |
 | Good, But Could Be Better! | 6.00% | ~11,258 |
 | Trait Chaser | 6.00% | ~11,258 |
-| Not So Special Now | 5.00% | ~9,381 |
-| Equal Measures | 5.00% | ~9,381 |
-| Blue Goddess | 5.00% | ~9,381 |
-| Top Performer | 5.00% | ~9,381 |
-| Shhh...It's a Secret | 5.00% | ~9,381 |
-| Almost There | 5.00% | ~9,381 |
-| Make Some Room | 5.00% | ~9,381 |
+| Not So Special Now | 5.00% | ~9,382 |
+| Equal Measures | 5.00% | ~9,382 |
+| Blue Goddess | 5.00% | ~9,382 |
+| Top Performer | 5.00% | ~9,382 |
+| Shhh...It's a Secret | 5.00% | ~9,382 |
+| Almost There | 5.00% | ~9,382 |
+| Make Some Room | 5.00% | ~9,382 |
 | Chaos | 4.00% | ~7,505 |
 | Traitor | 4.00% | ~7,505 |
 | Forever is a Long Time Coming | 4.00% | ~7,505 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Proving Grounds | 1.00% | ~1,876 |
 | Ghost in the Machine | 0.90% | ~1,689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,626 (Ranked 65)  
+Progressed: 187,637 (Ranked 65)  
 Completed: 342 (0.18%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 342 (0.18%) (Ranked 217)
 | 2023-09-26 | 186,828 | 336 |
 | 2023-09-27 | 187,199 | 340 |
 | 2023-09-28 | 187,507 | 342 |
-| 2023-09-29 | 187,626 | 342 |
+| 2023-09-29 | 187,637 | 342 |
 ## Awards
 Max (Great Boss Battles): 1,733  (Ranked 118)  
 Sum: 3,619 (Ranked 155)  

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~424 |
+| Distinguished Service Medal | 94.00% | ~429 |
 | Spectre Inductee | 84.00% | ~383 |
 | Medal of Exploration I | 75.00% | ~342 |
 | Search and Rescue | 72.00% | ~328 |

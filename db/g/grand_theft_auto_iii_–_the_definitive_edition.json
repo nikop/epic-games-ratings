@@ -484,9 +484,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8166,
+  "EOS_Progressed": 8167,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9449,6 +9449,11 @@
       "Time": "2023-09-29T06:05:35.8302951+00:00",
       "NumProgressed": 8166,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-29T08:06:04.4244983+00:00",
+      "NumProgressed": 8167,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9460,7 +9465,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6778
+      "UsersEstimate": 6779
     },
     {
       "ID": "ACH02",
@@ -9468,7 +9473,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "ACH03",
@@ -9532,7 +9537,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "ACH11",
@@ -9676,7 +9681,7 @@
       "Name": "Is That All You\u0027ve Got?",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH29",
@@ -9691,7 +9696,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8166,
+      "Progressed": 8167,
       "Completed": 53
     }
   ],
@@ -9699,8 +9704,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-22T02:15:29.4830517+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:06:21.9010305+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:06:04.4244975+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.067951+00:00",
-  "LastUpdate_Ratings": "2023-09-29T06:57:45.1415733+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:06:21.901107+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:57:45.1811817+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:06:04.4245752+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 88.00% | ~5,609 |
-| Struck A Pose | 87.00% | ~5,545 |
-| Look At Him Go | 74.00% | ~4,717 |
-| On Rails Experience | 52.00% | ~3,314 |
-| A Daring Devil | 49.00% | ~3,123 |
-| Break the Bank | 40.00% | ~2,550 |
-| It Took Two | 36.00% | ~2,295 |
-| Bug Sized Relaxation | 18.00% | ~1,147 |
-| Plastic Prison Breakers | 16.00% | ~1,020 |
-| Terror Of The Seven Seas | 14.00% | ~892 |
-| Realize Your Art | 12.00% | ~765 |
-| Force Triangulated | 11.00% | ~701 |
-| Meditation Maestro | 10.00% | ~637 |
-| Lost And Found | 9.00% | ~574 |
-| Something Fishy | 9.00% | ~574 |
-| Platforming Prodigy | 8.00% | ~510 |
-| Snackosaurus | 7.00% | ~446 |
-| Mood Swing | 6.00% | ~382 |
-| Faraway Frequencies | 4.00% | ~255 |
-| Minigame Megalomania | 3.00% | ~191 |
+| Fried Friendship | 88.00% | ~5,664 |
+| Struck A Pose | 87.00% | ~5,599 |
+| Look At Him Go | 74.00% | ~4,763 |
+| On Rails Experience | 52.00% | ~3,347 |
+| A Daring Devil | 49.00% | ~3,154 |
+| Break the Bank | 40.00% | ~2,574 |
+| It Took Two | 35.00% | ~2,253 |
+| Bug Sized Relaxation | 18.00% | ~1,158 |
+| Plastic Prison Breakers | 16.00% | ~1,030 |
+| Terror Of The Seven Seas | 14.00% | ~901 |
+| Realize Your Art | 12.00% | ~772 |
+| Force Triangulated | 11.00% | ~708 |
+| Meditation Maestro | 10.00% | ~644 |
+| Lost And Found | 9.00% | ~579 |
+| Something Fishy | 9.00% | ~579 |
+| Platforming Prodigy | 8.00% | ~515 |
+| Snackosaurus | 7.00% | ~451 |
+| Mood Swing | 6.00% | ~386 |
+| Faraway Frequencies | 4.00% | ~257 |
+| Minigame Megalomania | 3.00% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,374 (Ranked 157)  
+Progressed: 6,436 (Ranked 156)  
 Completed: 23 (0.36%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -39,4 +39,4 @@ Completed: 23 (0.36%) (Ranked 182)
 | 2023-09-26 | 4,947 | 20 |
 | 2023-09-27 | 5,467 | 21 |
 | 2023-09-28 | 6,115 | 22 |
-| 2023-09-29 | 6,374 | 23 |
+| 2023-09-29 | 6,436 | 23 |

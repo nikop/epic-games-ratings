@@ -12665,10 +12665,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884628,
-  "EOS_Completed": 2465,
-  "EOS_NewPlayers": 6350,
-  "EOS_NewCompleters": 269,
+  "EOS_Progressed": 884673,
+  "EOS_Completed": 2469,
+  "EOS_NewPlayers": 6362,
+  "EOS_NewCompleters": 271,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30845,6 +30845,11 @@
       "Time": "2023-09-29T07:06:35.2761385+00:00",
       "NumProgressed": 884628,
       "NumCompleted": 2465
+    },
+    {
+      "Time": "2023-09-29T08:06:15.7472603+00:00",
+      "NumProgressed": 884673,
+      "NumCompleted": 2469
     }
   ],
   "TotalAchievements": 57,
@@ -30880,7 +30885,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "Denied",
@@ -30888,7 +30893,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "FollowingTheRiver",
@@ -30944,7 +30949,7 @@
       "Name": "Master Crafter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "IAmMaxTac",
@@ -30960,7 +30965,7 @@
       "Name": "Mean Streets",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "LittleTokyo",
@@ -30990,9 +30995,9 @@
       "ID": "MustBeTheRats",
       "SetID": "47clieb",
       "Name": "Must Be Rats",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1769
+      "UsersEstimate": 2654
     },
     {
       "ID": "NeverFadeAway",
@@ -31000,7 +31005,7 @@
       "Name": "Breathtaking",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "NoMansLand",
@@ -31032,7 +31037,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "Specialist",
@@ -31072,15 +31077,15 @@
       "Name": "The Fool",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6192
+      "UsersEstimate": 6193
     },
     {
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7962
+      "UsersEstimate": 8847
     },
     {
       "ID": "TheHightPriestess",
@@ -31088,7 +31093,7 @@
       "Name": "The High Priestess",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "TheLovers",
@@ -31096,7 +31101,7 @@
       "Name": "The Lovers",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6192
+      "UsersEstimate": 6193
     },
     {
       "ID": "TheStar",
@@ -31152,7 +31157,7 @@
       "Name": "True Soldier",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "TrueWarrior",
@@ -31168,7 +31173,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "UnderPressure",
@@ -31184,7 +31189,7 @@
       "Name": "V for Vendetta",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "YipMan",
@@ -31311,21 +31316,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884628,
-      "Completed": 2465
+      "Progressed": 884673,
+      "Completed": 2469
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13251,
+      "Progressed": 13296,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-29T02:57:54.9280243+00:00",
-  "LastChanged_Achievements": "2023-09-29T07:06:35.276138+00:00",
+  "LastChanged_Achievements": "2023-09-29T08:06:15.7472597+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T06:58:11.1261258+00:00",
-  "LastUpdate_Achievements": "2023-09-29T07:06:35.2762989+00:00"
+  "LastUpdate_Ratings": "2023-09-29T07:58:06.2639512+00:00",
+  "LastUpdate_Achievements": "2023-09-29T08:06:15.7474232+00:00"
 }

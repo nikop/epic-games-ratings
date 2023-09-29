@@ -30,19 +30,19 @@ Rating: 4.60 (Ranked 400)
 | The Family Fortune | 17.00% | ~153 |
 | Street Style | 16.00% | ~144 |
 | The Man Who Shattered Time | 16.00% | ~144 |
+| Cartographer | 15.00% | ~135 |
 | Treasure Trove | 14.00% | ~126 |
 | Whiz Kid | 14.00% | ~126 |
-| Cartographer | 14.00% | ~126 |
 | Good Neighbor | 12.00% | ~108 |
 | Chaincrawler Explorer | 11.00% | ~99 |
 | Family Memories | 11.00% | ~99 |
 | Ask Questions Later | 11.00% | ~99 |
+| Fairgrounds Explorer | 10.00% | ~90 |
 | Sump Explorer | 10.00% | ~90 |
 | Syron for Hope | 10.00% | ~90 |
 | Theater Explorer | 10.00% | ~90 |
 | Cultivair Explorer | 9.00% | ~81 |
 | Factorywood Explorer | 9.00% | ~81 |
-| Fairgrounds Explorer | 9.00% | ~81 |
 | Corin Goes Home | 8.00% | ~72 |
 | Sartorialist | 8.00% | ~72 |
 | Entresol Explorer | 8.00% | ~72 |
