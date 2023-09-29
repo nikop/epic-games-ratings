@@ -700,9 +700,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 10468,
+  "EOS_Progressed": 10469,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10755,6 +10755,11 @@
       "Time": "2023-09-29T01:47:38.9936623+00:00",
       "NumProgressed": 10468,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-29T03:05:39.0361727+00:00",
+      "NumProgressed": 10469,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10846,7 +10851,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACH12",
@@ -10926,7 +10931,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4815
+      "UsersEstimate": 4816
     },
     {
       "ID": "ACH22",
@@ -11037,7 +11042,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10468,
+      "Progressed": 10469,
       "Completed": 58
     }
   ],
@@ -11045,8 +11050,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-28T04:58:25.0774214+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:21:56.8882287+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:05:39.0361721+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:14:11.2813309+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:21:56.8882941+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:58:13.6358957+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:05:39.0363054+00:00"
 }

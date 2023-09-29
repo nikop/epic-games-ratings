@@ -15,9 +15,9 @@ Rating: 4.56 (Ranked 473)
 | Permanent Redesigns | 14.00% | ~447 |
 | Fully Recycled | 13.00% | ~415 |
 | The Ship of Theseus | 13.00% | ~415 |
-| Guy de Borderlands | 12.00% | ~383 |
-| Ain't Nobody Got Time for That | 12.00% | ~383 |
-| Hope Seeker | 11.00% | ~351 |
+| Guy de Borderlands | 12.00% | ~384 |
+| Ain't Nobody Got Time for That | 12.00% | ~384 |
+| Hope Seeker | 11.00% | ~352 |
 | A Hunk of Junk | 10.00% | ~320 |
 | Exceeding Capacity | 10.00% | ~320 |
 | Breaking Protocol | 10.00% | ~320 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,195 (Ranked 186)  
+Progressed: 3,196 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 0 (0.00%) (Ranked 298)
 | 2023-09-24 | 3,189 | 0 |
 | 2023-09-27 | 3,193 | 0 |
 | 2023-09-28 | 3,195 | 0 |
+| 2023-09-29 | 3,196 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

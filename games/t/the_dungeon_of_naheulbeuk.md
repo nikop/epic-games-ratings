@@ -6,25 +6,25 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,741 |
+| Sowwy! | 32.00% | ~72,745 |
 | Where's that freaking Dwarf? | 5.00% | ~11,366 |
 | Alt+F4 | 5.00% | ~11,366 |
 | Déjà vu | 4.00% | ~9,093 |
-| A beer, two curses, three companions | 3.00% | ~6,819 |
-| Sock! SOCK! | 3.00% | ~6,819 |
-| GG EZ | 3.00% | ~6,819 |
-| DM intervention | 3.00% | ~6,819 |
-| Speedrun | 3.00% | ~6,819 |
-| Livin' in a dwarven paradise | 2.00% | ~4,546 |
-| Way of the Wimp | 2.00% | ~4,546 |
-| The plot thickens... At the tavern | 2.00% | ~4,546 |
-| The demons' feast | 2.00% | ~4,546 |
-| The Great Library | 2.00% | ~4,546 |
-| Torture and Sensibility | 2.00% | ~4,546 |
-| The Woman in the High Castle | 2.00% | ~4,546 |
-| Team Building Exercise | 2.00% | ~4,546 |
-| Oh, when I'll be level 10... | 2.00% | ~4,546 |
-| Fireproof Wizardess | 2.00% | ~4,546 |
+| A beer, two curses, three companions | 3.00% | ~6,820 |
+| Sock! SOCK! | 3.00% | ~6,820 |
+| GG EZ | 3.00% | ~6,820 |
+| DM intervention | 3.00% | ~6,820 |
+| Speedrun | 3.00% | ~6,820 |
+| Livin' in a dwarven paradise | 2.00% | ~4,547 |
+| Way of the Wimp | 2.00% | ~4,547 |
+| The plot thickens... At the tavern | 2.00% | ~4,547 |
+| The demons' feast | 2.00% | ~4,547 |
+| The Great Library | 2.00% | ~4,547 |
+| Torture and Sensibility | 2.00% | ~4,547 |
+| The Woman in the High Castle | 2.00% | ~4,547 |
+| Team Building Exercise | 2.00% | ~4,547 |
+| Oh, when I'll be level 10... | 2.00% | ~4,547 |
+| Fireproof Wizardess | 2.00% | ~4,547 |
 | Shiny and Crôm | 1.00% | ~2,273 |
 | Urik's Depths | 1.00% | ~2,273 |
 | The Dungeon Master | 1.00% | ~2,273 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~227 |
 | Dwarf Candy | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,316 (Ranked 58)  
+Progressed: 227,327 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 5 (0.00%) (Ranked 298)
 | 2023-09-26 | 226,941 | 3 |
 | 2023-09-27 | 227,123 | 4 |
 | 2023-09-28 | 227,303 | 5 |
-| 2023-09-29 | 227,316 | 5 |
+| 2023-09-29 | 227,327 | 5 |
 ## Awards
 Max (Character Customization): 199  (Ranked 277)  
 Sum: 389 (Ranked 326)  

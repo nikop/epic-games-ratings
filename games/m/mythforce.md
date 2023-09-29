@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~704 |
+| Faceroll the Bones | 21.00% | ~705 |
 | Debuff Dogpile | 20.00% | ~671 |
 | Hit 'Em Where It Hurts | 20.00% | ~671 |
 | Perk Shard Punch Card | 20.00% | ~671 |
@@ -15,8 +15,8 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 15.00% | ~503 |
 | Horder Better Faster Stronger | 15.00% | ~503 |
 | Spending Spree | 15.00% | ~503 |
-| Everything Must Go! | 12.00% | ~402 |
-| Ten Steps from the Grave | 12.00% | ~402 |
+| Everything Must Go! | 12.00% | ~403 |
+| Ten Steps from the Grave | 12.00% | ~403 |
 | Next Time on MythForce... | 11.00% | ~369 |
 | Cold-Blooded Critters | 9.00% | ~302 |
 | Death Becomes You | 7.00% | ~235 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~13 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,354 (Ranked 182)  
+Progressed: 3,356 (Ranked 182)  
 Completed: 1 (0.03%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,11 +106,11 @@ Completed: 1 (0.03%) (Ranked 270)
 | 2023-09-26 | 3,240 | 1 |
 | 2023-09-27 | 3,281 | 1 |
 | 2023-09-28 | 3,340 | 1 |
-| 2023-09-29 | 3,354 | 1 |
+| 2023-09-29 | 3,356 | 1 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 457)  
-Sum: 275 (Ranked 355)  
-Diff (max vs sum): 102  
+Sum: 276 (Ranked 354)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
@@ -120,7 +120,7 @@ Diff (max vs sum): 102
 | This game has Challenging Combat | 28 |
 | This game has Diverse Characters | 26 |
 | This game has Unique Visuals | 26 |
-| This game has Amazing Storytelling | 24 |
+| This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 23 |
 | This game is Relaxing | 22 |
 ## Ratings History
@@ -212,3 +212,4 @@ Diff (max vs sum): 102
 | 2023-09-23 | 4.49 | - | 34 | 273 |
 | 2023-09-24 | 4.49 | - | 34 | 274 |
 | 2023-09-26 | 4.49 | - | 34 | 275 |
+| 2023-09-29 | 4.49 | - | 34 | 276 |

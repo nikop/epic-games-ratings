@@ -13,22 +13,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 5.00% | ~709 |
 | Intrepid | 5.00% | ~709 |
 | The Clergy | 5.00% | ~709 |
-| Architect | 4.00% | ~567 |
-| Enlightened | 4.00% | ~567 |
-| Glorious | 4.00% | ~567 |
-| Good | 4.00% | ~567 |
-| Just | 4.00% | ~567 |
-| Keystone | 4.00% | ~567 |
-| Learned | 4.00% | ~567 |
-| Mason | 4.00% | ~567 |
-| Noble | 4.00% | ~567 |
-| Pioneer | 4.00% | ~567 |
-| Strong | 4.00% | ~567 |
-| Hanging Gardens | 4.00% | ~567 |
-| Oracle | 4.00% | ~567 |
-| Judaism | 4.00% | ~567 |
-| Naming Landmarks | 4.00% | ~567 |
-| Trade Caravan | 4.00% | ~567 |
+| Architect | 4.00% | ~568 |
+| Enlightened | 4.00% | ~568 |
+| Glorious | 4.00% | ~568 |
+| Good | 4.00% | ~568 |
+| Just | 4.00% | ~568 |
+| Keystone | 4.00% | ~568 |
+| Learned | 4.00% | ~568 |
+| Mason | 4.00% | ~568 |
+| Noble | 4.00% | ~568 |
+| Pioneer | 4.00% | ~568 |
+| Strong | 4.00% | ~568 |
+| Hanging Gardens | 4.00% | ~568 |
+| Oracle | 4.00% | ~568 |
+| Judaism | 4.00% | ~568 |
+| Naming Landmarks | 4.00% | ~568 |
+| Trade Caravan | 4.00% | ~568 |
 | Ambitious | 3.00% | ~426 |
 | Brilliant | 3.00% | ~426 |
 | Fountainhead | 3.00% | ~426 |
@@ -129,12 +129,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.90% | ~128 |
 | Hittite Paganism | 0.90% | ~128 |
 | Turreted Elephant | 0.90% | ~128 |
-| Ishtar Gate in Babylon | 0.80% | ~113 |
-| Clerics | 0.80% | ~113 |
-| Egypt | 0.80% | ~113 |
-| Rome | 0.80% | ~113 |
-| One True Faith | 0.80% | ~113 |
-| No Undo | 0.80% | ~113 |
+| Ishtar Gate in Babylon | 0.80% | ~114 |
+| Clerics | 0.80% | ~114 |
+| Egypt | 0.80% | ~114 |
+| Rome | 0.80% | ~114 |
+| One True Faith | 0.80% | ~114 |
+| No Undo | 0.80% | ~114 |
 | Old | 0.70% | ~99 |
 | Peacemaker | 0.70% | ~99 |
 | Cao'an | 0.70% | ~99 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,187 (Ranked 133)  
+Progressed: 14,188 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 5 (0.04%) (Ranked 263)
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
-| 2023-09-29 | 14,187 | 5 |
+| 2023-09-29 | 14,188 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,823 (Ranked 207)  

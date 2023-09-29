@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16381,
+  "EOS_Progressed": 16383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4826,6 +4826,11 @@
       "Time": "2023-09-29T02:22:56.7167509+00:00",
       "NumProgressed": 16381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T03:06:39.1228415+00:00",
+      "NumProgressed": 16383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4837,7 +4842,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15562
+      "UsersEstimate": 15564
     },
     {
       "ID": "ACH001",
@@ -4845,7 +4850,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14088
+      "UsersEstimate": 14089
     },
     {
       "ID": "ACH0010",
@@ -4869,7 +4874,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 7863
+      "UsersEstimate": 7864
     },
     {
       "ID": "ACH0013",
@@ -4933,7 +4938,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11794
+      "UsersEstimate": 11796
     },
     {
       "ID": "ACH0020",
@@ -4965,7 +4970,7 @@
       "Name": "I\u0027m Somewhat of a Colonial Force Myself",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH0024",
@@ -4989,7 +4994,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9010
+      "UsersEstimate": 9011
     },
     {
       "ID": "ACH004",
@@ -4997,7 +5002,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14415
+      "UsersEstimate": 14417
     },
     {
       "ID": "ACH005",
@@ -5013,7 +5018,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6716
+      "UsersEstimate": 6717
     },
     {
       "ID": "ACH007",
@@ -5044,7 +5049,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16381,
+      "Progressed": 16383,
       "Completed": 0
     }
   ],
@@ -5052,8 +5057,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:22:56.7167506+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:06:39.122841+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.9271545+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:15:42.5654089+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:22:56.7167871+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:59:48.777941+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:06:39.1228964+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4108,
+  "EOS_Progressed": 4109,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6815,6 +6815,11 @@
       "Time": "2023-09-29T01:47:21.767269+00:00",
       "NumProgressed": 4108,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-29T03:05:22.9073824+00:00",
+      "NumProgressed": 4109,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6986,7 +6991,7 @@
       "Name": "I have to read these things?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Ach022",
@@ -7074,7 +7079,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Ach033",
@@ -7393,13 +7398,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4108,
+      "Progressed": 4109,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2629,
+      "Progressed": 2630,
       "Completed": 1930
     }
   ],
@@ -7407,8 +7412,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:21:40.8160872+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:05:22.9073818+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.2314135+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:13:34.2845941+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:21:40.8161763+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:57:34.9720023+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:05:22.9075262+00:00"
 }

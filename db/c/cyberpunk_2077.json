@@ -12579,10 +12579,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 236499,
       "NumberOfAwardsMax": 85114
+    },
+    {
+      "Time": "2023-09-29T02:57:54.9280245+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 236829,
+      "NumberOfAwardsMax": 85114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 236499,
+  "NumberOfAwards": 236829,
   "NumberOfAwardsMax": 85114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12632,7 +12638,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 11130
+      "Count": 11460
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12659,10 +12665,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884470,
+  "EOS_Progressed": 884490,
   "EOS_Completed": 2464,
   "EOS_NewPlayers": 6314,
-  "EOS_NewCompleters": 279,
+  "EOS_NewCompleters": 278,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30814,6 +30820,11 @@
       "Time": "2023-09-29T02:22:09.4448183+00:00",
       "NumProgressed": 884470,
       "NumCompleted": 2464
+    },
+    {
+      "Time": "2023-09-29T03:05:51.4648751+00:00",
+      "NumProgressed": 884490,
+      "NumCompleted": 2464
     }
   ],
   "TotalAchievements": 57,
@@ -30905,7 +30916,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17689
+      "UsersEstimate": 17690
     },
     {
       "ID": "HandyMan",
@@ -31009,7 +31020,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17689
+      "UsersEstimate": 17690
     },
     {
       "ID": "Temperance",
@@ -31025,7 +31036,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17689
+      "UsersEstimate": 17690
     },
     {
       "ID": "TheDevil",
@@ -31063,9 +31074,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5307
+      "UsersEstimate": 6191
     },
     {
       "ID": "TheStar",
@@ -31280,21 +31291,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884470,
+      "Progressed": 884490,
       "Completed": 2464
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13093,
+      "Progressed": 13113,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-29T02:13:54.1100436+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:22:09.444818+00:00",
+  "LastChanged": "2023-09-29T02:57:54.9280243+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:05:51.4648747+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:13:54.1100442+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:22:09.4449449+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:57:54.928025+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:05:51.465039+00:00"
 }

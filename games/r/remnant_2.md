@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,879 |
-| The Killing Jar | 8.00% | ~15,004 |
-| Not Your Average Trait | 8.00% | ~15,004 |
-| Expanding Horizons | 7.00% | ~13,128 |
-| Quest for Survival | 7.00% | ~13,128 |
+| First of Many | 9.00% | ~16,880 |
+| The Killing Jar | 8.00% | ~15,005 |
+| Not Your Average Trait | 8.00% | ~15,005 |
+| Expanding Horizons | 7.00% | ~13,129 |
+| Quest for Survival | 7.00% | ~13,129 |
 | Gleaming the Cube | 6.00% | ~11,253 |
 | Not a Janitor | 6.00% | ~11,253 |
 | Familiar Face | 6.00% | ~11,253 |
@@ -17,13 +17,13 @@ Rating: 4.76 (Ranked 120)
 | Boss'n Up | 6.00% | ~11,253 |
 | Good, But Could Be Better! | 6.00% | ~11,253 |
 | Trait Chaser | 6.00% | ~11,253 |
-| Not So Special Now | 5.00% | ~9,377 |
-| Equal Measures | 5.00% | ~9,377 |
-| Blue Goddess | 5.00% | ~9,377 |
-| Top Performer | 5.00% | ~9,377 |
-| Shhh...It's a Secret | 5.00% | ~9,377 |
-| Almost There | 5.00% | ~9,377 |
-| Make Some Room | 5.00% | ~9,377 |
+| Not So Special Now | 5.00% | ~9,378 |
+| Equal Measures | 5.00% | ~9,378 |
+| Blue Goddess | 5.00% | ~9,378 |
+| Top Performer | 5.00% | ~9,378 |
+| Shhh...It's a Secret | 5.00% | ~9,378 |
+| Almost There | 5.00% | ~9,378 |
+| Make Some Room | 5.00% | ~9,378 |
 | Chaos | 4.00% | ~7,502 |
 | Traitor | 4.00% | ~7,502 |
 | Forever is a Long Time Coming | 4.00% | ~7,502 |
@@ -35,14 +35,14 @@ Rating: 4.76 (Ranked 120)
 | The Web | 4.00% | ~7,502 |
 | Scrap Collector | 4.00% | ~7,502 |
 | All These Traits� | 4.00% | ~7,502 |
-| Am I Seeing This? | 3.00% | ~5,626 |
-| The Agenda | 3.00% | ~5,626 |
-| Tall Tales | 3.00% | ~5,626 |
-| Bad Moon Rising | 3.00% | ~5,626 |
-| Strapped | 3.00% | ~5,626 |
-| Edgelord | 3.00% | ~5,626 |
-| The Ultimate Weapon | 3.00% | ~5,626 |
-| No One Should Have All That Power | 3.00% | ~5,626 |
+| Am I Seeing This? | 3.00% | ~5,627 |
+| The Agenda | 3.00% | ~5,627 |
+| Tall Tales | 3.00% | ~5,627 |
+| Bad Moon Rising | 3.00% | ~5,627 |
+| Strapped | 3.00% | ~5,627 |
+| Edgelord | 3.00% | ~5,627 |
+| The Ultimate Weapon | 3.00% | ~5,627 |
+| No One Should Have All That Power | 3.00% | ~5,627 |
 | Crafty | 2.00% | ~3,751 |
 | Only Human | 2.00% | ~3,751 |
 | Red Room | 2.00% | ~3,751 |
@@ -51,12 +51,12 @@ Rating: 4.76 (Ranked 120)
 | Carnage in C-Minor | 2.00% | ~3,751 |
 | Maxed Out! | 2.00% | ~3,751 |
 | Transmutate | 2.00% | ~3,751 |
-| The Trigger | 1.00% | ~1,875 |
-| Cutting Edge | 1.00% | ~1,875 |
-| Proving Grounds | 1.00% | ~1,875 |
+| The Trigger | 1.00% | ~1,876 |
+| Cutting Edge | 1.00% | ~1,876 |
+| Proving Grounds | 1.00% | ~1,876 |
 | Ghost in the Machine | 0.90% | ~1,688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,546 (Ranked 65)  
+Progressed: 187,557 (Ranked 65)  
 Completed: 342 (0.18%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 342 (0.18%) (Ranked 217)
 | 2023-09-26 | 186,828 | 336 |
 | 2023-09-27 | 187,199 | 340 |
 | 2023-09-28 | 187,507 | 342 |
-| 2023-09-29 | 187,546 | 342 |
+| 2023-09-29 | 187,557 | 342 |
 ## Awards
 Max (Great Boss Battles): 1,733  (Ranked 118)  
 Sum: 3,619 (Ranked 155)  

@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66406,
+  "EOS_Progressed": 66408,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16224,6 +16224,11 @@
       "Time": "2023-09-29T02:22:45.8304845+00:00",
       "NumProgressed": 66406,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-29T03:06:28.0654973+00:00",
+      "NumProgressed": 66408,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16267,7 +16272,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15273
+      "UsersEstimate": 15274
     },
     {
       "ID": "06",
@@ -16275,7 +16280,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12617
+      "UsersEstimate": 12618
     },
     {
       "ID": "07",
@@ -16355,7 +16360,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "17",
@@ -16363,7 +16368,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "18",
@@ -16483,7 +16488,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21914
+      "UsersEstimate": 21915
     },
     {
       "ID": "33",
@@ -16507,7 +16512,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22578
+      "UsersEstimate": 22579
     },
     {
       "ID": "36",
@@ -16571,7 +16576,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12617
+      "UsersEstimate": 12618
     },
     {
       "ID": "44",
@@ -16643,7 +16648,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "53",
@@ -16667,7 +16672,7 @@
       "Name": "Run-On Sentence",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "56",
@@ -16675,7 +16680,7 @@
       "Name": "License Revoked",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "57",
@@ -16699,7 +16704,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "60",
@@ -16731,7 +16736,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "64",
@@ -16739,7 +16744,7 @@
       "Name": "Whirlwind",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "65",
@@ -16770,21 +16775,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66406,
+      "Progressed": 66408,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29874,
+      "Progressed": 29876,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:22:45.8304842+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:06:28.0654969+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:13:34.5486591+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:22:45.8306166+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:57:35.2282465+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:06:28.0659209+00:00"
 }

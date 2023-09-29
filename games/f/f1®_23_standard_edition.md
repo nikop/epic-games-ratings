@@ -5,18 +5,18 @@ Rating: 4.66 (Ranked 283)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,441 |
-| On the Top Step | 85.00% | ~2,231 |
-| Setting up for Success | 73.00% | ~1,916 |
-| Team Orders | 72.00% | ~1,890 |
-| Engineer | 52.00% | ~1,365 |
+| Getting on the Step | 93.00% | ~2,442 |
+| On the Top Step | 85.00% | ~2,232 |
+| Setting up for Success | 73.00% | ~1,917 |
+| Team Orders | 72.00% | ~1,891 |
+| Engineer | 52.00% | ~1,366 |
 | Familiar Faces | 46.00% | ~1,208 |
 | Going the Extra Mile | 40.00% | ~1,050 |
 | Sharing the Love | 36.00% | ~945 |
 | Hitting a Season | 31.00% | ~814 |
 | Challenge Yourself | 30.00% | ~788 |
-| Making History | 29.00% | ~761 |
-| A Dozen Pieces | 26.00% | ~682 |
+| Making History | 29.00% | ~762 |
+| A Dozen Pieces | 26.00% | ~683 |
 | Spring Cleaning | 22.00% | ~578 |
 | Network Success | 22.00% | ~578 |
 | Writing a new Chapter | 22.00% | ~578 |
@@ -32,9 +32,9 @@ Rating: 4.66 (Ranked 283)
 | All in a Weekend's Work | 11.00% | ~289 |
 | Lightning Round the World | 11.00% | ~289 |
 | Tinkerer | 11.00% | ~289 |
-| Eagle Eye | 10.00% | ~262 |
-| Switcheroo | 10.00% | ~262 |
-| Recycle | 10.00% | ~262 |
+| Eagle Eye | 10.00% | ~263 |
+| Switcheroo | 10.00% | ~263 |
+| Recycle | 10.00% | ~263 |
 | Friendly Competition | 9.00% | ~236 |
 | Spinning Around | 9.00% | ~236 |
 | Undisputed Winner | 8.00% | ~210 |
@@ -45,17 +45,17 @@ Rating: 4.66 (Ranked 283)
 | Peak Performance | 4.00% | ~105 |
 | Seasoned Rookie | 3.00% | ~79 |
 | Hitting a Century | 3.00% | ~79 |
-| Wait, I know you? | 2.00% | ~52 |
-| Filling in the Gaps | 2.00% | ~52 |
+| Wait, I know you? | 2.00% | ~53 |
+| Filling in the Gaps | 2.00% | ~53 |
 | Under the Microscope | 1.00% | ~26 |
 | Saturday Night Drama | 1.00% | ~26 |
 | Media Darling | 1.00% | ~26 |
 | Ultimate Collector | 0.50% | ~13 |
-| Golden Touch | 0.40% | ~10 |
+| Golden Touch | 0.40% | ~11 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,625 (Ranked 191)  
+Progressed: 2,626 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 298)
 | 2023-09-26 | 2,256 | 0 |
 | 2023-09-27 | 2,454 | 0 |
 | 2023-09-28 | 2,620 | 0 |
-| 2023-09-29 | 2,625 | 0 |
+| 2023-09-29 | 2,626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

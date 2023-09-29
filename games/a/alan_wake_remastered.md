@@ -7,13 +7,13 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 42.00% | ~27,891 |
-| Let There Be Light | 34.00% | ~22,578 |
-| Float Like a Butterfly | 33.00% | ~21,914 |
+| Let There Be Light | 34.00% | ~22,579 |
+| Float Like a Butterfly | 33.00% | ~21,915 |
 | Nordic Walking | 26.00% | ~17,266 |
 | Bright Falls' Finest | 26.00% | ~17,266 |
-| Under a Thin Layer of Skin | 23.00% | ~15,273 |
-| Park Ranger | 19.00% | ~12,617 |
-| Paging Mr. Wake | 19.00% | ~12,617 |
+| Under a Thin Layer of Skin | 23.00% | ~15,274 |
+| Park Ranger | 19.00% | ~12,618 |
+| Paging Mr. Wake | 19.00% | ~12,618 |
 | Back! Back, I Say! | 18.00% | ~11,953 |
 | Finders Keepers | 18.00% | ~11,953 |
 | Sound and Fury | 16.00% | ~10,625 |
@@ -35,13 +35,13 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 11.00% | ~7,305 |
 | Right of Way | 10.00% | ~6,641 |
 | What Light Through Yonder Window | 9.00% | ~5,977 |
-| Tornado Wrangler | 8.00% | ~5,312 |
-| Departure | 8.00% | ~5,312 |
+| Tornado Wrangler | 8.00% | ~5,313 |
+| Departure | 8.00% | ~5,313 |
 | A Friend in Need | 8.00% | ~2,390 |
 | Drink 'Em Both Up | 6.00% | ~3,984 |
 | Hardboiled Writer | 6.00% | ~3,984 |
-| A Friend Indeed | 6.00% | ~1,792 |
-| Ding! | 6.00% | ~1,792 |
+| A Friend Indeed | 6.00% | ~1,793 |
+| Ding! | 6.00% | ~1,793 |
 | Boob Tube | 5.00% | ~3,320 |
 | Children of the Elder God | 5.00% | ~3,320 |
 | If It Flies, It Burns | 5.00% | ~3,320 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,328 |
 | An Idyllic Small Town | 2.00% | ~1,328 |
 | Couch Potato | 2.00% | ~1,328 |
-| Iron Will | 2.00% | ~597 |
+| Iron Will | 2.00% | ~598 |
 | Go Gentle Into That Good Light | 1.00% | ~299 |
 | Words Will Never Harm You | 0.70% | ~209 |
 | Cardboard Companions | 0.60% | ~179 |
@@ -62,9 +62,9 @@ Number of Ratings: 524  (23.09.2022)
 | Alan, Wake Up | 0.40% | ~266 |
 | Meet the Deadline | 0.40% | ~266 |
 | Picking Up After Yourself | 0.40% | ~266 |
-| Run-On Sentence | 0.40% | ~119 |
-| License Revoked | 0.40% | ~119 |
-| Whirlwind | 0.40% | ~119 |
+| Run-On Sentence | 0.40% | ~120 |
+| License Revoked | 0.40% | ~120 |
+| Whirlwind | 0.40% | ~120 |
 | Bright Falls Aficionado | 0.30% | ~199 |
 | Tick Tock | 0.30% | ~90 |
 | Gunless Wonder | 0.20% | ~133 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~66 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,406 (Ranked 89)  
+Progressed: 66,408 (Ranked 89)  
 Completed: 66 (0.10%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 66 (0.10%) (Ranked 237)
 | 2023-09-26 | 66,247 | 66 |
 | 2023-09-27 | 66,314 | 66 |
 | 2023-09-28 | 66,395 | 66 |
-| 2023-09-29 | 66,406 | 66 |
+| 2023-09-29 | 66,408 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

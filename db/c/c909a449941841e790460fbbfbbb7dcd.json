@@ -2,7 +2,7 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 115,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -206,6 +206,11 @@
       "Time": "2023-09-29T01:45:03.7582695+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T03:03:07.9355105+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -216,7 +221,7 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 60,
       "UsersEstimate": 16
     },
@@ -224,7 +229,7 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 60,
       "UsersEstimate": 22
     },
@@ -240,7 +245,7 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 20
     },
@@ -248,9 +253,9 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -258,7 +263,7 @@
       "Name": "Killer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -272,9 +277,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -288,7 +293,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 60,
       "UsersEstimate": 8
     },
@@ -328,7 +333,7 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 60,
       "UsersEstimate": 17
     },
@@ -344,23 +349,23 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:19:26.4991888+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:03:07.9355099+00:00",
   "LastUpdate_AppInfo": "2023-09-26T16:57:05.5703282+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:15:19.2469274+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:19:26.4992056+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:59:25.655721+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:03:07.9355262+00:00"
 }

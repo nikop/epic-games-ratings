@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 40837,
+  "EOS_Progressed": 40840,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18834,6 +18834,11 @@
       "Time": "2023-09-29T02:22:30.4253704+00:00",
       "NumProgressed": 40837,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-29T03:06:12.7256589+00:00",
+      "NumProgressed": 40840,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -18885,7 +18890,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11026
+      "UsersEstimate": 11027
     },
     {
       "ID": "goals180",
@@ -18901,7 +18906,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "goals75",
@@ -18965,7 +18970,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6942
+      "UsersEstimate": 6943
     },
     {
       "ID": "novice",
@@ -19101,7 +19106,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "unlockmaya",
@@ -19156,15 +19161,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 40837,
+      "Progressed": 40840,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:22:30.4253701+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:06:12.7256584+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.1510567+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:14:31.5515439+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:22:30.4254755+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:58:36.4770077+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:06:12.7258241+00:00"
 }

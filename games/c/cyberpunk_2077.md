@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gunslinger | 2.00% | ~17,689 |
-| Ten out of Ten | 2.00% | ~17,689 |
-| Rough Landing | 2.00% | ~17,689 |
+| Gunslinger | 2.00% | ~17,690 |
+| Ten out of Ten | 2.00% | ~17,690 |
+| Rough Landing | 2.00% | ~17,690 |
 | Full Body Conversion | 1.00% | ~8,845 |
 | Right Back At Ya | 1.00% | ~8,845 |
 | Master Crafter | 1.00% | ~8,845 |
@@ -26,10 +26,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.80% | ~7,076 |
 | True Warrior | 0.80% | ~7,076 |
 | Legend of The Afterlife | 0.80% | ~7,076 |
+| The Lovers | 0.70% | ~6,191 |
 | The Quick and the Dead | 0.60% | ~5,307 |
 | The Devil | 0.60% | ~5,307 |
 | The Fool | 0.60% | ~5,307 |
-| The Lovers | 0.60% | ~5,307 |
 | The World | 0.60% | ~5,307 |
 | It's Elementary | 0.60% | ~5,307 |
 | Gun Fu | 0.50% | ~4,422 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 884,470 (Ranked 15)  
+Progressed: 884,490 (Ranked 15)  
 Completed: 2,464 (0.28%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,17 +226,17 @@ Completed: 2,464 (0.28%) (Ranked 201)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 884,470 | 2,464 |
+| 2023-09-29 | 884,490 | 2,464 |
 ## Awards
 Max (Character Customization): 85,114  (Ranked 9)  
-Sum: 236,499 (Ranked 13)  
+Sum: 236,829 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 85,114 |
 | This game has Great Boss Battles | 57,038 |
+| This game is Great for Beginners | 11,460 |
 | This game has Diverse Characters | 11,199 |
-| This game is Great for Beginners | 11,130 |
 | This game has Amazing Storytelling | 11,064 |
 | This game is Highly Recommended | 11,021 |
 | This game is Relaxing | 10,821 |
@@ -500,4 +500,4 @@ Diff (max vs sum): -4
 | 2023-09-26 | 4.63 | - | 82,928 | 226,122 |
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
-| 2023-09-29 | 4.63 | - | 85,114 | 236,499 |
+| 2023-09-29 | 4.63 | - | 85,114 | 236,829 |

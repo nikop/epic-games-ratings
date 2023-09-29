@@ -201,17 +201,17 @@
       "ID": "26",
       "SetID": "6hl9l7f",
       "Name": "Virus Zone",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "27",
       "SetID": "6hl9l7f",
       "Name": "Full Power",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "28",
@@ -391,8 +391,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:20:22.6840997+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:04:04.0641702+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:16:07.1164297+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:20:22.6841282+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:00:08.9880282+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:04:04.064206+00:00"
 }

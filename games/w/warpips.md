@@ -5,8 +5,8 @@ Rating: 4.42 (Ranked 688)
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 28  (Ranked 474)  
-Sum: 129 (Ranked 408)  
-Diff (max vs sum): 66  
+Sum: 149 (Ranked 403)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 28 |
@@ -14,6 +14,7 @@ Diff (max vs sum): 66
 | This game is Great for Quick Sessions | 26 |
 | This game has Playful Visuals | 25 |
 | This game is Extremely Fun | 22 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -107,3 +108,4 @@ Diff (max vs sum): 66
 | 2023-09-18 | 4.42 | - | 27 | 125 |
 | 2023-09-26 | 4.42 | - | 28 | 127 |
 | 2023-09-28 | 4.42 | - | 28 | 129 |
+| 2023-09-29 | 4.42 | - | 28 | 149 |

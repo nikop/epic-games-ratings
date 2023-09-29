@@ -29,8 +29,8 @@
 | Paramour I | 44.00% | ~200 |
 | Scientist | 44.00% | ~200 |
 | Merciless | 43.00% | ~195 |
+| Operative | 41.00% | ~186 |
 | Head Hunter | 40.00% | ~182 |
-| Operative | 40.00% | ~182 |
 | Veteran | 39.00% | ~177 |
 | Scholar | 39.00% | ~177 |
 | Power Full | 38.00% | ~173 |

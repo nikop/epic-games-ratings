@@ -4,10 +4,10 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 588,
   "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -633,10 +633,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 275,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-29T02:58:03.7140162+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 275,
+  "NumberOfAwards": 276,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -662,7 +668,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -701,7 +707,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3354,
+  "EOS_Progressed": 3356,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 1,
@@ -5946,6 +5952,11 @@
       "Time": "2023-09-29T02:22:12.8790196+00:00",
       "NumProgressed": 3354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T03:05:54.8652565+00:00",
+      "NumProgressed": 3356,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5998,7 +6009,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -6006,7 +6017,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -6118,7 +6129,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -6141,15 +6152,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3354,
+      "Progressed": 3356,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-09-26T04:57:42.4914556+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:22:12.8790192+00:00",
+  "LastChanged": "2023-09-29T02:58:03.714016+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:05:54.8652559+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:14:03.0586663+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:22:12.8790567+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:58:03.7140166+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:05:54.8653109+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-09-29T01:46:51.0017158+00:00",
       "NumProgressed": 423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T03:04:53.3702758+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -817,7 +822,7 @@
       "Name": "Dash Crash",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "World2Boss",
@@ -825,7 +830,7 @@
       "Name": "Snake Eyes",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "World3Boss",
@@ -857,7 +862,7 @@
       "Name": "Tornado Chaser",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "World7Boss",
@@ -888,7 +893,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 0
     }
   ],
@@ -896,8 +901,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:21:11.6420455+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:04:53.3702753+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:13:14.1440069+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:21:11.6420747+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:57:13.8229897+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:04:53.3703197+00:00"
 }

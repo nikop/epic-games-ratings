@@ -5,7 +5,7 @@
   "Ranking_Rating": 827,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 115,
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1099,
+  "EOS_Progressed": 1100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1829,6 +1829,11 @@
       "Time": "2023-09-28T05:08:32.7531856+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T03:02:23.2143016+00:00",
+      "NumProgressed": 1100,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1864,7 +1869,7 @@
       "Name": "Six Faces",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHALLENGE_GREATWINTER",
@@ -1872,7 +1877,7 @@
       "Name": "The Great Winter",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHALLENGE_ITALY",
@@ -1880,7 +1885,7 @@
       "Name": "Red Tape",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHALLENGE_MEGARANDOM",
@@ -2088,7 +2093,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "UNLOCKALLACHIEVEMENTS",
@@ -2199,7 +2204,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1099,
+      "Progressed": 1100,
       "Completed": 0
     }
   ],
@@ -2207,8 +2212,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:19:21.5618096+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:02:23.214301+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.2364181+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:13:31.5806339+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:19:21.5618515+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:57:32.2110414+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:02:23.2143565+00:00"
 }

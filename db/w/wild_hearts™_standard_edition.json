@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 73,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -370,9 +370,9 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_15",
@@ -720,8 +720,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:21:00.5109184+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:04:42.576542+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:13:08.7163278+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:21:00.5109538+00:00"
+  "LastUpdate_Ratings": "2023-09-29T02:57:08.2456326+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:04:42.5766006+00:00"
 }

@@ -11,7 +11,7 @@
 | Charmed by the Hunt | 70.00% | ~51 |
 | Man-Machine Master | 67.00% | ~49 |
 | Mountain Splitter | 67.00% | ~49 |
-| Fusion Conjuror | 64.00% | ~47 |
+| Fusion Conjuror | 66.00% | ~48 |
 | Memory Rouser | 64.00% | ~47 |
 | Master of the Skies | 60.00% | ~44 |
 | Subsistence Skills | 60.00% | ~44 |

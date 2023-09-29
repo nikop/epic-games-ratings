@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2812,9 +2812,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 77262,
+  "EOS_Progressed": 77263,
   "EOS_Completed": 136,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -20627,6 +20627,11 @@
       "Time": "2023-09-29T02:22:26.4524378+00:00",
       "NumProgressed": 77262,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2023-09-29T03:06:08.5720389+00:00",
+      "NumProgressed": 77263,
+      "NumCompleted": 136
     }
   ],
   "TotalAchievements": 30,
@@ -20638,7 +20643,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9271
+      "UsersEstimate": 9272
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -20654,7 +20659,7 @@
       "Name": "Terraformer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -20726,7 +20731,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 21633
+      "UsersEstimate": 21634
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -20814,7 +20819,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 27814
+      "UsersEstimate": 27815
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -20838,7 +20843,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9271
+      "UsersEstimate": 9272
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -20854,7 +20859,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9271
+      "UsersEstimate": 9272
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -20877,15 +20882,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 77262,
+      "Progressed": 77263,
       "Completed": 136
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-25T07:59:53.3149974+00:00",
-  "LastChanged_Achievements": "2023-09-29T02:22:26.4524374+00:00",
+  "LastChanged_Achievements": "2023-09-29T03:06:08.5720381+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:08.0322517+00:00",
-  "LastUpdate_Ratings": "2023-09-29T02:19:06.6587687+00:00",
-  "LastUpdate_Achievements": "2023-09-29T02:22:26.452533+00:00"
+  "LastUpdate_Ratings": "2023-09-29T03:02:06.8539879+00:00",
+  "LastUpdate_Achievements": "2023-09-29T03:06:08.5721922+00:00"
 }

@@ -29,8 +29,8 @@ Rating: 4.85 (Ranked 42)
 | Out in a puff of smoke | 7.00% | ~288 |
 | Does that say weakpoint? | 7.00% | ~288 |
 | NOW we got a kickass hideout! | 7.00% | ~184 |
-| I have to read these things? | 6.00% | ~246 |
-| Perfecter Parry-er! | 6.00% | ~246 |
+| I have to read these things? | 6.00% | ~247 |
+| Perfecter Parry-er! | 6.00% | ~247 |
 | Well that was a rush! | 4.00% | ~164 |
 | Beat-hit mania | 4.00% | ~164 |
 | That's a lot of junk metal… | 4.00% | ~164 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,108 (Ranked 173)  
+Progressed: 4,109 (Ranked 173)  
 Completed: 8 (0.19%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 8 (0.19%) (Ranked 214)
 | 2023-09-26 | 4,097 | 8 |
 | 2023-09-27 | 4,099 | 8 |
 | 2023-09-28 | 4,107 | 8 |
-| 2023-09-29 | 4,108 | 8 |
+| 2023-09-29 | 4,109 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
