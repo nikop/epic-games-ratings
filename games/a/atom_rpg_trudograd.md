@@ -25,7 +25,7 @@ Rating: 4.53 (Ranked 525)
 | Rising Star | 0.80% | ~10 |
 | Sixth Sense | 0.70% | ~9 |
 | Baby Eater | 0.60% | ~7 |
-| Admiral | 0.30% | ~4 |
+| Admiral | 0.40% | ~5 |
 | Bronzovka | 0.30% | ~4 |
 | Commando | 0.30% | ~4 |
 | Holy Mountain | 0.30% | ~4 |

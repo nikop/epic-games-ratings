@@ -707,9 +707,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3374,
+  "EOS_Progressed": 3375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5982,6 +5982,11 @@
       "Time": "2023-09-29T09:06:18.700096+00:00",
       "NumProgressed": 3374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T10:07:47.6748336+00:00",
+      "NumProgressed": 3375,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6098,7 +6103,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -6106,7 +6111,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -6170,22 +6175,22 @@
       "Name": "Vexed Her",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3374,
+      "Progressed": 3375,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-29T02:58:03.714016+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:06:18.7000954+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:07:47.674833+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:58:14.1864565+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:06:18.7001342+00:00"
+  "LastUpdate_Ratings": "2023-09-29T09:58:49.6594139+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:07:47.6749066+00:00"
 }

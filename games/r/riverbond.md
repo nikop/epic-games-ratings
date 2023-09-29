@@ -6,21 +6,21 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,754 |
-| Now You're Talking | 62.00% | ~327,496 |
-| Steel Yourself | 62.00% | ~327,496 |
-| Window Dressing | 50.00% | ~264,110 |
-| Trigger Happy | 46.00% | ~242,981 |
-| Riverborn | 45.00% | ~237,699 |
+| First Step | 70.00% | ~369,755 |
+| Now You're Talking | 62.00% | ~327,498 |
+| Steel Yourself | 62.00% | ~327,498 |
+| Window Dressing | 50.00% | ~264,111 |
+| Trigger Happy | 46.00% | ~242,982 |
+| Riverborn | 45.00% | ~237,700 |
 | Starry Eyed | 34.00% | ~179,595 |
 | Poking Around | 34.00% | ~179,595 |
 | Talk of the Town | 24.00% | ~126,773 |
 | AAARR! | 23.00% | ~121,491 |
 | Hello Darkness | 23.00% | ~121,491 |
-| Wind At Our Backs | 22.00% | ~116,208 |
+| Wind At Our Backs | 22.00% | ~116,209 |
 | To the Beat | 20.00% | ~105,644 |
-| Sunny Shores | 17.00% | ~89,797 |
-| Sunday Best | 16.00% | ~84,515 |
+| Sunny Shores | 17.00% | ~89,798 |
+| Sunday Best | 16.00% | ~84,516 |
 | To Victory! | 15.00% | ~79,233 |
 | Two of a Kind | 14.00% | ~73,951 |
 | Keep On Trucking | 13.00% | ~68,669 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~47,540 |
 | Lost and Found | 9.00% | ~47,540 |
 | Under the Radar | 8.00% | ~42,258 |
-| Partner in Crime | 7.00% | ~36,975 |
-| Hard to Hear | 7.00% | ~36,975 |
+| Partner in Crime | 7.00% | ~36,976 |
+| Hard to Hear | 7.00% | ~36,976 |
 | Moving On Up | 6.00% | ~31,693 |
 | Owl Knows Best | 6.00% | ~31,693 |
 | Mind the Moose | 6.00% | ~31,693 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,585 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,220 (Ranked 33)  
+Progressed: 528,222 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 479 (0.09%) (Ranked 241)
 | 2023-09-26 | 528,121 | 479 |
 | 2023-09-27 | 528,162 | 479 |
 | 2023-09-28 | 528,204 | 479 |
-| 2023-09-29 | 528,220 | 479 |
+| 2023-09-29 | 528,222 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

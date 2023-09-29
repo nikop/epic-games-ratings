@@ -2,10 +2,10 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.51,
+  "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -546,6 +546,11 @@
       "Time": "2023-09-25T01:47:46.4884931+00:00",
       "NumProgressed": 265,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-29T10:07:09.4882838+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -621,7 +626,7 @@
       "Name": "Found the Healer",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -677,7 +682,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_SHARD_2",
@@ -740,7 +745,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 4
     }
   ],
@@ -748,8 +753,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:05:51.3470883+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:07:09.4882832+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:38.7974179+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:59:25.8359586+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:05:51.347105+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:00:35.2119787+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:07:09.4883286+00:00"
 }

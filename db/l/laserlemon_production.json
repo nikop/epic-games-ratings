@@ -3,8 +3,8 @@
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -220,9 +220,9 @@
       "ID": "TheKitchen",
       "SetID": "c36hpcf",
       "Name": "The Kitchen",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TheLadysQuarters",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:05:16.1810172+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:06:21.2089733+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:00:11.2690758+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:05:16.1810302+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:01:43.0296496+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:06:21.2089922+00:00"
 }

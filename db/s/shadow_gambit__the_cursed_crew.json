@@ -1989,9 +1989,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 170
     },
     {
       "ID": "_11_Completion_40",
@@ -2134,8 +2134,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:06:12.4644318+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:07:38.8990843+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:58:22.2427595+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:06:12.4644555+00:00"
+  "LastUpdate_Ratings": "2023-09-29T09:59:01.6381283+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:07:38.8991161+00:00"
 }

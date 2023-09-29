@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -348,9 +348,9 @@
       "ID": "BossDefeatedWhilePlayerIsDeadAchievement",
       "SetID": "a8djcgh",
       "Name": "Revenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BronzeBabushkaBossDefeatedAchievement",
@@ -860,9 +860,9 @@
       "ID": "GoldSpaceWinnerBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden BBQ",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoldTheHiveBossDefeatedAchievement",
@@ -1172,9 +1172,9 @@
       "ID": "SilverHomunculusBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Alchemist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SilverMirrorBossDefeatedAchievement",
@@ -1308,9 +1308,9 @@
       "ID": "VisitMerchant100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince III",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VisitMerchant10TimeAchievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:04:44.7297703+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:05:37.4351983+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.7400857+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:58:25.5062854+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:04:44.729928+00:00"
+  "LastUpdate_Ratings": "2023-09-29T09:59:07.8423734+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:05:37.4353941+00:00"
 }

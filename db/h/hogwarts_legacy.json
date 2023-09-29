@@ -8170,10 +8170,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44556,
       "NumberOfAwardsMax": 23108
+    },
+    {
+      "Time": "2023-09-29T09:57:43.0300597+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44574,
+      "NumberOfAwardsMax": 23108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44556,
+  "NumberOfAwards": 44574,
   "NumberOfAwardsMax": 23108,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8187,7 +8193,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11433
+      "Count": 11451
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8250,7 +8256,7 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 297500,
+  "EOS_Progressed": 297501,
   "EOS_Completed": 478,
   "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 2,
@@ -25720,6 +25726,11 @@
       "Time": "2023-09-29T07:03:16.7101872+00:00",
       "NumProgressed": 297500,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-29T10:03:32.1624031+00:00",
+      "NumProgressed": 297501,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25843,7 +25854,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "PFA_23",
@@ -26090,16 +26101,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297500,
+      "Progressed": 297501,
       "Completed": 478
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-29T03:57:16.6028853+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:03:29.100585+00:00",
+  "LastChanged": "2023-09-29T09:57:43.0300595+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:03:32.1624027+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:57:28.6019784+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:03:29.1006945+00:00"
+  "LastUpdate_Ratings": "2023-09-29T09:57:43.0300602+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:03:32.1625558+00:00"
 }

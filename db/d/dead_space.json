@@ -626,7 +626,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 2,
@@ -1691,6 +1691,11 @@
       "Time": "2023-09-29T09:05:06.4287788+00:00",
       "NumProgressed": 561,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-29T10:06:07.6416996+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -1703,7 +1708,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_10",
@@ -1711,7 +1716,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_11",
@@ -1743,7 +1748,7 @@
       "Name": "Whole Again",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_15",
@@ -1791,7 +1796,7 @@
       "Name": "Lab Rat",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_20",
@@ -1895,15 +1900,15 @@
       "Name": "Marksman",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_33",
@@ -1925,9 +1930,9 @@
       "ID": "achievement_35",
       "SetID": "222fo9l",
       "Name": "Freeze",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_36",
@@ -1951,7 +1956,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_39",
@@ -1959,7 +1964,7 @@
       "Name": "Z-Baller",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_4",
@@ -1967,7 +1972,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_40",
@@ -1991,7 +1996,7 @@
       "Name": "Brute Force",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_43",
@@ -1999,7 +2004,7 @@
       "Name": "Exterminator",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_44",
@@ -2039,7 +2044,7 @@
       "Name": "True Believer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_6",
@@ -2078,7 +2083,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 3
     }
   ],
@@ -2086,8 +2091,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-28T18:01:12.2874889+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:05:06.4287784+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:06:07.6416991+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:11.6131576+00:00",
-  "LastUpdate_Ratings": "2023-09-29T09:00:00.8627457+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:05:06.4288175+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:01:27.0995733+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:06:07.6417471+00:00"
 }

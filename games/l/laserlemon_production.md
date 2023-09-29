@@ -3,6 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kitchen | 18.00% | ~2 |
 | The Prison | 18.00% | ~2 |
 | Ashes in The Maw | 9.00% | ~1 |
 | Ashes to Ashes | 9.00% | ~1 |
@@ -17,7 +18,6 @@
 | Light Up Your life | 9.00% | ~1 |
 | Not Alone | 9.00% | ~1 |
 | So Close | 9.00% | ~1 |
-| The Kitchen | 9.00% | ~1 |
 | The Lair | 9.00% | ~1 |
 | We'll Meet Again | 9.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |

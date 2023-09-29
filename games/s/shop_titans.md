@@ -59,6 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.50% | ~684 |
 | A Ronin Reborn | 0.50% | ~684 |
 | The King's Caprice | 0.50% | ~684 |
+| Thirst for Knowledge | 0.50% | ~684 |
 | Big Game Hunting | 0.50% | ~684 |
 | Scrapbooker | 0.50% | ~684 |
 | Archivist | 0.50% | ~684 |
@@ -89,7 +90,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.50% | ~684 |
 | King's Blade | 0.50% | ~684 |
 | Constellated | 0.40% | ~547 |
-| Thirst for Knowledge | 0.40% | ~547 |
 | Booty by the Boatload | 0.40% | ~547 |
 | Fillin' the Bin | 0.40% | ~547 |
 | Industrial Evolution | 0.40% | ~547 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,835 (Ranked 69)  
+Progressed: 136,839 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
-| 2023-09-29 | 136,835 | 158 |
+| 2023-09-29 | 136,839 | 158 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,304 (Ranked 49)  

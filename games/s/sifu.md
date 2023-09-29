@@ -9,12 +9,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 0.40% | ~99 |
 | The Old Grandmaster | 0.30% | ~2,146 |
 | The Assault | 0.30% | ~2,146 |
+| The Hateful Pole Fighter | 0.30% | ~2,146 |
 | Life is your teacher | 0.30% | ~2,146 |
 | State of constant learning | 0.30% | ~2,146 |
 | Lightning Hands | 0.30% | ~2,146 |
 | Project Arena | 0.30% | ~74 |
 | Fight the way you practice | 0.30% | ~74 |
-| The Hateful Pole Fighter | 0.20% | ~1,431 |
 | A Lady's Blood in the Snow | 0.20% | ~1,431 |
 | Lady Wing Chun | 0.20% | ~1,431 |
 | Furious Fists | 0.20% | ~1,431 |
@@ -232,13 +232,13 @@ Completed: 12,904 (1.80%) (Ranked 107)
 | 2023-09-29 | 715,370 | 12,904 |
 ## Awards
 Max (Great Boss Battles): 6,603  (Ranked 54)  
-Sum: 11,428 (Ranked 82)  
+Sum: 11,429 (Ranked 82)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,603 |
 | This game has Diverse Characters | 612 |
-| This game has Challenging Combat | 569 |
+| This game has Challenging Combat | 570 |
 | This game has Amazing Storytelling | 558 |
 | This game has Quickly Understood Controls | 553 |
 | This game has Amazing Characters | 548 |
@@ -506,3 +506,4 @@ Diff (max vs sum): -28
 | 2023-09-26 | 4.82 | - | 6,596 | 11,403 |
 | 2023-09-27 | 4.82 | - | 6,599 | 11,417 |
 | 2023-09-28 | 4.82 | - | 6,603 | 11,428 |
+| 2023-09-29 | 4.82 | - | 6,603 | 11,429 |

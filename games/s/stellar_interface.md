@@ -66,30 +66,30 @@
 | Beetle | 5.00% | ~3 |
 | Anger Management | 5.00% | ~3 |
 | Almost There II | 5.00% | ~3 |
+| Revenge | 3.00% | ~2 |
 | Bronze Alchemist | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
 | Rambo V | 3.00% | ~2 |
 | Space Magellan | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
+| Golden BBQ | 3.00% | ~2 |
 | Usurper III | 3.00% | ~2 |
+| Silver Alchemist | 3.00% | ~2 |
 | Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
-| Revenge | 2.00% | ~1 |
+| Merchant Prince III | 3.00% | ~2 |
 | Bronze Tovarish | 2.00% | ~1 |
 | Archer's Bronze Fate | 2.00% | ~1 |
 | Galactic Ensign | 2.00% | ~1 |
 | Golden Alchemist | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
-| Golden BBQ | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
 | Silver Tovarish | 2.00% | ~1 |
 | Archer's Silver Fate | 2.00% | ~1 |
-| Silver Alchemist | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
-| Merchant Prince III | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |

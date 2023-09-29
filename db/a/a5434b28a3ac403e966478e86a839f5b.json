@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -532,6 +532,11 @@
       "Time": "2023-09-29T08:04:32.8677582+00:00",
       "NumProgressed": 266,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T10:05:20.6642689+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -550,17 +555,17 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_eou3",
@@ -568,23 +573,23 @@
       "Name": "Destroy Security Grid",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_eou6",
@@ -606,9 +611,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_mg2",
@@ -638,23 +643,23 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 120,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:04:32.8375392+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:05:20.6642683+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:59:48.6796536+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:04:32.8375483+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:01:08.5890709+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:05:20.6642842+00:00"
 }

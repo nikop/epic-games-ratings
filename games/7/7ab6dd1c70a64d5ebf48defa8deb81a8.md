@@ -8,23 +8,23 @@
 | Trinity | 13.00% | ~4 |
 | Essence Blow | 13.00% | ~4 |
 | Shatter Them All | 13.00% | ~4 |
+| Scholar | 13.00% | ~4 |
 | The Collector | 13.00% | ~4 |
 | A Taste of Wrath | 10.00% | ~3 |
 | Adventurer | 10.00% | ~3 |
-| Scholar | 10.00% | ~3 |
+| Geared Up | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
-| Geared Up | 6.00% | ~2 |
 | Fashion Victim | 6.00% | ~2 |
 | Calm before the Storm | 3.00% | ~1 |
 | To Battle | 3.00% | ~1 |
 | Godslayer | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
+| Alchemist | 3.00% | ~1 |
 | Miner | 3.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 | Clear Sight | -3.20% | ~-1 |
 | Forgemaster | -3.20% | ~-1 |

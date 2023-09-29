@@ -6,17 +6,17 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,670 |
+| Level: Returning Home | 49.00% | ~2,671 |
 | Returning Home: Quick Learner | 26.00% | ~1,417 |
 | Level: Charlie's Circuits | 22.00% | ~1,199 |
-| Level: Rising Markets | 9.00% | ~490 |
+| Level: Rising Markets | 9.00% | ~491 |
 | Peddler | 8.00% | ~436 |
 | Level: Extra Life | 7.00% | ~382 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~382 |
 | Data Churn Type I | 7.00% | ~382 |
 | Millionaire | 6.00% | ~327 |
-| Data Churn Type II | 5.00% | ~272 |
-| Speedy | 5.00% | ~272 |
+| Data Churn Type II | 5.00% | ~273 |
+| Speedy | 5.00% | ~273 |
 | Extra Life: Wish Granted | 4.00% | ~218 |
 | High Five! | 4.00% | ~218 |
 | Modular Progress | 4.00% | ~218 |
@@ -35,13 +35,13 @@ Number of Ratings: 75  (23.09.2022)
 | Module Maniac | 2.00% | ~109 |
 | Overproducer | 2.00% | ~109 |
 | Natural Talent | 2.00% | ~109 |
-| Level: A Happy Taskforce | 1.00% | ~54 |
-| Level: The Machinery | 1.00% | ~54 |
-| Extra Life: Knowledge Cap | 1.00% | ~54 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~54 |
-| Entrepreneur | 1.00% | ~54 |
-| Data Churn Type IV | 1.00% | ~54 |
-| Keen Eye | 1.00% | ~54 |
+| Level: A Happy Taskforce | 1.00% | ~55 |
+| Level: The Machinery | 1.00% | ~55 |
+| Extra Life: Knowledge Cap | 1.00% | ~55 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~55 |
+| Entrepreneur | 1.00% | ~55 |
+| Data Churn Type IV | 1.00% | ~55 |
+| Keen Eye | 1.00% | ~55 |
 | Level: Topple The Top | 0.90% | ~49 |
 | Tycoon | 0.90% | ~49 |
 | Bet On Bots: Safety First | 0.80% | ~44 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,450 (Ranked 164)  
+Progressed: 5,451 (Ranked 164)  
 Completed: 1 (0.02%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 1 (0.02%) (Ranked 273)
 | 2023-09-26 | 5,444 | 1 |
 | 2023-09-27 | 5,446 | 1 |
 | 2023-09-28 | 5,449 | 1 |
-| 2023-09-29 | 5,450 | 1 |
+| 2023-09-29 | 5,451 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

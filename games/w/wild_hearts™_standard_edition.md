@@ -13,9 +13,9 @@
 | Man-Machine Master | 66.00% | ~49 |
 | Fusion Conjuror | 65.00% | ~48 |
 | Memory Rouser | 65.00% | ~48 |
+| Kemono Hunter | 61.00% | ~45 |
 | Master of the Skies | 59.00% | ~44 |
 | Subsistence Skills | 59.00% | ~44 |
-| Kemono Hunter | 59.00% | ~44 |
 | Distance Devourer | 55.00% | ~41 |
 | Helpful Heart | 55.00% | ~41 |
 | Expert Conjuror | 53.00% | ~39 |

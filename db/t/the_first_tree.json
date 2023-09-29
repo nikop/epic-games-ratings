@@ -5,7 +5,7 @@
   "Ranking_Rating": 962,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 106,
+  "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 63,
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36190,
+  "EOS_Progressed": 36191,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14264,6 +14264,11 @@
       "Time": "2023-09-29T08:05:34.8180203+00:00",
       "NumProgressed": 36190,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-29T10:06:46.1192679+00:00",
+      "NumProgressed": 36191,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 14,
@@ -14291,7 +14296,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9409
+      "UsersEstimate": 9410
     },
     {
       "ID": "allItems",
@@ -14363,7 +14368,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27866
+      "UsersEstimate": 27867
     },
     {
       "ID": "roots",
@@ -14386,15 +14391,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36190,
+      "Progressed": 36191,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:05:34.2940668+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:06:46.1192674+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.0710228+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:59:22.6232208+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:05:34.2941455+00:00"
+  "LastUpdate_Ratings": "2023-09-29T10:00:30.455878+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:06:46.1194276+00:00"
 }

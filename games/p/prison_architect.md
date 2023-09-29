@@ -188,12 +188,12 @@ Completed: 8 (0.00%) (Ranked 298)
 | 2023-09-29 | 179,092 | 8 |
 ## Awards
 Max (Extremely Fun): 515  (Ranked 201)  
-Sum: 4,424 (Ranked 141)  
+Sum: 4,427 (Ranked 141)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 515 |
-| This game is Great for Beginners | 498 |
+| This game is Great for Beginners | 501 |
 | This game is Highly Recommended | 486 |
 | This game has Quickly Understood Controls | 482 |
 | This game is Relaxing | 459 |
@@ -455,4 +455,4 @@ Diff (max vs sum): 60
 | 2023-09-26 | 4.61 | - | 513 | 4,408 |
 | 2023-09-27 | 4.61 | - | 513 | 4,416 |
 | 2023-09-28 | 4.61 | - | 515 | 4,421 |
-| 2023-09-29 | 4.61 | - | 515 | 4,424 |
+| 2023-09-29 | 4.61 | - | 515 | 4,427 |

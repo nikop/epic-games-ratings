@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -556,6 +556,11 @@
       "Time": "2023-09-29T09:05:16.5850218+00:00",
       "NumProgressed": 430,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T10:06:21.7571031+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -583,7 +588,7 @@
       "Name": "Fireball",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "DashDashDash",
@@ -591,7 +596,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -605,9 +610,9 @@
       "ID": "FloorIsLava",
       "SetID": "d9ekhim",
       "Name": "Floor is Lava",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "HeroWorld10Boss",
@@ -717,9 +722,9 @@
       "ID": "NinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Air Slash",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "OhNo",
@@ -845,9 +850,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 310
     },
     {
       "ID": "World2Boss",
@@ -855,7 +860,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "World3Boss",
@@ -871,7 +876,7 @@
       "Name": "Hit That Ball",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "World5Boss",
@@ -887,7 +892,7 @@
       "Name": "Tornado Chaser",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "World7Boss",
@@ -918,7 +923,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 0
     }
   ],
@@ -926,8 +931,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:05:16.5850214+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:06:21.7571026+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:57:25.1531082+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:05:16.5850506+00:00"
+  "LastUpdate_Ratings": "2023-09-29T09:57:38.2608205+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:06:21.7571464+00:00"
 }

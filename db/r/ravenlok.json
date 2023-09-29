@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1100,
+  "EOS_Progressed": 1101,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.73,
+  "EOS_Completed_Percentage": 7.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2942,6 +2942,11 @@
       "Time": "2023-09-28T21:03:39.6647968+00:00",
       "NumProgressed": 1100,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-09-29T10:04:50.0400089+00:00",
+      "NumProgressed": 1101,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 50,
@@ -2953,7 +2958,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "10",
@@ -3033,7 +3038,7 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "2",
@@ -3041,7 +3046,7 @@
       "Name": "Waff!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "20",
@@ -3113,7 +3118,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "29",
@@ -3129,7 +3134,7 @@
       "Name": "Vibing",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "30",
@@ -3161,7 +3166,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "34",
@@ -3217,7 +3222,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "40",
@@ -3289,7 +3294,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "49",
@@ -3329,7 +3334,7 @@
       "Name": "Fun Guy",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "8",
@@ -3337,7 +3342,7 @@
       "Name": "Tragic Brave",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "9",
@@ -3352,7 +3357,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1100,
+      "Progressed": 1101,
       "Completed": 85
     }
   ],
@@ -3360,8 +3365,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:04:10.8033258+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:04:50.0400083+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:15.0927623+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:57:13.0933231+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:04:10.8033756+00:00"
+  "LastUpdate_Ratings": "2023-09-29T09:57:20.0690212+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:04:50.0400799+00:00"
 }

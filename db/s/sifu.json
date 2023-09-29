@@ -6538,10 +6538,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11428,
       "NumberOfAwardsMax": 6603
+    },
+    {
+      "Time": "2023-09-29T09:58:20.6224899+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11429,
+      "NumberOfAwardsMax": 6603
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11428,
+  "NumberOfAwards": 11429,
   "NumberOfAwardsMax": 6603,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6591,7 +6597,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 569
+      "Count": 570
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6620,7 +6626,7 @@
   ],
   "EOS_Progressed": 715370,
   "EOS_Completed": 12904,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -21423,9 +21429,9 @@
       "ID": "03_Vengeance_H2",
       "SetID": "adcm20g",
       "Name": "The Hateful Pole Fighter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2146
     },
     {
       "ID": "04_Vengeance_H3",
@@ -21889,7 +21895,7 @@
       "ID": "14c2oii",
       "IsBase": false,
       "Progressed": 24671,
-      "Completed": 10670
+      "Completed": 10671
     },
     {
       "ID": "adcm20g",
@@ -21900,9 +21906,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-28T22:57:52.330245+00:00",
-  "LastChanged_Achievements": "2023-09-29T09:05:22.1306592+00:00",
+  "LastChanged": "2023-09-29T09:58:20.6224898+00:00",
+  "LastChanged_Achievements": "2023-09-29T10:06:29.3481303+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:35.3893321+00:00",
-  "LastUpdate_Ratings": "2023-09-29T08:57:54.7507468+00:00",
-  "LastUpdate_Achievements": "2023-09-29T09:05:22.1307718+00:00"
+  "LastUpdate_Ratings": "2023-09-29T09:58:20.6224903+00:00",
+  "LastUpdate_Achievements": "2023-09-29T10:06:29.34827+00:00"
 }
