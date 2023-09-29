@@ -12665,10 +12665,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884558,
+  "EOS_Progressed": 884587,
   "EOS_Completed": 2464,
-  "EOS_NewPlayers": 6329,
-  "EOS_NewCompleters": 272,
+  "EOS_NewPlayers": 6330,
+  "EOS_NewCompleters": 271,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30835,6 +30835,11 @@
       "Time": "2023-09-29T05:07:16.6570982+00:00",
       "NumProgressed": 884558,
       "NumCompleted": 2464
+    },
+    {
+      "Time": "2023-09-29T06:05:46.9093096+00:00",
+      "NumProgressed": 884587,
+      "NumCompleted": 2464
     }
   ],
   "TotalAchievements": 57,
@@ -30854,7 +30859,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "BushidoAndChill",
@@ -30926,7 +30931,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17691
+      "UsersEstimate": 17692
     },
     {
       "ID": "HandyMan",
@@ -30974,7 +30979,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "MustBeTheRats",
@@ -31020,9 +31025,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7961
+      "UsersEstimate": 8846
     },
     {
       "ID": "Specialist",
@@ -31030,7 +31035,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17691
+      "UsersEstimate": 17692
     },
     {
       "ID": "Temperance",
@@ -31038,7 +31043,7 @@
       "Name": "Temperance",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31046,7 +31051,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17691
+      "UsersEstimate": 17692
     },
     {
       "ID": "TheDevil",
@@ -31054,7 +31059,7 @@
       "Name": "The Devil",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "TheFool",
@@ -31118,7 +31123,7 @@
       "Name": "The World",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "ThisIsPacifica",
@@ -31134,7 +31139,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17691
+      "UsersEstimate": 17692
     },
     {
       "ID": "TrueSoldier",
@@ -31150,7 +31155,7 @@
       "Name": "True Warrior",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31182,7 +31187,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31190,7 +31195,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31301,21 +31306,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884558,
+      "Progressed": 884587,
       "Completed": 2464
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13181,
+      "Progressed": 13210,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-29T02:57:54.9280243+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:07:16.6570977+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:05:46.909309+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:58:32.3700678+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:07:16.6572224+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:57:48.7341763+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:05:46.9094854+00:00"
 }

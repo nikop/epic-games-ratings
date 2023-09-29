@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3192,18 +3192,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4609,
       "NumberOfAwardsMax": 2761
+    },
+    {
+      "Time": "2023-09-29T05:58:29.389474+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4616,
+      "NumberOfAwardsMax": 2768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4609,
-  "NumberOfAwardsMax": 2761,
+  "NumberOfAwards": 4616,
+  "NumberOfAwardsMax": 2768,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2761
+      "Count": 2768
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3260,7 +3266,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72940,
+  "EOS_Progressed": 72941,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 2,
@@ -17000,6 +17006,11 @@
       "Time": "2023-09-29T05:08:22.5861398+00:00",
       "NumProgressed": 72940,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-29T06:08:06.2091965+00:00",
+      "NumProgressed": 72941,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17115,7 +17126,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15317
+      "UsersEstimate": 15318
     },
     {
       "ID": "CLAYFACE_2",
@@ -17243,7 +17254,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15317
+      "UsersEstimate": 15318
     },
     {
       "ID": "FREEZE_2",
@@ -17339,7 +17350,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11670
+      "UsersEstimate": 11671
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -17467,7 +17478,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8023
+      "UsersEstimate": 8024
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -17498,22 +17509,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72940,
+      "Progressed": 72941,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43220,
+      "Progressed": 43221,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-29T04:59:29.7831592+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:08:22.5861393+00:00",
+  "LastChanged": "2023-09-29T05:58:29.3894738+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:08:06.2091959+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:59:29.7831597+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:08:22.5862485+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:58:29.3894745+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:08:06.2093444+00:00"
 }

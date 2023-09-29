@@ -10,6 +10,7 @@
 | You'll Be Fine! | 125.00% | ~5 |
 | Dinosaur's Isle | 100.00% | ~4 |
 | Got Our Water Back! | 50.00% | ~2 |
+| You Just Don't Learn | 50.00% | ~2 |
 | Green, Mean and Edgy | 50.00% | ~2 |
 | Show Off | 50.00% | ~2 |
 | Nothing's Impossible | 50.00% | ~2 |
@@ -18,7 +19,6 @@
 | Out of the Dorms | 25.00% | ~1 |
 | Explored The Labs | 25.00% | ~1 |
 | Bullet Conscious | 25.00% | ~1 |
-| You Just Don't Learn | 25.00% | ~1 |
 | Defence Broken | 25.00% | ~1 |
 | C-C-Combo! | 25.00% | ~1 |
 | Cubes Can Fly | 25.00% | ~1 |

@@ -2,7 +2,7 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 115,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -541,6 +541,11 @@
       "Time": "2023-09-29T05:05:59.3905415+00:00",
       "NumProgressed": 427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T06:04:48.7003916+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -832,7 +837,7 @@
       "Name": "Dash Crash",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "World2Boss",
@@ -840,7 +845,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "World3Boss",
@@ -856,7 +861,7 @@
       "Name": "Hit That Ball",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "World5Boss",
@@ -903,7 +908,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 0
     }
   ],
@@ -911,8 +916,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:05:59.390541+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:04:48.700391+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:57:36.8799386+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:05:59.390572+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:57:09.2326761+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:04:48.7004415+00:00"
 }

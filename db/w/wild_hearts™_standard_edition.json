@@ -386,9 +386,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_17",
@@ -720,8 +720,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:05:45.3611361+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:04:38.1092169+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:57:29.7259834+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:05:45.3611723+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:57:04.0210239+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:04:38.1092677+00:00"
 }

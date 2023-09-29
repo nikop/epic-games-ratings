@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -176,6 +176,11 @@
       "Time": "2023-09-26T05:07:25.9538171+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T06:06:16.7401168+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -226,7 +231,7 @@
       "ID": "DoABarrelRoll",
       "SetID": "d11cl5p",
       "Name": "Do a barrel roll!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -298,7 +303,7 @@
       "ID": "NouveauRiche",
       "SetID": "d11cl5p",
       "Name": "Nouveau riche",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -338,7 +343,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -370,7 +375,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -388,7 +393,7 @@
       "Name": "Taking off",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TheAirportCEO",
@@ -426,7 +431,7 @@
       "ID": "ThereAndBackAgain",
       "SetID": "d11cl5p",
       "Name": "There and back again",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -459,14 +464,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:07:56.0483876+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:06:16.7401163+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.0680354+00:00",
-  "LastUpdate_Ratings": "2023-09-29T05:01:32.9113066+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:07:56.0484081+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:59:57.2580821+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:06:16.7401431+00:00"
 }

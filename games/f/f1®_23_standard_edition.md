@@ -5,23 +5,23 @@ Rating: 4.66 (Ranked 283)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,443 |
-| On the Top Step | 85.00% | ~2,233 |
+| Getting on the Step | 93.00% | ~2,444 |
+| On the Top Step | 85.00% | ~2,234 |
 | Setting up for Success | 73.00% | ~1,918 |
-| Team Orders | 72.00% | ~1,891 |
-| Engineer | 53.00% | ~1,392 |
-| Familiar Faces | 46.00% | ~1,208 |
-| Going the Extra Mile | 41.00% | ~1,077 |
+| Team Orders | 72.00% | ~1,892 |
+| Engineer | 53.00% | ~1,393 |
+| Familiar Faces | 46.00% | ~1,209 |
+| Going the Extra Mile | 40.00% | ~1,051 |
 | Sharing the Love | 37.00% | ~972 |
-| Hitting a Season | 31.00% | ~814 |
+| Hitting a Season | 31.00% | ~815 |
 | Challenge Yourself | 30.00% | ~788 |
 | Making History | 29.00% | ~762 |
 | A Dozen Pieces | 26.00% | ~683 |
 | Spring Cleaning | 22.00% | ~578 |
 | Network Success | 22.00% | ~578 |
 | Writing a new Chapter | 22.00% | ~578 |
+| Ups and Downs | 18.00% | ~473 |
 | Reduce | 17.00% | ~447 |
-| Ups and Downs | 17.00% | ~447 |
 | Crucial Combo | 16.00% | ~420 |
 | Reuse | 15.00% | ~394 |
 | One for the Book | 15.00% | ~394 |
@@ -35,8 +35,8 @@ Rating: 4.66 (Ranked 283)
 | Eagle Eye | 10.00% | ~263 |
 | Switcheroo | 10.00% | ~263 |
 | Recycle | 10.00% | ~263 |
-| Friendly Competition | 9.00% | ~236 |
-| Spinning Around | 9.00% | ~236 |
+| Friendly Competition | 9.00% | ~237 |
+| Spinning Around | 9.00% | ~237 |
 | Undisputed Winner | 8.00% | ~210 |
 | For all Those Back at the Factory | 5.00% | ~131 |
 | Loyal Bond | 5.00% | ~131 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 283)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,627 (Ranked 191)  
+Progressed: 2,628 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 298)
 | 2023-09-26 | 2,256 | 0 |
 | 2023-09-27 | 2,454 | 0 |
 | 2023-09-28 | 2,620 | 0 |
-| 2023-09-29 | 2,627 | 0 |
+| 2023-09-29 | 2,628 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "edge-of-galaxy-092087",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-10T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8352229+00:00",
   "LastChanged": "2023-03-31T05:58:13.835223+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:32.3283925+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:58:21.5844463+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:07:52.4896561+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:57:41.2859047+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:06:14.055404+00:00"
 }

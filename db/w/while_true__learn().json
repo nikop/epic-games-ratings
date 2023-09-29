@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 605204,
+  "EOS_Progressed": 605205,
   "EOS_Completed": 528,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18430,6 +18430,11 @@
       "Time": "2023-09-29T05:07:17.9486191+00:00",
       "NumProgressed": 605204,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2023-09-29T06:05:47.8702721+00:00",
+      "NumProgressed": 605205,
+      "NumCompleted": 528
     }
   ],
   "TotalAchievements": 28,
@@ -18505,7 +18510,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 369174
+      "UsersEstimate": 369175
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -18569,7 +18574,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 562840
+      "UsersEstimate": 562841
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -18617,7 +18622,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 320758
+      "UsersEstimate": 320759
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -18664,15 +18669,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 605204,
+      "Progressed": 605205,
       "Completed": 528
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:07:17.9486186+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:05:47.8702712+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:03.3705841+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:59:01.81281+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:07:17.9487501+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:58:09.303725+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:05:47.8704546+00:00"
 }

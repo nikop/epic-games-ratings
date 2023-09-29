@@ -2,12 +2,12 @@
   "ID": "43605e89e49d438485298819a7ef17b4",
   "Name": "Minit",
   "ProductSlug": "minit",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-04-03T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 104,
   "RatingHistory": [
     {
@@ -296,6 +296,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-29T05:57:02.4724963+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -313,8 +319,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:43.6346922+00:00",
-  "LastChanged": "2023-03-31T05:57:02.7851621+00:00",
+  "LastChanged": "2023-09-29T05:57:02.4724961+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:13.2445235+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:57:27.5687634+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:07:51.7160882+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:57:02.4724966+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:06:13.4757556+00:00"
 }

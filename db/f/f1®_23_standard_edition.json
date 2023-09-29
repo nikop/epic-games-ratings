@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2627,
+  "EOS_Progressed": 2628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1542,
+  "EOS_NewPlayers": 1539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1533,6 +1533,11 @@
       "Time": "2023-09-29T04:04:46.2319483+00:00",
       "NumProgressed": 2627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T06:04:51.8464192+00:00",
+      "NumProgressed": 2628,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -1593,7 +1598,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "achievement_0008",
@@ -1601,7 +1606,7 @@
       "Name": "On the Top Step",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "achievement_0009",
@@ -1665,7 +1670,7 @@
       "Name": "Hitting a Season",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "achievement_0017",
@@ -1705,7 +1710,7 @@
       "Name": "Team Orders",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "achievement_0022",
@@ -1745,7 +1750,7 @@
       "Name": "Friendly Competition",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_0027",
@@ -1761,7 +1766,7 @@
       "Name": "Spinning Around",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_0029",
@@ -1801,7 +1806,7 @@
       "Name": "Engineer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "achievement_0034",
@@ -1823,9 +1828,9 @@
       "ID": "achievement_0036",
       "SetID": "9123ogc",
       "Name": "Ups and Downs",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_0037",
@@ -1881,15 +1886,15 @@
       "Name": "Familiar Faces",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "achievement_0044",
       "SetID": "9123ogc",
       "Name": "Going the Extra Mile",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1051
     },
     {
       "ID": "achievement_0045",
@@ -1936,7 +1941,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2627,
+      "Progressed": 2628,
       "Completed": 0
     }
   ],
@@ -1944,8 +1949,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-09-27T03:02:40.3172582+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:06:03.6488342+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:04:51.8464187+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:14.8933871+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:57:21.761703+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:06:03.6488744+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:56:58.3651794+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:04:51.8464635+00:00"
 }

@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13142,
+  "EOS_Progressed": 13143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1684,
+  "EOS_NewPlayers": 1674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7020,6 +7020,11 @@
       "Time": "2023-09-29T05:03:51.2134986+00:00",
       "NumProgressed": 13142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T06:03:12.6393891+00:00",
+      "NumProgressed": 13143,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7072,7 +7077,7 @@
       "Name": "Doctor Approved",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "15",
@@ -7096,7 +7101,7 @@
       "Name": "Spore Taste",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "18",
@@ -7104,7 +7109,7 @@
       "Name": "Bottoms up!",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "19",
@@ -7174,9 +7179,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1840
     },
     {
       "ID": "27",
@@ -7271,7 +7276,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13142,
+      "Progressed": 13143,
       "Completed": 0
     }
   ],
@@ -7279,8 +7284,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:03:51.2134981+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:03:12.6393884+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:57:45.8612423+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:03:51.2135477+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:57:15.8703835+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:03:12.6394557+00:00"
 }

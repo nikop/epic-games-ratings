@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 333)
 | Fall In Love With A Parasite | 0.00% | ~0 |
 | Meet Frasier from Frasier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,089 (Ranked 115)  
+Progressed: 24,090 (Ranked 115)  
 Completed: 12 (0.05%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 12 (0.05%) (Ranked 258)
 | 2023-09-26 | 24,085 | 12 |
 | 2023-09-27 | 24,086 | 12 |
 | 2023-09-28 | 24,089 | 12 |
+| 2023-09-29 | 24,090 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

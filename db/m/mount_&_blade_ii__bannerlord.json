@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7521,9 +7521,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62310,
+  "EOS_Progressed": 62313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24686,6 +24686,11 @@
       "Time": "2023-09-29T05:06:16.855409+00:00",
       "NumProgressed": 62310,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T06:05:01.6978059+00:00",
+      "NumProgressed": 62313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24697,7 +24702,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7477
+      "UsersEstimate": 7478
     },
     {
       "ID": "Apple of my eye",
@@ -24705,7 +24710,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9346
+      "UsersEstimate": 9347
     },
     {
       "ID": "Bannerlord",
@@ -24713,7 +24718,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14331
+      "UsersEstimate": 14332
     },
     {
       "ID": "Best served cold",
@@ -24753,7 +24758,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "Crackshot",
@@ -24761,7 +24766,7 @@
       "Name": "Crackshot",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Crush your enemies",
@@ -24825,7 +24830,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8100
+      "UsersEstimate": 8101
     },
     {
       "ID": "Great Granny",
@@ -24857,7 +24862,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14331
+      "UsersEstimate": 14332
     },
     {
       "ID": "I can do it",
@@ -24921,7 +24926,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20562
+      "UsersEstimate": 20563
     },
     {
       "ID": "Lawbringer",
@@ -24929,7 +24934,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24301
+      "UsersEstimate": 24302
     },
     {
       "ID": "Lawmaker",
@@ -24937,7 +24942,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14331
+      "UsersEstimate": 14332
     },
     {
       "ID": "Long live the Empire",
@@ -25057,7 +25062,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7477
+      "UsersEstimate": 7478
     },
     {
       "ID": "This is Sparta",
@@ -25073,7 +25078,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14331
+      "UsersEstimate": 14332
     },
     {
       "ID": "Undercover",
@@ -25081,7 +25086,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Veni vidi vici",
@@ -25089,7 +25094,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -25104,15 +25109,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62310,
+      "Progressed": 62313,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-29T04:58:14.4137887+00:00",
-  "LastChanged_Achievements": "2023-09-29T05:06:16.8554085+00:00",
+  "LastChanged_Achievements": "2023-09-29T06:05:01.6978052+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:58:14.4137893+00:00",
-  "LastUpdate_Achievements": "2023-09-29T05:06:16.8555254+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:57:36.3082131+00:00",
+  "LastUpdate_Achievements": "2023-09-29T06:05:01.6979594+00:00"
 }
