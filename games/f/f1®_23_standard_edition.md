@@ -9,10 +9,10 @@ Rating: 4.66 (Ranked 283)
 | On the Top Step | 85.00% | ~2,233 |
 | Setting up for Success | 73.00% | ~1,918 |
 | Team Orders | 72.00% | ~1,891 |
-| Engineer | 52.00% | ~1,366 |
+| Engineer | 53.00% | ~1,392 |
 | Familiar Faces | 46.00% | ~1,208 |
-| Going the Extra Mile | 40.00% | ~1,051 |
-| Sharing the Love | 36.00% | ~946 |
+| Going the Extra Mile | 41.00% | ~1,077 |
+| Sharing the Love | 37.00% | ~972 |
 | Hitting a Season | 31.00% | ~814 |
 | Challenge Yourself | 30.00% | ~788 |
 | Making History | 29.00% | ~762 |

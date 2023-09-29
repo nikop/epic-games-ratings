@@ -2,9 +2,9 @@
   "ID": "4750c68b2bfa4f43933b81cfd5cc510c",
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
-  "Ranking_EOS_Progress": 125,
+  "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18123,
+  "EOS_Progressed": 18341,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17374,
+  "EOS_NewPlayers": 17592,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -862,6 +862,11 @@
       "Time": "2023-09-29T04:05:39.9781464+00:00",
       "NumProgressed": 18123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T05:07:16.1506251+00:00",
+      "NumProgressed": 18341,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -874,7 +879,7 @@
       "Name": "Volta\u0027s best",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_10",
@@ -882,7 +887,7 @@
       "Name": "Surgical Aim",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_11",
@@ -890,7 +895,7 @@
       "Name": "Bullseye",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1100
     },
     {
       "ID": "achievement_12",
@@ -898,7 +903,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8620
     },
     {
       "ID": "achievement_13",
@@ -906,7 +911,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7793
+      "UsersEstimate": 7887
     },
     {
       "ID": "achievement_14",
@@ -914,7 +919,7 @@
       "Name": "The Alchemist",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 7974
+      "UsersEstimate": 8070
     },
     {
       "ID": "achievement_15",
@@ -922,7 +927,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8155
+      "UsersEstimate": 8253
     },
     {
       "ID": "achievement_16",
@@ -930,15 +935,15 @@
       "Name": "Defensive Masterclass",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5074
+      "UsersEstimate": 5135
     },
     {
       "ID": "achievement_17",
       "SetID": "3o4m6ni",
       "Name": "One Moment Please!",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10454
     },
     {
       "ID": "achievement_18",
@@ -946,7 +951,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1651
     },
     {
       "ID": "achievement_19",
@@ -954,7 +959,7 @@
       "Name": "Seasoned Veteran",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_2",
@@ -962,7 +967,7 @@
       "Name": "Teamwork works",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_20",
@@ -976,17 +981,17 @@
       "ID": "achievement_21",
       "SetID": "3o4m6ni",
       "Name": "We\u0027re in the Game!",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 16492
+      "UsersEstimate": 16507
     },
     {
       "ID": "achievement_22",
       "SetID": "3o4m6ni",
       "Name": "Level Up!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 9062
+      "UsersEstimate": 8987
     },
     {
       "ID": "achievement_23",
@@ -994,7 +999,7 @@
       "Name": "Graduation Day",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 7612
+      "UsersEstimate": 7703
     },
     {
       "ID": "achievement_24",
@@ -1018,7 +1023,7 @@
       "Name": "We\u0027re Going Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_27",
@@ -1032,9 +1037,9 @@
       "ID": "achievement_28",
       "SetID": "3o4m6ni",
       "Name": "First of Many",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1284
     },
     {
       "ID": "achievement_29",
@@ -1058,7 +1063,7 @@
       "Name": "Make the Grade",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_31",
@@ -1074,7 +1079,7 @@
       "Name": "Precious Advice",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_33",
@@ -1090,7 +1095,7 @@
       "Name": "Fashion Icon",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 550
     },
     {
       "ID": "achievement_35",
@@ -1098,7 +1103,7 @@
       "Name": "Golden Generation",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 725
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_36",
@@ -1106,7 +1111,7 @@
       "Name": "An ace up your sleeve",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 544
+      "UsersEstimate": 550
     },
     {
       "ID": "achievement_37",
@@ -1114,7 +1119,7 @@
       "Name": "Do Your Homework",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_38",
@@ -1122,7 +1127,7 @@
       "Name": "European Legend",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 550
     },
     {
       "ID": "achievement_39",
@@ -1130,7 +1135,7 @@
       "Name": "Best of Five",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_4",
@@ -1138,7 +1143,7 @@
       "Name": "Shop till you drop",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_40",
@@ -1152,17 +1157,17 @@
       "ID": "achievement_5",
       "SetID": "3o4m6ni",
       "Name": "On the way up",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_6",
       "SetID": "3o4m6ni",
       "Name": "Dead-ball specialist",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 7249
+      "UsersEstimate": 7153
     },
     {
       "ID": "achievement_7",
@@ -1170,7 +1175,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4218
     },
     {
       "ID": "achievement_8",
@@ -1178,7 +1183,7 @@
       "Name": "Power Shot",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 11961
+      "UsersEstimate": 12105
     },
     {
       "ID": "achievement_9",
@@ -1186,21 +1191,21 @@
       "Name": "Bring it on",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3987
+      "UsersEstimate": 4035
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 18123,
+      "Progressed": 18341,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged_Achievements": "2023-09-29T04:05:39.9781461+00:00",
+  "LastChanged_Achievements": "2023-09-29T05:07:16.1506246+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:03.0722794+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:00:07.6016496+00:00",
-  "LastUpdate_Achievements": "2023-09-29T04:05:39.978183+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:01:50.6318135+00:00",
+  "LastUpdate_Achievements": "2023-09-29T05:07:16.1506546+00:00"
 }

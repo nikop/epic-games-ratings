@@ -1,13 +1,13 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 490)  
+Rating: 4.54 (Ranked 512)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~4,816 |
 | Greasy Palms | 42.00% | ~4,397 |
-| South American Connection | 25.00% | ~2,617 |
+| South American Connection | 25.00% | ~2,618 |
 | Life of the Party | 20.00% | ~2,094 |
 | Big Heat from Little Havana | 15.00% | ~1,570 |
 | Chauffeur | 15.00% | ~1,570 |
@@ -19,8 +19,8 @@ Rating: 4.55 (Ranked 490)
 | Vice City Mogul | 7.00% | ~733 |
 | Catch Me if You Can | 6.00% | ~628 |
 | Bloodstained Hands | 6.00% | ~628 |
-| Not my First Time | 5.00% | ~523 |
-| Grand Theft Auto | 5.00% | ~523 |
+| Not my First Time | 5.00% | ~524 |
+| Grand Theft Auto | 5.00% | ~524 |
 | Pie Guy | 4.00% | ~419 |
 | Running Rampant | 3.00% | ~314 |
 | Point A to Point B | 3.00% | ~314 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 490)
 | Done it All | 0.90% | ~94 |
 | Kingpin | 0.60% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,469 (Ranked 139)  
+Progressed: 10,470 (Ranked 139)  
 Completed: 58 (0.55%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 58 (0.55%) (Ranked 160)
 | 2023-09-26 | 10,408 | 58 |
 | 2023-09-27 | 10,439 | 58 |
 | 2023-09-28 | 10,467 | 58 |
-| 2023-09-29 | 10,469 | 58 |
+| 2023-09-29 | 10,470 | 58 |
 ## Awards
 Max (Great Boss Battles): 84  (Ranked 363)  
 Sum: 84 (Ranked 432)  
@@ -325,3 +325,4 @@ Diff (max vs sum): -69
 | 2023-09-26 | 4.54 | 83 | 83 |
 | 2023-09-27 | 4.55 | 83 | 83 |
 | 2023-09-28 | 4.55 | 84 | 84 |
+| 2023-09-29 | 4.54 | 84 | 84 |

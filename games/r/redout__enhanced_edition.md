@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,327 |
 | ACE | 0.80% | ~1,862 |
 | TACTICIAN | 0.60% | ~1,396 |
-| GTX COMPETIZIONE | 0.50% | ~1,163 |
-| HIDDEN POWER | 0.50% | ~1,163 |
-| TUNING MANIAC | 0.50% | ~1,163 |
+| GTX COMPETIZIONE | 0.50% | ~1,164 |
+| HIDDEN POWER | 0.50% | ~1,164 |
+| TUNING MANIAC | 0.50% | ~1,164 |
 | DRAGOON | 0.40% | ~931 |
 | FLAWLESS | 0.40% | ~931 |
 | BETTER THAN EVER | 0.20% | ~465 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~465 |
 | ENLIGHTENED | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,699 (Ranked 55)  
+Progressed: 232,700 (Ranked 55)  
 Completed: 47 (0.02%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 47 (0.02%) (Ranked 273)
 | 2023-09-26 | 232,567 | 47 |
 | 2023-09-27 | 232,627 | 47 |
 | 2023-09-28 | 232,687 | 47 |
-| 2023-09-29 | 232,699 | 47 |
+| 2023-09-29 | 232,700 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

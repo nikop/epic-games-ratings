@@ -184,9 +184,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achSponsorMain1",
@@ -310,8 +310,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-09-29T04:03:07.2981338+00:00",
+  "LastChanged_Achievements": "2023-09-29T05:03:48.7125596+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-09-29T03:57:19.9761149+00:00",
-  "LastUpdate_Achievements": "2023-09-29T04:03:07.2981526+00:00"
+  "LastUpdate_Ratings": "2023-09-29T04:57:46.318691+00:00",
+  "LastUpdate_Achievements": "2023-09-29T05:03:48.7125766+00:00"
 }

@@ -12665,10 +12665,10 @@
       "Count": 6944
     }
   ],
-  "EOS_Progressed": 884522,
+  "EOS_Progressed": 884558,
   "EOS_Completed": 2464,
-  "EOS_NewPlayers": 6323,
-  "EOS_NewCompleters": 277,
+  "EOS_NewPlayers": 6329,
+  "EOS_NewCompleters": 272,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30830,6 +30830,11 @@
       "Time": "2023-09-29T04:05:40.3678313+00:00",
       "NumProgressed": 884522,
       "NumCompleted": 2464
+    },
+    {
+      "Time": "2023-09-29T05:07:16.6570982+00:00",
+      "NumProgressed": 884558,
+      "NumCompleted": 2464
     }
   ],
   "TotalAchievements": 57,
@@ -30865,7 +30870,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "Denied",
@@ -30873,7 +30878,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "FollowingTheRiver",
@@ -30921,7 +30926,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17691
     },
     {
       "ID": "HandyMan",
@@ -30929,7 +30934,7 @@
       "Name": "Master Crafter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "IAmMaxTac",
@@ -30945,7 +30950,7 @@
       "Name": "Mean Streets",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "LittleTokyo",
@@ -30985,7 +30990,7 @@
       "Name": "Breathtaking",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "NoMansLand",
@@ -31025,7 +31030,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17691
     },
     {
       "ID": "Temperance",
@@ -31041,7 +31046,7 @@
       "Name": "Rough Landing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17691
     },
     {
       "ID": "TheDevil",
@@ -31073,7 +31078,7 @@
       "Name": "The High Priestess",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "TheLovers",
@@ -31129,7 +31134,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17691
     },
     {
       "ID": "TrueSoldier",
@@ -31137,7 +31142,7 @@
       "Name": "True Soldier",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "TrueWarrior",
@@ -31153,7 +31158,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "UnderPressure",
@@ -31169,7 +31174,7 @@
       "Name": "V for Vendetta",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "YipMan",
@@ -31296,21 +31301,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 884522,
+      "Progressed": 884558,
       "Completed": 2464
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13145,
+      "Progressed": 13181,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-29T02:57:54.9280243+00:00",
-  "LastChanged_Achievements": "2023-09-29T04:05:40.367831+00:00",
+  "LastChanged_Achievements": "2023-09-29T05:07:16.6570977+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T03:57:51.3876425+00:00",
-  "LastUpdate_Achievements": "2023-09-29T04:05:40.3679865+00:00"
+  "LastUpdate_Ratings": "2023-09-29T04:58:32.3700678+00:00",
+  "LastUpdate_Achievements": "2023-09-29T05:07:16.6572224+00:00"
 }

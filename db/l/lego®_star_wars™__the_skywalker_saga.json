@@ -3314,9 +3314,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51759,
+  "EOS_Progressed": 51760,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -12469,6 +12469,11 @@
       "Time": "2023-09-29T01:46:31.8616274+00:00",
       "NumProgressed": 51759,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-29T05:05:35.3162056+00:00",
+      "NumProgressed": 51760,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12600,7 +12605,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 23809
+      "UsersEstimate": 23810
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -12616,7 +12621,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24844
+      "UsersEstimate": 24845
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -12720,7 +12725,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30020
+      "UsersEstimate": 30021
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12744,7 +12749,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50206
+      "UsersEstimate": 50207
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12784,7 +12789,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36749
+      "UsersEstimate": 36750
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -12816,7 +12821,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27432
+      "UsersEstimate": 27433
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -12832,22 +12837,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37266
+      "UsersEstimate": 37267
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51759,
+      "Progressed": 51760,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-28T17:01:48.5338481+00:00",
-  "LastChanged_Achievements": "2023-09-29T04:04:25.2870621+00:00",
+  "LastChanged_Achievements": "2023-09-29T05:05:35.3162052+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.4035697+00:00",
-  "LastUpdate_Ratings": "2023-09-29T04:00:03.0302414+00:00",
-  "LastUpdate_Achievements": "2023-09-29T04:04:25.2871543+00:00"
+  "LastUpdate_Ratings": "2023-09-29T05:01:44.6135537+00:00",
+  "LastUpdate_Achievements": "2023-09-29T05:05:35.3162963+00:00"
 }

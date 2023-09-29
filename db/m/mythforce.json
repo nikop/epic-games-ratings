@@ -707,9 +707,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3360,
+  "EOS_Progressed": 3362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5962,6 +5962,11 @@
       "Time": "2023-09-29T04:05:43.6322175+00:00",
       "NumProgressed": 3360,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T05:07:21.0306417+00:00",
+      "NumProgressed": 3362,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -5974,7 +5979,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -6157,15 +6162,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3360,
+      "Progressed": 3362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-29T02:58:03.714016+00:00",
-  "LastChanged_Achievements": "2023-09-29T04:05:43.6322172+00:00",
+  "LastChanged_Achievements": "2023-09-29T05:07:21.0306408+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-29T03:58:00.4897012+00:00",
-  "LastUpdate_Achievements": "2023-09-29T04:05:43.6322714+00:00"
+  "LastUpdate_Ratings": "2023-09-29T04:58:44.4969693+00:00",
+  "LastUpdate_Achievements": "2023-09-29T05:07:21.0306782+00:00"
 }

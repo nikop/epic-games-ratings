@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gunslinger | 2.00% | ~17,690 |
-| Ten out of Ten | 2.00% | ~17,690 |
-| Rough Landing | 2.00% | ~17,690 |
-| The Jungle | 2.00% | ~17,690 |
-| Full Body Conversion | 1.00% | ~8,845 |
-| Right Back At Ya | 1.00% | ~8,845 |
-| Master Crafter | 1.00% | ~8,845 |
-| Mean Streets | 1.00% | ~8,845 |
-| Breathtaking | 1.00% | ~8,845 |
-| The High Priestess | 1.00% | ~8,845 |
-| True Soldier | 1.00% | ~8,845 |
-| Two Heads, One Bullet | 1.00% | ~8,845 |
-| V for Vendetta | 1.00% | ~8,845 |
+| Gunslinger | 2.00% | ~17,691 |
+| Ten out of Ten | 2.00% | ~17,691 |
+| Rough Landing | 2.00% | ~17,691 |
+| The Jungle | 2.00% | ~17,691 |
+| Full Body Conversion | 1.00% | ~8,846 |
+| Right Back At Ya | 1.00% | ~8,846 |
+| Master Crafter | 1.00% | ~8,846 |
+| Mean Streets | 1.00% | ~8,846 |
+| Breathtaking | 1.00% | ~8,846 |
+| The High Priestess | 1.00% | ~8,846 |
+| True Soldier | 1.00% | ~8,846 |
+| Two Heads, One Bullet | 1.00% | ~8,846 |
+| V for Vendetta | 1.00% | ~8,846 |
 | Stanislavski's Method | 0.90% | ~7,961 |
 | The Hermit | 0.90% | ~7,961 |
 | The Wheel of Fortune | 0.90% | ~7,961 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 884,522 (Ranked 15)  
+Progressed: 884,558 (Ranked 15)  
 Completed: 2,464 (0.28%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2,464 (0.28%) (Ranked 201)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 884,522 | 2,464 |
+| 2023-09-29 | 884,558 | 2,464 |
 ## Awards
 Max (Character Customization): 85,114  (Ranked 9)  
 Sum: 236,829 (Ranked 13)  

@@ -5,44 +5,44 @@ Rating: 4.18 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,927 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,528 |
-| Loose Ends | 34.00% | ~24,799 |
-| To the Victor Go the Spoils | 29.00% | ~21,152 |
-| Knighthood | 28.00% | ~20,422 |
-| Get ReQ'd | 25.00% | ~18,234 |
-| Whispered Words | 25.00% | ~18,234 |
+| First Step Into the Knight | 52.00% | ~37,929 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,529 |
+| Loose Ends | 34.00% | ~24,800 |
+| To the Victor Go the Spoils | 29.00% | ~21,153 |
+| Knighthood | 28.00% | ~20,423 |
+| Get ReQ'd | 25.00% | ~18,235 |
+| Whispered Words | 25.00% | ~18,235 |
 | The Batman Family | 23.00% | ~16,776 |
 | Lock and Key | 23.00% | ~16,776 |
 | Something in the Clay | 21.00% | ~15,317 |
 | Quartzer Life Crisis | 21.00% | ~15,317 |
-| Working Hard or Harley Working? | 20.00% | ~14,587 |
-| Unstoppable Force | 20.00% | ~14,587 |
-| Bad Apples in Every Orchard | 20.00% | ~14,587 |
-| Snow Problem | 19.00% | ~13,858 |
+| Working Hard or Harley Working? | 20.00% | ~14,588 |
+| Unstoppable Force | 20.00% | ~14,588 |
+| Bad Apples in Every Orchard | 20.00% | ~14,588 |
+| Snow Problem | 19.00% | ~13,859 |
 | The Show Mud Go On | 18.00% | ~13,129 |
 | From Inside Gotham's Walls | 18.00% | ~13,129 |
-| Protector of Gotham | 17.00% | ~12,399 |
+| Protector of Gotham | 17.00% | ~12,400 |
 | Universal Health Scare | 16.00% | ~11,670 |
 | In Your Element | 15.00% | ~10,941 |
 | Voiceless | 15.00% | ~10,941 |
-| Rock and a Hard Place | 14.00% | ~10,211 |
-| Cooldown | 14.00% | ~10,211 |
-| Seeking Asylum | 14.00% | ~10,211 |
+| Rock and a Hard Place | 14.00% | ~10,212 |
+| Cooldown | 14.00% | ~10,212 |
+| Seeking Asylum | 14.00% | ~10,212 |
 | Not On My Watch | 13.00% | ~9,482 |
 | Shock Til They Drop | 13.00% | ~9,482 |
-| End of an Era | 12.00% | ~8,752 |
-| Bulldozed | 12.00% | ~8,752 |
-| Gotham Knight | 12.00% | ~8,752 |
+| End of an Era | 12.00% | ~8,753 |
+| Bulldozed | 12.00% | ~8,753 |
+| Gotham Knight | 12.00% | ~8,753 |
 | Gotham City Confidential | 11.00% | ~8,023 |
 | Drone You Out | 10.00% | ~7,294 |
-| Out of Their League | 9.00% | ~6,564 |
-| Solid Alibi | 9.00% | ~6,564 |
+| Out of Their League | 9.00% | ~6,565 |
+| Solid Alibi | 9.00% | ~6,565 |
 | Fusion Expert | 7.00% | ~5,106 |
 | Family Meeting | 6.00% | ~4,376 |
 | A Worthy Successor | 6.00% | ~4,376 |
 | Expert Crime Fighter | 5.00% | ~3,647 |
-| Dressed to Impress | 4.00% | ~2,917 |
+| Dressed to Impress | 4.00% | ~2,918 |
 | A Momentum Occasion | 3.00% | ~2,188 |
 | Bat Out of Hell | 3.00% | ~2,188 |
 | Practice Makes Perfect | 2.00% | ~1,459 |
@@ -52,7 +52,7 @@ Rating: 4.18 (Ranked 895)
 | Batarang Collector | 1.00% | ~729 |
 | Claiming the Mural High Ground | 1.00% | ~729 |
 | Icebreaker | 0.80% | ~346 |
-| History Major | 0.80% | ~583 |
+| History Major | 0.80% | ~584 |
 | A Sophisticated Mallet | 0.80% | ~346 |
 | Read Owl About It | 0.70% | ~511 |
 | Gotham's Greatest Depths | 0.60% | ~259 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 895)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,937 (Ranked 85)  
+Progressed: 72,940 (Ranked 85)  
 Completed: 118 (0.16%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,16 +229,16 @@ Completed: 118 (0.16%) (Ranked 220)
 | 2023-09-26 | 72,863 | 118 |
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
-| 2023-09-29 | 72,937 | 118 |
+| 2023-09-29 | 72,940 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,761  (Ranked 96)  
-Sum: 4,608 (Ranked 140)  
+Sum: 4,609 (Ranked 140)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,761 |
+| This game is Relaxing | 237 |
 | This game has Quickly Understood Controls | 236 |
-| This game is Relaxing | 236 |
 | This game is Extremely Fun | 236 |
 | This game has Diverse Characters | 230 |
 | This game is Highly Recommended | 229 |
@@ -465,4 +465,4 @@ Diff (max vs sum): -44
 | 2023-09-26 | 4.18 | 2,755 | 4,589 |
 | 2023-09-27 | 4.18 | 2,761 | 4,602 |
 | 2023-09-28 | 4.19 | 2,761 | 4,605 |
-| 2023-09-29 | 4.18 | 2,761 | 4,608 |
+| 2023-09-29 | 4.18 | 2,761 | 4,609 |
