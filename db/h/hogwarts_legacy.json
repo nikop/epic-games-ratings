@@ -8274,9 +8274,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297519,
+  "EOS_Progressed": 297522,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25779,6 +25779,11 @@
       "Time": "2023-09-29T19:03:40.4944453+00:00",
       "NumProgressed": 297519,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-29T20:03:12.5620448+00:00",
+      "NumProgressed": 297522,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25854,7 +25859,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20826
+      "UsersEstimate": 20827
     },
     {
       "ID": "PFA_18",
@@ -25910,7 +25915,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35702
+      "UsersEstimate": 35703
     },
     {
       "ID": "PFA_24",
@@ -26118,7 +26123,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38677
+      "UsersEstimate": 38678
     },
     {
       "ID": "PFA_7",
@@ -26126,7 +26131,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38677
+      "UsersEstimate": 38678
     },
     {
       "ID": "PFA_8",
@@ -26149,7 +26154,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297519,
+      "Progressed": 297522,
       "Completed": 478
     }
   ],
@@ -26157,8 +26162,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-29T16:57:34.1234565+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:03:40.4944447+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:03:12.5620441+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:57:54.8316708+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:03:40.4945897+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:57:37.3328288+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:03:12.5622193+00:00"
 }

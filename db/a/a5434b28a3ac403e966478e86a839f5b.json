@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 80,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -552,6 +552,11 @@
       "Time": "2023-09-29T18:05:01.9925577+00:00",
       "NumProgressed": 274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T20:04:14.2028998+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -564,7 +569,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_eou1",
@@ -572,7 +577,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_eou2",
@@ -586,9 +591,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_eou4",
@@ -667,14 +672,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:04:41.6594808+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:04:14.2028991+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-09-29T19:00:13.7242037+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:04:41.6594942+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:59:56.8052833+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:04:14.2029128+00:00"
 }

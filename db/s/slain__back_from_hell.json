@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37500,
+  "EOS_Progressed": 37503,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18028,6 +18028,11 @@
       "Time": "2023-09-29T19:04:10.2543223+00:00",
       "NumProgressed": 37500,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-29T20:03:42.6051698+00:00",
+      "NumProgressed": 37503,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18047,7 +18052,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7500
+      "UsersEstimate": 7501
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18143,7 +18148,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -18215,7 +18220,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -18223,7 +18228,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -18231,7 +18236,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -18239,7 +18244,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -18270,7 +18275,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37500,
+      "Progressed": 37503,
       "Completed": 25
     }
   ],
@@ -18278,8 +18283,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:04:10.2543217+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:03:42.6051691+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:47.3776756+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:59:59.8658545+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:04:10.2544517+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:59:42.7321071+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:03:42.6052971+00:00"
 }

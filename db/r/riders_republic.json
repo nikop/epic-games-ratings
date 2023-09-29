@@ -3,12 +3,12 @@
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 140,
-  "Ranking_Popularity": 184,
+  "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
     "PcReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -7588,11 +7588,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 6415,
       "NumberOfAwardsMax": 637
+    },
+    {
+      "Time": "2023-09-29T19:58:34.2801768+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6421,
+      "NumberOfAwardsMax": 643
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6415,
-  "NumberOfAwardsMax": 637,
+  "NumberOfAwards": 6421,
+  "NumberOfAwardsMax": 643,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -7647,7 +7653,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 637
+      "Count": 643
     },
     {
       "Text": "This game is Educational",
@@ -7685,8 +7691,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-09-29T18:58:53.1449994+00:00",
+  "LastChanged": "2023-09-29T19:58:34.2801766+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:04.2831526+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:58:53.1450002+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:03:17.8785686+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:58:34.2801774+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:02:20.1887118+00:00"
 }

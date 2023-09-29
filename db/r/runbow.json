@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249799,
+  "EOS_Progressed": 249802,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15279,6 +15279,11 @@
       "Time": "2023-09-29T19:05:50.5155846+00:00",
       "NumProgressed": 249799,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-29T20:05:21.8549434+00:00",
+      "NumProgressed": 249802,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15466,7 +15471,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132393
+      "UsersEstimate": 132395
     },
     {
       "ID": "indegestible",
@@ -15490,7 +15495,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64948
+      "UsersEstimate": 64949
     },
     {
       "ID": "justABit",
@@ -15520,9 +15525,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 34972
+      "UsersEstimate": 37470
     },
     {
       "ID": "myFirstRunbow",
@@ -15530,7 +15535,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124900
+      "UsersEstimate": 124901
     },
     {
       "ID": "notScared",
@@ -15657,7 +15662,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249799,
+      "Progressed": 249802,
       "Completed": 6
     }
   ],
@@ -15665,8 +15670,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:05:50.5155841+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:05:21.8549431+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:08.1432168+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:59:25.466635+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:05:50.5157162+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:59:07.5987201+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:05:21.855073+00:00"
 }

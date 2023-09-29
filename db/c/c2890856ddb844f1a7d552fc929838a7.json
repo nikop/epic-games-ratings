@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1903,9 +1903,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 517
+      "UsersEstimate": 526
     },
     {
       "ID": "AC08",
@@ -2224,8 +2224,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:04:10.9938703+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:03:43.3173965+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:02:06.4686872+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:04:10.9939195+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:57:01.4983348+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:03:43.3174466+00:00"
 }

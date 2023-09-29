@@ -1817,9 +1817,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 252
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1889,17 +1889,17 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "Drunkard",
@@ -1929,9 +1929,9 @@
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 179
     },
     {
       "ID": "FerrymanBird",
@@ -1977,17 +1977,17 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 248
     },
     {
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 193
     },
     {
       "ID": "PitSoul",
@@ -2089,9 +2089,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 376
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2129,9 +2129,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 193
     },
     {
       "ID": "WormGrilled",
@@ -2152,8 +2152,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:03:42.2767555+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:03:14.3240646+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:57:24.9923873+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:03:42.2768047+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:57:07.6819371+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:03:14.324118+00:00"
 }

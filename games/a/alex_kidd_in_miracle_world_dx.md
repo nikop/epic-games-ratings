@@ -21,8 +21,8 @@
 | Stingy | 2.00% | ~6 |
 | Collector | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 305)  
-Completed: 4 (1.34%) (Ranked 121)  
+Progressed: 300 (Ranked 304)  
+Completed: 4 (1.33%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,6 +76,7 @@ Completed: 4 (1.34%) (Ranked 121)
 | 2023-09-16 | 297 | 4 |
 | 2023-09-24 | 298 | 4 |
 | 2023-09-27 | 299 | 4 |
+| 2023-09-29 | 300 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

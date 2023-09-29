@@ -6,29 +6,29 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~720,222 |
-| The Blues | 85.00% | ~618,372 |
-| Fast | 66.00% | ~480,148 |
-| Healthbar | 55.00% | ~400,123 |
-| Force Cube | 53.00% | ~385,573 |
-| Double Jump | 48.00% | ~349,199 |
-| Regeneration | 47.00% | ~341,924 |
-| Triple Jump | 43.00% | ~312,824 |
-| Climb the hill | 42.00% | ~305,549 |
-| Through the fire pipe | 39.00% | ~283,724 |
-| MacGuffin | 38.00% | ~276,449 |
-| Just once | 37.00% | ~269,174 |
-| Armor | 30.00% | ~218,249 |
-| True holy spirit | 28.00% | ~203,699 |
-| That's how electronics work obviously | 27.00% | ~196,424 |
-| Force Cube Catapult | 25.00% | ~181,874 |
-| Holy Sword | 23.00% | ~167,324 |
-| Telefrag | 23.00% | ~167,324 |
-| Freed from prison | 21.00% | ~152,774 |
-| Stomp | 21.00% | ~152,774 |
-| Double Health | 18.00% | ~130,949 |
-| Buckle | 17.00% | ~123,674 |
-| Green Keycard | 17.00% | ~123,674 |
+| Out of bed | 99.00% | ~720,228 |
+| The Blues | 85.00% | ~618,378 |
+| Fast | 66.00% | ~480,152 |
+| Healthbar | 55.00% | ~400,127 |
+| Force Cube | 53.00% | ~385,577 |
+| Double Jump | 48.00% | ~349,201 |
+| Regeneration | 47.00% | ~341,926 |
+| Triple Jump | 43.00% | ~312,826 |
+| Climb the hill | 42.00% | ~305,551 |
+| Through the fire pipe | 39.00% | ~283,726 |
+| MacGuffin | 38.00% | ~276,451 |
+| Just once | 37.00% | ~269,176 |
+| Armor | 30.00% | ~218,251 |
+| True holy spirit | 28.00% | ~203,701 |
+| That's how electronics work obviously | 27.00% | ~196,426 |
+| Force Cube Catapult | 25.00% | ~181,876 |
+| Holy Sword | 23.00% | ~167,326 |
+| Telefrag | 23.00% | ~167,326 |
+| Freed from prison | 21.00% | ~152,776 |
+| Stomp | 21.00% | ~152,776 |
+| Double Health | 18.00% | ~130,951 |
+| Buckle | 17.00% | ~123,676 |
+| Green Keycard | 17.00% | ~123,676 |
 | All Shells | 15.00% | ~109,125 |
 | Rattle Hag | 15.00% | ~109,125 |
 | Beam | 14.00% | ~101,850 |
@@ -66,24 +66,24 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,275 |
 | Jesus Christ Suprastar | 1.00% | ~7,275 |
 | Redstone Pickaxe | 1.00% | ~7,275 |
-| DLC: Green Bird | 0.50% | ~3,637 |
-| DLC: Basement Robbery | 0.50% | ~3,637 |
-| DLC: Rooftop Chase | 0.50% | ~3,637 |
-| DLC: Home Invasion | 0.50% | ~3,637 |
-| DLC: The palace job | 0.50% | ~3,637 |
-| DLC: Crashed again | 0.50% | ~3,637 |
-| DLC: Crashed again (again) | 0.50% | ~3,637 |
-| DLC: Crashed | 0.50% | ~3,637 |
-| DLC: Discovering the Globe | 0.50% | ~3,637 |
-| DLC: Gotta Jump High | 0.50% | ~3,637 |
-| DLC: Gotta Run Fast | 0.50% | ~3,637 |
-| DLC: Monster Maker | 0.50% | ~3,637 |
-| DLC: Obvious Area | 0.50% | ~3,637 |
-| DLC: Race the First | 0.50% | ~3,637 |
-| DLC: No-ball Winner | 0.50% | ~3,637 |
-| DLC: Finding Sideburg | 0.50% | ~3,637 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,637 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,637 |
+| DLC: Green Bird | 0.50% | ~3,638 |
+| DLC: Basement Robbery | 0.50% | ~3,638 |
+| DLC: Rooftop Chase | 0.50% | ~3,638 |
+| DLC: Home Invasion | 0.50% | ~3,638 |
+| DLC: The palace job | 0.50% | ~3,638 |
+| DLC: Crashed again | 0.50% | ~3,638 |
+| DLC: Crashed again (again) | 0.50% | ~3,638 |
+| DLC: Crashed | 0.50% | ~3,638 |
+| DLC: Discovering the Globe | 0.50% | ~3,638 |
+| DLC: Gotta Jump High | 0.50% | ~3,638 |
+| DLC: Gotta Run Fast | 0.50% | ~3,638 |
+| DLC: Monster Maker | 0.50% | ~3,638 |
+| DLC: Obvious Area | 0.50% | ~3,638 |
+| DLC: Race the First | 0.50% | ~3,638 |
+| DLC: No-ball Winner | 0.50% | ~3,638 |
+| DLC: Finding Sideburg | 0.50% | ~3,638 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,638 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,638 |
 | DLC: A Criminal Revealed | 0.40% | ~2,910 |
 | DLC: Crashed for the final time! | 0.40% | ~2,910 |
 | DLC: Crashed for the final time (again) | 0.40% | ~2,910 |
@@ -95,17 +95,17 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Thrown | 0.40% | ~2,910 |
 | DLC: To the House | 0.40% | ~2,910 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,910 |
-| DLC: Birds | 0.30% | ~2,182 |
-| DLC: Horticultural | 0.30% | ~2,182 |
-| DLC: Non-NPC | 0.30% | ~2,182 |
+| DLC: Birds | 0.30% | ~2,183 |
+| DLC: Horticultural | 0.30% | ~2,183 |
+| DLC: Non-NPC | 0.30% | ~2,183 |
 | DLC: The Giant's Workshop | 0.20% | ~1,455 |
 | DLC: Invisible Wall | 0.20% | ~1,455 |
 | DLC: A good cause! | 0.20% | ~1,455 |
 | DLC: Shady stick | 0.20% | ~1,455 |
-| DLC: There he is! | 0.10% | ~727 |
-| DLC: Top of the world | 0.10% | ~727 |
+| DLC: There he is! | 0.10% | ~728 |
+| DLC: Top of the world | 0.10% | ~728 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727,497 (Ranked 19)  
+Progressed: 727,503 (Ranked 19)  
 Completed: 741 (0.10%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 741 (0.10%) (Ranked 238)
 | 2023-09-26 | 727,218 | 739 |
 | 2023-09-27 | 727,319 | 739 |
 | 2023-09-28 | 727,400 | 740 |
-| 2023-09-29 | 727,497 | 741 |
+| 2023-09-29 | 727,503 | 741 |
 ## Awards
 Max (Challenging Puzzles): 7,693  (Ranked 47)  
 Sum: 10,029 (Ranked 88)  

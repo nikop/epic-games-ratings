@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -700,9 +700,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:05:33.9169087+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:05:05.534617+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:57:36.9083884+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:05:33.9169292+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:57:19.2168061+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:05:05.5346345+00:00"
 }

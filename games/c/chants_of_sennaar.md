@@ -8,11 +8,11 @@
 | Welcome to the Tower | 53.00% | ~121 |
 | The great escape | 48.00% | ~110 |
 | The Preacher's fate | 45.00% | ~103 |
-| A new dawn | 41.00% | ~94 |
-| Scholar | 40.00% | ~92 |
+| A new dawn | 42.00% | ~96 |
+| Scholar | 41.00% | ~94 |
 | The darkness | 39.00% | ~89 |
+| True G4M3R | 38.00% | ~87 |
 | A good beginning | 37.00% | ~85 |
-| True G4M3R | 37.00% | ~85 |
 | One last step | 35.00% | ~80 |
 | Cable guy | 33.00% | ~76 |
 | Champollion | 33.00% | ~76 |

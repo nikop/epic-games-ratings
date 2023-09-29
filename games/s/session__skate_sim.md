@@ -1,14 +1,14 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 222)  
+Rating: 4.69 (Ranked 221)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,787 |
-| Keeping it classy | 27.00% | ~804 |
-| Welcome to the family | 22.00% | ~655 |
+| You're free now! | 60.00% | ~1,788 |
+| Keeping it classy | 27.00% | ~805 |
+| Welcome to the family | 22.00% | ~656 |
 | The finer things in life | 19.00% | ~566 |
 | Backpacker | 14.00% | ~417 |
 | Go with the Flow | 13.00% | ~387 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,979 (Ranked 188)  
+Progressed: 2,980 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 2,954 | 0 |
 | 2023-09-27 | 2,965 | 0 |
 | 2023-09-28 | 2,978 | 0 |
-| 2023-09-29 | 2,979 | 0 |
+| 2023-09-29 | 2,980 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
 Sum: 474 (Ranked 311)  

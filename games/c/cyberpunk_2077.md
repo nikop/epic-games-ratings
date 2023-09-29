@@ -1,37 +1,37 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 335)  
+Rating: 4.63 (Ranked 334)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,556 |
-| Rough Landing | 3.00% | ~26,556 |
-| Gunslinger | 2.00% | ~17,704 |
-| Master Crafter | 2.00% | ~17,704 |
-| The Jungle | 2.00% | ~17,704 |
+| Ten out of Ten | 3.00% | ~26,557 |
+| Rough Landing | 3.00% | ~26,557 |
+| Gunslinger | 2.00% | ~17,705 |
+| Master Crafter | 2.00% | ~17,705 |
+| The Jungle | 2.00% | ~17,705 |
+| V for Vendetta | 2.00% | ~17,705 |
 | Full Body Conversion | 1.00% | ~8,852 |
 | Right Back At Ya | 1.00% | ~8,852 |
 | Mean Streets | 1.00% | ~8,852 |
 | Breathtaking | 1.00% | ~8,852 |
 | Stanislavski's Method | 1.00% | ~8,852 |
+| Temperance | 1.00% | ~8,852 |
 | The Hermit | 1.00% | ~8,852 |
 | The High Priestess | 1.00% | ~8,852 |
 | The Wheel of Fortune | 1.00% | ~8,852 |
 | True Soldier | 1.00% | ~8,852 |
 | True Warrior | 1.00% | ~8,852 |
 | Two Heads, One Bullet | 1.00% | ~8,852 |
-| V for Vendetta | 1.00% | ~8,852 |
 | Legend of The Afterlife | 1.00% | ~8,852 |
 | To Bad Decisions! | 0.90% | ~7,967 |
-| Temperance | 0.90% | ~7,967 |
 | The Fool | 0.80% | ~7,082 |
 | The Lovers | 0.80% | ~7,082 |
-| The Quick and the Dead | 0.70% | ~6,196 |
-| The Devil | 0.70% | ~6,196 |
-| The World | 0.70% | ~6,196 |
-| It's Elementary | 0.70% | ~6,196 |
+| The Quick and the Dead | 0.70% | ~6,197 |
+| The Devil | 0.70% | ~6,197 |
+| The World | 0.70% | ~6,197 |
+| It's Elementary | 0.70% | ~6,197 |
 | Gun Fu | 0.60% | ~5,311 |
 | Christmas Tree Attack | 0.60% | ~5,311 |
 | Judy vs Night City | 0.60% | ~5,311 |
@@ -42,7 +42,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.30% | ~2,656 |
 | I Am The Law | 0.30% | ~2,656 |
 | Must Be Rats | 0.30% | ~2,656 |
-| Spin Doctor | 0.30% | ~41 |
+| Spin Doctor | 0.30% | ~42 |
 | To Protect and Serve | 0.20% | ~1,770 |
 | The Wandering Fool | 0.20% | ~1,770 |
 | Frequent Flyer | 0.20% | ~1,770 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,197 (Ranked 15)  
-Completed: 2,476 (0.28%) (Ranked 202)  
+Progressed: 885,237 (Ranked 15)  
+Completed: 2,477 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,7 +226,7 @@ Completed: 2,476 (0.28%) (Ranked 202)
 | 2023-09-26 | 882,541 | 2,421 |
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
-| 2023-09-29 | 885,197 | 2,476 |
+| 2023-09-29 | 885,237 | 2,477 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
 Sum: 239,088 (Ranked 13)  

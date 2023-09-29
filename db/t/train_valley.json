@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 222
     },
     {
       "ID": "07_europe",
@@ -1543,8 +1543,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:05:24.9494486+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:04:56.9517797+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:01.7956204+00:00",
-  "LastUpdate_Ratings": "2023-09-29T18:58:03.2955252+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:05:24.9494848+00:00"
+  "LastUpdate_Ratings": "2023-09-29T19:57:45.6068218+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:04:56.9518182+00:00"
 }

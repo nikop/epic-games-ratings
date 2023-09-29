@@ -6,24 +6,24 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,686 |
+| First Step | 72.00% | ~6,687 |
 | Leader | 60.00% | ~5,572 |
 | Explorer | 53.00% | ~4,922 |
 | Healer | 52.00% | ~4,829 |
 | Aspiring Inventor | 44.00% | ~4,086 |
-| Adventurer | 41.00% | ~3,807 |
+| Adventurer | 41.00% | ~3,808 |
 | Famous Healer | 38.00% | ~3,529 |
 | Local Leader | 35.00% | ~3,250 |
-| Famous Explorer | 34.00% | ~3,157 |
-| New Opportunities | 34.00% | ~3,157 |
-| Energized | 33.00% | ~3,064 |
-| The Long Haul | 33.00% | ~3,064 |
+| Famous Explorer | 34.00% | ~3,158 |
+| New Opportunities | 34.00% | ~3,158 |
+| Energized | 33.00% | ~3,065 |
+| The Long Haul | 33.00% | ~3,065 |
 | The Great Healer | 31.00% | ~2,879 |
 | Survivor | 31.00% | ~2,879 |
 | Legendary Explorer | 28.00% | ~2,600 |
 | Cleaner | 28.00% | ~2,600 |
 | Catastrofan | 28.00% | ~2,600 |
-| Finders, Keepers | 26.00% | ~2,414 |
+| Finders, Keepers | 26.00% | ~2,415 |
 | Top Notch | 25.00% | ~2,322 |
 | Great Leader | 23.00% | ~2,136 |
 | Mentor | 23.00% | ~2,136 |
@@ -31,7 +31,7 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~2,043 |
 | Real Survivor | 22.00% | ~2,043 |
 | Rocket Surgeon | 20.00% | ~1,857 |
-| War Never Changes | 19.00% | ~1,764 |
+| War Never Changes | 19.00% | ~1,765 |
 | Friendly | 17.00% | ~1,579 |
 | Big Game Hunter | 17.00% | ~1,579 |
 | Spreading Influence | 17.00% | ~1,579 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,286 (Ranked 144)  
+Progressed: 9,287 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 0 (0.00%) (Ranked 299)
 | 2023-09-26 | 9,242 | 0 |
 | 2023-09-27 | 9,258 | 0 |
 | 2023-09-28 | 9,271 | 0 |
-| 2023-09-29 | 9,286 | 0 |
+| 2023-09-29 | 9,287 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 338)  
 Sum: 704 (Ranked 282)  

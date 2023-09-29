@@ -2,7 +2,7 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 46,
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 68,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.06,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -134,6 +134,11 @@
       "Time": "2023-09-29T19:05:58.3689615+00:00",
       "NumProgressed": 66,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-29T20:05:30.0182897+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -144,7 +149,7 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 140,
       "UsersEstimate": 17
     },
@@ -152,7 +157,7 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 85,
       "UsersEstimate": 29
     },
@@ -160,23 +165,23 @@
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 45,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
       "SetID": "6f5dahd",
       "Name": "Get back to work",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 185,
       "UsersEstimate": 5
     },
@@ -184,31 +189,31 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 85,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_SPEEDRUN",
       "SetID": "6f5dahd",
       "Name": "Fast as lightning",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 180,
       "UsersEstimate": 5
     },
@@ -218,20 +223,20 @@
       "Name": "Exit",
       "Percentage": 47,
       "XP": 65,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 68,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:05:58.3689607+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:05:30.0182893+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-09-29T19:03:06.3640961+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:05:58.3689731+00:00"
+  "LastUpdate_Ratings": "2023-09-29T20:02:07.3437363+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:05:30.0182987+00:00"
 }

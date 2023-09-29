@@ -2,7 +2,7 @@
   "ID": "a3100205e194489088c7625c8c5c1596",
   "Name": "The Forest Quartet",
   "ProductSlug": "forest-quartet-5d03e3",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 90,
@@ -44,10 +44,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65833,
-  "EOS_Completed": 60,
-  "EOS_NewPlayers": 47069,
-  "EOS_NewCompleters": 58,
+  "EOS_Progressed": 65939,
+  "EOS_Completed": 61,
+  "EOS_NewPlayers": 46512,
+  "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -1029,6 +1029,11 @@
       "Time": "2023-09-29T19:08:16.7809575+00:00",
       "NumProgressed": 65833,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-09-29T20:06:37.6350041+00:00",
+      "NumProgressed": 65939,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -1041,7 +1046,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 89,
       "XP": 100,
-      "UsersEstimate": 58591
+      "UsersEstimate": 58686
     },
     {
       "ID": "JB_is_Playing",
@@ -1049,7 +1054,7 @@
       "Name": "JB is Playing",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12508
+      "UsersEstimate": 12528
     },
     {
       "ID": "JBs_House_Discovered",
@@ -1057,7 +1062,7 @@
       "Name": "JB\u2019s House Discovered",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14507
     },
     {
       "ID": "Kirk_is_Playing",
@@ -1065,7 +1070,7 @@
       "Name": "Kirk is Playing",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 25675
+      "UsersEstimate": 25716
     },
     {
       "ID": "Kirks_House_Discovered",
@@ -1073,7 +1078,7 @@
       "Name": "Kirk\u2019s House Discovered",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 42133
+      "UsersEstimate": 42201
     },
     {
       "ID": "Lamp_Post_Illuminated",
@@ -1081,7 +1086,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 59250
+      "UsersEstimate": 59345
     },
     {
       "ID": "Lights_On",
@@ -1097,7 +1102,7 @@
       "Name": "Sebastian\u0027s House Discovered",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 9875
+      "UsersEstimate": 9891
     },
     {
       "ID": "The_Band_is_Back_Together",
@@ -1105,23 +1110,23 @@
       "Name": "The Band is Back Together",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3297
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 65833,
-      "Completed": 60
+      "Progressed": 65939,
+      "Completed": 61
     }
   ],
   "FirstSeen": "2023-09-21T18:00:01.3259174+00:00",
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
   "LastChanged": "2023-09-29T18:02:22.6573647+00:00",
-  "LastChanged_Achievements": "2023-09-29T19:08:16.7809571+00:00",
+  "LastChanged_Achievements": "2023-09-29T20:06:37.6350037+00:00",
   "LastUpdate_AppInfo": "2023-09-28T15:57:32.2885982+00:00",
-  "LastUpdate_Ratings": "2023-09-29T19:03:15.1526952+00:00",
-  "LastUpdate_Achievements": "2023-09-29T19:08:16.7809704+00:00"
+  "LastUpdate_Ratings": "2023-09-29T20:02:15.6942751+00:00",
+  "LastUpdate_Achievements": "2023-09-29T20:06:37.6350184+00:00"
 }
