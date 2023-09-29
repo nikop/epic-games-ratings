@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 78.33% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 78.10% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.54% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -31,7 +31,7 @@
 | 29 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 29 | [Smelter](games/s/smelter.md) | 10.00% |
 | 31 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 9.62% |
+| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 9.43% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 34 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 9.09% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
@@ -67,7 +67,7 @@
 | 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.78% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.67% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.66% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -128,8 +128,8 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 127 | [Infindustry](games/i/infindustry.md) | 1.10% |
 | 128 | [Trifox](games/t/trifox.md) | 1.09% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
-| 130 | [Adios](games/a/adios.md) | 1.04% |
+| 129 | [Adios](games/a/adios.md) | 1.04% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 131 | [Sable](games/s/sable.md) | 1.01% |
 | 132 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.00% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
@@ -138,11 +138,11 @@
 | 136 | [A Musical Story](games/a/a_musical_story.md) | 0.98% |
 | 137 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
 | 138 | [Hades](games/h/hades.md) | 0.91% |
-| 139 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.86% |
 | 139 | [Eternights](games/e/eternights.md) | 0.86% |
-| 141 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 142 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
-| 142 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 140 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 141 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.82% |
+| 141 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 143 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.81% |
 | 144 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.78% |
 | 145 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 146 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -160,8 +160,8 @@
 | 158 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 158 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 160 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 160 | [Dead Space](games/d/dead_space.md) | 0.55% |
 | 160 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
+| 162 | [Dead Space](games/d/dead_space.md) | 0.54% |
 | 163 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 163 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 165 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
@@ -181,11 +181,11 @@
 | 177 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.38% |
 | 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 181 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.36% |
 | 182 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 182 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 185 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
-| 185 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
+| 184 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 184 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
+| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.35% |
 | 187 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 187 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.34% |
 | 187 | [The Surge](games/t/the_surge.md) | 0.34% |
