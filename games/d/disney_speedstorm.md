@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 15.00% | ~4,748 |
-| IT MAKES BOOM! | 7.00% | ~2,216 |
-| EXTRA BOOST | 5.00% | ~1,583 |
-| PROTECTED | 4.00% | ~1,266 |
-| A TIGER'S FEAR | 4.00% | ~1,266 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~1,266 |
-| AGGRESSIVE RACER | 4.00% | ~1,266 |
-| PRO | 4.00% | ~1,266 |
-| ACE SPEEDSTER | 3.00% | ~950 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~633 |
-| PERFECTLY POISED | 2.00% | ~633 |
-| TRAINING HARD | 2.00% | ~633 |
-| RELEASE THE KRAKEN | 2.00% | ~633 |
-| BE OUR GUEST | 2.00% | ~633 |
-| ACE BRAWLER | 2.00% | ~633 |
-| DEFEAT OUR CHAMPION | 2.00% | ~633 |
-| ACE DEFENDER | 2.00% | ~633 |
-| FRIENDLY | 2.00% | ~633 |
-| MASTER | 2.00% | ~633 |
-| LEGENDARY HERO | 2.00% | ~633 |
-| THE EYE OF THE HUNTER | 1.00% | ~317 |
-| ACE TRICKSTER | 1.00% | ~317 |
-| EXPERIENCED CREW | 0.90% | ~285 |
-| FRAMED! | 0.90% | ~285 |
+| ROOKIE | 15.00% | ~4,848 |
+| IT MAKES BOOM! | 7.00% | ~2,262 |
+| EXTRA BOOST | 5.00% | ~1,616 |
+| PROTECTED | 4.00% | ~1,293 |
+| A TIGER'S FEAR | 4.00% | ~1,293 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~1,293 |
+| AGGRESSIVE RACER | 4.00% | ~1,293 |
+| PRO | 4.00% | ~1,293 |
+| ACE SPEEDSTER | 3.00% | ~970 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~646 |
+| TRAINING HARD | 2.00% | ~646 |
+| RELEASE THE KRAKEN | 2.00% | ~646 |
+| BE OUR GUEST | 2.00% | ~646 |
+| ACE BRAWLER | 2.00% | ~646 |
+| DEFEAT OUR CHAMPION | 2.00% | ~646 |
+| ACE DEFENDER | 2.00% | ~646 |
+| FRIENDLY | 2.00% | ~646 |
+| MASTER | 2.00% | ~646 |
+| LEGENDARY HERO | 2.00% | ~646 |
+| PERFECTLY POISED | 1.00% | ~323 |
+| THE EYE OF THE HUNTER | 1.00% | ~323 |
+| ACE TRICKSTER | 1.00% | ~323 |
+| FRAMED! | 0.90% | ~291 |
+| EXPERIENCED CREW | 0.80% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,651 (Ranked 109)  
-Completed: 219 (0.69%) (Ranked 146)  
+Progressed: 32,321 (Ranked 109)  
+Completed: 219 (0.68%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,4 +187,4 @@ Completed: 219 (0.69%) (Ranked 146)
 | 2023-09-26 | 3,303 | 198 |
 | 2023-09-27 | 3,309 | 199 |
 | 2023-09-28 | 17,979 | 216 |
-| 2023-09-29 | 31,651 | 219 |
+| 2023-09-29 | 32,321 | 219 |

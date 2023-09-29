@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 674)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,116 |
+| No aid from the Omnissiah | 26.00% | ~58,117 |
 | This is only the beginning | 19.00% | ~42,470 |
 | Knowledge is power | 12.00% | ~26,823 |
 | Power Ranger | 9.00% | ~20,117 |
@@ -13,17 +13,17 @@ Rating: 4.43 (Ranked 674)
 | Taser Goad | 9.00% | ~20,117 |
 | Radium Ready | 9.00% | ~20,117 |
 | Half a cog | 9.00% | ~20,117 |
-| Watch them crumble | 6.00% | ~13,411 |
+| Watch them crumble | 6.00% | ~13,412 |
 | Competent Cohort | 4.00% | ~8,941 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,941 |
 | One with the Machine | 4.00% | ~8,941 |
 | Legio Cybernetica | 3.00% | ~6,706 |
 | Fleshy Disposal | 3.00% | ~6,706 |
-| Battle Servitor | 2.00% | ~4,470 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,470 |
-| Impatient destruction | 2.00% | ~4,470 |
-| Vivisected Vizier | 2.00% | ~4,470 |
-| Architect Abortion | 2.00% | ~4,470 |
+| Battle Servitor | 2.00% | ~4,471 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,471 |
+| Impatient destruction | 2.00% | ~4,471 |
+| Vivisected Vizier | 2.00% | ~4,471 |
+| Architect Abortion | 2.00% | ~4,471 |
 | Cohortus Maximus | 0.80% | ~1,788 |
 | Mother of Xenarites | 0.40% | ~894 |
 | False God | 0.30% | ~671 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 674)
 | Perma-live | 0.10% | ~224 |
 | Purge the Heretek | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,524 (Ranked 59)  
+Progressed: 223,527 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,10 +202,10 @@ Completed: 5 (0.00%) (Ranked 298)
 | 2023-09-26 | 223,371 | 5 |
 | 2023-09-27 | 223,430 | 5 |
 | 2023-09-28 | 223,493 | 5 |
-| 2023-09-29 | 223,524 | 5 |
+| 2023-09-29 | 223,527 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 246)  
-Sum: 2,152 (Ranked 198)  
+Sum: 2,153 (Ranked 198)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -215,7 +215,7 @@ Diff (max vs sum): 48
 | This game has Diverse Characters | 265 |
 | This game has Amazing Characters | 260 |
 | This game has Amazing Storytelling | 245 |
-| This game is Relaxing | 240 |
+| This game is Relaxing | 241 |
 | This game has Unique Visuals | 210 |
 | This game has a Creative Community | 97 |
 | This game is Great for Beginners | 63 |
@@ -288,4 +288,4 @@ Diff (max vs sum): 48
 | 2023-09-22 | 4.43 | 283 | 2,149 |
 | 2023-09-23 | 4.43 | 283 | 2,150 |
 | 2023-09-25 | 4.43 | 283 | 2,151 |
-| 2023-09-29 | 4.43 | 283 | 2,152 |
+| 2023-09-29 | 4.43 | 283 | 2,153 |

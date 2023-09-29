@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -619,10 +619,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2152,
       "NumberOfAwardsMax": 283
+    },
+    {
+      "Time": "2023-09-29T13:02:10.3481004+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2153,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2152,
+  "NumberOfAwards": 2153,
   "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -636,7 +642,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 240
+      "Count": 241
     },
     {
       "Text": "This game is Extremely Fun",
@@ -687,7 +693,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 223524,
+  "EOS_Progressed": 223527,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
@@ -18277,6 +18283,11 @@
       "Time": "2023-09-29T12:04:14.3585186+00:00",
       "NumProgressed": 223524,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-29T13:08:08.8385012+00:00",
+      "NumProgressed": 223527,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -18296,7 +18307,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58116
+      "UsersEstimate": 58117
     },
     {
       "ID": "ACH_BASE_11",
@@ -18360,7 +18371,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ACH_BASE_2",
@@ -18368,7 +18379,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13411
+      "UsersEstimate": 13412
     },
     {
       "ID": "ACH_BASE_20",
@@ -18384,7 +18395,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ACH_BASE_22",
@@ -18392,7 +18403,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ACH_BASE_23",
@@ -18520,7 +18531,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ACH_BASE_6",
@@ -18528,7 +18539,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ACH_BASE_7",
@@ -18559,16 +18570,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 223524,
+      "Progressed": 223527,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-09-29T03:57:45.9730578+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:04:14.3585181+00:00",
+  "LastChanged": "2023-09-29T13:02:10.3481003+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:08:08.8385008+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:46.4931516+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:58:10.8208378+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:04:14.3586525+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:02:10.3481007+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:08:08.8386269+00:00"
 }

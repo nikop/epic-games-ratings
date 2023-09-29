@@ -8,8 +8,8 @@ Rating: 4.60 (Ranked 399)
 | Time Heals All Wounds | 30.00% | ~270 |
 | Rail Rat | 25.00% | ~225 |
 | The Mysterious Stranger | 24.00% | ~216 |
+| Immaculate Aim | 22.00% | ~198 |
 | The Prince in Heels | 21.00% | ~189 |
-| Immaculate Aim | 21.00% | ~189 |
 | The Brass Boss | 21.00% | ~189 |
 | The Steel Shadow | 20.00% | ~180 |
 | Make Up For Lost Time | 20.00% | ~180 |
@@ -18,9 +18,9 @@ Rating: 4.60 (Ranked 399)
 | No, Thanks! | 20.00% | ~180 |
 | Breaking Down Barriers | 20.00% | ~180 |
 | Honest Mistake | 20.00% | ~180 |
+| Fast Learner | 20.00% | ~180 |
 | Immaculate Aim | 20.00% | ~180 |
 | The Wicked Twins | 19.00% | ~171 |
-| Fast Learner | 19.00% | ~171 |
 | Like Clockwork | 18.00% | ~162 |
 | The Betrayer | 18.00% | ~162 |
 | Golem Chaser | 18.00% | ~162 |

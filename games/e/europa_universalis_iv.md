@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,684 |
-| That's a Grand Army | 3.00% | ~12,513 |
-| That is mine! | 3.00% | ~12,513 |
-| Victorious! | 3.00% | ~12,513 |
-| Brothers in Arms | 2.00% | ~8,342 |
-| For the Glory | 2.00% | ~8,342 |
-| That's a Grand Navy | 2.00% | ~8,342 |
-| Seriously?! | 2.00% | ~8,342 |
-| Cold War | 1.00% | ~4,171 |
-| Defender of the Faith | 1.00% | ~4,171 |
-| It's all about the money | 1.00% | ~4,171 |
-| The Princess is in this Castle | 1.00% | ~4,171 |
-| True Catholic | 1.00% | ~4,171 |
-| It's all about luck | 0.90% | ~3,754 |
-| Respected | 0.90% | ~3,754 |
-| Truly Divine Ruler | 0.90% | ~3,754 |
+| Until death do us apart | 4.00% | ~16,687 |
+| That's a Grand Army | 3.00% | ~12,515 |
+| That is mine! | 3.00% | ~12,515 |
+| Victorious! | 3.00% | ~12,515 |
+| Brothers in Arms | 2.00% | ~8,343 |
+| For the Glory | 2.00% | ~8,343 |
+| That's a Grand Navy | 2.00% | ~8,343 |
+| Seriously?! | 2.00% | ~8,343 |
+| Cold War | 1.00% | ~4,172 |
+| Defender of the Faith | 1.00% | ~4,172 |
+| It's all about the money | 1.00% | ~4,172 |
+| The Princess is in this Castle | 1.00% | ~4,172 |
+| True Catholic | 1.00% | ~4,172 |
+| It's all about luck | 0.90% | ~3,755 |
+| Respected | 0.90% | ~3,755 |
+| Truly Divine Ruler | 0.90% | ~3,755 |
 | Blockader | 0.80% | ~3,337 |
 | Double the Love | 0.80% | ~3,337 |
 | Total Control | 0.80% | ~3,337 |
@@ -31,20 +31,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,086 |
 | Combined Arms | 0.50% | ~2,086 |
 | This navy can take it all | 0.50% | ~2,086 |
-| Azur semé de lis or | 0.40% | ~1,668 |
-| Factionalism | 0.40% | ~1,668 |
-| Gentle Persuasion | 0.40% | ~1,668 |
-| Isn't this the way to India? | 0.40% | ~1,668 |
-| Queen of Conquest | 0.40% | ~1,668 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,251 |
-| Bright Spark | 0.30% | ~1,251 |
-| Down Under | 0.30% | ~1,251 |
-| The Emperors new clothes | 0.30% | ~1,251 |
-| A Golden Empire | 0.30% | ~1,251 |
-| Market Control | 0.30% | ~1,251 |
-| Populists in Government | 0.30% | ~1,251 |
-| The Five Colonies | 0.30% | ~1,251 |
-| Trustworthy | 0.30% | ~1,251 |
+| Azur semé de lis or | 0.40% | ~1,669 |
+| Factionalism | 0.40% | ~1,669 |
+| Gentle Persuasion | 0.40% | ~1,669 |
+| Isn't this the way to India? | 0.40% | ~1,669 |
+| Queen of Conquest | 0.40% | ~1,669 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,252 |
+| Bright Spark | 0.30% | ~1,252 |
+| Down Under | 0.30% | ~1,252 |
+| The Emperors new clothes | 0.30% | ~1,252 |
+| A Golden Empire | 0.30% | ~1,252 |
+| Market Control | 0.30% | ~1,252 |
+| Populists in Government | 0.30% | ~1,252 |
+| The Five Colonies | 0.30% | ~1,252 |
+| Trustworthy | 0.30% | ~1,252 |
 | All belongs to Mother Russia | 0.20% | ~834 |
 | At every continent | 0.20% | ~834 |
 | Early-Modern Warfare | 0.20% | ~834 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,107 (Ranked 41)  
+Progressed: 417,174 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,10 +523,10 @@ Completed: 1 (0.00%) (Ranked 298)
 | 2023-09-26 | 415,263 | 1 |
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
-| 2023-09-29 | 417,107 | 1 |
+| 2023-09-29 | 417,174 | 1 |
 ## Awards
 Max (Educational): 6,316  (Ranked 57)  
-Sum: 51,785 (Ranked 24)  
+Sum: 51,800 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -536,7 +536,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,943 |
 | This game is Extremely Fun | 5,939 |
 | This game is Relaxing | 5,829 |
-| This game has Competitive Players | 5,616 |
+| This game has Competitive Players | 5,631 |
 | This game has Amazing Storytelling | 5,261 |
 | This game has Amazing Characters | 4,891 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -798,4 +798,4 @@ Diff (max vs sum): 33
 | 2023-09-26 | 4.69 | - | 6,276 | 51,532 |
 | 2023-09-27 | 4.69 | - | 6,290 | 51,632 |
 | 2023-09-28 | 4.69 | - | 6,316 | 51,764 |
-| 2023-09-29 | 4.69 | - | 6,316 | 51,785 |
+| 2023-09-29 | 4.69 | - | 6,316 | 51,800 |

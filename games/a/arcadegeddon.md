@@ -6,20 +6,20 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 90.00% | ~8,216 |
-| Photogenic | 86.00% | ~7,851 |
-| Surge Gauntlet Jockey | 83.00% | ~7,577 |
-| Plug It In | 82.00% | ~7,486 |
+| Let's Get This Party Started | 90.00% | ~8,217 |
+| Photogenic | 86.00% | ~7,852 |
+| Surge Gauntlet Jockey | 83.00% | ~7,578 |
+| Plug It In | 82.00% | ~7,487 |
 | Adventure Time | 78.00% | ~7,121 |
-| Playing With Power | 76.00% | ~6,938 |
+| Playing With Power | 76.00% | ~6,939 |
 | Coup d'Etat | 58.00% | ~5,295 |
-| You're Fired | 56.00% | ~5,112 |
-| Get Furious | 55.00% | ~5,021 |
-| Hacks In Stacks | 55.00% | ~5,021 |
+| You're Fired | 56.00% | ~5,113 |
+| Get Furious | 55.00% | ~5,022 |
+| Hacks In Stacks | 55.00% | ~5,022 |
 | Gunplay And Cosplay | 54.00% | ~4,930 |
 | Meching Enemies | 48.00% | ~4,382 |
 | Ticket Toddler | 44.00% | ~4,017 |
-| Booty Bashing | 39.00% | ~3,560 |
+| Booty Bashing | 39.00% | ~3,561 |
 | Field Medic | 37.00% | ~3,378 |
 | Here Comes a New Challenger | 37.00% | ~3,378 |
 | Rapid Response | 33.00% | ~3,013 |
@@ -29,10 +29,10 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 24.00% | ~2,191 |
 | Clips and Crits | 19.00% | ~1,735 |
 | Grey Goo | 17.00% | ~1,552 |
-| Boss of Bosses | 15.00% | ~1,369 |
+| Boss of Bosses | 15.00% | ~1,370 |
 | The Final Blow | 14.00% | ~1,278 |
 | To Be Continued | 13.00% | ~1,187 |
-| Light My Fire | 12.00% | ~1,095 |
+| Light My Fire | 12.00% | ~1,096 |
 | Seasoned Adventurer | 11.00% | ~1,004 |
 | 1.21 Gigawatts | 10.00% | ~913 |
 | Get In The Ring! | 9.00% | ~822 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~37 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,129 (Ranked 144)  
+Progressed: 9,130 (Ranked 145)  
 Completed: 1 (0.01%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 1 (0.01%) (Ranked 281)
 | 2023-09-26 | 9,106 | 1 |
 | 2023-09-27 | 9,116 | 1 |
 | 2023-09-28 | 9,124 | 1 |
-| 2023-09-29 | 9,129 | 1 |
+| 2023-09-29 | 9,130 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 392)  
 Sum: 462 (Ranked 314)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7530,
+  "EOS_Progressed": 7531,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7154,6 +7154,11 @@
       "Time": "2023-09-29T02:21:44.2379213+00:00",
       "NumProgressed": 7530,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-29T13:09:48.7859119+00:00",
+      "NumProgressed": 7531,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7179,9 +7184,9 @@
       "ID": "AUDIOPHILE",
       "SetID": "3cck1g6",
       "Name": "Audiophile",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 602
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -7245,7 +7250,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "HISTORIAN",
@@ -7269,7 +7274,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "LIBERATOR",
@@ -7277,7 +7282,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "LIVE_WIRE",
@@ -7293,7 +7298,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "SNIP_SNIP",
@@ -7332,7 +7337,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7530,
+      "Progressed": 7531,
       "Completed": 33
     }
   ],
@@ -7340,8 +7345,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:06:10.7595736+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:09:48.7859115+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:07.4802166+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:57:17.1904072+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:06:10.759632+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:01:25.9731853+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:09:48.7859553+00:00"
 }

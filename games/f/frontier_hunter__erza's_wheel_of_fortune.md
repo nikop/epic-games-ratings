@@ -50,7 +50,7 @@
 | Giant Lizard Challenge | 2.00% | ~2 |
 | Berserker Challenge | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 380)  
+Progressed: 98 (Ranked 381)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |

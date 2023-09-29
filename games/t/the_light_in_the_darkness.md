@@ -12,8 +12,8 @@
 | Arranging Boxes | 15.00% | ~367 |
 | Jakob | 14.00% | ~343 |
 | Le Juif et la France | 14.00% | ~343 |
+| Bernard | 13.00% | ~318 |
 | Jude | 13.00% | ~318 |
-| Bernard | 12.00% | ~294 |
 | Nuremberg Laws | 12.00% | ~294 |
 | May Their Memories be a Blessing | 9.00% | ~220 |
 ## Popularity (Based on EOS Achievements)

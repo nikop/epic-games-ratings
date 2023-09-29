@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37472,
+  "EOS_Progressed": 37476,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -17993,6 +17993,11 @@
       "Time": "2023-09-29T12:04:01.5999115+00:00",
       "NumProgressed": 37472,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-29T13:07:58.1492734+00:00",
+      "NumProgressed": 37476,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18012,7 +18017,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7494
+      "UsersEstimate": 7495
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18044,7 +18049,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -18116,7 +18121,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -18156,7 +18161,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -18164,7 +18169,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -18235,7 +18240,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37472,
+      "Progressed": 37476,
       "Completed": 25
     }
   ],
@@ -18243,8 +18248,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:04:01.5999108+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:07:58.1492726+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:47.3776756+00:00",
-  "LastUpdate_Ratings": "2023-09-29T12:00:09.9908331+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:04:01.6000377+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:03:50.1660488+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:07:58.1493705+00:00"
 }

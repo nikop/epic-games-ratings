@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mechanical Buddy | 95.00% | ~21 |
 | Meissa's Savior | 95.00% | ~21 |
 | Purification Pioneer | 95.00% | ~21 |
-| Mechanical Buddy | 91.00% | ~20 |
-| Dicesmithing Time! | 82.00% | ~18 |
-| Wild's Keeper | 64.00% | ~14 |
-| Sanctuary Guardian | 59.00% | ~13 |
-| Endless Tricks | 55.00% | ~12 |
+| Dicesmithing Time! | 86.00% | ~19 |
+| Sanctuary Guardian | 68.00% | ~15 |
+| Wild's Keeper | 68.00% | ~15 |
+| Endless Tricks | 64.00% | ~14 |
 | Mind Illuminator | 41.00% | ~9 |
-| Stellar Dismantler | 32.00% | ~7 |
+| Stellar Dismantler | 36.00% | ~8 |
 | Sadistic Plan | 23.00% | ~5 |
 | Sentinelphobic | 23.00% | ~5 |
 | Stellar Haste | 23.00% | ~5 |
@@ -22,12 +22,12 @@
 | Skeptical | 18.00% | ~4 |
 | Astral Adventurer | 14.00% | ~3 |
 | Dice Specialist | 14.00% | ~3 |
+| Star Killer | 14.00% | ~3 |
 | Heart Gate | 9.00% | ~2 |
 | Loyal Partner | 9.00% | ~2 |
 | Pocket Astrarium | 9.00% | ~2 |
 | Prestidigitation | 9.00% | ~2 |
 | Shard Spender | 9.00% | ~2 |
-| Star Killer | 9.00% | ~2 |
 | Unepic Hero | 9.00% | ~2 |
 | Arch-Oracle | 5.00% | ~1 |
 | Astral Seeker | 5.00% | ~1 |

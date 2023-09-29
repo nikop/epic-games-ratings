@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1158,9 +1158,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5391,
+  "EOS_Progressed": 5392,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10563,6 +10563,11 @@
       "Time": "2023-09-29T12:04:20.7206744+00:00",
       "NumProgressed": 5391,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-29T13:08:14.3126346+00:00",
+      "NumProgressed": 5392,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10582,7 +10587,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -10662,7 +10667,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -10678,7 +10683,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -10726,7 +10731,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -10734,7 +10739,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10893,15 +10898,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5391,
+      "Progressed": 5392,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-28T14:01:11.893357+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:04:20.7206737+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:08:14.3126342+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-29T12:00:55.8245457+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:04:20.7207867+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:04:28.5467327+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:08:14.312705+00:00"
 }

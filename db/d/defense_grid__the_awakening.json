@@ -3,12 +3,12 @@
   "Name": "Defense Grid: The Awakening",
   "ProductSlug": "defense-grid",
   "Ranking_Rating": 644,
-  "Ranking_Popularity": 259,
+  "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1763,11 +1763,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 1689,
       "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2023-09-29T13:02:24.5344079+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1690,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1689,
-  "NumberOfAwardsMax": 248,
+  "NumberOfAwards": 1690,
+  "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1786,7 +1792,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 248
+      "Count": 249
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1831,9 +1837,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 486864,
+  "EOS_Progressed": 486865,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18841,6 +18847,11 @@
       "Time": "2023-09-29T12:07:24.8931799+00:00",
       "NumProgressed": 486864,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-29T13:10:52.3231776+00:00",
+      "NumProgressed": 486865,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -18868,7 +18879,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 223957
+      "UsersEstimate": 223958
     },
     {
       "ID": "BASEDEFENDER",
@@ -18964,7 +18975,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 199614
+      "UsersEstimate": 199615
     },
     {
       "ID": "CORECONTAINER",
@@ -18996,7 +19007,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 326199
+      "UsersEstimate": 326200
     },
     {
       "ID": "EXTERMINATOR",
@@ -19020,7 +19031,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 360279
+      "UsersEstimate": 360280
     },
     {
       "ID": "FILTHYRICH",
@@ -19044,7 +19055,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 394360
+      "UsersEstimate": 394361
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -19108,7 +19119,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 155796
+      "UsersEstimate": 155797
     },
     {
       "ID": "GUNCRAZY",
@@ -19124,7 +19135,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 379754
+      "UsersEstimate": 379755
     },
     {
       "ID": "HEADTRAUMA",
@@ -19140,7 +19151,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 379754
+      "UsersEstimate": 379755
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -19148,7 +19159,7 @@
       "Name": "High Voltage",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 116847
+      "UsersEstimate": 116848
     },
     {
       "ID": "INDECISIVE",
@@ -19164,7 +19175,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 311593
+      "UsersEstimate": 311594
     },
     {
       "ID": "KABOOM",
@@ -19172,7 +19183,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 146059
+      "UsersEstimate": 146060
     },
     {
       "ID": "KICKSTARTER",
@@ -19188,7 +19199,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 345673
+      "UsersEstimate": 345674
     },
     {
       "ID": "LIQUIDATOR",
@@ -19300,7 +19311,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 238563
+      "UsersEstimate": 238564
     },
     {
       "ID": "PEWPEW",
@@ -19532,7 +19543,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 267775
+      "UsersEstimate": 267776
     },
     {
       "ID": "YOUMONSTER",
@@ -19547,15 +19558,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 486864,
+      "Progressed": 486865,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
-  "LastChanged": "2023-09-24T02:19:07.4890906+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:07:24.8931792+00:00",
+  "LastChanged": "2023-09-29T13:02:24.5344077+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:10:52.3231771+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:54.6292718+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:58:28.9328308+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:07:24.8933765+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:02:24.5344082+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:10:52.3233657+00:00"
 }

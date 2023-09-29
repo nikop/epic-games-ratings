@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13161,
+  "EOS_Progressed": 13164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1614,
+  "EOS_NewPlayers": 1601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7050,6 +7050,11 @@
       "Time": "2023-09-29T12:03:35.5322958+00:00",
       "NumProgressed": 13161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T13:07:36.7819098+00:00",
+      "NumProgressed": 13164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7078,7 +7083,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "12",
@@ -7086,7 +7091,7 @@
       "Name": "Data Archivist",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "13",
@@ -7102,7 +7107,7 @@
       "Name": "Doctor Approved",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "15",
@@ -7110,7 +7115,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "16",
@@ -7126,7 +7131,7 @@
       "Name": "Spore Taste",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "18",
@@ -7142,7 +7147,7 @@
       "Name": "Martian Music",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "2",
@@ -7174,7 +7179,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "23",
@@ -7182,7 +7187,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "24",
@@ -7238,7 +7243,7 @@
       "Name": "Captain Drummer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "30",
@@ -7246,7 +7251,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "4",
@@ -7254,7 +7259,7 @@
       "Name": "Debris Spree",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "5",
@@ -7270,7 +7275,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "7",
@@ -7294,14 +7299,14 @@
       "Name": "Impossible Objects",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13161,
+      "Progressed": 13164,
       "Completed": 0
     }
   ],
@@ -7309,8 +7314,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:03:35.5322951+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:07:36.7819096+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:57:36.349404+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:03:35.5323601+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:01:42.1768446+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:07:36.781959+00:00"
 }

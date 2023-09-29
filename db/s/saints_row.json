@@ -3714,9 +3714,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 73018,
+  "EOS_Progressed": 73020,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 996,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21859,6 +21859,11 @@
       "Time": "2023-09-29T12:04:48.9812699+00:00",
       "NumProgressed": 73018,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-29T13:08:38.421483+00:00",
+      "NumProgressed": 73020,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 53,
@@ -21886,7 +21891,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13143
+      "UsersEstimate": 13144
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -21918,7 +21923,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18254
+      "UsersEstimate": 18255
     },
     {
       "ID": "complet_epilogue_mission",
@@ -21982,7 +21987,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 33588
+      "UsersEstimate": 33589
     },
     {
       "ID": "customize_a_vehicle",
@@ -21990,7 +21995,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24096
+      "UsersEstimate": 24097
     },
     {
       "ID": "customize_a_weapon",
@@ -21998,7 +22003,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26286
+      "UsersEstimate": 26287
     },
     {
       "ID": "cutting_edge_materials",
@@ -22046,7 +22051,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18254
+      "UsersEstimate": 18255
     },
     {
       "ID": "empire_tier_3",
@@ -22054,7 +22059,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 13873
+      "UsersEstimate": 13874
     },
     {
       "ID": "empire_tier_4",
@@ -22086,7 +22091,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16794
+      "UsersEstimate": 16795
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -22118,7 +22123,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26286
+      "UsersEstimate": 26287
     },
     {
       "ID": "hit_max_level",
@@ -22142,7 +22147,7 @@
       "Name": "Picking Fights",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 13873
+      "UsersEstimate": 13874
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -22166,7 +22171,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 24826
+      "UsersEstimate": 24827
     },
     {
       "ID": "one_third_purple",
@@ -22182,7 +22187,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5841
+      "UsersEstimate": 5842
     },
     {
       "ID": "prank_coop_partner",
@@ -22293,22 +22298,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 73018,
+      "Progressed": 73020,
       "Completed": 50
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 44655,
-      "Completed": 3967
+      "Progressed": 44657,
+      "Completed": 3968
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-28T08:59:48.8035793+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:04:48.9812693+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:08:38.4214825+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:51.9460051+00:00",
-  "LastUpdate_Ratings": "2023-09-29T12:00:16.1195034+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:04:48.9814197+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:03:55.0864464+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:08:38.4216022+00:00"
 }

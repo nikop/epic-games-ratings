@@ -1214,9 +1214,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1230,9 +1230,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N1",
@@ -1285,8 +1285,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:09:08.8922497+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:12:27.4001706+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:59:00.984425+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:09:08.8922723+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:02:51.5174754+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:12:27.4001919+00:00"
 }

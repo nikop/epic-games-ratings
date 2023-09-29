@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -516,7 +516,7 @@
   ],
   "EOS_Progressed": 3528,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5156,9 +5156,9 @@
       "ID": "ScourgeSlayer_26",
       "SetID": "c4hee28",
       "Name": "Scourge Slayer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 917
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -5292,8 +5292,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:07:40.8077362+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:11:05.8325899+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:58:17.2706657+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:07:40.8077989+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:02:15.2009837+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:11:05.8326377+00:00"
 }

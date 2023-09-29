@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -294,7 +294,7 @@
   "Tags": [],
   "EOS_Progressed": 1704,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1111,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1238,9 +1238,9 @@
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 426
+      "UsersEstimate": 443
     },
     {
       "ID": "achievement_7",
@@ -1279,8 +1279,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-29T01:39:25.5196499+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:07:36.4679904+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:11:02.3107289+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:57:44.1705537+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:07:36.4680134+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:01:48.3206883+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:11:02.3107488+00:00"
 }

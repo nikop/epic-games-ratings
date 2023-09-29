@@ -4,8 +4,8 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
     "PcReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -324,9 +324,9 @@
       "ID": "KILL_BOSS_1",
       "SetID": "dcng643",
       "Name": "Toad Slayer",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KILL_BOSS_10",
@@ -739,8 +739,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:03:37.031358+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:07:38.0536618+00:00",
   "LastUpdate_AppInfo": "2023-09-28T17:57:13.9113888+00:00",
-  "LastUpdate_Ratings": "2023-09-29T12:00:20.9709749+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:03:37.0314492+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:03:59.4059972+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:07:38.0537379+00:00"
 }

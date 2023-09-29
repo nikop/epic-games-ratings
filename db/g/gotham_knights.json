@@ -3266,7 +3266,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72948,
+  "EOS_Progressed": 72949,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 2,
@@ -17031,6 +17031,11 @@
       "Time": "2023-09-29T12:03:06.7711089+00:00",
       "NumProgressed": 72948,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-29T13:07:12.7120179+00:00",
+      "NumProgressed": 72949,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17418,7 +17423,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20425
+      "UsersEstimate": 20426
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17434,7 +17439,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24802
+      "UsersEstimate": 24803
     },
     {
       "ID": "MYSTERY_02",
@@ -17529,13 +17534,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72948,
+      "Progressed": 72949,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43228,
+      "Progressed": 43229,
       "Completed": 2668
     }
   ],
@@ -17543,8 +17548,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-29T05:58:29.3894738+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:03:06.7711082+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:07:12.7120171+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:59:10.1700561+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:03:06.7712804+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:02:59.101164+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:07:12.7121343+00:00"
 }

@@ -20,8 +20,8 @@
 | Gollum/Sméagol | 10.00% | ~53 |
 | Trigger-Happy | 10.00% | ~53 |
 | He's so Annoying | 9.00% | ~48 |
+| The Friend | 9.00% | ~48 |
 | Murderer | 9.00% | ~48 |
-| The Friend | 8.00% | ~42 |
 | Master of the Old Game | 6.00% | ~32 |
 | Made a Song | 5.00% | ~26 |
 | So Silly! | 4.00% | ~21 |

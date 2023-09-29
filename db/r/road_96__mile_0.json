@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1470,9 +1470,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 131
     },
     {
       "ID": "scoreminrankrp1",
@@ -1527,8 +1527,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:04:24.5068035+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:08:17.5764076+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T11:58:04.8768612+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:04:24.506824+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:02:05.8330726+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:08:17.576424+00:00"
 }

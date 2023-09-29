@@ -6,8 +6,8 @@
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -298,11 +298,11 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 1226,
+  "EOS_Progressed": 1227,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -2163,6 +2163,11 @@
       "Time": "2023-09-28T22:07:03.372221+00:00",
       "NumProgressed": 1226,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-29T13:07:22.6615969+00:00",
+      "NumProgressed": 1227,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 43,
@@ -2190,7 +2195,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Finish5SideMissions",
@@ -2198,7 +2203,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2206,7 +2211,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "GatlingVsArmor",
@@ -2214,7 +2219,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2230,7 +2235,7 @@
       "Name": "Born to Drift",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "KillWithALargeShip",
@@ -2238,15 +2243,15 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "MasteryOfCombat",
       "SetID": "a6c395p",
       "Name": "Mastery of Combat",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 270
     },
     {
       "ID": "MasteryOfRites",
@@ -2254,7 +2259,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "MasteryOfWeapons",
@@ -2350,7 +2355,7 @@
       "Name": "Cult Slayer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -2358,7 +2363,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2382,7 +2387,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "MissionSalvage",
@@ -2390,7 +2395,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "MissionScavengingJob",
@@ -2398,7 +2403,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "MissionShipyard",
@@ -2414,7 +2419,7 @@
       "Name": "The Path Forward",
       "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "MissionTemple",
@@ -2422,7 +2427,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -2438,7 +2443,7 @@
       "Name": "Origin",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Overcharge",
@@ -2478,7 +2483,7 @@
       "Name": "Two Birds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "RiteOfTheStorm",
@@ -2486,7 +2491,7 @@
       "Name": "It Was An Accident",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "UseRepairDrones",
@@ -2494,7 +2499,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "VisitAllLocations",
@@ -2502,7 +2507,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "WinARace",
@@ -2510,22 +2515,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1226,
+      "Progressed": 1227,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-09-29T12:03:18.6665075+00:00",
+  "LastChanged_Achievements": "2023-09-29T13:07:22.6615965+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.4828325+00:00",
-  "LastUpdate_Ratings": "2023-09-29T12:00:14.3879425+00:00",
-  "LastUpdate_Achievements": "2023-09-29T12:03:18.6665549+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:03:53.637715+00:00",
+  "LastUpdate_Achievements": "2023-09-29T13:07:22.6616335+00:00"
 }
