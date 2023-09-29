@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8262,7 +8262,7 @@
       "Count": 675
     }
   ],
-  "EOS_Progressed": 297506,
+  "EOS_Progressed": 297507,
   "EOS_Completed": 478,
   "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 2,
@@ -25747,6 +25747,11 @@
       "Time": "2023-09-29T12:03:23.5801958+00:00",
       "NumProgressed": 297506,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-09-29T14:03:36.2448716+00:00",
+      "NumProgressed": 297507,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 45,
@@ -25806,7 +25811,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23800
+      "UsersEstimate": 23801
     },
     {
       "ID": "PFA_16",
@@ -25830,7 +25835,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23800
+      "UsersEstimate": 23801
     },
     {
       "ID": "PFA_19",
@@ -25838,7 +25843,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23800
+      "UsersEstimate": 23801
     },
     {
       "ID": "PFA_2",
@@ -26062,7 +26067,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23800
+      "UsersEstimate": 23801
     },
     {
       "ID": "PFA_45",
@@ -26117,7 +26122,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297506,
+      "Progressed": 297507,
       "Completed": 478
     }
   ],
@@ -26125,8 +26130,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-29T13:01:39.014004+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:07:26.9164701+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:03:36.2448709+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:01:39.0140048+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:07:26.9165801+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:57:50.1393467+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:03:36.2450331+00:00"
 }

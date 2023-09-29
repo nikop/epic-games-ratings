@@ -255,9 +255,9 @@
       "ID": "InterimCEO",
       "SetID": "d11cl5p",
       "Name": "Interim CEO",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "InternationalHub",
@@ -335,9 +335,9 @@
       "ID": "QueenOfTheSkies",
       "SetID": "d11cl5p",
       "Name": "Queen of the skies",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RegionalAirport",
@@ -470,8 +470,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:10:45.2009996+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:08:25.7255295+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.0680354+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:04:30.0633221+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:10:45.2010217+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:02:00.8556776+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:08:25.7255743+00:00"
 }

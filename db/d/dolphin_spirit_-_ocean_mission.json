@@ -2,9 +2,9 @@
   "ID": "9df0882d086e4c6c97d720c796675ab3",
   "Name": "Dolphin Spirit - Ocean Mission",
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-09-29T01:49:07.0854839+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T14:08:46.7458995+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -78,7 +83,7 @@
       "ID": "ID_03",
       "SetID": "2bmd16d",
       "Name": "Recycling newbie",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -166,7 +171,7 @@
       "ID": "ID_14",
       "SetID": "2bmd16d",
       "Name": "New recruit",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "ID_26",
       "SetID": "2bmd16d",
       "Name": "Power of the turtle",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -294,7 +299,7 @@
       "ID": "ID_30",
       "SetID": "2bmd16d",
       "Name": "Welcome to Maupiroa",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -311,13 +316,13 @@
     {
       "ID": "2bmd16d",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:11:00.1748204+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:08:46.7458989+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:17.3799353+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:06:22.4379228+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:11:00.1748396+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:02:32.1040476+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:08:46.7459419+00:00"
 }

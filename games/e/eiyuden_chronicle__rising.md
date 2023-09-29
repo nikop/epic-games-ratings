@@ -8,7 +8,7 @@ Number of Ratings: 48  (23.09.2022)
 | ---- | ---------- | ----- |
 | Plenty More to Go | 88.00% | ~609 |
 | All Bark, No Bite | 77.00% | ~533 |
-| Hopeful Hunter | 67.00% | ~464 |
+| Hopeful Hunter | 68.00% | ~471 |
 | Amateur Adventurer | 65.00% | ~450 |
 | The Road to Recovery | 64.00% | ~443 |
 | Partners? | 62.00% | ~429 |

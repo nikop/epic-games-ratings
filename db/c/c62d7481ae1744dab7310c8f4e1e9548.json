@@ -3,8 +3,8 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 404,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -436,17 +436,17 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Kamzik",
@@ -476,9 +476,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Kvitky",
@@ -516,9 +516,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Pejsek",
@@ -620,9 +620,9 @@
       "ID": "Zelvak",
       "SetID": "ag48e8e",
       "Name": "Goldbug",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ZpivajiciHouba",
@@ -643,8 +643,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:08:29.975736+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:05:14.8981902+00:00",
   "LastUpdate_AppInfo": "2023-09-22T21:57:02.4227697+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:04:29.0523278+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:08:29.9757602+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:01:58.7114876+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:05:14.8982332+00:00"
 }

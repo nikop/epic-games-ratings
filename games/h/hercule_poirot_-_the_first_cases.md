@@ -17,36 +17,36 @@ Rating: 4.35 (Ranked 766)
 | Florette Duval | 54.00% | ~234 |
 | Order and Method | 52.00% | ~225 |
 | The Altercation | 50.00% | ~216 |
-| Truth from Within | 48.00% | ~208 |
+| Truth from Within | 49.00% | ~212 |
 | The Major | 47.00% | ~204 |
+| Curious and Beautiful | 45.00% | ~195 |
 | Comtesse Margaux de Vos | 45.00% | ~195 |
-| Curious and Beautiful | 44.00% | ~191 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~191 |
 | The Interrogations | 44.00% | ~191 |
-| Well-acquainted | 41.00% | ~178 |
+| Well-acquainted | 42.00% | ~182 |
 | Zakariya Demir | 41.00% | ~178 |
 | Well-read | 39.00% | ~169 |
-| Cassandra Van den Bosch | 37.00% | ~160 |
+| Cassandra Van den Bosch | 38.00% | ~165 |
 | The Secret | 37.00% | ~160 |
 | Gedeon Demir | 35.00% | ~152 |
 | Rehana Piette | 34.00% | ~147 |
 | Instinct is Marvellous | 33.00% | ~143 |
-| Ernesto da Silva | 32.00% | ~139 |
+| Ernesto da Silva | 33.00% | ~143 |
 | Inge Frank | 31.00% | ~134 |
 | Hugo Beckers | 30.00% | ~130 |
 | The Search | 30.00% | ~130 |
 | The Family | 27.00% | ~117 |
 | Well-travelled | 26.00% | ~113 |
 | Thinking of Everything | 26.00% | ~113 |
-| Exquisite Artwork | 25.00% | ~108 |
+| Exquisite Artwork | 26.00% | ~113 |
 | Archibald Sterling | 25.00% | ~108 |
 | Viscount Edwin Van den Bosch | 25.00% | ~108 |
 | Well-prepared | 21.00% | ~91 |
-| The Truth | 20.00% | ~87 |
+| The Truth | 21.00% | ~91 |
 | Sunken Secrets | 18.00% | ~78 |
 | What Else Did I Miss? | 18.00% | ~78 |
 | I Like an Audience | 18.00% | ~78 |
-| The Denouement | 16.00% | ~69 |
+| The Denouement | 17.00% | ~74 |
 | Probably the Greatest Detective in the World | 12.00% | ~52 |
 | Take a Break | 11.00% | ~48 |
 | Room with a View | 7.00% | ~30 |

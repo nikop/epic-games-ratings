@@ -2,10 +2,10 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 45,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.44,
+  "EOS_Progressed": 48,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 40,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -104,6 +104,11 @@
       "Time": "2023-09-29T13:09:51.1494566+00:00",
       "NumProgressed": 45,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-29T14:07:08.2448145+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -116,13 +121,13 @@
       "Name": "Time traveller",
       "Percentage": 29,
       "XP": 140,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 85,
       "UsersEstimate": 21
     },
@@ -130,25 +135,25 @@
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 71,
+      "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
       "SetID": "6f5dahd",
       "Name": "Get back to work",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 185,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_PENTAGRAM",
@@ -156,13 +161,13 @@
       "Name": "Evil plan",
       "Percentage": 42,
       "XP": 85,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 49,
+      "Percentage": 46,
       "XP": 85,
       "UsersEstimate": 22
     },
@@ -170,15 +175,15 @@
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 55,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SPEEDRUN",
       "SetID": "6f5dahd",
       "Name": "Fast as lightning",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 180,
       "UsersEstimate": 4
     },
@@ -186,22 +191,22 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 45,
-      "Completed": 2
+      "Progressed": 48,
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:09:51.1494561+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:07:08.2448135+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:06:13.5832173+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:09:51.1494641+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:02:19.0502681+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:07:08.2448289+00:00"
 }

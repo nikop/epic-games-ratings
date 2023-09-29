@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -982,9 +982,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2978,
+  "EOS_Progressed": 2979,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5102,6 +5102,11 @@
       "Time": "2023-09-28T17:05:41.1183131+00:00",
       "NumProgressed": 2978,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T14:05:51.8247595+00:00",
+      "NumProgressed": 2979,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5177,7 +5182,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -5185,7 +5190,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -5393,7 +5398,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -5441,7 +5446,7 @@
       "Name": "Tight lipslides",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -5496,15 +5501,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2978,
+      "Progressed": 2979,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-28T17:59:28.29898+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:08:56.2652014+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:05:51.8247588+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.5014589+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:03:04.6620051+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:08:56.2652524+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:59:54.4355667+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:05:51.8248751+00:00"
 }

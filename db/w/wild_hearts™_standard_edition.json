@@ -404,9 +404,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_18",
@@ -692,9 +692,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_7",
@@ -730,8 +730,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:09:04.3832788+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:06:03.5942219+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:01:30.2098261+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:09:04.3833138+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:57:37.9391885+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:06:03.5943027+00:00"
 }

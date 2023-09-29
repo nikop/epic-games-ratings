@@ -7,14 +7,14 @@
 | Land of the Rising Sun | 100.00% | ~75 |
 | Hidden History | 84.00% | ~63 |
 | Budding Conjuror | 81.00% | ~61 |
-| Commencing of Quests | 76.00% | ~57 |
+| Commencing of Quests | 77.00% | ~58 |
 | Man-Machine Master | 68.00% | ~51 |
 | Charmed by the Hunt | 68.00% | ~51 |
 | Mountain Splitter | 67.00% | ~50 |
 | Fusion Conjuror | 64.00% | ~48 |
 | Memory Rouser | 64.00% | ~48 |
+| Master of the Skies | 60.00% | ~45 |
 | Kemono Hunter | 60.00% | ~45 |
-| Master of the Skies | 59.00% | ~44 |
 | Subsistence Skills | 59.00% | ~44 |
 | Distance Devourer | 55.00% | ~41 |
 | Helpful Heart | 55.00% | ~41 |

@@ -5,19 +5,19 @@ Rating: 4.16 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,016 |
-| Unlocked Potential | 9.00% | ~3,614 |
+| Attachments | 10.00% | ~4,017 |
+| Unlocked Potential | 9.00% | ~3,615 |
 | Tinkerer | 8.00% | ~3,213 |
-| Knock 'Em Dead | 7.00% | ~2,811 |
-| Pilgrimage: Initiate | 7.00% | ~2,811 |
-| Hell of a Run | 7.00% | ~2,811 |
-| Leapfrogger | 6.00% | ~2,409 |
-| Call of the Fount: Baptized | 6.00% | ~2,409 |
+| Knock 'Em Dead | 7.00% | ~2,812 |
+| Pilgrimage: Initiate | 7.00% | ~2,812 |
+| Hell of a Run | 7.00% | ~2,812 |
+| Leapfrogger | 6.00% | ~2,410 |
+| Call of the Fount: Baptized | 6.00% | ~2,410 |
 | No Mercy | 5.00% | ~2,008 |
 | Explorer: Seeker | 5.00% | ~2,008 |
 | Help Me Out Here | 5.00% | ~2,008 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,606 |
-| Stuck | 4.00% | ~1,606 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,607 |
+| Stuck | 4.00% | ~1,607 |
 | Outdoorsperson | 3.00% | ~1,205 |
 | The Interloper | 3.00% | ~1,205 |
 | Hop, Step, Jump | 3.00% | ~1,205 |
@@ -39,11 +39,11 @@ Rating: 4.16 (Ranked 904)
 | Awakening | 0.60% | ~241 |
 | Explorer: Trailblazer | 0.60% | ~241 |
 | Through the Eyes of Another: Seer | 0.50% | ~201 |
-| Archivist | 0.30% | ~120 |
-| Craftsperson | 0.30% | ~120 |
-| Tit for Tat | 0.30% | ~120 |
-| Promises | 0.30% | ~120 |
-| Rebirth | 0.30% | ~120 |
+| Archivist | 0.30% | ~121 |
+| Craftsperson | 0.30% | ~121 |
+| Tit for Tat | 0.30% | ~121 |
+| Promises | 0.30% | ~121 |
+| Rebirth | 0.30% | ~121 |
 | Paragon | 0.20% | ~80 |
 | Pilgrimage: Adept | 0.20% | ~80 |
 | Call of the Fount: Beatified | 0.20% | ~80 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 904)
 | Remembrance | 0.10% | ~40 |
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,158 (Ranked 104)  
+Progressed: 40,167 (Ranked 104)  
 Completed: 3 (0.01%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 3 (0.01%) (Ranked 281)
 | 2023-09-26 | 40,073 | 3 |
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
-| 2023-09-29 | 40,158 | 3 |
+| 2023-09-29 | 40,167 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

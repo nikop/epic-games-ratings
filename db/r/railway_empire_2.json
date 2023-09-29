@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1958,
+  "EOS_Progressed": 1959,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4960,6 +4960,11 @@
       "Time": "2023-09-28T20:02:25.5046991+00:00",
       "NumProgressed": 1958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T14:04:05.516529+00:00",
+      "NumProgressed": 1959,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5035,7 +5040,7 @@
       "Name": "Conductor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "A09",
@@ -5067,7 +5072,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "A13",
@@ -5083,7 +5088,7 @@
       "Name": "A new Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "A15",
@@ -5131,7 +5136,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "A21",
@@ -5139,7 +5144,7 @@
       "Name": "Country Life",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "A22",
@@ -5147,7 +5152,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "A23",
@@ -5163,7 +5168,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "A25",
@@ -5195,7 +5200,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "A29",
@@ -5203,7 +5208,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "A30",
@@ -5211,7 +5216,7 @@
       "Name": "All mine",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "A31",
@@ -5243,7 +5248,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "A35",
@@ -5267,7 +5272,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "A38",
@@ -5275,7 +5280,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "A39",
@@ -5307,7 +5312,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "A43",
@@ -5315,7 +5320,7 @@
       "Name": "Mole",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "A44",
@@ -5339,7 +5344,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "A47",
@@ -5410,7 +5415,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1958,
+      "Progressed": 1959,
       "Completed": 0
     }
   ],
@@ -5418,8 +5423,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-28T13:58:27.851753+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:07:40.4887712+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:04:05.5165284+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:41.1464016+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:02:23.405508+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:07:40.4888319+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:58:55.3410322+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:04:05.5166414+00:00"
 }

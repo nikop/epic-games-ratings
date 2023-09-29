@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -262,9 +262,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "beat_c1_bronze",
@@ -486,9 +486,9 @@
       "ID": "beat_c4_silver",
       "SetID": "3448go",
       "Name": "Slip Sliding Away",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c4a_bronze",
@@ -742,9 +742,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "rolldist_short",
@@ -861,8 +861,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:08:55.6671115+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:05:51.0236097+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:08.0521147+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:03:32.8619307+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:08:55.6671921+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:00:35.0716695+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:05:51.0237927+00:00"
 }

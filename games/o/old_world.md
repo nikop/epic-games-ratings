@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 7.00% | ~993 |
-| Play a Single Player Game | 7.00% | ~993 |
-| Explorer | 6.00% | ~851 |
-| Friendly Family | 6.00% | ~851 |
+| Settler | 7.00% | ~994 |
+| Play a Single Player Game | 7.00% | ~994 |
+| Explorer | 6.00% | ~852 |
+| Friendly Family | 6.00% | ~852 |
 | Able | 5.00% | ~710 |
 | Intrepid | 5.00% | ~710 |
 | The Clergy | 5.00% | ~710 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~568 |
 | Oracle | 4.00% | ~568 |
 | Judaism | 4.00% | ~568 |
+| Greek Paganism | 4.00% | ~568 |
 | Naming Landmarks | 4.00% | ~568 |
 | Trade Caravan | 4.00% | ~568 |
 | Ambitious | 3.00% | ~426 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 3.00% | ~426 |
 | Carthaginian Paganism | 3.00% | ~426 |
 | Egyptian Paganism | 3.00% | ~426 |
-| Greek Paganism | 3.00% | ~426 |
 | Roman Paganism | 3.00% | ~426 |
 | Zoroastrianism | 3.00% | ~426 |
 | The Great Mage | 3.00% | ~426 |
@@ -131,13 +131,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.90% | ~128 |
 | Ishtar Gate in Babylon | 0.80% | ~114 |
 | Clerics | 0.80% | ~114 |
+| Cao'an | 0.80% | ~114 |
 | Egypt | 0.80% | ~114 |
 | Rome | 0.80% | ~114 |
 | One True Faith | 0.80% | ~114 |
 | No Undo | 0.80% | ~114 |
 | Old | 0.70% | ~99 |
 | Peacemaker | 0.70% | ~99 |
-| Cao'an | 0.70% | ~99 |
 | Play a Network Game | 0.70% | ~99 |
 | Cataphract Archer | 0.70% | ~99 |
 | All Nations | 0.70% | ~99 |
@@ -222,6 +222,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~14 |
 | Destroyer | 0.10% | ~14 |
 | Rebuilder | 0.10% | ~14 |
+| Restorer | 0.10% | ~14 |
 | White Death | 0.10% | ~14 |
 | Ethnic Diversity | 0.10% | ~14 |
 | Et tu Brutus? | 0.10% | ~14 |
@@ -290,7 +291,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
-| Restorer | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,190 (Ranked 133)  
+Progressed: 14,194 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 5 (0.04%) (Ranked 263)
 | 2023-09-26 | 14,144 | 5 |
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
-| 2023-09-29 | 14,190 | 5 |
+| 2023-09-29 | 14,194 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

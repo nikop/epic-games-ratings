@@ -2698,9 +2698,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31629,
+  "EOS_Progressed": 31630,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -20363,6 +20363,11 @@
       "Time": "2023-09-29T12:09:05.7801007+00:00",
       "NumProgressed": 31629,
       "NumCompleted": 260
+    },
+    {
+      "Time": "2023-09-29T14:09:35.1782361+00:00",
+      "NumProgressed": 31630,
+      "NumCompleted": 260
     }
   ],
   "TotalAchievements": 60,
@@ -20382,7 +20387,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14549
+      "UsersEstimate": 14550
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -20414,7 +20419,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6958
+      "UsersEstimate": 6959
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -20422,7 +20427,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -20438,7 +20443,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7907
+      "UsersEstimate": 7908
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -20486,7 +20491,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15498
+      "UsersEstimate": 15499
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -20526,7 +20531,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -20582,7 +20587,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13600
+      "UsersEstimate": 13601
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -20598,7 +20603,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11386
+      "UsersEstimate": 11387
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -20702,7 +20707,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9172
+      "UsersEstimate": 9173
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -20758,7 +20763,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 14233
+      "UsersEstimate": 14234
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -20766,7 +20771,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9172
+      "UsersEstimate": 9173
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -20774,7 +20779,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 21824
+      "UsersEstimate": 21825
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -20790,7 +20795,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -20853,15 +20858,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31629,
+      "Progressed": 31630,
       "Completed": 260
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-29T02:58:37.415564+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:12:24.6824306+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:09:35.1782353+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.6938944+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:02:56.380762+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:12:24.6825759+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:59:42.7696522+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:09:35.1784759+00:00"
 }

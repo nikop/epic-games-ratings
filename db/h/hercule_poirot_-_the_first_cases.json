@@ -564,9 +564,9 @@
       "ID": "ACH_010",
       "SetID": "72imik0",
       "Name": "The Denouement",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_011",
@@ -580,9 +580,9 @@
       "ID": "ACH_012",
       "SetID": "72imik0",
       "Name": "Well-acquainted",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_013",
@@ -604,17 +604,17 @@
       "ID": "ACH_015",
       "SetID": "72imik0",
       "Name": "Truth from Within",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_016",
       "SetID": "72imik0",
       "Name": "Curious and Beautiful",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_017",
@@ -652,9 +652,9 @@
       "ID": "ACH_020",
       "SetID": "72imik0",
       "Name": "Exquisite Artwork",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_021",
@@ -764,9 +764,9 @@
       "ID": "ACH_033",
       "SetID": "72imik0",
       "Name": "Cassandra Van den Bosch",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_034",
@@ -788,9 +788,9 @@
       "ID": "ACH_036",
       "SetID": "72imik0",
       "Name": "Ernesto da Silva",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_037",
@@ -916,9 +916,9 @@
       "ID": "ACH_09",
       "SetID": "72imik0",
       "Name": "The Truth",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
@@ -933,8 +933,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:10:33.1659819+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:08:08.1185273+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:20.2120388+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:01:38.8823941+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:10:33.1660154+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:57:49.9034823+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:08:08.118575+00:00"
 }

@@ -68,12 +68,12 @@ Rating: 4.03 (Ranked 950)
 | Enchanting skill x5 | 2.00% | ~40 |
 | Guardian Master | 2.00% | ~40 |
 | Enhanced War Machines | 1.00% | ~20 |
+| Pokerface | 1.00% | ~20 |
 | Titan Power | 1.00% | ~20 |
 | Training makes a Pro player | 1.00% | ~20 |
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
-| Pokerface | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
 | Conqueror | 0.70% | ~14 |
 | Silverwood liberator | 0.50% | ~10 |

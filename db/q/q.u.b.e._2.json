@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2023,6 +2023,11 @@
       "Time": "2023-09-29T09:06:11.2751498+00:00",
       "NumProgressed": 480,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T14:07:36.428744+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2035,7 +2040,7 @@
       "Name": "Descendants",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2227,7 +2232,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_S4",
@@ -2243,7 +2248,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2259,22 +2264,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:10:10.9285125+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:07:36.4287435+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:01:40.5944895+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:10:10.9285373+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:57:52.4544919+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:07:36.4287968+00:00"
 }

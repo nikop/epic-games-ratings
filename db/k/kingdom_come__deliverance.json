@@ -7572,9 +7572,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 802999,
+  "EOS_Progressed": 803002,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25622,6 +25622,11 @@
       "Time": "2023-09-29T13:10:22.4330871+00:00",
       "NumProgressed": 802999,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-09-29T14:07:52.7911425+00:00",
+      "NumProgressed": 803002,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -25713,7 +25718,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256960
+      "UsersEstimate": 256961
     },
     {
       "ID": "Bookworm",
@@ -26288,15 +26293,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 802999,
+      "Progressed": 803002,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-29T10:58:31.7652158+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:10:22.4330867+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:07:52.791142+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:59.4770388+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:02:39.5768443+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:10:22.433245+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:59:18.4158429+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:07:52.7913583+00:00"
 }

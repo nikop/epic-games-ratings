@@ -18,10 +18,10 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 9.00% | ~268 |
 | The hard way | 9.00% | ~268 |
 | Upfront shredder | 9.00% | ~268 |
-| Fashionista | 7.00% | ~208 |
-| Finally he zips it | 7.00% | ~208 |
-| That pinch! | 7.00% | ~208 |
-| Tight lipslides | 7.00% | ~208 |
+| Fashionista | 7.00% | ~209 |
+| Finally he zips it | 7.00% | ~209 |
+| That pinch! | 7.00% | ~209 |
+| Tight lipslides | 7.00% | ~209 |
 | Bottom ply killer | 6.00% | ~179 |
 | Fulfilled the dream | 6.00% | ~179 |
 | G'Day Mate! | 6.00% | ~179 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,978 (Ranked 188)  
+Progressed: 2,979 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 0 (0.00%) (Ranked 298)
 | 2023-09-26 | 2,954 | 0 |
 | 2023-09-27 | 2,965 | 0 |
 | 2023-09-28 | 2,978 | 0 |
+| 2023-09-29 | 2,979 | 0 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 399)  
 Sum: 474 (Ranked 311)  

@@ -2,9 +2,9 @@
   "ID": "72714161da094789aec500130c8530fa",
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 9.43,
+  "EOS_Completed_Percentage": 9.26,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -271,6 +271,11 @@
       "Time": "2023-09-29T04:05:01.7730414+00:00",
       "NumProgressed": 53,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-29T14:06:45.5138991+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -281,7 +286,7 @@
       "ID": "_armor_v2",
       "SetID": "2d5739o",
       "Name": "Armor v2",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -315,15 +320,15 @@
       "Name": "Bomb",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_bomb_m2",
       "SetID": "2d5739o",
       "Name": "Bomb m2",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "_bomb_m3",
@@ -459,7 +464,7 @@
       "Name": "Machinegun",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "_magnet",
@@ -481,7 +486,7 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -553,7 +558,7 @@
       "ID": "_shotgun",
       "SetID": "2d5739o",
       "Name": "Shotgun",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -609,9 +614,9 @@
       "ID": "_x2orb",
       "SetID": "2d5739o",
       "Name": "2X Orb",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "_x2score",
@@ -619,21 +624,21 @@
       "Name": "2X Score",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "2d5739o",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:09:33.5037279+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:06:45.5138984+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:04:17.7429826+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:09:33.503758+00:00"
+  "LastUpdate_Ratings": "2023-09-29T14:01:41.8669899+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:06:45.5139613+00:00"
 }

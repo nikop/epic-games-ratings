@@ -4,7 +4,7 @@
   "ProductSlug": "karmazoo-616bd0",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:01.6319037+00:00",
-  "LastChanged_Achievements": "2023-09-29T13:10:23.9232716+00:00",
+  "LastChanged_Achievements": "2023-09-29T14:07:54.9276103+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:00.4375791+00:00",
-  "LastUpdate_Ratings": "2023-09-29T13:03:05.0660247+00:00",
-  "LastUpdate_Achievements": "2023-09-29T13:10:23.9232747+00:00"
+  "LastUpdate_Ratings": "2023-09-29T13:59:54.8199608+00:00",
+  "LastUpdate_Achievements": "2023-09-29T14:07:54.9276141+00:00"
 }
