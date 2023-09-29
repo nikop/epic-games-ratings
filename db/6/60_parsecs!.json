@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 747,
+  "EOS_Progressed": 748,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -858,6 +858,11 @@
       "Time": "2023-09-29T08:03:24.5275012+00:00",
       "NumProgressed": 747,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-29T16:04:15.799944+00:00",
+      "NumProgressed": 748,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -893,7 +898,7 @@
       "Name": "All Seats Taken",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -933,7 +938,7 @@
       "Name": "Crafty",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Achievement_DontPanic",
@@ -941,7 +946,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1005,7 +1010,7 @@
       "Name": "For Science!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Achievement_Friendzone",
@@ -1045,7 +1050,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1101,7 +1106,7 @@
       "Name": "Mutiny in making",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1165,7 +1170,7 @@
       "Name": "Space Engineer",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1220,7 +1225,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 747,
+      "Progressed": 748,
       "Completed": 1
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:03:36.838602+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:04:15.7999432+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:57:00.3989341+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:00:32.6694361+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:03:36.8386455+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:02:11.1376906+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:04:15.8000153+00:00"
 }

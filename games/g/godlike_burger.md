@@ -5,24 +5,24 @@ Rating: 4.27 (Ranked 826)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 81.00% | ~359 |
-| FIRST BLOOD | 76.00% | ~337 |
-| KEVIN! | 66.00% | ~292 |
-| JACK OF ALL TRADES | 59.00% | ~261 |
-| CRIMINAL | 53.00% | ~235 |
-| GRANDMA WOULD BE PROUD | 44.00% | ~195 |
-| WITHOUT BREAKING A SWEAT | 40.00% | ~177 |
-| HONORS STUDENT | 35.00% | ~155 |
+| MASTER CHEF | 81.00% | ~360 |
+| FIRST BLOOD | 76.00% | ~338 |
+| KEVIN! | 66.00% | ~294 |
+| JACK OF ALL TRADES | 59.00% | ~263 |
+| CRIMINAL | 53.00% | ~236 |
+| GRANDMA WOULD BE PROUD | 44.00% | ~196 |
+| WITHOUT BREAKING A SWEAT | 39.00% | ~174 |
+| HONORS STUDENT | 35.00% | ~156 |
 | BUTCHER | 25.00% | ~111 |
-| RAMBO | 22.00% | ~97 |
+| RAMBO | 22.00% | ~98 |
 | INDIVIDUAL APPROACH | 20.00% | ~89 |
-| HELL'S KITCHEN | 19.00% | ~84 |
-| MARTYR | 19.00% | ~84 |
+| MARTYR | 19.00% | ~85 |
+| HELL'S KITCHEN | 18.00% | ~80 |
 | CELEBRITY | 16.00% | ~71 |
 | GRATITUDE | 16.00% | ~71 |
 | LAW-ABIDING CITIZEN | 10.00% | ~44 |
 | PRUDENT | 10.00% | ~44 |
-| PATTY-KILLER | 8.00% | ~35 |
+| PATTY-KILLER | 8.00% | ~36 |
 | EXPERIMENTALIST | 7.00% | ~31 |
 | GOURMET | 7.00% | ~31 |
 | SCATTERBRAIN | 7.00% | ~31 |
@@ -32,9 +32,9 @@ Rating: 4.27 (Ranked 826)
 | I'VE SEEN SOME… | 2.00% | ~9 |
 | DEBTOR | 1.00% | ~4 |
 | TRAVELER | 0.90% | ~4 |
-| MISTER ALL THUMBS | 0.50% | ~2 |
+| MISTER ALL THUMBS | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443 (Ranked 275)  
+Progressed: 445 (Ranked 275)  
 Completed: 2 (0.45%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.45%) (Ranked 172)
 | 2023-09-26 | 432 | 2 |
 | 2023-09-27 | 434 | 2 |
 | 2023-09-28 | 437 | 2 |
-| 2023-09-29 | 443 | 2 |
+| 2023-09-29 | 445 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

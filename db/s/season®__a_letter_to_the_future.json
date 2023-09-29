@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1266,
+  "EOS_Progressed": 1267,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.11,
+  "EOS_Completed_Percentage": 4.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2446,6 +2446,11 @@
       "Time": "2023-09-29T06:03:46.6842319+00:00",
       "NumProgressed": 1266,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-29T16:05:26.6719812+00:00",
+      "NumProgressed": 1267,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 16,
@@ -2505,7 +2510,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -2513,7 +2518,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2521,7 +2526,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2584,7 +2589,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1266,
+      "Progressed": 1267,
       "Completed": 52
     }
   ],
@@ -2592,8 +2597,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:04:26.5142092+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:05:26.6719806+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.5936868+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:58:49.2207385+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:04:26.5142393+00:00"
+  "LastUpdate_Ratings": "2023-09-29T15:59:34.3508988+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:05:26.6720075+00:00"
 }

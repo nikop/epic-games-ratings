@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1521,9 +1521,9 @@
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "MURICA_1",
@@ -1802,8 +1802,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:03:47.0686644+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:04:30.1816216+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:12.0994806+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:58:41.2268064+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:03:47.0687602+00:00"
+  "LastUpdate_Ratings": "2023-09-29T15:59:22.184181+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:04:30.181794+00:00"
 }

@@ -189,9 +189,9 @@
       "ID": "23",
       "SetID": "6hl9l7f",
       "Name": "Megashield",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "24",
@@ -404,8 +404,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:04:40.5731638+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:05:46.8223413+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:00:38.3813922+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:04:40.5731975+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:02:19.0806808+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:05:46.8224005+00:00"
 }

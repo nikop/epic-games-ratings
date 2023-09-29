@@ -2,9 +2,9 @@
   "ID": "2fdd28261b43442e8ac1e9e060fec80f",
   "Name": "Inspector Gadget - Mad Time Party",
   "ProductSlug": "inspector-gadget-mad-time-party-1dc812",
-  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-28T16:00:00+00:00",
@@ -133,8 +133,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-15T16:03:28.4278363+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:03:41.7234064+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:04:22.5779497+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:08.5714373+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:03:08.3731739+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:03:41.7234144+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:03:11.6478043+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:04:22.5779615+00:00"
 }

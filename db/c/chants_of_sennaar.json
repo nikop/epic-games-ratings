@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1131,9 +1131,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1147,9 +1147,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1290,8 +1290,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:09:19.584744+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:10:11.8976859+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:59:02.3194546+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:09:19.584768+00:00"
+  "LastUpdate_Ratings": "2023-09-29T15:59:54.7226087+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:10:11.8977138+00:00"
 }

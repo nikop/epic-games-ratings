@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -975,6 +975,11 @@
       "Time": "2023-09-28T18:07:55.1972164+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-29T16:08:50.2134211+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1050,7 +1055,7 @@
       "Name": "Over the clouds",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ALLTRACKSFUJI",
@@ -1074,7 +1079,7 @@
       "Name": "Under the sea, under the sea",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ALLTRACKSMARS",
@@ -1088,9 +1093,9 @@
       "ID": "ALLTRACKSTARTARUS",
       "SetID": "3dh70f3",
       "Name": "To the core",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 91
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1130,7 +1135,7 @@
       "Name": "Even Faster!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CAREERCLASSB",
@@ -1138,7 +1143,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1160,9 +1165,9 @@
       "ID": "CAREERTRIALSA",
       "SetID": "3dh70f3",
       "Name": "Had to sweat a bit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 46
     },
     {
       "ID": "CAREERTRIALSB",
@@ -1170,7 +1175,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1226,7 +1231,7 @@
       "Name": "Longshot",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GOFAST",
@@ -1282,7 +1287,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ONELIVERY",
@@ -1304,9 +1309,9 @@
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 206
     },
     {
       "ID": "ONEPLATINUM",
@@ -1322,7 +1327,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1401,7 +1406,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1142,
       "Completed": 0
     }
   ],
@@ -1409,8 +1414,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:06:51.2890193+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:08:50.2134202+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:25.7086726+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:59:36.670247+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:06:51.2890722+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:00:46.6661136+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:08:50.2135067+00:00"
 }

@@ -46,28 +46,28 @@
 | The Archangel | 33.00% | ~152 |
 | Broke, Blind, and Bedlam | 32.00% | ~148 |
 | Ghost Ship | 31.00% | ~143 |
+| The Quarian | 31.00% | ~143 |
 | The Justicar | 30.00% | ~139 |
-| The Quarian | 30.00% | ~139 |
 | The Prodigal | 30.00% | ~139 |
 | A Personal Touch | 29.00% | ~134 |
 | The Assassin | 29.00% | ~134 |
 | Battlemaster | 29.00% | ~134 |
 | The Cure | 29.00% | ~134 |
 | Big Game Hunter | 29.00% | ~134 |
+| Agent | 29.00% | ~134 |
 | Driven | 29.00% | ~134 |
 | Shopaholic | 29.00% | ~134 |
 | Focused | 28.00% | ~129 |
 | Catharsis | 28.00% | ~129 |
 | Fade Away | 28.00% | ~129 |
 | Ghost of the Father | 28.00% | ~129 |
-| Agent | 28.00% | ~129 |
 | Revenge! | 28.00% | ~129 |
 | Heart of Darkness | 28.00% | ~129 |
 | Cat's in the Cradle | 27.00% | ~125 |
+| Doppelganger | 27.00% | ~125 |
 | Digital Exorcist | 27.00% | ~125 |
 | Bringer of War | 27.00% | ~125 |
 | First Aid Specialist | 26.00% | ~120 |
-| Doppelganger | 26.00% | ~120 |
 | Treason | 26.00% | ~120 |
 | Friend or Foe | 25.00% | ~116 |
 | Mobilizer | 25.00% | ~116 |
@@ -91,11 +91,11 @@
 | No One Left Behind | 18.00% | ~83 |
 | Party Crasher | 18.00% | ~83 |
 | Problem Solver | 18.00% | ~83 |
+| Hard Target | 17.00% | ~79 |
 | Fact Finder | 17.00% | ~79 |
 | Pyromaniac | 16.00% | ~74 |
 | Sabotage Specialist | 16.00% | ~74 |
 | Throw Mastery | 16.00% | ~74 |
-| Hard Target | 16.00% | ~74 |
 | Saboteur | 16.00% | ~74 |
 | Under Pressure | 15.00% | ~69 |
 | Last Resort | 15.00% | ~69 |

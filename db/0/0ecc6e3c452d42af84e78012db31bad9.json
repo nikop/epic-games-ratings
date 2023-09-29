@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3277,
+  "EOS_Progressed": 3278,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -7256,6 +7256,11 @@
       "Time": "2023-09-29T15:03:25.6204735+00:00",
       "NumProgressed": 3277,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-29T16:03:39.8212395+00:00",
+      "NumProgressed": 3278,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 16,
@@ -7283,7 +7288,7 @@
       "Name": "Artist in the making",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ach_animals_completed",
@@ -7315,7 +7320,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ach_bomb",
@@ -7339,7 +7344,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "ach_food_completed",
@@ -7371,7 +7376,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ach_no_boosters",
@@ -7394,14 +7399,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3277,
+      "Progressed": 3278,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:03:25.6204732+00:00",
-  "LastUpdate_AppInfo": "2023-09-22T15:57:09.3671464+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:00:24.4452356+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:03:25.6205425+00:00"
+  "LastChanged_Achievements": "2023-09-29T16:03:39.8212386+00:00",
+  "LastUpdate_AppInfo": "2023-09-29T15:57:16.8209985+00:00",
+  "LastUpdate_Ratings": "2023-09-29T16:01:58.4213314+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:03:39.821341+00:00"
 }

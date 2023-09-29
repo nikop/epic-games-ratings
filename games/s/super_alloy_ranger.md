@@ -46,8 +46,8 @@
 | Alloy Rangers, Assemble! | 2.00% | ~2 |
 | Pumped Up | 2.00% | ~2 |
 | Easy Peasy | 2.00% | ~2 |
+| Clean Sweep | 2.00% | ~2 |
 | Mischief Time | 1.00% | ~1 |
-| Clean Sweep | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |
 | Flawless | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |

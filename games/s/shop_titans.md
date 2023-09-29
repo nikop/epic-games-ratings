@@ -14,17 +14,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 2.00% | ~2,737 |
 | Budding Merchant | 2.00% | ~2,737 |
 | Capitalism Ho! | 2.00% | ~2,737 |
-| The Daily Grind | 1.00% | ~1,368 |
-| One Easy Payment | 1.00% | ~1,368 |
-| Some Assembly Required | 1.00% | ~1,368 |
-| Bounty Hunters | 1.00% | ~1,368 |
-| Flooding the Market | 1.00% | ~1,368 |
-| Another Satisfied Customer | 1.00% | ~1,368 |
-| Pretty Penny | 1.00% | ~1,368 |
-| One-Armed Bandit | 1.00% | ~1,368 |
-| Dungeon Imports | 1.00% | ~1,368 |
-| Through Repetition, Perfection | 1.00% | ~1,368 |
-| Own the Means of Production | 1.00% | ~1,368 |
+| The Daily Grind | 1.00% | ~1,369 |
+| One Easy Payment | 1.00% | ~1,369 |
+| Some Assembly Required | 1.00% | ~1,369 |
+| Bounty Hunters | 1.00% | ~1,369 |
+| Flooding the Market | 1.00% | ~1,369 |
+| Another Satisfied Customer | 1.00% | ~1,369 |
+| Pretty Penny | 1.00% | ~1,369 |
+| One-Armed Bandit | 1.00% | ~1,369 |
+| Dungeon Imports | 1.00% | ~1,369 |
+| Through Repetition, Perfection | 1.00% | ~1,369 |
+| Own the Means of Production | 1.00% | ~1,369 |
 | Demand for Supplies | 0.90% | ~1,232 |
 | Where it Hurts | 0.90% | ~1,232 |
 | Gild-Gotten Goods | 0.90% | ~1,232 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,850 (Ranked 69)  
+Progressed: 136,853 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 158 (0.12%) (Ranked 230)
 | 2023-09-26 | 136,744 | 156 |
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
-| 2023-09-29 | 136,850 | 158 |
+| 2023-09-29 | 136,853 | 158 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,304 (Ranked 49)  

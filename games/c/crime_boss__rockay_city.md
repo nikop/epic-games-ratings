@@ -5,8 +5,8 @@ Rating: 3.94 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 0.90% | ~796 |
-| Downed but Not Outed | 0.90% | ~796 |
+| First One’s Free | 0.90% | ~797 |
+| Downed but Not Outed | 0.90% | ~797 |
 | Neophyte Ninja | 0.80% | ~708 |
 | Too Old for This | 0.70% | ~619 |
 | Underworld Initiate | 0.60% | ~531 |
@@ -19,9 +19,9 @@ Rating: 3.94 (Ranked 971)
 | Hidden Sonata | 0.40% | ~354 |
 | Case Closed | 0.40% | ~354 |
 | Raider’s Ruin | 0.40% | ~354 |
-| Track Star | 0.30% | ~265 |
-| Headhunter | 0.30% | ~265 |
-| True Player | 0.30% | ~265 |
+| Track Star | 0.30% | ~266 |
+| Headhunter | 0.30% | ~266 |
+| True Player | 0.30% | ~266 |
 | Legend Looter | 0.20% | ~177 |
 | Imports and Exports | 0.20% | ~177 |
 | Savvy Seeker | 0.20% | ~177 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 971)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,496 (Ranked 78)  
+Progressed: 88,500 (Ranked 78)  
 Completed: 46 (0.05%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 46 (0.05%) (Ranked 259)
 | 2023-09-26 | 88,367 | 46 |
 | 2023-09-27 | 88,409 | 46 |
 | 2023-09-28 | 88,457 | 46 |
-| 2023-09-29 | 88,496 | 46 |
+| 2023-09-29 | 88,500 | 46 |
 ## Awards
 Max (Diverse Characters): 466  (Ranked 206)  
 Sum: 2,222 (Ranked 194)  

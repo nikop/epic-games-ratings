@@ -6,9 +6,9 @@
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 10475,
+  "EOS_Progressed": 10476,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10802,6 +10802,11 @@
       "Time": "2023-09-29T15:06:16.7840269+00:00",
       "NumProgressed": 10475,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-29T16:08:01.655843+00:00",
+      "NumProgressed": 10476,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10901,7 +10906,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH13",
@@ -10973,7 +10978,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     },
     {
       "ID": "ACH22",
@@ -11029,7 +11034,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH29",
@@ -11084,7 +11089,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10475,
+      "Progressed": 10476,
       "Completed": 58
     }
   ],
@@ -11092,8 +11097,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-29T13:59:11.0924633+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:06:16.7840265+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:08:01.6558424+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:57.0719932+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:58:46.0254587+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:06:16.7841211+00:00"
+  "LastUpdate_Ratings": "2023-09-29T15:59:29.4698767+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:08:01.6559558+00:00"
 }

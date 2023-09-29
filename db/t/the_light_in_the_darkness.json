@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2448,
+  "EOS_Progressed": 2449,
   "EOS_Completed": 226,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 9.23,
   "EosHistory": [
@@ -6278,6 +6278,11 @@
       "Time": "2023-09-29T14:04:32.9394134+00:00",
       "NumProgressed": 2448,
       "NumCompleted": 226
+    },
+    {
+      "Time": "2023-09-29T16:05:10.7915988+00:00",
+      "NumProgressed": 2449,
+      "NumCompleted": 226
     }
   ],
   "TotalAchievements": 12,
@@ -6295,9 +6300,9 @@
       "ID": "Bernard",
       "SetID": "b40dflc",
       "Name": "Bernard",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 294
     },
     {
       "ID": "Building the Fox",
@@ -6369,7 +6374,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Nuremberg Laws",
@@ -6384,7 +6389,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2448,
+      "Progressed": 2449,
       "Completed": 226
     }
   ],
@@ -6392,8 +6397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:04:15.414965+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:05:10.791598+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:34.8068967+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:58:17.1330276+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:04:15.4150198+00:00"
+  "LastUpdate_Ratings": "2023-09-29T15:58:46.9686843+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:05:10.7916518+00:00"
 }

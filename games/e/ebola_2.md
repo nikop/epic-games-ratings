@@ -14,11 +14,11 @@
 | Mask ✔ | 0.40% | ~1 |
 | Exterminate pests ✔ | 0.40% | ~1 |
 | Doctor ✔ | 0.40% | ~1 |
+| Recruit ✔ | 0.40% | ~1 |
 | Guardian angel ✔ | 0.40% | ~1 |
 | Master of Unlocking ✔ | 0.40% | ~1 |
 | Saved the planet ✔ | 0.40% | ~1 |
 | Seeker ✔ | 0.00% | ~0 |
-| Recruit ✔ | 0.00% | ~0 |
 | Hardcore ✔ | 0.00% | ~0 |
 | Angel ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |

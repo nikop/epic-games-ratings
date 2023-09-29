@@ -19,8 +19,8 @@
 | Champollion | 32.00% | ~73 |
 | Peace walker | 31.00% | ~71 |
 | In this together | 29.00% | ~66 |
-| Open door | 26.00% | ~59 |
-| Feels like springtime | 24.00% | ~55 |
+| Open door | 27.00% | ~62 |
+| Feels like springtime | 25.00% | ~57 |
 | Rascal | 24.00% | ~55 |
 | Free at last | 23.00% | ~52 |
 | Alchemists Express | 23.00% | ~52 |

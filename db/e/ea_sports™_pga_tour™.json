@@ -2,8 +2,8 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 309,
-  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.46,
+  "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -777,6 +777,11 @@
       "Time": "2023-09-29T08:09:42.8488942+00:00",
       "NumProgressed": 285,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-29T16:10:12.2044284+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -805,7 +810,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_12",
@@ -813,7 +818,7 @@
       "Name": "From Way Downtown",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_13",
@@ -829,7 +834,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_15",
@@ -845,7 +850,7 @@
       "Name": "Star Power",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_17",
@@ -861,7 +866,7 @@
       "Name": "Perfect Round",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_2",
@@ -869,7 +874,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_3",
@@ -877,7 +882,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_4",
@@ -885,7 +890,7 @@
       "Name": "From Many, One",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_5",
@@ -909,7 +914,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_8",
@@ -917,7 +922,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 60,
       "XP": 35,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_9",
@@ -932,13 +937,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:09:19.926651+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:10:12.2044276+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-29T15:00:04.6697383+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:09:19.9266701+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:01:28.7917411+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:10:12.204458+00:00"
 }

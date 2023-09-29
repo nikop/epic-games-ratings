@@ -7,26 +7,26 @@ Rating: 4.54 (Ranked 512)
 | ---- | ---------- | ----- |
 | Hotel California | 3.00% | ~20,638 |
 | Welcome To Hell-A | 3.00% | ~20,638 |
-| Dr. Reed, I Presume? | 2.00% | ~13,758 |
-| Git Gutte! | 2.00% | ~13,758 |
-| Bookworm | 2.00% | ~13,758 |
-| Break A Leg | 2.00% | ~13,758 |
-| But Doctor, I am Butcho | 2.00% | ~13,758 |
-| Slayer Squad | 2.00% | ~13,758 |
-| Can't Handle the Truth | 2.00% | ~13,758 |
-| Coup de Grâce | 2.00% | ~13,758 |
-| Like Riding a Bike | 2.00% | ~13,758 |
-| Hazardous Materials | 2.00% | ~13,758 |
-| Friends Like These | 2.00% | ~13,758 |
-| Apex Predator | 2.00% | ~13,758 |
-| Zombologist | 2.00% | ~13,758 |
-| Ooh, Shiny! | 2.00% | ~13,758 |
-| A Patton Emerges | 2.00% | ~13,758 |
-| I Am the Resurrection | 2.00% | ~13,758 |
-| Stacking the Deck | 2.00% | ~13,758 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,758 |
-| Our True Nature | 2.00% | ~13,758 |
-| This is My Weapon | 2.00% | ~13,758 |
+| Dr. Reed, I Presume? | 2.00% | ~13,759 |
+| Git Gutte! | 2.00% | ~13,759 |
+| Bookworm | 2.00% | ~13,759 |
+| Break A Leg | 2.00% | ~13,759 |
+| But Doctor, I am Butcho | 2.00% | ~13,759 |
+| Slayer Squad | 2.00% | ~13,759 |
+| Can't Handle the Truth | 2.00% | ~13,759 |
+| Coup de Grâce | 2.00% | ~13,759 |
+| Like Riding a Bike | 2.00% | ~13,759 |
+| Hazardous Materials | 2.00% | ~13,759 |
+| Friends Like These | 2.00% | ~13,759 |
+| Apex Predator | 2.00% | ~13,759 |
+| Zombologist | 2.00% | ~13,759 |
+| Ooh, Shiny! | 2.00% | ~13,759 |
+| A Patton Emerges | 2.00% | ~13,759 |
+| I Am the Resurrection | 2.00% | ~13,759 |
+| Stacking the Deck | 2.00% | ~13,759 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,759 |
+| Our True Nature | 2.00% | ~13,759 |
+| This is My Weapon | 2.00% | ~13,759 |
 | Making Your Mark | 1.00% | ~6,879 |
 | Anger Management | 1.00% | ~6,879 |
 | Perks of the Job | 1.00% | ~6,879 |
@@ -34,10 +34,10 @@ Rating: 4.54 (Ranked 512)
 | Humanity Distilled | 1.00% | ~6,879 |
 | Down with the Sickness | 1.00% | ~6,879 |
 | Max Headroom | 1.00% | ~6,879 |
-| Jumbo Keyring | 0.80% | ~5,503 |
-| Go, Bobcats! | 0.80% | ~5,503 |
-| Rising Star | 0.80% | ~5,503 |
-| Smorgasbord | 0.70% | ~4,815 |
+| Jumbo Keyring | 0.80% | ~5,504 |
+| Go, Bobcats! | 0.80% | ~5,504 |
+| Rising Star | 0.80% | ~5,504 |
+| Smorgasbord | 0.70% | ~4,816 |
 | Not Even My Final Form | 0.60% | ~4,128 |
 | Internet Famous | 0.60% | ~4,128 |
 | Make it So | 0.50% | ~3,440 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 512)
 | Donk! | 0.10% | ~688 |
 | Bucket List | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687,923 (Ranked 22)  
+Progressed: 687,943 (Ranked 22)  
 Completed: 2,177 (0.32%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,10 +213,10 @@ Completed: 2,177 (0.32%) (Ranked 192)
 | 2023-09-26 | 686,808 | 2,176 |
 | 2023-09-27 | 687,260 | 2,176 |
 | 2023-09-28 | 687,692 | 2,177 |
-| 2023-09-29 | 687,923 | 2,177 |
+| 2023-09-29 | 687,943 | 2,177 |
 ## Awards
 Max (Great Boss Battles): 6,245  (Ranked 58)  
-Sum: 9,303 (Ranked 91)  
+Sum: 9,304 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -225,7 +225,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 428 |
 | This game has Quickly Understood Controls | 409 |
 | This game is Relaxing | 388 |
-| This game has Amazing Storytelling | 360 |
+| This game has Amazing Storytelling | 361 |
 | This game is Extremely Fun | 351 |
 | This game is Highly Recommended | 345 |
 | This game has Amazing Characters | 340 |
@@ -393,4 +393,4 @@ Diff (max vs sum): -33
 | 2023-09-26 | 4.54 | 6,217 | 9,252 |
 | 2023-09-27 | 4.54 | 6,229 | 9,274 |
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
-| 2023-09-29 | 4.54 | 6,245 | 9,303 |
+| 2023-09-29 | 4.54 | 6,245 | 9,304 |

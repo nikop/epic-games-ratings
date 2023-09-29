@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Feel for the Reel | 84.00% | ~573 |
-| Anything Else? | 83.00% | ~566 |
+| A Feel for the Reel | 84.00% | ~574 |
+| Anything Else? | 83.00% | ~567 |
 | The Ones that Got Away | 68.00% | ~464 |
 | Immortal | 40.00% | ~273 |
 | Up! | 35.00% | ~239 |
@@ -19,7 +19,7 @@
 | Hide and Seek | 15.00% | ~102 |
 | Be Like the Lotus | 12.00% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682 (Ranked 247)  
+Progressed: 683 (Ranked 247)  
 Completed: 43 (6.30%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,6 +42,7 @@ Completed: 43 (6.30%) (Ranked 46)
 | 2023-09-14 | 679 | 43 |
 | 2023-09-20 | 680 | 43 |
 | 2023-09-25 | 682 | 43 |
+| 2023-09-29 | 683 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

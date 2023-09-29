@@ -31,7 +31,7 @@
 | Tomb Raider | 0.00% | ~0 |
 | Fight Fire With Fire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 594)  
+Progressed: 1 (Ranked 595)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |

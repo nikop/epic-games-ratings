@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -476,9 +476,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13384,
+  "EOS_Progressed": 13385,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -9331,6 +9331,11 @@
       "Time": "2023-09-29T15:06:18.0534637+00:00",
       "NumProgressed": 13384,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-29T16:08:03.2297851+00:00",
+      "NumProgressed": 13385,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -9342,7 +9347,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12313
+      "UsersEstimate": 12314
     },
     {
       "ID": "ACH_02",
@@ -9350,15 +9355,15 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10573
+      "UsersEstimate": 10574
     },
     {
       "ID": "ACH_03",
       "SetID": "9d4cf4c",
       "Name": "A Burden of Blood",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9770
+      "UsersEstimate": 9905
     },
     {
       "ID": "ACH_04",
@@ -9366,7 +9371,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9369
+      "UsersEstimate": 9370
     },
     {
       "ID": "ACH_05",
@@ -9374,7 +9379,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9101
+      "UsersEstimate": 9102
     },
     {
       "ID": "ACH_06",
@@ -9390,7 +9395,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "ACH_08",
@@ -9398,7 +9403,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8164
+      "UsersEstimate": 8165
     },
     {
       "ID": "ACH_09",
@@ -9422,7 +9427,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "ACH_12",
@@ -9534,7 +9539,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "ACH_26",
@@ -9550,7 +9555,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ACH_28",
@@ -9558,7 +9563,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9101
+      "UsersEstimate": 9102
     },
     {
       "ID": "ACH_29",
@@ -9590,7 +9595,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "ACH_33",
@@ -9621,7 +9626,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13384,
+      "Progressed": 13385,
       "Completed": 47
     }
   ],
@@ -9629,8 +9634,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-27T10:59:16.3934909+00:00",
-  "LastChanged_Achievements": "2023-09-29T15:06:18.0534632+00:00",
+  "LastChanged_Achievements": "2023-09-29T16:08:03.2297843+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-29T14:59:30.7221911+00:00",
-  "LastUpdate_Achievements": "2023-09-29T15:06:18.0535492+00:00"
+  "LastUpdate_Ratings": "2023-09-29T16:00:37.9537135+00:00",
+  "LastUpdate_Achievements": "2023-09-29T16:08:03.2299316+00:00"
 }

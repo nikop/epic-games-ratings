@@ -20,6 +20,7 @@ Rating: 4.50 (Ranked 573)
 | Icing on the Cake | 0.50% | ~130 |
 | Swift Rift Removers | 0.50% | ~130 |
 | Teamwork | 0.50% | ~130 |
+| Terrifying | 0.50% | ~130 |
 | There you are! | 0.50% | ~130 |
 | Animated | 0.40% | ~104 |
 | Daily Dose | 0.40% | ~104 |
@@ -28,10 +29,10 @@ Rating: 4.50 (Ranked 573)
 | Right back at ya | 0.40% | ~104 |
 | Side Hustle | 0.40% | ~104 |
 | Summoner | 0.40% | ~104 |
-| Terrifying | 0.40% | ~104 |
 | Welcome to the Crew | 0.40% | ~104 |
 | Legions | 0.30% | ~78 |
 | Pesky Jerks | 0.30% | ~78 |
+| Seasoned | 0.30% | ~78 |
 | Skilled | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
 | We have the best insurance | 0.20% | ~52 |
@@ -41,7 +42,6 @@ Rating: 4.50 (Ranked 573)
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |
-| Seasoned | 0.20% | ~52 |
 | Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,078 (Ranked 113)  
+Progressed: 26,079 (Ranked 113)  
 Completed: 58 (0.22%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 58 (0.22%) (Ranked 210)
 | 2023-09-26 | 26,042 | 58 |
 | 2023-09-27 | 26,057 | 58 |
 | 2023-09-28 | 26,071 | 58 |
-| 2023-09-29 | 26,078 | 58 |
+| 2023-09-29 | 26,079 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 256)  
 Sum: 2,331 (Ranked 188)  

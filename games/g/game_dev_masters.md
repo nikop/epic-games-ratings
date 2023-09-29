@@ -73,7 +73,7 @@
 | Topic Learner | 0.00% | ~0 |
 | Topic Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 594)  
+Progressed: 1 (Ranked 595)  
 Completed: 0 (0.00%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
