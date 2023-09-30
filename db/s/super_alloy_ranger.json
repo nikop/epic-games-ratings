@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-09-24T06:04:48.0872682+00:00",
       "NumProgressed": 90,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T01:45:51.981122+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -452,7 +457,7 @@
       "ID": "Achi_01",
       "SetID": "51a97k7",
       "Name": "The Sunken City Conqueror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -500,7 +505,7 @@
       "ID": "Achi_07",
       "SetID": "51a97k7",
       "Name": "The Zero Dimensional Capital Conqueror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -508,7 +513,7 @@
       "ID": "Achi_08",
       "SetID": "51a97k7",
       "Name": "The Inactivated Frozen Conqueror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -524,7 +529,7 @@
       "ID": "Achi_10",
       "SetID": "51a97k7",
       "Name": "Death Bringer Conqueror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -590,7 +595,7 @@
       "Name": "Gear Up",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achi_19",
@@ -606,7 +611,7 @@
       "Name": "Freshen Up",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achi_21",
@@ -622,13 +627,13 @@
       "Name": "Iceberg Theory",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -662,13 +667,13 @@
       "Name": "GG EZ",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 33
     },
@@ -676,7 +681,7 @@
       "ID": "Achi_29",
       "SetID": "51a97k7",
       "Name": "Rapidfire",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -686,7 +691,7 @@
       "Name": "A Grand Show",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achi_31",
@@ -716,9 +721,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Achi_35",
@@ -732,7 +737,7 @@
       "ID": "Achi_36",
       "SetID": "51a97k7",
       "Name": "Air Interception",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -764,7 +769,7 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -820,7 +825,7 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -853,7 +858,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 0
     }
   ],
@@ -861,8 +866,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:05:21.8913379+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:45:51.9811211+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.3106061+00:00",
-  "LastUpdate_Ratings": "2023-09-30T00:00:09.8683146+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:05:21.8913968+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:40:13.8578465+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:45:51.9811673+00:00"
 }

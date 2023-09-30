@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2966,10 +2966,10 @@
       "Count": 320
     }
   ],
-  "EOS_Progressed": 16749,
+  "EOS_Progressed": 16751,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 68,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -11226,6 +11226,11 @@
       "Time": "2023-09-29T20:06:14.6472964+00:00",
       "NumProgressed": 16749,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-30T01:46:49.6221436+00:00",
+      "NumProgressed": 16751,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -11245,7 +11250,7 @@
       "Name": "Feeding The People",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "AllNeeds",
@@ -11261,7 +11266,7 @@
       "Name": "Higher Needs",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BeaverUtopia",
@@ -11301,7 +11306,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "MetalChain",
@@ -11333,7 +11338,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "WinImpossible",
@@ -11341,7 +11346,7 @@
       "Name": "Against All Odds",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearArmory",
@@ -11349,7 +11354,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearBandit",
@@ -11365,7 +11370,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearBattleground",
@@ -11397,7 +11402,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "WinNearFishmen",
@@ -11421,7 +11426,7 @@
       "Name": "Haunted Forest",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearLevitating",
@@ -11429,7 +11434,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearMines",
@@ -11437,7 +11442,7 @@
       "Name": "Flooded Mines",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearMonastery",
@@ -11445,7 +11450,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearOutpost",
@@ -11469,7 +11474,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearTemple",
@@ -11485,7 +11490,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinNearWatchtower",
@@ -11501,7 +11506,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "WinOnCursed",
@@ -11509,7 +11514,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "WinOnMarshlands",
@@ -11525,7 +11530,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "WinPrestige10",
@@ -11533,7 +11538,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WinPrestige20",
@@ -11541,7 +11546,7 @@
       "Name": "The Queen\u0027s Chosen",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "WinVeryHard",
@@ -11565,7 +11570,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WinWithEvents",
@@ -11581,7 +11586,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WinWithRuins",
@@ -11636,15 +11641,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16749,
+      "Progressed": 16751,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-28T19:01:35.2494863+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:06:16.9623382+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:46:49.622143+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:17.750828+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:57:04.6747188+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:06:16.9624334+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:37:06.3595323+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:46:49.6222434+00:00"
 }

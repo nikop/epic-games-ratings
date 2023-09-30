@@ -40,6 +40,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
 | Do Not Burn | 0.30% | ~19 |
+| First Impressions | 0.30% | ~19 |
 | Rule 34 | 0.30% | ~19 |
 | Rachael | 0.30% | ~19 |
 | The Muse: Derek | 0.30% | ~19 |
@@ -47,7 +48,6 @@ Number of Ratings: 177  (23.09.2022)
 | Good Ol' Days | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
-| First Impressions | 0.20% | ~13 |
 | The Harder They Fall...Dood | 0.20% | ~13 |
 | Ronin | 0.20% | ~13 |
 | Do You Smell Blood? | 0.20% | ~13 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,310 (Ranked 158)  
+Progressed: 6,311 (Ranked 158)  
 Completed: 3 (0.05%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 3 (0.05%) (Ranked 260)
 | 2023-09-27 | 6,300 | 3 |
 | 2023-09-28 | 6,304 | 3 |
 | 2023-09-29 | 6,310 | 3 |
+| 2023-09-30 | 6,311 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

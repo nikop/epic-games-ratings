@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 230,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.09,
   "EosHistory": [
@@ -1133,9 +1133,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1300,8 +1300,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:08:36.9887612+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:49:09.5505674+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:58:53.615366+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:08:36.9887832+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:38:55.4172354+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:49:09.5505929+00:00"
 }

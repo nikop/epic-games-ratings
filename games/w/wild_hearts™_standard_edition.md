@@ -46,7 +46,7 @@
 | Tender Touch | 21.00% | ~16 |
 | Quintessence of Form | 21.00% | ~16 |
 | Karakuri Fortress | 19.00% | ~15 |
-| Relentless Kemono Hunter | 18.00% | ~14 |
+| Relentless Kemono Hunter | 19.00% | ~15 |
 | Haven Hunter | 18.00% | ~14 |
 | Vanquisher of the Volatile | 17.00% | ~13 |
 | Big Spender | 14.00% | ~11 |

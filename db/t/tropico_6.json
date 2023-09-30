@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1158,7 +1158,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5397,
+  "EOS_Progressed": 5398,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -10583,6 +10583,11 @@
       "Time": "2023-09-29T20:03:58.6139993+00:00",
       "NumProgressed": 5397,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T01:44:31.2703774+00:00",
+      "NumProgressed": 5398,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10698,7 +10703,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -10714,7 +10719,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -10746,7 +10751,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -10778,7 +10783,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -10913,15 +10918,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5397,
+      "Progressed": 5398,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-28T14:01:11.893357+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:04:03.6113735+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:44:31.2703768+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:19.3753559+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:57:03.0782787+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:04:03.6114657+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:37:04.4052015+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:44:31.270467+00:00"
 }

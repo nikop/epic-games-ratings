@@ -4938,9 +4938,9 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 688139,
+  "EOS_Progressed": 688174,
   "EOS_Completed": 2177,
-  "EOS_NewPlayers": 3701,
+  "EOS_NewPlayers": 3715,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23263,6 +23263,11 @@
       "Time": "2023-09-30T00:03:32.7635293+00:00",
       "NumProgressed": 688139,
       "NumCompleted": 2177
+    },
+    {
+      "Time": "2023-09-30T01:43:59.0459268+00:00",
+      "NumProgressed": 688174,
+      "NumCompleted": 2177
     }
   ],
   "TotalAchievements": 45,
@@ -23282,7 +23287,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ach_ammo_ran",
@@ -23298,7 +23303,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -23322,7 +23327,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ach_bookworm",
@@ -23354,7 +23359,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -23434,7 +23439,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20644
+      "UsersEstimate": 20645
     },
     {
       "ID": "ach_impressive_aim",
@@ -23458,7 +23463,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -23514,7 +23519,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ach_revival_tour",
@@ -23530,7 +23535,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ach_secrets_of_la",
@@ -23538,7 +23543,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "ach_skilled_up",
@@ -23562,7 +23567,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -23570,7 +23575,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "ach_the_vcla",
@@ -23610,7 +23615,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20644
+      "UsersEstimate": 20645
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23633,22 +23638,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 688139,
+      "Progressed": 688174,
       "Completed": 2177
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 13681,
-      "Completed": 13681
+      "Progressed": 13716,
+      "Completed": 13716
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-29T23:58:41.4308892+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:03:32.7635289+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:43:59.0459262+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:58:41.4308902+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:03:32.7636822+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:38:44.2168822+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:43:59.0460931+00:00"
 }

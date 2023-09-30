@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~280 |
-| Off to a good start | 66.00% | ~208 |
+| New Recruit | 89.00% | ~281 |
+| Off to a good start | 66.00% | ~209 |
 | Do... or do not. There is no try | 52.00% | ~164 |
-| A good blaster at your side | 35.00% | ~110 |
-| Scrap collector | 22.00% | ~69 |
+| A good blaster at your side | 35.00% | ~111 |
+| Scrap collector | 22.00% | ~70 |
 | Great shot, kid! | 20.00% | ~63 |
 | The power of the Force | 18.00% | ~57 |
 | Together we can rule the galaxy | 18.00% | ~57 |
 | All right, I'll give it a try | 18.00% | ~57 |
 | I suggest a new strategy | 18.00% | ~57 |
 | Shoot first | 17.00% | ~54 |
-| Collector | 16.00% | ~50 |
+| Collector | 16.00% | ~51 |
 | Survivor | 14.00% | ~44 |
 | Tell Jabba that I've got his money | 12.00% | ~38 |
 | Never tell me the odds! | 11.00% | ~35 |
 | Best star-pilot in the galaxy | 11.00% | ~35 |
 | A cunning warrior | 11.00% | ~35 |
 | What's the cargo? | 10.00% | ~32 |
-| A tremor in the Force | 10.00% | ~32 |
 | Impressive. Most impressive. | 10.00% | ~32 |
 | Judge me by my size, do you? | 10.00% | ~32 |
 | "Gonk? Gonk!" | 9.00% | ~28 |
+| A tremor in the Force | 9.00% | ~28 |
 | Distinguished | 8.00% | ~25 |
 | Patience you must have | 8.00% | ~25 |
 | Support the troops | 8.00% | ~25 |
@@ -58,8 +58,8 @@
 | I’ll take that bet | 2.00% | ~6 |
 | Stop that Droid | 2.00% | ~6 |
 | in a galaxy far, far away.... | 1.00% | ~3 |
-| Don't get cocky | 1.00% | ~3 |
-| Greed can be a very powerful ally | 1.00% | ~3 |
+| Don't get cocky | 0.90% | ~3 |
+| Greed can be a very powerful ally | 0.90% | ~3 |
 | That got him! | 0.60% | ~2 |
 | Stay on target | 0.60% | ~2 |
 | Master | 0.60% | ~2 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~1 |
 | Crush them with one swift stroke… | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 302)  
+Progressed: 316 (Ranked 302)  
 Completed: 1 (0.32%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.32%) (Ranked 191)
 | 2023-09-27 | 253 | 1 |
 | 2023-09-28 | 289 | 1 |
 | 2023-09-29 | 314 | 1 |
-| 2023-09-30 | 315 | 1 |
+| 2023-09-30 | 316 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

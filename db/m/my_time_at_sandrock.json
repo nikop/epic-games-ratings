@@ -4,11 +4,11 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 244,
   "Ranking_Popularity": 192,
-  "Ranking_PopularitySum": 232,
+  "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1033,10 +1033,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1248,
       "NumberOfAwardsMax": 568
+    },
+    {
+      "Time": "2023-09-30T01:38:30.9701208+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1249,
+      "NumberOfAwardsMax": 568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1248,
+  "NumberOfAwards": 1249,
   "NumberOfAwardsMax": 568,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1104,7 +1110,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Easy Combat",
@@ -1132,9 +1138,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2023-09-28T23:58:10.4399501+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:03:20.5901828+00:00",
+  "LastChanged": "2023-09-30T01:38:30.9701207+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:43:46.3149267+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.7923372+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:58:27.132058+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:03:20.5901861+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:38:30.9701217+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:43:46.3149314+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,709 |
-| That's a Grand Army | 3.00% | ~12,532 |
-| That is mine! | 3.00% | ~12,532 |
-| Victorious! | 3.00% | ~12,532 |
-| Brothers in Arms | 2.00% | ~8,355 |
-| For the Glory | 2.00% | ~8,355 |
-| That's a Grand Navy | 2.00% | ~8,355 |
-| Seriously?! | 2.00% | ~8,355 |
-| Cold War | 1.00% | ~4,177 |
-| Defender of the Faith | 1.00% | ~4,177 |
-| It's all about the money | 1.00% | ~4,177 |
-| The Princess is in this Castle | 1.00% | ~4,177 |
-| True Catholic | 1.00% | ~4,177 |
+| Until death do us apart | 4.00% | ~16,711 |
+| That's a Grand Army | 3.00% | ~12,533 |
+| That is mine! | 3.00% | ~12,533 |
+| Victorious! | 3.00% | ~12,533 |
+| Brothers in Arms | 2.00% | ~8,356 |
+| For the Glory | 2.00% | ~8,356 |
+| That's a Grand Navy | 2.00% | ~8,356 |
+| Seriously?! | 2.00% | ~8,356 |
+| Cold War | 1.00% | ~4,178 |
+| Defender of the Faith | 1.00% | ~4,178 |
+| It's all about the money | 1.00% | ~4,178 |
+| The Princess is in this Castle | 1.00% | ~4,178 |
+| True Catholic | 1.00% | ~4,178 |
 | It's all about luck | 0.90% | ~3,760 |
 | Respected | 0.90% | ~3,760 |
 | Truly Divine Ruler | 0.90% | ~3,760 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,342 |
 | Total Control | 0.80% | ~3,342 |
 | Royal Authority | 0.70% | ~2,924 |
-| My armies are invincible! | 0.60% | ~2,506 |
+| My armies are invincible! | 0.60% | ~2,507 |
 | Agressive Expander | 0.50% | ~2,089 |
 | City of Cities | 0.50% | ~2,089 |
 | Combined Arms | 0.50% | ~2,089 |
@@ -45,19 +45,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,253 |
 | The Five Colonies | 0.30% | ~1,253 |
 | Trustworthy | 0.30% | ~1,253 |
-| All belongs to Mother Russia | 0.20% | ~835 |
-| At every continent | 0.20% | ~835 |
-| Early-Modern Warfare | 0.20% | ~835 |
-| Electable! | 0.20% | ~835 |
-| Grand Coalition | 0.20% | ~835 |
-| Just a Little Patience | 0.20% | ~835 |
-| One Family to Rule them All | 0.20% | ~835 |
-| Ruina Imperii | 0.20% | ~835 |
-| The pen is mightier than the sword | 0.20% | ~835 |
-| This is My Faith | 0.20% | ~835 |
-| Time Bandit | 0.20% | ~835 |
-| Traditional Player | 0.20% | ~835 |
-| Voting Streak | 0.20% | ~835 |
+| All belongs to Mother Russia | 0.20% | ~836 |
+| At every continent | 0.20% | ~836 |
+| Early-Modern Warfare | 0.20% | ~836 |
+| Electable! | 0.20% | ~836 |
+| Grand Coalition | 0.20% | ~836 |
+| Just a Little Patience | 0.20% | ~836 |
+| One Family to Rule them All | 0.20% | ~836 |
+| Ruina Imperii | 0.20% | ~836 |
+| The pen is mightier than the sword | 0.20% | ~836 |
+| This is My Faith | 0.20% | ~836 |
+| Time Bandit | 0.20% | ~836 |
+| Traditional Player | 0.20% | ~836 |
+| Voting Streak | 0.20% | ~836 |
 | The 52 Garhs | 0.10% | ~418 |
 | I don't like sand | 0.10% | ~418 |
 | A Blessed Nation | 0.10% | ~418 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,732 (Ranked 41)  
+Progressed: 417,776 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,14 +524,14 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
 | 2023-09-29 | 417,709 | 1 |
-| 2023-09-30 | 417,732 | 1 |
+| 2023-09-30 | 417,776 | 1 |
 ## Awards
-Max (Educational): 6,316  (Ranked 57)  
-Sum: 51,874 (Ranked 24)  
+Max (Educational): 6,335  (Ranked 57)  
+Sum: 51,911 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,316 |
+| This game is Educational | 6,335 |
 | This game is Highly Recommended | 6,012 |
 | This game has Challenging Combat | 5,991 |
 | This game is Extremely Fun | 5,965 |
@@ -539,7 +539,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 5,829 |
 | This game has Competitive Players | 5,631 |
 | This game has Amazing Storytelling | 5,276 |
-| This game has Amazing Characters | 4,891 |
+| This game has Amazing Characters | 4,909 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -800,3 +800,4 @@ Diff (max vs sum): 33
 | 2023-09-27 | 4.69 | - | 6,290 | 51,632 |
 | 2023-09-28 | 4.69 | - | 6,316 | 51,764 |
 | 2023-09-29 | 4.69 | - | 6,316 | 51,874 |
+| 2023-09-30 | 4.69 | - | 6,335 | 51,911 |

@@ -2,9 +2,9 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 25.09,
+  "EOS_Completed_Percentage": 25,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1376,6 +1376,11 @@
       "Time": "2023-09-29T19:05:41.7455075+00:00",
       "NumProgressed": 267,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-09-30T01:45:46.9229344+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1388,7 +1393,7 @@
       "Name": "Safe Cracker",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Batteries",
@@ -1412,7 +1417,7 @@
       "Name": "Accident",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FirstBox",
@@ -1420,15 +1425,15 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "Fusses",
@@ -1436,23 +1441,23 @@
       "Name": "Beginner Electrician",
       "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 126
     },
     {
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "GasFound",
@@ -1476,7 +1481,7 @@
       "Name": "Screwdriver",
       "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "SecretRoom",
@@ -1484,29 +1489,29 @@
       "Name": "Researcher",
       "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 128
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 67
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:05:17.0696291+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:45:46.9229338+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.4954104+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:57:02.8338377+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:05:17.0696501+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:37:04.15295+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:45:46.9229545+00:00"
 }

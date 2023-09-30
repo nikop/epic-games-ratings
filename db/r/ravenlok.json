@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2996,9 +2996,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 407
     },
     {
       "ID": "15",
@@ -3108,9 +3108,9 @@
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 429
     },
     {
       "ID": "28",
@@ -3365,8 +3365,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:03:58.2767571+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:44:25.599992+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:15.0927623+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:57:28.6464047+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:03:58.2768184+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:37:31.0226782+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:44:25.6000619+00:00"
 }

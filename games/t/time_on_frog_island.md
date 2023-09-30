@@ -13,6 +13,7 @@
 | Safe Investment | 14.00% | ~1 |
 | Bank of Me | 14.00% | ~1 |
 | Hoist the Sails | 14.00% | ~1 |
+| Secure the Sheets | 14.00% | ~1 |
 | Replace the Rudder | 14.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | Home Sweet Home | 0.00% | ~0 |
 | Falling with Style | 0.00% | ~0 |
 | Froggy Friendship | 0.00% | ~0 |
-| Secure the Sheets | 0.00% | ~0 |
 | Hands on the Helm | 0.00% | ~0 |
 | The Journey Continues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

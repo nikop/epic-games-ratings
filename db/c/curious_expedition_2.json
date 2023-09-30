@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -247,6 +247,11 @@
       "Time": "2023-09-17T18:07:08.7017895+00:00",
       "NumProgressed": 323,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T01:47:12.4948765+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -402,7 +407,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach-campaign-story3",
@@ -434,7 +439,7 @@
       "Name": "Cartographer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach-discover-locations-high",
@@ -466,7 +471,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach-find-treasure-high",
@@ -482,7 +487,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ach-hardExpeditions",
@@ -506,7 +511,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach-keepHighStanding",
@@ -538,7 +543,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach-learn-traits",
@@ -586,7 +591,7 @@
       "Name": "Spooky!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach-noEquipment",
@@ -608,9 +613,9 @@
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 75
     },
     {
       "ID": "ach-paleMask-cure",
@@ -634,7 +639,7 @@
       "Name": "From Whence we Came",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ach-promotion",
@@ -648,9 +653,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 100
     },
     {
       "ID": "ach-redElk",
@@ -704,9 +709,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 104
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -730,14 +735,14 @@
       "Name": "Dapper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 1
     }
   ],
@@ -745,8 +750,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:08:10.00937+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:47:12.4948759+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:58.3339671+00:00",
-  "LastUpdate_Ratings": "2023-09-30T00:00:07.5579902+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:08:10.0094281+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:40:11.3587836+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:47:12.4949356+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 493,
-  "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-09-21T15:04:03.1209788+00:00",
@@ -94,6 +94,11 @@
       "Time": "2023-09-29T22:06:15.5608232+00:00",
       "NumProgressed": 15,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T01:46:35.4920816+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -104,7 +109,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_INSIDE",
       "SetID": "5lffoo5",
       "Name": "Minimalist lifestyle",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -112,7 +117,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_ROOF",
       "SetID": "5lffoo5",
       "Name": "I deliver the presents!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -144,7 +149,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_SANTA",
       "SetID": "5lffoo5",
       "Name": "Good list",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -152,7 +157,7 @@
       "ID": "ACHIEVEMENT_MAIN_FAILED",
       "SetID": "5lffoo5",
       "Name": "At least you tried",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -160,7 +165,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Golden Button",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -168,7 +173,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_CARROT",
       "SetID": "5lffoo5",
       "Name": "Golden Carrot",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -176,7 +181,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_HAT",
       "SetID": "5lffoo5",
       "Name": "Golden Hat",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -184,7 +189,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_SCARF",
       "SetID": "5lffoo5",
       "Name": "Golden Scarf",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -192,7 +197,7 @@
       "ID": "ACHIEVEMENT_MAIN_NAUGHTY",
       "SetID": "5lffoo5",
       "Name": "Naughty list",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -200,7 +205,7 @@
       "ID": "ACHIEVEMENT_MAIN_SHINY",
       "SetID": "5lffoo5",
       "Name": "Bling Bling",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -232,7 +237,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
       "SetID": "5lffoo5",
       "Name": "Silver Scarf",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -240,7 +245,7 @@
       "ID": "ACHIEVEMENT_MAIN_WRONG_PATH",
       "SetID": "5lffoo5",
       "Name": "So close!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -249,13 +254,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:06:03.4446183+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:46:35.4920811+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3551059+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:57:37.3352558+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:06:03.4446293+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:37:40.7961233+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:46:35.4920946+00:00"
 }

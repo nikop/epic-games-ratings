@@ -26,6 +26,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.20% | ~1,431 |
 | I know Kung-Fu | 0.20% | ~1,431 |
 | Old Child | 0.20% | ~1,431 |
+| Kung-Fu Tussle | 0.20% | ~1,431 |
 | Path of the Prospect | 0.20% | ~1,431 |
 | Rumble in the Hangar | 0.20% | ~1,431 |
 | Take damage to save time | 0.20% | ~1,431 |
@@ -47,7 +48,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.10% | ~715 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~715 |
 | Sword Stained With Blood | 0.10% | ~715 |
-| Kung-Fu Tussle | 0.10% | ~715 |
 | The Pit Protector | 0.10% | ~715 |
 | Be like water my friend | 0.10% | ~715 |
 | Warriors from the Mountain | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,384 (Ranked 20)  
+Progressed: 715,388 (Ranked 20)  
 Completed: 12,904 (1.80%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 12,904 (1.80%) (Ranked 108)
 | 2023-09-27 | 715,343 | 12,903 |
 | 2023-09-28 | 715,362 | 12,904 |
 | 2023-09-29 | 715,380 | 12,904 |
-| 2023-09-30 | 715,384 | 12,904 |
+| 2023-09-30 | 715,388 | 12,904 |
 ## Awards
 Max (Great Boss Battles): 6,610  (Ranked 54)  
 Sum: 11,437 (Ranked 81)  

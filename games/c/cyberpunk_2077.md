@@ -6,14 +6,14 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,561 |
-| Rough Landing | 3.00% | ~26,561 |
-| Gunslinger | 2.00% | ~17,707 |
-| Master Crafter | 2.00% | ~17,707 |
-| Mean Streets | 2.00% | ~17,707 |
-| The Jungle | 2.00% | ~17,707 |
-| Two Heads, One Bullet | 2.00% | ~17,707 |
-| V for Vendetta | 2.00% | ~17,707 |
+| Ten out of Ten | 3.00% | ~26,563 |
+| Rough Landing | 3.00% | ~26,563 |
+| Gunslinger | 2.00% | ~17,709 |
+| Master Crafter | 2.00% | ~17,709 |
+| Mean Streets | 2.00% | ~17,709 |
+| The Jungle | 2.00% | ~17,709 |
+| Two Heads, One Bullet | 2.00% | ~17,709 |
+| V for Vendetta | 2.00% | ~17,709 |
 | Full Body Conversion | 1.00% | ~8,854 |
 | Right Back At Ya | 1.00% | ~8,854 |
 | Breathtaking | 1.00% | ~8,854 |
@@ -25,19 +25,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 1.00% | ~8,854 |
 | True Warrior | 1.00% | ~8,854 |
 | Legend of The Afterlife | 1.00% | ~8,854 |
-| To Bad Decisions! | 0.90% | ~7,968 |
+| To Bad Decisions! | 0.90% | ~7,969 |
+| The Lovers | 0.90% | ~7,969 |
 | The Fool | 0.80% | ~7,083 |
-| The Lovers | 0.80% | ~7,083 |
 | The Quick and the Dead | 0.70% | ~6,198 |
 | The Devil | 0.70% | ~6,198 |
 | The World | 0.70% | ~6,198 |
 | It's Elementary | 0.70% | ~6,198 |
-| Gun Fu | 0.60% | ~5,312 |
-| Christmas Tree Attack | 0.60% | ~5,312 |
-| Judy vs Night City | 0.60% | ~5,312 |
+| Gun Fu | 0.60% | ~5,313 |
+| Christmas Tree Attack | 0.60% | ~5,313 |
+| Greetings from Pacifica! | 0.60% | ~5,313 |
+| Judy vs Night City | 0.60% | ~5,313 |
 | City Lights | 0.50% | ~4,427 |
-| Greetings from Pacifica! | 0.50% | ~4,427 |
-| Life of the Road | 0.40% | ~3,541 |
+| Life of the Road | 0.40% | ~3,542 |
 | Bushido and Chill | 0.30% | ~2,656 |
 | The Wandering Fool | 0.30% | ~2,656 |
 | Autojock | 0.30% | ~2,656 |
@@ -49,10 +49,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Little Tokyo | 0.20% | ~1,771 |
 | The Star | 0.20% | ~1,771 |
 | The Sun | 0.20% | ~1,771 |
+| Relic Ruler | 0.20% | ~28 |
 | The Wasteland | 0.10% | ~885 |
 | Daemon In The Shell | 0.10% | ~885 |
 | The APB is Not Enough | 0.10% | ~14 |
-| Relic Ruler | 0.10% | ~14 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,362 (Ranked 15)  
-Completed: 2,481 (0.28%) (Ranked 202)  
+Progressed: 885,430 (Ranked 15)  
+Completed: 2,482 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,15 +227,15 @@ Completed: 2,481 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,362 | 2,481 |
+| 2023-09-30 | 885,430 | 2,482 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 239,962 (Ranked 13)  
+Sum: 240,925 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 86,225 |
-| This game has Great Boss Battles | 57,038 |
+| This game has Great Boss Battles | 58,001 |
 | This game has Diverse Characters | 11,536 |
 | This game is Great for Beginners | 11,460 |
 | This game has Amazing Storytelling | 11,372 |
@@ -502,3 +502,4 @@ Diff (max vs sum): -4
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
+| 2023-09-30 | 4.63 | - | 86,225 | 240,925 |

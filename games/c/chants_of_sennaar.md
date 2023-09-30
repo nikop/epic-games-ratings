@@ -15,9 +15,9 @@
 | A good beginning | 37.00% | ~85 |
 | One last step | 36.00% | ~83 |
 | Cable guy | 33.00% | ~76 |
+| Half the way | 33.00% | ~76 |
 | Champollion | 33.00% | ~76 |
 | Peace walker | 32.00% | ~74 |
-| Half the way | 32.00% | ~74 |
 | In this together | 30.00% | ~69 |
 | Open door | 27.00% | ~62 |
 | Feels like springtime | 24.00% | ~55 |

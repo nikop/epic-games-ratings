@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -746,6 +746,11 @@
       "Time": "2023-09-30T00:06:19.202802+00:00",
       "NumProgressed": 315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T01:46:51.9615437+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -854,7 +859,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_21",
@@ -884,7 +889,7 @@
       "ID": "achievement_24",
       "SetID": "271ol84",
       "Name": "Don\u0027t get cocky",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -892,9 +897,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_26",
@@ -950,7 +955,7 @@
       "Name": "Scrap collector",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_32",
@@ -982,7 +987,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_36",
@@ -998,7 +1003,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_38",
@@ -1062,7 +1067,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_45",
@@ -1084,7 +1089,7 @@
       "ID": "achievement_47",
       "SetID": "cemm4l8",
       "Name": "Greed can be a very powerful ally",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -1261,13 +1266,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     }
   ],
@@ -1275,8 +1280,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:06:19.2028015+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:46:51.9615426+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:58:18.3210459+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:06:19.2028753+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:38:22.4150848+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:46:51.9616132+00:00"
 }

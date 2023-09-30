@@ -6,14 +6,14 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,508 |
-| Having A Field Day | 75.00% | ~4,508 |
-| Reap What You Sow | 72.00% | ~4,328 |
+| Get A Room | 75.00% | ~4,509 |
+| Having A Field Day | 75.00% | ~4,509 |
+| Reap What You Sow | 72.00% | ~4,329 |
 | The First Day | 69.00% | ~4,148 |
-| Green Thumb | 66.00% | ~3,967 |
-| Novice Researcher | 66.00% | ~3,967 |
-| Home Cooked Meal | 58.00% | ~3,486 |
-| Onward | 56.00% | ~3,366 |
+| Green Thumb | 66.00% | ~3,968 |
+| Novice Researcher | 66.00% | ~3,968 |
+| Home Cooked Meal | 58.00% | ~3,487 |
+| Onward | 56.00% | ~3,367 |
 | The First Week | 54.00% | ~3,246 |
 | Putting Food on the Table | 53.00% | ~3,186 |
 | Beam Me Up | 51.00% | ~3,066 |
@@ -24,21 +24,21 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 41.00% | ~2,465 |
 | Fit For A King | 33.00% | ~1,984 |
 | Luminary Researcher | 32.00% | ~1,924 |
-| Heating Up | 30.00% | ~1,803 |
+| Heating Up | 30.00% | ~1,804 |
 | Winter Is Coming | 27.00% | ~1,623 |
 | Winter Is Here | 24.00% | ~1,443 |
-| Disassembled | 21.00% | ~1,262 |
-| A Party Now | 21.00% | ~1,262 |
-| Oh Deer! | 21.00% | ~1,262 |
+| Disassembled | 21.00% | ~1,263 |
+| A Party Now | 21.00% | ~1,263 |
+| Oh Deer! | 21.00% | ~1,263 |
 | All Year Round | 20.00% | ~1,202 |
-| Nothing Wasted | 13.00% | ~781 |
-| Don't Cry Wolf | 13.00% | ~781 |
+| Nothing Wasted | 13.00% | ~782 |
+| Don't Cry Wolf | 13.00% | ~782 |
 | Deerly Departed | 8.00% | ~481 |
 | Where Wolf? | 5.00% | ~301 |
 | Food Chain | 2.00% | ~120 |
 | Wabbit Season | 0.50% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,011 (Ranked 160)  
+Progressed: 6,012 (Ranked 160)  
 Completed: 14 (0.23%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,9 +180,10 @@ Completed: 14 (0.23%) (Ranked 208)
 | 2023-09-27 | 5,988 | 14 |
 | 2023-09-28 | 5,996 | 14 |
 | 2023-09-29 | 6,011 | 14 |
+| 2023-09-30 | 6,012 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 322)  
-Sum: 985 (Ranked 245)  
+Sum: 986 (Ranked 245)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -194,7 +195,7 @@ Diff (max vs sum): 77
 | This game is Highly Recommended | 100 |
 | This game has Amazing Characters | 92 |
 | This game has Amazing Storytelling | 85 |
-| This game has Unique Visuals | 80 |
+| This game has Unique Visuals | 81 |
 | This game has a Creative Community | 67 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
@@ -331,3 +332,4 @@ Diff (max vs sum): 77
 | 2023-09-10 | 4.60 | - | 122 | 983 |
 | 2023-09-16 | 4.60 | - | 122 | 984 |
 | 2023-09-21 | 4.60 | - | 122 | 985 |
+| 2023-09-30 | 4.60 | - | 122 | 986 |

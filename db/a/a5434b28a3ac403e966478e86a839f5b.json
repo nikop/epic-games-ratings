@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -572,6 +572,11 @@
       "Time": "2023-09-30T00:04:18.7220008+00:00",
       "NumProgressed": 279,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T01:44:46.8419419+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -592,15 +597,15 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_eou3",
@@ -638,9 +643,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_eou8",
@@ -687,14 +692,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:04:18.7220003+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:44:46.8419413+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-09-30T00:00:02.5422887+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:04:18.7220136+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:40:06.7904779+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:44:46.8419581+00:00"
 }

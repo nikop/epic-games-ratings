@@ -28,13 +28,13 @@
 | Stronger! | 40.00% | ~440 |
 | Well Rested | 40.00% | ~440 |
 | Ancient Wisdom | 39.00% | ~429 |
+| Frog Facts! | 39.00% | ~429 |
 | All That Glistens | 39.00% | ~429 |
-| Frog Facts! | 38.00% | ~418 |
 | It's Pointy! | 38.00% | ~418 |
 | Spellbound | 37.00% | ~407 |
 | Extinct Again! | 37.00% | ~407 |
+| Bird of Prey | 37.00% | ~407 |
 | All Skilled Up! | 37.00% | ~407 |
-| Bird of Prey | 36.00% | ~396 |
 | Stardust | 36.00% | ~396 |
 | Heartbreaker | 36.00% | ~396 |
 | Kidnapped! | 36.00% | ~396 |

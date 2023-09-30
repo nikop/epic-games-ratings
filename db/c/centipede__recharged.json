@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17459,
+  "EOS_Progressed": 17461,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -12707,6 +12707,11 @@
       "Time": "2023-09-29T22:06:03.0341728+00:00",
       "NumProgressed": 17459,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-09-30T01:46:22.6761429+00:00",
+      "NumProgressed": 17461,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 16,
@@ -12734,7 +12739,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -12766,7 +12771,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5761
+      "UsersEstimate": 5762
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -12790,7 +12795,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7333
+      "UsersEstimate": 7334
     },
     {
       "ID": "Mirrors",
@@ -12822,7 +12827,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6461
     },
     {
       "ID": "Still_Burning",
@@ -12845,15 +12850,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17459,
+      "Progressed": 17461,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:05:51.3507675+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:46:22.6761422+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:15.0114311+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:59:18.2474034+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:05:51.3508486+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:39:19.8666568+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:46:22.6762361+00:00"
 }

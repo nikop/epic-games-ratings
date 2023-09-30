@@ -12621,10 +12621,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 239962,
       "NumberOfAwardsMax": 86225
+    },
+    {
+      "Time": "2023-09-30T01:38:22.947342+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 240925,
+      "NumberOfAwardsMax": 86225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 239962,
+  "NumberOfAwards": 240925,
   "NumberOfAwardsMax": 86225,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12638,7 +12644,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 57038
+      "Count": 58001
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12701,10 +12707,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885362,
-  "EOS_Completed": 2481,
-  "EOS_NewPlayers": 6443,
-  "EOS_NewCompleters": 227,
+  "EOS_Progressed": 885430,
+  "EOS_Completed": 2482,
+  "EOS_NewPlayers": 6459,
+  "EOS_NewCompleters": 226,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30966,6 +30972,11 @@
       "Time": "2023-09-30T00:05:57.7896408+00:00",
       "NumProgressed": 885362,
       "NumCompleted": 2481
+    },
+    {
+      "Time": "2023-09-30T01:46:29.687766+00:00",
+      "NumProgressed": 885430,
+      "NumCompleted": 2482
     }
   ],
   "TotalAchievements": 57,
@@ -30985,7 +30996,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7968
+      "UsersEstimate": 7969
     },
     {
       "ID": "BushidoAndChill",
@@ -31049,7 +31060,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "Gunslinger",
@@ -31057,7 +31068,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17707
+      "UsersEstimate": 17709
     },
     {
       "ID": "HandyMan",
@@ -31065,7 +31076,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17707
+      "UsersEstimate": 17709
     },
     {
       "ID": "IAmMaxTac",
@@ -31081,7 +31092,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17707
+      "UsersEstimate": 17709
     },
     {
       "ID": "LittleTokyo",
@@ -31097,7 +31108,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "MaxPain",
@@ -31145,7 +31156,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "Roleplayer",
@@ -31161,7 +31172,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26561
+      "UsersEstimate": 26563
     },
     {
       "ID": "Temperance",
@@ -31177,7 +31188,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26561
+      "UsersEstimate": 26563
     },
     {
       "ID": "TheDevil",
@@ -31215,9 +31226,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7969
     },
     {
       "ID": "TheStar",
@@ -31255,9 +31266,9 @@
       "ID": "ThisIsPacifica",
       "SetID": "47clieb",
       "Name": "Greetings from Pacifica!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4427
+      "UsersEstimate": 5313
     },
     {
       "ID": "TradeUnion",
@@ -31265,7 +31276,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17707
+      "UsersEstimate": 17709
     },
     {
       "ID": "TrueSoldier",
@@ -31289,7 +31300,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17707
+      "UsersEstimate": 17709
     },
     {
       "ID": "UnderPressure",
@@ -31297,7 +31308,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "VForVendetta",
@@ -31305,7 +31316,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17707
+      "UsersEstimate": 17709
     },
     {
       "ID": "YipMan",
@@ -31415,9 +31426,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "UltimateSurvivor",
@@ -31432,21 +31443,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885362,
-      "Completed": 2481
+      "Progressed": 885430,
+      "Completed": 2482
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 13985,
+      "Progressed": 14053,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-29T22:58:54.1359008+00:00",
-  "LastChanged_Achievements": "2023-09-30T00:05:57.7896404+00:00",
+  "LastChanged": "2023-09-30T01:38:22.9473419+00:00",
+  "LastChanged_Achievements": "2023-09-30T01:46:29.6877656+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:58:18.698665+00:00",
-  "LastUpdate_Achievements": "2023-09-30T00:05:57.7898143+00:00"
+  "LastUpdate_Ratings": "2023-09-30T01:38:22.9473431+00:00",
+  "LastUpdate_Achievements": "2023-09-30T01:46:29.6879349+00:00"
 }

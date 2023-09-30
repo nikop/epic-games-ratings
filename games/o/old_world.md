@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 302)  
+Rating: 4.65 (Ranked 301)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,9 +10,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 7.00% | ~995 |
 | Explorer | 6.00% | ~853 |
 | Friendly Family | 6.00% | ~853 |
-| Able | 5.00% | ~710 |
-| Intrepid | 5.00% | ~710 |
-| The Clergy | 5.00% | ~710 |
+| Able | 5.00% | ~711 |
+| Intrepid | 5.00% | ~711 |
+| The Clergy | 5.00% | ~711 |
 | Architect | 4.00% | ~568 |
 | Enlightened | 4.00% | ~568 |
 | Glorious | 4.00% | ~568 |
@@ -103,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 1.00% | ~142 |
 | Via Recta Souk | 1.00% | ~142 |
 | Learn to Play 3 | 1.00% | ~142 |
-| Babylonia | 1.00% | ~142 |
 | Carthage | 1.00% | ~142 |
 | Power to the People | 1.00% | ~142 |
 | Assyrian Paganism | 1.00% | ~142 |
@@ -127,6 +126,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.90% | ~128 |
 | Hunters | 0.90% | ~128 |
 | Learn to Play 4 | 0.90% | ~128 |
+| Babylonia | 0.90% | ~128 |
 | Hittite Paganism | 0.90% | ~128 |
 | Turreted Elephant | 0.90% | ~128 |
 | Ishtar Gate in Babylon | 0.80% | ~114 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,210 (Ranked 133)  
+Progressed: 14,212 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
-| 2023-09-30 | 14,210 | 5 |
+| 2023-09-30 | 14,212 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  
