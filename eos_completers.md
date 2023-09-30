@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 73.45% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 73.34% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.57% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.59% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -23,11 +23,11 @@
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.31% |
 | 22 | [Remains](games/r/remains.md) | 12.24% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 24 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.91% |
-| 25 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.87% |
-| 26 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
-| 27 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.78% |
+| 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.87% |
+| 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
+| 26 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.78% |
+| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.53% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.15% |
 | 30 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 30 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -44,12 +44,12 @@
 | 42 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 43 | [Scorn](games/s/scorn.md) | 7.02% |
 | 44 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.67% |
-| 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
-| 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 46 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 6.25% |
-| 48 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
-| 49 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 6.10% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.09% |
+| 45 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.52% |
+| 46 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
+| 47 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 47 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 6.25% |
+| 49 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
+| 50 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.95% |
 | 51 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 52 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.33% |
@@ -64,9 +64,9 @@
 | 62 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.12% |
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
-| 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
+| 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.75% |
+| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.74% |
 | 68 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.45% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.42% |
@@ -86,9 +86,9 @@
 | 84 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
 | 85 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 86 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 87 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.72% |
 | 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.72% |
-| 89 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
+| 88 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.71% |
+| 88 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 90 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 91 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 92 | [Lamentum](games/l/lamentum.md) | 2.49% |
@@ -168,10 +168,10 @@
 | 166 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.47% |
 | 166 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 168 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 168 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.46% |
 | 168 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 168 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 172 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
+| 171 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.45% |
+| 171 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 173 | [Godlike Burger](games/g/godlike_burger.md) | 0.44% |
 | 173 | [Tchia](games/t/tchia.md) | 0.44% |
 | 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.42% |
