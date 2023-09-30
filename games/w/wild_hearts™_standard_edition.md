@@ -26,9 +26,9 @@
 | Karakuri Trail | 41.00% | ~32 |
 | Snare Specialist | 38.00% | ~30 |
 | Kemono at Heart | 38.00% | ~30 |
+| Fair Means or Foul | 37.00% | ~29 |
 | Single Minded | 36.00% | ~28 |
 | Mighty Marmelizer | 36.00% | ~28 |
-| Fair Means or Foul | 36.00% | ~28 |
 | Team Hunter | 33.00% | ~26 |
 | Reincarnation Cycle Stopper | 33.00% | ~26 |
 | Karakuri Isle | 31.00% | ~24 |

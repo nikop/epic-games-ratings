@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122073,
+  "EOS_Progressed": 122075,
   "EOS_Completed": 1010,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1205,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -18548,6 +18548,11 @@
       "Time": "2023-09-30T05:05:35.840683+00:00",
       "NumProgressed": 122073,
       "NumCompleted": 1010
+    },
+    {
+      "Time": "2023-09-30T06:04:45.2346481+00:00",
+      "NumProgressed": 122075,
+      "NumCompleted": 1010
     }
   ],
   "TotalAchievements": 34,
@@ -18575,7 +18580,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 51271
+      "UsersEstimate": 51272
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -18583,7 +18588,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 35401
+      "UsersEstimate": 35402
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -18615,7 +18620,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 96438
+      "UsersEstimate": 96439
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -18631,7 +18636,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 68361
+      "UsersEstimate": 68362
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -18639,7 +18644,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 34180
+      "UsersEstimate": 34181
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -18647,7 +18652,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 47608
+      "UsersEstimate": 47609
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -18679,7 +18684,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 25635
+      "UsersEstimate": 25636
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -18695,7 +18700,7 @@
       "Name": "You looked that up in a guide!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "ACH_L03_RECORD",
@@ -18719,7 +18724,7 @@
       "Name": "Soundcheck",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "ACH_L04A_PEAK_END",
@@ -18735,7 +18740,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 34180
+      "UsersEstimate": 34181
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -18743,7 +18748,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -18830,7 +18835,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 122073,
+      "Progressed": 122075,
       "Completed": 1010
     }
   ],
@@ -18838,8 +18843,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-30T05:05:35.8406825+00:00",
+  "LastChanged_Achievements": "2023-09-30T06:04:45.2346476+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:29.1830312+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:00:12.9328914+00:00",
-  "LastUpdate_Achievements": "2023-09-30T05:05:35.8408187+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:59:11.4792227+00:00",
+  "LastUpdate_Achievements": "2023-09-30T06:04:45.2348178+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,715 |
-| That's a Grand Army | 3.00% | ~12,536 |
-| That is mine! | 3.00% | ~12,536 |
-| Victorious! | 3.00% | ~12,536 |
+| Until death do us apart | 4.00% | ~16,716 |
+| That's a Grand Army | 3.00% | ~12,537 |
+| That is mine! | 3.00% | ~12,537 |
+| Victorious! | 3.00% | ~12,537 |
 | Brothers in Arms | 2.00% | ~8,358 |
 | For the Glory | 2.00% | ~8,358 |
 | That's a Grand Navy | 2.00% | ~8,358 |
@@ -27,10 +27,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Total Control | 0.80% | ~3,343 |
 | Royal Authority | 0.70% | ~2,925 |
 | My armies are invincible! | 0.60% | ~2,507 |
-| Agressive Expander | 0.50% | ~2,089 |
-| City of Cities | 0.50% | ~2,089 |
-| Combined Arms | 0.50% | ~2,089 |
-| This navy can take it all | 0.50% | ~2,089 |
+| Agressive Expander | 0.50% | ~2,090 |
+| City of Cities | 0.50% | ~2,090 |
+| Combined Arms | 0.50% | ~2,090 |
+| This navy can take it all | 0.50% | ~2,090 |
 | Azur semé de lis or | 0.40% | ~1,672 |
 | Factionalism | 0.40% | ~1,672 |
 | Gentle Persuasion | 0.40% | ~1,672 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,879 (Ranked 41)  
+Progressed: 417,906 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,15 +524,15 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
 | 2023-09-29 | 417,709 | 1 |
-| 2023-09-30 | 417,879 | 1 |
+| 2023-09-30 | 417,906 | 1 |
 ## Awards
 Max (Educational): 6,335  (Ranked 57)  
-Sum: 51,911 (Ranked 24)  
+Sum: 51,930 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,335 |
-| This game is Highly Recommended | 6,012 |
+| This game is Highly Recommended | 6,031 |
 | This game has Challenging Combat | 5,991 |
 | This game is Extremely Fun | 5,965 |
 | This game has Diverse Characters | 5,963 |
@@ -800,4 +800,4 @@ Diff (max vs sum): 33
 | 2023-09-27 | 4.69 | - | 6,290 | 51,632 |
 | 2023-09-28 | 4.69 | - | 6,316 | 51,764 |
 | 2023-09-29 | 4.69 | - | 6,316 | 51,874 |
-| 2023-09-30 | 4.69 | - | 6,335 | 51,911 |
+| 2023-09-30 | 4.69 | - | 6,335 | 51,930 |

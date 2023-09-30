@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3284,9 +3284,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72969,
+  "EOS_Progressed": 72970,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17104,6 +17104,11 @@
       "Time": "2023-09-30T04:03:39.0393095+00:00",
       "NumProgressed": 72969,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-09-30T06:03:24.5495723+00:00",
+      "NumProgressed": 72970,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 61,
@@ -17171,7 +17176,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -17203,7 +17208,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10945
+      "UsersEstimate": 10946
     },
     {
       "ID": "CHALLENGES_1",
@@ -17219,7 +17224,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15323
+      "UsersEstimate": 15324
     },
     {
       "ID": "CLAYFACE_2",
@@ -17227,7 +17232,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13134
+      "UsersEstimate": 13135
     },
     {
       "ID": "CLAYFACE_3",
@@ -17347,7 +17352,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15323
+      "UsersEstimate": 15324
     },
     {
       "ID": "FREEZE_2",
@@ -17379,7 +17384,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -17419,7 +17424,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25539
+      "UsersEstimate": 25540
     },
     {
       "ID": "HARLEY_2",
@@ -17491,7 +17496,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20431
+      "UsersEstimate": 20432
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17507,7 +17512,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24809
+      "UsersEstimate": 24810
     },
     {
       "ID": "MYSTERY_02",
@@ -17539,7 +17544,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13134
+      "UsersEstimate": 13135
     },
     {
       "ID": "MYSTERY_06",
@@ -17547,7 +17552,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10945
+      "UsersEstimate": 10946
     },
     {
       "ID": "MYSTERY_07",
@@ -17587,7 +17592,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -17602,13 +17607,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72969,
+      "Progressed": 72970,
       "Completed": 119
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43249,
+      "Progressed": 43250,
       "Completed": 2668
     }
   ],
@@ -17616,8 +17621,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-29T23:59:01.1415505+00:00",
-  "LastChanged_Achievements": "2023-09-30T05:03:41.5636845+00:00",
+  "LastChanged_Achievements": "2023-09-30T06:03:24.5495702+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:00:07.8316997+00:00",
-  "LastUpdate_Achievements": "2023-09-30T05:03:41.5638259+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:59:07.8296896+00:00",
+  "LastUpdate_Achievements": "2023-09-30T06:03:24.5499089+00:00"
 }

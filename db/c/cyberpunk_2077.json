@@ -12719,10 +12719,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885573,
-  "EOS_Completed": 2485,
-  "EOS_NewPlayers": 6487,
-  "EOS_NewCompleters": 220,
+  "EOS_Progressed": 885605,
+  "EOS_Completed": 2486,
+  "EOS_NewPlayers": 6484,
+  "EOS_NewCompleters": 219,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -31009,6 +31009,11 @@
       "Time": "2023-09-30T05:07:50.747267+00:00",
       "NumProgressed": 885573,
       "NumCompleted": 2485
+    },
+    {
+      "Time": "2023-09-30T06:06:21.2784853+00:00",
+      "NumProgressed": 885605,
+      "NumCompleted": 2486
     }
   ],
   "TotalAchievements": 57,
@@ -31092,7 +31097,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5313
+      "UsersEstimate": 5314
     },
     {
       "ID": "Gunslinger",
@@ -31100,7 +31105,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "HandyMan",
@@ -31108,7 +31113,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "IAmMaxTac",
@@ -31124,7 +31129,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "LittleTokyo",
@@ -31138,9 +31143,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5313
+      "UsersEstimate": 6199
     },
     {
       "ID": "MaxPain",
@@ -31204,7 +31209,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26567
+      "UsersEstimate": 26568
     },
     {
       "ID": "Temperance",
@@ -31220,7 +31225,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26567
+      "UsersEstimate": 26568
     },
     {
       "ID": "TheDevil",
@@ -31252,7 +31257,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "TheLovers",
@@ -31300,7 +31305,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5313
+      "UsersEstimate": 5314
     },
     {
       "ID": "TradeUnion",
@@ -31308,7 +31313,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "TrueSoldier",
@@ -31332,7 +31337,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "UnderPressure",
@@ -31340,7 +31345,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5313
+      "UsersEstimate": 5314
     },
     {
       "ID": "VForVendetta",
@@ -31348,7 +31353,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "YipMan",
@@ -31475,21 +31480,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885573,
-      "Completed": 2485
+      "Progressed": 885605,
+      "Completed": 2486
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14196,
+      "Progressed": 14228,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-30T02:58:38.0916764+00:00",
-  "LastChanged_Achievements": "2023-09-30T05:07:50.7472663+00:00",
+  "LastChanged_Achievements": "2023-09-30T06:06:21.2784849+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T04:59:05.3765045+00:00",
-  "LastUpdate_Achievements": "2023-09-30T05:07:50.7474094+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:58:24.488731+00:00",
+  "LastUpdate_Achievements": "2023-09-30T06:06:21.2786794+00:00"
 }

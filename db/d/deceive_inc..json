@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18195,
+  "EOS_Progressed": 18196,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10896,6 +10896,11 @@
       "Time": "2023-09-30T03:07:08.4861334+00:00",
       "NumProgressed": 18195,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-30T06:06:37.7733932+00:00",
+      "NumProgressed": 18196,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -11089,9 +11094,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4003
+      "UsersEstimate": 3821
     },
     {
       "ID": "0025",
@@ -11107,7 +11112,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "0027",
@@ -11115,15 +11120,15 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4003
     },
     {
       "ID": "0029",
@@ -11147,7 +11152,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "0032",
@@ -11155,7 +11160,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "0033",
@@ -11163,7 +11168,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "0034",
@@ -11171,7 +11176,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "0035",
@@ -11194,7 +11199,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18195,
+      "Progressed": 18196,
       "Completed": 3
     }
   ],
@@ -11202,8 +11207,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-30T05:08:14.0412551+00:00",
+  "LastChanged_Achievements": "2023-09-30T06:06:37.7733928+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:01:06.1433535+00:00",
-  "LastUpdate_Achievements": "2023-09-30T05:08:14.0413477+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:59:48.1569358+00:00",
+  "LastUpdate_Achievements": "2023-09-30T06:06:37.7734992+00:00"
 }

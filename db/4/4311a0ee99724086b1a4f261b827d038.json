@@ -296,7 +296,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 222440,
+  "EOS_Progressed": 222450,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2054,
   "EOS_NewCompleters": 0,
@@ -8011,6 +8011,11 @@
       "Time": "2023-09-30T05:03:46.5609393+00:00",
       "NumProgressed": 222440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T06:03:27.8689764+00:00",
+      "NumProgressed": 222450,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8079,7 +8084,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46712
+      "UsersEstimate": 46714
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8119,7 +8124,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -8207,7 +8212,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28917
+      "UsersEstimate": 28918
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8215,7 +8220,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15571
+      "UsersEstimate": 15572
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -8279,7 +8284,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55610
+      "UsersEstimate": 55612
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8294,7 +8299,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 222440,
+      "Progressed": 222450,
       "Completed": 0
     }
   ],
@@ -8302,8 +8307,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-29T12:00:47.5334964+00:00",
-  "LastChanged_Achievements": "2023-09-30T05:03:46.5609388+00:00",
+  "LastChanged_Achievements": "2023-09-30T06:03:27.8689759+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:02:05.0711025+00:00",
-  "LastUpdate_Achievements": "2023-09-30T05:03:46.5610116+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:00:26.6384236+00:00",
+  "LastUpdate_Achievements": "2023-09-30T06:03:27.8690693+00:00"
 }

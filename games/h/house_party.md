@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 5.00% | ~316 |
-| Smooth Operator: Madison | 4.00% | ~252 |
+| Smooth Operator: Madison | 4.00% | ~253 |
 | The Brahdyssey | 2.00% | ~126 |
 | Caught in the Act | 2.00% | ~126 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~126 |
@@ -20,8 +20,8 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 1.00% | ~63 |
 | Inspector | 0.90% | ~57 |
 | Social Butterfly | 0.90% | ~57 |
-| Amy | 0.80% | ~50 |
-| The Muse: Madison | 0.80% | ~50 |
+| Amy | 0.80% | ~51 |
+| The Muse: Madison | 0.80% | ~51 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
 | Amy: Scavenger Hunt | 0.60% | ~38 |
 | It Smells Like Roses | 0.60% | ~20 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,312 (Ranked 158)  
+Progressed: 6,313 (Ranked 158)  
 Completed: 3 (0.05%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 3 (0.05%) (Ranked 260)
 | 2023-09-27 | 6,300 | 3 |
 | 2023-09-28 | 6,304 | 3 |
 | 2023-09-29 | 6,310 | 3 |
-| 2023-09-30 | 6,312 | 3 |
+| 2023-09-30 | 6,313 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

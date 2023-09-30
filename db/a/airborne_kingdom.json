@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7251,
+  "EOS_Progressed": 7253,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4604,6 +4604,11 @@
       "Time": "2023-09-30T01:44:22.0081503+00:00",
       "NumProgressed": 7251,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-30T06:04:14.3022491+00:00",
+      "NumProgressed": 7253,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4623,7 +4628,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -4631,7 +4636,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -4647,7 +4652,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3843
+      "UsersEstimate": 3844
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4663,7 +4668,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -4695,7 +4700,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -4711,7 +4716,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4743,7 +4748,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -4751,7 +4756,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -4759,7 +4764,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -4767,7 +4772,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4783,7 +4788,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -4815,7 +4820,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4830,15 +4835,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7251,
+      "Progressed": 7253,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-30T05:04:51.7736303+00:00",
+  "LastChanged_Achievements": "2023-09-30T06:04:14.3022487+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:11.6542569+00:00",
-  "LastUpdate_Ratings": "2023-09-30T04:57:29.5625574+00:00",
-  "LastUpdate_Achievements": "2023-09-30T05:04:51.7736762+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:57:21.4420507+00:00",
+  "LastUpdate_Achievements": "2023-09-30T06:04:14.302336+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,567 |
-| Rough Landing | 3.00% | ~26,567 |
-| Gunslinger | 2.00% | ~17,711 |
-| Master Crafter | 2.00% | ~17,711 |
-| Mean Streets | 2.00% | ~17,711 |
-| The High Priestess | 2.00% | ~17,711 |
-| The Jungle | 2.00% | ~17,711 |
-| Two Heads, One Bullet | 2.00% | ~17,711 |
-| V for Vendetta | 2.00% | ~17,711 |
+| Ten out of Ten | 3.00% | ~26,568 |
+| Rough Landing | 3.00% | ~26,568 |
+| Gunslinger | 2.00% | ~17,712 |
+| Master Crafter | 2.00% | ~17,712 |
+| Mean Streets | 2.00% | ~17,712 |
+| The High Priestess | 2.00% | ~17,712 |
+| The Jungle | 2.00% | ~17,712 |
+| Two Heads, One Bullet | 2.00% | ~17,712 |
+| V for Vendetta | 2.00% | ~17,712 |
 | To Bad Decisions! | 1.00% | ~8,856 |
 | Full Body Conversion | 1.00% | ~8,856 |
 | Right Back At Ya | 1.00% | ~8,856 |
@@ -28,14 +28,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 1.00% | ~8,856 |
 | The Lovers | 0.90% | ~7,970 |
 | The Fool | 0.80% | ~7,085 |
+| Christmas Tree Attack | 0.70% | ~6,199 |
 | The Quick and the Dead | 0.70% | ~6,199 |
 | The Devil | 0.70% | ~6,199 |
 | The World | 0.70% | ~6,199 |
 | It's Elementary | 0.70% | ~6,199 |
-| Gun Fu | 0.60% | ~5,313 |
-| Christmas Tree Attack | 0.60% | ~5,313 |
-| Greetings from Pacifica! | 0.60% | ~5,313 |
-| Judy vs Night City | 0.60% | ~5,313 |
+| Gun Fu | 0.60% | ~5,314 |
+| Greetings from Pacifica! | 0.60% | ~5,314 |
+| Judy vs Night City | 0.60% | ~5,314 |
 | City Lights | 0.50% | ~4,428 |
 | Life of the Road | 0.40% | ~3,542 |
 | Bushido and Chill | 0.30% | ~2,657 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,573 (Ranked 15)  
-Completed: 2,485 (0.28%) (Ranked 202)  
+Progressed: 885,605 (Ranked 15)  
+Completed: 2,486 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2,485 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,573 | 2,485 |
+| 2023-09-30 | 885,605 | 2,486 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
 Sum: 241,574 (Ranked 13)  

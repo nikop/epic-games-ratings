@@ -16,11 +16,11 @@
 | Star Killer | 31.00% | ~8 |
 | Unbeatable | 31.00% | ~8 |
 | Loyal Partner | 27.00% | ~7 |
+| Anomaly Destroyer | 23.00% | ~6 |
 | Astral Adventurer | 23.00% | ~6 |
 | Sentinelphobic | 23.00% | ~6 |
 | Stellar Haste | 23.00% | ~6 |
 | The Corruption Goddess | 23.00% | ~6 |
-| Anomaly Destroyer | 19.00% | ~5 |
 | Sadistic Plan | 19.00% | ~5 |
 | Skeptical | 19.00% | ~5 |
 | Dice Specialist | 15.00% | ~4 |

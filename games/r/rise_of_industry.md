@@ -1,39 +1,39 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.25 (Ranked 845)  
+Rating: 4.25 (Ranked 846)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~354,476 |
-| Well educated | 37.00% | ~273,242 |
-| City Planner | 19.00% | ~140,313 |
-| Deforester | 17.00% | ~125,544 |
-| Big Hauling | 16.00% | ~118,159 |
-| Apprentice Manufacturer | 13.00% | ~96,004 |
-| Exporter | 13.00% | ~96,004 |
-| I would drive 500 tiles... | 12.00% | ~88,619 |
-| Landscaper | 12.00% | ~88,619 |
-| Railwayman | 8.00% | ~59,079 |
+| Entrepreneur | 48.00% | ~354,481 |
+| Well educated | 37.00% | ~273,246 |
+| City Planner | 19.00% | ~140,316 |
+| Deforester | 17.00% | ~125,546 |
+| Big Hauling | 16.00% | ~118,160 |
+| Apprentice Manufacturer | 13.00% | ~96,005 |
+| Exporter | 13.00% | ~96,005 |
+| I would drive 500 tiles... | 12.00% | ~88,620 |
+| Landscaper | 12.00% | ~88,620 |
+| Railwayman | 8.00% | ~59,080 |
 | Penniless | 6.00% | ~44,310 |
 | Massive Gains | 6.00% | ~44,310 |
 | Salesman | 3.00% | ~22,155 |
 | Engineer | 2.00% | ~14,770 |
 | High Flyer | 2.00% | ~14,770 |
 | Captain | 0.80% | ~5,908 |
-| Billionaire | 0.70% | ~5,169 |
+| Billionaire | 0.70% | ~5,170 |
 | Vroom Vroom | 0.40% | ~2,954 |
-| Excavator | 0.30% | ~2,215 |
-| Loan Ranger | 0.30% | ~2,215 |
-| [2130] Nature Lover | 0.10% | ~738 |
-| [2130] No Quarter Given | 0.10% | ~738 |
-| [2130] Dumpster Diving | 0.10% | ~738 |
-| Freelancer | 0.10% | ~738 |
-| Director | 0.10% | ~738 |
-| Master Builder | 0.10% | ~738 |
-| Hard working | 0.10% | ~738 |
+| Excavator | 0.30% | ~2,216 |
+| Loan Ranger | 0.30% | ~2,216 |
+| [2130] Nature Lover | 0.10% | ~739 |
+| [2130] No Quarter Given | 0.10% | ~739 |
+| [2130] Dumpster Diving | 0.10% | ~739 |
+| Freelancer | 0.10% | ~739 |
+| Director | 0.10% | ~739 |
+| Master Builder | 0.10% | ~739 |
+| Hard working | 0.10% | ~739 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,492 (Ranked 18)  
+Progressed: 738,503 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 4 (0.00%) (Ranked 300)
 | 2023-09-27 | 737,915 | 4 |
 | 2023-09-28 | 738,144 | 4 |
 | 2023-09-29 | 738,443 | 4 |
-| 2023-09-30 | 738,492 | 4 |
+| 2023-09-30 | 738,503 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
