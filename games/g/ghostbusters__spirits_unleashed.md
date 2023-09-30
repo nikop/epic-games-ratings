@@ -12,17 +12,18 @@ Rating: 4.50 (Ranked 573)
 | Discovery | 0.70% | ~183 |
 | Fully Upgraded | 0.70% | ~183 |
 | Solo Capture | 0.70% | ~183 |
+| Vaporous Expansion | 0.70% | ~183 |
 | Back Off | 0.60% | ~157 |
 | Clutch Capture | 0.60% | ~157 |
 | Cultured | 0.60% | ~157 |
 | Swift Rift Removers | 0.60% | ~157 |
 | Teamwork | 0.60% | ~157 |
 | There you are! | 0.60% | ~157 |
-| Vaporous Expansion | 0.60% | ~157 |
 | Whoopsie | 0.60% | ~157 |
 | Animated | 0.50% | ~131 |
 | Icing on the Cake | 0.50% | ~131 |
 | Terrifying | 0.50% | ~131 |
+| Welcome to the Crew | 0.50% | ~131 |
 | Daily Dose | 0.40% | ~104 |
 | Ectoplasmic Entity | 0.40% | ~104 |
 | Ghostbuster In Training | 0.40% | ~104 |
@@ -30,7 +31,6 @@ Rating: 4.50 (Ranked 573)
 | Side Hustle | 0.40% | ~104 |
 | Skilled | 0.40% | ~104 |
 | Summoner | 0.40% | ~104 |
-| Welcome to the Crew | 0.40% | ~104 |
 | We have the best insurance | 0.30% | ~78 |
 | Diabolical | 0.30% | ~78 |
 | Legions | 0.30% | ~78 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,114 (Ranked 114)  
+Progressed: 26,115 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 58 (0.22%) (Ranked 210)
 | 2023-09-27 | 26,057 | 58 |
 | 2023-09-28 | 26,071 | 58 |
 | 2023-09-29 | 26,093 | 58 |
-| 2023-09-30 | 26,114 | 58 |
+| 2023-09-30 | 26,115 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 256  (Ranked 257)  
 Sum: 2,331 (Ranked 188)  

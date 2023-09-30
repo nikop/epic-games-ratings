@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6304,9 +6304,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136909,
+  "EOS_Progressed": 136910,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23044,6 +23044,11 @@
       "Time": "2023-09-30T18:07:40.618727+00:00",
       "NumProgressed": 136909,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-09-30T19:06:49.4982696+00:00",
+      "NumProgressed": 136910,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -23181,9 +23186,9 @@
       "ID": "bookentry",
       "SetID": "anfd17p",
       "Name": "Vanity, Verily",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 1095
     },
     {
       "ID": "boss01",
@@ -23950,15 +23955,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136909,
+      "Progressed": 136910,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T13:02:00.2030183+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:07:40.6187265+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:06:49.4982689+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-09-30T17:59:12.6191436+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:07:40.6189852+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:58:58.0250667+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:06:49.4985477+00:00"
 }

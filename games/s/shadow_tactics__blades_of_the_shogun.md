@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,576 |
-| A thief's beginning | 10.00% | ~20,524 |
-| Thorough | 10.00% | ~20,524 |
-| Disguised | 8.00% | ~16,419 |
-| Rescue Takuma | 8.00% | ~16,419 |
-| Rollin' | 8.00% | ~16,419 |
-| Tanuki Time | 8.00% | ~16,419 |
+| Genin | 11.00% | ~22,577 |
+| A thief's beginning | 10.00% | ~20,525 |
+| Thorough | 10.00% | ~20,525 |
+| Disguised | 8.00% | ~16,420 |
+| Rescue Takuma | 8.00% | ~16,420 |
+| Rollin' | 8.00% | ~16,420 |
+| Tanuki Time | 8.00% | ~16,420 |
 | Ice Ice Yuki | 7.00% | ~14,367 |
 | Jonin | 7.00% | ~14,367 |
 | Stoned Ox | 7.00% | ~14,367 |
 | Yabu | 7.00% | ~14,367 |
-| Chunin | 6.00% | ~12,314 |
-| Flying Rocks | 6.00% | ~12,314 |
-| Happy Planning | 6.00% | ~12,314 |
-| Mugen Unchained | 6.00% | ~12,314 |
-| Warzone | 6.00% | ~12,314 |
+| Chunin | 6.00% | ~12,315 |
+| Flying Rocks | 6.00% | ~12,315 |
+| Happy Planning | 6.00% | ~12,315 |
+| Mugen Unchained | 6.00% | ~12,315 |
+| Warzone | 6.00% | ~12,315 |
 | Okkoto | 5.00% | ~10,262 |
 | Prisoners | 5.00% | ~10,262 |
 | Too Early | 5.00% | ~10,262 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,239 (Ranked 62)  
+Progressed: 205,247 (Ranked 62)  
 Completed: 88 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,17 +214,17 @@ Completed: 88 (0.04%) (Ranked 265)
 | 2023-09-27 | 204,674 | 86 |
 | 2023-09-28 | 204,817 | 86 |
 | 2023-09-29 | 205,052 | 86 |
-| 2023-09-30 | 205,239 | 88 |
+| 2023-09-30 | 205,247 | 88 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 193)  
-Sum: 4,778 (Ranked 137)  
+Sum: 4,779 (Ranked 137)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 566 |
 | This game has Diverse Characters | 530 |
 | This game is Extremely Fun | 528 |
-| This game has Amazing Storytelling | 510 |
+| This game has Amazing Storytelling | 511 |
 | This game has Amazing Characters | 490 |
 | This game is Highly Recommended | 487 |
 | This game is Relaxing | 486 |
@@ -415,4 +415,4 @@ Diff (max vs sum): 56
 | 2023-09-25 | 4.66 | - | 566 | 4,775 |
 | 2023-09-28 | 4.67 | - | 566 | 4,775 |
 | 2023-09-29 | 4.66 | - | 566 | 4,775 |
-| 2023-09-30 | 4.66 | - | 566 | 4,778 |
+| 2023-09-30 | 4.66 | - | 566 | 4,779 |

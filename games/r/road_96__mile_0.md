@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BBFF (Best Brigade Friend Forever) | 54.00% | ~230 |
+| BBFF (Best Brigade Friend Forever) | 54.00% | ~231 |
 | Conspiracy Theorist | 45.00% | ~192 |
-| On the Road | 44.00% | ~187 |
+| On the Road | 44.00% | ~188 |
 | Souvenirs | 30.00% | ~128 |
 | Welcome to the Garage | 20.00% | ~85 |
-| This is Not Heavy Metal! | 17.00% | ~72 |
+| This is Not Heavy Metal! | 17.00% | ~73 |
 | Truthseeker | 16.00% | ~68 |
 | Freedom | 9.00% | ~38 |
 | 86's Nightmare | 9.00% | ~38 |
 | Partners in Crime | 9.00% | ~38 |
-| The Eye of the Storm | 8.00% | ~34 |
 | Friendzone | 8.00% | ~34 |
+| The Eye of the Storm | 7.00% | ~30 |
 | Attack on Tyran | 6.00% | ~26 |
 | Song Harvester | 1.00% | ~4 |
 | Try Harder | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426 (Ranked 281)  
+Progressed: 427 (Ranked 281)  
 Completed: 2 (0.47%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.47%) (Ranked 166)
 | 2023-09-27 | 421 | 2 |
 | 2023-09-28 | 422 | 2 |
 | 2023-09-29 | 423 | 2 |
-| 2023-09-30 | 426 | 2 |
+| 2023-09-30 | 427 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

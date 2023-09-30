@@ -509,9 +509,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MluviciPapouch",
@@ -637,9 +637,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Zelvak",
@@ -668,8 +668,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:05:11.7741674+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:04:39.8963113+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-09-30T17:57:32.8383214+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:05:11.7741935+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:57:31.042844+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:04:39.896335+00:00"
 }

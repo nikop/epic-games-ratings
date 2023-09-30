@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1773,9 +1773,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14231,
+  "EOS_Progressed": 14234,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12613,6 +12613,11 @@
       "Time": "2023-09-30T18:05:53.1956457+00:00",
       "NumProgressed": 14231,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-30T19:05:15.7545169+00:00",
+      "NumProgressed": 14234,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12974,9 +12979,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 712
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -14991,21 +14996,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14231,
+      "Progressed": 14234,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14231,
+      "Progressed": 14234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-29T04:02:16.7733488+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:05:53.1956452+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:05:15.754516+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-09-30T17:57:49.6857491+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:05:53.1966392+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:57:46.1764332+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:05:15.7553745+00:00"
 }

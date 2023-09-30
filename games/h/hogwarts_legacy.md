@@ -5,13 +5,13 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,639 |
-| First Class Student | 13.00% | ~38,687 |
-| Troll with the Punches | 13.00% | ~38,687 |
-| A Keen Sense of Spell | 12.00% | ~35,711 |
-| That's a Keeper | 12.00% | ~35,711 |
-| The Defender of Dragons | 11.00% | ~32,735 |
-| A Talent for Spending | 11.00% | ~32,735 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,641 |
+| First Class Student | 13.00% | ~38,689 |
+| Troll with the Punches | 13.00% | ~38,689 |
+| A Keen Sense of Spell | 12.00% | ~35,713 |
+| That's a Keeper | 12.00% | ~35,713 |
+| The Defender of Dragons | 11.00% | ~32,737 |
+| A Talent for Spending | 11.00% | ~32,737 |
 | Grappling with a Graphorn | 10.00% | ~29,760 |
 | The One Who Mastered Memories | 10.00% | ~29,760 |
 | The Hallowed Hero | 10.00% | ~29,760 |
@@ -44,14 +44,14 @@ Rating: 4.76 (Ranked 119)
 | Rise to the Challenges | 2.00% | ~5,952 |
 | Finishing Touches | 2.00% | ~5,952 |
 | Savvy Spender | 1.00% | ~2,976 |
+| Merlin's Beard! | 1.00% | ~2,976 |
 | Demiguise Dread | 1.00% | ~2,976 |
 | A Forte for Achievement | 1.00% | ~2,976 |
-| Merlin's Beard! | 0.90% | ~2,678 |
 | Spilled Milk | 0.80% | ~2,381 |
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,595 (Ranked 46)  
+Progressed: 297,605 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 479 (0.16%) (Ranked 221)
 | 2023-09-27 | 297,436 | 478 |
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
-| 2023-09-30 | 297,595 | 479 |
+| 2023-09-30 | 297,605 | 479 |
 ## Awards
 Max (Character Customization): 23,160  (Ranked 17)  
 Sum: 44,688 (Ranked 30)  

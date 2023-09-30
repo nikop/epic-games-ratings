@@ -2,8 +2,8 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 339,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -786,6 +786,11 @@
       "Time": "2023-09-30T17:02:30.2226884+00:00",
       "NumProgressed": 337,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T19:02:25.3730719+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -830,7 +835,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_14",
@@ -846,7 +851,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_16",
@@ -870,7 +875,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_19",
@@ -934,7 +939,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_26",
@@ -982,7 +987,7 @@
       "Name": "Precision shot",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_31",
@@ -1006,7 +1011,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_34",
@@ -1014,7 +1019,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_35",
@@ -1022,7 +1027,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_36",
@@ -1038,7 +1043,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_38",
@@ -1062,7 +1067,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_40",
@@ -1070,7 +1075,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_41",
@@ -1078,7 +1083,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_42",
@@ -1110,7 +1115,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_46",
@@ -1222,7 +1227,7 @@
       "Name": "Alternative solution",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_59",
@@ -1236,9 +1241,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_60",
@@ -1246,7 +1251,7 @@
       "Name": "What will you become?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_61",
@@ -1254,7 +1259,7 @@
       "Name": "The circle is now complete",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_62",
@@ -1270,7 +1275,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_7",
@@ -1301,13 +1306,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 339,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 337,
+      "Progressed": 339,
       "Completed": 1
     }
   ],
@@ -1315,8 +1320,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:03:12.1377623+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:02:25.373071+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-09-30T17:59:04.379481+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:03:12.1378403+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:58:51.7723952+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:02:25.373152+00:00"
 }

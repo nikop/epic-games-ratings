@@ -5,19 +5,19 @@ Rating: 4.05 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,840 |
-| World Map | 79.00% | ~1,563 |
-| Temple of Eternals | 57.00% | ~1,128 |
+| Victor | 93.00% | ~1,841 |
+| World Map | 79.00% | ~1,564 |
+| Temple of Eternals | 57.00% | ~1,129 |
 | Prestigious | 54.00% | ~1,069 |
-| Fellowship Power | 42.00% | ~831 |
+| Fellowship Power | 42.00% | ~832 |
 | Guild Power | 26.00% | ~515 |
 | Prestigious x10 | 23.00% | ~455 |
 | The game is on | 21.00% | ~416 |
-| Exotic Merchant | 20.00% | ~396 |
+| Exotic Merchant | 19.00% | ~376 |
 | Dragon Clicker | 18.00% | ~356 |
-| Full Party | 17.00% | ~336 |
-| Inspection | 17.00% | ~336 |
-| Miner Clicker | 17.00% | ~336 |
+| Full Party | 17.00% | ~337 |
+| Inspection | 17.00% | ~337 |
+| Miner Clicker | 17.00% | ~337 |
 | Dragon Master | 16.00% | ~317 |
 | Enlightenment | 16.00% | ~317 |
 | Hero inspection | 15.00% | ~297 |
@@ -28,7 +28,7 @@ Rating: 4.05 (Ranked 949)
 | Superior | 14.00% | ~277 |
 | The Unstoppable | 14.00% | ~277 |
 | Scientist | 13.00% | ~257 |
-| The power of Awakening | 12.00% | ~237 |
+| The power of Awakening | 12.00% | ~238 |
 | Challenger | 11.00% | ~218 |
 | Daily Quest Completionist | 11.00% | ~218 |
 | Doing My Part | 11.00% | ~218 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 949)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,979 (Ranked 199)  
+Progressed: 1,980 (Ranked 199)  
 Completed: 2 (0.10%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 2 (0.10%) (Ranked 239)
 | 2023-09-26 | 1,973 | 2 |
 | 2023-09-27 | 1,976 | 2 |
 | 2023-09-28 | 1,978 | 2 |
-| 2023-09-30 | 1,979 | 2 |
+| 2023-09-30 | 1,980 | 2 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 504)  
 Sum: 65 (Ranked 451)  

@@ -74,9 +74,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "2e4ldac",
       "Name": "Key Piece I",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -235,8 +235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:05:25.7221966+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:04:51.8074384+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.5592087+00:00",
-  "LastUpdate_Ratings": "2023-09-30T17:59:15.3287218+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:05:25.7222331+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:59:00.6626511+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:04:51.8074543+00:00"
 }

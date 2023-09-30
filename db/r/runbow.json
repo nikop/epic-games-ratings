@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249847,
+  "EOS_Progressed": 249851,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15379,6 +15379,11 @@
       "Time": "2023-09-30T18:06:33.8440688+00:00",
       "NumProgressed": 249847,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-30T19:05:52.1187679+00:00",
+      "NumProgressed": 249851,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15390,7 +15395,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17489
+      "UsersEstimate": 17490
     },
     {
       "ID": "aWinnerIsYou",
@@ -15414,7 +15419,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52468
+      "UsersEstimate": 52469
     },
     {
       "ID": "blotbuster",
@@ -15446,7 +15451,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42474
+      "UsersEstimate": 42475
     },
     {
       "ID": "cantBeKeptDown",
@@ -15462,7 +15467,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37477
+      "UsersEstimate": 37478
     },
     {
       "ID": "clearCut",
@@ -15486,7 +15491,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44972
+      "UsersEstimate": 44973
     },
     {
       "ID": "curator",
@@ -15494,7 +15499,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49969
+      "UsersEstimate": 49970
     },
     {
       "ID": "didYourTime",
@@ -15542,7 +15547,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7495
+      "UsersEstimate": 7496
     },
     {
       "ID": "hereWeGo",
@@ -15566,7 +15571,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132419
+      "UsersEstimate": 132421
     },
     {
       "ID": "indegestible",
@@ -15582,7 +15587,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17489
+      "UsersEstimate": 17490
     },
     {
       "ID": "itsTheFall",
@@ -15590,7 +15595,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64960
+      "UsersEstimate": 64961
     },
     {
       "ID": "justABit",
@@ -15598,7 +15603,7 @@
       "Name": "Just A Bit",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "lazyLaser",
@@ -15630,7 +15635,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124924
+      "UsersEstimate": 124926
     },
     {
       "ID": "notScared",
@@ -15662,7 +15667,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17489
+      "UsersEstimate": 17490
     },
     {
       "ID": "rideTheWave",
@@ -15678,7 +15683,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7495
+      "UsersEstimate": 7496
     },
     {
       "ID": "talentScout",
@@ -15694,7 +15699,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54966
+      "UsersEstimate": 54967
     },
     {
       "ID": "thunderstruck",
@@ -15710,7 +15715,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32480
+      "UsersEstimate": 32481
     },
     {
       "ID": "treeMedalist",
@@ -15734,7 +15739,7 @@
       "Name": "Tubular, Dude",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "whatATrip",
@@ -15742,7 +15747,7 @@
       "Name": "What A Trip",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "youJuanAGo",
@@ -15757,7 +15762,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249847,
+      "Progressed": 249851,
       "Completed": 6
     }
   ],
@@ -15765,8 +15770,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:06:33.844068+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:05:52.1187673+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:00:10.2865391+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:06:33.8441962+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:59:49.6106099+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:05:52.1189125+00:00"
 }

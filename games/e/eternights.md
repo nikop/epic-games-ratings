@@ -27,7 +27,7 @@
 | Flawless | 5.00% | ~12 |
 | LOVEassistant | 4.00% | ~10 |
 | Dreamboat | 2.00% | ~5 |
-| True Player | 0.80% | ~2 |
+| True Player | 1.00% | ~2 |
 | Bond Lord | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239 (Ranked 326)  

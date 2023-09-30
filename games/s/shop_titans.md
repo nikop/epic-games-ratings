@@ -31,13 +31,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 0.90% | ~1,232 |
 | On the Path to Greatness | 0.80% | ~1,095 |
 | Ascended | 0.80% | ~1,095 |
+| Vanity, Verily | 0.80% | ~1,095 |
 | Blank Page Syndrome | 0.80% | ~1,095 |
 | Efficient Floor Space | 0.80% | ~1,095 |
 | Gem Expert | 0.80% | ~1,095 |
 | Accomplished Merchant | 0.80% | ~1,095 |
 | Arcane Industries | 0.80% | ~1,095 |
 | Research & Development | 0.70% | ~958 |
-| Vanity, Verily | 0.70% | ~958 |
 | Fated Encounters | 0.70% | ~958 |
 | Power of Love | 0.70% | ~958 |
 | Flawless Fusion | 0.70% | ~958 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,909 (Ranked 69)  
+Progressed: 136,910 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
-| 2023-09-30 | 136,909 | 158 |
+| 2023-09-30 | 136,910 | 158 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,310 (Ranked 49)  

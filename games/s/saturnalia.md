@@ -16,9 +16,9 @@ Rating: 4.26 (Ranked 842)
 | Detective of the occult | 1.00% | ~668 |
 | Depression | 1.00% | ~668 |
 | Bless me Father... | 0.90% | ~601 |
-| Power of Friendship | 0.70% | ~467 |
-| Phone Bill | 0.70% | ~467 |
-| Chain Breaker | 0.70% | ~467 |
+| Power of Friendship | 0.70% | ~468 |
+| Phone Bill | 0.70% | ~468 |
+| Chain Breaker | 0.70% | ~468 |
 | Let there be light | 0.50% | ~334 |
 | Silent Advisor | 0.50% | ~334 |
 | Soda addiction | 0.40% | ~267 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 842)
 | Are you still there? | 0.40% | ~267 |
 | Ear Ringing | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,785 (Ranked 89)  
+Progressed: 66,786 (Ranked 89)  
 Completed: 16 (0.02%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 16 (0.02%) (Ranked 275)
 | 2023-09-27 | 66,709 | 16 |
 | 2023-09-28 | 66,740 | 16 |
 | 2023-09-29 | 66,768 | 16 |
-| 2023-09-30 | 66,785 | 16 |
+| 2023-09-30 | 66,786 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

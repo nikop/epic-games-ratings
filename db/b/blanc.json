@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2762,
+  "EOS_Progressed": 2763,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -3533,6 +3533,11 @@
       "Time": "2023-09-30T18:05:27.4179312+00:00",
       "NumProgressed": 2762,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-30T19:04:53.1834226+00:00",
+      "NumProgressed": 2763,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3568,7 +3573,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "MOVE_ON",
@@ -3598,9 +3603,9 @@
       "ID": "SNOW_RUINS",
       "SetID": "1a29mp6",
       "Name": "Snow-covered ruins",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "STARTING_DUO",
@@ -3647,7 +3652,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2762,
+      "Progressed": 2763,
       "Completed": 6
     }
   ],
@@ -3655,8 +3660,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:05:27.4179306+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:04:53.183422+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:53.5890664+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:00:11.5014098+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:05:27.4179624+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:59:50.8507458+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:04:53.1834584+00:00"
 }

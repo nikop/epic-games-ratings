@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15479,
+  "EOS_Progressed": 15480,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11125,6 +11125,11 @@
       "Time": "2023-09-30T16:04:07.7162104+00:00",
       "NumProgressed": 15479,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-30T19:04:09.6393238+00:00",
+      "NumProgressed": 15480,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11200,7 +11205,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "tpote_achievement_18",
@@ -11312,7 +11317,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "tpote_achievement_30",
@@ -11448,7 +11453,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "tpote_achievement_9",
@@ -11463,15 +11468,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15479,
+      "Progressed": 15480,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:04:37.1699949+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:04:09.6393236+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:01:10.7847385+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:04:37.170092+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:00:37.8927437+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:04:09.6394138+00:00"
 }

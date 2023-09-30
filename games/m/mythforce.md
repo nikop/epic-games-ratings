@@ -1,27 +1,27 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 589)  
+Rating: 4.49 (Ranked 588)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~736 |
-| Debuff Dogpile | 20.00% | ~701 |
-| Hit 'Em Where It Hurts | 20.00% | ~701 |
-| Perk Shard Punch Card | 20.00% | ~701 |
-| That'll Leave a Mark | 20.00% | ~701 |
-| Mushroom Madness! | 18.00% | ~631 |
-| Spending Spree | 16.00% | ~561 |
+| Faceroll the Bones | 21.00% | ~737 |
+| Debuff Dogpile | 20.00% | ~702 |
+| Hit 'Em Where It Hurts | 20.00% | ~702 |
+| Perk Shard Punch Card | 20.00% | ~702 |
+| That'll Leave a Mark | 20.00% | ~702 |
+| Mushroom Madness! | 18.00% | ~632 |
+| Spending Spree | 16.00% | ~562 |
 | First Strike | 15.00% | ~526 |
 | Horder Better Faster Stronger | 15.00% | ~526 |
 | Everything Must Go! | 12.00% | ~421 |
 | Ten Steps from the Grave | 12.00% | ~421 |
 | Next Time on MythForce... | 11.00% | ~386 |
 | Cold-Blooded Critters | 9.00% | ~316 |
-| Death Becomes You | 7.00% | ~245 |
-| Flawless Victory | 6.00% | ~210 |
-| The Harder They Fall | 5.00% | ~175 |
+| Death Becomes You | 7.00% | ~246 |
+| Flawless Victory | 6.00% | ~211 |
+| The Harder They Fall | 5.00% | ~176 |
 | On this Episode! | 4.00% | ~140 |
 | Deadication | 3.00% | ~105 |
 | Season Finale | 3.00% | ~105 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~14 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,507 (Ranked 181)  
+Progressed: 3,510 (Ranked 180)  
 Completed: 2 (0.06%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.06%) (Ranked 255)
 | 2023-09-27 | 3,281 | 1 |
 | 2023-09-28 | 3,340 | 1 |
 | 2023-09-29 | 3,432 | 1 |
-| 2023-09-30 | 3,507 | 2 |
+| 2023-09-30 | 3,510 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 457)  
 Sum: 278 (Ranked 354)  

@@ -2232,7 +2232,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26114,
+  "EOS_Progressed": 26115,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -13882,6 +13882,11 @@
       "Time": "2023-09-30T18:04:31.8638843+00:00",
       "NumProgressed": 26114,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-30T19:04:04.9888006+00:00",
+      "NumProgressed": 26115,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14275,17 +14280,17 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Welcome_Crew",
       "SetID": "819popo",
       "Name": "Welcome to the Crew",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 131
     },
     {
       "ID": "Whoopsie",
@@ -14300,7 +14305,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26114,
+      "Progressed": 26115,
       "Completed": 58
     }
   ],
@@ -14308,8 +14313,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:04:31.8638838+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:04:04.9888001+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:00:06.9366016+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:04:31.864001+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:59:46.0074046+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:04:04.9889267+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,635 |
-| What should I buy? | 84.00% | ~6,896 |
-| Focus! | 63.00% | ~5,172 |
-| Rescued Elder Ent | 63.00% | ~5,172 |
+| The Legend Begins | 93.00% | ~7,636 |
+| What should I buy? | 84.00% | ~6,897 |
+| Focus! | 63.00% | ~5,173 |
+| Rescued Elder Ent | 63.00% | ~5,173 |
 | The End of the Gold Mane Knights | 49.00% | ~4,023 |
-| False Goddess, Disappear | 41.00% | ~3,366 |
-| Rules of Etiquette | 41.00% | ~3,366 |
+| False Goddess, Disappear | 41.00% | ~3,367 |
+| Rules of Etiquette | 41.00% | ~3,367 |
 | Quick Movements | 35.00% | ~2,874 |
 | Inventory Management | 35.00% | ~2,874 |
 | The Fall of the Leonia Order | 31.00% | ~2,545 |
 | The Hero Killer | 29.00% | ~2,381 |
 | Go Home... | 28.00% | ~2,299 |
 | The Final Battle of the First Hero | 27.00% | ~2,217 |
-| Brain at Full Throttle | 23.00% | ~1,888 |
+| Brain at Full Throttle | 23.00% | ~1,889 |
 | Rookies Welcome | 20.00% | ~1,642 |
 | Deadly Power | 17.00% | ~1,396 |
-| Castle Restoration Plans | 14.00% | ~1,149 |
+| Castle Restoration Plans | 14.00% | ~1,150 |
 | The Dwarven Chandelier | 13.00% | ~1,067 |
 | Master of Speed | 10.00% | ~821 |
 | The Levitator | 7.00% | ~575 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~164 |
 | Cold-Blooded | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,210 (Ranked 149)  
+Progressed: 8,211 (Ranked 149)  
 Completed: 13 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,11 +180,11 @@ Completed: 13 (0.16%) (Ranked 221)
 | 2023-09-27 | 8,207 | 13 |
 | 2023-09-28 | 8,208 | 13 |
 | 2023-09-29 | 8,209 | 13 |
-| 2023-09-30 | 8,210 | 13 |
+| 2023-09-30 | 8,211 | 13 |
 ## Awards
 Max (Great for Beginners): 127  (Ranked 316)  
-Sum: 908 (Ranked 257)  
-Diff (max vs sum): 59  
+Sum: 908 (Ranked 258)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 127 |

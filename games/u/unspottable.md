@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Catch me if you can | 78.00% | ~7 |
-| Under the spotlights | 56.00% | ~5 |
+| Under the spotlights | 67.00% | ~6 |
 | Out of my area | 44.00% | ~4 |
 | Robot cleaner | 44.00% | ~4 |
 | Teacher's pet | 44.00% | ~4 |

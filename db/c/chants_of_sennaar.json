@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.44,
+  "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1099,6 +1099,11 @@
       "Time": "2023-09-30T12:09:40.7804171+00:00",
       "NumProgressed": 233,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-30T19:08:31.4633414+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 25,
@@ -1134,7 +1139,7 @@
       "Name": "Cable guy",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1156,9 +1161,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1228,9 +1233,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1254,7 +1259,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1270,7 +1275,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PROGRESS_N2",
@@ -1284,9 +1289,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "PROGRESS_N4",
@@ -1309,14 +1314,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-30T18:09:08.6909903+00:00",
+  "LastChanged_Achievements": "2023-09-30T19:08:31.4633406+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-09-30T17:59:46.0668033+00:00",
-  "LastUpdate_Achievements": "2023-09-30T18:09:08.6910159+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:59:26.1372035+00:00",
+  "LastUpdate_Achievements": "2023-09-30T19:08:31.4633675+00:00"
 }

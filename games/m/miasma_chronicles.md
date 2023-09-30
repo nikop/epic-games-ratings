@@ -41,8 +41,8 @@ Rating: 4.42 (Ranked 687)
 | Chaos Theory | 16.00% | ~235 |
 | Ruthless | 14.00% | ~206 |
 | Side Order | 11.00% | ~162 |
+| Bot Whisperer | 9.00% | ~132 |
 | Chain Reaction | 9.00% | ~132 |
-| Bot Whisperer | 8.00% | ~118 |
 | Curveball | 8.00% | ~118 |
 | Dressed To Kill | 7.00% | ~103 |
 | Wipe Out | 7.00% | ~103 |

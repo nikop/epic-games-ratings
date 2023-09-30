@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,747 |
-| That's a Grand Army | 3.00% | ~12,561 |
-| That is mine! | 3.00% | ~12,561 |
-| Victorious! | 3.00% | ~12,561 |
-| Brothers in Arms | 2.00% | ~8,374 |
-| For the Glory | 2.00% | ~8,374 |
-| That's a Grand Navy | 2.00% | ~8,374 |
-| Seriously?! | 2.00% | ~8,374 |
-| Cold War | 1.00% | ~4,187 |
-| Defender of the Faith | 1.00% | ~4,187 |
-| It's all about the money | 1.00% | ~4,187 |
-| The Princess is in this Castle | 1.00% | ~4,187 |
-| True Catholic | 1.00% | ~4,187 |
-| It's all about luck | 0.90% | ~3,768 |
-| Respected | 0.90% | ~3,768 |
-| Truly Divine Ruler | 0.90% | ~3,768 |
-| Blockader | 0.80% | ~3,349 |
-| Double the Love | 0.80% | ~3,349 |
-| Total Control | 0.80% | ~3,349 |
+| Until death do us apart | 4.00% | ~16,750 |
+| That's a Grand Army | 3.00% | ~12,563 |
+| That is mine! | 3.00% | ~12,563 |
+| Victorious! | 3.00% | ~12,563 |
+| Brothers in Arms | 2.00% | ~8,375 |
+| For the Glory | 2.00% | ~8,375 |
+| That's a Grand Navy | 2.00% | ~8,375 |
+| Seriously?! | 2.00% | ~8,375 |
+| Cold War | 1.00% | ~4,188 |
+| Defender of the Faith | 1.00% | ~4,188 |
+| It's all about the money | 1.00% | ~4,188 |
+| The Princess is in this Castle | 1.00% | ~4,188 |
+| True Catholic | 1.00% | ~4,188 |
+| It's all about luck | 0.90% | ~3,769 |
+| Respected | 0.90% | ~3,769 |
+| Truly Divine Ruler | 0.90% | ~3,769 |
+| Blockader | 0.80% | ~3,350 |
+| Double the Love | 0.80% | ~3,350 |
+| Total Control | 0.80% | ~3,350 |
 | Royal Authority | 0.70% | ~2,931 |
-| My armies are invincible! | 0.60% | ~2,512 |
-| Agressive Expander | 0.50% | ~2,093 |
-| City of Cities | 0.50% | ~2,093 |
-| Combined Arms | 0.50% | ~2,093 |
-| This navy can take it all | 0.50% | ~2,093 |
+| My armies are invincible! | 0.60% | ~2,513 |
+| Agressive Expander | 0.50% | ~2,094 |
+| City of Cities | 0.50% | ~2,094 |
+| Combined Arms | 0.50% | ~2,094 |
+| This navy can take it all | 0.50% | ~2,094 |
 | Azur semé de lis or | 0.40% | ~1,675 |
 | Factionalism | 0.40% | ~1,675 |
 | Gentle Persuasion | 0.40% | ~1,675 |
@@ -45,19 +45,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,256 |
 | The Five Colonies | 0.30% | ~1,256 |
 | Trustworthy | 0.30% | ~1,256 |
-| All belongs to Mother Russia | 0.20% | ~837 |
-| At every continent | 0.20% | ~837 |
-| Early-Modern Warfare | 0.20% | ~837 |
-| Electable! | 0.20% | ~837 |
-| Grand Coalition | 0.20% | ~837 |
-| Just a Little Patience | 0.20% | ~837 |
-| One Family to Rule them All | 0.20% | ~837 |
-| Ruina Imperii | 0.20% | ~837 |
-| The pen is mightier than the sword | 0.20% | ~837 |
-| This is My Faith | 0.20% | ~837 |
-| Time Bandit | 0.20% | ~837 |
-| Traditional Player | 0.20% | ~837 |
-| Voting Streak | 0.20% | ~837 |
+| All belongs to Mother Russia | 0.20% | ~838 |
+| At every continent | 0.20% | ~838 |
+| Early-Modern Warfare | 0.20% | ~838 |
+| Electable! | 0.20% | ~838 |
+| Grand Coalition | 0.20% | ~838 |
+| Just a Little Patience | 0.20% | ~838 |
+| One Family to Rule them All | 0.20% | ~838 |
+| Ruina Imperii | 0.20% | ~838 |
+| The pen is mightier than the sword | 0.20% | ~838 |
+| This is My Faith | 0.20% | ~838 |
+| Time Bandit | 0.20% | ~838 |
+| Traditional Player | 0.20% | ~838 |
+| Voting Streak | 0.20% | ~838 |
 | The 52 Garhs | 0.10% | ~419 |
 | I don't like sand | 0.10% | ~419 |
 | A Blessed Nation | 0.10% | ~419 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418,687 (Ranked 41)  
+Progressed: 418,751 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,7 +524,7 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
 | 2023-09-29 | 417,709 | 1 |
-| 2023-09-30 | 418,687 | 1 |
+| 2023-09-30 | 418,751 | 1 |
 ## Awards
 Max (Educational): 6,335  (Ranked 57)  
 Sum: 51,989 (Ranked 24)  
