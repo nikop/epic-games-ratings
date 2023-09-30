@@ -5,22 +5,22 @@ Rating: 4.83 (Ranked 57)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,058 |
-| A Thorny Situation | 70.00% | ~3,891 |
+| Azoria Beckons | 73.00% | ~4,059 |
+| A Thorny Situation | 71.00% | ~3,948 |
 | ... And Spit Back Out | 59.00% | ~3,280 |
 | Break-Net Speed | 47.00% | ~2,613 |
 | Bramble Breaker | 44.00% | ~2,446 |
-| Miner 49er | 41.00% | ~2,279 |
+| Miner 49er | 41.00% | ~2,280 |
 | Humble Collector | 39.00% | ~2,168 |
-| Calm Sailing | 33.00% | ~1,834 |
+| Calm Sailing | 33.00% | ~1,835 |
 | Open the Gate! | 30.00% | ~1,668 |
 | Mist Walker | 28.00% | ~1,557 |
 | Lumberjack | 24.00% | ~1,334 |
-| Oui, Chef! | 21.00% | ~1,167 |
+| Oui, Chef! | 21.00% | ~1,168 |
 | Clear the Air | 15.00% | ~834 |
 | Botanical Breakthrough | 14.00% | ~778 |
 | Beach Comber | 12.00% | ~667 |
-| Higher Tax Bracket | 11.00% | ~611 |
+| Higher Tax Bracket | 11.00% | ~612 |
 | Search for the Hairy Grell | 10.00% | ~556 |
 | Got to Catch Them All | 6.00% | ~334 |
 | Rumble in the Jumble | 6.00% | ~334 |
@@ -34,14 +34,14 @@ Rating: 4.83 (Ranked 57)
 | Chatty Neighbor | 3.00% | ~167 |
 | Right Tool For the Job | 2.00% | ~111 |
 | House Proud | 2.00% | ~111 |
-| Angling Authority | 0.80% | ~44 |
+| Angling Authority | 0.90% | ~50 |
 | Captain of Cozy | 0.80% | ~44 |
 | Cloverfield Island | 0.10% | ~6 |
 | Workaholic | 0.10% | ~6 |
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,559 (Ranked 163)  
+Progressed: 5,560 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 5,284 | 0 |
 | 2023-09-28 | 5,427 | 0 |
 | 2023-09-29 | 5,524 | 0 |
-| 2023-09-30 | 5,559 | 0 |
+| 2023-09-30 | 5,560 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

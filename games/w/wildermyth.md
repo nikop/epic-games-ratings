@@ -19,15 +19,15 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 14.00% | ~197 |
 | Who's Counting? | 14.00% | ~197 |
 | Core Failure | 14.00% | ~197 |
-| Pyrrhic Victory | 11.00% | ~155 |
+| Pyrrhic Victory | 12.00% | ~169 |
 | Thematic Divergence | 10.00% | ~141 |
 | Echoes Die | 10.00% | ~141 |
 | Chain Reaction | 9.00% | ~127 |
 | Plague Doctor | 8.00% | ~112 |
 | Everfading | 8.00% | ~112 |
 | Another Tale to Tell | 8.00% | ~112 |
+| A Story of Heroes | 8.00% | ~112 |
 | Let Me Get My Chisel | 7.00% | ~98 |
-| A Story of Heroes | 7.00% | ~98 |
 | Legends Never Die | 6.00% | ~84 |
 | Wingknight's Prowess | 6.00% | ~84 |
 | All My Birds, Safely Home | 6.00% | ~84 |

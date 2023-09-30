@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232775,
+  "EOS_Progressed": 232777,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
@@ -17483,6 +17483,11 @@
       "Time": "2023-09-30T09:07:22.1130437+00:00",
       "NumProgressed": 232775,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-30T10:09:06.8380264+00:00",
+      "NumProgressed": 232777,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -17510,7 +17515,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65177
+      "UsersEstimate": 65178
     },
     {
       "ID": "CENTAUR",
@@ -17718,7 +17723,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51210
+      "UsersEstimate": 51211
     },
     {
       "ID": "TACTICIAN",
@@ -17742,7 +17747,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51210
+      "UsersEstimate": 51211
     },
     {
       "ID": "TUNINGMANIAC",
@@ -17758,22 +17763,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95438
+      "UsersEstimate": 95439
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 232775,
+      "Progressed": 232777,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:07:22.1130431+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:09:06.8380259+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:50.3170305+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:58:42.7845709+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:07:22.113167+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:59:34.9581311+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:09:06.8381268+00:00"
 }

@@ -16,8 +16,8 @@ Rating: 4.43 (Ranked 675)
 | Climber | 25.00% | ~725 |
 | Hidden Secrets | 25.00% | ~725 |
 | Reunion | 25.00% | ~725 |
+| Imprisonment | 24.00% | ~696 |
 | Mad Scientist | 24.00% | ~696 |
-| Imprisonment | 23.00% | ~667 |
 | Dog Person | 20.00% | ~580 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,900 (Ranked 189)  

@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -656,6 +656,11 @@
       "Time": "2023-09-30T09:05:37.4460596+00:00",
       "NumProgressed": 469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T10:06:33.4187691+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -683,7 +688,7 @@
       "Name": "Fireball",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "DashDashDash",
@@ -691,7 +696,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -819,7 +824,7 @@
       "Name": "Air Slash",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "OhNo",
@@ -945,9 +950,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 334
     },
     {
       "ID": "World2Boss",
@@ -955,7 +960,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "World3Boss",
@@ -963,7 +968,7 @@
       "Name": "The King of Flat",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "World4Boss",
@@ -977,9 +982,9 @@
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "World6Boss",
@@ -1018,7 +1023,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 0
     }
   ],
@@ -1026,8 +1031,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:05:37.4460588+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:06:33.4187685+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:57:49.7993994+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:05:37.4460973+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:58:18.590772+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:06:33.4187997+00:00"
 }

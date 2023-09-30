@@ -1,39 +1,39 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 644)  
+Rating: 4.45 (Ranked 645)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~394,408 |
-| Happy Returns | 78.00% | ~379,800 |
-| Hey! That's mine! | 78.00% | ~379,800 |
-| Field Promotion | 74.00% | ~360,323 |
-| Leadhead | 71.00% | ~345,715 |
-| Eradicator | 67.00% | ~326,238 |
-| Surplus | 65.00% | ~316,500 |
+| Happy Returns | 78.00% | ~379,801 |
+| Hey! That's mine! | 78.00% | ~379,801 |
+| Field Promotion | 74.00% | ~360,324 |
+| Leadhead | 71.00% | ~345,716 |
+| Eradicator | 67.00% | ~326,239 |
+| Surplus | 65.00% | ~316,501 |
 | I Spy | 64.00% | ~311,631 |
 | Burn Baby Burn | 59.00% | ~287,285 |
 | Yellow Beats Green | 55.00% | ~267,808 |
-| Salvage Rights | 53.00% | ~258,069 |
+| Salvage Rights | 53.00% | ~258,070 |
 | Close Call | 50.00% | ~243,462 |
 | Pew Pew | 50.00% | ~243,462 |
 | What IS that? | 50.00% | ~243,462 |
-| Penny Pincher | 49.00% | ~238,592 |
+| Penny Pincher | 49.00% | ~238,593 |
 | Arsenal | 46.00% | ~223,985 |
-| Boot Camp | 45.00% | ~219,115 |
+| Boot Camp | 45.00% | ~219,116 |
 | Flawless Victory | 42.00% | ~204,508 |
-| Confident | 41.00% | ~199,638 |
-| Exterminator | 36.00% | ~175,292 |
+| Confident | 41.00% | ~199,639 |
+| Exterminator | 36.00% | ~175,293 |
 | Sharpshooter | 34.00% | ~165,554 |
 | Not So Fast | 33.00% | ~160,685 |
-| Great Ball of Fire | 32.00% | ~155,815 |
+| Great Ball of Fire | 32.00% | ~155,816 |
 | No Sale | 31.00% | ~150,946 |
 | Kaboom! | 30.00% | ~146,077 |
 | Liquidator | 29.00% | ~141,208 |
 | High Voltage | 24.00% | ~116,862 |
-| Filthy Rich | 19.00% | ~92,515 |
+| Filthy Rich | 19.00% | ~92,516 |
 | The Not-So-Friendly Skies | 18.00% | ~87,646 |
 | Power Builder | 17.00% | ~82,777 |
 | Pyrrhic Victory | 17.00% | ~82,777 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~487 |
 | You Monster | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,923 (Ranked 35)  
+Progressed: 486,924 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 4 (0.00%) (Ranked 300)
 | 2023-09-27 | 486,789 | 4 |
 | 2023-09-28 | 486,837 | 4 |
 | 2023-09-29 | 486,902 | 4 |
-| 2023-09-30 | 486,923 | 4 |
+| 2023-09-30 | 486,924 | 4 |
 ## Awards
 Max (Great for Beginners): 249  (Ranked 258)  
 Sum: 1,691 (Ranked 211)  

@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 10.78,
+  "EOS_Completed_Percentage": 10.77,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2611,6 +2611,11 @@
       "Time": "2023-09-29T15:09:10.4974562+00:00",
       "NumProgressed": 742,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-09-30T10:09:12.2539221+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 30,
@@ -2622,7 +2627,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "LEVEL_002",
@@ -2630,7 +2635,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "LEVEL_003",
@@ -2638,7 +2643,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "LEVEL_004",
@@ -2646,7 +2651,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "LEVEL_005",
@@ -2654,7 +2659,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "LEVEL_006",
@@ -2668,9 +2673,9 @@
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 267
     },
     {
       "ID": "LEVEL_008",
@@ -2678,7 +2683,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_009",
@@ -2726,7 +2731,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_015",
@@ -2861,14 +2866,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 80
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:09:07.0164335+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:09:12.2539215+00:00",
   "LastUpdate_AppInfo": "2023-09-25T23:57:04.6641187+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:57:35.7987819+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:09:07.0164712+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:57:58.7366999+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:09:12.2539508+00:00"
 }

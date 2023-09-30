@@ -8,7 +8,7 @@
 | Meissa's Savior | 96.00% | ~27 |
 | Purification Pioneer | 96.00% | ~27 |
 | Dicesmithing Time! | 86.00% | ~24 |
-| Wild's Keeper | 79.00% | ~22 |
+| Wild's Keeper | 82.00% | ~23 |
 | Endless Tricks | 75.00% | ~21 |
 | Sanctuary Guardian | 75.00% | ~21 |
 | Mind Illuminator | 57.00% | ~16 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 465)  
+Progressed: 28 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |

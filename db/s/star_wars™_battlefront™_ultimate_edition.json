@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 319,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -751,6 +751,11 @@
       "Time": "2023-09-30T01:46:51.9615437+00:00",
       "NumProgressed": 316,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T10:08:21.2664061+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -779,7 +784,7 @@
       "Name": "Hold the line!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_12",
@@ -803,7 +808,7 @@
       "Name": "Playing the objective",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_15",
@@ -827,7 +832,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_18",
@@ -875,7 +880,7 @@
       "Name": "Distinguished",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_23",
@@ -899,7 +904,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_26",
@@ -971,7 +976,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_34",
@@ -987,7 +992,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_36",
@@ -1003,15 +1008,15 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_39",
@@ -1019,7 +1024,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_4",
@@ -1035,7 +1040,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_41",
@@ -1067,7 +1072,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_45",
@@ -1083,7 +1088,7 @@
       "Name": "Patience you must have",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_47",
@@ -1099,7 +1104,7 @@
       "Name": "No such thing as luck",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_49",
@@ -1107,7 +1112,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_5",
@@ -1131,7 +1136,7 @@
       "Name": "You have your moments",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_52",
@@ -1139,7 +1144,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_53",
@@ -1171,7 +1176,7 @@
       "Name": "Support the troops",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_57",
@@ -1195,7 +1200,7 @@
       "Name": "Onwards!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_6",
@@ -1203,7 +1208,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_60",
@@ -1266,13 +1271,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 319,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 316,
+      "Progressed": 319,
       "Completed": 1
     }
   ],
@@ -1280,8 +1285,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:06:56.2579511+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:08:21.2664054+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:58:29.4980194+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:06:56.2580246+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:59:14.9676048+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:08:21.2664606+00:00"
 }

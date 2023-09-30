@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4944,9 +4944,9 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 688294,
+  "EOS_Progressed": 688316,
   "EOS_Completed": 2178,
-  "EOS_NewPlayers": 3688,
+  "EOS_NewPlayers": 3680,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23314,6 +23314,11 @@
       "Time": "2023-09-30T09:04:06.897484+00:00",
       "NumProgressed": 688294,
       "NumCompleted": 2178
+    },
+    {
+      "Time": "2023-09-30T10:04:29.5115418+00:00",
+      "NumProgressed": 688316,
+      "NumCompleted": 2178
     }
   ],
   "TotalAchievements": 45,
@@ -23357,7 +23362,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "ach_big_name_in_town",
@@ -23397,7 +23402,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "ach_defensive",
@@ -23517,7 +23522,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "ach_knock_down",
@@ -23629,7 +23634,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "ach_thesacrifice",
@@ -23653,7 +23658,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -23669,7 +23674,7 @@
       "Name": "Rising Star",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "ach_well_trained",
@@ -23684,22 +23689,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 688294,
+      "Progressed": 688316,
       "Completed": 2178
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 13836,
-      "Completed": 13836
+      "Progressed": 13858,
+      "Completed": 13858
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-30T08:58:52.5273912+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:04:06.8974833+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:04:29.5115415+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:02.2407584+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:58:52.5273919+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:04:06.8976261+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:59:48.6549824+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:04:29.5116522+00:00"
 }

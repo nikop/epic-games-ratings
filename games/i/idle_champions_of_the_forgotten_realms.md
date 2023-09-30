@@ -12,7 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.20% | ~461 |
 | The Cursed Farmer | 0.20% | ~461 |
 | The Mad Wizard | 0.20% | ~461 |
-| Slow Down Showdown | 0.20% | ~393 |
+| Slow Down Showdown | 0.20% | ~394 |
+| Entrance of the Gladiators | 0.20% | ~394 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |
 | Upholding the Law | 0.10% | ~230 |
@@ -529,9 +530,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~197 |
 | The End | 0.10% | ~197 |
 | All's Well That Ends Well | 0.10% | ~197 |
-| Entrance of the Gladiators | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,473 (Ranked 56)  
+Progressed: 230,480 (Ranked 56)  
 Completed: 2,315 (1.00%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -694,7 +694,7 @@ Completed: 2,315 (1.00%) (Ranked 133)
 | 2023-09-27 | 230,228 | 2,310 |
 | 2023-09-28 | 230,310 | 2,311 |
 | 2023-09-29 | 230,422 | 2,312 |
-| 2023-09-30 | 230,473 | 2,315 |
+| 2023-09-30 | 230,480 | 2,315 |
 ## Awards
 Max (Diverse Characters): 5,341  (Ranked 69)  
 Sum: 31,839 (Ranked 40)  

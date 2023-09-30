@@ -3824,9 +3824,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11439,
+  "EOS_Progressed": 11440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13034,6 +13034,11 @@
       "Time": "2023-09-30T02:18:04.9990498+00:00",
       "NumProgressed": 11439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T10:04:53.542468+00:00",
+      "NumProgressed": 11440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13181,7 +13186,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "19_EqualToAroden",
@@ -13293,7 +13298,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -13972,21 +13977,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10221,
+      "Progressed": 10222,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11439,
+      "Progressed": 11440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-29T19:57:54.7769864+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:04:24.2410433+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:04:53.5424676+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:58:10.4244945+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:04:24.2412676+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:58:46.734926+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:04:53.5426422+00:00"
 }

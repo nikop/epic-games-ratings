@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8304,9 +8304,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297560,
+  "EOS_Progressed": 297562,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25879,6 +25879,11 @@
       "Time": "2023-09-30T09:03:51.9226539+00:00",
       "NumProgressed": 297560,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-30T10:04:09.359715+00:00",
+      "NumProgressed": 297562,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26114,7 +26119,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26780
+      "UsersEstimate": 26781
     },
     {
       "ID": "PFA_36",
@@ -26242,14 +26247,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26780
+      "UsersEstimate": 26781
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297560,
+      "Progressed": 297562,
       "Completed": 479
     }
   ],
@@ -26257,8 +26262,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-30T08:57:52.9270466+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:03:51.9226531+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:04:09.3597147+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:57:52.9270478+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:03:51.9227771+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:58:23.2390953+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:04:09.3598252+00:00"
 }

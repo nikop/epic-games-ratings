@@ -5,10 +5,10 @@
   "Ranking_Rating": 177,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -92,11 +92,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.08,
+  "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1927,6 +1927,11 @@
       "Time": "2023-09-30T08:06:13.9217968+00:00",
       "NumProgressed": 682,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-30T10:07:46.7502689+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1939,7 +1944,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1955,7 +1960,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1963,7 +1968,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_05_FinishAct2",
@@ -1987,7 +1992,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "_08_Completion_10",
@@ -1995,15 +2000,15 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 212
     },
     {
       "ID": "_10_Completion_30",
@@ -2146,7 +2151,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 21
     }
   ],
@@ -2154,8 +2159,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:06:31.0080452+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:07:46.7502684+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:58:46.9442772+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:06:31.0080743+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:59:40.5670683+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:07:46.7502912+00:00"
 }

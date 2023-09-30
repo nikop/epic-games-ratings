@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7018,9 +7018,9 @@
       "Count": 3450
     }
   ],
-  "EOS_Progressed": 230473,
+  "EOS_Progressed": 230480,
   "EOS_Completed": 2315,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -25118,6 +25118,11 @@
       "Time": "2023-09-30T09:03:46.0266192+00:00",
       "NumProgressed": 230473,
       "NumCompleted": 2315
+    },
+    {
+      "Time": "2023-09-30T10:04:02.2108731+00:00",
+      "NumProgressed": 230480,
+      "NumCompleted": 2315
     }
   ],
   "TotalAchievements": 524,
@@ -29297,7 +29302,7 @@
       "Name": "Slow Down Showdown",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "objective_completed_1410",
@@ -29311,30 +29316,30 @@
       "ID": "objective_completed_1411",
       "SetID": "415jc5c",
       "Name": "Entrance of the Gladiators",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 394
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 196747,
-      "Completed": 3532
+      "Progressed": 196754,
+      "Completed": 3533
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230473,
+      "Progressed": 230480,
       "Completed": 2315
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-30T08:58:27.024506+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:03:46.0266187+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:04:02.2108725+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:22.3012466+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:58:27.0245075+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:03:46.0298456+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:59:11.2930738+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:04:02.2134168+00:00"
 }

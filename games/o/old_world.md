@@ -143,10 +143,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.70% | ~100 |
 | Carthage - Ox Hide | 0.60% | ~85 |
 | Noble Difficulty | 0.60% | ~85 |
+| Persia | 0.60% | ~85 |
 | Old World Order | 0.60% | ~85 |
 | The Eternal Treaty | 0.50% | ~71 |
 | Learn to Play 5 | 0.50% | ~71 |
-| Persia | 0.50% | ~71 |
 | Play a Free-For-All Game (>2 Players) | 0.50% | ~71 |
 | Capturing Cities | 0.50% | ~71 |
 | Ten Crowns | 0.50% | ~71 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,219 (Ranked 133)  
+Progressed: 14,221 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
-| 2023-09-30 | 14,219 | 5 |
+| 2023-09-30 | 14,221 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

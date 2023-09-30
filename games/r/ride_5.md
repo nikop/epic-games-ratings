@@ -27,11 +27,11 @@
 | Cherry Blossom and Temples | 3.00% | ~37 |
 | La Dolce Vita | 3.00% | ~37 |
 | The Road to Liberty | 3.00% | ~37 |
+| Romantic Races | 3.00% | ~37 |
 | Still Here | 3.00% | ~37 |
 | Iconic! | 2.00% | ~24 |
 | Spoilt for Choice | 2.00% | ~24 |
 | Back in Blighty | 2.00% | ~24 |
-| Romantic Races | 2.00% | ~24 |
 | Rounding Off | 2.00% | ~24 |
 | My Work Here Is Done | 2.00% | ~24 |
 | I'll Be the Best! | 1.00% | ~12 |

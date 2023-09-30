@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528296,
+  "EOS_Progressed": 528297,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -17879,6 +17879,11 @@
       "Time": "2023-09-30T09:06:10.0166098+00:00",
       "NumProgressed": 528296,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-30T10:07:18.1006076+00:00",
+      "NumProgressed": 528297,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 57,
@@ -17898,7 +17903,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237733
+      "UsersEstimate": 237734
     },
     {
       "ID": "11",
@@ -17906,7 +17911,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369807
+      "UsersEstimate": 369808
     },
     {
       "ID": "12",
@@ -17922,7 +17927,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68678
+      "UsersEstimate": 68679
     },
     {
       "ID": "14",
@@ -17962,7 +17967,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79244
+      "UsersEstimate": 79245
     },
     {
       "ID": "19",
@@ -18122,7 +18127,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84527
+      "UsersEstimate": 84528
     },
     {
       "ID": "37",
@@ -18250,7 +18255,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73961
+      "UsersEstimate": 73962
     },
     {
       "ID": "51",
@@ -18266,7 +18271,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243016
+      "UsersEstimate": 243017
     },
     {
       "ID": "53",
@@ -18345,15 +18350,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528296,
+      "Progressed": 528297,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:06:10.0166091+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:07:18.1006072+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:31.7826677+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:57:45.5707943+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:06:10.0167605+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:58:12.7444412+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:07:18.1007271+00:00"
 }

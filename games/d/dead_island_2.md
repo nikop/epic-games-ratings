@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 513)  
+Rating: 4.54 (Ranked 512)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,15 +34,15 @@ Rating: 4.54 (Ranked 513)
 | Humanity Distilled | 1.00% | ~6,883 |
 | Down with the Sickness | 1.00% | ~6,883 |
 | Max Headroom | 1.00% | ~6,883 |
-| Jumbo Keyring | 0.80% | ~5,506 |
-| Go, Bobcats! | 0.80% | ~5,506 |
-| Rising Star | 0.80% | ~5,506 |
+| Jumbo Keyring | 0.80% | ~5,507 |
+| Go, Bobcats! | 0.80% | ~5,507 |
+| Rising Star | 0.80% | ~5,507 |
 | Smorgasbord | 0.70% | ~4,818 |
 | Not Even My Final Form | 0.60% | ~4,130 |
 | Internet Famous | 0.60% | ~4,130 |
-| Make it So | 0.50% | ~3,441 |
-| On Safari | 0.50% | ~3,441 |
-| Variety is the Spice of Death | 0.50% | ~3,441 |
+| Make it So | 0.50% | ~3,442 |
+| On Safari | 0.50% | ~3,442 |
+| Variety is the Spice of Death | 0.50% | ~3,442 |
 | LA Influential | 0.40% | ~2,753 |
 | Gore Horse | 0.40% | ~2,753 |
 | Sole Survivor | 0.30% | ~2,065 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 513)
 | Donk! | 0.10% | ~688 |
 | Bucket List | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,294 (Ranked 22)  
+Progressed: 688,316 (Ranked 22)  
 Completed: 2,178 (0.32%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 2,178 (0.32%) (Ranked 192)
 | 2023-09-27 | 687,260 | 2,176 |
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
-| 2023-09-30 | 688,294 | 2,178 |
+| 2023-09-30 | 688,316 | 2,178 |
 ## Awards
 Max (Great Boss Battles): 6,253  (Ranked 58)  
 Sum: 9,313 (Ranked 91)  

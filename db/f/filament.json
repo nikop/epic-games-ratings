@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202497,
+  "EOS_Progressed": 202501,
   "EOS_Completed": 511,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -17815,6 +17815,11 @@
       "Time": "2023-09-30T09:04:23.9428471+00:00",
       "NumProgressed": 202497,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2023-09-30T10:04:53.0691817+00:00",
+      "NumProgressed": 202501,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 29,
@@ -17826,7 +17831,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -17850,7 +17855,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190347
+      "UsersEstimate": 190351
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -17858,7 +17863,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -17922,7 +17927,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -18018,7 +18023,7 @@
       "Name": "Snooper \u002B",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACHIEVEMENT_VANILLA",
@@ -18057,7 +18062,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202497,
+      "Progressed": 202501,
       "Completed": 511
     }
   ],
@@ -18065,8 +18070,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-09-30T09:04:23.9428466+00:00",
+  "LastChanged_Achievements": "2023-09-30T10:04:53.0691809+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:58:59.1014806+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:59:17.119863+00:00",
-  "LastUpdate_Achievements": "2023-09-30T09:04:23.94297+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:00:23.4454445+00:00",
+  "LastUpdate_Achievements": "2023-09-30T10:04:53.0692784+00:00"
 }

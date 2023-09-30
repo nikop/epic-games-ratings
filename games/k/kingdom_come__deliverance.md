@@ -6,24 +6,24 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,989 |
-| Cavalier | 25.00% | ~200,773 |
-| Fatso | 23.00% | ~184,711 |
-| Awakening | 21.00% | ~168,649 |
-| Ranger | 20.00% | ~160,618 |
-| Scrooge | 20.00% | ~160,618 |
-| Anorectic | 16.00% | ~128,495 |
-| Bookworm | 15.00% | ~120,464 |
-| Firestarter | 15.00% | ~120,464 |
-| Insomniac | 13.00% | ~104,402 |
-| Buddy | 12.00% | ~96,371 |
-| Thief | 12.00% | ~96,371 |
-| Sinner | 11.00% | ~88,340 |
-| Traveller | 11.00% | ~88,340 |
-| Convict | 10.00% | ~80,309 |
-| Haggler | 9.00% | ~72,278 |
-| McLovin | 7.00% | ~56,216 |
-| Runt | 7.00% | ~56,216 |
+| Blacksmith's Son | 32.00% | ~256,993 |
+| Cavalier | 25.00% | ~200,776 |
+| Fatso | 23.00% | ~184,713 |
+| Awakening | 21.00% | ~168,651 |
+| Ranger | 20.00% | ~160,620 |
+| Scrooge | 20.00% | ~160,620 |
+| Anorectic | 16.00% | ~128,496 |
+| Bookworm | 15.00% | ~120,465 |
+| Firestarter | 15.00% | ~120,465 |
+| Insomniac | 13.00% | ~104,403 |
+| Buddy | 12.00% | ~96,372 |
+| Thief | 12.00% | ~96,372 |
+| Sinner | 11.00% | ~88,341 |
+| Traveller | 11.00% | ~88,341 |
+| Convict | 10.00% | ~80,310 |
+| Haggler | 9.00% | ~72,279 |
+| McLovin | 7.00% | ~56,217 |
+| Runt | 7.00% | ~56,217 |
 | Casanova | 6.00% | ~48,186 |
 | Bad Trip | 5.00% | ~40,155 |
 | Monk | 5.00% | ~40,155 |
@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,622 |
 | Saviour | 0.70% | ~5,622 |
 | Edward Kelly | 0.60% | ~4,819 |
-| I Can Quit Anytime | 0.50% | ~4,015 |
-| Perfectionist | 0.50% | ~4,015 |
+| I Can Quit Anytime | 0.50% | ~4,016 |
+| Perfectionist | 0.50% | ~4,016 |
 | Alcoholic | 0.30% | ~2,409 |
 | Sniper | 0.30% | ~2,409 |
 | Angel of Mercy | 0.20% | ~1,606 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,092 (Ranked 17)  
+Progressed: 803,102 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,15 +252,15 @@ Completed: 49 (0.01%) (Ranked 283)
 | 2023-09-27 | 802,854 | 49 |
 | 2023-09-28 | 802,957 | 49 |
 | 2023-09-29 | 803,054 | 49 |
-| 2023-09-30 | 803,092 | 49 |
+| 2023-09-30 | 803,102 | 49 |
 ## Awards
 Max (Character Customization): 7,487  (Ranked 48)  
-Sum: 27,887 (Ranked 48)  
+Sum: 27,891 (Ranked 48)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,487 |
-| This game has Great Boss Battles | 5,510 |
+| This game has Great Boss Battles | 5,513 |
 | This game has Challenging Combat | 1,748 |
 | This game has Amazing Storytelling | 1,703 |
 | This game has Diverse Characters | 1,696 |
@@ -269,7 +269,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 1,646 |
 | This game has Realistic Visuals | 1,646 |
 | This game is Educational | 1,591 |
-| This game is Relaxing | 1,520 |
+| This game is Relaxing | 1,521 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -521,3 +521,4 @@ Diff (max vs sum): 0
 | 2023-09-27 | 4.71 | - | 7,477 | 27,867 |
 | 2023-09-28 | 4.71 | - | 7,480 | 27,876 |
 | 2023-09-29 | 4.71 | - | 7,487 | 27,887 |
+| 2023-09-30 | 4.71 | - | 7,487 | 27,891 |
