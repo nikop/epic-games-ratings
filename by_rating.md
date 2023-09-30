@@ -66,7 +66,7 @@
 | 57 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 92 | 356 |
 | 57 | [TUNIC](games/t/tunic.md) | 4.83 | 35 | 450 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 525 |
-| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,659 | 120 |
+| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,661 | 120 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,873 | 63 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 525 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 525 |
@@ -249,7 +249,7 @@
 | 244 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 70 | 383 |
 | 244 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 525 |
 | 244 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 525 |
-| 244 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,422 | 49 |
+| 244 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,426 | 49 |
 | 244 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,960 | 83 |
 | 244 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,478 | 78 |
 | 244 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 308,090 | 3 |
@@ -470,7 +470,7 @@
 | 453 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 525 |
 | 453 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,982 | 82 |
 | 453 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 467 |
-| 453 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,664 | 20 |
+| 453 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,684 | 20 |
 | 453 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,778 | 116 |
 | 453 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 525 |
 | 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 69 | 384 |
@@ -943,18 +943,18 @@
 | 940 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 525 |
 | 940 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,341 | 69 |
 | 940 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.06 | 0 | 525 |
+| 940 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.06 | 0 | 525 |
 | 940 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 525 |
-| 945 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.05 | 0 | 525 |
-| 945 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
-| 945 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 468 | 205 |
-| 945 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 525 |
-| 949 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 525 |
-| 949 | [Tharsis](games/t/tharsis.md) | 4.04 | 0 | 525 |
-| 951 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.03 | 23 | 504 |
-| 951 | [Lake](games/l/lake.md) | 4.03 | 0 | 525 |
-| 951 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 525 |
-| 951 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.03 | 0 | 525 |
-| 951 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.03 | 0 | 525 |
+| 946 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.05 | 0 | 525 |
+| 946 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
+| 946 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 468 | 205 |
+| 946 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 525 |
+| 950 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 525 |
+| 950 | [Tharsis](games/t/tharsis.md) | 4.04 | 0 | 525 |
+| 952 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.03 | 23 | 504 |
+| 952 | [Lake](games/l/lake.md) | 4.03 | 0 | 525 |
+| 952 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 525 |
+| 952 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.03 | 0 | 525 |
 | 956 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.01 | 0 | 525 |
 | 957 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.00 | 0 | 525 |
 | 957 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 525 |

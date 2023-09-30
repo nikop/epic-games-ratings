@@ -19,7 +19,7 @@
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,132 | 4.76 | 119 |
 | 18 | [Dauntless](games/d/dauntless.md) | 22,386 | 4.53 | 526 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,898 | 4.26 | 841 |
-| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,664 | 4.57 | 453 |
+| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,684 | 4.57 | 453 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,724 | 4.89 | 12 |
 | 22 | [Warframe](games/w/warframe.md) | 17,409 | 4.60 | 400 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 16,363 | 4.21 | 870 |
@@ -48,7 +48,7 @@
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,877 | 4.85 | 43 |
 | 47 | [Supraland](games/s/supraland.md) | 7,693 | 4.61 | 372 |
 | 48 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,487 | 4.71 | 191 |
-| 49 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,422 | 4.68 | 244 |
+| 49 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,426 | 4.68 | 244 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,379 | 4.70 | 206 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 7,258 | 4.77 | 114 |
 | 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,155 | 4.74 | 149 |
@@ -119,7 +119,7 @@
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,751 | 4.50 | 574 |
 | 118 | [Remnant 2](games/r/remnant_2.md) | 1,740 | 4.76 | 119 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,718 | 4.76 | 119 |
-| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,659 | 4.82 | 66 |
+| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,661 | 4.82 | 66 |
 | 121 | [Celeste](games/c/celeste.md) | 1,627 | 4.92 | 4 |
 | 122 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,522 | 4.78 | 104 |
 | 123 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,518 | 4.79 | 94 |
@@ -204,7 +204,7 @@
 | 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 510 | 4.86 | 30 |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 498 | 4.72 | 177 |
 | 204 | [Surviving Mars](games/s/surviving_mars.md) | 484 | 4.60 | 400 |
-| 205 | [Second Extinction™](games/s/second_extinction™.md) | 468 | 4.05 | 945 |
+| 205 | [Second Extinction™](games/s/second_extinction™.md) | 468 | 4.05 | 946 |
 | 206 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 466 | 3.94 | 973 |
 | 207 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 463 | 4.40 | 715 |
 | 208 | [Loop Hero](games/l/loop_hero.md) | 461 | 4.67 | 262 |
@@ -280,7 +280,7 @@
 | 278 | [Unrailed!](games/u/unrailed!.md) | 197 | 4.64 | 315 |
 | 279 | [Crashlands](games/c/crashlands.md) | 194 | 4.66 | 281 |
 | 280 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 193 | 4.52 | 538 |
-| 281 | [Pinball FX](games/p/pinball_fx.md) | 191 | 4.05 | 945 |
+| 281 | [Pinball FX](games/p/pinball_fx.md) | 191 | 4.05 | 946 |
 | 282 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 185 | 4.62 | 354 |
 | 283 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 184 | 4.63 | 334 |
 | 284 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.08 | 931 |
@@ -504,7 +504,7 @@
 | 496 | [WRC Generations](games/w/wrc_generations.md) | 24 | 4.45 | 644 |
 | 496 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.24 | 852 |
 | 504 | [Fez](games/f/fez.md) | 23 | 4.72 | 177 |
-| 504 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 23 | 4.03 | 951 |
+| 504 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 23 | 4.03 | 952 |
 | 504 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 23 | 4.53 | 526 |
 | 504 | [Tunche](games/t/tunche.md) | 23 | 4.44 | 657 |
 | 508 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 22 | 4.86 | 30 |
