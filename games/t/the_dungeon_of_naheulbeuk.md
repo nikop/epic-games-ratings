@@ -6,27 +6,27 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,850 |
-| Alt+F4 | 6.00% | ~13,659 |
-| Where's that freaking Dwarf? | 5.00% | ~11,383 |
-| Déjà vu | 4.00% | ~9,106 |
+| Sowwy! | 32.00% | ~72,857 |
+| Alt+F4 | 6.00% | ~13,661 |
+| Where's that freaking Dwarf? | 5.00% | ~11,384 |
+| Déjà vu | 4.00% | ~9,107 |
 | A beer, two curses, three companions | 3.00% | ~6,830 |
 | Sock! SOCK! | 3.00% | ~6,830 |
 | GG EZ | 3.00% | ~6,830 |
 | DM intervention | 3.00% | ~6,830 |
 | Speedrun | 3.00% | ~6,830 |
 | Fireproof Wizardess | 3.00% | ~6,830 |
-| Livin' in a dwarven paradise | 2.00% | ~4,553 |
-| Way of the Wimp | 2.00% | ~4,553 |
-| The plot thickens... At the tavern | 2.00% | ~4,553 |
-| The demons' feast | 2.00% | ~4,553 |
-| The Great Library | 2.00% | ~4,553 |
-| Torture and Sensibility | 2.00% | ~4,553 |
-| The Woman in the High Castle | 2.00% | ~4,553 |
-| Team Building Exercise | 2.00% | ~4,553 |
-| Oh, when I'll be level 10... | 2.00% | ~4,553 |
+| Livin' in a dwarven paradise | 2.00% | ~4,554 |
+| Way of the Wimp | 2.00% | ~4,554 |
+| The plot thickens... At the tavern | 2.00% | ~4,554 |
+| The demons' feast | 2.00% | ~4,554 |
+| The Great Library | 2.00% | ~4,554 |
+| Torture and Sensibility | 2.00% | ~4,554 |
+| Urik's Depths | 2.00% | ~4,554 |
+| The Woman in the High Castle | 2.00% | ~4,554 |
+| Team Building Exercise | 2.00% | ~4,554 |
+| Oh, when I'll be level 10... | 2.00% | ~4,554 |
 | Shiny and Crôm | 1.00% | ~2,277 |
-| Urik's Depths | 1.00% | ~2,277 |
 | The Dungeon Master | 1.00% | ~2,277 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,277 |
 | Res Judicata | 1.00% | ~2,277 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,655 (Ranked 58)  
+Progressed: 227,677 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,10 +217,10 @@ Completed: 5 (0.00%) (Ranked 300)
 | 2023-09-27 | 227,123 | 4 |
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
-| 2023-09-30 | 227,655 | 5 |
+| 2023-09-30 | 227,677 | 5 |
 ## Awards
 Max (Character Customization): 202  (Ranked 276)  
-Sum: 392 (Ranked 326)  
+Sum: 393 (Ranked 326)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
@@ -228,8 +228,8 @@ Diff (max vs sum): -50
 | This game is Relaxing | 29 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 24 |
+| This game is Highly Recommended | 23 |
 | This game has Quickly Understood Controls | 23 |
-| This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 22 |
 | This game is Extremely Fun | 22 |
 | This game has Diverse Characters | 20 |
@@ -380,3 +380,4 @@ Diff (max vs sum): -50
 | 2023-09-27 | 4.59 | - | 199 | 387 |
 | 2023-09-28 | 4.59 | - | 199 | 389 |
 | 2023-09-29 | 4.59 | - | 202 | 392 |
+| 2023-09-30 | 4.59 | - | 202 | 393 |

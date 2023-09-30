@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1494,
+  "EOS_Progressed": 1495,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5416,6 +5416,11 @@
       "Time": "2023-09-30T12:04:32.2261773+00:00",
       "NumProgressed": 1494,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T15:04:16.7635452+00:00",
+      "NumProgressed": 1495,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5507,7 +5512,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "objective_headquarters_15",
@@ -5603,7 +5608,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5619,7 +5624,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5635,7 +5640,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5651,7 +5656,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5667,7 +5672,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5683,7 +5688,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5730,14 +5735,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1494,
+      "Progressed": 1495,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:07:12.0497936+00:00",
-  "LastUpdate_AppInfo": "2023-09-23T13:57:20.3508111+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:04:16.7635448+00:00",
+  "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
   "LastUpdate_Ratings": "2023-09-30T14:05:17.7842606+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:07:12.0499041+00:00"
+  "LastUpdate_Achievements": "2023-09-30T15:04:16.7636068+00:00"
 }

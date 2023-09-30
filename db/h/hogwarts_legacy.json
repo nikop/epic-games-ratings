@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8322,9 +8322,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297577,
+  "EOS_Progressed": 297579,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25922,6 +25922,11 @@
       "Time": "2023-09-30T14:06:50.034417+00:00",
       "NumProgressed": 297577,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-30T15:04:05.4361581+00:00",
+      "NumProgressed": 297579,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -25997,7 +26002,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20830
+      "UsersEstimate": 20831
     },
     {
       "ID": "PFA_18",
@@ -26117,7 +26122,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32733
+      "UsersEstimate": 32734
     },
     {
       "ID": "PFA_31",
@@ -26292,7 +26297,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297577,
+      "Progressed": 297579,
       "Completed": 479
     }
   ],
@@ -26300,8 +26305,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-30T14:01:11.7464854+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:06:50.0344163+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:04:05.4361577+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:01:11.7464862+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:06:50.0346851+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:58:32.4612079+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:04:05.4362979+00:00"
 }

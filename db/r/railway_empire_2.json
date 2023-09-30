@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1967,
+  "EOS_Progressed": 1968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4995,6 +4995,11 @@
       "Time": "2023-09-30T12:04:36.5059533+00:00",
       "NumProgressed": 1967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T15:04:21.014646+00:00",
+      "NumProgressed": 1968,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5006,7 +5011,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "A01",
@@ -5014,7 +5019,7 @@
       "Name": "Stoker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "A02",
@@ -5030,7 +5035,7 @@
       "Name": "Resistance is futile",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "A04",
@@ -5038,7 +5043,7 @@
       "Name": "Go West",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "A05",
@@ -5086,7 +5091,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "A11",
@@ -5102,7 +5107,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "A13",
@@ -5166,7 +5171,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "A21",
@@ -5180,9 +5185,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1279
     },
     {
       "ID": "A23",
@@ -5198,7 +5203,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "A25",
@@ -5214,7 +5219,7 @@
       "Name": "Max Power",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "A27",
@@ -5230,7 +5235,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "A29",
@@ -5238,7 +5243,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "A30",
@@ -5254,7 +5259,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "A32",
@@ -5294,7 +5299,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "A37",
@@ -5310,7 +5315,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "A39",
@@ -5318,7 +5323,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "A40",
@@ -5334,7 +5339,7 @@
       "Name": "Right through the middle",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "A42",
@@ -5342,7 +5347,7 @@
       "Name": "Bridge Builder",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "A43",
@@ -5422,7 +5427,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "A53",
@@ -5430,7 +5435,7 @@
       "Name": "Networker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "A54",
@@ -5445,7 +5450,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1967,
+      "Progressed": 1968,
       "Completed": 0
     }
   ],
@@ -5453,8 +5458,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-28T13:58:27.851753+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:07:16.519656+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:04:21.0146447+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.4771613+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:02:10.0569856+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:07:16.5197949+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:59:26.7447969+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:04:21.0147275+00:00"
 }

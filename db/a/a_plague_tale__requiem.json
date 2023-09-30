@@ -6,7 +6,7 @@
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -408,18 +408,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 649,
       "NumberOfAwardsMax": 422
+    },
+    {
+      "Time": "2023-09-30T15:00:34.1301001+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 650,
+      "NumberOfAwardsMax": 423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 649,
-  "NumberOfAwardsMax": 422,
+  "NumberOfAwards": 650,
+  "NumberOfAwardsMax": 423,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 422
+      "Count": 423
     },
     {
       "Text": "This game is Great for Beginners",
@@ -476,9 +482,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13406,
+  "EOS_Progressed": 13407,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -9406,6 +9412,11 @@
       "Time": "2023-09-30T14:10:09.3104913+00:00",
       "NumProgressed": 13406,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-30T15:07:08.2723594+00:00",
+      "NumProgressed": 13407,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 35,
@@ -9433,7 +9444,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "ACH_04",
@@ -9441,7 +9452,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9384
+      "UsersEstimate": 9385
     },
     {
       "ID": "ACH_05",
@@ -9449,7 +9460,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9116
+      "UsersEstimate": 9117
     },
     {
       "ID": "ACH_06",
@@ -9457,7 +9468,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "ACH_07",
@@ -9481,7 +9492,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7641
+      "UsersEstimate": 7642
     },
     {
       "ID": "ACH_10",
@@ -9489,7 +9500,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6971
+      "UsersEstimate": 6972
     },
     {
       "ID": "ACH_11",
@@ -9513,7 +9524,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5228
+      "UsersEstimate": 5229
     },
     {
       "ID": "ACH_14",
@@ -9521,7 +9532,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4960
+      "UsersEstimate": 4961
     },
     {
       "ID": "ACH_15",
@@ -9553,7 +9564,7 @@
       "Name": "Herbalist",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH_19",
@@ -9609,7 +9620,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "ACH_26",
@@ -9633,7 +9644,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9116
+      "UsersEstimate": 9117
     },
     {
       "ID": "ACH_29",
@@ -9649,7 +9660,7 @@
       "Name": "Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH_31",
@@ -9665,7 +9676,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "ACH_33",
@@ -9689,23 +9700,23 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13406,
+      "Progressed": 13407,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-09-27T10:59:16.3934909+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:10:09.3104907+00:00",
+  "LastChanged": "2023-09-30T15:00:34.1300995+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:07:08.2723591+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:02.3030751+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:03:23.6675574+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:10:09.3106368+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:00:34.1301008+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:07:08.2724388+00:00"
 }

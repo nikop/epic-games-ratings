@@ -6,10 +6,10 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,697 |
-| Leader | 60.00% | ~5,581 |
-| Explorer | 53.00% | ~4,930 |
-| Healer | 52.00% | ~4,837 |
+| First Step | 72.00% | ~6,698 |
+| Leader | 60.00% | ~5,582 |
+| Explorer | 53.00% | ~4,931 |
+| Healer | 52.00% | ~4,838 |
 | Aspiring Inventor | 44.00% | ~4,093 |
 | Adventurer | 41.00% | ~3,814 |
 | Famous Healer | 38.00% | ~3,535 |
@@ -25,16 +25,16 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~2,605 |
 | Finders, Keepers | 26.00% | ~2,419 |
 | Top Notch | 25.00% | ~2,326 |
-| Great Leader | 23.00% | ~2,139 |
-| Mentor | 23.00% | ~2,139 |
-| Merchant | 22.00% | ~2,046 |
-| Ice Lakes | 22.00% | ~2,046 |
-| Real Survivor | 22.00% | ~2,046 |
-| Rocket Surgeon | 20.00% | ~1,860 |
-| War Never Changes | 19.00% | ~1,767 |
-| Friendly | 17.00% | ~1,581 |
-| Big Game Hunter | 17.00% | ~1,581 |
-| Spreading Influence | 17.00% | ~1,581 |
+| Great Leader | 23.00% | ~2,140 |
+| Mentor | 23.00% | ~2,140 |
+| Merchant | 22.00% | ~2,047 |
+| Ice Lakes | 22.00% | ~2,047 |
+| Real Survivor | 22.00% | ~2,047 |
+| Rocket Surgeon | 20.00% | ~1,861 |
+| War Never Changes | 19.00% | ~1,768 |
+| Friendly | 17.00% | ~1,582 |
+| Big Game Hunter | 17.00% | ~1,582 |
+| Spreading Influence | 17.00% | ~1,582 |
 | Around the World | 16.00% | ~1,488 |
 | Bookworm | 15.00% | ~1,395 |
 | Famous Adventurer | 14.00% | ~1,302 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,302 (Ranked 144)  
+Progressed: 9,303 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 9,258 | 0 |
 | 2023-09-28 | 9,271 | 0 |
 | 2023-09-29 | 9,290 | 0 |
-| 2023-09-30 | 9,302 | 0 |
+| 2023-09-30 | 9,303 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 338)  
 Sum: 705 (Ranked 282)  

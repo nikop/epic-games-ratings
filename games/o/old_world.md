@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 7.00% | ~996 |
 | Play a Single Player Game | 7.00% | ~996 |
-| Explorer | 6.00% | ~853 |
-| Friendly Family | 6.00% | ~853 |
+| Explorer | 6.00% | ~854 |
+| Friendly Family | 6.00% | ~854 |
 | Able | 5.00% | ~711 |
 | Intrepid | 5.00% | ~711 |
 | Strong | 5.00% | ~711 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,223 (Ranked 133)  
+Progressed: 14,225 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
-| 2023-09-30 | 14,223 | 5 |
+| 2023-09-30 | 14,225 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

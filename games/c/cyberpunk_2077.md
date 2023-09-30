@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,579 |
-| Rough Landing | 3.00% | ~26,579 |
-| Gunslinger | 2.00% | ~17,719 |
-| Master Crafter | 2.00% | ~17,719 |
-| Mean Streets | 2.00% | ~17,719 |
-| The High Priestess | 2.00% | ~17,719 |
-| The Jungle | 2.00% | ~17,719 |
-| Two Heads, One Bullet | 2.00% | ~17,719 |
-| V for Vendetta | 2.00% | ~17,719 |
+| Ten out of Ten | 3.00% | ~26,581 |
+| Rough Landing | 3.00% | ~26,581 |
+| Gunslinger | 2.00% | ~17,720 |
+| Master Crafter | 2.00% | ~17,720 |
+| Mean Streets | 2.00% | ~17,720 |
+| The High Priestess | 2.00% | ~17,720 |
+| The Jungle | 2.00% | ~17,720 |
+| Two Heads, One Bullet | 2.00% | ~17,720 |
+| V for Vendetta | 2.00% | ~17,720 |
 | To Bad Decisions! | 1.00% | ~8,860 |
 | Full Body Conversion | 1.00% | ~8,860 |
 | Right Back At Ya | 1.00% | ~8,860 |
@@ -38,17 +38,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | City Lights | 0.60% | ~5,316 |
 | Greetings from Pacifica! | 0.60% | ~5,316 |
 | Life of the Road | 0.40% | ~3,544 |
-| Spin Doctor | 0.40% | ~58 |
+| Spin Doctor | 0.40% | ~59 |
 | Bushido and Chill | 0.30% | ~2,658 |
 | The Wandering Fool | 0.30% | ~2,658 |
 | Autojock | 0.30% | ~2,658 |
 | I Am The Law | 0.30% | ~2,658 |
 | Must Be Rats | 0.30% | ~2,658 |
+| The Sun | 0.30% | ~2,658 |
 | To Protect and Serve | 0.20% | ~1,772 |
 | Frequent Flyer | 0.20% | ~1,772 |
 | Little Tokyo | 0.20% | ~1,772 |
 | The Star | 0.20% | ~1,772 |
-| The Sun | 0.20% | ~1,772 |
 | Relic Ruler | 0.20% | ~29 |
 | The Wasteland | 0.10% | ~886 |
 | Daemon In The Shell | 0.10% | ~886 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,974 (Ranked 15)  
+Progressed: 886,023 (Ranked 15)  
 Completed: 2,494 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 2,494 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,974 | 2,494 |
+| 2023-09-30 | 886,023 | 2,494 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
 Sum: 243,483 (Ranked 13)  

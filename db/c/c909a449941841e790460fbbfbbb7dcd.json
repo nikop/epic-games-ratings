@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -261,9 +261,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -325,25 +325,25 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -381,9 +381,9 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 110,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -404,8 +404,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:07:03.4525929+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:04:08.6146441+00:00",
   "LastUpdate_AppInfo": "2023-09-26T16:57:05.5703282+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:03:55.4651505+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:07:03.4526088+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:01:04.3714322+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:04:08.6146598+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1787,
+  "EOS_Progressed": 1789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1203,6 +1203,11 @@
       "Time": "2023-09-30T14:11:20.3487492+00:00",
       "NumProgressed": 1787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T15:08:22.6666121+00:00",
+      "NumProgressed": 1789,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1247,7 +1252,7 @@
       "Name": "MVP",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_14",
@@ -1255,7 +1260,7 @@
       "Name": "ROTY",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "achievement_15",
@@ -1311,7 +1316,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "achievement_21",
@@ -1319,7 +1324,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_3",
@@ -1382,7 +1387,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1787,
+      "Progressed": 1789,
       "Completed": 0
     }
   ],
@@ -1390,8 +1395,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-30T01:37:55.9131562+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:11:20.3487484+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:08:22.6666117+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:01:23.5918538+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:11:20.3487781+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:58:43.4787416+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:08:22.6666349+00:00"
 }

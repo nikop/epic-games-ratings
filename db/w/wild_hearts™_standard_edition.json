@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -434,9 +434,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_18",
@@ -760,8 +760,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:08:58.5182746+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:06:00.2712244+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:01:00.8911718+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:08:58.5183521+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:58:21.9996114+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:06:00.2712758+00:00"
 }

@@ -13,11 +13,11 @@
 | Sanctuary Guardian | 76.00% | ~22 |
 | Mind Illuminator | 62.00% | ~18 |
 | Stellar Dismantler | 48.00% | ~14 |
+| Anomaly Destroyer | 34.00% | ~10 |
+| Astral Adventurer | 34.00% | ~10 |
 | Star Killer | 34.00% | ~10 |
-| Anomaly Destroyer | 31.00% | ~9 |
-| Astral Adventurer | 31.00% | ~9 |
+| Loyal Partner | 31.00% | ~9 |
 | Unbeatable | 31.00% | ~9 |
-| Loyal Partner | 28.00% | ~8 |
 | Sentinelphobic | 21.00% | ~6 |
 | Stellar Haste | 21.00% | ~6 |
 | The Corruption Goddess | 21.00% | ~6 |
@@ -37,10 +37,12 @@
 | Astral Seeker | 3.00% | ~1 |
 | Astral Tinkerer | 3.00% | ~1 |
 | Astrarium of Holding | 3.00% | ~1 |
+| Critical Twist | 3.00% | ~1 |
 | Favored by the Cosmos | 3.00% | ~1 |
 | Plague Doctor | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
 | The Goddes Avatar | 3.00% | ~1 |
+| The world goes round... | 3.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -59,7 +61,6 @@
 | Betting High | 0.00% | ~0 |
 | Blazing Prince | 0.00% | ~0 |
 | Boundless as Ocean | 0.00% | ~0 |
-| Critical Twist | 0.00% | ~0 |
 | Eridanian Champion | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 | Eridanian Mastery | 0.00% | ~0 |
@@ -81,7 +82,6 @@
 | The Chaos Artisan | 0.00% | ~0 |
 | The Distorted Sage | 0.00% | ~0 |
 | The Raging Skies | 0.00% | ~0 |
-| The world goes round... | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

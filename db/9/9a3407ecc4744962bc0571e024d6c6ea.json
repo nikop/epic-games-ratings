@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 638,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1507,9 +1507,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 351
     },
     {
       "ID": "TragedyDocumented",
@@ -1538,8 +1538,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:10:15.7151492+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:07:14.6562588+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:15.4401249+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:03:39.4926821+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:10:15.7151729+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:00:49.6303427+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:07:14.656281+00:00"
 }

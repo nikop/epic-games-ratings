@@ -10,7 +10,7 @@ Rating: 4.76 (Ranked 119)
 | Troll with the Punches | 13.00% | ~38,685 |
 | A Keen Sense of Spell | 12.00% | ~35,709 |
 | That's a Keeper | 12.00% | ~35,709 |
-| A Talent for Spending | 11.00% | ~32,733 |
+| A Talent for Spending | 11.00% | ~32,734 |
 | Grappling with a Graphorn | 10.00% | ~29,758 |
 | The One Who Mastered Memories | 10.00% | ~29,758 |
 | The Hallowed Hero | 10.00% | ~29,758 |
@@ -25,7 +25,7 @@ Rating: 4.76 (Ranked 119)
 | A Sallow Grave | 8.00% | ~23,806 |
 | Flight the Good Flight | 8.00% | ~23,806 |
 | The Spell Master | 8.00% | ~23,806 |
-| Beast Friends | 7.00% | ~20,830 |
+| Beast Friends | 7.00% | ~20,831 |
 | The Seeker of Knowledge | 6.00% | ~17,855 |
 | The Root of the Problem | 6.00% | ~17,855 |
 | Third Time's a Charm | 6.00% | ~17,855 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,577 (Ranked 46)  
+Progressed: 297,579 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 479 (0.16%) (Ranked 221)
 | 2023-09-27 | 297,436 | 478 |
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
-| 2023-09-30 | 297,577 | 479 |
+| 2023-09-30 | 297,579 | 479 |
 ## Awards
 Max (Character Customization): 23,160  (Ranked 17)  
 Sum: 44,688 (Ranked 30)  

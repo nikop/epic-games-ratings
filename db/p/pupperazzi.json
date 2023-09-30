@@ -4,7 +4,7 @@
   "ProductSlug": "pupperazzi",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-01-20T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.7040164+00:00",
   "LastChanged": "2023-03-31T05:58:21.7040165+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.1489257+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:01:00.0625131+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:09:25.5349621+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:58:21.2067098+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:06:26.4601026+00:00"
 }

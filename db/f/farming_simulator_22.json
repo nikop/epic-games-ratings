@@ -9487,10 +9487,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 40709,
       "NumberOfAwardsMax": 5071
+    },
+    {
+      "Time": "2023-09-30T15:00:20.5617256+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 40714,
+      "NumberOfAwardsMax": 5071
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40709,
+  "NumberOfAwards": 40714,
   "NumberOfAwardsMax": 5071,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9522,7 +9528,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4041
+      "Count": 4046
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9567,9 +9573,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49228,
+  "EOS_Progressed": 49229,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24122,6 +24128,11 @@
       "Time": "2023-09-30T14:11:14.613448+00:00",
       "NumProgressed": 49228,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-30T15:08:16.7634873+00:00",
+      "NumProgressed": 49229,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -24213,7 +24224,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 31506
+      "UsersEstimate": 31507
     },
     {
       "ID": "CutTree",
@@ -24229,7 +24240,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30029
+      "UsersEstimate": 30030
     },
     {
       "ID": "DeliveryGrapes",
@@ -24261,7 +24272,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7876
+      "UsersEstimate": 7877
     },
     {
       "ID": "FertilizeFirst",
@@ -24277,7 +24288,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7876
+      "UsersEstimate": 7877
     },
     {
       "ID": "HarvestedFirst",
@@ -24285,7 +24296,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 36921
+      "UsersEstimate": 36922
     },
     {
       "ID": "HorseJumps",
@@ -24357,7 +24368,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19691
+      "UsersEstimate": 19692
     },
     {
       "ID": "NumPlaceables",
@@ -24365,7 +24376,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 21660
+      "UsersEstimate": 21661
     },
     {
       "ID": "NumProductionPoints",
@@ -24373,7 +24384,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7876
+      "UsersEstimate": 7877
     },
     {
       "ID": "NumVehiclesLarge",
@@ -24389,7 +24400,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28552
+      "UsersEstimate": 28553
     },
     {
       "ID": "PetDog",
@@ -24445,7 +24456,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7876
+      "UsersEstimate": 7877
     },
     {
       "ID": "VehicleRepaint",
@@ -24453,7 +24464,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12799
+      "UsersEstimate": 12800
     },
     {
       "ID": "VehicleRepair",
@@ -24476,15 +24487,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49228,
+      "Progressed": 49229,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-09-30T14:03:08.089519+00:00",
-  "LastChanged_Achievements": "2023-09-30T14:11:14.6134474+00:00",
+  "LastChanged": "2023-09-30T15:00:20.5617253+00:00",
+  "LastChanged_Achievements": "2023-09-30T15:08:16.7634869+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.9147877+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:03:08.08952+00:00",
-  "LastUpdate_Achievements": "2023-09-30T14:11:14.6136711+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:00:20.5617261+00:00",
+  "LastUpdate_Achievements": "2023-09-30T15:08:16.7636065+00:00"
 }

@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,228 |
-| Hit Rock Bottom | 97.00% | ~2,183 |
-| Rocket Launched | 97.00% | ~2,183 |
-| Speed | 97.00% | ~2,183 |
-| High Jump | 96.00% | ~2,161 |
-| Knee bending | 96.00% | ~2,161 |
-| Pickaxe | 94.00% | ~2,116 |
-| Revenge | 94.00% | ~2,116 |
-| Cage Town | 94.00% | ~2,116 |
-| Force Beam | 93.00% | ~2,093 |
-| Entered Cage Town | 93.00% | ~2,093 |
-| Stone Pickaxe | 93.00% | ~2,093 |
-| Surprise | 93.00% | ~2,093 |
-| Magnet | 91.00% | ~2,048 |
-| Industrial Area | 90.00% | ~2,026 |
-| Magnet Repel | 88.00% | ~1,981 |
-| You feel middle classy | 87.00% | ~1,958 |
-| Boomeraxe | 87.00% | ~1,958 |
-| Iron Pickaxe | 87.00% | ~1,958 |
-| Banking District | 86.00% | ~1,936 |
-| Arrested | 86.00% | ~1,936 |
-| Zappy Gun | 86.00% | ~1,936 |
-| Got your own one now | 86.00% | ~1,936 |
-| Mission Unlikely | 86.00% | ~1,936 |
-| Don't draw dicks pls | 85.00% | ~1,913 |
-| Ripped | 85.00% | ~1,913 |
-| Beat the big arena | 83.00% | ~1,868 |
-| Force Cube | 82.00% | ~1,846 |
-| Got Battery | 81.00% | ~1,823 |
-| Guard Distracted | 81.00% | ~1,823 |
-| Translocator | 80.00% | ~1,801 |
-| Inner Peace | 78.00% | ~1,756 |
-| Diamond Pickaxe | 77.00% | ~1,733 |
-| Killed them all | 77.00% | ~1,733 |
-| Trickle Down Economy | 77.00% | ~1,733 |
-| Win | 76.00% | ~1,711 |
+| Good Morning | 99.00% | ~2,229 |
+| Hit Rock Bottom | 97.00% | ~2,184 |
+| Rocket Launched | 97.00% | ~2,184 |
+| Speed | 97.00% | ~2,184 |
+| High Jump | 96.00% | ~2,162 |
+| Knee bending | 96.00% | ~2,162 |
+| Pickaxe | 94.00% | ~2,117 |
+| Cage Town | 94.00% | ~2,117 |
+| Force Beam | 93.00% | ~2,094 |
+| Entered Cage Town | 93.00% | ~2,094 |
+| Stone Pickaxe | 93.00% | ~2,094 |
+| Revenge | 93.00% | ~2,094 |
+| Surprise | 93.00% | ~2,094 |
+| Magnet | 91.00% | ~2,049 |
+| Industrial Area | 90.00% | ~2,027 |
+| Magnet Repel | 88.00% | ~1,982 |
+| You feel middle classy | 87.00% | ~1,959 |
+| Boomeraxe | 87.00% | ~1,959 |
+| Iron Pickaxe | 87.00% | ~1,959 |
+| Banking District | 86.00% | ~1,937 |
+| Zappy Gun | 86.00% | ~1,937 |
+| Mission Unlikely | 86.00% | ~1,937 |
+| Arrested | 85.00% | ~1,914 |
+| Got your own one now | 85.00% | ~1,914 |
+| Don't draw dicks pls | 85.00% | ~1,914 |
+| Ripped | 85.00% | ~1,914 |
+| Beat the big arena | 83.00% | ~1,869 |
+| Force Cube | 82.00% | ~1,847 |
+| Got Battery | 81.00% | ~1,824 |
+| Guard Distracted | 81.00% | ~1,824 |
+| Translocator | 80.00% | ~1,802 |
+| Inner Peace | 78.00% | ~1,757 |
+| Diamond Pickaxe | 77.00% | ~1,734 |
+| Killed them all | 77.00% | ~1,734 |
+| Trickle Down Economy | 77.00% | ~1,734 |
+| Win | 76.00% | ~1,712 |
 | Greenhouse | 72.00% | ~1,621 |
-| Played with fire | 71.00% | ~1,598 |
+| Played with fire | 71.00% | ~1,599 |
 | You feel very sorry | 70.00% | ~1,576 |
 | No Match for you | 66.00% | ~1,486 |
 | Bouncy | 62.00% | ~1,396 |
-| Plumbster | 61.00% | ~1,373 |
+| Plumbster | 61.00% | ~1,374 |
 | Faster | 60.00% | ~1,351 |
 | Much Magic | 58.00% | ~1,306 |
 | Chest Detector | 56.00% | ~1,261 |
-| Flames | 53.00% | ~1,193 |
-| Momentum | 46.00% | ~1,035 |
+| Flames | 53.00% | ~1,194 |
+| Momentum | 46.00% | ~1,036 |
 | You're unsure if you broke the game or not | 43.00% | ~968 |
-| But wait... ...There's more... | 40.00% | ~900 |
+| But wait... ...There's more... | 40.00% | ~901 |
 | So much force | 35.00% | ~788 |
 | You feel fully engaged | 24.00% | ~540 |
 | Too hot | 20.00% | ~450 |
 | All the chests | 14.00% | ~315 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,251 (Ranked 197)  
-Completed: 277 (12.31%) (Ranked 21)  
+Progressed: 2,252 (Ranked 197)  
+Completed: 277 (12.30%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 277 (12.31%) (Ranked 21)
 | 2023-09-26 | 2,247 | 276 |
 | 2023-09-28 | 2,249 | 277 |
 | 2023-09-29 | 2,250 | 277 |
-| 2023-09-30 | 2,251 | 277 |
+| 2023-09-30 | 2,252 | 277 |
 ## Awards
 Max (Challenging Puzzles): 102  (Ranked 341)  
 Sum: 102 (Ranked 421)  
