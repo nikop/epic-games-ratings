@@ -7,20 +7,20 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,307 |
-| First cargo item on board | 71.00% | ~1,205 |
-| First cargo item waiting | 71.00% | ~1,205 |
-| First bus stop | 70.00% | ~1,188 |
-| First passenger on board | 67.00% | ~1,137 |
-| First passenger waiting | 67.00% | ~1,137 |
-| First bus arrived | 66.00% | ~1,120 |
-| First train station | 63.00% | ~1,069 |
-| First steam train arrived | 60.00% | ~1,018 |
-| First industry upgraded | 57.00% | ~967 |
-| Transport millionaire | 55.00% | ~933 |
-| Cadet | 54.00% | ~916 |
-| Transport master | 53.00% | ~899 |
-| Cargo hub | 53.00% | ~899 |
-| Sculpturer | 50.00% | ~848 |
+| First cargo item on board | 71.00% | ~1,206 |
+| First cargo item waiting | 71.00% | ~1,206 |
+| First bus stop | 70.00% | ~1,189 |
+| First passenger on board | 67.00% | ~1,138 |
+| First passenger waiting | 67.00% | ~1,138 |
+| First bus arrived | 66.00% | ~1,121 |
+| First train station | 63.00% | ~1,070 |
+| First steam train arrived | 60.00% | ~1,019 |
+| First industry upgraded | 57.00% | ~968 |
+| Transport millionaire | 55.00% | ~934 |
+| Cadet | 54.00% | ~917 |
+| Transport master | 53.00% | ~900 |
+| Cargo hub | 53.00% | ~900 |
+| Sculpturer | 50.00% | ~849 |
 | Settled down | 49.00% | ~832 |
 | First electric train arrived | 47.00% | ~798 |
 | First ship arrived | 46.00% | ~781 |
@@ -36,11 +36,11 @@ Number of Ratings: 180  (23.09.2022)
 | Not in my backyard | 30.00% | ~509 |
 | City | 29.00% | ~492 |
 | The king of the sea | 29.00% | ~492 |
-| Transport tycoon | 24.00% | ~407 |
-| The ugly smell of success | 23.00% | ~390 |
-| Climate change | 22.00% | ~373 |
-| Old timer | 22.00% | ~373 |
-| Heavily loaded | 22.00% | ~373 |
+| Transport tycoon | 24.00% | ~408 |
+| The ugly smell of success | 23.00% | ~391 |
+| Climate change | 22.00% | ~374 |
+| Old timer | 22.00% | ~374 |
+| Heavily loaded | 21.00% | ~357 |
 | Bob Ross | 16.00% | ~272 |
 | Campaign expert | 11.00% | ~187 |
 | Truck Fever | 11.00% | ~187 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,697 (Ranked 208)  
+Progressed: 1,698 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-26 | 1,691 | 0 |
 | 2023-09-28 | 1,695 | 0 |
 | 2023-09-29 | 1,697 | 0 |
+| 2023-09-30 | 1,698 | 0 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 430)  
 Sum: 289 (Ranked 348)  

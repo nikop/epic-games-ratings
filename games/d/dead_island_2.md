@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,648 |
-| Hotel California | 3.00% | ~20,648 |
-| Welcome To Hell-A | 3.00% | ~20,648 |
-| Dr. Reed, I Presume? | 2.00% | ~13,765 |
-| Git Gutte! | 2.00% | ~13,765 |
-| Bookworm | 2.00% | ~13,765 |
-| But Doctor, I am Butcho | 2.00% | ~13,765 |
-| Slayer Squad | 2.00% | ~13,765 |
-| Can't Handle the Truth | 2.00% | ~13,765 |
-| Coup de Grâce | 2.00% | ~13,765 |
-| Like Riding a Bike | 2.00% | ~13,765 |
-| Hazardous Materials | 2.00% | ~13,765 |
-| Friends Like These | 2.00% | ~13,765 |
-| Apex Predator | 2.00% | ~13,765 |
-| Zombologist | 2.00% | ~13,765 |
-| Ooh, Shiny! | 2.00% | ~13,765 |
-| A Patton Emerges | 2.00% | ~13,765 |
-| I Am the Resurrection | 2.00% | ~13,765 |
-| Stacking the Deck | 2.00% | ~13,765 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,765 |
-| Our True Nature | 2.00% | ~13,765 |
-| This is My Weapon | 2.00% | ~13,765 |
+| Break A Leg | 3.00% | ~20,649 |
+| Hotel California | 3.00% | ~20,649 |
+| Welcome To Hell-A | 3.00% | ~20,649 |
+| Dr. Reed, I Presume? | 2.00% | ~13,766 |
+| Git Gutte! | 2.00% | ~13,766 |
+| Bookworm | 2.00% | ~13,766 |
+| But Doctor, I am Butcho | 2.00% | ~13,766 |
+| Slayer Squad | 2.00% | ~13,766 |
+| Can't Handle the Truth | 2.00% | ~13,766 |
+| Coup de Grâce | 2.00% | ~13,766 |
+| Like Riding a Bike | 2.00% | ~13,766 |
+| Hazardous Materials | 2.00% | ~13,766 |
+| Friends Like These | 2.00% | ~13,766 |
+| Apex Predator | 2.00% | ~13,766 |
+| Zombologist | 2.00% | ~13,766 |
+| Ooh, Shiny! | 2.00% | ~13,766 |
+| A Patton Emerges | 2.00% | ~13,766 |
+| I Am the Resurrection | 2.00% | ~13,766 |
+| Stacking the Deck | 2.00% | ~13,766 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,766 |
+| Our True Nature | 2.00% | ~13,766 |
+| This is My Weapon | 2.00% | ~13,766 |
 | Making Your Mark | 1.00% | ~6,883 |
 | Anger Management | 1.00% | ~6,883 |
 | Perks of the Job | 1.00% | ~6,883 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 513)
 | Donk! | 0.10% | ~688 |
 | Bucket List | 0.10% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,274 (Ranked 22)  
-Completed: 2,178 (0.32%) (Ranked 191)  
+Progressed: 688,294 (Ranked 22)  
+Completed: 2,178 (0.32%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,10 +214,10 @@ Completed: 2,178 (0.32%) (Ranked 191)
 | 2023-09-27 | 687,260 | 2,176 |
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
-| 2023-09-30 | 688,274 | 2,178 |
+| 2023-09-30 | 688,294 | 2,178 |
 ## Awards
 Max (Great Boss Battles): 6,253  (Ranked 58)  
-Sum: 9,312 (Ranked 91)  
+Sum: 9,313 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -225,7 +225,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 437 |
 | This game has Diverse Characters | 428 |
 | This game has Quickly Understood Controls | 409 |
-| This game is Relaxing | 388 |
+| This game is Relaxing | 389 |
 | This game has Amazing Storytelling | 361 |
 | This game is Extremely Fun | 351 |
 | This game is Highly Recommended | 345 |
@@ -395,3 +395,4 @@ Diff (max vs sum): -33
 | 2023-09-27 | 4.54 | 6,229 | 9,274 |
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
+| 2023-09-30 | 4.54 | 6,253 | 9,313 |

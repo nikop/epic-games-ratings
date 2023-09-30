@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 896,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 86,
@@ -3284,9 +3284,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72970,
+  "EOS_Progressed": 72972,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17109,6 +17109,11 @@
       "Time": "2023-09-30T06:03:24.5495723+00:00",
       "NumProgressed": 72970,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-09-30T09:03:39.0372553+00:00",
+      "NumProgressed": 72972,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 61,
@@ -17128,7 +17133,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -17136,7 +17141,7 @@
       "Name": "It\u0027s Nice to Be Wanted",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC1_HA_DEFEAT_VARIANTS",
@@ -17168,7 +17173,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16783
+      "UsersEstimate": 16784
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17200,7 +17205,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8757
     },
     {
       "ID": "APPLY_STATUS",
@@ -17272,7 +17277,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -17296,7 +17301,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8757
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -17344,7 +17349,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21161
+      "UsersEstimate": 21162
     },
     {
       "ID": "FREEZE_1_5",
@@ -17360,7 +17365,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13864
+      "UsersEstimate": 13865
     },
     {
       "ID": "FREEZE_3",
@@ -17432,7 +17437,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18242
+      "UsersEstimate": 18243
     },
     {
       "ID": "HARLEY_3",
@@ -17448,7 +17453,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11675
+      "UsersEstimate": 11676
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -17464,7 +17469,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37944
+      "UsersEstimate": 37945
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17520,7 +17525,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18242
+      "UsersEstimate": 18243
     },
     {
       "ID": "MYSTERY_03",
@@ -17528,7 +17533,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16783
+      "UsersEstimate": 16784
     },
     {
       "ID": "MYSTERY_04",
@@ -17568,7 +17573,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8757
     },
     {
       "ID": "SECRET_CACHE",
@@ -17607,13 +17612,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72970,
+      "Progressed": 72972,
       "Completed": 119
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43250,
+      "Progressed": 43252,
       "Completed": 2668
     }
   ],
@@ -17621,8 +17626,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-29T23:59:01.1415505+00:00",
-  "LastChanged_Achievements": "2023-09-30T08:03:22.5793396+00:00",
+  "LastChanged_Achievements": "2023-09-30T09:03:39.0372548+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:59:15.7475021+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:03:22.5794842+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:59:10.8176602+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:03:39.0373762+00:00"
 }

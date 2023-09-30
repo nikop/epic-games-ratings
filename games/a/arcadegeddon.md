@@ -6,20 +6,20 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 90.00% | ~8,219 |
+| Let's Get This Party Started | 90.00% | ~8,220 |
 | Photogenic | 86.00% | ~7,854 |
 | Surge Gauntlet Jockey | 83.00% | ~7,580 |
-| Plug It In | 82.00% | ~7,488 |
-| Adventure Time | 78.00% | ~7,123 |
-| Playing With Power | 76.00% | ~6,940 |
+| Plug It In | 82.00% | ~7,489 |
+| Adventure Time | 78.00% | ~7,124 |
+| Playing With Power | 76.00% | ~6,941 |
 | Coup d'Etat | 58.00% | ~5,297 |
 | You're Fired | 56.00% | ~5,114 |
 | Get Furious | 55.00% | ~5,023 |
 | Hacks In Stacks | 55.00% | ~5,023 |
-| Gunplay And Cosplay | 54.00% | ~4,931 |
-| Meching Enemies | 48.00% | ~4,383 |
-| Ticket Toddler | 44.00% | ~4,018 |
-| Booty Bashing | 39.00% | ~3,561 |
+| Gunplay And Cosplay | 54.00% | ~4,932 |
+| Meching Enemies | 48.00% | ~4,384 |
+| Ticket Toddler | 44.00% | ~4,019 |
+| Booty Bashing | 39.00% | ~3,562 |
 | Field Medic | 37.00% | ~3,379 |
 | Here Comes a New Challenger | 37.00% | ~3,379 |
 | Rapid Response | 33.00% | ~3,014 |
@@ -28,9 +28,9 @@ Number of Ratings: 801  (23.09.2022)
 | Guardian Angel | 28.00% | ~2,557 |
 | Poppin Noggins | 24.00% | ~2,192 |
 | Clips and Crits | 19.00% | ~1,735 |
-| Grey Goo | 17.00% | ~1,552 |
+| Grey Goo | 17.00% | ~1,553 |
 | Boss of Bosses | 15.00% | ~1,370 |
-| The Final Blow | 14.00% | ~1,278 |
+| The Final Blow | 14.00% | ~1,279 |
 | To Be Continued | 13.00% | ~1,187 |
 | Light My Fire | 12.00% | ~1,096 |
 | Seasoned Adventurer | 11.00% | ~1,005 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~37 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,132 (Ranked 145)  
+Progressed: 9,133 (Ranked 145)  
 Completed: 1 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 1 (0.01%) (Ranked 283)
 | 2023-09-27 | 9,116 | 1 |
 | 2023-09-28 | 9,124 | 1 |
 | 2023-09-29 | 9,130 | 1 |
-| 2023-09-30 | 9,132 | 1 |
+| 2023-09-30 | 9,133 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 392)  
 Sum: 462 (Ranked 315)  

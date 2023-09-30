@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3547,9 +3547,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 457581,
+  "EOS_Progressed": 457587,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2812,
+  "EOS_NewPlayers": 2794,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21872,6 +21872,11 @@
       "Time": "2023-09-30T08:06:33.4925442+00:00",
       "NumProgressed": 457581,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T09:06:50.6288847+00:00",
+      "NumProgressed": 457587,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -21907,7 +21912,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13727
+      "UsersEstimate": 13728
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -21947,7 +21952,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -22011,7 +22016,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13727
+      "UsersEstimate": 13728
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -22115,7 +22120,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13727
+      "UsersEstimate": 13728
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -22139,7 +22144,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13727
+      "UsersEstimate": 13728
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -22162,15 +22167,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 457581,
+      "Progressed": 457587,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-25T09:01:36.6056917+00:00",
-  "LastChanged_Achievements": "2023-09-30T08:06:33.4925437+00:00",
+  "LastChanged_Achievements": "2023-09-30T09:06:50.6288842+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.5756553+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:58:36.21699+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:06:33.492681+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:58:33.9466047+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:06:50.6290155+00:00"
 }

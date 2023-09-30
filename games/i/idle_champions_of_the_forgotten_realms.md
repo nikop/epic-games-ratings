@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 940)  
+Rating: 4.06 (Ranked 942)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.30% | ~590 |
 | Beast Intentions | 0.20% | ~461 |
 | The Cursed Farmer | 0.20% | ~461 |
+| The Mad Wizard | 0.20% | ~461 |
 | Slow Down Showdown | 0.20% | ~393 |
 | Maddening | 0.10% | ~230 |
 | Pros and CONs | 0.10% | ~230 |
@@ -402,7 +403,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~197 |
 | Mirage Arcane | 0.10% | ~197 |
 | Only Human | 0.10% | ~197 |
-| The Mad Wizard | 0.10% | ~230 |
 | Close Escort | 0.10% | ~230 |
 | Constant Banditry | 0.10% | ~230 |
 | The Long Haul | 0.10% | ~230 |
@@ -531,8 +531,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,468 (Ranked 56)  
-Completed: 2,313 (1.00%) (Ranked 133)  
+Progressed: 230,473 (Ranked 56)  
+Completed: 2,315 (1.00%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -694,10 +694,10 @@ Completed: 2,313 (1.00%) (Ranked 133)
 | 2023-09-27 | 230,228 | 2,310 |
 | 2023-09-28 | 230,310 | 2,311 |
 | 2023-09-29 | 230,422 | 2,312 |
-| 2023-09-30 | 230,468 | 2,313 |
+| 2023-09-30 | 230,473 | 2,315 |
 ## Awards
 Max (Diverse Characters): 5,341  (Ranked 69)  
-Sum: 31,838 (Ranked 40)  
+Sum: 31,839 (Ranked 40)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -705,7 +705,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,331 |
 | This game has Quickly Understood Controls | 4,780 |
 | This game is Relaxing | 4,665 |
-| This game has Amazing Characters | 4,138 |
+| This game has Amazing Characters | 4,139 |
 | This game is Highly Recommended | 4,133 |
 | This game has Playful Visuals | 3,450 |
 ## Ratings History
@@ -958,3 +958,4 @@ Diff (max vs sum): 29
 | 2023-09-27 | 4.06 | - | 5,329 | 31,785 |
 | 2023-09-28 | 4.06 | - | 5,333 | 31,803 |
 | 2023-09-29 | 4.06 | - | 5,341 | 31,838 |
+| 2023-09-30 | 4.06 | - | 5,341 | 31,839 |

@@ -9,14 +9,14 @@
 | Purification Pioneer | 96.00% | ~27 |
 | Dicesmithing Time! | 86.00% | ~24 |
 | Wild's Keeper | 79.00% | ~22 |
+| Endless Tricks | 75.00% | ~21 |
 | Sanctuary Guardian | 75.00% | ~21 |
-| Endless Tricks | 71.00% | ~20 |
-| Mind Illuminator | 54.00% | ~15 |
+| Mind Illuminator | 57.00% | ~16 |
 | Stellar Dismantler | 43.00% | ~12 |
-| Star Killer | 29.00% | ~8 |
+| Star Killer | 32.00% | ~9 |
+| Astral Adventurer | 29.00% | ~8 |
 | Unbeatable | 29.00% | ~8 |
 | Anomaly Destroyer | 25.00% | ~7 |
-| Astral Adventurer | 25.00% | ~7 |
 | Loyal Partner | 25.00% | ~7 |
 | Sentinelphobic | 21.00% | ~6 |
 | Stellar Haste | 21.00% | ~6 |
@@ -24,7 +24,7 @@
 | Sadistic Plan | 18.00% | ~5 |
 | Skeptical | 18.00% | ~5 |
 | Dice Specialist | 14.00% | ~4 |
-| Shard Spender | 11.00% | ~3 |
+| Shard Spender | 14.00% | ~4 |
 | Can't touch this | 7.00% | ~2 |
 | Denying Destiny | 7.00% | ~2 |
 | Heart Gate | 7.00% | ~2 |

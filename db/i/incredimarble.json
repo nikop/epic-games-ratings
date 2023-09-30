@@ -4,8 +4,8 @@
   "ProductSlug": "incredimarble-bd44f1",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-01-25T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:00:45.1615636+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:57:58.0094044+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:08:05.2026564+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:57:56.2286706+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:07:01.2483913+00:00"
 }

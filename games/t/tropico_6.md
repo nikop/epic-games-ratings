@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,050 |
+| Just One...More...Term... | 75.00% | ~4,051 |
 | Un-Lonely Island | 47.00% | ~2,538 |
 | The Beginning of a Servantship | 45.00% | ~2,430 |
 | Trade Is My Trait | 37.00% | ~1,998 |
@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~270 |
 | Watch The World Burn | 5.00% | ~270 |
 | Fairy Tale Come True | 5.00% | ~270 |
-| Apocalypso | 4.00% | ~216 |
 | Been there, Done That | 3.00% | ~162 |
+| Apocalypso | 3.00% | ~162 |
 | Narcissist | 3.00% | ~162 |
 | Promising Endeavors | 3.00% | ~162 |
 | The Time For Wonders | 3.00% | ~162 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,400 (Ranked 165)  
+Progressed: 5,401 (Ranked 165)  
 Completed: 2 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 2 (0.04%) (Ranked 265)
 | 2023-09-27 | 5,374 | 2 |
 | 2023-09-28 | 5,388 | 2 |
 | 2023-09-29 | 5,397 | 2 |
-| 2023-09-30 | 5,400 | 2 |
+| 2023-09-30 | 5,401 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 344)  
-Sum: 695 (Ranked 283)  
+Sum: 696 (Ranked 283)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -225,7 +225,7 @@ Diff (max vs sum): 61
 | This game has Amazing Characters | 87 |
 | This game is Extremely Fun | 85 |
 | This game is Educational | 84 |
-| This game has a Creative Community | 64 |
+| This game has a Creative Community | 65 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -369,4 +369,4 @@ Diff (max vs sum): 61
 | 2023-09-25 | 4.65 | - | 99 | 690 |
 | 2023-09-26 | 4.65 | - | 99 | 693 |
 | 2023-09-28 | 4.65 | - | 99 | 694 |
-| 2023-09-30 | 4.65 | - | 99 | 695 |
+| 2023-09-30 | 4.65 | - | 99 | 696 |

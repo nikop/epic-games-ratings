@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 475)
 | A Hunk of Junk | 10.00% | ~320 |
 | Breaking Protocol | 10.00% | ~320 |
 | Man's Best Friend | 8.00% | ~256 |
+| Power Outage | 8.00% | ~256 |
 | Sightseeing | 7.00% | ~224 |
-| Power Outage | 7.00% | ~224 |
 | Convenient Transport | 7.00% | ~224 |
 | Please Make it Stop! | 7.00% | ~224 |
 | Access Granted | 6.00% | ~192 |

@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,571 |
-| Rough Landing | 3.00% | ~26,571 |
-| Gunslinger | 2.00% | ~17,714 |
-| Master Crafter | 2.00% | ~17,714 |
-| Mean Streets | 2.00% | ~17,714 |
-| The High Priestess | 2.00% | ~17,714 |
-| The Jungle | 2.00% | ~17,714 |
-| Two Heads, One Bullet | 2.00% | ~17,714 |
-| V for Vendetta | 2.00% | ~17,714 |
+| Ten out of Ten | 3.00% | ~26,572 |
+| Rough Landing | 3.00% | ~26,572 |
+| Gunslinger | 2.00% | ~17,715 |
+| Master Crafter | 2.00% | ~17,715 |
+| Mean Streets | 2.00% | ~17,715 |
+| The High Priestess | 2.00% | ~17,715 |
+| The Jungle | 2.00% | ~17,715 |
+| Two Heads, One Bullet | 2.00% | ~17,715 |
+| V for Vendetta | 2.00% | ~17,715 |
 | To Bad Decisions! | 1.00% | ~8,857 |
 | Full Body Conversion | 1.00% | ~8,857 |
 | Right Back At Ya | 1.00% | ~8,857 |
@@ -26,8 +26,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 1.00% | ~8,857 |
 | True Warrior | 1.00% | ~8,857 |
 | Legend of The Afterlife | 1.00% | ~8,857 |
-| The Fool | 0.90% | ~7,971 |
-| The Lovers | 0.90% | ~7,971 |
+| The Fool | 0.90% | ~7,972 |
+| The Lovers | 0.90% | ~7,972 |
 | The Quick and the Dead | 0.80% | ~7,086 |
 | The Devil | 0.80% | ~7,086 |
 | Gun Fu | 0.70% | ~6,200 |
@@ -35,8 +35,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.70% | ~6,200 |
 | Judy vs Night City | 0.70% | ~6,200 |
 | It's Elementary | 0.70% | ~6,200 |
+| City Lights | 0.60% | ~5,314 |
 | Greetings from Pacifica! | 0.60% | ~5,314 |
-| City Lights | 0.50% | ~4,428 |
 | Life of the Road | 0.40% | ~3,543 |
 | Bushido and Chill | 0.30% | ~2,657 |
 | The Wandering Fool | 0.30% | ~2,657 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,695 (Ranked 15)  
+Progressed: 885,736 (Ranked 15)  
 Completed: 2,487 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,10 +227,10 @@ Completed: 2,487 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,695 | 2,487 |
+| 2023-09-30 | 885,736 | 2,487 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 241,574 (Ranked 13)  
+Sum: 241,934 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -238,10 +238,10 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 58,001 |
 | This game is Great for Beginners | 11,811 |
 | This game has Diverse Characters | 11,536 |
+| This game is Extremely Fun | 11,448 |
 | This game has Amazing Storytelling | 11,372 |
 | This game is Highly Recommended | 11,338 |
 | This game is Relaxing | 11,119 |
-| This game is Extremely Fun | 11,088 |
 | This game has Amazing Characters | 11,042 |
 | This game has Quickly Understood Controls | 10,898 |
 | This game has a Creative Community | 7,144 |
@@ -502,4 +502,4 @@ Diff (max vs sum): -4
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
-| 2023-09-30 | 4.63 | - | 86,225 | 241,574 |
+| 2023-09-30 | 4.63 | - | 86,225 | 241,934 |

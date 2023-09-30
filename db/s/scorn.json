@@ -2,13 +2,13 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 619,
+  "Ranking_Rating": 620,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -195,10 +195,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2363,
-  "EOS_Completed": 166,
+  "EOS_Completed": 167,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.02,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -2609,6 +2609,11 @@
       "Time": "2023-09-30T02:19:25.7444031+00:00",
       "NumProgressed": 2363,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-09-30T09:05:44.5988667+00:00",
+      "NumProgressed": 2363,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 12,
@@ -2716,15 +2721,15 @@
       "ID": "94k0mj8",
       "IsBase": true,
       "Progressed": 2363,
-      "Completed": 166
+      "Completed": 167
     }
   ],
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-07-23T02:06:43.3775839+00:00",
-  "LastChanged_Achievements": "2023-09-30T08:05:27.6609902+00:00",
+  "LastChanged_Achievements": "2023-09-30T09:05:44.5988661+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.8143464+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:58:31.4178937+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:05:27.6610168+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:58:29.7815428+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:05:44.598891+00:00"
 }

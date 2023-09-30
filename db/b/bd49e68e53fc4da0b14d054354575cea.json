@@ -4,8 +4,8 @@
   "ProductSlug": "gravity-oddity-a66e76",
   "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -104,9 +104,9 @@
       "ID": "ACH_06",
       "SetID": "6dj72a4",
       "Name": "Explorer",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_07",
@@ -120,9 +120,9 @@
       "ID": "ACH_08",
       "SetID": "6dj72a4",
       "Name": "Businessman",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_09",
@@ -327,8 +327,8 @@
   ],
   "FirstSeen": "2023-09-14T17:57:45.1242056+00:00",
   "FirstSeenAchievements": "2023-08-29T18:02:15.6403686+00:00",
-  "LastChanged_Achievements": "2023-09-30T08:04:52.0932287+00:00",
+  "LastChanged_Achievements": "2023-09-30T09:05:08.5462912+00:00",
   "LastUpdate_AppInfo": "2023-09-26T19:57:03.7286826+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:58:39.5163233+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:04:52.0932531+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:58:37.1012457+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:05:08.5463162+00:00"
 }

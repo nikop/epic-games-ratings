@@ -16,7 +16,7 @@
 | Their Rock | 29.00% | ~69 |
 | Yuna's Promise | 29.00% | ~69 |
 | Stone Retriever | 26.00% | ~62 |
-| Find myself | 24.00% | ~57 |
+| Find myself | 25.00% | ~60 |
 | Truebro | 21.00% | ~50 |
 | Min's Promise | 19.00% | ~45 |
 | Sia's Promise | 18.00% | ~43 |

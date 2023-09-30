@@ -12639,10 +12639,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 241574,
       "NumberOfAwardsMax": 86225
+    },
+    {
+      "Time": "2023-09-30T08:58:29.896147+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 241934,
+      "NumberOfAwardsMax": 86225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 241574,
+  "NumberOfAwards": 241934,
   "NumberOfAwardsMax": 86225,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12710,7 +12716,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 11088
+      "Count": 11448
     },
     {
       "Text": "This game has a Creative Community",
@@ -12719,9 +12725,9 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885695,
+  "EOS_Progressed": 885736,
   "EOS_Completed": 2487,
-  "EOS_NewPlayers": 6505,
+  "EOS_NewPlayers": 6515,
   "EOS_NewCompleters": 220,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -31024,6 +31030,11 @@
       "Time": "2023-09-30T08:06:16.9711549+00:00",
       "NumProgressed": 885695,
       "NumCompleted": 2487
+    },
+    {
+      "Time": "2023-09-30T09:06:33.9387728+00:00",
+      "NumProgressed": 885736,
+      "NumCompleted": 2487
     }
   ],
   "TotalAchievements": 57,
@@ -31033,9 +31044,9 @@
       "ID": "Bladerunner",
       "SetID": "47clieb",
       "Name": "City Lights",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4428
+      "UsersEstimate": 5314
     },
     {
       "ID": "BornToBeWild",
@@ -31115,7 +31126,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17715
     },
     {
       "ID": "HandyMan",
@@ -31123,7 +31134,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17715
     },
     {
       "ID": "IAmMaxTac",
@@ -31139,7 +31150,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17715
     },
     {
       "ID": "LittleTokyo",
@@ -31219,7 +31230,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26571
+      "UsersEstimate": 26572
     },
     {
       "ID": "Temperance",
@@ -31235,7 +31246,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26571
+      "UsersEstimate": 26572
     },
     {
       "ID": "TheDevil",
@@ -31251,7 +31262,7 @@
       "Name": "The Fool",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7971
+      "UsersEstimate": 7972
     },
     {
       "ID": "TheHermit",
@@ -31267,7 +31278,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17715
     },
     {
       "ID": "TheLovers",
@@ -31275,7 +31286,7 @@
       "Name": "The Lovers",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7971
+      "UsersEstimate": 7972
     },
     {
       "ID": "TheStar",
@@ -31323,7 +31334,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17715
     },
     {
       "ID": "TrueSoldier",
@@ -31347,7 +31358,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17715
     },
     {
       "ID": "UnderPressure",
@@ -31363,7 +31374,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17714
+      "UsersEstimate": 17715
     },
     {
       "ID": "YipMan",
@@ -31490,21 +31501,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885695,
+      "Progressed": 885736,
       "Completed": 2487
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14318,
+      "Progressed": 14359,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-30T02:58:38.0916764+00:00",
-  "LastChanged_Achievements": "2023-09-30T08:06:16.9711545+00:00",
+  "LastChanged": "2023-09-30T08:58:29.8961467+00:00",
+  "LastChanged_Achievements": "2023-09-30T09:06:33.9387722+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:58:31.5593238+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:06:16.9713216+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:58:29.8961478+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:06:33.9389296+00:00"
 }

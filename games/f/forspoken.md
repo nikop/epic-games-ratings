@@ -1,27 +1,27 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 905)  
+Rating: 4.16 (Ranked 906)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,058 |
-| Unlocked Potential | 9.00% | ~3,652 |
-| Tinkerer | 7.00% | ~2,841 |
-| Knock 'Em Dead | 7.00% | ~2,841 |
-| Pilgrimage: Initiate | 7.00% | ~2,841 |
-| Hell of a Run | 7.00% | ~2,841 |
-| Leapfrogger | 6.00% | ~2,435 |
-| Call of the Fount: Baptized | 6.00% | ~2,435 |
-| No Mercy | 5.00% | ~2,029 |
-| Explorer: Seeker | 5.00% | ~2,029 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,623 |
-| Stuck | 4.00% | ~1,623 |
-| Help Me Out Here | 4.00% | ~1,623 |
-| Outdoorsperson | 3.00% | ~1,217 |
-| The Interloper | 3.00% | ~1,217 |
-| Hop, Step, Jump | 3.00% | ~1,217 |
-| Endless Runner | 3.00% | ~1,217 |
+| Attachments | 10.00% | ~4,059 |
+| Unlocked Potential | 9.00% | ~3,653 |
+| Tinkerer | 7.00% | ~2,842 |
+| Knock 'Em Dead | 7.00% | ~2,842 |
+| Pilgrimage: Initiate | 7.00% | ~2,842 |
+| Hell of a Run | 7.00% | ~2,842 |
+| Leapfrogger | 6.00% | ~2,436 |
+| Call of the Fount: Baptized | 6.00% | ~2,436 |
+| No Mercy | 5.00% | ~2,030 |
+| Explorer: Seeker | 5.00% | ~2,030 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,624 |
+| Stuck | 4.00% | ~1,624 |
+| Help Me Out Here | 4.00% | ~1,624 |
+| Outdoorsperson | 3.00% | ~1,218 |
+| The Interloper | 3.00% | ~1,218 |
+| Hop, Step, Jump | 3.00% | ~1,218 |
+| Endless Runner | 3.00% | ~1,218 |
 | What Must Be Done | 2.00% | ~812 |
 | Might and Main | 2.00% | ~812 |
 | Damned If You Do... | 2.00% | ~812 |
@@ -36,8 +36,8 @@ Rating: 4.16 (Ranked 905)
 | Pilgrimage: Novice | 1.00% | ~406 |
 | Wildfire | 0.70% | ~284 |
 | Realized Potential | 0.70% | ~284 |
-| Awakening | 0.60% | ~243 |
-| Explorer: Trailblazer | 0.60% | ~243 |
+| Awakening | 0.60% | ~244 |
+| Explorer: Trailblazer | 0.60% | ~244 |
 | Through the Eyes of Another: Seer | 0.50% | ~203 |
 | Archivist | 0.30% | ~122 |
 | Craftsperson | 0.30% | ~122 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 905)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,583 (Ranked 105)  
+Progressed: 40,594 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 3 (0.01%) (Ranked 283)
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
 | 2023-09-29 | 40,425 | 3 |
-| 2023-09-30 | 40,583 | 3 |
+| 2023-09-30 | 40,594 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

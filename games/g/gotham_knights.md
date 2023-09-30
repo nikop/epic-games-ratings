@@ -1,29 +1,29 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 896)  
+Rating: 4.18 (Ranked 897)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,944 |
+| First Step Into the Knight | 52.00% | ~37,945 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,540 |
 | Loose Ends | 34.00% | ~24,810 |
-| To the Victor Go the Spoils | 29.00% | ~21,161 |
+| To the Victor Go the Spoils | 29.00% | ~21,162 |
 | Knighthood | 28.00% | ~20,432 |
-| Get ReQ'd | 25.00% | ~18,242 |
-| Whispered Words | 25.00% | ~18,242 |
-| The Batman Family | 23.00% | ~16,783 |
-| Lock and Key | 23.00% | ~16,783 |
+| Get ReQ'd | 25.00% | ~18,243 |
+| Whispered Words | 25.00% | ~18,243 |
+| The Batman Family | 23.00% | ~16,784 |
+| Lock and Key | 23.00% | ~16,784 |
 | Something in the Clay | 21.00% | ~15,324 |
 | Quartzer Life Crisis | 21.00% | ~15,324 |
 | Working Hard or Harley Working? | 20.00% | ~14,594 |
 | Unstoppable Force | 20.00% | ~14,594 |
 | Bad Apples in Every Orchard | 20.00% | ~14,594 |
-| Snow Problem | 19.00% | ~13,864 |
+| Snow Problem | 19.00% | ~13,865 |
 | The Show Mud Go On | 18.00% | ~13,135 |
 | From Inside Gotham's Walls | 18.00% | ~13,135 |
 | Protector of Gotham | 17.00% | ~12,405 |
-| Universal Health Scare | 16.00% | ~11,675 |
+| Universal Health Scare | 16.00% | ~11,676 |
 | In Your Element | 15.00% | ~10,946 |
 | Voiceless | 15.00% | ~10,946 |
 | Rock and a Hard Place | 14.00% | ~10,216 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 896)
 | Seeking Asylum | 14.00% | ~10,216 |
 | Not On My Watch | 13.00% | ~9,486 |
 | Shock Til They Drop | 13.00% | ~9,486 |
-| End of an Era | 12.00% | ~8,756 |
-| Bulldozed | 12.00% | ~8,756 |
-| Gotham Knight | 12.00% | ~8,756 |
+| End of an Era | 12.00% | ~8,757 |
+| Bulldozed | 12.00% | ~8,757 |
+| Gotham Knight | 12.00% | ~8,757 |
 | Gotham City Confidential | 11.00% | ~8,027 |
 | Drone You Out | 10.00% | ~7,297 |
 | Out of Their League | 9.00% | ~6,567 |
@@ -41,7 +41,7 @@ Rating: 4.18 (Ranked 896)
 | Fusion Expert | 7.00% | ~5,108 |
 | Family Meeting | 6.00% | ~4,378 |
 | A Worthy Successor | 6.00% | ~4,378 |
-| Expert Crime Fighter | 5.00% | ~3,648 |
+| Expert Crime Fighter | 5.00% | ~3,649 |
 | Dressed to Impress | 4.00% | ~2,919 |
 | A Momentum Occasion | 3.00% | ~2,189 |
 | Bat Out of Hell | 3.00% | ~2,189 |
@@ -64,10 +64,10 @@ Rating: 4.18 (Ranked 896)
 | Showdown Sovereign | 0.40% | ~173 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~130 |
 | The Cold, the Bad and the Ugly | 0.30% | ~130 |
-| Element of Surprise | 0.20% | ~86 |
-| It's Nice to Be Wanted | 0.20% | ~86 |
+| Element of Surprise | 0.20% | ~87 |
+| It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,970 (Ranked 86)  
+Progressed: 72,972 (Ranked 86)  
 Completed: 119 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 119 (0.16%) (Ranked 221)
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
 | 2023-09-29 | 72,961 | 118 |
-| 2023-09-30 | 72,970 | 119 |
+| 2023-09-30 | 72,972 | 119 |
 ## Awards
 Max (Great Boss Battles): 2,768  (Ranked 97)  
 Sum: 4,624 (Ranked 140)  

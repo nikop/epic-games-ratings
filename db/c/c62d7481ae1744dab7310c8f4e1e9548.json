@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -627,9 +627,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Zelvak",
@@ -658,8 +658,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-30T08:04:35.4663833+00:00",
+  "LastChanged_Achievements": "2023-09-30T09:04:52.1175357+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:57:12.5948486+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:04:35.4664075+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:57:11.8876999+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:04:52.1175603+00:00"
 }

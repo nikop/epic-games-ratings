@@ -2,13 +2,13 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 996,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16474,
+  "EOS_Progressed": 16480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4961,6 +4961,11 @@
       "Time": "2023-09-30T08:03:24.345524+00:00",
       "NumProgressed": 16474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T09:03:40.7165766+00:00",
+      "NumProgressed": 16480,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4972,7 +4977,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15650
+      "UsersEstimate": 15656
     },
     {
       "ID": "ACH001",
@@ -4980,7 +4985,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14168
+      "UsersEstimate": 14173
     },
     {
       "ID": "ACH0010",
@@ -4988,7 +4993,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ACH0011",
@@ -5004,7 +5009,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7910
     },
     {
       "ID": "ACH0013",
@@ -5012,7 +5017,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "ACH0014",
@@ -5020,7 +5025,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH0015",
@@ -5052,7 +5057,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3624
+      "UsersEstimate": 3626
     },
     {
       "ID": "ACH0019",
@@ -5068,7 +5073,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11861
+      "UsersEstimate": 11866
     },
     {
       "ID": "ACH0020",
@@ -5084,7 +5089,7 @@
       "Name": "A True Dandy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH0022",
@@ -5092,7 +5097,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5601
+      "UsersEstimate": 5603
     },
     {
       "ID": "ACH0023",
@@ -5116,7 +5121,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH003",
@@ -5124,7 +5129,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9064
     },
     {
       "ID": "ACH004",
@@ -5132,7 +5137,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14497
+      "UsersEstimate": 14502
     },
     {
       "ID": "ACH005",
@@ -5140,7 +5145,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2636
+      "UsersEstimate": 2637
     },
     {
       "ID": "ACH006",
@@ -5148,7 +5153,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6757
     },
     {
       "ID": "ACH007",
@@ -5156,7 +5161,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH008",
@@ -5179,7 +5184,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16474,
+      "Progressed": 16480,
       "Completed": 0
     }
   ],
@@ -5187,8 +5192,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-30T08:03:24.3455235+00:00",
+  "LastChanged_Achievements": "2023-09-30T09:03:40.7165758+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.9271545+00:00",
-  "LastUpdate_Ratings": "2023-09-30T08:00:24.7782309+00:00",
-  "LastUpdate_Achievements": "2023-09-30T08:03:24.3455717+00:00"
+  "LastUpdate_Ratings": "2023-09-30T09:00:20.9293227+00:00",
+  "LastUpdate_Achievements": "2023-09-30T09:03:40.7166222+00:00"
 }
