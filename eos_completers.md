@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 72.25% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 72.04% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.11% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.59% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -43,17 +43,17 @@
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.55% |
 | 42 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 43 | [Scorn](games/s/scorn.md) | 7.07% |
-| 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.49% |
+| 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.44% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.25% |
 | 48 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 50 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
-| 51 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.49% |
-| 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.33% |
-| 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 54 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 5.26% |
+| 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.33% |
+| 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
+| 53 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 5.26% |
+| 54 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.15% |
 | 55 | [JARS](games/j/jars.md) | 5.13% |
 | 56 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 57 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
@@ -66,8 +66,8 @@
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.74% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.66% |
+| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.73% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.65% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -125,7 +125,7 @@
 | 123 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.32% |
 | 123 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
 | 125 | [Chorus](games/c/chorus.md) | 1.30% |
-| 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.25% |
+| 126 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.23% |
 | 127 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 128 | [Infindustry](games/i/infindustry.md) | 1.10% |
 | 129 | [Trifox](games/t/trifox.md) | 1.09% |
@@ -181,9 +181,9 @@
 | 178 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 178 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 181 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 181 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
-| 183 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
-| 183 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.36% |
+| 182 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
+| 182 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 185 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
 | 185 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
 | 185 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.35% |
@@ -643,4 +643,4 @@
 | 300 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 300 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 300 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,321 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,322 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

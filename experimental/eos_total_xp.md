@@ -380,6 +380,7 @@
 | [Match Village](../games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 24 | 1,000 |
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |
+| [Metamorphosis](../games/a/a8f1b444a68b4d82803dd7f5374bcd42.md) | 26 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
 | [Metro Simulator 2](../games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 8 | 1,000 |
 | [Mia and the Dragon Princess](../games/m/mia_and_the_dragon_princess.md) | 18 | 1,000 |
