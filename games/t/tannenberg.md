@@ -8,10 +8,10 @@ Number of Ratings: 13,393  (23.09.2022)
 | ---- | ---------- | ----- |
 | Immovable Object | 89.00% | ~117,759 |
 | Comeback | 82.00% | ~108,497 |
-| Information is Key | 80.00% | ~105,850 |
-| Unlucky | 71.00% | ~93,942 |
-| Anarchist | 68.00% | ~89,973 |
-| Wallhack | 65.00% | ~86,003 |
+| Information is Key | 80.00% | ~105,851 |
+| Unlucky | 71.00% | ~93,943 |
+| Anarchist | 68.00% | ~89,974 |
+| Wallhack | 65.00% | ~86,004 |
 | Steady Supply | 60.00% | ~79,388 |
 | Lucky Shot | 53.00% | ~70,126 |
 | Forward Observer | 52.00% | ~68,803 |
@@ -20,15 +20,15 @@ Number of Ratings: 13,393  (23.09.2022)
 | Frostbite | 45.00% | ~59,541 |
 | Night Owl | 44.00% | ~58,218 |
 | Strength in Numbers | 44.00% | ~58,218 |
-| Fog of War | 41.00% | ~54,248 |
+| Fog of War | 41.00% | ~54,249 |
 | Anyone Else? | 39.00% | ~51,602 |
 | Rasputin | 39.00% | ~51,602 |
 | Stronghold Denied | 39.00% | ~51,602 |
 | Hydra | 36.00% | ~47,633 |
 | This Belongs to Us Now | 36.00% | ~47,633 |
 | Stronghold | 35.00% | ~46,310 |
-| Leeroy | 33.00% | ~43,663 |
-| Lost Batallion | 33.00% | ~43,663 |
+| Leeroy | 33.00% | ~43,664 |
+| Lost Batallion | 33.00% | ~43,664 |
 | This is MY Machine Gun! | 32.00% | ~42,340 |
 | Together As One | 31.00% | ~41,017 |
 | Gavrilo Princip | 27.00% | ~35,725 |
@@ -36,9 +36,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | Skynet Confirmed | 23.00% | ~30,432 |
 | Kesselschlacht | 22.00% | ~29,109 |
 | Democracy Works! | 21.00% | ~27,786 |
-| Switch, Please! | 19.00% | ~25,139 |
-| I've Seen It All | 18.00% | ~23,816 |
-| Tourist | 18.00% | ~23,816 |
+| Switch, Please! | 19.00% | ~25,140 |
+| I've Seen It All | 18.00% | ~23,817 |
+| Tourist | 18.00% | ~23,817 |
 | At Least This Way I Can Win... | 17.00% | ~22,493 |
 | Oops! | 17.00% | ~22,493 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~21,170 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,191 |
 | Road to Berlin | 0.60% | ~794 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,313 (Ranked 70)  
+Progressed: 132,314 (Ranked 70)  
 Completed: 29 (0.02%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 29 (0.02%) (Ranked 275)
 | 2023-09-27 | 132,065 | 29 |
 | 2023-09-28 | 132,172 | 29 |
 | 2023-09-29 | 132,303 | 29 |
-| 2023-09-30 | 132,313 | 29 |
+| 2023-09-30 | 132,314 | 29 |
 ## Awards
 Max (Competitive Players): 333  (Ranked 234)  
 Sum: 2,900 (Ranked 173)  

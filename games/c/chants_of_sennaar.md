@@ -20,15 +20,15 @@
 | Peace walker | 32.00% | ~74 |
 | In this together | 30.00% | ~69 |
 | Open door | 27.00% | ~62 |
-| Feels like springtime | 24.00% | ~55 |
-| Rascal | 24.00% | ~55 |
+| Feels like springtime | 25.00% | ~58 |
+| Rascal | 25.00% | ~58 |
 | Free at last | 23.00% | ~53 |
 | Alchemists Express | 23.00% | ~53 |
-| I did it | 20.00% | ~46 |
-| A Link to the Past | 19.00% | ~44 |
+| I did it | 21.00% | ~48 |
+| A Link to the Past | 20.00% | ~46 |
+| A great audience | 16.00% | ~37 |
 | For its own good | 16.00% | ~37 |
-| A great audience | 15.00% | ~34 |
-| Fashion victim | 12.00% | ~28 |
+| Fashion victim | 13.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 230 (Ranked 329)  
 Completed: 14 (6.09%) (Ranked 50)  

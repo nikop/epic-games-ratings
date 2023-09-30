@@ -6,24 +6,24 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~616,287 |
-| Death From Above | 45.00% | ~602,889 |
+| Unseen Assassin | 46.00% | ~616,288 |
+| Death From Above | 45.00% | ~602,890 |
 | Master of the Household | 38.00% | ~509,107 |
-| Death of the Party | 36.00% | ~482,311 |
+| Death of the Party | 36.00% | ~482,312 |
 | NEXUS-47 | 33.00% | ~442,119 |
 | The Last Tango | 31.00% | ~415,324 |
-| Nightmare Fuel | 30.00% | ~401,926 |
-| The Result of Previous Training | 28.00% | ~375,131 |
-| Tools of the Trade | 28.00% | ~375,131 |
+| Nightmare Fuel | 30.00% | ~401,927 |
+| The Result of Previous Training | 28.00% | ~375,132 |
+| Tools of the Trade | 28.00% | ~375,132 |
 | Cleared for Field Duty | 27.00% | ~361,734 |
-| Seizing the Opportunity | 26.00% | ~348,336 |
-| Bullet Train | 21.00% | ~281,348 |
+| Seizing the Opportunity | 26.00% | ~348,337 |
+| Bullet Train | 21.00% | ~281,349 |
 | Stylish Assassin | 20.00% | ~267,951 |
 | Silent Assassin | 14.00% | ~187,566 |
 | Rise Up | 13.00% | ~174,168 |
 | Evil Wine Club | 11.00% | ~147,373 |
-| Console Cowboy | 10.00% | ~133,975 |
-| Last Stop | 10.00% | ~133,975 |
+| Console Cowboy | 10.00% | ~133,976 |
+| Last Stop | 10.00% | ~133,976 |
 | A New Profile | 9.00% | ~120,578 |
 | Full House | 9.00% | ~120,578 |
 | Dune Raider | 8.00% | ~107,180 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,398 |
 | The Creative Assassin | 0.70% | ~9,378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,339,754 (Ranked 9)  
+Progressed: 1,339,756 (Ranked 9)  
 Completed: 2,151 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 2,151 (0.16%) (Ranked 221)
 | 2023-09-27 | 1,339,065 | 2,151 |
 | 2023-09-28 | 1,339,400 | 2,151 |
 | 2023-09-29 | 1,339,734 | 2,151 |
-| 2023-09-30 | 1,339,754 | 2,151 |
+| 2023-09-30 | 1,339,756 | 2,151 |
 ## Awards
 Max (Diverse Characters): 10,185  (Ranked 38)  
 Sum: 71,559 (Ranked 21)  

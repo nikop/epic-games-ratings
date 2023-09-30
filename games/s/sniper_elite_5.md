@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 631)  
+Rating: 4.45 (Ranked 644)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,12 +26,12 @@ Rating: 4.46 (Ranked 631)
 | Der Geist | 16.00% | ~589 |
 | Close Quarters | 15.00% | ~552 |
 | Brains of the Operation | 15.00% | ~552 |
+| No Stone Unturned | 14.00% | ~516 |
 | Enemy at the Gates | 14.00% | ~516 |
 | Fields of Glory | 14.00% | ~516 |
 | Skirmisher | 14.00% | ~516 |
 | Die Nussknacker Sweet! | 14.00% | ~516 |
 | Snake in the Grass | 14.00% | ~516 |
-| No Stone Unturned | 13.00% | ~479 |
 | Opposing Force | 13.00% | ~479 |
 | Set Europe Ablaze | 13.00% | ~479 |
 | Precision Is Key | 9.00% | ~331 |
@@ -320,3 +320,4 @@ Completed: 11 (0.30%) (Ranked 196)
 | 2023-09-08 | 4.47 | 0 | 0 |
 | 2023-09-10 | 4.48 | 0 | 0 |
 | 2023-09-13 | 4.46 | 0 | 0 |
+| 2023-09-30 | 4.45 | 0 | 0 |

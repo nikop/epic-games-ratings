@@ -812,9 +812,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "TAKE_LEECH",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-30T01:45:39.3160014+00:00",
+  "LastChanged_Achievements": "2023-09-30T02:19:26.090923+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-09-30T01:37:27.5756341+00:00",
-  "LastUpdate_Achievements": "2023-09-30T01:45:39.3160204+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:11:26.1155363+00:00",
+  "LastUpdate_Achievements": "2023-09-30T02:19:26.0909427+00:00"
 }

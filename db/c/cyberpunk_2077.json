@@ -12627,10 +12627,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 240925,
       "NumberOfAwardsMax": 86225
+    },
+    {
+      "Time": "2023-09-30T02:12:22.3318627+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 241223,
+      "NumberOfAwardsMax": 86225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 240925,
+  "NumberOfAwards": 241223,
   "NumberOfAwardsMax": 86225,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12656,7 +12662,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 10821
+      "Count": 11119
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12707,10 +12713,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885430,
+  "EOS_Progressed": 885452,
   "EOS_Completed": 2482,
   "EOS_NewPlayers": 6459,
-  "EOS_NewCompleters": 226,
+  "EOS_NewCompleters": 224,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30977,6 +30983,11 @@
       "Time": "2023-09-30T01:46:29.687766+00:00",
       "NumProgressed": 885430,
       "NumCompleted": 2482
+    },
+    {
+      "Time": "2023-09-30T02:20:15.7073348+00:00",
+      "NumProgressed": 885452,
+      "NumCompleted": 2482
     }
   ],
   "TotalAchievements": 57,
@@ -31012,7 +31023,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "Denied",
@@ -31020,7 +31031,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "FollowingTheRiver",
@@ -31132,7 +31143,7 @@
       "Name": "Breathtaking",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "NoMansLand",
@@ -31164,7 +31175,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "Specialist",
@@ -31172,7 +31183,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26563
+      "UsersEstimate": 26564
     },
     {
       "ID": "Temperance",
@@ -31180,7 +31191,7 @@
       "Name": "Temperance",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31188,7 +31199,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26563
+      "UsersEstimate": 26564
     },
     {
       "ID": "TheDevil",
@@ -31204,7 +31215,7 @@
       "Name": "The Fool",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "TheHermit",
@@ -31212,15 +31223,15 @@
       "Name": "The Hermit",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8854
+      "UsersEstimate": 17709
     },
     {
       "ID": "TheLovers",
@@ -31252,7 +31263,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "TheWorld",
@@ -31284,7 +31295,7 @@
       "Name": "True Soldier",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "TrueWarrior",
@@ -31292,7 +31303,7 @@
       "Name": "True Warrior",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31332,7 +31343,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8854
+      "UsersEstimate": 8855
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31443,21 +31454,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885430,
+      "Progressed": 885452,
       "Completed": 2482
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14053,
+      "Progressed": 14075,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-30T01:38:22.9473419+00:00",
-  "LastChanged_Achievements": "2023-09-30T01:46:29.6877656+00:00",
+  "LastChanged": "2023-09-30T02:12:22.3318625+00:00",
+  "LastChanged_Achievements": "2023-09-30T02:20:15.7073341+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T01:38:22.9473431+00:00",
-  "LastUpdate_Achievements": "2023-09-30T01:46:29.6879349+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:12:22.3318632+00:00",
+  "LastUpdate_Achievements": "2023-09-30T02:20:15.7075038+00:00"
 }

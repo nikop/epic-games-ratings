@@ -5,25 +5,25 @@ Rating: 3.98 (Ranked 964)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 73.00% | ~453,440 |
-| Health Junkie | 41.00% | ~254,672 |
-| You Complete Me | 39.00% | ~242,249 |
-| Guardian Angel | 35.00% | ~217,403 |
-| Devil Inside Me | 27.00% | ~167,711 |
-| Fantastic Four | 20.00% | ~124,230 |
-| Killing Spree | 19.00% | ~118,019 |
-| Marksman Novice | 17.00% | ~105,596 |
-| First Blood | 12.00% | ~74,538 |
-| Top 10 | 12.00% | ~74,538 |
-| Now You See Me, Now You Don't | 10.00% | ~62,115 |
-| Marksman Expert | 8.00% | ~49,692 |
-| CQB Novice | 8.00% | ~49,692 |
-| Collateral Damage | 6.00% | ~37,269 |
-| Airborne | 6.00% | ~37,269 |
-| Pacifist | 5.00% | ~31,058 |
-| Last Survivor | 4.00% | ~24,846 |
-| Trigonometry Novice | 4.00% | ~24,846 |
-| First Come, First Served | 4.00% | ~24,846 |
+| Blood on My Hands | 73.00% | ~453,457 |
+| Health Junkie | 41.00% | ~254,681 |
+| You Complete Me | 39.00% | ~242,258 |
+| Guardian Angel | 35.00% | ~217,411 |
+| Devil Inside Me | 27.00% | ~167,717 |
+| Fantastic Four | 20.00% | ~124,235 |
+| Killing Spree | 19.00% | ~118,023 |
+| Marksman Novice | 17.00% | ~105,600 |
+| First Blood | 12.00% | ~74,541 |
+| Top 10 | 12.00% | ~74,541 |
+| Now You See Me, Now You Don't | 10.00% | ~62,117 |
+| Marksman Expert | 8.00% | ~49,694 |
+| CQB Novice | 8.00% | ~49,694 |
+| Collateral Damage | 6.00% | ~37,270 |
+| Airborne | 6.00% | ~37,270 |
+| Pacifist | 5.00% | ~31,059 |
+| Last Survivor | 4.00% | ~24,847 |
+| Trigonometry Novice | 4.00% | ~24,847 |
+| First Come, First Served | 4.00% | ~24,847 |
 | Marksman Master | 3.00% | ~18,635 |
 | Dynamic Duo | 3.00% | ~18,635 |
 | Winner Winner Chicken Dinner! | 2.00% | ~12,423 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 964)
 | Nade King Master | 0.10% | ~621 |
 | Shoot the Knee | 0.10% | ~621 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 621,151 (Ranked 28)  
+Progressed: 621,174 (Ranked 28)  
 Completed: 10 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 10 (0.00%) (Ranked 300)
 | 2023-09-27 | 617,619 | 10 |
 | 2023-09-28 | 619,174 | 10 |
 | 2023-09-29 | 621,025 | 10 |
-| 2023-09-30 | 621,151 | 10 |
+| 2023-09-30 | 621,174 | 10 |
 ## Awards
 Max (Competitive Players): 3,815  (Ranked 84)  
 Sum: 12,496 (Ranked 77)  

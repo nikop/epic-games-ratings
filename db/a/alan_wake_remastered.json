@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66477,
+  "EOS_Progressed": 66480,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16329,6 +16329,11 @@
       "Time": "2023-09-30T01:43:16.4636772+00:00",
       "NumProgressed": 66477,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-30T02:17:06.3528409+00:00",
+      "NumProgressed": 66480,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16340,7 +16345,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27920
+      "UsersEstimate": 27922
     },
     {
       "ID": "02",
@@ -16348,7 +16353,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17284
+      "UsersEstimate": 17285
     },
     {
       "ID": "03",
@@ -16356,7 +16361,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17284
+      "UsersEstimate": 17285
     },
     {
       "ID": "04",
@@ -16444,7 +16449,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7977
+      "UsersEstimate": 7978
     },
     {
       "ID": "15",
@@ -16452,7 +16457,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7312
+      "UsersEstimate": 7313
     },
     {
       "ID": "16",
@@ -16524,7 +16529,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7977
+      "UsersEstimate": 7978
     },
     {
       "ID": "25",
@@ -16540,7 +16545,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7977
+      "UsersEstimate": 7978
     },
     {
       "ID": "27",
@@ -16564,7 +16569,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "30",
@@ -16572,7 +16577,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7977
+      "UsersEstimate": 7978
     },
     {
       "ID": "31",
@@ -16588,7 +16593,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21937
+      "UsersEstimate": 21938
     },
     {
       "ID": "33",
@@ -16596,7 +16601,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "34",
@@ -16604,7 +16609,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7312
+      "UsersEstimate": 7313
     },
     {
       "ID": "35",
@@ -16612,7 +16617,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22602
+      "UsersEstimate": 22603
     },
     {
       "ID": "36",
@@ -16700,7 +16705,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "47",
@@ -16875,21 +16880,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66477,
+      "Progressed": 66480,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 29945,
+      "Progressed": 29948,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-30T01:43:16.4636766+00:00",
+  "LastChanged_Achievements": "2023-09-30T02:17:06.3528404+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:03.9860711+00:00",
-  "LastUpdate_Ratings": "2023-09-30T01:38:03.6425828+00:00",
-  "LastUpdate_Achievements": "2023-09-30T01:43:16.4638696+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:12:03.0354095+00:00",
+  "LastUpdate_Achievements": "2023-09-30T02:17:06.3530012+00:00"
 }

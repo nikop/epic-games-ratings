@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Proving Grounds | 1.00% | ~1,880 |
 | Ghost in the Machine | 0.90% | ~1,692 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,952 (Ranked 65)  
+Progressed: 187,956 (Ranked 65)  
 Completed: 345 (0.18%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 345 (0.18%) (Ranked 218)
 | 2023-09-27 | 187,199 | 340 |
 | 2023-09-28 | 187,507 | 342 |
 | 2023-09-29 | 187,917 | 345 |
-| 2023-09-30 | 187,952 | 345 |
+| 2023-09-30 | 187,956 | 345 |
 ## Awards
 Max (Great Boss Battles): 1,740  (Ranked 118)  
-Sum: 3,644 (Ranked 155)  
+Sum: 3,647 (Ranked 155)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -143,8 +143,8 @@ Diff (max vs sum): -37
 | This game is Extremely Fun | 216 |
 | This game has Challenging Combat | 212 |
 | This game has Diverse Characters | 209 |
+| This game is Relaxing | 201 |
 | This game is Highly Recommended | 200 |
-| This game is Relaxing | 198 |
 | This game has Amazing Characters | 194 |
 | This game has Amazing Storytelling | 193 |
 | This game has Quickly Understood Controls | 181 |
@@ -219,4 +219,4 @@ Diff (max vs sum): -37
 | 2023-09-27 | 4.76 | 1,729 | 3,586 |
 | 2023-09-28 | 4.76 | 1,733 | 3,619 |
 | 2023-09-29 | 4.76 | 1,740 | 3,641 |
-| 2023-09-30 | 4.76 | 1,740 | 3,644 |
+| 2023-09-30 | 4.76 | 1,740 | 3,647 |

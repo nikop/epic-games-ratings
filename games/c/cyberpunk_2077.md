@@ -6,28 +6,28 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,563 |
-| Rough Landing | 3.00% | ~26,563 |
+| Ten out of Ten | 3.00% | ~26,564 |
+| Rough Landing | 3.00% | ~26,564 |
 | Gunslinger | 2.00% | ~17,709 |
 | Master Crafter | 2.00% | ~17,709 |
 | Mean Streets | 2.00% | ~17,709 |
+| The High Priestess | 2.00% | ~17,709 |
 | The Jungle | 2.00% | ~17,709 |
 | Two Heads, One Bullet | 2.00% | ~17,709 |
 | V for Vendetta | 2.00% | ~17,709 |
-| Full Body Conversion | 1.00% | ~8,854 |
-| Right Back At Ya | 1.00% | ~8,854 |
-| Breathtaking | 1.00% | ~8,854 |
-| Stanislavski's Method | 1.00% | ~8,854 |
-| Temperance | 1.00% | ~8,854 |
-| The Hermit | 1.00% | ~8,854 |
-| The High Priestess | 1.00% | ~8,854 |
-| The Wheel of Fortune | 1.00% | ~8,854 |
-| True Soldier | 1.00% | ~8,854 |
-| True Warrior | 1.00% | ~8,854 |
-| Legend of The Afterlife | 1.00% | ~8,854 |
+| Full Body Conversion | 1.00% | ~8,855 |
+| Right Back At Ya | 1.00% | ~8,855 |
+| Breathtaking | 1.00% | ~8,855 |
+| Stanislavski's Method | 1.00% | ~8,855 |
+| Temperance | 1.00% | ~8,855 |
+| The Hermit | 1.00% | ~8,855 |
+| The Wheel of Fortune | 1.00% | ~8,855 |
+| True Soldier | 1.00% | ~8,855 |
+| True Warrior | 1.00% | ~8,855 |
+| Legend of The Afterlife | 1.00% | ~8,855 |
 | To Bad Decisions! | 0.90% | ~7,969 |
 | The Lovers | 0.90% | ~7,969 |
-| The Fool | 0.80% | ~7,083 |
+| The Fool | 0.80% | ~7,084 |
 | The Quick and the Dead | 0.70% | ~6,198 |
 | The Devil | 0.70% | ~6,198 |
 | The World | 0.70% | ~6,198 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,430 (Ranked 15)  
+Progressed: 885,452 (Ranked 15)  
 Completed: 2,482 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,10 +227,10 @@ Completed: 2,482 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,430 | 2,482 |
+| 2023-09-30 | 885,452 | 2,482 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 240,925 (Ranked 13)  
+Sum: 241,223 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -240,10 +240,10 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 11,460 |
 | This game has Amazing Storytelling | 11,372 |
 | This game is Highly Recommended | 11,338 |
+| This game is Relaxing | 11,119 |
 | This game is Extremely Fun | 11,088 |
 | This game has Amazing Characters | 11,042 |
 | This game has Quickly Understood Controls | 10,898 |
-| This game is Relaxing | 10,821 |
 | This game has a Creative Community | 7,144 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -502,4 +502,4 @@ Diff (max vs sum): -4
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
-| 2023-09-30 | 4.63 | - | 86,225 | 240,925 |
+| 2023-09-30 | 4.63 | - | 86,225 | 241,223 |

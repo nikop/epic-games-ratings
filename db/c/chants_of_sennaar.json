@@ -1093,9 +1093,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "END_GOOD",
@@ -1157,17 +1157,17 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1181,9 +1181,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1197,9 +1197,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1221,9 +1221,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1300,8 +1300,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-30T01:49:09.5505674+00:00",
+  "LastChanged_Achievements": "2023-09-30T02:22:23.9804521+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-30T01:38:55.4172354+00:00",
-  "LastUpdate_Achievements": "2023-09-30T01:49:09.5505929+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:12:54.7658074+00:00",
+  "LastUpdate_Achievements": "2023-09-30T02:22:23.9804743+00:00"
 }

@@ -1899,9 +1899,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 337
     },
     {
       "ID": "DevilRope",
@@ -1923,9 +1923,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -1987,9 +1987,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 249
     },
     {
       "ID": "KingDiamond",
@@ -2067,9 +2067,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 267
     },
     {
       "ID": "RogueEat",
@@ -2162,8 +2162,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-30T01:43:45.3548547+00:00",
+  "LastChanged_Achievements": "2023-09-30T02:17:35.2687562+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-09-30T01:37:15.3314736+00:00",
-  "LastUpdate_Achievements": "2023-09-30T01:43:45.3549039+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:11:14.0100262+00:00",
+  "LastUpdate_Achievements": "2023-09-30T02:17:35.2688041+00:00"
 }

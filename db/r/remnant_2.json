@@ -2506,10 +2506,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 3644,
       "NumberOfAwardsMax": 1740
+    },
+    {
+      "Time": "2023-09-30T02:14:14.9386753+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 3647,
+      "NumberOfAwardsMax": 1740
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3644,
+  "NumberOfAwards": 3647,
   "NumberOfAwardsMax": 1740,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2577,12 +2583,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 198
+      "Count": 201
     }
   ],
-  "EOS_Progressed": 187952,
+  "EOS_Progressed": 187956,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 3047,
+  "EOS_NewPlayers": 3040,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10950,6 +10956,11 @@
       "Time": "2023-09-30T01:48:08.987308+00:00",
       "NumProgressed": 187952,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-09-30T02:22:03.979592+00:00",
+      "NumProgressed": 187956,
+      "NumCompleted": 345
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -11361,16 +11372,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 187952,
+      "Progressed": 187956,
       "Completed": 345
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-09-30T00:00:10.8465999+00:00",
-  "LastChanged_Achievements": "2023-09-30T01:48:08.9873075+00:00",
+  "LastChanged": "2023-09-30T02:14:14.9386751+00:00",
+  "LastChanged_Achievements": "2023-09-30T02:22:03.9795915+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.0716311+00:00",
-  "LastUpdate_Ratings": "2023-09-30T01:40:14.8831316+00:00",
-  "LastUpdate_Achievements": "2023-09-30T01:48:08.9873911+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:14:14.9386757+00:00",
+  "LastUpdate_Achievements": "2023-09-30T02:22:03.9796887+00:00"
 }
