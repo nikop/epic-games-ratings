@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 7.00% | ~994 |
-| Play a Single Player Game | 7.00% | ~994 |
-| Explorer | 6.00% | ~852 |
-| Friendly Family | 6.00% | ~852 |
+| Settler | 7.00% | ~995 |
+| Play a Single Player Game | 7.00% | ~995 |
+| Explorer | 6.00% | ~853 |
+| Friendly Family | 6.00% | ~853 |
 | Able | 5.00% | ~710 |
 | Intrepid | 5.00% | ~710 |
 | The Clergy | 5.00% | ~710 |
@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.40% | ~57 |
 | Ancient | 0.40% | ~57 |
 | Glorious Difficulty | 0.40% | ~57 |
+| Run, Pheidippides, Run! | 0.40% | ~57 |
 | Hatti | 0.40% | ~57 |
 | Pantheon of Gods | 0.40% | ~57 |
 | Apadana in Parsa | 0.40% | ~57 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.30% | ~43 |
 | Magnificent Difficulty | 0.30% | ~43 |
 | Event Level High | 0.30% | ~43 |
-| Run, Pheidippides, Run! | 0.30% | ~43 |
 | Nenikekamen | 0.30% | ~43 |
 | Macedonian Wars | 0.30% | ~43 |
 | Assyria | 0.30% | ~43 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,207 (Ranked 133)  
-Completed: 5 (0.04%) (Ranked 264)  
+Progressed: 14,210 (Ranked 133)  
+Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -466,6 +466,7 @@ Completed: 5 (0.04%) (Ranked 264)
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
+| 2023-09-30 | 14,210 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

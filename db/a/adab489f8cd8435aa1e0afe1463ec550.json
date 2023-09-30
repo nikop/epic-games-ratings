@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -199,9 +199,9 @@
       "ID": "23",
       "SetID": "6hl9l7f",
       "Name": "Megashield",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "24",
@@ -414,8 +414,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:04:57.8186382+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:04:14.2046129+00:00",
   "LastUpdate_AppInfo": "2023-09-24T11:56:55.8026349+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:02:13.4293925+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:04:57.8186663+00:00"
+  "LastUpdate_Ratings": "2023-09-30T00:00:24.2530645+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:04:14.2046473+00:00"
 }

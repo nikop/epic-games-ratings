@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3824,9 +3824,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11437,
+  "EOS_Progressed": 11438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13024,6 +13024,11 @@
       "Time": "2023-09-29T21:03:53.271851+00:00",
       "NumProgressed": 11437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T00:03:49.1923545+00:00",
+      "NumProgressed": 11438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13035,7 +13040,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "02_BurningCity",
@@ -13107,7 +13112,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "11_PathOfAeon",
@@ -13147,7 +13152,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "16_PathOfLegend",
@@ -13219,7 +13224,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "25_MasterfulDispell",
@@ -13235,7 +13240,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "28_GreatUpstart",
@@ -13267,7 +13272,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "32_MythicReinforcements",
@@ -13275,7 +13280,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "33_DefendersHeart",
@@ -13411,7 +13416,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -13467,7 +13472,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "57_PathOfDevil",
@@ -13962,21 +13967,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10219,
+      "Progressed": 10220,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11437,
+      "Progressed": 11438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-29T19:57:54.7769864+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:04:24.9194688+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:03:49.192354+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:23.5977189+00:00",
-  "LastUpdate_Ratings": "2023-09-29T22:58:27.4368796+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:04:24.9196492+00:00"
+  "LastUpdate_Ratings": "2023-09-29T23:57:59.8808433+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:03:49.1925749+00:00"
 }

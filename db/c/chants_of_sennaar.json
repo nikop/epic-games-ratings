@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.11,
+  "EOS_Completed_Percentage": 6.09,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1079,6 +1079,11 @@
       "Time": "2023-09-29T17:08:28.1440395+00:00",
       "NumProgressed": 229,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-30T00:08:36.9887615+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 25,
@@ -1104,9 +1109,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1120,9 +1125,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "META_HALF_LINK",
@@ -1130,7 +1135,7 @@
       "Name": "Half the way",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1210,7 +1215,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1218,7 +1223,7 @@
       "Name": "Fashion victim",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1234,7 +1239,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1250,15 +1255,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "PROGRESS_N3",
@@ -1266,15 +1271,15 @@
       "Name": "A new dawn",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "PROGRESS_N5",
@@ -1282,21 +1287,21 @@
       "Name": "One last step",
       "Percentage": 36,
       "XP": 80,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:09:19.2355868+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:08:36.9887612+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:27.7792148+00:00",
-  "LastUpdate_Ratings": "2023-09-29T22:59:38.6666625+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:09:19.2356049+00:00"
+  "LastUpdate_Ratings": "2023-09-29T23:58:53.615366+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:08:36.9887832+00:00"
 }

@@ -6,60 +6,60 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~63,648 |
-| Skillful | 7.00% | ~63,648 |
-| Zealous | 6.00% | ~54,555 |
-| Make Some Noise | 6.00% | ~54,555 |
-| Not half bad | 5.00% | ~45,463 |
-| Apt Survivor | 5.00% | ~45,463 |
-| Survival Treasures | 5.00% | ~45,463 |
-| The Grand Sacrifice | 4.00% | ~36,370 |
-| No one left behind | 4.00% | ~36,370 |
-| Medic | 4.00% | ~36,370 |
-| Handyman | 4.00% | ~36,370 |
-| Nerves of steel | 4.00% | ~36,370 |
-| Bloody Millionaire | 4.00% | ~36,370 |
-| I | 4.00% | ~36,370 |
-| Sorted | 4.00% | ~36,370 |
-| Resurgence | 4.00% | ~36,370 |
-| Agonizing Escape | 3.00% | ~27,278 |
-| Backdoor Escape | 3.00% | ~27,278 |
-| I've got your back | 3.00% | ~27,278 |
-| Perfect Escape | 3.00% | ~27,278 |
-| Perfect Killing | 3.00% | ~27,278 |
-| Apt Killer | 3.00% | ~27,278 |
-| Risk it all | 3.00% | ~27,278 |
-| II | 3.00% | ~27,278 |
-| Engineer | 3.00% | ~27,278 |
-| Healthy Obsession | 3.00% | ~27,278 |
-| Close Shave | 3.00% | ~27,278 |
-| Preemptive Strike | 3.00% | ~27,278 |
-| Humanitarian | 3.00% | ~27,278 |
-| MU/TH/UR Dearest | 3.00% | ~27,278 |
-| Blood on your hands | 2.00% | ~18,185 |
-| Made it out alive! | 2.00% | ~18,185 |
-| Vulture | 2.00% | ~18,185 |
-| III | 2.00% | ~18,185 |
-| III-50 | 2.00% | ~18,185 |
-| Item of Obsession | 2.00% | ~18,185 |
-| Holiday Get-Together | 2.00% | ~18,185 |
-| Near-Death Experience | 2.00% | ~18,185 |
-| Cherish your Life | 2.00% | ~18,185 |
-| Unforgettable Getaway | 2.00% | ~18,185 |
-| Wounded Healer | 2.00% | ~18,185 |
-| First to the Punch | 2.00% | ~18,185 |
-| Operation: Survival | 2.00% | ~18,185 |
-| Old West Oasis | 2.00% | ~18,185 |
-| Classy Act | 2.00% | ~18,185 |
-| Every Last Drop | 2.00% | ~18,185 |
-| Raccoon City Recruit | 2.00% | ~18,185 |
-| With Scars to Show | 2.00% | ~18,185 |
-| Flight to Freedom | 2.00% | ~18,185 |
-| A Fast Death | 2.00% | ~18,185 |
-| Lifting The Fog | 2.00% | ~18,185 |
-| Chorus of Chaos | 2.00% | ~18,185 |
-| One More Step | 2.00% | ~18,185 |
-| Second Act | 2.00% | ~18,185 |
+| It wakes | 7.00% | ~63,652 |
+| Skillful | 7.00% | ~63,652 |
+| Zealous | 6.00% | ~54,559 |
+| Make Some Noise | 6.00% | ~54,559 |
+| Not half bad | 5.00% | ~45,466 |
+| Apt Survivor | 5.00% | ~45,466 |
+| Survival Treasures | 5.00% | ~45,466 |
+| The Grand Sacrifice | 4.00% | ~36,373 |
+| No one left behind | 4.00% | ~36,373 |
+| Medic | 4.00% | ~36,373 |
+| Handyman | 4.00% | ~36,373 |
+| Nerves of steel | 4.00% | ~36,373 |
+| Bloody Millionaire | 4.00% | ~36,373 |
+| I | 4.00% | ~36,373 |
+| Sorted | 4.00% | ~36,373 |
+| Resurgence | 4.00% | ~36,373 |
+| Agonizing Escape | 3.00% | ~27,280 |
+| Backdoor Escape | 3.00% | ~27,280 |
+| I've got your back | 3.00% | ~27,280 |
+| Perfect Escape | 3.00% | ~27,280 |
+| Perfect Killing | 3.00% | ~27,280 |
+| Apt Killer | 3.00% | ~27,280 |
+| Risk it all | 3.00% | ~27,280 |
+| II | 3.00% | ~27,280 |
+| Engineer | 3.00% | ~27,280 |
+| Healthy Obsession | 3.00% | ~27,280 |
+| Close Shave | 3.00% | ~27,280 |
+| Preemptive Strike | 3.00% | ~27,280 |
+| Humanitarian | 3.00% | ~27,280 |
+| MU/TH/UR Dearest | 3.00% | ~27,280 |
+| Blood on your hands | 2.00% | ~18,186 |
+| Made it out alive! | 2.00% | ~18,186 |
+| Vulture | 2.00% | ~18,186 |
+| III | 2.00% | ~18,186 |
+| III-50 | 2.00% | ~18,186 |
+| Item of Obsession | 2.00% | ~18,186 |
+| Holiday Get-Together | 2.00% | ~18,186 |
+| Near-Death Experience | 2.00% | ~18,186 |
+| Cherish your Life | 2.00% | ~18,186 |
+| Unforgettable Getaway | 2.00% | ~18,186 |
+| Wounded Healer | 2.00% | ~18,186 |
+| First to the Punch | 2.00% | ~18,186 |
+| Operation: Survival | 2.00% | ~18,186 |
+| Old West Oasis | 2.00% | ~18,186 |
+| Classy Act | 2.00% | ~18,186 |
+| Every Last Drop | 2.00% | ~18,186 |
+| Raccoon City Recruit | 2.00% | ~18,186 |
+| With Scars to Show | 2.00% | ~18,186 |
+| Flight to Freedom | 2.00% | ~18,186 |
+| A Fast Death | 2.00% | ~18,186 |
+| Lifting The Fog | 2.00% | ~18,186 |
+| Chorus of Chaos | 2.00% | ~18,186 |
+| One More Step | 2.00% | ~18,186 |
+| Second Act | 2.00% | ~18,186 |
 | A bite for the Entity | 1.00% | ~9,093 |
 | Blood on your face | 1.00% | ~9,093 |
 | Jump Scares | 1.00% | ~9,093 |
@@ -87,15 +87,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 1.00% | ~9,093 |
 | Terror of LV-426 | 1.00% | ~9,093 |
 | Kitted Out | 1.00% | ~9,093 |
-| Deep Cleansing | 0.90% | ~8,183 |
-| Texas BBQ | 0.90% | ~8,183 |
-| Shrine Apparatus | 0.90% | ~8,183 |
-| Broken Bodies | 0.90% | ~8,183 |
-| Insult and Injury | 0.90% | ~8,183 |
-| Rebuilding The Borgo | 0.90% | ~8,183 |
-| Party Crasher | 0.80% | ~7,274 |
-| Outrage | 0.80% | ~7,274 |
-| Hack the Mainframe | 0.80% | ~7,274 |
+| Deep Cleansing | 0.90% | ~8,184 |
+| Texas BBQ | 0.90% | ~8,184 |
+| Shrine Apparatus | 0.90% | ~8,184 |
+| Broken Bodies | 0.90% | ~8,184 |
+| Insult and Injury | 0.90% | ~8,184 |
+| Rebuilding The Borgo | 0.90% | ~8,184 |
+| Party Crasher | 0.80% | ~7,275 |
+| Outrage | 0.80% | ~7,275 |
+| Hack the Mainframe | 0.80% | ~7,275 |
 | Whiffing to Success | 0.70% | ~6,365 |
 | Heavy Burden | 0.70% | ~6,365 |
 | I See You | 0.70% | ~6,365 |
@@ -106,7 +106,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood in your mouth | 0.60% | ~5,456 |
 | Looter | 0.60% | ~5,456 |
 | Power Moves | 0.60% | ~5,456 |
-| Death of Ignorance | 0.50% | ~4,546 |
+| Death of Ignorance | 0.50% | ~4,547 |
 | In the void she walks | 0.40% | ~3,637 |
 | Mad House | 0.40% | ~3,637 |
 | Happy Holidays | 0.40% | ~3,637 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~909 |
 | Adept Ripley | 0.10% | ~909 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909,253 (Ranked 14)  
+Progressed: 909,320 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,6 +399,7 @@ Completed: 49 (0.01%) (Ranked 283)
 | 2023-09-27 | 905,769 | 49 |
 | 2023-09-28 | 907,334 | 49 |
 | 2023-09-29 | 909,253 | 49 |
+| 2023-09-30 | 909,320 | 49 |
 ## Awards
 Max (Diverse Characters): 33,225  (Ranked 15)  
 Sum: 257,939 (Ranked 11)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3210,10 +3210,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4622,
       "NumberOfAwardsMax": 2768
+    },
+    {
+      "Time": "2023-09-29T23:59:01.1415506+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4624,
+      "NumberOfAwardsMax": 2768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4622,
+  "NumberOfAwards": 4624,
   "NumberOfAwardsMax": 2768,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3233,7 +3239,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 227
+      "Count": 229
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3278,10 +3284,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72961,
+  "EOS_Progressed": 72962,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 224,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -17078,6 +17084,11 @@
       "Time": "2023-09-29T22:03:15.2330676+00:00",
       "NumProgressed": 72961,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-30T00:03:05.1978942+00:00",
+      "NumProgressed": 72962,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 61,
@@ -17185,7 +17196,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12403
+      "UsersEstimate": 12404
     },
     {
       "ID": "CLAYFACE_1",
@@ -17273,7 +17284,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -17393,7 +17404,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25536
+      "UsersEstimate": 25537
     },
     {
       "ID": "HARLEY_2",
@@ -17553,7 +17564,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -17576,22 +17587,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72961,
+      "Progressed": 72962,
       "Completed": 118
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43241,
+      "Progressed": 43242,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-29T16:58:54.3103099+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:03:26.7559169+00:00",
+  "LastChanged": "2023-09-29T23:59:01.1415505+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:03:05.1978934+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-29T22:59:49.1330748+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:03:26.7560264+00:00"
+  "LastUpdate_Ratings": "2023-09-29T23:59:01.1415513+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:03:05.1980399+00:00"
 }

@@ -13,14 +13,14 @@
 | Endless Tricks | 69.00% | ~18 |
 | Mind Illuminator | 54.00% | ~14 |
 | Stellar Dismantler | 42.00% | ~11 |
+| Star Killer | 31.00% | ~8 |
 | Unbeatable | 31.00% | ~8 |
-| Star Killer | 27.00% | ~7 |
+| Astral Adventurer | 23.00% | ~6 |
 | Loyal Partner | 23.00% | ~6 |
 | Sentinelphobic | 23.00% | ~6 |
 | Stellar Haste | 23.00% | ~6 |
 | The Corruption Goddess | 23.00% | ~6 |
 | Anomaly Destroyer | 19.00% | ~5 |
-| Astral Adventurer | 19.00% | ~5 |
 | Sadistic Plan | 19.00% | ~5 |
 | Skeptical | 19.00% | ~5 |
 | Dice Specialist | 15.00% | ~4 |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 7,
-  "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1542720,
+  "EOS_Progressed": 1542724,
   "EOS_Completed": 696,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -18759,6 +18759,11 @@
       "Time": "2023-09-29T23:08:24.894222+00:00",
       "NumProgressed": 1542720,
       "NumCompleted": 696
+    },
+    {
+      "Time": "2023-09-30T00:08:18.6904887+00:00",
+      "NumProgressed": 1542724,
+      "NumCompleted": 696
     }
   ],
   "TotalAchievements": 20,
@@ -18778,7 +18783,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107990
+      "UsersEstimate": 107991
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -18890,7 +18895,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13884
+      "UsersEstimate": 13885
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -18929,15 +18934,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1542720,
+      "Progressed": 1542724,
       "Completed": 696
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:08:24.8942215+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:08:18.6904882+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:50.8511247+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:01:00.1324788+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:08:24.8943168+00:00"
+  "LastUpdate_Ratings": "2023-09-29T23:59:52.6192516+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:08:18.6906189+00:00"
 }

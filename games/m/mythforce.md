@@ -6,23 +6,23 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~721 |
-| Debuff Dogpile | 20.00% | ~686 |
-| Hit 'Em Where It Hurts | 20.00% | ~686 |
-| Perk Shard Punch Card | 20.00% | ~686 |
-| That'll Leave a Mark | 20.00% | ~686 |
-| Mushroom Madness! | 18.00% | ~618 |
-| First Strike | 15.00% | ~515 |
-| Horder Better Faster Stronger | 15.00% | ~515 |
-| Spending Spree | 15.00% | ~515 |
-| Everything Must Go! | 12.00% | ~412 |
-| Ten Steps from the Grave | 12.00% | ~412 |
+| Faceroll the Bones | 21.00% | ~722 |
+| Debuff Dogpile | 20.00% | ~688 |
+| Hit 'Em Where It Hurts | 20.00% | ~688 |
+| Perk Shard Punch Card | 20.00% | ~688 |
+| That'll Leave a Mark | 20.00% | ~688 |
+| Mushroom Madness! | 18.00% | ~619 |
+| First Strike | 15.00% | ~516 |
+| Horder Better Faster Stronger | 15.00% | ~516 |
+| Spending Spree | 15.00% | ~516 |
+| Everything Must Go! | 12.00% | ~413 |
+| Ten Steps from the Grave | 12.00% | ~413 |
 | Next Time on MythForce... | 11.00% | ~378 |
 | Cold-Blooded Critters | 9.00% | ~309 |
-| Death Becomes You | 7.00% | ~240 |
+| Death Becomes You | 7.00% | ~241 |
 | Flawless Victory | 6.00% | ~206 |
 | The Harder They Fall | 5.00% | ~172 |
-| On this Episode! | 4.00% | ~137 |
+| On this Episode! | 4.00% | ~138 |
 | Deadication | 3.00% | ~103 |
 | Season Finale | 3.00% | ~103 |
 | We've Got a Kaiju on the Field | 2.00% | ~69 |
@@ -30,8 +30,8 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~14 |
 | Deadalus and Loving It | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,432 (Ranked 182)  
-Completed: 1 (0.03%) (Ranked 271)  
+Progressed: 3,438 (Ranked 181)  
+Completed: 2 (0.06%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,6 +107,7 @@ Completed: 1 (0.03%) (Ranked 271)
 | 2023-09-27 | 3,281 | 1 |
 | 2023-09-28 | 3,340 | 1 |
 | 2023-09-29 | 3,432 | 1 |
+| 2023-09-30 | 3,438 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 457)  
 Sum: 278 (Ranked 354)  

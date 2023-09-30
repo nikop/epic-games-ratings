@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13208,
+  "EOS_Progressed": 13209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1417,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7105,6 +7105,11 @@
       "Time": "2023-09-29T23:03:55.6993103+00:00",
       "NumProgressed": 13208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T00:03:26.9978961+00:00",
+      "NumProgressed": 13209,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7165,7 +7170,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "16",
@@ -7195,9 +7200,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3831
     },
     {
       "ID": "2",
@@ -7243,9 +7248,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 925
+      "UsersEstimate": 1057
     },
     {
       "ID": "25",
@@ -7293,7 +7298,7 @@
       "Name": "Captain Drummer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3963
     },
     {
       "ID": "30",
@@ -7325,7 +7330,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "7",
@@ -7341,7 +7346,7 @@
       "Name": "Data Recoverer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "9",
@@ -7356,7 +7361,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13208,
+      "Progressed": 13209,
       "Completed": 0
     }
   ],
@@ -7364,8 +7369,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:03:55.6993097+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:03:26.9978954+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-29T22:58:09.1475795+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:03:55.6993607+00:00"
+  "LastUpdate_Ratings": "2023-09-29T23:57:46.6274534+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:03:26.9979629+00:00"
 }

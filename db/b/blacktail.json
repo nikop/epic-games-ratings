@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1900,6 +1900,11 @@
       "Time": "2023-09-29T10:08:23.8097152+00:00",
       "NumProgressed": 692,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T00:06:25.7134841+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1935,7 +1940,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "DevilDetail",
@@ -1999,7 +2004,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "GossipGirl",
@@ -2166,7 +2171,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 1
     }
   ],
@@ -2174,8 +2179,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:07:53.6661284+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:06:25.7134836+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.2653513+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:02:26.7475054+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:07:53.6661552+00:00"
+  "LastUpdate_Ratings": "2023-09-30T00:00:33.1545778+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:06:25.7135158+00:00"
 }

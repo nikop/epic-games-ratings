@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3661,
+  "EOS_Progressed": 3663,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3989,6 +3989,11 @@
       "Time": "2023-09-29T08:05:05.7758738+00:00",
       "NumProgressed": 3661,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-30T00:04:50.7059007+00:00",
+      "NumProgressed": 3663,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4048,7 +4053,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "campaign10",
@@ -4064,7 +4069,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "campaign12",
@@ -4120,7 +4125,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "campaign19",
@@ -4136,7 +4141,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2821
     },
     {
       "ID": "campaign20",
@@ -4152,7 +4157,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "campaign4",
@@ -4160,7 +4165,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "campaign5",
@@ -4192,7 +4197,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "campaign9",
@@ -4208,7 +4213,7 @@
       "Name": "Do the Splits",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "scenario2",
@@ -4240,7 +4245,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "scenario6",
@@ -4248,7 +4253,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "scenario7",
@@ -4263,7 +4268,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3661,
+      "Progressed": 3663,
       "Completed": 11
     }
   ],
@@ -4271,8 +4276,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:05:46.3529488+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:04:50.7059002+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.8597364+00:00",
-  "LastUpdate_Ratings": "2023-09-29T23:01:31.5254793+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:05:46.3529869+00:00"
+  "LastUpdate_Ratings": "2023-09-30T00:00:15.7858079+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:04:50.7059507+00:00"
 }

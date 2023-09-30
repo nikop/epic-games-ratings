@@ -12,9 +12,9 @@ Number of Ratings: 398  (23.09.2022)
 | Trade Is My Trait | 37.00% | ~1,997 |
 | Number 18 | 24.00% | ~1,295 |
 | We Don't Have Time For That | 19.00% | ~1,025 |
+| The Legend of Langostino | 17.00% | ~917 |
 | The Governator | 17.00% | ~917 |
 | Caribbean Comrade | 16.00% | ~864 |
-| The Legend of Langostino | 16.00% | ~864 |
 | The Dreamer of Dreams | 15.00% | ~810 |
 | Go Sovereigns! | 11.00% | ~594 |
 | For Science! | 11.00% | ~594 |
@@ -48,7 +48,7 @@ Number of Ratings: 398  (23.09.2022)
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,397 (Ranked 165)  
-Completed: 2 (0.04%) (Ranked 264)  
+Completed: 2 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

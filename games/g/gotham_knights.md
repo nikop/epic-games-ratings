@@ -6,7 +6,7 @@ Rating: 4.18 (Ranked 896)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,940 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,536 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,537 |
 | Loose Ends | 34.00% | ~24,807 |
 | To the Victor Go the Spoils | 29.00% | ~21,159 |
 | Knighthood | 28.00% | ~20,429 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 896)
 | Snow Problem | 19.00% | ~13,863 |
 | The Show Mud Go On | 18.00% | ~13,133 |
 | From Inside Gotham's Walls | 18.00% | ~13,133 |
-| Protector of Gotham | 17.00% | ~12,403 |
+| Protector of Gotham | 17.00% | ~12,404 |
 | Universal Health Scare | 16.00% | ~11,674 |
 | In Your Element | 15.00% | ~10,944 |
 | Voiceless | 15.00% | ~10,944 |
@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 896)
 | Gotham Knight | 12.00% | ~8,755 |
 | Gotham City Confidential | 11.00% | ~8,026 |
 | Drone You Out | 10.00% | ~7,296 |
-| Out of Their League | 9.00% | ~6,566 |
-| Solid Alibi | 9.00% | ~6,566 |
+| Out of Their League | 9.00% | ~6,567 |
+| Solid Alibi | 9.00% | ~6,567 |
 | Fusion Expert | 7.00% | ~5,107 |
 | Family Meeting | 6.00% | ~4,378 |
 | A Worthy Successor | 6.00% | ~4,378 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 896)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,961 (Ranked 85)  
+Progressed: 72,962 (Ranked 85)  
 Completed: 118 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,9 +230,10 @@ Completed: 118 (0.16%) (Ranked 221)
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
 | 2023-09-29 | 72,961 | 118 |
+| 2023-09-30 | 72,962 | 118 |
 ## Awards
 Max (Great Boss Battles): 2,768  (Ranked 96)  
-Sum: 4,622 (Ranked 140)  
+Sum: 4,624 (Ranked 140)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -241,9 +242,9 @@ Diff (max vs sum): -44
 | This game is Relaxing | 237 |
 | This game is Extremely Fun | 236 |
 | This game has Diverse Characters | 234 |
+| This game has Amazing Characters | 229 |
 | This game is Highly Recommended | 229 |
 | This game has Amazing Storytelling | 228 |
-| This game has Amazing Characters | 227 |
 | This game is Great for Beginners | 226 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -465,4 +466,4 @@ Diff (max vs sum): -44
 | 2023-09-26 | 4.18 | 2,755 | 4,589 |
 | 2023-09-27 | 4.18 | 2,761 | 4,602 |
 | 2023-09-28 | 4.19 | 2,761 | 4,605 |
-| 2023-09-29 | 4.18 | 2,768 | 4,622 |
+| 2023-09-29 | 4.18 | 2,768 | 4,624 |

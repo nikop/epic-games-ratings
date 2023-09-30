@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -700,9 +700,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -796,9 +796,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-29T23:06:11.6005712+00:00",
+  "LastChanged_Achievements": "2023-09-30T00:05:09.5698961+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-09-29T22:57:39.5399288+00:00",
-  "LastUpdate_Achievements": "2023-09-29T23:06:11.6005864+00:00"
+  "LastUpdate_Ratings": "2023-09-29T23:57:25.621787+00:00",
+  "LastUpdate_Achievements": "2023-09-30T00:05:09.5699135+00:00"
 }

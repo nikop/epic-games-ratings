@@ -6,29 +6,29 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~21,869 |
-| The Evilest Evil | 58.00% | ~18,383 |
-| Twistram is devastated | 57.00% | ~18,066 |
-| The Gehenna Stones | 49.00% | ~15,530 |
-| No one has to die today! | 46.00% | ~14,579 |
-| Death and destruction! | 45.00% | ~14,262 |
-| The Swamplanders from the swamplands | 43.00% | ~13,628 |
+| The Shadow strikes | 69.00% | ~21,870 |
+| The Evilest Evil | 58.00% | ~18,384 |
+| Twistram is devastated | 57.00% | ~18,067 |
+| The Gehenna Stones | 49.00% | ~15,531 |
+| No one has to die today! | 46.00% | ~14,580 |
+| Death and destruction! | 45.00% | ~14,263 |
+| The Swamplanders from the swamplands | 43.00% | ~13,629 |
 | Rusty Steel | 41.00% | ~12,995 |
 | The One-Huge-Army-Building Evil | 40.00% | ~12,678 |
-| The last burger | 37.00% | ~11,727 |
-| Braiiiiins! | 37.00% | ~11,727 |
-| Hands off the Dungeonheart! | 36.00% | ~11,410 |
-| A trip on sea, what fun it can be | 34.00% | ~10,776 |
-| Damned good | 33.00% | ~10,459 |
-| Stock Market Crash | 31.00% | ~9,825 |
-| Factory farming | 31.00% | ~9,825 |
-| Not-So-Overproud | 30.00% | ~9,508 |
-| For a handfull of Catapults | 29.00% | ~9,191 |
-| Shadow hunter | 29.00% | ~9,191 |
-| Ogre Solo! | 28.00% | ~8,874 |
-| Thirst quencher | 27.00% | ~8,557 |
-| Destroy the thing | 26.00% | ~8,240 |
-| Tide Master | 26.00% | ~8,240 |
+| The last burger | 37.00% | ~11,728 |
+| Braiiiiins! | 37.00% | ~11,728 |
+| Hands off the Dungeonheart! | 36.00% | ~11,411 |
+| A trip on sea, what fun it can be | 34.00% | ~10,777 |
+| Damned good | 33.00% | ~10,460 |
+| Stock Market Crash | 31.00% | ~9,826 |
+| Factory farming | 31.00% | ~9,826 |
+| Not-So-Overproud | 30.00% | ~9,509 |
+| For a handfull of Catapults | 29.00% | ~9,192 |
+| Shadow hunter | 29.00% | ~9,192 |
+| Ogre Solo! | 28.00% | ~8,875 |
+| Thirst quencher | 27.00% | ~8,558 |
+| Destroy the thing | 26.00% | ~8,241 |
+| Tide Master | 26.00% | ~8,241 |
 | Difficult family relationships | 25.00% | ~7,924 |
 | MASS-O-BOT | 24.00% | ~7,607 |
 | Prepare the grave | 24.00% | ~7,607 |
@@ -43,12 +43,12 @@ Number of Ratings: 1,635  (23.09.2022)
 | Flat as a pancake | 17.00% | ~5,388 |
 | Lifeguard | 17.00% | ~5,388 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,754 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~3,803 |
-| Then let them eat cake! | 12.00% | ~3,803 |
-| The White Knight | 10.00% | ~3,169 |
-| Please, no interruptions! | 10.00% | ~3,169 |
-| Use the terrain | 9.00% | ~2,852 |
-| Prison Break | 9.00% | ~2,852 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~3,804 |
+| Then let them eat cake! | 12.00% | ~3,804 |
+| The White Knight | 10.00% | ~3,170 |
+| Please, no interruptions! | 10.00% | ~3,170 |
+| Use the terrain | 9.00% | ~2,853 |
+| Prison Break | 9.00% | ~2,853 |
 | Hearts of Iron | 8.00% | ~2,536 |
 | Master of Traps | 8.00% | ~2,536 |
 | Ignore The Level Designer’s Plan | 8.00% | ~2,536 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~634 |
 | Sacrifices! | 2.00% | ~634 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,694 (Ranked 110)  
-Completed: 260 (0.82%) (Ranked 143)  
+Progressed: 31,696 (Ranked 110)  
+Completed: 261 (0.82%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,14 +230,15 @@ Completed: 260 (0.82%) (Ranked 143)
 | 2023-09-27 | 31,503 | 260 |
 | 2023-09-28 | 31,584 | 260 |
 | 2023-09-29 | 31,694 | 260 |
+| 2023-09-30 | 31,696 | 261 |
 ## Awards
 Max (Great for Beginners): 355  (Ranked 229)  
-Sum: 2,657 (Ranked 175)  
+Sum: 2,658 (Ranked 175)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 355 |
-| This game is Extremely Fun | 316 |
+| This game is Extremely Fun | 317 |
 | This game has Quickly Understood Controls | 304 |
 | This game has Amazing Storytelling | 295 |
 | This game is Highly Recommended | 293 |
@@ -430,4 +431,4 @@ Diff (max vs sum): 54
 | 2023-09-25 | 4.66 | - | 353 | 2,654 |
 | 2023-09-26 | 4.66 | - | 354 | 2,655 |
 | 2023-09-28 | 4.66 | - | 354 | 2,656 |
-| 2023-09-29 | 4.66 | - | 355 | 2,657 |
+| 2023-09-29 | 4.66 | - | 355 | 2,658 |
