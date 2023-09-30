@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -982,9 +982,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2982,
+  "EOS_Progressed": 2983,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5127,6 +5127,11 @@
       "Time": "2023-09-30T07:05:40.6193822+00:00",
       "NumProgressed": 2982,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T18:05:42.9665823+00:00",
+      "NumProgressed": 2983,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5138,7 +5143,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_BING-BONG",
@@ -5514,22 +5519,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2982,
+      "Progressed": 2983,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-28T17:59:28.29898+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:05:40.6800909+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:05:42.9665818+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.4747001+00:00",
-  "LastUpdate_Ratings": "2023-09-30T17:00:05.5827887+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:05:40.6802298+00:00"
+  "LastUpdate_Ratings": "2023-09-30T18:00:01.8843938+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:05:42.9666481+00:00"
 }

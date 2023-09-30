@@ -6,8 +6,8 @@
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -2778,9 +2778,9 @@
       "ID": "ID_ACHIEV_17",
       "SetID": "98bke8c",
       "Name": "Sunglasses at Night",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 329
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -3194,8 +3194,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:06:30.9108541+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:06:28.3642195+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.432911+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:58:48.5178644+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:06:30.9109462+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:58:49.9883557+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:06:28.3643067+00:00"
 }

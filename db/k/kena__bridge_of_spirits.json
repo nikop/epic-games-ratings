@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1328,7 +1328,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428237,
+  "EOS_Progressed": 428238,
   "EOS_Completed": 534,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
@@ -12308,6 +12308,11 @@
       "Time": "2023-09-30T17:05:44.9978532+00:00",
       "NumProgressed": 428237,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2023-09-30T18:05:46.437906+00:00",
+      "NumProgressed": 428238,
+      "NumCompleted": 534
     }
   ],
   "TotalAchievements": 41,
@@ -12327,7 +12332,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167012
+      "UsersEstimate": 167013
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -12335,7 +12340,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256942
+      "UsersEstimate": 256943
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -12351,7 +12356,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107059
+      "UsersEstimate": 107060
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -12399,7 +12404,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256942
+      "UsersEstimate": 256943
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -12431,7 +12436,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132753
+      "UsersEstimate": 132754
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -12455,7 +12460,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201271
+      "UsersEstimate": 201272
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -12479,7 +12484,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17129
+      "UsersEstimate": 17130
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -12487,7 +12492,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406825
+      "UsersEstimate": 406826
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12495,7 +12500,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17129
+      "UsersEstimate": 17130
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -12575,7 +12580,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141318
+      "UsersEstimate": 141319
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -12631,7 +12636,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132753
+      "UsersEstimate": 132754
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -12639,22 +12644,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17129
+      "UsersEstimate": 17130
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428237,
+      "Progressed": 428238,
       "Completed": 534
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-30T01:38:57.1543788+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:05:44.9978515+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:05:46.4379055+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:38.1163954+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:59:51.4286269+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:05:44.9979532+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:59:48.0004736+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:05:46.4380046+00:00"
 }

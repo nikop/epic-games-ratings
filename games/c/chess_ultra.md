@@ -1,30 +1,30 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.30 (Ranked 809)  
+Rating: 4.30 (Ranked 810)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~147,060 |
-| Doubled Pawn | 56.00% | ~117,648 |
-| Check | 55.00% | ~115,547 |
-| Absolute pin | 47.00% | ~98,740 |
-| Promotion | 31.00% | ~65,126 |
-| Checkmate | 30.00% | ~63,026 |
-| O-O | 24.00% | ~50,420 |
-| Spanish Bishop | 21.00% | ~44,118 |
-| Queen Sacrifice | 20.00% | ~42,017 |
-| Stalemate | 18.00% | ~37,815 |
-| O-O-O | 13.00% | ~27,311 |
-| Octopus | 13.00% | ~27,311 |
-| Stranger Danger | 12.00% | ~25,210 |
-| En Passant | 9.00% | ~18,908 |
-| Double Check | 7.00% | ~14,706 |
-| Piece Collector | 6.00% | ~12,605 |
-| ELO | 5.00% | ~10,504 |
-| Family Fork | 5.00% | ~10,504 |
-| Friendly Fire | 5.00% | ~10,504 |
-| Underpromote | 4.00% | ~8,403 |
+| Chop Wood | 70.00% | ~147,072 |
+| Doubled Pawn | 56.00% | ~117,658 |
+| Check | 55.00% | ~115,557 |
+| Absolute pin | 47.00% | ~98,748 |
+| Promotion | 31.00% | ~65,132 |
+| Checkmate | 30.00% | ~63,031 |
+| O-O | 24.00% | ~50,425 |
+| Spanish Bishop | 21.00% | ~44,122 |
+| Queen Sacrifice | 20.00% | ~42,021 |
+| Stalemate | 18.00% | ~37,819 |
+| O-O-O | 13.00% | ~27,313 |
+| Octopus | 13.00% | ~27,313 |
+| Stranger Danger | 12.00% | ~25,212 |
+| En Passant | 9.00% | ~18,909 |
+| Double Check | 7.00% | ~14,707 |
+| Piece Collector | 6.00% | ~12,606 |
+| ELO | 5.00% | ~10,505 |
+| Family Fork | 5.00% | ~10,505 |
+| Friendly Fire | 5.00% | ~10,505 |
+| Underpromote | 4.00% | ~8,404 |
 | ELO ELO | 3.00% | ~6,303 |
 | Blind Pigs | 2.00% | ~4,202 |
 | ELO ELO ELO | 2.00% | ~4,202 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 809)
 | Tournament Master | 0.10% | ~210 |
 | Tournament Pro | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,085 (Ranked 61)  
+Progressed: 210,103 (Ranked 61)  
 Completed: 2 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 2 (0.00%) (Ranked 300)
 | 2023-09-27 | 209,570 | 2 |
 | 2023-09-28 | 209,723 | 2 |
 | 2023-09-29 | 209,911 | 2 |
-| 2023-09-30 | 210,085 | 2 |
+| 2023-09-30 | 210,103 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

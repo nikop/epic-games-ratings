@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1481,6 +1481,11 @@
       "Time": "2023-09-29T00:07:37.0532379+00:00",
       "NumProgressed": 337,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T18:03:26.8880078+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1572,7 +1577,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1603,14 +1608,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:03:16.5112685+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:03:26.8880073+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:58.5619697+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:57:14.8199236+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:03:16.5112883+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:57:25.4381378+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:03:26.8880271+00:00"
 }

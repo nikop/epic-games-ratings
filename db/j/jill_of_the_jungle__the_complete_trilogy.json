@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1797,
+  "EOS_Progressed": 1798,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 7.74,
+  "EOS_Completed_Percentage": 7.73,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -6304,6 +6304,11 @@
       "Time": "2023-09-30T15:04:53.0069192+00:00",
       "NumProgressed": 1797,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-09-30T18:04:46.4988031+00:00",
+      "NumProgressed": 1798,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 5,
@@ -6315,7 +6320,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "2",
@@ -6354,7 +6359,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1797,
+      "Progressed": 1798,
       "Completed": 139
     }
   ],
@@ -6362,8 +6367,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:04:41.072662+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:04:46.4988026+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.9967423+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:57:56.9135062+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:04:41.0727709+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:58:03.8869742+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:04:46.498848+00:00"
 }

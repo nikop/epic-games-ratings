@@ -38,11 +38,11 @@ Number of Ratings: 62  (23.09.2022)
 | Pusher Man | 8.00% | ~376 |
 | Squad Chief Helvig | 8.00% | ~376 |
 | No More Marching | 8.00% | ~376 |
+| Sunglasses at Night | 7.00% | ~329 |
 | Duty-Bound | 7.00% | ~329 |
 | Follow the White Rabbit | 7.00% | ~329 |
 | Liberation | 7.00% | ~329 |
 | Risk Assessment | 7.00% | ~329 |
-| Sunglasses at Night | 6.00% | ~282 |
 | Carbon Cat | 6.00% | ~282 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~235 |
 | Man of Steel | 5.00% | ~235 |
@@ -75,7 +75,7 @@ Number of Ratings: 62  (23.09.2022)
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,704 (Ranked 171)  
-Completed: 16 (0.34%) (Ranked 188)  
+Completed: 16 (0.34%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

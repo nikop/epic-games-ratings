@@ -2,12 +2,12 @@
   "ID": "be67e141378446cf9399b3db1a22ceb3",
   "Name": "Tharsis",
   "ProductSlug": "tharsis",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-16T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.04,
+  "Rating": 4.05,
   "NumberOfRatings": 55,
   "RatingHistory": [
     {
@@ -281,6 +281,12 @@
       "Rating": 4.04,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-30T17:59:00.9826193+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -298,8 +304,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:00.6251674+00:00",
-  "LastChanged": "2023-09-10T15:59:56.2139572+00:00",
+  "LastChanged": "2023-09-30T17:59:00.9826191+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.2045749+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:59:00.3311278+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:08:25.2264402+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:59:00.9826196+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:08:28.1346984+00:00"
 }

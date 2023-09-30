@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -232,7 +232,7 @@
   "Tags": [],
   "EOS_Progressed": 1968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5345,9 +5345,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 827
     },
     {
       "ID": "A43",
@@ -5458,8 +5458,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-28T13:58:27.851753+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:04:07.9314606+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:04:14.6488811+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.4771613+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:59:13.9863945+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:04:07.9315445+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:59:14.2805741+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:04:14.6489599+00:00"
 }

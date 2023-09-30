@@ -6,36 +6,36 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,744 |
-| That's a Grand Army | 3.00% | ~12,558 |
-| That is mine! | 3.00% | ~12,558 |
-| Victorious! | 3.00% | ~12,558 |
-| Brothers in Arms | 2.00% | ~8,372 |
-| For the Glory | 2.00% | ~8,372 |
-| That's a Grand Navy | 2.00% | ~8,372 |
-| Seriously?! | 2.00% | ~8,372 |
-| Cold War | 1.00% | ~4,186 |
-| Defender of the Faith | 1.00% | ~4,186 |
-| It's all about the money | 1.00% | ~4,186 |
-| The Princess is in this Castle | 1.00% | ~4,186 |
-| True Catholic | 1.00% | ~4,186 |
-| It's all about luck | 0.90% | ~3,767 |
-| Respected | 0.90% | ~3,767 |
-| Truly Divine Ruler | 0.90% | ~3,767 |
+| Until death do us apart | 4.00% | ~16,747 |
+| That's a Grand Army | 3.00% | ~12,561 |
+| That is mine! | 3.00% | ~12,561 |
+| Victorious! | 3.00% | ~12,561 |
+| Brothers in Arms | 2.00% | ~8,374 |
+| For the Glory | 2.00% | ~8,374 |
+| That's a Grand Navy | 2.00% | ~8,374 |
+| Seriously?! | 2.00% | ~8,374 |
+| Cold War | 1.00% | ~4,187 |
+| Defender of the Faith | 1.00% | ~4,187 |
+| It's all about the money | 1.00% | ~4,187 |
+| The Princess is in this Castle | 1.00% | ~4,187 |
+| True Catholic | 1.00% | ~4,187 |
+| It's all about luck | 0.90% | ~3,768 |
+| Respected | 0.90% | ~3,768 |
+| Truly Divine Ruler | 0.90% | ~3,768 |
 | Blockader | 0.80% | ~3,349 |
 | Double the Love | 0.80% | ~3,349 |
 | Total Control | 0.80% | ~3,349 |
-| Royal Authority | 0.70% | ~2,930 |
+| Royal Authority | 0.70% | ~2,931 |
 | My armies are invincible! | 0.60% | ~2,512 |
 | Agressive Expander | 0.50% | ~2,093 |
 | City of Cities | 0.50% | ~2,093 |
 | Combined Arms | 0.50% | ~2,093 |
 | This navy can take it all | 0.50% | ~2,093 |
-| Azur semé de lis or | 0.40% | ~1,674 |
-| Factionalism | 0.40% | ~1,674 |
-| Gentle Persuasion | 0.40% | ~1,674 |
-| Isn't this the way to India? | 0.40% | ~1,674 |
-| Queen of Conquest | 0.40% | ~1,674 |
+| Azur semé de lis or | 0.40% | ~1,675 |
+| Factionalism | 0.40% | ~1,675 |
+| Gentle Persuasion | 0.40% | ~1,675 |
+| Isn't this the way to India? | 0.40% | ~1,675 |
+| Queen of Conquest | 0.40% | ~1,675 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,256 |
 | Bright Spark | 0.30% | ~1,256 |
 | Down Under | 0.30% | ~1,256 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418,608 (Ranked 41)  
+Progressed: 418,687 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,7 +524,7 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
 | 2023-09-29 | 417,709 | 1 |
-| 2023-09-30 | 418,608 | 1 |
+| 2023-09-30 | 418,687 | 1 |
 ## Awards
 Max (Educational): 6,335  (Ranked 57)  
 Sum: 51,989 (Ranked 24)  

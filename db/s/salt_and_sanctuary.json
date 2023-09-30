@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2575,10 +2575,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1962,
       "NumberOfAwardsMax": 284
+    },
+    {
+      "Time": "2023-09-30T17:59:46.6304288+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1963,
+      "NumberOfAwardsMax": 284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1962,
+  "NumberOfAwards": 1963,
   "NumberOfAwardsMax": 284,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2610,7 +2616,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2643,9 +2649,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534338,
+  "EOS_Progressed": 534340,
   "EOS_Completed": 1560,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -20463,6 +20469,11 @@
       "Time": "2023-09-30T17:06:22.2813564+00:00",
       "NumProgressed": 534338,
       "NumCompleted": 1560
+    },
+    {
+      "Time": "2023-09-30T18:06:20.1359185+00:00",
+      "NumProgressed": 534340,
+      "NumCompleted": 1560
     }
   ],
   "TotalAchievements": 37,
@@ -20530,7 +20541,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443501
+      "UsersEstimate": 443502
     },
     {
       "ID": "HONED",
@@ -20586,7 +20597,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213735
+      "UsersEstimate": 213736
     },
     {
       "ID": "THE_CASTLE",
@@ -20626,7 +20637,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48090
+      "UsersEstimate": 48091
     },
     {
       "ID": "THE_FOREST",
@@ -20658,7 +20669,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74807
+      "UsersEstimate": 74808
     },
     {
       "ID": "THE_LAKE",
@@ -20698,7 +20709,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48090
+      "UsersEstimate": 48091
     },
     {
       "ID": "THE_RUINS",
@@ -20730,7 +20741,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341976
+      "UsersEstimate": 341978
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -20769,15 +20780,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534338,
+      "Progressed": 534340,
       "Completed": 1560
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-09-29T14:59:02.4642884+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:06:22.2813558+00:00",
+  "LastChanged": "2023-09-30T17:59:46.6304287+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:06:20.1359179+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:36.5247912+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:59:49.8545292+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:06:22.2814938+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:59:46.6304292+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:06:20.1360528+00:00"
 }

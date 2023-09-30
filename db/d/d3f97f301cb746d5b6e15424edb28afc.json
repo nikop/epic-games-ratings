@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -327,9 +327,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -343,9 +343,9 @@
       "ID": "GSS_ACH_10_THROW_02",
       "SetID": "5fn8ia4",
       "Name": "Steady Hand!",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GSS_ACH_11_THROW_03",
@@ -511,9 +511,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -527,9 +527,9 @@
       "ID": "GSS_ACH_34_FLYING_CARS",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s Raining Cars",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GSS_ACH_35_BROOM_01",
@@ -559,17 +559,17 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -623,9 +623,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -647,9 +647,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -759,9 +759,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -847,9 +847,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -911,9 +911,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -926,8 +926,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:07:26.5822386+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:07:21.8709881+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:58:00.7249764+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:07:26.5823478+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:58:07.3509018+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:07:21.8710958+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 302,
+  "EOS_Progressed": 303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1303,6 +1303,11 @@
       "Time": "2023-09-30T12:04:56.4566113+00:00",
       "NumProgressed": 302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T18:04:35.1877206+00:00",
+      "NumProgressed": 303,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1362,15 +1367,15 @@
       "Name": "First Blood",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1384,9 +1389,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -1584,9 +1589,9 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_sextaKill",
@@ -1602,7 +1607,7 @@
       "Name": "No Asperascope",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1626,7 +1631,7 @@
       "Name": "Triple Kill",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1650,15 +1655,15 @@
       "Name": "Carrocketeer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_all_koth_points",
@@ -1696,9 +1701,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1770,7 +1775,7 @@
       "Name": "Survivor",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_waves_10",
@@ -1792,9 +1797,9 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_waves_40",
@@ -1818,7 +1823,7 @@
       "Name": "Aspairagus",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1834,7 +1839,7 @@
       "Name": "No Diggity",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1888,9 +1893,9 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_y_farmers_same_sniper",
@@ -1905,13 +1910,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 302,
+      "Progressed": 303,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 2
     }
   ],
@@ -1919,8 +1924,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:04:28.7978759+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:04:35.1877201+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.2826731+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:59:34.9414859+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:04:28.7979621+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:59:33.0728711+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:04:35.1878047+00:00"
 }

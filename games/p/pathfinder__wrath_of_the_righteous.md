@@ -13,7 +13,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 14.00% | ~1,602 |
 | Banner over the Citadel | 13.00% | ~1,488 |
 | Queen's Gratitude | 12.00% | ~1,373 |
-| Fifth Crusade | 8.00% | ~915 |
+| Fifth Crusade | 8.00% | ~916 |
 | Embrace of the Abyss | 6.00% | ~687 |
 | Path of the Angel | 6.00% | ~687 |
 | Demonic and Divine | 6.00% | ~687 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~229 |
 | Your First Big Enemy | 2.00% | ~229 |
 | Truly Important Deed | 2.00% | ~229 |
-| Stay Underground | 2.00% | ~204 |
-| Sarkoris Will Be Green | 2.00% | ~204 |
+| Stay Underground | 2.00% | ~205 |
+| Sarkoris Will Be Green | 2.00% | ~205 |
 | The Final Threshold | 1.00% | ~114 |
 | Strategic Victory | 1.00% | ~114 |
 | Abyssal Conspiracy | 1.00% | ~114 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,443 (Ranked 138)  
+Progressed: 11,444 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 11,423 | 0 |
 | 2023-09-28 | 11,429 | 0 |
 | 2023-09-29 | 11,437 | 0 |
-| 2023-09-30 | 11,443 | 0 |
+| 2023-09-30 | 11,444 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 119)  
-Sum: 6,967 (Ranked 115)  
+Sum: 6,968 (Ranked 115)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 4
 | This game has Challenging Combat | 581 |
 | This game has Quickly Understood Controls | 571 |
 | This game is Relaxing | 550 |
-| This game has a Creative Community | 386 |
+| This game has a Creative Community | 387 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -532,4 +532,4 @@ Diff (max vs sum): 4
 | 2023-09-26 | 4.76 | - | 1,718 | 6,963 |
 | 2023-09-28 | 4.76 | - | 1,718 | 6,965 |
 | 2023-09-29 | 4.76 | - | 1,718 | 6,966 |
-| 2023-09-30 | 4.76 | - | 1,718 | 6,967 |
+| 2023-09-30 | 4.76 | - | 1,718 | 6,968 |

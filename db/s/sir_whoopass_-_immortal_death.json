@@ -2,9 +2,9 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -456,6 +456,11 @@
       "Time": "2023-09-24T22:07:25.0862198+00:00",
       "NumProgressed": 103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T18:03:16.3021213+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 82,
@@ -497,9 +502,9 @@
       "ID": "CHEESE_1",
       "SetID": "9gfkh7c",
       "Name": "That\u0027s what cheese said!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CHEESE_2",
@@ -507,7 +512,7 @@
       "Name": "Oh, you\u0027re up to no gouda!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CHEESE_3",
@@ -523,7 +528,7 @@
       "Name": "You\u0027re looking mozzare-hella good!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CHEESE_5",
@@ -577,7 +582,7 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Dirty Feet",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -657,7 +662,7 @@
       "ID": "COWBOY_1",
       "SetID": "9gfkh7c",
       "Name": "Yeehaw!!!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -673,7 +678,7 @@
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 76
     },
@@ -753,15 +758,15 @@
       "ID": "FIRE_1",
       "SetID": "9gfkh7c",
       "Name": "AHHHHHH.....I\u0027M ON FIRE!!!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 70
     },
@@ -769,9 +774,9 @@
       "ID": "FLAPPY_KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "Just wing it!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "FUNGOID_1",
@@ -785,9 +790,9 @@
       "ID": "GLASSES_1",
       "SetID": "9gfkh7c",
       "Name": "Deal with it",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "GLASSES_2",
@@ -803,7 +808,7 @@
       "Name": "Tastes just like chicken!",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "GNOME_2",
@@ -857,7 +862,7 @@
       "ID": "IRS_1",
       "SetID": "9gfkh7c",
       "Name": "Self assessed tax return",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -881,7 +886,7 @@
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -905,7 +910,7 @@
       "ID": "JUMP_1",
       "SetID": "9gfkh7c",
       "Name": "Up and down",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 82
     },
@@ -913,7 +918,7 @@
       "ID": "JUMP_2",
       "SetID": "9gfkh7c",
       "Name": "My pants squeak when I walk",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -977,7 +982,7 @@
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -993,9 +998,9 @@
       "ID": "ORC_HIPSTER_1",
       "SetID": "9gfkh7c",
       "Name": "Not so hip anymore!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ORC_LOOT",
@@ -1011,23 +1016,23 @@
       "Name": "MLG 360 no scope kill!",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ORC_WARMAIDEN_1",
       "SetID": "9gfkh7c",
       "Name": "I like you...but I have to kill you...",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "OTHER_1",
       "SetID": "9gfkh7c",
       "Name": "Nerd",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "OTHER_2",
@@ -1049,7 +1054,7 @@
       "ID": "OUTHOUSE_1",
       "SetID": "9gfkh7c",
       "Name": "Thats disgusting!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -1081,7 +1086,7 @@
       "ID": "SVEN_OLOF_1",
       "SetID": "9gfkh7c",
       "Name": "Blurry depth perception",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 85
     },
@@ -1099,7 +1104,7 @@
       "Name": "Are you ready to rumble?",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "WHOOPASS_1",
@@ -1122,14 +1127,14 @@
     {
       "ID": "9gfkh7c",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-09-30T17:03:05.2407956+00:00",
+  "LastChanged_Achievements": "2023-09-30T18:03:16.3021207+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:15.3550301+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:58:23.8154911+00:00",
-  "LastUpdate_Achievements": "2023-09-30T17:03:05.2408962+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:58:28.483431+00:00",
+  "LastUpdate_Achievements": "2023-09-30T18:03:16.3022442+00:00"
 }

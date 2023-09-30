@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 92.00% | ~95 |
-| MLG 360 no scope kill! | 92.00% | ~95 |
-| Are you ready to rumble? | 92.00% | ~95 |
-| That's what cheese said! | 86.00% | ~89 |
-| I like you...but I have to kill you... | 85.00% | ~88 |
-| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~87 |
-| Not so hip anymore! | 84.00% | ~87 |
-| Nerd | 84.00% | ~87 |
-| Blurry depth perception | 83.00% | ~85 |
-| Up and down | 80.00% | ~82 |
-| Rolling, Rolling, Rolling | 74.00% | ~76 |
-| Fire-fighter! | 68.00% | ~70 |
-| Oh, you're up to no gouda! | 63.00% | ~65 |
+| Tastes just like chicken! | 92.00% | ~96 |
+| MLG 360 no scope kill! | 92.00% | ~96 |
+| Are you ready to rumble? | 92.00% | ~96 |
+| That's what cheese said! | 87.00% | ~90 |
+| I like you...but I have to kill you... | 86.00% | ~89 |
+| AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~88 |
+| Not so hip anymore! | 85.00% | ~88 |
+| Nerd | 85.00% | ~88 |
+| Blurry depth perception | 82.00% | ~85 |
+| Up and down | 79.00% | ~82 |
+| Rolling, Rolling, Rolling | 73.00% | ~76 |
+| Fire-fighter! | 67.00% | ~70 |
+| Oh, you're up to no gouda! | 63.00% | ~66 |
 | Meat grinder | 61.00% | ~63 |
 | Make Love not War-Craft a Mistlefoe | 60.00% | ~62 |
 | You're not going to blow me up! | 55.00% | ~57 |
@@ -25,11 +25,11 @@
 | Butcher | 50.00% | ~52 |
 | Spare Ribs | 50.00% | ~52 |
 | Cockadoodledoo! | 50.00% | ~52 |
-| Thats disgusting! | 48.00% | ~49 |
-| My pants squeak when I walk | 45.00% | ~46 |
-| Self assessed tax return | 43.00% | ~44 |
-| Surprise!! | 42.00% | ~43 |
-| Haemochromatosis | 41.00% | ~42 |
+| Thats disgusting! | 47.00% | ~49 |
+| My pants squeak when I walk | 44.00% | ~46 |
+| Self assessed tax return | 42.00% | ~44 |
+| Surprise!! | 41.00% | ~43 |
+| Haemochromatosis | 40.00% | ~42 |
 | Make America Grate Again | 37.00% | ~38 |
 | Pasta Bolognese | 36.00% | ~37 |
 | You can't stop me, bro! | 34.00% | ~35 |
@@ -47,12 +47,12 @@
 | Your daily dose of Vitamin C. | 22.00% | ~23 |
 | I cant stand still! | 22.00% | ~23 |
 | Master Butcher | 17.00% | ~18 |
-| Just wing it! | 17.00% | ~18 |
-| Deal with it | 17.00% | ~18 |
 | Slimy... yet satisfying | 17.00% | ~18 |
-| Ancient Ruins of Dirty Feet | 14.00% | ~14 |
-| Yeehaw!!! | 14.00% | ~14 |
-| You're looking mozzare-hella good! | 13.00% | ~13 |
+| Just wing it! | 16.00% | ~17 |
+| Deal with it | 16.00% | ~17 |
+| You're looking mozzare-hella good! | 13.00% | ~14 |
+| Ancient Ruins of Dirty Feet | 13.00% | ~14 |
+| Yeehaw!!! | 13.00% | ~14 |
 | Timber! | 11.00% | ~11 |
 | Free Of Chains | 11.00% | ~11 |
 | Grumpy Immortal | 10.00% | ~10 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 377)  
+Progressed: 104 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,3 +126,4 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-20 | 100 | 0 |
 | 2023-09-21 | 101 | 0 |
 | 2023-09-24 | 103 | 0 |
+| 2023-09-30 | 104 | 0 |
