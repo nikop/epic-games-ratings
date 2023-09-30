@@ -12,22 +12,22 @@
 | Eat the Rich | 100.00% | ~1 |
 | Dispel Rumors | 100.00% | ~1 |
 | Tour Guide | 100.00% | ~1 |
+| The Real O.G. | 100.00% | ~1 |
 | Hero Arrives | 100.00% | ~1 |
 | The Hero of the People | 100.00% | ~1 |
 | Demon Slayer | 100.00% | ~1 |
 | Urban Explorer | 100.00% | ~1 |
 | Captain Mustache | 100.00% | ~1 |
 | Sewer Rat | 100.00% | ~1 |
+| Coward | 100.00% | ~1 |
 | Big Eater | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| The Real O.G. | 0.00% | ~0 |
 | The End of an Outlaw | 0.00% | ~0 |
 | The Legend | 0.00% | ~0 |
 | Taoist | 0.00% | ~0 |
 | Steal Her Away | 0.00% | ~0 |
 | Not Today | 0.00% | ~0 |
 | Talk to the Fist | 0.00% | ~0 |
-| Coward | 0.00% | ~0 |
 | Tomb Raider | 0.00% | ~0 |
 | Fight Fire With Fire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

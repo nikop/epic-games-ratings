@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
@@ -1932,6 +1932,11 @@
       "Time": "2023-09-30T10:07:46.7502689+00:00",
       "NumProgressed": 683,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-30T12:07:33.3416853+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1952,7 +1957,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "_03_FinishAct1",
@@ -1976,7 +1981,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2064,7 +2069,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2151,7 +2156,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 21
     }
   ],
@@ -2159,8 +2164,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:06:34.7170908+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:07:33.3416839+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:58:56.9508751+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:06:34.7171179+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:59:41.3451323+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:07:33.3417167+00:00"
 }

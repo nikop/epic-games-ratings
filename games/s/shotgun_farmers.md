@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 79.00% | ~238 |
+| Seeds of War | 79.00% | ~239 |
 | First Blood | 61.00% | ~184 |
 | Triple Kill | 60.00% | ~181 |
 | Aspairagus | 60.00% | ~151 |
 | No Asperascope | 57.00% | ~172 |
 | Survivor | 56.00% | ~141 |
 | Cornivore | 53.00% | ~160 |
-| I Believe I Can Fly | 50.00% | ~150 |
+| I Believe I Can Fly | 49.00% | ~148 |
 | No Diggity | 43.00% | ~108 |
-| Early Survivor | 41.00% | ~103 |
-| Bouncemato | 32.00% | ~80 |
-| 10K | 30.00% | ~90 |
-| Amateur Survivor | 30.00% | ~75 |
-| 15K | 28.00% | ~84 |
+| Early Survivor | 40.00% | ~101 |
+| Bouncemato | 32.00% | ~81 |
+| 10K | 30.00% | ~91 |
+| Amateur Survivor | 30.00% | ~76 |
+| 15K | 28.00% | ~85 |
 | Quick-Draw Pod | 24.00% | ~60 |
 | Drinking Problem | 23.00% | ~69 |
 | Professional Survivor | 22.00% | ~55 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 303)  
+Progressed: 302 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-26 | 296 | 0 |
 | 2023-09-27 | 300 | 0 |
 | 2023-09-28 | 301 | 0 |
+| 2023-09-30 | 302 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

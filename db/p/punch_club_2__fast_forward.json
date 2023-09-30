@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1284,9 +1284,9 @@
       "ID": "adriana_sick",
       "SetID": "69co12a",
       "Name": "Deal with life",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 139
     },
     {
       "ID": "airpods",
@@ -1660,9 +1660,9 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "police_promotion_3",
@@ -1748,9 +1748,9 @@
       "ID": "trainer_promotion_2",
       "SetID": "69co12a",
       "Name": "Guiding on the right path",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "trainer_promotion_3",
@@ -1811,8 +1811,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:04:03.8086518+00:00",
-  "LastUpdate_AppInfo": "2023-09-23T10:57:09.0565974+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:57:38.9850886+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:04:03.8087216+00:00"
+  "LastChanged_Achievements": "2023-09-30T12:04:34.8677029+00:00",
+  "LastUpdate_AppInfo": "2023-09-30T11:57:05.3427014+00:00",
+  "LastUpdate_Ratings": "2023-09-30T11:58:12.2353603+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:04:34.8677784+00:00"
 }

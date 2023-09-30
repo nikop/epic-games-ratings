@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -322,9 +322,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1978,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5802,6 +5802,11 @@
       "Time": "2023-09-28T18:08:18.149827+00:00",
       "NumProgressed": 1978,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T12:03:49.1996071+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5925,7 +5930,7 @@
       "Name": "Dragon Master",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "dragonslayer",
@@ -5981,7 +5986,7 @@
       "Name": "Enlightenment",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "exoticmerchant",
@@ -6045,7 +6050,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "herewegoagain",
@@ -6117,15 +6122,15 @@
       "Name": "Lock And Load",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 178
     },
     {
       "ID": "mastery",
@@ -6157,7 +6162,7 @@
       "Name": "Missions Dedication",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "movinguptheladder",
@@ -6205,7 +6210,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "prestigiousx10",
@@ -6229,7 +6234,7 @@
       "Name": "Sailor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "scientist",
@@ -6269,7 +6274,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "thealchemist",
@@ -6291,9 +6296,9 @@
       "ID": "thefatherofdragons",
       "SetID": "3nl4bcg",
       "Name": "The father of Dragons",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 178
     },
     {
       "ID": "thegameison",
@@ -6301,7 +6306,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "thepowerofawakening",
@@ -6412,7 +6417,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1978,
+      "Progressed": 1979,
       "Completed": 2
     }
   ],
@@ -6420,8 +6425,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-29T16:57:40.1311312+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:03:25.6592135+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:03:49.1996063+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.0335087+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:58:04.9671945+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:03:25.6593431+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:58:43.562364+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:03:49.1997221+00:00"
 }

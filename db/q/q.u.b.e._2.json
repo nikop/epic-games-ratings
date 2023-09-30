@@ -5,9 +5,9 @@
   "Ranking_Rating": 699,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 494,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2063,6 +2063,11 @@
       "Time": "2023-09-30T10:07:42.7720179+00:00",
       "NumProgressed": 493,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T12:07:30.6437202+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2091,7 +2096,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2235,7 +2240,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_PEAK",
@@ -2243,7 +2248,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_PROPELL",
@@ -2275,7 +2280,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_S5",
@@ -2306,15 +2311,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 494,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:06:32.5560358+00:00",
-  "LastUpdate_AppInfo": "2023-09-23T10:57:20.0130769+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:58:00.584277+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:06:32.5560663+00:00"
+  "LastChanged_Achievements": "2023-09-30T12:07:30.6437189+00:00",
+  "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
+  "LastUpdate_Ratings": "2023-09-30T11:58:38.4220755+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:07:30.6437832+00:00"
 }

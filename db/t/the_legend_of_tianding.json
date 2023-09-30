@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -127,9 +127,9 @@
       "ID": "FanOfYang",
       "SetID": "123m9l1",
       "Name": "The Real O.G.",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FinishTheGame",
@@ -231,9 +231,9 @@
       "ID": "ThreatenLiHong",
       "SetID": "123m9l1",
       "Name": "Coward",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TombExplorer",
@@ -264,8 +264,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:03:26.7767199+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:03:50.5008238+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:03.9666352+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:00:17.4970208+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:03:26.7767393+00:00"
+  "LastUpdate_Ratings": "2023-09-30T12:01:21.5048753+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:03:50.5008422+00:00"
 }

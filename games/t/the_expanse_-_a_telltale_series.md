@@ -1,17 +1,17 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.56 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 35.00% | ~4,632 |
-| Captain Drummer | 30.00% | ~3,970 |
-| Stogie for Fogey | 29.00% | ~3,838 |
-| Martian Music | 29.00% | ~3,838 |
-| Celebrations are in Order | 29.00% | ~3,838 |
-| Spore Taste | 27.00% | ~3,573 |
-| The Pit and the Pirates | 26.00% | ~3,441 |
+| Impossible Objects | 35.00% | ~4,633 |
+| Captain Drummer | 30.00% | ~3,971 |
+| Stogie for Fogey | 29.00% | ~3,839 |
+| Martian Music | 29.00% | ~3,839 |
+| Celebrations are in Order | 29.00% | ~3,839 |
+| Spore Taste | 27.00% | ~3,574 |
+| The Pit and the Pirates | 26.00% | ~3,442 |
 | Drone Dodger | 25.00% | ~3,309 |
 | Doctor Approved | 20.00% | ~2,647 |
 | Bosmang | 20.00% | ~2,647 |
@@ -23,7 +23,7 @@ Rating: 4.55 (Ranked 491)
 | Khan's Revenge | 11.00% | ~1,456 |
 | Data Logger | 8.00% | ~1,059 |
 | Miraculous Maya | 8.00% | ~1,059 |
-| Data Master | 7.00% | ~926 |
+| Data Master | 7.00% | ~927 |
 | Data Recoverer | 6.00% | ~794 |
 | Brother's Reaper | 4.00% | ~529 |
 | No Belter Left Behind | 4.00% | ~529 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 491)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,235 (Ranked 135)  
+Progressed: 13,237 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 13,049 | 0 |
 | 2023-09-28 | 13,120 | 0 |
 | 2023-09-29 | 13,208 | 0 |
-| 2023-09-30 | 13,235 | 0 |
+| 2023-09-30 | 13,237 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -127,3 +127,4 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-24 | 4.55 | 0 | 0 |
 | 2023-09-25 | 4.52 | 0 | 0 |
 | 2023-09-27 | 4.55 | 0 | 0 |
+| 2023-09-30 | 4.56 | 0 | 0 |

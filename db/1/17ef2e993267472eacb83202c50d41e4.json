@@ -2,12 +2,12 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 983,
+  "Ranking_Rating": 984,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6709,
+  "EOS_Progressed": 6710,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3023,6 +3023,11 @@
       "Time": "2023-09-30T11:05:26.0103459+00:00",
       "NumProgressed": 6709,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T12:06:12.6565834+00:00",
+      "NumProgressed": 6710,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3259,7 +3264,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -3307,7 +3312,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "InhibitorKills30",
@@ -3331,7 +3336,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -3355,7 +3360,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "MaxHealingDone30000",
@@ -3523,7 +3528,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "RSPurchased1",
@@ -3571,7 +3576,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "SniperUpgraded1",
@@ -3603,7 +3608,7 @@
       "Name": "Purchased Team Shield Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "TowerKills11",
@@ -3626,7 +3631,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6709,
+      "Progressed": 6710,
       "Completed": 1
     }
   ],
@@ -3634,8 +3639,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:05:26.0103454+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:06:12.6565824+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:57:23.9316146+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:05:26.0104457+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:57:53.8274381+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:06:12.6566875+00:00"
 }

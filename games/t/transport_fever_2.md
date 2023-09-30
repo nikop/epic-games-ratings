@@ -6,20 +6,20 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,309 |
-| First cargo item on board | 71.00% | ~1,207 |
-| First cargo item waiting | 71.00% | ~1,207 |
-| First bus stop | 70.00% | ~1,190 |
-| First passenger on board | 67.00% | ~1,139 |
-| First passenger waiting | 67.00% | ~1,139 |
-| First bus arrived | 66.00% | ~1,122 |
-| First train station | 64.00% | ~1,088 |
-| First steam train arrived | 60.00% | ~1,020 |
-| First industry upgraded | 57.00% | ~969 |
-| Transport millionaire | 55.00% | ~935 |
-| Cadet | 54.00% | ~918 |
-| Transport master | 53.00% | ~901 |
-| Cargo hub | 53.00% | ~901 |
+| First line | 77.00% | ~1,310 |
+| First cargo item on board | 71.00% | ~1,208 |
+| First cargo item waiting | 71.00% | ~1,208 |
+| First bus stop | 70.00% | ~1,191 |
+| First passenger on board | 67.00% | ~1,140 |
+| First passenger waiting | 67.00% | ~1,140 |
+| First bus arrived | 66.00% | ~1,123 |
+| First train station | 63.00% | ~1,072 |
+| First steam train arrived | 60.00% | ~1,021 |
+| First industry upgraded | 57.00% | ~970 |
+| Transport millionaire | 55.00% | ~936 |
+| Cadet | 54.00% | ~919 |
+| Transport master | 53.00% | ~902 |
+| Cargo hub | 53.00% | ~902 |
 | Sculpturer | 50.00% | ~850 |
 | Settled down | 49.00% | ~833 |
 | First electric train arrived | 47.00% | ~799 |
@@ -64,11 +64,11 @@ Number of Ratings: 180  (23.09.2022)
 | Trans-Siberian Railway | 2.00% | ~34 |
 | Train Fever | 0.90% | ~15 |
 | Louis Favre | 0.80% | ~14 |
-| Big spender | 0.50% | ~8 |
+| Big spender | 0.50% | ~9 |
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,700 (Ranked 208)  
+Progressed: 1,701 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-26 | 1,691 | 0 |
 | 2023-09-28 | 1,695 | 0 |
 | 2023-09-29 | 1,697 | 0 |
-| 2023-09-30 | 1,700 | 0 |
+| 2023-09-30 | 1,701 | 0 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 430)  
 Sum: 289 (Ranked 348)  

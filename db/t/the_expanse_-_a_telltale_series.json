@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 135,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -124,15 +124,21 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-30T11:58:40.0021687+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13235,
+  "EOS_Progressed": 13237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1277,
+  "EOS_NewPlayers": 1267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7165,6 +7171,11 @@
       "Time": "2023-09-30T11:04:01.4120247+00:00",
       "NumProgressed": 13235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T12:04:31.9116984+00:00",
+      "NumProgressed": 13237,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7193,7 +7204,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "12",
@@ -7225,7 +7236,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3838
+      "UsersEstimate": 3839
     },
     {
       "ID": "16",
@@ -7241,7 +7252,7 @@
       "Name": "Spore Taste",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "18",
@@ -7257,7 +7268,7 @@
       "Name": "Martian Music",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3838
+      "UsersEstimate": 3839
     },
     {
       "ID": "2",
@@ -7353,7 +7364,7 @@
       "Name": "Captain Drummer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "30",
@@ -7377,7 +7388,7 @@
       "Name": "Data Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "6",
@@ -7385,7 +7396,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3838
+      "UsersEstimate": 3839
     },
     {
       "ID": "7",
@@ -7409,23 +7420,23 @@
       "Name": "Impossible Objects",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13235,
+      "Progressed": 13237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:04:01.4120242+00:00",
+  "LastChanged": "2023-09-30T11:58:40.0021684+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:04:31.9116977+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:58:01.9314594+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:04:01.4120916+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:58:40.0021689+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:04:31.9117649+00:00"
 }

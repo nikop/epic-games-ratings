@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 161,
@@ -772,7 +772,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5940,
+  "EOS_Progressed": 5941,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -8017,6 +8017,11 @@
       "Time": "2023-09-29T21:04:37.1108001+00:00",
       "NumProgressed": 5940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T12:05:52.3468131+00:00",
+      "NumProgressed": 5941,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8036,7 +8041,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3267
+      "UsersEstimate": 3268
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8052,7 +8057,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -8060,7 +8065,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -8068,7 +8073,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8084,7 +8089,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3327
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -8092,7 +8097,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -8100,7 +8105,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -8108,7 +8113,7 @@
       "Name": "More than a Tourist",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -8140,7 +8145,7 @@
       "Name": "Going for Gold",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -8307,13 +8312,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5940,
+      "Progressed": 5941,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5312,
+      "Progressed": 5313,
       "Completed": 112
     }
   ],
@@ -8321,8 +8326,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-29T10:01:04.4314174+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:05:09.2459554+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:05:52.3468124+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.3965529+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:00:22.6200022+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:05:09.246025+00:00"
+  "LastUpdate_Ratings": "2023-09-30T12:01:27.7971326+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:05:52.3468858+00:00"
 }

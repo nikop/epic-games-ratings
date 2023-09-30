@@ -267,9 +267,9 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 150,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_boss2",
@@ -299,9 +299,9 @@
       "ID": "ach_bunny50",
       "SetID": "c2c0fb6",
       "Name": "You monster!",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_day10",
@@ -347,9 +347,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_lose",
@@ -396,8 +396,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:04:05.8114397+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:04:37.0969817+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:09.9015948+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:58:48.7180789+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:04:05.811453+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:59:33.1588576+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:04:37.0969957+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 942,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 204,
@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1784,
+  "EOS_Progressed": 1785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1188,6 +1188,11 @@
       "Time": "2023-09-30T07:07:55.806873+00:00",
       "NumProgressed": 1784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T12:09:12.8385169+00:00",
+      "NumProgressed": 1785,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1240,7 +1245,7 @@
       "Name": "ROTY",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "achievement_15",
@@ -1296,7 +1301,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "achievement_21",
@@ -1358,16 +1363,16 @@
       "ID": "achievement_9",
       "SetID": "aiin7da",
       "Name": "Future of the Franchise",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 250
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1784,
+      "Progressed": 1785,
       "Completed": 0
     }
   ],
@@ -1375,8 +1380,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-30T01:37:55.9131562+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:07:16.0997961+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:09:12.8385161+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:58:08.8704277+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:07:16.0998162+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:58:47.7883477+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:09:12.838548+00:00"
 }

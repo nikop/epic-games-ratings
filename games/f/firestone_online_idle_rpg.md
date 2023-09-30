@@ -1,25 +1,25 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 953)  
+Rating: 4.03 (Ranked 954)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,840 |
 | World Map | 79.00% | ~1,563 |
-| Temple of Eternals | 57.00% | ~1,127 |
-| Prestigious | 54.00% | ~1,068 |
+| Temple of Eternals | 57.00% | ~1,128 |
+| Prestigious | 54.00% | ~1,069 |
 | Fellowship Power | 42.00% | ~831 |
-| Guild Power | 26.00% | ~514 |
+| Guild Power | 26.00% | ~515 |
 | Prestigious x10 | 23.00% | ~455 |
-| The game is on | 21.00% | ~415 |
+| The game is on | 21.00% | ~416 |
 | Exotic Merchant | 19.00% | ~376 |
 | Dragon Clicker | 18.00% | ~356 |
 | Full Party | 17.00% | ~336 |
 | Inspection | 17.00% | ~336 |
 | Miner Clicker | 17.00% | ~336 |
-| Dragon Master | 16.00% | ~316 |
-| Enlightenment | 16.00% | ~316 |
+| Dragon Master | 16.00% | ~317 |
+| Enlightenment | 16.00% | ~317 |
 | Hero inspection | 15.00% | ~297 |
 | Lieutenant | 15.00% | ~297 |
 | Milestone collector | 14.00% | ~277 |
@@ -39,9 +39,9 @@ Rating: 4.03 (Ranked 953)
 | Scroll Master | 11.00% | ~218 |
 | The power of Awakening | 11.00% | ~218 |
 | Frostfire Liberator | 10.00% | ~198 |
-| Master Enchanter | 10.00% | ~198 |
-| The father of Dragons | 10.00% | ~198 |
 | Here We Go Again | 9.00% | ~178 |
+| Master Enchanter | 9.00% | ~178 |
+| The father of Dragons | 9.00% | ~178 |
 | Trader | 9.00% | ~178 |
 | Blueprint Upgrades | 8.00% | ~158 |
 | Crystal Mining | 8.00% | ~158 |
@@ -50,9 +50,9 @@ Rating: 4.03 (Ranked 953)
 | Engineer Mastery | 8.00% | ~158 |
 | The Expeditioner | 8.00% | ~158 |
 | Weekly Quest Completionist | 8.00% | ~158 |
-| Lock And Load | 7.00% | ~138 |
-| Missions Dedication | 7.00% | ~138 |
-| Sailor | 7.00% | ~138 |
+| Lock And Load | 7.00% | ~139 |
+| Missions Dedication | 7.00% | ~139 |
+| Sailor | 7.00% | ~139 |
 | Active Member | 6.00% | ~119 |
 | Ancient Knowledge | 6.00% | ~119 |
 | How Do You Turn This On? | 6.00% | ~119 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 953)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,978 (Ranked 199)  
+Progressed: 1,979 (Ranked 199)  
 Completed: 2 (0.10%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 2 (0.10%) (Ranked 238)
 | 2023-09-26 | 1,973 | 2 |
 | 2023-09-27 | 1,976 | 2 |
 | 2023-09-28 | 1,978 | 2 |
+| 2023-09-30 | 1,979 | 2 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 504)  
 Sum: 65 (Ranked 451)  

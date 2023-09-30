@@ -1,26 +1,26 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.55 (Ranked 492)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,321 |
-| First Steps | 80.00% | ~34,685 |
+| Awakening | 93.00% | ~40,322 |
+| First Steps | 80.00% | ~34,686 |
 | Control the Shadows | 67.00% | ~29,049 |
-| Tools of the Trade | 63.00% | ~27,314 |
+| Tools of the Trade | 63.00% | ~27,315 |
 | Apprentice | 60.00% | ~26,014 |
 | Secret Seeker | 57.00% | ~24,713 |
 | Forge of Assassins | 55.00% | ~23,846 |
-| Revenant | 52.00% | ~22,545 |
-| I don’t Care! | 45.00% | ~19,510 |
+| Revenant | 52.00% | ~22,546 |
+| I don’t Care! | 45.00% | ~19,511 |
 | Bird of Prey | 37.00% | ~16,042 |
 | Engraved with Power | 32.00% | ~13,874 |
-| Lady | 31.00% | ~13,440 |
+| Lady | 31.00% | ~13,441 |
 | Fashionable Assassin | 27.00% | ~11,706 |
-| Apex Predator | 24.00% | ~10,405 |
-| Soul Reaver | 22.00% | ~9,538 |
+| Apex Predator | 24.00% | ~10,406 |
+| Soul Reaver | 22.00% | ~9,539 |
 | Embers | 21.00% | ~9,105 |
 | Wall Lizard | 20.00% | ~8,671 |
 | Clinging to Life | 18.00% | ~7,804 |
@@ -36,8 +36,8 @@ Number of Ratings: 88  (23.09.2022)
 | Bonds | 9.00% | ~3,902 |
 | Get Over Here | 9.00% | ~3,902 |
 | The Hidden Village | 9.00% | ~3,902 |
-| Denouement | 8.00% | ~3,468 |
-| A Pleasant Stay | 8.00% | ~3,468 |
+| Denouement | 8.00% | ~3,469 |
+| A Pleasant Stay | 8.00% | ~3,469 |
 | Pilgrimage | 7.00% | ~3,035 |
 | The Lookout | 5.00% | ~2,168 |
 | The Spirit of Vengeance | 5.00% | ~2,168 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~867 |
 | Anger Management | 1.00% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,356 (Ranked 102)  
+Progressed: 43,357 (Ranked 102)  
 Completed: 238 (0.55%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 238 (0.55%) (Ranked 159)
 | 2023-09-27 | 43,340 | 238 |
 | 2023-09-28 | 43,354 | 238 |
 | 2023-09-29 | 43,356 | 238 |
+| 2023-09-30 | 43,357 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

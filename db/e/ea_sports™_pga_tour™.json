@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -842,9 +842,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_10",
@@ -992,8 +992,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-30T11:08:19.4772662+00:00",
+  "LastChanged_Achievements": "2023-09-30T12:09:40.5583407+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:00:16.4590669+00:00",
-  "LastUpdate_Achievements": "2023-09-30T11:08:19.4772853+00:00"
+  "LastUpdate_Ratings": "2023-09-30T12:01:21.0305947+00:00",
+  "LastUpdate_Achievements": "2023-09-30T12:09:40.5583581+00:00"
 }

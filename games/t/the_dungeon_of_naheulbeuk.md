@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,835 |
-| Alt+F4 | 6.00% | ~13,656 |
-| Where's that freaking Dwarf? | 5.00% | ~11,380 |
-| Déjà vu | 4.00% | ~9,104 |
-| A beer, two curses, three companions | 3.00% | ~6,828 |
-| Sock! SOCK! | 3.00% | ~6,828 |
-| GG EZ | 3.00% | ~6,828 |
-| DM intervention | 3.00% | ~6,828 |
-| Speedrun | 3.00% | ~6,828 |
-| Fireproof Wizardess | 3.00% | ~6,828 |
+| Sowwy! | 32.00% | ~72,839 |
+| Alt+F4 | 6.00% | ~13,657 |
+| Where's that freaking Dwarf? | 5.00% | ~11,381 |
+| Déjà vu | 4.00% | ~9,105 |
+| A beer, two curses, three companions | 3.00% | ~6,829 |
+| Sock! SOCK! | 3.00% | ~6,829 |
+| GG EZ | 3.00% | ~6,829 |
+| DM intervention | 3.00% | ~6,829 |
+| Speedrun | 3.00% | ~6,829 |
+| Fireproof Wizardess | 3.00% | ~6,829 |
 | Livin' in a dwarven paradise | 2.00% | ~4,552 |
 | Way of the Wimp | 2.00% | ~4,552 |
 | The plot thickens... At the tavern | 2.00% | ~4,552 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~2,276 |
 | I am the night | 1.00% | ~2,276 |
 | Thieves' Guild Accreditation | 1.00% | ~2,276 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,048 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,049 |
 | Dead for good | 0.80% | ~1,821 |
 | Lust and Debauchery | 0.80% | ~1,821 |
 | Material Girl | 0.80% | ~1,821 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,608 (Ranked 58)  
+Progressed: 227,621 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 5 (0.00%) (Ranked 300)
 | 2023-09-27 | 227,123 | 4 |
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
-| 2023-09-30 | 227,608 | 5 |
+| 2023-09-30 | 227,621 | 5 |
 ## Awards
 Max (Character Customization): 202  (Ranked 276)  
 Sum: 392 (Ranked 326)  

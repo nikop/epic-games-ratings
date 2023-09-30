@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 55.00% | ~127 |
-| Welcome to the Tower | 52.00% | ~120 |
-| The great escape | 47.00% | ~109 |
-| The Preacher's fate | 45.00% | ~104 |
-| A new dawn | 42.00% | ~97 |
-| Scholar | 41.00% | ~95 |
-| The darkness | 39.00% | ~90 |
-| True G4M3R | 38.00% | ~88 |
-| A good beginning | 37.00% | ~85 |
-| One last step | 36.00% | ~83 |
-| Cable guy | 33.00% | ~76 |
-| Champollion | 33.00% | ~76 |
-| Peace walker | 32.00% | ~74 |
-| Half the way | 32.00% | ~74 |
-| In this together | 30.00% | ~69 |
-| Open door | 27.00% | ~62 |
-| Feels like springtime | 25.00% | ~58 |
-| Rascal | 25.00% | ~58 |
-| Free at last | 23.00% | ~53 |
-| Alchemists Express | 23.00% | ~53 |
+| That's the spirit | 55.00% | ~128 |
+| Welcome to the Tower | 52.00% | ~121 |
+| The great escape | 47.00% | ~110 |
+| The Preacher's fate | 45.00% | ~105 |
+| A new dawn | 42.00% | ~98 |
+| Scholar | 41.00% | ~96 |
+| The darkness | 39.00% | ~91 |
+| True G4M3R | 38.00% | ~89 |
+| A good beginning | 37.00% | ~86 |
+| One last step | 36.00% | ~84 |
+| Cable guy | 33.00% | ~77 |
+| Champollion | 33.00% | ~77 |
+| Peace walker | 32.00% | ~75 |
+| Half the way | 32.00% | ~75 |
+| In this together | 30.00% | ~70 |
+| Open door | 27.00% | ~63 |
+| Feels like springtime | 24.00% | ~56 |
+| Rascal | 24.00% | ~56 |
+| Free at last | 23.00% | ~54 |
+| Alchemists Express | 23.00% | ~54 |
 | I did it | 21.00% | ~49 |
 | A Link to the Past | 19.00% | ~44 |
-| A great audience | 16.00% | ~37 |
 | For its own good | 16.00% | ~37 |
-| Fashion victim | 13.00% | ~30 |
+| A great audience | 15.00% | ~35 |
+| Fashion victim | 12.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 329)  
-Completed: 15 (6.49%) (Ranked 44)  
+Progressed: 233 (Ranked 329)  
+Completed: 15 (6.44%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,4 +103,4 @@ Completed: 15 (6.49%) (Ranked 44)
 | 2023-09-27 | 223 | 13 |
 | 2023-09-28 | 226 | 13 |
 | 2023-09-29 | 229 | 14 |
-| 2023-09-30 | 231 | 15 |
+| 2023-09-30 | 233 | 15 |
