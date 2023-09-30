@@ -262,7 +262,7 @@
 | 244 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 90 | 358 |
 | 244 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 22 | 508 |
 | 262 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 525 |
-| 262 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 673 | 178 |
+| 262 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 675 | 178 |
 | 262 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 525 |
 | 262 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 664 | 181 |
 | 262 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 525 |
@@ -487,7 +487,7 @@
 | 475 | [IXION](games/i/ixion.md) | 4.56 | 0 | 525 |
 | 475 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 525 |
 | 475 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,748 | 72 |
-| 475 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,802 | 114 |
+| 475 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,805 | 114 |
 | 475 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 525 |
 | 475 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.56 | 0 | 525 |
 | 491 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 525 |
@@ -507,7 +507,7 @@
 | 491 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.55 | 0 | 525 |
 | 491 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.55 | 0 | 525 |
 | 491 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 525 |
-| 491 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 358 | 228 |
+| 491 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 359 | 228 |
 | 491 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 370 |
 | 491 | [Wall World](games/w/wall_world.md) | 4.55 | 0 | 525 |
 | 491 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.55 | 4,553 | 77 |
@@ -586,7 +586,7 @@
 | 574 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 525 |
 | 574 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 642 | 185 |
 | 574 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 525 |
-| 574 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 818 | 157 |
+| 574 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 820 | 157 |
 | 574 | [Solitairica](games/s/solitairica.md) | 4.50 | 84 | 364 |
 | 589 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 29 | 470 |
 | 589 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 392 |
@@ -677,7 +677,7 @@
 | 675 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 525 |
 | 675 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 43 | 427 |
 | 675 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 525 |
-| 675 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,076 | 30 |
+| 675 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,082 | 30 |
 | 675 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 525 |
 | 675 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.43 | 688 | 177 |
 | 675 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,211 | 136 |
@@ -796,7 +796,7 @@
 | 791 | [Filament](games/f/filament.md) | 4.32 | 562 | 195 |
 | 791 | [House Party](games/h/house_party.md) | 4.32 | 0 | 525 |
 | 791 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 525 |
-| 791 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,458 | 68 |
+| 791 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,464 | 68 |
 | 791 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 470 |
 | 791 | [Vampyr](games/v/vampyr.md) | 4.32 | 562 | 195 |
 | 791 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 525 |
@@ -836,21 +836,21 @@
 | 828 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 525 |
 | 828 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.27 | 26 | 490 |
 | 828 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 0 | 525 |
+| 828 | [Out of Line](games/o/out_of_line.md) | 4.27 | 0 | 525 |
 | 828 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,585 | 100 |
 | 828 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 525 |
 | 828 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 525 |
-| 840 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 19,898 | 19 |
-| 840 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 525 |
-| 840 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 525 |
-| 840 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 525 |
-| 840 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 242 |
-| 845 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,086 | 139 |
-| 845 | [Out of Line](games/o/out_of_line.md) | 4.25 | 0 | 525 |
-| 845 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 0 | 525 |
-| 845 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 525 |
-| 845 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 525 |
-| 845 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 525 |
-| 845 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 525 |
+| 841 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 19,898 | 19 |
+| 841 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 525 |
+| 841 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 525 |
+| 841 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 525 |
+| 841 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 242 |
+| 846 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,086 | 139 |
+| 846 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 0 | 525 |
+| 846 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 525 |
+| 846 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 525 |
+| 846 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 525 |
+| 846 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 525 |
 | 852 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 525 |
 | 852 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 463 |
 | 852 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 508 |
