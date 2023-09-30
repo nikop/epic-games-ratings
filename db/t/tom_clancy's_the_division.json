@@ -2,7 +2,7 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 420,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 645,
@@ -1868,10 +1868,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 905,
       "NumberOfAwardsMax": 337
+    },
+    {
+      "Time": "2023-09-30T12:59:44.9446182+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 906,
+      "NumberOfAwardsMax": 337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 905,
+  "NumberOfAwards": 906,
   "NumberOfAwardsMax": 337,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1939,7 +1945,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1971,8 +1977,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-09-30T07:57:05.4841474+00:00",
+  "LastChanged": "2023-09-30T12:59:44.9446179+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.0853566+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:57:36.9134057+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:07:49.7958595+00:00"
+  "LastUpdate_Ratings": "2023-09-30T12:59:44.9446186+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:11:06.6104342+00:00"
 }

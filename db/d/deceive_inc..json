@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18199,
+  "EOS_Progressed": 18200,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -10916,6 +10916,11 @@
       "Time": "2023-09-30T10:08:13.4020021+00:00",
       "NumProgressed": 18199,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-30T13:11:16.0880344+00:00",
+      "NumProgressed": 18200,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -11109,9 +11114,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3822
+      "UsersEstimate": 4004
     },
     {
       "ID": "0025",
@@ -11214,7 +11219,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18199,
+      "Progressed": 18200,
       "Completed": 3
     }
   ],
@@ -11222,8 +11227,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:08:18.4274888+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:11:16.0880339+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:36.7734368+00:00",
-  "LastUpdate_Ratings": "2023-09-30T12:01:01.1953388+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:08:18.427587+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:03:54.2833354+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:11:16.0881386+00:00"
 }

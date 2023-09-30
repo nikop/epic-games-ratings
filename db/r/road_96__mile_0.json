@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1399,6 +1399,11 @@
       "Time": "2023-09-30T11:04:42.0229368+00:00",
       "NumProgressed": 424,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T13:08:12.3656194+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1410,7 +1415,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "completeact2",
@@ -1482,7 +1487,7 @@
       "Name": "Souvenirs",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "scoreminrankrp1",
@@ -1498,7 +1503,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "scoreminrankrp3",
@@ -1529,7 +1534,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 2
     }
   ],
@@ -1537,8 +1542,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:05:20.8692058+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:08:12.3656187+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:30.7664892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:59:08.9089419+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:05:20.8692284+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:01:37.6852322+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:08:12.3656451+00:00"
 }

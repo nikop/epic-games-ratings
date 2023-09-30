@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 132,
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15475,
+  "EOS_Progressed": 15476,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11105,6 +11105,11 @@
       "Time": "2023-09-30T11:04:23.9590074+00:00",
       "NumProgressed": 15475,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-30T13:07:46.6659634+00:00",
+      "NumProgressed": 15476,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11124,7 +11129,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "tpote_achievement_11",
@@ -11172,7 +11177,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "tpote_achievement_17",
@@ -11220,7 +11225,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4642
+      "UsersEstimate": 4643
     },
     {
       "ID": "tpote_achievement_22",
@@ -11316,7 +11321,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "tpote_achievement_33",
@@ -11428,7 +11433,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "tpote_achievement_9",
@@ -11436,22 +11441,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15475,
+      "Progressed": 15476,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:04:58.6315634+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:07:46.6659628+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:56.0869159+00:00",
-  "LastUpdate_Ratings": "2023-09-30T12:01:27.9553866+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:04:58.6316609+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:05:05.6018493+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:07:46.6660876+00:00"
 }

@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37532,
+  "EOS_Progressed": 37533,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18098,6 +18098,11 @@
       "Time": "2023-09-30T12:04:56.8457042+00:00",
       "NumProgressed": 37532,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-30T13:07:44.4744687+00:00",
+      "NumProgressed": 37533,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18117,7 +18122,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7507
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18211,9 +18216,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -18340,7 +18345,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37532,
+      "Progressed": 37533,
       "Completed": 25
     }
   ],
@@ -18348,8 +18353,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:04:56.8457034+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:07:44.4744681+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:47.3776756+00:00",
-  "LastUpdate_Ratings": "2023-09-30T12:01:13.4959926+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:04:56.8458341+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:04:08.17679+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:07:44.474636+00:00"
 }

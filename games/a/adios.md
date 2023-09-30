@@ -5,33 +5,33 @@ Rating: 3.55 (Ranked 1,006)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,415 |
-| Hard Worker | 20.00% | ~14,923 |
-| Master, Commander | 20.00% | ~14,923 |
-| Mechanic | 19.00% | ~14,177 |
-| Adios, Friendo | 18.00% | ~13,431 |
-| Bottom's Up | 18.00% | ~13,431 |
-| Nice Try | 16.00% | ~11,938 |
-| Right On Target | 13.00% | ~9,700 |
-| Piano Man | 10.00% | ~7,461 |
-| Lazy Bones | 9.00% | ~6,715 |
-| Vinyl Vibes | 8.00% | ~5,969 |
+| Be Seeing You | 22.00% | ~16,417 |
+| Hard Worker | 20.00% | ~14,924 |
+| Master, Commander | 20.00% | ~14,924 |
+| Mechanic | 19.00% | ~14,178 |
+| Adios, Friendo | 18.00% | ~13,432 |
+| Bottom's Up | 18.00% | ~13,432 |
+| Nice Try | 16.00% | ~11,939 |
+| Right On Target | 13.00% | ~9,701 |
+| Piano Man | 10.00% | ~7,462 |
+| Lazy Bones | 9.00% | ~6,716 |
+| Vinyl Vibes | 8.00% | ~5,970 |
 | Nothing Left to Say | 7.00% | ~5,223 |
 | Sniper | 7.00% | ~5,223 |
 | Cut Call | 6.00% | ~4,477 |
 | Magnetic Miracles | 5.00% | ~3,731 |
 | Butcher | 4.00% | ~2,985 |
 | Spicy | 4.00% | ~2,985 |
-| A Man Of Taste | 3.00% | ~2,238 |
-| Ace in the Hole | 3.00% | ~2,238 |
-| Fair's Fair | 3.00% | ~2,238 |
-| Hearty | 3.00% | ~2,238 |
-| Meaty | 3.00% | ~2,238 |
-| Taco Toto | 3.00% | ~2,238 |
+| A Man Of Taste | 3.00% | ~2,239 |
+| Ace in the Hole | 3.00% | ~2,239 |
+| Fair's Fair | 3.00% | ~2,239 |
+| Hearty | 3.00% | ~2,239 |
+| Meaty | 3.00% | ~2,239 |
+| Taco Toto | 3.00% | ~2,239 |
 | Audiophile | 2.00% | ~1,492 |
 | Tape Head | 2.00% | ~1,492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,614 (Ranked 84)  
+Progressed: 74,621 (Ranked 84)  
 Completed: 778 (1.04%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 778 (1.04%) (Ranked 131)
 | 2023-09-27 | 74,399 | 775 |
 | 2023-09-28 | 74,490 | 777 |
 | 2023-09-29 | 74,573 | 778 |
-| 2023-09-30 | 74,614 | 778 |
+| 2023-09-30 | 74,621 | 778 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

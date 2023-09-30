@@ -2,12 +2,12 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 589,
+  "Ranking_Rating": 588,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -332,7 +332,7 @@
   ],
   "EOS_Progressed": 3435,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5056,9 +5056,9 @@
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2164
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5200,9 +5200,9 @@
       "ID": "ACH_MISSION_09",
       "SetID": "816efe",
       "Name": "The Passenger",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 962
     },
     {
       "ID": "ACH_MISSION_10",
@@ -5313,8 +5313,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-23T03:57:26.7779072+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:06:32.7481155+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:09:36.3734798+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:42.0106466+00:00",
-  "LastUpdate_Ratings": "2023-09-30T12:01:05.6225179+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:06:32.7481839+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:03:59.6453292+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:09:36.3735605+00:00"
 }

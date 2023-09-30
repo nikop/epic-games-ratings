@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.17 (Ranked 902)  
+Rating: 4.18 (Ranked 898)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 24.00% | ~14,189 |
-| As Far Away As Possible | 14.00% | ~8,277 |
-| A Most Unstable Organism | 11.00% | ~6,503 |
-| No Time to Follow Protocol | 9.00% | ~5,321 |
-| Float Like a Butterfly... | 7.00% | ~4,138 |
-| Nano Connoisseur | 5.00% | ~2,956 |
-| In Two Places At Once | 5.00% | ~2,956 |
-| Pulling Your Weight | 2.00% | ~1,182 |
-| Reaping Rivals | 2.00% | ~1,182 |
+| Your Lucky Day | 24.00% | ~14,192 |
+| As Far Away As Possible | 14.00% | ~8,279 |
+| A Most Unstable Organism | 11.00% | ~6,505 |
+| No Time to Follow Protocol | 9.00% | ~5,322 |
+| Float Like a Butterfly... | 7.00% | ~4,139 |
+| Nano Connoisseur | 5.00% | ~2,957 |
+| In Two Places At Once | 5.00% | ~2,957 |
+| Pulling Your Weight | 2.00% | ~1,183 |
+| Reaping Rivals | 2.00% | ~1,183 |
 | fifteenth Time's the Charm | 0.70% | ~414 |
-| More Power to You | 0.40% | ~236 |
+| More Power to You | 0.40% | ~237 |
 | Gone Rogue | 0.20% | ~118 |
 | Completely Customizable | 0.20% | ~118 |
 | Memory Keeper | 0.10% | ~59 |
 | Runs for Your Money | 0.10% | ~59 |
 | Past Master | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,120 (Ranked 94)  
+Progressed: 59,134 (Ranked 94)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,16 +56,16 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 58,222 | 1 |
 | 2023-09-28 | 58,582 | 1 |
 | 2023-09-29 | 58,939 | 1 |
-| 2023-09-30 | 59,120 | 1 |
+| 2023-09-30 | 59,134 | 1 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 427)  
-Sum: 87 (Ranked 430)  
-Diff (max vs sum): -3  
+Sum: 89 (Ranked 429)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |
 | This game has a Competitive Community | 23 |
-| This game is Highly Recommended | 21 |
+| This game is Highly Recommended | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -90,4 +90,4 @@ Diff (max vs sum): -3
 | 2023-09-27 | 4.18 | 34 | 34 |
 | 2023-09-28 | 4.19 | 38 | 58 |
 | 2023-09-29 | 4.18 | 38 | 82 |
-| 2023-09-30 | 4.17 | 43 | 87 |
+| 2023-09-30 | 4.18 | 43 | 89 |

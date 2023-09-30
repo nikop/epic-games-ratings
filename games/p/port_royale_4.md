@@ -8,7 +8,7 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~761 |
 | My little farm | 64.00% | ~601 |
-| Every beginning is difficult | 62.00% | ~582 |
+| Every beginning is difficult | 63.00% | ~592 |
 | Gofer | 57.00% | ~535 |
 | 3, 2, 1, mine | 55.00% | ~516 |
 | O Captain! My Captain! | 54.00% | ~507 |
@@ -16,7 +16,7 @@ Number of Ratings: 53  (23.09.2022)
 | Greed for gold | 43.00% | ~404 |
 | Intangible | 42.00% | ~394 |
 | I'm out of here for a while | 41.00% | ~385 |
-| In a mint condition | 37.00% | ~347 |
+| In a mint condition | 38.00% | ~357 |
 | Licence to Kill | 36.00% | ~338 |
 | Pirates! | 34.00% | ~319 |
 | Christening | 28.00% | ~263 |

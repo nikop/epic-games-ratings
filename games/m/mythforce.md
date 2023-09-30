@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 589)  
+Rating: 4.49 (Ranked 588)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,8 +15,8 @@ Number of Ratings: 285  (23.09.2022)
 | Spending Spree | 16.00% | ~556 |
 | First Strike | 15.00% | ~521 |
 | Horder Better Faster Stronger | 15.00% | ~521 |
+| Everything Must Go! | 13.00% | ~451 |
 | Ten Steps from the Grave | 13.00% | ~451 |
-| Everything Must Go! | 12.00% | ~417 |
 | Next Time on MythForce... | 11.00% | ~382 |
 | Cold-Blooded Critters | 9.00% | ~312 |
 | Death Becomes You | 8.00% | ~278 |

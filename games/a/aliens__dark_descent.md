@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.49 (Ranked 589)  
+Rating: 4.49 (Ranked 588)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.49 (Ranked 589)
 | Snatched Out | 74.00% | ~2,542 |
 | Keep 'Em Coming | 73.00% | ~2,508 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,301 |
-| Call Me Snake | 62.00% | ~2,130 |
+| Call Me Snake | 63.00% | ~2,164 |
 | Something Lurks Under The Hills | 61.00% | ~2,095 |
 | This Was No Papercut | 59.00% | ~2,027 |
 | The Shrink Hates Me | 57.00% | ~1,958 |
@@ -27,7 +27,7 @@ Rating: 4.49 (Ranked 589)
 | The More The Merrier | 33.00% | ~1,134 |
 | The Darwin Era Was Here | 29.00% | ~996 |
 | Deep Into Insanity | 28.00% | ~962 |
-| The Passenger | 27.00% | ~927 |
+| The Passenger | 28.00% | ~962 |
 | Come on, You Wanna Live Forever? | 26.00% | ~893 |
 | The Spire | 25.00% | ~859 |
 | El Riesgo Siempre Vive | 24.00% | ~824 |

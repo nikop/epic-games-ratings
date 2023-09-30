@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 492,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 60,
@@ -296,9 +296,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 222531,
+  "EOS_Progressed": 222549,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2034,
+  "EOS_NewPlayers": 2030,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8046,6 +8046,11 @@
       "Time": "2023-09-30T12:04:09.7345023+00:00",
       "NumProgressed": 222531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T13:06:49.4351291+00:00",
+      "NumProgressed": 222549,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8114,7 +8119,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46732
+      "UsersEstimate": 46735
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8122,7 +8127,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20028
+      "UsersEstimate": 20029
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -8138,7 +8143,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8901
+      "UsersEstimate": 8902
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -8242,7 +8247,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28929
+      "UsersEstimate": 28931
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8250,7 +8255,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15577
+      "UsersEstimate": 15578
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -8314,7 +8319,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55633
+      "UsersEstimate": 55637
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8329,7 +8334,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 222531,
+      "Progressed": 222549,
       "Completed": 0
     }
   ],
@@ -8337,8 +8342,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-29T12:00:47.5334964+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:04:09.7345015+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:06:49.4351283+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:57:33.1100305+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:04:09.7345781+00:00"
+  "LastUpdate_Ratings": "2023-09-30T12:59:40.3320801+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:06:49.4352277+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 404,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.33,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -401,6 +401,11 @@
       "Time": "2023-09-29T20:04:13.4086211+00:00",
       "NumProgressed": 75,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-30T13:08:29.2518463+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -411,7 +416,7 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -467,9 +472,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Kour",
@@ -499,7 +504,7 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 30
     },
@@ -507,7 +512,7 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -523,7 +528,7 @@
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -652,14 +657,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:05:35.0488735+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:08:29.2518457+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:57:46.3431761+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:05:35.0489232+00:00"
+  "LastUpdate_Ratings": "2023-09-30T12:59:56.3420262+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:08:29.2518761+00:00"
 }

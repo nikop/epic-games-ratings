@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 574)  
+Rating: 4.50 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,13 +11,13 @@ Rating: 4.50 (Ranked 574)
 | Discovery | 0.70% | ~183 |
 | Fully Upgraded | 0.70% | ~183 |
 | Solo Capture | 0.70% | ~183 |
+| Clutch Capture | 0.60% | ~157 |
 | I collect Spores, Molds, and Fungi | 0.60% | ~157 |
 | Teamwork | 0.60% | ~157 |
 | There you are! | 0.60% | ~157 |
 | Vaporous Expansion | 0.60% | ~157 |
 | Whoopsie | 0.60% | ~157 |
 | Back Off | 0.50% | ~131 |
-| Clutch Capture | 0.50% | ~131 |
 | Cultured | 0.50% | ~131 |
 | Icing on the Cake | 0.50% | ~131 |
 | Swift Rift Removers | 0.50% | ~131 |

@@ -1,20 +1,20 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 334)  
+Rating: 4.63 (Ranked 333)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,576 |
-| Rough Landing | 3.00% | ~26,576 |
-| Gunslinger | 2.00% | ~17,717 |
-| Master Crafter | 2.00% | ~17,717 |
-| Mean Streets | 2.00% | ~17,717 |
-| The High Priestess | 2.00% | ~17,717 |
-| The Jungle | 2.00% | ~17,717 |
-| Two Heads, One Bullet | 2.00% | ~17,717 |
-| V for Vendetta | 2.00% | ~17,717 |
+| Ten out of Ten | 3.00% | ~26,578 |
+| Rough Landing | 3.00% | ~26,578 |
+| Gunslinger | 2.00% | ~17,718 |
+| Master Crafter | 2.00% | ~17,718 |
+| Mean Streets | 2.00% | ~17,718 |
+| The High Priestess | 2.00% | ~17,718 |
+| The Jungle | 2.00% | ~17,718 |
+| Two Heads, One Bullet | 2.00% | ~17,718 |
+| V for Vendetta | 2.00% | ~17,718 |
 | To Bad Decisions! | 1.00% | ~8,859 |
 | Full Body Conversion | 1.00% | ~8,859 |
 | Right Back At Ya | 1.00% | ~8,859 |
@@ -22,22 +22,22 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 1.00% | ~8,859 |
 | Temperance | 1.00% | ~8,859 |
 | The Hermit | 1.00% | ~8,859 |
+| The Lovers | 1.00% | ~8,859 |
 | The Wheel of Fortune | 1.00% | ~8,859 |
 | True Soldier | 1.00% | ~8,859 |
 | True Warrior | 1.00% | ~8,859 |
 | Legend of The Afterlife | 1.00% | ~8,859 |
 | The Fool | 0.90% | ~7,973 |
-| The Lovers | 0.90% | ~7,973 |
 | The Quick and the Dead | 0.80% | ~7,087 |
 | The Devil | 0.80% | ~7,087 |
+| The World | 0.80% | ~7,087 |
 | It's Elementary | 0.80% | ~7,087 |
 | Gun Fu | 0.70% | ~6,201 |
 | Christmas Tree Attack | 0.70% | ~6,201 |
-| The World | 0.70% | ~6,201 |
 | Judy vs Night City | 0.70% | ~6,201 |
-| City Lights | 0.60% | ~5,315 |
-| Greetings from Pacifica! | 0.60% | ~5,315 |
-| Life of the Road | 0.40% | ~3,543 |
+| City Lights | 0.60% | ~5,316 |
+| Greetings from Pacifica! | 0.60% | ~5,316 |
+| Life of the Road | 0.40% | ~3,544 |
 | Spin Doctor | 0.40% | ~58 |
 | Bushido and Chill | 0.30% | ~2,658 |
 | The Wandering Fool | 0.30% | ~2,658 |
@@ -52,7 +52,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.20% | ~29 |
 | The Wasteland | 0.10% | ~886 |
 | Daemon In The Shell | 0.10% | ~886 |
-| The APB is Not Enough | 0.10% | ~14 |
+| The APB is Not Enough | 0.10% | ~15 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,857 (Ranked 15)  
-Completed: 2,491 (0.28%) (Ranked 202)  
+Progressed: 885,917 (Ranked 15)  
+Completed: 2,494 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2,491 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,857 | 2,491 |
+| 2023-09-30 | 885,917 | 2,494 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
 Sum: 241,934 (Ranked 13)  

@@ -19,6 +19,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 1.00% | ~1,369 |
 | Bounty Hunters | 1.00% | ~1,369 |
 | Flooding the Market | 1.00% | ~1,369 |
+| Where it Hurts | 1.00% | ~1,369 |
 | Another Satisfied Customer | 1.00% | ~1,369 |
 | Pretty Penny | 1.00% | ~1,369 |
 | One-Armed Bandit | 1.00% | ~1,369 |
@@ -26,7 +27,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,369 |
 | Own the Means of Production | 1.00% | ~1,369 |
 | Demand for Supplies | 0.90% | ~1,232 |
-| Where it Hurts | 0.90% | ~1,232 |
 | Gild-Gotten Goods | 0.90% | ~1,232 |
 | Did we pack lunch? | 0.90% | ~1,232 |
 | On the Path to Greatness | 0.80% | ~1,095 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,894 (Ranked 69)  
+Progressed: 136,898 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,14 +282,14 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
-| 2023-09-30 | 136,894 | 158 |
+| 2023-09-30 | 136,898 | 158 |
 ## Awards
-Max (Great for Beginners): 4,761  (Ranked 71)  
-Sum: 27,308 (Ranked 49)  
+Max (Great for Beginners): 4,763  (Ranked 71)  
+Sum: 27,310 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,761 |
+| This game is Great for Beginners | 4,763 |
 | This game is Relaxing | 4,018 |
 | This game has Quickly Understood Controls | 4,004 |
 | This game has Diverse Characters | 3,896 |
@@ -545,4 +545,4 @@ Diff (max vs sum): 22
 | 2023-09-26 | 3.99 | - | 4,760 | 27,297 |
 | 2023-09-27 | 3.99 | - | 4,760 | 27,301 |
 | 2023-09-28 | 3.99 | - | 4,761 | 27,304 |
-| 2023-09-30 | 3.99 | - | 4,761 | 27,308 |
+| 2023-09-30 | 3.99 | - | 4,763 | 27,310 |

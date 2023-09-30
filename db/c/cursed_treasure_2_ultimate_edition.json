@@ -499,17 +499,17 @@
       "ID": "BADGE_FORESTS_CUT",
       "SetID": "ak6pfjk",
       "Name": "Woodcutter",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "BADGE_GOLD_COINS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Look After the Pence...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_HOSTILE_WATERS",
@@ -644,8 +644,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:07:37.2186564+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:10:51.0179367+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:46.8784146+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:59:39.4606068+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:07:37.2187049+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:02:15.557667+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:10:51.0179923+00:00"
 }

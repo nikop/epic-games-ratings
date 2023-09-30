@@ -2,8 +2,8 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 551,
-  "Ranking_Popularity": 161,
+  "Ranking_Rating": 550,
+  "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
@@ -4150,11 +4150,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 6185,
       "NumberOfAwardsMax": 798
+    },
+    {
+      "Time": "2023-09-30T13:02:24.3240664+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6194,
+      "NumberOfAwardsMax": 803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6185,
-  "NumberOfAwardsMax": 798,
+  "NumberOfAwards": 6194,
+  "NumberOfAwardsMax": 803,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4167,13 +4173,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 771
+      "Count": 772
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 798
+      "Count": 803
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4197,7 +4203,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 559
+      "Count": 560
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4221,7 +4227,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 416
+      "Count": 418
     }
   ],
   "EOS_Progressed": 0,
@@ -4235,8 +4241,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-09-25T18:57:43.1770203+00:00",
+  "LastChanged": "2023-09-30T13:02:24.3240662+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:04.6283973+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:59:46.2280537+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:09:24.3852504+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:02:24.3240669+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:11:57.9443363+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 589,
+  "Ranking_Rating": 588,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -721,7 +721,7 @@
   ],
   "EOS_Progressed": 3472,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6179,9 +6179,9 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 451
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -6331,8 +6331,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-29T18:58:40.5635236+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:07:42.0400245+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:10:57.3617263+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:59:31.6675734+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:07:42.0400764+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:02:05.9185181+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:10:57.3617835+00:00"
 }

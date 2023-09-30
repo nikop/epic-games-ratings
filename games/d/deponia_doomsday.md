@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 492)  
+Rating: 4.55 (Ranked 491)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.55 (Ranked 492)
 | Masseltov | 20.00% | ~84 |
 | And everything comes full circle. | 20.00% | ~84 |
 | Quickdraw | 16.00% | ~67 |
-| Thuna...? | 14.00% | ~59 |
+| Thuna...? | 15.00% | ~63 |
 | Monstrous Harassment | 14.00% | ~59 |
 | Heading the inverter | 14.00% | ~59 |
 | Blast from the Past | 13.00% | ~55 |
@@ -34,8 +34,8 @@ Rating: 4.55 (Ranked 492)
 | Paradox! | 10.00% | ~42 |
 | Weapons 101 | 9.00% | ~38 |
 | Sadist | 8.00% | ~34 |
+| The customer is always right | 7.00% | ~29 |
 | Distraction | 6.00% | ~25 |
-| The customer is always right | 6.00% | ~25 |
 | Pacifist | 6.00% | ~25 |
 | Apoca...huh? | 6.00% | ~25 |
 | Against better judgement | 6.00% | ~25 |

@@ -5,19 +5,19 @@ Rating: 3.77 (Ranked 998)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,670 |
-| No Half Measures | 88.00% | ~14,516 |
-| Personal Matter | 86.00% | ~14,186 |
-| But You Have Heard of Me | 72.00% | ~11,876 |
-| Double the Barrels, double the Fun | 55.00% | ~9,072 |
-| Pimp My Glide | 48.00% | ~7,918 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,598 |
-| House Party! | 34.00% | ~5,608 |
-| Make It Rain | 23.00% | ~3,794 |
-| Curse of the Seven Seas | 22.00% | ~3,629 |
-| Head First | 16.00% | ~2,639 |
-| To the World's End | 12.00% | ~1,979 |
-| Table for Six | 11.00% | ~1,814 |
+| Eeligally Ambitious | 95.00% | ~15,677 |
+| No Half Measures | 88.00% | ~14,522 |
+| Personal Matter | 86.00% | ~14,192 |
+| But You Have Heard of Me | 72.00% | ~11,881 |
+| Double the Barrels, double the Fun | 55.00% | ~9,076 |
+| Pimp My Glide | 48.00% | ~7,921 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,601 |
+| House Party! | 34.00% | ~5,611 |
+| Make It Rain | 23.00% | ~3,795 |
+| Curse of the Seven Seas | 22.00% | ~3,630 |
+| Head First | 16.00% | ~2,640 |
+| To the World's End | 12.00% | ~1,980 |
+| Table for Six | 11.00% | ~1,815 |
 | Sharing Is Caring | 10.00% | ~1,650 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,320 |
 | Morally Flexible | 6.00% | ~990 |
@@ -27,12 +27,12 @@ Rating: 3.77 (Ranked 998)
 | A New Legend Awaits | 1.00% | ~165 |
 | Pirate King | 0.80% | ~132 |
 | Oooh, We're Half Way There | 0.80% | ~132 |
-| Devilishly Talented | 0.10% | ~16 |
-| Heavy Tunaing | 0.10% | ~16 |
-| Pufferfish | 0.10% | ~16 |
-| O Captain! My Captain! | 0.10% | ~16 |
+| Devilishly Talented | 0.10% | ~17 |
+| Heavy Tunaing | 0.10% | ~17 |
+| Pufferfish | 0.10% | ~17 |
+| O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,495 (Ranked 129)  
+Progressed: 16,502 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 16,304 | 0 |
 | 2023-09-28 | 16,374 | 0 |
 | 2023-09-29 | 16,460 | 0 |
-| 2023-09-30 | 16,495 | 0 |
+| 2023-09-30 | 16,502 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

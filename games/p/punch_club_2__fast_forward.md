@@ -45,11 +45,11 @@
 | Deal with life | 42.00% | ~139 |
 | Underground dwellers | 42.00% | ~139 |
 | Responsible approach | 42.00% | ~139 |
+| Mom got better | 41.00% | ~135 |
 | GYM professional | 41.00% | ~135 |
 | Poisoned fighter | 41.00% | ~135 |
 | Get out of my apartment! | 41.00% | ~135 |
-| Mom got better | 40.00% | ~132 |
-| The die is cast | 40.00% | ~132 |
+| The die is cast | 41.00% | ~135 |
 | Seashell hunter | 38.00% | ~125 |
 | Gang wrangler | 37.00% | ~122 |
 | Undercover robot | 37.00% | ~122 |

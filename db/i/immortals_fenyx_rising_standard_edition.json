@@ -2,7 +2,7 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 420,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 645,
@@ -1489,10 +1489,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 971,
       "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-09-30T13:03:41.4612841+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 972,
+      "NumberOfAwardsMax": 670
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 971,
+  "NumberOfAwards": 972,
   "NumberOfAwardsMax": 670,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1542,7 +1548,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1562,8 +1568,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-09-30T01:39:34.2698467+00:00",
+  "LastChanged": "2023-09-30T13:03:41.4612839+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:30.1507856+00:00",
-  "LastUpdate_Ratings": "2023-09-30T12:00:49.6768605+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:04:01.1113918+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:03:41.4612846+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:06:39.5718082+00:00"
 }

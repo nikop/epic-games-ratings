@@ -18,7 +18,7 @@
 | Machines | 7.00% | ~7 |
 | Killer Queen | 6.00% | ~6 |
 | Put Out the Fire | 5.00% | ~5 |
-| Cool Cat | 2.00% | ~2 |
+| Cool Cat | 3.00% | ~3 |
 | Good Company | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 100 (Ranked 380)  

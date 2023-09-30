@@ -26,7 +26,7 @@ Number of Ratings: 25  (23.09.2022)
 | Ever After | 37.00% | ~226 |
 | Loyal | 29.00% | ~177 |
 | Mandatory Sacrifice | 29.00% | ~177 |
-| The Collector | 24.00% | ~147 |
+| The Collector | 25.00% | ~153 |
 | All Doors Open | 20.00% | ~122 |
 | Faithful | 11.00% | ~67 |
 | Asmodeus | 9.00% | ~55 |

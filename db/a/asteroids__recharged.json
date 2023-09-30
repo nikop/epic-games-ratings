@@ -4,7 +4,7 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "ACH_COOL_CAT",
       "SetID": "ca3jj1k",
       "Name": "Cool Cat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FRIENDS",
@@ -382,8 +382,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-09-30T12:07:05.9396007+00:00",
+  "LastChanged_Achievements": "2023-09-30T13:10:15.3758989+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:30.3484366+00:00",
-  "LastUpdate_Ratings": "2023-09-30T11:59:10.0627034+00:00",
-  "LastUpdate_Achievements": "2023-09-30T12:07:05.9396143+00:00"
+  "LastUpdate_Ratings": "2023-09-30T13:01:39.0770043+00:00",
+  "LastUpdate_Achievements": "2023-09-30T13:10:15.3759145+00:00"
 }
