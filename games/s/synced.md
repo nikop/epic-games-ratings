@@ -5,24 +5,24 @@ Rating: 4.18 (Ranked 898)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 24.00% | ~14,213 |
-| As Far Away As Possible | 14.00% | ~8,291 |
-| A Most Unstable Organism | 11.00% | ~6,514 |
-| No Time to Follow Protocol | 9.00% | ~5,330 |
-| Float Like a Butterfly... | 7.00% | ~4,145 |
-| Nano Connoisseur | 5.00% | ~2,961 |
-| In Two Places At Once | 5.00% | ~2,961 |
-| Pulling Your Weight | 2.00% | ~1,184 |
-| Reaping Rivals | 2.00% | ~1,184 |
+| Your Lucky Day | 24.00% | ~14,220 |
+| As Far Away As Possible | 14.00% | ~8,295 |
+| A Most Unstable Organism | 11.00% | ~6,518 |
+| No Time to Follow Protocol | 9.00% | ~5,333 |
+| Float Like a Butterfly... | 7.00% | ~4,148 |
+| Nano Connoisseur | 5.00% | ~2,963 |
+| In Two Places At Once | 5.00% | ~2,963 |
+| Pulling Your Weight | 2.00% | ~1,185 |
+| Reaping Rivals | 2.00% | ~1,185 |
 | fifteenth Time's the Charm | 0.70% | ~415 |
 | More Power to You | 0.40% | ~237 |
-| Gone Rogue | 0.20% | ~118 |
-| Completely Customizable | 0.20% | ~118 |
+| Gone Rogue | 0.20% | ~119 |
+| Completely Customizable | 0.20% | ~119 |
 | Memory Keeper | 0.10% | ~59 |
 | Runs for Your Money | 0.10% | ~59 |
 | Past Master | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,220 (Ranked 94)  
+Progressed: 59,251 (Ranked 95)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,16 +56,17 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 58,222 | 1 |
 | 2023-09-28 | 58,582 | 1 |
 | 2023-09-29 | 58,939 | 1 |
-| 2023-09-30 | 59,220 | 1 |
+| 2023-09-30 | 59,251 | 1 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 427)  
-Sum: 89 (Ranked 429)  
-Diff (max vs sum): -2  
+Sum: 109 (Ranked 418)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |
 | This game has a Competitive Community | 23 |
 | This game is Highly Recommended | 23 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -90,4 +91,4 @@ Diff (max vs sum): -2
 | 2023-09-27 | 4.18 | 34 | 34 |
 | 2023-09-28 | 4.19 | 38 | 58 |
 | 2023-09-29 | 4.18 | 38 | 82 |
-| 2023-09-30 | 4.18 | 43 | 89 |
+| 2023-09-30 | 4.18 | 43 | 109 |

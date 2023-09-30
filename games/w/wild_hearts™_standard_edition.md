@@ -42,13 +42,13 @@
 | Human Believer | 25.00% | ~20 |
 | Jack of All Trades | 25.00% | ~20 |
 | Canyon of Karakuri | 23.00% | ~19 |
+| Superlative View | 22.00% | ~18 |
 | Karakuri Fortress | 21.00% | ~17 |
-| Superlative View | 21.00% | ~17 |
 | Tender Touch | 20.00% | ~16 |
 | Quintessence of Form | 20.00% | ~16 |
 | Relentless Kemono Hunter | 19.00% | ~15 |
+| Vanquisher of the Volatile | 17.00% | ~14 |
 | Haven Hunter | 17.00% | ~14 |
-| Vanquisher of the Volatile | 16.00% | ~13 |
 | Big Spender | 14.00% | ~11 |
 | Bewitched by Bathing | 11.00% | ~9 |
 | Tsukumo Whisperer | 7.00% | ~6 |

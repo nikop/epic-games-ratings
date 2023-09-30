@@ -1,11 +1,11 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 645)  
+Rating: 4.45 (Ranked 644)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,695 |
+| Meeting Resistance | 46.00% | ~1,696 |
 | Confirming Suspicions | 41.00% | ~1,511 |
 | The Kraken Wakes | 36.00% | ~1,327 |
 | It's Starting to Crack | 33.00% | ~1,216 |
@@ -14,24 +14,24 @@ Rating: 4.45 (Ranked 645)
 | Taking it back | 28.00% | ~1,032 |
 | Resourceful | 26.00% | ~958 |
 | Target America | 26.00% | ~958 |
-| The Kraken Sleeps | 24.00% | ~884 |
+| The Kraken Sleeps | 24.00% | ~885 |
 | Liberté | 22.00% | ~811 |
 | Organ Grinder | 22.00% | ~811 |
 | As Quiet as a Mouse | 22.00% | ~811 |
 | Sharpshooter | 21.00% | ~774 |
 | Explosive Efficiency | 19.00% | ~700 |
 | Gunslinger | 18.00% | ~663 |
-| Just a Flesh Wound | 17.00% | ~626 |
+| Just a Flesh Wound | 17.00% | ~627 |
 | Climbing the Ladder | 16.00% | ~590 |
 | Der Geist | 16.00% | ~590 |
 | Close Quarters | 15.00% | ~553 |
+| Snake in the Grass | 15.00% | ~553 |
 | Brains of the Operation | 15.00% | ~553 |
 | No Stone Unturned | 14.00% | ~516 |
 | Enemy at the Gates | 14.00% | ~516 |
 | Fields of Glory | 14.00% | ~516 |
 | Skirmisher | 14.00% | ~516 |
 | Die Nussknacker Sweet! | 14.00% | ~516 |
-| Snake in the Grass | 14.00% | ~516 |
 | Opposing Force | 13.00% | ~479 |
 | Set Europe Ablaze | 13.00% | ~479 |
 | Precision Is Key | 9.00% | ~332 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 645)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,685 (Ranked 175)  
+Progressed: 3,686 (Ranked 175)  
 Completed: 11 (0.30%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 11 (0.30%) (Ranked 196)
 | 2023-09-27 | 3,675 | 11 |
 | 2023-09-28 | 3,679 | 11 |
 | 2023-09-29 | 3,683 | 11 |
-| 2023-09-30 | 3,685 | 11 |
+| 2023-09-30 | 3,686 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

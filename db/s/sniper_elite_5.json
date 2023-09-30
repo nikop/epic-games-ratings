@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3685,
+  "EOS_Progressed": 3686,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -6995,6 +6995,11 @@
       "Time": "2023-09-30T13:09:15.358644+00:00",
       "NumProgressed": 3685,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-30T17:05:50.8414251+00:00",
+      "NumProgressed": 3686,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7062,7 +7067,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7086,7 +7091,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7268,9 +7273,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 553
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7414,7 +7419,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7573,13 +7578,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3636,
+      "Progressed": 3637,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3685,
+      "Progressed": 3686,
       "Completed": 11
     }
   ],
@@ -7587,8 +7592,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:05:10.3295037+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:05:50.8414246+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:57:14.5420307+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:05:10.3296129+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:57:15.7630839+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:05:50.841541+00:00"
 }

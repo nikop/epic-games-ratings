@@ -6,12 +6,12 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,956 |
-| He's Signed! | 50.00% | ~236,956 |
-| First Victory | 50.00% | ~236,956 |
-| He's Sold! | 48.00% | ~227,478 |
-| I'm The Boss! | 42.00% | ~199,043 |
-| Hat-trick | 41.00% | ~194,304 |
+| Clean Sheet | 50.00% | ~236,957 |
+| He's Signed! | 50.00% | ~236,957 |
+| First Victory | 50.00% | ~236,957 |
+| He's Sold! | 48.00% | ~227,479 |
+| I'm The Boss! | 42.00% | ~199,044 |
+| Hat-trick | 41.00% | ~194,305 |
 | Scoring Streak | 38.00% | ~180,087 |
 | Unbeatable! | 37.00% | ~175,348 |
 | Thumping | 37.00% | ~175,348 |
@@ -27,9 +27,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Attack! | 28.00% | ~132,696 |
 | Tremendous Trio | 27.00% | ~127,957 |
 | Record Sale | 27.00% | ~127,957 |
-| You're On Fire | 26.00% | ~123,217 |
-| On A Roll | 26.00% | ~123,217 |
-| Unstoppable Force | 26.00% | ~123,217 |
+| You're On Fire | 26.00% | ~123,218 |
+| On A Roll | 26.00% | ~123,218 |
+| Unstoppable Force | 26.00% | ~123,218 |
 | Armchair Expert | 25.00% | ~118,478 |
 | Fantastic Five | 24.00% | ~113,739 |
 | Full Faith | 24.00% | ~113,739 |
@@ -43,7 +43,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Cup Glory! | 22.00% | ~104,261 |
 | Irresistible Force | 20.00% | ~94,783 |
 | Excellent Match Cohesion | 20.00% | ~94,783 |
-| Do The Double | 19.00% | ~90,043 |
+| Do The Double | 19.00% | ~90,044 |
 | Top Form | 17.00% | ~80,565 |
 | Cash To Burn | 17.00% | ~80,565 |
 | Overachiever! | 16.00% | ~75,826 |
@@ -54,7 +54,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Comeback King! | 14.00% | ~66,348 |
 | You're Up! | 13.00% | ~61,609 |
 | Money, Money, Money | 12.00% | ~56,870 |
-| Invincible! | 11.00% | ~52,130 |
+| Invincible! | 11.00% | ~52,131 |
 | Superb Strike | 10.00% | ~47,391 |
 | International Superstar | 10.00% | ~47,391 |
 | Best In The World | 10.00% | ~47,391 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,913 (Ranked 36)  
+Progressed: 473,914 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 21 (0.00%) (Ranked 300)
 | 2023-09-27 | 473,813 | 21 |
 | 2023-09-28 | 473,851 | 21 |
 | 2023-09-29 | 473,884 | 21 |
-| 2023-09-30 | 473,913 | 21 |
+| 2023-09-30 | 473,914 | 21 |
 ## Awards
 Max (Relaxing): 6,455  (Ranked 55)  
 Sum: 50,808 (Ranked 26)  

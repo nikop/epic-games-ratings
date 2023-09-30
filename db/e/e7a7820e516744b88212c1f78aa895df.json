@@ -125,9 +125,9 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achMaxCage",
@@ -355,8 +355,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:03:44.2168473+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:04:01.1446946+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:03.9144477+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:03:44.216867+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:58:20.2976325+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:04:01.1447155+00:00"
 }

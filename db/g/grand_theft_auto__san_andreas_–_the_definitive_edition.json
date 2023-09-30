@@ -6,8 +6,8 @@
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1072,9 +1072,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13050,
+  "EOS_Progressed": 13051,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12042,6 +12042,11 @@
       "Time": "2023-09-30T16:04:14.4612546+00:00",
       "NumProgressed": 13050,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-30T17:04:39.7227427+00:00",
+      "NumProgressed": 13051,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -12053,7 +12058,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10570
+      "UsersEstimate": 10571
     },
     {
       "ID": "ACH02",
@@ -12077,7 +12082,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH05",
@@ -12165,7 +12170,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH16",
@@ -12173,7 +12178,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACH17",
@@ -12197,7 +12202,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH20",
@@ -12213,7 +12218,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH22",
@@ -12237,7 +12242,7 @@
       "Name": "Not a Player",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH25",
@@ -12293,7 +12298,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH32",
@@ -12332,7 +12337,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13050,
+      "Progressed": 13051,
       "Completed": 48
     }
   ],
@@ -12340,8 +12345,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-29T18:59:29.2350087+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:04:14.4612541+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:04:39.7227417+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:59:30.1847357+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:04:14.4613482+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:00:20.3912352+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:04:39.7228395+00:00"
 }

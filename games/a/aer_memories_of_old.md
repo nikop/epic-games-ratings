@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 631)  
+Rating: 4.46 (Ranked 630)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~16,296 |
-| Mama? | 28.00% | ~5,926 |
+| Light at the end of the tunnel | 77.00% | ~16,299 |
+| Mama? | 28.00% | ~5,927 |
 | People's Haven | 18.00% | ~3,810 |
 | Cartographer | 17.00% | ~3,598 |
 | Antlers of Stone | 15.00% | ~3,175 |
 | Knowledge for Power | 14.00% | ~2,963 |
-| Gaze into the abyss | 13.00% | ~2,751 |
-| Mausoleum of Ice | 13.00% | ~2,751 |
+| Gaze into the abyss | 13.00% | ~2,752 |
+| Mausoleum of Ice | 13.00% | ~2,752 |
 | In the belly of the beast | 12.00% | ~2,540 |
 | Wings of Stone | 12.00% | ~2,540 |
 | Equilibrium | 12.00% | ~2,540 |
-| Condor condo | 10.00% | ~2,116 |
+| Condor condo | 10.00% | ~2,117 |
 | Memorial | 9.00% | ~1,905 |
 | An uninvited guest | 8.00% | ~1,693 |
-| Talk to all the spirit animals | 7.00% | ~1,481 |
+| Talk to all the spirit animals | 7.00% | ~1,482 |
 | Ripples on the surface | 6.00% | ~1,270 |
 | Tails of Stone | 6.00% | ~1,270 |
 | Baa from the past | 6.00% | ~1,270 |
 | Written in stone | 6.00% | ~1,270 |
 | Hide and Seek | 5.00% | ~1,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,164 (Ranked 119)  
+Progressed: 21,167 (Ranked 119)  
 Completed: 424 (2.00%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 424 (2.00%) (Ranked 102)
 | 2023-09-27 | 20,967 | 422 |
 | 2023-09-28 | 21,024 | 422 |
 | 2023-09-29 | 21,096 | 422 |
-| 2023-09-30 | 21,164 | 424 |
+| 2023-09-30 | 21,167 | 424 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

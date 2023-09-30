@@ -5,43 +5,43 @@ Rating: 4.83 (Ranked 57)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,092 |
-| A Thorny Situation | 70.00% | ~3,924 |
-| ... And Spit Back Out | 59.00% | ~3,308 |
-| Break-Net Speed | 47.00% | ~2,635 |
-| Bramble Breaker | 44.00% | ~2,467 |
-| Miner 49er | 41.00% | ~2,298 |
-| Humble Collector | 40.00% | ~2,242 |
-| Calm Sailing | 33.00% | ~1,850 |
-| Open the Gate! | 30.00% | ~1,682 |
-| Mist Walker | 28.00% | ~1,570 |
-| Lumberjack | 24.00% | ~1,345 |
-| Oui, Chef! | 22.00% | ~1,233 |
-| Clear the Air | 15.00% | ~841 |
-| Botanical Breakthrough | 14.00% | ~785 |
-| Beach Comber | 12.00% | ~673 |
-| Higher Tax Bracket | 11.00% | ~617 |
-| Search for the Hairy Grell | 10.00% | ~561 |
-| Got to Catch Them All | 6.00% | ~336 |
-| Rumble in the Jumble | 6.00% | ~336 |
-| Fanatical Farmer | 6.00% | ~336 |
-| Skilled | 6.00% | ~336 |
-| Flaming Hot Completos | 4.00% | ~224 |
-| Fae Farmer | 4.00% | ~224 |
-| Scattered Scroll Scrounger | 4.00% | ~224 |
-| I Now Pronounce You... | 4.00% | ~224 |
-| Azorian Anniversary | 4.00% | ~224 |
+| Azoria Beckons | 73.00% | ~4,099 |
+| A Thorny Situation | 70.00% | ~3,930 |
+| ... And Spit Back Out | 59.00% | ~3,313 |
+| Break-Net Speed | 47.00% | ~2,639 |
+| Bramble Breaker | 44.00% | ~2,471 |
+| Miner 49er | 41.00% | ~2,302 |
+| Humble Collector | 40.00% | ~2,246 |
+| Calm Sailing | 33.00% | ~1,853 |
+| Open the Gate! | 30.00% | ~1,684 |
+| Mist Walker | 28.00% | ~1,572 |
+| Lumberjack | 24.00% | ~1,348 |
+| Oui, Chef! | 22.00% | ~1,235 |
+| Clear the Air | 15.00% | ~842 |
+| Botanical Breakthrough | 14.00% | ~786 |
+| Beach Comber | 12.00% | ~674 |
+| Higher Tax Bracket | 11.00% | ~618 |
+| Search for the Hairy Grell | 10.00% | ~562 |
+| Got to Catch Them All | 6.00% | ~337 |
+| Rumble in the Jumble | 6.00% | ~337 |
+| Fanatical Farmer | 6.00% | ~337 |
+| Skilled | 6.00% | ~337 |
+| Flaming Hot Completos | 4.00% | ~225 |
+| Fae Farmer | 4.00% | ~225 |
+| Scattered Scroll Scrounger | 4.00% | ~225 |
+| I Now Pronounce You... | 4.00% | ~225 |
+| Azorian Anniversary | 4.00% | ~225 |
 | Chatty Neighbor | 3.00% | ~168 |
 | Right Tool For the Job | 2.00% | ~112 |
 | House Proud | 2.00% | ~112 |
-| Angling Authority | 0.90% | ~50 |
+| Angling Authority | 0.90% | ~51 |
 | Captain of Cozy | 0.80% | ~45 |
 | Cloverfield Island | 0.10% | ~6 |
 | Workaholic | 0.10% | ~6 |
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,606 (Ranked 163)  
+Progressed: 5,615 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 5,284 | 0 |
 | 2023-09-28 | 5,427 | 0 |
 | 2023-09-29 | 5,524 | 0 |
-| 2023-09-30 | 5,606 | 0 |
+| 2023-09-30 | 5,615 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

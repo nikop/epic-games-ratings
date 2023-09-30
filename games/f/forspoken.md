@@ -5,23 +5,23 @@ Rating: 4.16 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,071 |
-| Unlocked Potential | 9.00% | ~3,664 |
-| Tinkerer | 7.00% | ~2,850 |
-| Knock 'Em Dead | 7.00% | ~2,850 |
-| Pilgrimage: Initiate | 7.00% | ~2,850 |
-| Hell of a Run | 7.00% | ~2,850 |
-| Leapfrogger | 6.00% | ~2,443 |
-| Call of the Fount: Baptized | 6.00% | ~2,443 |
+| Attachments | 10.00% | ~4,072 |
+| Unlocked Potential | 9.00% | ~3,665 |
+| Tinkerer | 7.00% | ~2,851 |
+| Knock 'Em Dead | 7.00% | ~2,851 |
+| Pilgrimage: Initiate | 7.00% | ~2,851 |
+| Hell of a Run | 7.00% | ~2,851 |
+| Leapfrogger | 6.00% | ~2,444 |
+| Call of the Fount: Baptized | 6.00% | ~2,444 |
 | No Mercy | 5.00% | ~2,036 |
 | Explorer: Seeker | 5.00% | ~2,036 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,628 |
-| Stuck | 4.00% | ~1,628 |
-| Help Me Out Here | 4.00% | ~1,628 |
-| Outdoorsperson | 3.00% | ~1,221 |
-| The Interloper | 3.00% | ~1,221 |
-| Hop, Step, Jump | 3.00% | ~1,221 |
-| Endless Runner | 3.00% | ~1,221 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,629 |
+| Stuck | 4.00% | ~1,629 |
+| Help Me Out Here | 4.00% | ~1,629 |
+| Outdoorsperson | 3.00% | ~1,222 |
+| The Interloper | 3.00% | ~1,222 |
+| Hop, Step, Jump | 3.00% | ~1,222 |
+| Endless Runner | 3.00% | ~1,222 |
 | What Must Be Done | 2.00% | ~814 |
 | Might and Main | 2.00% | ~814 |
 | Damned If You Do... | 2.00% | ~814 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 907)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,711 (Ranked 105)  
+Progressed: 40,725 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 3 (0.01%) (Ranked 283)
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
 | 2023-09-29 | 40,425 | 3 |
-| 2023-09-30 | 40,711 | 3 |
+| 2023-09-30 | 40,725 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1498,
+  "EOS_Progressed": 1500,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5426,6 +5426,11 @@
       "Time": "2023-09-30T16:03:46.2868464+00:00",
       "NumProgressed": 1498,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T17:04:03.67146+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5477,7 +5482,7 @@
       "Name": "Gold Competitor",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_platinum_rewards_250",
@@ -5485,7 +5490,7 @@
       "Name": "Platinum Achiever",
       "Percentage": 0.1,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_platinum_rewards_50",
@@ -5493,7 +5498,7 @@
       "Name": "Platinum Competitor",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_silver_rewards_10",
@@ -5613,7 +5618,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5693,7 +5698,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5717,7 +5722,7 @@
       "Name": "Shock Troops",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -5740,14 +5745,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1498,
+      "Progressed": 1500,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:03:46.2868461+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:04:03.6714594+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:57:01.055367+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:03:46.286905+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:56:56.9333039+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:04:03.6715209+00:00"
 }

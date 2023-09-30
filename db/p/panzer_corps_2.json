@@ -2,7 +2,7 @@
   "ID": "a60b160cb14c4c258b70299310b63e56",
   "Name": "Panzer Corps 2",
   "ProductSlug": "panzer-corps-2",
-  "Ranking_Rating": 588,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 645,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -310,6 +310,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-09-30T16:58:16.45829+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -353,8 +359,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2023-09-21T11:00:16.8207765+00:00",
+  "LastChanged": "2023-09-30T16:58:16.4582899+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.9321963+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:00.9194072+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:05:02.1097047+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:58:16.4582905+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:05:38.6854674+00:00"
 }

@@ -6,16 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,583 |
-| Rough Landing | 3.00% | ~26,583 |
-| Right Back At Ya | 2.00% | ~17,722 |
-| Gunslinger | 2.00% | ~17,722 |
-| Master Crafter | 2.00% | ~17,722 |
-| Mean Streets | 2.00% | ~17,722 |
-| The High Priestess | 2.00% | ~17,722 |
-| The Jungle | 2.00% | ~17,722 |
-| Two Heads, One Bullet | 2.00% | ~17,722 |
-| V for Vendetta | 2.00% | ~17,722 |
+| Ten out of Ten | 3.00% | ~26,584 |
+| Rough Landing | 3.00% | ~26,584 |
+| Right Back At Ya | 2.00% | ~17,723 |
+| Gunslinger | 2.00% | ~17,723 |
+| Master Crafter | 2.00% | ~17,723 |
+| Mean Streets | 2.00% | ~17,723 |
+| The High Priestess | 2.00% | ~17,723 |
+| The Jungle | 2.00% | ~17,723 |
+| True Soldier | 2.00% | ~17,723 |
+| Two Heads, One Bullet | 2.00% | ~17,723 |
+| V for Vendetta | 2.00% | ~17,723 |
 | To Bad Decisions! | 1.00% | ~8,861 |
 | Full Body Conversion | 1.00% | ~8,861 |
 | Breathtaking | 1.00% | ~8,861 |
@@ -24,7 +25,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 1.00% | ~8,861 |
 | The Lovers | 1.00% | ~8,861 |
 | The Wheel of Fortune | 1.00% | ~8,861 |
-| True Soldier | 1.00% | ~8,861 |
 | True Warrior | 1.00% | ~8,861 |
 | Legend of The Afterlife | 1.00% | ~8,861 |
 | The Fool | 0.90% | ~7,975 |
@@ -37,20 +37,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.70% | ~6,203 |
 | City Lights | 0.60% | ~5,317 |
 | Greetings from Pacifica! | 0.60% | ~5,317 |
-| Life of the Road | 0.40% | ~3,544 |
+| Life of the Road | 0.50% | ~4,431 |
 | Spin Doctor | 0.40% | ~59 |
 | Bushido and Chill | 0.30% | ~2,658 |
 | The Wandering Fool | 0.30% | ~2,658 |
 | Autojock | 0.30% | ~2,658 |
+| Frequent Flyer | 0.30% | ~2,658 |
 | I Am The Law | 0.30% | ~2,658 |
 | Must Be Rats | 0.30% | ~2,658 |
 | The Sun | 0.30% | ~2,658 |
 | To Protect and Serve | 0.20% | ~1,772 |
-| Frequent Flyer | 0.20% | ~1,772 |
 | Little Tokyo | 0.20% | ~1,772 |
 | The Star | 0.20% | ~1,772 |
-| The APB is Not Enough | 0.20% | ~29 |
-| Relic Ruler | 0.20% | ~29 |
+| The APB is Not Enough | 0.20% | ~30 |
+| Relic Ruler | 0.20% | ~30 |
 | The Wasteland | 0.10% | ~886 |
 | Daemon In The Shell | 0.10% | ~886 |
 | All the President's Men | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,086 (Ranked 15)  
-Completed: 2,495 (0.28%) (Ranked 202)  
+Progressed: 886,146 (Ranked 15)  
+Completed: 2,497 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,10 +227,10 @@ Completed: 2,495 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 886,086 | 2,495 |
+| 2023-09-30 | 886,146 | 2,497 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
-Sum: 243,483 (Ranked 13)  
+Sum: 243,719 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 11,119 |
 | This game has Amazing Characters | 11,042 |
 | This game has Quickly Understood Controls | 10,898 |
-| This game has a Creative Community | 7,144 |
+| This game has a Creative Community | 7,380 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -502,4 +502,4 @@ Diff (max vs sum): -4
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
-| 2023-09-30 | 4.63 | - | 87,369 | 243,483 |
+| 2023-09-30 | 4.63 | - | 87,369 | 243,719 |

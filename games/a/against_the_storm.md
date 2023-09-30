@@ -20,6 +20,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 4.00% | ~670 |
 | Royal Outpost | 4.00% | ~670 |
 | Lost Colonies | 4.00% | ~670 |
+| Statue of the Forefathers | 4.00% | ~670 |
 | Watchtower | 4.00% | ~670 |
 | A Real Challenge | 4.00% | ~670 |
 | Trade Baron | 4.00% | ~670 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 3.00% | ~503 |
 | Flooded Mines | 3.00% | ~503 |
 | Monastery of the Holy Flame | 3.00% | ~503 |
-| Statue of the Forefathers | 3.00% | ~503 |
 | Corrosive Torrent | 3.00% | ~503 |
 | Cursed Lands | 3.00% | ~503 |
 | Like a Machine | 3.00% | ~503 |

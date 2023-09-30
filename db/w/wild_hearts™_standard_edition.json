@@ -514,9 +514,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_27",
@@ -618,9 +618,9 @@
       "ID": "achievement_38",
       "SetID": "2cpn27e",
       "Name": "Superlative View",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_39",
@@ -760,8 +760,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:05:11.1287814+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:05:51.8501367+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:57:51.4935063+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:05:11.1288253+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:58:04.171382+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:05:51.8501844+00:00"
 }

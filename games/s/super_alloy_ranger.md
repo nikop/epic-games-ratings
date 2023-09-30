@@ -21,8 +21,8 @@
 | Space Warrior: Prologue | 12.00% | ~11 |
 | The Fortress Conqueror | 11.00% | ~10 |
 | Grand Escape | 11.00% | ~10 |
+| Keep it Up, rookie! | 9.00% | ~8 |
 | he Ultra Fortress Conqueror | 8.00% | ~7 |
-| Keep it Up, rookie! | 8.00% | ~7 |
 | Antaeus | 8.00% | ~7 |
 | The Deep Frozen Conqueror | 7.00% | ~6 |
 | The Infinite Train Conqueror | 7.00% | ~6 |
@@ -50,9 +50,9 @@
 | Peace Out | 1.00% | ~1 |
 | Mischief Time | 1.00% | ~1 |
 | Art is an Explosion | 1.00% | ~1 |
+| Bullets Fear Me | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |
 | Flawless | 0.00% | ~0 |
-| Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 92 (Ranked 389)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1612,6 +1612,11 @@
       "Time": "2023-09-30T13:08:15.0155495+00:00",
       "NumProgressed": 520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T17:04:55.7732676+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1727,15 +1732,15 @@
       "Name": "Explorer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -1743,7 +1748,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1813,9 +1818,9 @@
       "ID": "ACH_COLL_CH09",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter IX",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_COLL_CH10",
@@ -1847,7 +1852,7 @@
       "Name": "Cowardice",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1855,7 +1860,7 @@
       "Name": "The Breaking Point",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1887,7 +1892,7 @@
       "Name": "Opportunities",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1903,7 +1908,7 @@
       "Name": "The Difference",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -1967,7 +1972,7 @@
       "Name": "Missing in Action",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1981,9 +1986,9 @@
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -2063,7 +2068,7 @@
       "Name": "Bullseye!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_NEST2",
@@ -2094,15 +2099,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:04:27.1896046+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:04:55.7732667+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.1580583+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:08.2693545+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:04:27.1896661+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:58:25.873577+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:04:55.773328+00:00"
 }

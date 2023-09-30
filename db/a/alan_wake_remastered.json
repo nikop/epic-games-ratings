@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66547,
+  "EOS_Progressed": 66549,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16404,6 +16404,11 @@
       "Time": "2023-09-30T16:03:10.4359632+00:00",
       "NumProgressed": 66547,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-30T17:03:18.1861388+00:00",
+      "NumProgressed": 66549,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16415,7 +16420,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27950
+      "UsersEstimate": 27951
     },
     {
       "ID": "02",
@@ -16423,7 +16428,7 @@
       "Name": "Nordic Walking",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17302
+      "UsersEstimate": 17303
     },
     {
       "ID": "03",
@@ -16431,7 +16436,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17302
+      "UsersEstimate": 17303
     },
     {
       "ID": "04",
@@ -16655,7 +16660,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11978
+      "UsersEstimate": 11979
     },
     {
       "ID": "32",
@@ -16687,7 +16692,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22626
+      "UsersEstimate": 22627
     },
     {
       "ID": "36",
@@ -16735,7 +16740,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11978
+      "UsersEstimate": 11979
     },
     {
       "ID": "42",
@@ -16887,7 +16892,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "61",
@@ -16950,21 +16955,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66547,
+      "Progressed": 66549,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30015,
+      "Progressed": 30017,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:03:10.4359627+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:03:18.1861382+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:17.3576104+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:03:10.4361287+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:58:38.6979113+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:03:18.1863063+00:00"
 }

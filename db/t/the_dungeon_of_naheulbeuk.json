@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1044,9 +1044,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 227696,
+  "EOS_Progressed": 227715,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1532,
+  "EOS_NewPlayers": 1533,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12889,6 +12889,11 @@
       "Time": "2023-09-30T16:05:25.5752017+00:00",
       "NumProgressed": 227696,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-30T17:06:09.8386885+00:00",
+      "NumProgressed": 227715,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -12948,7 +12953,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9108
+      "UsersEstimate": 9109
     },
     {
       "ID": "Chapter2",
@@ -13300,7 +13305,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11385
+      "UsersEstimate": 11386
     },
     {
       "ID": "DwarfElf15Support",
@@ -13348,7 +13353,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 72863
+      "UsersEstimate": 72869
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13396,7 +13401,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13662
+      "UsersEstimate": 13663
     },
     {
       "ID": "FollowBraztok",
@@ -13436,7 +13441,7 @@
       "Name": "We come in peace",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "MinistrelEpic",
@@ -13508,7 +13513,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "QuestPriestess",
@@ -13603,21 +13608,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 227696,
+      "Progressed": 227715,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 227696,
+      "Progressed": 227715,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-30T15:58:43.5543494+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:05:25.5752012+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:06:09.8386878+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:43.5543504+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:05:25.5753948+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:59:15.3081708+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:06:09.8388637+00:00"
 }

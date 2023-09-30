@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -11499,9 +11499,9 @@
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 670
     },
     {
       "ID": "WinNearTemple",
@@ -11675,8 +11675,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-30T15:57:20.2741508+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:06:38.0519282+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:07:40.5341391+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.2002266+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:57:20.2741513+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:06:38.052014+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:57:23.7235531+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:07:40.5343651+00:00"
 }

@@ -12651,10 +12651,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 243483,
       "NumberOfAwardsMax": 87369
+    },
+    {
+      "Time": "2023-09-30T16:59:04.4141485+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 243719,
+      "NumberOfAwardsMax": 87369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243483,
+  "NumberOfAwards": 243719,
   "NumberOfAwardsMax": 87369,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12728,12 +12734,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 7144
+      "Count": 7380
     }
   ],
-  "EOS_Progressed": 886086,
-  "EOS_Completed": 2495,
-  "EOS_NewPlayers": 6535,
+  "EOS_Progressed": 886146,
+  "EOS_Completed": 2497,
+  "EOS_NewPlayers": 6540,
   "EOS_NewCompleters": 214,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -31076,6 +31082,11 @@
       "Time": "2023-09-30T16:06:18.1836048+00:00",
       "NumProgressed": 886086,
       "NumCompleted": 2495
+    },
+    {
+      "Time": "2023-09-30T17:07:15.8321805+00:00",
+      "NumProgressed": 886146,
+      "NumCompleted": 2497
     }
   ],
   "TotalAchievements": 57,
@@ -31119,7 +31130,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "FollowingTheRiver",
@@ -31149,9 +31160,9 @@
       "ID": "GetMeThereScottie",
       "SetID": "47clieb",
       "Name": "Frequent Flyer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1772
+      "UsersEstimate": 2658
     },
     {
       "ID": "GunKata",
@@ -31167,7 +31178,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "HandyMan",
@@ -31175,7 +31186,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "IAmMaxTac",
@@ -31191,7 +31202,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "LittleTokyo",
@@ -31253,9 +31264,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3544
+      "UsersEstimate": 4431
     },
     {
       "ID": "Roleplayer",
@@ -31271,7 +31282,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26583
+      "UsersEstimate": 26584
     },
     {
       "ID": "Temperance",
@@ -31287,7 +31298,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26583
+      "UsersEstimate": 26584
     },
     {
       "ID": "TheDevil",
@@ -31319,7 +31330,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "TheLovers",
@@ -31375,15 +31386,15 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8861
+      "UsersEstimate": 17723
     },
     {
       "ID": "TrueWarrior",
@@ -31399,7 +31410,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "UnderPressure",
@@ -31415,7 +31426,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "YipMan",
@@ -31463,7 +31474,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Easycomeeasygo",
@@ -31527,7 +31538,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "UltimateSurvivor",
@@ -31542,21 +31553,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 886086,
-      "Completed": 2495
+      "Progressed": 886146,
+      "Completed": 2497
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14709,
+      "Progressed": 14769,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-30T14:02:01.492342+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:06:18.1836044+00:00",
+  "LastChanged": "2023-09-30T16:59:04.4141484+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:07:15.8321801+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:35.913367+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:06:18.183767+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:59:04.4141491+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:07:15.8323448+00:00"
 }

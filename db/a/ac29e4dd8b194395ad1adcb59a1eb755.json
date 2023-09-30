@@ -4,7 +4,7 @@
   "ProductSlug": "time-trap-8a9725",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
@@ -100,9 +100,9 @@
       "ID": "achievement_sniper",
       "SetID": "b9jpe8p",
       "Name": "Sniper",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_superman",
@@ -116,9 +116,9 @@
       "ID": "achievement_winner",
       "SetID": "b9jpe8p",
       "Name": "Winner",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -130,8 +130,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:03:24.9651947+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:03:36.5209261+00:00",
   "LastUpdate_AppInfo": "2023-09-26T14:57:13.5590857+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:54.5481972+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:03:24.9652011+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:59:31.0002993+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:03:36.5209326+00:00"
 }

@@ -2232,9 +2232,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26108,
+  "EOS_Progressed": 26111,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13872,6 +13872,11 @@
       "Time": "2023-09-30T16:04:03.3073698+00:00",
       "NumProgressed": 26108,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-30T17:04:25.2928252+00:00",
+      "NumProgressed": 26111,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13905,9 +13910,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -13961,9 +13966,9 @@
       "ID": "Diabolical",
       "SetID": "819popo",
       "Name": "Diabolical",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Discovery",
@@ -14290,7 +14295,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26108,
+      "Progressed": 26111,
       "Completed": 58
     }
   ],
@@ -14298,8 +14303,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:04:03.3073691+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:04:25.2928243+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:59:23.7301093+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:04:03.3076541+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:00:10.8658046+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:04:25.2929407+00:00"
 }

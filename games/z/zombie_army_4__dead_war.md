@@ -7,22 +7,22 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,049 |
-| Say goodbye, creep! | 66.00% | ~28,742 |
-| Blood splattered | 65.00% | ~28,307 |
-| Choo choo! | 62.00% | ~27,000 |
-| Groovy | 61.00% | ~26,565 |
+| Say goodbye, creep! | 66.00% | ~28,743 |
+| Blood splattered | 65.00% | ~28,308 |
+| Choo choo! | 62.00% | ~27,001 |
+| Groovy | 61.00% | ~26,566 |
 | Cleanup on aisle 4! | 57.00% | ~24,823 |
-| Gold | 50.00% | ~21,774 |
-| The boat can leave now...tell the crew | 49.00% | ~21,339 |
+| Gold | 50.00% | ~21,775 |
+| The boat can leave now...tell the crew | 49.00% | ~21,340 |
 | Give me something to shoot! | 47.00% | ~20,468 |
 | Stand back boy! | 47.00% | ~20,468 |
-| Chain reaction | 45.00% | ~19,597 |
+| Chain reaction | 45.00% | ~19,598 |
 | Weird science | 44.00% | ~19,162 |
 | What did you say, Blain? | 42.00% | ~18,291 |
-| Look mummy! A shark! | 41.00% | ~17,855 |
+| Look mummy! A shark! | 41.00% | ~17,856 |
 | In the dark dark woods... | 39.00% | ~16,984 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,549 |
-| Double tap | 37.00% | ~16,113 |
+| Double tap | 37.00% | ~16,114 |
 | All of this has happened before… | 36.00% | ~15,678 |
 | Cranial blowout! | 36.00% | ~15,678 |
 | Zombie killin' machine | 36.00% | ~15,678 |
@@ -40,29 +40,29 @@ Number of Ratings: 743  (23.09.2022)
 | Leave the limbs you've lost | 23.00% | ~10,016 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,274 |
 | Take them down screaming | 18.00% | ~7,839 |
-| Bad Blood | 17.00% | ~7,403 |
-| Weapons expert | 17.00% | ~7,403 |
+| Bad Blood | 17.00% | ~7,404 |
+| Weapons expert | 17.00% | ~7,404 |
 | The bigger they are... | 15.00% | ~6,532 |
 | I'm going deeper underground | 14.00% | ~6,097 |
-| Well equipped | 13.00% | ~5,661 |
+| Well equipped | 13.00% | ~5,662 |
 | Into the deep | 12.00% | ~5,226 |
-| Damnedbusters | 9.00% | ~3,919 |
+| Damnedbusters | 9.00% | ~3,920 |
 | Plane sailing | 8.00% | ~3,484 |
 | I can do anything I want. I got guns | 8.00% | ~3,484 |
 | Send me an angel | 8.00% | ~3,484 |
-| This is no Sunday School picnic! | 7.00% | ~3,048 |
-| I never redoubted you! | 7.00% | ~3,048 |
-| Not today you won't | 7.00% | ~3,048 |
-| Gotcha, didn't I? | 7.00% | ~3,048 |
-| A gross gross | 7.00% | ~3,048 |
-| Hail to the king, baby! | 7.00% | ~3,048 |
+| This is no Sunday School picnic! | 7.00% | ~3,049 |
+| I never redoubted you! | 7.00% | ~3,049 |
+| Not today you won't | 7.00% | ~3,049 |
+| Gotcha, didn't I? | 7.00% | ~3,049 |
+| A gross gross | 7.00% | ~3,049 |
+| Hail to the king, baby! | 7.00% | ~3,049 |
 | Something wicked this way comes | 6.00% | ~2,613 |
 | Take a little bit of Italy with you | 6.00% | ~2,613 |
 | Staring at Shadows | 6.00% | ~2,613 |
 | I told you we should have gone to the beach | 6.00% | ~2,613 |
 | Hoarder | 6.00% | ~2,613 |
-| Kali Ma | 5.00% | ~2,177 |
-| Have you tried turning it off and on again? | 5.00% | ~2,177 |
+| Kali Ma | 5.00% | ~2,178 |
+| Have you tried turning it off and on again? | 5.00% | ~2,178 |
 | They're coming to get you Barbara | 4.00% | ~1,742 |
 | Total protonic reversal | 4.00% | ~1,742 |
 | A friend in need | 4.00% | ~1,742 |
@@ -70,10 +70,10 @@ Number of Ratings: 743  (23.09.2022)
 | The blighters got through a second time. | 3.00% | ~1,306 |
 | I'm a survivor! | 3.00% | ~1,306 |
 | That's a lot of them, and only 4 of us | 2.00% | ~871 |
-| Just me and my trusty sidearm | 1.00% | ~435 |
+| Just me and my trusty sidearm | 1.00% | ~436 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,549 (Ranked 101)  
+Progressed: 43,550 (Ranked 101)  
 Completed: 25 (0.06%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 25 (0.06%) (Ranked 255)
 | 2023-09-27 | 43,532 | 25 |
 | 2023-09-28 | 43,536 | 25 |
 | 2023-09-29 | 43,547 | 25 |
-| 2023-09-30 | 43,549 | 25 |
+| 2023-09-30 | 43,550 | 25 |
 ## Awards
 Max (Great Boss Battles): 828  (Ranked 156)  
 Sum: 2,503 (Ranked 179)  

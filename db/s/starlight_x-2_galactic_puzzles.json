@@ -4,7 +4,7 @@
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -288,6 +288,11 @@
     {
       "Time": "2023-09-24T14:04:13.3694058+00:00",
       "NumProgressed": 57,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T17:06:40.1211797+00:00",
+      "NumProgressed": 58,
       "NumCompleted": 0
     }
   ],
@@ -610,7 +615,7 @@
       "ID": "ach_switchoff_00",
       "SetID": "8jkn3bi",
       "Name": "Switch off the light",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -618,7 +623,7 @@
       "ID": "ach_usehints_00",
       "SetID": "8jkn3bi",
       "Name": "Use 10 hints",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -643,13 +648,13 @@
     {
       "ID": "8jkn3bi",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:05:49.6165909+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:06:40.1211781+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:56:59.5939766+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:57:06.9561339+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:05:49.6166269+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:57:04.918043+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:06:40.1212169+00:00"
 }

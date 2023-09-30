@@ -7483,10 +7483,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14653,
       "NumberOfAwardsMax": 7159
+    },
+    {
+      "Time": "2023-09-30T16:58:48.137386+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14656,
+      "NumberOfAwardsMax": 7159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14653,
+  "NumberOfAwards": 14656,
   "NumberOfAwardsMax": 7159,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7536,7 +7542,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 800
+      "Count": 803
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7563,9 +7569,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62425,
+  "EOS_Progressed": 62427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24898,6 +24904,11 @@
       "Time": "2023-09-30T16:05:34.8413736+00:00",
       "NumProgressed": 62425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T17:06:21.7112939+00:00",
+      "NumProgressed": 62427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24989,7 +25000,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6242
+      "UsersEstimate": 6243
     },
     {
       "ID": "Dynasty",
@@ -24997,7 +25008,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6242
+      "UsersEstimate": 6243
     },
     {
       "ID": "Entrepreneur",
@@ -25037,7 +25048,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8115
+      "UsersEstimate": 8116
     },
     {
       "ID": "Great Granny",
@@ -25101,7 +25112,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10612
+      "UsersEstimate": 10613
     },
     {
       "ID": "Kingslayer",
@@ -25133,7 +25144,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20600
+      "UsersEstimate": 20601
     },
     {
       "ID": "Lawbringer",
@@ -25141,7 +25152,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24346
+      "UsersEstimate": 24347
     },
     {
       "ID": "Lawmaker",
@@ -25253,7 +25264,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6242
+      "UsersEstimate": 6243
     },
     {
       "ID": "The king is pleased",
@@ -25261,7 +25272,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11237
     },
     {
       "ID": "This Is Our Land",
@@ -25309,22 +25320,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6242
+      "UsersEstimate": 6243
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62425,
+      "Progressed": 62427,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-30T15:58:23.5648798+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:05:34.8413732+00:00",
+  "LastChanged": "2023-09-30T16:58:48.1373859+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:06:21.7112933+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:58:23.5648805+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:05:34.8415013+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:58:48.137387+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:06:21.7114432+00:00"
 }

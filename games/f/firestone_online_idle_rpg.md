@@ -28,6 +28,7 @@ Rating: 4.05 (Ranked 949)
 | Superior | 14.00% | ~277 |
 | The Unstoppable | 14.00% | ~277 |
 | Scientist | 13.00% | ~257 |
+| The power of Awakening | 12.00% | ~237 |
 | Challenger | 11.00% | ~218 |
 | Daily Quest Completionist | 11.00% | ~218 |
 | Doing My Part | 11.00% | ~218 |
@@ -37,7 +38,6 @@ Rating: 4.05 (Ranked 949)
 | Moving Up The Ladder | 11.00% | ~218 |
 | Relic Of The Past | 11.00% | ~218 |
 | Scroll Master | 11.00% | ~218 |
-| The power of Awakening | 11.00% | ~218 |
 | Frostfire Liberator | 10.00% | ~198 |
 | The father of Dragons | 10.00% | ~198 |
 | Here We Go Again | 9.00% | ~178 |

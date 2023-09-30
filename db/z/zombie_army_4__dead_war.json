@@ -2103,9 +2103,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43549,
+  "EOS_Progressed": 43550,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7238,6 +7238,11 @@
       "Time": "2023-09-30T09:03:48.819003+00:00",
       "NumProgressed": 43549,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-30T17:03:48.1564412+00:00",
+      "NumProgressed": 43550,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7249,7 +7254,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26565
+      "UsersEstimate": 26566
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -7257,7 +7262,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -7281,7 +7286,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5661
+      "UsersEstimate": 5662
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -7289,7 +7294,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -7313,7 +7318,7 @@
       "Name": "This is no Sunday School picnic!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "SE_COMPLETE_CROATIA",
@@ -7321,7 +7326,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17855
+      "UsersEstimate": 17856
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -7329,7 +7334,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3919
+      "UsersEstimate": 3920
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -7337,7 +7342,7 @@
       "Name": "I never redoubted you!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "SE_COMPLETE_DEEPER_THAN_HELL",
@@ -7401,7 +7406,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -7441,7 +7446,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27000
+      "UsersEstimate": 27001
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7481,7 +7486,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -7497,7 +7502,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21339
+      "UsersEstimate": 21340
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -7537,7 +7542,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16113
+      "UsersEstimate": 16114
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -7553,7 +7558,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21774
+      "UsersEstimate": 21775
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -7585,7 +7590,7 @@
       "Name": "Gotcha, didn\u0027t I?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
@@ -7641,7 +7646,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19597
+      "UsersEstimate": 19598
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -7649,7 +7654,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28742
+      "UsersEstimate": 28743
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -7665,7 +7670,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -7673,7 +7678,7 @@
       "Name": "A gross gross",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "SE_PERFORM_ALL_HEROIC_ACTIONS",
@@ -7697,7 +7702,7 @@
       "Name": "Hail to the king, baby!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "SE_REACH_RANK_5",
@@ -7705,7 +7710,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28307
+      "UsersEstimate": 28308
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -7729,7 +7734,7 @@
       "Name": "Just me and my trusty sidearm",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "SE_REVIVE_PLAYERS_X_TIMES",
@@ -7776,15 +7781,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43549,
+      "Progressed": 43550,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-30T14:05:06.1289985+00:00",
-  "LastChanged_Achievements": "2023-09-30T16:03:34.3565786+00:00",
+  "LastChanged_Achievements": "2023-09-30T17:03:48.1564406+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:14.6672036+00:00",
-  "LastUpdate_Ratings": "2023-09-30T16:00:20.0435603+00:00",
-  "LastUpdate_Achievements": "2023-09-30T16:03:34.3566813+00:00"
+  "LastUpdate_Ratings": "2023-09-30T17:02:06.8266803+00:00",
+  "LastUpdate_Achievements": "2023-09-30T17:03:48.156535+00:00"
 }
