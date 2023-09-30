@@ -84,7 +84,7 @@
 | [The Sophisticated Art of Friendship](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2023-11-30 | - |  | - | - |
 | [The Ecdysis](games/8/824dd71739cf45fba9d997979856c5a9.md) | 2023-11-30 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | - |  | - | - |
-| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 16 | - | - |
+| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 17 | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2023-12-31 | - |  | - | - |
@@ -193,7 +193,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,047 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,049 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -345,7 +345,7 @@
 | [Loop](games/l/loop.md) | 2099-01-01 | - |  | - | - |
 | [Lost And Found Beta](games/5/52584c975e1d43d5b8c521f9a3eb64a1.md) | 2099-01-01 | - |  | - | - |
 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 2099-01-01 | 42 (1,000 XP) | 5 | - | - |
-| [Lucky Goal](games/7/7a78425e9d094942bd44700957de54da.md) | 2099-01-01 | 29 (1,000 XP) | 12 | - | - |
+| [Lucky Goal](games/7/7a78425e9d094942bd44700957de54da.md) | 2099-01-01 | 29 (1,000 XP) | 13 | - | - |
 | [Luna Abyss](games/l/luna_abyss.md) | 2099-01-01 | - |  | - | - |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2099-01-01 | - |  | - | - |
 | [Macabre](games/m/macabre.md) | 2099-01-01 | - |  | - | - |

@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 72.82% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 72.69% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.11% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.59% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -27,7 +27,7 @@
 | 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 26 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.78% |
-| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.53% |
+| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.34% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.15% |
 | 30 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 30 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -40,16 +40,16 @@
 | 38 | [Ravenlok](games/r/ravenlok.md) | 7.72% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.59% |
-| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.58% |
+| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.55% |
 | 42 | [Time Loader](games/t/time_loader.md) | 7.26% |
-| 43 | [Scorn](games/s/scorn.md) | 7.02% |
+| 43 | [Scorn](games/s/scorn.md) | 7.07% |
 | 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.49% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.25% |
-| 46 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 6.25% |
-| 49 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
-| 50 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 48 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
+| 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 49 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 5.88% |
 | 51 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
 | 52 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.68% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.33% |
@@ -173,8 +173,8 @@
 | 171 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 172 | [Godlike Burger](games/g/godlike_burger.md) | 0.44% |
 | 172 | [Tchia](games/t/tchia.md) | 0.44% |
-| 174 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.42% |
 | 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.42% |
+| 175 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.41% |
 | 176 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 176 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 178 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
@@ -183,22 +183,22 @@
 | 181 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 181 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
 | 183 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
-| 183 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.36% |
 | 183 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 186 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
-| 186 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
+| 185 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 185 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
+| 185 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.35% |
 | 188 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 188 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 190 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
-| 191 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 191 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.32% |
-| 193 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 193 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 196 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 196 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.30% |
-| 196 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
-| 196 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.33% |
+| 192 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 192 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.32% |
+| 194 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 194 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 197 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 197 | [The Devil's Face](games/t/the_devil's_face.md) | 0.30% |
+| 197 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 200 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 200 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 202 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.28% |
