@@ -2,9 +2,9 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -241,6 +241,11 @@
       "Time": "2023-09-29T02:19:52.494494+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T14:07:34.352154+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -251,7 +256,7 @@
       "ID": "A1",
       "SetID": "7f5j12l",
       "Name": "Level 1 Completed",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -275,7 +280,7 @@
       "ID": "A12",
       "SetID": "7f5j12l",
       "Name": "White House Destroyed",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -291,7 +296,7 @@
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -307,7 +312,7 @@
       "ID": "A16",
       "SetID": "7f5j12l",
       "Name": "Nuclear Plant Destroyed",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -323,7 +328,7 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -355,7 +360,7 @@
       "ID": "A21",
       "SetID": "7f5j12l",
       "Name": "Black Flame",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -483,7 +488,7 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -524,14 +529,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:07:41.1294315+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:07:34.3521535+00:00",
   "LastUpdate_AppInfo": "2023-09-26T04:57:18.3113989+00:00",
-  "LastUpdate_Ratings": "2023-09-30T12:59:47.4814683+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:07:41.1294647+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:00:10.9334798+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:07:34.3521931+00:00"
 }

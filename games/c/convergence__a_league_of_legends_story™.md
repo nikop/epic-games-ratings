@@ -17,24 +17,24 @@ Rating: 4.60 (Ranked 398)
 | The Harder They Fall | 20.00% | ~180 |
 | No, Thanks! | 20.00% | ~180 |
 | Breaking Down Barriers | 20.00% | ~180 |
+| The Wicked Twins | 20.00% | ~180 |
 | Honest Mistake | 20.00% | ~180 |
 | Fast Learner | 20.00% | ~180 |
 | Immaculate Aim | 20.00% | ~180 |
-| The Wicked Twins | 19.00% | ~171 |
 | Right On Time | 18.00% | ~162 |
 | Like Clockwork | 18.00% | ~162 |
 | The Betrayer | 18.00% | ~162 |
 | Golem Chaser | 18.00% | ~162 |
+| Check Your Pulse | 18.00% | ~162 |
 | The Man Who Shattered Time | 17.00% | ~153 |
 | The Loose Cannon | 17.00% | ~153 |
-| Check Your Pulse | 17.00% | ~153 |
 | The Family Fortune | 17.00% | ~153 |
 | Street Style | 16.00% | ~144 |
 | Cartographer | 15.00% | ~135 |
 | Treasure Trove | 14.00% | ~126 |
 | Whiz Kid | 14.00% | ~126 |
+| Chaincrawler Explorer | 12.00% | ~108 |
 | Good Neighbor | 12.00% | ~108 |
-| Chaincrawler Explorer | 11.00% | ~99 |
 | Family Memories | 11.00% | ~99 |
 | Syron for Hope | 11.00% | ~99 |
 | Ask Questions Later | 11.00% | ~99 |

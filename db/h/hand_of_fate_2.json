@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662722,
+  "EOS_Progressed": 662724,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
@@ -16323,6 +16323,11 @@
       "Time": "2023-09-30T13:10:48.6402241+00:00",
       "NumProgressed": 662722,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-30T14:10:20.7512943+00:00",
+      "NumProgressed": 662724,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -16334,7 +16339,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477160
+      "UsersEstimate": 477161
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16342,7 +16347,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384379
+      "UsersEstimate": 384380
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16350,7 +16355,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152426
+      "UsersEstimate": 152427
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -16470,7 +16475,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152426
+      "UsersEstimate": 152427
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -16598,7 +16603,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165680
+      "UsersEstimate": 165681
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -16662,7 +16667,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -16717,15 +16722,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662722,
+      "Progressed": 662724,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:10:48.6402235+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:10:20.7512936+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.9367849+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:01:54.472519+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:10:48.6403967+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:02:03.1227643+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:10:20.7514414+00:00"
 }

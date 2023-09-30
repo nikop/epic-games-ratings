@@ -8236,10 +8236,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44677,
       "NumberOfAwardsMax": 23160
+    },
+    {
+      "Time": "2023-09-30T14:01:11.7464855+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44688,
+      "NumberOfAwardsMax": 23160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44677,
+  "NumberOfAwards": 44688,
   "NumberOfAwardsMax": 23160,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8271,7 +8277,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1117
+      "Count": 1122
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8289,7 +8295,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1071
+      "Count": 1077
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8316,9 +8322,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297575,
+  "EOS_Progressed": 297577,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25911,6 +25917,11 @@
       "Time": "2023-09-30T13:07:02.3595513+00:00",
       "NumProgressed": 297575,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-30T14:06:50.034417+00:00",
+      "NumProgressed": 297577,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -25922,7 +25933,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44636
+      "UsersEstimate": 44637
     },
     {
       "ID": "PFA_10",
@@ -25962,7 +25973,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17854
+      "UsersEstimate": 17855
     },
     {
       "ID": "PFA_15",
@@ -26058,7 +26069,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17854
+      "UsersEstimate": 17855
     },
     {
       "ID": "PFA_26",
@@ -26090,7 +26101,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17854
+      "UsersEstimate": 17855
     },
     {
       "ID": "PFA_3",
@@ -26210,7 +26221,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17854
+      "UsersEstimate": 17855
     },
     {
       "ID": "PFA_43",
@@ -26281,16 +26292,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297575,
+      "Progressed": 297577,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-30T13:00:58.4141601+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:07:02.3595504+00:00",
+  "LastChanged": "2023-09-30T14:01:11.7464854+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:06:50.0344163+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:00:58.4141612+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:07:02.3597406+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:01:11.7464862+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:06:50.0346851+00:00"
 }

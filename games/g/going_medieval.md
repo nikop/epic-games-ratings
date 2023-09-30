@@ -18,8 +18,8 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 53.00% | ~3,191 |
 | Beam Me Up | 51.00% | ~3,070 |
 | Studious Researcher | 51.00% | ~3,070 |
+| Adept Researcher | 45.00% | ~2,709 |
 | Feast or Famine | 44.00% | ~2,649 |
-| Adept Researcher | 44.00% | ~2,649 |
 | Retribution | 41.00% | ~2,468 |
 | ...And Don’t Come Back! | 41.00% | ~2,468 |
 | Fit For A King | 33.00% | ~1,987 |

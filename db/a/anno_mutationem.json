@@ -719,9 +719,9 @@
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 243
+      "UsersEstimate": 249
     },
     {
       "ID": "The Traveler",
@@ -840,8 +840,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:12:05.0791628+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:11:38.9337+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:20.1716856+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:01:56.5699787+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:12:05.0791999+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:02:05.1956985+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:11:38.9337406+00:00"
 }

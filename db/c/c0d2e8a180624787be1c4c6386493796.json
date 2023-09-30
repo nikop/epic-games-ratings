@@ -594,9 +594,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -610,9 +610,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -689,8 +689,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:09:54.3100585+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:09:32.8952666+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:03:57.1617614+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:09:54.3101555+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:03:49.8454783+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:09:32.8953547+00:00"
 }

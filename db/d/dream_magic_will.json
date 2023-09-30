@@ -4,7 +4,7 @@
   "ProductSlug": "dream-magic-will-358429",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-14T04:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-04-16T17:59:00.8909668+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4269128+00:00",
   "LastChanged": "2023-04-16T17:59:00.8909668+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:06:06.1360119+00:00",
-  "LastUpdate_AppInfo": "2023-09-23T13:00:15.5477981+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:00:44.9757545+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:06:06.1360195+00:00"
+  "LastChanged_Achievements": "2023-09-30T14:05:30.243855+00:00",
+  "LastUpdate_AppInfo": "2023-09-30T13:57:21.4347069+00:00",
+  "LastUpdate_Ratings": "2023-09-30T14:01:00.4079061+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:05:30.2438642+00:00"
 }

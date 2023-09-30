@@ -2340,9 +2340,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 108
     },
     {
       "ID": "ChestCompletion1",
@@ -2596,9 +2596,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 180
     },
     {
       "ID": "PidgeDefeated",
@@ -2684,9 +2684,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "TheaterChests1",
@@ -2757,8 +2757,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:10:50.7440564+00:00",
-  "LastUpdate_AppInfo": "2023-09-23T12:59:27.1834236+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:03:37.1814426+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:10:50.744139+00:00"
+  "LastChanged_Achievements": "2023-09-30T14:10:22.693095+00:00",
+  "LastUpdate_AppInfo": "2023-09-30T13:59:11.1988188+00:00",
+  "LastUpdate_Ratings": "2023-09-30T14:03:32.6149635+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:10:22.6932+00:00"
 }

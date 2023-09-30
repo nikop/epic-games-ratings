@@ -6,35 +6,35 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,578 |
-| Rough Landing | 3.00% | ~26,578 |
-| Gunslinger | 2.00% | ~17,718 |
-| Master Crafter | 2.00% | ~17,718 |
-| Mean Streets | 2.00% | ~17,718 |
-| The High Priestess | 2.00% | ~17,718 |
-| The Jungle | 2.00% | ~17,718 |
-| Two Heads, One Bullet | 2.00% | ~17,718 |
-| V for Vendetta | 2.00% | ~17,718 |
-| To Bad Decisions! | 1.00% | ~8,859 |
-| Full Body Conversion | 1.00% | ~8,859 |
-| Right Back At Ya | 1.00% | ~8,859 |
-| Breathtaking | 1.00% | ~8,859 |
-| Stanislavski's Method | 1.00% | ~8,859 |
-| Temperance | 1.00% | ~8,859 |
-| The Hermit | 1.00% | ~8,859 |
-| The Lovers | 1.00% | ~8,859 |
-| The Wheel of Fortune | 1.00% | ~8,859 |
-| True Soldier | 1.00% | ~8,859 |
-| True Warrior | 1.00% | ~8,859 |
-| Legend of The Afterlife | 1.00% | ~8,859 |
-| The Fool | 0.90% | ~7,973 |
-| The Quick and the Dead | 0.80% | ~7,087 |
-| The Devil | 0.80% | ~7,087 |
-| The World | 0.80% | ~7,087 |
-| It's Elementary | 0.80% | ~7,087 |
-| Gun Fu | 0.70% | ~6,201 |
-| Christmas Tree Attack | 0.70% | ~6,201 |
-| Judy vs Night City | 0.70% | ~6,201 |
+| Ten out of Ten | 3.00% | ~26,579 |
+| Rough Landing | 3.00% | ~26,579 |
+| Gunslinger | 2.00% | ~17,719 |
+| Master Crafter | 2.00% | ~17,719 |
+| Mean Streets | 2.00% | ~17,719 |
+| The High Priestess | 2.00% | ~17,719 |
+| The Jungle | 2.00% | ~17,719 |
+| Two Heads, One Bullet | 2.00% | ~17,719 |
+| V for Vendetta | 2.00% | ~17,719 |
+| To Bad Decisions! | 1.00% | ~8,860 |
+| Full Body Conversion | 1.00% | ~8,860 |
+| Right Back At Ya | 1.00% | ~8,860 |
+| Breathtaking | 1.00% | ~8,860 |
+| Stanislavski's Method | 1.00% | ~8,860 |
+| Temperance | 1.00% | ~8,860 |
+| The Hermit | 1.00% | ~8,860 |
+| The Lovers | 1.00% | ~8,860 |
+| The Wheel of Fortune | 1.00% | ~8,860 |
+| True Soldier | 1.00% | ~8,860 |
+| True Warrior | 1.00% | ~8,860 |
+| Legend of The Afterlife | 1.00% | ~8,860 |
+| The Fool | 0.90% | ~7,974 |
+| The Quick and the Dead | 0.80% | ~7,088 |
+| The Devil | 0.80% | ~7,088 |
+| The World | 0.80% | ~7,088 |
+| It's Elementary | 0.80% | ~7,088 |
+| Gun Fu | 0.70% | ~6,202 |
+| Christmas Tree Attack | 0.70% | ~6,202 |
+| Judy vs Night City | 0.70% | ~6,202 |
 | City Lights | 0.60% | ~5,316 |
 | Greetings from Pacifica! | 0.60% | ~5,316 |
 | Life of the Road | 0.40% | ~3,544 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,917 (Ranked 15)  
+Progressed: 885,974 (Ranked 15)  
 Completed: 2,494 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,17 +227,17 @@ Completed: 2,494 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,917 | 2,494 |
+| 2023-09-30 | 885,974 | 2,494 |
 ## Awards
-Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 241,934 (Ranked 13)  
+Max (Character Customization): 87,369  (Ranked 9)  
+Sum: 243,483 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 86,225 |
+| This game has Inclusive Character Customization | 87,369 |
 | This game has Great Boss Battles | 58,001 |
+| This game has Diverse Characters | 11,941 |
 | This game is Great for Beginners | 11,811 |
-| This game has Diverse Characters | 11,536 |
 | This game is Extremely Fun | 11,448 |
 | This game has Amazing Storytelling | 11,372 |
 | This game is Highly Recommended | 11,338 |
@@ -502,4 +502,4 @@ Diff (max vs sum): -4
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
-| 2023-09-30 | 4.63 | - | 86,225 | 241,934 |
+| 2023-09-30 | 4.63 | - | 87,369 | 243,483 |

@@ -6,12 +6,12 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Executioner | 7.00% | ~227 |
 | Look Over There! | 6.00% | ~195 |
 | Not So Fast... | 6.00% | ~195 |
-| Executioner | 6.00% | ~195 |
 | Watch Where You Step... | 6.00% | ~195 |
+| An Ill Omen | 6.00% | ~195 |
 | Purging Spree | 5.00% | ~162 |
-| An Ill Omen | 5.00% | ~162 |
 | Blood for the Blood God! | 4.00% | ~130 |
 | Bloodless | 4.00% | ~130 |
 | Surgical Excision | 3.00% | ~97 |

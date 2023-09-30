@@ -3216,10 +3216,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4624,
       "NumberOfAwardsMax": 2768
+    },
+    {
+      "Time": "2023-09-30T14:02:55.5676446+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4625,
+      "NumberOfAwardsMax": 2768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4624,
+  "NumberOfAwards": 4625,
   "NumberOfAwardsMax": 2768,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3263,7 +3269,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 237
+      "Count": 238
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3284,9 +3290,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72975,
+  "EOS_Progressed": 72976,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17124,6 +17130,11 @@
       "Time": "2023-09-30T13:06:45.0352405+00:00",
       "NumProgressed": 72975,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-09-30T14:06:34.5507799+00:00",
+      "NumProgressed": 72976,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 61,
@@ -17335,7 +17346,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -17439,7 +17450,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25541
+      "UsersEstimate": 25542
     },
     {
       "ID": "HARLEY_2",
@@ -17479,7 +17490,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37947
+      "UsersEstimate": 37948
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17519,7 +17530,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "MYSTERY_01",
@@ -17622,22 +17633,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72975,
+      "Progressed": 72976,
       "Completed": 119
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43255,
+      "Progressed": 43256,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-29T23:59:01.1415505+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:06:45.0352397+00:00",
-  "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:02:55.2533595+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:06:45.0353995+00:00"
+  "LastChanged": "2023-09-30T14:02:55.5676444+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:06:34.5507793+00:00",
+  "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
+  "LastUpdate_Ratings": "2023-09-30T14:02:55.5676451+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:06:34.5510771+00:00"
 }

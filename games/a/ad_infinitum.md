@@ -9,7 +9,7 @@
 | Not alone | 50.00% | ~21 |
 | Hunger | 45.00% | ~19 |
 | Awaken | 43.00% | ~18 |
-| Path of Corruption | 24.00% | ~10 |
+| Path of Corruption | 26.00% | ~11 |
 | Hope | 21.00% | ~9 |
 | Rage | 12.00% | ~5 |
 | An act of courage | 7.00% | ~3 |
@@ -20,6 +20,7 @@
 | The shining | 7.00% | ~3 |
 | Art critic | 5.00% | ~2 |
 | Mayhem | 5.00% | ~2 |
+| An act of compassion | 2.00% | ~1 |
 | An act of mercy | 2.00% | ~1 |
 | Ad Infinitum | 2.00% | ~1 |
 | Clarity | 2.00% | ~1 |
@@ -27,7 +28,6 @@
 | Jigsaw | 2.00% | ~1 |
 | Pain | 2.00% | ~1 |
 | Peace | 2.00% | ~1 |
-| An act of compassion | 0.00% | ~0 |
 | All knowing | 0.00% | ~0 |
 | Awaiting orders | 0.00% | ~0 |
 | Corruption | 0.00% | ~0 |

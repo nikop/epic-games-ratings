@@ -74,9 +74,9 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "forest",
@@ -114,9 +114,9 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "mafia",
@@ -186,9 +186,9 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "world3insane",
@@ -202,9 +202,9 @@
       "ID": "world4",
       "SetID": "40o2ndb",
       "Name": "Sleep well Mwamwa Princess",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 85,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "world4insane",
@@ -249,8 +249,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:08:06.9492097+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:07:56.6695082+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3549601+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:00:50.6377543+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:08:06.9492287+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:01:05.3237817+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:07:56.6695308+00:00"
 }

@@ -2232,7 +2232,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26101,
+  "EOS_Progressed": 26102,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -13857,6 +13857,11 @@
       "Time": "2023-09-30T12:04:53.0625886+00:00",
       "NumProgressed": 26101,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-30T14:07:33.5347659+00:00",
+      "NumProgressed": 26102,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -13914,9 +13919,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Collector",
@@ -13930,9 +13935,9 @@
       "ID": "Cultured",
       "SetID": "819popo",
       "Name": "Cultured",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Daily_Dose",
@@ -14275,7 +14280,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26101,
+      "Progressed": 26102,
       "Completed": 58
     }
   ],
@@ -14283,8 +14288,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:07:40.0852397+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:07:33.5347651+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:03:09.0690428+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:07:40.0853874+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:03:08.3441259+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:07:33.5350194+00:00"
 }

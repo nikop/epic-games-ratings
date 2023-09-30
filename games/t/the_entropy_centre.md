@@ -18,7 +18,7 @@
 | Bad Robots | 19.00% | ~49 |
 | Running Boots | 18.00% | ~46 |
 | Archivist | 18.00% | ~46 |
-| Fashionista | 17.00% | ~44 |
+| Fashionista | 18.00% | ~46 |
 | Looper | 15.00% | ~39 |
 | Kaboom! | 14.00% | ~36 |
 | Reunited | 13.00% | ~33 |

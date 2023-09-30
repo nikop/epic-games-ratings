@@ -329,9 +329,9 @@
       "ID": "ACH_WINELECTRICALSTATION",
       "SetID": "1lo1k0a",
       "Name": "Electric",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -361,17 +361,17 @@
       "ID": "ACH_WINLEVEL3",
       "SetID": "1lo1k0a",
       "Name": "Poolrooms",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WINLEVEL4",
       "SetID": "1lo1k0a",
       "Name": "Management",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -385,9 +385,9 @@
       "ID": "ACH_WINLEVEL5",
       "SetID": "1lo1k0a",
       "Name": "Terror",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -401,9 +401,9 @@
       "ID": "ACH_WINLEVEL94",
       "SetID": "1lo1k0a",
       "Name": "Motion",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:09:55.8526922+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:09:34.2774406+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:13.9889214+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:05:08.021054+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:09:55.8527158+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:04:16.2680296+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:09:34.2774723+00:00"
 }

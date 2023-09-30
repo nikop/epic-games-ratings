@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -154,7 +154,7 @@
   "Tags": [],
   "EOS_Progressed": 1060,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -1895,9 +1895,9 @@
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2096,8 +2096,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-28T18:02:16.4134625+00:00",
-  "LastChanged_Achievements": "2023-09-30T13:10:16.7373889+00:00",
+  "LastChanged_Achievements": "2023-09-30T14:09:52.677401+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.5624233+00:00",
-  "LastUpdate_Ratings": "2023-09-30T13:00:35.6323865+00:00",
-  "LastUpdate_Achievements": "2023-09-30T13:10:16.7374235+00:00"
+  "LastUpdate_Ratings": "2023-09-30T14:00:51.5498748+00:00",
+  "LastUpdate_Achievements": "2023-09-30T14:09:52.6774526+00:00"
 }
