@@ -12719,10 +12719,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885486,
+  "EOS_Progressed": 885534,
   "EOS_Completed": 2485,
-  "EOS_NewPlayers": 6469,
-  "EOS_NewCompleters": 225,
+  "EOS_NewPlayers": 6482,
+  "EOS_NewCompleters": 221,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30999,6 +30999,11 @@
       "Time": "2023-09-30T03:06:49.6991067+00:00",
       "NumProgressed": 885486,
       "NumCompleted": 2485
+    },
+    {
+      "Time": "2023-09-30T04:07:06.9190439+00:00",
+      "NumProgressed": 885534,
+      "NumCompleted": 2485
     }
   ],
   "TotalAchievements": 57,
@@ -31010,7 +31015,7 @@
       "Name": "City Lights",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4428
     },
     {
       "ID": "BornToBeWild",
@@ -31018,7 +31023,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "BushidoAndChill",
@@ -31026,7 +31031,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "Cyberjunkie",
@@ -31058,7 +31063,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "Gearhead",
@@ -31066,7 +31071,7 @@
       "Name": "Autojock",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "GetMeThereScottie",
@@ -31090,7 +31095,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17710
+      "UsersEstimate": 17711
     },
     {
       "ID": "HandyMan",
@@ -31098,7 +31103,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17710
+      "UsersEstimate": 17711
     },
     {
       "ID": "IAmMaxTac",
@@ -31106,7 +31111,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -31114,7 +31119,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17710
+      "UsersEstimate": 17711
     },
     {
       "ID": "LittleTokyo",
@@ -31138,7 +31143,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6198
+      "UsersEstimate": 6199
     },
     {
       "ID": "MustBeTheRats",
@@ -31146,7 +31151,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "NeverFadeAway",
@@ -31162,7 +31167,7 @@
       "Name": "The Wasteland",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "NotTheMobile",
@@ -31170,7 +31175,7 @@
       "Name": "Daemon In The Shell",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "QueenOfTheHighway",
@@ -31194,7 +31199,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26565
+      "UsersEstimate": 26566
     },
     {
       "ID": "Temperance",
@@ -31210,7 +31215,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26565
+      "UsersEstimate": 26566
     },
     {
       "ID": "TheDevil",
@@ -31218,7 +31223,7 @@
       "Name": "The Devil",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6198
+      "UsersEstimate": 6199
     },
     {
       "ID": "TheFool",
@@ -31242,7 +31247,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17710
+      "UsersEstimate": 17711
     },
     {
       "ID": "TheLovers",
@@ -31250,7 +31255,7 @@
       "Name": "The Lovers",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "TheStar",
@@ -31282,7 +31287,7 @@
       "Name": "The World",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 6198
+      "UsersEstimate": 6199
     },
     {
       "ID": "ThisIsPacifica",
@@ -31298,7 +31303,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17710
+      "UsersEstimate": 17711
     },
     {
       "ID": "TrueSoldier",
@@ -31322,7 +31327,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17710
+      "UsersEstimate": 17711
     },
     {
       "ID": "UnderPressure",
@@ -31338,7 +31343,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17710
+      "UsersEstimate": 17711
     },
     {
       "ID": "YipMan",
@@ -31346,7 +31351,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6198
+      "UsersEstimate": 6199
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31465,21 +31470,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885486,
+      "Progressed": 885534,
       "Completed": 2485
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14109,
+      "Progressed": 14157,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-30T02:58:38.0916764+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:06:49.6991062+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:07:06.9190433+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:58:38.0916773+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:06:49.699261+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:58:43.3522312+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:07:06.9192132+00:00"
 }

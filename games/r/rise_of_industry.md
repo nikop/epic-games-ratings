@@ -1,23 +1,23 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 851)  
+Rating: 4.25 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~354,470 |
-| Well educated | 37.00% | ~273,237 |
-| City Planner | 19.00% | ~140,311 |
-| Deforester | 17.00% | ~125,541 |
-| Big Hauling | 16.00% | ~118,157 |
-| Apprentice Manufacturer | 13.00% | ~96,002 |
-| Exporter | 13.00% | ~96,002 |
-| I would drive 500 tiles... | 12.00% | ~88,617 |
-| Landscaper | 12.00% | ~88,617 |
-| Railwayman | 8.00% | ~59,078 |
+| Entrepreneur | 48.00% | ~354,473 |
+| Well educated | 37.00% | ~273,239 |
+| City Planner | 19.00% | ~140,312 |
+| Deforester | 17.00% | ~125,542 |
+| Big Hauling | 16.00% | ~118,158 |
+| Apprentice Manufacturer | 13.00% | ~96,003 |
+| Exporter | 13.00% | ~96,003 |
+| I would drive 500 tiles... | 12.00% | ~88,618 |
+| Landscaper | 12.00% | ~88,618 |
+| Railwayman | 8.00% | ~59,079 |
 | Penniless | 6.00% | ~44,309 |
 | Massive Gains | 6.00% | ~44,309 |
-| Salesman | 3.00% | ~22,154 |
+| Salesman | 3.00% | ~22,155 |
 | Engineer | 2.00% | ~14,770 |
 | High Flyer | 2.00% | ~14,770 |
 | Captain | 0.80% | ~5,908 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 851)
 | Master Builder | 0.10% | ~738 |
 | Hard working | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,479 (Ranked 18)  
+Progressed: 738,485 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 4 (0.00%) (Ranked 300)
 | 2023-09-27 | 737,915 | 4 |
 | 2023-09-28 | 738,144 | 4 |
 | 2023-09-29 | 738,443 | 4 |
-| 2023-09-30 | 738,479 | 4 |
+| 2023-09-30 | 738,485 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -242,3 +242,4 @@ Completed: 4 (0.00%) (Ranked 300)
 | 2023-08-29 | 4.24 | 0 | 0 |
 | 2023-09-10 | 4.25 | 0 | 0 |
 | 2023-09-25 | 4.24 | 0 | 0 |
+| 2023-09-30 | 4.25 | 0 | 0 |

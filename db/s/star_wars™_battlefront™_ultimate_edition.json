@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -985,9 +985,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_36",
@@ -1280,8 +1280,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:07:15.0918584+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:07:32.979611+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:26.6895249+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:58:37.5845764+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:07:15.0919348+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:58:42.7579037+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:07:32.9796864+00:00"
 }

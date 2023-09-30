@@ -6320,9 +6320,9 @@
       "ID": "Bernard",
       "SetID": "b40dflc",
       "Name": "Bernard",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 294
+      "UsersEstimate": 319
     },
     {
       "ID": "Building the Fox",
@@ -6417,8 +6417,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:04:17.5675983+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:04:31.6862555+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:34.8068967+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:58:24.6231132+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:04:17.5676486+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:58:28.9402931+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:04:31.6863061+00:00"
 }

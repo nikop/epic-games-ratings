@@ -15,10 +15,10 @@
 | Soft skin | 50.00% | ~48 |
 | Squid game | 44.00% | ~42 |
 | Sensitive soul | 34.00% | ~33 |
+| Rock Solid | 33.00% | ~32 |
 | Hard Rock | 33.00% | ~32 |
-| Rock Solid | 32.00% | ~31 |
+| It's getting dark | 31.00% | ~30 |
 | The beast within | 30.00% | ~29 |
-| It's getting dark | 30.00% | ~29 |
 | Rooftop | 27.00% | ~26 |
 | Homeless | 27.00% | ~26 |
 | Big badaboom! | 25.00% | ~24 |

@@ -72,11 +72,11 @@
 | Friend or Foe | 25.00% | ~119 |
 | Mobilizer | 25.00% | ~119 |
 | Untouchable | 24.00% | ~114 |
+| Mission Accomplished | 24.00% | ~114 |
 | Suicide Mission | 24.00% | ~114 |
+| Against All Odds | 24.00% | ~114 |
 | Eye of the Hurricane | 23.00% | ~109 |
 | Giant Killer | 23.00% | ~109 |
-| Mission Accomplished | 23.00% | ~109 |
-| Against All Odds | 23.00% | ~109 |
 | A House Divided | 22.00% | ~105 |
 | Weapon Specialist | 22.00% | ~105 |
 | World Shaker | 22.00% | ~105 |

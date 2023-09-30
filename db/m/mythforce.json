@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -719,9 +719,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3455,
+  "EOS_Progressed": 3456,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6084,6 +6084,11 @@
       "Time": "2023-09-30T03:06:53.1289566+00:00",
       "NumProgressed": 3455,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T04:07:10.406243+00:00",
+      "NumProgressed": 3456,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6118,9 +6123,9 @@
       "ID": "MF_Ach_DeathBecomesYou",
       "SetID": "9b9n573",
       "Name": "Death Becomes You",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 276
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -6279,15 +6284,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3455,
+      "Progressed": 3456,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-29T18:58:40.5635236+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:06:53.1289562+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:07:10.4062425+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:13.0566488+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:58:48.3965278+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:06:53.1290085+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:58:53.862198+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:07:10.4062949+00:00"
 }

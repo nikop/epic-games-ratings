@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 77,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -566,9 +566,9 @@
       "ID": "achievement_34",
       "SetID": "2cpn27e",
       "Name": "Kemono at Heart",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_35",
@@ -740,8 +740,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:05:30.3419758+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:05:45.8767696+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:30.965739+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:57:40.6680996+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:05:30.342024+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:57:47.2452862+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:05:45.8768174+00:00"
 }

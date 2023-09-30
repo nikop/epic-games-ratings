@@ -7551,7 +7551,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62374,
+  "EOS_Progressed": 62376,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
@@ -24821,6 +24821,11 @@
       "Time": "2023-09-30T03:05:57.2722742+00:00",
       "NumProgressed": 62374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T04:06:13.0811586+00:00",
+      "NumProgressed": 62376,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -24912,7 +24917,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 6238
     },
     {
       "ID": "Dynasty",
@@ -24920,7 +24925,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6237
+      "UsersEstimate": 6238
     },
     {
       "ID": "Entrepreneur",
@@ -25056,7 +25061,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20583
+      "UsersEstimate": 20584
     },
     {
       "ID": "Lawbringer",
@@ -25064,7 +25069,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24326
+      "UsersEstimate": 24327
     },
     {
       "ID": "Lawmaker",
@@ -25128,7 +25133,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Roadkill",
@@ -25176,7 +25181,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 6238
     },
     {
       "ID": "The king is pleased",
@@ -25184,7 +25189,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11227
+      "UsersEstimate": 11228
     },
     {
       "ID": "This Is Our Land",
@@ -25232,22 +25237,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 6238
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62374,
+      "Progressed": 62376,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-29T18:58:19.4522261+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:05:57.2722735+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:06:13.0811584+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:42.7187477+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:58:22.3579556+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:05:57.2724268+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:58:27.3569057+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:06:13.0813095+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.65 (Ranked 301)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,516 |
-| On the Top Step | 86.00% | ~2,326 |
+| Getting on the Step | 93.00% | ~2,517 |
+| On the Top Step | 86.00% | ~2,327 |
 | Setting up for Success | 74.00% | ~2,002 |
 | Team Orders | 73.00% | ~1,975 |
 | Engineer | 53.00% | ~1,434 |
-| Familiar Faces | 46.00% | ~1,244 |
+| Familiar Faces | 46.00% | ~1,245 |
 | Going the Extra Mile | 41.00% | ~1,109 |
 | Sharing the Love | 37.00% | ~1,001 |
 | Hitting a Season | 32.00% | ~866 |
 | Challenge Yourself | 31.00% | ~839 |
-| Making History | 29.00% | ~784 |
-| A Dozen Pieces | 27.00% | ~730 |
+| Making History | 29.00% | ~785 |
+| A Dozen Pieces | 27.00% | ~731 |
 | Spring Cleaning | 23.00% | ~622 |
 | Network Success | 23.00% | ~622 |
 | Writing a new Chapter | 22.00% | ~595 |
@@ -34,9 +34,9 @@ Rating: 4.65 (Ranked 301)
 | Lightning Round the World | 11.00% | ~298 |
 | Recycle | 11.00% | ~298 |
 | Tinkerer | 11.00% | ~298 |
-| Switcheroo | 10.00% | ~270 |
-| Spinning Around | 10.00% | ~270 |
-| Friendly Competition | 9.00% | ~243 |
+| Switcheroo | 10.00% | ~271 |
+| Spinning Around | 10.00% | ~271 |
+| Friendly Competition | 9.00% | ~244 |
 | Undisputed Winner | 8.00% | ~216 |
 | For all Those Back at the Factory | 5.00% | ~135 |
 | Loyal Bond | 5.00% | ~135 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 301)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,705 (Ranked 191)  
+Progressed: 2,706 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 2,454 | 0 |
 | 2023-09-28 | 2,620 | 0 |
 | 2023-09-29 | 2,695 | 0 |
-| 2023-09-30 | 2,705 | 0 |
+| 2023-09-30 | 2,706 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

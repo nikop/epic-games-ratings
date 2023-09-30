@@ -1032,9 +1032,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 227537,
+  "EOS_Progressed": 227544,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1518,
+  "EOS_NewPlayers": 1520,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12812,6 +12812,11 @@
       "Time": "2023-09-30T03:05:46.5940724+00:00",
       "NumProgressed": 227537,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-30T04:06:02.4977719+00:00",
+      "NumProgressed": 227544,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -12871,7 +12876,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9101
+      "UsersEstimate": 9102
     },
     {
       "ID": "Chapter2",
@@ -13271,7 +13276,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 72812
+      "UsersEstimate": 72814
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13319,7 +13324,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13652
+      "UsersEstimate": 13653
     },
     {
       "ID": "FollowBraztok",
@@ -13526,21 +13531,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 227537,
+      "Progressed": 227544,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 227537,
+      "Progressed": 227544,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-29T21:58:18.7866318+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:05:46.5940721+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:06:02.4977714+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:58:47.5100912+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:05:46.5942504+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:58:52.9251734+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:06:02.4979559+00:00"
 }

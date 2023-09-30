@@ -4,7 +4,7 @@
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16033,
+  "EOS_Progressed": 16062,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 3442,
+  "EOS_NewPlayers": 3457,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 73.34,
+  "EOS_Completed_Percentage": 73.21,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -3721,6 +3721,11 @@
       "Time": "2023-09-30T03:05:53.9857354+00:00",
       "NumProgressed": 16033,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-09-30T04:06:09.6856484+00:00",
+      "NumProgressed": 16062,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -3741,7 +3746,7 @@
       "Name": "First blood",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6585
     },
     {
       "ID": "grenadeKills",
@@ -3757,7 +3762,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "headshots1000",
@@ -3844,14 +3849,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 16033,
+      "Progressed": 16062,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:05:53.985735+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:06:09.6856479+00:00",
   "LastUpdate_AppInfo": "2023-09-23T08:56:59.6814414+00:00",
-  "LastUpdate_Ratings": "2023-09-30T03:00:55.8520266+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:05:53.9857699+00:00"
+  "LastUpdate_Ratings": "2023-09-30T04:02:07.4367724+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:06:09.6856844+00:00"
 }

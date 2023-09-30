@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70139,
+  "EOS_Progressed": 70140,
   "EOS_Completed": 371,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -18109,6 +18109,11 @@
       "Time": "2023-09-30T03:05:50.8841307+00:00",
       "NumProgressed": 70139,
       "NumCompleted": 371
+    },
+    {
+      "Time": "2023-09-30T04:06:06.7592585+00:00",
+      "NumProgressed": 70140,
+      "NumCompleted": 371
     }
   ],
   "TotalAchievements": 24,
@@ -18176,7 +18181,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20340
+      "UsersEstimate": 20341
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -18311,7 +18316,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70139,
+      "Progressed": 70140,
       "Completed": 371
     }
   ],
@@ -18319,8 +18324,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:05:50.8841301+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:06:06.7592579+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:22.181135+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:59:17.2180092+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:05:50.8842567+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:59:23.7395431+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:06:06.7593921+00:00"
 }

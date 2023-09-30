@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -989,6 +989,11 @@
       "Time": "2023-09-30T00:05:11.5928063+00:00",
       "NumProgressed": 452,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T04:06:10.4405613+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -1064,7 +1069,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "GB_GRATITUDE",
@@ -1080,7 +1085,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -1096,7 +1101,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -1128,7 +1133,7 @@
       "Name": "KEVIN!",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -1152,7 +1157,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1184,7 +1189,7 @@
       "Name": "RAMBO",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -1216,14 +1221,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 2
     }
   ],
@@ -1231,8 +1236,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-30T03:05:54.6489464+00:00",
+  "LastChanged_Achievements": "2023-09-30T04:06:10.4405607+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:44.4762104+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:58:16.4104221+00:00",
-  "LastUpdate_Achievements": "2023-09-30T03:05:54.6489731+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:58:21.9213096+00:00",
+  "LastUpdate_Achievements": "2023-09-30T04:06:10.4405891+00:00"
 }
