@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18482,
+  "EOS_Progressed": 18483,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -13477,6 +13477,11 @@
       "Time": "2023-09-30T21:04:45.028522+00:00",
       "NumProgressed": 18482,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-30T22:04:33.0010625+00:00",
+      "NumProgressed": 18483,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 14,
@@ -13488,7 +13493,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14416
+      "UsersEstimate": 14417
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -13518,9 +13523,9 @@
       "ID": "ACH_DONT_BRING_ME_DOWN",
       "SetID": "1blkama",
       "Name": "Don\u0027t Bring Me Down",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3512
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -13544,7 +13549,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9795
+      "UsersEstimate": 9796
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -13592,22 +13597,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18482,
+      "Progressed": 18483,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:04:45.0285216+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:04:33.0010619+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:17.1558571+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:03:18.7085418+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:04:45.0286196+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:02:35.5038419+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:04:33.0011584+00:00"
 }

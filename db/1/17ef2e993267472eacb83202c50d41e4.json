@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6727,
+  "EOS_Progressed": 6729,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3068,6 +3068,11 @@
       "Time": "2023-09-30T21:06:39.4779388+00:00",
       "NumProgressed": 6727,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T22:06:46.1970377+00:00",
+      "NumProgressed": 6729,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3200,7 +3205,7 @@
       "Name": "Played a Match",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "GamesPlayed10",
@@ -3224,7 +3229,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "GamesWon10",
@@ -3494,9 +3499,9 @@
       "ID": "NeutralKills200",
       "SetID": "12d07c7",
       "Name": "200 Neutral Eliminations",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 34
     },
     {
       "ID": "NexusKills1",
@@ -3671,7 +3676,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6727,
+      "Progressed": 6729,
       "Completed": 1
     }
   ],
@@ -3679,8 +3684,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:06:39.4779384+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:06:46.197037+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-09-30T20:58:16.8125024+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:06:39.4780367+00:00"
+  "LastUpdate_Ratings": "2023-09-30T21:58:07.0235146+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:06:46.1972147+00:00"
 }

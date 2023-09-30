@@ -4,7 +4,7 @@
   "ProductSlug": "disaster-report-4-summer-memories",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.1374521+00:00",
   "LastChanged": "2023-03-31T05:57:26.1374523+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:18.6354832+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:01:23.9069396+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:08:24.321431+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:01:43.4566073+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:08:47.9223334+00:00"
 }

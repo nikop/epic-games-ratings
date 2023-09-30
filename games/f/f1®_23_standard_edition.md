@@ -5,27 +5,27 @@ Rating: 4.66 (Ranked 280)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,570 |
-| On the Top Step | 87.00% | ~2,404 |
-| Setting up for Success | 75.00% | ~2,072 |
-| Team Orders | 73.00% | ~2,017 |
-| Engineer | 54.00% | ~1,492 |
-| Familiar Faces | 47.00% | ~1,299 |
-| Going the Extra Mile | 41.00% | ~1,133 |
-| Sharing the Love | 38.00% | ~1,050 |
-| Hitting a Season | 32.00% | ~884 |
-| Challenge Yourself | 32.00% | ~884 |
-| Making History | 30.00% | ~829 |
+| Getting on the Step | 93.00% | ~2,572 |
+| On the Top Step | 86.00% | ~2,379 |
+| Setting up for Success | 75.00% | ~2,074 |
+| Team Orders | 73.00% | ~2,019 |
+| Engineer | 54.00% | ~1,494 |
+| Familiar Faces | 47.00% | ~1,300 |
+| Going the Extra Mile | 41.00% | ~1,134 |
+| Sharing the Love | 38.00% | ~1,051 |
+| Hitting a Season | 33.00% | ~913 |
+| Challenge Yourself | 32.00% | ~885 |
+| Making History | 30.00% | ~830 |
 | A Dozen Pieces | 28.00% | ~774 |
-| Spring Cleaning | 23.00% | ~635 |
-| Network Success | 23.00% | ~635 |
-| Writing a new Chapter | 23.00% | ~635 |
-| Reduce | 18.00% | ~497 |
-| Ups and Downs | 18.00% | ~497 |
-| Crucial Combo | 16.00% | ~442 |
-| Reuse | 16.00% | ~442 |
-| One for the Book | 16.00% | ~442 |
-| Proving Them Wrong | 15.00% | ~414 |
+| Spring Cleaning | 23.00% | ~636 |
+| Network Success | 23.00% | ~636 |
+| Writing a new Chapter | 23.00% | ~636 |
+| Reduce | 18.00% | ~498 |
+| Ups and Downs | 18.00% | ~498 |
+| Crucial Combo | 16.00% | ~443 |
+| Reuse | 16.00% | ~443 |
+| One for the Book | 16.00% | ~443 |
+| Proving Them Wrong | 15.00% | ~415 |
 | Gathering Dust | 14.00% | ~387 |
 | Oil and Water | 14.00% | ~387 |
 | Lightning Round the World | 12.00% | ~332 |
@@ -34,8 +34,8 @@ Rating: 4.66 (Ranked 280)
 | All in a Weekend's Work | 11.00% | ~304 |
 | Recycle | 11.00% | ~304 |
 | Tinkerer | 11.00% | ~304 |
-| Switcheroo | 10.00% | ~276 |
-| Spinning Around | 10.00% | ~276 |
+| Switcheroo | 10.00% | ~277 |
+| Spinning Around | 10.00% | ~277 |
 | Friendly Competition | 9.00% | ~249 |
 | Undisputed Winner | 8.00% | ~221 |
 | Living up to Expectations | 6.00% | ~166 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 280)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,763 (Ranked 190)  
+Progressed: 2,766 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 2,454 | 0 |
 | 2023-09-28 | 2,620 | 0 |
 | 2023-09-29 | 2,695 | 0 |
-| 2023-09-30 | 2,763 | 0 |
+| 2023-09-30 | 2,766 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66572,
+  "EOS_Progressed": 66574,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16429,6 +16429,11 @@
       "Time": "2023-09-30T21:04:15.6065607+00:00",
       "NumProgressed": 66572,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-30T22:03:39.3715646+00:00",
+      "NumProgressed": 66574,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 67,
@@ -16440,7 +16445,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27960
+      "UsersEstimate": 27961
     },
     {
       "ID": "02",
@@ -16488,7 +16493,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8654
+      "UsersEstimate": 8655
     },
     {
       "ID": "08",
@@ -16528,7 +16533,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8654
+      "UsersEstimate": 8655
     },
     {
       "ID": "13",
@@ -16632,7 +16637,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5992
     },
     {
       "ID": "26",
@@ -16712,7 +16717,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22634
+      "UsersEstimate": 22635
     },
     {
       "ID": "36",
@@ -16848,7 +16853,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "53",
@@ -16904,7 +16909,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "60",
@@ -16975,21 +16980,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66572,
+      "Progressed": 66574,
       "Completed": 66
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30040,
+      "Progressed": 30042,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:04:15.6065599+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:03:39.371564+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-09-30T20:59:22.7575536+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:04:15.6067297+00:00"
+  "LastUpdate_Ratings": "2023-09-30T21:59:24.2952783+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:03:39.3718562+00:00"
 }

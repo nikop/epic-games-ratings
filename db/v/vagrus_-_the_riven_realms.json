@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -548,6 +548,11 @@
       "Time": "2023-09-30T21:07:54.0140746+00:00",
       "NumProgressed": 155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T22:08:12.939093+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -559,7 +564,7 @@
       "Name": "Randomized",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -637,9 +642,9 @@
       "ID": "Vanilla_CargoEfficiencyTier1",
       "SetID": "27kik8p",
       "Name": "Quartermaster",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier2",
@@ -791,15 +796,15 @@
       "Name": "Conquered",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
       "SetID": "27kik8p",
       "Name": "Deputized",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
@@ -837,9 +842,9 @@
       "ID": "Vanilla_ExchangeNews",
       "SetID": "27kik8p",
       "Name": "Courier",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_ExtendedHireling",
@@ -941,9 +946,9 @@
       "ID": "Vanilla_FourCorners",
       "SetID": "27kik8p",
       "Name": "Been There",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1245,9 +1250,9 @@
       "ID": "Vanilla_ThePilgrimageEnds",
       "SetID": "27kik8p",
       "Name": "Pilgrimage\u0027s End",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_TheReturnOfTheWyrms",
@@ -1301,9 +1306,9 @@
       "ID": "Vanilla_TroubleAtFortLarius",
       "SetID": "27kik8p",
       "Name": "Trouble at Fort Larius",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -1350,7 +1355,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 0
     }
   ],
@@ -1358,8 +1363,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:07:54.0140742+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:08:12.9390924+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:48.5535931+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:00:43.3570445+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:07:54.014202+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:00:56.355433+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:08:12.9392729+00:00"
 }

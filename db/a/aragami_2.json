@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43364,
+  "EOS_Progressed": 43365,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15876,6 +15876,11 @@
       "Time": "2023-09-30T21:07:38.649724+00:00",
       "NumProgressed": 43364,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-30T22:07:54.8610317+00:00",
+      "NumProgressed": 43365,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15887,7 +15892,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24717
+      "UsersEstimate": 24718
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15903,7 +15908,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9106
+      "UsersEstimate": 9107
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -16007,7 +16012,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34691
+      "UsersEstimate": 34692
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16103,7 +16108,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10407
+      "UsersEstimate": 10408
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -16111,7 +16116,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23850
+      "UsersEstimate": 23851
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -16119,7 +16124,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13876
+      "UsersEstimate": 13877
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -16127,7 +16132,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27319
+      "UsersEstimate": 27320
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -16135,7 +16140,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11708
+      "UsersEstimate": 11709
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -16151,7 +16156,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26018
+      "UsersEstimate": 26019
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -16159,7 +16164,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29054
+      "UsersEstimate": 29055
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -16207,7 +16212,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -16231,14 +16236,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22549
+      "UsersEstimate": 22550
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43364,
+      "Progressed": 43365,
       "Completed": 238
     }
   ],
@@ -16246,8 +16251,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:07:38.6497236+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:07:54.8610309+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.9212531+00:00",
-  "LastUpdate_Ratings": "2023-09-30T20:59:33.0106305+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:07:38.6498607+00:00"
+  "LastUpdate_Ratings": "2023-09-30T21:59:36.1201357+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:07:54.8612692+00:00"
 }

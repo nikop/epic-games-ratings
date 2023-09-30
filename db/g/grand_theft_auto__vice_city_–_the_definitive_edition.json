@@ -698,23 +698,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-09-30T22:00:18.2525343+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86,
-  "NumberOfAwardsMax": 86,
+  "NumberOfAwards": 87,
+  "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 86
+      "Count": 87
     }
   ],
-  "EOS_Progressed": 10490,
+  "EOS_Progressed": 10491,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10867,6 +10873,11 @@
       "Time": "2023-09-30T21:07:48.4415747+00:00",
       "NumProgressed": 10490,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-09-30T22:08:06.4591329+00:00",
+      "NumProgressed": 10491,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -10902,7 +10913,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH05",
@@ -11038,7 +11049,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4826
     },
     {
       "ID": "ACH22",
@@ -11054,7 +11065,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "ACH24",
@@ -11086,7 +11097,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH28",
@@ -11149,16 +11160,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10490,
+      "Progressed": 10491,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-29T13:59:11.0924633+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:07:48.4415744+00:00",
+  "LastChanged": "2023-09-30T22:00:18.252534+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:08:06.4591321+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:00:10.3024385+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:07:48.4416618+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:00:18.2525347+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:08:06.4592867+00:00"
 }

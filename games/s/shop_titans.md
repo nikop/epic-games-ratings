@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,107 |
-| Titan's First Steps | 3.00% | ~4,107 |
+| Sponsored by Argon | 3.00% | ~4,108 |
+| Titan's First Steps | 3.00% | ~4,108 |
 | Basic in Bulk | 2.00% | ~2,738 |
 | Disintermediation | 2.00% | ~2,738 |
 | It's Free Real Estate | 2.00% | ~2,738 |
@@ -43,19 +43,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.70% | ~958 |
 | Helping Hand | 0.70% | ~958 |
 | Natural 20 | 0.70% | ~958 |
-| Tax not Included | 0.60% | ~821 |
-| Big Game Hunting | 0.60% | ~821 |
-| For the Hoard! | 0.60% | ~821 |
-| Scrapbooker | 0.60% | ~821 |
-| This Power Level...! | 0.60% | ~821 |
-| Trash to Treasure | 0.60% | ~821 |
-| Royal Ransom | 0.60% | ~821 |
-| Miracle Alchemist | 0.60% | ~821 |
-| Seasoned Journeyman | 0.60% | ~821 |
-| Black Friday Special | 0.60% | ~821 |
-| Magical Harmony | 0.60% | ~821 |
-| Special Ingredient | 0.60% | ~821 |
-| Complete Monopoly | 0.60% | ~821 |
+| Tax not Included | 0.60% | ~822 |
+| Big Game Hunting | 0.60% | ~822 |
+| For the Hoard! | 0.60% | ~822 |
+| Scrapbooker | 0.60% | ~822 |
+| This Power Level...! | 0.60% | ~822 |
+| Trash to Treasure | 0.60% | ~822 |
+| Royal Ransom | 0.60% | ~822 |
+| Miracle Alchemist | 0.60% | ~822 |
+| Seasoned Journeyman | 0.60% | ~822 |
+| Black Friday Special | 0.60% | ~822 |
+| Magical Harmony | 0.60% | ~822 |
+| Special Ingredient | 0.60% | ~822 |
+| Complete Monopoly | 0.60% | ~822 |
 | A Notch Above the Rest | 0.50% | ~685 |
 | Cream of the Crop | 0.50% | ~685 |
 | Top of the World | 0.50% | ~685 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,916 (Ranked 69)  
+Progressed: 136,917 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
-| 2023-09-30 | 136,916 | 158 |
+| 2023-09-30 | 136,917 | 158 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,310 (Ranked 49)  

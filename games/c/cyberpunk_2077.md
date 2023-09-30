@@ -6,18 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,591 |
-| Rough Landing | 3.00% | ~26,591 |
-| Full Body Conversion | 2.00% | ~17,727 |
-| Right Back At Ya | 2.00% | ~17,727 |
-| Gunslinger | 2.00% | ~17,727 |
-| Master Crafter | 2.00% | ~17,727 |
-| Mean Streets | 2.00% | ~17,727 |
-| The High Priestess | 2.00% | ~17,727 |
-| The Jungle | 2.00% | ~17,727 |
-| True Soldier | 2.00% | ~17,727 |
-| Two Heads, One Bullet | 2.00% | ~17,727 |
-| V for Vendetta | 2.00% | ~17,727 |
+| Ten out of Ten | 3.00% | ~26,592 |
+| Rough Landing | 3.00% | ~26,592 |
+| Full Body Conversion | 2.00% | ~17,728 |
+| Right Back At Ya | 2.00% | ~17,728 |
+| Gunslinger | 2.00% | ~17,728 |
+| Master Crafter | 2.00% | ~17,728 |
+| Mean Streets | 2.00% | ~17,728 |
+| The High Priestess | 2.00% | ~17,728 |
+| The Jungle | 2.00% | ~17,728 |
+| True Soldier | 2.00% | ~17,728 |
+| Two Heads, One Bullet | 2.00% | ~17,728 |
+| V for Vendetta | 2.00% | ~17,728 |
 | To Bad Decisions! | 1.00% | ~8,864 |
 | Breathtaking | 1.00% | ~8,864 |
 | Stanislavski's Method | 1.00% | ~8,864 |
@@ -28,19 +28,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 1.00% | ~8,864 |
 | True Warrior | 1.00% | ~8,864 |
 | Legend of The Afterlife | 1.00% | ~8,864 |
-| The Quick and the Dead | 0.90% | ~7,977 |
+| The Quick and the Dead | 0.90% | ~7,978 |
+| The Devil | 0.90% | ~7,978 |
 | Gun Fu | 0.80% | ~7,091 |
 | Christmas Tree Attack | 0.80% | ~7,091 |
-| The Devil | 0.80% | ~7,091 |
 | The World | 0.80% | ~7,091 |
+| Judy vs Night City | 0.80% | ~7,091 |
 | It's Elementary | 0.80% | ~7,091 |
-| Judy vs Night City | 0.70% | ~6,205 |
 | City Lights | 0.60% | ~5,318 |
 | Greetings from Pacifica! | 0.60% | ~5,318 |
 | Life of the Road | 0.50% | ~4,432 |
-| Bushido and Chill | 0.40% | ~3,545 |
-| I Am The Law | 0.40% | ~3,545 |
-| Must Be Rats | 0.40% | ~3,545 |
+| Bushido and Chill | 0.40% | ~3,546 |
+| I Am The Law | 0.40% | ~3,546 |
+| Must Be Rats | 0.40% | ~3,546 |
 | Spin Doctor | 0.40% | ~60 |
 | The Wandering Fool | 0.30% | ~2,659 |
 | Autojock | 0.30% | ~2,659 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,360 (Ranked 15)  
-Completed: 2,504 (0.28%) (Ranked 202)  
+Progressed: 886,398 (Ranked 15)  
+Completed: 2,506 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2,504 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 886,360 | 2,504 |
+| 2023-09-30 | 886,398 | 2,506 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
 Sum: 244,445 (Ranked 13)  

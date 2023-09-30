@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15482,
+  "EOS_Progressed": 15483,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11140,6 +11140,11 @@
       "Time": "2023-09-30T21:05:25.2346339+00:00",
       "NumProgressed": 15482,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-30T22:05:20.3967341+00:00",
+      "NumProgressed": 15483,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11207,7 +11212,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "tpote_achievement_17",
@@ -11263,7 +11268,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "tpote_achievement_23",
@@ -11327,7 +11332,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4954
+      "UsersEstimate": 4955
     },
     {
       "ID": "tpote_achievement_30",
@@ -11351,7 +11356,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "tpote_achievement_33",
@@ -11478,15 +11483,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15482,
+      "Progressed": 15483,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:05:25.2346335+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:05:20.3967336+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:03:06.6859164+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:05:25.2347335+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:02:21.7683531+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:05:20.3968333+00:00"
 }

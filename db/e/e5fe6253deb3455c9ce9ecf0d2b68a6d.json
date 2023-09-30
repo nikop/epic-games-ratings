@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 254,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -924,9 +924,9 @@
       "ID": "Dangerous_dose",
       "SetID": "cjfnji1",
       "Name": "Dangerous dose",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "Dissatisfaction",
@@ -1035,8 +1035,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:05:33.8441306+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:05:30.4246842+00:00",
   "LastUpdate_AppInfo": "2023-09-25T21:56:58.5344933+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:03:07.4953145+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:05:33.8441467+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:02:22.714697+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:05:30.4247115+00:00"
 }

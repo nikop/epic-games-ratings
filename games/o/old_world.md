@@ -16,27 +16,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 5.00% | ~712 |
 | Hanging Gardens | 5.00% | ~712 |
 | The Clergy | 5.00% | ~712 |
-| Enlightened | 4.00% | ~569 |
-| Glorious | 4.00% | ~569 |
-| Good | 4.00% | ~569 |
-| Just | 4.00% | ~569 |
-| Keystone | 4.00% | ~569 |
-| Learned | 4.00% | ~569 |
-| Mason | 4.00% | ~569 |
-| Noble | 4.00% | ~569 |
-| Pioneer | 4.00% | ~569 |
-| Developing Cities | 4.00% | ~569 |
-| Oracle | 4.00% | ~569 |
-| Judaism | 4.00% | ~569 |
-| Greek Paganism | 4.00% | ~569 |
-| Naming Landmarks | 4.00% | ~569 |
-| Trade Caravan | 4.00% | ~569 |
+| Enlightened | 4.00% | ~570 |
+| Glorious | 4.00% | ~570 |
+| Good | 4.00% | ~570 |
+| Just | 4.00% | ~570 |
+| Keystone | 4.00% | ~570 |
+| Learned | 4.00% | ~570 |
+| Mason | 4.00% | ~570 |
+| Noble | 4.00% | ~570 |
+| Pioneer | 4.00% | ~570 |
+| Warrior | 4.00% | ~570 |
+| Developing Cities | 4.00% | ~570 |
+| Oracle | 4.00% | ~570 |
+| Pyramids | 4.00% | ~570 |
+| Judaism | 4.00% | ~570 |
+| Greek Paganism | 4.00% | ~570 |
+| Naming Landmarks | 4.00% | ~570 |
+| Trade Caravan | 4.00% | ~570 |
 | Ambitious | 3.00% | ~427 |
 | Brilliant | 3.00% | ~427 |
 | Fountainhead | 3.00% | ~427 |
 | Great | 3.00% | ~427 |
 | Magnificent | 3.00% | ~427 |
-| Warrior | 3.00% | ~427 |
 | Wise | 3.00% | ~427 |
 | Strong Cities | 3.00% | ~427 |
 | Able Difficulty | 3.00% | ~427 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 3.00% | ~427 |
 | Lighthouse | 3.00% | ~427 |
 | Necropolis | 3.00% | ~427 |
-| Pyramids | 3.00% | ~427 |
 | Learn to Play 1 | 3.00% | ~427 |
 | Christianity | 3.00% | ~427 |
 | Manichaeism | 3.00% | ~427 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,237 (Ranked 133)  
+Progressed: 14,240 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
-| 2023-09-30 | 14,237 | 5 |
+| 2023-09-30 | 14,240 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

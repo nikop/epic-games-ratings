@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "10",
@@ -243,25 +243,25 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "16",
       "SetID": "38ide56",
       "Name": "Break Time",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "17",
       "SetID": "38ide56",
       "Name": "Master of the Rope",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "18",
@@ -283,9 +283,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "20",
@@ -307,17 +307,17 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "24",
@@ -436,8 +436,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:06:42.6787567+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:06:49.6012719+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:20.2606659+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:01:25.6481263+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:06:42.6787789+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:01:45.4015851+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:06:49.6013016+00:00"
 }

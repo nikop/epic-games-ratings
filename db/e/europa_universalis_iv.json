@@ -10152,9 +10152,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 418878,
+  "EOS_Progressed": 418918,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6394,
+  "EOS_NewPlayers": 6395,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28622,6 +28622,11 @@
       "Time": "2023-09-30T21:04:50.6517208+00:00",
       "NumProgressed": 418878,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T22:04:39.7767955+00:00",
+      "NumProgressed": 418918,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -28761,7 +28766,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -29145,7 +29150,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "achievement_cold_war",
@@ -29169,7 +29174,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -29633,7 +29638,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12566
+      "UsersEstimate": 12568
     },
     {
       "ID": "achievement_grand_coalition",
@@ -29783,9 +29788,9 @@
       "ID": "achievement_in_the_name_of_the_father",
       "SetID": "8p2n7he",
       "Name": "In the Name of the Father",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 838
     },
     {
       "ID": "achievement_industrial_evolution",
@@ -30201,7 +30206,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "achievement_my_true_friend",
@@ -30913,7 +30918,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12566
+      "UsersEstimate": 12568
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -31137,7 +31142,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -31215,9 +31220,9 @@
       "ID": "achievement_trophy_hunter",
       "SetID": "8p2n7he",
       "Name": "Trophy Hunter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 838
     },
     {
       "ID": "achievement_true_catholic",
@@ -31297,7 +31302,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16755
+      "UsersEstimate": 16757
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -31329,7 +31334,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12566
+      "UsersEstimate": 12568
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -31464,21 +31469,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 418878,
+      "Progressed": 418918,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 418878,
+      "Progressed": 418918,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-30T20:59:13.1640748+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:04:50.6517204+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:04:39.7767949+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.8200268+00:00",
-  "LastUpdate_Ratings": "2023-09-30T20:59:13.1640756+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:04:50.6531198+00:00"
+  "LastUpdate_Ratings": "2023-09-30T21:59:12.8554412+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:04:39.778342+00:00"
 }

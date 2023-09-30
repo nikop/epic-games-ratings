@@ -1773,9 +1773,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14237,
+  "EOS_Progressed": 14240,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12628,6 +12628,11 @@
       "Time": "2023-09-30T21:06:44.6381484+00:00",
       "NumProgressed": 14237,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-30T22:06:52.0936875+00:00",
+      "NumProgressed": 14240,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13063,7 +13068,7 @@
       "Name": "Enlightened",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -13087,7 +13092,7 @@
       "Name": "Glorious",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -13095,7 +13100,7 @@
       "Name": "Good",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -13143,7 +13148,7 @@
       "Name": "Just",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -13151,7 +13156,7 @@
       "Name": "Keystone",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -13159,7 +13164,7 @@
       "Name": "Learned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -13191,7 +13196,7 @@
       "Name": "Mason",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -13207,7 +13212,7 @@
       "Name": "Noble",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -13231,7 +13236,7 @@
       "Name": "Pioneer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -13301,9 +13306,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -13335,7 +13340,7 @@
       "Name": "Developing Cities",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -14087,7 +14092,7 @@
       "Name": "Oracle",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -14101,9 +14106,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -14423,7 +14428,7 @@
       "Name": "Judaism",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -14471,7 +14476,7 @@
       "Name": "Greek Paganism",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -14559,7 +14564,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -14671,7 +14676,7 @@
       "Name": "Trade Caravan",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -15006,21 +15011,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14237,
+      "Progressed": 14240,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14237,
+      "Progressed": 14240,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-29T04:02:16.7733488+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:06:44.6381479+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:06:52.0936868+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-09-30T20:58:28.983777+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:06:44.6391388+00:00"
+  "LastUpdate_Ratings": "2023-09-30T21:58:19.2769593+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:06:52.0951236+00:00"
 }

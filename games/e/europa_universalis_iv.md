@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,755 |
-| That's a Grand Army | 3.00% | ~12,566 |
-| That is mine! | 3.00% | ~12,566 |
-| Victorious! | 3.00% | ~12,566 |
+| Until death do us apart | 4.00% | ~16,757 |
+| That's a Grand Army | 3.00% | ~12,568 |
+| That is mine! | 3.00% | ~12,568 |
+| Victorious! | 3.00% | ~12,568 |
 | Brothers in Arms | 2.00% | ~8,378 |
 | For the Glory | 2.00% | ~8,378 |
 | That's a Grand Navy | 2.00% | ~8,378 |
@@ -26,11 +26,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,351 |
 | Total Control | 0.80% | ~3,351 |
 | Royal Authority | 0.70% | ~2,932 |
-| My armies are invincible! | 0.60% | ~2,513 |
-| Agressive Expander | 0.50% | ~2,094 |
-| City of Cities | 0.50% | ~2,094 |
-| Combined Arms | 0.50% | ~2,094 |
-| This navy can take it all | 0.50% | ~2,094 |
+| My armies are invincible! | 0.60% | ~2,514 |
+| Agressive Expander | 0.50% | ~2,095 |
+| City of Cities | 0.50% | ~2,095 |
+| Combined Arms | 0.50% | ~2,095 |
+| This navy can take it all | 0.50% | ~2,095 |
 | Azur semé de lis or | 0.40% | ~1,676 |
 | Factionalism | 0.40% | ~1,676 |
 | Gentle Persuasion | 0.40% | ~1,676 |
@@ -50,6 +50,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.20% | ~838 |
 | Electable! | 0.20% | ~838 |
 | Grand Coalition | 0.20% | ~838 |
+| In the Name of the Father | 0.20% | ~838 |
 | Just a Little Patience | 0.20% | ~838 |
 | One Family to Rule them All | 0.20% | ~838 |
 | Ruina Imperii | 0.20% | ~838 |
@@ -57,6 +58,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.20% | ~838 |
 | Time Bandit | 0.20% | ~838 |
 | Traditional Player | 0.20% | ~838 |
+| Trophy Hunter | 0.20% | ~838 |
 | Voting Streak | 0.20% | ~838 |
 | The 52 Garhs | 0.10% | ~419 |
 | I don't like sand | 0.10% | ~419 |
@@ -178,7 +180,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ideas Guy | 0.10% | ~419 |
 | Imperio español | 0.10% | ~419 |
 | Imposter Syndrome | 0.10% | ~419 |
-| In the Name of the Father | 0.10% | ~419 |
 | An Industrial Evolution | 0.10% | ~419 |
 | Industrial Powerhouse | 0.10% | ~419 |
 | Inner Turmoil | 0.10% | ~419 |
@@ -334,7 +335,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | To the Bone | 0.10% | ~419 |
 | Trade Hegemon | 0.10% | ~419 |
 | Triple the Rome | 0.10% | ~419 |
-| Trophy Hunter | 0.10% | ~419 |
 | True Heir of Timur | 0.10% | ~419 |
 | Turkish Delight | 0.10% | ~419 |
 | Turn the Table | 0.10% | ~419 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418,878 (Ranked 41)  
+Progressed: 418,918 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -524,7 +524,7 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 416,011 | 1 |
 | 2023-09-28 | 416,746 | 1 |
 | 2023-09-29 | 417,709 | 1 |
-| 2023-09-30 | 418,878 | 1 |
+| 2023-09-30 | 418,918 | 1 |
 ## Awards
 Max (Educational): 6,335  (Ranked 57)  
 Sum: 52,039 (Ranked 24)  

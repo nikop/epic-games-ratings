@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6304,9 +6304,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136916,
+  "EOS_Progressed": 136917,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23059,6 +23059,11 @@
       "Time": "2023-09-30T21:08:33.0753637+00:00",
       "NumProgressed": 136916,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-09-30T22:08:58.2819775+00:00",
+      "NumProgressed": 136917,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -23158,7 +23163,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "bigsale03",
@@ -23214,7 +23219,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "boss03",
@@ -23238,7 +23243,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "chest02",
@@ -23246,7 +23251,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "chest03",
@@ -23270,7 +23275,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "collection03",
@@ -23382,7 +23387,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "damage03",
@@ -23526,7 +23531,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "gemsspent",
@@ -23566,7 +23571,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "gold05",
@@ -23686,7 +23691,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "loot01",
@@ -23742,7 +23747,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "master04",
@@ -23854,7 +23859,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "sell03",
@@ -23886,7 +23891,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "twinenchant01",
@@ -23894,7 +23899,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "typeunlock01",
@@ -23910,7 +23915,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "uncommonres02",
@@ -23950,7 +23955,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "yami_a",
@@ -23965,15 +23970,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136916,
+      "Progressed": 136917,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T13:02:00.2030183+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:08:33.0753631+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:08:58.281977+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-09-30T20:59:54.2647346+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:08:33.075589+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:00:00.8591777+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:08:58.2822791+00:00"
 }

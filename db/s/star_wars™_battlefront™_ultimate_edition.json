@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 344,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -801,6 +801,11 @@
       "Time": "2023-09-30T21:03:39.8601099+00:00",
       "NumProgressed": 342,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T22:03:21.6019481+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -877,7 +882,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_18",
@@ -909,7 +914,7 @@
       "Name": "Collector",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_21",
@@ -925,7 +930,7 @@
       "Name": "Distinguished",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_23",
@@ -1037,15 +1042,15 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_37",
@@ -1053,7 +1058,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_38",
@@ -1061,7 +1066,7 @@
       "Name": "Survivor",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_39",
@@ -1075,17 +1080,17 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_41",
@@ -1115,9 +1120,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_45",
@@ -1221,7 +1226,7 @@
       "Name": "Support the troops",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_57",
@@ -1253,7 +1258,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_60",
@@ -1291,9 +1296,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_8",
@@ -1316,13 +1321,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 344,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 342,
+      "Progressed": 344,
       "Completed": 1
     }
   ],
@@ -1330,8 +1335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-09-30T21:03:39.8601092+00:00",
+  "LastChanged_Achievements": "2023-09-30T22:03:21.6019474+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-09-30T20:59:46.9749708+00:00",
-  "LastUpdate_Achievements": "2023-09-30T21:03:39.8602025+00:00"
+  "LastUpdate_Ratings": "2023-09-30T21:59:52.2464513+00:00",
+  "LastUpdate_Achievements": "2023-09-30T22:03:21.6030274+00:00"
 }
