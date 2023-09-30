@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6304,9 +6304,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136912,
+  "EOS_Progressed": 136916,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23054,6 +23054,11 @@
       "Time": "2023-09-30T20:07:07.5519484+00:00",
       "NumProgressed": 136912,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-09-30T21:08:33.0753637+00:00",
+      "NumProgressed": 136916,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -23247,9 +23252,9 @@
       "ID": "chest03",
       "SetID": "anfd17p",
       "Name": "Booty by the Boatload",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 685
     },
     {
       "ID": "collection01",
@@ -23607,9 +23612,9 @@
       "ID": "hemma_a",
       "SetID": "anfd17p",
       "Name": "Necromancer Queen",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 685
     },
     {
       "ID": "jackslot01",
@@ -23960,15 +23965,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136912,
+      "Progressed": 136916,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T13:02:00.2030183+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:07:07.5519478+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:08:33.0753631+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:58:40.6837861+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:07:07.5521537+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:59:54.2647346+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:08:33.075589+00:00"
 }

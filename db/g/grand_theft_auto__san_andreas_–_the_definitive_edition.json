@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 136,
@@ -1072,9 +1072,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13052,
+  "EOS_Progressed": 13054,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12052,6 +12052,11 @@
       "Time": "2023-09-30T19:04:16.7961122+00:00",
       "NumProgressed": 13052,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-09-30T21:05:33.4696032+00:00",
+      "NumProgressed": 13054,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -12063,7 +12068,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10572
+      "UsersEstimate": 10574
     },
     {
       "ID": "ACH02",
@@ -12119,7 +12124,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "ACH09",
@@ -12159,7 +12164,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "ACH14",
@@ -12342,7 +12347,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13052,
+      "Progressed": 13054,
       "Completed": 48
     }
   ],
@@ -12350,8 +12355,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-29T18:59:29.2350087+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:04:16.1126864+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:05:33.4696028+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:59:33.9129368+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:04:16.1127583+00:00"
+  "LastUpdate_Ratings": "2023-09-30T21:01:01.3069409+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:05:33.4696991+00:00"
 }

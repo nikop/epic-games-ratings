@@ -5,26 +5,26 @@ Rating: 3.77 (Ranked 998)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,720 |
-| No Half Measures | 87.00% | ~14,396 |
-| Personal Matter | 86.00% | ~14,230 |
-| But You Have Heard of Me | 72.00% | ~11,914 |
-| Double the Barrels, double the Fun | 55.00% | ~9,101 |
-| Pimp My Glide | 48.00% | ~7,943 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,619 |
-| House Party! | 34.00% | ~5,626 |
-| Make It Rain | 23.00% | ~3,806 |
-| Curse of the Seven Seas | 22.00% | ~3,640 |
+| Eeligally Ambitious | 95.00% | ~15,725 |
+| No Half Measures | 87.00% | ~14,401 |
+| Personal Matter | 86.00% | ~14,236 |
+| But You Have Heard of Me | 72.00% | ~11,918 |
+| Double the Barrels, double the Fun | 55.00% | ~9,104 |
+| Pimp My Glide | 48.00% | ~7,945 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,621 |
+| House Party! | 34.00% | ~5,628 |
+| Make It Rain | 23.00% | ~3,807 |
+| Curse of the Seven Seas | 22.00% | ~3,642 |
 | Head First | 16.00% | ~2,648 |
 | To the World's End | 12.00% | ~1,986 |
-| Table for Six | 11.00% | ~1,820 |
+| Table for Six | 11.00% | ~1,821 |
 | Sharing Is Caring | 10.00% | ~1,655 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,324 |
 | Morally Flexible | 6.00% | ~993 |
-| Fishing for Compliments | 5.00% | ~827 |
-| After All, Why Shouldn't I Keep It? | 3.00% | ~496 |
+| Fishing for Compliments | 5.00% | ~828 |
+| After All, Why Shouldn't I Keep It? | 3.00% | ~497 |
 | A True Dandy | 2.00% | ~331 |
-| A New Legend Awaits | 1.00% | ~165 |
+| A New Legend Awaits | 1.00% | ~166 |
 | Pirate King | 0.80% | ~132 |
 | Oooh, We're Half Way There | 0.80% | ~132 |
 | Devilishly Talented | 0.10% | ~17 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 998)
 | Pufferfish | 0.10% | ~17 |
 | O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,547 (Ranked 130)  
+Progressed: 16,553 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 16,304 | 0 |
 | 2023-09-28 | 16,374 | 0 |
 | 2023-09-29 | 16,460 | 0 |
-| 2023-09-30 | 16,547 | 0 |
+| 2023-09-30 | 16,553 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

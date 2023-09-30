@@ -6,12 +6,12 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 37.00% | ~2,136 |
-| It's a good start | 10.00% | ~577 |
+| Bye Bye | 37.00% | ~2,138 |
+| It's a good start | 10.00% | ~578 |
 | Bonjour! | 7.00% | ~404 |
-| The Assistant | 6.00% | ~346 |
-| The Blue Marl | 6.00% | ~346 |
-| Quack | 6.00% | ~346 |
+| The Assistant | 6.00% | ~347 |
+| The Blue Marl | 6.00% | ~347 |
+| Quack | 6.00% | ~347 |
 | Ostinata | 5.00% | ~289 |
 | A long journey | 4.00% | ~231 |
 | Better than nothing? | 4.00% | ~231 |
@@ -19,13 +19,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~173 |
 | Surprise of Langhe | 3.00% | ~173 |
 | Famous | 3.00% | ~173 |
-| What is that? A castle? | 2.00% | ~115 |
-| A lot of space | 2.00% | ~115 |
-| A big garage | 2.00% | ~115 |
-| Millionaire | 2.00% | ~115 |
-| Exotic | 2.00% | ~115 |
-| Welcome to the club | 2.00% | ~115 |
-| Very Important Winemaker | 2.00% | ~115 |
+| What is that? A castle? | 2.00% | ~116 |
+| A lot of space | 2.00% | ~116 |
+| A big garage | 2.00% | ~116 |
+| Millionaire | 2.00% | ~116 |
+| Exotic | 2.00% | ~116 |
+| Welcome to the club | 2.00% | ~116 |
+| Very Important Winemaker | 2.00% | ~116 |
 | Pastry Chef | 1.00% | ~58 |
 | King of Langhe | 1.00% | ~58 |
 | Gem of Monferrato | 1.00% | ~58 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~12 |
 | Master Winemaker | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,772 (Ranked 162)  
+Progressed: 5,778 (Ranked 162)  
 Completed: 7 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 7 (0.12%) (Ranked 229)
 | 2023-09-27 | 5,264 | 7 |
 | 2023-09-28 | 5,418 | 7 |
 | 2023-09-29 | 5,597 | 7 |
-| 2023-09-30 | 5,772 | 7 |
+| 2023-09-30 | 5,778 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 275)  
 Sum: 1,590 (Ranked 218)  

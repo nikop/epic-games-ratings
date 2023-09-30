@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1884,9 +1884,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 416
+      "UsersEstimate": 420
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1972,9 +1972,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 318
     },
     {
       "ID": "HastrmanAcorn",
@@ -2076,9 +2076,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 257
     },
     {
       "ID": "PrincessThrone",
@@ -2187,8 +2187,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:03:40.2411228+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:04:50.2539099+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:57:26.3484366+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:03:40.2411644+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:58:23.2768548+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:04:50.2539584+00:00"
 }

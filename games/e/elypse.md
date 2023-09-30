@@ -22,7 +22,7 @@
 | Rooftop | 27.00% | ~26 |
 | Homeless | 27.00% | ~26 |
 | Big badaboom! | 25.00% | ~24 |
-| Magnitude 5 | 23.00% | ~22 |
+| Magnitude 5 | 24.00% | ~23 |
 | Bookworm | 23.00% | ~22 |
 | Payback | 22.00% | ~21 |
 | Nokron tower | 21.00% | ~20 |

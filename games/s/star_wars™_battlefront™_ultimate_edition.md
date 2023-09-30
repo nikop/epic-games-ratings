@@ -4,40 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~306 |
-| Off to a good start | 67.00% | ~228 |
-| Do... or do not. There is no try | 52.00% | ~177 |
-| A good blaster at your side | 34.00% | ~116 |
-| Scrap collector | 21.00% | ~71 |
-| Great shot, kid! | 19.00% | ~65 |
-| Together we can rule the galaxy | 18.00% | ~61 |
-| All right, I'll give it a try | 18.00% | ~61 |
+| New Recruit | 90.00% | ~308 |
+| Off to a good start | 67.00% | ~229 |
+| Do... or do not. There is no try | 52.00% | ~178 |
+| A good blaster at your side | 35.00% | ~120 |
+| Scrap collector | 21.00% | ~72 |
+| Great shot, kid! | 20.00% | ~68 |
+| Together we can rule the galaxy | 18.00% | ~62 |
+| All right, I'll give it a try | 18.00% | ~62 |
+| I suggest a new strategy | 18.00% | ~62 |
 | The power of the Force | 17.00% | ~58 |
-| I suggest a new strategy | 17.00% | ~58 |
-| Shoot first | 16.00% | ~54 |
+| Shoot first | 17.00% | ~58 |
 | Collector | 15.00% | ~51 |
 | Survivor | 13.00% | ~44 |
 | Best star-pilot in the galaxy | 12.00% | ~41 |
-| Tell Jabba that I've got his money | 11.00% | ~37 |
-| Never tell me the odds! | 11.00% | ~37 |
-| Impressive. Most impressive. | 10.00% | ~34 |
-| A cunning warrior | 10.00% | ~34 |
-| What's the cargo? | 9.00% | ~31 |
+| Tell Jabba that I've got his money | 11.00% | ~38 |
+| Never tell me the odds! | 11.00% | ~38 |
+| Impressive. Most impressive. | 11.00% | ~38 |
+| A cunning warrior | 11.00% | ~38 |
+| What's the cargo? | 10.00% | ~34 |
+| Judge me by my size, do you? | 10.00% | ~34 |
 | A tremor in the Force | 9.00% | ~31 |
-| Judge me by my size, do you? | 9.00% | ~31 |
 | "Gonk? Gonk!" | 8.00% | ~27 |
-| Distinguished | 7.00% | ~24 |
+| Distinguished | 8.00% | ~27 |
+| Support the troops | 8.00% | ~27 |
 | Patience you must have | 7.00% | ~24 |
-| Support the troops | 7.00% | ~24 |
-| When 900 years old you reach... | 6.00% | ~20 |
-| Determined | 6.00% | ~20 |
-| On the ball | 6.00% | ~20 |
-| Not bad for a little furball | 6.00% | ~20 |
-| Don't underestimate the Force | 6.00% | ~20 |
+| When 900 years old you reach... | 6.00% | ~21 |
+| Determined | 6.00% | ~21 |
+| On the ball | 6.00% | ~21 |
+| Not bad for a little furball | 6.00% | ~21 |
+| That's no moon | 6.00% | ~21 |
+| Don't underestimate the Force | 6.00% | ~21 |
 | I've been waiting for you | 5.00% | ~17 |
 | Your journey has only started | 5.00% | ~17 |
 | City in the Clouds | 5.00% | ~17 |
-| That's no moon | 5.00% | ~17 |
+| Disturbed tranquility | 5.00% | ~17 |
 | The Force is strong with this one | 4.00% | ~14 |
 | Precision shot | 4.00% | ~14 |
 | Safety ain't the point of a joyride | 4.00% | ~14 |
@@ -45,7 +46,6 @@
 | Alternative solution | 4.00% | ~14 |
 | What will you become? | 4.00% | ~14 |
 | The circle is now complete | 4.00% | ~14 |
-| Disturbed tranquility | 4.00% | ~14 |
 | Hold the line! | 3.00% | ~10 |
 | Playing the objective | 3.00% | ~10 |
 | Ackbar's Elite | 3.00% | ~10 |
@@ -58,9 +58,9 @@
 | Stop that Droid | 2.00% | ~7 |
 | A New Hope | 1.00% | ~3 |
 | in a galaxy far, far away.... | 1.00% | ~3 |
+| That got him! | 0.90% | ~3 |
 | Don't get cocky | 0.90% | ~3 |
 | Greed can be a very powerful ally | 0.90% | ~3 |
-| That got him! | 0.60% | ~2 |
 | Stay on target | 0.60% | ~2 |
 | Master | 0.60% | ~2 |
 | Stay in attack formation | 0.60% | ~2 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.30% | ~1 |
 | Crush them with one swift stroke… | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340 (Ranked 294)  
-Completed: 1 (0.29%) (Ranked 199)  
+Progressed: 342 (Ranked 294)  
+Completed: 1 (0.29%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 1 (0.29%) (Ranked 199)
 | 2023-09-27 | 253 | 1 |
 | 2023-09-28 | 289 | 1 |
 | 2023-09-29 | 314 | 1 |
-| 2023-09-30 | 340 | 1 |
+| 2023-09-30 | 342 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

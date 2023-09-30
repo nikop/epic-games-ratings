@@ -4,11 +4,11 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 119,
-  "Ranking_PopularitySum": 115,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3762,10 +3762,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6968,
       "NumberOfAwardsMax": 1718
+    },
+    {
+      "Time": "2023-09-30T20:59:22.121596+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6969,
+      "NumberOfAwardsMax": 1718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6968,
+  "NumberOfAwards": 6969,
   "NumberOfAwardsMax": 1718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3797,7 +3803,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 622
+      "Count": 623
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3838,7 +3844,7 @@
   ],
   "EOS_Progressed": 11444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14016,9 +14022,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-09-30T17:58:40.6499677+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:04:11.058431+00:00",
+  "LastChanged": "2023-09-30T20:59:22.1215953+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:05:27.3011292+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:58:15.2204191+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:04:11.0586061+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:59:22.1215966+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:05:27.3013527+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40769,
+  "EOS_Progressed": 40781,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9272,6 +9272,11 @@
       "Time": "2023-09-30T20:04:15.7383989+00:00",
       "NumProgressed": 40769,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-30T21:05:32.9376279+00:00",
+      "NumProgressed": 40781,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9331,7 +9336,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4078
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9355,7 +9360,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -9363,7 +9368,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -9371,7 +9376,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -9435,7 +9440,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9443,7 +9448,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9475,7 +9480,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -9483,7 +9488,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -9499,7 +9504,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9523,7 +9528,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9531,7 +9536,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -9555,7 +9560,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "MONUMENT_ALL",
@@ -9571,7 +9576,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9595,7 +9600,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9619,7 +9624,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3669
+      "UsersEstimate": 3670
     },
     {
       "ID": "SPRING_ALL",
@@ -9635,7 +9640,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "STAYING_AIR",
@@ -9706,22 +9711,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40769,
+      "Progressed": 40781,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5606,
-      "Completed": 5606
+      "Progressed": 5618,
+      "Completed": 5618
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:04:15.7383985+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:05:32.9376275+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:58:43.0678746+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:04:15.7384762+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:59:56.9524553+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:05:32.9377295+00:00"
 }

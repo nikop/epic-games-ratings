@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1773,9 +1773,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14235,
+  "EOS_Progressed": 14237,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12623,6 +12623,11 @@
       "Time": "2023-09-30T20:05:15.6699587+00:00",
       "NumProgressed": 14235,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-30T21:06:44.6381484+00:00",
+      "NumProgressed": 14237,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13258,7 +13263,7 @@
       "Name": "Settler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -14386,7 +14391,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -15001,21 +15006,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14235,
+      "Progressed": 14237,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14235,
+      "Progressed": 14237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-29T04:02:16.7733488+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:05:15.6699581+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:06:44.6381479+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:57:30.7183999+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:05:15.6707475+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:58:28.983777+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:06:44.6391388+00:00"
 }

@@ -6,45 +6,45 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,590 |
-| Rough Landing | 3.00% | ~26,590 |
-| Full Body Conversion | 2.00% | ~17,726 |
-| Right Back At Ya | 2.00% | ~17,726 |
-| Gunslinger | 2.00% | ~17,726 |
-| Master Crafter | 2.00% | ~17,726 |
-| Mean Streets | 2.00% | ~17,726 |
-| The High Priestess | 2.00% | ~17,726 |
-| The Jungle | 2.00% | ~17,726 |
-| True Soldier | 2.00% | ~17,726 |
-| Two Heads, One Bullet | 2.00% | ~17,726 |
-| V for Vendetta | 2.00% | ~17,726 |
-| To Bad Decisions! | 1.00% | ~8,863 |
-| Breathtaking | 1.00% | ~8,863 |
-| Stanislavski's Method | 1.00% | ~8,863 |
-| Temperance | 1.00% | ~8,863 |
-| The Fool | 1.00% | ~8,863 |
-| The Hermit | 1.00% | ~8,863 |
-| The Lovers | 1.00% | ~8,863 |
-| The Wheel of Fortune | 1.00% | ~8,863 |
-| True Warrior | 1.00% | ~8,863 |
-| Legend of The Afterlife | 1.00% | ~8,863 |
+| Ten out of Ten | 3.00% | ~26,591 |
+| Rough Landing | 3.00% | ~26,591 |
+| Full Body Conversion | 2.00% | ~17,727 |
+| Right Back At Ya | 2.00% | ~17,727 |
+| Gunslinger | 2.00% | ~17,727 |
+| Master Crafter | 2.00% | ~17,727 |
+| Mean Streets | 2.00% | ~17,727 |
+| The High Priestess | 2.00% | ~17,727 |
+| The Jungle | 2.00% | ~17,727 |
+| True Soldier | 2.00% | ~17,727 |
+| Two Heads, One Bullet | 2.00% | ~17,727 |
+| V for Vendetta | 2.00% | ~17,727 |
+| To Bad Decisions! | 1.00% | ~8,864 |
+| Breathtaking | 1.00% | ~8,864 |
+| Stanislavski's Method | 1.00% | ~8,864 |
+| Temperance | 1.00% | ~8,864 |
+| The Fool | 1.00% | ~8,864 |
+| The Hermit | 1.00% | ~8,864 |
+| The Lovers | 1.00% | ~8,864 |
+| The Wheel of Fortune | 1.00% | ~8,864 |
+| True Warrior | 1.00% | ~8,864 |
+| Legend of The Afterlife | 1.00% | ~8,864 |
 | The Quick and the Dead | 0.90% | ~7,977 |
 | Gun Fu | 0.80% | ~7,091 |
 | Christmas Tree Attack | 0.80% | ~7,091 |
 | The Devil | 0.80% | ~7,091 |
 | The World | 0.80% | ~7,091 |
 | It's Elementary | 0.80% | ~7,091 |
-| Judy vs Night City | 0.70% | ~6,204 |
+| Judy vs Night City | 0.70% | ~6,205 |
 | City Lights | 0.60% | ~5,318 |
 | Greetings from Pacifica! | 0.60% | ~5,318 |
 | Life of the Road | 0.50% | ~4,432 |
 | Bushido and Chill | 0.40% | ~3,545 |
 | I Am The Law | 0.40% | ~3,545 |
+| Must Be Rats | 0.40% | ~3,545 |
 | Spin Doctor | 0.40% | ~60 |
 | The Wandering Fool | 0.30% | ~2,659 |
 | Autojock | 0.30% | ~2,659 |
 | Frequent Flyer | 0.30% | ~2,659 |
-| Must Be Rats | 0.30% | ~2,659 |
 | The Sun | 0.30% | ~2,659 |
 | To Protect and Serve | 0.20% | ~1,773 |
 | Little Tokyo | 0.20% | ~1,773 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,317 (Ranked 15)  
+Progressed: 886,360 (Ranked 15)  
 Completed: 2,504 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,10 +227,10 @@ Completed: 2,504 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 886,317 | 2,504 |
+| 2023-09-30 | 886,360 | 2,504 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
-Sum: 244,088 (Ranked 13)  
+Sum: 244,445 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -241,9 +241,9 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 11,741 |
 | This game is Extremely Fun | 11,448 |
 | This game is Highly Recommended | 11,338 |
+| This game has Quickly Understood Controls | 11,255 |
 | This game is Relaxing | 11,119 |
 | This game has Amazing Characters | 11,042 |
-| This game has Quickly Understood Controls | 10,898 |
 | This game has a Creative Community | 7,380 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -502,4 +502,4 @@ Diff (max vs sum): -4
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
-| 2023-09-30 | 4.63 | - | 87,369 | 244,088 |
+| 2023-09-30 | 4.63 | - | 87,369 | 244,445 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1501,
+  "EOS_Progressed": 1502,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5436,6 +5436,11 @@
       "Time": "2023-09-30T20:03:47.3980568+00:00",
       "NumProgressed": 1501,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T21:04:59.0579196+00:00",
+      "NumProgressed": 1502,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5623,7 +5628,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5703,7 +5708,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5750,14 +5755,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1501,
+      "Progressed": 1502,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:03:47.3980562+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:04:59.0579192+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:56:56.9468783+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:03:47.3981052+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:57:44.108775+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:04:59.0579949+00:00"
 }

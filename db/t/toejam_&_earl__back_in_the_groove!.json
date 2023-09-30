@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57125,
+  "EOS_Progressed": 57126,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10108,6 +10108,11 @@
       "Time": "2023-09-30T20:03:52.0668051+00:00",
       "NumProgressed": 57125,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-30T21:05:04.2986213+00:00",
+      "NumProgressed": 57126,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10127,7 +10132,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "BoomBox",
@@ -10135,7 +10140,7 @@
       "Name": "Boom Box Baby",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "BoomBoxWipeout",
@@ -10199,7 +10204,7 @@
       "Name": "Flying Present Ultimate Master",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "FoodTaster",
@@ -10239,7 +10244,7 @@
       "Name": "Ridiculously Generous",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "GetThemAll",
@@ -10271,7 +10276,7 @@
       "Name": "Harsh Love",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "HiFive",
@@ -10327,7 +10332,7 @@
       "Name": "Made It Through",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Money",
@@ -10375,7 +10380,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "RhythmStar",
@@ -10399,7 +10404,7 @@
       "Name": "I\u0027m A Total Saint",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "SantasBag",
@@ -10415,7 +10420,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "StruckLove",
@@ -10463,7 +10468,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "TotalBummer",
@@ -10510,7 +10515,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57125,
+      "Progressed": 57126,
       "Completed": 6
     }
   ],
@@ -10518,8 +10523,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:03:52.0668046+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:05:04.2986208+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:19.6276448+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:57:36.2452322+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:03:52.0668847+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:58:35.2660851+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:05:04.2987244+00:00"
 }

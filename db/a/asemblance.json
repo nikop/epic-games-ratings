@@ -4,8 +4,8 @@
   "ProductSlug": "asemblance",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-06-25T15:00:00+00:00",
     "PcReleaseDate": "2016-06-21T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.2950095+00:00",
   "LastChanged": "2023-03-31T05:57:57.2950097+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.1904307+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:58:06.2102893+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:08:25.63553+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:59:11.0541296+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:09:35.3947578+00:00"
 }

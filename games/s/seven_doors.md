@@ -8,7 +8,7 @@
 | A Cautious Man Is Worth Two of His Kind | 36.00% | ~4 |
 | Kill the Dead Man | 36.00% | ~4 |
 | Diogenes Syndrome | 36.00% | ~4 |
-| Egyptologist | 27.00% | ~3 |
+| Egyptologist | 36.00% | ~4 |
 | Thanksgiving Day | 18.00% | ~2 |
 | No Fear of the Dark | 18.00% | ~2 |
 | The Witch’s Haunt | 18.00% | ~2 |

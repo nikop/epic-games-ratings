@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1218,9 +1218,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19154,
+  "EOS_Progressed": 19155,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18908,6 +18908,11 @@
       "Time": "2023-09-30T20:04:08.4161514+00:00",
       "NumProgressed": 19154,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-09-30T21:05:24.052594+00:00",
+      "NumProgressed": 19155,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 45,
@@ -18943,7 +18948,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 6895
+      "UsersEstimate": 6896
     },
     {
       "ID": "CantRunCantHide",
@@ -19007,7 +19012,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8619
+      "UsersEstimate": 8620
     },
     {
       "ID": "ICallItLuck",
@@ -19015,7 +19020,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8236
+      "UsersEstimate": 8237
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -19055,7 +19060,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14557
+      "UsersEstimate": 14558
     },
     {
       "ID": "MoreThanHuman",
@@ -19111,7 +19116,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6129
+      "UsersEstimate": 6130
     },
     {
       "ID": "PreempativeStrike",
@@ -19143,7 +19148,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10343
+      "UsersEstimate": 10344
     },
     {
       "ID": "RunningWild",
@@ -19183,7 +19188,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "SwordRunner",
@@ -19191,7 +19196,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11684
+      "UsersEstimate": 11685
     },
     {
       "ID": "SwordToAGunfight",
@@ -19278,21 +19283,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19154,
+      "Progressed": 19155,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19154,
+      "Progressed": 19155,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-30T11:59:23.4158626+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:04:08.416151+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:05:24.0525937+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:58:36.8703169+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:04:08.4162609+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:59:49.7909054+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:05:24.0527366+00:00"
 }

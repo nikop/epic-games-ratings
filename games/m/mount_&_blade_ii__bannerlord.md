@@ -6,15 +6,15 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,351 |
-| Landlord | 33.00% | ~20,605 |
+| Lawbringer | 39.00% | ~24,352 |
+| Landlord | 33.00% | ~20,606 |
 | Bannerlord | 23.00% | ~14,361 |
 | Horde breaker | 23.00% | ~14,361 |
 | Lawmaker | 23.00% | ~14,361 |
 | Trained | 23.00% | ~14,361 |
 | The king is pleased | 18.00% | ~11,239 |
 | King Solomon | 17.00% | ~10,615 |
-| I can do it | 16.00% | ~9,990 |
+| I can do it | 16.00% | ~9,991 |
 | Apple of my eye | 15.00% | ~9,366 |
 | God of the Arena | 13.00% | ~8,117 |
 | Against all odds | 12.00% | ~7,493 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,439 (Ranked 93)  
+Progressed: 62,441 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 62,189 | 0 |
 | 2023-09-28 | 62,296 | 0 |
 | 2023-09-29 | 62,367 | 0 |
-| 2023-09-30 | 62,439 | 0 |
+| 2023-09-30 | 62,441 | 0 |
 ## Awards
 Max (Character Customization): 7,159  (Ranked 52)  
-Sum: 14,656 (Ranked 67)  
+Sum: 14,658 (Ranked 67)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -234,8 +234,8 @@ Diff (max vs sum): -15
 | This game is Highly Recommended | 881 |
 | This game is Extremely Fun | 841 |
 | This game has Amazing Storytelling | 827 |
+| This game has Amazing Characters | 816 |
 | This game is Relaxing | 815 |
-| This game has Amazing Characters | 814 |
 | This game has Quickly Understood Controls | 803 |
 | This game has a Creative Community | 595 |
 | This game has Obsessive Gameplay | 376 |
@@ -501,4 +501,4 @@ Diff (max vs sum): -15
 | 2023-09-27 | 4.74 | - | 7,144 | 14,617 |
 | 2023-09-28 | 4.74 | - | 7,151 | 14,631 |
 | 2023-09-29 | 4.74 | - | 7,155 | 14,646 |
-| 2023-09-30 | 4.74 | - | 7,159 | 14,656 |
+| 2023-09-30 | 4.74 | - | 7,159 | 14,658 |

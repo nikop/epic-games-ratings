@@ -5,43 +5,43 @@ Rating: 4.49 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~3,459 |
-| For Saw Gerrera | 97.00% | ~3,389 |
-| Grab Some Seat | 88.00% | ~3,075 |
-| Can You Pet the Bogling? | 83.00% | ~2,900 |
-| The Past Made Present | 77.00% | ~2,690 |
-| Survivors, We Adapt | 71.00% | ~2,481 |
-| They Never Saw It Coming | 69.00% | ~2,411 |
-| Among the Masters | 69.00% | ~2,411 |
-| Who Gives a Puck | 64.00% | ~2,236 |
-| Mirror Match | 61.00% | ~2,131 |
-| Now, This Isn't Podracing | 55.00% | ~1,922 |
-| For the Path | 54.00% | ~1,887 |
-| Cleaning Up | 50.00% | ~1,747 |
-| Skywalker | 50.00% | ~1,747 |
-| Out of Bedlam | 48.00% | ~1,677 |
-| Hey, Luke At Us | 44.00% | ~1,537 |
-| Kitted Out | 42.00% | ~1,467 |
-| Riposte | 40.00% | ~1,398 |
-| Tanalorr Bound | 38.00% | ~1,328 |
-| Tragedy | 36.00% | ~1,258 |
-| Greezy Money | 36.00% | ~1,258 |
-| At the Precipice | 34.00% | ~1,188 |
-| Catch! | 34.00% | ~1,188 |
-| They're Probably Fine | 34.00% | ~1,188 |
-| Into the Abyss | 32.00% | ~1,118 |
-| A Place You Could Call Home | 31.00% | ~1,083 |
-| Han Slowlo | 29.00% | ~1,013 |
-| There Is No Try | 28.00% | ~978 |
-| The Jedi Path | 24.00% | ~839 |
-| This Is Canon | 22.00% | ~769 |
-| It's a Trap | 20.00% | ~699 |
-| You've Got A Friend | 18.00% | ~629 |
-| Reconnaissance | 14.00% | ~489 |
-| King of the World | 13.00% | ~454 |
-| A Presence I've Not Felt Since... | 12.00% | ~419 |
-| Max Capacity | 10.00% | ~349 |
-| Slam Dunk | 8.00% | ~280 |
+| Rooftop Duel | 99.00% | ~3,472 |
+| For Saw Gerrera | 97.00% | ~3,402 |
+| Grab Some Seat | 88.00% | ~3,086 |
+| Can You Pet the Bogling? | 83.00% | ~2,911 |
+| The Past Made Present | 77.00% | ~2,700 |
+| Survivors, We Adapt | 71.00% | ~2,490 |
+| They Never Saw It Coming | 69.00% | ~2,420 |
+| Among the Masters | 69.00% | ~2,420 |
+| Who Gives a Puck | 64.00% | ~2,244 |
+| Mirror Match | 61.00% | ~2,139 |
+| Now, This Isn't Podracing | 55.00% | ~1,929 |
+| For the Path | 54.00% | ~1,894 |
+| Cleaning Up | 50.00% | ~1,754 |
+| Skywalker | 50.00% | ~1,754 |
+| Out of Bedlam | 48.00% | ~1,683 |
+| Hey, Luke At Us | 45.00% | ~1,578 |
+| Kitted Out | 42.00% | ~1,473 |
+| Riposte | 40.00% | ~1,403 |
+| Tanalorr Bound | 38.00% | ~1,333 |
+| Tragedy | 36.00% | ~1,263 |
+| Greezy Money | 36.00% | ~1,263 |
+| At the Precipice | 34.00% | ~1,192 |
+| Catch! | 34.00% | ~1,192 |
+| They're Probably Fine | 34.00% | ~1,192 |
+| Into the Abyss | 33.00% | ~1,157 |
+| A Place You Could Call Home | 31.00% | ~1,087 |
+| Han Slowlo | 29.00% | ~1,017 |
+| There Is No Try | 29.00% | ~1,017 |
+| The Jedi Path | 24.00% | ~842 |
+| This Is Canon | 22.00% | ~772 |
+| It's a Trap | 20.00% | ~701 |
+| You've Got A Friend | 18.00% | ~631 |
+| Reconnaissance | 14.00% | ~491 |
+| King of the World | 13.00% | ~456 |
+| A Presence I've Not Felt Since... | 12.00% | ~421 |
+| Max Capacity | 10.00% | ~351 |
+| Slam Dunk | 8.00% | ~281 |
 | Star Tours | 7.00% | ~245 |
 | Caij Match | 7.00% | ~245 |
 | Gambler | 7.00% | ~245 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 588)
 | Splurgle | 2.00% | ~70 |
 | Blood, Sweat, and Tears | 2.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,494 (Ranked 182)  
+Progressed: 3,507 (Ranked 182)  
 Completed: 11 (0.31%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,10 +73,10 @@ Completed: 11 (0.31%) (Ranked 192)
 | 2023-09-27 | 2,827 | 9 |
 | 2023-09-28 | 3,076 | 9 |
 | 2023-09-29 | 3,314 | 10 |
-| 2023-09-30 | 3,494 | 11 |
+| 2023-09-30 | 3,507 | 11 |
 ## Awards
 Max (Great Boss Battles): 2,771  (Ranked 96)  
-Sum: 4,050 (Ranked 146)  
+Sum: 4,051 (Ranked 146)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
@@ -88,7 +88,7 @@ Diff (max vs sum): -50
 | This game has Amazing Characters | 152 |
 | This game is Highly Recommended | 151 |
 | This game is Extremely Fun | 134 |
-| This game has Challenging Combat | 121 |
+| This game has Challenging Combat | 122 |
 | This game has a Creative Community | 93 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -246,4 +246,4 @@ Diff (max vs sum): -50
 | 2023-09-27 | 4.49 | 2,737 | 3,978 |
 | 2023-09-28 | 4.49 | 2,737 | 3,989 |
 | 2023-09-29 | 4.49 | 2,749 | 4,018 |
-| 2023-09-30 | 4.49 | 2,771 | 4,050 |
+| 2023-09-30 | 4.49 | 2,771 | 4,051 |

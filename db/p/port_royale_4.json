@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 939,
+  "EOS_Progressed": 940,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2255,6 +2255,11 @@
       "Time": "2023-09-30T06:03:10.6169696+00:00",
       "NumProgressed": 939,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T21:04:15.2412813+00:00",
+      "NumProgressed": 940,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2282,7 +2287,7 @@
       "Name": "Conquistador",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH003",
@@ -2322,7 +2327,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH008",
@@ -2354,7 +2359,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH012",
@@ -2448,9 +2453,9 @@
       "ID": "ACH023",
       "SetID": "69nfp41",
       "Name": "Gofer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH024",
@@ -2480,9 +2485,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH028",
@@ -2522,7 +2527,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH033",
@@ -2570,7 +2575,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH039",
@@ -2665,15 +2670,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 939,
+      "Progressed": 940,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:03:10.6009965+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:04:15.2412807+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.0354085+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:58:36.4889524+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:03:10.6010405+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:59:49.2917398+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:04:15.2413387+00:00"
 }

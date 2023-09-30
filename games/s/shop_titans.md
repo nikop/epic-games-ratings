@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.50% | ~685 |
 | The King's Caprice | 0.50% | ~685 |
 | Thirst for Knowledge | 0.50% | ~685 |
+| Booty by the Boatload | 0.50% | ~685 |
 | Archivist | 0.50% | ~685 |
 | Locally Sourced | 0.50% | ~685 |
 | Flying off the Shelves | 0.50% | ~685 |
@@ -78,6 +79,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.50% | ~685 |
 | Wealth Beyond Measure | 0.50% | ~685 |
 | Fat Cat Tag Team | 0.50% | ~685 |
+| Necromancer Queen | 0.50% | ~685 |
 | Item of Renown | 0.50% | ~685 |
 | Master Merchant | 0.50% | ~685 |
 | Laden with Loot | 0.50% | ~685 |
@@ -91,12 +93,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.50% | ~685 |
 | King's Blade | 0.50% | ~685 |
 | Constellated | 0.40% | ~548 |
-| Booty by the Boatload | 0.40% | ~548 |
 | Fillin' the Bin | 0.40% | ~548 |
 | Industrial Evolution | 0.40% | ~548 |
 | By Your Powers Combined... | 0.40% | ~548 |
 | A Legend is Born | 0.40% | ~548 |
-| Necromancer Queen | 0.40% | ~548 |
 | Jackpot! | 0.40% | ~548 |
 | Bountiful Harvest | 0.40% | ~548 |
 | Master Recycler | 0.40% | ~548 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,912 (Ranked 69)  
+Progressed: 136,916 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
-| 2023-09-30 | 136,912 | 158 |
+| 2023-09-30 | 136,916 | 158 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,310 (Ranked 49)  

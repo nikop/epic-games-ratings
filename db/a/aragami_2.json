@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43363,
+  "EOS_Progressed": 43364,
   "EOS_Completed": 238,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -15871,6 +15871,11 @@
       "Time": "2023-09-30T19:06:03.401277+00:00",
       "NumProgressed": 43363,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-09-30T21:07:38.649724+00:00",
+      "NumProgressed": 43364,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -16002,7 +16007,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34690
+      "UsersEstimate": 34691
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16074,7 +16079,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16044
+      "UsersEstimate": 16045
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -16082,7 +16087,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7805
+      "UsersEstimate": 7806
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -16154,7 +16159,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29053
+      "UsersEstimate": 29054
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -16186,7 +16191,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19513
+      "UsersEstimate": 19514
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -16218,7 +16223,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40328
+      "UsersEstimate": 40329
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16233,7 +16238,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43363,
+      "Progressed": 43364,
       "Completed": 238
     }
   ],
@@ -16241,8 +16246,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-30T20:06:01.65042+00:00",
+  "LastChanged_Achievements": "2023-09-30T21:07:38.6497236+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.9212531+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:58:23.8531008+00:00",
-  "LastUpdate_Achievements": "2023-09-30T20:06:01.6505211+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:59:33.0106305+00:00",
+  "LastUpdate_Achievements": "2023-09-30T21:07:38.6498607+00:00"
 }

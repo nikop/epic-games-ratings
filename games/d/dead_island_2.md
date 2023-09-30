@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,661 |
-| Hotel California | 3.00% | ~20,661 |
-| Welcome To Hell-A | 3.00% | ~20,661 |
-| Dr. Reed, I Presume? | 2.00% | ~13,774 |
-| Git Gutte! | 2.00% | ~13,774 |
-| Bookworm | 2.00% | ~13,774 |
-| But Doctor, I am Butcho | 2.00% | ~13,774 |
-| Slayer Squad | 2.00% | ~13,774 |
-| Can't Handle the Truth | 2.00% | ~13,774 |
-| Coup de Grâce | 2.00% | ~13,774 |
-| Like Riding a Bike | 2.00% | ~13,774 |
-| Hazardous Materials | 2.00% | ~13,774 |
-| Friends Like These | 2.00% | ~13,774 |
-| Apex Predator | 2.00% | ~13,774 |
-| Zombologist | 2.00% | ~13,774 |
-| Ooh, Shiny! | 2.00% | ~13,774 |
-| A Patton Emerges | 2.00% | ~13,774 |
-| I Am the Resurrection | 2.00% | ~13,774 |
-| Stacking the Deck | 2.00% | ~13,774 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,774 |
-| Our True Nature | 2.00% | ~13,774 |
-| This is My Weapon | 2.00% | ~13,774 |
+| Break A Leg | 3.00% | ~20,662 |
+| Hotel California | 3.00% | ~20,662 |
+| Welcome To Hell-A | 3.00% | ~20,662 |
+| Dr. Reed, I Presume? | 2.00% | ~13,775 |
+| Git Gutte! | 2.00% | ~13,775 |
+| Bookworm | 2.00% | ~13,775 |
+| But Doctor, I am Butcho | 2.00% | ~13,775 |
+| Slayer Squad | 2.00% | ~13,775 |
+| Can't Handle the Truth | 2.00% | ~13,775 |
+| Coup de Grâce | 2.00% | ~13,775 |
+| Like Riding a Bike | 2.00% | ~13,775 |
+| Hazardous Materials | 2.00% | ~13,775 |
+| Friends Like These | 2.00% | ~13,775 |
+| Apex Predator | 2.00% | ~13,775 |
+| Zombologist | 2.00% | ~13,775 |
+| Ooh, Shiny! | 2.00% | ~13,775 |
+| A Patton Emerges | 2.00% | ~13,775 |
+| I Am the Resurrection | 2.00% | ~13,775 |
+| Stacking the Deck | 2.00% | ~13,775 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,775 |
+| Our True Nature | 2.00% | ~13,775 |
+| This is My Weapon | 2.00% | ~13,775 |
 | Making Your Mark | 1.00% | ~6,887 |
 | Anger Management | 1.00% | ~6,887 |
 | Perks of the Job | 1.00% | ~6,887 |
@@ -34,15 +34,15 @@ Rating: 4.54 (Ranked 511)
 | Humanity Distilled | 1.00% | ~6,887 |
 | Down with the Sickness | 1.00% | ~6,887 |
 | Max Headroom | 1.00% | ~6,887 |
-| Go, Bobcats! | 0.90% | ~6,198 |
+| Go, Bobcats! | 0.90% | ~6,199 |
 | Jumbo Keyring | 0.80% | ~5,510 |
 | Rising Star | 0.80% | ~5,510 |
 | Smorgasbord | 0.70% | ~4,821 |
 | Not Even My Final Form | 0.60% | ~4,132 |
 | Internet Famous | 0.60% | ~4,132 |
-| Make it So | 0.50% | ~3,443 |
-| On Safari | 0.50% | ~3,443 |
-| Variety is the Spice of Death | 0.50% | ~3,443 |
+| Make it So | 0.50% | ~3,444 |
+| On Safari | 0.50% | ~3,444 |
+| Variety is the Spice of Death | 0.50% | ~3,444 |
 | LA Influential | 0.40% | ~2,755 |
 | Gore Horse | 0.40% | ~2,755 |
 | Sole Survivor | 0.30% | ~2,066 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,693 (Ranked 22)  
+Progressed: 688,736 (Ranked 22)  
 Completed: 2,180 (0.32%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 2,180 (0.32%) (Ranked 191)
 | 2023-09-27 | 687,260 | 2,176 |
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
-| 2023-09-30 | 688,693 | 2,180 |
+| 2023-09-30 | 688,736 | 2,180 |
 ## Awards
 Max (Great Boss Battles): 6,253  (Ranked 58)  
-Sum: 9,323 (Ranked 91)  
+Sum: 9,326 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 389 |
 | This game has Amazing Storytelling | 361 |
 | This game is Extremely Fun | 353 |
-| This game is Highly Recommended | 345 |
+| This game is Highly Recommended | 348 |
 | This game has Amazing Characters | 341 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -395,4 +395,4 @@ Diff (max vs sum): -33
 | 2023-09-27 | 4.54 | 6,229 | 9,274 |
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
-| 2023-09-30 | 4.54 | 6,253 | 9,323 |
+| 2023-09-30 | 4.54 | 6,253 | 9,326 |

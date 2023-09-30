@@ -9,24 +9,24 @@
 | Welcome to the Club | 39.00% | ~34 |
 | Apprentice | 39.00% | ~34 |
 | A new World ahead | 32.00% | ~28 |
-| Can't touch this | 28.00% | ~24 |
+| Can't touch this | 29.00% | ~25 |
 | Don't Cry Wolf | 26.00% | ~23 |
 | Freezing Cold | 20.00% | ~17 |
-| Expert | 17.00% | ~15 |
+| Expert | 18.00% | ~16 |
+| Nothing but the Truth | 16.00% | ~14 |
 | Searing Heat | 15.00% | ~13 |
-| Nothing but the Truth | 15.00% | ~13 |
 | The Golden Flash | 14.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~12 |
 | Changing the World | 11.00% | ~10 |
 | Locked and Loaded | 10.00% | ~9 |
 | Witch | 10.00% | ~9 |
 | The A-Team | 9.00% | ~8 |
+| Defeat Uskol | 8.00% | ~7 |
 | Through Dangers Untold | 8.00% | ~7 |
 | Finally! | 8.00% | ~7 |
 | Mirror, Mirror on the Wall | 7.00% | ~6 |
 | Craftsmen | 7.00% | ~6 |
 | Defeat Tezuth | 7.00% | ~6 |
-| Defeat Uskol | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
 | Ancient Powers | 6.00% | ~5 |
