@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,560 |
+| Getting Started | 81.00% | ~10,561 |
 | Pay 'n' Spray | 51.00% | ~6,649 |
 | All Dressed Up for San Fierro | 26.00% | ~3,390 |
 | The American Dream | 19.00% | ~2,477 |
@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 475)
 | Saviour | 6.00% | ~782 |
 | They Can’t Stop All of Us | 5.00% | ~652 |
 | Rescue a Kitten Too? | 5.00% | ~652 |
-| What are the Odds | 4.00% | ~521 |
+| What are the Odds | 4.00% | ~522 |
 | Bike or Biker | 3.00% | ~391 |
 | What the City Needs | 3.00% | ~391 |
 | A Legitimate Business | 2.00% | ~261 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 475)
 | ...Here we go again | 0.50% | ~65 |
 | I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,037 (Ranked 136)  
+Progressed: 13,038 (Ranked 136)  
 Completed: 48 (0.37%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 48 (0.37%) (Ranked 181)
 | 2023-09-27 | 12,980 | 48 |
 | 2023-09-28 | 13,016 | 48 |
 | 2023-09-29 | 13,036 | 48 |
-| 2023-09-30 | 13,037 | 48 |
+| 2023-09-30 | 13,038 | 48 |
 ## Awards
 Max (Great Boss Battles): 320  (Ranked 237)  
 Sum: 449 (Ranked 317)  

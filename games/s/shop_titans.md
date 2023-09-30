@@ -8,12 +8,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 3.00% | ~4,106 |
 | Titan's First Steps | 3.00% | ~4,106 |
-| Basic in Bulk | 2.00% | ~2,737 |
-| Disintermediation | 2.00% | ~2,737 |
-| It's Free Real Estate | 2.00% | ~2,737 |
-| Tinkle of Coins | 2.00% | ~2,737 |
-| Budding Merchant | 2.00% | ~2,737 |
-| Capitalism Ho! | 2.00% | ~2,737 |
+| Basic in Bulk | 2.00% | ~2,738 |
+| Disintermediation | 2.00% | ~2,738 |
+| It's Free Real Estate | 2.00% | ~2,738 |
+| Tinkle of Coins | 2.00% | ~2,738 |
+| Budding Merchant | 2.00% | ~2,738 |
+| Capitalism Ho! | 2.00% | ~2,738 |
 | The Daily Grind | 1.00% | ~1,369 |
 | One Easy Payment | 1.00% | ~1,369 |
 | Some Assembly Required | 1.00% | ~1,369 |
@@ -90,19 +90,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.50% | ~684 |
 | Exotic Commodities | 0.50% | ~684 |
 | King's Blade | 0.50% | ~684 |
-| Constellated | 0.40% | ~547 |
-| Booty by the Boatload | 0.40% | ~547 |
-| Fillin' the Bin | 0.40% | ~547 |
-| Industrial Evolution | 0.40% | ~547 |
-| By Your Powers Combined... | 0.40% | ~547 |
-| A Legend is Born | 0.40% | ~547 |
-| Necromancer Queen | 0.40% | ~547 |
-| Bountiful Harvest | 0.40% | ~547 |
-| Master Recycler | 0.40% | ~547 |
-| Economy of Scarce | 0.40% | ~547 |
+| Constellated | 0.40% | ~548 |
+| Booty by the Boatload | 0.40% | ~548 |
+| Fillin' the Bin | 0.40% | ~548 |
+| Industrial Evolution | 0.40% | ~548 |
+| By Your Powers Combined... | 0.40% | ~548 |
+| A Legend is Born | 0.40% | ~548 |
+| Necromancer Queen | 0.40% | ~548 |
+| Jackpot! | 0.40% | ~548 |
+| Bountiful Harvest | 0.40% | ~548 |
+| Master Recycler | 0.40% | ~548 |
+| Economy of Scarce | 0.40% | ~548 |
 | The Free Encyclopedia | 0.30% | ~411 |
 | Thank You Tom Nook | 0.30% | ~411 |
-| Jackpot! | 0.30% | ~411 |
 | Eternal Crusade | 0.30% | ~411 |
 | All Accounted For | 0.30% | ~411 |
 | Unleashed Potential | 0.20% | ~274 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,874 (Ranked 69)  
+Progressed: 136,876 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
-| 2023-09-30 | 136,874 | 158 |
+| 2023-09-30 | 136,876 | 158 |
 ## Awards
 Max (Great for Beginners): 4,761  (Ranked 71)  
 Sum: 27,306 (Ranked 49)  

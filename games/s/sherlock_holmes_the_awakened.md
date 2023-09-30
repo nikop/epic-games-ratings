@@ -6,36 +6,36 @@ Rating: 4.63 (Ranked 334)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~442 |
-| Read Between The Lines | 65.00% | ~435 |
+| Read Between The Lines | 65.00% | ~436 |
 | High Profile | 59.00% | ~395 |
-| Whispers In The Dark | 58.00% | ~388 |
-| Fond Memories | 55.00% | ~368 |
-| A Method To His Madness | 54.00% | ~361 |
+| Whispers In The Dark | 58.00% | ~389 |
+| Fond Memories | 55.00% | ~369 |
+| A Method To His Madness | 54.00% | ~362 |
 | History Check | 53.00% | ~355 |
-| The New World | 50.00% | ~334 |
+| The New World | 50.00% | ~335 |
 | Open Sesame | 49.00% | ~328 |
 | Sticky Fingers | 49.00% | ~328 |
 | Knives Out | 49.00% | ~328 |
 | Land, Ho! | 49.00% | ~328 |
-| Lock, Stock, And Barrel | 48.00% | ~321 |
-| Gaze Into The Abyss | 48.00% | ~321 |
-| Back In The Saddle | 48.00% | ~321 |
-| No Man Is An Island | 48.00% | ~321 |
-| At Wits' End | 47.00% | ~314 |
-| Bookworm | 45.00% | ~301 |
-| Up In Flames | 45.00% | ~301 |
-| Fhtagn! | 45.00% | ~301 |
+| Gaze Into The Abyss | 48.00% | ~322 |
+| Back In The Saddle | 48.00% | ~322 |
+| No Man Is An Island | 48.00% | ~322 |
+| Lock, Stock, And Barrel | 47.00% | ~315 |
+| At Wits' End | 47.00% | ~315 |
+| Bookworm | 45.00% | ~302 |
+| Up In Flames | 45.00% | ~302 |
+| Fhtagn! | 45.00% | ~302 |
 | Going Once... | 40.00% | ~268 |
 | Let Me Be Frank | 39.00% | ~261 |
-| Brain Food | 38.00% | ~254 |
-| No Stone Unturned | 38.00% | ~254 |
+| Brain Food | 38.00% | ~255 |
+| No Stone Unturned | 38.00% | ~255 |
 | Read It And Weep | 23.00% | ~154 |
 | Curiosity Killed The Cat | 20.00% | ~134 |
 | Big Breakthrough | 14.00% | ~94 |
-| Reawakened | 5.00% | ~33 |
+| Reawakened | 5.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669 (Ranked 252)  
-Completed: 26 (3.89%) (Ranked 65)  
+Progressed: 670 (Ranked 252)  
+Completed: 26 (3.88%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,6 +174,7 @@ Completed: 26 (3.89%) (Ranked 65)
 | 2023-09-24 | 667 | 26 |
 | 2023-09-25 | 668 | 26 |
 | 2023-09-27 | 669 | 26 |
+| 2023-09-30 | 670 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

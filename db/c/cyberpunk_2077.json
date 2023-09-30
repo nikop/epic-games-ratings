@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12633,10 +12633,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 241223,
       "NumberOfAwardsMax": 86225
+    },
+    {
+      "Time": "2023-09-30T02:58:38.0916766+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 241574,
+      "NumberOfAwardsMax": 86225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 241223,
+  "NumberOfAwards": 241574,
   "NumberOfAwardsMax": 86225,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12686,7 +12692,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 11460
+      "Count": 11811
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12713,10 +12719,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885452,
-  "EOS_Completed": 2482,
-  "EOS_NewPlayers": 6459,
-  "EOS_NewCompleters": 224,
+  "EOS_Progressed": 885486,
+  "EOS_Completed": 2485,
+  "EOS_NewPlayers": 6469,
+  "EOS_NewCompleters": 225,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -30988,6 +30994,11 @@
       "Time": "2023-09-30T02:20:15.7073348+00:00",
       "NumProgressed": 885452,
       "NumCompleted": 2482
+    },
+    {
+      "Time": "2023-09-30T03:06:49.6991067+00:00",
+      "NumProgressed": 885486,
+      "NumCompleted": 2485
     }
   ],
   "TotalAchievements": 57,
@@ -31079,7 +31090,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "HandyMan",
@@ -31087,7 +31098,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "IAmMaxTac",
@@ -31103,7 +31114,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "LittleTokyo",
@@ -31183,7 +31194,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26564
+      "UsersEstimate": 26565
     },
     {
       "ID": "Temperance",
@@ -31199,7 +31210,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26564
+      "UsersEstimate": 26565
     },
     {
       "ID": "TheDevil",
@@ -31231,7 +31242,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "TheLovers",
@@ -31287,7 +31298,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "TrueSoldier",
@@ -31311,7 +31322,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "UnderPressure",
@@ -31327,7 +31338,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17709
+      "UsersEstimate": 17710
     },
     {
       "ID": "YipMan",
@@ -31454,21 +31465,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885452,
-      "Completed": 2482
+      "Progressed": 885486,
+      "Completed": 2485
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14075,
+      "Progressed": 14109,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-30T02:12:22.3318625+00:00",
-  "LastChanged_Achievements": "2023-09-30T02:20:15.7073341+00:00",
+  "LastChanged": "2023-09-30T02:58:38.0916764+00:00",
+  "LastChanged_Achievements": "2023-09-30T03:06:49.6991062+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:12:22.3318632+00:00",
-  "LastUpdate_Achievements": "2023-09-30T02:20:15.7075038+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:58:38.0916773+00:00",
+  "LastUpdate_Achievements": "2023-09-30T03:06:49.699261+00:00"
 }

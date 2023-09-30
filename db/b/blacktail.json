@@ -5,9 +5,9 @@
   "Ranking_Rating": 244,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 246,
+  "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1910,6 +1910,11 @@
       "Time": "2023-09-30T02:21:04.7936146+00:00",
       "NumProgressed": 694,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T03:07:22.0431983+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1969,7 +1974,7 @@
       "Name": "Devoted",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "EyeSpy",
@@ -2097,7 +2102,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Specialist",
@@ -2176,7 +2181,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 1
     }
   ],
@@ -2184,8 +2189,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-30T02:21:04.793614+00:00",
+  "LastChanged_Achievements": "2023-09-30T03:07:22.0431977+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.2653513+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:16:15.4841264+00:00",
-  "LastUpdate_Achievements": "2023-09-30T02:21:04.7936465+00:00"
+  "LastUpdate_Ratings": "2023-09-30T03:02:16.6463853+00:00",
+  "LastUpdate_Achievements": "2023-09-30T03:07:22.0432304+00:00"
 }

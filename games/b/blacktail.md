@@ -10,8 +10,8 @@ Rating: 4.68 (Ranked 244)
 | Devil's in the details | 15.00% | ~104 |
 | Uprooting | 14.00% | ~97 |
 | Forbidden techniques | 13.00% | ~90 |
-| Devoted | 10.00% | ~69 |
-| Slavic squatter | 9.00% | ~62 |
+| Devoted | 10.00% | ~70 |
+| Slavic squatter | 9.00% | ~63 |
 | Spirit animal | 8.00% | ~56 |
 | Gold rush | 7.00% | ~49 |
 | A friend in need... | 6.00% | ~42 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 244)
 | Mushrooming enthusiast | 0.60% | ~4 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694 (Ranked 246)  
+Progressed: 695 (Ranked 245)  
 Completed: 1 (0.14%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.14%) (Ranked 226)
 | 2023-09-25 | 690 | 1 |
 | 2023-09-26 | 691 | 1 |
 | 2023-09-29 | 692 | 1 |
-| 2023-09-30 | 694 | 1 |
+| 2023-09-30 | 695 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -475,9 +475,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -515,9 +515,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -818,8 +818,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-30T02:22:24.196309+00:00",
+  "LastChanged_Achievements": "2023-09-30T03:09:07.8815507+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:10.6458275+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:11:01.4233757+00:00",
-  "LastUpdate_Achievements": "2023-09-30T02:22:24.196354+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:56:59.9107914+00:00",
+  "LastUpdate_Achievements": "2023-09-30T03:09:07.8815961+00:00"
 }

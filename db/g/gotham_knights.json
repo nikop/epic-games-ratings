@@ -3,7 +3,7 @@
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 96,
+  "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 221,
@@ -3284,9 +3284,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72965,
+  "EOS_Progressed": 72966,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17094,6 +17094,11 @@
       "Time": "2023-09-30T01:43:30.4811011+00:00",
       "NumProgressed": 72965,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-09-30T03:03:26.5159087+00:00",
+      "NumProgressed": 72966,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 61,
@@ -17265,7 +17270,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9485
+      "UsersEstimate": 9486
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -17313,7 +17318,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9485
+      "UsersEstimate": 9486
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -17321,7 +17326,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "FREEZE_1",
@@ -17345,7 +17350,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13863
+      "UsersEstimate": 13864
     },
     {
       "ID": "FREEZE_3",
@@ -17417,7 +17422,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18241
+      "UsersEstimate": 18242
     },
     {
       "ID": "HARLEY_3",
@@ -17433,7 +17438,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11674
+      "UsersEstimate": 11675
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -17505,7 +17510,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18241
+      "UsersEstimate": 18242
     },
     {
       "ID": "MYSTERY_03",
@@ -17592,13 +17597,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72965,
+      "Progressed": 72966,
       "Completed": 119
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43245,
+      "Progressed": 43246,
       "Completed": 2668
     }
   ],
@@ -17606,8 +17611,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-29T23:59:01.1415505+00:00",
-  "LastChanged_Achievements": "2023-09-30T02:17:20.9170413+00:00",
+  "LastChanged_Achievements": "2023-09-30T03:03:26.5159082+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:40.102715+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:13:02.985543+00:00",
-  "LastUpdate_Achievements": "2023-09-30T02:17:20.917179+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:59:27.8805344+00:00",
+  "LastUpdate_Achievements": "2023-09-30T03:03:26.5160554+00:00"
 }

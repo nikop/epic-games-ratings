@@ -748,9 +748,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "LUNCH_LEECH",
@@ -772,9 +772,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-30T02:19:26.090923+00:00",
+  "LastChanged_Achievements": "2023-09-30T03:05:52.1974183+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:11:26.1155363+00:00",
-  "LastUpdate_Achievements": "2023-09-30T02:19:26.0909427+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:57:29.1366357+00:00",
+  "LastUpdate_Achievements": "2023-09-30T03:05:52.1974365+00:00"
 }

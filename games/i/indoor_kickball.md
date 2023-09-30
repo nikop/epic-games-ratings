@@ -10,8 +10,8 @@
 | Homer | 74.00% | ~70 |
 | Butter Fingers | 73.00% | ~69 |
 | Settle Down | 71.00% | ~67 |
+| Have a good trip! | 69.00% | ~66 |
 | Kickball Unlocked | 68.00% | ~65 |
-| Have a good trip! | 68.00% | ~65 |
 | Stay Hydrated | 63.00% | ~60 |
 | First Win | 62.00% | ~59 |
 | True Story! | 42.00% | ~40 |
@@ -26,8 +26,8 @@
 | Bathroom Secret Spot | 22.00% | ~21 |
 | Have Mercy | 21.00% | ~20 |
 | Living Room Secret Spot | 20.00% | ~19 |
-| Angry Mom | 18.00% | ~17 |
-| Hi Hungry, I'm Dad | 17.00% | ~16 |
+| Angry Mom | 19.00% | ~18 |
+| Hi Hungry, I'm Dad | 18.00% | ~17 |
 | Just how we drew it up | 13.00% | ~12 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |

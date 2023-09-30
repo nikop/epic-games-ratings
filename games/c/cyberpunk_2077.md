@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,564 |
-| Rough Landing | 3.00% | ~26,564 |
-| Gunslinger | 2.00% | ~17,709 |
-| Master Crafter | 2.00% | ~17,709 |
-| Mean Streets | 2.00% | ~17,709 |
-| The High Priestess | 2.00% | ~17,709 |
-| The Jungle | 2.00% | ~17,709 |
-| Two Heads, One Bullet | 2.00% | ~17,709 |
-| V for Vendetta | 2.00% | ~17,709 |
+| Ten out of Ten | 3.00% | ~26,565 |
+| Rough Landing | 3.00% | ~26,565 |
+| Gunslinger | 2.00% | ~17,710 |
+| Master Crafter | 2.00% | ~17,710 |
+| Mean Streets | 2.00% | ~17,710 |
+| The High Priestess | 2.00% | ~17,710 |
+| The Jungle | 2.00% | ~17,710 |
+| Two Heads, One Bullet | 2.00% | ~17,710 |
+| V for Vendetta | 2.00% | ~17,710 |
 | Full Body Conversion | 1.00% | ~8,855 |
 | Right Back At Ya | 1.00% | ~8,855 |
 | Breathtaking | 1.00% | ~8,855 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,452 (Ranked 15)  
-Completed: 2,482 (0.28%) (Ranked 202)  
+Progressed: 885,486 (Ranked 15)  
+Completed: 2,485 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,17 +227,17 @@ Completed: 2,482 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,452 | 2,482 |
+| 2023-09-30 | 885,486 | 2,485 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
-Sum: 241,223 (Ranked 13)  
+Sum: 241,574 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 86,225 |
 | This game has Great Boss Battles | 58,001 |
+| This game is Great for Beginners | 11,811 |
 | This game has Diverse Characters | 11,536 |
-| This game is Great for Beginners | 11,460 |
 | This game has Amazing Storytelling | 11,372 |
 | This game is Highly Recommended | 11,338 |
 | This game is Relaxing | 11,119 |
@@ -502,4 +502,4 @@ Diff (max vs sum): -4
 | 2023-09-27 | 4.63 | - | 84,038 | 230,844 |
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
-| 2023-09-30 | 4.63 | - | 86,225 | 241,223 |
+| 2023-09-30 | 4.63 | - | 86,225 | 241,574 |

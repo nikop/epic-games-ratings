@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 88.00% | ~6,190 |
-| Struck A Pose | 87.00% | ~6,120 |
-| Look At Him Go | 75.00% | ~5,276 |
-| On Rails Experience | 52.00% | ~3,658 |
-| A Daring Devil | 49.00% | ~3,447 |
-| Break the Bank | 40.00% | ~2,814 |
-| It Took Two | 35.00% | ~2,462 |
-| Bug Sized Relaxation | 18.00% | ~1,266 |
-| Plastic Prison Breakers | 16.00% | ~1,125 |
-| Terror Of The Seven Seas | 14.00% | ~985 |
-| Realize Your Art | 11.00% | ~774 |
-| Force Triangulated | 11.00% | ~774 |
-| Meditation Maestro | 10.00% | ~703 |
-| Lost And Found | 9.00% | ~633 |
-| Something Fishy | 9.00% | ~633 |
-| Platforming Prodigy | 8.00% | ~563 |
-| Snackosaurus | 7.00% | ~492 |
-| Mood Swing | 6.00% | ~422 |
-| Faraway Frequencies | 4.00% | ~281 |
-| Minigame Megalomania | 3.00% | ~211 |
+| Fried Friendship | 88.00% | ~6,211 |
+| Struck A Pose | 87.00% | ~6,140 |
+| Look At Him Go | 75.00% | ~5,294 |
+| On Rails Experience | 52.00% | ~3,670 |
+| A Daring Devil | 49.00% | ~3,458 |
+| Break the Bank | 40.00% | ~2,823 |
+| It Took Two | 35.00% | ~2,470 |
+| Bug Sized Relaxation | 18.00% | ~1,270 |
+| Plastic Prison Breakers | 16.00% | ~1,129 |
+| Terror Of The Seven Seas | 14.00% | ~988 |
+| Realize Your Art | 11.00% | ~776 |
+| Force Triangulated | 11.00% | ~776 |
+| Meditation Maestro | 10.00% | ~706 |
+| Lost And Found | 9.00% | ~635 |
+| Something Fishy | 9.00% | ~635 |
+| Platforming Prodigy | 8.00% | ~565 |
+| Snackosaurus | 7.00% | ~494 |
+| Mood Swing | 6.00% | ~423 |
+| Faraway Frequencies | 4.00% | ~282 |
+| Minigame Megalomania | 3.00% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,034 (Ranked 153)  
+Progressed: 7,058 (Ranked 153)  
 Completed: 26 (0.37%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,4 +40,4 @@ Completed: 26 (0.37%) (Ranked 181)
 | 2023-09-27 | 5,467 | 21 |
 | 2023-09-28 | 6,115 | 22 |
 | 2023-09-29 | 6,976 | 26 |
-| 2023-09-30 | 7,034 | 26 |
+| 2023-09-30 | 7,058 | 26 |

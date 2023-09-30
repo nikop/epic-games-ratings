@@ -5,16 +5,16 @@ Rating: 4.16 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,050 |
-| Unlocked Potential | 9.00% | ~3,645 |
-| Tinkerer | 7.00% | ~2,835 |
-| Knock 'Em Dead | 7.00% | ~2,835 |
-| Pilgrimage: Initiate | 7.00% | ~2,835 |
-| Hell of a Run | 7.00% | ~2,835 |
-| Leapfrogger | 6.00% | ~2,430 |
-| Call of the Fount: Baptized | 6.00% | ~2,430 |
-| No Mercy | 5.00% | ~2,025 |
-| Explorer: Seeker | 5.00% | ~2,025 |
+| Attachments | 10.00% | ~4,051 |
+| Unlocked Potential | 9.00% | ~3,646 |
+| Tinkerer | 7.00% | ~2,836 |
+| Knock 'Em Dead | 7.00% | ~2,836 |
+| Pilgrimage: Initiate | 7.00% | ~2,836 |
+| Hell of a Run | 7.00% | ~2,836 |
+| Leapfrogger | 6.00% | ~2,431 |
+| Call of the Fount: Baptized | 6.00% | ~2,431 |
+| No Mercy | 5.00% | ~2,026 |
+| Explorer: Seeker | 5.00% | ~2,026 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,620 |
 | Stuck | 4.00% | ~1,620 |
 | Help Me Out Here | 4.00% | ~1,620 |
@@ -34,32 +34,32 @@ Rating: 4.16 (Ranked 905)
 | None the Wiser | 1.00% | ~405 |
 | Forspoken | 1.00% | ~405 |
 | Pilgrimage: Novice | 1.00% | ~405 |
-| Wildfire | 0.70% | ~283 |
-| Realized Potential | 0.70% | ~283 |
+| Wildfire | 0.70% | ~284 |
+| Realized Potential | 0.70% | ~284 |
 | Awakening | 0.60% | ~243 |
 | Explorer: Trailblazer | 0.60% | ~243 |
-| Through the Eyes of Another: Seer | 0.50% | ~202 |
-| Archivist | 0.30% | ~121 |
-| Craftsperson | 0.30% | ~121 |
-| Tit for Tat | 0.30% | ~121 |
-| Promises | 0.30% | ~121 |
-| Rebirth | 0.30% | ~121 |
+| Through the Eyes of Another: Seer | 0.50% | ~203 |
+| Archivist | 0.30% | ~122 |
+| Craftsperson | 0.30% | ~122 |
+| Tit for Tat | 0.30% | ~122 |
+| Promises | 0.30% | ~122 |
+| Rebirth | 0.30% | ~122 |
 | Paragon | 0.20% | ~81 |
 | Pilgrimage: Adept | 0.20% | ~81 |
 | Call of the Fount: Beatified | 0.20% | ~81 |
 | I Can Fly! | 0.20% | ~81 |
 | A Roaring Trade | 0.20% | ~81 |
-| Abominizer | 0.10% | ~40 |
-| Through the Eyes of Another: Visionary | 0.10% | ~40 |
-| Kit and Caboodle | 0.10% | ~40 |
-| Above and Beyond | 0.10% | ~40 |
-| Happy Snapper | 0.10% | ~40 |
-| Barely There | 0.10% | ~40 |
-| Moves | 0.10% | ~40 |
-| Remembrance | 0.10% | ~40 |
-| Cat Person | 0.10% | ~40 |
+| Abominizer | 0.10% | ~41 |
+| Through the Eyes of Another: Visionary | 0.10% | ~41 |
+| Kit and Caboodle | 0.10% | ~41 |
+| Above and Beyond | 0.10% | ~41 |
+| Happy Snapper | 0.10% | ~41 |
+| Barely There | 0.10% | ~41 |
+| Moves | 0.10% | ~41 |
+| Remembrance | 0.10% | ~41 |
+| Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,497 (Ranked 105)  
+Progressed: 40,512 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 3 (0.01%) (Ranked 283)
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
 | 2023-09-29 | 40,425 | 3 |
-| 2023-09-30 | 40,497 | 3 |
+| 2023-09-30 | 40,512 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

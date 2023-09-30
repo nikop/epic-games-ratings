@@ -388,9 +388,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 69,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -484,9 +484,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MechanicIntegration",
@@ -516,9 +516,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -803,8 +803,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-30T02:20:09.6695496+00:00",
+  "LastChanged_Achievements": "2023-09-30T03:06:42.7722762+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:12:10.4732548+00:00",
-  "LastUpdate_Achievements": "2023-09-30T02:20:09.6696397+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:58:24.0229402+00:00",
+  "LastUpdate_Achievements": "2023-09-30T03:06:42.7723676+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6292,9 +6292,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136874,
+  "EOS_Progressed": 136876,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -22957,6 +22957,11 @@
       "Time": "2023-09-30T00:06:20.4694488+00:00",
       "NumProgressed": 136874,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-09-30T03:07:16.5316106+00:00",
+      "NumProgressed": 136876,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -23032,7 +23037,7 @@
       "Name": "Constellated",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ashley_a",
@@ -23152,7 +23157,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "collection01",
@@ -23200,7 +23205,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "commonres02",
@@ -23224,7 +23229,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "craft01",
@@ -23232,7 +23237,7 @@
       "Name": "Disintermediation",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "craft02",
@@ -23256,7 +23261,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "craft05",
@@ -23344,7 +23349,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "expansion02",
@@ -23400,7 +23405,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "fuseflawless",
@@ -23416,7 +23421,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "fuseuncommon",
@@ -23440,7 +23445,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "gold02",
@@ -23512,7 +23517,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "jackslot01",
@@ -23526,9 +23531,9 @@
       "ID": "jackslot02",
       "SetID": "anfd17p",
       "Name": "Jackpot!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 548
     },
     {
       "ID": "jackslot03",
@@ -23552,7 +23557,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "level02",
@@ -23608,7 +23613,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "loot04",
@@ -23744,7 +23749,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "sell02",
@@ -23776,7 +23781,7 @@
       "Name": "Master Recycler",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "tutorial",
@@ -23824,7 +23829,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "workers01",
@@ -23863,15 +23868,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136874,
+      "Progressed": 136876,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T01:38:27.9861298+00:00",
-  "LastChanged_Achievements": "2023-09-30T02:20:39.805253+00:00",
+  "LastChanged_Achievements": "2023-09-30T03:07:16.5316102+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:39.2389838+00:00",
-  "LastUpdate_Ratings": "2023-09-30T02:12:27.4732086+00:00",
-  "LastUpdate_Achievements": "2023-09-30T02:20:39.8055238+00:00"
+  "LastUpdate_Ratings": "2023-09-30T02:58:44.239054+00:00",
+  "LastUpdate_Achievements": "2023-09-30T03:07:16.5318712+00:00"
 }
