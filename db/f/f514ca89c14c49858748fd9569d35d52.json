@@ -4,7 +4,7 @@
   "ProductSlug": "alan13-reformation-d4ec20",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-21T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -140,8 +140,8 @@
   ],
   "FirstSeen": "2023-09-24T16:58:49.6574733+00:00",
   "FirstSeenAchievements": "2023-09-07T19:06:16.4121929+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:03:30.5312363+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:03:40.6436809+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:03.1959755+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:59:57.8314648+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:03:30.5312459+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:00:41.3907017+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:03:40.6436926+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "cace077f51674e66b937ba8d5646fff7",
   "Name": "Mokoko X",
   "ProductSlug": "mokoko-x-e2b09d",
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -843,33 +843,33 @@
       "ID": "ENEMY_ARCADE_24",
       "SetID": "50pdlpn",
       "Name": "Arcade - Thoroboros the Simple Small God",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_25",
       "SetID": "50pdlpn",
       "Name": "Arcade - Albert the Wonderful Sea Creature",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_26",
       "SetID": "50pdlpn",
       "Name": "Arcade - Albert the Angry Sea Star",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_27",
       "SetID": "50pdlpn",
       "Name": "Arcade - Thoroboros, Albert \u0026 Albert",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_28",
@@ -986,8 +986,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:03:56.3876227+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:04:20.8948361+00:00",
   "LastUpdate_AppInfo": "2023-09-25T18:57:17.5566843+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:57:34.2575908+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:03:56.387735+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:57:50.3642116+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:04:20.894916+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2965,9 +2965,9 @@
       "Count": 736
     }
   ],
-  "EOS_Progressed": 236926,
+  "EOS_Progressed": 236927,
   "EOS_Completed": 275,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -19725,6 +19725,11 @@
       "Time": "2023-09-30T06:04:39.2367269+00:00",
       "NumProgressed": 236926,
       "NumCompleted": 275
+    },
+    {
+      "Time": "2023-09-30T07:05:11.4869015+00:00",
+      "NumProgressed": 236927,
+      "NumCompleted": 275
     }
   ],
   "TotalAchievements": 122,
@@ -19768,7 +19773,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 227449
+      "UsersEstimate": 227450
     },
     {
       "ID": "CURSE1HP",
@@ -19776,7 +19781,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94770
+      "UsersEstimate": 94771
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -19800,7 +19805,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40277
+      "UsersEstimate": 40278
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -19824,7 +19829,7 @@
       "Name": "Max Damage!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40277
+      "UsersEstimate": 40278
     },
     {
       "ID": "DEPTH12",
@@ -19848,7 +19853,7 @@
       "Name": "A Rough Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30800
+      "UsersEstimate": 30801
     },
     {
       "ID": "DEPTH6",
@@ -19856,7 +19861,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 172956
+      "UsersEstimate": 172957
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -19920,7 +19925,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 137417
+      "UsersEstimate": 137418
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -19952,7 +19957,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 75816
+      "UsersEstimate": 75817
     },
     {
       "ID": "ENDWOUNDED",
@@ -19968,7 +19973,7 @@
       "Name": "Walk It Off",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66339
+      "UsersEstimate": 66340
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -20168,7 +20173,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94770
+      "UsersEstimate": 94771
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -20192,7 +20197,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40277
+      "UsersEstimate": 40278
     },
     {
       "ID": "KILLBOSSHARD",
@@ -20224,7 +20229,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 127940
+      "UsersEstimate": 127941
     },
     {
       "ID": "KILLNICEDOG",
@@ -20240,7 +20245,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 92401
+      "UsersEstimate": 92402
     },
     {
       "ID": "KILLREFLECT10",
@@ -20272,7 +20277,7 @@
       "Name": "Shootout",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 85293
+      "UsersEstimate": 85294
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -20288,7 +20293,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40277
+      "UsersEstimate": 40278
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -20328,7 +20333,7 @@
       "Name": "Chain Reaction",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30800
+      "UsersEstimate": 30801
     },
     {
       "ID": "MULTIKILL30",
@@ -20384,7 +20389,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 154002
+      "UsersEstimate": 154003
     },
     {
       "ID": "PETRIFY50",
@@ -20392,7 +20397,7 @@
       "Name": "Stone Touch",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66339
+      "UsersEstimate": 66340
     },
     {
       "ID": "PLAY10HOURS",
@@ -20480,7 +20485,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 210864
+      "UsersEstimate": 210865
     },
     {
       "ID": "SPECIALROOMS10",
@@ -20488,7 +20493,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 146894
+      "UsersEstimate": 146895
     },
     {
       "ID": "SPEEDRUN10",
@@ -20504,7 +20509,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 101878
+      "UsersEstimate": 101879
     },
     {
       "ID": "STEALTH100",
@@ -20512,7 +20517,7 @@
       "Name": "Shadow Walker",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66339
+      "UsersEstimate": 66340
     },
     {
       "ID": "SURVIVEON1",
@@ -20711,7 +20716,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 236926,
+      "Progressed": 236927,
       "Completed": 275
     }
   ],
@@ -20719,8 +20724,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-09-29T07:59:22.5318825+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:04:39.2367265+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:05:11.4869012+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:33.7345688+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:59:44.3561787+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:04:39.2369939+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:00:24.8154985+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:05:11.4872209+00:00"
 }

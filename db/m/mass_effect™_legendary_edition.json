@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1129,9 +1129,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_125",
@@ -1489,9 +1489,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_51",
@@ -1933,8 +1933,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:05:55.1756351+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:06:40.0993932+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:57:09.1047389+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:05:55.1759053+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:57:19.0159827+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:06:40.099626+00:00"
 }

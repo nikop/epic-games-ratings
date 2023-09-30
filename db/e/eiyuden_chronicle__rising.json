@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -594,9 +594,9 @@
       "ID": "ACHIEVEMENT033",
       "SetID": "dejhjd5",
       "Name": "Rune Scholar",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -746,8 +746,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:05:36.0075489+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:06:17.6324996+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.6096057+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:00:10.0337726+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:05:36.0076002+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:00:55.7041355+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:06:17.6325516+00:00"
 }

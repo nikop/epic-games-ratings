@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,7 +130,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2594,
+  "EOS_Progressed": 2595,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 2,
@@ -3770,6 +3770,11 @@
       "Time": "2023-09-29T12:05:45.9726311+00:00",
       "NumProgressed": 2594,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-30T07:06:16.2927686+00:00",
+      "NumProgressed": 2595,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 53,
@@ -3789,7 +3794,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -3821,7 +3826,7 @@
       "Name": "Hijack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3845,7 +3850,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3861,7 +3866,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3893,7 +3898,7 @@
       "Name": "I chose my shackles",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3949,7 +3954,7 @@
       "Name": "Chains master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -3957,7 +3962,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3965,7 +3970,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3989,7 +3994,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -3997,7 +4002,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4021,7 +4026,7 @@
       "Name": "Devineur",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -4085,7 +4090,7 @@
       "Name": "You can pet the dog",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4093,7 +4098,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "STB_PLATINUM",
@@ -4165,7 +4170,7 @@
       "Name": "Spellcrafting",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -4189,7 +4194,7 @@
       "Name": "Ancient power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -4204,7 +4209,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2594,
+      "Progressed": 2595,
       "Completed": 11
     }
   ],
@@ -4212,8 +4217,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:05:35.0103547+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:06:16.2927681+00:00",
   "LastUpdate_AppInfo": "2023-09-23T11:57:04.8253651+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:58:03.9601641+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:05:35.010428+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:58:26.416258+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:06:16.2928419+00:00"
 }

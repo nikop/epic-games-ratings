@@ -6,39 +6,39 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~292,065 |
-| Full garage | 60.00% | ~240,053 |
-| To the eyeballs! | 51.00% | ~204,045 |
-| Individual delivery | 46.00% | ~184,041 |
-| Non-Stop | 44.00% | ~176,039 |
-| Juggler | 36.00% | ~144,032 |
-| Forgot something | 35.00% | ~140,031 |
-| Close call! | 30.00% | ~120,027 |
-| Get out my way | 28.00% | ~112,025 |
-| Critical care | 26.00% | ~104,023 |
-| Common cause | 25.00% | ~100,022 |
-| Mega-railroad | 23.00% | ~92,020 |
-| Upgrade complete | 23.00% | ~92,020 |
-| Just in time! | 18.00% | ~72,016 |
-| Builder | 17.00% | ~68,015 |
-| Long Haul | 17.00% | ~67,903 |
-| Steam Age | 16.00% | ~64,014 |
-| Bridgemania | 14.00% | ~56,012 |
-| Multilevel road | 14.00% | ~56,012 |
-| Need to think | 14.00% | ~56,012 |
-| The Tortoise | 12.00% | ~48,011 |
-| Without a lunch break | 11.00% | ~44,010 |
-| Beginner | 10.00% | ~40,009 |
-| One way | 10.00% | ~40,009 |
-| Relocation | 10.00% | ~40,009 |
-| Industrial Age | 9.00% | ~36,008 |
-| Just One More Valley | 9.00% | ~35,949 |
-| Prick of conscience | 8.00% | ~32,007 |
-| Missed it! | 7.00% | ~28,006 |
-| At the last moment! | 6.00% | ~24,005 |
-| Overseer | 6.00% | ~24,005 |
-| Jewelry accuracy | 5.00% | ~20,004 |
-| Stargazer | 5.00% | ~20,004 |
+| Dealmaker | 73.00% | ~292,080 |
+| Full garage | 60.00% | ~240,066 |
+| To the eyeballs! | 51.00% | ~204,056 |
+| Individual delivery | 46.00% | ~184,051 |
+| Non-Stop | 44.00% | ~176,048 |
+| Juggler | 36.00% | ~144,040 |
+| Forgot something | 35.00% | ~140,038 |
+| Close call! | 30.00% | ~120,033 |
+| Get out my way | 28.00% | ~112,031 |
+| Critical care | 26.00% | ~104,029 |
+| Common cause | 25.00% | ~100,028 |
+| Mega-railroad | 23.00% | ~92,025 |
+| Upgrade complete | 23.00% | ~92,025 |
+| Just in time! | 18.00% | ~72,020 |
+| Builder | 17.00% | ~68,019 |
+| Long Haul | 17.00% | ~67,907 |
+| Steam Age | 16.00% | ~64,018 |
+| Bridgemania | 14.00% | ~56,015 |
+| Multilevel road | 14.00% | ~56,015 |
+| Need to think | 14.00% | ~56,015 |
+| The Tortoise | 12.00% | ~48,013 |
+| Without a lunch break | 11.00% | ~44,012 |
+| Beginner | 10.00% | ~40,011 |
+| One way | 10.00% | ~40,011 |
+| Relocation | 10.00% | ~40,011 |
+| Industrial Age | 9.00% | ~36,010 |
+| Just One More Valley | 9.00% | ~35,951 |
+| Prick of conscience | 8.00% | ~32,009 |
+| Missed it! | 7.00% | ~28,008 |
+| At the last moment! | 6.00% | ~24,007 |
+| Overseer | 6.00% | ~24,007 |
+| Jewelry accuracy | 5.00% | ~20,006 |
+| Stargazer | 5.00% | ~20,006 |
 | Bridge builder | 4.00% | ~16,004 |
 | Electrical Age | 4.00% | ~16,004 |
 | Highlander | 4.00% | ~16,004 |
@@ -47,7 +47,7 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~12,003 |
 | Sabotage | 3.00% | ~12,003 |
 | Squander | 3.00% | ~12,003 |
-| Test Batch | 3.00% | ~11,983 |
+| Test Batch | 3.00% | ~11,984 |
 | Astronomer | 2.00% | ~8,002 |
 | Globalisation Age | 2.00% | ~8,002 |
 | Innovator | 2.00% | ~8,002 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~399 |
 | World Zapper | 0.10% | ~399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,089 (Ranked 42)  
+Progressed: 400,110 (Ranked 42)  
 Completed: 16 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 16 (0.00%) (Ranked 300)
 | 2023-09-27 | 399,172 | 16 |
 | 2023-09-28 | 399,527 | 16 |
 | 2023-09-29 | 399,979 | 16 |
-| 2023-09-30 | 400,089 | 16 |
+| 2023-09-30 | 400,110 | 16 |
 ## Awards
 Max (Challenging Puzzles): 694  (Ranked 175)  
-Sum: 1,366 (Ranked 229)  
+Sum: 1,369 (Ranked 229)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): -54
 | This game has Quickly Understood Controls | 74 |
 | This game is Relaxing | 74 |
 | This game is Highly Recommended | 73 |
-| This game has Challenging Combat | 56 |
+| This game has Challenging Combat | 59 |
 | This game has Amazing Storytelling | 49 |
 | This game has a Creative Community | 49 |
 | This game has Amazing Characters | 35 |
@@ -372,4 +372,4 @@ Diff (max vs sum): -54
 | 2023-09-27 | 4.44 | - | 683 | 1,338 |
 | 2023-09-28 | 4.44 | - | 689 | 1,351 |
 | 2023-09-29 | 4.44 | - | 694 | 1,365 |
-| 2023-09-30 | 4.44 | - | 694 | 1,366 |
+| 2023-09-30 | 4.44 | - | 694 | 1,369 |

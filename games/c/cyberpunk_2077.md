@@ -6,38 +6,38 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,568 |
-| Rough Landing | 3.00% | ~26,568 |
-| Gunslinger | 2.00% | ~17,712 |
-| Master Crafter | 2.00% | ~17,712 |
-| Mean Streets | 2.00% | ~17,712 |
-| The High Priestess | 2.00% | ~17,712 |
-| The Jungle | 2.00% | ~17,712 |
-| Two Heads, One Bullet | 2.00% | ~17,712 |
-| V for Vendetta | 2.00% | ~17,712 |
-| To Bad Decisions! | 1.00% | ~8,856 |
-| Full Body Conversion | 1.00% | ~8,856 |
-| Right Back At Ya | 1.00% | ~8,856 |
-| Breathtaking | 1.00% | ~8,856 |
-| Stanislavski's Method | 1.00% | ~8,856 |
-| Temperance | 1.00% | ~8,856 |
-| The Hermit | 1.00% | ~8,856 |
-| The Wheel of Fortune | 1.00% | ~8,856 |
-| True Soldier | 1.00% | ~8,856 |
-| True Warrior | 1.00% | ~8,856 |
-| Legend of The Afterlife | 1.00% | ~8,856 |
-| The Lovers | 0.90% | ~7,970 |
+| Ten out of Ten | 3.00% | ~26,570 |
+| Rough Landing | 3.00% | ~26,570 |
+| Gunslinger | 2.00% | ~17,713 |
+| Master Crafter | 2.00% | ~17,713 |
+| Mean Streets | 2.00% | ~17,713 |
+| The High Priestess | 2.00% | ~17,713 |
+| The Jungle | 2.00% | ~17,713 |
+| Two Heads, One Bullet | 2.00% | ~17,713 |
+| V for Vendetta | 2.00% | ~17,713 |
+| To Bad Decisions! | 1.00% | ~8,857 |
+| Full Body Conversion | 1.00% | ~8,857 |
+| Right Back At Ya | 1.00% | ~8,857 |
+| Breathtaking | 1.00% | ~8,857 |
+| Stanislavski's Method | 1.00% | ~8,857 |
+| Temperance | 1.00% | ~8,857 |
+| The Hermit | 1.00% | ~8,857 |
+| The Wheel of Fortune | 1.00% | ~8,857 |
+| True Soldier | 1.00% | ~8,857 |
+| True Warrior | 1.00% | ~8,857 |
+| Legend of The Afterlife | 1.00% | ~8,857 |
+| The Lovers | 0.90% | ~7,971 |
+| The Quick and the Dead | 0.80% | ~7,085 |
+| The Devil | 0.80% | ~7,085 |
 | The Fool | 0.80% | ~7,085 |
-| Christmas Tree Attack | 0.70% | ~6,199 |
-| The Quick and the Dead | 0.70% | ~6,199 |
-| The Devil | 0.70% | ~6,199 |
-| The World | 0.70% | ~6,199 |
-| It's Elementary | 0.70% | ~6,199 |
+| Christmas Tree Attack | 0.70% | ~6,200 |
+| The World | 0.70% | ~6,200 |
+| Judy vs Night City | 0.70% | ~6,200 |
+| It's Elementary | 0.70% | ~6,200 |
 | Gun Fu | 0.60% | ~5,314 |
 | Greetings from Pacifica! | 0.60% | ~5,314 |
-| Judy vs Night City | 0.60% | ~5,314 |
 | City Lights | 0.50% | ~4,428 |
-| Life of the Road | 0.40% | ~3,542 |
+| Life of the Road | 0.40% | ~3,543 |
 | Bushido and Chill | 0.30% | ~2,657 |
 | The Wandering Fool | 0.30% | ~2,657 |
 | Autojock | 0.30% | ~2,657 |
@@ -49,7 +49,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Little Tokyo | 0.20% | ~1,771 |
 | The Star | 0.20% | ~1,771 |
 | The Sun | 0.20% | ~1,771 |
-| Relic Ruler | 0.20% | ~28 |
+| Relic Ruler | 0.20% | ~29 |
 | The Wasteland | 0.10% | ~886 |
 | Daemon In The Shell | 0.10% | ~886 |
 | The APB is Not Enough | 0.10% | ~14 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,605 (Ranked 15)  
-Completed: 2,486 (0.28%) (Ranked 202)  
+Progressed: 885,652 (Ranked 15)  
+Completed: 2,487 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2,486 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,605 | 2,486 |
+| 2023-09-30 | 885,652 | 2,487 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
 Sum: 241,574 (Ranked 13)  

@@ -2,9 +2,9 @@
   "ID": "06c6603778ed47859ce523af7e0b566b",
   "Name": "Skye Tales",
   "ProductSlug": "skye-tales-02bf5b",
-  "Ranking_EOS_Progress": 494,
-  "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-16T23:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-08-09T15:04:28.3852646+00:00",
@@ -96,6 +96,11 @@
       "Time": "2023-09-25T16:09:51.0299287+00:00",
       "NumProgressed": 15,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T07:04:03.7563127+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-27T11:02:13.0772521+00:00",
@@ -106,7 +111,7 @@
       "ID": "All Aboard!",
       "SetID": "dene75h",
       "Name": "All Aboard!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "All Stuck Down",
       "SetID": "dene75h",
       "Name": "All Stuck Down",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "Allergies?",
       "SetID": "dene75h",
       "Name": "Allergies?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "Backup Band",
       "SetID": "dene75h",
       "Name": "Backup Band",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "Beach Day",
       "SetID": "dene75h",
       "Name": "Beach Day",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "Beat our QA",
       "SetID": "dene75h",
       "Name": "Beat our QA",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "Beat our QA again",
       "SetID": "dene75h",
       "Name": "Beat our QA again",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "Buckets and Bouquets",
       "SetID": "dene75h",
       "Name": "Buckets and Bouquets",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -178,7 +183,7 @@
       "ID": "Counting Stars",
       "SetID": "dene75h",
       "Name": "Counting Stars",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "DOOT!",
       "SetID": "dene75h",
       "Name": "DOOT!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -194,7 +199,7 @@
       "ID": "Dancing in the Desert",
       "SetID": "dene75h",
       "Name": "Dancing in the Desert",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "Drag Queen",
       "SetID": "dene75h",
       "Name": "Drag Queen",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -218,7 +223,7 @@
       "ID": "Finest Silks",
       "SetID": "dene75h",
       "Name": "Finest Silks",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -234,7 +239,7 @@
       "ID": "Grand Circus",
       "SetID": "dene75h",
       "Name": "Grand Circus",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -242,7 +247,7 @@
       "ID": "Gummed Up",
       "SetID": "dene75h",
       "Name": "Gummed Up",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "Gumshoe",
       "SetID": "dene75h",
       "Name": "Gumshoe",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -258,7 +263,7 @@
       "ID": "Hold Your Breath",
       "SetID": "dene75h",
       "Name": "Hold Your Breath",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -266,7 +271,7 @@
       "ID": "Hoppy Lil\u0027 Guys",
       "SetID": "dene75h",
       "Name": "Hoppy Lil\u0027 Guys",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -274,7 +279,7 @@
       "ID": "Light It Up!",
       "SetID": "dene75h",
       "Name": "Light It Up!",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -298,7 +303,7 @@
       "ID": "Lost Sailors",
       "SetID": "dene75h",
       "Name": "Lost Sailors",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "Music Maestro",
       "SetID": "dene75h",
       "Name": "Music Maestro",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -338,7 +343,7 @@
       "ID": "Prickly Little Friends",
       "SetID": "dene75h",
       "Name": "Prickly Little Friends",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -346,7 +351,7 @@
       "ID": "Reef Rescue",
       "SetID": "dene75h",
       "Name": "Reef Rescue",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -354,7 +359,7 @@
       "ID": "Rockstar",
       "SetID": "dene75h",
       "Name": "Rockstar",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -362,7 +367,7 @@
       "ID": "Sail Away",
       "SetID": "dene75h",
       "Name": "Sail Away",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -378,7 +383,7 @@
       "ID": "Sharp Dressed Dragon",
       "SetID": "dene75h",
       "Name": "Sharp Dressed Dragon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -386,7 +391,7 @@
       "ID": "She Shells Sea Sells",
       "SetID": "dene75h",
       "Name": "She Shells Sea Sells",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -394,7 +399,7 @@
       "ID": "Speed Is Key!",
       "SetID": "dene75h",
       "Name": "Speed Is Key!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -402,7 +407,7 @@
       "ID": "Squirrelly",
       "SetID": "dene75h",
       "Name": "Squirrelly",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -410,7 +415,7 @@
       "ID": "Sweeter Shooter",
       "SetID": "dene75h",
       "Name": "Sweeter Shooter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -418,7 +423,7 @@
       "ID": "Travel in Style",
       "SetID": "dene75h",
       "Name": "Travel in Style",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -426,7 +431,7 @@
       "ID": "WHY?",
       "SetID": "dene75h",
       "Name": "WHY?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -435,14 +440,14 @@
     {
       "ID": "dene75h",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:03:41.6957362+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:04:03.7563123+00:00",
   "LastUpdate_AppInfo": "2023-09-29T15:57:16.7789659+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:57:13.7835341+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:03:41.6957854+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:57:24.7496255+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:04:03.7563452+00:00"
 }

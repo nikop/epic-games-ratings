@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~4,681 |
-| IT MAKES BOOM! | 5.00% | ~2,600 |
-| EXTRA BOOST | 3.00% | ~1,560 |
-| ACE SPEEDSTER | 2.00% | ~1,040 |
-| PROTECTED | 2.00% | ~1,040 |
-| A TIGER'S FEAR | 2.00% | ~1,040 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~1,040 |
-| AGGRESSIVE RACER | 2.00% | ~1,040 |
-| PRO | 2.00% | ~1,040 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~520 |
-| TRAINING HARD | 1.00% | ~520 |
-| RELEASE THE KRAKEN | 1.00% | ~520 |
-| BE OUR GUEST | 1.00% | ~520 |
-| ACE BRAWLER | 1.00% | ~520 |
-| DEFEAT OUR CHAMPION | 1.00% | ~520 |
-| ACE DEFENDER | 1.00% | ~520 |
-| FRIENDLY | 1.00% | ~520 |
-| MASTER | 1.00% | ~520 |
-| LEGENDARY HERO | 1.00% | ~520 |
-| PERFECTLY POISED | 0.90% | ~468 |
-| THE EYE OF THE HUNTER | 0.90% | ~468 |
-| ACE TRICKSTER | 0.90% | ~468 |
-| FRAMED! | 0.60% | ~312 |
-| EXPERIENCED CREW | 0.50% | ~260 |
+| ROOKIE | 9.00% | ~4,726 |
+| IT MAKES BOOM! | 5.00% | ~2,625 |
+| EXTRA BOOST | 3.00% | ~1,575 |
+| ACE SPEEDSTER | 2.00% | ~1,050 |
+| PROTECTED | 2.00% | ~1,050 |
+| A TIGER'S FEAR | 2.00% | ~1,050 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~1,050 |
+| AGGRESSIVE RACER | 2.00% | ~1,050 |
+| PRO | 2.00% | ~1,050 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~525 |
+| TRAINING HARD | 1.00% | ~525 |
+| RELEASE THE KRAKEN | 1.00% | ~525 |
+| BE OUR GUEST | 1.00% | ~525 |
+| ACE BRAWLER | 1.00% | ~525 |
+| DEFEAT OUR CHAMPION | 1.00% | ~525 |
+| ACE DEFENDER | 1.00% | ~525 |
+| FRIENDLY | 1.00% | ~525 |
+| MASTER | 1.00% | ~525 |
+| LEGENDARY HERO | 1.00% | ~525 |
+| PERFECTLY POISED | 0.90% | ~473 |
+| THE EYE OF THE HUNTER | 0.90% | ~473 |
+| ACE TRICKSTER | 0.90% | ~473 |
+| EXPERIENCED CREW | 0.50% | ~263 |
+| FRAMED! | 0.50% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,008 (Ranked 97)  
+Progressed: 52,508 (Ranked 97)  
 Completed: 220 (0.42%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,4 +188,4 @@ Completed: 220 (0.42%) (Ranked 174)
 | 2023-09-27 | 3,309 | 199 |
 | 2023-09-28 | 17,979 | 216 |
 | 2023-09-29 | 44,201 | 220 |
-| 2023-09-30 | 52,008 | 220 |
+| 2023-09-30 | 52,508 | 220 |

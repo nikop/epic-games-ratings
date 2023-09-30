@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 254,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -940,9 +940,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 165
     },
     {
       "ID": "Island",
@@ -956,9 +956,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "Master",
@@ -1035,8 +1035,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:04:16.1304683+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:04:44.3847095+00:00",
   "LastUpdate_AppInfo": "2023-09-25T21:56:58.5344933+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:00:09.6358533+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:04:16.1304861+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:00:55.2574526+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:04:44.3847247+00:00"
 }

@@ -14,9 +14,9 @@ Rating: 4.56 (Ranked 475)
 | For your Eyes only | 18.00% | ~3,275 |
 | Assistant Accountant | 17.00% | ~3,093 |
 | Tailor-Made | 17.00% | ~3,093 |
-| You Only Live Twice | 16.00% | ~2,911 |
-| Fully Decked Out | 16.00% | ~2,911 |
-| A view to Win | 13.00% | ~2,365 |
+| You Only Live Twice | 16.00% | ~2,912 |
+| Fully Decked Out | 16.00% | ~2,912 |
+| A view to Win | 13.00% | ~2,366 |
 | Private Collection | 12.00% | ~2,184 |
 | Smells Like Trouble | 12.00% | ~2,184 |
 | The Living Portrait | 11.00% | ~2,002 |
@@ -36,13 +36,13 @@ Rating: 4.56 (Ranked 475)
 | PHD in VIP | 2.00% | ~364 |
 | The terminals are not enough | 1.00% | ~182 |
 | Lose Another Day | 1.00% | ~182 |
+| Chairman of Deceive Inc. | 0.90% | ~164 |
 | Chief Information Officer | 0.80% | ~146 |
-| Chairman of Deceive Inc. | 0.80% | ~146 |
 | Masteries Are Forever | 0.40% | ~73 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,196 (Ranked 125)  
+Progressed: 18,197 (Ranked 125)  
 Completed: 3 (0.02%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 3 (0.02%) (Ranked 275)
 | 2023-09-27 | 18,171 | 3 |
 | 2023-09-28 | 18,180 | 3 |
 | 2023-09-29 | 18,191 | 3 |
-| 2023-09-30 | 18,196 | 3 |
+| 2023-09-30 | 18,197 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -80,11 +80,11 @@ Number of Ratings: 37  (23.09.2022)
 | Craftsmen challenge | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
 | The wood shortage | 0.70% | ~30 |
+| Made my choice | 0.60% | ~26 |
 | Impregnable | 0.60% | ~26 |
 | I've been everywhere III | 0.50% | ~22 |
 | Governor-elect | 0.50% | ~22 |
 | Little place in the country | 0.50% | ~22 |
-| Made my choice | 0.50% | ~22 |
 | An honorable departure | 0.50% | ~22 |
 | I've been everywhere VII | 0.50% | ~22 |
 | To serve and protect | 0.50% | ~22 |

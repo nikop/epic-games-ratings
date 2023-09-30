@@ -8206,10 +8206,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44615,
       "NumberOfAwardsMax": 23132
+    },
+    {
+      "Time": "2023-09-30T06:58:07.9084319+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44620,
+      "NumberOfAwardsMax": 23132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44615,
+  "NumberOfAwards": 44620,
   "NumberOfAwardsMax": 23132,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8247,7 +8253,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1065
+      "Count": 1070
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8286,9 +8292,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297550,
+  "EOS_Progressed": 297552,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25846,6 +25852,11 @@
       "Time": "2023-09-30T06:03:37.3023045+00:00",
       "NumProgressed": 297550,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-30T07:03:48.7237133+00:00",
+      "NumProgressed": 297552,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -25857,7 +25868,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44632
+      "UsersEstimate": 44633
     },
     {
       "ID": "PFA_10",
@@ -26017,7 +26028,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8926
+      "UsersEstimate": 8927
     },
     {
       "ID": "PFA_29",
@@ -26033,7 +26044,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8926
+      "UsersEstimate": 8927
     },
     {
       "ID": "PFA_30",
@@ -26041,7 +26052,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32730
+      "UsersEstimate": 32731
     },
     {
       "ID": "PFA_31",
@@ -26073,7 +26084,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8926
+      "UsersEstimate": 8927
     },
     {
       "ID": "PFA_35",
@@ -26201,7 +26212,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32730
+      "UsersEstimate": 32731
     },
     {
       "ID": "PFA_9",
@@ -26216,16 +26227,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297550,
+      "Progressed": 297552,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-30T01:37:46.6083068+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:03:37.3023039+00:00",
+  "LastChanged": "2023-09-30T06:58:07.9084318+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:03:48.7237129+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:19.7652987+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:57:48.4936274+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:03:37.3024794+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:58:07.9084329+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:03:48.7238424+00:00"
 }

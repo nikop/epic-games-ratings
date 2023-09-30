@@ -25,12 +25,12 @@ Rating: 4.46 (Ranked 631)
 | Access granted | 35.00% | ~688 |
 | Going once, going twice, sold | 35.00% | ~688 |
 | Bull and bear | 34.00% | ~668 |
+| Full Steam ahead | 33.00% | ~648 |
 | Stoker | 32.00% | ~629 |
-| Full Steam ahead | 32.00% | ~629 |
 | Financial Shark | 31.00% | ~609 |
 | All mine | 30.00% | ~590 |
 | Mole | 30.00% | ~590 |
-| Socializer | 29.00% | ~570 |
+| Socializer | 30.00% | ~590 |
 | Country Life | 28.00% | ~550 |
 | General Manager | 27.00% | ~531 |
 | Hostile Takeover | 26.00% | ~511 |

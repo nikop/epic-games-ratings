@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 951)  
+Rating: 4.03 (Ranked 952)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -33,8 +33,8 @@ Number of Ratings: 53  (23.09.2022)
 | Your vessel, my vessel | 9.00% | ~85 |
 | All mine! | 8.00% | ~75 |
 | Paths of Glory | 8.00% | ~75 |
+| Panel of experts | 8.00% | ~75 |
 | Maker | 7.00% | ~66 |
-| Panel of experts | 7.00% | ~66 |
 | Conglomerate | 6.00% | ~56 |
 | Buccaneer | 5.00% | ~47 |
 | Flying Dutchman | 5.00% | ~47 |

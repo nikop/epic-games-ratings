@@ -26,10 +26,10 @@ Rating: 4.56 (Ranked 475)
 | Power Outage | 7.00% | ~224 |
 | Convenient Transport | 7.00% | ~224 |
 | Please Make it Stop! | 7.00% | ~224 |
+| Access Granted | 6.00% | ~192 |
 | Necessary Enhancement | 6.00% | ~192 |
 | From the Past | 6.00% | ~192 |
 | Oats | 5.00% | ~160 |
-| Access Granted | 5.00% | ~160 |
 | BRAWL! | 5.00% | ~160 |
 | All in Good Health | 5.00% | ~160 |
 | What They Hide From Us | 4.00% | ~128 |

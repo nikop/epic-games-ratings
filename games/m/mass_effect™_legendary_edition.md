@@ -7,8 +7,8 @@
 | Distinguished Service Medal | 94.00% | ~449 |
 | Spectre Inductee | 83.00% | ~397 |
 | Medal of Exploration I | 75.00% | ~358 |
+| Recruit | 71.00% | ~339 |
 | Search and Rescue | 71.00% | ~339 |
-| Recruit | 70.00% | ~335 |
 | Quarian Ally | 68.00% | ~325 |
 | Honorarium of Corporate Service | 65.00% | ~311 |
 | Medal of Heroism | 63.00% | ~301 |
@@ -46,8 +46,8 @@
 | Galactic Explorer | 34.00% | ~163 |
 | Broke, Blind, and Bedlam | 32.00% | ~153 |
 | Ghost Ship | 31.00% | ~148 |
+| The Quarian | 31.00% | ~148 |
 | The Justicar | 30.00% | ~143 |
-| The Quarian | 30.00% | ~143 |
 | The Prodigal | 30.00% | ~143 |
 | A Personal Touch | 29.00% | ~139 |
 | The Assassin | 29.00% | ~139 |

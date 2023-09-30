@@ -5119,9 +5119,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 648
     },
     {
       "ID": "A16",
@@ -5415,9 +5415,9 @@
       "ID": "A52",
       "SetID": "9b7p7eo",
       "Name": "Socializer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 590
     },
     {
       "ID": "A53",
@@ -5448,8 +5448,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-28T13:58:27.851753+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:03:50.6103318+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:04:14.1895872+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:41.1464016+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:58:32.0390463+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:03:50.6104162+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:59:00.8102249+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:04:14.1896653+00:00"
 }

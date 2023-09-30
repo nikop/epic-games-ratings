@@ -1851,9 +1851,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_INSANECHOICES",
       "SetID": "9eacipp",
       "Name": "Made my choice",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_INSURGENTS",
@@ -2155,8 +2155,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-30T06:03:54.5922268+00:00",
+  "LastChanged_Achievements": "2023-09-30T07:04:18.9121738+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:43.2239811+00:00",
-  "LastUpdate_Ratings": "2023-09-30T05:57:51.2694779+00:00",
-  "LastUpdate_Achievements": "2023-09-30T06:03:54.5924112+00:00"
+  "LastUpdate_Ratings": "2023-09-30T06:58:10.9831408+00:00",
+  "LastUpdate_Achievements": "2023-09-30T07:04:18.9122927+00:00"
 }
