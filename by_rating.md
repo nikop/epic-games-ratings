@@ -402,7 +402,7 @@
 | 400 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 28 | 474 |
 | 400 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,021 | 26 |
 | 400 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 525 |
-| 400 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 343 | 230 |
+| 400 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 345 | 230 |
 | 400 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,686 | 73 |
 | 400 | [Control](games/c/control.md) | 4.60 | 8,551 | 41 |
 | 400 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 525 |
@@ -592,7 +592,7 @@
 | 589 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 392 |
 | 589 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 525 |
 | 589 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,998 | 109 |
-| 589 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,899 | 14 |
+| 589 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,932 | 14 |
 | 589 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 525 |
 | 589 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 250 |
 | 589 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 132 | 312 |
@@ -641,21 +641,21 @@
 | 631 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 54 | 399 |
 | 631 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 525 |
 | 631 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 525 |
-| 631 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | 0 | 525 |
 | 631 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 289 | 243 |
 | 631 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 525 |
-| 645 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 50 | 408 |
-| 645 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 525 |
-| 645 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 249 | 258 |
-| 645 | [ELEX](games/e/elex.md) | 4.45 | 24 | 496 |
-| 645 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 861 | 155 |
-| 645 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.45 | 0 | 525 |
-| 645 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 109 | 334 |
-| 645 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,695 | 35 |
-| 645 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 35 | 450 |
-| 645 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 119 | 324 |
-| 645 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 525 |
-| 645 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 24 | 496 |
+| 644 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 50 | 408 |
+| 644 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 525 |
+| 644 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 249 | 258 |
+| 644 | [ELEX](games/e/elex.md) | 4.45 | 24 | 496 |
+| 644 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 861 | 155 |
+| 644 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.45 | 0 | 525 |
+| 644 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 109 | 334 |
+| 644 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,695 | 35 |
+| 644 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 35 | 450 |
+| 644 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 525 |
+| 644 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 119 | 324 |
+| 644 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 525 |
+| 644 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 24 | 496 |
 | 657 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.44 | 0 | 525 |
 | 657 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 525 |
 | 657 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 525 |

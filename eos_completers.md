@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 73.51% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 73.45% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.57% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.59% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -42,13 +42,13 @@
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.59% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.58% |
 | 42 | [Time Loader](games/t/time_loader.md) | 7.26% |
-| 43 | [Scorn](games/s/scorn.md) | 7.03% |
+| 43 | [Scorn](games/s/scorn.md) | 7.02% |
 | 44 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.67% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 46 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 6.25% |
 | 46 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 6.25% |
-| 49 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
+| 48 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
+| 49 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 6.10% |
 | 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.09% |
 | 51 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 52 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
@@ -164,7 +164,7 @@
 | 162 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 162 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 164 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 165 | [Dead Space](games/d/dead_space.md) | 0.51% |
+| 165 | [Dead Space](games/d/dead_space.md) | 0.50% |
 | 166 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.47% |
 | 166 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 168 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
