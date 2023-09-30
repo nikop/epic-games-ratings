@@ -40,8 +40,8 @@ Rating: 4.03 (Ranked 952)
 | The power of Awakening | 11.00% | ~218 |
 | Frostfire Liberator | 10.00% | ~198 |
 | Master Enchanter | 10.00% | ~198 |
+| The father of Dragons | 10.00% | ~198 |
 | Here We Go Again | 9.00% | ~178 |
-| The father of Dragons | 9.00% | ~178 |
 | Trader | 9.00% | ~178 |
 | Blueprint Upgrades | 8.00% | ~158 |
 | Crystal Mining | 8.00% | ~158 |

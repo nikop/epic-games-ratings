@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~27,932 |
-| Let There Be Light | 34.00% | ~22,612 |
-| Float Like a Butterfly | 33.00% | ~21,947 |
-| Nordic Walking | 26.00% | ~17,291 |
-| Bright Falls' Finest | 26.00% | ~17,291 |
-| Under a Thin Layer of Skin | 23.00% | ~15,296 |
-| Park Ranger | 19.00% | ~12,636 |
-| Paging Mr. Wake | 19.00% | ~12,636 |
-| Back! Back, I Say! | 18.00% | ~11,971 |
-| Finders Keepers | 18.00% | ~11,971 |
+| Follow the Light | 42.00% | ~27,934 |
+| Let There Be Light | 34.00% | ~22,613 |
+| Float Like a Butterfly | 33.00% | ~21,948 |
+| Nordic Walking | 26.00% | ~17,292 |
+| Bright Falls' Finest | 26.00% | ~17,292 |
+| Under a Thin Layer of Skin | 23.00% | ~15,297 |
+| Park Ranger | 19.00% | ~12,637 |
+| Paging Mr. Wake | 19.00% | ~12,637 |
+| Back! Back, I Say! | 18.00% | ~11,972 |
+| Finders Keepers | 18.00% | ~11,972 |
 | Sound and Fury | 16.00% | ~10,641 |
 | Missed by a Mile | 16.00% | ~10,641 |
 | Damn Good Cup of Coffee | 16.00% | ~10,641 |
@@ -33,15 +33,15 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 12.00% | ~7,981 |
 | The Lady of the Light | 11.00% | ~7,316 |
 | Energized! | 11.00% | ~7,316 |
-| Right of Way | 10.00% | ~6,650 |
-| What Light Through Yonder Window | 9.00% | ~5,985 |
-| Tornado Wrangler | 8.00% | ~5,320 |
-| Departure | 8.00% | ~5,320 |
+| Right of Way | 10.00% | ~6,651 |
+| What Light Through Yonder Window | 9.00% | ~5,986 |
+| Tornado Wrangler | 8.00% | ~5,321 |
+| Departure | 8.00% | ~5,321 |
 | A Friend in Need | 8.00% | ~2,398 |
-| Drink 'Em Both Up | 6.00% | ~3,990 |
-| Hardboiled Writer | 6.00% | ~3,990 |
-| A Friend Indeed | 6.00% | ~1,798 |
-| Ding! | 6.00% | ~1,798 |
+| Drink 'Em Both Up | 6.00% | ~3,991 |
+| Hardboiled Writer | 6.00% | ~3,991 |
+| A Friend Indeed | 6.00% | ~1,799 |
+| Ding! | 6.00% | ~1,799 |
 | Boob Tube | 5.00% | ~3,325 |
 | Children of the Elder God | 5.00% | ~3,325 |
 | If It Flies, It Burns | 5.00% | ~3,325 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,330 |
 | An Idyllic Small Town | 2.00% | ~1,330 |
 | Couch Potato | 2.00% | ~1,330 |
-| Iron Will | 2.00% | ~599 |
+| Iron Will | 2.00% | ~600 |
 | Go Gentle Into That Good Light | 1.00% | ~300 |
 | Words Will Never Harm You | 0.70% | ~210 |
 | Cardboard Companions | 0.60% | ~180 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,505 (Ranked 90)  
+Progressed: 66,509 (Ranked 90)  
 Completed: 66 (0.10%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 66 (0.10%) (Ranked 238)
 | 2023-09-27 | 66,314 | 66 |
 | 2023-09-28 | 66,395 | 66 |
 | 2023-09-29 | 66,470 | 66 |
-| 2023-09-30 | 66,505 | 66 |
+| 2023-09-30 | 66,509 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

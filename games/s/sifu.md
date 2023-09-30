@@ -30,6 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.20% | ~1,431 |
 | Rumble in the Hangar | 0.20% | ~1,431 |
 | Take damage to save time | 0.20% | ~1,431 |
+| Bloody Sport | 0.20% | ~49 |
 | Martial Hub | 0.20% | ~49 |
 | Muk Yan Master | 0.10% | ~715 |
 | Tiger on Fire | 0.10% | ~715 |
@@ -52,7 +53,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.10% | ~715 |
 | Warriors from the Mountain | 0.10% | ~715 |
 | Come Snap With Me | 0.10% | ~715 |
-| Bloody Sport | 0.10% | ~25 |
 | Deadly Venom | 0.10% | ~25 |
 | Secure, Protect, Leave | 0.10% | ~25 |
 | The best strikes are the ones we avoid | 0.10% | ~25 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,395 (Ranked 20)  
+Progressed: 715,396 (Ranked 20)  
 Completed: 12,904 (1.80%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 12,904 (1.80%) (Ranked 108)
 | 2023-09-27 | 715,343 | 12,903 |
 | 2023-09-28 | 715,362 | 12,904 |
 | 2023-09-29 | 715,380 | 12,904 |
-| 2023-09-30 | 715,395 | 12,904 |
+| 2023-09-30 | 715,396 | 12,904 |
 ## Awards
 Max (Great Boss Battles): 6,610  (Ranked 54)  
 Sum: 11,438 (Ranked 82)  

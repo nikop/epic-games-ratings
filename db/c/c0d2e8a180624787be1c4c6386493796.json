@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 6,
   "EOS_Completed": 0,
@@ -72,9 +74,9 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
@@ -328,9 +330,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -685,9 +687,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:06:20.9673643+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:05:35.4077025+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:00:31.5132955+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:06:20.9674372+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:59:56.3493053+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:05:35.4077838+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.86,
+  "EOS_Completed_Percentage": 5.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -583,6 +583,11 @@
       "Time": "2023-09-29T14:06:59.506362+00:00",
       "NumProgressed": 256,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-30T08:05:47.3942964+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -594,7 +599,7 @@
       "Name": "Blunga 1",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "05_Coins",
@@ -650,7 +655,7 @@
       "Name": "Mjam-Mjam",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Brain_turned_in_008",
@@ -658,7 +663,7 @@
       "Name": "Sniarb!",
       "Percentage": 89,
       "XP": 35,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Butterfly_eats_Caterpillar_in_007",
@@ -674,7 +679,7 @@
       "Name": "Danka, Lagga, Wonwon",
       "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -682,7 +687,7 @@
       "Name": "Kokakoka",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -698,15 +703,15 @@
       "Name": "Onk Boga I",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "Level_completed_003_001",
@@ -714,7 +719,7 @@
       "Name": "Onk Boga III",
       "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Level_completed_004_009",
@@ -722,7 +727,7 @@
       "Name": "Onk Boga IV",
       "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Level_completed_005_003",
@@ -738,7 +743,7 @@
       "Name": "Onk Boga VI",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Level_completed_007_006",
@@ -778,7 +783,7 @@
       "Name": "IQ62",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -786,7 +791,7 @@
       "Name": "Bzzzzzz",
       "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Toad_exploded_in_003",
@@ -809,7 +814,7 @@
     {
       "ID": "6od1ndi",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 15
     }
   ],
@@ -817,8 +822,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:06:34.868416+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:05:47.3942959+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:59.6539902+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:01:06.1390024+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:06:34.8684393+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:00:25.6519094+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:05:47.3943194+00:00"
 }

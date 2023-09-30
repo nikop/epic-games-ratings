@@ -229,9 +229,9 @@
       "ID": "ACH_FISH",
       "SetID": "5fn8ia4",
       "Name": "Fishy Business",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WASHCAR_01",
@@ -245,9 +245,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -541,9 +541,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -669,9 +669,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -916,8 +916,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:07:19.8961111+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:06:24.6119839+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:57:54.1026119+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:07:19.8962174+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:57:43.3554774+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:06:24.6120959+00:00"
 }

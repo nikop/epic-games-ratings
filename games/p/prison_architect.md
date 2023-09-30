@@ -6,13 +6,13 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~44,845 |
-| Get Busy Living | 16.00% | ~28,701 |
-| Samuel Norton | 9.00% | ~16,144 |
-| Spare The Rod | 5.00% | ~8,969 |
-| Don't Put Me In The Dark | 3.00% | ~5,381 |
-| Wait and Hope | 3.00% | ~5,381 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,381 |
+| Stone Walls | 25.00% | ~44,848 |
+| Get Busy Living | 16.00% | ~28,703 |
+| Samuel Norton | 9.00% | ~16,145 |
+| Spare The Rod | 5.00% | ~8,970 |
+| Don't Put Me In The Dark | 3.00% | ~5,382 |
+| Wait and Hope | 3.00% | ~5,382 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,382 |
 | Throw The Book At Them | 2.00% | ~3,588 |
 | Iron Bars | 2.00% | ~3,588 |
 | D.B. Cooper | 1.00% | ~1,794 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~179 |
 | ... It's What You Can Prove | 0.10% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,379 (Ranked 66)  
+Progressed: 179,392 (Ranked 66)  
 Completed: 8 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,14 +186,14 @@ Completed: 8 (0.00%) (Ranked 300)
 | 2023-09-27 | 178,708 | 8 |
 | 2023-09-28 | 178,993 | 8 |
 | 2023-09-29 | 179,313 | 8 |
-| 2023-09-30 | 179,379 | 8 |
+| 2023-09-30 | 179,392 | 8 |
 ## Awards
-Max (Extremely Fun): 515  (Ranked 201)  
-Sum: 4,437 (Ranked 141)  
-Diff (max vs sum): 60  
+Max (Extremely Fun): 516  (Ranked 200)  
+Sum: 4,438 (Ranked 141)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 515 |
+| This game is Extremely Fun | 516 |
 | This game is Great for Beginners | 501 |
 | This game is Highly Recommended | 489 |
 | This game has Quickly Understood Controls | 482 |
@@ -457,4 +457,4 @@ Diff (max vs sum): 60
 | 2023-09-27 | 4.61 | - | 513 | 4,416 |
 | 2023-09-28 | 4.61 | - | 515 | 4,421 |
 | 2023-09-29 | 4.61 | - | 515 | 4,428 |
-| 2023-09-30 | 4.61 | - | 515 | 4,437 |
+| 2023-09-30 | 4.61 | - | 516 | 4,438 |

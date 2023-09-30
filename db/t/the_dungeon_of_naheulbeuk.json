@@ -1032,9 +1032,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 227573,
+  "EOS_Progressed": 227580,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1536,
+  "EOS_NewPlayers": 1535,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12832,6 +12832,11 @@
       "Time": "2023-09-30T07:06:06.3172209+00:00",
       "NumProgressed": 227573,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-30T08:05:23.3386021+00:00",
+      "NumProgressed": 227580,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -12843,7 +12848,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "100Fail",
@@ -12875,7 +12880,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "BookCollection",
@@ -12907,7 +12912,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "Chapter4",
@@ -12915,7 +12920,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "Chapter5",
@@ -12923,7 +12928,7 @@
       "Name": "The Great Library",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "Chapter6",
@@ -12931,7 +12936,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "Chapter7",
@@ -12995,7 +13000,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -13291,7 +13296,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 72823
+      "UsersEstimate": 72826
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13339,7 +13344,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13654
+      "UsersEstimate": 13655
     },
     {
       "ID": "FollowBraztok",
@@ -13499,7 +13504,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "SystematicallyStupid",
@@ -13523,7 +13528,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "WizardEpic",
@@ -13546,21 +13551,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 227573,
+      "Progressed": 227580,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 227573,
+      "Progressed": 227580,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-29T21:58:18.7866318+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:06:06.3172206+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:05:23.3386017+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:53.3012474+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:59:02.3400533+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:06:06.3173936+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:58:40.2288154+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:05:23.3387812+00:00"
 }

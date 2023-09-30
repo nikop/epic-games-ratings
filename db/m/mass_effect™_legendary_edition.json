@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -1281,9 +1281,9 @@
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_28",
@@ -1441,9 +1441,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_46",
@@ -1933,8 +1933,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:06:40.0993932+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:05:51.7835763+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:57:16.9723716+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:57:19.0159827+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:06:40.099626+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:57:14.2955684+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:05:51.7838107+00:00"
 }

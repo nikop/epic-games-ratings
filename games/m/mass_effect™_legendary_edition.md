@@ -14,7 +14,7 @@
 | Medal of Heroism | 63.00% | ~301 |
 | Medal of Exploration II | 58.00% | ~277 |
 | Council Legion of Merit | 57.00% | ~272 |
-| Turian Ally | 55.00% | ~263 |
+| Turian Ally | 56.00% | ~268 |
 | Medal of Honor | 54.00% | ~258 |
 | Meritorious Service Medal | 54.00% | ~258 |
 | Charismatic | 54.00% | ~258 |
@@ -47,10 +47,10 @@
 | Broke, Blind, and Bedlam | 32.00% | ~153 |
 | Ghost Ship | 31.00% | ~148 |
 | The Quarian | 31.00% | ~148 |
+| The Assassin | 30.00% | ~143 |
 | The Justicar | 30.00% | ~143 |
 | The Prodigal | 30.00% | ~143 |
 | A Personal Touch | 29.00% | ~139 |
-| The Assassin | 29.00% | ~139 |
 | Battlemaster | 29.00% | ~139 |
 | The Cure | 29.00% | ~139 |
 | Big Game Hunter | 29.00% | ~139 |

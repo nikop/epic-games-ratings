@@ -18,6 +18,7 @@ Rating: 4.64 (Ranked 315)
 | RIP Davey Glutes | 0.10% | ~24 |
 | Sweezy Like Sunday Morning | 0.10% | ~24 |
 | Eye Scream, You Scream | 0.10% | ~24 |
+| Sequel-Bait | 0.10% | ~24 |
 | We're All Very Impressed, Trust Me | 0.10% | ~24 |
 | First Bounty Down | 0.10% | ~24 |
 | G3 Graduation | 0.10% | ~24 |
@@ -43,7 +44,6 @@ Rating: 4.64 (Ranked 315)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
 | A Starfish Is Born | 0.00% | ~0 |
-| Sequel-Bait | 0.00% | ~0 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 | Mux Ado About Shipping | 0.00% | ~0 |
 | See Salt | 0.00% | ~0 |

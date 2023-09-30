@@ -4,25 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 72.00% | ~335 |
-| Be water, my friend | 58.00% | ~270 |
-| Snake Eyes | 57.00% | ~265 |
-| Fireball | 46.00% | ~214 |
-| The King of Flat | 42.00% | ~195 |
-| Hit That Ball | 33.00% | ~153 |
-| Air Slash | 31.00% | ~144 |
-| Eat That Apple | 25.00% | ~116 |
+| Dash Crash | 72.00% | ~336 |
+| Be water, my friend | 58.00% | ~271 |
+| Snake Eyes | 57.00% | ~266 |
+| Fireball | 46.00% | ~215 |
+| The King of Flat | 41.00% | ~191 |
+| Hit That Ball | 33.00% | ~154 |
+| Air Slash | 31.00% | ~145 |
+| Eat That Apple | 25.00% | ~117 |
 | Tornado Chaser | 14.00% | ~65 |
-| Bomberman | 10.00% | ~46 |
-| Bubble Party | 8.00% | ~37 |
+| Bomberman | 10.00% | ~47 |
+| Bubble Party | 7.00% | ~33 |
 | The Colossus | 7.00% | ~33 |
 | Floor is Lava | 6.00% | ~28 |
 | Pim Pam Pum | 6.00% | ~28 |
+| Dash Crash - Hero Edition | 4.00% | ~19 |
 | Ambush | 4.00% | ~19 |
 | Black Belt | 3.00% | ~14 |
-| Dash Crash - Hero Edition | 3.00% | ~14 |
 | Quite The Hero | 3.00% | ~14 |
-| Vertigo | 2.00% | ~9 |
 | Rogue | 2.00% | ~9 |
 | Path of the Hero | 1.00% | ~5 |
 | Snake Eyes - Hero Edition | 1.00% | ~5 |
@@ -30,6 +29,7 @@
 | Eat That Apple - Hero Edition | 1.00% | ~5 |
 | Snakecharmer | 1.00% | ~5 |
 | Apprentice | 1.00% | ~5 |
+| Vertigo | 1.00% | ~5 |
 | Hit That Ball - Hero Edition | 0.90% | ~4 |
 | Tornado Chaser - Hero Edition | 0.90% | ~4 |
 | Bomberman - Hero Edition | 0.90% | ~4 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 274)  
+Progressed: 467 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 386 | 0 |
 | 2023-09-28 | 416 | 0 |
 | 2023-09-29 | 450 | 0 |
-| 2023-09-30 | 465 | 0 |
+| 2023-09-30 | 467 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

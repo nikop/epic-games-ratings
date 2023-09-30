@@ -3326,9 +3326,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51762,
+  "EOS_Progressed": 51763,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -12496,6 +12496,11 @@
       "Time": "2023-09-30T00:04:43.9834934+00:00",
       "NumProgressed": 51762,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-30T08:05:01.7339386+00:00",
+      "NumProgressed": 51763,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12531,7 +12536,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40892
+      "UsersEstimate": 40893
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12683,7 +12688,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10352
+      "UsersEstimate": 10353
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -12699,7 +12704,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29504
+      "UsersEstimate": 29505
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -12747,7 +12752,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30022
+      "UsersEstimate": 30023
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12771,7 +12776,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50209
+      "UsersEstimate": 50210
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12811,7 +12816,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36751
+      "UsersEstimate": 36752
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -12866,15 +12871,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51762,
+      "Progressed": 51763,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-30T07:02:13.6009295+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:05:41.4131398+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:05:01.7339381+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:03.4035697+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:02:13.6009301+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:05:41.4132318+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:02:09.3769138+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:05:01.7340304+00:00"
 }

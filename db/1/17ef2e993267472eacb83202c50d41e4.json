@@ -2,7 +2,7 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 983,
+  "Ranking_Rating": 982,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 156,
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6703,
+  "EOS_Progressed": 6704,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3003,6 +3003,11 @@
       "Time": "2023-09-30T06:05:08.9224477+00:00",
       "NumProgressed": 6703,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T08:05:05.9971152+00:00",
+      "NumProgressed": 6704,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3423,7 +3428,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "NeutralKills200",
@@ -3511,7 +3516,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "SEUpgraded1",
@@ -3599,14 +3604,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6703,
+      "Progressed": 6704,
       "Completed": 1
     }
   ],
@@ -3614,8 +3619,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:05:46.1286579+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:05:05.9971148+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:57:24.0876995+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:05:46.1287574+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:57:18.3971301+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:05:05.9972386+00:00"
 }

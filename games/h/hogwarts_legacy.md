@@ -8,17 +8,17 @@ Rating: 4.76 (Ranked 119)
 | The Sort Who Makes an Entrance | 15.00% | ~44,633 |
 | First Class Student | 13.00% | ~38,682 |
 | Troll with the Punches | 13.00% | ~38,682 |
-| A Keen Sense of Spell | 12.00% | ~35,706 |
+| A Keen Sense of Spell | 12.00% | ~35,707 |
 | A Talent for Spending | 11.00% | ~32,731 |
 | That's a Keeper | 11.00% | ~32,731 |
-| Grappling with a Graphorn | 10.00% | ~29,755 |
-| The One Who Mastered Memories | 10.00% | ~29,755 |
-| The Hallowed Hero | 10.00% | ~29,755 |
-| The Hero of Hogwarts | 10.00% | ~29,755 |
-| The Defender of Dragons | 10.00% | ~29,755 |
-| Challenge Accepted | 10.00% | ~29,755 |
-| Loom for Improvement | 10.00% | ~29,755 |
-| Coasting Along | 10.00% | ~29,755 |
+| Grappling with a Graphorn | 10.00% | ~29,756 |
+| The One Who Mastered Memories | 10.00% | ~29,756 |
+| The Hallowed Hero | 10.00% | ~29,756 |
+| The Hero of Hogwarts | 10.00% | ~29,756 |
+| The Defender of Dragons | 10.00% | ~29,756 |
+| Challenge Accepted | 10.00% | ~29,756 |
+| Loom for Improvement | 10.00% | ~29,756 |
+| Coasting Along | 10.00% | ~29,756 |
 | Followed the Butterflies | 9.00% | ~26,780 |
 | Rising From the Ashes | 9.00% | ~26,780 |
 | The Avenging Gazelle | 8.00% | ~23,804 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,785 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,552 (Ranked 46)  
+Progressed: 297,556 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 479 (0.16%) (Ranked 221)
 | 2023-09-27 | 297,436 | 478 |
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
-| 2023-09-30 | 297,552 | 479 |
+| 2023-09-30 | 297,556 | 479 |
 ## Awards
 Max (Character Customization): 23,132  (Ranked 17)  
-Sum: 44,620 (Ranked 30)  
+Sum: 44,622 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,079 |
 | This game is Relaxing | 1,071 |
 | This game is Extremely Fun | 1,070 |
-| This game has Amazing Characters | 1,037 |
+| This game has Amazing Characters | 1,039 |
 | This game is Highly Recommended | 1,034 |
 | This game has Quickly Understood Controls | 964 |
 | This game has Beautiful Visuals | 896 |
@@ -426,4 +426,4 @@ Diff (max vs sum): -13
 | 2023-09-27 | 4.76 | 23,085 | 44,478 |
 | 2023-09-28 | 4.76 | 23,108 | 44,540 |
 | 2023-09-29 | 4.76 | 23,132 | 44,612 |
-| 2023-09-30 | 4.76 | 23,132 | 44,620 |
+| 2023-09-30 | 4.76 | 23,132 | 44,622 |

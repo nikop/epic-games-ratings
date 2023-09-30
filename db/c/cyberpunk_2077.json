@@ -12719,9 +12719,9 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885652,
+  "EOS_Progressed": 885695,
   "EOS_Completed": 2487,
-  "EOS_NewPlayers": 6492,
+  "EOS_NewPlayers": 6505,
   "EOS_NewCompleters": 220,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -31019,6 +31019,11 @@
       "Time": "2023-09-30T07:07:10.7168873+00:00",
       "NumProgressed": 885652,
       "NumCompleted": 2487
+    },
+    {
+      "Time": "2023-09-30T08:06:16.9711549+00:00",
+      "NumProgressed": 885695,
+      "NumCompleted": 2487
     }
   ],
   "TotalAchievements": 57,
@@ -31100,9 +31105,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5314
+      "UsersEstimate": 6200
     },
     {
       "ID": "Gunslinger",
@@ -31110,7 +31115,7 @@
       "Name": "Gunslinger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "HandyMan",
@@ -31118,7 +31123,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "IAmMaxTac",
@@ -31134,7 +31139,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "LittleTokyo",
@@ -31158,7 +31163,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7086
     },
     {
       "ID": "MustBeTheRats",
@@ -31214,7 +31219,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26570
+      "UsersEstimate": 26571
     },
     {
       "ID": "Temperance",
@@ -31230,7 +31235,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26570
+      "UsersEstimate": 26571
     },
     {
       "ID": "TheDevil",
@@ -31238,15 +31243,15 @@
       "Name": "The Devil",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7086
     },
     {
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7971
     },
     {
       "ID": "TheHermit",
@@ -31262,7 +31267,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "TheLovers",
@@ -31318,7 +31323,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "TrueSoldier",
@@ -31342,7 +31347,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "UnderPressure",
@@ -31358,7 +31363,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "YipMan",
@@ -31485,21 +31490,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885652,
+      "Progressed": 885695,
       "Completed": 2487
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14275,
+      "Progressed": 14318,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-30T02:58:38.0916764+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:07:10.7168868+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:06:16.9711545+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:58:52.4725469+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:07:10.7170512+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:58:31.5593238+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:06:16.9713216+00:00"
 }

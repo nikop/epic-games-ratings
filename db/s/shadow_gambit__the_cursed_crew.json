@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
@@ -1922,6 +1922,11 @@
       "Time": "2023-09-29T23:07:12.6196794+00:00",
       "NumProgressed": 681,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-30T08:06:13.9217968+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1942,7 +1947,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "_03_FinishAct1",
@@ -1974,7 +1979,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_07_FinishAct3",
@@ -2004,9 +2009,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 164
     },
     {
       "ID": "_11_Completion_40",
@@ -2062,7 +2067,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2141,7 +2146,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 21
     }
   ],
@@ -2149,8 +2154,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:07:06.9668331+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:06:13.9217963+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:49.375466+00:00",
-  "LastUpdate_Ratings": "2023-09-30T06:59:12.9685378+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:07:06.9668685+00:00"
+  "LastUpdate_Ratings": "2023-09-30T07:58:49.8677026+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:06:13.9218272+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3664,
+  "EOS_Progressed": 3665,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -3999,6 +3999,11 @@
       "Time": "2023-09-30T04:05:45.6243031+00:00",
       "NumProgressed": 3664,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-30T08:05:08.8356888+00:00",
+      "NumProgressed": 3665,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4018,7 +4023,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "bonus3",
@@ -4058,7 +4063,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "campaign10",
@@ -4066,7 +4071,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "campaign11",
@@ -4082,7 +4087,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "campaign13",
@@ -4090,7 +4095,7 @@
       "Name": "Damage Control",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "campaign14",
@@ -4114,7 +4119,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "campaign17",
@@ -4146,7 +4151,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "campaign20",
@@ -4162,7 +4167,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "campaign4",
@@ -4216,9 +4221,9 @@
       "ID": "scenario1",
       "SetID": "2h56gn1",
       "Name": "Do the Splits",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1393
     },
     {
       "ID": "scenario2",
@@ -4273,7 +4278,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3664,
+      "Progressed": 3665,
       "Completed": 11
     }
   ],
@@ -4281,8 +4286,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-30T07:05:49.3762953+00:00",
+  "LastChanged_Achievements": "2023-09-30T08:05:08.8356883+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.8597364+00:00",
-  "LastUpdate_Ratings": "2023-09-30T07:01:13.2228157+00:00",
-  "LastUpdate_Achievements": "2023-09-30T07:05:49.3763414+00:00"
+  "LastUpdate_Ratings": "2023-09-30T08:00:31.8500243+00:00",
+  "LastUpdate_Achievements": "2023-09-30T08:05:08.8357394+00:00"
 }
