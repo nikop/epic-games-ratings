@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7533,
+  "EOS_Progressed": 7535,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7169,6 +7169,11 @@
       "Time": "2023-09-30T00:05:31.4865997+00:00",
       "NumProgressed": 7533,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-30T11:06:10.7796447+00:00",
+      "NumProgressed": 7535,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7180,7 +7185,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ARRR",
@@ -7194,9 +7199,9 @@
       "ID": "AUDIOPHILE",
       "SetID": "3cck1g6",
       "Name": "Audiophile",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 603
+      "UsersEstimate": 527
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -7347,7 +7352,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7533,
+      "Progressed": 7535,
       "Completed": 33
     }
   ],
@@ -7355,8 +7360,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:07:13.6817839+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:06:10.7796442+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:07.4802166+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:58:04.1596732+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:07:13.6818249+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:57:46.162888+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:06:10.7797022+00:00"
 }

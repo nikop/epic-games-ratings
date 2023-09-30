@@ -36,11 +36,11 @@
 | Unrivaled in Arms | 29.00% | ~23 |
 | Left Arm Leverager | 28.00% | ~22 |
 | Threaded Harmony | 28.00% | ~22 |
+| Karakuri Minato | 26.00% | ~21 |
 | Volatile Vocation | 25.00% | ~20 |
 | Style Seeker | 25.00% | ~20 |
 | Human Believer | 25.00% | ~20 |
 | Jack of All Trades | 25.00% | ~20 |
-| Karakuri Minato | 25.00% | ~20 |
 | Canyon of Karakuri | 24.00% | ~19 |
 | Karakuri Fortress | 21.00% | ~17 |
 | Superlative View | 21.00% | ~17 |

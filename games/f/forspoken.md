@@ -5,23 +5,23 @@ Rating: 4.16 (Ranked 906)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,060 |
-| Unlocked Potential | 9.00% | ~3,654 |
-| Tinkerer | 7.00% | ~2,842 |
-| Knock 'Em Dead | 7.00% | ~2,842 |
-| Pilgrimage: Initiate | 7.00% | ~2,842 |
-| Hell of a Run | 7.00% | ~2,842 |
-| Leapfrogger | 6.00% | ~2,436 |
-| Call of the Fount: Baptized | 6.00% | ~2,436 |
-| No Mercy | 5.00% | ~2,030 |
-| Explorer: Seeker | 5.00% | ~2,030 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,624 |
-| Stuck | 4.00% | ~1,624 |
-| Help Me Out Here | 4.00% | ~1,624 |
-| Outdoorsperson | 3.00% | ~1,218 |
-| The Interloper | 3.00% | ~1,218 |
-| Hop, Step, Jump | 3.00% | ~1,218 |
-| Endless Runner | 3.00% | ~1,218 |
+| Attachments | 10.00% | ~4,062 |
+| Unlocked Potential | 9.00% | ~3,656 |
+| Tinkerer | 7.00% | ~2,844 |
+| Knock 'Em Dead | 7.00% | ~2,844 |
+| Pilgrimage: Initiate | 7.00% | ~2,844 |
+| Hell of a Run | 7.00% | ~2,844 |
+| Leapfrogger | 6.00% | ~2,437 |
+| Call of the Fount: Baptized | 6.00% | ~2,437 |
+| No Mercy | 5.00% | ~2,031 |
+| Explorer: Seeker | 5.00% | ~2,031 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,625 |
+| Stuck | 4.00% | ~1,625 |
+| Help Me Out Here | 4.00% | ~1,625 |
+| Outdoorsperson | 3.00% | ~1,219 |
+| The Interloper | 3.00% | ~1,219 |
+| Hop, Step, Jump | 3.00% | ~1,219 |
+| Endless Runner | 3.00% | ~1,219 |
 | What Must Be Done | 2.00% | ~812 |
 | Might and Main | 2.00% | ~812 |
 | Damned If You Do... | 2.00% | ~812 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 906)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,605 (Ranked 105)  
+Progressed: 40,624 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 3 (0.01%) (Ranked 283)
 | 2023-09-27 | 40,087 | 3 |
 | 2023-09-28 | 40,097 | 3 |
 | 2023-09-29 | 40,425 | 3 |
-| 2023-09-30 | 40,605 | 3 |
+| 2023-09-30 | 40,624 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

@@ -33,13 +33,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 3.00% | ~503 |
 | Corrosive Torrent | 3.00% | ~503 |
 | Cursed Lands | 3.00% | ~503 |
+| Like a Machine | 3.00% | ~503 |
 | Serving Ale | 2.00% | ~335 |
 | Refinery | 2.00% | ~335 |
 | Dangerous Lands | 2.00% | ~335 |
 | Fishmen Ritual Site | 2.00% | ~335 |
 | Forbidden Lands | 2.00% | ~335 |
 | Forsaken Gods Temple | 2.00% | ~335 |
-| Like a Machine | 2.00% | ~335 |
 | Defying the Crown | 2.00% | ~335 |
 | Into the Forest | 2.00% | ~335 |
 | Feeding The People | 1.00% | ~168 |

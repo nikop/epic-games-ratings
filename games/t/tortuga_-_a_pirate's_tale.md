@@ -5,20 +5,20 @@ Rating: 3.77 (Ranked 997)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,660 |
-| No Half Measures | 88.00% | ~14,506 |
-| Personal Matter | 86.00% | ~14,176 |
-| But You Have Heard of Me | 72.00% | ~11,868 |
-| Double the Barrels, double the Fun | 55.00% | ~9,066 |
-| Pimp My Glide | 48.00% | ~7,912 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,758 |
-| House Party! | 34.00% | ~5,605 |
-| Make It Rain | 23.00% | ~3,791 |
-| Curse of the Seven Seas | 22.00% | ~3,626 |
-| Head First | 16.00% | ~2,637 |
-| To the World's End | 12.00% | ~1,978 |
-| Table for Six | 11.00% | ~1,813 |
-| Sharing Is Caring | 10.00% | ~1,648 |
+| Eeligally Ambitious | 95.00% | ~15,666 |
+| No Half Measures | 88.00% | ~14,511 |
+| Personal Matter | 86.00% | ~14,181 |
+| But You Have Heard of Me | 72.00% | ~11,873 |
+| Double the Barrels, double the Fun | 55.00% | ~9,070 |
+| Pimp My Glide | 48.00% | ~7,915 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,761 |
+| House Party! | 34.00% | ~5,607 |
+| Make It Rain | 23.00% | ~3,793 |
+| Curse of the Seven Seas | 22.00% | ~3,628 |
+| Head First | 16.00% | ~2,638 |
+| To the World's End | 12.00% | ~1,979 |
+| Table for Six | 11.00% | ~1,814 |
+| Sharing Is Caring | 10.00% | ~1,649 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,319 |
 | Morally Flexible | 6.00% | ~989 |
 | Fishing for Compliments | 5.00% | ~824 |
@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 997)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,484 (Ranked 129)  
+Progressed: 16,490 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 16,304 | 0 |
 | 2023-09-28 | 16,374 | 0 |
 | 2023-09-29 | 16,460 | 0 |
-| 2023-09-30 | 16,484 | 0 |
+| 2023-09-30 | 16,490 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

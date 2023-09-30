@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -8566,10 +8566,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 31160,
       "NumberOfAwardsMax": 5540
+    },
+    {
+      "Time": "2023-09-30T11:00:34.9106822+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 31180,
+      "NumberOfAwardsMax": 5540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31160,
+  "NumberOfAwards": 31180,
   "NumberOfAwardsMax": 5540,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8595,7 +8601,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2387
+      "Count": 2407
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8664,8 +8670,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-09-30T07:01:09.9372176+00:00",
+  "LastChanged": "2023-09-30T11:00:34.9106819+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:00.4492458+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:02:00.3712552+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:06:00.3517106+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:00:34.9106828+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:05:15.5633337+00:00"
 }

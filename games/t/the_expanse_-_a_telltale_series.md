@@ -12,13 +12,13 @@ Rating: 4.55 (Ranked 491)
 | Celebrations are in Order | 29.00% | ~3,838 |
 | Spore Taste | 27.00% | ~3,573 |
 | The Pit and the Pirates | 26.00% | ~3,441 |
-| Drone Dodger | 25.00% | ~3,308 |
+| Drone Dodger | 25.00% | ~3,309 |
 | Doctor Approved | 20.00% | ~2,647 |
 | Bosmang | 20.00% | ~2,647 |
-| Thorston Mayer | 16.00% | ~2,117 |
+| Thorston Mayer | 16.00% | ~2,118 |
 | Call it Even | 14.00% | ~1,853 |
-| Data Archivist | 13.00% | ~1,720 |
-| Bottoms up! | 13.00% | ~1,720 |
+| Data Archivist | 13.00% | ~1,721 |
+| Bottoms up! | 13.00% | ~1,721 |
 | Heal Thy Medic | 12.00% | ~1,588 |
 | Khan's Revenge | 11.00% | ~1,456 |
 | Data Logger | 8.00% | ~1,059 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 491)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,234 (Ranked 135)  
+Progressed: 13,235 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 13,049 | 0 |
 | 2023-09-28 | 13,120 | 0 |
 | 2023-09-29 | 13,208 | 0 |
-| 2023-09-30 | 13,234 | 0 |
+| 2023-09-30 | 13,235 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3532,
+  "EOS_Progressed": 3533,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4959,6 +4959,11 @@
       "Time": "2023-09-30T02:16:21.3535507+00:00",
       "NumProgressed": 3532,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-30T11:03:13.7848211+00:00",
+      "NumProgressed": 3533,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5010,7 +5015,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "CrowdPleaser",
@@ -5026,7 +5031,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "Eureka_23",
@@ -5034,7 +5039,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5170,7 +5175,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5234,7 +5239,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -5290,7 +5295,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5305,15 +5310,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3532,
+      "Progressed": 3533,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:03:17.6632043+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:03:13.7848206+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.4776856+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:59:14.5866814+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:03:17.6632561+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:58:37.1489592+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:03:13.7848858+00:00"
 }

@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1713,
+  "EOS_Progressed": 1714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-09-30T10:05:05.6321704+00:00",
       "NumProgressed": 1713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T11:04:34.3756768+00:00",
+      "NumProgressed": 1714,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -1841,7 +1846,7 @@
       "Name": "Bragging Rights",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "achievement_11",
@@ -1865,7 +1870,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_14",
@@ -1873,7 +1878,7 @@
       "Name": "Dealmaker",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "achievement_15",
@@ -1881,7 +1886,7 @@
       "Name": "MVP",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "achievement_16",
@@ -1969,7 +1974,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_7",
@@ -2000,7 +2005,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1713,
+      "Progressed": 1714,
       "Completed": 0
     }
   ],
@@ -2008,8 +2013,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:05:05.6321699+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:04:34.3756763+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:56.8917414+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:59:42.7647874+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:05:05.6321888+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:58:58.1097068+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:04:34.3756989+00:00"
 }

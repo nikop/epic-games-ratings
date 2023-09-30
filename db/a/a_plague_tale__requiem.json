@@ -478,7 +478,7 @@
   ],
   "EOS_Progressed": 13398,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -9408,9 +9408,9 @@
       "ID": "ACH_02",
       "SetID": "9d4cf4c",
       "Name": "Newcomers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10450
+      "UsersEstimate": 10584
     },
     {
       "ID": "ACH_03",
@@ -9689,8 +9689,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-27T10:59:16.3934909+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:07:33.1254464+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:06:25.780776+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:19.7541276+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:00:45.4950421+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:07:33.1255079+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:59:42.4608286+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:06:25.7808532+00:00"
 }

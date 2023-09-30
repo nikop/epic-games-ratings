@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,573 |
-| Rough Landing | 3.00% | ~26,573 |
+| Ten out of Ten | 3.00% | ~26,575 |
+| Rough Landing | 3.00% | ~26,575 |
 | Gunslinger | 2.00% | ~17,716 |
 | Master Crafter | 2.00% | ~17,716 |
 | Mean Streets | 2.00% | ~17,716 |
@@ -28,13 +28,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 1.00% | ~8,858 |
 | The Fool | 0.90% | ~7,972 |
 | The Lovers | 0.90% | ~7,972 |
-| The Quick and the Dead | 0.80% | ~7,086 |
-| The Devil | 0.80% | ~7,086 |
-| It's Elementary | 0.80% | ~7,086 |
-| Gun Fu | 0.70% | ~6,200 |
-| Christmas Tree Attack | 0.70% | ~6,200 |
-| The World | 0.70% | ~6,200 |
-| Judy vs Night City | 0.70% | ~6,200 |
+| The Quick and the Dead | 0.80% | ~7,087 |
+| The Devil | 0.80% | ~7,087 |
+| It's Elementary | 0.80% | ~7,087 |
+| Gun Fu | 0.70% | ~6,201 |
+| Christmas Tree Attack | 0.70% | ~6,201 |
+| The World | 0.70% | ~6,201 |
+| Judy vs Night City | 0.70% | ~6,201 |
 | City Lights | 0.60% | ~5,315 |
 | Greetings from Pacifica! | 0.60% | ~5,315 |
 | Life of the Road | 0.40% | ~3,543 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885,777 (Ranked 15)  
-Completed: 2,489 (0.28%) (Ranked 202)  
+Progressed: 885,822 (Ranked 15)  
+Completed: 2,490 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2,489 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 885,777 | 2,489 |
+| 2023-09-30 | 885,822 | 2,490 |
 ## Awards
 Max (Character Customization): 86,225  (Ranked 9)  
 Sum: 241,934 (Ranked 13)  

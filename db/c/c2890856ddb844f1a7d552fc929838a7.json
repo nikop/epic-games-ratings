@@ -1945,9 +1945,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 381
     },
     {
       "ID": "AC12",
@@ -2097,9 +2097,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 494
     },
     {
       "ID": "AC31",
@@ -2234,8 +2234,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:04:51.3962019+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:04:23.5852367+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:57:29.5976786+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:04:51.3962386+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:57:21.8843465+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:04:23.5852784+00:00"
 }

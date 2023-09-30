@@ -4,7 +4,7 @@
   "ProductSlug": "hold-on-5b3f45",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T12:59:13.0077542+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:00:37.4587785+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:06:05.9832713+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:59:37.1654147+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:05:19.7582491+00:00"
 }

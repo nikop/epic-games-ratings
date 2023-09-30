@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2023-09-30T10:06:33.4187691+00:00",
       "NumProgressed": 470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T11:05:40.5408751+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -750,7 +755,7 @@
       "ID": "HeroWorld4Boss",
       "SetID": "d9ekhim",
       "Name": "Hit That Ball - Hero Edition",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -766,7 +771,7 @@
       "ID": "HeroWorld6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser - Hero Edition",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -774,7 +779,7 @@
       "ID": "HeroWorld7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman - Hero Edition",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -830,7 +835,7 @@
       "ID": "OhNo",
       "SetID": "d9ekhim",
       "Name": "Oh, no",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -1023,7 +1028,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 0
     }
   ],
@@ -1031,8 +1036,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:06:33.4187685+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:05:40.5408747+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:16.6272778+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:58:18.590772+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:06:33.4187997+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:57:56.1529951+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:05:40.5409132+00:00"
 }

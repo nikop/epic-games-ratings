@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,699 |
+| Sink Beneath the Waves | 36.00% | ~13,700 |
 | Sweet Sorrow | 18.00% | ~6,850 |
-| Rules the Waves | 17.00% | ~6,469 |
+| Rules the Waves | 17.00% | ~6,470 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,708 |
 | Rival | 14.00% | ~5,328 |
-| Correspondent | 12.00% | ~4,566 |
-| Lose Your Mind | 12.00% | ~4,566 |
-| Sound Mind? | 12.00% | ~4,566 |
+| Correspondent | 12.00% | ~4,567 |
+| Lose Your Mind | 12.00% | ~4,567 |
+| Sound Mind? | 12.00% | ~4,567 |
 | Salt's Curse | 11.00% | ~4,186 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,186 |
 | The Fall of the House | 11.00% | ~4,186 |
@@ -28,8 +28,8 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves. Again. | 4.00% | ~1,522 |
 | Storm's Curse | 3.00% | ~1,142 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,142 |
+| Roaring Rise | 3.00% | ~1,142 |
 | Come Closer | 3.00% | ~1,142 |
-| Roaring Rise | 2.00% | ~761 |
 | I am the Captain of my Soul | 2.00% | ~761 |
 | A buoyant escape | 1.00% | ~381 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~381 |
@@ -43,10 +43,10 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~381 |
 | Under the zee | 1.00% | ~381 |
 | A current under zee | 1.00% | ~381 |
-| Never Stop Sinking... | 0.90% | ~342 |
-| Leviathan | 0.90% | ~342 |
-| No regrets | 0.90% | ~342 |
-| Depth charge | 0.90% | ~342 |
+| Never Stop Sinking... | 0.90% | ~343 |
+| Leviathan | 0.90% | ~343 |
+| No regrets | 0.90% | ~343 |
+| Depth charge | 0.90% | ~343 |
 | A zee-change | 0.80% | ~304 |
 | What lies beneath | 0.70% | ~266 |
 | Stone's Curse | 0.70% | ~266 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,054 (Ranked 106)  
+Progressed: 38,056 (Ranked 106)  
 Completed: 3 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,11 +224,11 @@ Completed: 3 (0.01%) (Ranked 283)
 | 2023-09-27 | 37,923 | 3 |
 | 2023-09-28 | 37,972 | 3 |
 | 2023-09-29 | 38,030 | 3 |
-| 2023-09-30 | 38,054 | 3 |
+| 2023-09-30 | 38,056 | 3 |
 ## Awards
-Max (Character Customization): 214  (Ranked 272)  
+Max (Character Customization): 214  (Ranked 273)  
 Sum: 285 (Ranked 350)  
-Diff (max vs sum): -78  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 214 |

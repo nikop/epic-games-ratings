@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 96.00% | ~685 |
-| A tiny town | 87.00% | ~621 |
-| Buildings, roads, cars, ...and people | 67.00% | ~478 |
-| Great view from the beach and from the hill | 57.00% | ~407 |
-| Bridges to come and go | 50.00% | ~357 |
+| Welcome! | 97.00% | ~694 |
+| A tiny town | 87.00% | ~622 |
+| Buildings, roads, cars, ...and people | 67.00% | ~479 |
+| Great view from the beach and from the hill | 57.00% | ~408 |
+| Bridges to come and go | 50.00% | ~358 |
 | Found an oasis | 43.00% | ~307 |
-| Burger or pizza? | 38.00% | ~271 |
-| Passion for sports | 32.00% | ~228 |
+| Burger or pizza? | 37.00% | ~265 |
+| Passion for sports | 32.00% | ~229 |
 | Who loves trains? | 30.00% | ~214 |
 | Easy and steady climb | 28.00% | ~200 |
-| At the heart of the city | 25.00% | ~178 |
+| At the heart of the city | 25.00% | ~179 |
 | Calm neighborhood | 23.00% | ~164 |
 | Elevated ring | 21.00% | ~150 |
 | Not lonely anymore | 20.00% | ~143 |
@@ -22,13 +22,13 @@
 | The beach is right there | 18.00% | ~129 |
 | Commuting | 18.00% | ~129 |
 | Le jardin magnifique | 18.00% | ~129 |
-| Aiming for a living and human city | 17.00% | ~121 |
+| Aiming for a living and human city | 17.00% | ~122 |
 | City of dreams | 16.00% | ~114 |
 | Happy Christmas night! | 16.00% | ~114 |
 | Night walk along the beach | 16.00% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714 (Ranked 244)  
-Completed: 116 (16.25%) (Ranked 18)  
+Progressed: 715 (Ranked 244)  
+Completed: 116 (16.22%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,7 +165,7 @@ Completed: 116 (16.25%) (Ranked 18)
 | 2023-09-26 | 710 | 114 |
 | 2023-09-27 | 710 | 115 |
 | 2023-09-28 | 713 | 115 |
-| 2023-09-30 | 714 | 116 |
+| 2023-09-30 | 715 | 116 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

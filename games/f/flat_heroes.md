@@ -30,10 +30,10 @@
 | Snakecharmer | 1.00% | ~5 |
 | Apprentice | 1.00% | ~5 |
 | Vertigo | 1.00% | ~5 |
-| Hit That Ball - Hero Edition | 0.90% | ~4 |
-| Tornado Chaser - Hero Edition | 0.90% | ~4 |
-| Bomberman - Hero Edition | 0.90% | ~4 |
-| Oh, no | 0.90% | ~4 |
+| Hit That Ball - Hero Edition | 0.80% | ~4 |
+| Tornado Chaser - Hero Edition | 0.80% | ~4 |
+| Bomberman - Hero Edition | 0.80% | ~4 |
+| Oh, no | 0.80% | ~4 |
 | The Colossus - Hero Edition | 0.60% | ~3 |
 | Killing Spree | 0.60% | ~3 |
 | Rogue - Hero Edition | 0.40% | ~2 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 272)  
+Progressed: 471 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 386 | 0 |
 | 2023-09-28 | 416 | 0 |
 | 2023-09-29 | 450 | 0 |
-| 2023-09-30 | 470 | 0 |
+| 2023-09-30 | 471 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

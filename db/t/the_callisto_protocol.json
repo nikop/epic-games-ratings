@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1164,10 +1164,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 429,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-09-30T10:57:23.5407961+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 430,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 429,
+  "NumberOfAwards": 430,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1205,7 +1211,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has a Creative Community",
@@ -1214,9 +1220,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15972,
+  "EOS_Progressed": 15974,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7164,6 +7170,11 @@
       "Time": "2023-09-30T07:08:21.9723831+00:00",
       "NumProgressed": 15972,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-30T11:08:16.5820467+00:00",
+      "NumProgressed": 15974,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7543,29 +7554,29 @@
       "Name": "Quick Pick",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15972,
+      "Progressed": 15974,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3898,
+      "Progressed": 3900,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-09-29T03:02:15.1292781+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:09:19.106276+00:00",
+  "LastChanged": "2023-09-30T10:57:23.5407957+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:08:16.5820463+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:42.2619756+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:57:31.9760251+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:09:19.1063352+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:57:23.5407966+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:08:16.5821206+00:00"
 }

@@ -33,9 +33,9 @@
 | Operative | 40.00% | ~192 |
 | Veteran | 39.00% | ~188 |
 | Scholar | 39.00% | ~188 |
+| Very Elusive | 38.00% | ~183 |
 | Power Full | 38.00% | ~183 |
 | Missing in Action | 37.00% | ~178 |
-| Very Elusive | 37.00% | ~178 |
 | Archivist | 36.00% | ~173 |
 | Completionist | 36.00% | ~173 |
 | The Convict | 35.00% | ~168 |

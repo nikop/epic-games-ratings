@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 20,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12725,9 +12725,9 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885777,
-  "EOS_Completed": 2489,
-  "EOS_NewPlayers": 6523,
+  "EOS_Progressed": 885822,
+  "EOS_Completed": 2490,
+  "EOS_NewPlayers": 6536,
   "EOS_NewCompleters": 220,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -31040,6 +31040,11 @@
       "Time": "2023-09-30T10:07:51.2001234+00:00",
       "NumProgressed": 885777,
       "NumCompleted": 2489
+    },
+    {
+      "Time": "2023-09-30T11:06:39.3028992+00:00",
+      "NumProgressed": 885822,
+      "NumCompleted": 2490
     }
   ],
   "TotalAchievements": 57,
@@ -31123,7 +31128,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "Gunslinger",
@@ -31171,7 +31176,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "MaxPain",
@@ -31179,7 +31184,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7086
+      "UsersEstimate": 7087
     },
     {
       "ID": "MustBeTheRats",
@@ -31235,7 +31240,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26573
+      "UsersEstimate": 26575
     },
     {
       "ID": "Temperance",
@@ -31251,7 +31256,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26573
+      "UsersEstimate": 26575
     },
     {
       "ID": "TheDevil",
@@ -31259,7 +31264,7 @@
       "Name": "The Devil",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7086
+      "UsersEstimate": 7087
     },
     {
       "ID": "TheFool",
@@ -31323,7 +31328,7 @@
       "Name": "The World",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "ThisIsPacifica",
@@ -31371,7 +31376,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "VForVendetta",
@@ -31387,7 +31392,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7086
+      "UsersEstimate": 7087
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31506,21 +31511,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885777,
-      "Completed": 2489
+      "Progressed": 885822,
+      "Completed": 2490
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14400,
+      "Progressed": 14445,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-30T08:58:29.8961467+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:07:51.2001228+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:06:39.3028987+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:59:15.6663612+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:07:51.200248+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:58:37.8668188+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:06:39.3030598+00:00"
 }

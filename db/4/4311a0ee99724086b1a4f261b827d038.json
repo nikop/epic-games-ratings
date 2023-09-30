@@ -296,9 +296,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 222495,
+  "EOS_Progressed": 222513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2043,
+  "EOS_NewPlayers": 2039,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8036,6 +8036,11 @@
       "Time": "2023-09-30T10:03:56.9602761+00:00",
       "NumProgressed": 222495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T11:03:42.8471573+00:00",
+      "NumProgressed": 222513,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8104,7 +8109,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46724
+      "UsersEstimate": 46728
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8112,7 +8117,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20025
+      "UsersEstimate": 20026
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -8120,7 +8125,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11125
+      "UsersEstimate": 11126
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -8128,7 +8133,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8900
+      "UsersEstimate": 8901
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -8200,7 +8205,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -8216,7 +8221,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -8232,7 +8237,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28924
+      "UsersEstimate": 28927
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8240,7 +8245,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15575
+      "UsersEstimate": 15576
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -8296,7 +8301,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -8304,7 +8309,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55624
+      "UsersEstimate": 55628
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8312,14 +8317,14 @@
       "Name": "Raiders Retreat Complete",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     }
   ],
   "AchievementSets": [
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 222495,
+      "Progressed": 222513,
       "Completed": 0
     }
   ],
@@ -8327,8 +8332,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-29T12:00:47.5334964+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:03:56.9602755+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:03:42.8471569+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:57:08.0204701+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:03:56.9603348+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:57:05.6997197+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:03:42.8472289+00:00"
 }

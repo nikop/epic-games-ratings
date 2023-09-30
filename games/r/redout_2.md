@@ -20,11 +20,11 @@ Rating: 4.48 (Ranked 609)
 | Martian explorer | 11.00% | ~126 |
 | To the core | 9.00% | ~103 |
 | Blurred photofinish | 8.00% | ~91 |
+| EZ game EZ life | 7.00% | ~80 |
 | First step into a larger world | 7.00% | ~80 |
 | Over the clouds | 6.00% | ~69 |
 | Under the sea, under the sea | 6.00% | ~69 |
 | Even Faster! | 6.00% | ~69 |
-| EZ game EZ life | 6.00% | ~69 |
 | Longshot | 6.00% | ~69 |
 | B-asic! | 5.00% | ~57 |
 | Under the neon lights | 4.00% | ~46 |

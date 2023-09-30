@@ -4,10 +4,10 @@
   "ProductSlug": "metro-last-light-redux",
   "Ranking_Rating": 206,
   "Ranking_Popularity": 113,
-  "Ranking_PopularitySum": 197,
+  "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2015-06-02T15:00:00+00:00",
@@ -1513,10 +1513,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2189,
       "NumberOfAwardsMax": 1895
+    },
+    {
+      "Time": "2023-09-30T10:59:36.3560906+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2149,
+      "NumberOfAwardsMax": 1895
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2189,
+  "NumberOfAwards": 2149,
   "NumberOfAwardsMax": 1895,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1592,8 +1598,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2023-09-27T03:59:35.557318+00:00",
+  "LastChanged": "2023-09-30T10:59:36.3560903+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:10.5199323+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:00:35.9468421+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:03:46.2919487+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:59:36.356091+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:03:34.9664498+00:00"
 }

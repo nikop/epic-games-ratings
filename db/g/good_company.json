@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5454,
+  "EOS_Progressed": 5455,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3680,6 +3680,11 @@
       "Time": "2023-09-30T00:02:22.6680155+00:00",
       "NumProgressed": 5454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T11:03:37.0497905+00:00",
+      "NumProgressed": 5455,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3803,7 +3808,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3825,9 +3830,9 @@
       "ID": "ach_campaign_progress8",
       "SetID": "8cb3id7",
       "Name": "Level: Eye In The Sky",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_campaign_progress9",
@@ -4298,15 +4303,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5454,
+      "Progressed": 5455,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:03:49.119714+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:03:37.0497899+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:05.1888397+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:59:57.597615+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:03:49.1197975+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:59:08.9366991+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:03:37.0498964+00:00"
 }

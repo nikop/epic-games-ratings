@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1004,9 +1004,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 8209,
+  "EOS_Progressed": 8210,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4814,6 +4814,11 @@
       "Time": "2023-09-29T13:09:52.7161919+00:00",
       "NumProgressed": 8209,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-30T11:06:14.8237701+00:00",
+      "NumProgressed": 8210,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4889,7 +4894,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4961,7 +4966,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "SkeletonKing",
@@ -4977,7 +4982,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "TheLegendBegins",
@@ -4985,7 +4990,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7634
+      "UsersEstimate": 7635
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4993,7 +4998,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4023
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5016,15 +5021,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8209,
+      "Progressed": 8210,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-09-22T18:01:53.480822+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:07:19.1568994+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:06:14.8237692+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:08.781836+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:59:50.6915529+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:07:19.1569328+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:59:04.372708+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:06:14.8238121+00:00"
 }

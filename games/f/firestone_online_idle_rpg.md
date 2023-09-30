@@ -75,7 +75,7 @@ Rating: 4.03 (Ranked 953)
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
-| Conqueror | 0.70% | ~14 |
+| Conqueror | 0.80% | ~16 |
 | Silverwood liberator | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |
 | Jewel Enchanting | 0.20% | ~4 |

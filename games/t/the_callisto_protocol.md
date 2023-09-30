@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 887)
 | Grim Reaper | 0.60% | ~96 |
 | Parole Denied | 0.60% | ~23 |
 | Big Spender | 0.60% | ~23 |
-| Quick Pick | 0.50% | ~19 |
+| Quick Pick | 0.50% | ~20 |
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~16 |
 | Subject Alpha | 0.30% | ~12 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 887)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,972 (Ranked 131)  
+Progressed: 15,974 (Ranked 131)  
 Completed: 73 (0.46%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 73 (0.46%) (Ranked 168)
 | 2023-09-27 | 15,968 | 73 |
 | 2023-09-28 | 15,970 | 73 |
 | 2023-09-29 | 15,971 | 73 |
-| 2023-09-30 | 15,972 | 73 |
+| 2023-09-30 | 15,974 | 73 |
 ## Awards
 Max (Amazing Storytelling): 74  (Ranked 378)  
-Sum: 429 (Ranked 319)  
+Sum: 430 (Ranked 319)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -222,7 +222,7 @@ Diff (max vs sum): 59
 | This game has Amazing Characters | 72 |
 | This game has Quickly Understood Controls | 68 |
 | This game is Extremely Fun | 62 |
-| This game has Challenging Combat | 55 |
+| This game has Challenging Combat | 56 |
 | This game has a Creative Community | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -355,3 +355,4 @@ Diff (max vs sum): 59
 | 2023-09-24 | 4.19 | 74 | 427 |
 | 2023-09-27 | 4.19 | 74 | 428 |
 | 2023-09-29 | 4.19 | 74 | 429 |
+| 2023-09-30 | 4.19 | 74 | 430 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1218,
+  "EOS_Progressed": 1219,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
@@ -1994,6 +1994,11 @@
       "Time": "2023-09-30T08:06:14.9494723+00:00",
       "NumProgressed": 1218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T11:06:36.7335933+00:00",
+      "NumProgressed": 1219,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2030,7 +2035,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -2078,7 +2083,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2214,7 +2219,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2294,7 +2299,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2358,7 +2363,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2397,14 +2402,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1218,
+      "Progressed": 1219,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:07:48.3171236+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:06:36.7335928+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:06.1135689+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:59:45.7960008+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:07:48.3171668+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:59:00.3448277+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:06:36.7336417+00:00"
 }

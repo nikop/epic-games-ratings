@@ -494,9 +494,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MechanicIntegration",
@@ -813,8 +813,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:07:41.8070479+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:06:31.9070883+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:36.5985712+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:58:58.6013602+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:07:41.8071175+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:58:25.4578085+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:06:31.9071813+00:00"
 }

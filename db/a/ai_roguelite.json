@@ -4,7 +4,7 @@
   "ProductSlug": "ai-roguelite-714c18",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-23T13:00:06.740556+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:57:57.2850208+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:06:21.8947628+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:57:41.341426+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:05:32.0358107+00:00"
 }

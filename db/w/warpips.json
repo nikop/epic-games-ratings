@@ -2,12 +2,12 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
-  "Ranking_Rating": 689,
-  "Ranking_Popularity": 474,
+  "Ranking_Rating": 688,
+  "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -556,12 +556,18 @@
       "Rating": 4.42,
       "NumberOfAwards": 150,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-09-30T10:57:55.0833698+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 151,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 150,
-  "NumberOfAwardsMax": 28,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 151,
+  "NumberOfAwardsMax": 29,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Playful Visuals",
@@ -579,7 +585,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -620,9 +626,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-09-30T01:37:42.6954716+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:03:16.1945741+00:00",
+  "LastChanged": "2023-09-30T10:57:55.0833694+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:03:12.5308206+00:00",
   "LastUpdate_AppInfo": "2023-09-23T10:57:21.7913323+00:00",
-  "LastUpdate_Ratings": "2023-09-30T09:58:17.0139178+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:03:16.1945794+00:00"
+  "LastUpdate_Ratings": "2023-09-30T10:57:55.0833702+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:03:12.5308304+00:00"
 }

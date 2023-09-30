@@ -922,9 +922,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_3",
@@ -992,8 +992,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-09-30T10:09:22.8348171+00:00",
+  "LastChanged_Achievements": "2023-09-30T11:08:19.4772662+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:53.3083878+00:00",
-  "LastUpdate_Ratings": "2023-09-30T10:01:34.4254884+00:00",
-  "LastUpdate_Achievements": "2023-09-30T10:09:22.8348299+00:00"
+  "LastUpdate_Ratings": "2023-09-30T11:00:16.4590669+00:00",
+  "LastUpdate_Achievements": "2023-09-30T11:08:19.4772853+00:00"
 }

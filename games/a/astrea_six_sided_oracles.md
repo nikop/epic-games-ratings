@@ -15,9 +15,9 @@
 | Stellar Dismantler | 43.00% | ~12 |
 | Star Killer | 32.00% | ~9 |
 | Astral Adventurer | 29.00% | ~8 |
+| Loyal Partner | 29.00% | ~8 |
 | Unbeatable | 29.00% | ~8 |
 | Anomaly Destroyer | 25.00% | ~7 |
-| Loyal Partner | 25.00% | ~7 |
 | Sentinelphobic | 21.00% | ~6 |
 | Stellar Haste | 21.00% | ~6 |
 | The Corruption Goddess | 21.00% | ~6 |
