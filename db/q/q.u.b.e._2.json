@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 697,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 268,
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 499,
+  "EOS_Progressed": 500,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -2083,6 +2083,11 @@
       "Time": "2023-09-30T16:06:12.9407711+00:00",
       "NumProgressed": 499,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T20:06:16.9358238+00:00",
+      "NumProgressed": 500,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2255,7 +2260,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_PEAK",
@@ -2287,15 +2292,15 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_S5",
@@ -2311,7 +2316,7 @@
       "Name": "Lost in Space",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_STATUE",
@@ -2326,15 +2331,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 499,
+      "Progressed": 500,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:06:18.9756353+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:06:16.9358233+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:58:16.4169202+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:06:18.9756689+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:57:59.768738+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:06:16.9358499+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -328,9 +328,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1980,
+  "EOS_Progressed": 1981,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5818,6 +5818,11 @@
       "Time": "2023-09-30T19:03:10.6626001+00:00",
       "NumProgressed": 1980,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T20:03:11.4491581+00:00",
+      "NumProgressed": 1981,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5933,7 +5938,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "dragonmaster",
@@ -6221,7 +6226,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "prestigiousx10",
@@ -6229,7 +6234,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "relicofthepast",
@@ -6253,7 +6258,7 @@
       "Name": "Scientist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "scrollmaster",
@@ -6389,7 +6394,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "warmachinesarmy",
@@ -6421,14 +6426,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1980,
+      "Progressed": 1981,
       "Completed": 2
     }
   ],
@@ -6436,8 +6441,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-30T14:01:19.0091598+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:03:10.6625996+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:03:11.4491576+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:28.3446509+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:58:20.4794588+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:03:10.6627155+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:58:04.5534721+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:03:11.4492467+00:00"
 }

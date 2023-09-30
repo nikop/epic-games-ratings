@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15480,
+  "EOS_Progressed": 15481,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11130,6 +11130,11 @@
       "Time": "2023-09-30T19:04:09.6393238+00:00",
       "NumProgressed": 15480,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-30T20:04:09.4296713+00:00",
+      "NumProgressed": 15481,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11181,7 +11186,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "tpote_achievement_15",
@@ -11221,7 +11226,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "tpote_achievement_2",
@@ -11229,7 +11234,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "tpote_achievement_20",
@@ -11285,7 +11290,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "tpote_achievement_27",
@@ -11293,15 +11298,15 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "tpote_achievement_28",
       "SetID": "3jcf6c3",
       "Name": "Whodunnit",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 1858
     },
     {
       "ID": "tpote_achievement_29",
@@ -11333,7 +11338,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "tpote_achievement_32",
@@ -11468,15 +11473,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15480,
+      "Progressed": 15481,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:04:09.6393236+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:04:09.4296708+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:00:37.8927437+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:04:09.6394138+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:00:18.7621039+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:04:09.4297465+00:00"
 }

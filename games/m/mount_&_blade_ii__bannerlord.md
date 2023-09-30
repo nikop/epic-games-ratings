@@ -6,38 +6,38 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,350 |
-| Landlord | 33.00% | ~20,604 |
+| Lawbringer | 39.00% | ~24,351 |
+| Landlord | 33.00% | ~20,605 |
 | Bannerlord | 23.00% | ~14,361 |
 | Horde breaker | 23.00% | ~14,361 |
 | Lawmaker | 23.00% | ~14,361 |
 | Trained | 23.00% | ~14,361 |
 | The king is pleased | 18.00% | ~11,239 |
-| King Solomon | 17.00% | ~10,614 |
+| King Solomon | 17.00% | ~10,615 |
 | I can do it | 16.00% | ~9,990 |
 | Apple of my eye | 15.00% | ~9,366 |
 | God of the Arena | 13.00% | ~8,117 |
-| Against all odds | 12.00% | ~7,492 |
-| This Is Our Land | 12.00% | ~7,492 |
+| Against all odds | 12.00% | ~7,493 |
+| This Is Our Land | 12.00% | ~7,493 |
 | Duelist | 10.00% | ~6,244 |
 | Dynasty | 10.00% | ~6,244 |
 | Swordbearer | 10.00% | ~6,244 |
 | What have the Romans ever done for us? | 10.00% | ~6,244 |
-| I spit on your grave | 9.00% | ~5,619 |
+| I spit on your grave | 9.00% | ~5,620 |
 | Butterlord | 8.00% | ~4,995 |
 | Know your enemy | 7.00% | ~4,371 |
 | Mastery | 7.00% | ~4,371 |
 | Crush your enemies | 5.00% | ~3,122 |
 | My way | 5.00% | ~3,122 |
-| Crowdfunded | 4.00% | ~2,497 |
-| Veni vidi vici | 4.00% | ~2,497 |
+| Crowdfunded | 4.00% | ~2,498 |
+| Veni vidi vici | 4.00% | ~2,498 |
 | Freedom! | 3.00% | ~1,873 |
 | Long live the Empire! | 3.00% | ~1,873 |
 | Real Estate | 3.00% | ~1,873 |
 | Entrepreneur | 1.00% | ~624 |
 | Supreme Emperor | 1.00% | ~624 |
-| Crackshot | 0.80% | ~499 |
-| Undercover | 0.80% | ~499 |
+| Crackshot | 0.80% | ~500 |
+| Undercover | 0.80% | ~500 |
 | Fat Cat | 0.70% | ~437 |
 | Catch | 0.60% | ~375 |
 | Slice 'n dice | 0.50% | ~312 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,437 (Ranked 92)  
+Progressed: 62,439 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 62,189 | 0 |
 | 2023-09-28 | 62,296 | 0 |
 | 2023-09-29 | 62,367 | 0 |
-| 2023-09-30 | 62,437 | 0 |
+| 2023-09-30 | 62,439 | 0 |
 ## Awards
 Max (Character Customization): 7,159  (Ranked 52)  
 Sum: 14,656 (Ranked 67)  

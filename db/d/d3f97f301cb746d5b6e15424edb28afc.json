@@ -199,9 +199,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -231,9 +231,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FISH",
@@ -255,9 +255,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -487,9 +487,9 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -926,8 +926,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:06:33.1978642+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:06:31.8985588+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:58:02.0089825+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:06:33.1979682+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:57:46.3260997+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:06:31.8986465+00:00"
 }

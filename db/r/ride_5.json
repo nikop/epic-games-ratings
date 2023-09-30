@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 115,
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1228,
+  "EOS_Progressed": 1230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2029,6 +2029,11 @@
       "Time": "2023-09-30T18:07:08.8837721+00:00",
       "NumProgressed": 1228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T20:06:20.511096+00:00",
+      "NumProgressed": 1230,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2041,7 +2046,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2057,7 +2062,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2113,7 +2118,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2127,9 +2132,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 209
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2241,7 +2246,7 @@
       "Name": "Evangelist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -2249,7 +2254,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2393,7 +2398,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2432,14 +2437,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1228,
+      "Progressed": 1230,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:06:22.6455206+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:06:20.5110955+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:59:13.4731891+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:06:22.645582+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:58:55.5924027+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:06:20.5111376+00:00"
 }

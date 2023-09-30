@@ -6,21 +6,21 @@ Rating: 4.45 (Ranked 644)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,696 |
-| Confirming Suspicions | 41.00% | ~1,511 |
+| Confirming Suspicions | 41.00% | ~1,512 |
 | The Kraken Wakes | 36.00% | ~1,327 |
-| It's Starting to Crack | 33.00% | ~1,216 |
+| It's Starting to Crack | 33.00% | ~1,217 |
 | Change the Channel | 30.00% | ~1,106 |
 | Lord of War | 29.00% | ~1,069 |
 | Taking it back | 28.00% | ~1,032 |
-| Resourceful | 26.00% | ~958 |
-| Target America | 26.00% | ~958 |
+| Resourceful | 26.00% | ~959 |
+| Target America | 26.00% | ~959 |
 | The Kraken Sleeps | 24.00% | ~885 |
 | Liberté | 22.00% | ~811 |
 | Organ Grinder | 22.00% | ~811 |
 | As Quiet as a Mouse | 22.00% | ~811 |
 | Sharpshooter | 21.00% | ~774 |
-| Explosive Efficiency | 19.00% | ~700 |
-| Gunslinger | 18.00% | ~663 |
+| Explosive Efficiency | 19.00% | ~701 |
+| Gunslinger | 18.00% | ~664 |
 | Just a Flesh Wound | 17.00% | ~627 |
 | Climbing the Ladder | 16.00% | ~590 |
 | Der Geist | 16.00% | ~590 |
@@ -46,9 +46,9 @@ Rating: 4.45 (Ranked 644)
 | Tinkerer | 4.00% | ~147 |
 | Locomotion Commotion | 4.00% | ~147 |
 | Road Rage | 4.00% | ~147 |
-| Last Resort | 4.00% | ~145 |
-| Siegebreaker | 4.00% | ~145 |
-| Ghost of Falaise | 4.00% | ~145 |
+| Last Resort | 4.00% | ~146 |
+| Siegebreaker | 4.00% | ~146 |
+| Ghost of Falaise | 4.00% | ~146 |
 | From Paris with Love | 3.00% | ~111 |
 | Burn after reading | 3.00% | ~111 |
 | Souvenir hunter | 3.00% | ~111 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,686 (Ranked 175)  
+Progressed: 3,687 (Ranked 175)  
 Completed: 11 (0.30%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 11 (0.30%) (Ranked 196)
 | 2023-09-27 | 3,675 | 11 |
 | 2023-09-28 | 3,679 | 11 |
 | 2023-09-29 | 3,683 | 11 |
-| 2023-09-30 | 3,686 | 11 |
+| 2023-09-30 | 3,687 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

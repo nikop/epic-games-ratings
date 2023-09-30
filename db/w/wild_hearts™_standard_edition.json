@@ -463,9 +463,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_20",
@@ -535,9 +535,9 @@
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_29",
@@ -765,8 +765,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:05:14.0367762+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:05:13.7595949+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:58:04.6391152+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:05:14.036824+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:57:48.920729+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:05:13.7596293+00:00"
 }

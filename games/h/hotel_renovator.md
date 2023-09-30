@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.36 (Ranked 757)  
+Rating: 4.36 (Ranked 756)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.36 (Ranked 757)
 | I think you dropped this | 55.00% | ~584 |
 | Soulmate? | 54.00% | ~573 |
 | Excellent service | 49.00% | ~520 |
-| Roll with it | 46.00% | ~488 |
+| Roll with it | 47.00% | ~499 |
 | Humble beginnings | 44.00% | ~467 |
 | Love is in the air | 44.00% | ~467 |
 | Fine, I'll do it myself | 42.00% | ~446 |

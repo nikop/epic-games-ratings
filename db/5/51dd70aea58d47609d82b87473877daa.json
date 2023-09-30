@@ -748,9 +748,9 @@
       "ID": "ACH_DIE",
       "SetID": "c2kf3nm",
       "Name": "Sometimes Death is a Mercy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_DULLER",
@@ -772,17 +772,17 @@
       "ID": "ACH_FIND_ENTITY",
       "SetID": "c2kf3nm",
       "Name": "YOU DESERVE THAT",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_FRIEND",
       "SetID": "c2kf3nm",
       "Name": "NO ONE CAN HEAR YOU SCREAM",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_GET_IN",
@@ -812,9 +812,9 @@
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_HOUND",
@@ -844,9 +844,9 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -891,8 +891,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:04:10.8705521+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:04:10.5718063+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:14.6828971+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:58:00.308754+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:04:10.8705696+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:57:44.3425993+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:04:10.5718219+00:00"
 }

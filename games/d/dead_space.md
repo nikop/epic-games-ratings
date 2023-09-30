@@ -1,44 +1,44 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.61 (Ranked 371)  
+Rating: 4.61 (Ranked 370)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~595 |
-| Welcome Aboard | 86.00% | ~538 |
-| Lab Rat | 73.00% | ~457 |
-| All Systems Go | 63.00% | ~394 |
-| Brute Force | 62.00% | ~388 |
-| Cannon Fodder | 58.00% | ~363 |
-| Autofire | 57.00% | ~357 |
-| Raise the Stakes | 55.00% | ~344 |
-| True Believer | 52.00% | ~326 |
-| Story Teller | 51.00% | ~319 |
-| Surgeon | 48.00% | ~300 |
-| Freeze | 45.00% | ~282 |
-| Exterminator | 45.00% | ~282 |
-| Greenhouse Effect | 45.00% | ~282 |
+| Marksman | 95.00% | ~597 |
+| Welcome Aboard | 85.00% | ~534 |
+| Lab Rat | 73.00% | ~458 |
+| All Systems Go | 63.00% | ~396 |
+| Brute Force | 63.00% | ~396 |
+| Cannon Fodder | 58.00% | ~364 |
+| Autofire | 57.00% | ~358 |
+| Raise the Stakes | 55.00% | ~345 |
+| True Believer | 52.00% | ~327 |
+| Story Teller | 51.00% | ~320 |
+| Surgeon | 48.00% | ~301 |
+| Freeze | 45.00% | ~283 |
+| Exterminator | 45.00% | ~283 |
+| Greenhouse Effect | 45.00% | ~283 |
 | Full Arsenal | 41.00% | ~257 |
-| Live with the Hot Ones | 38.00% | ~238 |
-| S.O.S. | 37.00% | ~232 |
-| Get Off My Ship! | 36.00% | ~225 |
-| Strange Transmissions | 36.00% | ~225 |
-| Wreckage | 34.00% | ~213 |
-| A Cut Above | 32.00% | ~200 |
-| Keeper of the Faith | 31.00% | ~194 |
+| Live with the Hot Ones | 38.00% | ~239 |
+| S.O.S. | 38.00% | ~239 |
+| Get Off My Ship! | 36.00% | ~226 |
+| Strange Transmissions | 36.00% | ~226 |
+| Wreckage | 34.00% | ~214 |
+| A Cut Above | 32.00% | ~201 |
+| Keeper of the Faith | 31.00% | ~195 |
 | There's Always Peng! | 30.00% | ~188 |
 | Betrayed | 29.00% | ~182 |
-| Legend Teller | 28.00% | ~175 |
-| Front Toward Enemy | 28.00% | ~175 |
-| Exodus | 27.00% | ~169 |
-| Mindless Prey | 27.00% | ~169 |
+| Exodus | 28.00% | ~176 |
+| Legend Teller | 28.00% | ~176 |
+| Front Toward Enemy | 28.00% | ~176 |
+| Mindless Prey | 28.00% | ~176 |
 | Whole Again | 22.00% | ~138 |
 | Set A Benchmark | 22.00% | ~138 |
-| Final Regeneration | 20.00% | ~125 |
+| Final Regeneration | 20.00% | ~126 |
+| Pack Rat | 20.00% | ~126 |
 | Pusher | 19.00% | ~119 |
 | Full Contact | 19.00% | ~119 |
-| Pack Rat | 19.00% | ~119 |
 | Full Clearance | 19.00% | ~119 |
 | Z-Baller | 18.00% | ~113 |
 | Marked | 16.00% | ~100 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 371)
 | Reunion | 2.00% | ~13 |
 | Untouchable | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 626 (Ranked 254)  
+Progressed: 628 (Ranked 254)  
 Completed: 3 (0.48%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 3 (0.48%) (Ranked 165)
 | 2023-09-27 | 488 | 3 |
 | 2023-09-28 | 539 | 3 |
 | 2023-09-29 | 589 | 3 |
-| 2023-09-30 | 626 | 3 |
+| 2023-09-30 | 628 | 3 |
 ## Awards
 Max (Great Boss Battles): 97  (Ranked 348)  
 Sum: 97 (Ranked 425)  

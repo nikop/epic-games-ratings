@@ -3798,9 +3798,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88568,
+  "EOS_Progressed": 88569,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20718,6 +20718,11 @@
       "Time": "2023-09-30T17:06:21.0409277+00:00",
       "NumProgressed": 88568,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-30T20:05:37.4425081+00:00",
+      "NumProgressed": 88569,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -20759,9 +20764,9 @@
       "ID": "ACH_0014",
       "SetID": "3kam13l",
       "Name": "Track Star",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_0015",
@@ -21056,13 +21061,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88568,
+      "Progressed": 88569,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16915,
+      "Progressed": 16916,
       "Completed": 15537
     }
   ],
@@ -21070,8 +21075,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-30T15:00:59.7071806+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:05:38.903654+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:05:37.4425076+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:00:18.8803285+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:05:38.9038408+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:00:00.2953811+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:05:37.4426133+00:00"
 }

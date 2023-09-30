@@ -4,7 +4,7 @@
   "ProductSlug": "aztech-forgotten-gods",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-03-10T16:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.5154518+00:00",
   "LastChanged": "2023-03-31T05:57:49.5154519+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:19.53854+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:59:14.5780899+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:04:41.8329349+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:58:56.9072216+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:04:41.6299889+00:00"
 }

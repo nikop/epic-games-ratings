@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2171,6 +2171,11 @@
       "Time": "2023-09-29T11:09:13.4091669+00:00",
       "NumProgressed": 483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T20:02:29.4745782+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2214,7 +2219,7 @@
       "Name": "War with Friends",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -2277,7 +2282,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
@@ -2285,8 +2290,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-09-29T20:58:05.8073185+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:02:28.2086369+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:02:29.4745777+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:37.0074651+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:58:35.0663667+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:02:28.2086687+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:58:18.2842121+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:02:29.474605+00:00"
 }

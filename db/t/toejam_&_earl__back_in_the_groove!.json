@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 782,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 97,
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57124,
+  "EOS_Progressed": 57125,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10103,6 +10103,11 @@
       "Time": "2023-09-30T19:03:51.5807151+00:00",
       "NumProgressed": 57124,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-30T20:03:52.0668051+00:00",
+      "NumProgressed": 57125,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10258,7 +10263,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3427
+      "UsersEstimate": 3428
     },
     {
       "ID": "HarshLove",
@@ -10450,7 +10455,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3427
+      "UsersEstimate": 3428
     },
     {
       "ID": "TimelySplash",
@@ -10505,7 +10510,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57124,
+      "Progressed": 57125,
       "Completed": 6
     }
   ],
@@ -10513,8 +10518,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:03:51.5807148+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:03:52.0668046+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:19.6276448+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:57:51.5568234+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:03:51.5808339+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:57:36.2452322+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:03:52.0668847+00:00"
 }

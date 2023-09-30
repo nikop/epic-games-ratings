@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 2.00% | ~285 |
 | Musaeum | 2.00% | ~285 |
 | Learn to Play 2 | 2.00% | ~285 |
+| Learn to Play 3 | 2.00% | ~285 |
 | Greece | 2.00% | ~285 |
 | Persian Paganism | 2.00% | ~285 |
 | Building Wonders | 2.00% | ~285 |
@@ -103,10 +104,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 1.00% | ~142 |
 | Pantheon | 1.00% | ~142 |
 | Via Recta Souk | 1.00% | ~142 |
-| Learn to Play 3 | 1.00% | ~142 |
 | Carthage | 1.00% | ~142 |
 | Power to the People | 1.00% | ~142 |
 | Assyrian Paganism | 1.00% | ~142 |
+| Hittite Paganism | 1.00% | ~142 |
 | Economic Reform | 1.00% | ~142 |
 | Industrial Progress | 1.00% | ~142 |
 | Military Prestige | 1.00% | ~142 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.90% | ~128 |
 | Learn to Play 4 | 0.90% | ~128 |
 | Babylonia | 0.90% | ~128 |
-| Hittite Paganism | 0.90% | ~128 |
 | Turreted Elephant | 0.90% | ~128 |
 | Clerics | 0.80% | ~114 |
 | Cao'an | 0.80% | ~114 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,234 (Ranked 133)  
+Progressed: 14,235 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
-| 2023-09-30 | 14,234 | 5 |
+| 2023-09-30 | 14,235 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

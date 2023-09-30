@@ -4,7 +4,7 @@
   "ProductSlug": "pixark",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.9118043+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:00:32.4956871+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:04:10.1810914+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:00:13.9431428+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:04:09.9627644+00:00"
 }

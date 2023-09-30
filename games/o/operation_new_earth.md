@@ -37,13 +37,13 @@
 | Seek & Destroy | 1.00% | ~15 |
 | Titan Tanks | 1.00% | ~15 |
 | Shock Troops | 0.90% | ~14 |
-| Advanced Interceptors | 0.70% | ~10 |
+| Advanced Interceptors | 0.70% | ~11 |
 | Jet Troops | 0.60% | ~9 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 213)  
+Progressed: 1,501 (Ranked 213)  
 Completed: 1 (0.07%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,4 +157,4 @@ Completed: 1 (0.07%) (Ranked 250)
 | 2023-09-27 | 1,473 | 1 |
 | 2023-09-28 | 1,477 | 1 |
 | 2023-09-29 | 1,489 | 1 |
-| 2023-09-30 | 1,500 | 1 |
+| 2023-09-30 | 1,501 | 1 |

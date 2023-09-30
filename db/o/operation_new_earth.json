@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1500,
+  "EOS_Progressed": 1501,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5431,6 +5431,11 @@
       "Time": "2023-09-30T17:04:03.67146+00:00",
       "NumProgressed": 1500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T20:03:47.3980568+00:00",
+      "NumProgressed": 1501,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5706,7 +5711,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -5745,14 +5750,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1500,
+      "Progressed": 1501,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:03:47.0524468+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:03:47.3980562+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:57:11.6079883+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:03:47.0525128+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:56:56.9468783+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:03:47.3981052+00:00"
 }

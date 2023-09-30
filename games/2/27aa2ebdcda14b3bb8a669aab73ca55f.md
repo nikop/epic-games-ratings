@@ -1,17 +1,17 @@
 # The Elder Scrolls Online
 [Store](https://store.epicgames.com/en-US/p/the-elder-scrolls-online)  
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
-Rating: 4.33 (Ranked 782)  
+Rating: 4.33 (Ranked 781)  
 ## Awards
 Max (Character Customization): 2,450  (Ranked 103)  
-Sum: 4,784 (Ranked 136)  
+Sum: 4,790 (Ranked 136)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 2,450 |
 | This game is Great for Beginners | 430 |
 | This game has Diverse Characters | 372 |
-| This game is Highly Recommended | 294 |
+| This game is Highly Recommended | 300 |
 | This game has Quickly Understood Controls | 261 |
 | This game has Amazing Storytelling | 258 |
 | This game is Extremely Fun | 252 |
@@ -92,4 +92,4 @@ Diff (max vs sum): -33
 | 2023-09-27 | 4.33 | 2,401 | 4,600 |
 | 2023-09-28 | 4.33 | 2,424 | 4,669 |
 | 2023-09-29 | 4.33 | 2,450 | 4,755 |
-| 2023-09-30 | 4.33 | 2,450 | 4,784 |
+| 2023-09-30 | 4.33 | 2,450 | 4,790 |

@@ -1,38 +1,38 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 715)  
+Rating: 4.40 (Ranked 714)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~96,559 |
-| 74 miles East of Otaheité | 56.00% | ~68,447 |
-| Interesting... | 42.00% | ~51,335 |
-| The Everhart Expedition | 39.00% | ~47,668 |
-| The Vanishing of the Lady Shannon | 30.00% | ~36,668 |
-| Seaside Serenade | 30.00% | ~36,668 |
-| Halfway there | 29.00% | ~35,446 |
-| A brigantine, a brig and a barque | 28.00% | ~34,223 |
-| 506 East Hampden Avenue | 28.00% | ~34,223 |
-| Weekend at Walakea's | 27.00% | ~33,001 |
-| Quite a Show | 27.00% | ~33,001 |
-| Dark Water Ride | 24.00% | ~29,334 |
-| Sunken | 24.00% | ~29,334 |
-| Deep Cut | 24.00% | ~29,334 |
-| FHALGOF'N' | 22.00% | ~26,890 |
-| Marsh Cannery | 21.00% | ~25,667 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~20,778 |
-| The only thing I have now | 16.00% | ~19,556 |
-| Not Another Boring Slideshow! | 15.00% | ~18,334 |
-| Naacalvision | 15.00% | ~18,334 |
-| I'll make a note of that... | 9.00% | ~11,000 |
-| The Norahnomicon | 9.00% | ~11,000 |
-| Play it again, Norah | 7.00% | ~8,556 |
-| Underwater Royalty | 7.00% | ~8,556 |
+| A Family Heirloom | 79.00% | ~96,570 |
+| 74 miles East of Otaheité | 56.00% | ~68,454 |
+| Interesting... | 42.00% | ~51,341 |
+| The Everhart Expedition | 39.00% | ~47,674 |
+| The Vanishing of the Lady Shannon | 30.00% | ~36,672 |
+| Seaside Serenade | 30.00% | ~36,672 |
+| Halfway there | 29.00% | ~35,450 |
+| A brigantine, a brig and a barque | 28.00% | ~34,227 |
+| 506 East Hampden Avenue | 28.00% | ~34,227 |
+| Weekend at Walakea's | 27.00% | ~33,005 |
+| Quite a Show | 27.00% | ~33,005 |
+| Dark Water Ride | 24.00% | ~29,338 |
+| Sunken | 24.00% | ~29,338 |
+| Deep Cut | 24.00% | ~29,338 |
+| FHALGOF'N' | 22.00% | ~26,893 |
+| Marsh Cannery | 21.00% | ~25,670 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~20,781 |
+| The only thing I have now | 16.00% | ~19,558 |
+| Not Another Boring Slideshow! | 15.00% | ~18,336 |
+| Naacalvision | 15.00% | ~18,336 |
+| I'll make a note of that... | 9.00% | ~11,002 |
+| The Norahnomicon | 9.00% | ~11,002 |
+| Play it again, Norah | 7.00% | ~8,557 |
+| Underwater Royalty | 7.00% | ~8,557 |
 | Written in Stone | 6.00% | ~7,334 |
-| Fawning Developers | 5.00% | ~6,111 |
-| The Amazing Adventures of Norah Everhart | 4.00% | ~4,889 |
-| Candid Photo | 4.00% | ~4,889 |
+| Fawning Developers | 5.00% | ~6,112 |
+| The Amazing Adventures of Norah Everhart | 4.00% | ~4,890 |
+| Candid Photo | 4.00% | ~4,890 |
 | The Lady Shannon Recording | 3.00% | ~3,667 |
 | Otherwordly Portal | 3.00% | ~3,667 |
 | You looked that up in a guide! | 2.00% | ~2,445 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 715)
 | Gently down the stream... | 1.00% | ~1,222 |
 | Meta-reference | 1.00% | ~1,222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,226 (Ranked 73)  
+Progressed: 122,240 (Ranked 73)  
 Completed: 1,011 (0.83%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 1,011 (0.83%) (Ranked 142)
 | 2023-09-27 | 121,696 | 1,002 |
 | 2023-09-28 | 121,844 | 1,004 |
 | 2023-09-29 | 122,039 | 1,009 |
-| 2023-09-30 | 122,226 | 1,011 |
+| 2023-09-30 | 122,240 | 1,011 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

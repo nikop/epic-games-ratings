@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~464 |
 | Spectre Inductee | 84.00% | ~415 |
-| Medal of Exploration I | 74.00% | ~366 |
+| Medal of Exploration I | 75.00% | ~370 |
 | Search and Rescue | 71.00% | ~351 |
 | Recruit | 70.00% | ~346 |
 | Quarian Ally | 68.00% | ~336 |
@@ -15,20 +15,20 @@
 | Medal of Exploration II | 58.00% | ~287 |
 | Turian Ally | 56.00% | ~277 |
 | Council Legion of Merit | 56.00% | ~277 |
+| Charismatic | 54.00% | ~267 |
 | Medal of Honor | 53.00% | ~262 |
 | Meritorious Service Medal | 53.00% | ~262 |
-| Charismatic | 53.00% | ~262 |
 | Soldier | 52.00% | ~257 |
 | Medal of Exploration III | 50.00% | ~247 |
 | Asari Ally | 50.00% | ~247 |
+| Soldier Ally | 49.00% | ~242 |
 | Principled | 49.00% | ~242 |
-| Soldier Ally | 48.00% | ~237 |
 | Colonial Savior | 47.00% | ~232 |
 | Sentinel Ally | 45.00% | ~222 |
 | Krogan Ally | 45.00% | ~222 |
+| Paramour I | 44.00% | ~217 |
+| Merciless | 44.00% | ~217 |
 | Scientist | 44.00% | ~217 |
-| Paramour I | 43.00% | ~212 |
-| Merciless | 43.00% | ~212 |
 | Head Hunter | 41.00% | ~203 |
 | Operative | 40.00% | ~198 |
 | Scholar | 40.00% | ~198 |
@@ -38,10 +38,10 @@
 | Missing in Action | 37.00% | ~183 |
 | Archivist | 35.00% | ~173 |
 | Completionist | 35.00% | ~173 |
+| The Archangel | 35.00% | ~173 |
 | The Convict | 35.00% | ~173 |
 | The Professor | 35.00% | ~173 |
 | Colony Defense | 34.00% | ~168 |
-| The Archangel | 34.00% | ~168 |
 | The Krogan | 34.00% | ~168 |
 | Galactic Explorer | 33.00% | ~163 |
 | Ghost Ship | 32.00% | ~158 |
@@ -49,11 +49,11 @@
 | The Quarian | 31.00% | ~153 |
 | The Assassin | 30.00% | ~148 |
 | The Justicar | 30.00% | ~148 |
+| Battlemaster | 30.00% | ~148 |
+| The Cure | 30.00% | ~148 |
 | The Prodigal | 30.00% | ~148 |
 | A Personal Touch | 29.00% | ~143 |
-| Battlemaster | 29.00% | ~143 |
 | Ghost of the Father | 29.00% | ~143 |
-| The Cure | 29.00% | ~143 |
 | Big Game Hunter | 29.00% | ~143 |
 | Agent | 29.00% | ~143 |
 | Revenge! | 29.00% | ~143 |
@@ -107,11 +107,11 @@
 | Barrier Mastery | 11.00% | ~54 |
 | Combined Arms | 11.00% | ~54 |
 | Executioner | 11.00% | ~54 |
+| Patriot | 11.00% | ~54 |
 | Long Service Medal | 10.00% | ~49 |
 | Bruiser | 10.00% | ~49 |
 | Lift Mastery | 10.00% | ~49 |
 | Overload Specialist | 10.00% | ~49 |
-| Patriot | 10.00% | ~49 |
 | Legend | 10.00% | ~49 |
 | Always Prepared | 9.00% | ~44 |
 | Hijacker | 8.00% | ~40 |

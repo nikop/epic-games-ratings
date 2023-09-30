@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -9106,10 +9106,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 34944,
       "NumberOfAwardsMax": 16363
+    },
+    {
+      "Time": "2023-09-30T20:00:22.8572789+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 34957,
+      "NumberOfAwardsMax": 16363
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34944,
+  "NumberOfAwards": 34957,
   "NumberOfAwardsMax": 16363,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9123,7 +9129,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3901
+      "Count": 3914
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9179,8 +9185,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-09-30T18:02:06.9062818+00:00",
+  "LastChanged": "2023-09-30T20:00:22.8572787+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:13.7127947+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:00:42.0452426+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:02:21.2046423+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:00:22.8572792+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:02:22.7175612+00:00"
 }

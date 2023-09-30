@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 419)  
+Rating: 4.59 (Ranked 418)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,878 |
-| Alt+F4 | 6.00% | ~13,665 |
-| Where's that freaking Dwarf? | 5.00% | ~11,387 |
+| Sowwy! | 32.00% | ~72,883 |
+| Alt+F4 | 6.00% | ~13,666 |
+| Where's that freaking Dwarf? | 5.00% | ~11,388 |
 | Déjà vu | 4.00% | ~9,110 |
-| A beer, two curses, three companions | 3.00% | ~6,832 |
-| Sock! SOCK! | 3.00% | ~6,832 |
-| GG EZ | 3.00% | ~6,832 |
-| DM intervention | 3.00% | ~6,832 |
-| Speedrun | 3.00% | ~6,832 |
-| Fireproof Wizardess | 3.00% | ~6,832 |
+| A beer, two curses, three companions | 3.00% | ~6,833 |
+| Sock! SOCK! | 3.00% | ~6,833 |
+| GG EZ | 3.00% | ~6,833 |
+| DM intervention | 3.00% | ~6,833 |
+| Speedrun | 3.00% | ~6,833 |
+| Fireproof Wizardess | 3.00% | ~6,833 |
 | Livin' in a dwarven paradise | 2.00% | ~4,555 |
 | Way of the Wimp | 2.00% | ~4,555 |
 | The plot thickens... At the tavern | 2.00% | ~4,555 |
@@ -26,25 +26,25 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 2.00% | ~4,555 |
 | Team Building Exercise | 2.00% | ~4,555 |
 | Oh, when I'll be level 10... | 2.00% | ~4,555 |
-| Shiny and Crôm | 1.00% | ~2,277 |
-| The Dungeon Master | 1.00% | ~2,277 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,277 |
-| Res Judicata | 1.00% | ~2,277 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,277 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,277 |
-| Dwarf Fortress | 1.00% | ~2,277 |
-| %#*!$*! | 1.00% | ~2,277 |
-| Look but don't touch | 1.00% | ~2,277 |
-| The beards of change | 1.00% | ~2,277 |
-| The Ranger of Chaos | 1.00% | ~2,277 |
-| I am the night | 1.00% | ~2,277 |
-| Thieves' Guild Accreditation | 1.00% | ~2,277 |
+| Shiny and Crôm | 1.00% | ~2,278 |
+| The Dungeon Master | 1.00% | ~2,278 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,278 |
+| Res Judicata | 1.00% | ~2,278 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,278 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,278 |
+| Dwarf Fortress | 1.00% | ~2,278 |
+| %#*!$*! | 1.00% | ~2,278 |
+| Look but don't touch | 1.00% | ~2,278 |
+| The beards of change | 1.00% | ~2,278 |
+| The Ranger of Chaos | 1.00% | ~2,278 |
+| I am the night | 1.00% | ~2,278 |
+| Thieves' Guild Accreditation | 1.00% | ~2,278 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,050 |
 | Dead for good | 0.80% | ~1,822 |
 | Lust and Debauchery | 0.80% | ~1,822 |
 | Material Girl | 0.80% | ~1,822 |
 | Gargantua | 0.70% | ~1,594 |
-| In Navalu's footsteps | 0.60% | ~1,366 |
+| In Navalu's footsteps | 0.60% | ~1,367 |
 | We come in peace | 0.50% | ~1,139 |
 | Lëgal Legend | 0.50% | ~1,139 |
 | Holistic Adventuring Party | 0.40% | ~911 |
@@ -52,11 +52,11 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.40% | ~911 |
 | Scholar of the Lands of Fangh | 0.30% | ~683 |
 | It's been a hard day's night | 0.30% | ~683 |
-| Friendly fire | 0.20% | ~455 |
-| I'd rather... Just... Sing! | 0.20% | ~455 |
-| The number of the counting shalt be 7 | 0.20% | ~455 |
-| 100% satisfaction guarantee | 0.20% | ~455 |
-| Inception | 0.20% | ~455 |
+| Friendly fire | 0.20% | ~456 |
+| I'd rather... Just... Sing! | 0.20% | ~456 |
+| The number of the counting shalt be 7 | 0.20% | ~456 |
+| 100% satisfaction guarantee | 0.20% | ~456 |
+| Inception | 0.20% | ~456 |
 | Cursed die | 0.10% | ~228 |
 | Necrophilia | 0.10% | ~228 |
 | The Blood Countess | 0.10% | ~228 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,745 (Ranked 58)  
+Progressed: 227,760 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 5 (0.00%) (Ranked 300)
 | 2023-09-27 | 227,123 | 4 |
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
-| 2023-09-30 | 227,745 | 5 |
+| 2023-09-30 | 227,760 | 5 |
 ## Awards
 Max (Character Customization): 202  (Ranked 276)  
 Sum: 394 (Ranked 326)  

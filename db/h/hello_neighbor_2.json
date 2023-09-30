@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -408,11 +408,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2902,
+  "EOS_Progressed": 2903,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.07,
+  "EOS_Completed_Percentage": 4.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -3418,6 +3418,11 @@
       "Time": "2023-09-30T15:04:24.2794709+00:00",
       "NumProgressed": 2902,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-09-30T20:03:53.6919172+00:00",
+      "NumProgressed": 2903,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 14,
@@ -3461,7 +3466,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -3493,7 +3498,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -3501,7 +3506,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_REUNION",
@@ -3540,7 +3545,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2902,
+      "Progressed": 2903,
       "Completed": 118
     }
   ],
@@ -3548,8 +3553,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-17T11:03:57.624996+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:03:53.4045129+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:03:53.6919165+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:44.8893578+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:00:35.8833503+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:03:53.4045463+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:00:17.1810683+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:03:53.6919398+00:00"
 }

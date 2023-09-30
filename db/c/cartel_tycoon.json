@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1851,6 +1851,11 @@
       "Time": "2023-09-30T13:09:41.8565394+00:00",
       "NumProgressed": 600,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-30T20:05:31.8670052+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1860,9 +1865,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 216
     },
     {
       "ID": "cool-shirts",
@@ -1910,7 +1915,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "kill-lieutenants",
@@ -1926,15 +1931,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 180
     },
     {
       "ID": "product-profit",
@@ -1982,7 +1987,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "unlock-residences",
@@ -1998,7 +2003,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "use-submarine",
@@ -2013,15 +2018,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:05:33.5720897+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:05:31.8670047+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:32.0901583+00:00",
-  "LastUpdate_Ratings": "2023-09-30T19:00:23.4655298+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:05:33.572118+00:00"
+  "LastUpdate_Ratings": "2023-09-30T20:00:05.4087521+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:05:31.8670232+00:00"
 }

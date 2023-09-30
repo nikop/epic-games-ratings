@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 53.00% | ~67 |
-| Fire in the... nevermind | 52.00% | ~66 |
+| Chapter I | 52.00% | ~67 |
+| Fire in the... nevermind | 52.00% | ~67 |
 | Haute cuisine | 47.00% | ~60 |
-| Demolition expert | 39.00% | ~50 |
 | I didn't do it! | 39.00% | ~50 |
+| Demolition expert | 38.00% | ~49 |
 | Wooooooow! | 37.00% | ~47 |
-| Keep away from children | 35.00% | ~44 |
+| Keep away from children | 35.00% | ~45 |
 | Open up wide | 33.00% | ~42 |
 | Artistic fool | 32.00% | ~41 |
-| Let the boot talk | 31.00% | ~39 |
-| Chapter II | 27.00% | ~34 |
-| Handyman | 24.00% | ~30 |
-| Achoo!! | 24.00% | ~30 |
-| Chapter III | 24.00% | ~30 |
-| Like a moth in the Wind | 24.00% | ~30 |
+| Let the boot talk | 31.00% | ~40 |
+| Chapter II | 27.00% | ~35 |
+| Handyman | 24.00% | ~31 |
+| Achoo!! | 24.00% | ~31 |
 | Shadow on the wall | 23.00% | ~29 |
+| Chapter III | 23.00% | ~29 |
+| Like a moth in the Wind | 23.00% | ~29 |
 | Quite a buggy game | 22.00% | ~28 |
 | Bubblekillerfamily | 22.00% | ~28 |
-| Pacifist | 20.00% | ~25 |
-| Mirror mirror on the wall... | 20.00% | ~25 |
+| Pacifist | 20.00% | ~26 |
+| Mirror mirror on the wall... | 20.00% | ~26 |
 | Fastidious Clown | 19.00% | ~24 |
 | It's not easy being green! | 18.00% | ~23 |
 | Home is where the heart is | 18.00% | ~23 |
@@ -33,13 +33,13 @@
 | To err is human... | 11.00% | ~14 |
 | Useless but beautiful | 10.00% | ~13 |
 | Nothing can stop me | 10.00% | ~13 |
-| Mumbo Jumbo | 9.00% | ~11 |
+| Mumbo Jumbo | 9.00% | ~12 |
 | Lollipop | 8.00% | ~10 |
 | Where there is life, there is hope | 8.00% | ~10 |
 | It's nothing personal | 7.00% | ~9 |
-| Artistic master | 6.00% | ~8 |
-| Sadist | 6.00% | ~8 |
 | The hands of a healer | 6.00% | ~8 |
+| Artistic master | 5.00% | ~6 |
+| Sadist | 5.00% | ~6 |
 | Fartjokes! | 5.00% | ~6 |
 | Shut up clown! | 4.00% | ~5 |
 | Life is but a dream | 3.00% | ~4 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.80% | ~1 |
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 360)  
+Progressed: 128 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-26 | 124 | 0 |
 | 2023-09-27 | 125 | 0 |
 | 2023-09-28 | 127 | 0 |
+| 2023-09-30 | 128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

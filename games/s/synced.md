@@ -5,24 +5,24 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 24.00% | ~14,235 |
-| As Far Away As Possible | 14.00% | ~8,304 |
-| A Most Unstable Organism | 11.00% | ~6,524 |
-| No Time to Follow Protocol | 9.00% | ~5,338 |
-| Float Like a Butterfly... | 7.00% | ~4,152 |
-| Nano Connoisseur | 5.00% | ~2,966 |
-| In Two Places At Once | 5.00% | ~2,966 |
-| Pulling Your Weight | 2.00% | ~1,186 |
-| Reaping Rivals | 2.00% | ~1,186 |
-| fifteenth Time's the Charm | 0.80% | ~474 |
-| More Power to You | 0.40% | ~237 |
+| Your Lucky Day | 24.00% | ~14,241 |
+| As Far Away As Possible | 14.00% | ~8,307 |
+| A Most Unstable Organism | 11.00% | ~6,527 |
+| No Time to Follow Protocol | 9.00% | ~5,341 |
+| Float Like a Butterfly... | 7.00% | ~4,154 |
+| Nano Connoisseur | 5.00% | ~2,967 |
+| In Two Places At Once | 5.00% | ~2,967 |
+| Pulling Your Weight | 2.00% | ~1,187 |
+| Reaping Rivals | 2.00% | ~1,187 |
+| fifteenth Time's the Charm | 0.80% | ~475 |
+| More Power to You | 0.50% | ~297 |
 | Gone Rogue | 0.20% | ~119 |
 | Completely Customizable | 0.20% | ~119 |
 | Memory Keeper | 0.10% | ~59 |
 | Runs for Your Money | 0.10% | ~59 |
 | Past Master | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,311 (Ranked 95)  
+Progressed: 59,339 (Ranked 96)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,14 +56,15 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 58,222 | 1 |
 | 2023-09-28 | 58,582 | 1 |
 | 2023-09-29 | 58,939 | 1 |
-| 2023-09-30 | 59,311 | 1 |
+| 2023-09-30 | 59,339 | 1 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 427)  
-Sum: 109 (Ranked 418)  
-Diff (max vs sum): 9  
+Sum: 134 (Ranked 408)  
+Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |
+| This game has Diverse Characters | 25 |
 | This game has a Competitive Community | 23 |
 | This game is Highly Recommended | 23 |
 | This game has Unique Visuals | 20 |
@@ -91,4 +92,4 @@ Diff (max vs sum): 9
 | 2023-09-27 | 4.18 | 34 | 34 |
 | 2023-09-28 | 4.19 | 38 | 58 |
 | 2023-09-29 | 4.18 | 38 | 82 |
-| 2023-09-30 | 4.18 | 43 | 109 |
+| 2023-09-30 | 4.18 | 43 | 134 |

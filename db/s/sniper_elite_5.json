@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,7 +530,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3686,
+  "EOS_Progressed": 3687,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -7000,6 +7000,11 @@
       "Time": "2023-09-30T17:05:50.8414251+00:00",
       "NumProgressed": 3686,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-30T20:05:12.9939566+00:00",
+      "NumProgressed": 3687,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7131,7 +7136,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7179,7 +7184,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7211,7 +7216,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7235,7 +7240,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7323,7 +7328,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7403,7 +7408,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7499,7 +7504,7 @@
       "Name": "Last Resort",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -7507,7 +7512,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -7515,7 +7520,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -7578,13 +7583,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3637,
+      "Progressed": 3638,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3686,
+      "Progressed": 3687,
       "Completed": 11
     }
   ],
@@ -7592,8 +7597,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:05:13.2851575+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:05:12.9939561+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:57:25.7711836+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:05:13.285276+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:57:11.6018465+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:05:12.9940433+00:00"
 }

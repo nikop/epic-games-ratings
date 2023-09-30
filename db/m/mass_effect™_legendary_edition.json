@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1147,9 +1147,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_121",
@@ -1283,9 +1283,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_22",
@@ -1307,9 +1307,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_25",
@@ -1379,9 +1379,9 @@
       "ID": "achievement_32",
       "SetID": "b9pe172",
       "Name": "Charismatic",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_33",
@@ -1483,9 +1483,9 @@
       "ID": "achievement_44",
       "SetID": "d252ncf",
       "Name": "The Archangel",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_45",
@@ -1555,9 +1555,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_53",
@@ -1603,9 +1603,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_59",
@@ -1659,9 +1659,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_65",
@@ -1931,9 +1931,9 @@
       "ID": "achievement_95",
       "SetID": "d252ncf",
       "Name": "Patriot",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_96",
@@ -1983,8 +1983,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-09-30T19:06:00.5493827+00:00",
+  "LastChanged_Achievements": "2023-09-30T20:05:58.7996963+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-09-30T18:57:32.9369533+00:00",
-  "LastUpdate_Achievements": "2023-09-30T19:06:00.5496104+00:00"
+  "LastUpdate_Ratings": "2023-09-30T19:57:18.2607583+00:00",
+  "LastUpdate_Achievements": "2023-09-30T20:05:58.7998948+00:00"
 }
