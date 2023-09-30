@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 72.49% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 72.25% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.11% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.59% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.52% |
@@ -17,7 +17,7 @@
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 19.75% |
 | 16 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 16.25% |
+| 18 | [Island Cities](games/i/island_cities.md) | 16.22% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.71% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.31% |
@@ -50,10 +50,10 @@
 | 48 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.12% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 50 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
-| 51 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 5.56% |
-| 52 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.49% |
-| 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.33% |
-| 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
+| 51 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.49% |
+| 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.33% |
+| 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
+| 54 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 5.26% |
 | 55 | [JARS](games/j/jars.md) | 5.13% |
 | 56 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 57 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
@@ -66,8 +66,8 @@
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.07% |
 | 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.75% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.68% |
+| 67 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.74% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.66% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -174,9 +174,9 @@
 | 172 | [Godlike Burger](games/g/godlike_burger.md) | 0.44% |
 | 172 | [Tchia](games/t/tchia.md) | 0.44% |
 | 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.42% |
-| 175 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.41% |
-| 176 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 176 | [Train Valley](games/t/train_valley.md) | 0.40% |
+| 175 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.40% |
+| 175 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 175 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 178 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 178 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 178 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
@@ -190,8 +190,8 @@
 | 188 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 188 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 190 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
-| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.33% |
-| 192 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 191 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.32% |
 | 193 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 193 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.31% |
