@@ -4597,9 +4597,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 704411,
+  "EOS_Progressed": 704412,
   "EOS_Completed": 6387,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -21967,6 +21967,11 @@
       "Time": "2023-09-30T04:06:41.6915171+00:00",
       "NumProgressed": 704411,
       "NumCompleted": 6387
+    },
+    {
+      "Time": "2023-09-30T05:07:20.5791095+00:00",
+      "NumProgressed": 704412,
+      "NumCompleted": 6387
     }
   ],
   "TotalAchievements": 49,
@@ -21978,7 +21983,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 267676
+      "UsersEstimate": 267677
     },
     {
       "ID": "AchAresKills",
@@ -22002,7 +22007,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 91573
+      "UsersEstimate": 91574
     },
     {
       "ID": "AchBuffedButterfly",
@@ -22042,7 +22047,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563529
+      "UsersEstimate": 563530
     },
     {
       "ID": "AchClearElysium",
@@ -22050,7 +22055,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 464911
+      "UsersEstimate": 464912
     },
     {
       "ID": "AchClearElysiumEM",
@@ -22058,7 +22063,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 91573
+      "UsersEstimate": 91574
     },
     {
       "ID": "AchClearHeatGate",
@@ -22074,7 +22079,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 147926
+      "UsersEstimate": 147927
     },
     {
       "ID": "AchClearTartarus",
@@ -22082,7 +22087,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 626926
+      "UsersEstimate": 626927
     },
     {
       "ID": "AchCrushedThanatos",
@@ -22138,7 +22143,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 154970
+      "UsersEstimate": 154971
     },
     {
       "ID": "AchGreaterCall",
@@ -22146,7 +22151,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 478999
+      "UsersEstimate": 479000
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -22202,7 +22207,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443779
+      "UsersEstimate": 443780
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -22338,7 +22343,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500132
+      "UsersEstimate": 500133
     },
     {
       "ID": "AchWeaponClears",
@@ -22354,7 +22359,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 281764
+      "UsersEstimate": 281765
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -22369,15 +22374,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 704411,
+      "Progressed": 704412,
       "Completed": 6387
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-29T16:01:38.3690908+00:00",
-  "LastChanged_Achievements": "2023-09-30T04:06:41.6915161+00:00",
+  "LastChanged_Achievements": "2023-09-30T05:07:20.579109+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:57.4290692+00:00",
-  "LastUpdate_Ratings": "2023-09-30T04:00:51.4937727+00:00",
-  "LastUpdate_Achievements": "2023-09-30T04:06:41.6916633+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:01:39.7045639+00:00",
+  "LastUpdate_Achievements": "2023-09-30T05:07:20.5792522+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~110,766 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~84,563 |
-| A Clear Conscience | 69.00% | ~82,181 |
-| Unleash Hell | 68.00% | ~80,990 |
-| Unfulfilled Desires | 68.00% | ~80,990 |
-| Funny Guy | 67.00% | ~79,799 |
-| Unshackled | 67.00% | ~79,799 |
-| Long Live the King | 66.00% | ~78,608 |
+| A Place to Lay Your Head | 93.00% | ~110,767 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~84,564 |
+| A Clear Conscience | 69.00% | ~82,182 |
+| Unleash Hell | 68.00% | ~80,991 |
+| Unfulfilled Desires | 68.00% | ~80,991 |
+| Funny Guy | 67.00% | ~79,800 |
+| Unshackled | 67.00% | ~79,800 |
+| Long Live the King | 66.00% | ~78,609 |
 | Resurrection | 62.00% | ~73,844 |
 | Wyrdly Reconstructed | 62.00% | ~73,844 |
 | Boxcar Kid | 60.00% | ~71,462 |
@@ -21,9 +21,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 60.00% | ~71,462 |
 | Serenity Now! | 53.00% | ~63,125 |
 | Hope Rekindled | 50.00% | ~59,552 |
-| Ramble On | 49.00% | ~58,360 |
-| Nope | 48.00% | ~57,169 |
-| This Looks Familiar | 38.00% | ~45,259 |
+| Ramble On | 49.00% | ~58,361 |
+| Nope | 48.00% | ~57,170 |
+| This Looks Familiar | 38.00% | ~45,260 |
 | Now Stay Dead | 37.00% | ~44,068 |
 | Merry Time | 36.00% | ~42,877 |
 | Harvest Festival | 36.00% | ~42,877 |
@@ -44,11 +44,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 18.00% | ~21,439 |
 | Dissector | 17.00% | ~20,248 |
 | It Happens | 17.00% | ~20,248 |
-| This Belongs in a Museum | 16.00% | ~19,056 |
-| Handled | 16.00% | ~19,056 |
-| Catch and Decease | 14.00% | ~16,674 |
-| Not Today! | 13.00% | ~15,483 |
-| Deprogramming | 13.00% | ~15,483 |
+| This Belongs in a Museum | 16.00% | ~19,057 |
+| Handled | 16.00% | ~19,057 |
+| Catch and Decease | 14.00% | ~16,675 |
+| Not Today! | 13.00% | ~15,484 |
+| Deprogramming | 13.00% | ~15,484 |
 | Shrine of Reflection | 12.00% | ~14,292 |
 | When You Want Something Done Right | 11.00% | ~13,101 |
 | Body of Work | 10.00% | ~11,910 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~119 |
 | No Gravestone Left Unturned | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,103 (Ranked 74)  
+Progressed: 119,104 (Ranked 74)  
 Completed: 1 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 1 (0.00%) (Ranked 300)
 | 2023-09-27 | 118,913 | 1 |
 | 2023-09-28 | 118,986 | 1 |
 | 2023-09-29 | 119,083 | 1 |
-| 2023-09-30 | 119,103 | 1 |
+| 2023-09-30 | 119,104 | 1 |
 ## Awards
 Max (Character Customization): 7,422  (Ranked 49)  
 Sum: 19,408 (Ranked 57)  

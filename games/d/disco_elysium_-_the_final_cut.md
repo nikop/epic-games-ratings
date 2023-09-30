@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,151 |
-| Biggest Communism Builder | 24.00% | ~30,986 |
-| The World's Most Laughable Centrist | 20.00% | ~25,822 |
+| Goodest Of The Good Cops | 28.00% | ~36,152 |
+| Biggest Communism Builder | 24.00% | ~30,987 |
+| The World's Most Laughable Centrist | 20.00% | ~25,823 |
 | Il Coppo Del'Arte! | 18.00% | ~23,240 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,658 |
 | Hyperstellar Law Official | 16.00% | ~20,658 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,075 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,075 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,784 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,076 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,076 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,785 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,202 |
 | Unbelievably Boring **** | 9.00% | ~11,620 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,620 |
 | Enemy Of The Physical Realm | 8.00% | ~10,329 |
 | Hardie's Heroes | 6.00% | ~7,747 |
-| The Lawbringer | 4.00% | ~5,164 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,164 |
+| The Lawbringer | 4.00% | ~5,165 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,165 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,873 |
 | Bother Kim After Hours | 3.00% | ~3,873 |
 | Baddest Of the Bad Cops | 2.00% | ~2,582 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,110 (Ranked 71)  
+Progressed: 129,113 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 28 (0.02%) (Ranked 275)
 | 2023-09-27 | 128,972 | 28 |
 | 2023-09-28 | 129,040 | 28 |
 | 2023-09-29 | 129,095 | 28 |
-| 2023-09-30 | 129,110 | 28 |
+| 2023-09-30 | 129,113 | 28 |
 ## Awards
 Max (Character Customization): 726  (Ranked 168)  
 Sum: 1,093 (Ranked 240)  

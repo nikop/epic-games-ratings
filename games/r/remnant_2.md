@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,918 |
-| The Killing Jar | 8.00% | ~15,038 |
-| Not Your Average Trait | 8.00% | ~15,038 |
-| Expanding Horizons | 7.00% | ~13,158 |
-| Quest for Survival | 7.00% | ~13,158 |
+| First of Many | 9.00% | ~16,919 |
+| The Killing Jar | 8.00% | ~15,039 |
+| Not Your Average Trait | 8.00% | ~15,039 |
+| Expanding Horizons | 7.00% | ~13,159 |
+| Quest for Survival | 7.00% | ~13,159 |
 | Gleaming the Cube | 6.00% | ~11,279 |
 | Not a Janitor | 6.00% | ~11,279 |
 | Familiar Face | 6.00% | ~11,279 |
@@ -35,14 +35,14 @@ Rating: 4.76 (Ranked 119)
 | The Web | 4.00% | ~7,519 |
 | Scrap Collector | 4.00% | ~7,519 |
 | All These Traits� | 4.00% | ~7,519 |
-| Am I Seeing This? | 3.00% | ~5,639 |
-| The Agenda | 3.00% | ~5,639 |
-| Tall Tales | 3.00% | ~5,639 |
-| Bad Moon Rising | 3.00% | ~5,639 |
-| Strapped | 3.00% | ~5,639 |
-| Edgelord | 3.00% | ~5,639 |
-| The Ultimate Weapon | 3.00% | ~5,639 |
-| No One Should Have All That Power | 3.00% | ~5,639 |
+| Am I Seeing This? | 3.00% | ~5,640 |
+| The Agenda | 3.00% | ~5,640 |
+| Tall Tales | 3.00% | ~5,640 |
+| Bad Moon Rising | 3.00% | ~5,640 |
+| Strapped | 3.00% | ~5,640 |
+| Edgelord | 3.00% | ~5,640 |
+| The Ultimate Weapon | 3.00% | ~5,640 |
+| No One Should Have All That Power | 3.00% | ~5,640 |
 | Crafty | 2.00% | ~3,760 |
 | Only Human | 2.00% | ~3,760 |
 | Red Room | 2.00% | ~3,760 |
@@ -56,8 +56,8 @@ Rating: 4.76 (Ranked 119)
 | Proving Grounds | 1.00% | ~1,880 |
 | Ghost in the Machine | 0.90% | ~1,692 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,978 (Ranked 65)  
-Completed: 345 (0.18%) (Ranked 218)  
+Progressed: 187,987 (Ranked 65)  
+Completed: 346 (0.18%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,10 +132,10 @@ Completed: 345 (0.18%) (Ranked 218)
 | 2023-09-27 | 187,199 | 340 |
 | 2023-09-28 | 187,507 | 342 |
 | 2023-09-29 | 187,917 | 345 |
-| 2023-09-30 | 187,978 | 345 |
+| 2023-09-30 | 187,987 | 346 |
 ## Awards
 Max (Great Boss Battles): 1,740  (Ranked 118)  
-Sum: 3,647 (Ranked 155)  
+Sum: 3,649 (Ranked 155)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -145,7 +145,7 @@ Diff (max vs sum): -37
 | This game has Diverse Characters | 209 |
 | This game is Relaxing | 201 |
 | This game is Highly Recommended | 200 |
-| This game has Amazing Characters | 194 |
+| This game has Amazing Characters | 196 |
 | This game has Amazing Storytelling | 193 |
 | This game has Quickly Understood Controls | 181 |
 | This game has Unique Visuals | 165 |
@@ -219,4 +219,4 @@ Diff (max vs sum): -37
 | 2023-09-27 | 4.76 | 1,729 | 3,586 |
 | 2023-09-28 | 4.76 | 1,733 | 3,619 |
 | 2023-09-29 | 4.76 | 1,740 | 3,641 |
-| 2023-09-30 | 4.76 | 1,740 | 3,647 |
+| 2023-09-30 | 4.76 | 1,740 | 3,649 |

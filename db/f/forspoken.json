@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40529,
+  "EOS_Progressed": 40538,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9192,6 +9192,11 @@
       "Time": "2023-09-30T04:04:38.5179335+00:00",
       "NumProgressed": 40529,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-30T05:04:52.5430722+00:00",
+      "NumProgressed": 40538,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9235,7 +9240,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9251,7 +9256,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9259,7 +9264,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9355,7 +9360,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9363,7 +9368,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9419,7 +9424,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9443,7 +9448,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9459,7 +9464,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "MAGIC_IVY",
@@ -9491,7 +9496,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9515,7 +9520,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9626,22 +9631,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40529,
+      "Progressed": 40538,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5366,
-      "Completed": 5366
+      "Progressed": 5375,
+      "Completed": 5375
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-30T04:04:38.5179329+00:00",
+  "LastChanged_Achievements": "2023-09-30T05:04:52.5430717+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:55.3450357+00:00",
-  "LastUpdate_Ratings": "2023-09-30T03:58:51.8552008+00:00",
-  "LastUpdate_Achievements": "2023-09-30T04:04:38.5180322+00:00"
+  "LastUpdate_Ratings": "2023-09-30T04:59:16.6234482+00:00",
+  "LastUpdate_Achievements": "2023-09-30T05:04:52.5431728+00:00"
 }

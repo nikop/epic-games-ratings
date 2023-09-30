@@ -5,30 +5,30 @@ Rating: 4.61 (Ranked 372)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~570 |
-| Welcome Aboard | 86.00% | ~516 |
-| Lab Rat | 73.00% | ~438 |
-| All Systems Go | 63.00% | ~378 |
-| Brute Force | 62.00% | ~372 |
-| Cannon Fodder | 57.00% | ~342 |
-| Autofire | 56.00% | ~336 |
-| Raise the Stakes | 55.00% | ~330 |
-| True Believer | 52.00% | ~312 |
-| Story Teller | 51.00% | ~306 |
+| Marksman | 95.00% | ~571 |
+| Welcome Aboard | 86.00% | ~517 |
+| Lab Rat | 73.00% | ~439 |
+| All Systems Go | 63.00% | ~379 |
+| Brute Force | 62.00% | ~373 |
+| Cannon Fodder | 57.00% | ~343 |
+| Autofire | 56.00% | ~337 |
+| Raise the Stakes | 55.00% | ~331 |
+| True Believer | 52.00% | ~313 |
+| Story Teller | 51.00% | ~307 |
 | Surgeon | 47.00% | ~282 |
 | Freeze | 45.00% | ~270 |
 | Exterminator | 45.00% | ~270 |
 | Greenhouse Effect | 45.00% | ~270 |
 | Full Arsenal | 40.00% | ~240 |
 | Live with the Hot Ones | 38.00% | ~228 |
-| S.O.S. | 37.00% | ~222 |
+| S.O.S. | 36.00% | ~216 |
 | Get Off My Ship! | 35.00% | ~210 |
-| Strange Transmissions | 35.00% | ~210 |
+| Strange Transmissions | 34.00% | ~204 |
 | Wreckage | 33.00% | ~198 |
 | A Cut Above | 32.00% | ~192 |
-| Keeper of the Faith | 31.00% | ~186 |
-| There's Always Peng! | 30.00% | ~180 |
+| Keeper of the Faith | 30.00% | ~180 |
 | Betrayed | 29.00% | ~174 |
+| There's Always Peng! | 29.00% | ~174 |
 | Legend Teller | 28.00% | ~168 |
 | Exodus | 27.00% | ~162 |
 | Front Toward Enemy | 27.00% | ~162 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 372)
 | Reunion | 2.00% | ~12 |
 | Untouchable | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 256)  
+Progressed: 601 (Ranked 256)  
 Completed: 3 (0.50%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 3 (0.50%) (Ranked 165)
 | 2023-09-27 | 488 | 3 |
 | 2023-09-28 | 539 | 3 |
 | 2023-09-29 | 589 | 3 |
-| 2023-09-30 | 600 | 3 |
+| 2023-09-30 | 601 | 3 |
 ## Awards
 Max (Great Boss Battles): 97  (Ranked 348)  
 Sum: 97 (Ranked 424)  

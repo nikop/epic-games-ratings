@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2710,7 +2710,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 31711,
+  "EOS_Progressed": 31712,
   "EOS_Completed": 261,
   "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 8,
@@ -20450,6 +20450,11 @@
       "Time": "2023-09-30T04:09:12.8309087+00:00",
       "NumProgressed": 31711,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2023-09-30T05:09:30.8046295+00:00",
+      "NumProgressed": 31712,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 60,
@@ -20461,7 +20466,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 18392
+      "UsersEstimate": 18393
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -20469,7 +20474,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14587
+      "UsersEstimate": 14588
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -20477,7 +20482,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 18075
+      "UsersEstimate": 18076
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -20501,7 +20506,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6976
+      "UsersEstimate": 6977
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -20573,7 +20578,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15538
+      "UsersEstimate": 15539
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -20597,7 +20602,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9830
+      "UsersEstimate": 9831
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -20677,7 +20682,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12684
+      "UsersEstimate": 12685
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -20813,7 +20818,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6659
+      "UsersEstimate": 6660
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -20821,7 +20826,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9830
+      "UsersEstimate": 9831
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -20909,7 +20914,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9513
+      "UsersEstimate": 9514
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -20940,15 +20945,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 31711,
+      "Progressed": 31712,
       "Completed": 261
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-30T01:38:59.9840167+00:00",
-  "LastChanged_Achievements": "2023-09-30T04:09:12.8309082+00:00",
+  "LastChanged_Achievements": "2023-09-30T05:09:30.8046289+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:36.6938944+00:00",
-  "LastUpdate_Ratings": "2023-09-30T03:59:30.2912318+00:00",
-  "LastUpdate_Achievements": "2023-09-30T04:09:12.8310732+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:00:03.3320013+00:00",
+  "LastUpdate_Achievements": "2023-09-30T05:09:30.8047913+00:00"
 }

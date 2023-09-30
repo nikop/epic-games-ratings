@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13222,
+  "EOS_Progressed": 13224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7130,6 +7130,11 @@
       "Time": "2023-09-30T04:04:05.1245684+00:00",
       "NumProgressed": 13222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-30T05:04:12.580736+00:00",
+      "NumProgressed": 13224,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7182,7 +7187,7 @@
       "Name": "Doctor Approved",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "15",
@@ -7190,7 +7195,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "16",
@@ -7222,7 +7227,7 @@
       "Name": "Martian Music",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "2",
@@ -7278,7 +7283,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "26",
@@ -7292,9 +7297,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2645
     },
     {
       "ID": "28",
@@ -7350,7 +7355,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "7",
@@ -7381,7 +7386,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13222,
+      "Progressed": 13224,
       "Completed": 0
     }
   ],
@@ -7389,8 +7394,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-27T00:03:13.794898+00:00",
-  "LastChanged_Achievements": "2023-09-30T04:04:05.1245679+00:00",
+  "LastChanged_Achievements": "2023-09-30T05:04:12.5807355+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:01:28.7063622+00:00",
-  "LastUpdate_Ratings": "2023-09-30T03:58:01.4862581+00:00",
-  "LastUpdate_Achievements": "2023-09-30T04:04:05.1246349+00:00"
+  "LastUpdate_Ratings": "2023-09-30T04:58:13.9806621+00:00",
+  "LastUpdate_Achievements": "2023-09-30T05:04:12.5808058+00:00"
 }

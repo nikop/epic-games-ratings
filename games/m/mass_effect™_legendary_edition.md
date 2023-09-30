@@ -13,16 +13,16 @@
 | Honorarium of Corporate Service | 65.00% | ~309 |
 | Medal of Heroism | 63.00% | ~300 |
 | Medal of Exploration II | 58.00% | ~276 |
-| Council Legion of Merit | 56.00% | ~267 |
+| Council Legion of Merit | 57.00% | ~271 |
 | Turian Ally | 55.00% | ~262 |
+| Meritorious Service Medal | 54.00% | ~257 |
 | Charismatic | 54.00% | ~257 |
 | Medal of Honor | 53.00% | ~252 |
-| Meritorious Service Medal | 53.00% | ~252 |
 | Soldier | 52.00% | ~248 |
 | Medal of Exploration III | 50.00% | ~238 |
 | Asari Ally | 50.00% | ~238 |
 | Principled | 50.00% | ~238 |
-| Soldier Ally | 48.00% | ~228 |
+| Soldier Ally | 49.00% | ~233 |
 | Colonial Savior | 48.00% | ~228 |
 | Sentinel Ally | 46.00% | ~219 |
 | Krogan Ally | 45.00% | ~214 |
@@ -32,50 +32,50 @@
 | Head Hunter | 40.00% | ~190 |
 | Operative | 40.00% | ~190 |
 | Veteran | 39.00% | ~186 |
-| Scholar | 38.00% | ~181 |
+| Scholar | 39.00% | ~186 |
 | Power Full | 38.00% | ~181 |
 | Missing in Action | 37.00% | ~176 |
 | Very Elusive | 37.00% | ~176 |
 | Archivist | 36.00% | ~171 |
 | Completionist | 35.00% | ~167 |
+| The Convict | 35.00% | ~167 |
 | The Professor | 35.00% | ~167 |
 | Colony Defense | 34.00% | ~162 |
 | The Archangel | 34.00% | ~162 |
-| The Convict | 34.00% | ~162 |
 | The Krogan | 34.00% | ~162 |
 | Galactic Explorer | 34.00% | ~162 |
-| Broke, Blind, and Bedlam | 32.00% | ~152 |
-| Ghost Ship | 30.00% | ~143 |
+| Broke, Blind, and Bedlam | 33.00% | ~157 |
+| Ghost Ship | 31.00% | ~148 |
+| The Assassin | 30.00% | ~143 |
 | The Justicar | 30.00% | ~143 |
 | The Quarian | 30.00% | ~143 |
 | The Prodigal | 30.00% | ~143 |
 | Shopaholic | 30.00% | ~143 |
 | A Personal Touch | 29.00% | ~138 |
-| The Assassin | 29.00% | ~138 |
 | Battlemaster | 29.00% | ~138 |
 | The Cure | 29.00% | ~138 |
 | Big Game Hunter | 29.00% | ~138 |
 | Agent | 29.00% | ~138 |
 | Revenge! | 29.00% | ~138 |
+| Heart of Darkness | 29.00% | ~138 |
 | Driven | 29.00% | ~138 |
 | Focused | 28.00% | ~133 |
 | Catharsis | 28.00% | ~133 |
 | Fade Away | 28.00% | ~133 |
 | Ghost of the Father | 28.00% | ~133 |
-| Heart of Darkness | 28.00% | ~133 |
+| Digital Exorcist | 28.00% | ~133 |
 | Cat's in the Cradle | 27.00% | ~129 |
 | Doppelganger | 27.00% | ~129 |
 | Treason | 27.00% | ~129 |
-| Digital Exorcist | 27.00% | ~129 |
 | Bringer of War | 27.00% | ~129 |
-| First Aid Specialist | 25.00% | ~119 |
+| First Aid Specialist | 26.00% | ~124 |
 | Friend or Foe | 25.00% | ~119 |
 | Mobilizer | 25.00% | ~119 |
 | Untouchable | 24.00% | ~114 |
+| Eye of the Hurricane | 24.00% | ~114 |
 | Mission Accomplished | 24.00% | ~114 |
 | Suicide Mission | 24.00% | ~114 |
 | Against All Odds | 24.00% | ~114 |
-| Eye of the Hurricane | 23.00% | ~109 |
 | Giant Killer | 23.00% | ~109 |
 | A House Divided | 22.00% | ~105 |
 | Weapon Specialist | 22.00% | ~105 |
@@ -104,9 +104,9 @@
 | Warp Mastery | 13.00% | ~62 |
 | Master and Commander | 13.00% | ~62 |
 | Mail Slot | 12.00% | ~57 |
+| Executioner | 12.00% | ~57 |
 | Barrier Mastery | 11.00% | ~52 |
 | Combined Arms | 11.00% | ~52 |
-| Executioner | 11.00% | ~52 |
 | Patriot | 11.00% | ~52 |
 | Legend | 11.00% | ~52 |
 | Long Service Medal | 10.00% | ~48 |

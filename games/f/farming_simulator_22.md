@@ -7,16 +7,16 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~36,908 |
-| I read Shakespeare and stuff | 64.00% | ~31,494 |
-| Just a sprinkle | 63.00% | ~31,002 |
-| I'm stumped | 61.00% | ~30,018 |
-| Plant get enough | 60.00% | ~29,526 |
+| I read Shakespeare and stuff | 64.00% | ~31,495 |
+| Just a sprinkle | 63.00% | ~31,003 |
+| I'm stumped | 61.00% | ~30,019 |
+| Plant get enough | 60.00% | ~29,527 |
 | It's just the beginning | 59.00% | ~29,034 |
 | This is just my weekend vehicle | 58.00% | ~28,542 |
-| Hard work pays off | 53.00% | ~26,081 |
-| It's never too late to farm | 50.00% | ~24,605 |
-| All out of Land | 44.00% | ~21,652 |
-| Field Trip | 43.00% | ~21,160 |
+| Hard work pays off | 53.00% | ~26,082 |
+| It's never too late to farm | 50.00% | ~24,606 |
+| All out of Land | 44.00% | ~21,653 |
+| Field Trip | 43.00% | ~21,161 |
 | I like to switch it up | 40.00% | ~19,684 |
 | Help me to help you | 38.00% | ~18,700 |
 | Ultimutt Pawesomeness | 28.00% | ~13,779 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~197 |
 | Raisin the stakes | 0.30% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,210 (Ranked 99)  
+Progressed: 49,211 (Ranked 99)  
 Completed: 6 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 6 (0.01%) (Ranked 283)
 | 2023-09-27 | 49,142 | 6 |
 | 2023-09-28 | 49,174 | 6 |
 | 2023-09-29 | 49,205 | 6 |
-| 2023-09-30 | 49,210 | 6 |
+| 2023-09-30 | 49,211 | 6 |
 ## Awards
 Max (Great for Beginners): 5,071  (Ranked 70)  
 Sum: 40,706 (Ranked 33)  

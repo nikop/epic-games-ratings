@@ -12719,10 +12719,10 @@
       "Count": 7144
     }
   ],
-  "EOS_Progressed": 885534,
+  "EOS_Progressed": 885573,
   "EOS_Completed": 2485,
-  "EOS_NewPlayers": 6482,
-  "EOS_NewCompleters": 221,
+  "EOS_NewPlayers": 6487,
+  "EOS_NewCompleters": 220,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -31004,6 +31004,11 @@
       "Time": "2023-09-30T04:07:06.9190439+00:00",
       "NumProgressed": 885534,
       "NumCompleted": 2485
+    },
+    {
+      "Time": "2023-09-30T05:07:50.747267+00:00",
+      "NumProgressed": 885573,
+      "NumCompleted": 2485
     }
   ],
   "TotalAchievements": 57,
@@ -31021,9 +31026,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7970
+      "UsersEstimate": 8856
     },
     {
       "ID": "BushidoAndChill",
@@ -31039,7 +31044,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "Denied",
@@ -31047,7 +31052,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "FollowingTheRiver",
@@ -31159,7 +31164,7 @@
       "Name": "Breathtaking",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "NoMansLand",
@@ -31191,7 +31196,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "Specialist",
@@ -31199,7 +31204,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26566
+      "UsersEstimate": 26567
     },
     {
       "ID": "Temperance",
@@ -31207,7 +31212,7 @@
       "Name": "Temperance",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31215,7 +31220,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26566
+      "UsersEstimate": 26567
     },
     {
       "ID": "TheDevil",
@@ -31231,7 +31236,7 @@
       "Name": "The Fool",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7084
+      "UsersEstimate": 7085
     },
     {
       "ID": "TheHermit",
@@ -31239,7 +31244,7 @@
       "Name": "The Hermit",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "TheHightPriestess",
@@ -31279,7 +31284,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "TheWorld",
@@ -31311,7 +31316,7 @@
       "Name": "True Soldier",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "TrueWarrior",
@@ -31319,7 +31324,7 @@
       "Name": "True Warrior",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31359,7 +31364,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31415,7 +31420,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Kingofcups",
@@ -31470,21 +31475,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 885534,
+      "Progressed": 885573,
       "Completed": 2485
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 14157,
+      "Progressed": 14196,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-30T02:58:38.0916764+00:00",
-  "LastChanged_Achievements": "2023-09-30T04:07:06.9190433+00:00",
+  "LastChanged_Achievements": "2023-09-30T05:07:50.7472663+00:00",
   "LastUpdate_AppInfo": "2023-09-23T13:00:27.2810892+00:00",
-  "LastUpdate_Ratings": "2023-09-30T03:58:43.3522312+00:00",
-  "LastUpdate_Achievements": "2023-09-30T04:07:06.9192132+00:00"
+  "LastUpdate_Ratings": "2023-09-30T04:59:05.3765045+00:00",
+  "LastUpdate_Achievements": "2023-09-30T05:07:50.7474094+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 72.00% | ~330 |
-| Be water, my friend | 58.00% | ~266 |
-| Snake Eyes | 57.00% | ~262 |
-| Fireball | 46.00% | ~211 |
-| The King of Flat | 42.00% | ~193 |
-| Hit That Ball | 33.00% | ~151 |
-| Air Slash | 32.00% | ~147 |
-| Eat That Apple | 25.00% | ~115 |
-| Tornado Chaser | 14.00% | ~64 |
+| Dash Crash | 71.00% | ~329 |
+| Be water, my friend | 58.00% | ~269 |
+| Snake Eyes | 57.00% | ~264 |
+| Fireball | 46.00% | ~213 |
+| The King of Flat | 42.00% | ~194 |
+| Hit That Ball | 33.00% | ~153 |
+| Air Slash | 32.00% | ~148 |
+| Eat That Apple | 25.00% | ~116 |
+| Tornado Chaser | 14.00% | ~65 |
 | Bomberman | 10.00% | ~46 |
 | Bubble Party | 8.00% | ~37 |
 | The Colossus | 7.00% | ~32 |
 | Floor is Lava | 6.00% | ~28 |
 | Pim Pam Pum | 6.00% | ~28 |
-| Ambush | 4.00% | ~18 |
+| Ambush | 4.00% | ~19 |
 | Black Belt | 3.00% | ~14 |
 | Dash Crash - Hero Edition | 3.00% | ~14 |
 | Quite The Hero | 3.00% | ~14 |
@@ -34,8 +34,8 @@
 | Tornado Chaser - Hero Edition | 0.90% | ~4 |
 | Bomberman - Hero Edition | 0.90% | ~4 |
 | Oh, no | 0.90% | ~4 |
-| The Colossus - Hero Edition | 0.70% | ~3 |
-| Killing Spree | 0.70% | ~3 |
+| The Colossus - Hero Edition | 0.60% | ~3 |
+| Killing Spree | 0.60% | ~3 |
 | Rogue - Hero Edition | 0.40% | ~2 |
 | Pim Pam Pum - Hero Edition | 0.40% | ~2 |
 | Dear Diary | 0.20% | ~1 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459 (Ranked 275)  
+Progressed: 463 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 386 | 0 |
 | 2023-09-28 | 416 | 0 |
 | 2023-09-29 | 450 | 0 |
-| 2023-09-30 | 459 | 0 |
+| 2023-09-30 | 463 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

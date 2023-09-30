@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,7 +697,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38039,
+  "EOS_Progressed": 38041,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
@@ -17217,6 +17217,11 @@
       "Time": "2023-09-30T04:06:09.8742733+00:00",
       "NumProgressed": 38039,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-30T05:06:42.9044723+00:00",
+      "NumProgressed": 38041,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17292,7 +17297,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "ach_cursestone",
@@ -17316,7 +17321,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "ach_deathofermod",
@@ -17348,7 +17353,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13694
+      "UsersEstimate": 13695
     },
     {
       "ID": "ach_die10",
@@ -17386,9 +17391,9 @@
       "ID": "ach_eye",
       "SetID": "ammcm",
       "Name": "Roaring Rise",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1141
+      "UsersEstimate": 761
     },
     {
       "ID": "ach_hunterskeep",
@@ -17396,7 +17401,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "ach_invictus",
@@ -17436,7 +17441,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "ach_legacysalvager",
@@ -17452,7 +17457,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "ach_newstories",
@@ -17659,15 +17664,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38039,
+      "Progressed": 38041,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-30T04:06:09.8742724+00:00",
+  "LastChanged_Achievements": "2023-09-30T05:06:42.9044717+00:00",
   "LastUpdate_AppInfo": "2023-09-23T12:59:35.9799405+00:00",
-  "LastUpdate_Ratings": "2023-09-30T04:00:23.4923496+00:00",
-  "LastUpdate_Achievements": "2023-09-30T04:06:09.8744231+00:00"
+  "LastUpdate_Ratings": "2023-09-30T05:01:05.5673042+00:00",
+  "LastUpdate_Achievements": "2023-09-30T05:06:42.9046197+00:00"
 }
