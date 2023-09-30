@@ -6,23 +6,23 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,051 |
-| Say goodbye, creep! | 66.00% | ~28,744 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,052 |
+| Say goodbye, creep! | 66.00% | ~28,745 |
 | Blood splattered | 65.00% | ~28,309 |
-| Choo choo! | 62.00% | ~27,002 |
+| Choo choo! | 62.00% | ~27,003 |
 | Groovy | 61.00% | ~26,567 |
 | Cleanup on aisle 4! | 57.00% | ~24,825 |
 | Gold | 50.00% | ~21,776 |
-| The boat can leave now...tell the crew | 49.00% | ~21,340 |
-| Give me something to shoot! | 47.00% | ~20,469 |
-| Stand back boy! | 47.00% | ~20,469 |
-| Chain reaction | 45.00% | ~19,598 |
+| The boat can leave now...tell the crew | 49.00% | ~21,341 |
+| Stand back boy! | 47.00% | ~20,470 |
+| Give me something to shoot! | 46.00% | ~20,034 |
+| Chain reaction | 45.00% | ~19,599 |
 | Weird science | 44.00% | ~19,163 |
 | What did you say, Blain? | 42.00% | ~18,292 |
-| Look mummy! A shark! | 41.00% | ~17,856 |
-| In the dark dark woods... | 39.00% | ~16,985 |
+| Look mummy! A shark! | 41.00% | ~17,857 |
+| In the dark dark woods... | 39.00% | ~16,986 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,550 |
-| Double tap | 37.00% | ~16,114 |
+| Double tap | 37.00% | ~16,115 |
 | All of this has happened before… | 36.00% | ~15,679 |
 | Cranial blowout! | 36.00% | ~15,679 |
 | Zombie killin' machine | 36.00% | ~15,679 |
@@ -35,11 +35,11 @@ Number of Ratings: 743  (23.09.2022)
 | I never liked them anyway | 30.00% | ~13,066 |
 | Is it over? | 28.00% | ~12,195 |
 | Got your back | 27.00% | ~11,759 |
-| Gore soaked | 24.00% | ~10,452 |
+| Gore soaked | 24.00% | ~10,453 |
 | Shock therapy | 23.00% | ~10,017 |
 | Leave the limbs you've lost | 23.00% | ~10,017 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,275 |
-| Take them down screaming | 18.00% | ~7,839 |
+| Take them down screaming | 18.00% | ~7,840 |
 | Bad Blood | 17.00% | ~7,404 |
 | Weapons expert | 17.00% | ~7,404 |
 | The bigger they are... | 15.00% | ~6,533 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~436 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,552 (Ranked 101)  
+Progressed: 43,553 (Ranked 101)  
 Completed: 25 (0.06%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 25 (0.06%) (Ranked 255)
 | 2023-09-27 | 43,532 | 25 |
 | 2023-09-28 | 43,536 | 25 |
 | 2023-09-29 | 43,547 | 25 |
-| 2023-09-30 | 43,552 | 25 |
+| 2023-09-30 | 43,553 | 25 |
 ## Awards
 Max (Great Boss Battles): 828  (Ranked 156)  
 Sum: 2,504 (Ranked 179)  

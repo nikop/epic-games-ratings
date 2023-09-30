@@ -8,7 +8,7 @@ Rating: 3.54 (Ranked 1,007)
 | Blood Will Have Blood | 1.00% | ~17 |
 | Ne Plus Ultra | 1.00% | ~17 |
 | I Like My Stakes Rare! | 1.00% | ~17 |
-| Grounded | 0.90% | ~16 |
+| Grounded | 1.00% | ~17 |
 | Fly Fisher | 0.90% | ~16 |
 | Catch and Release | 0.90% | ~16 |
 | Enter of Your Own Free Will | 0.80% | ~14 |

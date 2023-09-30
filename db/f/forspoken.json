@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40794,
+  "EOS_Progressed": 40800,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9282,6 +9282,11 @@
       "Time": "2023-09-30T22:05:29.3522204+00:00",
       "NumProgressed": 40794,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-30T23:04:33.4912919+00:00",
+      "NumProgressed": 40800,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9341,7 +9346,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9579,9 +9584,9 @@
       "ID": "MONUMENT_FIRST",
       "SetID": "6d0g7k8",
       "Name": "Pilgrimage: Initiate",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2856
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9629,7 +9634,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3671
+      "UsersEstimate": 3672
     },
     {
       "ID": "SPRING_ALL",
@@ -9716,22 +9721,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40794,
+      "Progressed": 40800,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5631,
-      "Completed": 5631
+      "Progressed": 5637,
+      "Completed": 5637
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:05:29.3522197+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:04:33.4912914+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-09-30T22:00:04.0623797+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:05:29.3523991+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:59:03.2037016+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:04:33.4913902+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -2960,9 +2960,9 @@
       "ID": "ACHV_41",
       "SetID": "8p5mlmc",
       "Name": "Suited and Booted",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 786
+      "UsersEstimate": 807
     },
     {
       "ID": "ACHV_42",
@@ -3105,8 +3105,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:04:46.4927907+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:04:03.8287649+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.8847367+00:00",
-  "LastUpdate_Ratings": "2023-09-30T22:02:35.2537442+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:04:46.4928617+00:00"
+  "LastUpdate_Ratings": "2023-09-30T23:00:41.100865+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:04:03.8288248+00:00"
 }

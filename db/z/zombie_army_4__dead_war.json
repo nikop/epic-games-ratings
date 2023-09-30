@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2109,9 +2109,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43552,
+  "EOS_Progressed": 43553,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7254,6 +7254,11 @@
       "Time": "2023-09-30T18:03:55.9565568+00:00",
       "NumProgressed": 43552,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-30T23:03:54.1115205+00:00",
+      "NumProgressed": 43553,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7337,7 +7342,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17856
+      "UsersEstimate": 17857
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -7369,7 +7374,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16985
+      "UsersEstimate": 16986
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -7457,7 +7462,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27002
+      "UsersEstimate": 27003
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7513,7 +7518,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21340
+      "UsersEstimate": 21341
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -7553,7 +7558,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -7593,7 +7598,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30051
+      "UsersEstimate": 30052
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -7615,9 +7620,9 @@
       "ID": "SE_KILL_SNIPER_MID_AIR",
       "SetID": "49kdhbg",
       "Name": "Give me something to shoot!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 20469
+      "UsersEstimate": 20034
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -7633,7 +7638,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20469
+      "UsersEstimate": 20470
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -7657,7 +7662,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19598
+      "UsersEstimate": 19599
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -7665,7 +7670,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28744
+      "UsersEstimate": 28745
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -7729,7 +7734,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10452
+      "UsersEstimate": 10453
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -7777,7 +7782,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7839
+      "UsersEstimate": 7840
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -7792,15 +7797,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43552,
+      "Progressed": 43553,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-30T21:57:24.8495407+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:04:32.1854306+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:03:54.11152+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:14.6672036+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:57:24.8495414+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:04:32.1855327+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:57:20.4441021+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:03:54.1116191+00:00"
 }

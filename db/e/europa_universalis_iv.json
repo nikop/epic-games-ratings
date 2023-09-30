@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10152,9 +10152,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 418918,
+  "EOS_Progressed": 418938,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6395,
+  "EOS_NewPlayers": 6380,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28627,6 +28627,11 @@
       "Time": "2023-09-30T22:04:39.7767955+00:00",
       "NumProgressed": 418918,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T23:03:59.6229432+00:00",
+      "NumProgressed": 418938,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -29030,7 +29035,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -29078,7 +29083,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8378
+      "UsersEstimate": 8379
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -29294,7 +29299,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -29470,7 +29475,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8378
+      "UsersEstimate": 8379
     },
     {
       "ID": "achievement_forever_golden",
@@ -29662,7 +29667,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8378
+      "UsersEstimate": 8379
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -30590,7 +30595,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -30638,7 +30643,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8378
+      "UsersEstimate": 8379
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -31190,7 +31195,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -31302,7 +31307,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16757
+      "UsersEstimate": 16758
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -31469,21 +31474,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 418918,
+      "Progressed": 418938,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 418918,
+      "Progressed": 418938,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-30T20:59:13.1640748+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:04:39.7767949+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:03:59.6229427+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.8200268+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:59:12.8554412+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:04:39.778342+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:58:30.1447423+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:03:59.6242537+00:00"
 }

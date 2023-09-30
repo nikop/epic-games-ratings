@@ -3,9 +3,9 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 396,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -16,10 +16,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 82,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -365,6 +365,11 @@
       "Time": "2023-09-30T19:05:14.0367767+00:00",
       "NumProgressed": 82,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T23:05:28.2296095+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -607,9 +612,9 @@
       "ID": "achievement_36",
       "SetID": "2cpn27e",
       "Name": "Bewitched by Bathing",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_37",
@@ -761,12 +766,12 @@
       "ID": "2cpn27e",
       "IsBase": true,
       "Progressed": 82,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:06:48.9133089+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:05:28.2296088+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:58:46.0990488+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:06:48.913355+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:58:13.3734005+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:05:28.2296566+00:00"
 }

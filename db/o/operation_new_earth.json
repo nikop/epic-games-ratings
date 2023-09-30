@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1502,
+  "EOS_Progressed": 1504,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5441,6 +5441,11 @@
       "Time": "2023-09-30T21:04:59.0579196+00:00",
       "NumProgressed": 1502,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-30T23:04:05.9008335+00:00",
+      "NumProgressed": 1504,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5556,7 +5561,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5564,7 +5569,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5755,14 +5760,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1502,
+      "Progressed": 1504,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:04:49.5531047+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:04:05.9008331+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:57:30.0682482+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:04:49.553168+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:57:24.2523182+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:04:05.9008943+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3297,
+  "EOS_Progressed": 3298,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -7326,6 +7326,11 @@
       "Time": "2023-09-30T22:04:15.2352201+00:00",
       "NumProgressed": 3297,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-09-30T23:03:42.1204653+00:00",
+      "NumProgressed": 3298,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 16,
@@ -7433,7 +7438,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ach_magic_wand",
@@ -7455,23 +7460,23 @@
       "ID": "ach_tornado",
       "SetID": "3h4khpo",
       "Name": "Aeolus",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 890
+      "UsersEstimate": 923
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3297,
+      "Progressed": 3298,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:04:15.2352194+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:03:42.1204648+00:00",
   "LastUpdate_AppInfo": "2023-09-29T15:57:16.8209985+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:57:27.6774274+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:04:15.2353105+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:57:23.0385908+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:03:42.1205192+00:00"
 }

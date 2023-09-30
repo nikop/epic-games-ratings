@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3665,
+  "EOS_Progressed": 3666,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4004,6 +4004,11 @@
       "Time": "2023-09-30T08:05:08.8356888+00:00",
       "NumProgressed": 3665,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-30T23:05:27.9149178+00:00",
+      "NumProgressed": 3666,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4015,7 +4020,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "bonus2",
@@ -4063,7 +4068,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "campaign10",
@@ -4103,7 +4108,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "campaign15",
@@ -4151,7 +4156,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "campaign20",
@@ -4183,7 +4188,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "campaign6",
@@ -4215,7 +4220,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "scenario1",
@@ -4278,7 +4283,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3665,
+      "Progressed": 3666,
       "Completed": 11
     }
   ],
@@ -4286,8 +4291,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:06:48.4319522+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:05:27.9149173+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.3600543+00:00",
-  "LastUpdate_Ratings": "2023-09-30T22:02:33.7784402+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:06:48.4320035+00:00"
+  "LastUpdate_Ratings": "2023-09-30T23:00:39.9719199+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:05:27.9149683+00:00"
 }

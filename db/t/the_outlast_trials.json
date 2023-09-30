@@ -2,7 +2,7 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 645,
@@ -2164,10 +2164,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 896,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2023-09-30T22:58:02.9088327+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 897,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 896,
+  "NumberOfAwards": 897,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2229,7 +2235,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 96
+      "Count": 97
     }
   ],
   "EOS_Progressed": 0,
@@ -2244,8 +2250,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-09-30T19:57:37.4916119+00:00",
+  "LastChanged": "2023-09-30T22:58:02.9088325+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:02.4501568+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:58:29.9915071+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:04:51.174825+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:58:02.9088333+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:04:06.9646328+00:00"
 }

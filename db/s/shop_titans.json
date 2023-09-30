@@ -6248,10 +6248,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27310,
       "NumberOfAwardsMax": 4763
+    },
+    {
+      "Time": "2023-09-30T22:59:01.2642224+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27314,
+      "NumberOfAwardsMax": 4763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27310,
+  "NumberOfAwards": 27314,
   "NumberOfAwardsMax": 4763,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6283,7 +6289,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4004
+      "Count": 4008
     },
     {
       "Text": "This game is Relaxing",
@@ -6304,7 +6310,7 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136917,
+  "EOS_Progressed": 136919,
   "EOS_Completed": 158,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 5,
@@ -23064,6 +23070,11 @@
       "Time": "2023-09-30T22:08:58.2819775+00:00",
       "NumProgressed": 136917,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-09-30T23:08:08.9455442+00:00",
+      "NumProgressed": 136919,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -23313,9 +23324,9 @@
       "ID": "commonres02",
       "SetID": "anfd17p",
       "Name": "Demand for Supplies",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1369
     },
     {
       "ID": "commonres03",
@@ -23457,9 +23468,9 @@
       "ID": "expansion02",
       "SetID": "anfd17p",
       "Name": "Expansion in Session",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 822
     },
     {
       "ID": "expansion03",
@@ -23970,15 +23981,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136917,
+      "Progressed": 136919,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-30T13:02:00.2030183+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:08:58.281977+00:00",
+  "LastChanged": "2023-09-30T22:59:01.2642222+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:08:08.9455438+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-09-30T22:00:00.8591777+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:08:58.2822791+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:59:01.2642228+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:08:08.9457685+00:00"
 }

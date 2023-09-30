@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -92,11 +92,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.07,
+  "EOS_Completed_Percentage": 3.06,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1942,6 +1942,11 @@
       "Time": "2023-09-30T20:06:19.3092051+00:00",
       "NumProgressed": 685,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-09-30T23:06:31.5291838+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1952,9 +1957,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 206
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1978,7 +1983,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_05_FinishAct2",
@@ -2018,7 +2023,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "_10_Completion_30",
@@ -2026,7 +2031,7 @@
       "Name": "Buccaneer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "_11_Completion_40",
@@ -2122,7 +2127,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2130,7 +2135,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2161,7 +2166,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 21
     }
   ],
@@ -2169,8 +2174,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:08:19.7297135+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:06:31.5291833+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-09-30T22:00:17.4989452+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:08:19.7297718+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:59:12.2716182+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:06:31.5292184+00:00"
 }

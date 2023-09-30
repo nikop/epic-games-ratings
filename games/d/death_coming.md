@@ -1,7 +1,7 @@
 # Death Coming
 [Store](https://store.epicgames.com/en-US/p/death-coming)  
 [View Rawdata](../../db/d/death_coming.json)  
-Rating: 4.45 (Ranked 644)  
+Rating: 4.44 (Ranked 658)  
 Number of Ratings: 91  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -83,3 +83,4 @@ Number of Ratings: 91  (23.09.2022)
 | 2023-09-02 | 4.45 | - | 0 | 0 |
 | 2023-09-08 | 4.44 | - | 0 | 0 |
 | 2023-09-25 | 4.45 | - | 0 | 0 |
+| 2023-09-30 | 4.44 | - | 0 | 0 |

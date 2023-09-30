@@ -7,11 +7,11 @@ Rating: 4.45 (Ranked 644)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,696 |
 | Confirming Suspicions | 41.00% | ~1,512 |
-| The Kraken Wakes | 36.00% | ~1,327 |
+| The Kraken Wakes | 36.00% | ~1,328 |
 | It's Starting to Crack | 33.00% | ~1,217 |
 | Change the Channel | 30.00% | ~1,106 |
-| Lord of War | 29.00% | ~1,069 |
-| Taking it back | 28.00% | ~1,032 |
+| Lord of War | 29.00% | ~1,070 |
+| Taking it back | 28.00% | ~1,033 |
 | Resourceful | 26.00% | ~959 |
 | Target America | 26.00% | ~959 |
 | The Kraken Sleeps | 24.00% | ~885 |
@@ -42,10 +42,10 @@ Rating: 4.45 (Ranked 644)
 | It'll Buff Right Out | 5.00% | ~184 |
 | Don't hold your breath | 5.00% | ~184 |
 | Operation Foxley | 5.00% | ~182 |
-| Strategist | 4.00% | ~147 |
-| Tinkerer | 4.00% | ~147 |
-| Locomotion Commotion | 4.00% | ~147 |
-| Road Rage | 4.00% | ~147 |
+| Strategist | 4.00% | ~148 |
+| Tinkerer | 4.00% | ~148 |
+| Locomotion Commotion | 4.00% | ~148 |
+| Road Rage | 4.00% | ~148 |
 | Last Resort | 4.00% | ~146 |
 | Siegebreaker | 4.00% | ~146 |
 | Ghost of Falaise | 4.00% | ~146 |
@@ -70,14 +70,14 @@ Rating: 4.45 (Ranked 644)
 | Alpha | 1.00% | ~36 |
 | Das Familienjuwel | 1.00% | ~36 |
 | Master of Secondaries | 0.90% | ~33 |
-| Master of Rifles | 0.80% | ~29 |
+| Master of Rifles | 0.80% | ~30 |
 | Operation Overlord | 0.80% | ~29 |
 | Master of Pistols | 0.70% | ~26 |
 | Master-at-arms | 0.70% | ~26 |
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,687 (Ranked 175)  
+Progressed: 3,688 (Ranked 175)  
 Completed: 11 (0.30%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 11 (0.30%) (Ranked 196)
 | 2023-09-27 | 3,675 | 11 |
 | 2023-09-28 | 3,679 | 11 |
 | 2023-09-29 | 3,683 | 11 |
-| 2023-09-30 | 3,687 | 11 |
+| 2023-09-30 | 3,688 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

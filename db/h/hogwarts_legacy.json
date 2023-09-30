@@ -8242,10 +8242,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44688,
       "NumberOfAwardsMax": 23160
+    },
+    {
+      "Time": "2023-09-30T22:58:21.737839+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44692,
+      "NumberOfAwardsMax": 23160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44688,
+  "NumberOfAwards": 44692,
   "NumberOfAwardsMax": 23160,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8265,7 +8271,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 896
+      "Count": 900
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8322,9 +8328,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297620,
+  "EOS_Progressed": 297622,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25962,6 +25968,11 @@
       "Time": "2023-09-30T22:04:36.11263+00:00",
       "NumProgressed": 297620,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-30T23:03:56.5637219+00:00",
+      "NumProgressed": 297622,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26037,7 +26048,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20833
+      "UsersEstimate": 20834
     },
     {
       "ID": "PFA_18",
@@ -26093,7 +26104,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35714
+      "UsersEstimate": 35715
     },
     {
       "ID": "PFA_24",
@@ -26317,7 +26328,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35714
+      "UsersEstimate": 35715
     },
     {
       "ID": "PFA_9",
@@ -26332,16 +26343,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297620,
+      "Progressed": 297622,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-30T14:01:11.7464854+00:00",
-  "LastChanged_Achievements": "2023-09-30T22:04:36.1126292+00:00",
+  "LastChanged": "2023-09-30T22:58:21.7378388+00:00",
+  "LastChanged_Achievements": "2023-09-30T23:03:56.5637212+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-09-30T21:58:58.7457312+00:00",
-  "LastUpdate_Achievements": "2023-09-30T22:04:36.1129044+00:00"
+  "LastUpdate_Ratings": "2023-09-30T22:58:21.7378395+00:00",
+  "LastUpdate_Achievements": "2023-09-30T23:03:56.5638481+00:00"
 }
