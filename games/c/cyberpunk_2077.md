@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,581 |
-| Rough Landing | 3.00% | ~26,581 |
-| Gunslinger | 2.00% | ~17,720 |
-| Master Crafter | 2.00% | ~17,720 |
-| Mean Streets | 2.00% | ~17,720 |
-| The High Priestess | 2.00% | ~17,720 |
-| The Jungle | 2.00% | ~17,720 |
-| Two Heads, One Bullet | 2.00% | ~17,720 |
-| V for Vendetta | 2.00% | ~17,720 |
-| To Bad Decisions! | 1.00% | ~8,860 |
-| Full Body Conversion | 1.00% | ~8,860 |
-| Right Back At Ya | 1.00% | ~8,860 |
-| Breathtaking | 1.00% | ~8,860 |
-| Stanislavski's Method | 1.00% | ~8,860 |
-| Temperance | 1.00% | ~8,860 |
-| The Hermit | 1.00% | ~8,860 |
-| The Lovers | 1.00% | ~8,860 |
-| The Wheel of Fortune | 1.00% | ~8,860 |
-| True Soldier | 1.00% | ~8,860 |
-| True Warrior | 1.00% | ~8,860 |
-| Legend of The Afterlife | 1.00% | ~8,860 |
-| The Fool | 0.90% | ~7,974 |
-| The Quick and the Dead | 0.80% | ~7,088 |
-| The Devil | 0.80% | ~7,088 |
-| The World | 0.80% | ~7,088 |
-| It's Elementary | 0.80% | ~7,088 |
-| Gun Fu | 0.70% | ~6,202 |
-| Christmas Tree Attack | 0.70% | ~6,202 |
-| Judy vs Night City | 0.70% | ~6,202 |
-| City Lights | 0.60% | ~5,316 |
-| Greetings from Pacifica! | 0.60% | ~5,316 |
+| Ten out of Ten | 3.00% | ~26,583 |
+| Rough Landing | 3.00% | ~26,583 |
+| Right Back At Ya | 2.00% | ~17,722 |
+| Gunslinger | 2.00% | ~17,722 |
+| Master Crafter | 2.00% | ~17,722 |
+| Mean Streets | 2.00% | ~17,722 |
+| The High Priestess | 2.00% | ~17,722 |
+| The Jungle | 2.00% | ~17,722 |
+| Two Heads, One Bullet | 2.00% | ~17,722 |
+| V for Vendetta | 2.00% | ~17,722 |
+| To Bad Decisions! | 1.00% | ~8,861 |
+| Full Body Conversion | 1.00% | ~8,861 |
+| Breathtaking | 1.00% | ~8,861 |
+| Stanislavski's Method | 1.00% | ~8,861 |
+| Temperance | 1.00% | ~8,861 |
+| The Hermit | 1.00% | ~8,861 |
+| The Lovers | 1.00% | ~8,861 |
+| The Wheel of Fortune | 1.00% | ~8,861 |
+| True Soldier | 1.00% | ~8,861 |
+| True Warrior | 1.00% | ~8,861 |
+| Legend of The Afterlife | 1.00% | ~8,861 |
+| The Fool | 0.90% | ~7,975 |
+| The Quick and the Dead | 0.80% | ~7,089 |
+| The Devil | 0.80% | ~7,089 |
+| The World | 0.80% | ~7,089 |
+| It's Elementary | 0.80% | ~7,089 |
+| Gun Fu | 0.70% | ~6,203 |
+| Christmas Tree Attack | 0.70% | ~6,203 |
+| Judy vs Night City | 0.70% | ~6,203 |
+| City Lights | 0.60% | ~5,317 |
+| Greetings from Pacifica! | 0.60% | ~5,317 |
 | Life of the Road | 0.40% | ~3,544 |
 | Spin Doctor | 0.40% | ~59 |
 | Bushido and Chill | 0.30% | ~2,658 |
@@ -49,10 +49,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Frequent Flyer | 0.20% | ~1,772 |
 | Little Tokyo | 0.20% | ~1,772 |
 | The Star | 0.20% | ~1,772 |
+| The APB is Not Enough | 0.20% | ~29 |
 | Relic Ruler | 0.20% | ~29 |
 | The Wasteland | 0.10% | ~886 |
 | Daemon In The Shell | 0.10% | ~886 |
-| The APB is Not Enough | 0.10% | ~15 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,023 (Ranked 15)  
-Completed: 2,494 (0.28%) (Ranked 202)  
+Progressed: 886,086 (Ranked 15)  
+Completed: 2,495 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2,494 (0.28%) (Ranked 202)
 | 2023-09-27 | 883,484 | 2,443 |
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
-| 2023-09-30 | 886,023 | 2,494 |
+| 2023-09-30 | 886,086 | 2,495 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
 Sum: 243,483 (Ranked 13)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40691,
+  "EOS_Progressed": 40711,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9247,6 +9247,11 @@
       "Time": "2023-09-30T15:04:50.8908997+00:00",
       "NumProgressed": 40691,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-30T16:04:13.9102172+00:00",
+      "NumProgressed": 40711,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9298,7 +9303,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -9306,7 +9311,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4071
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9410,7 +9415,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2850
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9418,7 +9423,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9450,7 +9455,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2443
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -9474,7 +9479,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9498,7 +9503,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2850
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9546,7 +9551,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2850
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9570,7 +9575,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2850
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9594,7 +9599,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3664
     },
     {
       "ID": "SPRING_ALL",
@@ -9610,7 +9615,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2443
     },
     {
       "ID": "STAYING_AIR",
@@ -9681,22 +9686,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40691,
+      "Progressed": 40711,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5528,
-      "Completed": 5528
+      "Progressed": 5548,
+      "Completed": 5548
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:04:50.8908992+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:04:13.9102168+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:59:27.7571013+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:04:50.8909992+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:58:43.1775749+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:04:13.9103308+00:00"
 }

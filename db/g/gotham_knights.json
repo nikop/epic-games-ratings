@@ -3,7 +3,7 @@
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 898,
-  "Ranking_Popularity": 97,
+  "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 221,
@@ -3222,18 +3222,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4625,
       "NumberOfAwardsMax": 2768
+    },
+    {
+      "Time": "2023-09-30T15:59:14.9340005+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4628,
+      "NumberOfAwardsMax": 2771
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4625,
-  "NumberOfAwardsMax": 2768,
+  "NumberOfAwards": 4628,
+  "NumberOfAwardsMax": 2771,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2768
+      "Count": 2771
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3290,9 +3296,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72976,
+  "EOS_Progressed": 72977,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17135,6 +17141,11 @@
       "Time": "2023-09-30T14:06:34.5507799+00:00",
       "NumProgressed": 72976,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-09-30T16:03:24.6405292+00:00",
+      "NumProgressed": 72977,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 61,
@@ -17194,7 +17205,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16784
+      "UsersEstimate": 16785
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17234,7 +17245,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10946
+      "UsersEstimate": 10947
     },
     {
       "ID": "CHALLENGES_1",
@@ -17386,7 +17397,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13865
+      "UsersEstimate": 13866
     },
     {
       "ID": "FREEZE_3",
@@ -17522,7 +17533,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20433
+      "UsersEstimate": 20434
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17554,7 +17565,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16784
+      "UsersEstimate": 16785
     },
     {
       "ID": "MYSTERY_04",
@@ -17578,7 +17589,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10946
+      "UsersEstimate": 10947
     },
     {
       "ID": "MYSTERY_07",
@@ -17633,22 +17644,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72976,
+      "Progressed": 72977,
       "Completed": 119
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43256,
+      "Progressed": 43257,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-30T14:02:55.5676444+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:03:50.6997949+00:00",
+  "LastChanged": "2023-09-30T15:59:14.9340004+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:03:24.6405288+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:00:08.6850138+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:03:50.6999396+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:59:14.934001+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:03:24.6406726+00:00"
 }

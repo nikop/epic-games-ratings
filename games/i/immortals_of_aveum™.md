@@ -11,7 +11,7 @@ Rating: 4.00 (Ranked 959)
 | Enlisted | 83.00% | ~34 |
 | No More Names | 73.00% | ~30 |
 | Initiate | 66.00% | ~27 |
-| Thrada-Kul | 59.00% | ~24 |
+| Thrada-Kul | 61.00% | ~25 |
 | Gravity-Challenged Rocks | 49.00% | ~20 |
 | Soldier | 44.00% | ~18 |
 | All the Major Food Groups | 39.00% | ~16 |

@@ -42,6 +42,7 @@
 | Unseen Patterns | 3.00% | ~5 |
 | Insectoid Propagator | 3.00% | ~5 |
 | Making Contact | 2.00% | ~3 |
+| Talent Nurtured | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
 | Legacy of a Mercenary | 2.00% | ~3 |
 | Moving At Odd Angles | 2.00% | ~3 |
@@ -53,7 +54,6 @@
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
-| Talent Nurtured | 1.00% | ~2 |
 | Embellished | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Ruiner | 1.00% | ~2 |

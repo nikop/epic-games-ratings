@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,142 |
-| This is only the beginning | 19.00% | ~42,488 |
+| No aid from the Omnissiah | 26.00% | ~58,143 |
+| This is only the beginning | 19.00% | ~42,489 |
 | Knowledge is power | 12.00% | ~26,835 |
 | Power Ranger | 9.00% | ~20,126 |
 | Galvanic Rifle | 9.00% | ~20,126 |
 | Taser Goad | 9.00% | ~20,126 |
 | Radium Ready | 9.00% | ~20,126 |
 | Half a cog | 9.00% | ~20,126 |
-| Watch them crumble | 6.00% | ~13,417 |
+| Watch them crumble | 6.00% | ~13,418 |
 | Competent Cohort | 4.00% | ~8,945 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,945 |
 | One with the Machine | 4.00% | ~8,945 |
 | Legio Cybernetica | 3.00% | ~6,709 |
 | Fleshy Disposal | 3.00% | ~6,709 |
-| Battle Servitor | 2.00% | ~4,472 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,472 |
-| Impatient destruction | 2.00% | ~4,472 |
-| Vivisected Vizier | 2.00% | ~4,472 |
-| Architect Abortion | 2.00% | ~4,472 |
+| Battle Servitor | 2.00% | ~4,473 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,473 |
+| Impatient destruction | 2.00% | ~4,473 |
+| Vivisected Vizier | 2.00% | ~4,473 |
+| Architect Abortion | 2.00% | ~4,473 |
 | Cohortus Maximus | 0.80% | ~1,789 |
-| Mother of Xenarites | 0.40% | ~894 |
+| Mother of Xenarites | 0.40% | ~895 |
 | False God | 0.30% | ~671 |
 | Hard | 0.20% | ~447 |
 | Sensory overload | 0.20% | ~447 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 675)
 | Perma-live | 0.10% | ~224 |
 | Purge the Heretek | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,623 (Ranked 59)  
+Progressed: 223,626 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 5 (0.00%) (Ranked 300)
 | 2023-09-27 | 223,430 | 5 |
 | 2023-09-28 | 223,493 | 5 |
 | 2023-09-29 | 223,563 | 5 |
-| 2023-09-30 | 223,623 | 5 |
+| 2023-09-30 | 223,626 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 246)  
 Sum: 2,153 (Ranked 197)  

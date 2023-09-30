@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 233,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.44,
   "EosHistory": [
@@ -1132,17 +1132,17 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "META_HALF_LINK",
@@ -1315,8 +1315,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:09:29.7128314+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:08:25.8030196+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:59:59.1020434+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:09:29.7128578+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:59:07.5744343+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:08:25.8030456+00:00"
 }

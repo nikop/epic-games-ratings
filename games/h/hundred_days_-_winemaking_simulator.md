@@ -6,30 +6,30 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 37.00% | ~2,113 |
-| It's a good start | 10.00% | ~571 |
-| Bonjour! | 7.00% | ~400 |
-| The Assistant | 6.00% | ~343 |
-| The Blue Marl | 6.00% | ~343 |
-| Quack | 6.00% | ~343 |
+| Bye Bye | 37.00% | ~2,120 |
+| It's a good start | 10.00% | ~573 |
+| Bonjour! | 7.00% | ~401 |
+| The Assistant | 6.00% | ~344 |
+| The Blue Marl | 6.00% | ~344 |
+| Quack | 6.00% | ~344 |
 | Ostinata | 5.00% | ~286 |
-| A long journey | 4.00% | ~228 |
-| Better than nothing? | 4.00% | ~228 |
-| Big Money | 3.00% | ~171 |
-| Keep the doctor away | 3.00% | ~171 |
-| Surprise of Langhe | 3.00% | ~171 |
-| Famous | 3.00% | ~171 |
-| What is that? A castle? | 2.00% | ~114 |
-| A lot of space | 2.00% | ~114 |
-| A big garage | 2.00% | ~114 |
-| Millionaire | 2.00% | ~114 |
-| Exotic | 2.00% | ~114 |
-| Welcome to the club | 2.00% | ~114 |
-| Very Important Winemaker | 2.00% | ~114 |
+| A long journey | 4.00% | ~229 |
+| Better than nothing? | 4.00% | ~229 |
+| Big Money | 3.00% | ~172 |
+| Keep the doctor away | 3.00% | ~172 |
+| Surprise of Langhe | 3.00% | ~172 |
+| Famous | 3.00% | ~172 |
+| What is that? A castle? | 2.00% | ~115 |
+| A lot of space | 2.00% | ~115 |
+| A big garage | 2.00% | ~115 |
+| Millionaire | 2.00% | ~115 |
+| Exotic | 2.00% | ~115 |
+| Welcome to the club | 2.00% | ~115 |
+| Very Important Winemaker | 2.00% | ~115 |
 | Pastry Chef | 1.00% | ~57 |
 | King of Langhe | 1.00% | ~57 |
 | Gem of Monferrato | 1.00% | ~57 |
-| Treasure of Roero | 0.60% | ~34 |
+| Treasure of Roero | 0.70% | ~40 |
 | Knight of Langhe | 0.60% | ~34 |
 | King of red wines | 0.30% | ~17 |
 | King of white wines | 0.30% | ~17 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~11 |
 | Master Winemaker | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,712 (Ranked 162)  
+Progressed: 5,730 (Ranked 162)  
 Completed: 7 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 7 (0.12%) (Ranked 229)
 | 2023-09-27 | 5,264 | 7 |
 | 2023-09-28 | 5,418 | 7 |
 | 2023-09-29 | 5,597 | 7 |
-| 2023-09-30 | 5,712 | 7 |
+| 2023-09-30 | 5,730 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 275)  
 Sum: 1,590 (Ranked 218)  

@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 888)
 | If the SHU Fits... | 3.00% | ~479 |
 | Desperate Times | 3.00% | ~479 |
 | It's Time | 3.00% | ~117 |
-| In Striking Distance | 2.00% | ~319 |
-| The Commonality | 2.00% | ~319 |
+| In Striking Distance | 2.00% | ~320 |
+| The Commonality | 2.00% | ~320 |
 | One Last Job | 2.00% | ~78 |
 | This Isn't About Escape | 1.00% | ~39 |
 | Information Overload | 0.70% | ~27 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 888)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,974 (Ranked 131)  
+Progressed: 15,975 (Ranked 131)  
 Completed: 73 (0.46%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 73 (0.46%) (Ranked 168)
 | 2023-09-27 | 15,968 | 73 |
 | 2023-09-28 | 15,970 | 73 |
 | 2023-09-29 | 15,971 | 73 |
-| 2023-09-30 | 15,974 | 73 |
+| 2023-09-30 | 15,975 | 73 |
 ## Awards
 Max (Amazing Storytelling): 74  (Ranked 378)  
 Sum: 431 (Ranked 319)  

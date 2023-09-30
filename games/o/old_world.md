@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 5.00% | ~711 |
 | Intrepid | 5.00% | ~711 |
 | Strong | 5.00% | ~711 |
+| Hanging Gardens | 5.00% | ~711 |
 | The Clergy | 5.00% | ~711 |
 | Architect | 4.00% | ~569 |
 | Enlightened | 4.00% | ~569 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 4.00% | ~569 |
 | Pioneer | 4.00% | ~569 |
 | Developing Cities | 4.00% | ~569 |
-| Hanging Gardens | 4.00% | ~569 |
 | Oracle | 4.00% | ~569 |
 | Judaism | 4.00% | ~569 |
 | Greek Paganism | 4.00% | ~569 |
@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 3.00% | ~427 |
 | Able Difficulty | 3.00% | ~427 |
 | Furious Family | 3.00% | ~427 |
+| Apadana | 3.00% | ~427 |
 | Great Ziggurat | 3.00% | ~427 |
 | Ishtar Gate | 3.00% | ~427 |
 | Lighthouse | 3.00% | ~427 |
@@ -55,32 +56,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 3.00% | ~427 |
 | Zoroastrianism | 3.00% | ~427 |
 | The Great Mage | 3.00% | ~427 |
-| Regicide | 2.00% | ~284 |
-| Hanging Gardens in Babylon | 2.00% | ~284 |
-| Beloved | 2.00% | ~284 |
-| Drillmaster | 2.00% | ~284 |
-| Intercessor | 2.00% | ~284 |
-| Mighty | 2.00% | ~284 |
-| Valiant | 2.00% | ~284 |
-| Victorious | 2.00% | ~284 |
-| Legendary Cities | 2.00% | ~284 |
-| Just Difficulty | 2.00% | ~284 |
-| Artisans | 2.00% | ~284 |
-| Champions | 2.00% | ~284 |
-| Sages | 2.00% | ~284 |
-| Acropolis | 2.00% | ~284 |
-| Apadana | 2.00% | ~284 |
-| Colossus | 2.00% | ~284 |
-| Mausoleum | 2.00% | ~284 |
-| Musaeum | 2.00% | ~284 |
-| Learn to Play 2 | 2.00% | ~284 |
-| Greece | 2.00% | ~284 |
-| Persian Paganism | 2.00% | ~284 |
-| Building Wonders | 2.00% | ~284 |
-| Legalism | 2.00% | ~284 |
-| Mythology | 2.00% | ~284 |
-| Points Victory | 2.00% | ~284 |
-| Poetic Leader | 2.00% | ~284 |
+| Regicide | 2.00% | ~285 |
+| Hanging Gardens in Babylon | 2.00% | ~285 |
+| Beloved | 2.00% | ~285 |
+| Drillmaster | 2.00% | ~285 |
+| Intercessor | 2.00% | ~285 |
+| Mighty | 2.00% | ~285 |
+| Valiant | 2.00% | ~285 |
+| Victorious | 2.00% | ~285 |
+| Legendary Cities | 2.00% | ~285 |
+| Just Difficulty | 2.00% | ~285 |
+| Artisans | 2.00% | ~285 |
+| Champions | 2.00% | ~285 |
+| Sages | 2.00% | ~285 |
+| Acropolis | 2.00% | ~285 |
+| Colossus | 2.00% | ~285 |
+| Mausoleum | 2.00% | ~285 |
+| Musaeum | 2.00% | ~285 |
+| Learn to Play 2 | 2.00% | ~285 |
+| Greece | 2.00% | ~285 |
+| Persian Paganism | 2.00% | ~285 |
+| Building Wonders | 2.00% | ~285 |
+| Legalism | 2.00% | ~285 |
+| Mythology | 2.00% | ~285 |
+| Points Victory | 2.00% | ~285 |
+| Poetic Leader | 2.00% | ~285 |
 | Bad Heir Day | 1.00% | ~142 |
 | Capable | 1.00% | ~142 |
 | Conqueror | 1.00% | ~142 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,225 (Ranked 133)  
+Progressed: 14,227 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-27 | 14,161 | 5 |
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
-| 2023-09-30 | 14,225 | 5 |
+| 2023-09-30 | 14,227 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

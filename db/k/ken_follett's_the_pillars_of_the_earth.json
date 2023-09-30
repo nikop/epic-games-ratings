@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15478,
+  "EOS_Progressed": 15479,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11120,6 +11120,11 @@
       "Time": "2023-09-30T15:04:43.0062602+00:00",
       "NumProgressed": 15478,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-30T16:04:07.7162104+00:00",
+      "NumProgressed": 15479,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11235,7 +11240,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4643
+      "UsersEstimate": 4644
     },
     {
       "ID": "tpote_achievement_22",
@@ -11289,9 +11294,9 @@
       "ID": "tpote_achievement_28",
       "SetID": "3jcf6c3",
       "Name": "Whodunnit",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 2012
     },
     {
       "ID": "tpote_achievement_29",
@@ -11395,7 +11400,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6191
+      "UsersEstimate": 6192
     },
     {
       "ID": "tpote_achievement_40",
@@ -11435,7 +11440,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "tpote_achievement_8",
@@ -11451,22 +11456,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5417
+      "UsersEstimate": 5418
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15478,
+      "Progressed": 15479,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:04:43.0062597+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:04:07.7162096+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:01:21.5073299+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:04:43.0063457+00:00"
+  "LastUpdate_Ratings": "2023-09-30T16:00:12.6828397+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:04:07.7163067+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.46 (Ranked 631)
 | Way of Iron | 70.00% | ~1,378 |
 | Mystery Tour | 68.00% | ~1,338 |
 | We brake for nobody | 67.00% | ~1,319 |
-| Brainstorm | 65.00% | ~1,279 |
+| Brainstorm | 66.00% | ~1,299 |
 | Mind the Gap | 65.00% | ~1,279 |
 | Travel Company | 65.00% | ~1,279 |
 | All around the World | 62.00% | ~1,220 |

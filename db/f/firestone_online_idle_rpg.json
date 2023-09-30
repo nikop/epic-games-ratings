@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6302,9 +6302,9 @@
       "ID": "thefatherofdragons",
       "SetID": "3nl4bcg",
       "Name": "The father of Dragons",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 198
     },
     {
       "ID": "thegameison",
@@ -6431,8 +6431,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-30T14:01:19.0091598+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:03:34.0930524+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:03:10.9775846+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:28.3446509+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:58:39.1885644+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:03:34.093166+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:58:06.4130928+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:03:10.9776948+00:00"
 }

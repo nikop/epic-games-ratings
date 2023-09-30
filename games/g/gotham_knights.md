@@ -9,23 +9,23 @@ Rating: 4.18 (Ranked 898)
 | Har, Har, Har, Very Funny | 35.00% | ~25,542 |
 | Loose Ends | 34.00% | ~24,812 |
 | To the Victor Go the Spoils | 29.00% | ~21,163 |
-| Knighthood | 28.00% | ~20,433 |
+| Knighthood | 28.00% | ~20,434 |
 | Get ReQ'd | 25.00% | ~18,244 |
 | Whispered Words | 25.00% | ~18,244 |
-| The Batman Family | 23.00% | ~16,784 |
-| Lock and Key | 23.00% | ~16,784 |
+| The Batman Family | 23.00% | ~16,785 |
+| Lock and Key | 23.00% | ~16,785 |
 | Something in the Clay | 21.00% | ~15,325 |
 | Quartzer Life Crisis | 21.00% | ~15,325 |
 | Working Hard or Harley Working? | 20.00% | ~14,595 |
 | Unstoppable Force | 20.00% | ~14,595 |
 | Bad Apples in Every Orchard | 20.00% | ~14,595 |
-| Snow Problem | 19.00% | ~13,865 |
+| Snow Problem | 19.00% | ~13,866 |
 | The Show Mud Go On | 18.00% | ~13,136 |
 | From Inside Gotham's Walls | 18.00% | ~13,136 |
 | Protector of Gotham | 17.00% | ~12,406 |
 | Universal Health Scare | 16.00% | ~11,676 |
-| In Your Element | 15.00% | ~10,946 |
-| Voiceless | 15.00% | ~10,946 |
+| In Your Element | 15.00% | ~10,947 |
+| Voiceless | 15.00% | ~10,947 |
 | Rock and a Hard Place | 14.00% | ~10,217 |
 | Cooldown | 14.00% | ~10,217 |
 | Seeking Asylum | 14.00% | ~10,217 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 898)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,976 (Ranked 86)  
+Progressed: 72,977 (Ranked 86)  
 Completed: 119 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,14 +230,14 @@ Completed: 119 (0.16%) (Ranked 221)
 | 2023-09-27 | 72,905 | 118 |
 | 2023-09-28 | 72,935 | 118 |
 | 2023-09-29 | 72,961 | 118 |
-| 2023-09-30 | 72,976 | 119 |
+| 2023-09-30 | 72,977 | 119 |
 ## Awards
-Max (Great Boss Battles): 2,768  (Ranked 97)  
-Sum: 4,625 (Ranked 140)  
-Diff (max vs sum): -43  
+Max (Great Boss Battles): 2,771  (Ranked 96)  
+Sum: 4,628 (Ranked 140)  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,768 |
+| This game has Great Boss Battles | 2,771 |
 | This game is Relaxing | 238 |
 | This game has Quickly Understood Controls | 237 |
 | This game is Extremely Fun | 236 |
@@ -467,4 +467,4 @@ Diff (max vs sum): -43
 | 2023-09-27 | 4.18 | 2,761 | 4,602 |
 | 2023-09-28 | 4.19 | 2,761 | 4,605 |
 | 2023-09-29 | 4.18 | 2,768 | 4,624 |
-| 2023-09-30 | 4.18 | 2,768 | 4,625 |
+| 2023-09-30 | 4.18 | 2,771 | 4,628 |

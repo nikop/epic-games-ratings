@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -643,9 +643,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SixSidedMastery",
@@ -818,8 +818,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:07:15.8310972+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:06:12.5499997+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:59:04.3565249+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:07:15.8311858+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:58:24.3937808+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:06:12.550099+00:00"
 }

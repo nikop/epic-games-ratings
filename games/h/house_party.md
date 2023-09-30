@@ -8,8 +8,8 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 5.00% | ~316 |
 | Smooth Operator: Madison | 4.00% | ~253 |
+| Caught in the Act | 3.00% | ~189 |
 | The Brahdyssey | 2.00% | ~126 |
-| Caught in the Act | 2.00% | ~126 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~126 |
 | Katherine | 2.00% | ~126 |
 | Life Found a Way | 2.00% | ~67 |

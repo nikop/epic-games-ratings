@@ -22,9 +22,9 @@
 | Stellar Haste | 21.00% | ~6 |
 | The Corruption Goddess | 21.00% | ~6 |
 | Sadistic Plan | 17.00% | ~5 |
+| Shard Spender | 17.00% | ~5 |
 | Skeptical | 17.00% | ~5 |
 | Dice Specialist | 14.00% | ~4 |
-| Shard Spender | 14.00% | ~4 |
 | Wave Bender | 10.00% | ~3 |
 | Can't touch this | 7.00% | ~2 |
 | Denying Destiny | 7.00% | ~2 |

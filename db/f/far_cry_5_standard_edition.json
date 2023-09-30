@@ -2,13 +2,13 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 353,
+  "Ranking_Rating": 354,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -3190,10 +3190,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2304,
       "NumberOfAwardsMax": 1506
+    },
+    {
+      "Time": "2023-09-30T15:59:50.1458986+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2305,
+      "NumberOfAwardsMax": 1506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2304,
+  "NumberOfAwards": 2305,
   "NumberOfAwardsMax": 1506,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3231,7 +3237,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3281,8 +3287,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-09-30T15:00:53.1969338+00:00",
+  "LastChanged": "2023-09-30T15:59:50.1458984+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:21.5867518+00:00",
-  "LastUpdate_Ratings": "2023-09-30T15:00:53.1969352+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:06:49.4268798+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:59:50.1458992+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:05:51.0891403+00:00"
 }

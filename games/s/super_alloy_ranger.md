@@ -47,11 +47,11 @@
 | Pumped Up | 2.00% | ~2 |
 | Easy Peasy | 2.00% | ~2 |
 | Clean Sweep | 2.00% | ~2 |
+| Peace Out | 1.00% | ~1 |
 | Mischief Time | 1.00% | ~1 |
 | Art is an Explosion | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |
 | Flawless | 0.00% | ~0 |
-| Peace Out | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

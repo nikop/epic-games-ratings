@@ -55,41 +55,41 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.60% | ~821 |
 | Special Ingredient | 0.60% | ~821 |
 | Complete Monopoly | 0.60% | ~821 |
-| A Notch Above the Rest | 0.50% | ~684 |
-| Cream of the Crop | 0.50% | ~684 |
-| Top of the World | 0.50% | ~684 |
-| Proud Paladin | 0.50% | ~684 |
-| Above the Norm | 0.50% | ~684 |
-| A Ronin Reborn | 0.50% | ~684 |
-| The King's Caprice | 0.50% | ~684 |
-| Thirst for Knowledge | 0.50% | ~684 |
-| Archivist | 0.50% | ~684 |
-| Locally Sourced | 0.50% | ~684 |
-| Flying off the Shelves | 0.50% | ~684 |
-| Omae wa Mou Shindeiru | 0.50% | ~684 |
-| Master of Transmutation | 0.50% | ~684 |
-| Hidden Potential | 0.50% | ~684 |
-| Supercharged | 0.50% | ~684 |
-| Expansion in Session | 0.50% | ~684 |
-| Ritualist | 0.50% | ~684 |
-| Cranked up to 11 | 0.50% | ~684 |
-| Fit for a King | 0.50% | ~684 |
-| Mammonite | 0.50% | ~684 |
-| Wealth Beyond Measure | 0.50% | ~684 |
-| Fat Cat Tag Team | 0.50% | ~684 |
-| Item of Renown | 0.50% | ~684 |
-| Master Merchant | 0.50% | ~684 |
-| Laden with Loot | 0.50% | ~684 |
-| Precision Engineering | 0.50% | ~684 |
-| Scourge of the Seas | 0.50% | ~684 |
-| Attrition Mission | 0.50% | ~684 |
-| Glittering Collection | 0.50% | ~684 |
-| Treasure Trove | 0.50% | ~684 |
-| Moment of Respite | 0.50% | ~684 |
-| Black Friday Special | 0.50% | ~684 |
-| King's Shadow | 0.50% | ~684 |
-| Exotic Commodities | 0.50% | ~684 |
-| King's Blade | 0.50% | ~684 |
+| A Notch Above the Rest | 0.50% | ~685 |
+| Cream of the Crop | 0.50% | ~685 |
+| Top of the World | 0.50% | ~685 |
+| Proud Paladin | 0.50% | ~685 |
+| Above the Norm | 0.50% | ~685 |
+| A Ronin Reborn | 0.50% | ~685 |
+| The King's Caprice | 0.50% | ~685 |
+| Thirst for Knowledge | 0.50% | ~685 |
+| Archivist | 0.50% | ~685 |
+| Locally Sourced | 0.50% | ~685 |
+| Flying off the Shelves | 0.50% | ~685 |
+| Omae wa Mou Shindeiru | 0.50% | ~685 |
+| Master of Transmutation | 0.50% | ~685 |
+| Hidden Potential | 0.50% | ~685 |
+| Supercharged | 0.50% | ~685 |
+| Expansion in Session | 0.50% | ~685 |
+| Ritualist | 0.50% | ~685 |
+| Cranked up to 11 | 0.50% | ~685 |
+| Fit for a King | 0.50% | ~685 |
+| Mammonite | 0.50% | ~685 |
+| Wealth Beyond Measure | 0.50% | ~685 |
+| Fat Cat Tag Team | 0.50% | ~685 |
+| Item of Renown | 0.50% | ~685 |
+| Master Merchant | 0.50% | ~685 |
+| Laden with Loot | 0.50% | ~685 |
+| Precision Engineering | 0.50% | ~685 |
+| Scourge of the Seas | 0.50% | ~685 |
+| Attrition Mission | 0.50% | ~685 |
+| Glittering Collection | 0.50% | ~685 |
+| Treasure Trove | 0.50% | ~685 |
+| Moment of Respite | 0.50% | ~685 |
+| Black Friday Special | 0.50% | ~685 |
+| King's Shadow | 0.50% | ~685 |
+| Exotic Commodities | 0.50% | ~685 |
+| King's Blade | 0.50% | ~685 |
 | Constellated | 0.40% | ~548 |
 | Booty by the Boatload | 0.40% | ~548 |
 | Fillin' the Bin | 0.40% | ~548 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,899 (Ranked 69)  
+Progressed: 136,902 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-27 | 136,784 | 157 |
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
-| 2023-09-30 | 136,899 | 158 |
+| 2023-09-30 | 136,902 | 158 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,310 (Ranked 49)  

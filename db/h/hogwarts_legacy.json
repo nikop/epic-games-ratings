@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8322,9 +8322,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297579,
+  "EOS_Progressed": 297584,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25927,6 +25927,11 @@
       "Time": "2023-09-30T15:04:05.4361581+00:00",
       "NumProgressed": 297579,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-09-30T16:03:36.7942265+00:00",
+      "NumProgressed": 297584,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -25938,7 +25943,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44637
+      "UsersEstimate": 44638
     },
     {
       "ID": "PFA_10",
@@ -25986,15 +25991,15 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23806
+      "UsersEstimate": 23807
     },
     {
       "ID": "PFA_16",
       "SetID": "1hf4dep",
       "Name": "The Defender of Dragons",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 29758
+      "UsersEstimate": 32734
     },
     {
       "ID": "PFA_17",
@@ -26010,7 +26015,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23806
+      "UsersEstimate": 23807
     },
     {
       "ID": "PFA_19",
@@ -26018,7 +26023,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23806
+      "UsersEstimate": 23807
     },
     {
       "ID": "PFA_2",
@@ -26058,7 +26063,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35709
+      "UsersEstimate": 35710
     },
     {
       "ID": "PFA_24",
@@ -26082,7 +26087,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "PFA_27",
@@ -26098,7 +26103,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8927
+      "UsersEstimate": 8928
     },
     {
       "ID": "PFA_29",
@@ -26114,7 +26119,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8927
+      "UsersEstimate": 8928
     },
     {
       "ID": "PFA_30",
@@ -26154,7 +26159,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8927
+      "UsersEstimate": 8928
     },
     {
       "ID": "PFA_35",
@@ -26162,7 +26167,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26782
+      "UsersEstimate": 26783
     },
     {
       "ID": "PFA_36",
@@ -26242,7 +26247,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23806
+      "UsersEstimate": 23807
     },
     {
       "ID": "PFA_45",
@@ -26266,7 +26271,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38685
+      "UsersEstimate": 38686
     },
     {
       "ID": "PFA_7",
@@ -26274,7 +26279,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38685
+      "UsersEstimate": 38686
     },
     {
       "ID": "PFA_8",
@@ -26282,7 +26287,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35709
+      "UsersEstimate": 35710
     },
     {
       "ID": "PFA_9",
@@ -26290,14 +26295,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26782
+      "UsersEstimate": 26783
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297579,
+      "Progressed": 297584,
       "Completed": 479
     }
   ],
@@ -26305,8 +26310,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-30T14:01:11.7464854+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:04:05.4361577+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:03:36.7942261+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:58:32.4612079+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:04:05.4362979+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:58:00.8067135+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:03:36.7943519+00:00"
 }

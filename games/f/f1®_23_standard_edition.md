@@ -5,18 +5,18 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,550 |
-| On the Top Step | 86.00% | ~2,358 |
-| Setting up for Success | 74.00% | ~2,029 |
-| Team Orders | 73.00% | ~2,002 |
-| Engineer | 54.00% | ~1,481 |
-| Familiar Faces | 46.00% | ~1,261 |
-| Going the Extra Mile | 41.00% | ~1,124 |
-| Sharing the Love | 38.00% | ~1,042 |
-| Hitting a Season | 32.00% | ~877 |
-| Challenge Yourself | 31.00% | ~850 |
-| Making History | 30.00% | ~823 |
-| A Dozen Pieces | 28.00% | ~768 |
+| Getting on the Step | 93.00% | ~2,553 |
+| On the Top Step | 86.00% | ~2,361 |
+| Setting up for Success | 75.00% | ~2,059 |
+| Team Orders | 73.00% | ~2,004 |
+| Engineer | 54.00% | ~1,482 |
+| Familiar Faces | 46.00% | ~1,263 |
+| Going the Extra Mile | 41.00% | ~1,125 |
+| Sharing the Love | 38.00% | ~1,043 |
+| Hitting a Season | 32.00% | ~878 |
+| Challenge Yourself | 31.00% | ~851 |
+| Making History | 30.00% | ~824 |
+| A Dozen Pieces | 28.00% | ~769 |
 | Spring Cleaning | 23.00% | ~631 |
 | Network Success | 23.00% | ~631 |
 | Writing a new Chapter | 23.00% | ~631 |
@@ -37,7 +37,7 @@ Rating: 4.66 (Ranked 281)
 | Switcheroo | 10.00% | ~274 |
 | Spinning Around | 10.00% | ~274 |
 | Friendly Competition | 9.00% | ~247 |
-| Undisputed Winner | 8.00% | ~219 |
+| Undisputed Winner | 8.00% | ~220 |
 | Living up to Expectations | 6.00% | ~165 |
 | For all Those Back at the Factory | 5.00% | ~137 |
 | Loyal Bond | 5.00% | ~137 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,742 (Ranked 191)  
+Progressed: 2,745 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-27 | 2,454 | 0 |
 | 2023-09-28 | 2,620 | 0 |
 | 2023-09-29 | 2,695 | 0 |
-| 2023-09-30 | 2,742 | 0 |
+| 2023-09-30 | 2,745 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

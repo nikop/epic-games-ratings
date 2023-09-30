@@ -4,8 +4,8 @@
   "ProductSlug": "the-backrooms-1998-e7f2d7",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-29T10:00:00+00:00",
     "PcReleaseDate": "2022-05-25T23:00:00+00:00",
@@ -34,5 +34,5 @@
   "FirstSeen": "2023-07-03T16:57:03.4312372+00:00",
   "LastUpdate_AppInfo": "2023-09-25T18:57:16.1625278+00:00",
   "LastUpdate_Ratings": "2023-09-30T15:01:37.0945559+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:06:40.6487568+00:00"
+  "LastUpdate_Achievements": "2023-09-30T16:05:44.1526009+00:00"
 }

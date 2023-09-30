@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -5646,9 +5646,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 179551,
+  "EOS_Progressed": 179573,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2179,
+  "EOS_NewPlayers": 2168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23951,6 +23951,11 @@
       "Time": "2023-09-30T15:03:44.1725431+00:00",
       "NumProgressed": 179551,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-30T16:03:19.1299575+00:00",
+      "NumProgressed": 179573,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -23994,7 +23999,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28728
+      "UsersEstimate": 28732
     },
     {
       "ID": "Achievement_13",
@@ -24042,7 +24047,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44888
+      "UsersEstimate": 44893
     },
     {
       "ID": "Achievement_5",
@@ -24074,7 +24079,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16160
+      "UsersEstimate": 16162
     },
     {
       "ID": "Achievement_9",
@@ -24082,22 +24087,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 179551,
+      "Progressed": 179573,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-30T09:59:01.6094484+00:00",
-  "LastChanged_Achievements": "2023-09-30T15:03:44.172542+00:00",
+  "LastChanged_Achievements": "2023-09-30T16:03:19.1299572+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:44.2536696+00:00",
-  "LastUpdate_Ratings": "2023-09-30T14:59:07.0046745+00:00",
-  "LastUpdate_Achievements": "2023-09-30T15:03:44.1726644+00:00"
+  "LastUpdate_Ratings": "2023-09-30T15:58:26.4111079+00:00",
+  "LastUpdate_Achievements": "2023-09-30T16:03:19.1300829+00:00"
 }

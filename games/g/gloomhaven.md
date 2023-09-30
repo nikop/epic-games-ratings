@@ -6,34 +6,34 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~3,697 |
-| A normal day in Gloomhaven | 34.00% | ~2,923 |
-| Overkill | 31.00% | ~2,665 |
-| Vaccine Incoming | 31.00% | ~2,665 |
-| Spread the plague | 29.00% | ~2,493 |
-| Get over here! | 23.00% | ~1,978 |
-| Just when I thought I was out... | 18.00% | ~1,548 |
-| Mine... All Mine... | 17.00% | ~1,462 |
-| Light of my life | 15.00% | ~1,290 |
-| Anatomy Lesson | 14.00% | ~1,204 |
-| Augmented rat | 13.00% | ~1,118 |
-| Precious! | 12.00% | ~1,032 |
-| You activated my trap card! | 12.00% | ~1,032 |
-| Obstacle race | 12.00% | ~1,032 |
-| Doom and gloom | 12.00% | ~1,032 |
-| Grizzled veteran | 10.00% | ~860 |
-| Pack leader | 8.00% | ~688 |
-| Pain is your friend | 8.00% | ~688 |
-| Play it again, Sam | 8.00% | ~688 |
-| Black death | 7.00% | ~602 |
-| Dungeon Veteran | 6.00% | ~516 |
-| Who's the Boss? | 6.00% | ~516 |
-| Quad damage | 6.00% | ~516 |
-| Now you see me... | 5.00% | ~430 |
-| Power Up! | 4.00% | ~344 |
-| The Pro from Dover | 4.00% | ~344 |
-| Pretty lights! | 4.00% | ~344 |
-| Caught off guard | 3.00% | ~258 |
+| I'm not dead yet | 42.00% | ~3,621 |
+| A normal day in Gloomhaven | 34.00% | ~2,931 |
+| Overkill | 31.00% | ~2,673 |
+| Vaccine Incoming | 31.00% | ~2,673 |
+| Spread the plague | 29.00% | ~2,500 |
+| Get over here! | 23.00% | ~1,983 |
+| Just when I thought I was out... | 18.00% | ~1,552 |
+| Mine... All Mine... | 17.00% | ~1,466 |
+| Light of my life | 15.00% | ~1,293 |
+| Anatomy Lesson | 14.00% | ~1,207 |
+| Augmented rat | 13.00% | ~1,121 |
+| Obstacle race | 13.00% | ~1,121 |
+| Precious! | 12.00% | ~1,035 |
+| You activated my trap card! | 12.00% | ~1,035 |
+| Doom and gloom | 12.00% | ~1,035 |
+| Grizzled veteran | 10.00% | ~862 |
+| Pack leader | 8.00% | ~690 |
+| Pain is your friend | 8.00% | ~690 |
+| Play it again, Sam | 8.00% | ~690 |
+| Black death | 7.00% | ~603 |
+| Dungeon Veteran | 6.00% | ~517 |
+| Who's the Boss? | 6.00% | ~517 |
+| Quad damage | 6.00% | ~517 |
+| Now you see me... | 5.00% | ~431 |
+| Power Up! | 4.00% | ~345 |
+| The Pro from Dover | 4.00% | ~345 |
+| Pretty lights! | 4.00% | ~345 |
+| Caught off guard | 3.00% | ~259 |
 | I hate portals | 2.00% | ~172 |
 | Merchant of doom | 2.00% | ~172 |
 | Master Assassin | 2.00% | ~172 |
@@ -43,10 +43,10 @@ Number of Ratings: 68  (23.09.2022)
 | An eye for an eye | 1.00% | ~86 |
 | The Cephalophore | 1.00% | ~86 |
 | The Sniper | 1.00% | ~86 |
-| From Gloom, only greed and death emerges | 0.90% | ~77 |
-| The Rat King | 0.90% | ~77 |
-| How to train your Drake | 0.90% | ~77 |
-| New Blood | 0.90% | ~77 |
+| From Gloom, only greed and death emerges | 0.90% | ~78 |
+| The Rat King | 0.90% | ~78 |
+| How to train your Drake | 0.90% | ~78 |
+| New Blood | 0.90% | ~78 |
 | Add a bit of colour | 0.80% | ~69 |
 | Captain hooked | 0.70% | ~60 |
 | Betray this | 0.50% | ~43 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~9 |
 | Murder Death Kill | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,598 (Ranked 146)  
+Progressed: 8,621 (Ranked 146)  
 Completed: 1 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,10 +85,10 @@ Completed: 1 (0.01%) (Ranked 283)
 | 2023-09-27 | 7,530 | 1 |
 | 2023-09-28 | 7,941 | 1 |
 | 2023-09-29 | 8,303 | 1 |
-| 2023-09-30 | 8,598 | 1 |
+| 2023-09-30 | 8,621 | 1 |
 ## Awards
 Max (Character Customization): 3,541  (Ranked 89)  
-Sum: 8,246 (Ranked 99)  
+Sum: 8,247 (Ranked 99)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -102,7 +102,7 @@ Diff (max vs sum): -10
 | This game has Quickly Understood Controls | 480 |
 | This game has Amazing Storytelling | 480 |
 | This game has Unique Visuals | 374 |
-| This game has a Creative Community | 209 |
+| This game has a Creative Community | 210 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -283,3 +283,4 @@ Diff (max vs sum): -10
 | 2023-09-27 | 4.47 | - | 3,538 | 8,239 |
 | 2023-09-28 | 4.47 | - | 3,539 | 8,241 |
 | 2023-09-29 | 4.47 | - | 3,541 | 8,246 |
+| 2023-09-30 | 4.47 | - | 3,541 | 8,247 |

@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,655 |
-| Hotel California | 3.00% | ~20,655 |
-| Welcome To Hell-A | 3.00% | ~20,655 |
-| Dr. Reed, I Presume? | 2.00% | ~13,770 |
-| Git Gutte! | 2.00% | ~13,770 |
-| Bookworm | 2.00% | ~13,770 |
-| But Doctor, I am Butcho | 2.00% | ~13,770 |
-| Slayer Squad | 2.00% | ~13,770 |
-| Can't Handle the Truth | 2.00% | ~13,770 |
-| Coup de Grâce | 2.00% | ~13,770 |
-| Like Riding a Bike | 2.00% | ~13,770 |
-| Hazardous Materials | 2.00% | ~13,770 |
-| Friends Like These | 2.00% | ~13,770 |
-| Apex Predator | 2.00% | ~13,770 |
-| Zombologist | 2.00% | ~13,770 |
-| Ooh, Shiny! | 2.00% | ~13,770 |
-| A Patton Emerges | 2.00% | ~13,770 |
-| I Am the Resurrection | 2.00% | ~13,770 |
-| Stacking the Deck | 2.00% | ~13,770 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,770 |
-| Our True Nature | 2.00% | ~13,770 |
-| This is My Weapon | 2.00% | ~13,770 |
+| Break A Leg | 3.00% | ~20,656 |
+| Hotel California | 3.00% | ~20,656 |
+| Welcome To Hell-A | 3.00% | ~20,656 |
+| Dr. Reed, I Presume? | 2.00% | ~13,771 |
+| Git Gutte! | 2.00% | ~13,771 |
+| Bookworm | 2.00% | ~13,771 |
+| But Doctor, I am Butcho | 2.00% | ~13,771 |
+| Slayer Squad | 2.00% | ~13,771 |
+| Can't Handle the Truth | 2.00% | ~13,771 |
+| Coup de Grâce | 2.00% | ~13,771 |
+| Like Riding a Bike | 2.00% | ~13,771 |
+| Hazardous Materials | 2.00% | ~13,771 |
+| Friends Like These | 2.00% | ~13,771 |
+| Apex Predator | 2.00% | ~13,771 |
+| Zombologist | 2.00% | ~13,771 |
+| Ooh, Shiny! | 2.00% | ~13,771 |
+| A Patton Emerges | 2.00% | ~13,771 |
+| I Am the Resurrection | 2.00% | ~13,771 |
+| Stacking the Deck | 2.00% | ~13,771 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,771 |
+| Our True Nature | 2.00% | ~13,771 |
+| This is My Weapon | 2.00% | ~13,771 |
 | Making Your Mark | 1.00% | ~6,885 |
 | Anger Management | 1.00% | ~6,885 |
 | Perks of the Job | 1.00% | ~6,885 |
@@ -37,21 +37,21 @@ Rating: 4.54 (Ranked 511)
 | Jumbo Keyring | 0.80% | ~5,508 |
 | Go, Bobcats! | 0.80% | ~5,508 |
 | Rising Star | 0.80% | ~5,508 |
-| Smorgasbord | 0.70% | ~4,819 |
+| Smorgasbord | 0.70% | ~4,820 |
 | Not Even My Final Form | 0.60% | ~4,131 |
 | Internet Famous | 0.60% | ~4,131 |
-| Make it So | 0.50% | ~3,442 |
-| On Safari | 0.50% | ~3,442 |
-| Variety is the Spice of Death | 0.50% | ~3,442 |
+| Make it So | 0.50% | ~3,443 |
+| On Safari | 0.50% | ~3,443 |
+| Variety is the Spice of Death | 0.50% | ~3,443 |
 | LA Influential | 0.40% | ~2,754 |
 | Gore Horse | 0.40% | ~2,754 |
-| Sole Survivor | 0.30% | ~2,065 |
-| Sharpest Tool in the Box | 0.30% | ~2,065 |
-| Survival Skills | 0.30% | ~2,065 |
-| Donk! | 0.10% | ~688 |
-| Bucket List | 0.10% | ~688 |
+| Sole Survivor | 0.30% | ~2,066 |
+| Sharpest Tool in the Box | 0.30% | ~2,066 |
+| Survival Skills | 0.30% | ~2,066 |
+| Donk! | 0.10% | ~689 |
+| Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,489 (Ranked 22)  
+Progressed: 688,528 (Ranked 22)  
 Completed: 2,180 (0.32%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 2,180 (0.32%) (Ranked 191)
 | 2023-09-27 | 687,260 | 2,176 |
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
-| 2023-09-30 | 688,489 | 2,180 |
+| 2023-09-30 | 688,528 | 2,180 |
 ## Awards
 Max (Great Boss Battles): 6,253  (Ranked 58)  
-Sum: 9,313 (Ranked 91)  
+Sum: 9,315 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 409 |
 | This game is Relaxing | 389 |
 | This game has Amazing Storytelling | 361 |
-| This game is Extremely Fun | 351 |
+| This game is Extremely Fun | 353 |
 | This game is Highly Recommended | 345 |
 | This game has Amazing Characters | 340 |
 ## Ratings History
@@ -395,4 +395,4 @@ Diff (max vs sum): -33
 | 2023-09-27 | 4.54 | 6,229 | 9,274 |
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
-| 2023-09-30 | 4.54 | 6,253 | 9,313 |
+| 2023-09-30 | 4.54 | 6,253 | 9,315 |
