@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 41.00% | ~576 |
-| Me and My Familiar | 38.00% | ~534 |
+| The Cost of Heroism | 41.00% | ~577 |
+| Me and My Familiar | 38.00% | ~535 |
 | This Too Shall Pass | 32.00% | ~450 |
 | Passing Shadow | 31.00% | ~436 |
 | Cutthroat Competitors | 31.00% | ~436 |
@@ -23,10 +23,10 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 10.00% | ~141 |
 | Echoes Die | 10.00% | ~141 |
 | Chain Reaction | 9.00% | ~127 |
-| Plague Doctor | 8.00% | ~112 |
-| Everfading | 8.00% | ~112 |
-| Another Tale to Tell | 8.00% | ~112 |
-| A Story of Heroes | 8.00% | ~112 |
+| Plague Doctor | 8.00% | ~113 |
+| Everfading | 8.00% | ~113 |
+| Another Tale to Tell | 8.00% | ~113 |
+| A Story of Heroes | 8.00% | ~113 |
 | Let Me Get My Chisel | 7.00% | ~98 |
 | Legends Never Die | 6.00% | ~84 |
 | Wingknight's Prowess | 6.00% | ~84 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,406 (Ranked 218)  
-Completed: 5 (0.36%) (Ranked 184)  
+Progressed: 1,407 (Ranked 218)  
+Completed: 5 (0.36%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,6 +191,7 @@ Completed: 5 (0.36%) (Ranked 184)
 | 2023-09-24 | 1,404 | 5 |
 | 2023-09-25 | 1,405 | 5 |
 | 2023-09-27 | 1,406 | 5 |
+| 2023-10-01 | 1,407 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 475)  
 Sum: 28 (Ranked 491)  

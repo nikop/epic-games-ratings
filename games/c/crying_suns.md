@@ -6,28 +6,28 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,098 |
-| Jeef Skeejj | 44.00% | ~206,065 |
-| Careful planning | 39.00% | ~182,649 |
-| Second Coming | 34.00% | ~159,232 |
-| Jeef Skagg | 30.00% | ~140,499 |
-| Mother | 25.00% | ~117,082 |
-| In space, no one can hear you scream | 24.00% | ~112,399 |
+| The Shutdown | 66.00% | ~309,100 |
+| Jeef Skeejj | 44.00% | ~206,067 |
+| Careful planning | 39.00% | ~182,650 |
+| Second Coming | 34.00% | ~159,234 |
+| Jeef Skagg | 30.00% | ~140,500 |
+| Mother | 25.00% | ~117,084 |
+| In space, no one can hear you scream | 24.00% | ~112,400 |
 | Chapter I: Echoes | 22.00% | ~103,033 |
 | Excelsior Rule | 22.00% | ~103,033 |
-| Things persisted in not being what they seemed | 20.00% | ~93,666 |
+| Things persisted in not being what they seemed | 20.00% | ~93,667 |
 | Knightmare Frames | 15.00% | ~70,250 |
 | May His passing cleanse the world | 15.00% | ~70,250 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,250 |
 | Pope Zenon | 15.00% | ~70,250 |
-| Tetsuo | 11.00% | ~51,516 |
-| Plan for the worst | 11.00% | ~51,516 |
+| Tetsuo | 11.00% | ~51,517 |
+| Plan for the worst | 11.00% | ~51,517 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,833 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,466 |
-| Through the mirror | 8.00% | ~37,466 |
-| General Vivar | 8.00% | ~37,466 |
-| Back to Ganyma | 8.00% | ~37,466 |
-| Kaos Rule | 8.00% | ~37,466 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,467 |
+| Through the mirror | 8.00% | ~37,467 |
+| General Vivar | 8.00% | ~37,467 |
+| Back to Ganyma | 8.00% | ~37,467 |
+| Kaos Rule | 8.00% | ~37,467 |
 | Admiral Okonkwo | 7.00% | ~32,783 |
 | The Survivalists | 7.00% | ~32,783 |
 | The Tech Specialist | 7.00% | ~32,783 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,100 |
 | The Crazy Repairman | 6.00% | ~28,100 |
 | The Weasel | 6.00% | ~28,100 |
-| Kill the Doctor | 5.00% | ~23,416 |
-| Forsaken | 5.00% | ~23,416 |
-| Mercy | 5.00% | ~23,416 |
-| Jericho Rule | 5.00% | ~23,416 |
+| Kill the Doctor | 5.00% | ~23,417 |
+| Forsaken | 5.00% | ~23,417 |
+| Mercy | 5.00% | ~23,417 |
+| Jericho Rule | 5.00% | ~23,417 |
 | Geno Rule | 3.00% | ~14,050 |
 | Hammer Rule | 3.00% | ~14,050 |
 | Survivor | 2.00% | ~9,367 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,330 (Ranked 37)  
+Progressed: 468,334 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 18 (0.00%) (Ranked 303)
 | 2023-09-28 | 468,130 | 18 |
 | 2023-09-29 | 468,205 | 18 |
 | 2023-09-30 | 468,277 | 18 |
-| 2023-10-01 | 468,330 | 18 |
+| 2023-10-01 | 468,334 | 18 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 240 (Ranked 364)  

@@ -5,21 +5,21 @@ Rating: 4.00 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 84.00% | ~41 |
-| Battlefields Have Memories | 84.00% | ~41 |
-| Enlisted | 84.00% | ~41 |
-| Maybe Engage a Little | 78.00% | ~38 |
-| No More Names | 67.00% | ~33 |
-| Initiate | 61.00% | ~30 |
-| Thrada-Kul | 59.00% | ~29 |
-| Gravity-Challenged Rocks | 47.00% | ~23 |
-| Soldier | 41.00% | ~20 |
-| All the Major Food Groups | 39.00% | ~19 |
-| Beggars Would Ride | 35.00% | ~17 |
-| Control is an Illusion | 33.00% | ~16 |
-| The Means to Save It | 29.00% | ~14 |
-| Socialite | 29.00% | ~14 |
-| Resilience to Sin | 27.00% | ~13 |
+| Unforeseen | 84.00% | ~43 |
+| Battlefields Have Memories | 84.00% | ~43 |
+| Enlisted | 84.00% | ~43 |
+| Maybe Engage a Little | 78.00% | ~40 |
+| No More Names | 69.00% | ~35 |
+| Initiate | 61.00% | ~31 |
+| Thrada-Kul | 59.00% | ~30 |
+| Gravity-Challenged Rocks | 45.00% | ~23 |
+| Soldier | 39.00% | ~20 |
+| All the Major Food Groups | 37.00% | ~19 |
+| Beggars Would Ride | 33.00% | ~17 |
+| Control is an Illusion | 31.00% | ~16 |
+| The Means to Save It | 29.00% | ~15 |
+| Socialite | 29.00% | ~15 |
+| Resilience to Sin | 25.00% | ~13 |
 | Armsman | 24.00% | ~12 |
 | A Familiar Nest | 22.00% | ~11 |
 | Geas Aristeya | 22.00% | ~11 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 959)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 430)  
+Progressed: 51 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 303)
 | 2023-09-28 | 27 | 0 |
 | 2023-09-29 | 39 | 0 |
 | 2023-09-30 | 43 | 0 |
-| 2023-10-01 | 49 | 0 |
+| 2023-10-01 | 51 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

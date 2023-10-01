@@ -6,56 +6,56 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~3,934 |
-| A normal day in Gloomhaven | 34.00% | ~3,111 |
-| Overkill | 32.00% | ~2,928 |
-| Vaccine Incoming | 31.00% | ~2,836 |
-| Spread the plague | 29.00% | ~2,654 |
-| Get over here! | 23.00% | ~2,104 |
-| Just when I thought I was out... | 18.00% | ~1,647 |
-| Mine... All Mine... | 17.00% | ~1,556 |
-| Light of my life | 15.00% | ~1,372 |
-| Anatomy Lesson | 14.00% | ~1,281 |
-| You activated my trap card! | 13.00% | ~1,190 |
-| Augmented rat | 13.00% | ~1,190 |
-| Obstacle race | 13.00% | ~1,190 |
-| Precious! | 12.00% | ~1,098 |
-| Doom and gloom | 12.00% | ~1,098 |
-| Grizzled veteran | 10.00% | ~915 |
-| Pain is your friend | 8.00% | ~732 |
-| Play it again, Sam | 8.00% | ~732 |
-| Pack leader | 7.00% | ~641 |
-| Black death | 7.00% | ~641 |
-| Dungeon Veteran | 6.00% | ~549 |
-| Who's the Boss? | 6.00% | ~549 |
-| Quad damage | 6.00% | ~549 |
-| Now you see me... | 5.00% | ~458 |
-| Power Up! | 4.00% | ~366 |
-| The Pro from Dover | 4.00% | ~366 |
-| Pretty lights! | 4.00% | ~366 |
-| Caught off guard | 3.00% | ~274 |
-| I hate portals | 2.00% | ~183 |
-| Merchant of doom | 2.00% | ~183 |
-| Master Assassin | 2.00% | ~183 |
-| Grin and bear it | 2.00% | ~183 |
-| An axe to grind | 2.00% | ~183 |
+| I'm not dead yet | 42.00% | ~3,858 |
+| A normal day in Gloomhaven | 34.00% | ~3,123 |
+| Overkill | 32.00% | ~2,940 |
+| Vaccine Incoming | 31.00% | ~2,848 |
+| Spread the plague | 29.00% | ~2,664 |
+| Get over here! | 23.00% | ~2,113 |
+| Just when I thought I was out... | 18.00% | ~1,653 |
+| Mine... All Mine... | 17.00% | ~1,562 |
+| Light of my life | 15.00% | ~1,378 |
+| Anatomy Lesson | 14.00% | ~1,286 |
+| You activated my trap card! | 13.00% | ~1,194 |
+| Augmented rat | 13.00% | ~1,194 |
+| Precious! | 12.00% | ~1,102 |
+| Obstacle race | 12.00% | ~1,102 |
+| Doom and gloom | 12.00% | ~1,102 |
+| Grizzled veteran | 10.00% | ~919 |
+| Pain is your friend | 8.00% | ~735 |
+| Black death | 8.00% | ~735 |
+| Play it again, Sam | 8.00% | ~735 |
+| Pack leader | 7.00% | ~643 |
+| Dungeon Veteran | 6.00% | ~551 |
+| Who's the Boss? | 6.00% | ~551 |
+| Quad damage | 6.00% | ~551 |
+| Now you see me... | 5.00% | ~459 |
+| Power Up! | 4.00% | ~367 |
+| The Pro from Dover | 4.00% | ~367 |
+| Pretty lights! | 4.00% | ~367 |
+| Caught off guard | 3.00% | ~276 |
+| I hate portals | 2.00% | ~184 |
+| Merchant of doom | 2.00% | ~184 |
+| Master Assassin | 2.00% | ~184 |
+| Grin and bear it | 2.00% | ~184 |
+| An axe to grind | 2.00% | ~184 |
 | From Gloom, only greed and death emerges | 1.00% | ~92 |
 | The Rat King | 1.00% | ~92 |
 | Down the hatch | 1.00% | ~92 |
 | An eye for an eye | 1.00% | ~92 |
 | The Cephalophore | 1.00% | ~92 |
 | The Sniper | 1.00% | ~92 |
-| Add a bit of colour | 0.90% | ~82 |
-| How to train your Drake | 0.90% | ~82 |
-| New Blood | 0.90% | ~82 |
+| Add a bit of colour | 0.90% | ~83 |
+| How to train your Drake | 0.90% | ~83 |
+| New Blood | 0.90% | ~83 |
 | Captain hooked | 0.70% | ~64 |
 | Betray this | 0.50% | ~46 |
 | Spoiler police! | 0.40% | ~37 |
 | A tough job | 0.40% | ~37 |
 | The Pacifist | 0.40% | ~37 |
 | Born Support | 0.40% | ~37 |
-| Pull out the big guns | 0.30% | ~27 |
-| Crimson Tornado | 0.30% | ~27 |
+| Pull out the big guns | 0.30% | ~28 |
+| Crimson Tornado | 0.30% | ~28 |
 | The Cartographer | 0.20% | ~18 |
 | The evil that men do | 0.20% | ~18 |
 | Beware my power | 0.20% | ~18 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~9 |
 | Murder Death Kill | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,150 (Ranked 145)  
+Progressed: 9,186 (Ranked 145)  
 Completed: 1 (0.01%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.01%) (Ranked 286)
 | 2023-09-28 | 7,941 | 1 |
 | 2023-09-29 | 8,303 | 1 |
 | 2023-09-30 | 8,790 | 1 |
-| 2023-10-01 | 9,150 | 1 |
+| 2023-10-01 | 9,186 | 1 |
 ## Awards
 Max (Character Customization): 3,543  (Ranked 89)  
 Sum: 8,250 (Ranked 98)  

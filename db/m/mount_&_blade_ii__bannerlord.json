@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7599,9 +7599,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62508,
+  "EOS_Progressed": 62510,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25059,6 +25059,11 @@
       "Time": "2023-10-01T18:08:06.5648428+00:00",
       "NumProgressed": 62508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T19:08:26.71658+00:00",
+      "NumProgressed": 62510,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25142,7 +25147,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "Duelist",
@@ -25238,7 +25243,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10001
+      "UsersEstimate": 10002
     },
     {
       "ID": "I spit on your grave",
@@ -25262,7 +25267,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10626
+      "UsersEstimate": 10627
     },
     {
       "ID": "Kingslayer",
@@ -25302,7 +25307,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24378
+      "UsersEstimate": 24379
     },
     {
       "ID": "Lawmaker",
@@ -25350,7 +25355,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "Real Estate",
@@ -25422,7 +25427,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11251
+      "UsersEstimate": 11252
     },
     {
       "ID": "This Is Our Land",
@@ -25477,15 +25482,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62508,
+      "Progressed": 62510,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-01T16:59:26.0805929+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:08:06.5648422+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:08:26.7165791+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:00:16.2784451+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:08:06.5650043+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:00:35.6489162+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:08:26.7167557+00:00"
 }

@@ -17,12 +17,12 @@
 | Your own amateur gym | 75.00% | ~248 |
 | Run K, run! | 74.00% | ~245 |
 | First defeat | 73.00% | ~242 |
+| Fighting is cool | 70.00% | ~232 |
 | No bullying more | 70.00% | ~232 |
-| Fighting is cool | 69.00% | ~228 |
 | Hello, world! | 69.00% | ~228 |
 | Pal of your father? | 67.00% | ~222 |
+| Employee of the month | 66.00% | ~218 |
 | Spirit of the past | 65.00% | ~215 |
-| Employee of the month | 65.00% | ~215 |
 | Law student | 63.00% | ~209 |
 | Workout professional | 62.00% | ~205 |
 | Handyman | 60.00% | ~199 |
@@ -31,7 +31,7 @@
 | Own four walls | 60.00% | ~199 |
 | Employee of the year | 60.00% | ~199 |
 | Fight for life | 59.00% | ~195 |
-| Little hacker | 58.00% | ~192 |
+| Little hacker | 59.00% | ~195 |
 | Intriguing candies | 58.00% | ~192 |
 | Legal courier | 56.00% | ~185 |
 | Extreme neuropower! | 55.00% | ~182 |

@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
 | Noble | 0.10% | ~14 |
+| Peacemaker | 0.10% | ~14 |
 | Pioneer | 0.10% | ~14 |
 | Ready | 0.10% | ~14 |
 | Settler | 0.10% | ~14 |
@@ -172,6 +173,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.10% | ~14 |
 | Win a Hotseat Game | 0.10% | ~14 |
 | Win a Single Player Game | 0.10% | ~14 |
+| The Clergy | 0.10% | ~14 |
 | The Great Mage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
 | Rmt n Kmt Buhen | 0.10% | ~14 |
@@ -252,7 +254,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
-| Peacemaker | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
@@ -335,7 +336,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Network Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
-| The Clergy | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,269 (Ranked 133)  
+Progressed: 14,270 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 268)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,269 | 5 |
+| 2023-10-01 | 14,270 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,825 (Ranked 207)  

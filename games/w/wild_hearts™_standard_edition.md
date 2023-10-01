@@ -8,9 +8,9 @@
 | Hidden History | 82.00% | ~73 |
 | Budding Conjuror | 78.00% | ~69 |
 | Commencing of Quests | 73.00% | ~65 |
+| Charmed by the Hunt | 66.00% | ~59 |
 | Man-Machine Master | 65.00% | ~58 |
 | Mountain Splitter | 65.00% | ~58 |
-| Charmed by the Hunt | 65.00% | ~58 |
 | Fusion Conjuror | 63.00% | ~56 |
 | Memory Rouser | 61.00% | ~54 |
 | Master of the Skies | 58.00% | ~52 |
@@ -19,15 +19,15 @@
 | Distance Devourer | 53.00% | ~47 |
 | Expert Conjuror | 53.00% | ~47 |
 | Helpful Heart | 52.00% | ~46 |
-| Flawless Crystal | 48.00% | ~43 |
+| Flawless Crystal | 49.00% | ~44 |
 | Bonds of Enmity | 45.00% | ~40 |
 | Counter Specialist | 44.00% | ~39 |
 | Axer of Auspice | 39.00% | ~35 |
 | Karakuri Trail | 38.00% | ~34 |
+| Mighty Marmelizer | 36.00% | ~32 |
 | Fair Means or Foul | 36.00% | ~32 |
 | Kemono at Heart | 36.00% | ~32 |
 | Single Minded | 35.00% | ~31 |
-| Mighty Marmelizer | 35.00% | ~31 |
 | Snare Specialist | 35.00% | ~31 |
 | Reincarnation Cycle Stopper | 33.00% | ~29 |
 | Team Hunter | 30.00% | ~27 |

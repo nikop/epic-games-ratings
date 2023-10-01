@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -2683,9 +2683,9 @@
       "ID": "ID_ACHIEV_02",
       "SetID": "98bke8c",
       "Name": "Firebug",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 989
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3219,8 +3219,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:08:17.6587566+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:08:37.7396215+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.432911+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:00:16.088168+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:08:17.6588567+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:00:35.4549699+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:08:37.7397522+00:00"
 }

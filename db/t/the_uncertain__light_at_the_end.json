@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -761,9 +761,9 @@
       "ID": "Doors_Closing",
       "SetID": "ek310c",
       "Name": "Mind the Gap",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "Echoes",
@@ -970,8 +970,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:08:12.5013039+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:08:32.4496801+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.4453152+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:03:22.9287791+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:08:12.5013337+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:03:16.1597788+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:08:32.4497071+00:00"
 }

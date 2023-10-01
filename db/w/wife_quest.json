@@ -2,10 +2,10 @@
   "ID": "331877b1814d48618cb5ffeae1f6a470",
   "Name": "Wife Quest",
   "ProductSlug": "wife-quest-ed5224",
-  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-03T00:00:00+00:00",
     "PcReleaseDate": "2021-09-30T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:14.1039088+00:00",
   "LastChanged": "2023-03-31T05:57:14.1039089+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:03.5458169+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:00:46.9509555+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:07:44.8906806+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:01:08.512664+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:08:04.7349473+00:00"
 }

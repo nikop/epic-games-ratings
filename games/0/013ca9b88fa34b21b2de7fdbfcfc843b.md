@@ -1,39 +1,39 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.82 (Ranked 65)  
+Rating: 4.83 (Ranked 57)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,208 |
-| A Thorny Situation | 70.00% | ~4,035 |
-| ... And Spit Back Out | 59.00% | ~3,401 |
-| Break-Net Speed | 47.00% | ~2,709 |
-| Bramble Breaker | 44.00% | ~2,536 |
-| Miner 49er | 41.00% | ~2,363 |
-| Humble Collector | 40.00% | ~2,306 |
-| Calm Sailing | 34.00% | ~1,960 |
-| Open the Gate! | 30.00% | ~1,729 |
-| Mist Walker | 28.00% | ~1,614 |
-| Lumberjack | 24.00% | ~1,383 |
-| Oui, Chef! | 22.00% | ~1,268 |
-| Clear the Air | 15.00% | ~865 |
-| Botanical Breakthrough | 15.00% | ~865 |
-| Beach Comber | 12.00% | ~692 |
-| Search for the Hairy Grell | 11.00% | ~634 |
-| Higher Tax Bracket | 11.00% | ~634 |
-| Got to Catch Them All | 6.00% | ~346 |
-| Rumble in the Jumble | 6.00% | ~346 |
-| Fanatical Farmer | 6.00% | ~346 |
-| Skilled | 6.00% | ~346 |
-| Flaming Hot Completos | 5.00% | ~288 |
-| Fae Farmer | 5.00% | ~288 |
-| Azorian Anniversary | 5.00% | ~288 |
+| Azoria Beckons | 73.00% | ~4,216 |
+| A Thorny Situation | 70.00% | ~4,043 |
+| ... And Spit Back Out | 59.00% | ~3,408 |
+| Break-Net Speed | 47.00% | ~2,715 |
+| Bramble Breaker | 44.00% | ~2,541 |
+| Miner 49er | 41.00% | ~2,368 |
+| Humble Collector | 40.00% | ~2,310 |
+| Calm Sailing | 34.00% | ~1,964 |
+| Open the Gate! | 30.00% | ~1,733 |
+| Mist Walker | 28.00% | ~1,617 |
+| Lumberjack | 24.00% | ~1,386 |
+| Oui, Chef! | 22.00% | ~1,271 |
+| Clear the Air | 15.00% | ~866 |
+| Botanical Breakthrough | 15.00% | ~866 |
+| Beach Comber | 12.00% | ~693 |
+| Search for the Hairy Grell | 11.00% | ~635 |
+| Higher Tax Bracket | 11.00% | ~635 |
+| Got to Catch Them All | 6.00% | ~347 |
+| Rumble in the Jumble | 6.00% | ~347 |
+| Fanatical Farmer | 6.00% | ~347 |
+| Skilled | 6.00% | ~347 |
+| Flaming Hot Completos | 5.00% | ~289 |
+| Fae Farmer | 5.00% | ~289 |
+| Azorian Anniversary | 5.00% | ~289 |
 | Scattered Scroll Scrounger | 4.00% | ~231 |
 | I Now Pronounce You... | 4.00% | ~231 |
 | Chatty Neighbor | 3.00% | ~173 |
-| Right Tool For the Job | 2.00% | ~115 |
-| House Proud | 2.00% | ~115 |
+| Right Tool For the Job | 2.00% | ~116 |
+| House Proud | 2.00% | ~116 |
 | Angling Authority | 0.90% | ~52 |
 | Captain of Cozy | 0.90% | ~52 |
 | Cloverfield Island | 0.10% | ~6 |
@@ -41,7 +41,7 @@ Rating: 4.82 (Ranked 65)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,764 (Ranked 163)  
+Progressed: 5,776 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 303)
 | 2023-09-28 | 5,427 | 0 |
 | 2023-09-29 | 5,524 | 0 |
 | 2023-09-30 | 5,660 | 0 |
-| 2023-10-01 | 5,764 | 0 |
+| 2023-10-01 | 5,776 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -92,3 +92,4 @@ Completed: 0 (0.00%) (Ranked 303)
 | 2023-09-24 | 4.82 | 0 | 0 |
 | 2023-09-26 | 4.83 | 0 | 0 |
 | 2023-09-30 | 4.82 | 0 | 0 |
+| 2023-10-01 | 4.83 | 0 | 0 |

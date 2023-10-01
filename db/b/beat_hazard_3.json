@@ -2,10 +2,10 @@
   "ID": "822e2912dd704c188b8895b6c0a42f7d",
   "Name": "Beat Hazard 3",
   "ProductSlug": "beat-hazard-3-c8ef04",
-  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-14T18:00:00+00:00",
     "PcReleaseDate": "2022-11-14T18:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.6160728+00:00",
   "LastChanged": "2023-03-31T05:57:45.6160729+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:29.4260551+00:00",
-  "LastUpdate_Ratings": "2023-10-01T17:59:53.3883476+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:05:09.0624857+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:00:11.9579029+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:05:28.2592135+00:00"
 }

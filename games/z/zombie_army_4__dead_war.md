@@ -7,49 +7,49 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,054 |
-| Say goodbye, creep! | 66.00% | ~28,747 |
-| Blood splattered | 65.00% | ~28,311 |
+| Say goodbye, creep! | 66.00% | ~28,748 |
+| Blood splattered | 65.00% | ~28,312 |
 | Choo choo! | 62.00% | ~27,005 |
-| Groovy | 61.00% | ~26,569 |
+| Groovy | 61.00% | ~26,570 |
 | Cleanup on aisle 4! | 57.00% | ~24,827 |
 | Gold | 50.00% | ~21,778 |
-| The boat can leave now...tell the crew | 49.00% | ~21,342 |
-| Give me something to shoot! | 47.00% | ~20,471 |
-| Stand back boy! | 47.00% | ~20,471 |
-| Chain reaction | 45.00% | ~19,600 |
+| The boat can leave now...tell the crew | 49.00% | ~21,343 |
+| Give me something to shoot! | 47.00% | ~20,472 |
+| Stand back boy! | 47.00% | ~20,472 |
+| Chain reaction | 45.00% | ~19,601 |
 | Weird science | 44.00% | ~19,165 |
 | What did you say, Blain? | 42.00% | ~18,294 |
 | Look mummy! A shark! | 41.00% | ~17,858 |
 | In the dark dark woods... | 39.00% | ~16,987 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,551 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,552 |
 | Double tap | 37.00% | ~16,116 |
-| All of this has happened before… | 36.00% | ~15,680 |
-| Cranial blowout! | 36.00% | ~15,680 |
-| Zombie killin' machine | 36.00% | ~15,680 |
-| Every bullet counts | 36.00% | ~15,680 |
+| All of this has happened before… | 36.00% | ~15,681 |
+| Cranial blowout! | 36.00% | ~15,681 |
+| Zombie killin' machine | 36.00% | ~15,681 |
+| Every bullet counts | 36.00% | ~15,681 |
 | All roads lead to Rome | 34.00% | ~14,809 |
 | You've got red on you | 34.00% | ~14,809 |
 | You're all going to die down here | 32.00% | ~13,938 |
 | He did Nazi that coming | 32.00% | ~13,938 |
-| Kill of the week | 31.00% | ~13,502 |
+| Kill of the week | 31.00% | ~13,503 |
 | I never liked them anyway | 30.00% | ~13,067 |
 | Is it over? | 28.00% | ~12,196 |
 | Got your back | 27.00% | ~11,760 |
-| Gore soaked | 24.00% | ~10,453 |
+| Gore soaked | 24.00% | ~10,454 |
 | Shock therapy | 23.00% | ~10,018 |
 | Leave the limbs you've lost | 23.00% | ~10,018 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,276 |
 | Take them down screaming | 18.00% | ~7,840 |
 | Bad Blood | 17.00% | ~7,405 |
 | Weapons expert | 17.00% | ~7,405 |
-| The bigger they are... | 15.00% | ~6,533 |
+| The bigger they are... | 15.00% | ~6,534 |
 | I'm going deeper underground | 14.00% | ~6,098 |
 | Well equipped | 13.00% | ~5,662 |
 | Into the deep | 12.00% | ~5,227 |
 | Damnedbusters | 9.00% | ~3,920 |
-| Plane sailing | 8.00% | ~3,484 |
-| I can do anything I want. I got guns | 8.00% | ~3,484 |
-| Send me an angel | 8.00% | ~3,484 |
+| Plane sailing | 8.00% | ~3,485 |
+| I can do anything I want. I got guns | 8.00% | ~3,485 |
+| Send me an angel | 8.00% | ~3,485 |
 | This is no Sunday School picnic! | 7.00% | ~3,049 |
 | I never redoubted you! | 7.00% | ~3,049 |
 | Not today you won't | 7.00% | ~3,049 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~436 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,556 (Ranked 101)  
+Progressed: 43,557 (Ranked 101)  
 Completed: 25 (0.06%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,14 +237,14 @@ Completed: 25 (0.06%) (Ranked 259)
 | 2023-09-28 | 43,536 | 25 |
 | 2023-09-29 | 43,547 | 25 |
 | 2023-09-30 | 43,553 | 25 |
-| 2023-10-01 | 43,556 | 25 |
+| 2023-10-01 | 43,557 | 25 |
 ## Awards
-Max (Great Boss Battles): 828  (Ranked 156)  
-Sum: 2,505 (Ranked 179)  
+Max (Great Boss Battles): 830  (Ranked 156)  
+Sum: 2,507 (Ranked 179)  
 Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 828 |
+| This game has Great Boss Battles | 830 |
 | This game is Great for Beginners | 258 |
 | This game is Highly Recommended | 215 |
 | This game has Diverse Characters | 215 |
@@ -444,4 +444,4 @@ Diff (max vs sum): -23
 | 2023-09-24 | 4.69 | - | 827 | 2,501 |
 | 2023-09-29 | 4.69 | - | 827 | 2,502 |
 | 2023-09-30 | 4.69 | - | 828 | 2,504 |
-| 2023-10-01 | 4.69 | - | 828 | 2,505 |
+| 2023-10-01 | 4.69 | - | 830 | 2,507 |

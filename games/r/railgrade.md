@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 100.00% | ~19,208 |
-| Before the Downfall | 95.00% | ~18,248 |
+| Trevithick's Legacy | 100.00% | ~19,207 |
+| Before the Downfall | 95.00% | ~18,247 |
 | Money like Water | 93.00% | ~17,863 |
-| Minimalist | 92.00% | ~17,671 |
-| Builder | 84.00% | ~16,135 |
-| Eraser | 71.00% | ~13,638 |
+| Minimalist | 92.00% | ~17,670 |
+| Builder | 84.00% | ~16,134 |
+| Eraser | 71.00% | ~13,637 |
 | Pocket of Trains | 66.00% | ~12,677 |
-| Inspector | 60.00% | ~11,525 |
+| Inspector | 60.00% | ~11,524 |
 | Going the Distance | 55.00% | ~10,564 |
 | Oil Baron | 43.00% | ~8,259 |
 | Loads-a-Money | 43.00% | ~8,259 |
 | Helper of the People | 40.00% | ~7,683 |
-| Simplification | 35.00% | ~6,723 |
-| Box of Trains | 34.00% | ~6,531 |
-| Let There be Light | 33.00% | ~6,339 |
+| Simplification | 35.00% | ~6,722 |
+| Box of Trains | 34.00% | ~6,530 |
+| Let There be Light | 33.00% | ~6,338 |
 | Hot Water | 31.00% | ~5,954 |
 | Indecisive | 30.00% | ~5,762 |
 | The scenic route | 28.00% | ~5,378 |
@@ -30,9 +30,9 @@ Rating: 4.55 (Ranked 491)
 | Man of Steel | 17.00% | ~3,265 |
 | Room Full of Trains | 13.00% | ~2,497 |
 | Investor | 10.00% | ~1,921 |
-| Multiverse | 7.00% | ~1,345 |
-| The poor groundwater levels | 7.00% | ~1,345 |
-| Metropolis | 7.00% | ~1,345 |
+| Multiverse | 7.00% | ~1,344 |
+| The poor groundwater levels | 7.00% | ~1,344 |
+| Metropolis | 7.00% | ~1,344 |
 | High Flier | 3.00% | ~576 |
 | To infinity, and beyond! | 3.00% | ~576 |
 | Space industrialization | 2.00% | ~384 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 491)
 | Overdeer | 0.60% | ~115 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,208 (Ranked 123)  
+Progressed: 19,207 (Ranked 123)  
 Completed: 35 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,16 +206,16 @@ Completed: 35 (0.18%) (Ranked 222)
 | 2023-09-30 | 19,231 | 35 |
 | 2023-10-01 | 19,217 | 35 |
 ## Awards
-Max (Quickly Understood Controls): 89  (Ranked 360)  
-Sum: 668 (Ranked 288)  
+Max (Great for Beginners): 89  (Ranked 360)  
+Sum: 670 (Ranked 288)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
+| This game is Relaxing | 89 |
 | This game is Great for Beginners | 89 |
 | This game has Quickly Understood Controls | 89 |
-| This game is Relaxing | 88 |
 | This game is Highly Recommended | 88 |
-| This game is Extremely Fun | 84 |
+| This game is Extremely Fun | 85 |
 | This game has Amazing Storytelling | 81 |
 | This game has Unique Visuals | 61 |
 | This game has Amazing Characters | 46 |
@@ -285,3 +285,4 @@ Diff (max vs sum): 72
 | 2023-09-21 | 4.55 | 88 | 666 |
 | 2023-09-24 | 4.55 | 89 | 667 |
 | 2023-09-28 | 4.55 | 89 | 668 |
+| 2023-10-01 | 4.55 | 89 | 670 |

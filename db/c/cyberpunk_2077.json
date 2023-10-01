@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -12711,10 +12711,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 249101,
       "NumberOfAwardsMax": 88536
+    },
+    {
+      "Time": "2023-10-01T19:00:54.3156529+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 249470,
+      "NumberOfAwardsMax": 88536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 249101,
+  "NumberOfAwards": 249470,
   "NumberOfAwardsMax": 88536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12746,7 +12752,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 11741
+      "Count": 12110
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12791,10 +12797,10 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887291,
+  "EOS_Progressed": 887339,
   "EOS_Completed": 2527,
-  "EOS_NewPlayers": 6654,
-  "EOS_NewCompleters": 196,
+  "EOS_NewPlayers": 6666,
+  "EOS_NewCompleters": 193,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -31266,6 +31272,11 @@
       "Time": "2023-10-01T18:09:07.5526355+00:00",
       "NumProgressed": 887291,
       "NumCompleted": 2527
+    },
+    {
+      "Time": "2023-10-01T19:09:26.9192762+00:00",
+      "NumProgressed": 887339,
+      "NumCompleted": 2527
     }
   ],
   "TotalAchievements": 57,
@@ -31301,7 +31312,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "Denied",
@@ -31309,7 +31320,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "FollowingTheRiver",
@@ -31357,7 +31368,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26619
+      "UsersEstimate": 26620
     },
     {
       "ID": "HandyMan",
@@ -31365,7 +31376,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "IAmMaxTac",
@@ -31381,7 +31392,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "LittleTokyo",
@@ -31421,7 +31432,7 @@
       "Name": "Breathtaking",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "NoMansLand",
@@ -31453,7 +31464,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "Specialist",
@@ -31461,7 +31472,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35492
+      "UsersEstimate": 35494
     },
     {
       "ID": "Temperance",
@@ -31477,15 +31488,15 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35492
+      "UsersEstimate": 35494
     },
     {
       "ID": "TheDevil",
       "SetID": "47clieb",
       "Name": "The Devil",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 7986
+      "UsersEstimate": 8873
     },
     {
       "ID": "TheFool",
@@ -31501,7 +31512,7 @@
       "Name": "The Hermit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "TheHightPriestess",
@@ -31509,7 +31520,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "TheLovers",
@@ -31541,7 +31552,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "TheWorld",
@@ -31565,7 +31576,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "TrueSoldier",
@@ -31573,7 +31584,7 @@
       "Name": "True Soldier",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "TrueWarrior",
@@ -31589,7 +31600,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "UnderPressure",
@@ -31605,7 +31616,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17747
     },
     {
       "ID": "YipMan",
@@ -31677,7 +31688,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Kingofcups",
@@ -31732,21 +31743,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887291,
+      "Progressed": 887339,
       "Completed": 2527
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 15914,
+      "Progressed": 15962,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-01T16:59:41.1564785+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:09:07.5526351+00:00",
+  "LastChanged": "2023-10-01T19:00:54.3156504+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:09:26.9192755+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:00:34.4604876+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:09:07.5528082+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:00:54.3156538+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:09:26.9195325+00:00"
 }

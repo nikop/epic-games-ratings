@@ -28,8 +28,8 @@
 | Stronger! | 40.00% | ~441 |
 | Well Rested | 40.00% | ~441 |
 | Ancient Wisdom | 39.00% | ~430 |
+| Frog Facts! | 39.00% | ~430 |
 | All That Glistens | 39.00% | ~430 |
-| Frog Facts! | 38.00% | ~419 |
 | Spellbound | 37.00% | ~408 |
 | Extinct Again! | 37.00% | ~408 |
 | All Skilled Up! | 37.00% | ~408 |

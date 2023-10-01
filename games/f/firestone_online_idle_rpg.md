@@ -1,18 +1,18 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 951)  
+Rating: 4.05 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,844 |
+| Victor | 93.00% | ~1,845 |
 | World Map | 79.00% | ~1,567 |
-| Temple of Eternals | 57.00% | ~1,130 |
+| Temple of Eternals | 57.00% | ~1,131 |
 | Prestigious | 54.00% | ~1,071 |
 | Fellowship Power | 42.00% | ~833 |
 | Guild Power | 26.00% | ~516 |
 | Prestigious x10 | 23.00% | ~456 |
-| The game is on | 21.00% | ~416 |
+| The game is on | 21.00% | ~417 |
 | Exotic Merchant | 19.00% | ~377 |
 | Dragon Clicker | 18.00% | ~357 |
 | Full Party | 17.00% | ~337 |
@@ -20,8 +20,8 @@ Rating: 4.05 (Ranked 951)
 | Miner Clicker | 17.00% | ~337 |
 | Dragon Master | 16.00% | ~317 |
 | Enlightenment | 16.00% | ~317 |
-| Hero inspection | 15.00% | ~297 |
-| Lieutenant | 15.00% | ~297 |
+| Hero inspection | 15.00% | ~298 |
+| Lieutenant | 15.00% | ~298 |
 | Milestone collector | 14.00% | ~278 |
 | Mysterious Rock | 14.00% | ~278 |
 | Natural Talent | 14.00% | ~278 |
@@ -41,8 +41,8 @@ Rating: 4.05 (Ranked 951)
 | Frostfire Liberator | 10.00% | ~198 |
 | Master Enchanter | 10.00% | ~198 |
 | The father of Dragons | 10.00% | ~198 |
-| Here We Go Again | 9.00% | ~178 |
-| Trader | 9.00% | ~178 |
+| Here We Go Again | 9.00% | ~179 |
+| Trader | 9.00% | ~179 |
 | Blueprint Upgrades | 8.00% | ~159 |
 | Crystal Mining | 8.00% | ~159 |
 | Dragon Slayer | 8.00% | ~159 |
@@ -61,9 +61,9 @@ Rating: 4.05 (Ranked 951)
 | Arena Challenger | 5.00% | ~99 |
 | Background Story | 5.00% | ~99 |
 | Ebony Jungle Liberator | 5.00% | ~99 |
-| Gear Enchanting | 3.00% | ~59 |
-| Mythic Power | 3.00% | ~59 |
-| What lies behind the bush | 3.00% | ~59 |
+| Gear Enchanting | 3.00% | ~60 |
+| Mythic Power | 3.00% | ~60 |
+| What lies behind the bush | 3.00% | ~60 |
 | Cauldron Liberator | 2.00% | ~40 |
 | Enchanting skill x5 | 2.00% | ~40 |
 | Guardian Master | 2.00% | ~40 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 951)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,983 (Ranked 199)  
+Progressed: 1,984 (Ranked 199)  
 Completed: 2 (0.10%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 2 (0.10%) (Ranked 242)
 | 2023-09-27 | 1,976 | 2 |
 | 2023-09-28 | 1,978 | 2 |
 | 2023-09-30 | 1,981 | 2 |
-| 2023-10-01 | 1,983 | 2 |
+| 2023-10-01 | 1,984 | 2 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 496)  
 Sum: 66 (Ranked 451)  

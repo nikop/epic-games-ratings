@@ -478,24 +478,30 @@
       "Rating": 4.55,
       "NumberOfAwards": 668,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2023-10-01T19:01:21.8061524+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 670,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 668,
+  "NumberOfAwards": 670,
   "NumberOfAwardsMax": 89,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 88
+      "Count": 89
     },
     {
       "Text": "This game is Great for Beginners",
@@ -546,9 +552,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19208,
+  "EOS_Progressed": 19207,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": -83,
+  "EOS_NewPlayers": -80,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6966,6 +6972,11 @@
       "Time": "2023-10-01T18:07:09.6246021+00:00",
       "NumProgressed": 19208,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-10-01T19:07:28.817354+00:00",
+      "NumProgressed": 19207,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -7009,7 +7020,7 @@
       "Name": "Builder",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 16135
+      "UsersEstimate": 16134
     },
     {
       "ID": "ach.060.goingdistance",
@@ -7033,7 +7044,7 @@
       "Name": "Eraser",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 13638
+      "UsersEstimate": 13637
     },
     {
       "ID": "ach.090.perfectionist",
@@ -7057,7 +7068,7 @@
       "Name": "Multiverse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1344
     },
     {
       "ID": "ach.120.simplification",
@@ -7065,7 +7076,7 @@
       "Name": "Simplification",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6722
     },
     {
       "ID": "ach.130.minimalist",
@@ -7073,7 +7084,7 @@
       "Name": "Minimalist",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 17671
+      "UsersEstimate": 17670
     },
     {
       "ID": "ach.140.legacy",
@@ -7081,7 +7092,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 19208
+      "UsersEstimate": 19207
     },
     {
       "ID": "ach.150.pocket",
@@ -7097,7 +7108,7 @@
       "Name": "Box of Trains",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6530
     },
     {
       "ID": "ach.170.room",
@@ -7113,7 +7124,7 @@
       "Name": "Inspector",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 11525
+      "UsersEstimate": 11524
     },
     {
       "ID": "ach.190.scenic",
@@ -7129,7 +7140,7 @@
       "Name": "Let There be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6339
+      "UsersEstimate": 6338
     },
     {
       "ID": "ach.210.baron",
@@ -7169,7 +7180,7 @@
       "Name": "Before the Downfall",
       "Percentage": 95,
       "XP": 60,
-      "UsersEstimate": 18248
+      "UsersEstimate": 18247
     },
     {
       "ID": "ach.260.investor",
@@ -7185,7 +7196,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1344
     },
     {
       "ID": "ach.280.metropolis",
@@ -7193,7 +7204,7 @@
       "Name": "Metropolis",
       "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1344
     },
     {
       "ID": "ach.290.hightech",
@@ -7272,16 +7283,16 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19208,
+      "Progressed": 19207,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
-  "LastChanged": "2023-09-28T16:58:49.7225398+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:07:09.6246019+00:00",
+  "LastChanged": "2023-10-01T19:01:21.8061522+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:07:28.8173535+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.0626024+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:00:59.2093518+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:07:09.6246763+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:01:21.8061529+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:07:28.8174359+00:00"
 }

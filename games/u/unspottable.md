@@ -13,12 +13,12 @@
 | Airstrike | 18.00% | ~2 |
 | Big Win | 18.00% | ~2 |
 | Ha-Ha! | 18.00% | ~2 |
+| Short Circuit | 18.00% | ~2 |
 | Big Bang | 9.00% | ~1 |
 | Flat Men | 9.00% | ~1 |
 | Mission Impossible | 9.00% | ~1 |
 | Night vision | 9.00% | ~1 |
 | Short and Sweet | 9.00% | ~1 |
-| Short Circuit | 9.00% | ~1 |
 | Sneaky Exit | 9.00% | ~1 |
 | Clutch | 0.00% | ~0 |
 | Collateral damage | 0.00% | ~0 |

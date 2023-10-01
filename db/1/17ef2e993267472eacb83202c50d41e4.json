@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6775,
+  "EOS_Progressed": 6776,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3153,6 +3153,11 @@
       "Time": "2023-10-01T18:07:32.1594056+00:00",
       "NumProgressed": 6775,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T19:07:51.7624413+00:00",
+      "NumProgressed": 6776,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3205,7 +3210,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "CreditsEarned50000",
@@ -3693,7 +3698,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -3709,7 +3714,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "TGPurchased1",
@@ -3756,7 +3761,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6775,
+      "Progressed": 6776,
       "Completed": 1
     }
   ],
@@ -3764,8 +3769,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:07:32.1594051+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:07:51.7624405+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-10-01T17:58:44.8998634+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:07:32.1595022+00:00"
+  "LastUpdate_Ratings": "2023-10-01T18:59:04.3231897+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:07:51.7625737+00:00"
 }

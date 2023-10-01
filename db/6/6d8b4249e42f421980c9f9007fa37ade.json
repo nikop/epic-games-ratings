@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -650,9 +650,9 @@
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -841,8 +841,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:06:06.2108774+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:06:24.9645534+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:13.2090768+00:00",
-  "LastUpdate_Ratings": "2023-10-01T17:59:02.869634+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:06:06.2109205+00:00"
+  "LastUpdate_Ratings": "2023-10-01T18:59:20.6905155+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:06:24.9646091+00:00"
 }

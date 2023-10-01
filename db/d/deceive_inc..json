@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18234,
+  "EOS_Progressed": 18236,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11011,6 +11011,11 @@
       "Time": "2023-10-01T17:08:24.0551232+00:00",
       "NumProgressed": 18234,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T19:09:43.5407446+00:00",
+      "NumProgressed": 18236,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -11086,7 +11091,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "0010",
@@ -11110,7 +11115,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2917
+      "UsersEstimate": 2918
     },
     {
       "ID": "0013",
@@ -11118,7 +11123,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "0014",
@@ -11126,7 +11131,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2917
+      "UsersEstimate": 2918
     },
     {
       "ID": "0015",
@@ -11174,7 +11179,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "0021",
@@ -11206,7 +11211,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "0025",
@@ -11246,7 +11251,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "0030",
@@ -11292,9 +11297,9 @@
       "ID": "0035",
       "SetID": "2n2feee",
       "Name": "Chairman of Deceive Inc.",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 146
     },
     {
       "ID": "0036",
@@ -11309,7 +11314,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18234,
+      "Progressed": 18236,
       "Completed": 3
     }
   ],
@@ -11317,8 +11322,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-01T18:09:23.2472493+00:00",
+  "LastChanged_Achievements": "2023-10-01T19:09:43.5407441+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:03:06.0815001+00:00",
-  "LastUpdate_Achievements": "2023-10-01T18:09:23.2473697+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:02:58.6220808+00:00",
+  "LastUpdate_Achievements": "2023-10-01T19:09:43.5408614+00:00"
 }
