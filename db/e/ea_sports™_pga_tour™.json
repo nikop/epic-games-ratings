@@ -888,9 +888,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_12",
@@ -1022,8 +1022,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:09:08.7440449+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:09:18.7743117+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-01T06:02:06.764711+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:09:08.7440695+00:00"
+  "LastUpdate_Ratings": "2023-10-01T07:02:12.8200109+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:09:18.7743258+00:00"
 }

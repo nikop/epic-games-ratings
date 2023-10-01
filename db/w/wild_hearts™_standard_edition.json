@@ -417,9 +417,9 @@
       "ID": "achievement_13",
       "SetID": "2cpn27e",
       "Name": "Karakuri Fortress",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_14",
@@ -775,8 +775,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:06:16.6162205+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:06:34.1466906+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:58:35.9067649+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:06:16.6163044+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:58:38.7698688+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:06:34.1467239+00:00"
 }

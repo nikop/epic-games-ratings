@@ -371,9 +371,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 65,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
@@ -385,8 +385,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:07:08.0564732+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:07:30.0460524+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:57:48.5314136+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:07:08.0564828+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:57:46.0051929+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:07:30.0460619+00:00"
 }

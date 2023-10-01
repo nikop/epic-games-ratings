@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 88,
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70266,
+  "EOS_Progressed": 70267,
   "EOS_Completed": 371,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -18239,6 +18239,11 @@
       "Time": "2023-10-01T06:06:37.5641888+00:00",
       "NumProgressed": 70266,
       "NumCompleted": 371
+    },
+    {
+      "Time": "2023-10-01T07:06:57.0906202+00:00",
+      "NumProgressed": 70267,
+      "NumCompleted": 371
     }
   ],
   "TotalAchievements": 24,
@@ -18266,7 +18271,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47781
+      "UsersEstimate": 47782
     },
     {
       "ID": "BEST_FRIENDS",
@@ -18330,7 +18335,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37241
+      "UsersEstimate": 37242
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -18441,7 +18446,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70266,
+      "Progressed": 70267,
       "Completed": 371
     }
   ],
@@ -18449,8 +18454,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:06:37.5641885+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:06:57.0906199+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.2012891+00:00",
-  "LastUpdate_Ratings": "2023-10-01T06:00:13.1702668+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:06:37.5643531+00:00"
+  "LastUpdate_Ratings": "2023-10-01T07:00:29.0234534+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:06:57.0907155+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "vectoroids-e30c27",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-23T23:00:00+00:00",
     "PcReleaseDate": "2023-06-23T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-28T11:57:12.8737959+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:57:38.952686+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:07:15.0543215+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:57:35.3915458+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:07:37.5417977+00:00"
 }

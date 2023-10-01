@@ -10,8 +10,8 @@
 | From Way Downtown | 68.00% | ~207 |
 | Winner's Circle | 60.00% | ~183 |
 | Holey Moley | 55.00% | ~168 |
+| Bomb's Away | 52.00% | ~159 |
 | Perfect Round | 52.00% | ~159 |
-| Bomb's Away | 51.00% | ~156 |
 | Competitor's Spirit | 43.00% | ~131 |
 | The Strongest Field in Golf | 36.00% | ~110 |
 | Ace in the Hole | 32.00% | ~98 |

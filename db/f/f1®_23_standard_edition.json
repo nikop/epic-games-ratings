@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -340,9 +340,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2777,
+  "EOS_Progressed": 2778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1124,
+  "EOS_NewPlayers": 1118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1775,6 +1775,11 @@
       "Time": "2023-10-01T06:06:33.6926615+00:00",
       "NumProgressed": 2777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T07:06:53.0239913+00:00",
+      "NumProgressed": 2778,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -1827,7 +1832,7 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "achievement_0007",
@@ -1835,7 +1840,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "achievement_0008",
@@ -1843,7 +1848,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "achievement_0009",
@@ -1851,7 +1856,7 @@
       "Name": "Eagle Eye",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_0010",
@@ -1859,7 +1864,7 @@
       "Name": "Network Success",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "achievement_0011",
@@ -1867,7 +1872,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_0012",
@@ -1907,7 +1912,7 @@
       "Name": "Hitting a Season",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_0017",
@@ -1947,7 +1952,7 @@
       "Name": "Team Orders",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "achievement_0022",
@@ -1963,7 +1968,7 @@
       "Name": "Sharing the Love",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "achievement_0024",
@@ -2027,7 +2032,7 @@
       "Name": "Recycle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_0032",
@@ -2035,7 +2040,7 @@
       "Name": "Tinkerer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_0033",
@@ -2123,7 +2128,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "achievement_0044",
@@ -2178,7 +2183,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2777,
+      "Progressed": 2778,
       "Completed": 0
     }
   ],
@@ -2186,8 +2191,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-09-30T13:00:36.5953946+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:06:33.692661+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:06:53.0239909+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:58:27.3346279+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:06:33.6927145+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:58:28.6623299+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:06:53.0240293+00:00"
 }

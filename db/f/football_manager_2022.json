@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7643,9 +7643,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473939,
+  "EOS_Progressed": 473940,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24798,6 +24798,11 @@
       "Time": "2023-10-01T06:03:15.2734257+00:00",
       "NumProgressed": 473939,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-01T07:03:27.5902023+00:00",
+      "NumProgressed": 473940,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 98,
@@ -24833,7 +24838,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175357
+      "UsersEstimate": 175358
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -24905,7 +24910,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137442
+      "UsersEstimate": 137443
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -24929,7 +24934,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113745
+      "UsersEstimate": 113746
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -24961,7 +24966,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175357
+      "UsersEstimate": 175358
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -25009,7 +25014,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90048
+      "UsersEstimate": 90049
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -25033,7 +25038,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66351
+      "UsersEstimate": 66352
     },
     {
       "ID": "achievement_fine_player",
@@ -25041,7 +25046,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199054
+      "UsersEstimate": 199055
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -25049,7 +25054,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113745
+      "UsersEstimate": 113746
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -25121,7 +25126,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137442
+      "UsersEstimate": 137443
     },
     {
       "ID": "achievement_hattrick",
@@ -25177,7 +25182,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 113745
+      "UsersEstimate": 113746
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -25193,7 +25198,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113745
+      "UsersEstimate": 113746
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -25241,7 +25246,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151660
+      "UsersEstimate": 151661
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -25281,7 +25286,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137442
+      "UsersEstimate": 137443
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -25313,7 +25318,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151660
+      "UsersEstimate": 151661
     },
     {
       "ID": "achievement_rushed_signing",
@@ -25409,7 +25414,7 @@
       "Name": "Comeback King!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66351
+      "UsersEstimate": 66352
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -25592,15 +25597,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473939,
+      "Progressed": 473940,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-30T23:57:31.9879827+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:03:15.2734252+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:03:27.5902018+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:05.7159421+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:57:46.2919055+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:03:15.2736595+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:57:43.8645804+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:03:27.5903713+00:00"
 }

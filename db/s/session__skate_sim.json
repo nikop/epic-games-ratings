@@ -982,9 +982,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2983,
+  "EOS_Progressed": 2984,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5132,6 +5132,11 @@
       "Time": "2023-09-30T18:05:42.9665823+00:00",
       "NumProgressed": 2983,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T07:06:25.4840563+00:00",
+      "NumProgressed": 2984,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5271,7 +5276,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_HOARDER",
@@ -5279,7 +5284,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -5287,7 +5292,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -5295,7 +5300,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5351,7 +5356,7 @@
       "Name": "Pew-Pew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -5463,7 +5468,7 @@
       "Name": "The hard way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -5495,7 +5500,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -5526,15 +5531,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2983,
+      "Progressed": 2984,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-28T17:59:28.29898+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:06:08.5823118+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:06:25.4840558+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.4747001+00:00",
-  "LastUpdate_Ratings": "2023-10-01T06:00:35.2444935+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:06:08.5823927+00:00"
+  "LastUpdate_Ratings": "2023-10-01T07:00:48.1564839+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:06:25.4841051+00:00"
 }

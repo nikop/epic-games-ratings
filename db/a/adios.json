@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74703,
+  "EOS_Progressed": 74707,
   "EOS_Completed": 780,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18359,6 +18359,11 @@
       "Time": "2023-10-01T06:06:12.0046922+00:00",
       "NumProgressed": 74703,
       "NumCompleted": 780
+    },
+    {
+      "Time": "2023-10-01T07:06:29.1580481+00:00",
+      "NumProgressed": 74707,
+      "NumCompleted": 780
     }
   ],
   "TotalAchievements": 25,
@@ -18402,7 +18407,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16435
+      "UsersEstimate": 16436
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -18458,7 +18463,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     },
     {
       "ID": "Magnetic Miracles",
@@ -18498,7 +18503,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11952
+      "UsersEstimate": 11953
     },
     {
       "ID": "Nothing Left to Say",
@@ -18514,7 +18519,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "Right On Target",
@@ -18522,7 +18527,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9711
+      "UsersEstimate": 9712
     },
     {
       "ID": "Sniper",
@@ -18562,14 +18567,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5976
+      "UsersEstimate": 5977
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74703,
+      "Progressed": 74707,
       "Completed": 780
     }
   ],
@@ -18577,8 +18582,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-01T06:06:12.0046917+00:00",
+  "LastChanged_Achievements": "2023-10-01T07:06:29.1580477+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.9504793+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:57:30.8575183+00:00",
-  "LastUpdate_Achievements": "2023-10-01T06:06:12.0049475+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:57:26.6184581+00:00",
+  "LastUpdate_Achievements": "2023-10-01T07:06:29.1581463+00:00"
 }

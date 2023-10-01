@@ -42,8 +42,8 @@
 | Human Believer | 24.00% | ~20 |
 | Jack of All Trades | 24.00% | ~20 |
 | Canyon of Karakuri | 23.00% | ~19 |
+| Karakuri Fortress | 22.00% | ~18 |
 | Superlative View | 22.00% | ~18 |
-| Karakuri Fortress | 20.00% | ~17 |
 | Tender Touch | 19.00% | ~16 |
 | Quintessence of Form | 19.00% | ~16 |
 | Relentless Kemono Hunter | 18.00% | ~15 |

@@ -44,8 +44,8 @@
 | Colony Defense | 34.00% | ~171 |
 | The Krogan | 34.00% | ~171 |
 | Galactic Explorer | 33.00% | ~166 |
+| Ghost Ship | 32.00% | ~161 |
 | Broke, Blind, and Bedlam | 32.00% | ~161 |
-| Ghost Ship | 31.00% | ~156 |
 | The Quarian | 31.00% | ~156 |
 | The Assassin | 30.00% | ~151 |
 | The Justicar | 30.00% | ~151 |
