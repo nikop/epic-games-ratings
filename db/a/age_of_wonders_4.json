@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -350,7 +350,7 @@
   ],
   "EOS_Progressed": 5196,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6631,9 +6631,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 312
     },
     {
       "ID": "50",
@@ -6662,8 +6662,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-30T08:59:29.1729181+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:08:07.8812527+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:08:15.6970104+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:58.3354834+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:59:49.3364471+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:08:07.8813159+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:00:00.4886976+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:08:15.6971002+00:00"
 }

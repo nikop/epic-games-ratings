@@ -32,7 +32,7 @@ Number of Ratings: 706  (23.09.2022)
 | Oh Deer! | 21.00% | ~1,268 |
 | All Year Round | 20.00% | ~1,208 |
 | Nothing Wasted | 13.00% | ~785 |
-| Don't Cry Wolf | 12.00% | ~725 |
+| Don't Cry Wolf | 13.00% | ~785 |
 | Deerly Departed | 8.00% | ~483 |
 | Where Wolf? | 5.00% | ~302 |
 | Food Chain | 2.00% | ~121 |

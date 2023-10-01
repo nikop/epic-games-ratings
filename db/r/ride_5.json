@@ -2406,9 +2406,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2453,8 +2453,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:06:38.3935322+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:06:32.7554955+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:59:09.0975769+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:06:38.393576+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:59:19.9119205+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:06:32.7555561+00:00"
 }

@@ -1,21 +1,21 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 280)  
+Rating: 4.66 (Ranked 281)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,581 |
-| On the Top Step | 87.00% | ~2,414 |
-| Setting up for Success | 75.00% | ~2,081 |
+| Getting on the Step | 94.00% | ~2,609 |
+| On the Top Step | 87.00% | ~2,415 |
+| Setting up for Success | 75.00% | ~2,082 |
 | Team Orders | 73.00% | ~2,026 |
-| Engineer | 54.00% | ~1,498 |
-| Familiar Faces | 47.00% | ~1,304 |
+| Engineer | 54.00% | ~1,499 |
+| Familiar Faces | 47.00% | ~1,305 |
 | Going the Extra Mile | 41.00% | ~1,138 |
-| Sharing the Love | 38.00% | ~1,054 |
+| Sharing the Love | 38.00% | ~1,055 |
 | Hitting a Season | 33.00% | ~916 |
 | Challenge Yourself | 32.00% | ~888 |
-| Making History | 30.00% | ~832 |
+| Making History | 30.00% | ~833 |
 | A Dozen Pieces | 28.00% | ~777 |
 | Network Success | 24.00% | ~666 |
 | Spring Cleaning | 23.00% | ~638 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 280)
 | Spinning Around | 10.00% | ~278 |
 | Friendly Competition | 9.00% | ~250 |
 | Undisputed Winner | 8.00% | ~222 |
-| Living up to Expectations | 6.00% | ~166 |
+| Living up to Expectations | 6.00% | ~167 |
 | For all Those Back at the Factory | 5.00% | ~139 |
 | Loyal Bond | 5.00% | ~139 |
 | Smooth Operator | 5.00% | ~139 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 280)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,775 (Ranked 190)  
+Progressed: 2,776 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 2,620 | 0 |
 | 2023-09-29 | 2,695 | 0 |
 | 2023-09-30 | 2,769 | 0 |
-| 2023-10-01 | 2,775 | 0 |
+| 2023-10-01 | 2,776 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

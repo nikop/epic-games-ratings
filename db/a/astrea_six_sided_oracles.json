@@ -405,9 +405,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 87,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "EndlessTricks",
@@ -525,17 +525,17 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 94,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 94,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MindIlluminator",
@@ -605,9 +605,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 94,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ReflexiveMind",
@@ -813,9 +813,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 81,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
@@ -828,8 +828,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:06:34.6460743+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:06:26.7030394+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:58:36.376158+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:06:34.6461454+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:58:44.9468068+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:06:26.7031401+00:00"
 }

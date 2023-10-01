@@ -4974,10 +4974,10 @@
       "Count": 361
     }
   ],
-  "EOS_Progressed": 688889,
-  "EOS_Completed": 2181,
-  "EOS_NewPlayers": 3638,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 688906,
+  "EOS_Completed": 2182,
+  "EOS_NewPlayers": 3634,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -23439,6 +23439,11 @@
       "Time": "2023-10-01T04:04:13.3980735+00:00",
       "NumProgressed": 688889,
       "NumCompleted": 2181
+    },
+    {
+      "Time": "2023-10-01T05:04:05.6177334+00:00",
+      "NumProgressed": 688906,
+      "NumCompleted": 2182
     }
   ],
   "TotalAchievements": 45,
@@ -23482,7 +23487,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "ach_big_name_in_town",
@@ -23522,7 +23527,7 @@
       "Name": "On Safari",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "ach_defensive",
@@ -23778,7 +23783,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -23809,22 +23814,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 688889,
-      "Completed": 2181
+      "Progressed": 688906,
+      "Completed": 2182
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 14431,
-      "Completed": 14431
+      "Progressed": 14448,
+      "Completed": 14448
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-01T01:49:35.5789138+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:04:13.3980731+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:04:05.6177328+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:59:11.1124168+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:04:13.3981892+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:59:21.8299923+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:04:05.6178935+00:00"
 }

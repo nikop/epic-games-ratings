@@ -285,9 +285,9 @@
       "ID": "achWinDiv2",
       "SetID": "7ji07dj",
       "Name": "Moving Up",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achWinEvent",
@@ -355,8 +355,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:04:05.3057621+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:03:57.3156649+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:58:14.1879038+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:04:05.3057783+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:58:23.5299967+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:03:57.3156856+00:00"
 }

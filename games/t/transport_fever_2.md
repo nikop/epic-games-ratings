@@ -40,7 +40,7 @@ Number of Ratings: 180  (23.09.2022)
 | The ugly smell of success | 23.00% | ~391 |
 | Climate change | 22.00% | ~374 |
 | Old timer | 22.00% | ~374 |
-| Heavily loaded | 21.00% | ~357 |
+| Heavily loaded | 22.00% | ~374 |
 | Bob Ross | 16.00% | ~272 |
 | Campaign expert | 11.00% | ~187 |
 | Truck Fever | 11.00% | ~187 |

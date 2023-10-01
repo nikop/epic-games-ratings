@@ -16,6 +16,7 @@ Rating: 4.60 (Ranked 399)
 | Magical Synergy | 6.00% | ~312 |
 | Seat of Power | 6.00% | ~312 |
 | Intimidation Tactics | 6.00% | ~312 |
+| Mighty Hoard | 6.00% | ~312 |
 | There Can Only Be One! | 5.00% | ~260 |
 | Full Ascension | 5.00% | ~260 |
 | My Final Form | 5.00% | ~260 |
@@ -23,7 +24,6 @@ Rating: 4.60 (Ranked 399)
 | Impenetrable Fortress | 5.00% | ~260 |
 | Here be Dragons | 5.00% | ~260 |
 | Blood of the Dragon | 5.00% | ~260 |
-| Mighty Hoard | 5.00% | ~260 |
 | Valley of Wonders | 4.00% | ~208 |
 | Return of the Wizard King | 4.00% | ~208 |
 | Enchanted Archipelago | 4.00% | ~208 |

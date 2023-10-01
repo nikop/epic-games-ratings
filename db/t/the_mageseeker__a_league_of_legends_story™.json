@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3824,9 +3824,9 @@
       "ID": "STB_COPY_ABILITIES",
       "SetID": "3pe2bac",
       "Name": "Hijack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 778
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3896,9 +3896,9 @@
       "ID": "STB_DEFEAT_MORGANA",
       "SetID": "3pe2bac",
       "Name": "I chose my shackles",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 675
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -4217,8 +4217,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:05:55.3398368+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:05:47.5896106+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.0821049+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:58:26.7185381+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:05:55.3398948+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:58:36.2403503+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:05:47.5896893+00:00"
 }

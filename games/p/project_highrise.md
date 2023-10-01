@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~204 |
-| Starting Skyward | 55.00% | ~187 |
-| Grime is Not Good | 48.00% | ~163 |
-| Floor Galore | 41.00% | ~139 |
-| Campaign Launch | 41.00% | ~139 |
-| Dinner Dash | 41.00% | ~139 |
-| Need a Consult | 38.00% | ~129 |
-| It's Technical | 38.00% | ~129 |
+| In the Black | 60.00% | ~205 |
+| Starting Skyward | 55.00% | ~188 |
+| Grime is Not Good | 48.00% | ~164 |
+| Floor Galore | 41.00% | ~140 |
+| Campaign Launch | 41.00% | ~140 |
+| Dinner Dash | 41.00% | ~140 |
+| Need a Consult | 38.00% | ~130 |
+| It's Technical | 38.00% | ~130 |
 | Upgrade Unlock | 37.00% | ~126 |
 | Delegate Maintenance | 34.00% | ~116 |
-| Proper Walls | 33.00% | ~112 |
+| Proper Walls | 33.00% | ~113 |
 | Destination Destiny | 32.00% | ~109 |
 | Happy Tenants | 27.00% | ~92 |
-| Potent Potables | 26.00% | ~88 |
-| Smooth Service | 26.00% | ~88 |
+| Potent Potables | 26.00% | ~89 |
+| Smooth Service | 26.00% | ~89 |
 | Your Prestige is Rising | 25.00% | ~85 |
 | Retail Revenue | 25.00% | ~85 |
 | Don't Feel a Loan | 23.00% | ~78 |
 | Artfully Done | 22.00% | ~75 |
 | People Mover | 22.00% | ~75 |
-| Lux Living | 21.00% | ~71 |
-| Emporium Empire | 21.00% | ~71 |
-| Leveled Up Shops | 21.00% | ~71 |
-| Get Electrified | 21.00% | ~71 |
+| Lux Living | 21.00% | ~72 |
+| Emporium Empire | 21.00% | ~72 |
+| Leveled Up Shops | 21.00% | ~72 |
+| Get Electrified | 21.00% | ~72 |
 | Rehab Expert | 20.00% | ~68 |
 | We Don't Need No Education | 20.00% | ~68 |
 | Tasty Profits | 19.00% | ~65 |
 | Established Fame | 17.00% | ~58 |
 | Cashflow Chief | 17.00% | ~58 |
-| Under One Roof | 16.00% | ~54 |
-| Starred Dining | 16.00% | ~54 |
+| Under One Roof | 16.00% | ~55 |
+| Starred Dining | 16.00% | ~55 |
 | Smooth Operator | 14.00% | ~48 |
 | Boutique Benefits | 14.00% | ~48 |
-| Terrifically Trashed | 14.00% | ~48 |
-| Thrilled Tenants | 14.00% | ~48 |
-| 28 Days Later | 11.00% | ~37 |
-| Swimming in Surplus | 11.00% | ~37 |
+| Terrifically Trashed | 13.00% | ~44 |
+| Thrilled Tenants | 13.00% | ~44 |
+| 28 Days Later | 11.00% | ~38 |
+| Swimming in Surplus | 11.00% | ~38 |
 | Aestheticly Pleased | 10.00% | ~34 |
 | Master of Puppets | 10.00% | ~34 |
 | Refined Palates | 10.00% | ~34 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340 (Ranked 296)  
+Progressed: 341 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-11 | 338 | 0 |
 | 2023-09-23 | 339 | 0 |
 | 2023-09-25 | 340 | 0 |
+| 2023-10-01 | 341 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -32,7 +32,7 @@ Number of Ratings: 546  (23.09.2022)
 | Cold-Blooded | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,212 (Ranked 149)  
-Completed: 13 (0.16%) (Ranked 221)  
+Completed: 13 (0.16%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,8 +183,8 @@ Completed: 13 (0.16%) (Ranked 221)
 | 2023-09-30 | 8,212 | 13 |
 ## Awards
 Max (Great for Beginners): 127  (Ranked 316)  
-Sum: 908 (Ranked 258)  
-Diff (max vs sum): 58  
+Sum: 909 (Ranked 257)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 127 |
@@ -195,7 +195,7 @@ Diff (max vs sum): 58
 | This game has Quickly Understood Controls | 102 |
 | This game has Amazing Storytelling | 91 |
 | This game has Amazing Characters | 81 |
-| This game has a Creative Community | 60 |
+| This game has a Creative Community | 61 |
 | This game has Challenging Combat | 51 |
 | This game has Playful Visuals | 45 |
 ## Ratings History
@@ -326,3 +326,4 @@ Diff (max vs sum): 58
 | 2023-09-13 | 4.72 | - | 124 | 905 |
 | 2023-09-21 | 4.72 | - | 126 | 907 |
 | 2023-09-22 | 4.72 | - | 127 | 908 |
+| 2023-10-01 | 4.72 | - | 127 | 909 |

@@ -2,9 +2,9 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 48.15,
+  "EOS_Completed_Percentage": 47.71,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -761,6 +761,11 @@
       "Time": "2023-09-30T19:05:13.1541479+00:00",
       "NumProgressed": 108,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-01T05:05:23.4332175+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -771,7 +776,7 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 80,
       "UsersEstimate": 83
     },
@@ -781,7 +786,7 @@
       "Name": "Intro",
       "Percentage": 97,
       "XP": 75,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Kanalizace",
@@ -795,7 +800,7 @@
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 80,
       "UsersEstimate": 94
     },
@@ -843,15 +848,15 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 75,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 80,
       "UsersEstimate": 100
     },
@@ -859,7 +864,7 @@
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 75,
       "UsersEstimate": 94
     },
@@ -876,14 +881,14 @@
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:05:30.9173136+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:05:23.4332163+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:07.1504923+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:57:15.8406944+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:05:30.9173251+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:57:23.7710766+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:05:23.4332371+00:00"
 }

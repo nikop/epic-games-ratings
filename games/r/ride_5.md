@@ -8,7 +8,7 @@
 | Clean Race | 40.00% | ~493 |
 | Hear That Roar! | 38.00% | ~468 |
 | Eat My Dust | 38.00% | ~468 |
-| Rivals to the End | 29.00% | ~357 |
+| Rivals to the End | 30.00% | ~370 |
 | We're Going to Need a Bigger Garage | 25.00% | ~308 |
 | Bitter Rivalry | 24.00% | ~296 |
 | I'm Here Too! | 21.00% | ~259 |

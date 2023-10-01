@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -428,9 +428,9 @@
       "ID": "_grenade",
       "SetID": "2d5739o",
       "Name": "Grenade",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_heavy_laser",
@@ -508,9 +508,9 @@
       "ID": "_minigun",
       "SetID": "2d5739o",
       "Name": "Minigun",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_missile",
@@ -532,9 +532,9 @@
       "ID": "_orbpack",
       "SetID": "2d5739o",
       "Name": "Orb pack",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_plasma",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:06:00.8097746+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:05:52.9829706+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:02:15.7328855+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:06:00.8098018+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:02:07.0163518+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:05:52.9830161+00:00"
 }

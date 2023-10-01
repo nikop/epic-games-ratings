@@ -7387,9 +7387,9 @@
       "ID": "ach_animals_unlocked",
       "SetID": "3h4khpo",
       "Name": "Animals - unlocked",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2543
     },
     {
       "ID": "ach_architecture_completed",
@@ -7490,8 +7490,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:03:43.3386265+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:03:35.0874257+00:00",
   "LastUpdate_AppInfo": "2023-09-29T15:57:16.8209985+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:57:10.829957+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:03:43.3386711+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:57:18.5111576+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:03:35.0874906+00:00"
 }

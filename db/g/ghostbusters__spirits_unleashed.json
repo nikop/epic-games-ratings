@@ -3,11 +3,11 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 573,
-  "Ranking_Popularity": 257,
+  "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2152,18 +2152,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2331,
       "NumberOfAwardsMax": 256
+    },
+    {
+      "Time": "2023-10-01T04:59:52.7171442+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2349,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2331,
-  "NumberOfAwardsMax": 256,
+  "NumberOfAwards": 2349,
+  "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 254
+      "Count": 258
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2175,19 +2181,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 256
+      "Count": 258
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2199,31 +2205,31 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 230
+      "Count": 233
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 235
+      "Count": 237
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 226
+      "Count": 228
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 226
+      "Count": 227
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 237
+      "Count": 238
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2234,7 +2240,7 @@
   ],
   "EOS_Progressed": 26125,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14342,9 +14348,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:04:25.0411364+00:00",
+  "LastChanged": "2023-10-01T04:59:52.717144+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:04:17.1705284+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:59:41.7052327+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:04:25.0412282+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:59:52.717145+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:04:17.1706789+00:00"
 }

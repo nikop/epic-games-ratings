@@ -5,33 +5,33 @@ Rating: 4.33 (Ranked 781)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 8.00% | ~5,603 |
-| IT MAKES BOOM! | 4.00% | ~2,801 |
-| EXTRA BOOST | 2.00% | ~1,401 |
-| PROTECTED | 2.00% | ~1,401 |
-| A TIGER'S FEAR | 2.00% | ~1,401 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~1,401 |
-| AGGRESSIVE RACER | 2.00% | ~1,401 |
-| PRO | 2.00% | ~1,401 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~700 |
-| ACE SPEEDSTER | 1.00% | ~700 |
-| MASTER | 1.00% | ~700 |
-| TRAINING HARD | 0.90% | ~630 |
-| BE OUR GUEST | 0.90% | ~630 |
-| ACE BRAWLER | 0.90% | ~630 |
-| FRIENDLY | 0.90% | ~630 |
-| DEFEAT OUR CHAMPION | 0.80% | ~560 |
-| ACE DEFENDER | 0.80% | ~560 |
-| LEGENDARY HERO | 0.80% | ~560 |
-| PERFECTLY POISED | 0.70% | ~490 |
-| RELEASE THE KRAKEN | 0.70% | ~490 |
-| THE EYE OF THE HUNTER | 0.70% | ~490 |
-| ACE TRICKSTER | 0.70% | ~490 |
-| EXPERIENCED CREW | 0.40% | ~280 |
-| FRAMED! | 0.40% | ~280 |
+| ROOKIE | 7.00% | ~4,946 |
+| IT MAKES BOOM! | 4.00% | ~2,827 |
+| EXTRA BOOST | 2.00% | ~1,413 |
+| PROTECTED | 2.00% | ~1,413 |
+| A TIGER'S FEAR | 2.00% | ~1,413 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~1,413 |
+| AGGRESSIVE RACER | 2.00% | ~1,413 |
+| PRO | 2.00% | ~1,413 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~707 |
+| ACE SPEEDSTER | 1.00% | ~707 |
+| MASTER | 1.00% | ~707 |
+| TRAINING HARD | 0.90% | ~636 |
+| BE OUR GUEST | 0.90% | ~636 |
+| ACE BRAWLER | 0.90% | ~636 |
+| DEFEAT OUR CHAMPION | 0.80% | ~565 |
+| ACE DEFENDER | 0.80% | ~565 |
+| FRIENDLY | 0.80% | ~565 |
+| LEGENDARY HERO | 0.80% | ~565 |
+| PERFECTLY POISED | 0.70% | ~495 |
+| RELEASE THE KRAKEN | 0.70% | ~495 |
+| THE EYE OF THE HUNTER | 0.70% | ~495 |
+| ACE TRICKSTER | 0.70% | ~495 |
+| EXPERIENCED CREW | 0.40% | ~283 |
+| FRAMED! | 0.40% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,032 (Ranked 88)  
-Completed: 221 (0.32%) (Ranked 191)  
+Progressed: 70,664 (Ranked 87)  
+Completed: 221 (0.31%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,7 +190,7 @@ Completed: 221 (0.32%) (Ranked 191)
 | 2023-09-28 | 17,979 | 216 |
 | 2023-09-29 | 44,201 | 220 |
 | 2023-09-30 | 65,657 | 220 |
-| 2023-10-01 | 70,032 | 221 |
+| 2023-10-01 | 70,664 | 221 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

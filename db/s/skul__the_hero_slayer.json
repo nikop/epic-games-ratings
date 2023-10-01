@@ -4,10 +4,10 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 177,
   "Ranking_Popularity": 316,
-  "Ranking_PopularitySum": 258,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -930,10 +930,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 908,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-10-01T04:59:23.8397732+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 909,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 908,
+  "NumberOfAwards": 909,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -995,7 +1001,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1006,7 +1012,7 @@
   ],
   "EOS_Progressed": 8212,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5037,9 +5043,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-09-22T18:01:53.480822+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:06:17.5393277+00:00",
+  "LastChanged": "2023-10-01T04:59:23.839773+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:06:09.5646641+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:23.1900424+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:59:13.1274444+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:06:17.5393606+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:59:23.8397739+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:06:09.5647181+00:00"
 }

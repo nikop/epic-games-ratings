@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1846,
+  "EOS_Progressed": 1849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1268,6 +1268,11 @@
       "Time": "2023-10-01T04:03:17.3241218+00:00",
       "NumProgressed": 1846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T05:03:09.1373292+00:00",
+      "NumProgressed": 1849,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1288,7 +1293,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "achievement_11",
@@ -1304,7 +1309,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_13",
@@ -1312,7 +1317,7 @@
       "Name": "MVP",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "achievement_14",
@@ -1320,7 +1325,7 @@
       "Name": "ROTY",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "achievement_15",
@@ -1376,7 +1381,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1017
     },
     {
       "ID": "achievement_21",
@@ -1416,7 +1421,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_7",
@@ -1432,7 +1437,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_9",
@@ -1447,7 +1452,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1846,
+      "Progressed": 1849,
       "Completed": 0
     }
   ],
@@ -1455,8 +1460,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-30T01:37:55.9131562+00:00",
-  "LastChanged_Achievements": "2023-10-01T04:03:17.3241212+00:00",
+  "LastChanged_Achievements": "2023-10-01T05:03:09.1373285+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:58:20.5244722+00:00",
-  "LastUpdate_Achievements": "2023-10-01T04:03:17.3241683+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:58:29.2752084+00:00",
+  "LastUpdate_Achievements": "2023-10-01T05:03:09.1373557+00:00"
 }
