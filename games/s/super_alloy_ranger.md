@@ -47,16 +47,16 @@
 | Pumped Up | 2.00% | ~2 |
 | Easy Peasy | 2.00% | ~2 |
 | Clean Sweep | 2.00% | ~2 |
+| Bye Bye Gravity | 2.00% | ~2 |
+| Flawless | 1.00% | ~1 |
 | Peace Out | 1.00% | ~1 |
 | Mischief Time | 1.00% | ~1 |
 | Art is an Explosion | 1.00% | ~1 |
 | Bullets Fear Me | 1.00% | ~1 |
-| Bye Bye Gravity | 1.00% | ~1 |
-| Flawless | 0.00% | ~0 |
-| Super Alloy Ranger! | 0.00% | ~0 |
+| Super Alloy Ranger! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 94 (Ranked 388)  
-Completed: 0 (0.00%) (Ranked 300)  
+Completed: 1 (1.06%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-23 | 89 | 0 |
 | 2023-09-24 | 90 | 0 |
 | 2023-09-30 | 92 | 0 |
-| 2023-10-01 | 94 | 0 |
+| 2023-10-01 | 94 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

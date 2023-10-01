@@ -5,14 +5,14 @@ Rating: 4.16 (Ranked 906)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,087 |
+| Attachments | 10.00% | ~4,088 |
 | Unlocked Potential | 9.00% | ~3,679 |
-| Tinkerer | 7.00% | ~2,861 |
-| Knock 'Em Dead | 7.00% | ~2,861 |
-| Hell of a Run | 7.00% | ~2,861 |
-| Leapfrogger | 6.00% | ~2,452 |
-| Pilgrimage: Initiate | 6.00% | ~2,452 |
-| Call of the Fount: Baptized | 6.00% | ~2,452 |
+| Tinkerer | 7.00% | ~2,862 |
+| Knock 'Em Dead | 7.00% | ~2,862 |
+| Hell of a Run | 7.00% | ~2,862 |
+| Leapfrogger | 6.00% | ~2,453 |
+| Pilgrimage: Initiate | 6.00% | ~2,453 |
+| Call of the Fount: Baptized | 6.00% | ~2,453 |
 | No Mercy | 5.00% | ~2,044 |
 | Explorer: Seeker | 5.00% | ~2,044 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,635 |
@@ -22,12 +22,12 @@ Rating: 4.16 (Ranked 906)
 | The Interloper | 3.00% | ~1,226 |
 | Hop, Step, Jump | 3.00% | ~1,226 |
 | Endless Runner | 3.00% | ~1,226 |
-| What Must Be Done | 2.00% | ~817 |
-| Might and Main | 2.00% | ~817 |
-| Damned If You Do... | 2.00% | ~817 |
-| Explorer: Pathfinder | 2.00% | ~817 |
-| Shocker | 2.00% | ~817 |
-| From Every Angle | 2.00% | ~817 |
+| What Must Be Done | 2.00% | ~818 |
+| Might and Main | 2.00% | ~818 |
+| Damned If You Do... | 2.00% | ~818 |
+| Explorer: Pathfinder | 2.00% | ~818 |
+| Shocker | 2.00% | ~818 |
+| From Every Angle | 2.00% | ~818 |
 | The Hue of Blue | 1.00% | ~409 |
 | The Truth Will Out | 1.00% | ~409 |
 | Breaking Point | 1.00% | ~409 |
@@ -59,8 +59,8 @@ Rating: 4.16 (Ranked 906)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,874 (Ranked 105)  
-Completed: 3 (0.01%) (Ranked 283)  
+Progressed: 40,880 (Ranked 105)  
+Completed: 3 (0.01%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 3 (0.01%) (Ranked 283)
 | 2023-09-28 | 40,097 | 3 |
 | 2023-09-29 | 40,425 | 3 |
 | 2023-09-30 | 40,800 | 3 |
-| 2023-10-01 | 40,874 | 3 |
+| 2023-10-01 | 40,880 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 493)  

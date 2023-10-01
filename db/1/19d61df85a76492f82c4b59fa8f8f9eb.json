@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.15,
+  "EOS_Completed_Percentage": 10.12,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1516,6 +1516,11 @@
       "Time": "2023-09-29T14:07:20.2667642+00:00",
       "NumProgressed": 325,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-01T10:07:44.5044796+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 6,
@@ -1525,9 +1530,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1574,14 +1579,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:06:34.0497382+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:07:44.5044791+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:03.6959112+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:57:57.8004163+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:06:34.049751+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:58:22.3442151+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:07:44.5044923+00:00"
 }

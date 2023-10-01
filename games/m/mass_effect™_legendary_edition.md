@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~474 |
-| Spectre Inductee | 83.00% | ~418 |
+| Spectre Inductee | 84.00% | ~423 |
 | Medal of Exploration I | 74.00% | ~373 |
 | Recruit | 71.00% | ~358 |
 | Search and Rescue | 71.00% | ~358 |
-| Quarian Ally | 68.00% | ~343 |
+| Quarian Ally | 69.00% | ~348 |
 | Honorarium of Corporate Service | 65.00% | ~328 |
 | Medal of Heroism | 64.00% | ~323 |
 | Medal of Exploration II | 58.00% | ~292 |
+| Turian Ally | 56.00% | ~282 |
 | Council Legion of Merit | 56.00% | ~282 |
-| Turian Ally | 55.00% | ~277 |
 | Meritorious Service Medal | 54.00% | ~272 |
 | Charismatic | 54.00% | ~272 |
 | Medal of Honor | 53.00% | ~267 |
 | Soldier | 52.00% | ~262 |
+| Asari Ally | 51.00% | ~257 |
 | Medal of Exploration III | 50.00% | ~252 |
-| Asari Ally | 50.00% | ~252 |
 | Principled | 49.00% | ~247 |
 | Soldier Ally | 48.00% | ~242 |
 | Colonial Savior | 47.00% | ~237 |
@@ -33,11 +33,11 @@
 | Veteran | 39.00% | ~197 |
 | Operative | 39.00% | ~197 |
 | Scholar | 39.00% | ~197 |
+| Missing in Action | 38.00% | ~192 |
 | Very Elusive | 38.00% | ~192 |
 | Power Full | 38.00% | ~192 |
-| Missing in Action | 37.00% | ~186 |
+| Completionist | 36.00% | ~181 |
 | Archivist | 35.00% | ~176 |
-| Completionist | 35.00% | ~176 |
 | The Archangel | 35.00% | ~176 |
 | The Convict | 35.00% | ~176 |
 | The Professor | 35.00% | ~176 |
@@ -51,6 +51,7 @@
 | The Assassin | 30.00% | ~151 |
 | The Justicar | 30.00% | ~151 |
 | Battlemaster | 30.00% | ~151 |
+| Shopaholic | 30.00% | ~151 |
 | A Personal Touch | 29.00% | ~146 |
 | Ghost of the Father | 29.00% | ~146 |
 | The Cure | 29.00% | ~146 |
@@ -58,16 +59,15 @@
 | Agent | 29.00% | ~146 |
 | Revenge! | 29.00% | ~146 |
 | Heart of Darkness | 29.00% | ~146 |
-| Shopaholic | 29.00% | ~146 |
 | Catharsis | 28.00% | ~141 |
 | Fade Away | 28.00% | ~141 |
 | Driven | 28.00% | ~141 |
+| Bringer of War | 28.00% | ~141 |
 | Focused | 27.00% | ~136 |
 | Cat's in the Cradle | 27.00% | ~136 |
 | Doppelganger | 27.00% | ~136 |
 | Treason | 27.00% | ~136 |
 | Digital Exorcist | 27.00% | ~136 |
-| Bringer of War | 27.00% | ~136 |
 | First Aid Specialist | 26.00% | ~131 |
 | Friend or Foe | 25.00% | ~126 |
 | Mobilizer | 25.00% | ~126 |
@@ -108,11 +108,11 @@
 | Barrier Mastery | 11.00% | ~55 |
 | Combined Arms | 11.00% | ~55 |
 | Patriot | 11.00% | ~55 |
+| Legend | 11.00% | ~55 |
 | Long Service Medal | 10.00% | ~50 |
 | Bruiser | 10.00% | ~50 |
 | Lift Mastery | 10.00% | ~50 |
 | Overload Specialist | 10.00% | ~50 |
-| Legend | 10.00% | ~50 |
 | Always Prepared | 9.00% | ~45 |
 | Sky High | 8.00% | ~40 |
 | Hijacker | 8.00% | ~40 |
@@ -132,8 +132,8 @@
 | Neural Shock Specialist | 1.00% | ~5 |
 | The One and Only | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 266)  
-Completed: 0 (0.00%) (Ranked 300)  
+Progressed: 504 (Ranked 269)  
+Completed: 0 (0.00%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

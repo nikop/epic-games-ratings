@@ -6,9 +6,9 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40874,
+  "EOS_Progressed": 40880,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9337,6 +9337,11 @@
       "Time": "2023-10-01T09:04:45.0692318+00:00",
       "NumProgressed": 40874,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T10:05:31.0379214+00:00",
+      "NumProgressed": 40880,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9396,7 +9401,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9420,7 +9425,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -9428,7 +9433,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -9436,7 +9441,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -9500,7 +9505,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9540,7 +9545,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -9548,7 +9553,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -9588,7 +9593,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9596,7 +9601,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -9620,7 +9625,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "MONUMENT_ALL",
@@ -9636,7 +9641,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9660,7 +9665,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9700,7 +9705,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "STAYING_AIR",
@@ -9771,22 +9776,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40874,
+      "Progressed": 40880,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5711,
-      "Completed": 5711
+      "Progressed": 5717,
+      "Completed": 5717
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:04:45.0692314+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:05:31.0379209+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:59:22.3018008+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:04:45.0693106+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:00:09.6940644+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:05:31.0379997+00:00"
 }

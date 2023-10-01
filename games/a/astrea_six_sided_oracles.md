@@ -9,10 +9,10 @@
 | Mechanical Buddy | 94.00% | ~32 |
 | Dicesmithing Time! | 88.00% | ~30 |
 | Wild's Keeper | 79.00% | ~27 |
-| Sanctuary Guardian | 71.00% | ~24 |
+| Sanctuary Guardian | 74.00% | ~25 |
 | Endless Tricks | 68.00% | ~23 |
 | Mind Illuminator | 56.00% | ~19 |
-| Stellar Dismantler | 41.00% | ~14 |
+| Stellar Dismantler | 44.00% | ~15 |
 | Star Killer | 32.00% | ~11 |
 | Anomaly Destroyer | 29.00% | ~10 |
 | Astral Adventurer | 29.00% | ~10 |
@@ -25,8 +25,8 @@
 | Sadistic Plan | 15.00% | ~5 |
 | Skeptical | 15.00% | ~5 |
 | Dice Specialist | 12.00% | ~4 |
+| Wave Bender | 12.00% | ~4 |
 | Denying Destiny | 9.00% | ~3 |
-| Wave Bender | 9.00% | ~3 |
 | Can't touch this | 6.00% | ~2 |
 | Heart Gate | 6.00% | ~2 |
 | Heavy Purger | 6.00% | ~2 |
@@ -86,7 +86,7 @@
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 34 (Ranked 456)  
-Completed: 0 (0.00%) (Ranked 300)  
+Completed: 0 (0.00%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

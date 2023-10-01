@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210219,
+  "EOS_Progressed": 210232,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1278,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18823,6 +18823,11 @@
       "Time": "2023-10-01T09:03:06.9602461+00:00",
       "NumProgressed": 210219,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-01T10:03:30.1100617+00:00",
+      "NumProgressed": 210232,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -18834,7 +18839,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 98803
+      "UsersEstimate": 98809
     },
     {
       "ID": "AlekhinesGun",
@@ -18858,7 +18863,7 @@
       "Name": "Blind Pigs",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "BobbyTime",
@@ -18882,7 +18887,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 115620
+      "UsersEstimate": 115628
     },
     {
       "ID": "Checkmate",
@@ -18890,7 +18895,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 63066
+      "UsersEstimate": 63070
     },
     {
       "ID": "ChessChampion",
@@ -18906,7 +18911,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 147153
+      "UsersEstimate": 147162
     },
     {
       "ID": "DoubleCheck",
@@ -18914,7 +18919,7 @@
       "Name": "Double Check",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14715
+      "UsersEstimate": 14716
     },
     {
       "ID": "DoubledPawn",
@@ -18922,7 +18927,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 117723
+      "UsersEstimate": 117730
     },
     {
       "ID": "Elo",
@@ -18930,7 +18935,7 @@
       "Name": "ELO",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "EloElo",
@@ -18946,7 +18951,7 @@
       "Name": "ELO ELO ELO",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "EnPassant",
@@ -18954,7 +18959,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18920
+      "UsersEstimate": 18921
     },
     {
       "ID": "EpauletteMate",
@@ -18970,7 +18975,7 @@
       "Name": "Family Fork",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "FoolsMate",
@@ -18986,7 +18991,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "Learner",
@@ -18994,7 +18999,7 @@
       "Name": "Learner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "O-O",
@@ -19002,7 +19007,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 50453
+      "UsersEstimate": 50456
     },
     {
       "ID": "O-O-O",
@@ -19010,7 +19015,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 27328
+      "UsersEstimate": 27330
     },
     {
       "ID": "Octopus",
@@ -19018,7 +19023,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 27328
+      "UsersEstimate": 27330
     },
     {
       "ID": "PieceCollector",
@@ -19026,7 +19031,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12613
+      "UsersEstimate": 12614
     },
     {
       "ID": "ProblemSolved",
@@ -19050,7 +19055,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 65168
+      "UsersEstimate": 65172
     },
     {
       "ID": "QueenSacrifice",
@@ -19058,7 +19063,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 42044
+      "UsersEstimate": 42046
     },
     {
       "ID": "ScholarsMate",
@@ -19074,7 +19079,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 44146
+      "UsersEstimate": 44149
     },
     {
       "ID": "Stalemate",
@@ -19082,7 +19087,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 37839
+      "UsersEstimate": 37842
     },
     {
       "ID": "StrangerDanger",
@@ -19090,7 +19095,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 25226
+      "UsersEstimate": 25228
     },
     {
       "ID": "TournamentAmateur",
@@ -19137,7 +19142,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 210219,
+      "Progressed": 210232,
       "Completed": 2
     }
   ],
@@ -19145,8 +19150,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:03:06.9602457+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:03:30.1100614+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:02.835892+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:59:04.1592881+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:03:06.9604371+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:59:46.0253262+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:03:30.1101854+00:00"
 }

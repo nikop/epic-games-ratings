@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~320 |
-| Off to a good start | 68.00% | ~241 |
+| New Recruit | 91.00% | ~324 |
+| Off to a good start | 68.00% | ~242 |
 | Do... or do not. There is no try | 52.00% | ~185 |
-| A good blaster at your side | 34.00% | ~121 |
+| A good blaster at your side | 33.00% | ~117 |
 | Scrap collector | 21.00% | ~75 |
 | Great shot, kid! | 20.00% | ~71 |
-| All right, I'll give it a try | 19.00% | ~67 |
+| All right, I'll give it a try | 19.00% | ~68 |
 | Together we can rule the galaxy | 18.00% | ~64 |
 | I suggest a new strategy | 18.00% | ~64 |
-| The power of the Force | 17.00% | ~60 |
-| Shoot first | 17.00% | ~60 |
+| The power of the Force | 17.00% | ~61 |
+| Shoot first | 17.00% | ~61 |
 | Collector | 16.00% | ~57 |
 | Survivor | 13.00% | ~46 |
 | Tell Jabba that I've got his money | 12.00% | ~43 |
@@ -36,15 +36,15 @@
 | That's no moon | 6.00% | ~21 |
 | Don't underestimate the Force | 6.00% | ~21 |
 | I've been waiting for you | 5.00% | ~18 |
-| Your journey has only started | 5.00% | ~18 |
-| Precision shot | 5.00% | ~18 |
-| This is a new day, a new beginning | 5.00% | ~18 |
 | City in the Clouds | 5.00% | ~18 |
-| What will you become? | 5.00% | ~18 |
 | Disturbed tranquility | 5.00% | ~18 |
 | The Force is strong with this one | 4.00% | ~14 |
+| Your journey has only started | 4.00% | ~14 |
+| Precision shot | 4.00% | ~14 |
 | Safety ain't the point of a joyride | 4.00% | ~14 |
+| This is a new day, a new beginning | 4.00% | ~14 |
 | Alternative solution | 4.00% | ~14 |
+| What will you become? | 4.00% | ~14 |
 | The circle is now complete | 4.00% | ~14 |
 | Hold the line! | 3.00% | ~11 |
 | Playing the objective | 3.00% | ~11 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.30% | ~1 |
 | Crush them with one swift stroke… | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 293)  
-Completed: 1 (0.28%) (Ranked 201)  
+Progressed: 356 (Ranked 293)  
+Completed: 1 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 1 (0.28%) (Ranked 201)
 | 2023-09-28 | 289 | 1 |
 | 2023-09-29 | 314 | 1 |
 | 2023-09-30 | 345 | 1 |
-| 2023-10-01 | 355 | 1 |
+| 2023-10-01 | 356 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15484,
+  "EOS_Progressed": 15485,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11150,6 +11150,11 @@
       "Time": "2023-10-01T00:05:13.2647211+00:00",
       "NumProgressed": 15484,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-01T10:05:23.1114386+00:00",
+      "NumProgressed": 15485,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11265,7 +11270,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4646
     },
     {
       "ID": "tpote_achievement_22",
@@ -11473,7 +11478,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "tpote_achievement_9",
@@ -11481,22 +11486,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5419
+      "UsersEstimate": 5420
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15484,
+      "Progressed": 15485,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:04:38.6191745+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:05:23.1114382+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:57:22.1771242+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:04:38.6192484+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:57:37.4135299+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:05:23.1115154+00:00"
 }

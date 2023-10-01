@@ -2,13 +2,13 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 697,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 505,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2103,6 +2103,11 @@
       "Time": "2023-10-01T01:56:47.9768547+00:00",
       "NumProgressed": 504,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T10:07:57.9009176+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2273,9 +2278,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_PEAK",
@@ -2307,7 +2312,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_S4",
@@ -2346,15 +2351,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:06:44.8410176+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:07:57.9009172+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:58:38.1619369+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:06:44.8410431+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:59:14.5267063+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:07:57.9009431+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -846,6 +846,11 @@
       "Time": "2023-10-01T09:03:29.2245043+00:00",
       "NumProgressed": 355,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T10:03:57.2176702+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -930,7 +935,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_19",
@@ -1008,9 +1013,9 @@
       "ID": "achievement_27",
       "SetID": "271ol84",
       "Name": "Your journey has only started",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_28",
@@ -1040,9 +1045,9 @@
       "ID": "achievement_30",
       "SetID": "271ol84",
       "Name": "Precision shot",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_31",
@@ -1058,7 +1063,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_33",
@@ -1080,9 +1085,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_36",
@@ -1098,7 +1103,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_38",
@@ -1160,17 +1165,17 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_45",
       "SetID": "cemm4l8",
       "Name": "This is a new day, a new beginning",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_46",
@@ -1210,7 +1215,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_50",
@@ -1304,9 +1309,9 @@
       "ID": "achievement_60",
       "SetID": "cemm4l8",
       "Name": "What will you become?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_61",
@@ -1361,13 +1366,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 1
     }
   ],
@@ -1375,8 +1380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:03:29.224504+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:03:57.2176697+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:59:13.944694+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:03:29.2245605+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:59:58.4394875+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:03:57.2177276+00:00"
 }

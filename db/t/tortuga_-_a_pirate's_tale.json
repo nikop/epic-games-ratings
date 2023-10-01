@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16584,
+  "EOS_Progressed": 16591,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5081,6 +5081,11 @@
       "Time": "2023-10-01T09:03:56.0240453+00:00",
       "NumProgressed": 16584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T10:04:29.9485939+00:00",
+      "NumProgressed": 16591,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5092,7 +5097,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15755
+      "UsersEstimate": 15761
     },
     {
       "ID": "ACH001",
@@ -5100,7 +5105,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14262
+      "UsersEstimate": 14268
     },
     {
       "ID": "ACH0010",
@@ -5108,7 +5113,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACH0011",
@@ -5124,7 +5129,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 7960
+      "UsersEstimate": 7964
     },
     {
       "ID": "ACH0013",
@@ -5132,7 +5137,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3814
+      "UsersEstimate": 3816
     },
     {
       "ID": "ACH0014",
@@ -5140,7 +5145,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH0015",
@@ -5164,7 +5169,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH0018",
@@ -5172,7 +5177,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3650
     },
     {
       "ID": "ACH0019",
@@ -5188,7 +5193,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11940
+      "UsersEstimate": 11946
     },
     {
       "ID": "ACH0020",
@@ -5212,7 +5217,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5641
     },
     {
       "ID": "ACH0023",
@@ -5244,7 +5249,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9121
+      "UsersEstimate": 9125
     },
     {
       "ID": "ACH004",
@@ -5252,7 +5257,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14428
+      "UsersEstimate": 14434
     },
     {
       "ID": "ACH005",
@@ -5260,7 +5265,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2655
     },
     {
       "ID": "ACH006",
@@ -5268,7 +5273,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6636
     },
     {
       "ID": "ACH007",
@@ -5276,7 +5281,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "ACH008",
@@ -5299,7 +5304,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16584,
+      "Progressed": 16591,
       "Completed": 0
     }
   ],
@@ -5307,8 +5312,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:03:56.0240449+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:04:29.9485935+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.9891298+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:57:28.8498669+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:03:56.0240827+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:57:44.9981848+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:04:29.9486319+00:00"
 }

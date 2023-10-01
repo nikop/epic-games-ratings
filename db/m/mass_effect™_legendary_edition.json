@@ -2,10 +2,10 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1310,9 +1310,9 @@
       "ID": "achievement_20",
       "SetID": "b9pe172",
       "Name": "Completionist",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_21",
@@ -1366,25 +1366,25 @@
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_3",
@@ -1406,9 +1406,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_32",
@@ -1446,9 +1446,9 @@
       "ID": "achievement_36",
       "SetID": "b9pe172",
       "Name": "Missing in Action",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_37",
@@ -1838,9 +1838,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_81",
@@ -1974,17 +1974,17 @@
       "ID": "achievement_96",
       "SetID": "d252ncf",
       "Name": "Legend",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_98",
@@ -2018,8 +2018,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:06:28.3986527+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:07:37.590466+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:57:56.1062193+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:06:28.3988286+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:58:20.328548+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:07:37.5906567+00:00"
 }

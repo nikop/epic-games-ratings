@@ -7,10 +7,10 @@ Number of Ratings: 62  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,426 |
-| I'll Be Back | 85.00% | ~4,002 |
-| Sorry, I Dropped This | 77.00% | ~3,625 |
-| First Day on the Job | 77.00% | ~3,625 |
-| Butcher's Bill | 55.00% | ~2,589 |
+| I'll Be Back | 85.00% | ~4,003 |
+| Sorry, I Dropped This | 77.00% | ~3,626 |
+| First Day on the Job | 77.00% | ~3,626 |
+| Butcher's Bill | 55.00% | ~2,590 |
 | P.A.X | 38.00% | ~1,789 |
 | Hey Listen | 37.00% | ~1,742 |
 | OPERATOR | 36.00% | ~1,695 |
@@ -19,8 +19,8 @@ Number of Ratings: 62  (23.09.2022)
 | Infidel | 23.00% | ~1,083 |
 | GOLIATH | 21.00% | ~989 |
 | Firebug | 20.00% | ~942 |
-| I Choose You | 18.00% | ~847 |
-| Nothing to Lose | 18.00% | ~847 |
+| I Choose You | 18.00% | ~848 |
+| Nothing to Lose | 18.00% | ~848 |
 | Big Sister | 16.00% | ~753 |
 | SENTINEL | 16.00% | ~753 |
 | Gear Up | 15.00% | ~706 |
@@ -42,8 +42,8 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~330 |
 | Liberation | 7.00% | ~330 |
 | Risk Assessment | 7.00% | ~330 |
-| Sunglasses at Night | 6.00% | ~282 |
-| Carbon Cat | 6.00% | ~282 |
+| Sunglasses at Night | 6.00% | ~283 |
+| Carbon Cat | 6.00% | ~283 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~235 |
 | Man of Steel | 5.00% | ~235 |
 | Jack of All Trades | 5.00% | ~235 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,708 (Ranked 171)  
-Completed: 16 (0.34%) (Ranked 186)  
+Progressed: 4,709 (Ranked 171)  
+Completed: 16 (0.34%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,7 +209,7 @@ Completed: 16 (0.34%) (Ranked 186)
 | 2023-09-28 | 4,699 | 16 |
 | 2023-09-29 | 4,703 | 16 |
 | 2023-09-30 | 4,706 | 16 |
-| 2023-10-01 | 4,708 | 16 |
+| 2023-10-01 | 4,709 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 470)  
 Sum: 29 (Ranked 486)  

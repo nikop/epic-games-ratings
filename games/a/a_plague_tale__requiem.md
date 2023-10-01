@@ -5,23 +5,23 @@ Rating: 4.73 (Ranked 163)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,351 |
+| Under a New Sun | 92.00% | ~12,352 |
 | Newcomers | 78.00% | ~10,472 |
-| A Burden of Blood | 73.00% | ~9,800 |
+| A Burden of Blood | 73.00% | ~9,801 |
 | Protector's Duty | 70.00% | ~9,398 |
-| In our Wake | 68.00% | ~9,129 |
-| Alchemist | 68.00% | ~9,129 |
-| Leaving all Behind | 65.00% | ~8,726 |
+| In our Wake | 68.00% | ~9,130 |
+| Alchemist | 68.00% | ~9,130 |
+| Leaving all Behind | 65.00% | ~8,727 |
 | Felons | 62.00% | ~8,324 |
-| A Sea of Promises | 61.00% | ~8,189 |
-| Tales and Revelations | 57.00% | ~7,652 |
-| Bloodline | 52.00% | ~6,981 |
+| A Sea of Promises | 61.00% | ~8,190 |
+| Tales and Revelations | 57.00% | ~7,653 |
+| Bloodline | 52.00% | ~6,982 |
 | The Cradle of Centuries | 48.00% | ~6,444 |
 | The Life We Deserve | 46.00% | ~6,176 |
 | Night guard | 43.00% | ~5,773 |
 | Nothing Left | 39.00% | ~5,236 |
-| Healing our Wounds | 37.00% | ~4,967 |
-| Dying Sun | 33.00% | ~4,430 |
+| Healing our Wounds | 37.00% | ~4,968 |
+| Dying Sun | 33.00% | ~4,431 |
 | Improved crossbow | 27.00% | ~3,625 |
 | King Hugo | 25.00% | ~3,356 |
 | Mercy | 24.00% | ~3,222 |
@@ -37,12 +37,12 @@ Rating: 4.73 (Ranked 163)
 | Ornithologist | 5.00% | ~671 |
 | Immortal memories | 4.00% | ~537 |
 | Sneaky | 4.00% | ~537 |
-| Explorer | 2.00% | ~268 |
-| Old protector | 2.00% | ~268 |
+| Explorer | 2.00% | ~269 |
+| Old protector | 2.00% | ~269 |
 | Malignant | 1.00% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,425 (Ranked 134)  
-Completed: 48 (0.36%) (Ranked 182)  
+Progressed: 13,426 (Ranked 134)  
+Completed: 48 (0.36%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,7 +205,7 @@ Completed: 48 (0.36%) (Ranked 182)
 | 2023-09-28 | 13,369 | 47 |
 | 2023-09-29 | 13,394 | 47 |
 | 2023-09-30 | 13,421 | 48 |
-| 2023-10-01 | 13,425 | 48 |
+| 2023-10-01 | 13,426 | 48 |
 ## Awards
 Max (Great Boss Battles): 423  (Ranked 215)  
 Sum: 650 (Ranked 294)  

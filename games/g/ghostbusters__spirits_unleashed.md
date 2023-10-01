@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 573)
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26,126 (Ranked 114)  
-Completed: 58 (0.22%) (Ranked 211)  
+Completed: 58 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,9 +223,9 @@ Completed: 58 (0.22%) (Ranked 211)
 | 2023-09-30 | 26,122 | 58 |
 | 2023-10-01 | 26,126 | 58 |
 ## Awards
-Max (Great for Quick Sessions): 258  (Ranked 255)  
+Max (Great for Quick Sessions): 258  (Ranked 256)  
 Sum: 2,350 (Ranked 188)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 258 |

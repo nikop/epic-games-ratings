@@ -6,9 +6,9 @@
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 49,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1006,7 +1006,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256814,
+  "EOS_Progressed": 256815,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
@@ -17326,6 +17326,11 @@
       "Time": "2023-10-01T09:04:25.3273676+00:00",
       "NumProgressed": 256814,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T10:05:06.2773547+00:00",
+      "NumProgressed": 256815,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17385,7 +17390,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79612
+      "UsersEstimate": 79613
     },
     {
       "ID": "BackHomeNTimes",
@@ -17441,7 +17446,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25681
+      "UsersEstimate": 25682
     },
     {
       "ID": "CreditLevel2",
@@ -17729,7 +17734,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25681
+      "UsersEstimate": 25682
     },
     {
       "ID": "ReachNDays2",
@@ -17784,7 +17789,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256814,
+      "Progressed": 256815,
       "Completed": 3
     }
   ],
@@ -17792,8 +17797,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-25T11:59:20.3104585+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:04:25.327367+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:05:06.2773543+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.0363814+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:01:01.4458392+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:04:25.3274828+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:03:22.4868623+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:05:06.2774771+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6310,10 +6310,10 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136936,
-  "EOS_Completed": 158,
-  "EOS_NewPlayers": 316,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 136940,
+  "EOS_Completed": 159,
+  "EOS_NewPlayers": 315,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -23120,6 +23120,11 @@
       "Time": "2023-10-01T09:07:08.0702155+00:00",
       "NumProgressed": 136936,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-10-01T10:09:06.9407061+00:00",
+      "NumProgressed": 136940,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 112,
@@ -23139,7 +23144,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "advlevel03",
@@ -23179,7 +23184,7 @@
       "Name": "Ascended",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "ascend02",
@@ -23259,7 +23264,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "boss01",
@@ -23323,7 +23328,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "collection02",
@@ -23539,7 +23544,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "furniture02",
@@ -23595,7 +23600,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "gold01",
@@ -23723,7 +23728,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "level03",
@@ -23769,9 +23774,9 @@
       "ID": "loot03",
       "SetID": "anfd17p",
       "Name": "Bountiful Harvest",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 685
     },
     {
       "ID": "loot04",
@@ -24003,7 +24008,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "workers03",
@@ -24026,15 +24031,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136936,
-      "Completed": 158
+      "Progressed": 136940,
+      "Completed": 159
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T22:59:01.2642222+00:00",
-  "LastChanged_Achievements": "2023-10-01T09:07:08.0702152+00:00",
+  "LastChanged_Achievements": "2023-10-01T10:09:06.9407054+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:59:19.6796902+00:00",
-  "LastUpdate_Achievements": "2023-10-01T09:07:08.070414+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:00:06.647784+00:00",
+  "LastUpdate_Achievements": "2023-10-01T10:09:06.9409024+00:00"
 }

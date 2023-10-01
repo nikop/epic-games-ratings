@@ -6,305 +6,351 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 7.00% | ~998 |
-| Play a Single Player Game | 7.00% | ~998 |
-| Explorer | 6.00% | ~855 |
-| Friendly Family | 6.00% | ~855 |
-| Able | 5.00% | ~713 |
-| Architect | 5.00% | ~713 |
-| Intrepid | 5.00% | ~713 |
-| Mason | 5.00% | ~713 |
-| Strong | 5.00% | ~713 |
-| Hanging Gardens | 5.00% | ~713 |
-| The Clergy | 5.00% | ~713 |
-| Enlightened | 4.00% | ~570 |
-| Glorious | 4.00% | ~570 |
-| Good | 4.00% | ~570 |
-| Just | 4.00% | ~570 |
-| Keystone | 4.00% | ~570 |
-| Learned | 4.00% | ~570 |
-| Noble | 4.00% | ~570 |
-| Pioneer | 4.00% | ~570 |
-| Warrior | 4.00% | ~570 |
-| Developing Cities | 4.00% | ~570 |
-| Oracle | 4.00% | ~570 |
-| Pyramids | 4.00% | ~570 |
-| Judaism | 4.00% | ~570 |
-| Greek Paganism | 4.00% | ~570 |
-| Naming Landmarks | 4.00% | ~570 |
-| Trade Caravan | 4.00% | ~570 |
-| Ambitious | 3.00% | ~428 |
-| Brilliant | 3.00% | ~428 |
-| Fountainhead | 3.00% | ~428 |
-| Great | 3.00% | ~428 |
-| Magnificent | 3.00% | ~428 |
-| Wise | 3.00% | ~428 |
-| Strong Cities | 3.00% | ~428 |
-| Able Difficulty | 3.00% | ~428 |
-| Furious Family | 3.00% | ~428 |
-| Apadana | 3.00% | ~428 |
-| Great Ziggurat | 3.00% | ~428 |
-| Ishtar Gate | 3.00% | ~428 |
-| Lighthouse | 3.00% | ~428 |
-| Necropolis | 3.00% | ~428 |
-| Learn to Play 1 | 3.00% | ~428 |
-| Christianity | 3.00% | ~428 |
-| Manichaeism | 3.00% | ~428 |
-| Babylonian Paganism | 3.00% | ~428 |
-| Carthaginian Paganism | 3.00% | ~428 |
-| Egyptian Paganism | 3.00% | ~428 |
-| Roman Paganism | 3.00% | ~428 |
-| Zoroastrianism | 3.00% | ~428 |
-| The Great Mage | 3.00% | ~428 |
-| Regicide | 2.00% | ~285 |
-| Hanging Gardens in Babylon | 2.00% | ~285 |
-| Beloved | 2.00% | ~285 |
-| Drillmaster | 2.00% | ~285 |
-| Intercessor | 2.00% | ~285 |
-| Mighty | 2.00% | ~285 |
-| Valiant | 2.00% | ~285 |
-| Victorious | 2.00% | ~285 |
-| Legendary Cities | 2.00% | ~285 |
-| Just Difficulty | 2.00% | ~285 |
-| Artisans | 2.00% | ~285 |
-| Champions | 2.00% | ~285 |
-| Sages | 2.00% | ~285 |
-| Acropolis | 2.00% | ~285 |
-| Colossus | 2.00% | ~285 |
-| Mausoleum | 2.00% | ~285 |
-| Musaeum | 2.00% | ~285 |
-| Learn to Play 2 | 2.00% | ~285 |
-| Learn to Play 3 | 2.00% | ~285 |
-| Greece | 2.00% | ~285 |
-| Persian Paganism | 2.00% | ~285 |
-| Building Wonders | 2.00% | ~285 |
-| Legalism | 2.00% | ~285 |
-| Mythology | 2.00% | ~285 |
-| Points Victory | 2.00% | ~285 |
-| Poetic Leader | 2.00% | ~285 |
-| Bad Heir Day | 1.00% | ~143 |
-| Capable | 1.00% | ~143 |
-| Conqueror | 1.00% | ~143 |
-| Devout | 1.00% | ~143 |
-| Invincible | 1.00% | ~143 |
-| Lion | 1.00% | ~143 |
-| Ready | 1.00% | ~143 |
-| Subjugator | 1.00% | ~143 |
-| Good Difficulty | 1.00% | ~143 |
-| Landowners | 1.00% | ~143 |
-| Patrons | 1.00% | ~143 |
-| Riders | 1.00% | ~143 |
-| Statesmen | 1.00% | ~143 |
-| Traders | 1.00% | ~143 |
-| Hittite Iron | 1.00% | ~143 |
-| Circus Maximus | 1.00% | ~143 |
-| Hagia Sophia | 1.00% | ~143 |
-| Church of the Holy Sepulchre | 1.00% | ~143 |
-| Temple of Solomon | 1.00% | ~143 |
-| Adur Burzen-Mihr | 1.00% | ~143 |
-| Pantheon | 1.00% | ~143 |
-| Via Recta Souk | 1.00% | ~143 |
-| Learn to Play 4 | 1.00% | ~143 |
-| Babylonia | 1.00% | ~143 |
-| Carthage | 1.00% | ~143 |
-| Power to the People | 1.00% | ~143 |
-| Assyrian Paganism | 1.00% | ~143 |
-| Hittite Paganism | 1.00% | ~143 |
-| Economic Reform | 1.00% | ~143 |
-| Industrial Progress | 1.00% | ~143 |
-| Military Prestige | 1.00% | ~143 |
-| Dualism | 1.00% | ~143 |
-| Enlightenment | 1.00% | ~143 |
-| Gnosticism | 1.00% | ~143 |
-| Redemption | 1.00% | ~143 |
-| Revelation | 1.00% | ~143 |
-| Veneration | 1.00% | ~143 |
-| Cimmerian Archer | 1.00% | ~143 |
-| Kushite Cavalry | 1.00% | ~143 |
-| Legionary | 1.00% | ~143 |
-| Phalangite | 1.00% | ~143 |
-| Ambition Victory | 1.00% | ~143 |
-| Double Victory | 1.00% | ~143 |
-| Win a Single Player Game | 1.00% | ~143 |
-| Ishtar Gate in Babylon | 0.90% | ~128 |
-| Strong Difficulty | 0.90% | ~128 |
-| Hunters | 0.90% | ~128 |
-| Turreted Elephant | 0.90% | ~128 |
-| Clerics | 0.80% | ~114 |
-| Cao'an | 0.80% | ~114 |
-| Egypt | 0.80% | ~114 |
-| Rome | 0.80% | ~114 |
-| One True Faith | 0.80% | ~114 |
-| No Undo | 0.80% | ~114 |
-| Old | 0.70% | ~100 |
-| Peacemaker | 0.70% | ~100 |
-| Play a Network Game | 0.70% | ~100 |
-| Cataphract Archer | 0.70% | ~100 |
-| All Nations | 0.70% | ~100 |
-| Carthage - Ox Hide | 0.60% | ~86 |
-| Noble Difficulty | 0.60% | ~86 |
-| The Eternal Treaty | 0.60% | ~86 |
-| Persia | 0.60% | ~86 |
-| Old World Order | 0.60% | ~86 |
-| Learn to Play 5 | 0.50% | ~71 |
-| Play a Free-For-All Game (>2 Players) | 0.50% | ~71 |
-| Capturing Cities | 0.50% | ~71 |
-| Ten Crowns | 0.50% | ~71 |
-| Three Man Chariot | 0.50% | ~71 |
-| Conquest Victory | 0.50% | ~71 |
-| Necropolis in Waset | 0.50% | ~71 |
-| Bronze Victory (Carthage 1) | 0.40% | ~57 |
-| Ancient | 0.40% | ~57 |
-| Glorious Difficulty | 0.40% | ~57 |
-| Run, Pheidippides, Run! | 0.40% | ~57 |
-| Hatti | 0.40% | ~57 |
-| Pantheon of Gods | 0.40% | ~57 |
-| Apadana in Parsa | 0.40% | ~57 |
-| Siege Tower | 0.40% | ~57 |
-| Pilgrimage | 0.40% | ~57 |
-| Patriarch St Paul | 0.40% | ~57 |
-| Silver Victory (Carthage 1) | 0.30% | ~43 |
-| Carthage - Riches and Influence | 0.30% | ~43 |
-| Cleopatra's Love | 0.30% | ~43 |
-| Great Difficulty | 0.30% | ~43 |
-| Magnificent Difficulty | 0.30% | ~43 |
-| Event Level High | 0.30% | ~43 |
-| Nenikekamen | 0.30% | ~43 |
-| Macedonian Wars | 0.30% | ~43 |
-| Assyria | 0.30% | ~43 |
-| Play a MP Teams Game | 0.30% | ~43 |
-| Circus Maximus in Roma | 0.30% | ~43 |
-| Pantheon in Roma | 0.30% | ~43 |
-| Hypatia the Teacher | 0.30% | ~43 |
-| Blade of the Monkey | 0.20% | ~29 |
-| Gold Victory (Carthage 1) | 0.20% | ~29 |
-| Bronze Victory (Carthage 2) | 0.20% | ~29 |
-| Gold Victory (Carthage 2) | 0.20% | ~29 |
-| Silver Victory (Carthage 2) | 0.20% | ~29 |
-| Holy | 0.20% | ~29 |
-| Five Routs | 0.20% | ~29 |
-| Get the Hellas Out | 0.20% | ~29 |
-| The Turning Point | 0.20% | ~29 |
-| A Good Start | 0.20% | ~29 |
-| Like a Lion | 0.20% | ~29 |
-| Tell the Spartans | 0.20% | ~29 |
-| Medo-Babylonian Conquest | 0.20% | ~29 |
-| Realistic Mortality | 0.20% | ~29 |
-| Play a Play-By-Cloud Game | 0.20% | ~29 |
-| Punic Wars | 0.20% | ~29 |
-| Word of God | 0.20% | ~29 |
-| Randomized Families | 0.20% | ~29 |
-| Randomized Leaders | 0.20% | ~29 |
-| Time Victory | 0.20% | ~29 |
-| Centenarian | 0.10% | ~14 |
-| Lighthouse in Alexandria | 0.10% | ~14 |
-| Musaeum in Alexandria | 0.10% | ~14 |
-| Alliance Victory | 0.10% | ~14 |
-| Future Regicide | 0.10% | ~14 |
-| Acropolis in Athenai | 0.10% | ~14 |
-| Barbarian Horde | 0.10% | ~14 |
-| United Against The Horde | 0.10% | ~14 |
-| Battle of Opis | 0.10% | ~14 |
-| Before the Mongol Horde | 0.10% | ~14 |
-| Hagia Sophia in Byzantion | 0.10% | ~14 |
-| Epic Victory (Carthage 1) | 0.10% | ~14 |
-| Epic Victory (Carthage 2) | 0.10% | ~14 |
-| Carthage - Rise of Rome | 0.10% | ~14 |
-| Bronze Victory (Carthage 3) | 0.10% | ~14 |
-| Epic Victory (Carthage 3) | 0.10% | ~14 |
-| Gold Victory (Carthage 3) | 0.10% | ~14 |
-| Silver Victory (Carthage 3) | 0.10% | ~14 |
-| Carthage - Seizing Destiny | 0.10% | ~14 |
-| Bronze Victory (Carthage 4) | 0.10% | ~14 |
-| Epic Victory (Carthage 4) | 0.10% | ~14 |
-| Gold Victory (Carthage 4) | 0.10% | ~14 |
-| Silver Victory (Carthage 4) | 0.10% | ~14 |
-| Carthage Campaign | 0.10% | ~14 |
-| Avenger | 0.10% | ~14 |
-| Destroyer | 0.10% | ~14 |
-| Rebuilder | 0.10% | ~14 |
-| Restorer | 0.10% | ~14 |
-| White Death | 0.10% | ~14 |
-| Ethnic Diversity | 0.10% | ~14 |
-| Et tu Brutus? | 0.10% | ~14 |
-| Battle of the Fertile Crescent | 0.10% | ~14 |
-| Game of the Week | 0.10% | ~14 |
-| That Also Works | 0.10% | ~14 |
-| Defend Where? | 0.10% | ~14 |
-| Not a Chance | 0.10% | ~14 |
-| Still Fighting | 0.10% | ~14 |
-| They Shall Not Pass | 0.10% | ~14 |
-| THIS IS SPARTA!! | 0.10% | ~14 |
-| Shape of Things to Come | 0.10% | ~14 |
-| I am the Archon Now | 0.10% | ~14 |
-| The Olive Wreath | 0.10% | ~14 |
-| Those Were Mine | 0.10% | ~14 |
-| If? Then! | 0.10% | ~14 |
-| What's 'hubris' in Greek? | 0.10% | ~14 |
-| Three's a Crowd | 0.10% | ~14 |
-| Unfinished Business | 0.10% | ~14 |
-| Philip's Bronze Crown | 0.10% | ~14 |
-| Philip's Golden Crown | 0.10% | ~14 |
-| Philip's Silver Crown | 0.10% | ~14 |
-| Queen of Politics | 0.10% | ~14 |
-| Queen of Intrigue | 0.10% | ~14 |
-| Queen of Lies | 0.10% | ~14 |
-| Queen of Opportunity | 0.10% | ~14 |
-| Queen of War | 0.10% | ~14 |
-| Mighty Bucephalus | 0.10% | ~14 |
-| Knot So Hard | 0.10% | ~14 |
-| Gate to Victory | 0.10% | ~14 |
-| Pharaoh | 0.10% | ~14 |
-| A Tyresome Siege | 0.10% | ~14 |
-| Alexander the Mediocre | 0.10% | ~14 |
-| Alexander the Great | 0.10% | ~14 |
-| Alexander the Alright | 0.10% | ~14 |
-| Toppling the Giants | 0.10% | ~14 |
-| The Eastern Empire | 0.10% | ~14 |
-| Hardcore | 0.10% | ~14 |
-| Learn By Playing 1 - Able | 0.10% | ~14 |
-| Learn By Playing 2 - Just | 0.10% | ~14 |
-| Learn By Playing 3 - Good | 0.10% | ~14 |
-| Learn By Playing 4 - Strong | 0.10% | ~14 |
-| Pyramids in Menefer | 0.10% | ~14 |
-| Merchants of the Levant | 0.10% | ~14 |
-| Play a 1-v-1 Game | 0.10% | ~14 |
-| Play a Hotseat Game | 0.10% | ~14 |
-| Play a LAN Game | 0.10% | ~14 |
-| Roman Papacy | 0.10% | ~14 |
-| Great Ziggurat in Ur | 0.10% | ~14 |
-| No Characters | 0.10% | ~14 |
-| One City Challenge | 0.10% | ~14 |
-| Role-Playing | 0.10% | ~14 |
-| Win a 1-v-1 Game | 0.10% | ~14 |
-| Win a Free-For-All Game (>2 Players) | 0.10% | ~14 |
-| Win a Hotseat Game | 0.10% | ~14 |
-| Win a MP Teams Game | 0.10% | ~14 |
-| Win a Network Game | 0.10% | ~14 |
-| Win a Play-By-Cloud Game | 0.10% | ~14 |
-| Deposed Tribe | 0.10% | ~14 |
-| Religious Dissent | 0.10% | ~14 |
-| Five Cults | 0.10% | ~14 |
-| The Mythical Beast | 0.10% | ~14 |
-| The Royal Couple | 0.10% | ~14 |
+| Regicide | 0.10% | ~14 |
+| Ambitious | 0.10% | ~14 |
+| Keystone | 0.10% | ~14 |
+| Legendary Cities | 0.10% | ~14 |
+| Circus Maximus | 0.10% | ~14 |
+| Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
+| Lighthouse in Alexandria | 0.00% | ~0 |
+| Musaeum in Alexandria | 0.00% | ~0 |
+| Alliance Victory | 0.00% | ~0 |
+| Bad Heir Day | 0.00% | ~0 |
+| Future Regicide | 0.00% | ~0 |
+| Acropolis in Athenai | 0.00% | ~0 |
+| Hanging Gardens in Babylon | 0.00% | ~0 |
+| Ishtar Gate in Babylon | 0.00% | ~0 |
+| Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
+| United Against The Horde | 0.00% | ~0 |
+| Battle of Opis | 0.00% | ~0 |
+| Before the Mongol Horde | 0.00% | ~0 |
+| Blade of the Monkey | 0.00% | ~0 |
+| Hagia Sophia in Byzantion | 0.00% | ~0 |
+| Carthage - Ox Hide | 0.00% | ~0 |
+| Bronze Victory (Carthage 1) | 0.00% | ~0 |
+| Epic Victory (Carthage 1) | 0.00% | ~0 |
+| Gold Victory (Carthage 1) | 0.00% | ~0 |
+| Silver Victory (Carthage 1) | 0.00% | ~0 |
+| Carthage - Riches and Influence | 0.00% | ~0 |
+| Bronze Victory (Carthage 2) | 0.00% | ~0 |
+| Epic Victory (Carthage 2) | 0.00% | ~0 |
+| Gold Victory (Carthage 2) | 0.00% | ~0 |
+| Silver Victory (Carthage 2) | 0.00% | ~0 |
+| Carthage - Rise of Rome | 0.00% | ~0 |
+| Bronze Victory (Carthage 3) | 0.00% | ~0 |
+| Epic Victory (Carthage 3) | 0.00% | ~0 |
+| Gold Victory (Carthage 3) | 0.00% | ~0 |
+| Silver Victory (Carthage 3) | 0.00% | ~0 |
+| Carthage - Seizing Destiny | 0.00% | ~0 |
+| Bronze Victory (Carthage 4) | 0.00% | ~0 |
+| Epic Victory (Carthage 4) | 0.00% | ~0 |
+| Gold Victory (Carthage 4) | 0.00% | ~0 |
+| Silver Victory (Carthage 4) | 0.00% | ~0 |
+| Carthage Campaign | 0.00% | ~0 |
+| Cleopatra's Love | 0.00% | ~0 |
+| Able | 0.00% | ~0 |
+| Ancient | 0.00% | ~0 |
+| Architect | 0.00% | ~0 |
+| Avenger | 0.00% | ~0 |
+| Beloved | 0.00% | ~0 |
+| Drillmaster | 0.00% | ~0 |
+| Brilliant | 0.00% | ~0 |
+| Capable | 0.00% | ~0 |
+| Conqueror | 0.00% | ~0 |
+| Destroyer | 0.00% | ~0 |
+| Devout | 0.00% | ~0 |
+| Enlightened | 0.00% | ~0 |
+| Explorer | 0.00% | ~0 |
+| Fountainhead | 0.00% | ~0 |
+| Glorious | 0.00% | ~0 |
+| Good | 0.00% | ~0 |
+| Great | 0.00% | ~0 |
+| Holy | 0.00% | ~0 |
+| Intercessor | 0.00% | ~0 |
+| Intrepid | 0.00% | ~0 |
+| Invincible | 0.00% | ~0 |
+| Just | 0.00% | ~0 |
+| Learned | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
+| Lion | 0.00% | ~0 |
+| Magnificent | 0.00% | ~0 |
+| Mason | 0.00% | ~0 |
+| Mighty | 0.00% | ~0 |
+| Noble | 0.00% | ~0 |
+| Old | 0.00% | ~0 |
+| Peacemaker | 0.00% | ~0 |
+| Pioneer | 0.00% | ~0 |
+| Ready | 0.00% | ~0 |
+| Rebuilder | 0.00% | ~0 |
+| Restorer | 0.00% | ~0 |
+| Settler | 0.00% | ~0 |
+| Strong | 0.00% | ~0 |
+| Subjugator | 0.00% | ~0 |
+| Valiant | 0.00% | ~0 |
+| Victorious | 0.00% | ~0 |
+| Warrior | 0.00% | ~0 |
+| White Death | 0.00% | ~0 |
+| Wise | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
+| Developing Cities | 0.00% | ~0 |
+| Strong Cities | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
+| Able Difficulty | 0.00% | ~0 |
+| Glorious Difficulty | 0.00% | ~0 |
+| Good Difficulty | 0.00% | ~0 |
+| Great Difficulty | 0.00% | ~0 |
+| Just Difficulty | 0.00% | ~0 |
+| Magnificent Difficulty | 0.00% | ~0 |
+| Noble Difficulty | 0.00% | ~0 |
+| Strong Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
+| Ethnic Diversity | 0.00% | ~0 |
+| Et tu Brutus? | 0.00% | ~0 |
+| Event Level High | 0.00% | ~0 |
+| Artisans | 0.00% | ~0 |
+| Champions | 0.00% | ~0 |
+| Clerics | 0.00% | ~0 |
+| Hunters | 0.00% | ~0 |
+| Landowners | 0.00% | ~0 |
+| Patrons | 0.00% | ~0 |
+| Riders | 0.00% | ~0 |
+| Sages | 0.00% | ~0 |
+| Statesmen | 0.00% | ~0 |
+| Traders | 0.00% | ~0 |
+| Friendly Family | 0.00% | ~0 |
+| Furious Family | 0.00% | ~0 |
+| Battle of the Fertile Crescent | 0.00% | ~0 |
+| The Eternal Treaty | 0.00% | ~0 |
+| Five Routs | 0.00% | ~0 |
+| Game of the Week | 0.00% | ~0 |
+| That Also Works | 0.00% | ~0 |
+| Defend Where? | 0.00% | ~0 |
+| Run, Pheidippides, Run! | 0.00% | ~0 |
+| Nenikekamen | 0.00% | ~0 |
+| Get the Hellas Out | 0.00% | ~0 |
+| Not a Chance | 0.00% | ~0 |
+| The Turning Point | 0.00% | ~0 |
+| A Good Start | 0.00% | ~0 |
+| Like a Lion | 0.00% | ~0 |
+| Still Fighting | 0.00% | ~0 |
+| They Shall Not Pass | 0.00% | ~0 |
+| THIS IS SPARTA!! | 0.00% | ~0 |
+| Tell the Spartans | 0.00% | ~0 |
+| Shape of Things to Come | 0.00% | ~0 |
+| I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
+| The Olive Wreath | 0.00% | ~0 |
+| Those Were Mine | 0.00% | ~0 |
+| If? Then! | 0.00% | ~0 |
+| What's 'hubris' in Greek? | 0.00% | ~0 |
+| Three's a Crowd | 0.00% | ~0 |
+| Unfinished Business | 0.00% | ~0 |
+| Philip's Bronze Crown | 0.00% | ~0 |
+| Philip's Golden Crown | 0.00% | ~0 |
+| Philip's Silver Crown | 0.00% | ~0 |
+| Queen of Politics | 0.00% | ~0 |
+| Queen of Intrigue | 0.00% | ~0 |
+| Queen of Lies | 0.00% | ~0 |
+| Queen of Opportunity | 0.00% | ~0 |
+| Queen of War | 0.00% | ~0 |
+| Mighty Bucephalus | 0.00% | ~0 |
+| Knot So Hard | 0.00% | ~0 |
+| Gate to Victory | 0.00% | ~0 |
+| Pharaoh | 0.00% | ~0 |
+| A Tyresome Siege | 0.00% | ~0 |
+| Alexander the Mediocre | 0.00% | ~0 |
+| Alexander the Great | 0.00% | ~0 |
+| Alexander the Alright | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
+| Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
+| The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
+| Hardcore | 0.00% | ~0 |
+| Hittite Iron | 0.00% | ~0 |
+| Acropolis | 0.00% | ~0 |
+| Apadana | 0.00% | ~0 |
+| Colossus | 0.00% | ~0 |
+| Great Ziggurat | 0.00% | ~0 |
+| Hagia Sophia | 0.00% | ~0 |
+| Hanging Gardens | 0.00% | ~0 |
+| Church of the Holy Sepulchre | 0.00% | ~0 |
+| Temple of Solomon | 0.00% | ~0 |
+| Cao'an | 0.00% | ~0 |
+| Adur Burzen-Mihr | 0.00% | ~0 |
+| Ishtar Gate | 0.00% | ~0 |
+| Lighthouse | 0.00% | ~0 |
+| Mausoleum | 0.00% | ~0 |
+| Musaeum | 0.00% | ~0 |
+| Necropolis | 0.00% | ~0 |
+| Oracle | 0.00% | ~0 |
+| Pantheon | 0.00% | ~0 |
+| Pyramids | 0.00% | ~0 |
+| Via Recta Souk | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
+| Learn By Playing 1 - Able | 0.00% | ~0 |
+| Learn By Playing 2 - Just | 0.00% | ~0 |
+| Learn By Playing 3 - Good | 0.00% | ~0 |
+| Learn By Playing 4 - Strong | 0.00% | ~0 |
+| Learn to Play 1 | 0.00% | ~0 |
+| Learn to Play 2 | 0.00% | ~0 |
+| Learn to Play 3 | 0.00% | ~0 |
+| Learn to Play 4 | 0.00% | ~0 |
+| Learn to Play 5 | 0.00% | ~0 |
+| Macedonian Wars | 0.00% | ~0 |
+| Medo-Babylonian Conquest | 0.00% | ~0 |
+| Pyramids in Menefer | 0.00% | ~0 |
+| Merchants of the Levant | 0.00% | ~0 |
+| Realistic Mortality | 0.00% | ~0 |
+| Assyria | 0.00% | ~0 |
+| Babylonia | 0.00% | ~0 |
+| Carthage | 0.00% | ~0 |
+| Egypt | 0.00% | ~0 |
+| Greece | 0.00% | ~0 |
+| Hatti | 0.00% | ~0 |
+| Persia | 0.00% | ~0 |
+| Rome | 0.00% | ~0 |
+| Old World Order | 0.00% | ~0 |
+| One True Faith | 0.00% | ~0 |
+| Pantheon of Gods | 0.00% | ~0 |
+| Apadana in Parsa | 0.00% | ~0 |
+| Play a 1-v-1 Game | 0.00% | ~0 |
+| Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
+| Play a Hotseat Game | 0.00% | ~0 |
+| Play a LAN Game | 0.00% | ~0 |
+| Play a MP Teams Game | 0.00% | ~0 |
+| Play a Network Game | 0.00% | ~0 |
+| Play a Play-By-Cloud Game | 0.00% | ~0 |
+| Play a Single Player Game | 0.00% | ~0 |
+| Power to the People | 0.00% | ~0 |
+| Punic Wars | 0.00% | ~0 |
+| Christianity | 0.00% | ~0 |
+| Judaism | 0.00% | ~0 |
+| Manichaeism | 0.00% | ~0 |
+| Assyrian Paganism | 0.00% | ~0 |
+| Babylonian Paganism | 0.00% | ~0 |
+| Carthaginian Paganism | 0.00% | ~0 |
+| Egyptian Paganism | 0.00% | ~0 |
+| Greek Paganism | 0.00% | ~0 |
+| Hittite Paganism | 0.00% | ~0 |
+| Persian Paganism | 0.00% | ~0 |
+| Roman Paganism | 0.00% | ~0 |
+| Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
+| Roman Papacy | 0.00% | ~0 |
+| Circus Maximus in Roma | 0.00% | ~0 |
+| Pantheon in Roma | 0.00% | ~0 |
+| Building Wonders | 0.00% | ~0 |
+| Capturing Cities | 0.00% | ~0 |
+| Naming Landmarks | 0.00% | ~0 |
+| Ten Crowns | 0.00% | ~0 |
+| Economic Reform | 0.00% | ~0 |
+| Industrial Progress | 0.00% | ~0 |
+| Military Prestige | 0.00% | ~0 |
+| Dualism | 0.00% | ~0 |
+| Enlightenment | 0.00% | ~0 |
+| Gnosticism | 0.00% | ~0 |
+| Legalism | 0.00% | ~0 |
+| Mythology | 0.00% | ~0 |
+| Redemption | 0.00% | ~0 |
+| Revelation | 0.00% | ~0 |
+| Veneration | 0.00% | ~0 |
+| Word of God | 0.00% | ~0 |
+| Trade Caravan | 0.00% | ~0 |
+| Cataphract Archer | 0.00% | ~0 |
+| Cimmerian Archer | 0.00% | ~0 |
+| Three Man Chariot | 0.00% | ~0 |
+| Mounted Lancer | 0.00% | ~0 |
+| Legionary | 0.00% | ~0 |
+| Phalangite | 0.00% | ~0 |
+| Siege Tower | 0.00% | ~0 |
+| Turreted Elephant | 0.00% | ~0 |
+| Great Ziggurat in Ur | 0.00% | ~0 |
+| All Nations | 0.00% | ~0 |
+| Ambition Victory | 0.00% | ~0 |
+| Conquest Victory | 0.00% | ~0 |
+| Double Victory | 0.00% | ~0 |
+| No Characters | 0.00% | ~0 |
+| No Undo | 0.00% | ~0 |
+| One City Challenge | 0.00% | ~0 |
+| Points Victory | 0.00% | ~0 |
+| Randomized Families | 0.00% | ~0 |
+| Randomized Leaders | 0.00% | ~0 |
+| Role-Playing | 0.00% | ~0 |
+| Time Victory | 0.00% | ~0 |
+| Necropolis in Waset | 0.00% | ~0 |
+| Win a 1-v-1 Game | 0.00% | ~0 |
+| Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
+| Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
+| Win a MP Teams Game | 0.00% | ~0 |
+| Win a Network Game | 0.00% | ~0 |
+| Win a Play-By-Cloud Game | 0.00% | ~0 |
+| Win a Single Player Game | 0.00% | ~0 |
+| The Clergy | 0.00% | ~0 |
+| Deposed Tribe | 0.00% | ~0 |
+| Religious Dissent | 0.00% | ~0 |
+| Five Cults | 0.00% | ~0 |
+| The Great Mage | 0.00% | ~0 |
+| The Mythical Beast | 0.00% | ~0 |
+| Pilgrimage | 0.00% | ~0 |
+| Poetic Leader | 0.00% | ~0 |
+| Patriarch St Paul | 0.00% | ~0 |
+| Hypatia the Teacher | 0.00% | ~0 |
+| The Royal Couple | 0.00% | ~0 |
+| Rmt n Kmt Buhen | 0.00% | ~0 |
+| Only Kem | 0.00% | ~0 |
+| Sepat Wase Forever | 0.00% | ~0 |
+| Greater Kmt Unified | 0.00% | ~0 |
+| Kmt Unified | 0.00% | ~0 |
+| Pharaonic Greater Kmt Unified | 0.00% | ~0 |
+| Pharaonic Kmt Unified | 0.00% | ~0 |
+| Golden Age-less | 0.00% | ~0 |
+| Worst Pharaoh Ever | 0.00% | ~0 |
+| Kmt Golden Age | 0.00% | ~0 |
+| Prosperous Kmt | 0.00% | ~0 |
+| Pharaonic Kmt Golden Age | 0.00% | ~0 |
+| Prosperous Pharaonic Kmt | 0.00% | ~0 |
+| Failed the Aten | 0.00% | ~0 |
+| Akhen-who? | 0.00% | ~0 |
+| Glory to The Aten | 0.00% | ~0 |
+| Akhenaten's Legacy | 0.00% | ~0 |
+| Pharaonic Glory to The Aten | 0.00% | ~0 |
+| Akhenaten's Pharaonic Legacy | 0.00% | ~0 |
+| Qadesh Defeat | 0.00% | ~0 |
+| Destruction at Qadesh | 0.00% | ~0 |
+| Ramesses II The Great | 0.00% | ~0 |
+| Qadesh Victory | 0.00% | ~0 |
+| Muwatalli II KIA | 0.00% | ~0 |
+| Pharaonic Ramesses II The Great | 0.00% | ~0 |
+| Pharaonic Qadesh Victory | 0.00% | ~0 |
+| Ramesses II KIA | 0.00% | ~0 |
+| Split the Army | 0.00% | ~0 |
+| Lost the Hearts of Kmt | 0.00% | ~0 |
+| The Neter Collapsed | 0.00% | ~0 |
+| Won the Hearts of Kmt | 0.00% | ~0 |
+| Partly Balanced Ma'at | 0.00% | ~0 |
+| Won the Pharaonic Hearts of Kmt | 0.00% | ~0 |
+| Pharaonic Partly Balanced Ma'at | 0.00% | ~0 |
+| Kmt's Sunset | 0.00% | ~0 |
+| Worst.Ending.Possible. | 0.00% | ~0 |
+| Re-writing History | 0.00% | ~0 |
+| History Repeats | 0.00% | ~0 |
+| The Greatest Pharaoh! | 0.00% | ~0 |
+| Pharaonic History Repeats | 0.00% | ~0 |
+| Egypt Campaign | 0.00% | ~0 |
+| The Hekau Khasut Slaves | 0.00% | ~0 |
+| Kushite Pyramids | 0.00% | ~0 |
+| Kush | 0.00% | ~0 |
+| Kushite Paganism | 0.00% | ~0 |
+| Beja Archer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,255 (Ranked 133)  
-Completed: 5 (0.04%) (Ranked 265)  
+Completed: 5 (0.04%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
