@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,424 |
-| I'll Be Back | 85.00% | ~4,000 |
-| Sorry, I Dropped This | 77.00% | ~3,624 |
-| First Day on the Job | 77.00% | ~3,624 |
-| Butcher's Bill | 55.00% | ~2,588 |
-| P.A.X | 38.00% | ~1,788 |
-| Hey Listen | 37.00% | ~1,741 |
-| OPERATOR | 36.00% | ~1,694 |
-| It's Blue Light | 33.00% | ~1,553 |
+| On My Own Two Feet | 94.00% | ~4,426 |
+| I'll Be Back | 85.00% | ~4,002 |
+| Sorry, I Dropped This | 77.00% | ~3,625 |
+| First Day on the Job | 77.00% | ~3,625 |
+| Butcher's Bill | 55.00% | ~2,589 |
+| P.A.X | 38.00% | ~1,789 |
+| Hey Listen | 37.00% | ~1,742 |
+| OPERATOR | 36.00% | ~1,695 |
+| It's Blue Light | 33.00% | ~1,554 |
 | Most Wanted | 27.00% | ~1,271 |
-| Infidel | 24.00% | ~1,129 |
-| Firebug | 21.00% | ~988 |
-| GOLIATH | 21.00% | ~988 |
+| Infidel | 23.00% | ~1,083 |
+| GOLIATH | 21.00% | ~989 |
+| Firebug | 20.00% | ~942 |
 | I Choose You | 18.00% | ~847 |
 | Nothing to Lose | 18.00% | ~847 |
 | Big Sister | 16.00% | ~753 |
@@ -35,14 +35,14 @@ Number of Ratings: 62  (23.09.2022)
 | Raging Drones | 9.00% | ~424 |
 | Overconfident | 9.00% | ~424 |
 | Is This Real Life? | 9.00% | ~424 |
-| Pusher Man | 8.00% | ~376 |
-| Squad Chief Helvig | 8.00% | ~376 |
-| No More Marching | 8.00% | ~376 |
-| Sunglasses at Night | 7.00% | ~329 |
-| Duty-Bound | 7.00% | ~329 |
-| Follow the White Rabbit | 7.00% | ~329 |
-| Liberation | 7.00% | ~329 |
-| Risk Assessment | 7.00% | ~329 |
+| Pusher Man | 8.00% | ~377 |
+| Squad Chief Helvig | 8.00% | ~377 |
+| No More Marching | 8.00% | ~377 |
+| Duty-Bound | 7.00% | ~330 |
+| Follow the White Rabbit | 7.00% | ~330 |
+| Liberation | 7.00% | ~330 |
+| Risk Assessment | 7.00% | ~330 |
+| Sunglasses at Night | 6.00% | ~282 |
 | Carbon Cat | 6.00% | ~282 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~235 |
 | Man of Steel | 5.00% | ~235 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,706 (Ranked 171)  
+Progressed: 4,708 (Ranked 171)  
 Completed: 16 (0.34%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 16 (0.34%) (Ranked 186)
 | 2023-09-28 | 4,699 | 16 |
 | 2023-09-29 | 4,703 | 16 |
 | 2023-09-30 | 4,706 | 16 |
+| 2023-10-01 | 4,708 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 470)  
 Sum: 29 (Ranked 486)  

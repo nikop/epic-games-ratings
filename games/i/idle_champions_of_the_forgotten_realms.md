@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 943)  
+Rating: 4.06 (Ranked 944)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~197 |
 | All's Well That Ends Well | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,591 (Ranked 56)  
+Progressed: 230,593 (Ranked 56)  
 Completed: 2,318 (1.01%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -695,7 +695,7 @@ Completed: 2,318 (1.01%) (Ranked 132)
 | 2023-09-28 | 230,310 | 2,311 |
 | 2023-09-29 | 230,422 | 2,312 |
 | 2023-09-30 | 230,569 | 2,317 |
-| 2023-10-01 | 230,591 | 2,318 |
+| 2023-10-01 | 230,593 | 2,318 |
 ## Awards
 Max (Diverse Characters): 5,348  (Ranked 69)  
 Sum: 31,858 (Ranked 40)  

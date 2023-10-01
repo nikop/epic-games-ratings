@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3656,
+  "EOS_Progressed": 3657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1584,6 +1584,11 @@
       "Time": "2023-09-30T22:06:32.9050408+00:00",
       "NumProgressed": 3656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T08:06:39.6124807+00:00",
+      "NumProgressed": 3657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1595,7 +1600,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1627,7 +1632,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1643,7 +1648,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1651,7 +1656,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1691,7 +1696,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1699,7 +1704,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1707,7 +1712,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1802,7 +1807,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3656,
+      "Progressed": 3657,
       "Completed": 0
     }
   ],
@@ -1810,8 +1815,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-01T07:06:19.480729+00:00",
+  "LastChanged_Achievements": "2023-10-01T08:06:39.6124799+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.506669+00:00",
-  "LastUpdate_Ratings": "2023-10-01T06:58:53.316988+00:00",
-  "LastUpdate_Achievements": "2023-10-01T07:06:19.4807502+00:00"
+  "LastUpdate_Ratings": "2023-10-01T07:59:03.9649229+00:00",
+  "LastUpdate_Achievements": "2023-10-01T08:06:39.6125069+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 22.00% | ~2 |
-| Recycling newbie | 11.00% | ~1 |
-| New recruit | 11.00% | ~1 |
-| Power of the turtle | 11.00% | ~1 |
+| Welcome to Maupiroa | 20.00% | ~2 |
+| Recycling newbie | 10.00% | ~1 |
+| New recruit | 10.00% | ~1 |
+| Power of the turtle | 10.00% | ~1 |
 | Amateur photographer | 0.00% | ~0 |
 | Pro Photographer | 0.00% | ~0 |
 | Animal reporter | 0.00% | ~0 |
@@ -37,7 +37,7 @@
 | Power of the shark | 0.00% | ~0 |
 | The fifth one! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 515)  
+Progressed: 10 (Ranked 513)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 3 | 0 |
 | 2023-09-29 | 5 | 0 |
 | 2023-09-30 | 8 | 0 |
-| 2023-10-01 | 9 | 0 |
+| 2023-10-01 | 10 | 0 |

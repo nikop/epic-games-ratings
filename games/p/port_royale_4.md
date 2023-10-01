@@ -36,9 +36,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~75 |
 | Maker | 7.00% | ~66 |
 | Conglomerate | 6.00% | ~56 |
+| The Grande Bouffe | 6.00% | ~56 |
 | Buccaneer | 5.00% | ~47 |
 | Flying Dutchman | 5.00% | ~47 |
-| The Grande Bouffe | 5.00% | ~47 |
 | Overpopulation | 4.00% | ~38 |
 | Premier Maître | 3.00% | ~28 |
 | Supreme conqueror | 3.00% | ~28 |

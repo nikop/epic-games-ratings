@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2238,9 +2238,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26125,
+  "EOS_Progressed": 26126,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13923,6 +13923,11 @@
       "Time": "2023-10-01T03:04:31.3341934+00:00",
       "NumProgressed": 26125,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-01T08:05:20.9965029+00:00",
+      "NumProgressed": 26126,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14006,7 +14011,7 @@
       "Name": "Daily Dose",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Diabolical",
@@ -14038,7 +14043,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Efficient",
@@ -14092,9 +14097,9 @@
       "ID": "Icing_Cake",
       "SetID": "819popo",
       "Name": "Icing on the Cake",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Legions",
@@ -14206,7 +14211,7 @@
       "Name": "Side Hustle",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Skilled",
@@ -14214,7 +14219,7 @@
       "Name": "Skilled",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Solo_Capture",
@@ -14246,7 +14251,7 @@
       "Name": "Summoner",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Surprise",
@@ -14341,7 +14346,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26125,
+      "Progressed": 26126,
       "Completed": 58
     }
   ],
@@ -14349,8 +14354,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-01T04:59:52.717144+00:00",
-  "LastChanged_Achievements": "2023-10-01T07:05:05.9304762+00:00",
+  "LastChanged_Achievements": "2023-10-01T08:05:20.9965023+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-01T07:00:54.4099084+00:00",
-  "LastUpdate_Achievements": "2023-10-01T07:05:05.9305649+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:01:15.5384645+00:00",
+  "LastUpdate_Achievements": "2023-10-01T08:05:20.9966645+00:00"
 }

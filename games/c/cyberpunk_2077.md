@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,602 |
-| Rough Landing | 3.00% | ~26,602 |
+| Gunslinger | 3.00% | ~26,603 |
+| Ten out of Ten | 3.00% | ~26,603 |
+| Rough Landing | 3.00% | ~26,603 |
 | Full Body Conversion | 2.00% | ~17,735 |
 | Right Back At Ya | 2.00% | ~17,735 |
-| Gunslinger | 2.00% | ~17,735 |
 | Master Crafter | 2.00% | ~17,735 |
 | Mean Streets | 2.00% | ~17,735 |
 | The High Priestess | 2.00% | ~17,735 |
@@ -18,16 +18,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 2.00% | ~17,735 |
 | Two Heads, One Bullet | 2.00% | ~17,735 |
 | V for Vendetta | 2.00% | ~17,735 |
-| To Bad Decisions! | 1.00% | ~8,867 |
-| Breathtaking | 1.00% | ~8,867 |
-| Stanislavski's Method | 1.00% | ~8,867 |
-| Temperance | 1.00% | ~8,867 |
-| The Fool | 1.00% | ~8,867 |
-| The Hermit | 1.00% | ~8,867 |
-| The Lovers | 1.00% | ~8,867 |
-| The Wheel of Fortune | 1.00% | ~8,867 |
-| True Warrior | 1.00% | ~8,867 |
-| Legend of The Afterlife | 1.00% | ~8,867 |
+| To Bad Decisions! | 1.00% | ~8,868 |
+| Breathtaking | 1.00% | ~8,868 |
+| Stanislavski's Method | 1.00% | ~8,868 |
+| Temperance | 1.00% | ~8,868 |
+| The Fool | 1.00% | ~8,868 |
+| The Hermit | 1.00% | ~8,868 |
+| The Lovers | 1.00% | ~8,868 |
+| The Wheel of Fortune | 1.00% | ~8,868 |
+| True Warrior | 1.00% | ~8,868 |
+| Legend of The Afterlife | 1.00% | ~8,868 |
 | The Quick and the Dead | 0.90% | ~7,981 |
 | The Devil | 0.90% | ~7,981 |
 | The World | 0.90% | ~7,981 |
@@ -36,7 +36,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.80% | ~7,094 |
 | Judy vs Night City | 0.80% | ~7,094 |
 | Greetings from Pacifica! | 0.70% | ~6,207 |
-| City Lights | 0.60% | ~5,320 |
+| City Lights | 0.60% | ~5,321 |
 | Life of the Road | 0.50% | ~4,434 |
 | Spin Doctor | 0.50% | ~77 |
 | Bushido and Chill | 0.40% | ~3,547 |
@@ -47,8 +47,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.30% | ~2,660 |
 | Frequent Flyer | 0.30% | ~2,660 |
 | The Sun | 0.30% | ~2,660 |
-| Little Tokyo | 0.20% | ~1,773 |
-| The Star | 0.20% | ~1,773 |
+| Little Tokyo | 0.20% | ~1,774 |
+| The Star | 0.20% | ~1,774 |
 | The APB is Not Enough | 0.20% | ~31 |
 | Relic Ruler | 0.20% | ~31 |
 | The Wasteland | 0.10% | ~887 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,731 (Ranked 15)  
+Progressed: 886,770 (Ranked 15)  
 Completed: 2,512 (0.28%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 2,512 (0.28%) (Ranked 201)
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
-| 2023-10-01 | 886,731 | 2,512 |
+| 2023-10-01 | 886,770 | 2,512 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
 Sum: 246,972 (Ranked 13)  

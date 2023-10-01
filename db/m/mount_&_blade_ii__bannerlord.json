@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7581,7 +7581,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62472,
+  "EOS_Progressed": 62474,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
@@ -24991,6 +24991,11 @@
       "Time": "2023-10-01T07:07:05.3432511+00:00",
       "NumProgressed": 62472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T08:07:29.5794859+00:00",
+      "NumProgressed": 62474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25130,7 +25135,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8121
+      "UsersEstimate": 8122
     },
     {
       "ID": "Great Granny",
@@ -25178,7 +25183,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "Jack of All Trades",
@@ -25194,7 +25199,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10620
+      "UsersEstimate": 10621
     },
     {
       "ID": "Kingslayer",
@@ -25234,7 +25239,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24364
+      "UsersEstimate": 24365
     },
     {
       "ID": "Lawmaker",
@@ -25409,15 +25414,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62472,
+      "Progressed": 62474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-01T02:21:04.7829014+00:00",
-  "LastChanged_Achievements": "2023-10-01T07:07:05.3432507+00:00",
+  "LastChanged_Achievements": "2023-10-01T08:07:29.5794854+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-01T06:59:24.587051+00:00",
-  "LastUpdate_Achievements": "2023-10-01T07:07:05.3433666+00:00"
+  "LastUpdate_Ratings": "2023-10-01T07:59:38.3063717+00:00",
+  "LastUpdate_Achievements": "2023-10-01T08:07:29.5796705+00:00"
 }

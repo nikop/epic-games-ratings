@@ -2,10 +2,10 @@
   "ID": "9df0882d086e4c6c97d720c796675ab3",
   "Name": "Dolphin Spirit - Ocean Mission",
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
-  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -69,6 +69,11 @@
       "Time": "2023-10-01T00:08:53.5771199+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T08:03:27.2479658+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-15T16:02:27.1168778+00:00",
@@ -103,7 +108,7 @@
       "ID": "ID_03",
       "SetID": "2bmd16d",
       "Name": "Recycling newbie",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -191,7 +196,7 @@
       "ID": "ID_14",
       "SetID": "2bmd16d",
       "Name": "New recruit",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -287,7 +292,7 @@
       "ID": "ID_26",
       "SetID": "2bmd16d",
       "Name": "Power of the turtle",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -319,7 +324,7 @@
       "ID": "ID_30",
       "SetID": "2bmd16d",
       "Name": "Welcome to Maupiroa",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -336,13 +341,13 @@
     {
       "ID": "2bmd16d",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-10-01T07:03:18.5118027+00:00",
+  "LastChanged_Achievements": "2023-10-01T08:03:27.247965+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:53.7395326+00:00",
-  "LastUpdate_Ratings": "2023-10-01T07:03:09.6171336+00:00",
-  "LastUpdate_Achievements": "2023-10-01T07:03:18.5118239+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:03:17.1114415+00:00",
+  "LastUpdate_Achievements": "2023-10-01T08:03:27.2480118+00:00"
 }

@@ -9,6 +9,7 @@ Rating: 4.19 (Ranked 888)
 | Paper Jams | 6.00% | ~959 |
 | Flesh Wound | 5.00% | ~799 |
 | Float Like A Butterfly | 5.00% | ~799 |
+| You Need a Gun | 4.00% | ~639 |
 | Two Heads Are Better Than One | 4.00% | ~639 |
 | Chew 'Em Up | 4.00% | ~639 |
 | Workplace Hazard | 4.00% | ~639 |
@@ -22,7 +23,6 @@ Rating: 4.19 (Ranked 888)
 | Power Up | 4.00% | ~639 |
 | Keep Fighting | 4.00% | ~156 |
 | Giving Back | 3.00% | ~479 |
-| You Need a Gun | 3.00% | ~479 |
 | I Do Belong Here | 3.00% | ~479 |
 | Terminated | 3.00% | ~479 |
 | If the SHU Fits... | 3.00% | ~479 |
@@ -54,7 +54,7 @@ Rating: 4.19 (Ranked 888)
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,977 (Ranked 131)  
-Completed: 73 (0.46%) (Ranked 167)  
+Completed: 73 (0.46%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

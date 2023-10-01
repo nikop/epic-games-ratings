@@ -13,13 +13,13 @@ Rating: 4.61 (Ranked 370)
 | Cannon Fodder | 59.00% | ~385 |
 | Autofire | 57.00% | ~372 |
 | Raise the Stakes | 56.00% | ~365 |
+| Story Teller | 53.00% | ~346 |
 | True Believer | 53.00% | ~346 |
-| Story Teller | 52.00% | ~339 |
 | Surgeon | 48.00% | ~313 |
 | Freeze | 46.00% | ~300 |
 | Exterminator | 46.00% | ~300 |
 | Greenhouse Effect | 46.00% | ~300 |
-| Full Arsenal | 41.00% | ~267 |
+| Full Arsenal | 42.00% | ~274 |
 | Live with the Hot Ones | 38.00% | ~248 |
 | S.O.S. | 38.00% | ~248 |
 | Get Off My Ship! | 37.00% | ~241 |
@@ -54,7 +54,7 @@ Rating: 4.61 (Ranked 370)
 | Untouchable | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 652 (Ranked 253)  
-Completed: 3 (0.46%) (Ranked 167)  
+Completed: 3 (0.46%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

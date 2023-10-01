@@ -203,6 +203,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Future Regicide | 0.10% | ~14 |
 | Acropolis in Athenai | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
+| United Against The Horde | 0.10% | ~14 |
 | Battle of Opis | 0.10% | ~14 |
 | Before the Mongol Horde | 0.10% | ~14 |
 | Hagia Sophia in Byzantion | 0.10% | ~14 |
@@ -289,7 +290,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
-| United Against The Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,252 (Ranked 133)  
+Progressed: 14,253 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,252 | 5 |
+| 2023-10-01 | 14,253 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -628,7 +628,7 @@
   ],
   "EOS_Progressed": 652,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1993,9 +1993,9 @@
       "ID": "achievement_18",
       "SetID": "222fo9l",
       "Name": "Full Arsenal",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_19",
@@ -2081,9 +2081,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_29",
@@ -2306,8 +2306,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-28T18:01:12.2874889+00:00",
-  "LastChanged_Achievements": "2023-10-01T07:06:35.4785412+00:00",
+  "LastChanged_Achievements": "2023-10-01T08:06:57.1686351+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-01T06:57:26.1588764+00:00",
-  "LastUpdate_Achievements": "2023-10-01T07:06:35.4785786+00:00"
+  "LastUpdate_Ratings": "2023-10-01T07:57:29.7956058+00:00",
+  "LastUpdate_Achievements": "2023-10-01T08:06:57.1686922+00:00"
 }

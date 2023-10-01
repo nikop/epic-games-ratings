@@ -14,7 +14,7 @@ Number of Ratings: 266  (23.09.2022)
 | Eureka | 32.00% | ~1,131 |
 | Scourge Slayer | 26.00% | ~919 |
 | Science, Troglodyte! | 24.00% | ~848 |
-| Exceptional Skill | 22.00% | ~778 |
+| Exceptional Skill | 23.00% | ~813 |
 | Home Sweet Home | 22.00% | ~778 |
 | Encyclopedic! | 20.00% | ~707 |
 | The Power of Family | 17.00% | ~601 |

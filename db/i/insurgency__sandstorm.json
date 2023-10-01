@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3547,9 +3547,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 457940,
+  "EOS_Progressed": 457946,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2624,
+  "EOS_NewPlayers": 2620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21987,6 +21987,11 @@
       "Time": "2023-10-01T07:08:19.3597175+00:00",
       "NumProgressed": 457940,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-01T08:08:49.026221+00:00",
+      "NumProgressed": 457946,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -22014,7 +22019,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -22046,7 +22051,7 @@
       "Name": "Efficient",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -22134,7 +22139,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -22150,7 +22155,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -22277,15 +22282,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 457940,
+      "Progressed": 457946,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-25T09:01:36.6056917+00:00",
-  "LastChanged_Achievements": "2023-10-01T07:08:19.3597171+00:00",
+  "LastChanged_Achievements": "2023-10-01T08:08:49.0262202+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:57.755638+00:00",
-  "LastUpdate_Ratings": "2023-10-01T06:59:48.5743635+00:00",
-  "LastUpdate_Achievements": "2023-10-01T07:08:19.359824+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:00:06.2838063+00:00",
+  "LastUpdate_Achievements": "2023-10-01T08:08:49.0264492+00:00"
 }

@@ -23,7 +23,7 @@ Number of Ratings: 76  (23.09.2022)
 | Shadow Warrior | 2.00% | ~350 |
 | Mirrors | 1.00% | ~175 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,499 (Ranked 126)  
+Progressed: 17,500 (Ranked 126)  
 Completed: 106 (0.61%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 106 (0.61%) (Ranked 151)
 | 2023-09-28 | 17,441 | 106 |
 | 2023-09-29 | 17,459 | 106 |
 | 2023-09-30 | 17,482 | 106 |
-| 2023-10-01 | 17,499 | 106 |
+| 2023-10-01 | 17,500 | 106 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
