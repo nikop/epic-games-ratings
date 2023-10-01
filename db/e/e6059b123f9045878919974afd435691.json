@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 841,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2058,9 +2058,9 @@
       "ID": "ATK_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Goat Whisperer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 109
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2250,9 +2250,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2378,17 +2378,17 @@
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 76
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2418,17 +2418,17 @@
       "ID": "MEAT_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Ancestral Banquet",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 59
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Reading and More Reading",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -2545,8 +2545,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:05:39.2379763+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:04:47.5726667+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-10-01T07:58:44.6576384+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:05:39.2380608+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:58:25.3273922+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:04:47.5727323+00:00"
 }

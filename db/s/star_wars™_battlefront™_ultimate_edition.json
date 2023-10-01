@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -841,6 +841,11 @@
       "Time": "2023-10-01T08:03:50.053967+00:00",
       "NumProgressed": 354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T09:03:29.2245043+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -885,7 +890,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_14",
@@ -957,7 +962,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_22",
@@ -1045,7 +1050,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_32",
@@ -1069,7 +1074,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_35",
@@ -1077,7 +1082,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_36",
@@ -1123,9 +1128,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_41",
@@ -1133,7 +1138,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_42",
@@ -1147,9 +1152,9 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_44",
@@ -1157,7 +1162,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_45",
@@ -1333,7 +1338,7 @@
       "Name": "A cunning warrior",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_8",
@@ -1356,13 +1361,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 1
     }
   ],
@@ -1370,8 +1375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:03:50.0539664+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:03:29.224504+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-01T07:59:56.4629561+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:03:50.0540669+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:59:13.944694+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:03:29.2245605+00:00"
 }

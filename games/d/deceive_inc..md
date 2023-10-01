@@ -25,12 +25,12 @@ Rating: 4.56 (Ranked 473)
 | Hostile Takeover | 11.00% | ~2,004 |
 | Keycards Royale | 10.00% | ~1,822 |
 | Dr. No Kill | 10.00% | ~1,822 |
-| In It to Win It | 9.00% | ~1,639 |
+| In It to Win It | 9.00% | ~1,640 |
 | Security Supervisor | 6.00% | ~1,093 |
 | License to Thrill | 5.00% | ~911 |
-| Social of Solace | 3.00% | ~546 |
-| Live and let lie | 3.00% | ~546 |
-| Safe Withdrawal | 3.00% | ~546 |
+| Social of Solace | 3.00% | ~547 |
+| Live and let lie | 3.00% | ~547 |
+| Safe Withdrawal | 3.00% | ~547 |
 | Branch Manager | 2.00% | ~364 |
 | Call Me Maybe | 2.00% | ~364 |
 | PHD in VIP | 2.00% | ~364 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 473)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,216 (Ranked 125)  
+Progressed: 18,217 (Ranked 125)  
 Completed: 3 (0.02%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 3 (0.02%) (Ranked 275)
 | 2023-09-28 | 18,180 | 3 |
 | 2023-09-29 | 18,191 | 3 |
 | 2023-09-30 | 18,212 | 3 |
-| 2023-10-01 | 18,216 | 3 |
+| 2023-10-01 | 18,217 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

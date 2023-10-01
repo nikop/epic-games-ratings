@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 99.00% | ~83 |
-| Hidden History | 81.00% | ~68 |
+| Hidden History | 82.00% | ~69 |
 | Budding Conjuror | 77.00% | ~65 |
 | Commencing of Quests | 74.00% | ~62 |
 | Man-Machine Master | 65.00% | ~55 |
@@ -14,7 +14,7 @@
 | Fusion Conjuror | 63.00% | ~53 |
 | Memory Rouser | 61.00% | ~51 |
 | Master of the Skies | 58.00% | ~49 |
-| Subsistence Skills | 57.00% | ~48 |
+| Subsistence Skills | 58.00% | ~49 |
 | Kemono Hunter | 57.00% | ~48 |
 | Distance Devourer | 52.00% | ~44 |
 | Helpful Heart | 52.00% | ~44 |

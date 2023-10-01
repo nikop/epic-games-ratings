@@ -13,18 +13,18 @@ Number of Ratings: 495  (23.09.2022)
 | Rescue Takuma | 8.00% | ~16,428 |
 | Rollin' | 8.00% | ~16,428 |
 | Tanuki Time | 8.00% | ~16,428 |
-| Ice Ice Yuki | 7.00% | ~14,374 |
-| Jonin | 7.00% | ~14,374 |
-| Stoned Ox | 7.00% | ~14,374 |
-| Yabu | 7.00% | ~14,374 |
+| Ice Ice Yuki | 7.00% | ~14,375 |
+| Jonin | 7.00% | ~14,375 |
+| Stoned Ox | 7.00% | ~14,375 |
+| Yabu | 7.00% | ~14,375 |
 | Chunin | 6.00% | ~12,321 |
 | Flying Rocks | 6.00% | ~12,321 |
 | Happy Planning | 6.00% | ~12,321 |
 | Mugen Unchained | 6.00% | ~12,321 |
 | Warzone | 6.00% | ~12,321 |
-| Okkoto | 5.00% | ~10,267 |
-| Prisoners | 5.00% | ~10,267 |
-| Too Early | 5.00% | ~10,267 |
+| Okkoto | 5.00% | ~10,268 |
+| Prisoners | 5.00% | ~10,268 |
+| Too Early | 5.00% | ~10,268 |
 | Gear up | 4.00% | ~8,214 |
 | Happy little accidents | 4.00% | ~8,214 |
 | Still Rollin' | 4.00% | ~8,214 |
@@ -36,9 +36,9 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 2.00% | ~4,107 |
 | Old Man | 2.00% | ~4,107 |
 | Winner Winner | 2.00% | ~4,107 |
-| Meticulous | 1.00% | ~2,053 |
-| The End | 1.00% | ~2,053 |
-| Undeserved Honor | 1.00% | ~2,053 |
+| Meticulous | 1.00% | ~2,054 |
+| The End | 1.00% | ~2,054 |
+| Undeserved Honor | 1.00% | ~2,054 |
 | When Cut Across the Neck | 0.90% | ~1,848 |
 | High Five the Moon | 0.80% | ~1,643 |
 | The Cave | 0.80% | ~1,643 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,346 (Ranked 62)  
+Progressed: 205,350 (Ranked 62)  
 Completed: 88 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 88 (0.04%) (Ranked 265)
 | 2023-09-28 | 204,817 | 86 |
 | 2023-09-29 | 205,052 | 86 |
 | 2023-09-30 | 205,281 | 88 |
-| 2023-10-01 | 205,346 | 88 |
+| 2023-10-01 | 205,350 | 88 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 193)  
 Sum: 4,779 (Ranked 138)  

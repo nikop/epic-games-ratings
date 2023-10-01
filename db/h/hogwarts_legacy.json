@@ -8266,10 +8266,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44706,
       "NumberOfAwardsMax": 23160
+    },
+    {
+      "Time": "2023-10-01T08:58:36.74113+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44714,
+      "NumberOfAwardsMax": 23160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44706,
+  "NumberOfAwards": 44714,
   "NumberOfAwardsMax": 23160,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8295,7 +8301,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1039
+      "Count": 1044
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8331,7 +8337,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1092
+      "Count": 1095
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8346,9 +8352,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297639,
+  "EOS_Progressed": 297642,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26021,6 +26027,11 @@
       "Time": "2023-10-01T06:04:22.8200489+00:00",
       "NumProgressed": 297639,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-01T09:04:06.9430179+00:00",
+      "NumProgressed": 297642,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26072,7 +26083,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17858
+      "UsersEstimate": 17859
     },
     {
       "ID": "PFA_15",
@@ -26088,7 +26099,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32740
+      "UsersEstimate": 32741
     },
     {
       "ID": "PFA_17",
@@ -26160,7 +26171,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32740
+      "UsersEstimate": 32741
     },
     {
       "ID": "PFA_25",
@@ -26168,7 +26179,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17858
+      "UsersEstimate": 17859
     },
     {
       "ID": "PFA_26",
@@ -26200,7 +26211,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17858
+      "UsersEstimate": 17859
     },
     {
       "ID": "PFA_3",
@@ -26216,7 +26227,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32740
+      "UsersEstimate": 32741
     },
     {
       "ID": "PFA_31",
@@ -26320,7 +26331,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17858
+      "UsersEstimate": 17859
     },
     {
       "ID": "PFA_43",
@@ -26391,16 +26402,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297639,
+      "Progressed": 297642,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-01T07:59:01.0913772+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:04:42.6165333+00:00",
+  "LastChanged": "2023-10-01T08:58:36.7411298+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:04:06.9430175+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-01T07:59:01.091378+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:04:42.6166834+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:58:36.7411304+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:04:06.9431402+00:00"
 }

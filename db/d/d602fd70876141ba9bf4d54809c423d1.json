@@ -613,25 +613,25 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "ap8553i",
       "Name": "Hardbody",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "ap8553i",
       "Name": "My Best Friend",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_16",
       "SetID": "ap8553i",
       "Name": "The Power of Three",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -1090,8 +1090,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:07:49.7960298+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:06:21.3153145+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:07.8295465+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:01:41.289381+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:07:49.7961265+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:00:26.4850425+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:06:21.3153963+00:00"
 }

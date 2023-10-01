@@ -10,9 +10,9 @@ Rating: 4.76 (Ranked 119)
 | Troll with the Punches | 13.00% | ~38,693 |
 | A Keen Sense of Spell | 12.00% | ~35,717 |
 | That's a Keeper | 12.00% | ~35,717 |
-| The Defender of Dragons | 11.00% | ~32,740 |
-| Loom for Improvement | 11.00% | ~32,740 |
-| A Talent for Spending | 11.00% | ~32,740 |
+| The Defender of Dragons | 11.00% | ~32,741 |
+| Loom for Improvement | 11.00% | ~32,741 |
+| A Talent for Spending | 11.00% | ~32,741 |
 | Grappling with a Graphorn | 10.00% | ~29,764 |
 | The One Who Mastered Memories | 10.00% | ~29,764 |
 | The Hallowed Hero | 10.00% | ~29,764 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 119)
 | Flight the Good Flight | 8.00% | ~23,811 |
 | The Spell Master | 8.00% | ~23,811 |
 | Beast Friends | 7.00% | ~20,835 |
-| The Seeker of Knowledge | 6.00% | ~17,858 |
-| The Root of the Problem | 6.00% | ~17,858 |
-| Third Time's a Charm | 6.00% | ~17,858 |
-| Raising Expectations | 6.00% | ~17,858 |
+| The Seeker of Knowledge | 6.00% | ~17,859 |
+| The Root of the Problem | 6.00% | ~17,859 |
+| Third Time's a Charm | 6.00% | ~17,859 |
+| Raising Expectations | 6.00% | ~17,859 |
 | The Ends Petrify the Means | 5.00% | ~14,882 |
 | The Toast of the Town | 4.00% | ~11,906 |
 | Going Through the Potions | 4.00% | ~11,906 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,639 (Ranked 46)  
+Progressed: 297,642 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,21 +215,21 @@ Completed: 479 (0.16%) (Ranked 222)
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
-| 2023-10-01 | 297,639 | 479 |
+| 2023-10-01 | 297,642 | 479 |
 ## Awards
 Max (Character Customization): 23,160  (Ranked 17)  
-Sum: 44,706 (Ranked 30)  
+Sum: 44,714 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,160 |
 | This game has Great Boss Battles | 11,474 |
 | This game is Great for Beginners | 1,122 |
-| This game has Amazing Storytelling | 1,092 |
+| This game has Amazing Storytelling | 1,095 |
 | This game has Diverse Characters | 1,083 |
 | This game is Relaxing | 1,077 |
 | This game is Extremely Fun | 1,075 |
-| This game has Amazing Characters | 1,039 |
+| This game has Amazing Characters | 1,044 |
 | This game is Highly Recommended | 1,039 |
 | This game has Quickly Understood Controls | 964 |
 | This game has Beautiful Visuals | 900 |
@@ -428,4 +428,4 @@ Diff (max vs sum): -13
 | 2023-09-28 | 4.76 | 23,108 | 44,540 |
 | 2023-09-29 | 4.76 | 23,132 | 44,612 |
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
-| 2023-10-01 | 4.76 | 23,160 | 44,706 |
+| 2023-10-01 | 4.76 | 23,160 | 44,714 |

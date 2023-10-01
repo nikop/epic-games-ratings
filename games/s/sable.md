@@ -6,64 +6,64 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,290 |
-| Just The Two of Us | 32.00% | ~29,449 |
-| Up On High | 25.00% | ~23,007 |
-| Under The Hood | 25.00% | ~23,007 |
-| Got Your Nose | 24.00% | ~22,087 |
-| The Gift of Gab | 24.00% | ~22,087 |
-| Wrapping Up | 22.00% | ~20,246 |
-| More Than A Box Of Sand | 18.00% | ~16,565 |
-| The Dunboyne | 17.00% | ~15,645 |
-| Badge Hobbyist | 17.00% | ~15,645 |
-| Chum Novice | 16.00% | ~14,724 |
-| Silver-Tongued Sable | 16.00% | ~14,724 |
-| Sticky Paws | 16.00% | ~14,724 |
-| Bubble Up | 16.00% | ~14,724 |
-| Thread The Needle | 15.00% | ~13,804 |
-| Power to the People | 14.00% | ~12,884 |
-| Take That! | 13.00% | ~11,964 |
-| Nesting Giant | 13.00% | ~11,964 |
-| Treasure Tracker | 13.00% | ~11,964 |
-| Big Spender | 13.00% | ~11,964 |
-| Badge Collector | 12.00% | ~11,043 |
-| Quite The Catch | 12.00% | ~11,043 |
-| Rowleys Way | 11.00% | ~10,123 |
-| The Machinist Mask | 10.00% | ~9,203 |
-| The Cartographer Mask | 10.00% | ~9,203 |
-| Balfron Connection | 10.00% | ~9,203 |
-| Ceiling Of Stars | 10.00% | ~9,203 |
-| Playing Dress Up | 10.00% | ~9,203 |
-| Many Different Faces | 9.00% | ~8,283 |
-| Trellick's Pillar | 9.00% | ~8,283 |
-| Centre Of Brunswick | 9.00% | ~8,283 |
-| Bike Collector | 9.00% | ~8,283 |
-| Not That Kind Of Gliding | 9.00% | ~8,283 |
-| The Scrapper Mask | 8.00% | ~7,362 |
-| Shadow Of Neave | 8.00% | ~7,362 |
-| Fragile Goods | 8.00% | ~7,362 |
-| Glider on the Storm | 8.00% | ~7,362 |
-| Squeeze One Out | 8.00% | ~7,362 |
-| Dune Rider | 8.00% | ~7,362 |
-| Amateur Historian | 7.00% | ~6,442 |
-| The Beetle Mask | 7.00% | ~6,442 |
-| The Guard Mask | 7.00% | ~6,442 |
-| Smoked Out | 7.00% | ~6,442 |
-| A Hard Place | 7.00% | ~6,442 |
+| Simoon | 34.00% | ~31,294 |
+| Just The Two of Us | 32.00% | ~29,453 |
+| Up On High | 25.00% | ~23,010 |
+| Under The Hood | 25.00% | ~23,010 |
+| Got Your Nose | 24.00% | ~22,090 |
+| The Gift of Gab | 24.00% | ~22,090 |
+| Wrapping Up | 22.00% | ~20,249 |
+| More Than A Box Of Sand | 18.00% | ~16,567 |
+| The Dunboyne | 17.00% | ~15,647 |
+| Badge Hobbyist | 17.00% | ~15,647 |
+| Chum Novice | 16.00% | ~14,726 |
+| Silver-Tongued Sable | 16.00% | ~14,726 |
+| Sticky Paws | 16.00% | ~14,726 |
+| Bubble Up | 16.00% | ~14,726 |
+| Thread The Needle | 15.00% | ~13,806 |
+| Power to the People | 14.00% | ~12,886 |
+| Take That! | 13.00% | ~11,965 |
+| Nesting Giant | 13.00% | ~11,965 |
+| Treasure Tracker | 13.00% | ~11,965 |
+| Big Spender | 13.00% | ~11,965 |
+| Badge Collector | 12.00% | ~11,045 |
+| Quite The Catch | 12.00% | ~11,045 |
+| Rowleys Way | 11.00% | ~10,124 |
+| The Machinist Mask | 10.00% | ~9,204 |
+| The Cartographer Mask | 10.00% | ~9,204 |
+| Balfron Connection | 10.00% | ~9,204 |
+| Ceiling Of Stars | 10.00% | ~9,204 |
+| Playing Dress Up | 10.00% | ~9,204 |
+| Many Different Faces | 9.00% | ~8,284 |
+| Trellick's Pillar | 9.00% | ~8,284 |
+| Centre Of Brunswick | 9.00% | ~8,284 |
+| Bike Collector | 9.00% | ~8,284 |
+| Not That Kind Of Gliding | 9.00% | ~8,284 |
+| The Scrapper Mask | 8.00% | ~7,363 |
+| Shadow Of Neave | 8.00% | ~7,363 |
+| Fragile Goods | 8.00% | ~7,363 |
+| Glider on the Storm | 8.00% | ~7,363 |
+| Squeeze One Out | 8.00% | ~7,363 |
+| Dune Rider | 8.00% | ~7,363 |
+| Amateur Historian | 7.00% | ~6,443 |
+| The Beetle Mask | 7.00% | ~6,443 |
+| The Guard Mask | 7.00% | ~6,443 |
+| Smoked Out | 7.00% | ~6,443 |
+| A Hard Place | 7.00% | ~6,443 |
 | The Climber Mask | 6.00% | ~5,522 |
 | The Merchant Mask | 6.00% | ~5,522 |
 | Honorary Chum | 6.00% | ~5,522 |
 | Bikes Don't Fly | 6.00% | ~5,522 |
-| The Gliding | 5.00% | ~4,601 |
-| The Entertainer Mask | 5.00% | ~4,601 |
-| The Quick and the Curious | 4.00% | ~3,681 |
-| Bike Aficionado | 4.00% | ~3,681 |
+| The Gliding | 5.00% | ~4,602 |
+| The Entertainer Mask | 5.00% | ~4,602 |
+| The Quick and the Curious | 4.00% | ~3,682 |
+| Bike Aficionado | 4.00% | ~3,682 |
 | Chum Expert | 3.00% | ~2,761 |
 | Gastric Bypass | 3.00% | ~2,761 |
 | The Angler Mask | 3.00% | ~2,761 |
 | Vivacious Vivarium | 2.00% | ~1,841 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,028 (Ranked 78)  
+Progressed: 92,040 (Ranked 78)  
 Completed: 927 (1.01%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 927 (1.01%) (Ranked 132)
 | 2023-09-28 | 91,586 | 926 |
 | 2023-09-29 | 91,760 | 927 |
 | 2023-09-30 | 91,972 | 927 |
-| 2023-10-01 | 92,028 | 927 |
+| 2023-10-01 | 92,040 | 927 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
 Sum: 88 (Ranked 430)  

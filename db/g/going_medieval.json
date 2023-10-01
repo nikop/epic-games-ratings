@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1286,9 +1286,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6039,
+  "EOS_Progressed": 6040,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10196,6 +10196,11 @@
       "Time": "2023-10-01T06:06:19.1531971+00:00",
       "NumProgressed": 6039,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-01T09:05:44.0836116+00:00",
+      "NumProgressed": 6040,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10207,7 +10212,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -10247,7 +10252,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -10255,7 +10260,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -10335,7 +10340,7 @@
       "Name": "Feast or Famine",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -10367,7 +10372,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -10391,7 +10396,7 @@
       "Name": "Winter Is Here",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -10407,7 +10412,7 @@
       "Name": "The First Week",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -10421,9 +10426,9 @@
       "ID": "UNLOCK_RESEARCH_10",
       "SetID": "5349c2e",
       "Name": "Adept Researcher",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2718
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -10431,7 +10436,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -10454,15 +10459,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6039,
+      "Progressed": 6040,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-30T01:39:28.6530868+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:06:58.6483166+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:05:44.0836111+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:07.6193189+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:01:38.7797819+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:06:58.6484552+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:00:24.8295345+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:05:44.0836696+00:00"
 }

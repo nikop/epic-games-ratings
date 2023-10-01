@@ -1557,9 +1557,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1580,8 +1580,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:08:07.7007856+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:06:34.0497382+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:03.6959112+00:00",
-  "LastUpdate_Ratings": "2023-10-01T07:58:03.8047878+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:08:07.7008246+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:57:57.8004163+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:06:34.049751+00:00"
 }

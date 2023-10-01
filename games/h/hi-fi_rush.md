@@ -52,9 +52,9 @@ Rating: 4.85 (Ranked 43)
 | OK, well THEY came after ME! | 0.60% | ~25 |
 | Easy Listening | 0.50% | ~21 |
 | Choose your own adventure | 0.50% | ~13 |
+| Problem solved... wait, what? | 0.40% | ~16 |
 | Now this is how you fight like a team! | 0.40% | ~16 |
 | And the crowd goes wild! | 0.30% | ~12 |
-| Problem solved... wait, what? | 0.30% | ~12 |
 | With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
 | I can't see this ever being a problem again | 0.20% | ~8 |

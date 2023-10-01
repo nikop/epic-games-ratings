@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~46,531 |
-| Worth it | 63.00% | ~37,583 |
-| Eagle Eye | 55.00% | ~32,810 |
-| Corpseman I | 40.00% | ~23,862 |
-| Blast fishing | 37.00% | ~22,072 |
-| Not alone | 32.00% | ~19,090 |
-| Headhunter I | 26.00% | ~15,510 |
-| Manual Labour I | 25.00% | ~14,914 |
-| Developers, Developers, Developers | 24.00% | ~14,317 |
-| Basic Training | 24.00% | ~14,317 |
-| Furchtlos und Treu | 13.00% | ~7,755 |
+| Setting an example | 78.00% | ~46,536 |
+| Worth it | 63.00% | ~37,587 |
+| Eagle Eye | 55.00% | ~32,814 |
+| Corpseman I | 40.00% | ~23,865 |
+| Blast fishing | 37.00% | ~22,075 |
+| Not alone | 32.00% | ~19,092 |
+| Headhunter I | 26.00% | ~15,512 |
+| Manual Labour I | 25.00% | ~14,916 |
+| Developers, Developers, Developers | 24.00% | ~14,319 |
+| Basic Training | 24.00% | ~14,319 |
+| Furchtlos und Treu | 13.00% | ~7,756 |
 | Gott Mit Uns | 12.00% | ~7,159 |
-| This We'll Defend! | 9.00% | ~5,369 |
-| Anker wirf! | 9.00% | ~5,369 |
-| Providentiea Memor | 9.00% | ~5,369 |
-| For King and Country | 9.00% | ~5,369 |
-| Battle hardened | 8.00% | ~4,772 |
+| This We'll Defend! | 9.00% | ~5,370 |
+| Anker wirf! | 9.00% | ~5,370 |
+| Providentiea Memor | 9.00% | ~5,370 |
+| For King and Country | 9.00% | ~5,370 |
+| Battle hardened | 8.00% | ~4,773 |
 | Semper Fidelis! | 7.00% | ~4,176 |
 | Honneur et Patrie | 7.00% | ~4,176 |
 | In Treue Fest | 5.00% | ~2,983 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~60 |
 | Blood Brother | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,655 (Ranked 95)  
+Progressed: 59,662 (Ranked 95)  
 Completed: 4 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 4 (0.01%) (Ranked 283)
 | 2023-09-28 | 59,453 | 4 |
 | 2023-09-29 | 59,533 | 4 |
 | 2023-09-30 | 59,628 | 4 |
-| 2023-10-01 | 59,655 | 4 |
+| 2023-10-01 | 59,662 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 348)  
 Sum: 777 (Ranked 272)  

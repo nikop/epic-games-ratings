@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 5.00% | ~713 |
 | Architect | 5.00% | ~713 |
 | Intrepid | 5.00% | ~713 |
+| Mason | 5.00% | ~713 |
 | Strong | 5.00% | ~713 |
 | Hanging Gardens | 5.00% | ~713 |
 | The Clergy | 5.00% | ~713 |
@@ -22,7 +23,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 4.00% | ~570 |
 | Keystone | 4.00% | ~570 |
 | Learned | 4.00% | ~570 |
-| Mason | 4.00% | ~570 |
 | Noble | 4.00% | ~570 |
 | Pioneer | 4.00% | ~570 |
 | Warrior | 4.00% | ~570 |
@@ -143,9 +143,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.70% | ~100 |
 | Carthage - Ox Hide | 0.60% | ~86 |
 | Noble Difficulty | 0.60% | ~86 |
+| The Eternal Treaty | 0.60% | ~86 |
 | Persia | 0.60% | ~86 |
 | Old World Order | 0.60% | ~86 |
-| The Eternal Treaty | 0.50% | ~71 |
 | Learn to Play 5 | 0.50% | ~71 |
 | Play a Free-For-All Game (>2 Players) | 0.50% | ~71 |
 | Capturing Cities | 0.50% | ~71 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,253 (Ranked 133)  
+Progressed: 14,255 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,253 | 5 |
+| 2023-10-01 | 14,255 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

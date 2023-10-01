@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 12072,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11192,8 +11192,8 @@
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:08:52.1460913+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:07:05.4244018+00:00",
   "LastUpdate_AppInfo": "2023-09-30T01:37:01.5456589+00:00",
-  "LastUpdate_Ratings": "2023-10-01T07:58:02.6552633+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:08:52.1462239+00:00"
+  "LastUpdate_Ratings": "2023-10-01T08:57:56.8263014+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:07:05.4244663+00:00"
 }

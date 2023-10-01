@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 94.00% | ~32 |
-| Purification Pioneer | 94.00% | ~32 |
-| Mechanical Buddy | 88.00% | ~30 |
-| Dicesmithing Time! | 85.00% | ~29 |
-| Wild's Keeper | 76.00% | ~26 |
+| Meissa's Savior | 97.00% | ~33 |
+| Purification Pioneer | 97.00% | ~33 |
+| Mechanical Buddy | 94.00% | ~32 |
+| Dicesmithing Time! | 88.00% | ~30 |
+| Wild's Keeper | 79.00% | ~27 |
+| Sanctuary Guardian | 71.00% | ~24 |
 | Endless Tricks | 68.00% | ~23 |
-| Sanctuary Guardian | 68.00% | ~23 |
 | Mind Illuminator | 56.00% | ~19 |
 | Stellar Dismantler | 41.00% | ~14 |
+| Star Killer | 32.00% | ~11 |
 | Anomaly Destroyer | 29.00% | ~10 |
 | Astral Adventurer | 29.00% | ~10 |
-| Star Killer | 29.00% | ~10 |
 | Unbeatable | 29.00% | ~10 |
 | Loyal Partner | 26.00% | ~9 |
 | Sentinelphobic | 18.00% | ~6 |

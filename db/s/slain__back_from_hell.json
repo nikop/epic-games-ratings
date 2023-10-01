@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37590,
+  "EOS_Progressed": 37592,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18193,6 +18193,11 @@
       "Time": "2023-10-01T07:05:08.9066641+00:00",
       "NumProgressed": 37590,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-01T09:04:36.7272258+00:00",
+      "NumProgressed": 37592,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18204,7 +18209,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -18356,7 +18361,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -18364,7 +18369,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -18435,7 +18440,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37590,
+      "Progressed": 37592,
       "Completed": 25
     }
   ],
@@ -18443,8 +18448,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-10-01T08:05:24.1102332+00:00",
+  "LastChanged_Achievements": "2023-10-01T09:04:36.7272255+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-01T08:02:14.557116+00:00",
-  "LastUpdate_Achievements": "2023-10-01T08:05:24.1103664+00:00"
+  "LastUpdate_Ratings": "2023-10-01T09:00:49.8596274+00:00",
+  "LastUpdate_Achievements": "2023-10-01T09:04:36.7273224+00:00"
 }
