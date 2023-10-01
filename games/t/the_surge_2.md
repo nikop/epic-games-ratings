@@ -8,8 +8,8 @@ Rating: 4.24 (Ranked 853)
 | Rigged And Ready | 80.00% | ~1,658 |
 | Don't I Know You...? | 76.00% | ~1,575 |
 | Jailbreak | 65.00% | ~1,347 |
-| HEADSHOT! | 38.00% | ~787 |
-| Suited and Booted | 38.00% | ~787 |
+| HEADSHOT! | 38.00% | ~788 |
+| Suited and Booted | 38.00% | ~788 |
 | Sleeping With The Fishes | 36.00% | ~746 |
 | Overheated | 30.00% | ~622 |
 | High Performance | 30.00% | ~622 |
@@ -19,8 +19,8 @@ Rating: 4.24 (Ranked 853)
 | Luminary | 22.00% | ~456 |
 | It's a Trap | 22.00% | ~456 |
 | True Survivor | 21.00% | ~435 |
-| Offensive Defense | 20.00% | ~414 |
-| Shocking | 20.00% | ~414 |
+| Offensive Defense | 20.00% | ~415 |
+| Shocking | 20.00% | ~415 |
 | Court Martial | 19.00% | ~394 |
 | Clean Cut | 19.00% | ~394 |
 | Unforeseeable Consequences | 19.00% | ~394 |
@@ -37,7 +37,7 @@ Rating: 4.24 (Ranked 853)
 | Sorry, Didn't See You There | 12.00% | ~249 |
 | Stimulating The Local Economy | 10.00% | ~207 |
 | Triplets | 10.00% | ~207 |
-| Denying Prophecy | 9.00% | ~186 |
+| Denying Prophecy | 9.00% | ~187 |
 | A Little Banged Up | 8.00% | ~166 |
 | Following In Their Footsteps | 8.00% | ~166 |
 | Defense in Depth | 8.00% | ~166 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 853)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,072 (Ranked 198)  
+Progressed: 2,073 (Ranked 198)  
 Completed: 12 (0.58%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 12 (0.58%) (Ranked 158)
 | 2023-09-27 | 2,062 | 12 |
 | 2023-09-28 | 2,067 | 12 |
 | 2023-09-29 | 2,068 | 12 |
-| 2023-10-01 | 2,072 | 12 |
+| 2023-10-01 | 2,073 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

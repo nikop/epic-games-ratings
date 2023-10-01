@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1925,9 +1925,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 340
     },
     {
       "ID": "BroomAmanita",
@@ -1981,9 +1981,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "DwarfHobo",
@@ -2021,9 +2021,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "HastrmanRum",
@@ -2045,17 +2045,17 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 194
     },
     {
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "PriestBroom",
@@ -2189,9 +2189,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 194
     },
     {
       "ID": "WormGrilled",
@@ -2212,8 +2212,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:04:49.4520791+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:04:58.5553182+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:58:24.149718+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:04:49.4521167+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:58:39.3540461+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:04:58.555366+00:00"
 }

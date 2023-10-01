@@ -6,7 +6,7 @@
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19235,
+  "EOS_Progressed": 19236,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -19034,6 +19034,11 @@
       "Time": "2023-10-01T20:05:26.624918+00:00",
       "NumProgressed": 19235,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-01T21:05:35.243473+00:00",
+      "NumProgressed": 19236,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 45,
@@ -19197,7 +19202,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "ObedientMachine",
@@ -19221,7 +19226,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "OutOfOrder",
@@ -19229,7 +19234,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8463
+      "UsersEstimate": 8464
     },
     {
       "ID": "Perfection",
@@ -19237,7 +19242,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "PreempativeStrike",
@@ -19277,7 +19282,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "Scrapped",
@@ -19317,7 +19322,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11733
+      "UsersEstimate": 11734
     },
     {
       "ID": "SwordToAGunfight",
@@ -19397,28 +19402,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5770
+      "UsersEstimate": 5771
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19235,
+      "Progressed": 19236,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19235,
+      "Progressed": 19236,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-01T18:00:37.2020378+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:05:26.6249176+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:05:35.243472+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:00:01.9214234+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:05:26.6250274+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:00:16.7893969+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:05:35.2436173+00:00"
 }

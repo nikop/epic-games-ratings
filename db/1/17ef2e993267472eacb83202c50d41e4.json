@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6777,
+  "EOS_Progressed": 6779,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
@@ -3163,6 +3163,11 @@
       "Time": "2023-10-01T20:06:51.614315+00:00",
       "NumProgressed": 6777,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T21:06:58.0852196+00:00",
+      "NumProgressed": 6779,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3287,7 +3292,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "GamesPlayed1",
@@ -3319,7 +3324,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "GamesWon10",
@@ -3463,7 +3468,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "LaserUpgraded1",
@@ -3535,7 +3540,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "MaxTowersKilled3",
@@ -3559,7 +3564,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "MinionKills2000",
@@ -3599,7 +3604,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "PlayerKills10",
@@ -3631,7 +3636,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "QAUpgraded1",
@@ -3701,9 +3706,9 @@
       "ID": "SPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased SuperCharge",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 475
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -3766,7 +3771,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6777,
+      "Progressed": 6779,
       "Completed": 1
     }
   ],
@@ -3774,8 +3779,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:06:51.6143146+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:06:58.085219+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:58:18.4523133+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:06:51.6143921+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:58:33.6192051+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:06:58.0853051+00:00"
 }

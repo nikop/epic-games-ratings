@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 82.00% | ~78 |
-| Accessory Unlocked | 81.00% | ~77 |
-| Character Unlocked | 75.00% | ~71 |
+| Hat Unlocked | 83.00% | ~79 |
+| Accessory Unlocked | 82.00% | ~78 |
+| Character Unlocked | 76.00% | ~72 |
 | Homer | 74.00% | ~70 |
-| Butter Fingers | 73.00% | ~69 |
+| Butter Fingers | 74.00% | ~70 |
 | Settle Down | 71.00% | ~67 |
-| Have a good trip! | 69.00% | ~66 |
-| Kickball Unlocked | 68.00% | ~65 |
-| Stay Hydrated | 63.00% | ~60 |
-| First Win | 62.00% | ~59 |
+| Have a good trip! | 71.00% | ~67 |
+| Kickball Unlocked | 69.00% | ~66 |
+| Stay Hydrated | 64.00% | ~61 |
+| First Win | 63.00% | ~60 |
 | True Story! | 42.00% | ~40 |
-| Bedroom Secret Spot | 39.00% | ~37 |
+| Bedroom Secret Spot | 40.00% | ~38 |
 | Kick It | 32.00% | ~30 |
 | Classroom Secret Spot | 31.00% | ~29 |
-| At least everyone still had fun | 28.00% | ~27 |
+| At least everyone still had fun | 29.00% | ~28 |
 | Spooky | 27.00% | ~26 |
 | Grand Slam! | 25.00% | ~24 |
+| Angry Dad | 24.00% | ~23 |
 | Save some water for the fishies | 23.00% | ~22 |
-| Angry Dad | 23.00% | ~22 |
 | Bathroom Secret Spot | 22.00% | ~21 |
 | Have Mercy | 21.00% | ~20 |
 | Living Room Secret Spot | 20.00% | ~19 |

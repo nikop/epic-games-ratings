@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2996,9 +2996,9 @@
       "Count": 320
     }
   ],
-  "EOS_Progressed": 16768,
+  "EOS_Progressed": 16772,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11326,6 +11326,11 @@
       "Time": "2023-10-01T19:04:32.3156527+00:00",
       "NumProgressed": 16768,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-01T21:03:56.8708301+00:00",
+      "NumProgressed": 16772,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -11433,7 +11438,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "WinImpossible",
@@ -11497,7 +11502,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "WinNearFishmen",
@@ -11601,7 +11606,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "WinOnCursed",
@@ -11625,7 +11630,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "WinPrestige10",
@@ -11679,9 +11684,9 @@
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory through Prosperity",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 335
     },
     {
       "ID": "WinWithRuins",
@@ -11736,15 +11741,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16768,
+      "Progressed": 16772,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-01T09:58:19.2060548+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:03:46.4654308+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:03:56.8708292+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.2002266+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:58:11.285478+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:03:46.4655056+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:58:25.7785042+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:03:56.8709281+00:00"
 }

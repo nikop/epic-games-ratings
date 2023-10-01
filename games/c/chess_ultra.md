@@ -5,30 +5,30 @@ Rating: 4.30 (Ranked 810)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~147,232 |
-| Doubled Pawn | 56.00% | ~117,786 |
-| Check | 55.00% | ~115,683 |
-| Absolute pin | 47.00% | ~98,856 |
-| Promotion | 31.00% | ~65,203 |
-| Checkmate | 30.00% | ~63,100 |
-| O-O | 24.00% | ~50,480 |
-| Spanish Bishop | 21.00% | ~44,170 |
-| Queen Sacrifice | 20.00% | ~42,066 |
-| Stalemate | 18.00% | ~37,860 |
-| O-O-O | 13.00% | ~27,343 |
-| Octopus | 13.00% | ~27,343 |
-| Stranger Danger | 12.00% | ~25,240 |
-| En Passant | 9.00% | ~18,930 |
-| Double Check | 7.00% | ~14,723 |
-| Piece Collector | 6.00% | ~12,620 |
+| Chop Wood | 70.00% | ~147,239 |
+| Doubled Pawn | 56.00% | ~117,792 |
+| Check | 55.00% | ~115,688 |
+| Absolute pin | 47.00% | ~98,861 |
+| Promotion | 31.00% | ~65,206 |
+| Checkmate | 30.00% | ~63,103 |
+| O-O | 24.00% | ~50,482 |
+| Spanish Bishop | 21.00% | ~44,172 |
+| Queen Sacrifice | 20.00% | ~42,068 |
+| Stalemate | 18.00% | ~37,862 |
+| O-O-O | 13.00% | ~27,344 |
+| Octopus | 13.00% | ~27,344 |
+| Stranger Danger | 12.00% | ~25,241 |
+| En Passant | 9.00% | ~18,931 |
+| Double Check | 7.00% | ~14,724 |
+| Piece Collector | 6.00% | ~12,621 |
 | ELO | 5.00% | ~10,517 |
 | Family Fork | 5.00% | ~10,517 |
 | Friendly Fire | 5.00% | ~10,517 |
-| Underpromote | 4.00% | ~8,413 |
+| Underpromote | 4.00% | ~8,414 |
 | ELO ELO | 3.00% | ~6,310 |
+| Learner | 3.00% | ~6,310 |
 | Blind Pigs | 2.00% | ~4,207 |
 | ELO ELO ELO | 2.00% | ~4,207 |
-| Learner | 2.00% | ~4,207 |
 | Bobby Time | 1.00% | ~2,103 |
 | Back-rank Mate | 0.90% | ~1,893 |
 | Chess Champion | 0.30% | ~631 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 810)
 | Tournament Master | 0.10% | ~210 |
 | Tournament Pro | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,332 (Ranked 61)  
+Progressed: 210,342 (Ranked 61)  
 Completed: 2 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 2 (0.00%) (Ranked 303)
 | 2023-09-28 | 209,723 | 2 |
 | 2023-09-29 | 209,911 | 2 |
 | 2023-09-30 | 210,152 | 2 |
-| 2023-10-01 | 210,332 | 2 |
+| 2023-10-01 | 210,342 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | Tell the Spartans | 0.10% | ~14 |
+| Queen of Politics | 0.10% | ~14 |
 | Queen of Intrigue | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
 | Acropolis | 0.10% | ~14 |
@@ -124,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.10% | ~14 |
 | Old World Order | 0.10% | ~14 |
 | One True Faith | 0.10% | ~14 |
+| Pantheon of Gods | 0.10% | ~14 |
 | Apadana in Parsa | 0.10% | ~14 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
@@ -157,6 +159,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.10% | ~14 |
 | Revelation | 0.10% | ~14 |
 | Veneration | 0.10% | ~14 |
+| Word of God | 0.10% | ~14 |
 | Trade Caravan | 0.10% | ~14 |
 | Cataphract Archer | 0.10% | ~14 |
 | Cimmerian Archer | 0.10% | ~14 |
@@ -287,7 +290,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
 | Philip's Silver Crown | 0.00% | ~0 |
-| Queen of Politics | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
@@ -313,7 +315,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Pantheon of Gods | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
@@ -323,7 +324,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Circus Maximus in Roma | 0.00% | ~0 |
-| Word of God | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | No Undo | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,271 (Ranked 133)  
+Progressed: 14,272 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 268)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,271 | 5 |
+| 2023-10-01 | 14,272 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

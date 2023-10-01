@@ -4,7 +4,7 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 221,
   "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 195,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 180,
@@ -1902,7 +1902,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20871,
+  "EOS_Progressed": 20872,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -8827,6 +8827,11 @@
       "Time": "2023-10-01T17:03:07.3346716+00:00",
       "NumProgressed": 20871,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-01T21:03:32.1179472+00:00",
+      "NumProgressed": 20872,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -8886,7 +8891,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19827
+      "UsersEstimate": 19828
     },
     {
       "ID": "GameOver",
@@ -8950,7 +8955,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3965
+      "UsersEstimate": 3966
     },
     {
       "ID": "Negotiator",
@@ -9021,15 +9026,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20871,
+      "Progressed": 20872,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-01T19:02:36.7409149+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:03:20.9192151+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:03:32.1179461+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:05.7418417+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:01:31.2616786+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:03:20.9192642+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:01:43.7578995+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:03:32.1180149+00:00"
 }

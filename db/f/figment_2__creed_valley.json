@@ -235,9 +235,9 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "story_jester_land",
@@ -276,8 +276,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:03:49.8644887+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:04:00.2707927+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.8375458+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:57:35.3342651+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:03:49.864502+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:57:49.688704+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:04:00.2708074+00:00"
 }

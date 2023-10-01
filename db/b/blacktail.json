@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 697,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1920,6 +1920,11 @@
       "Time": "2023-10-01T10:09:07.723605+00:00",
       "NumProgressed": 696,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T21:08:45.7548344+00:00",
+      "NumProgressed": 697,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1963,7 +1968,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Devoted",
@@ -2123,7 +2128,7 @@
       "Name": "Uprooting",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "TheGuardian",
@@ -2171,7 +2176,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "YagaProfessional",
@@ -2186,7 +2191,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 697,
       "Completed": 1
     }
   ],
@@ -2194,8 +2199,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:08:41.4408105+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:08:45.7548333+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:52.2848972+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:03:11.7505561+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:08:41.4408378+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:03:23.1414035+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:08:45.754869+00:00"
 }

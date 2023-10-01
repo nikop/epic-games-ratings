@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,444 |
-| My First Runbow | 50.00% | ~124,948 |
-| It's The Fall | 26.00% | ~64,973 |
-| The Stunner | 22.00% | ~54,977 |
-| Be Aggressive | 21.00% | ~52,478 |
-| Curator | 20.00% | ~49,979 |
-| Crowning Around | 18.00% | ~44,981 |
-| Can You Dig It? | 17.00% | ~42,482 |
-| You Juan-A-Go? | 16.00% | ~39,983 |
-| Chan-tastic | 15.00% | ~37,484 |
-| Muddy Waters | 14.00% | ~34,985 |
-| Toasty! | 13.00% | ~32,486 |
+| In The Zone | 53.00% | ~132,448 |
+| My First Runbow | 50.00% | ~124,950 |
+| It's The Fall | 26.00% | ~64,974 |
+| The Stunner | 22.00% | ~54,978 |
+| Be Aggressive | 21.00% | ~52,479 |
+| Curator | 20.00% | ~49,980 |
+| Crowning Around | 18.00% | ~44,982 |
+| Can You Dig It? | 17.00% | ~42,483 |
+| You Juan-A-Go? | 16.00% | ~39,984 |
+| Chan-tastic | 15.00% | ~37,485 |
+| Muddy Waters | 14.00% | ~34,986 |
+| Toasty! | 13.00% | ~32,487 |
 | Lazy Laser | 8.00% | ~19,992 |
 | Just A Phaze | 7.00% | ~17,493 |
 | Into The Drift | 7.00% | ~17,493 |
@@ -32,7 +32,7 @@ Rating: 4.46 (Ranked 633)
 | What A Trip | 1.00% | ~2,499 |
 | Please The King | 0.90% | ~2,249 |
 | Here We Go! | 0.80% | ~1,999 |
-| Clear-Cut | 0.50% | ~1,249 |
+| Clear-Cut | 0.50% | ~1,250 |
 | Breaking Out | 0.40% | ~1,000 |
 | Disposable | 0.40% | ~1,000 |
 | A Winner Is You | 0.20% | ~500 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 633)
 | Talent Scout | 0.10% | ~250 |
 | True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,895 (Ranked 50)  
+Progressed: 249,901 (Ranked 50)  
 Completed: 6 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 6 (0.00%) (Ranked 303)
 | 2023-09-28 | 249,775 | 6 |
 | 2023-09-29 | 249,814 | 6 |
 | 2023-09-30 | 249,859 | 6 |
-| 2023-10-01 | 249,895 | 6 |
+| 2023-10-01 | 249,901 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

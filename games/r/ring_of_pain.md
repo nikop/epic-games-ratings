@@ -6,62 +6,62 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~227,566 |
-| Uncharted Territory | 89.00% | ~210,973 |
-| Getting A Glimpse | 73.00% | ~173,045 |
-| A Quick Escape | 65.00% | ~154,081 |
-| Explorer | 62.00% | ~146,970 |
-| Defeat The Dark | 61.00% | ~144,599 |
-| An Offering | 61.00% | ~144,599 |
-| Colorful Corpse | 58.00% | ~137,488 |
-| That Was Quick | 57.00% | ~135,117 |
-| A Donation | 57.00% | ~135,117 |
-| Goodbye, Frog Friend | 54.00% | ~128,006 |
-| Heavy Hitter | 53.00% | ~125,635 |
-| Heartless | 46.00% | ~109,042 |
-| Spine Breaker | 46.00% | ~109,042 |
+| First Steps | 96.00% | ~227,568 |
+| Uncharted Territory | 89.00% | ~210,974 |
+| Getting A Glimpse | 73.00% | ~173,046 |
+| A Quick Escape | 65.00% | ~154,082 |
+| Explorer | 62.00% | ~146,971 |
+| Defeat The Dark | 61.00% | ~144,600 |
+| An Offering | 61.00% | ~144,600 |
+| Colorful Corpse | 58.00% | ~137,489 |
+| That Was Quick | 57.00% | ~135,118 |
+| A Donation | 57.00% | ~135,118 |
+| Goodbye, Frog Friend | 54.00% | ~128,007 |
+| Heavy Hitter | 53.00% | ~125,636 |
+| Heartless | 46.00% | ~109,043 |
+| Spine Breaker | 46.00% | ~109,043 |
 | Deflection | 45.00% | ~106,672 |
-| Sneaky | 43.00% | ~101,931 |
-| Delving Deeper | 42.00% | ~99,560 |
-| C-C-Combo | 42.00% | ~99,560 |
+| Sneaky | 43.00% | ~101,932 |
+| Delving Deeper | 42.00% | ~99,561 |
+| C-C-Combo | 42.00% | ~99,561 |
 | Ambitious Intent | 41.00% | ~97,190 |
-| Nothing To Lose | 40.00% | ~94,819 |
-| The Bestiary | 40.00% | ~94,819 |
-| What's Yours Is Mine | 39.00% | ~92,449 |
+| Nothing To Lose | 40.00% | ~94,820 |
+| The Bestiary | 40.00% | ~94,820 |
+| What's Yours Is Mine | 39.00% | ~92,450 |
 | R.I.P | 37.00% | ~87,708 |
-| Shootout | 36.00% | ~85,337 |
-| I Am Overburdened | 35.00% | ~82,967 |
-| Cold Hearted | 34.00% | ~80,596 |
+| Shootout | 36.00% | ~85,338 |
+| I Am Overburdened | 35.00% | ~82,968 |
+| Cold Hearted | 34.00% | ~80,597 |
 | Dig Your Own Grave | 33.00% | ~78,226 |
 | Toxic | 33.00% | ~78,226 |
-| Who To Trust? | 32.00% | ~75,855 |
+| Who To Trust? | 32.00% | ~75,856 |
 | Flesh Wound | 29.00% | ~68,744 |
-| Walk It Off | 28.00% | ~66,373 |
-| Stone Touch | 28.00% | ~66,373 |
-| Shadow Walker | 28.00% | ~66,373 |
-| Consecutive Curses | 27.00% | ~64,003 |
-| Acid Bath | 27.00% | ~64,003 |
-| New Perspectives | 27.00% | ~64,003 |
-| Shapeshifting | 27.00% | ~64,003 |
-| Destroy Your Fears | 26.00% | ~61,632 |
+| Walk It Off | 28.00% | ~66,374 |
+| Stone Touch | 28.00% | ~66,374 |
+| Shadow Walker | 28.00% | ~66,374 |
+| Consecutive Curses | 27.00% | ~64,004 |
+| Acid Bath | 27.00% | ~64,004 |
+| New Perspectives | 27.00% | ~64,004 |
+| Shapeshifting | 27.00% | ~64,004 |
+| Destroy Your Fears | 26.00% | ~61,633 |
 | Save Our Souls | 25.00% | ~59,262 |
 | To The Death! | 20.00% | ~47,410 |
 | Well Prepared | 20.00% | ~47,410 |
 | Just Chilling | 20.00% | ~47,410 |
-| All Consuming | 19.00% | ~45,039 |
-| Stop Hitting Yourself | 19.00% | ~45,039 |
+| All Consuming | 19.00% | ~45,040 |
+| Stop Hitting Yourself | 19.00% | ~45,040 |
 | Shadow Spreads | 17.00% | ~40,298 |
 | Max Damage! | 17.00% | ~40,298 |
 | Don't Ignore Me! | 17.00% | ~40,298 |
 | Illuminate, Eliminate | 17.00% | ~40,298 |
 | Doing Time | 16.00% | ~37,928 |
-| Spreading Plague | 15.00% | ~35,557 |
+| Spreading Plague | 15.00% | ~35,558 |
 | The Long Run | 14.00% | ~33,187 |
 | A Rough Road | 13.00% | ~30,816 |
 | Chain Reaction | 13.00% | ~30,816 |
 | Berzerker | 12.00% | ~28,446 |
 | Antivenom | 12.00% | ~28,446 |
-| Thank You, Friend | 11.00% | ~26,075 |
+| Thank You, Friend | 11.00% | ~26,076 |
 | Barbecue | 10.00% | ~23,705 |
 | Snake Sneak | 10.00% | ~23,705 |
 | Precious | 9.00% | ~21,334 |
@@ -71,13 +71,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 8.00% | ~18,964 |
 | Fragile Mortality | 8.00% | ~18,964 |
 | Defuser | 8.00% | ~18,964 |
-| Friend of Vermin | 7.00% | ~16,593 |
-| Juggernaut | 7.00% | ~16,593 |
-| Gigantic | 7.00% | ~16,593 |
-| Path To Enlightenment | 7.00% | ~16,593 |
-| Fire Away! | 7.00% | ~16,593 |
-| Obsessed | 7.00% | ~16,593 |
-| Sentimental Value | 7.00% | ~16,593 |
+| Friend of Vermin | 7.00% | ~16,594 |
+| Juggernaut | 7.00% | ~16,594 |
+| Gigantic | 7.00% | ~16,594 |
+| Path To Enlightenment | 7.00% | ~16,594 |
+| Fire Away! | 7.00% | ~16,594 |
+| Obsessed | 7.00% | ~16,594 |
+| Sentimental Value | 7.00% | ~16,594 |
 | A Long Climb | 6.00% | ~14,223 |
 | Grave Digger | 6.00% | ~14,223 |
 | Soul Stash | 6.00% | ~14,223 |
@@ -93,15 +93,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Resourceful | 4.00% | ~9,482 |
 | Become The Nightmare | 4.00% | ~9,482 |
 | The Boulder | 4.00% | ~9,482 |
-| Quick Descent | 3.00% | ~7,111 |
-| A Week Attempt | 3.00% | ~7,111 |
-| Dead Revels | 3.00% | ~7,111 |
-| Powerful Potion | 3.00% | ~7,111 |
-| Here Comes The Airplane | 3.00% | ~7,111 |
-| Trail Of Death | 3.00% | ~7,111 |
-| Overthrown | 3.00% | ~7,111 |
-| Illuminate, Annihilate | 3.00% | ~7,111 |
-| Masochist | 3.00% | ~7,111 |
+| Quick Descent | 3.00% | ~7,112 |
+| A Week Attempt | 3.00% | ~7,112 |
+| Dead Revels | 3.00% | ~7,112 |
+| Powerful Potion | 3.00% | ~7,112 |
+| Here Comes The Airplane | 3.00% | ~7,112 |
+| Trail Of Death | 3.00% | ~7,112 |
+| Overthrown | 3.00% | ~7,112 |
+| Illuminate, Annihilate | 3.00% | ~7,112 |
+| Masochist | 3.00% | ~7,112 |
 | Poor Choices | 2.00% | ~4,741 |
 | Not What I Meant | 2.00% | ~4,741 |
 | A Rock And A Hard Place | 2.00% | ~4,741 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,185 |
 | Near Death Experience | 0.30% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,048 (Ranked 53)  
+Progressed: 237,050 (Ranked 53)  
 Completed: 277 (0.12%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 277 (0.12%) (Ranked 233)
 | 2023-09-28 | 236,829 | 274 |
 | 2023-09-29 | 236,898 | 275 |
 | 2023-09-30 | 236,987 | 277 |
-| 2023-10-01 | 237,048 | 277 |
+| 2023-10-01 | 237,050 | 277 |
 ## Awards
 Max (Quickly Understood Controls): 1,496  (Ranked 125)  
 Sum: 11,582 (Ranked 80)  

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1506,
+  "EOS_Progressed": 1507,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5456,6 +5456,11 @@
       "Time": "2023-10-01T19:05:51.2544796+00:00",
       "NumProgressed": 1506,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T21:05:08.5596611+00:00",
+      "NumProgressed": 1507,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5483,7 +5488,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_defeat_players_100",
@@ -5531,7 +5536,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -5571,7 +5576,7 @@
       "Name": "Facility Online",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5603,7 +5608,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -5715,7 +5720,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -5770,14 +5775,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1506,
+      "Progressed": 1507,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:04:59.3066866+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:05:08.5596603+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:57:42.6531334+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:04:59.3067349+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:57:56.2358261+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:05:08.5597228+00:00"
 }

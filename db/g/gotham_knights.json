@@ -3320,7 +3320,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73022,
+  "EOS_Progressed": 73023,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 4,
@@ -17285,6 +17285,11 @@
       "Time": "2023-10-01T20:04:31.4300961+00:00",
       "NumProgressed": 73022,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-01T21:04:40.6518994+00:00",
+      "NumProgressed": 73023,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -17520,7 +17525,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21176
+      "UsersEstimate": 21177
     },
     {
       "ID": "FREEZE_1_5",
@@ -17616,7 +17621,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14604
+      "UsersEstimate": 14605
     },
     {
       "ID": "HARLEY_4",
@@ -17640,7 +17645,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37971
+      "UsersEstimate": 37972
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17664,7 +17669,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14604
+      "UsersEstimate": 14605
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -17688,7 +17693,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24827
+      "UsersEstimate": 24828
     },
     {
       "ID": "MYSTERY_02",
@@ -17712,7 +17717,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14604
+      "UsersEstimate": 14605
     },
     {
       "ID": "MYSTERY_05",
@@ -17752,7 +17757,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8032
+      "UsersEstimate": 8033
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -17783,13 +17788,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73022,
+      "Progressed": 73023,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43302,
+      "Progressed": 43303,
       "Completed": 2668
     }
   ],
@@ -17797,8 +17802,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-01T17:00:34.0649449+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:04:31.4300956+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:04:40.6518985+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:00:57.3342441+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:04:31.4302091+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:01:10.6432023+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:04:40.6520449+00:00"
 }

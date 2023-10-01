@@ -90,9 +90,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "2e4ldac",
       "Name": "Not All Who Wander",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -106,9 +106,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "2e4ldac",
       "Name": "Walking Cookbook",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -122,9 +122,9 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "2e4ldac",
       "Name": "Lily Strong",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -194,9 +194,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "2e4ldac",
       "Name": "Postmaster",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -235,8 +235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:06:23.5144663+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:06:30.7022332+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.5592087+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:00:10.7429185+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:06:23.5144776+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:00:24.385501+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:06:30.7022494+00:00"
 }

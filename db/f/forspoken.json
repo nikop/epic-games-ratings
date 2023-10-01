@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -388,9 +388,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41047,
+  "EOS_Progressed": 41087,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1052,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9398,6 +9398,11 @@
       "Time": "2023-10-01T20:05:36.9301857+00:00",
       "NumProgressed": 41047,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T21:05:45.2187994+00:00",
+      "NumProgressed": 41087,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9425,7 +9430,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1233
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -9441,7 +9446,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9457,7 +9462,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4109
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9465,7 +9470,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9473,7 +9478,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1233
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -9481,7 +9486,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -9489,7 +9494,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -9497,7 +9502,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -9505,7 +9510,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -9513,7 +9518,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -9521,7 +9526,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -9529,7 +9534,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -9537,7 +9542,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -9545,7 +9550,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "CRAFT_ALL",
@@ -9561,7 +9566,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2876
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9569,7 +9574,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2054
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9585,7 +9590,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1233
     },
     {
       "ID": "JUSTCOUNTER",
@@ -9601,7 +9606,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2465
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -9609,7 +9614,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -9617,7 +9622,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "LOCATION_TEN",
@@ -9625,7 +9630,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2054
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9649,7 +9654,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2876
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9657,7 +9662,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -9665,7 +9670,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "MAGIC_IVY",
@@ -9673,7 +9678,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "MAGIC_TANTA",
@@ -9681,7 +9686,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "MONUMENT_ALL",
@@ -9697,7 +9702,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2465
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9705,7 +9710,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -9713,15 +9718,15 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1233
     },
     {
       "ID": "PARKOUR_TIME",
       "SetID": "6d0g7k8",
       "Name": "Hell of a Run",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2465
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9737,7 +9742,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -9745,7 +9750,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3698
     },
     {
       "ID": "SPRING_ALL",
@@ -9761,7 +9766,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2465
     },
     {
       "ID": "STAYING_AIR",
@@ -9832,22 +9837,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41047,
+      "Progressed": 41087,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5884,
-      "Completed": 5884
+      "Progressed": 5924,
+      "Completed": 5924
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-01T16:59:52.0327878+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:05:36.9301853+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:05:45.2187979+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:00:10.5629625+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:05:36.9302623+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:00:24.2131901+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:05:45.2189016+00:00"
 }

@@ -40,7 +40,7 @@
 | Flawless Victory | -6.50% | ~-2 |
 | Stone Collection | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 461)  
+Progressed: 31 (Ranked 462)  
 Completed: 1 (3.23%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |

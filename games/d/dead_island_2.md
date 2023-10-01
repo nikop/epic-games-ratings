@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,682 |
-| Hotel California | 3.00% | ~20,682 |
-| Welcome To Hell-A | 3.00% | ~20,682 |
+| Break A Leg | 3.00% | ~20,683 |
+| Hotel California | 3.00% | ~20,683 |
+| Welcome To Hell-A | 3.00% | ~20,683 |
 | Dr. Reed, I Presume? | 2.00% | ~13,788 |
 | Git Gutte! | 2.00% | ~13,788 |
 | Anger Management | 2.00% | ~13,788 |
@@ -34,12 +34,12 @@ Rating: 4.54 (Ranked 511)
 | Humanity Distilled | 1.00% | ~6,894 |
 | Down with the Sickness | 1.00% | ~6,894 |
 | Max Headroom | 1.00% | ~6,894 |
-| Go, Bobcats! | 0.90% | ~6,204 |
-| Rising Star | 0.90% | ~6,204 |
+| Go, Bobcats! | 0.90% | ~6,205 |
+| Rising Star | 0.90% | ~6,205 |
 | Jumbo Keyring | 0.80% | ~5,515 |
 | Smorgasbord | 0.70% | ~4,826 |
-| Not Even My Final Form | 0.60% | ~4,136 |
-| Internet Famous | 0.60% | ~4,136 |
+| Not Even My Final Form | 0.60% | ~4,137 |
+| Internet Famous | 0.60% | ~4,137 |
 | Make it So | 0.50% | ~3,447 |
 | On Safari | 0.50% | ~3,447 |
 | Variety is the Spice of Death | 0.50% | ~3,447 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,388 (Ranked 22)  
+Progressed: 689,417 (Ranked 22)  
 Completed: 2,183 (0.32%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 2,183 (0.32%) (Ranked 193)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 689,388 | 2,183 |
+| 2023-10-01 | 689,417 | 2,183 |
 ## Awards
 Max (Great Boss Battles): 6,270  (Ranked 58)  
 Sum: 9,354 (Ranked 91)  

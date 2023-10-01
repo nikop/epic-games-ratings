@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3689,
+  "EOS_Progressed": 3690,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7015,6 +7015,11 @@
       "Time": "2023-10-01T18:07:32.2952536+00:00",
       "NumProgressed": 3689,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-01T21:06:58.0704002+00:00",
+      "NumProgressed": 3690,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7050,7 +7055,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7066,7 +7071,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7074,7 +7079,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7154,7 +7159,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -7194,7 +7199,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7242,7 +7247,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7282,7 +7287,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7290,7 +7295,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7338,7 +7343,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7402,7 +7407,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7434,7 +7439,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7593,13 +7598,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3640,
+      "Progressed": 3641,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3689,
+      "Progressed": 3690,
       "Completed": 11
     }
   ],
@@ -7607,8 +7612,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:06:51.7309579+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:06:58.0703992+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:58:03.6944457+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:06:51.7310424+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:58:17.989607+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:06:58.0705117+00:00"
 }

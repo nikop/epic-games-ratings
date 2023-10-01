@@ -25,7 +25,7 @@
 | Spirit of the past | 65.00% | ~215 |
 | Law student | 63.00% | ~209 |
 | Workout professional | 62.00% | ~205 |
-| Handyman | 60.00% | ~199 |
+| Handyman | 61.00% | ~202 |
 | Champion – starter pack | 60.00% | ~199 |
 | It's good to be alive | 60.00% | ~199 |
 | Own four walls | 60.00% | ~199 |
@@ -54,9 +54,9 @@
 | Gang wrangler | 37.00% | ~122 |
 | Undercover robot | 37.00% | ~122 |
 | Problems of cyborgs | 36.00% | ~119 |
+| Not little hacker | 36.00% | ~119 |
 | Absolute Champion! | 36.00% | ~119 |
 | Your own way | 36.00% | ~119 |
-| Not little hacker | 35.00% | ~116 |
 | Anyone can resist | 35.00% | ~116 |
 | Trap disarmed | 34.00% | ~113 |
 | Another world | 34.00% | ~113 |

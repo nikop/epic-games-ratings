@@ -10,8 +10,8 @@
 | Slam-KABAM | 18.00% | ~3 |
 | A heavy thinker | 18.00% | ~3 |
 | Fight like an idiot | 18.00% | ~3 |
+| Repair the Mind Validation Machine | 18.00% | ~3 |
 | Heavy Thoughts | 12.00% | ~2 |
-| Repair the Mind Validation Machine | 12.00% | ~2 |
 | Flee like an idiot | 12.00% | ~2 |
 | Dance like an idiot | 6.00% | ~1 |
 | I'm Back at the Surface now | 6.00% | ~1 |

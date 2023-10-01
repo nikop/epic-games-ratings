@@ -1489,9 +1489,9 @@
       "ID": "hack_device",
       "SetID": "69co12a",
       "Name": "Not little hacker",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "hack_gpp",
@@ -1505,9 +1505,9 @@
       "ID": "handyman",
       "SetID": "69co12a",
       "Name": "Handyman",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 202
     },
     {
       "ID": "huey_win",
@@ -1816,8 +1816,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:05:03.2227129+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:05:12.275526+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:05.3427014+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:58:39.3398419+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:05:03.2227698+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:58:54.8977421+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:05:12.275599+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.3,
+  "EOS_Completed_Percentage": 6.28,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1114,6 +1114,11 @@
       "Time": "2023-10-01T12:09:06.35961+00:00",
       "NumProgressed": 238,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-01T21:03:32.9497506+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 25,
@@ -1139,17 +1144,17 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1157,7 +1162,7 @@
       "Name": "A good beginning",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "META_HALF_LINK",
@@ -1173,7 +1178,7 @@
       "Name": "Open door",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1195,17 +1200,17 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1237,7 +1242,7 @@
       "Name": "True G4M3R",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1245,7 +1250,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1283,9 +1288,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "PROGRESS_N2",
@@ -1299,9 +1304,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "PROGRESS_N4",
@@ -1324,14 +1329,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-01T20:03:21.7391638+00:00",
+  "LastChanged_Achievements": "2023-10-01T21:03:32.9497498+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:00:46.9119655+00:00",
-  "LastUpdate_Achievements": "2023-10-01T20:03:21.7391894+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:01:00.3297784+00:00",
+  "LastUpdate_Achievements": "2023-10-01T21:03:32.9497925+00:00"
 }
