@@ -1,8 +1,10 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 2023-10-01 | - |  | - | - |
 | [MASKA](games/1/15ea95c8da3d4aea98fabddd7e1b5454.md) | 2023-10-01 | - |  | - | - |
 | [Spiderbro](games/5/50294a633a1f47438d52a3f445f97775.md) | 2023-10-01 | - |  | - | - |
+| [Asian Riddles](games/5/56e568beea0c47d9b52959924c747e57.md) | 2023-10-02 | - |  | - | - |
+| [Mysteries of the Undead](games/e/ec4bbd95f3ae426dab154468a44c1961.md) | 2023-10-02 | - |  | - | - |
+| [1001 Jigsaw Cute Cats](games/6/613858ed797f4c4ba4724d03b6e4a57e.md) | 2023-10-02 | - |  | - | - |
 | [90 Minute Fever - Online Football (Soccer) Manager](games/b/bf31a8cb90704bd686155cf3d32e5a8e.md) | 2023-10-02 | - |  | - | - |
 | [Demon Turf Neon Splash](games/7/7184be55b899413ba25cf1f77e89ac82.md) | 2023-10-02 | 12 (1,000 XP) | 0 | - | - |
 | [Quasimorph](games/b/b0409fc6425f407fb8cfc707c70947fc.md) | 2023-10-02 | - |  | - | - |
@@ -194,7 +196,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,249 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,256 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -203,6 +205,7 @@
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Hidden Pass](games/9/9cda6b0af2b040728763a7f798370910.md) | 2024-09-30 | - |  | - | - |
 | [Spiral](games/4/4ac2b56f3cbb4de58183d6f20ee834a1.md) | 2024-09-30 | - |  | - | - |
+| [Age of Zalmoxis - Rise of the Fallen](games/3/3be7d39a69c34da7bdd5fb6db6c049df.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-12-31 | - |  | - | - |
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | - |  | - | - |
