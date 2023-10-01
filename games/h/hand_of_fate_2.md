@@ -1,26 +1,26 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,192 |
-| Apprentice | 58.00% | ~384,405 |
+| The Fool | 72.00% | ~477,194 |
+| Apprentice | 58.00% | ~384,407 |
 | Close Shave | 25.00% | ~165,692 |
-| Mercenary | 23.00% | ~152,436 |
-| Ninja | 23.00% | ~152,436 |
-| Northern Scourge | 17.00% | ~112,670 |
-| Thief Bane | 14.00% | ~92,787 |
+| Mercenary | 23.00% | ~152,437 |
+| Ninja | 23.00% | ~152,437 |
+| Northern Scourge | 17.00% | ~112,671 |
+| Thief Bane | 14.00% | ~92,788 |
 | Master of Arms | 12.00% | ~79,532 |
 | Gambler | 10.00% | ~66,277 |
 | Dice Master | 10.00% | ~66,277 |
 | Swordsman | 9.00% | ~59,649 |
-| Knight | 8.00% | ~53,021 |
-| Cure for Corruption | 8.00% | ~53,021 |
-| Focused | 8.00% | ~53,021 |
-| Flurry of Fury | 8.00% | ~53,021 |
+| Knight | 8.00% | ~53,022 |
+| Cure for Corruption | 8.00% | ~53,022 |
+| Focused | 8.00% | ~53,022 |
+| Flurry of Fury | 8.00% | ~53,022 |
 | Long Shot | 7.00% | ~46,394 |
 | Devil Dice | 7.00% | ~46,394 |
 | Broken Heart | 7.00% | ~46,394 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~663 |
 | Blood Pact | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662,767 (Ranked 25)  
+Progressed: 662,770 (Ranked 25)  
 Completed: 170 (0.03%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 170 (0.03%) (Ranked 274)
 | 2023-09-28 | 662,671 | 170 |
 | 2023-09-29 | 662,705 | 170 |
 | 2023-09-30 | 662,742 | 170 |
-| 2023-10-01 | 662,767 | 170 |
+| 2023-10-01 | 662,770 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 450)  
 Sum: 186 (Ranked 385)  

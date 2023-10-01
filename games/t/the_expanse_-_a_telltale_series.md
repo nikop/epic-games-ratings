@@ -1,12 +1,12 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 473)  
+Rating: 4.53 (Ranked 524)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 36.00% | ~4,801 |
-| Captain Drummer | 31.00% | ~4,134 |
+| Impossible Objects | 36.00% | ~4,802 |
+| Captain Drummer | 31.00% | ~4,135 |
 | Stogie for Fogey | 29.00% | ~3,868 |
 | Martian Music | 29.00% | ~3,868 |
 | Celebrations are in Order | 29.00% | ~3,868 |
@@ -14,20 +14,20 @@ Rating: 4.56 (Ranked 473)
 | Spore Taste | 27.00% | ~3,601 |
 | Drone Dodger | 26.00% | ~3,468 |
 | Bosmang | 21.00% | ~2,801 |
-| Doctor Approved | 20.00% | ~2,667 |
+| Doctor Approved | 20.00% | ~2,668 |
 | Thorston Mayer | 16.00% | ~2,134 |
 | Call it Even | 15.00% | ~2,001 |
-| Data Archivist | 13.00% | ~1,734 |
+| Data Archivist | 14.00% | ~1,867 |
 | Bottoms up! | 13.00% | ~1,734 |
 | Heal Thy Medic | 13.00% | ~1,734 |
-| Khan's Revenge | 12.00% | ~1,600 |
+| Khan's Revenge | 12.00% | ~1,601 |
 | Data Logger | 8.00% | ~1,067 |
 | Miraculous Maya | 8.00% | ~1,067 |
 | Data Master | 7.00% | ~934 |
 | Data Recoverer | 6.00% | ~800 |
-| Brother's Reaper | 4.00% | ~533 |
-| No Belter Left Behind | 4.00% | ~533 |
-| Debris Spree | 4.00% | ~533 |
+| Brother's Reaper | 4.00% | ~534 |
+| No Belter Left Behind | 4.00% | ~534 |
+| Debris Spree | 4.00% | ~534 |
 | Urshanabi Hoarder | 3.00% | ~400 |
 | Data Miner | 2.00% | ~267 |
 | Grave Robber | 2.00% | ~267 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 473)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,337 (Ranked 135)  
+Progressed: 13,338 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 13,120 | 0 |
 | 2023-09-29 | 13,208 | 0 |
 | 2023-09-30 | 13,295 | 0 |
-| 2023-10-01 | 13,337 | 0 |
+| 2023-10-01 | 13,338 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -129,3 +129,4 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-25 | 4.52 | 0 | 0 |
 | 2023-09-27 | 4.55 | 0 | 0 |
 | 2023-09-30 | 4.56 | 0 | 0 |
+| 2023-10-01 | 4.53 | 0 | 0 |

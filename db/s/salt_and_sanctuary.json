@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2649,9 +2649,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534404,
+  "EOS_Progressed": 534405,
   "EOS_Completed": 1560,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -20559,6 +20559,11 @@
       "Time": "2023-10-01T11:07:42.9783714+00:00",
       "NumProgressed": 534404,
       "NumCompleted": 1560
+    },
+    {
+      "Time": "2023-10-01T12:06:22.1444049+00:00",
+      "NumProgressed": 534405,
+      "NumCompleted": 1560
     }
   ],
   "TotalAchievements": 37,
@@ -20586,7 +20591,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165665
+      "UsersEstimate": 165666
     },
     {
       "ID": "DEVOTED",
@@ -20626,7 +20631,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443555
+      "UsersEstimate": 443556
     },
     {
       "ID": "HONED",
@@ -20690,7 +20695,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58784
+      "UsersEstimate": 58785
     },
     {
       "ID": "THE_CAVE",
@@ -20865,15 +20870,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534404,
+      "Progressed": 534405,
       "Completed": 1560
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-30T17:59:46.6304287+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:07:42.9783708+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:06:22.1444044+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:36.5247912+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:00:58.7454148+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:07:42.9784772+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:59:57.6333126+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:06:22.1445094+00:00"
 }

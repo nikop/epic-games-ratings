@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.10% | ~14 |
 | Good | 0.10% | ~14 |
 | Great | 0.10% | ~14 |
+| Holy | 0.10% | ~14 |
 | Intrepid | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
 | Just | 0.10% | ~14 |
@@ -77,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~14 |
 | Pyramids | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
+| Learn to Play 5 | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
 | Assyria | 0.10% | ~14 |
 | Carthage | 0.10% | ~14 |
@@ -163,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.00% | ~0 |
 | Capable | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
-| Holy | 0.00% | ~0 |
 | Intercessor | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
@@ -245,7 +246,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.00% | ~0 |
 | Learn to Play 3 | 0.00% | ~0 |
 | Learn to Play 4 | 0.00% | ~0 |
-| Learn to Play 5 | 0.00% | ~0 |
 | Macedonian Wars | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.00% | ~0 |
 | Beja Archer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,258 (Ranked 133)  
+Progressed: 14,259 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 267)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,258 | 5 |
+| 2023-10-01 | 14,259 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,825 (Ranked 207)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18223,
+  "EOS_Progressed": 18224,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10981,6 +10981,11 @@
       "Time": "2023-10-01T11:08:58.8371443+00:00",
       "NumProgressed": 18223,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T12:08:08.2675953+00:00",
+      "NumProgressed": 18224,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -11174,9 +11179,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4009
+      "UsersEstimate": 3827
     },
     {
       "ID": "0025",
@@ -11208,7 +11213,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "0029",
@@ -11279,7 +11284,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18223,
+      "Progressed": 18224,
       "Completed": 3
     }
   ],
@@ -11287,8 +11292,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:08:58.837144+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:08:08.267595+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:02:11.7650723+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:08:58.8372144+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:00:46.9834881+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:08:08.2676673+00:00"
 }

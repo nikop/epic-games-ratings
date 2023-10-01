@@ -8,27 +8,27 @@
 | Purification Pioneer | 97.00% | ~33 |
 | Mechanical Buddy | 94.00% | ~32 |
 | Dicesmithing Time! | 91.00% | ~31 |
-| Wild's Keeper | 79.00% | ~27 |
+| Wild's Keeper | 82.00% | ~28 |
 | Sanctuary Guardian | 74.00% | ~25 |
 | Endless Tricks | 68.00% | ~23 |
-| Mind Illuminator | 56.00% | ~19 |
-| Stellar Dismantler | 47.00% | ~16 |
+| Mind Illuminator | 59.00% | ~20 |
+| Stellar Dismantler | 50.00% | ~17 |
+| Astral Adventurer | 32.00% | ~11 |
 | Star Killer | 32.00% | ~11 |
 | Anomaly Destroyer | 29.00% | ~10 |
-| Astral Adventurer | 29.00% | ~10 |
 | Unbeatable | 29.00% | ~10 |
 | Loyal Partner | 26.00% | ~9 |
+| Stellar Haste | 21.00% | ~7 |
+| Sadistic Plan | 18.00% | ~6 |
 | Sentinelphobic | 18.00% | ~6 |
 | Shard Spender | 18.00% | ~6 |
-| Stellar Haste | 18.00% | ~6 |
 | The Corruption Goddess | 18.00% | ~6 |
-| Sadistic Plan | 15.00% | ~5 |
 | Skeptical | 15.00% | ~5 |
 | Dice Specialist | 12.00% | ~4 |
 | Wave Bender | 12.00% | ~4 |
 | Denying Destiny | 9.00% | ~3 |
+| Heart Gate | 9.00% | ~3 |
 | Can't touch this | 6.00% | ~2 |
-| Heart Gate | 6.00% | ~2 |
 | Heavy Purger | 6.00% | ~2 |
 | Pocket Astrarium | 6.00% | ~2 |
 | Prestidigitation | 6.00% | ~2 |

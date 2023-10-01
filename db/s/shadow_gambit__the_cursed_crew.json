@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -2028,9 +2028,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 297
     },
     {
       "ID": "_09_Completion_20",
@@ -2189,8 +2189,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:08:37.9532714+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:07:02.770157+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:00:34.4225445+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:08:37.9532974+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:59:38.1583119+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:07:02.7701805+00:00"
 }

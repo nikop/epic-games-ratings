@@ -5,23 +5,23 @@ Rating: 4.82 (Ranked 65)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,491 |
-| No more cages! | 92.00% | ~2,387 |
-| Everfrost | 79.00% | ~2,050 |
-| Pentakill | 78.00% | ~2,024 |
-| Dark Forest | 78.00% | ~2,024 |
-| The use of petricite | 75.00% | ~1,946 |
-| You can pet the dog | 62.00% | ~1,609 |
+| For Demacia | 96.00% | ~2,492 |
+| No more cages! | 92.00% | ~2,388 |
+| Everfrost | 79.00% | ~2,051 |
+| Pentakill | 78.00% | ~2,025 |
+| Dark Forest | 78.00% | ~2,025 |
+| The use of petricite | 75.00% | ~1,947 |
+| You can pet the dog | 62.00% | ~1,610 |
 | Big Helmet Bro | 38.00% | ~986 |
 | Thornbarrow | 38.00% | ~986 |
 | Clarion Cove | 38.00% | ~986 |
-| Elemental master | 36.00% | ~934 |
-| Past trauma | 36.00% | ~934 |
-| Ternmoat Headquarters | 36.00% | ~934 |
-| Cypress Glen Headquarters | 33.00% | ~856 |
-| Petricite Burst | 32.00% | ~830 |
-| Hijack | 30.00% | ~778 |
-| Old friend | 30.00% | ~778 |
+| Elemental master | 36.00% | ~935 |
+| Past trauma | 36.00% | ~935 |
+| Ternmoat Headquarters | 36.00% | ~935 |
+| Cypress Glen Headquarters | 33.00% | ~857 |
+| Petricite Burst | 32.00% | ~831 |
+| Hijack | 30.00% | ~779 |
+| Old friend | 30.00% | ~779 |
 | Devineur | 29.00% | ~753 |
 | Whispers in the Woods I | 27.00% | ~701 |
 | I chose my shackles | 26.00% | ~675 |
@@ -46,12 +46,12 @@ Rating: 4.82 (Ranked 65)
 | Embrace the darkness | 13.00% | ~337 |
 | Whispers in the Woods IV | 13.00% | ~337 |
 | I smell fear | 13.00% | ~337 |
-| The end of the experiments | 12.00% | ~311 |
-| The Great City of Demacia | 12.00% | ~311 |
-| Truth is a dark mirror | 12.00% | ~311 |
-| Call it 'redistribution of magic | 12.00% | ~311 |
-| Do you trust me? | 11.00% | ~285 |
-| Back to sleep, then... | 11.00% | ~285 |
+| The end of the experiments | 12.00% | ~312 |
+| The Great City of Demacia | 12.00% | ~312 |
+| Truth is a dark mirror | 12.00% | ~312 |
+| Call it 'redistribution of magic | 12.00% | ~312 |
+| Do you trust me? | 11.00% | ~286 |
+| Back to sleep, then... | 11.00% | ~286 |
 | Chains master | 10.00% | ~260 |
 | The great mage rebellion starts now | 10.00% | ~260 |
 | You can pet the... horse | 10.00% | ~260 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 65)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,595 (Ranked 193)  
+Progressed: 2,596 (Ranked 193)  
 Completed: 11 (0.42%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 11 (0.42%) (Ranked 176)
 | 2023-09-28 | 2,594 | 10 |
 | 2023-09-29 | 2,594 | 11 |
 | 2023-09-30 | 2,595 | 11 |
+| 2023-10-01 | 2,596 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

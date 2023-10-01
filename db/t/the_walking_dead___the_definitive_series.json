@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1081,10 +1081,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 757,
       "NumberOfAwardsMax": 510
+    },
+    {
+      "Time": "2023-10-01T12:00:48.6093671+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 758,
+      "NumberOfAwardsMax": 510
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 757,
+  "NumberOfAwards": 758,
   "NumberOfAwardsMax": 510,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1146,7 +1152,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -1160,8 +1166,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-09-28T19:59:06.2694257+00:00",
+  "LastChanged": "2023-10-01T12:00:48.609367+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:26.8147899+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:02:13.9787122+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:05:50.770699+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:00:48.6093675+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:04:59.4944122+00:00"
 }

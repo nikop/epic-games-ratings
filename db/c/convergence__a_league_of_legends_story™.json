@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2420,9 +2420,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 108
     },
     {
       "ID": "FactorywoodChests1",
@@ -2757,8 +2757,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:08:41.1411522+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:07:05.1158849+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:11.1988188+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:01:52.9693919+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:08:41.1412026+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:00:35.5030043+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:07:05.1159334+00:00"
 }

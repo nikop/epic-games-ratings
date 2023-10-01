@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "EOS_Progressed": 469,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 24,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 7.46,
   "EosHistory": [
     {
@@ -1854,9 +1854,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "BearPistol",
@@ -1958,9 +1958,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -2046,9 +2046,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "PriestPistol",
@@ -2197,8 +2197,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:05:03.1584651+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:04:24.3011154+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:58:25.8818154+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:05:03.158519+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:58:08.5865439+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:04:24.3011542+00:00"
 }

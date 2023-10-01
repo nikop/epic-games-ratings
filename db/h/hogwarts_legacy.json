@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8272,10 +8272,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44714,
       "NumberOfAwardsMax": 23160
+    },
+    {
+      "Time": "2023-10-01T11:58:41.0437282+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44741,
+      "NumberOfAwardsMax": 23160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44714,
+  "NumberOfAwards": 44741,
   "NumberOfAwardsMax": 23160,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8289,7 +8295,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11474
+      "Count": 11501
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8352,9 +8358,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297647,
+  "EOS_Progressed": 297652,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26042,6 +26048,11 @@
       "Time": "2023-10-01T11:05:00.4995082+00:00",
       "NumProgressed": 297647,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-01T12:04:22.452476+00:00",
+      "NumProgressed": 297652,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26053,7 +26064,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44647
+      "UsersEstimate": 44648
     },
     {
       "ID": "PFA_10",
@@ -26109,7 +26120,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32741
+      "UsersEstimate": 32742
     },
     {
       "ID": "PFA_17",
@@ -26117,7 +26128,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20835
+      "UsersEstimate": 20836
     },
     {
       "ID": "PFA_18",
@@ -26181,7 +26192,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32741
+      "UsersEstimate": 32742
     },
     {
       "ID": "PFA_25",
@@ -26213,7 +26224,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8929
+      "UsersEstimate": 8930
     },
     {
       "ID": "PFA_29",
@@ -26229,7 +26240,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8929
+      "UsersEstimate": 8930
     },
     {
       "ID": "PFA_30",
@@ -26237,7 +26248,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32741
+      "UsersEstimate": 32742
     },
     {
       "ID": "PFA_31",
@@ -26245,7 +26256,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "PFA_32",
@@ -26269,7 +26280,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8929
+      "UsersEstimate": 8930
     },
     {
       "ID": "PFA_35",
@@ -26277,7 +26288,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26788
+      "UsersEstimate": 26789
     },
     {
       "ID": "PFA_36",
@@ -26293,7 +26304,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "PFA_38",
@@ -26325,7 +26336,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "PFA_41",
@@ -26333,7 +26344,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14882
+      "UsersEstimate": 14883
     },
     {
       "ID": "PFA_42",
@@ -26365,7 +26376,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "PFA_5",
@@ -26381,7 +26392,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38694
+      "UsersEstimate": 38695
     },
     {
       "ID": "PFA_7",
@@ -26389,7 +26400,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38694
+      "UsersEstimate": 38695
     },
     {
       "ID": "PFA_8",
@@ -26405,23 +26416,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26788
+      "UsersEstimate": 26789
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297647,
+      "Progressed": 297652,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-01T08:58:36.7411298+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:05:00.4995078+00:00",
+  "LastChanged": "2023-10-01T11:58:41.043728+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:04:22.4524756+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:59:13.113304+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:05:00.4996256+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:58:41.0437286+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:04:22.4525858+00:00"
 }

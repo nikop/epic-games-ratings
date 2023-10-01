@@ -6,21 +6,21 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~746 |
-| Debuff Dogpile | 20.00% | ~711 |
-| Hit 'Em Where It Hurts | 20.00% | ~711 |
-| Perk Shard Punch Card | 20.00% | ~711 |
-| That'll Leave a Mark | 20.00% | ~711 |
-| Mushroom Madness! | 18.00% | ~640 |
-| Spending Spree | 16.00% | ~568 |
-| First Strike | 15.00% | ~533 |
-| Horder Better Faster Stronger | 15.00% | ~533 |
-| Ten Steps from the Grave | 13.00% | ~462 |
-| Everything Must Go! | 12.00% | ~426 |
-| Next Time on MythForce... | 11.00% | ~391 |
+| Faceroll the Bones | 21.00% | ~748 |
+| Debuff Dogpile | 20.00% | ~712 |
+| Hit 'Em Where It Hurts | 20.00% | ~712 |
+| Perk Shard Punch Card | 20.00% | ~712 |
+| That'll Leave a Mark | 20.00% | ~712 |
+| Mushroom Madness! | 18.00% | ~641 |
+| Spending Spree | 16.00% | ~570 |
+| First Strike | 15.00% | ~534 |
+| Horder Better Faster Stronger | 15.00% | ~534 |
+| Ten Steps from the Grave | 13.00% | ~463 |
+| Everything Must Go! | 12.00% | ~427 |
+| Next Time on MythForce... | 11.00% | ~392 |
 | Cold-Blooded Critters | 9.00% | ~320 |
 | Death Becomes You | 7.00% | ~249 |
-| Flawless Victory | 6.00% | ~213 |
+| Flawless Victory | 6.00% | ~214 |
 | The Harder They Fall | 5.00% | ~178 |
 | On this Episode! | 4.00% | ~142 |
 | Deadication | 3.00% | ~107 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~14 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,553 (Ranked 180)  
+Progressed: 3,560 (Ranked 180)  
 Completed: 2 (0.06%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.06%) (Ranked 257)
 | 2023-09-28 | 3,340 | 1 |
 | 2023-09-29 | 3,432 | 1 |
 | 2023-09-30 | 3,525 | 2 |
-| 2023-10-01 | 3,553 | 2 |
+| 2023-10-01 | 3,560 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 457)  
 Sum: 279 (Ranked 354)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -509,9 +509,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -693,9 +693,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "ap8553i",
       "Name": "Krimson PD Fury",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -813,9 +813,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "ap8553i",
       "Name": "Bathed in Flames",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1090,8 +1090,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:08:02.5865572+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:06:36.6293607+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:07.8295465+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:01:52.2306485+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:08:02.5866243+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:00:35.0115592+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:06:36.6294268+00:00"
 }

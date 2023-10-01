@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9609,9 +9609,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49270,
+  "EOS_Progressed": 49271,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24224,6 +24224,11 @@
       "Time": "2023-10-01T11:09:10.9004946+00:00",
       "NumProgressed": 49270,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-01T12:08:17.2224039+00:00",
+      "NumProgressed": 49271,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -24235,7 +24240,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7390
+      "UsersEstimate": 7391
     },
     {
       "ID": "BreedCows",
@@ -24323,7 +24328,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10839
+      "UsersEstimate": 10840
     },
     {
       "ID": "CutTreeFirst",
@@ -24371,7 +24376,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 29562
+      "UsersEstimate": 29563
     },
     {
       "ID": "Harvested",
@@ -24387,7 +24392,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 36952
+      "UsersEstimate": 36953
     },
     {
       "ID": "HorseJumps",
@@ -24419,7 +24424,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 24635
+      "UsersEstimate": 24636
     },
     {
       "ID": "Mission",
@@ -24443,7 +24448,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 26113
+      "UsersEstimate": 26114
     },
     {
       "ID": "NumBeehives",
@@ -24483,7 +24488,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10839
+      "UsersEstimate": 10840
     },
     {
       "ID": "NumVehiclesSmall",
@@ -24507,7 +24512,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29069
+      "UsersEstimate": 29070
     },
     {
       "ID": "Sow",
@@ -24523,7 +24528,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 31040
+      "UsersEstimate": 31041
     },
     {
       "ID": "Stones",
@@ -24531,7 +24536,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5913
     },
     {
       "ID": "TractorDriving",
@@ -24539,7 +24544,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 21186
+      "UsersEstimate": 21187
     },
     {
       "ID": "TruckDriving",
@@ -24571,22 +24576,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7390
+      "UsersEstimate": 7391
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49270,
+      "Progressed": 49271,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-01T10:01:06.5513264+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:09:10.9004942+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:08:17.2224035+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.9147877+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:01:25.321286+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:09:10.9005906+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:00:16.4347827+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:08:17.2224993+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5b08e4db33c54e518c2a1360cc2c7f18",
   "Name": "2064: Read Only Memories",
   "ProductSlug": "2064-read-only-memories",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-28T04:00:00+00:00",
     "PcReleaseDate": "2015-08-18T10:00:00+00:00",
@@ -68,6 +68,6 @@
   "FirstSeenRating": "2022-10-09T09:33:27.3361075+00:00",
   "LastChanged": "2023-03-31T05:58:17.7609638+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.9575469+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:00:47.3727544+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:05:18.294051+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:59:48.5706077+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:04:35.8007181+00:00"
 }

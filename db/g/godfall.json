@@ -2,20 +2,20 @@
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall Ultimate Edition",
   "ProductSlug": "godfall",
-  "Ranking_Rating": 934,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-07T16:00:00+00:00",
     "PcReleaseDate": "2022-04-07T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.08,
+  "Rating": 4.07,
   "NumberOfRatings": 818,
   "RatingHistory": [
     {
@@ -1195,10 +1195,16 @@
       "Rating": 4.08,
       "NumberOfAwards": 869,
       "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-10-01T12:00:43.3431418+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 870,
+      "NumberOfAwardsMax": 545
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 869,
+  "NumberOfAwards": 870,
   "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1260,7 +1266,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 48
+      "Count": 49
     }
   ],
   "EOS_Progressed": 0,
@@ -1274,8 +1280,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-09-28T21:59:22.6177664+00:00",
+  "LastChanged": "2023-10-01T12:00:43.3431417+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:20.608412+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:02:06.0441913+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:04:13.5753212+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:00:43.3431422+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:03:48.0044899+00:00"
 }

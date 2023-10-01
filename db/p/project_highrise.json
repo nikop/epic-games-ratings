@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -948,9 +948,9 @@
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "ach_area_1",
@@ -1629,8 +1629,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:08:37.0581533+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:07:02.1390136+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:32.7979624+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:59:35.9047362+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:08:37.058242+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:58:56.7333904+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:07:02.139104+00:00"
 }

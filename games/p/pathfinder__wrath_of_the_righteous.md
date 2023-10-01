@@ -6,22 +6,22 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,862 |
+| Devoured by Darkness | 25.00% | ~2,863 |
 | A Spark | 18.00% | ~2,061 |
 | Burning City | 17.00% | ~1,947 |
 | Mythic Choices | 14.00% | ~1,603 |
 | Defender's Heart | 14.00% | ~1,603 |
-| Banner over the Citadel | 13.00% | ~1,488 |
+| Banner over the Citadel | 13.00% | ~1,489 |
 | Queen's Gratitude | 12.00% | ~1,374 |
 | Fifth Crusade | 8.00% | ~916 |
 | Embrace of the Abyss | 6.00% | ~687 |
 | Path of the Angel | 6.00% | ~687 |
 | Demonic and Divine | 6.00% | ~687 |
-| Transformation | 5.00% | ~572 |
-| Great Upstart | 5.00% | ~572 |
-| Voice from Your Dreams | 5.00% | ~572 |
-| All Paths Open | 5.00% | ~572 |
-| Next-Door Play | 5.00% | ~572 |
+| Transformation | 5.00% | ~573 |
+| Great Upstart | 5.00% | ~573 |
+| Voice from Your Dreams | 5.00% | ~573 |
+| All Paths Open | 5.00% | ~573 |
+| Next-Door Play | 5.00% | ~573 |
 | Path of the Azata | 4.00% | ~458 |
 | The Legacy | 4.00% | ~458 |
 | Divide and Rule | 4.00% | ~458 |
@@ -44,13 +44,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 2.00% | ~229 |
 | Stay Underground | 2.00% | ~205 |
 | Sarkoris Will Be Green | 2.00% | ~205 |
-| The Final Threshold | 1.00% | ~114 |
-| Strategic Victory | 1.00% | ~114 |
-| Abyssal Conspiracy | 1.00% | ~114 |
+| The Final Threshold | 1.00% | ~115 |
+| Path of the Legend | 1.00% | ~115 |
+| Strategic Victory | 1.00% | ~115 |
+| Abyssal Conspiracy | 1.00% | ~115 |
 | This Wall Won't Fall | 1.00% | ~102 |
 | Not the Last Sarkorian | 1.00% | ~102 |
 | Path of the Dragon | 0.90% | ~103 |
-| Path of the Legend | 0.90% | ~103 |
 | End of Eternal Guard | 0.90% | ~103 |
 | Truly Profane Gift | 0.90% | ~103 |
 | Playful Mood | 0.70% | ~80 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,450 (Ranked 138)  
+Progressed: 11,451 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 11,429 | 0 |
 | 2023-09-29 | 11,437 | 0 |
 | 2023-09-30 | 11,444 | 0 |
-| 2023-10-01 | 11,450 | 0 |
+| 2023-10-01 | 11,451 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 119)  
 Sum: 6,969 (Ranked 114)  

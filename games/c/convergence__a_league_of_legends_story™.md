@@ -34,8 +34,8 @@ Rating: 4.60 (Ranked 398)
 | Treasure Trove | 14.00% | ~126 |
 | Whiz Kid | 14.00% | ~126 |
 | Chaincrawler Explorer | 12.00% | ~108 |
+| Family Memories | 12.00% | ~108 |
 | Good Neighbor | 12.00% | ~108 |
-| Family Memories | 11.00% | ~99 |
 | Syron for Hope | 11.00% | ~99 |
 | Ask Questions Later | 11.00% | ~99 |
 | Fairgrounds Explorer | 10.00% | ~90 |

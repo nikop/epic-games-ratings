@@ -47,8 +47,8 @@
 | Boss 3 ✔ | 3.00% | ~8 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
+| Crocodile Escape ✔ | 2.00% | ~5 |
 | VIP ✔ | 2.00% | ~5 |
-| Crocodile Escape ✔ | 1.00% | ~3 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Hardcore ✔ | 0.70% | ~2 |
 | Speedrun ✔ | 0.70% | ~2 |

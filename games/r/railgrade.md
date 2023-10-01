@@ -1,29 +1,29 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.55 (Ranked 490)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 100.00% | ~19,214 |
-| Before the Downfall | 95.00% | ~18,253 |
-| Money like Water | 93.00% | ~17,869 |
-| Minimalist | 92.00% | ~17,677 |
-| Builder | 84.00% | ~16,140 |
-| Eraser | 71.00% | ~13,642 |
-| Pocket of Trains | 66.00% | ~12,681 |
-| Inspector | 60.00% | ~11,528 |
-| Going the Distance | 55.00% | ~10,568 |
-| Oil Baron | 43.00% | ~8,262 |
-| Loads-a-Money | 43.00% | ~8,262 |
-| Helper of the People | 40.00% | ~7,686 |
-| Simplification | 35.00% | ~6,725 |
-| Box of Trains | 34.00% | ~6,533 |
-| Let There be Light | 33.00% | ~6,341 |
+| Trevithick's Legacy | 100.00% | ~19,212 |
+| Before the Downfall | 95.00% | ~18,251 |
+| Money like Water | 93.00% | ~17,867 |
+| Minimalist | 92.00% | ~17,675 |
+| Builder | 84.00% | ~16,138 |
+| Eraser | 71.00% | ~13,641 |
+| Pocket of Trains | 66.00% | ~12,680 |
+| Inspector | 60.00% | ~11,527 |
+| Going the Distance | 55.00% | ~10,567 |
+| Oil Baron | 43.00% | ~8,261 |
+| Loads-a-Money | 43.00% | ~8,261 |
+| Helper of the People | 40.00% | ~7,685 |
+| Simplification | 35.00% | ~6,724 |
+| Box of Trains | 34.00% | ~6,532 |
+| Let There be Light | 33.00% | ~6,340 |
 | Hot Water | 31.00% | ~5,956 |
 | Indecisive | 30.00% | ~5,764 |
-| The scenic route | 28.00% | ~5,380 |
-| Industrialist | 26.00% | ~4,996 |
+| The scenic route | 28.00% | ~5,379 |
+| Industrialist | 26.00% | ~4,995 |
 | Perfectionist | 24.00% | ~4,611 |
 | 8K is Enough for Everyone | 23.00% | ~4,419 |
 | Trains over Pipes | 23.00% | ~4,419 |
@@ -43,8 +43,8 @@ Rating: 4.55 (Ranked 491)
 | Overdeer | 0.60% | ~115 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,214 (Ranked 122)  
-Completed: 35 (0.18%) (Ranked 221)  
+Progressed: 19,212 (Ranked 122)  
+Completed: 35 (0.18%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -27,8 +27,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,369 |
 | Through Repetition, Perfection | 1.00% | ~1,369 |
 | Own the Means of Production | 1.00% | ~1,369 |
-| Gild-Gotten Goods | 0.90% | ~1,232 |
-| Did we pack lunch? | 0.90% | ~1,232 |
+| Gild-Gotten Goods | 0.90% | ~1,233 |
+| Did we pack lunch? | 0.90% | ~1,233 |
 | On the Path to Greatness | 0.80% | ~1,096 |
 | Ascended | 0.80% | ~1,096 |
 | Vanity, Verily | 0.80% | ~1,096 |
@@ -41,6 +41,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.70% | ~959 |
 | Power of Love | 0.70% | ~959 |
 | Flawless Fusion | 0.70% | ~959 |
+| Royal Ransom | 0.70% | ~959 |
 | Helping Hand | 0.70% | ~959 |
 | Natural 20 | 0.70% | ~959 |
 | A Notch Above the Rest | 0.60% | ~822 |
@@ -52,7 +53,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.60% | ~822 |
 | Expansion in Session | 0.60% | ~822 |
 | Trash to Treasure | 0.60% | ~822 |
-| Royal Ransom | 0.60% | ~822 |
 | Miracle Alchemist | 0.60% | ~822 |
 | Seasoned Journeyman | 0.60% | ~822 |
 | Black Friday Special | 0.60% | ~822 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,942 (Ranked 69)  
+Progressed: 136,947 (Ranked 69)  
 Completed: 159 (0.12%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 159 (0.12%) (Ranked 231)
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
-| 2023-10-01 | 136,942 | 159 |
+| 2023-10-01 | 136,947 | 159 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,314 (Ranked 49)  

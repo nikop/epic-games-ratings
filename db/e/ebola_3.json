@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1251,9 +1251,9 @@
       "ID": "achCrokoOne",
       "SetID": "72gjli4",
       "Name": "Crocodile Escape \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achCrokoTwo",
@@ -1556,8 +1556,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:05:07.5491164+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:04:27.6714391+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.4683251+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:03:10.4329783+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:05:07.5491559+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:03:16.5893382+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:04:27.6715221+00:00"
 }

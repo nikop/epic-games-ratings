@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3842,9 +3842,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11450,
+  "EOS_Progressed": 11451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13102,6 +13102,11 @@
       "Time": "2023-10-01T11:05:46.9638594+00:00",
       "NumProgressed": 11450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T12:04:56.8450536+00:00",
+      "NumProgressed": 11451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13113,7 +13118,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     },
     {
       "ID": "02_BurningCity",
@@ -13129,7 +13134,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "04_FithCrusade",
@@ -13161,7 +13166,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "08_PathOfAngel",
@@ -13231,9 +13236,9 @@
       "ID": "16_PathOfLegend",
       "SetID": "989of5o",
       "Name": "Path of the Legend",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 115
     },
     {
       "ID": "17_Transformation",
@@ -13241,7 +13246,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "18_MythicChoices",
@@ -13321,7 +13326,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "29_StrategicVictory",
@@ -13329,7 +13334,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -13377,7 +13382,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -13457,7 +13462,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "46_AllPathsOpen",
@@ -13465,7 +13470,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13537,7 +13542,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "56_GetToad",
@@ -14040,21 +14045,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10232,
+      "Progressed": 10233,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11450,
+      "Progressed": 11451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-30T20:59:22.1215953+00:00",
-  "LastChanged_Achievements": "2023-10-01T11:05:46.963859+00:00",
+  "LastChanged_Achievements": "2023-10-01T12:04:56.8450533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:59:39.2497375+00:00",
-  "LastUpdate_Achievements": "2023-10-01T11:05:46.964027+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:58:58.9696721+00:00",
+  "LastUpdate_Achievements": "2023-10-01T12:04:56.8452369+00:00"
 }

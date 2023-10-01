@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 71.00% | ~361 |
-| Be water, my friend | 57.00% | ~290 |
-| Snake Eyes | 57.00% | ~290 |
-| Fireball | 45.00% | ~229 |
-| The King of Flat | 40.00% | ~204 |
+| Dash Crash | 71.00% | ~363 |
+| Be water, my friend | 57.00% | ~291 |
+| Snake Eyes | 57.00% | ~291 |
+| Fireball | 45.00% | ~230 |
+| The King of Flat | 41.00% | ~210 |
+| Air Slash | 31.00% | ~158 |
 | Hit That Ball | 31.00% | ~158 |
-| Air Slash | 30.00% | ~153 |
-| Eat That Apple | 23.00% | ~117 |
+| Eat That Apple | 23.00% | ~118 |
 | Tornado Chaser | 13.00% | ~66 |
 | Bomberman | 9.00% | ~46 |
 | Bubble Party | 7.00% | ~36 |
 | The Colossus | 7.00% | ~36 |
-| Floor is Lava | 6.00% | ~31 |
-| Pim Pam Pum | 5.00% | ~25 |
+| Floor is Lava | 5.00% | ~26 |
+| Pim Pam Pum | 5.00% | ~26 |
 | Dash Crash - Hero Edition | 4.00% | ~20 |
 | Ambush | 4.00% | ~20 |
 | Black Belt | 3.00% | ~15 |
 | Quite The Hero | 3.00% | ~15 |
+| Snake Eyes - Hero Edition | 2.00% | ~10 |
+| The King of Flat - Hero Edition | 2.00% | ~10 |
 | Rogue | 2.00% | ~10 |
 | Path of the Hero | 1.00% | ~5 |
-| Snake Eyes - Hero Edition | 1.00% | ~5 |
-| The King of Flat - Hero Edition | 1.00% | ~5 |
+| Hit That Ball - Hero Edition | 1.00% | ~5 |
 | Eat That Apple - Hero Edition | 1.00% | ~5 |
 | Snakecharmer | 1.00% | ~5 |
 | Apprentice | 1.00% | ~5 |
 | Vertigo | 1.00% | ~5 |
-| Hit That Ball - Hero Edition | 0.80% | ~4 |
 | Tornado Chaser - Hero Edition | 0.80% | ~4 |
 | Bomberman - Hero Edition | 0.80% | ~4 |
 | Oh, no | 0.80% | ~4 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 266)  
+Progressed: 511 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 416 | 0 |
 | 2023-09-29 | 450 | 0 |
 | 2023-09-30 | 494 | 0 |
-| 2023-10-01 | 509 | 0 |
+| 2023-10-01 | 511 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
