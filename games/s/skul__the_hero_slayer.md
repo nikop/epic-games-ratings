@@ -22,7 +22,7 @@ Number of Ratings: 546  (23.09.2022)
 | Brain at Full Throttle | 23.00% | ~1,889 |
 | Rookies Welcome | 20.00% | ~1,643 |
 | Deadly Power | 17.00% | ~1,396 |
-| Castle Restoration Plans | 14.00% | ~1,150 |
+| Castle Restoration Plans | 15.00% | ~1,232 |
 | The Dwarven Chandelier | 13.00% | ~1,068 |
 | Master of Speed | 10.00% | ~821 |
 | The Levitator | 7.00% | ~575 |

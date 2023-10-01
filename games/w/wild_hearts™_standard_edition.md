@@ -22,7 +22,7 @@
 | Flawless Crystal | 49.00% | ~44 |
 | Bonds of Enmity | 45.00% | ~40 |
 | Counter Specialist | 44.00% | ~39 |
-| Axer of Auspice | 39.00% | ~35 |
+| Axer of Auspice | 40.00% | ~36 |
 | Karakuri Trail | 38.00% | ~34 |
 | Mighty Marmelizer | 36.00% | ~32 |
 | Fair Means or Foul | 36.00% | ~32 |
@@ -30,10 +30,10 @@
 | Single Minded | 35.00% | ~31 |
 | Snare Specialist | 35.00% | ~31 |
 | Reincarnation Cycle Stopper | 33.00% | ~29 |
-| Team Hunter | 30.00% | ~27 |
+| Team Hunter | 31.00% | ~28 |
 | Karakuri Isle | 29.00% | ~26 |
 | Artful Assister | 28.00% | ~25 |
-| Left Arm Leverager | 26.00% | ~23 |
+| Left Arm Leverager | 27.00% | ~24 |
 | Unrivaled in Arms | 26.00% | ~23 |
 | Threaded Harmony | 25.00% | ~22 |
 | Volatile Vocation | 24.00% | ~21 |

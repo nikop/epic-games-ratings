@@ -4,8 +4,8 @@
   "ProductSlug": "sunlight-scream-de8642",
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-01T15:00:00+00:00",
     "PcReleaseDate": "2023-10-01T15:00:00+00:00",
@@ -25,9 +25,195 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-01T20:03:54.003964+00:00",
+  "TotalAchievements": 23,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achiev1",
+      "SetID": "77i5pll",
+      "Name": "First blood",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev10",
+      "SetID": "77i5pll",
+      "Name": "Full fry",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev11",
+      "SetID": "77i5pll",
+      "Name": "The flight of the two-faced butterfly",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev12",
+      "SetID": "77i5pll",
+      "Name": "Played and won",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev13",
+      "SetID": "77i5pll",
+      "Name": "Greed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev14",
+      "SetID": "77i5pll",
+      "Name": "Childhood friend",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev15",
+      "SetID": "77i5pll",
+      "Name": "Police dramas",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev16",
+      "SetID": "77i5pll",
+      "Name": "The intricacies of teaching",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev17",
+      "SetID": "77i5pll",
+      "Name": "Queen of the university",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev18",
+      "SetID": "77i5pll",
+      "Name": "Humble dreamer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev19",
+      "SetID": "77i5pll",
+      "Name": "Playful hacker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev2",
+      "SetID": "77i5pll",
+      "Name": "Loser",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev20",
+      "SetID": "77i5pll",
+      "Name": "Rich party boy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev21",
+      "SetID": "77i5pll",
+      "Name": "Time to wake up",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev22",
+      "SetID": "77i5pll",
+      "Name": "Flawless victory",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev23",
+      "SetID": "77i5pll",
+      "Name": "Perfectionist",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev3",
+      "SetID": "77i5pll",
+      "Name": "Smart boy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev4",
+      "SetID": "77i5pll",
+      "Name": "Detective",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev5",
+      "SetID": "77i5pll",
+      "Name": "Restrained",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev6",
+      "SetID": "77i5pll",
+      "Name": "University party",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev7",
+      "SetID": "77i5pll",
+      "Name": "Loveable",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev8",
+      "SetID": "77i5pll",
+      "Name": "You tried",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achiev9",
+      "SetID": "77i5pll",
+      "Name": "Last blood",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "77i5pll",
@@ -37,8 +223,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-01T18:04:21.9188966+00:00",
-  "LastChanged_Achievements": "2023-10-01T19:04:40.593991+00:00",
+  "LastChanged_Achievements": "2023-10-01T20:03:54.0039619+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:05.3160323+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:59:09.5608691+00:00",
-  "LastUpdate_Achievements": "2023-10-01T19:04:40.5939954+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:58:23.449648+00:00",
+  "LastUpdate_Achievements": "2023-10-01T20:03:54.044723+00:00"
 }

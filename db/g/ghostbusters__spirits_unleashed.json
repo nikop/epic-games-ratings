@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2164,10 +2164,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2350,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2023-10-01T20:01:11.9068588+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2351,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2350,
+  "NumberOfAwards": 2351,
   "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2229,7 +2235,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game has Competitive Players",
@@ -2244,9 +2250,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26139,
+  "EOS_Progressed": 26143,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13964,6 +13970,11 @@
       "Time": "2023-10-01T19:06:16.7186496+00:00",
       "NumProgressed": 26139,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-01T20:05:23.2623938+00:00",
+      "NumProgressed": 26143,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14085,9 +14096,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 261
     },
     {
       "ID": "Escape_Artist",
@@ -14109,9 +14120,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 209
     },
     {
       "ID": "GB_In_Training",
@@ -14382,16 +14393,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26139,
+      "Progressed": 26143,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-01T09:00:07.21488+00:00",
-  "LastChanged_Achievements": "2023-10-01T19:06:16.718649+00:00",
+  "LastChanged": "2023-10-01T20:01:11.9068586+00:00",
+  "LastChanged_Achievements": "2023-10-01T20:05:23.2623932+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:02:13.0428856+00:00",
-  "LastUpdate_Achievements": "2023-10-01T19:06:16.7188025+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:01:11.9068592+00:00",
+  "LastUpdate_Achievements": "2023-10-01T20:05:23.2624822+00:00"
 }

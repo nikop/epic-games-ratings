@@ -4,8 +4,8 @@
   "ProductSlug": "get-together-176532",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -222,17 +222,17 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -270,9 +270,9 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "GT_ACH_RITUALEND",
@@ -311,8 +311,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-10-01T19:08:29.6463523+00:00",
+  "LastChanged_Achievements": "2023-10-01T20:07:27.5357134+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:46.8174676+00:00",
-  "LastUpdate_Ratings": "2023-10-01T19:01:59.4838718+00:00",
-  "LastUpdate_Achievements": "2023-10-01T19:08:29.6463636+00:00"
+  "LastUpdate_Ratings": "2023-10-01T20:00:58.2605671+00:00",
+  "LastUpdate_Achievements": "2023-10-01T20:07:27.5357229+00:00"
 }

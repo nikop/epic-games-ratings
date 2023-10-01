@@ -6,15 +6,15 @@ Rating: 4.56 (Ranked 474)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 27.00% | ~865 |
-| Sputnik 2049 | 24.00% | ~768 |
-| Infinite Growth... | 23.00% | ~736 |
-| Without Breaking Some Eggs... | 22.00% | ~704 |
-| Space Society | 16.00% | ~512 |
-| A Thousand Strong | 16.00% | ~512 |
-| Ready for a New World | 16.00% | ~512 |
-| Permanent Redesigns | 14.00% | ~448 |
-| Fully Recycled | 13.00% | ~416 |
-| The Ship of Theseus | 13.00% | ~416 |
+| Sputnik 2049 | 24.00% | ~769 |
+| Infinite Growth... | 23.00% | ~737 |
+| Without Breaking Some Eggs... | 22.00% | ~705 |
+| Space Society | 16.00% | ~513 |
+| A Thousand Strong | 16.00% | ~513 |
+| Ready for a New World | 16.00% | ~513 |
+| Permanent Redesigns | 14.00% | ~449 |
+| Fully Recycled | 13.00% | ~417 |
+| The Ship of Theseus | 13.00% | ~417 |
 | Guy de Borderlands | 12.00% | ~384 |
 | Ain't Nobody Got Time for That | 12.00% | ~384 |
 | Hope Seeker | 11.00% | ~352 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 474)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,202 (Ranked 187)  
+Progressed: 3,204 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 303)
 | 2023-09-28 | 3,195 | 0 |
 | 2023-09-29 | 3,197 | 0 |
 | 2023-09-30 | 3,200 | 0 |
-| 2023-10-01 | 3,202 | 0 |
+| 2023-10-01 | 3,204 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

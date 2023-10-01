@@ -5,38 +5,38 @@ Rating: 4.53 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 36.00% | ~4,814 |
-| Captain Drummer | 31.00% | ~4,146 |
-| Stogie for Fogey | 29.00% | ~3,878 |
-| Martian Music | 29.00% | ~3,878 |
-| Celebrations are in Order | 29.00% | ~3,878 |
-| The Pit and the Pirates | 27.00% | ~3,611 |
-| Spore Taste | 27.00% | ~3,611 |
-| Drone Dodger | 26.00% | ~3,477 |
-| Bosmang | 21.00% | ~2,808 |
-| Doctor Approved | 20.00% | ~2,675 |
-| Thorston Mayer | 16.00% | ~2,140 |
-| Call it Even | 15.00% | ~2,006 |
-| Data Archivist | 14.00% | ~1,872 |
-| Bottoms up! | 13.00% | ~1,738 |
-| Heal Thy Medic | 13.00% | ~1,738 |
-| Khan's Revenge | 12.00% | ~1,605 |
-| Data Logger | 8.00% | ~1,070 |
-| Miraculous Maya | 8.00% | ~1,070 |
-| Data Master | 7.00% | ~936 |
-| Data Recoverer | 6.00% | ~802 |
+| Impossible Objects | 36.00% | ~4,818 |
+| Captain Drummer | 31.00% | ~4,148 |
+| Stogie for Fogey | 30.00% | ~4,015 |
+| Martian Music | 29.00% | ~3,881 |
+| Celebrations are in Order | 29.00% | ~3,881 |
+| The Pit and the Pirates | 27.00% | ~3,613 |
+| Spore Taste | 27.00% | ~3,613 |
+| Drone Dodger | 26.00% | ~3,479 |
+| Bosmang | 21.00% | ~2,810 |
+| Doctor Approved | 20.00% | ~2,676 |
+| Thorston Mayer | 16.00% | ~2,141 |
+| Call it Even | 15.00% | ~2,007 |
+| Data Archivist | 14.00% | ~1,873 |
+| Bottoms up! | 14.00% | ~1,873 |
+| Heal Thy Medic | 13.00% | ~1,740 |
+| Khan's Revenge | 12.00% | ~1,606 |
+| Data Logger | 8.00% | ~1,071 |
+| Miraculous Maya | 8.00% | ~1,071 |
+| Data Master | 7.00% | ~937 |
+| Data Recoverer | 6.00% | ~803 |
 | Brother's Reaper | 4.00% | ~535 |
 | No Belter Left Behind | 4.00% | ~535 |
 | Debris Spree | 4.00% | ~535 |
 | Urshanabi Hoarder | 3.00% | ~401 |
-| Data Miner | 2.00% | ~267 |
-| Grave Robber | 2.00% | ~267 |
-| Scavenger Star | 0.40% | ~53 |
+| Data Miner | 2.00% | ~268 |
+| Grave Robber | 2.00% | ~268 |
+| Scavenger Star | 0.40% | ~54 |
 | Data Collector | 0.30% | ~40 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,373 (Ranked 135)  
+Progressed: 13,382 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 303)
 | 2023-09-28 | 13,120 | 0 |
 | 2023-09-29 | 13,208 | 0 |
 | 2023-09-30 | 13,295 | 0 |
-| 2023-10-01 | 13,373 | 0 |
+| 2023-10-01 | 13,382 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

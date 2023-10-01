@@ -14,15 +14,15 @@
 | Nice Display | 15.00% | ~2 |
 | Key Piece II | 15.00% | ~2 |
 | The Musician | 8.00% | ~1 |
+| Energy For Days | 8.00% | ~1 |
+| A Budding Business | 8.00% | ~1 |
 | Key Piece III | 8.00% | ~1 |
 | The Hero | 8.00% | ~1 |
+| The Ultimate Weapon | 8.00% | ~1 |
 | Combat Queen | 8.00% | ~1 |
 | Not All Who Wander | 0.00% | ~0 |
 | Walking Cookbook | 0.00% | ~0 |
 | Lily Strong | 0.00% | ~0 |
-| Energy For Days | 0.00% | ~0 |
-| A Budding Business | 0.00% | ~0 |
-| The Ultimate Weapon | 0.00% | ~0 |
 | Postmaster | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13 (Ranked 501)  

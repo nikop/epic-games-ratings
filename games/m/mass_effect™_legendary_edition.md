@@ -10,8 +10,8 @@
 | Recruit | 71.00% | ~370 |
 | Search and Rescue | 71.00% | ~370 |
 | Quarian Ally | 69.00% | ~359 |
+| Honorarium of Corporate Service | 66.00% | ~344 |
 | Medal of Heroism | 65.00% | ~339 |
-| Honorarium of Corporate Service | 65.00% | ~339 |
 | Medal of Exploration II | 58.00% | ~302 |
 | Council Legion of Merit | 57.00% | ~297 |
 | Turian Ally | 56.00% | ~292 |
@@ -24,17 +24,17 @@
 | Soldier Ally | 50.00% | ~260 |
 | Principled | 50.00% | ~260 |
 | Colonial Savior | 48.00% | ~250 |
+| Paramour I | 45.00% | ~234 |
 | Sentinel Ally | 45.00% | ~234 |
 | Krogan Ally | 45.00% | ~234 |
-| Paramour I | 44.00% | ~229 |
 | Scientist | 44.00% | ~229 |
 | Merciless | 43.00% | ~224 |
 | Head Hunter | 41.00% | ~214 |
+| Operative | 40.00% | ~208 |
 | Veteran | 39.00% | ~203 |
-| Operative | 39.00% | ~203 |
+| Missing in Action | 39.00% | ~203 |
+| Very Elusive | 39.00% | ~203 |
 | Scholar | 39.00% | ~203 |
-| Missing in Action | 38.00% | ~198 |
-| Very Elusive | 38.00% | ~198 |
 | Power Full | 38.00% | ~198 |
 | Completionist | 36.00% | ~188 |
 | The Professor | 36.00% | ~188 |
@@ -49,25 +49,25 @@
 | The Justicar | 31.00% | ~162 |
 | The Quarian | 31.00% | ~162 |
 | The Assassin | 30.00% | ~156 |
+| Battlemaster | 30.00% | ~156 |
 | The Prodigal | 30.00% | ~156 |
 | A Personal Touch | 29.00% | ~151 |
-| Battlemaster | 29.00% | ~151 |
 | Ghost of the Father | 29.00% | ~151 |
 | The Cure | 29.00% | ~151 |
 | Big Game Hunter | 29.00% | ~151 |
 | Agent | 29.00% | ~151 |
+| Revenge! | 29.00% | ~151 |
 | Heart of Darkness | 29.00% | ~151 |
 | Shopaholic | 29.00% | ~151 |
 | Catharsis | 28.00% | ~146 |
 | Fade Away | 28.00% | ~146 |
-| Revenge! | 28.00% | ~146 |
 | Driven | 28.00% | ~146 |
 | Focused | 27.00% | ~141 |
+| Cat's in the Cradle | 27.00% | ~141 |
 | Treason | 27.00% | ~141 |
 | Digital Exorcist | 27.00% | ~141 |
 | Bringer of War | 27.00% | ~141 |
 | First Aid Specialist | 26.00% | ~135 |
-| Cat's in the Cradle | 26.00% | ~135 |
 | Doppelganger | 26.00% | ~135 |
 | Friend or Foe | 25.00% | ~130 |
 | Mobilizer | 25.00% | ~130 |
@@ -78,8 +78,8 @@
 | Mission Accomplished | 23.00% | ~120 |
 | Against All Odds | 23.00% | ~120 |
 | A House Divided | 23.00% | ~120 |
+| World Shaker | 23.00% | ~120 |
 | Weapon Specialist | 22.00% | ~115 |
-| World Shaker | 22.00% | ~115 |
 | Liberator | 22.00% | ~115 |
 | Savior | 20.00% | ~104 |
 | Paramour II | 20.00% | ~104 |

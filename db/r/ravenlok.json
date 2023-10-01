@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3001,9 +3001,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 408
     },
     {
       "ID": "15",
@@ -3265,9 +3265,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 419
     },
     {
       "ID": "45",
@@ -3370,8 +3370,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-10-01T19:06:34.3504606+00:00",
+  "LastChanged_Achievements": "2023-10-01T20:05:39.8596332+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.6479381+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:59:32.0665176+00:00",
-  "LastUpdate_Achievements": "2023-10-01T19:06:34.3505656+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:58:45.1593051+00:00",
+  "LastUpdate_Achievements": "2023-10-01T20:05:39.8596829+00:00"
 }

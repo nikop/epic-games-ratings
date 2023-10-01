@@ -5,53 +5,53 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,681 |
-| Hotel California | 3.00% | ~20,681 |
-| Welcome To Hell-A | 3.00% | ~20,681 |
-| Dr. Reed, I Presume? | 2.00% | ~13,787 |
-| Git Gutte! | 2.00% | ~13,787 |
-| Anger Management | 2.00% | ~13,787 |
-| Bookworm | 2.00% | ~13,787 |
-| But Doctor, I am Butcho | 2.00% | ~13,787 |
-| Slayer Squad | 2.00% | ~13,787 |
-| Can't Handle the Truth | 2.00% | ~13,787 |
-| Coup de Grâce | 2.00% | ~13,787 |
-| Like Riding a Bike | 2.00% | ~13,787 |
-| Hazardous Materials | 2.00% | ~13,787 |
-| Friends Like These | 2.00% | ~13,787 |
-| Apex Predator | 2.00% | ~13,787 |
-| Zombologist | 2.00% | ~13,787 |
-| Ooh, Shiny! | 2.00% | ~13,787 |
-| A Patton Emerges | 2.00% | ~13,787 |
-| I Am the Resurrection | 2.00% | ~13,787 |
-| Stacking the Deck | 2.00% | ~13,787 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,787 |
-| Our True Nature | 2.00% | ~13,787 |
-| This is My Weapon | 2.00% | ~13,787 |
+| Break A Leg | 3.00% | ~20,682 |
+| Hotel California | 3.00% | ~20,682 |
+| Welcome To Hell-A | 3.00% | ~20,682 |
+| Dr. Reed, I Presume? | 2.00% | ~13,788 |
+| Git Gutte! | 2.00% | ~13,788 |
+| Anger Management | 2.00% | ~13,788 |
+| Bookworm | 2.00% | ~13,788 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,788 |
+| But Doctor, I am Butcho | 2.00% | ~13,788 |
+| Slayer Squad | 2.00% | ~13,788 |
+| Can't Handle the Truth | 2.00% | ~13,788 |
+| Coup de Grâce | 2.00% | ~13,788 |
+| Like Riding a Bike | 2.00% | ~13,788 |
+| Hazardous Materials | 2.00% | ~13,788 |
+| Friends Like These | 2.00% | ~13,788 |
+| Apex Predator | 2.00% | ~13,788 |
+| Zombologist | 2.00% | ~13,788 |
+| Ooh, Shiny! | 2.00% | ~13,788 |
+| A Patton Emerges | 2.00% | ~13,788 |
+| I Am the Resurrection | 2.00% | ~13,788 |
+| Stacking the Deck | 2.00% | ~13,788 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,788 |
+| Our True Nature | 2.00% | ~13,788 |
+| This is My Weapon | 2.00% | ~13,788 |
 | Making Your Mark | 1.00% | ~6,894 |
 | Perks of the Job | 1.00% | ~6,894 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,894 |
 | Humanity Distilled | 1.00% | ~6,894 |
 | Down with the Sickness | 1.00% | ~6,894 |
 | Max Headroom | 1.00% | ~6,894 |
 | Go, Bobcats! | 0.90% | ~6,204 |
 | Rising Star | 0.90% | ~6,204 |
 | Jumbo Keyring | 0.80% | ~5,515 |
-| Smorgasbord | 0.70% | ~4,825 |
+| Smorgasbord | 0.70% | ~4,826 |
 | Not Even My Final Form | 0.60% | ~4,136 |
 | Internet Famous | 0.60% | ~4,136 |
 | Make it So | 0.50% | ~3,447 |
 | On Safari | 0.50% | ~3,447 |
 | Variety is the Spice of Death | 0.50% | ~3,447 |
-| LA Influential | 0.40% | ~2,757 |
-| Gore Horse | 0.40% | ~2,757 |
-| Sharpest Tool in the Box | 0.40% | ~2,757 |
+| LA Influential | 0.40% | ~2,758 |
+| Gore Horse | 0.40% | ~2,758 |
+| Sharpest Tool in the Box | 0.40% | ~2,758 |
 | Sole Survivor | 0.30% | ~2,068 |
 | Survival Skills | 0.30% | ~2,068 |
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,353 (Ranked 22)  
+Progressed: 689,388 (Ranked 22)  
 Completed: 2,183 (0.32%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 2,183 (0.32%) (Ranked 193)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 689,353 | 2,183 |
+| 2023-10-01 | 689,388 | 2,183 |
 ## Awards
 Max (Great Boss Battles): 6,270  (Ranked 58)  
-Sum: 9,353 (Ranked 91)  
+Sum: 9,354 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 431 |
 | This game has Quickly Understood Controls | 413 |
 | This game is Relaxing | 392 |
-| This game has Amazing Storytelling | 361 |
+| This game has Amazing Storytelling | 362 |
 | This game is Extremely Fun | 353 |
 | This game is Highly Recommended | 348 |
 | This game has Amazing Characters | 344 |
@@ -397,4 +397,4 @@ Diff (max vs sum): -33
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
-| 2023-10-01 | 4.54 | 6,270 | 9,353 |
+| 2023-10-01 | 4.54 | 6,270 | 9,354 |

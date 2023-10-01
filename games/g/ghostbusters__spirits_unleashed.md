@@ -1,17 +1,17 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 574)  
+Rating: 4.50 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Advancement | 1.00% | ~261 |
+| Meticulously Efficient | 1.00% | ~261 |
 | Stylish | 1.00% | ~261 |
-| Meticulously Efficient | 0.90% | ~235 |
 | Discovery | 0.80% | ~209 |
+| Fully Upgraded | 0.80% | ~209 |
 | Solo Capture | 0.80% | ~209 |
 | I collect Spores, Molds, and Fungi | 0.70% | ~183 |
-| Fully Upgraded | 0.70% | ~183 |
 | Vaporous Expansion | 0.70% | ~183 |
 | Whoopsie | 0.70% | ~183 |
 | Back Off | 0.60% | ~157 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,139 (Ranked 114)  
+Progressed: 26,143 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 58 (0.22%) (Ranked 214)
 | 2023-09-28 | 26,071 | 58 |
 | 2023-09-29 | 26,093 | 58 |
 | 2023-09-30 | 26,122 | 58 |
-| 2023-10-01 | 26,139 | 58 |
+| 2023-10-01 | 26,143 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
-Sum: 2,350 (Ranked 188)  
+Sum: 2,351 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): 68
 | This game is Extremely Fun | 233 |
 | This game has Diverse Characters | 233 |
 | This game is Highly Recommended | 228 |
-| This game is Relaxing | 227 |
+| This game is Relaxing | 228 |
 | This game has Quickly Understood Controls | 220 |
 | This game has Amazing Characters | 218 |
 | This game has Playful Visuals | 94 |
@@ -411,4 +411,4 @@ Diff (max vs sum): 68
 | 2023-09-23 | 4.50 | 256 | 2,329 |
 | 2023-09-24 | 4.50 | 256 | 2,330 |
 | 2023-09-25 | 4.50 | 256 | 2,331 |
-| 2023-10-01 | 4.50 | 258 | 2,350 |
+| 2023-10-01 | 4.50 | 258 | 2,351 |

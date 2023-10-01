@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1492,9 +1492,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "Synthesis",
@@ -1515,8 +1515,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-10-01T19:08:29.4220731+00:00",
+  "LastChanged_Achievements": "2023-10-01T20:07:27.2908013+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.4954104+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:58:53.1015997+00:00",
-  "LastUpdate_Achievements": "2023-10-01T19:08:29.4220948+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:58:08.2017818+00:00",
+  "LastUpdate_Achievements": "2023-10-01T20:07:27.2908175+00:00"
 }

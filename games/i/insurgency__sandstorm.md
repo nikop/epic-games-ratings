@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,906 |
-| Wallbanger | 5.00% | ~22,906 |
-| Exploitative | 4.00% | ~18,325 |
-| High Speed Low Drag | 4.00% | ~18,325 |
-| Wet Feet | 4.00% | ~18,325 |
+| Point Shooting | 5.00% | ~22,907 |
+| Wallbanger | 5.00% | ~22,907 |
+| Exploitative | 4.00% | ~18,326 |
+| High Speed Low Drag | 4.00% | ~18,326 |
+| Wet Feet | 4.00% | ~18,326 |
 | Checkpoint Victory | 3.00% | ~13,744 |
 | Lucky | 3.00% | ~13,744 |
 | Stylin' | 3.00% | ~13,744 |
 | Turf War | 3.00% | ~13,744 |
-| Banged | 2.00% | ~9,162 |
-| First Blood | 2.00% | ~9,162 |
-| Flaccid Paralysis | 2.00% | ~9,162 |
-| Push Victory | 2.00% | ~9,162 |
-| Self-destructive | 2.00% | ~9,162 |
+| Banged | 2.00% | ~9,163 |
+| First Blood | 2.00% | ~9,163 |
+| Flaccid Paralysis | 2.00% | ~9,163 |
+| Push Victory | 2.00% | ~9,163 |
+| Self-destructive | 2.00% | ~9,163 |
 | Blindfire | 1.00% | ~4,581 |
 | Ruthless | 1.00% | ~4,581 |
 | Semper Paratus | 1.00% | ~4,581 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,207 |
 | Firefight Victory | 0.60% | ~2,749 |
 | Cinematic | 0.50% | ~2,291 |
-| Thanks Station! | 0.40% | ~1,832 |
+| Thanks Station! | 0.40% | ~1,833 |
 | Knock Knock | 0.30% | ~1,374 |
 | There For You | 0.30% | ~1,374 |
 | Hit and Run | 0.20% | ~916 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~458 |
 | Road Hazard | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,124 (Ranked 38)  
+Progressed: 458,148 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 2 (0.00%) (Ranked 303)
 | 2023-09-28 | 457,161 | 2 |
 | 2023-09-29 | 457,447 | 2 |
 | 2023-09-30 | 457,822 | 2 |
-| 2023-10-01 | 458,124 | 2 |
+| 2023-10-01 | 458,148 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 383  (Ranked 224)  
 Sum: 3,010 (Ranked 169)  

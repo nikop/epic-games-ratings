@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6776,
+  "EOS_Progressed": 6777,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3158,6 +3158,11 @@
       "Time": "2023-10-01T19:07:51.7624413+00:00",
       "NumProgressed": 6776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T20:06:51.614315+00:00",
+      "NumProgressed": 6777,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3290,7 +3295,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "GamesPlayed10",
@@ -3560,9 +3565,9 @@
       "ID": "MinionKills2000",
       "SetID": "12d07c7",
       "Name": "2000 Minion Eliminations",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 54
     },
     {
       "ID": "NIUpgraded1",
@@ -3666,7 +3671,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "SEUpgraded1",
@@ -3761,7 +3766,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6776,
+      "Progressed": 6777,
       "Completed": 1
     }
   ],
@@ -3769,8 +3774,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-01T19:07:51.7624405+00:00",
+  "LastChanged_Achievements": "2023-10-01T20:06:51.6143146+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-10-01T18:59:04.3231897+00:00",
-  "LastUpdate_Achievements": "2023-10-01T19:07:51.7625737+00:00"
+  "LastUpdate_Ratings": "2023-10-01T19:58:18.4523133+00:00",
+  "LastUpdate_Achievements": "2023-10-01T20:06:51.6143921+00:00"
 }

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~335 |
-| Off to a good start | 67.00% | ~249 |
-| Do... or do not. There is no try | 52.00% | ~193 |
-| A good blaster at your side | 33.00% | ~123 |
-| Scrap collector | 21.00% | ~78 |
-| Great shot, kid! | 20.00% | ~74 |
+| New Recruit | 90.00% | ~338 |
+| Off to a good start | 66.00% | ~248 |
+| Do... or do not. There is no try | 53.00% | ~199 |
+| A good blaster at your side | 33.00% | ~124 |
+| Scrap collector | 20.00% | ~75 |
 | All right, I'll give it a try | 19.00% | ~71 |
-| I suggest a new strategy | 18.00% | ~67 |
-| The power of the Force | 17.00% | ~63 |
-| Together we can rule the galaxy | 17.00% | ~63 |
+| Great shot, kid! | 19.00% | ~71 |
+| Together we can rule the galaxy | 18.00% | ~68 |
+| I suggest a new strategy | 18.00% | ~68 |
+| The power of the Force | 16.00% | ~60 |
 | Collector | 16.00% | ~60 |
 | Shoot first | 16.00% | ~60 |
-| Survivor | 13.00% | ~48 |
+| Survivor | 13.00% | ~49 |
 | Tell Jabba that I've got his money | 12.00% | ~45 |
 | Best star-pilot in the galaxy | 12.00% | ~45 |
 | Never tell me the odds! | 11.00% | ~41 |
-| What's the cargo? | 10.00% | ~37 |
-| Impressive. Most impressive. | 10.00% | ~37 |
-| A cunning warrior | 10.00% | ~37 |
-| "Gonk? Gonk!" | 9.00% | ~33 |
-| A tremor in the Force | 9.00% | ~33 |
-| Judge me by my size, do you? | 9.00% | ~33 |
-| Distinguished | 8.00% | ~30 |
-| Support the troops | 8.00% | ~30 |
+| What's the cargo? | 10.00% | ~38 |
+| Impressive. Most impressive. | 10.00% | ~38 |
+| A cunning warrior | 10.00% | ~38 |
+| "Gonk? Gonk!" | 9.00% | ~34 |
+| A tremor in the Force | 9.00% | ~34 |
+| Judge me by my size, do you? | 9.00% | ~34 |
+| Distinguished | 7.00% | ~26 |
 | Patience you must have | 7.00% | ~26 |
-| On the ball | 6.00% | ~22 |
-| Not bad for a little furball | 6.00% | ~22 |
-| Don't underestimate the Force | 6.00% | ~22 |
+| Support the troops | 7.00% | ~26 |
+| On the ball | 6.00% | ~23 |
+| Not bad for a little furball | 6.00% | ~23 |
+| Don't underestimate the Force | 6.00% | ~23 |
 | I've been waiting for you | 5.00% | ~19 |
 | When 900 years old you reach... | 5.00% | ~19 |
 | Determined | 5.00% | ~19 |
@@ -52,10 +52,10 @@
 | You have your moments | 3.00% | ~11 |
 | When surrounded by war... | 3.00% | ~11 |
 | Onwards! | 3.00% | ~11 |
-| No such thing as luck | 2.00% | ~7 |
-| Do we take prisoners? | 2.00% | ~7 |
-| I’ll take that bet | 2.00% | ~7 |
-| Stop that Droid | 2.00% | ~7 |
+| No such thing as luck | 2.00% | ~8 |
+| Do we take prisoners? | 2.00% | ~8 |
+| I’ll take that bet | 2.00% | ~8 |
+| Stop that Droid | 2.00% | ~8 |
 | A New Hope | 1.00% | ~4 |
 | in a galaxy far, far away.... | 1.00% | ~4 |
 | That got him! | 0.80% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~1 |
 | Crush them with one swift stroke… | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372 (Ranked 291)  
+Progressed: 376 (Ranked 291)  
 Completed: 1 (0.27%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.27%) (Ranked 205)
 | 2023-09-28 | 289 | 1 |
 | 2023-09-29 | 314 | 1 |
 | 2023-09-30 | 345 | 1 |
-| 2023-10-01 | 372 | 1 |
+| 2023-10-01 | 376 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

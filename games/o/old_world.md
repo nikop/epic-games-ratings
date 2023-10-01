@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 301)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | Tell the Spartans | 0.10% | ~14 |
+| Queen of Intrigue | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
 | Acropolis | 0.10% | ~14 |
 | Apadana | 0.10% | ~14 |
@@ -106,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~14 |
 | Pyramids | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
+| Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn to Play 1 | 0.10% | ~14 |
 | Learn to Play 2 | 0.10% | ~14 |
 | Learn to Play 3 | 0.10% | ~14 |
@@ -143,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.10% | ~14 |
 | Capturing Cities | 0.10% | ~14 |
 | Naming Landmarks | 0.10% | ~14 |
+| Ten Crowns | 0.10% | ~14 |
 | Economic Reform | 0.10% | ~14 |
 | Industrial Progress | 0.10% | ~14 |
 | Military Prestige | 0.10% | ~14 |
@@ -285,7 +288,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Golden Crown | 0.00% | ~0 |
 | Philip's Silver Crown | 0.00% | ~0 |
 | Queen of Politics | 0.00% | ~0 |
-| Queen of Intrigue | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
@@ -304,7 +306,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
@@ -322,7 +323,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Circus Maximus in Roma | 0.00% | ~0 |
-| Ten Crowns | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,270 (Ranked 133)  
+Progressed: 14,271 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,10 +513,10 @@ Completed: 5 (0.04%) (Ranked 268)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,270 | 5 |
+| 2023-10-01 | 14,271 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
-Sum: 1,825 (Ranked 207)  
+Sum: 1,826 (Ranked 207)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -526,8 +526,8 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 210 |
 | This game is Educational | 209 |
 | This game has Challenging Combat | 197 |
+| This game has Quickly Understood Controls | 190 |
 | This game has Amazing Characters | 190 |
-| This game has Quickly Understood Controls | 189 |
 | This game has Amazing Storytelling | 186 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -670,4 +670,4 @@ Diff (max vs sum): 58
 | 2023-09-27 | 4.65 | - | 223 | 1,821 |
 | 2023-09-28 | 4.65 | - | 223 | 1,823 |
 | 2023-09-29 | 4.65 | - | 223 | 1,824 |
-| 2023-10-01 | 4.65 | - | 223 | 1,825 |
+| 2023-10-01 | 4.65 | - | 223 | 1,826 |
