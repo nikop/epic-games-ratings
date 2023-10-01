@@ -5,37 +5,37 @@ Rating: 4.66 (Ranked 280)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~2,579 |
-| On the Top Step | 87.00% | ~2,413 |
-| Setting up for Success | 75.00% | ~2,080 |
-| Team Orders | 73.00% | ~2,024 |
-| Engineer | 54.00% | ~1,497 |
-| Familiar Faces | 47.00% | ~1,303 |
-| Going the Extra Mile | 41.00% | ~1,137 |
+| Getting on the Step | 93.00% | ~2,581 |
+| On the Top Step | 87.00% | ~2,414 |
+| Setting up for Success | 75.00% | ~2,081 |
+| Team Orders | 73.00% | ~2,026 |
+| Engineer | 54.00% | ~1,498 |
+| Familiar Faces | 47.00% | ~1,304 |
+| Going the Extra Mile | 41.00% | ~1,138 |
 | Sharing the Love | 38.00% | ~1,054 |
-| Hitting a Season | 33.00% | ~915 |
-| Challenge Yourself | 32.00% | ~887 |
+| Hitting a Season | 33.00% | ~916 |
+| Challenge Yourself | 32.00% | ~888 |
 | Making History | 30.00% | ~832 |
-| A Dozen Pieces | 28.00% | ~776 |
+| A Dozen Pieces | 28.00% | ~777 |
 | Network Success | 24.00% | ~666 |
 | Spring Cleaning | 23.00% | ~638 |
 | Writing a new Chapter | 23.00% | ~638 |
-| Reduce | 18.00% | ~499 |
-| Ups and Downs | 18.00% | ~499 |
+| Reduce | 19.00% | ~527 |
+| Ups and Downs | 18.00% | ~500 |
 | Crucial Combo | 16.00% | ~444 |
 | Reuse | 16.00% | ~444 |
 | One for the Book | 16.00% | ~444 |
 | Proving Them Wrong | 15.00% | ~416 |
-| Gathering Dust | 14.00% | ~388 |
-| Oil and Water | 14.00% | ~388 |
+| Gathering Dust | 14.00% | ~389 |
+| Oil and Water | 14.00% | ~389 |
 | Lightning Round the World | 12.00% | ~333 |
 | Hitting a Bullseye | 12.00% | ~333 |
 | Eagle Eye | 11.00% | ~305 |
 | All in a Weekend's Work | 11.00% | ~305 |
 | Recycle | 11.00% | ~305 |
 | Tinkerer | 11.00% | ~305 |
-| Switcheroo | 10.00% | ~277 |
-| Spinning Around | 10.00% | ~277 |
+| Switcheroo | 10.00% | ~278 |
+| Spinning Around | 10.00% | ~278 |
 | Friendly Competition | 9.00% | ~250 |
 | Undisputed Winner | 8.00% | ~222 |
 | Living up to Expectations | 6.00% | ~166 |
@@ -46,7 +46,7 @@ Rating: 4.66 (Ranked 280)
 | Seasoned Rookie | 3.00% | ~83 |
 | Hitting a Century | 3.00% | ~83 |
 | Wait, I know you? | 3.00% | ~83 |
-| Filling in the Gaps | 2.00% | ~55 |
+| Filling in the Gaps | 2.00% | ~56 |
 | Under the Microscope | 1.00% | ~28 |
 | Saturday Night Drama | 1.00% | ~28 |
 | Media Darling | 1.00% | ~28 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 280)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,773 (Ranked 190)  
+Progressed: 2,775 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 2,620 | 0 |
 | 2023-09-29 | 2,695 | 0 |
 | 2023-09-30 | 2,769 | 0 |
-| 2023-10-01 | 2,773 | 0 |
+| 2023-10-01 | 2,775 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

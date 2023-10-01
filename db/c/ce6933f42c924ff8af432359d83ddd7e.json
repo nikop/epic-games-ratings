@@ -2,7 +2,7 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 25,
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 149,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 5.44,
+  "EOS_Completed_Percentage": 5.37,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -274,6 +274,11 @@
       "Time": "2023-10-01T03:06:21.3289005+00:00",
       "NumProgressed": 147,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-01T04:06:15.1745224+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -294,13 +299,13 @@
       "Name": "Brain-teaser",
       "Percentage": 54,
       "XP": 85,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 45,
       "UsersEstimate": 115
     },
@@ -308,9 +313,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 84
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -326,7 +331,7 @@
       "Name": "Evil plan",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -334,13 +339,13 @@
       "Name": "Good listener",
       "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 55,
       "UsersEstimate": 97
     },
@@ -356,7 +361,7 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 65,
       "UsersEstimate": 85
     }
@@ -365,13 +370,13 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 149,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:06:21.3289002+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:06:15.174522+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:57:17.4573555+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:06:21.3289064+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:57:25.7420432+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:06:15.1745302+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 435,
+  "Ranking_Rating": 436,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -732,9 +732,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3248,
+  "EOS_Progressed": 3249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3572,6 +3572,11 @@
       "Time": "2023-09-30T13:09:55.3912001+00:00",
       "NumProgressed": 3248,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T04:06:00.48822+00:00",
+      "NumProgressed": 3249,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3925,9 +3930,9 @@
       "ID": "MissionVictory_NoWP",
       "SetID": "3jha1np",
       "Name": "Exercise in Restraint",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "MissionVictory_Purgators",
@@ -4126,21 +4131,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3248,
+      "Progressed": 3249,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3248,
+      "Progressed": 3249,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:06:06.5633962+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:06:00.4882197+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.5419722+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:59:05.381598+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:06:06.5634681+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:59:08.1089805+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:06:00.4882892+00:00"
 }

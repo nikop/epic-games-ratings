@@ -1,7 +1,7 @@
 # Assassin's Creed Rogue Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-rogue)  
 [View Rawdata](../../db/a/assassin's_creed_rogue_standard_edition.json)  
-Rating: 4.58 (Ranked 435)  
+Rating: 4.59 (Ranked 418)  
 Number of Ratings: 305  (23.09.2022)  
 ## Awards
 Max (Character Customization): 167  (Ranked 295)  
@@ -121,3 +121,4 @@ Diff (max vs sum): -73
 | 2023-09-13 | 4.58 | - | 166 | 222 |
 | 2023-09-25 | 4.58 | - | 167 | 223 |
 | 2023-09-27 | 4.58 | - | 167 | 224 |
+| 2023-10-01 | 4.59 | - | 167 | 224 |

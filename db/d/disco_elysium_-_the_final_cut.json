@@ -1331,9 +1331,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129173,
+  "EOS_Progressed": 129174,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17776,6 +17776,11 @@
       "Time": "2023-10-01T03:05:53.5699505+00:00",
       "NumProgressed": 129173,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-01T04:05:47.6492276+00:00",
+      "NumProgressed": 129174,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17867,7 +17872,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36168
+      "UsersEstimate": 36169
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -17915,7 +17920,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16792
+      "UsersEstimate": 16793
     },
     {
       "ID": "ACH_COP_STAR",
@@ -18106,15 +18111,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129173,
+      "Progressed": 129174,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-27T09:59:07.5046433+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:05:53.56995+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:05:47.6492272+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:59:39.4412926+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:05:53.5700515+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:59:43.1218569+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:05:47.6493293+00:00"
 }

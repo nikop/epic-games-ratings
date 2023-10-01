@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37582,
+  "EOS_Progressed": 37584,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18173,6 +18173,11 @@
       "Time": "2023-10-01T03:04:33.7256011+00:00",
       "NumProgressed": 37582,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-01T04:04:27.45645+00:00",
+      "NumProgressed": 37584,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18184,7 +18189,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5637
+      "UsersEstimate": 5638
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -18192,7 +18197,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7516
+      "UsersEstimate": 7517
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18200,7 +18205,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -18415,7 +18420,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37582,
+      "Progressed": 37584,
       "Completed": 25
     }
   ],
@@ -18423,8 +18428,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:04:33.7256008+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:04:27.4564497+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-01T03:00:17.672436+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:04:33.725697+00:00"
+  "LastUpdate_Ratings": "2023-10-01T04:00:20.6120202+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:04:27.4565502+00:00"
 }

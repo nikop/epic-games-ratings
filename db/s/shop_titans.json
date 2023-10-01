@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6310,9 +6310,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136923,
+  "EOS_Progressed": 136926,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23090,6 +23090,11 @@
       "Time": "2023-10-01T03:07:06.2906404+00:00",
       "NumProgressed": 136923,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-10-01T04:08:09.9074109+00:00",
+      "NumProgressed": 136926,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -23333,7 +23338,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "commonres02",
@@ -23365,7 +23370,7 @@
       "Name": "Disintermediation",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "craft02",
@@ -23477,7 +23482,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "expansion02",
@@ -23573,7 +23578,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "gold02",
@@ -23685,7 +23690,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "level02",
@@ -23877,7 +23882,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "sell02",
@@ -23996,15 +24001,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136923,
+      "Progressed": 136926,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T22:59:01.2642222+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:07:06.2906399+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:08:09.9074105+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:58:50.8104624+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:07:06.2908418+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:58:53.5501273+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:08:09.9076082+00:00"
 }

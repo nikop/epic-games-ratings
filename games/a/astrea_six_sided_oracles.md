@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 97.00% | ~29 |
-| Meissa's Savior | 97.00% | ~29 |
-| Purification Pioneer | 97.00% | ~29 |
-| Dicesmithing Time! | 90.00% | ~27 |
-| Wild's Keeper | 83.00% | ~25 |
-| Endless Tricks | 77.00% | ~23 |
-| Sanctuary Guardian | 73.00% | ~22 |
-| Mind Illuminator | 60.00% | ~18 |
-| Stellar Dismantler | 47.00% | ~14 |
-| Anomaly Destroyer | 33.00% | ~10 |
-| Astral Adventurer | 33.00% | ~10 |
-| Star Killer | 33.00% | ~10 |
-| Loyal Partner | 30.00% | ~9 |
-| Unbeatable | 30.00% | ~9 |
-| Sentinelphobic | 20.00% | ~6 |
-| Stellar Haste | 20.00% | ~6 |
-| The Corruption Goddess | 20.00% | ~6 |
-| Sadistic Plan | 17.00% | ~5 |
-| Shard Spender | 17.00% | ~5 |
-| Skeptical | 17.00% | ~5 |
+| Mechanical Buddy | 94.00% | ~29 |
+| Meissa's Savior | 94.00% | ~29 |
+| Purification Pioneer | 94.00% | ~29 |
+| Dicesmithing Time! | 87.00% | ~27 |
+| Wild's Keeper | 81.00% | ~25 |
+| Endless Tricks | 74.00% | ~23 |
+| Sanctuary Guardian | 74.00% | ~23 |
+| Mind Illuminator | 61.00% | ~19 |
+| Stellar Dismantler | 45.00% | ~14 |
+| Anomaly Destroyer | 32.00% | ~10 |
+| Astral Adventurer | 32.00% | ~10 |
+| Star Killer | 32.00% | ~10 |
+| Loyal Partner | 29.00% | ~9 |
+| Unbeatable | 29.00% | ~9 |
+| Sentinelphobic | 19.00% | ~6 |
+| Stellar Haste | 19.00% | ~6 |
+| The Corruption Goddess | 19.00% | ~6 |
+| Sadistic Plan | 16.00% | ~5 |
+| Shard Spender | 16.00% | ~5 |
+| Skeptical | 16.00% | ~5 |
 | Dice Specialist | 13.00% | ~4 |
 | Denying Destiny | 10.00% | ~3 |
 | Wave Bender | 10.00% | ~3 |
-| Can't touch this | 7.00% | ~2 |
-| Heart Gate | 7.00% | ~2 |
-| Heavy Purger | 7.00% | ~2 |
-| Pocket Astrarium | 7.00% | ~2 |
-| Prestidigitation | 7.00% | ~2 |
-| Unepic Hero | 7.00% | ~2 |
+| Can't touch this | 6.00% | ~2 |
+| Heart Gate | 6.00% | ~2 |
+| Heavy Purger | 6.00% | ~2 |
+| Pocket Astrarium | 6.00% | ~2 |
+| Prestidigitation | 6.00% | ~2 |
+| Unepic Hero | 6.00% | ~2 |
 | Arch-Oracle | 3.00% | ~1 |
 | Astral Seeker | 3.00% | ~1 |
 | Astral Tinkerer | 3.00% | ~1 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 463)  
+Progressed: 31 (Ranked 460)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,4 +96,4 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 14 | 0 |
 | 2023-09-29 | 26 | 0 |
 | 2023-09-30 | 29 | 0 |
-| 2023-10-01 | 30 | 0 |
+| 2023-10-01 | 31 | 0 |

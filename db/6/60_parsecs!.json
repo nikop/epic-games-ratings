@@ -915,9 +915,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 362
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1268,8 +1268,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:03:59.3884656+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:03:53.1416371+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.722648+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:57:23.2465735+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:03:59.3884987+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:57:32.4594548+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:03:53.1416761+00:00"
 }

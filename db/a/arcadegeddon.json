@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -811,9 +811,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9138,
+  "EOS_Progressed": 9139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9731,6 +9731,11 @@
       "Time": "2023-09-30T21:06:15.536157+00:00",
       "NumProgressed": 9138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T04:05:10.5056409+00:00",
+      "NumProgressed": 9139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -9774,7 +9779,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -9814,7 +9819,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -9822,7 +9827,7 @@
       "Name": "Grey Goo",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -9886,7 +9891,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8224
+      "UsersEstimate": 8225
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -9910,7 +9915,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -9942,7 +9947,7 @@
       "Name": "Photogenic",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -9950,7 +9955,7 @@
       "Name": "Playing With Power",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6945
+      "UsersEstimate": 6946
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -9958,7 +9963,7 @@
       "Name": "Plug It In",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7493
+      "UsersEstimate": 7494
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -10038,7 +10043,7 @@
       "Name": "Surge Ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -10086,7 +10091,7 @@
       "Name": "The Full Monty",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "ACH_THIS_IS_MY_BOOMSTICK",
@@ -10094,7 +10099,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -10134,22 +10139,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5117
+      "UsersEstimate": 5118
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9138,
+      "Progressed": 9139,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:05:17.1960993+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:05:10.5056406+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.2117105+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:59:07.7456807+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:05:17.1962772+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:59:09.2193916+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:05:10.5057148+00:00"
 }

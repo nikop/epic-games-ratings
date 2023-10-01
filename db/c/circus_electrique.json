@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2023-09-24T18:05:49.0841231+00:00",
       "NumProgressed": 469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T04:03:06.5862115+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -486,9 +491,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "631ndc2",
       "Name": "Perfect Illusion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -496,7 +501,7 @@
       "Name": "Lion Tamer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -520,7 +525,7 @@
       "Name": "Around the Clock",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -536,7 +541,7 @@
       "Name": "Built in a Day",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -544,7 +549,7 @@
       "Name": "Path of Learning",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -608,7 +613,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -630,9 +635,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "631ndc2",
       "Name": "Hundred Percent First",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -798,9 +803,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -879,7 +884,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 1
     }
   ],
@@ -887,8 +892,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:03:12.8799999+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:03:06.586211+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:27.6447904+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:58:12.9574995+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:03:12.8800402+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:58:16.0445204+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:03:06.5862526+00:00"
 }

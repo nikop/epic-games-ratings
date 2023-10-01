@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1207,10 +1207,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 705,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-01T03:59:52.052694+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 706,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 705,
+  "NumberOfAwards": 706,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1230,7 +1236,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1275,9 +1281,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9316,
+  "EOS_Progressed": 9317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13850,6 +13856,11 @@
       "Time": "2023-10-01T01:53:42.1701009+00:00",
       "NumProgressed": 9316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T04:03:31.2059813+00:00",
+      "NumProgressed": 9317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -13893,7 +13904,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "14",
@@ -13901,7 +13912,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "15",
@@ -13909,7 +13920,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "16",
@@ -13941,7 +13952,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     },
     {
       "ID": "2",
@@ -13981,7 +13992,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "24",
@@ -13997,7 +14008,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "26",
@@ -14013,7 +14024,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "28",
@@ -14029,7 +14040,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "3",
@@ -14045,7 +14056,7 @@
       "Name": "Mogul",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "31",
@@ -14053,7 +14064,7 @@
       "Name": "Ranch Hand",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "32",
@@ -14125,7 +14136,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "40",
@@ -14189,7 +14200,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "48",
@@ -14221,7 +14232,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "51",
@@ -14332,15 +14343,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9316,
+      "Progressed": 9317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-09-30T14:03:22.7350041+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:03:37.6439088+00:00",
+  "LastChanged": "2023-10-01T03:59:52.0526939+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:03:31.2059809+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:01.0481083+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:59:49.0247403+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:03:37.6440376+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:59:52.0526943+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:03:31.2060878+00:00"
 }

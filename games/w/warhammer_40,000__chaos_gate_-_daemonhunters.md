@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 435)  
+Rating: 4.58 (Ranked 436)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -45,6 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.50% | ~16 |
 | Strike Force | 0.40% | ~13 |
 | Hands-On Research | 0.40% | ~13 |
+| Exercise in Restraint | 0.30% | ~10 |
 | True Mastery | 0.30% | ~10 |
 | Reign of Confusion | 0.30% | ~10 |
 | Suffer Not the Mutant | 0.30% | ~10 |
@@ -52,7 +53,6 @@ Number of Ratings: 371  (23.09.2022)
 | Blood and Iron | 0.20% | ~6 |
 | Clean Slate | 0.20% | ~6 |
 | Warp Flickers | 0.20% | ~6 |
-| Exercise in Restraint | 0.20% | ~6 |
 | Abomination | 0.20% | ~6 |
 | Killing Rampage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,248 (Ranked 186)  
+Progressed: 3,249 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 3,244 | 0 |
 | 2023-09-29 | 3,247 | 0 |
 | 2023-09-30 | 3,248 | 0 |
+| 2023-10-01 | 3,249 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 474 (Ranked 311)  

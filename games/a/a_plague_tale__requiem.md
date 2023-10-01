@@ -13,7 +13,7 @@ Rating: 4.73 (Ranked 163)
 | Alchemist | 68.00% | ~9,126 |
 | Leaving all Behind | 65.00% | ~8,724 |
 | Felons | 62.00% | ~8,321 |
-| A Sea of Promises | 60.00% | ~8,053 |
+| A Sea of Promises | 61.00% | ~8,187 |
 | Tales and Revelations | 57.00% | ~7,650 |
 | Bloodline | 52.00% | ~6,979 |
 | The Cradle of Centuries | 48.00% | ~6,442 |

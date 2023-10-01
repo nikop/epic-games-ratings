@@ -12,7 +12,7 @@ Rating: 4.74 (Ranked 149)
 | Globe Trotter | 11.00% | ~829 |
 | Ahem Ahem | 10.00% | ~754 |
 | Audiophile | 8.00% | ~603 |
-| Clay Pigeon | 6.00% | ~452 |
+| Clay Pigeon | 7.00% | ~528 |
 | Historian | 6.00% | ~452 |
 | Iconoclast | 6.00% | ~452 |
 | Soul-Canon | 6.00% | ~452 |

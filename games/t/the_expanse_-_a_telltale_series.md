@@ -5,21 +5,21 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 36.00% | ~4,791 |
-| Captain Drummer | 31.00% | ~4,126 |
+| Impossible Objects | 36.00% | ~4,792 |
+| Captain Drummer | 31.00% | ~4,127 |
 | Stogie for Fogey | 29.00% | ~3,860 |
 | Martian Music | 29.00% | ~3,860 |
 | Celebrations are in Order | 29.00% | ~3,860 |
-| Spore Taste | 27.00% | ~3,593 |
-| The Pit and the Pirates | 26.00% | ~3,460 |
-| Drone Dodger | 25.00% | ~3,327 |
+| Spore Taste | 27.00% | ~3,594 |
+| The Pit and the Pirates | 26.00% | ~3,461 |
+| Drone Dodger | 25.00% | ~3,328 |
 | Doctor Approved | 20.00% | ~2,662 |
 | Bosmang | 20.00% | ~2,662 |
-| Thorston Mayer | 16.00% | ~2,129 |
-| Call it Even | 15.00% | ~1,996 |
-| Data Archivist | 13.00% | ~1,730 |
-| Bottoms up! | 13.00% | ~1,730 |
-| Heal Thy Medic | 13.00% | ~1,730 |
+| Thorston Mayer | 16.00% | ~2,130 |
+| Call it Even | 15.00% | ~1,997 |
+| Data Archivist | 13.00% | ~1,731 |
+| Bottoms up! | 13.00% | ~1,731 |
+| Heal Thy Medic | 13.00% | ~1,731 |
 | Khan's Revenge | 11.00% | ~1,464 |
 | Data Logger | 8.00% | ~1,065 |
 | Miraculous Maya | 8.00% | ~1,065 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 473)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,309 (Ranked 135)  
+Progressed: 13,312 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 13,120 | 0 |
 | 2023-09-29 | 13,208 | 0 |
 | 2023-09-30 | 13,295 | 0 |
-| 2023-10-01 | 13,309 | 0 |
+| 2023-10-01 | 13,312 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

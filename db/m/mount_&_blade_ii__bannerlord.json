@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7581,9 +7581,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62459,
+  "EOS_Progressed": 62461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24971,6 +24971,11 @@
       "Time": "2023-10-01T03:06:02.1233482+00:00",
       "NumProgressed": 62459,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T04:05:55.9363326+00:00",
+      "NumProgressed": 62461,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25150,7 +25155,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9993
+      "UsersEstimate": 9994
     },
     {
       "ID": "I spit on your grave",
@@ -25206,7 +25211,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20611
+      "UsersEstimate": 20612
     },
     {
       "ID": "Lawbringer",
@@ -25214,7 +25219,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24359
+      "UsersEstimate": 24360
     },
     {
       "ID": "Lawmaker",
@@ -25389,15 +25394,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62459,
+      "Progressed": 62461,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-01T02:21:04.7829014+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:06:02.1233477+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:05:55.9363321+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:58:32.4647505+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:06:02.12346+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:58:36.1207064+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:05:55.9364454+00:00"
 }

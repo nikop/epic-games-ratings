@@ -6,8 +6,8 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~16,322 |
-| Mama? | 28.00% | ~5,935 |
+| Light at the end of the tunnel | 77.00% | ~16,325 |
+| Mama? | 28.00% | ~5,936 |
 | People's Haven | 18.00% | ~3,816 |
 | Cartographer | 17.00% | ~3,604 |
 | Antlers of Stone | 15.00% | ~3,180 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~1,272 |
 | Hide and Seek | 5.00% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,198 (Ranked 119)  
+Progressed: 21,201 (Ranked 119)  
 Completed: 424 (2.00%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 424 (2.00%) (Ranked 103)
 | 2023-09-28 | 21,024 | 422 |
 | 2023-09-29 | 21,096 | 422 |
 | 2023-09-30 | 21,188 | 424 |
-| 2023-10-01 | 21,198 | 424 |
+| 2023-10-01 | 21,201 | 424 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

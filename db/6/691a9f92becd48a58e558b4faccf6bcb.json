@@ -4,7 +4,7 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-09-21T15:04:03.1209788+00:00",
@@ -129,6 +129,11 @@
       "Time": "2023-10-01T01:56:58.7404906+00:00",
       "NumProgressed": 23,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T04:06:45.1771298+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -155,7 +160,7 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_HOME",
       "SetID": "5lffoo5",
       "Name": "A new HOME",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -163,7 +168,7 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -171,7 +176,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
       "SetID": "5lffoo5",
       "Name": "Lesson learned",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -243,7 +248,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Silver Button",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -251,7 +256,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
       "SetID": "5lffoo5",
       "Name": "Silver Carrot",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -259,7 +264,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_HAT",
       "SetID": "5lffoo5",
       "Name": "Silver Hat",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -284,13 +289,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:06:51.4837195+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:06:45.1771295+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3551059+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:58:01.1730784+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:06:51.4837296+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:58:05.51906+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:06:45.1771411+00:00"
 }

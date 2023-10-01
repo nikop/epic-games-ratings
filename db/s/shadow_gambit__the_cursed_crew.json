@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 688,
+  "EOS_Progressed": 689,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
@@ -1952,6 +1952,11 @@
       "Time": "2023-10-01T03:06:43.2500803+00:00",
       "NumProgressed": 688,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-01T04:06:36.9720038+00:00",
+      "NumProgressed": 689,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1964,7 +1969,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1972,7 +1977,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "_03_FinishAct1",
@@ -2002,9 +2007,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 200
     },
     {
       "ID": "_07_FinishAct3",
@@ -2028,7 +2033,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "_10_Completion_30",
@@ -2116,7 +2121,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2148,7 +2153,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2171,7 +2176,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 688,
+      "Progressed": 689,
       "Completed": 21
     }
   ],
@@ -2179,8 +2184,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:06:43.2500798+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:06:36.9720034+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:59:02.6883331+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:06:43.2501051+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:59:05.1447117+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:06:36.9720269+00:00"
 }

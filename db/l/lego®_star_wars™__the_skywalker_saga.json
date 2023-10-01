@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3326,9 +3326,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51769,
+  "EOS_Progressed": 51770,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -12531,6 +12531,11 @@
       "Time": "2023-09-30T22:06:39.5068326+00:00",
       "NumProgressed": 51769,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-10-01T04:05:25.1185534+00:00",
+      "NumProgressed": 51770,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12678,7 +12683,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24849
+      "UsersEstimate": 24850
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -12734,7 +12739,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29508
+      "UsersEstimate": 29509
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -12782,7 +12787,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30026
+      "UsersEstimate": 30027
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12806,7 +12811,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50216
+      "UsersEstimate": 50217
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12846,7 +12851,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36756
+      "UsersEstimate": 36757
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -12901,15 +12906,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51769,
+      "Progressed": 51770,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-30T07:02:13.6009295+00:00",
-  "LastChanged_Achievements": "2023-10-01T03:05:31.900166+00:00",
+  "LastChanged_Achievements": "2023-10-01T04:05:25.1185531+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.0485089+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:57:10.619916+00:00",
-  "LastUpdate_Achievements": "2023-10-01T03:05:31.9002362+00:00"
+  "LastUpdate_Ratings": "2023-10-01T03:57:18.9019295+00:00",
+  "LastUpdate_Achievements": "2023-10-01T04:05:25.1186232+00:00"
 }
