@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13316,
+  "EOS_Progressed": 13317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7261,6 +7261,11 @@
       "Time": "2023-10-01T05:03:59.4436249+00:00",
       "NumProgressed": 13316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T06:04:34.1143365+00:00",
+      "NumProgressed": 13317,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7273,7 +7278,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "10",
@@ -7337,7 +7342,7 @@
       "Name": "Spore Taste",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "18",
@@ -7417,15 +7422,15 @@
       "Name": "Call it Even",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2797
     },
     {
       "ID": "28",
@@ -7512,7 +7517,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13316,
+      "Progressed": 13317,
       "Completed": 0
     }
   ],
@@ -7520,8 +7525,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-30T11:58:40.0021684+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:03:59.4436237+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:04:34.1143361+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:58:23.8205117+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:03:59.4436983+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:58:51.3756896+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:04:34.1144524+00:00"
 }

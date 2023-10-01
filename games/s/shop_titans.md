@@ -37,12 +37,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.80% | ~1,095 |
 | Accomplished Merchant | 0.80% | ~1,095 |
 | Arcane Industries | 0.80% | ~1,095 |
-| Research & Development | 0.70% | ~958 |
-| Fated Encounters | 0.70% | ~958 |
-| Power of Love | 0.70% | ~958 |
-| Flawless Fusion | 0.70% | ~958 |
-| Helping Hand | 0.70% | ~958 |
-| Natural 20 | 0.70% | ~958 |
+| Research & Development | 0.70% | ~959 |
+| Fated Encounters | 0.70% | ~959 |
+| Power of Love | 0.70% | ~959 |
+| Flawless Fusion | 0.70% | ~959 |
+| Helping Hand | 0.70% | ~959 |
+| Natural 20 | 0.70% | ~959 |
 | Tax not Included | 0.60% | ~822 |
 | Big Game Hunting | 0.60% | ~822 |
 | For the Hoard! | 0.60% | ~822 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,928 (Ranked 69)  
+Progressed: 136,929 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
-| 2023-10-01 | 136,928 | 158 |
+| 2023-10-01 | 136,929 | 158 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,314 (Ranked 49)  

@@ -2,7 +2,7 @@
   "ID": "f990ab9ba22149f8a8a6bee2be46ec0b",
   "Name": "Zombie Soup",
   "ProductSlug": "zombie-soup-1006ea",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 114,
@@ -438,8 +438,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T18:00:41.8577246+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:03:25.4080759+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:03:43.9807416+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:07.9399751+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:00:14.1092579+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:03:25.4081198+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:01:07.5541353+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:03:43.9807799+00:00"
 }

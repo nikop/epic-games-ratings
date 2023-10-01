@@ -5,15 +5,15 @@ Rating: 4.05 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,842 |
-| World Map | 79.00% | ~1,565 |
-| Temple of Eternals | 57.00% | ~1,129 |
+| Victor | 93.00% | ~1,843 |
+| World Map | 79.00% | ~1,566 |
+| Temple of Eternals | 57.00% | ~1,130 |
 | Prestigious | 54.00% | ~1,070 |
 | Fellowship Power | 42.00% | ~832 |
 | Guild Power | 26.00% | ~515 |
 | Prestigious x10 | 23.00% | ~456 |
 | The game is on | 21.00% | ~416 |
-| Exotic Merchant | 19.00% | ~376 |
+| Exotic Merchant | 19.00% | ~377 |
 | Dragon Clicker | 18.00% | ~357 |
 | Full Party | 17.00% | ~337 |
 | Inspection | 17.00% | ~337 |
@@ -43,13 +43,13 @@ Rating: 4.05 (Ranked 949)
 | Here We Go Again | 9.00% | ~178 |
 | Master Enchanter | 9.00% | ~178 |
 | Trader | 9.00% | ~178 |
-| Blueprint Upgrades | 8.00% | ~158 |
-| Crystal Mining | 8.00% | ~158 |
-| Dragon Slayer | 8.00% | ~158 |
-| Enchanting skill | 8.00% | ~158 |
-| Engineer Mastery | 8.00% | ~158 |
-| The Expeditioner | 8.00% | ~158 |
-| Weekly Quest Completionist | 8.00% | ~158 |
+| Blueprint Upgrades | 8.00% | ~159 |
+| Crystal Mining | 8.00% | ~159 |
+| Dragon Slayer | 8.00% | ~159 |
+| Enchanting skill | 8.00% | ~159 |
+| Engineer Mastery | 8.00% | ~159 |
+| The Expeditioner | 8.00% | ~159 |
+| Weekly Quest Completionist | 8.00% | ~159 |
 | Lock And Load | 7.00% | ~139 |
 | Missions Dedication | 7.00% | ~139 |
 | Sailor | 7.00% | ~139 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 949)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,981 (Ranked 199)  
+Progressed: 1,982 (Ranked 199)  
 Completed: 2 (0.10%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,13 +242,14 @@ Completed: 2 (0.10%) (Ranked 239)
 | 2023-09-27 | 1,976 | 2 |
 | 2023-09-28 | 1,978 | 2 |
 | 2023-09-30 | 1,981 | 2 |
+| 2023-10-01 | 1,982 | 2 |
 ## Awards
-Max (Great for Beginners): 23  (Ranked 504)  
-Sum: 65 (Ranked 451)  
-Diff (max vs sum): 53  
+Max (Great for Beginners): 24  (Ranked 496)  
+Sum: 66 (Ranked 451)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 23 |
+| This game is Great for Beginners | 24 |
 | This game is Great for Quick Sessions | 22 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -294,3 +295,4 @@ Diff (max vs sum): 53
 | 2023-09-28 | 4.03 | 23 | 45 |
 | 2023-09-29 | 4.03 | 23 | 65 |
 | 2023-09-30 | 4.05 | 23 | 65 |
+| 2023-10-01 | 4.05 | 24 | 66 |

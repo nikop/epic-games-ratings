@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 753,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2771,6 +2771,11 @@
       "Time": "2023-10-01T03:06:58.1171312+00:00",
       "NumProgressed": 752,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T06:07:50.1053785+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2796,9 +2801,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 422
     },
     {
       "ID": "BigPlane",
@@ -2950,7 +2955,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ManagementMaster",
@@ -2982,7 +2987,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "NoTimeForModernization",
@@ -3006,7 +3011,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Ownway",
@@ -3044,9 +3049,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 90
     },
     {
       "ID": "ResourceEconomy",
@@ -3117,14 +3122,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 753,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:08:10.6019133+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:07:50.1053779+00:00",
   "LastUpdate_AppInfo": "2023-09-26T13:04:17.0353541+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:57:46.6464464+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:08:10.6019648+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:58:03.9254934+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:07:50.1054447+00:00"
 }

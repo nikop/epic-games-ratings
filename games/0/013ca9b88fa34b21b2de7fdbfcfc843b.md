@@ -5,32 +5,32 @@ Rating: 4.82 (Ranked 65)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,151 |
-| A Thorny Situation | 71.00% | ~4,037 |
-| ... And Spit Back Out | 59.00% | ~3,355 |
-| Break-Net Speed | 47.00% | ~2,672 |
-| Bramble Breaker | 44.00% | ~2,502 |
-| Miner 49er | 41.00% | ~2,331 |
-| Humble Collector | 40.00% | ~2,274 |
-| Calm Sailing | 34.00% | ~1,933 |
-| Open the Gate! | 30.00% | ~1,706 |
-| Mist Walker | 28.00% | ~1,592 |
-| Lumberjack | 24.00% | ~1,365 |
-| Oui, Chef! | 22.00% | ~1,251 |
-| Clear the Air | 15.00% | ~853 |
-| Botanical Breakthrough | 14.00% | ~796 |
-| Beach Comber | 12.00% | ~682 |
-| Higher Tax Bracket | 11.00% | ~625 |
+| Azoria Beckons | 73.00% | ~4,156 |
+| A Thorny Situation | 70.00% | ~3,985 |
+| ... And Spit Back Out | 59.00% | ~3,359 |
+| Break-Net Speed | 47.00% | ~2,676 |
+| Bramble Breaker | 44.00% | ~2,505 |
+| Miner 49er | 41.00% | ~2,334 |
+| Humble Collector | 40.00% | ~2,277 |
+| Calm Sailing | 33.00% | ~1,879 |
+| Open the Gate! | 30.00% | ~1,708 |
+| Mist Walker | 28.00% | ~1,594 |
+| Lumberjack | 24.00% | ~1,366 |
+| Oui, Chef! | 22.00% | ~1,252 |
+| Clear the Air | 15.00% | ~854 |
+| Botanical Breakthrough | 14.00% | ~797 |
+| Beach Comber | 12.00% | ~683 |
+| Higher Tax Bracket | 11.00% | ~626 |
 | Search for the Hairy Grell | 10.00% | ~569 |
-| Got to Catch Them All | 6.00% | ~341 |
-| Rumble in the Jumble | 6.00% | ~341 |
-| Fanatical Farmer | 6.00% | ~341 |
-| Skilled | 6.00% | ~341 |
-| Flaming Hot Completos | 5.00% | ~284 |
-| Fae Farmer | 4.00% | ~227 |
-| Scattered Scroll Scrounger | 4.00% | ~227 |
-| I Now Pronounce You... | 4.00% | ~227 |
-| Azorian Anniversary | 4.00% | ~227 |
+| Got to Catch Them All | 6.00% | ~342 |
+| Rumble in the Jumble | 6.00% | ~342 |
+| Fanatical Farmer | 6.00% | ~342 |
+| Skilled | 6.00% | ~342 |
+| Flaming Hot Completos | 5.00% | ~285 |
+| Fae Farmer | 4.00% | ~228 |
+| Scattered Scroll Scrounger | 4.00% | ~228 |
+| I Now Pronounce You... | 4.00% | ~228 |
+| Azorian Anniversary | 4.00% | ~228 |
 | Chatty Neighbor | 3.00% | ~171 |
 | Right Tool For the Job | 2.00% | ~114 |
 | House Proud | 2.00% | ~114 |
@@ -41,7 +41,7 @@ Rating: 4.82 (Ranked 65)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,686 (Ranked 163)  
+Progressed: 5,693 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 5,427 | 0 |
 | 2023-09-29 | 5,524 | 0 |
 | 2023-09-30 | 5,660 | 0 |
-| 2023-10-01 | 5,686 | 0 |
+| 2023-10-01 | 5,693 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

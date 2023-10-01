@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17067,
+  "EOS_Progressed": 17091,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4212,
+  "EOS_NewPlayers": 4224,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 68.9,
+  "EOS_Completed_Percentage": 68.8,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -3851,6 +3851,11 @@
       "Time": "2023-10-01T05:05:44.7147479+00:00",
       "NumProgressed": 17067,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-01T06:06:40.8242063+00:00",
+      "NumProgressed": 17091,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -3871,7 +3876,7 @@
       "Name": "First blood",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 7680
+      "UsersEstimate": 7691
     },
     {
       "ID": "grenadeKills",
@@ -3887,7 +3892,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "headshots1000",
@@ -3927,7 +3932,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "revengeMedal",
@@ -3974,14 +3979,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 17067,
+      "Progressed": 17091,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:05:44.7147465+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:06:40.8242058+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.6352608+00:00",
-  "LastUpdate_Ratings": "2023-10-01T05:02:06.3629836+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:05:44.7147906+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:02:15.651829+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:06:40.8242434+00:00"
 }

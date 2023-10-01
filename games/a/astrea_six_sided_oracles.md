@@ -16,13 +16,13 @@
 | Anomaly Destroyer | 32.00% | ~10 |
 | Astral Adventurer | 32.00% | ~10 |
 | Star Killer | 32.00% | ~10 |
+| Unbeatable | 32.00% | ~10 |
 | Loyal Partner | 29.00% | ~9 |
-| Unbeatable | 29.00% | ~9 |
 | Sentinelphobic | 19.00% | ~6 |
+| Shard Spender | 19.00% | ~6 |
 | Stellar Haste | 19.00% | ~6 |
 | The Corruption Goddess | 19.00% | ~6 |
 | Sadistic Plan | 16.00% | ~5 |
-| Shard Spender | 16.00% | ~5 |
 | Skeptical | 16.00% | ~5 |
 | Dice Specialist | 13.00% | ~4 |
 | Denying Destiny | 10.00% | ~3 |

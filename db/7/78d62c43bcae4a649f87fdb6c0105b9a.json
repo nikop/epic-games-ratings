@@ -2,9 +2,9 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
       "Time": "2023-09-30T03:04:33.4799732+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T06:05:16.616919+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T01:48:39.6492868+00:00",
@@ -66,7 +71,7 @@
       "ID": "bisont",
       "SetID": "40o2ndb",
       "Name": "The Good, the Bad and the Rooster",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -74,7 +79,7 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -90,7 +95,7 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 117,
+      "Percentage": 100,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -114,7 +119,7 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -122,7 +127,7 @@
       "ID": "mafia",
       "SetID": "40o2ndb",
       "Name": "Bye Gangrooster City",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -146,7 +151,7 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -154,7 +159,7 @@
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 85,
       "UsersEstimate": 4
     },
@@ -186,7 +191,7 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 85,
       "UsersEstimate": 3
     },
@@ -202,7 +207,7 @@
       "ID": "world4",
       "SetID": "40o2ndb",
       "Name": "Sleep well Mwamwa Princess",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 85,
       "UsersEstimate": 2
     },
@@ -218,7 +223,7 @@
       "ID": "world5",
       "SetID": "40o2ndb",
       "Name": "Rocky, the eye of the rooster",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 85,
       "UsersEstimate": 2
     },
@@ -234,7 +239,7 @@
       "ID": "world6",
       "SetID": "40o2ndb",
       "Name": "The tale is over and the mages come over",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 85,
       "UsersEstimate": 1
     }
@@ -243,14 +248,14 @@
     {
       "ID": "40o2ndb",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:04:34.99595+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:05:16.6169187+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3549601+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:58:15.5944513+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:04:34.9959692+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:58:40.1144633+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:05:16.616955+00:00"
 }

@@ -5660,9 +5660,9 @@
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -5756,9 +5756,9 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
@@ -5771,8 +5771,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:03:59.7791187+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:04:34.5100957+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:57:19.6746033+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:03:59.779188+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:57:30.7067655+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:04:34.5101604+00:00"
 }

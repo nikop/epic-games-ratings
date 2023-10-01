@@ -1,31 +1,31 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 281)  
+Rating: 4.66 (Ranked 282)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,609 |
-| On the Top Step | 87.00% | ~2,415 |
-| Setting up for Success | 75.00% | ~2,082 |
-| Team Orders | 73.00% | ~2,026 |
-| Engineer | 54.00% | ~1,499 |
+| Getting on the Step | 94.00% | ~2,610 |
+| On the Top Step | 87.00% | ~2,416 |
+| Setting up for Success | 75.00% | ~2,083 |
+| Team Orders | 73.00% | ~2,027 |
+| Engineer | 54.00% | ~1,500 |
 | Familiar Faces | 47.00% | ~1,305 |
-| Going the Extra Mile | 41.00% | ~1,138 |
+| Going the Extra Mile | 41.00% | ~1,139 |
 | Sharing the Love | 38.00% | ~1,055 |
 | Hitting a Season | 33.00% | ~916 |
-| Challenge Yourself | 32.00% | ~888 |
+| Challenge Yourself | 32.00% | ~889 |
 | Making History | 30.00% | ~833 |
-| A Dozen Pieces | 28.00% | ~777 |
+| A Dozen Pieces | 28.00% | ~778 |
 | Network Success | 24.00% | ~666 |
-| Spring Cleaning | 23.00% | ~638 |
-| Writing a new Chapter | 23.00% | ~638 |
-| Reduce | 19.00% | ~527 |
+| Spring Cleaning | 23.00% | ~639 |
+| Writing a new Chapter | 23.00% | ~639 |
+| Reduce | 19.00% | ~528 |
 | Ups and Downs | 18.00% | ~500 |
 | Crucial Combo | 16.00% | ~444 |
 | Reuse | 16.00% | ~444 |
 | One for the Book | 16.00% | ~444 |
-| Proving Them Wrong | 15.00% | ~416 |
+| Proving Them Wrong | 15.00% | ~417 |
 | Gathering Dust | 14.00% | ~389 |
 | Oil and Water | 14.00% | ~389 |
 | Lightning Round the World | 12.00% | ~333 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,776 (Ranked 190)  
+Progressed: 2,777 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 2,620 | 0 |
 | 2023-09-29 | 2,695 | 0 |
 | 2023-09-30 | 2,769 | 0 |
-| 2023-10-01 | 2,776 | 0 |
+| 2023-10-01 | 2,777 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

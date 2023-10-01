@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -810,9 +810,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -850,9 +850,9 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -906,9 +906,9 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -993,8 +993,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:04:00.6141303+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:04:35.4468138+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:59:48.2204068+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:04:00.6141584+00:00"
+  "LastUpdate_Ratings": "2023-10-01T06:00:36.9809039+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:04:35.4468366+00:00"
 }

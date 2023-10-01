@@ -10,13 +10,13 @@ Rating: 4.56 (Ranked 473)
 | Stogie for Fogey | 29.00% | ~3,862 |
 | Martian Music | 29.00% | ~3,862 |
 | Celebrations are in Order | 29.00% | ~3,862 |
-| Spore Taste | 27.00% | ~3,595 |
+| Spore Taste | 27.00% | ~3,596 |
 | The Pit and the Pirates | 26.00% | ~3,462 |
 | Drone Dodger | 25.00% | ~3,329 |
+| Bosmang | 21.00% | ~2,797 |
 | Doctor Approved | 20.00% | ~2,663 |
-| Bosmang | 20.00% | ~2,663 |
 | Thorston Mayer | 16.00% | ~2,131 |
-| Call it Even | 15.00% | ~1,997 |
+| Call it Even | 15.00% | ~1,998 |
 | Data Archivist | 13.00% | ~1,731 |
 | Bottoms up! | 13.00% | ~1,731 |
 | Heal Thy Medic | 13.00% | ~1,731 |
@@ -28,7 +28,7 @@ Rating: 4.56 (Ranked 473)
 | Brother's Reaper | 4.00% | ~533 |
 | No Belter Left Behind | 4.00% | ~533 |
 | Debris Spree | 4.00% | ~533 |
-| Urshanabi Hoarder | 3.00% | ~399 |
+| Urshanabi Hoarder | 3.00% | ~400 |
 | Data Miner | 2.00% | ~266 |
 | Grave Robber | 2.00% | ~266 |
 | Scavenger Star | 0.40% | ~53 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 473)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,316 (Ranked 135)  
+Progressed: 13,317 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 13,120 | 0 |
 | 2023-09-29 | 13,208 | 0 |
 | 2023-09-30 | 13,295 | 0 |
-| 2023-10-01 | 13,316 | 0 |
+| 2023-10-01 | 13,317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

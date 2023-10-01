@@ -36,8 +36,8 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
+| Patron of Deimos | 0.70% | ~23 |
 | Fleetmaster | 0.70% | ~23 |
-| Patron of Deimos | 0.60% | ~19 |
 | For the Machine God | 0.60% | ~19 |
 | Preservationist | 0.60% | ~19 |
 | Engine Kill | 0.60% | ~19 |

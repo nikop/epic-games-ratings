@@ -29,19 +29,19 @@ Rating: 4.00 (Ranked 959)
 | Lights Army | 14.00% | ~6 |
 | Armaments Gules | 14.00% | ~6 |
 | Periapt Cerulean | 14.00% | ~6 |
+| Shroudfane Explorer | 14.00% | ~6 |
 | Good Boy | 14.00% | ~6 |
-| Shroudfane Explorer | 11.00% | ~5 |
 | Scholar | 9.00% | ~4 |
 | Armaments Azure | 9.00% | ~4 |
+| Veteran | 9.00% | ~4 |
 | Armaments Vert | 7.00% | ~3 |
 | Periapt Viridian | 7.00% | ~3 |
-| Veteran | 7.00% | ~3 |
 | Best Dressed | 5.00% | ~2 |
+| Master of Ultramarine | 5.00% | ~2 |
 | Shroudfane Surveyor | 5.00% | ~2 |
 | Treasure Hunter | 5.00% | ~2 |
 | Grand Magnus | 2.00% | ~1 |
 | Kitted Out | 2.00% | ~1 |
-| Master of Ultramarine | 2.00% | ~1 |
 | Master of Carmine | 2.00% | ~1 |
 | Master of Malachite | 2.00% | ~1 |
 | Tip of the Spear | 2.00% | ~1 |

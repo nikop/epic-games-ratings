@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,667 |
-| Hotel California | 3.00% | ~20,667 |
-| Welcome To Hell-A | 3.00% | ~20,667 |
+| Break A Leg | 3.00% | ~20,668 |
+| Hotel California | 3.00% | ~20,668 |
+| Welcome To Hell-A | 3.00% | ~20,668 |
 | Dr. Reed, I Presume? | 2.00% | ~13,778 |
 | Git Gutte! | 2.00% | ~13,778 |
 | Bookworm | 2.00% | ~13,778 |
@@ -38,8 +38,8 @@ Rating: 4.54 (Ranked 511)
 | Jumbo Keyring | 0.80% | ~5,511 |
 | Rising Star | 0.80% | ~5,511 |
 | Smorgasbord | 0.70% | ~4,822 |
-| Not Even My Final Form | 0.60% | ~4,133 |
-| Internet Famous | 0.60% | ~4,133 |
+| Not Even My Final Form | 0.60% | ~4,134 |
+| Internet Famous | 0.60% | ~4,134 |
 | Make it So | 0.50% | ~3,445 |
 | On Safari | 0.50% | ~3,445 |
 | Variety is the Spice of Death | 0.50% | ~3,445 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,906 (Ranked 22)  
+Progressed: 688,922 (Ranked 22)  
 Completed: 2,182 (0.32%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 2,182 (0.32%) (Ranked 191)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 688,906 | 2,182 |
+| 2023-10-01 | 688,922 | 2,182 |
 ## Awards
 Max (Great Boss Battles): 6,270  (Ranked 58)  
 Sum: 9,343 (Ranked 91)  

@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 669264,
+  "EOS_Progressed": 669269,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1902,
+  "EOS_NewPlayers": 1898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20594,6 +20594,11 @@
       "Time": "2023-10-01T05:03:54.9268004+00:00",
       "NumProgressed": 669264,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-01T06:04:28.8328702+00:00",
+      "NumProgressed": 669269,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -20605,7 +20610,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 535411
+      "UsersEstimate": 535415
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -20693,7 +20698,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 240935
+      "UsersEstimate": 240937
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -20845,7 +20850,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 207472
+      "UsersEstimate": 207473
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -20965,7 +20970,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46848
+      "UsersEstimate": 46849
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -21036,15 +21041,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 669264,
+      "Progressed": 669269,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:03:54.9267997+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:04:28.8328695+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:00.9118199+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:59:05.7231651+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:03:54.9269703+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:59:41.4248594+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:04:28.8331126+00:00"
 }

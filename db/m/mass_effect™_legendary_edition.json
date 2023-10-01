@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 502,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1204,9 +1204,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_125",
@@ -1276,9 +1276,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_19",
@@ -1348,9 +1348,9 @@
       "ID": "achievement_26",
       "SetID": "b9pe172",
       "Name": "Krogan Ally",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_27",
@@ -1652,9 +1652,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_61",
@@ -2008,8 +2008,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:06:09.3782578+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:07:10.9472076+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:57:40.9048802+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:06:09.3785196+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:57:57.2721998+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:07:10.9473904+00:00"
 }

@@ -210,9 +210,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "2e4ldac",
       "Name": "Lily: Warrior Princess",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -235,8 +235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:05:02.4024644+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:05:50.511449+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.5592087+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:59:05.9736349+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:05:02.4024853+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:59:42.1172632+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:05:50.5114655+00:00"
 }

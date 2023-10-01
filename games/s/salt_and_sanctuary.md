@@ -6,19 +6,19 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~443,538 |
-| The Three | 64.00% | ~342,005 |
-| The Banquet | 40.00% | ~213,753 |
+| Find Sanctuary | 83.00% | ~443,540 |
+| The Three | 64.00% | ~342,006 |
+| The Banquet | 40.00% | ~213,754 |
 | Devara's Light | 31.00% | ~165,659 |
 | The Iron Ones | 18.00% | ~96,189 |
-| The Village | 16.00% | ~85,501 |
-| The Forest | 15.00% | ~80,157 |
+| The Village | 16.00% | ~85,502 |
+| The Forest | 15.00% | ~80,158 |
 | The Keep | 14.00% | ~74,814 |
 | Branded | 13.00% | ~69,470 |
 | The Imposter | 13.00% | ~69,470 |
 | The Castle | 11.00% | ~58,782 |
-| The Dome | 9.00% | ~48,094 |
-| The Red Hall | 9.00% | ~48,094 |
+| The Dome | 9.00% | ~48,095 |
+| The Red Hall | 9.00% | ~48,095 |
 | The Sacrifice | 8.00% | ~42,751 |
 | The Cave | 7.00% | ~37,407 |
 | The Mire | 7.00% | ~37,407 |
@@ -34,8 +34,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The House of Splendor | 4.00% | ~21,375 |
 | The Crypt | 4.00% | ~21,375 |
 | The Palace | 4.00% | ~21,375 |
-| Find Salvation | 3.00% | ~16,031 |
-| The Unspeakable Deep | 3.00% | ~16,031 |
+| Find Salvation | 3.00% | ~16,032 |
+| The Unspeakable Deep | 3.00% | ~16,032 |
 | Coastrock | 2.00% | ~10,688 |
 | Devoted | 2.00% | ~10,688 |
 | Dominion | 2.00% | ~10,688 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,688 |
 | Fading Fast | 1.00% | ~5,344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,383 (Ranked 32)  
+Progressed: 534,385 (Ranked 32)  
 Completed: 1,560 (0.29%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 1,560 (0.29%) (Ranked 198)
 | 2023-09-28 | 534,184 | 1,559 |
 | 2023-09-29 | 534,262 | 1,560 |
 | 2023-09-30 | 534,361 | 1,560 |
-| 2023-10-01 | 534,383 | 1,560 |
+| 2023-10-01 | 534,385 | 1,560 |
 ## Awards
 Max (Challenging Combat): 284  (Ranked 245)  
 Sum: 1,963 (Ranked 204)  

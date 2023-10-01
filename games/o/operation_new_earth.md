@@ -29,12 +29,12 @@
 | Major | 4.00% | ~60 |
 | Gold Achiever | 3.00% | ~45 |
 | Resourceful | 3.00% | ~45 |
+| Control the Skies | 3.00% | ~45 |
 | Advanced Warfare | 2.00% | ~30 |
 | Colonel | 2.00% | ~30 |
+| Seek & Destroy | 2.00% | ~30 |
 | Battle Ready | 2.00% | ~30 |
-| Control the Skies | 2.00% | ~30 |
 | General | 1.00% | ~15 |
-| Seek & Destroy | 1.00% | ~15 |
 | Titan Tanks | 1.00% | ~15 |
 | Shock Troops | 0.90% | ~14 |
 | Advanced Interceptors | 0.70% | ~11 |

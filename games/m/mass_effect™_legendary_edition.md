@@ -7,24 +7,24 @@
 | Distinguished Service Medal | 94.00% | ~472 |
 | Spectre Inductee | 83.00% | ~417 |
 | Medal of Exploration I | 75.00% | ~376 |
+| Recruit | 71.00% | ~356 |
 | Search and Rescue | 71.00% | ~356 |
-| Recruit | 70.00% | ~351 |
 | Quarian Ally | 68.00% | ~341 |
 | Medal of Heroism | 64.00% | ~321 |
 | Honorarium of Corporate Service | 64.00% | ~321 |
 | Medal of Exploration II | 58.00% | ~291 |
 | Council Legion of Merit | 56.00% | ~281 |
 | Turian Ally | 55.00% | ~276 |
+| Meritorious Service Medal | 54.00% | ~271 |
 | Charismatic | 54.00% | ~271 |
 | Medal of Honor | 53.00% | ~266 |
-| Meritorious Service Medal | 53.00% | ~266 |
 | Soldier | 52.00% | ~261 |
 | Medal of Exploration III | 50.00% | ~251 |
 | Asari Ally | 50.00% | ~251 |
 | Principled | 49.00% | ~246 |
 | Soldier Ally | 48.00% | ~241 |
 | Colonial Savior | 47.00% | ~236 |
-| Krogan Ally | 45.00% | ~226 |
+| Krogan Ally | 46.00% | ~231 |
 | Paramour I | 44.00% | ~221 |
 | Sentinel Ally | 44.00% | ~221 |
 | Scientist | 44.00% | ~221 |
@@ -65,10 +65,10 @@
 | Focused | 27.00% | ~136 |
 | Cat's in the Cradle | 27.00% | ~136 |
 | Doppelganger | 27.00% | ~136 |
+| Treason | 27.00% | ~136 |
 | Digital Exorcist | 27.00% | ~136 |
 | Bringer of War | 27.00% | ~136 |
 | First Aid Specialist | 26.00% | ~131 |
-| Treason | 26.00% | ~131 |
 | Friend or Foe | 25.00% | ~126 |
 | Mobilizer | 25.00% | ~126 |
 | Untouchable | 24.00% | ~120 |

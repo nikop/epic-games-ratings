@@ -6,40 +6,40 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~239,614 |
-| Into the Unknown | 35.00% | ~220,697 |
-| First Shot | 35.00% | ~220,697 |
-| Herzlich Wilkommen! | 33.00% | ~208,086 |
-| Good Night & Good Luck | 33.00% | ~208,086 |
-| Sancho Panza | 31.00% | ~195,475 |
-| Oh, So This Is How It Works! | 29.00% | ~182,864 |
-| Flag Burning | 27.00% | ~170,252 |
-| Can't Touch This! | 25.00% | ~157,641 |
-| Under Pressure | 24.00% | ~151,335 |
-| On the Trail of the Enemy | 24.00% | ~151,335 |
-| Light in the Darkness | 24.00% | ~151,335 |
-| It Wasn't That Hard, Was It? | 24.00% | ~151,335 |
-| Get Outta My House! | 23.00% | ~145,030 |
-| Night Hunter | 22.00% | ~138,724 |
-| Being All Social | 22.00% | ~138,724 |
-| After the Fall | 19.00% | ~119,807 |
-| We Will Be Heard! | 18.00% | ~113,502 |
-| Known Associate | 17.00% | ~107,196 |
-| Tunnel Entrance | 17.00% | ~107,196 |
-| Brush with Death | 16.00% | ~100,890 |
-| Debris and Ashes | 15.00% | ~94,585 |
-| Going Down | 15.00% | ~94,585 |
-| Family First | 15.00% | ~94,585 |
-| Your World, Your Rules | 14.00% | ~88,279 |
-| Death From Afar | 14.00% | ~88,279 |
-| Terminal Headache | 14.00% | ~88,279 |
-| Slowpoke! | 12.00% | ~75,668 |
-| Tickets, Please! | 7.00% | ~44,139 |
+| You Never Forget Your First... | 38.00% | ~239,618 |
+| Into the Unknown | 35.00% | ~220,701 |
+| First Shot | 35.00% | ~220,701 |
+| Herzlich Wilkommen! | 33.00% | ~208,089 |
+| Good Night & Good Luck | 33.00% | ~208,089 |
+| Sancho Panza | 31.00% | ~195,478 |
+| Oh, So This Is How It Works! | 29.00% | ~182,866 |
+| Flag Burning | 27.00% | ~170,255 |
+| Can't Touch This! | 25.00% | ~157,644 |
+| Under Pressure | 24.00% | ~151,338 |
+| On the Trail of the Enemy | 24.00% | ~151,338 |
+| Light in the Darkness | 24.00% | ~151,338 |
+| It Wasn't That Hard, Was It? | 24.00% | ~151,338 |
+| Get Outta My House! | 23.00% | ~145,032 |
+| Night Hunter | 22.00% | ~138,726 |
+| Being All Social | 22.00% | ~138,726 |
+| After the Fall | 19.00% | ~119,809 |
+| We Will Be Heard! | 18.00% | ~113,503 |
+| Known Associate | 17.00% | ~107,198 |
+| Tunnel Entrance | 17.00% | ~107,198 |
+| Brush with Death | 16.00% | ~100,892 |
+| Debris and Ashes | 15.00% | ~94,586 |
+| Going Down | 15.00% | ~94,586 |
+| Family First | 15.00% | ~94,586 |
+| Your World, Your Rules | 14.00% | ~88,280 |
+| Death From Afar | 14.00% | ~88,280 |
+| Terminal Headache | 14.00% | ~88,280 |
+| Slowpoke! | 12.00% | ~75,669 |
+| Tickets, Please! | 7.00% | ~44,140 |
 | Parkour Master | 6.00% | ~37,834 |
 | Combat Master | 6.00% | ~37,834 |
-| Municipal Services | 5.00% | ~31,528 |
-| Ban Hammer | 5.00% | ~31,528 |
-| Modder | 5.00% | ~31,528 |
+| Municipal Services | 5.00% | ~31,529 |
+| Ban Hammer | 5.00% | ~31,529 |
+| Modder | 5.00% | ~31,529 |
 | Tube Map | 4.00% | ~25,223 |
 | Don Quixote | 4.00% | ~25,223 |
 | Can't You Read the Signs? | 4.00% | ~25,223 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~276 |
 | Connoisseur | 0.10% | ~276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 630,564 (Ranked 27)  
+Progressed: 630,574 (Ranked 27)  
 Completed: 63 (0.01%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 63 (0.01%) (Ranked 283)
 | 2023-09-28 | 629,703 | 63 |
 | 2023-09-29 | 630,045 | 63 |
 | 2023-09-30 | 630,497 | 63 |
-| 2023-10-01 | 630,564 | 63 |
+| 2023-10-01 | 630,574 | 63 |
 ## Awards
 Max (Character Customization): 9,341  (Ranked 40)  
-Sum: 22,827 (Ranked 54)  
+Sum: 22,830 (Ranked 54)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -252,7 +252,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 873 |
 | This game is Extremely Fun | 856 |
 | This game has Quickly Understood Controls | 837 |
-| This game is Relaxing | 825 |
+| This game is Relaxing | 828 |
 | This game has a Creative Community | 723 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
@@ -520,3 +520,4 @@ Diff (max vs sum): -14
 | 2023-09-28 | 4.57 | - | 9,306 | 22,725 |
 | 2023-09-29 | 4.57 | - | 9,320 | 22,769 |
 | 2023-09-30 | 4.57 | - | 9,341 | 22,827 |
+| 2023-10-01 | 4.57 | - | 9,341 | 22,830 |

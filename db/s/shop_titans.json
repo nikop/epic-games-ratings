@@ -6310,9 +6310,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136928,
+  "EOS_Progressed": 136929,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23100,6 +23100,11 @@
       "Time": "2023-10-01T05:08:17.8830624+00:00",
       "NumProgressed": 136928,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-10-01T06:08:08.7527402+00:00",
+      "NumProgressed": 136929,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 112,
@@ -23223,7 +23228,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "blueprint03",
@@ -23271,7 +23276,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "chest01",
@@ -23471,7 +23476,7 @@
       "Name": "Power of Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "energy03",
@@ -23551,7 +23556,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "fuselegendary",
@@ -23631,7 +23636,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "help02",
@@ -23775,7 +23780,7 @@
       "Name": "Natural 20",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "master03",
@@ -24006,15 +24011,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136928,
+      "Progressed": 136929,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T22:59:01.2642222+00:00",
-  "LastChanged_Achievements": "2023-10-01T05:08:17.8830617+00:00",
+  "LastChanged_Achievements": "2023-10-01T06:08:08.7527396+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-01T04:59:03.8210729+00:00",
-  "LastUpdate_Achievements": "2023-10-01T05:08:17.8833321+00:00"
+  "LastUpdate_Ratings": "2023-10-01T05:59:38.9979721+00:00",
+  "LastUpdate_Achievements": "2023-10-01T06:08:08.7531556+00:00"
 }

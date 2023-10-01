@@ -1,7 +1,7 @@
 # Tom Clancy's Ghost Recon Wildlands Standard Edition
 [Store](https://store.epicgames.com/en-US/p/ghost-recon-wildlands)  
 [View Rawdata](../../db/t/tom_clancy's_ghost_recon_wildlands_standard_edition.json)  
-Rating: 4.61 (Ranked 370)  
+Rating: 4.60 (Ranked 398)  
 Number of Ratings: 871  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 249  (Ranked 258)  
@@ -279,3 +279,4 @@ Diff (max vs sum): 48
 | 2023-09-28 | 4.61 | - | 247 | 1,759 |
 | 2023-09-29 | 4.60 | - | 249 | 1,767 |
 | 2023-09-30 | 4.61 | - | 249 | 1,772 |
+| 2023-10-01 | 4.60 | - | 249 | 1,772 |
