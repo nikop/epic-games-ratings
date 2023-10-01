@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.36 (Ranked 756)  
+Rating: 4.36 (Ranked 757)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,14 +27,14 @@ Rating: 4.36 (Ranked 756)
 | Nearly there | 25.00% | ~265 |
 | Broken heart | 23.00% | ~244 |
 | Island boy | 21.00% | ~223 |
-| You're a star | 19.00% | ~202 |
+| You're a star | 20.00% | ~212 |
 | Unstoppable | 18.00% | ~191 |
 | Reunited | 18.00% | ~191 |
 | King of hospitality | 11.00% | ~117 |
 | Top spot in town | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,061 (Ranked 230)  
-Completed: 15 (1.41%) (Ranked 117)  
+Completed: 15 (1.41%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

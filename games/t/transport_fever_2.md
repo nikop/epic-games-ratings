@@ -18,8 +18,8 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 57.00% | ~971 |
 | Transport millionaire | 55.00% | ~937 |
 | Cadet | 54.00% | ~920 |
+| Cargo hub | 54.00% | ~920 |
 | Transport master | 53.00% | ~903 |
-| Cargo hub | 53.00% | ~903 |
 | Sculpturer | 50.00% | ~852 |
 | Settled down | 49.00% | ~835 |
 | First electric train arrived | 47.00% | ~801 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,704 (Ranked 208)  
-Completed: 0 (0.00%) (Ranked 302)  
+Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

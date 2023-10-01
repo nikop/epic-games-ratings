@@ -6,9 +6,9 @@
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -4295,9 +4295,9 @@
       "ID": "achSmellOfSuccessCargo",
       "SetID": "dgl390n",
       "Name": "Cargo hub",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 920
     },
     {
       "ID": "achTopSpeed120",
@@ -4367,8 +4367,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-30T15:00:58.833984+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:03:36.5405749+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:03:28.2826198+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:26.3484503+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:57:16.3550034+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:03:36.5406335+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:57:08.3116462+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:03:28.2827148+00:00"
 }

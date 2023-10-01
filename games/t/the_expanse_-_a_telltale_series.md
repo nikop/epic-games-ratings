@@ -1,30 +1,30 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 524)  
+Rating: 4.53 (Ranked 525)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 36.00% | ~4,807 |
-| Captain Drummer | 31.00% | ~4,139 |
-| Stogie for Fogey | 29.00% | ~3,872 |
-| Martian Music | 29.00% | ~3,872 |
-| Celebrations are in Order | 29.00% | ~3,872 |
-| The Pit and the Pirates | 27.00% | ~3,605 |
-| Spore Taste | 27.00% | ~3,605 |
-| Drone Dodger | 26.00% | ~3,472 |
-| Bosmang | 21.00% | ~2,804 |
-| Doctor Approved | 20.00% | ~2,670 |
-| Thorston Mayer | 16.00% | ~2,136 |
-| Call it Even | 15.00% | ~2,003 |
-| Data Archivist | 14.00% | ~1,869 |
-| Bottoms up! | 13.00% | ~1,736 |
-| Heal Thy Medic | 13.00% | ~1,736 |
-| Khan's Revenge | 12.00% | ~1,602 |
-| Data Logger | 8.00% | ~1,068 |
-| Miraculous Maya | 8.00% | ~1,068 |
+| Impossible Objects | 36.00% | ~4,810 |
+| Captain Drummer | 31.00% | ~4,142 |
+| Stogie for Fogey | 29.00% | ~3,874 |
+| Martian Music | 29.00% | ~3,874 |
+| Celebrations are in Order | 29.00% | ~3,874 |
+| The Pit and the Pirates | 27.00% | ~3,607 |
+| Spore Taste | 27.00% | ~3,607 |
+| Drone Dodger | 26.00% | ~3,474 |
+| Bosmang | 21.00% | ~2,806 |
+| Doctor Approved | 20.00% | ~2,672 |
+| Thorston Mayer | 16.00% | ~2,138 |
+| Call it Even | 15.00% | ~2,004 |
+| Data Archivist | 14.00% | ~1,870 |
+| Bottoms up! | 13.00% | ~1,737 |
+| Heal Thy Medic | 13.00% | ~1,737 |
+| Khan's Revenge | 12.00% | ~1,603 |
+| Data Logger | 8.00% | ~1,069 |
+| Miraculous Maya | 8.00% | ~1,069 |
 | Data Master | 7.00% | ~935 |
-| Data Recoverer | 6.00% | ~801 |
+| Data Recoverer | 6.00% | ~802 |
 | Brother's Reaper | 4.00% | ~534 |
 | No Belter Left Behind | 4.00% | ~534 |
 | Debris Spree | 4.00% | ~534 |
@@ -36,8 +36,8 @@ Rating: 4.53 (Ranked 524)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,352 (Ranked 135)  
-Completed: 0 (0.00%) (Ranked 302)  
+Progressed: 13,360 (Ranked 135)  
+Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 13,120 | 0 |
 | 2023-09-29 | 13,208 | 0 |
 | 2023-09-30 | 13,295 | 0 |
-| 2023-10-01 | 13,352 | 0 |
+| 2023-10-01 | 13,360 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

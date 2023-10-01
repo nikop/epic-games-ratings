@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 510)  
+Rating: 4.54 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,677 |
-| Hotel California | 3.00% | ~20,677 |
-| Welcome To Hell-A | 3.00% | ~20,677 |
+| Break A Leg | 3.00% | ~20,678 |
+| Hotel California | 3.00% | ~20,678 |
+| Welcome To Hell-A | 3.00% | ~20,678 |
 | Dr. Reed, I Presume? | 2.00% | ~13,785 |
 | Git Gutte! | 2.00% | ~13,785 |
 | Anger Management | 2.00% | ~13,785 |
@@ -28,18 +28,18 @@ Rating: 4.54 (Ranked 510)
 | Personal Assistant Personally Assisted | 2.00% | ~13,785 |
 | Our True Nature | 2.00% | ~13,785 |
 | This is My Weapon | 2.00% | ~13,785 |
-| Making Your Mark | 1.00% | ~6,892 |
-| Perks of the Job | 1.00% | ~6,892 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,892 |
-| Humanity Distilled | 1.00% | ~6,892 |
-| Down with the Sickness | 1.00% | ~6,892 |
-| Max Headroom | 1.00% | ~6,892 |
+| Making Your Mark | 1.00% | ~6,893 |
+| Perks of the Job | 1.00% | ~6,893 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,893 |
+| Humanity Distilled | 1.00% | ~6,893 |
+| Down with the Sickness | 1.00% | ~6,893 |
+| Max Headroom | 1.00% | ~6,893 |
 | Go, Bobcats! | 0.90% | ~6,203 |
 | Rising Star | 0.90% | ~6,203 |
 | Jumbo Keyring | 0.80% | ~5,514 |
 | Smorgasbord | 0.70% | ~4,825 |
-| Not Even My Final Form | 0.60% | ~4,135 |
-| Internet Famous | 0.60% | ~4,135 |
+| Not Even My Final Form | 0.60% | ~4,136 |
+| Internet Famous | 0.60% | ~4,136 |
 | Make it So | 0.50% | ~3,446 |
 | On Safari | 0.50% | ~3,446 |
 | Variety is the Spice of Death | 0.50% | ~3,446 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,234 (Ranked 22)  
-Completed: 2,183 (0.32%) (Ranked 192)  
+Progressed: 689,266 (Ranked 22)  
+Completed: 2,183 (0.32%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,18 +215,18 @@ Completed: 2,183 (0.32%) (Ranked 192)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 689,234 | 2,183 |
+| 2023-10-01 | 689,266 | 2,183 |
 ## Awards
 Max (Great Boss Battles): 6,270  (Ranked 58)  
-Sum: 9,343 (Ranked 91)  
+Sum: 9,350 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,270 |
-| This game is Great for Beginners | 437 |
+| This game is Great for Beginners | 441 |
 | This game has Diverse Characters | 431 |
 | This game has Quickly Understood Controls | 413 |
-| This game is Relaxing | 389 |
+| This game is Relaxing | 392 |
 | This game has Amazing Storytelling | 361 |
 | This game is Extremely Fun | 353 |
 | This game is Highly Recommended | 348 |
@@ -397,4 +397,4 @@ Diff (max vs sum): -33
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
-| 2023-10-01 | 4.54 | 6,270 | 9,343 |
+| 2023-10-01 | 4.54 | 6,270 | 9,350 |

@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 897)  
+Rating: 4.18 (Ranked 898)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -68,7 +68,7 @@ Rating: 4.18 (Ranked 897)
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 73,012 (Ranked 87)  
-Completed: 121 (0.17%) (Ranked 223)  
+Completed: 121 (0.17%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,12 +233,12 @@ Completed: 121 (0.17%) (Ranked 223)
 | 2023-09-30 | 72,990 | 120 |
 | 2023-10-01 | 73,012 | 121 |
 ## Awards
-Max (Great Boss Battles): 2,771  (Ranked 97)  
-Sum: 4,636 (Ranked 140)  
+Max (Great Boss Battles): 2,774  (Ranked 97)  
+Sum: 4,639 (Ranked 140)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,771 |
+| This game has Great Boss Battles | 2,774 |
 | This game is Relaxing | 238 |
 | This game has Quickly Understood Controls | 237 |
 | This game is Extremely Fun | 237 |
@@ -469,4 +469,4 @@ Diff (max vs sum): -43
 | 2023-09-28 | 4.19 | 2,761 | 4,605 |
 | 2023-09-29 | 4.18 | 2,768 | 4,624 |
 | 2023-09-30 | 4.18 | 2,771 | 4,629 |
-| 2023-10-01 | 4.18 | 2,771 | 4,636 |
+| 2023-10-01 | 4.18 | 2,774 | 4,639 |

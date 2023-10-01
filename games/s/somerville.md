@@ -1,7 +1,7 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.20 (Ranked 881)  
+Rating: 4.20 (Ranked 882)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 4.20 (Ranked 881)
 | War of the worlds | 0.20% | ~3 |
 | First contact | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,638 (Ranked 209)  
-Completed: 28 (1.71%) (Ranked 113)  
+Progressed: 1,639 (Ranked 209)  
+Completed: 28 (1.71%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,6 +95,7 @@ Completed: 28 (1.71%) (Ranked 113)
 | 2023-09-14 | 1,635 | 28 |
 | 2023-09-16 | 1,636 | 28 |
 | 2023-09-29 | 1,638 | 28 |
+| 2023-10-01 | 1,639 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,29 +1,29 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.30 (Ranked 809)  
+Rating: 4.30 (Ranked 810)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,358 |
-| Powergamer | 27.00% | ~66,881 |
-| Barely scratched the surface | 25.00% | ~61,927 |
-| Write that down | 24.00% | ~59,450 |
-| Guns, lots of guns | 13.00% | ~32,202 |
-| Collector | 12.00% | ~29,725 |
+| I will finish what you started | 28.00% | ~69,360 |
+| Powergamer | 27.00% | ~66,883 |
+| Barely scratched the surface | 25.00% | ~61,929 |
+| Write that down | 24.00% | ~59,452 |
+| Guns, lots of guns | 13.00% | ~32,203 |
+| Collector | 12.00% | ~29,726 |
 | Elementary! | 9.00% | ~22,294 |
 | Pumpkin Jack | 8.00% | ~19,817 |
 | Wake up! | 8.00% | ~19,817 |
-| It's honest work | 7.00% | ~17,339 |
-| Griever | 7.00% | ~17,339 |
-| Me smart | 6.00% | ~14,862 |
-| Trash compactor | 6.00% | ~14,862 |
-| Good listener | 5.00% | ~12,385 |
-| Valedictorian | 5.00% | ~12,385 |
-| BOY! | 4.00% | ~9,908 |
-| Ka-ching! | 4.00% | ~9,908 |
-| So you like to read? | 4.00% | ~9,908 |
+| It's honest work | 7.00% | ~17,340 |
+| Griever | 7.00% | ~17,340 |
+| Me smart | 6.00% | ~14,863 |
+| Trash compactor | 6.00% | ~14,863 |
+| Good listener | 5.00% | ~12,386 |
+| Valedictorian | 5.00% | ~12,386 |
+| BOY! | 4.00% | ~9,909 |
+| Ka-ching! | 4.00% | ~9,909 |
+| So you like to read? | 4.00% | ~9,909 |
 | Hoarder | 3.00% | ~7,431 |
 | I like to sniff around | 3.00% | ~7,431 |
 | Mind reader | 3.00% | ~7,431 |
@@ -59,8 +59,8 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~495 |
 | Memory 5 | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,707 (Ranked 51)  
-Completed: 7 (0.00%) (Ranked 302)  
+Progressed: 247,716 (Ranked 51)  
+Completed: 7 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 7 (0.00%) (Ranked 302)
 | 2023-09-28 | 247,372 | 7 |
 | 2023-09-29 | 247,489 | 7 |
 | 2023-09-30 | 247,614 | 7 |
-| 2023-10-01 | 247,707 | 7 |
+| 2023-10-01 | 247,716 | 7 |
 ## Awards
 Max (Character Customization): 82  (Ranked 367)  
 Sum: 82 (Ranked 435)  

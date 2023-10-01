@@ -1,20 +1,20 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 769)  
+Rating: 4.35 (Ranked 770)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 37.00% | ~2,195 |
-| It's a good start | 10.00% | ~593 |
-| Bonjour! | 7.00% | ~415 |
-| The Assistant | 6.00% | ~356 |
-| Quack | 6.00% | ~356 |
+| Bye Bye | 37.00% | ~2,200 |
+| It's a good start | 10.00% | ~595 |
+| Bonjour! | 7.00% | ~416 |
+| The Assistant | 6.00% | ~357 |
+| The Blue Marl | 6.00% | ~357 |
+| Quack | 6.00% | ~357 |
 | Ostinata | 5.00% | ~297 |
-| The Blue Marl | 5.00% | ~297 |
-| A long journey | 4.00% | ~237 |
-| Better than nothing? | 4.00% | ~237 |
+| A long journey | 4.00% | ~238 |
+| Better than nothing? | 4.00% | ~238 |
 | Big Money | 3.00% | ~178 |
 | Keep the doctor away | 3.00% | ~178 |
 | Surprise of Langhe | 3.00% | ~178 |
@@ -24,9 +24,9 @@ Number of Ratings: 7,669  (23.09.2022)
 | A big garage | 2.00% | ~119 |
 | Millionaire | 2.00% | ~119 |
 | Exotic | 2.00% | ~119 |
-| Pastry Chef | 2.00% | ~119 |
 | Welcome to the club | 2.00% | ~119 |
 | Very Important Winemaker | 2.00% | ~119 |
+| Pastry Chef | 1.00% | ~59 |
 | King of Langhe | 1.00% | ~59 |
 | Gem of Monferrato | 1.00% | ~59 |
 | Treasure of Roero | 0.60% | ~36 |
@@ -38,8 +38,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~12 |
 | Master Winemaker | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,933 (Ranked 162)  
-Completed: 7 (0.12%) (Ranked 231)  
+Progressed: 5,947 (Ranked 162)  
+Completed: 7 (0.12%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 7 (0.12%) (Ranked 231)
 | 2023-09-28 | 5,418 | 7 |
 | 2023-09-29 | 5,597 | 7 |
 | 2023-09-30 | 5,795 | 7 |
-| 2023-10-01 | 5,933 | 7 |
+| 2023-10-01 | 5,947 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 275)  
 Sum: 1,590 (Ranked 218)  

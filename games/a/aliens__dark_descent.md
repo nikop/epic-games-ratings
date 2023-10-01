@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.49 (Ranked 589)  
+Rating: 4.48 (Ranked 609)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.49 (Ranked 589)
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,303 |
 | Call Me Snake | 63.00% | ~2,166 |
 | Something Lurks Under The Hills | 61.00% | ~2,097 |
-| This Was No Papercut | 59.00% | ~2,028 |
+| This Was No Papercut | 60.00% | ~2,063 |
 | The Shrink Hates Me | 57.00% | ~1,960 |
 | People Person | 56.00% | ~1,925 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,822 |
@@ -52,7 +52,7 @@ Rating: 4.49 (Ranked 589)
 | This Ain't No Picnic | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,438 (Ranked 183)  
-Completed: 3 (0.09%) (Ranked 245)  
+Completed: 3 (0.09%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,3 +213,4 @@ Diff (max vs sum): -17
 | 2023-09-12 | 4.49 | 26 | 26 |
 | 2023-09-17 | 4.49 | 28 | 28 |
 | 2023-09-23 | 4.49 | 29 | 29 |
+| 2023-10-01 | 4.48 | 29 | 29 |

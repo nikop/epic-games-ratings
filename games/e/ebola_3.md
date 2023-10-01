@@ -16,13 +16,13 @@
 | Survival ✔ | 9.00% | ~24 |
 | Hospital ✔ | 8.00% | ~22 |
 | Thirst ✔ | 8.00% | ~22 |
+| Antivirus ✔ | 7.00% | ~19 |
 | Betty ✔ | 7.00% | ~19 |
+| Cheats ✔ | 7.00% | ~19 |
 | City ✔ | 7.00% | ~19 |
 | Fraternal help ✔ | 7.00% | ~19 |
 | Alice ✔ | 6.00% | ~16 |
-| Antivirus ✔ | 6.00% | ~16 |
 | Brain ✔ | 6.00% | ~16 |
-| Cheats ✔ | 6.00% | ~16 |
 | Eva ✔ | 6.00% | ~16 |
 | Food ✔ | 6.00% | ~16 |
 | King of survival ✔ | 6.00% | ~16 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 269 (Ranked 316)  
-Completed: 0 (0.00%) (Ranked 302)  
+Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

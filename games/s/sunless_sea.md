@@ -1,31 +1,31 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 436)  
+Rating: 4.58 (Ranked 437)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,729 |
-| Sweet Sorrow | 18.00% | ~6,864 |
+| Sink Beneath the Waves | 36.00% | ~13,730 |
+| Sweet Sorrow | 18.00% | ~6,865 |
 | Rules the Waves | 17.00% | ~6,483 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,720 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,721 |
 | Rival | 14.00% | ~5,339 |
-| Correspondent | 12.00% | ~4,576 |
-| Lose Your Mind | 12.00% | ~4,576 |
-| Sound Mind? | 12.00% | ~4,576 |
+| Correspondent | 12.00% | ~4,577 |
+| Lose Your Mind | 12.00% | ~4,577 |
+| Sound Mind? | 12.00% | ~4,577 |
 | Salt's Curse | 11.00% | ~4,195 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,195 |
 | The Fall of the House | 11.00% | ~4,195 |
 | Shipmate | 11.00% | ~4,195 |
 | One Year at Zee | 8.00% | ~3,051 |
-| Pupil | 7.00% | ~2,669 |
-| Salvager | 7.00% | ~2,669 |
-| Open Your Ears | 7.00% | ~2,669 |
-| The Ascent of Man | 7.00% | ~2,669 |
+| Pupil | 7.00% | ~2,670 |
+| Salvager | 7.00% | ~2,670 |
+| Open Your Ears | 7.00% | ~2,670 |
+| The Ascent of Man | 7.00% | ~2,670 |
 | Zee Fever | 5.00% | ~1,907 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,525 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,525 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,526 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,526 |
 | Storm's Curse | 3.00% | ~1,144 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,144 |
 | Come Closer | 3.00% | ~1,144 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,135 (Ranked 106)  
-Completed: 3 (0.01%) (Ranked 285)  
+Progressed: 38,138 (Ranked 106)  
+Completed: 3 (0.01%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 3 (0.01%) (Ranked 285)
 | 2023-09-28 | 37,972 | 3 |
 | 2023-09-29 | 38,030 | 3 |
 | 2023-09-30 | 38,098 | 3 |
-| 2023-10-01 | 38,135 | 3 |
+| 2023-10-01 | 38,138 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 273)  
 Sum: 285 (Ranked 351)  

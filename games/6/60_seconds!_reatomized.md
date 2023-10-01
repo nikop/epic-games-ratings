@@ -1,33 +1,33 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.59 (Ranked 416)  
+Rating: 4.59 (Ranked 417)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,951 |
-| All thumbs | 92.00% | ~4,898 |
-| I will survive! | 92.00% | ~4,898 |
-| Home, sweet home | 91.00% | ~4,845 |
-| Survivalist | 89.00% | ~4,738 |
-| One way ticket | 84.00% | ~4,472 |
-| Last man standing | 79.00% | ~4,206 |
-| Family guy | 77.00% | ~4,099 |
-| Out of the Bag | 75.00% | ~3,993 |
+| Prepper | 93.00% | ~4,952 |
+| All thumbs | 92.00% | ~4,899 |
+| I will survive! | 92.00% | ~4,899 |
+| Home, sweet home | 91.00% | ~4,846 |
+| Survivalist | 89.00% | ~4,739 |
+| One way ticket | 84.00% | ~4,473 |
+| Last man standing | 79.00% | ~4,207 |
+| Family guy | 77.00% | ~4,100 |
+| Out of the Bag | 75.00% | ~3,994 |
 | The Dark Side | 70.00% | ~3,727 |
 | Duck and cover! | 65.00% | ~3,461 |
-| Souper! | 64.00% | ~3,407 |
-| Pacifist | 59.00% | ~3,141 |
+| Souper! | 64.00% | ~3,408 |
+| Pacifist | 59.00% | ~3,142 |
 | 2-1-6 | 58.00% | ~3,088 |
 | A gift | 53.00% | ~2,822 |
 | Girl Power | 48.00% | ~2,556 |
 | What goes around... | 44.00% | ~2,343 |
 | Be Prepared | 37.00% | ~1,970 |
 | Unbreakable | 36.00% | ~1,917 |
-| This is the end | 34.00% | ~1,810 |
+| This is the end | 34.00% | ~1,811 |
 | Gotta get 'em all | 33.00% | ~1,757 |
 | Atomic drill | 32.00% | ~1,704 |
-| Disco Roach | 27.00% | ~1,437 |
+| Disco Roach | 27.00% | ~1,438 |
 | Dawkins Residence | 21.00% | ~1,118 |
 | Rescue time! | 18.00% | ~958 |
 | New order | 17.00% | ~905 |
@@ -40,8 +40,8 @@ Rating: 4.59 (Ranked 416)
 | Unplugged | 8.00% | ~426 |
 | Holidays! | 7.00% | ~373 |
 | Mad Hatter | 7.00% | ~373 |
-| Lumbersexual | 6.00% | ~319 |
-| Yes Man | 6.00% | ~319 |
+| Lumbersexual | 6.00% | ~320 |
+| Yes Man | 6.00% | ~320 |
 | Take that, Brundlefly! | 5.00% | ~266 |
 | Danger zone | 4.00% | ~213 |
 | Feline Domination | 4.00% | ~213 |
@@ -66,8 +66,8 @@ Rating: 4.59 (Ranked 416)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,324 (Ranked 167)  
-Completed: 1 (0.02%) (Ranked 277)  
+Progressed: 5,325 (Ranked 168)  
+Completed: 1 (0.02%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 1 (0.02%) (Ranked 277)
 | 2023-09-28 | 5,274 | 1 |
 | 2023-09-29 | 5,291 | 1 |
 | 2023-09-30 | 5,314 | 1 |
-| 2023-10-01 | 5,324 | 1 |
+| 2023-10-01 | 5,325 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

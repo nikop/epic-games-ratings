@@ -1,17 +1,17 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 620)  
+Rating: 4.47 (Ranked 621)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,877 |
+| First Step | 70.00% | ~369,878 |
 | Now You're Talking | 62.00% | ~327,606 |
 | Steel Yourself | 62.00% | ~327,606 |
 | Window Dressing | 50.00% | ~264,198 |
-| Trigger Happy | 46.00% | ~243,062 |
-| Riverborn | 45.00% | ~237,778 |
+| Trigger Happy | 46.00% | ~243,063 |
+| Riverborn | 45.00% | ~237,779 |
 | Starry Eyed | 34.00% | ~179,655 |
 | Poking Around | 34.00% | ~179,655 |
 | Talk of the Town | 24.00% | ~126,815 |
@@ -20,10 +20,10 @@ Number of Ratings: 617  (23.09.2022)
 | Wind At Our Backs | 22.00% | ~116,247 |
 | To the Beat | 20.00% | ~105,679 |
 | Sunny Shores | 17.00% | ~89,827 |
-| Sunday Best | 16.00% | ~84,543 |
-| To Victory! | 15.00% | ~79,259 |
-| Two of a Kind | 14.00% | ~73,975 |
-| Keep On Trucking | 13.00% | ~68,691 |
+| Sunday Best | 16.00% | ~84,544 |
+| To Victory! | 15.00% | ~79,260 |
+| Two of a Kind | 14.00% | ~73,976 |
+| Keep On Trucking | 13.00% | ~68,692 |
 | Going on an Adventure | 11.00% | ~58,124 |
 | Make Peace, Not War | 11.00% | ~58,124 |
 | Walking The Line | 10.00% | ~52,840 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,585 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,396 (Ranked 33)  
-Completed: 479 (0.09%) (Ranked 245)  
+Progressed: 528,397 (Ranked 33)  
+Completed: 479 (0.09%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 479 (0.09%) (Ranked 245)
 | 2023-09-28 | 528,204 | 479 |
 | 2023-09-29 | 528,266 | 479 |
 | 2023-09-30 | 528,345 | 479 |
-| 2023-10-01 | 528,396 | 479 |
+| 2023-10-01 | 528,397 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

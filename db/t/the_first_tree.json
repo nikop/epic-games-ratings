@@ -2,12 +2,12 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36264,
+  "EOS_Progressed": 36266,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14454,6 +14454,11 @@
       "Time": "2023-10-01T16:06:27.4907063+00:00",
       "NumProgressed": 36264,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-01T17:06:53.4400564+00:00",
+      "NumProgressed": 36266,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 14,
@@ -14553,7 +14558,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27923
+      "UsersEstimate": 27925
     },
     {
       "ID": "roots",
@@ -14576,15 +14581,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36264,
+      "Progressed": 36266,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:06:27.4907058+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:06:53.4400559+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:22.0828905+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:00:45.5798959+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:06:27.4907793+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:02:09.2397509+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:06:53.4401796+00:00"
 }

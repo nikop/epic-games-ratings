@@ -6,8 +6,8 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 46,
-  "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8284,10 +8284,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44774,
       "NumberOfAwardsMax": 23193
+    },
+    {
+      "Time": "2023-10-01T16:58:56.7085495+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44784,
+      "NumberOfAwardsMax": 23193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44774,
+  "NumberOfAwards": 44784,
   "NumberOfAwardsMax": 23193,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8355,7 +8361,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 964
+      "Count": 974
     },
     {
       "Text": "This game has a Creative Community",
@@ -8364,9 +8370,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297663,
+  "EOS_Progressed": 297664,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26079,6 +26085,11 @@
       "Time": "2023-10-01T16:04:23.9301436+00:00",
       "NumProgressed": 297663,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-01T17:04:26.5068884+00:00",
+      "NumProgressed": 297664,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26090,7 +26101,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44649
+      "UsersEstimate": 44650
     },
     {
       "ID": "PFA_10",
@@ -26449,16 +26460,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297663,
+      "Progressed": 297664,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-01T13:58:30.7492171+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:04:23.9301433+00:00",
+  "LastChanged": "2023-10-01T16:58:56.7085492+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:04:26.5068878+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:58:47.5087849+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:04:23.930256+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:58:56.70855+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:04:26.5070711+00:00"
 }

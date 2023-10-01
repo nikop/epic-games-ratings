@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.83 (Ranked 990)  
+Rating: 3.83 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 3.83 (Ranked 990)
 | Intermediate Chemist | 40.00% | ~646 |
 | Decorative Mind | 32.00% | ~517 |
 | Lumber Specialist | 32.00% | ~517 |
+| Kind-hearted | 26.00% | ~420 |
 | Catch of the Day | 26.00% | ~420 |
-| Kind-hearted | 25.00% | ~404 |
 | Amateur Chef | 22.00% | ~355 |
 | Fishing Guru | 21.00% | ~339 |
 | Spark of Love | 18.00% | ~291 |
@@ -45,7 +45,7 @@ Rating: 3.83 (Ranked 990)
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,615 (Ranked 211)  
-Completed: 9 (0.56%) (Ranked 160)  
+Completed: 9 (0.56%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,17 +1,17 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.44 (Ranked 658)  
+Rating: 4.44 (Ranked 659)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,622 |
-| Self-Improvement | 72.00% | ~1,327 |
-| Perky | 66.00% | ~1,216 |
+| Unforgiven | 88.00% | ~1,623 |
+| Self-Improvement | 72.00% | ~1,328 |
+| Perky | 66.00% | ~1,217 |
 | Let’s Ride | 60.00% | ~1,106 |
 | Welcome to the Weird West | 57.00% | ~1,051 |
-| Dead or Alive | 56.00% | ~1,032 |
+| Dead or Alive | 56.00% | ~1,033 |
 | Full House | 37.00% | ~682 |
 | Off the Trail | 34.00% | ~627 |
 | Justice Served | 30.00% | ~553 |
@@ -20,7 +20,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dishonored | 25.00% | ~461 |
 | Rain of Death | 25.00% | ~461 |
 | Scholar | 25.00% | ~461 |
-| The Great Escape | 24.00% | ~442 |
+| The Great Escape | 24.00% | ~443 |
 | That’s All, Folks | 19.00% | ~350 |
 | Fallen Star | 16.00% | ~295 |
 | For Balance | 16.00% | ~295 |
@@ -38,10 +38,10 @@ Number of Ratings: 125  (23.09.2022)
 | Loyalty to the Pack | 9.00% | ~166 |
 | Eternity Can Wait | 9.00% | ~166 |
 | Mystery Machine | 9.00% | ~166 |
-| Do Not Pass Go… | 8.00% | ~147 |
-| Gold Digger | 8.00% | ~147 |
-| Monster Hunter | 8.00% | ~147 |
-| Knuckle Sandwich | 8.00% | ~147 |
+| Do Not Pass Go… | 8.00% | ~148 |
+| Gold Digger | 8.00% | ~148 |
+| Monster Hunter | 8.00% | ~148 |
+| Knuckle Sandwich | 8.00% | ~148 |
 | Getting the Gang Back Together | 7.00% | ~129 |
 | Healing Old Wounds | 6.00% | ~111 |
 | Who You Gonna Call? | 6.00% | ~111 |
@@ -60,8 +60,8 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,843 (Ranked 203)  
-Completed: 7 (0.38%) (Ranked 179)  
+Progressed: 1,844 (Ranked 203)  
+Completed: 7 (0.38%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,6 +186,7 @@ Completed: 7 (0.38%) (Ranked 179)
 | 2023-09-25 | 1,841 | 7 |
 | 2023-09-27 | 1,842 | 7 |
 | 2023-09-30 | 1,843 | 7 |
+| 2023-10-01 | 1,844 | 7 |
 ## Awards
 Max (Impact the Story): 27  (Ranked 482)  
 Sum: 27 (Ranked 494)  

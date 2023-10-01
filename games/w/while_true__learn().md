@@ -1,23 +1,23 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 550)  
+Rating: 4.51 (Ranked 551)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~563,121 |
-| Error: Stack Overflow | 66.00% | ~399,634 |
-| We need more gold | 61.00% | ~369,359 |
-| The dawn of civilization | 53.00% | ~320,918 |
-| More FPS for the FPS god! | 50.00% | ~302,753 |
-| Beauty and harmony | 48.00% | ~290,643 |
-| One more! | 44.00% | ~266,423 |
-| Overmind | 24.00% | ~145,321 |
-| RNG is my best friend now | 18.00% | ~108,991 |
+| First.. Bit? | 93.00% | ~563,125 |
+| Error: Stack Overflow | 66.00% | ~399,637 |
+| We need more gold | 61.00% | ~369,362 |
+| The dawn of civilization | 53.00% | ~320,921 |
+| More FPS for the FPS god! | 50.00% | ~302,756 |
+| Beauty and harmony | 48.00% | ~290,645 |
+| One more! | 44.00% | ~266,425 |
+| Overmind | 24.00% | ~145,323 |
+| RNG is my best friend now | 18.00% | ~108,992 |
 | Cosplay | 13.00% | ~78,716 |
 | Evolution in progress... | 13.00% | ~78,716 |
-| Step by step | 8.00% | ~48,440 |
+| Step by step | 8.00% | ~48,441 |
 | README reader | 3.00% | ~18,165 |
 | Data scientist | 3.00% | ~18,165 |
 | One small step for a man... | 3.00% | ~18,165 |
@@ -35,8 +35,8 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,817 |
 | The Scrooge | 0.10% | ~606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605,506 (Ranked 29)  
-Completed: 529 (0.09%) (Ranked 245)  
+Progressed: 605,511 (Ranked 29)  
+Completed: 529 (0.09%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 529 (0.09%) (Ranked 245)
 | 2023-09-28 | 605,184 | 528 |
 | 2023-09-29 | 605,288 | 529 |
 | 2023-09-30 | 605,415 | 529 |
-| 2023-10-01 | 605,506 | 529 |
+| 2023-10-01 | 605,511 | 529 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 311)  
 Sum: 134 (Ranked 409)  

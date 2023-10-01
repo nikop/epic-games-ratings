@@ -1,19 +1,19 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 550)  
+Rating: 4.51 (Ranked 551)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~95,489 |
-| NATURAL BORN WINNER | 33.00% | ~76,857 |
-| CALLING HOUSTON | 28.00% | ~65,212 |
-| SNEAKY SNEAKY | 22.00% | ~51,238 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~51,238 |
-| GT9STRADALE | 20.00% | ~46,580 |
-| CHALLENGER | 11.00% | ~25,619 |
-| ON A ROLL | 9.00% | ~20,961 |
+| VANGUARD | 41.00% | ~95,491 |
+| NATURAL BORN WINNER | 33.00% | ~76,859 |
+| CALLING HOUSTON | 28.00% | ~65,214 |
+| SNEAKY SNEAKY | 22.00% | ~51,239 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~51,239 |
+| GT9STRADALE | 20.00% | ~46,581 |
+| CHALLENGER | 11.00% | ~25,620 |
+| ON A ROLL | 9.00% | ~20,962 |
 | CENTAUR | 8.00% | ~18,632 |
 | FASTER THAN EVER | 8.00% | ~18,632 |
 | CHALLENGE THE WORLD | 7.00% | ~16,303 |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,329 |
 | ACE | 0.80% | ~1,863 |
 | TACTICIAN | 0.60% | ~1,397 |
-| GTX COMPETIZIONE | 0.50% | ~1,164 |
-| HIDDEN POWER | 0.50% | ~1,164 |
-| TUNING MANIAC | 0.50% | ~1,164 |
+| GTX COMPETIZIONE | 0.50% | ~1,165 |
+| HIDDEN POWER | 0.50% | ~1,165 |
+| TUNING MANIAC | 0.50% | ~1,165 |
 | DRAGOON | 0.40% | ~932 |
 | FLAWLESS | 0.40% | ~932 |
 | BETTER THAN EVER | 0.20% | ~466 |
@@ -41,8 +41,8 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~466 |
 | ENLIGHTENED | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,899 (Ranked 55)  
-Completed: 47 (0.02%) (Ranked 277)  
+Progressed: 232,906 (Ranked 55)  
+Completed: 47 (0.02%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,7 +205,7 @@ Completed: 47 (0.02%) (Ranked 277)
 | 2023-09-28 | 232,687 | 47 |
 | 2023-09-29 | 232,750 | 47 |
 | 2023-09-30 | 232,843 | 47 |
-| 2023-10-01 | 232,899 | 47 |
+| 2023-10-01 | 232,906 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

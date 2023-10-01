@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.00 (Ranked 958)  
+Rating: 4.00 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.00 (Ranked 958)
 | Gravity-Challenged Rocks | 47.00% | ~23 |
 | Soldier | 41.00% | ~20 |
 | All the Major Food Groups | 39.00% | ~19 |
-| Beggars Would Ride | 33.00% | ~16 |
-| Control is an Illusion | 31.00% | ~15 |
+| Beggars Would Ride | 35.00% | ~17 |
+| Control is an Illusion | 33.00% | ~16 |
 | The Means to Save It | 29.00% | ~14 |
 | Socialite | 29.00% | ~14 |
 | Resilience to Sin | 27.00% | ~13 |
@@ -54,7 +54,7 @@ Rating: 4.00 (Ranked 958)
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49 (Ranked 430)  
-Completed: 0 (0.00%) (Ranked 302)  
+Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

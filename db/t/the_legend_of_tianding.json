@@ -3,9 +3,9 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 572,
-  "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 3,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -42,6 +42,11 @@
       "Time": "2023-10-01T03:03:40.6547394+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T17:03:57.6210272+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -116,9 +121,9 @@
       "ID": "Collector",
       "SetID": "123m9l1",
       "Name": "Collector",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ExpressTrainExplorer",
@@ -164,9 +169,9 @@
       "ID": "Legendary",
       "SetID": "123m9l1",
       "Name": "The Legend",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 110,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MightySword",
@@ -188,9 +193,9 @@
       "ID": "OmamoriExpert",
       "SetID": "123m9l1",
       "Name": "Taoist",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RescueAKuai",
@@ -220,17 +225,17 @@
       "ID": "Survivor",
       "SetID": "123m9l1",
       "Name": "Not Today",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TeachGushanALesson",
       "SetID": "123m9l1",
       "Name": "Talk to the Fist",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ThreatenLiHong",
@@ -262,15 +267,15 @@
       "ID": "123m9l1",
       "IsBase": true,
       "Progressed": 2,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:28.7680549+00:00",
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:04:00.2275321+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:03:57.6210265+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:42.0638918+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:57:13.9522179+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:04:00.2275488+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:57:05.5163767+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:03:57.6210495+00:00"
 }

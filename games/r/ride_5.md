@@ -9,7 +9,7 @@
 | Hear That Roar! | 38.00% | ~472 |
 | Eat My Dust | 38.00% | ~472 |
 | Rivals to the End | 29.00% | ~360 |
-| We're Going to Need a Bigger Garage | 25.00% | ~310 |
+| We're Going to Need a Bigger Garage | 25.00% | ~311 |
 | Bitter Rivalry | 24.00% | ~298 |
 | I'm Here Too! | 21.00% | ~261 |
 | Champagne Spray | 21.00% | ~261 |
@@ -54,8 +54,8 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,242 (Ranked 221)  
-Completed: 0 (0.00%) (Ranked 302)  
+Progressed: 1,243 (Ranked 221)  
+Completed: 0 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 1,192 | 0 |
 | 2023-09-29 | 1,209 | 0 |
 | 2023-09-30 | 1,231 | 0 |
-| 2023-10-01 | 1,242 | 0 |
+| 2023-10-01 | 1,243 | 0 |

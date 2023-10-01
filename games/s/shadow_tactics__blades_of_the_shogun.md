@@ -1,22 +1,22 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 283)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,598 |
+| Genin | 11.00% | ~22,599 |
 | A thief's beginning | 10.00% | ~20,544 |
 | Thorough | 10.00% | ~20,544 |
 | Disguised | 8.00% | ~16,435 |
 | Rescue Takuma | 8.00% | ~16,435 |
 | Rollin' | 8.00% | ~16,435 |
 | Tanuki Time | 8.00% | ~16,435 |
-| Ice Ice Yuki | 7.00% | ~14,380 |
-| Jonin | 7.00% | ~14,380 |
-| Stoned Ox | 7.00% | ~14,380 |
-| Yabu | 7.00% | ~14,380 |
+| Ice Ice Yuki | 7.00% | ~14,381 |
+| Jonin | 7.00% | ~14,381 |
+| Stoned Ox | 7.00% | ~14,381 |
+| Yabu | 7.00% | ~14,381 |
 | Chunin | 6.00% | ~12,326 |
 | Flying Rocks | 6.00% | ~12,326 |
 | Happy Planning | 6.00% | ~12,326 |
@@ -25,9 +25,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,272 |
 | Prisoners | 5.00% | ~10,272 |
 | Too Early | 5.00% | ~10,272 |
-| Gear up | 4.00% | ~8,217 |
-| Happy little accidents | 4.00% | ~8,217 |
-| Still Rollin' | 4.00% | ~8,217 |
+| Gear up | 4.00% | ~8,218 |
+| Happy little accidents | 4.00% | ~8,218 |
+| Still Rollin' | 4.00% | ~8,218 |
 | Noboru | 3.00% | ~6,163 |
 | Stoned | 3.00% | ~6,163 |
 | The Old Way | 3.00% | ~6,163 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~2,054 |
 | Undeserved Honor | 1.00% | ~2,054 |
 | When Cut Across the Neck | 0.90% | ~1,849 |
-| High Five the Moon | 0.80% | ~1,643 |
-| The Cave | 0.80% | ~1,643 |
+| High Five the Moon | 0.80% | ~1,644 |
+| The Cave | 0.80% | ~1,644 |
 | Merciful | 0.50% | ~1,027 |
 | Time Paradox | 0.50% | ~1,027 |
 | Five Shadows | 0.30% | ~616 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~205 |
 | Release the Kraken | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,435 (Ranked 62)  
-Completed: 88 (0.04%) (Ranked 267)  
+Progressed: 205,441 (Ranked 62)  
+Completed: 88 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 88 (0.04%) (Ranked 267)
 | 2023-09-28 | 204,817 | 86 |
 | 2023-09-29 | 205,052 | 86 |
 | 2023-09-30 | 205,281 | 88 |
-| 2023-10-01 | 205,435 | 88 |
+| 2023-10-01 | 205,441 | 88 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 193)  
 Sum: 4,779 (Ranked 138)  

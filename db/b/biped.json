@@ -3,9 +3,9 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6426,
+  "EOS_Progressed": 6427,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -10896,6 +10896,11 @@
       "Time": "2023-10-01T16:04:18.2334194+00:00",
       "NumProgressed": 6426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T17:04:19.8057304+00:00",
+      "NumProgressed": 6427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10971,7 +10976,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "4",
@@ -11026,7 +11031,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6426,
+      "Progressed": 6427,
       "Completed": 0
     }
   ],
@@ -11034,8 +11039,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:04:18.233419+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:04:19.8057297+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.5763334+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:59:25.0494946+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:04:18.233479+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:59:40.2181823+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:04:19.805831+00:00"
 }

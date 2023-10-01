@@ -3,9 +3,9 @@
   "Name": "Hell Pie",
   "ProductSlug": "hell-pie-edc41f",
   "Ranking_EOS_Progress": 646,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:22.1752723+00:00",
   "LastChanged": "2023-03-31T05:57:22.1752724+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:53.5051229+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:59:27.1419116+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:05:52.8885378+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:59:43.5846726+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:06:11.9576353+00:00"
 }

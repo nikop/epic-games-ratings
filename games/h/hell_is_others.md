@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.42 (Ranked 688)  
+Rating: 4.42 (Ranked 689)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -62,8 +62,8 @@ Rating: 4.42 (Ranked 688)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,822 (Ranked 49)  
-Completed: 3 (0.00%) (Ranked 302)  
+Progressed: 256,824 (Ranked 49)  
+Completed: 3 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,7 +226,7 @@ Completed: 3 (0.00%) (Ranked 302)
 | 2023-09-28 | 256,717 | 3 |
 | 2023-09-29 | 256,751 | 3 |
 | 2023-09-30 | 256,798 | 3 |
-| 2023-10-01 | 256,822 | 3 |
+| 2023-10-01 | 256,824 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 40  (Ranked 434)  
 Sum: 262 (Ranked 359)  

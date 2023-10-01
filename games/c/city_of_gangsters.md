@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.27 (Ranked 829)  
+Rating: 4.27 (Ranked 830)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,075 |
-| Copacetic Coordination | 16.00% | ~55,331 |
-| Fronting the Money | 15.00% | ~51,872 |
-| The Dawn of Automation | 14.00% | ~48,414 |
-| Extraordinary Logistics | 14.00% | ~48,414 |
-| Dirty Money | 13.00% | ~44,956 |
-| Family First | 13.00% | ~44,956 |
-| Cleaning House | 12.00% | ~41,498 |
-| Room in the Back | 12.00% | ~41,498 |
-| Beating the Heat | 11.00% | ~38,040 |
-| Booze Baron | 11.00% | ~38,040 |
+| Corner Clout | 46.00% | ~159,080 |
+| Copacetic Coordination | 16.00% | ~55,332 |
+| Fronting the Money | 15.00% | ~51,874 |
+| The Dawn of Automation | 14.00% | ~48,416 |
+| Extraordinary Logistics | 14.00% | ~48,416 |
+| Dirty Money | 13.00% | ~44,957 |
+| Family First | 13.00% | ~44,957 |
+| Cleaning House | 12.00% | ~41,499 |
+| Room in the Back | 12.00% | ~41,499 |
+| Beating the Heat | 11.00% | ~38,041 |
+| Booze Baron | 11.00% | ~38,041 |
 | Friends on the Force | 10.00% | ~34,582 |
 | Neighborhood Watch | 10.00% | ~34,582 |
-| Core Corps | 8.00% | ~27,665 |
-| Sizeable Stash | 8.00% | ~27,665 |
-| Street Fighter | 7.00% | ~24,207 |
-| Friendly Gestures | 7.00% | ~24,207 |
-| People Person | 7.00% | ~24,207 |
-| Liquor Lord | 6.00% | ~20,749 |
-| Safety in Numbers | 6.00% | ~20,749 |
-| Moving Experiences | 6.00% | ~20,749 |
-| Wise Head | 6.00% | ~20,749 |
-| Show ‘em the Sugar | 6.00% | ~20,749 |
-| Killing Them Softly | 6.00% | ~20,749 |
+| Core Corps | 8.00% | ~27,666 |
+| Sizeable Stash | 8.00% | ~27,666 |
+| Street Fighter | 7.00% | ~24,208 |
+| Friendly Gestures | 7.00% | ~24,208 |
+| People Person | 7.00% | ~24,208 |
+| Liquor Lord | 6.00% | ~20,750 |
+| Safety in Numbers | 6.00% | ~20,750 |
+| Moving Experiences | 6.00% | ~20,750 |
+| Wise Head | 6.00% | ~20,750 |
+| Show ‘em the Sugar | 6.00% | ~20,750 |
+| Killing Them Softly | 6.00% | ~20,750 |
 | Street Knowledge | 5.00% | ~17,291 |
 | Oh Captain | 5.00% | ~17,291 |
 | Branching Out | 5.00% | ~17,291 |
@@ -41,13 +41,13 @@ Rating: 4.27 (Ranked 829)
 | An Affront to the Enemy | 4.00% | ~13,833 |
 | Friends from Back Home | 4.00% | ~13,833 |
 | Half Century Mark | 4.00% | ~13,833 |
-| Corner Opportunities | 3.00% | ~10,374 |
-| 2122 North Clark Street | 3.00% | ~10,374 |
-| Copious Cabbage | 3.00% | ~10,374 |
-| Sockdolager | 3.00% | ~10,374 |
-| Still Stalwart | 3.00% | ~10,374 |
-| Bees Knees Bootlegger | 3.00% | ~10,374 |
-| Tighten the Screws | 3.00% | ~10,374 |
+| Corner Opportunities | 3.00% | ~10,375 |
+| 2122 North Clark Street | 3.00% | ~10,375 |
+| Copious Cabbage | 3.00% | ~10,375 |
+| Sockdolager | 3.00% | ~10,375 |
+| Still Stalwart | 3.00% | ~10,375 |
+| Bees Knees Bootlegger | 3.00% | ~10,375 |
+| Tighten the Screws | 3.00% | ~10,375 |
 | One of Us | 2.00% | ~6,916 |
 | Baker’s Dozen | 2.00% | ~6,916 |
 | Dropping the Dime | 2.00% | ~6,916 |
@@ -86,8 +86,8 @@ Rating: 4.27 (Ranked 829)
 | High Pillow | 0.10% | ~346 |
 | Station Master | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,816 (Ranked 43)  
-Completed: 7 (0.00%) (Ranked 302)  
+Progressed: 345,825 (Ranked 43)  
+Completed: 7 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,10 +250,10 @@ Completed: 7 (0.00%) (Ranked 302)
 | 2023-09-28 | 345,355 | 7 |
 | 2023-09-29 | 345,495 | 7 |
 | 2023-09-30 | 345,684 | 7 |
-| 2023-10-01 | 345,816 | 7 |
+| 2023-10-01 | 345,825 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 445)  
-Sum: 197 (Ranked 380)  
+Sum: 198 (Ranked 380)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -263,7 +263,7 @@ Diff (max vs sum): 65
 | This game is Extremely Fun | 26 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Easy Combat | 24 |
-| This game has Diverse Characters | 22 |
+| This game has Diverse Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -348,3 +348,4 @@ Diff (max vs sum): 65
 | 2023-09-18 | 4.27 | 37 | 195 |
 | 2023-09-23 | 4.27 | 37 | 196 |
 | 2023-09-26 | 4.27 | 37 | 197 |
+| 2023-10-01 | 4.27 | 37 | 198 |

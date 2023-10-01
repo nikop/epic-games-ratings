@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,649 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,650 |
 | First Class Student | 13.00% | ~38,696 |
 | Troll with the Punches | 13.00% | ~38,696 |
 | A Keen Sense of Spell | 12.00% | ~35,720 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,663 (Ranked 46)  
-Completed: 479 (0.16%) (Ranked 224)  
+Progressed: 297,664 (Ranked 46)  
+Completed: 479 (0.16%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,10 +215,10 @@ Completed: 479 (0.16%) (Ranked 224)
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
-| 2023-10-01 | 297,663 | 479 |
+| 2023-10-01 | 297,664 | 479 |
 ## Awards
 Max (Character Customization): 23,193  (Ranked 17)  
-Sum: 44,774 (Ranked 30)  
+Sum: 44,784 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -231,7 +231,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,075 |
 | This game has Amazing Characters | 1,044 |
 | This game is Highly Recommended | 1,039 |
-| This game has Quickly Understood Controls | 964 |
+| This game has Quickly Understood Controls | 974 |
 | This game has Beautiful Visuals | 900 |
 | This game has a Creative Community | 681 |
 ## Ratings History
@@ -428,4 +428,4 @@ Diff (max vs sum): -13
 | 2023-09-28 | 4.76 | 23,108 | 44,540 |
 | 2023-09-29 | 4.76 | 23,132 | 44,612 |
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
-| 2023-10-01 | 4.76 | 23,193 | 44,774 |
+| 2023-10-01 | 4.76 | 23,193 | 44,784 |

@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 370,
+  "Ranking_Rating": 371,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 217,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1466,
+  "EOS_Progressed": 1469,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2945,6 +2945,11 @@
       "Time": "2023-10-01T15:06:52.7561776+00:00",
       "NumProgressed": 1466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T17:07:33.1458527+00:00",
+      "NumProgressed": 1469,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2956,7 +2961,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "Auditor",
@@ -2980,7 +2985,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Boy",
@@ -2988,7 +2993,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Commandos",
@@ -3036,7 +3041,7 @@
       "Name": "E1M1",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "Everyone_is_here",
@@ -3068,7 +3073,7 @@
       "Name": "Grenadier",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 588
     },
     {
       "ID": "Hard_Serpent",
@@ -3084,7 +3089,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "High_noon",
@@ -3106,9 +3111,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 455
     },
     {
       "ID": "KillAllM2",
@@ -3130,9 +3135,9 @@
       "ID": "Long_fire",
       "SetID": "85nb4h3",
       "Name": "One by One",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 206
     },
     {
       "ID": "Miner",
@@ -3140,7 +3145,7 @@
       "Name": "Bomberman",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MoskitoBite",
@@ -3148,7 +3153,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Scout",
@@ -3172,7 +3177,7 @@
       "Name": "War Never Changes",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 588
     },
     {
       "ID": "We_were_not_here",
@@ -3188,22 +3193,22 @@
       "Name": "Your Answer",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1466,
+      "Progressed": 1469,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:07:01.1698693+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:07:33.1458521+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:04.8175411+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:00:30.3313405+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:07:01.1699+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:01:02.6001511+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:07:33.1458995+00:00"
 }

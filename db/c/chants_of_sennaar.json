@@ -3,7 +3,7 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 238,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.3,
   "EosHistory": [
@@ -1307,9 +1307,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N5",
@@ -1330,8 +1330,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:03:19.2996289+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:03:07.7903477+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:59:58.9327577+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:03:19.2996482+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:00:24.3588912+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:03:07.7904071+00:00"
 }

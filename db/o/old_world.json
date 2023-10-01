@@ -6,9 +6,9 @@
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 267,
+  "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1779,7 +1779,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14265,
+  "EOS_Progressed": 14267,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -12709,6 +12709,11 @@
       "Time": "2023-10-01T16:06:05.6537266+00:00",
       "NumProgressed": 14265,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-01T17:06:27.4090823+00:00",
+      "NumProgressed": 14267,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -12870,17 +12875,17 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1",
       "SetID": "9201eeb",
       "Name": "Carthage - Ox Hide",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_EPIC",
@@ -12894,17 +12899,17 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
@@ -13318,9 +13323,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
       "SetID": "9201eeb",
       "Name": "Ready",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -13574,9 +13579,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -13694,17 +13699,17 @@
       "ID": "ACHIEVEMENT_GREECE1_RUN",
       "SetID": "9201eeb",
       "Name": "Run, Pheidippides, Run!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
       "SetID": "9201eeb",
       "Name": "Nenikekamen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_PLATAEA_WIN",
@@ -13734,25 +13739,25 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
       "SetID": "9201eeb",
       "Name": "A Good Start",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
       "SetID": "9201eeb",
       "Name": "Like a Lion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_30",
       "SetID": "9201eeb",
       "Name": "Still Fighting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_40",
@@ -13774,9 +13779,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN",
       "SetID": "9201eeb",
       "Name": "Tell the Spartans",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ALEXANDER_KILL",
@@ -14366,9 +14371,9 @@
       "ID": "ACHIEVEMENT_NATION_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -14950,9 +14955,9 @@
       "ID": "ACHIEVEMENT_WIN_HOTSEAT",
       "SetID": "9201eeb",
       "Name": "Win a Hotseat Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_WIN_LAN",
@@ -15086,329 +15091,329 @@
       "ID": "ACHIEVEMENT_EGYPT1_BUHEN",
       "SetID": "9201eeb",
       "Name": "Rmt n Kmt Buhen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Only Kem",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Sepat Wase Forever",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Greater Kmt Unified",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Unified",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Greater Kmt Unified",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Kmt Unified",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Golden Age-less",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Worst Pharaoh Ever",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Golden Age",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Prosperous Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Kmt Golden Age",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Prosperous Pharaonic Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Failed the Aten",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Akhen-who?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Glory to The Aten",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Akhenaten\u0027s Legacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Glory to The Aten",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Akhenaten\u0027s Pharaonic Legacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Qadesh Defeat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Destruction at Qadesh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Ramesses II The Great",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Qadesh Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_MUWATALLI_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Muwatalli II KIA",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Ramesses II The Great",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Qadesh Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_RAMESSES_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Ramesses II KIA",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_SCOUT_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Split the Army",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Lost the Hearts of Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "The Neter Collapsed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Won the Hearts of Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Partly Balanced Ma\u0027at",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Won the Pharaonic Hearts of Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Partly Balanced Ma\u0027at",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Kmt\u0027s Sunset",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Worst.Ending.Possible.",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Re-writing History",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "History Repeats",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "The Greatest Pharaoh!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic History Repeats",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT_CAMPAIGN_COMPLETED",
       "SetID": "9201eeb",
       "Name": "Egypt Campaign",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_EGYPT_EXODUS_VICTORY",
@@ -15446,30 +15451,30 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14265,
+      "Progressed": 14267,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14265,
+      "Progressed": 14267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T10:58:32.0066773+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:06:05.6537262+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:06:27.4090819+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:58:20.3421418+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:06:05.6546867+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:58:23.5167949+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:06:27.4104211+00:00"
 }

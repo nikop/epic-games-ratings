@@ -11,6 +11,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.10% | ~14 |
 | Ishtar Gate in Babylon | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
+| Carthage - Ox Hide | 0.10% | ~14 |
+| Bronze Victory (Carthage 1) | 0.10% | ~14 |
+| Gold Victory (Carthage 1) | 0.10% | ~14 |
+| Silver Victory (Carthage 1) | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
 | Able | 0.10% | ~14 |
 | Ambitious | 0.10% | ~14 |
@@ -40,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.10% | ~14 |
 | Noble | 0.10% | ~14 |
 | Pioneer | 0.10% | ~14 |
+| Ready | 0.10% | ~14 |
 | Settler | 0.10% | ~14 |
 | Strong | 0.10% | ~14 |
 | Subjugator | 0.10% | ~14 |
@@ -61,6 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.10% | ~14 |
 | Champions | 0.10% | ~14 |
 | Clerics | 0.10% | ~14 |
+| Hunters | 0.10% | ~14 |
 | Landowners | 0.10% | ~14 |
 | Patrons | 0.10% | ~14 |
 | Riders | 0.10% | ~14 |
@@ -71,6 +77,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
+| Run, Pheidippides, Run! | 0.10% | ~14 |
+| Nenikekamen | 0.10% | ~14 |
+| A Good Start | 0.10% | ~14 |
+| Like a Lion | 0.10% | ~14 |
+| Still Fighting | 0.10% | ~14 |
+| Tell the Spartans | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
 | Acropolis | 0.10% | ~14 |
 | Apadana | 0.10% | ~14 |
@@ -104,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.10% | ~14 |
 | Greece | 0.10% | ~14 |
 | Hatti | 0.10% | ~14 |
+| Persia | 0.10% | ~14 |
 | Rome | 0.10% | ~14 |
 | Old World Order | 0.10% | ~14 |
 | One True Faith | 0.10% | ~14 |
@@ -156,9 +169,52 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Families | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
 | Necropolis in Waset | 0.10% | ~14 |
+| Win a Hotseat Game | 0.10% | ~14 |
 | Win a Single Player Game | 0.10% | ~14 |
 | The Great Mage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
+| Rmt n Kmt Buhen | 0.10% | ~14 |
+| Only Kem | 0.10% | ~14 |
+| Sepat Wase Forever | 0.10% | ~14 |
+| Greater Kmt Unified | 0.10% | ~14 |
+| Kmt Unified | 0.10% | ~14 |
+| Pharaonic Greater Kmt Unified | 0.10% | ~14 |
+| Pharaonic Kmt Unified | 0.10% | ~14 |
+| Golden Age-less | 0.10% | ~14 |
+| Worst Pharaoh Ever | 0.10% | ~14 |
+| Kmt Golden Age | 0.10% | ~14 |
+| Prosperous Kmt | 0.10% | ~14 |
+| Pharaonic Kmt Golden Age | 0.10% | ~14 |
+| Prosperous Pharaonic Kmt | 0.10% | ~14 |
+| Failed the Aten | 0.10% | ~14 |
+| Akhen-who? | 0.10% | ~14 |
+| Glory to The Aten | 0.10% | ~14 |
+| Akhenaten's Legacy | 0.10% | ~14 |
+| Pharaonic Glory to The Aten | 0.10% | ~14 |
+| Akhenaten's Pharaonic Legacy | 0.10% | ~14 |
+| Qadesh Defeat | 0.10% | ~14 |
+| Destruction at Qadesh | 0.10% | ~14 |
+| Ramesses II The Great | 0.10% | ~14 |
+| Qadesh Victory | 0.10% | ~14 |
+| Muwatalli II KIA | 0.10% | ~14 |
+| Pharaonic Ramesses II The Great | 0.10% | ~14 |
+| Pharaonic Qadesh Victory | 0.10% | ~14 |
+| Ramesses II KIA | 0.10% | ~14 |
+| Split the Army | 0.10% | ~14 |
+| Lost the Hearts of Kmt | 0.10% | ~14 |
+| The Neter Collapsed | 0.10% | ~14 |
+| Won the Hearts of Kmt | 0.10% | ~14 |
+| Partly Balanced Ma'at | 0.10% | ~14 |
+| Won the Pharaonic Hearts of Kmt | 0.10% | ~14 |
+| Pharaonic Partly Balanced Ma'at | 0.10% | ~14 |
+| Kmt's Sunset | 0.10% | ~14 |
+| Worst.Ending.Possible. | 0.10% | ~14 |
+| Re-writing History | 0.10% | ~14 |
+| History Repeats | 0.10% | ~14 |
+| The Greatest Pharaoh! | 0.10% | ~14 |
+| Pharaonic History Repeats | 0.10% | ~14 |
+| Egypt Campaign | 0.10% | ~14 |
+| Beja Archer | 0.10% | ~14 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -173,11 +229,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Ox Hide | 0.00% | ~0 |
-| Bronze Victory (Carthage 1) | 0.00% | ~0 |
 | Epic Victory (Carthage 1) | 0.00% | ~0 |
-| Gold Victory (Carthage 1) | 0.00% | ~0 |
-| Silver Victory (Carthage 1) | 0.00% | ~0 |
 | Carthage - Riches and Influence | 0.00% | ~0 |
 | Bronze Victory (Carthage 2) | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
@@ -200,7 +252,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Liberator | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
-| Ready | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
@@ -211,22 +262,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
-| Hunters | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
-| Run, Pheidippides, Run! | 0.00% | ~0 |
-| Nenikekamen | 0.00% | ~0 |
 | Get the Hellas Out | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | The Turning Point | 0.00% | ~0 |
-| A Good Start | 0.00% | ~0 |
-| Like a Lion | 0.00% | ~0 |
-| Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
-| Tell the Spartans | 0.00% | ~0 |
 | Shape of Things to Come | 0.00% | ~0 |
 | I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
@@ -267,7 +311,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Persia | 0.00% | ~0 |
 | Pantheon of Gods | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
@@ -288,7 +331,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Role-Playing | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
-| Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Network Game | 0.00% | ~0 |
@@ -302,55 +344,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
-| Rmt n Kmt Buhen | 0.00% | ~0 |
-| Only Kem | 0.00% | ~0 |
-| Sepat Wase Forever | 0.00% | ~0 |
-| Greater Kmt Unified | 0.00% | ~0 |
-| Kmt Unified | 0.00% | ~0 |
-| Pharaonic Greater Kmt Unified | 0.00% | ~0 |
-| Pharaonic Kmt Unified | 0.00% | ~0 |
-| Golden Age-less | 0.00% | ~0 |
-| Worst Pharaoh Ever | 0.00% | ~0 |
-| Kmt Golden Age | 0.00% | ~0 |
-| Prosperous Kmt | 0.00% | ~0 |
-| Pharaonic Kmt Golden Age | 0.00% | ~0 |
-| Prosperous Pharaonic Kmt | 0.00% | ~0 |
-| Failed the Aten | 0.00% | ~0 |
-| Akhen-who? | 0.00% | ~0 |
-| Glory to The Aten | 0.00% | ~0 |
-| Akhenaten's Legacy | 0.00% | ~0 |
-| Pharaonic Glory to The Aten | 0.00% | ~0 |
-| Akhenaten's Pharaonic Legacy | 0.00% | ~0 |
-| Qadesh Defeat | 0.00% | ~0 |
-| Destruction at Qadesh | 0.00% | ~0 |
-| Ramesses II The Great | 0.00% | ~0 |
-| Qadesh Victory | 0.00% | ~0 |
-| Muwatalli II KIA | 0.00% | ~0 |
-| Pharaonic Ramesses II The Great | 0.00% | ~0 |
-| Pharaonic Qadesh Victory | 0.00% | ~0 |
-| Ramesses II KIA | 0.00% | ~0 |
-| Split the Army | 0.00% | ~0 |
-| Lost the Hearts of Kmt | 0.00% | ~0 |
-| The Neter Collapsed | 0.00% | ~0 |
-| Won the Hearts of Kmt | 0.00% | ~0 |
-| Partly Balanced Ma'at | 0.00% | ~0 |
-| Won the Pharaonic Hearts of Kmt | 0.00% | ~0 |
-| Pharaonic Partly Balanced Ma'at | 0.00% | ~0 |
-| Kmt's Sunset | 0.00% | ~0 |
-| Worst.Ending.Possible. | 0.00% | ~0 |
-| Re-writing History | 0.00% | ~0 |
-| History Repeats | 0.00% | ~0 |
-| The Greatest Pharaoh! | 0.00% | ~0 |
-| Pharaonic History Repeats | 0.00% | ~0 |
-| Egypt Campaign | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 | Kushite Pyramids | 0.00% | ~0 |
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
-| Beja Archer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,265 (Ranked 133)  
-Completed: 5 (0.04%) (Ranked 267)  
+Progressed: 14,267 (Ranked 133)  
+Completed: 5 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 267)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,265 | 5 |
+| 2023-10-01 | 14,267 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,825 (Ranked 207)  

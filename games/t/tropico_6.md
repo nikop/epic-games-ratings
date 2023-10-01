@@ -6,23 +6,23 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,062 |
-| Un-Lonely Island | 47.00% | ~2,546 |
-| The Beginning of a Servantship | 45.00% | ~2,437 |
-| Trade Is My Trait | 37.00% | ~2,004 |
-| Number 18 | 24.00% | ~1,300 |
-| We Don't Have Time For That | 19.00% | ~1,029 |
+| Just One...More...Term... | 75.00% | ~4,064 |
+| Un-Lonely Island | 47.00% | ~2,547 |
+| The Beginning of a Servantship | 45.00% | ~2,439 |
+| Trade Is My Trait | 37.00% | ~2,005 |
+| Number 18 | 24.00% | ~1,301 |
+| We Don't Have Time For That | 19.00% | ~1,030 |
 | The Legend of Langostino | 17.00% | ~921 |
 | The Governator | 17.00% | ~921 |
 | Caribbean Comrade | 16.00% | ~867 |
-| The Dreamer of Dreams | 15.00% | ~812 |
+| The Dreamer of Dreams | 15.00% | ~813 |
 | Go Sovereigns! | 11.00% | ~596 |
 | For Science! | 11.00% | ~596 |
 | Happy Ending? | 10.00% | ~542 |
 | Of Seals And Men | 10.00% | ~542 |
 | Shackadelic | 10.00% | ~542 |
-| Double Trouble | 8.00% | ~433 |
-| Firestarter | 8.00% | ~433 |
+| Double Trouble | 8.00% | ~434 |
+| Firestarter | 8.00% | ~434 |
 | I Owe You Nothing | 7.00% | ~379 |
 | Make Tropico Great Again! | 7.00% | ~379 |
 | French Connection | 7.00% | ~379 |
@@ -32,11 +32,11 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~271 |
 | Watch The World Burn | 5.00% | ~271 |
 | Fairy Tale Come True | 5.00% | ~271 |
-| Been there, Done That | 3.00% | ~162 |
-| Apocalypso | 3.00% | ~162 |
-| Narcissist | 3.00% | ~162 |
-| Promising Endeavors | 3.00% | ~162 |
-| The Time For Wonders | 3.00% | ~162 |
+| Been there, Done That | 3.00% | ~163 |
+| Apocalypso | 3.00% | ~163 |
+| Narcissist | 3.00% | ~163 |
+| Promising Endeavors | 3.00% | ~163 |
+| The Time For Wonders | 3.00% | ~163 |
 | Chain Gang | 2.00% | ~108 |
 | One Does Not Simply Stage A Coup | 2.00% | ~108 |
 | Sublime Subliminal Supreme | 2.00% | ~108 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,416 (Ranked 166)  
-Completed: 2 (0.04%) (Ranked 267)  
+Progressed: 5,419 (Ranked 166)  
+Completed: 2 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 2 (0.04%) (Ranked 267)
 | 2023-09-28 | 5,388 | 2 |
 | 2023-09-29 | 5,397 | 2 |
 | 2023-09-30 | 5,410 | 2 |
-| 2023-10-01 | 5,416 | 2 |
+| 2023-10-01 | 5,419 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 344)  
 Sum: 696 (Ranked 283)  

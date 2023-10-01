@@ -2,13 +2,13 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -2345,9 +2345,9 @@
       "ID": "ACHIEVEMENTS_17",
       "SetID": "d4o538a",
       "Name": "Kind-hearted",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2530,8 +2530,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:08:14.8175228+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:08:31.0893568+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:09.4171148+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:58:08.3620169+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:08:14.817554+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:58:10.0296254+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:08:31.0894078+00:00"
 }

@@ -1,13 +1,13 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 975)  
+Rating: 3.94 (Ranked 976)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First One’s Free | 1.00% | ~886 |
 | Downed but Not Outed | 1.00% | ~886 |
-| Neophyte Ninja | 0.90% | ~797 |
+| Neophyte Ninja | 0.90% | ~798 |
 | Underworld Initiate | 0.70% | ~620 |
 | Too Old for This | 0.70% | ~620 |
 | Fancy Pants | 0.60% | ~532 |
@@ -47,8 +47,8 @@ Rating: 3.94 (Ranked 975)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,610 (Ranked 79)  
-Completed: 46 (0.05%) (Ranked 262)  
+Progressed: 88,613 (Ranked 79)  
+Completed: 46 (0.05%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 46 (0.05%) (Ranked 262)
 | 2023-09-28 | 88,457 | 46 |
 | 2023-09-29 | 88,513 | 46 |
 | 2023-09-30 | 88,572 | 46 |
-| 2023-10-01 | 88,610 | 46 |
+| 2023-10-01 | 88,613 | 46 |
 ## Awards
 Max (Diverse Characters): 469  (Ranked 205)  
 Sum: 2,239 (Ranked 194)  

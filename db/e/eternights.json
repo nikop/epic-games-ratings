@@ -3,9 +3,9 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -881,9 +881,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -937,9 +937,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -1008,8 +1008,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:04:34.5340053+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:04:39.3473518+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:00:13.6452278+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:04:34.5340235+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:00:42.2168103+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:04:39.3473784+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249884,
+  "EOS_Progressed": 249886,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15459,6 +15459,11 @@
       "Time": "2023-10-01T16:06:36.5745136+00:00",
       "NumProgressed": 249884,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-01T17:07:03.9905751+00:00",
+      "NumProgressed": 249886,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15526,7 +15531,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42480
+      "UsersEstimate": 42481
     },
     {
       "ID": "cantBeKeptDown",
@@ -15646,7 +15651,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132439
+      "UsersEstimate": 132440
     },
     {
       "ID": "indegestible",
@@ -15710,7 +15715,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124942
+      "UsersEstimate": 124943
     },
     {
       "ID": "notScared",
@@ -15774,7 +15779,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54974
+      "UsersEstimate": 54975
     },
     {
       "ID": "thunderstruck",
@@ -15830,14 +15835,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39981
+      "UsersEstimate": 39982
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249884,
+      "Progressed": 249886,
       "Completed": 6
     }
   ],
@@ -15845,8 +15850,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:06:36.5745131+00:00",
+  "LastChanged_Achievements": "2023-10-01T17:07:03.9905746+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:00:20.820626+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:06:36.5746097+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:00:49.9240708+00:00",
+  "LastUpdate_Achievements": "2023-10-01T17:07:03.9907457+00:00"
 }
