@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.70% | ~959 |
 | Helping Hand | 0.70% | ~959 |
 | Natural 20 | 0.70% | ~959 |
+| A Notch Above the Rest | 0.60% | ~822 |
 | Tax not Included | 0.60% | ~822 |
 | Big Game Hunting | 0.60% | ~822 |
 | For the Hoard! | 0.60% | ~822 |
@@ -58,7 +59,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.60% | ~822 |
 | Special Ingredient | 0.60% | ~822 |
 | Complete Monopoly | 0.60% | ~822 |
-| A Notch Above the Rest | 0.50% | ~685 |
 | Cream of the Crop | 0.50% | ~685 |
 | Top of the World | 0.50% | ~685 |
 | Proud Paladin | 0.50% | ~685 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,940 (Ranked 69)  
-Completed: 159 (0.12%) (Ranked 230)  
+Progressed: 136,942 (Ranked 69)  
+Completed: 159 (0.12%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,7 +283,7 @@ Completed: 159 (0.12%) (Ranked 230)
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
-| 2023-10-01 | 136,940 | 159 |
+| 2023-10-01 | 136,942 | 159 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,314 (Ranked 49)  

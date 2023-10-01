@@ -3,8 +3,8 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_Completed": 51,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -693,9 +693,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "Level_completed_001_002",
@@ -749,9 +749,9 @@
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "Level_completed_008_005",
@@ -822,8 +822,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:28.4699481+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:08:01.8259197+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:50.6642455+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:57:46.3014155+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:28.4699653+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:57:36.3755074+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:01.8259392+00:00"
 }

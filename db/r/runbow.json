@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249872,
+  "EOS_Progressed": 249873,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15429,6 +15429,11 @@
       "Time": "2023-10-01T10:07:25.7304239+00:00",
       "NumProgressed": 249872,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-01T11:07:58.6051036+00:00",
+      "NumProgressed": 249873,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15544,7 +15549,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49974
+      "UsersEstimate": 49975
     },
     {
       "ID": "didYourTime",
@@ -15616,7 +15621,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132432
+      "UsersEstimate": 132433
     },
     {
       "ID": "indegestible",
@@ -15807,7 +15812,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249872,
+      "Progressed": 249873,
       "Completed": 6
     }
   ],
@@ -15815,8 +15820,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:25.7304232+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:07:58.6051031+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:01:10.6285663+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:25.7305238+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:01:30.0020425+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:07:58.6052051+00:00"
 }

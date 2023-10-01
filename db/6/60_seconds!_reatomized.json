@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -5930,9 +5930,9 @@
       "ID": "ACH_DEFEND",
       "SetID": "5nj1ea3",
       "Name": "Pacifist",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3138
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -6275,8 +6275,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-09-29T16:02:13.3854789+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:04:30.4326554+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:04:45.8150048+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:17.5027493+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:57:34.1428956+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:04:30.4327268+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:57:22.8552264+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:04:45.815077+00:00"
 }

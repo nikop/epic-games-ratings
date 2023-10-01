@@ -3,7 +3,7 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1006,9 +1006,9 @@
       "ID": "achievement_100",
       "SetID": "d252ncf",
       "Name": "A Personal Touch",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_101",
@@ -1222,9 +1222,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_126",
@@ -1526,9 +1526,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_46",
@@ -2018,8 +2018,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:37.590466+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:08:11.9896965+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:58:20.328548+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:37.5906567+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:58:14.0651048+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:11.9899094+00:00"
 }

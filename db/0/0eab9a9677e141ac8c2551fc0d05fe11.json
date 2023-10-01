@@ -2,8 +2,8 @@
   "ID": "0eab9a9677e141ac8c2551fc0d05fe11",
   "Name": "Max Beyond",
   "ProductSlug": "max-beyond-c85995",
-  "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-01T01:47:23.3087974+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:58:32.7795469+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:06:27.8129214+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:58:27.700703+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:06:54.9123903+00:00"
 }

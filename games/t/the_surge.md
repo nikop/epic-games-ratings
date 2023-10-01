@@ -6,23 +6,23 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,426 |
-| I'll Be Back | 85.00% | ~4,003 |
-| Sorry, I Dropped This | 77.00% | ~3,626 |
-| First Day on the Job | 77.00% | ~3,626 |
+| On My Own Two Feet | 94.00% | ~4,427 |
+| I'll Be Back | 85.00% | ~4,004 |
+| Sorry, I Dropped This | 77.00% | ~3,627 |
+| First Day on the Job | 77.00% | ~3,627 |
 | Butcher's Bill | 55.00% | ~2,590 |
-| P.A.X | 38.00% | ~1,789 |
-| Hey Listen | 37.00% | ~1,742 |
-| OPERATOR | 36.00% | ~1,695 |
+| P.A.X | 38.00% | ~1,790 |
+| Hey Listen | 37.00% | ~1,743 |
+| OPERATOR | 36.00% | ~1,696 |
 | It's Blue Light | 33.00% | ~1,554 |
-| Most Wanted | 27.00% | ~1,271 |
+| Most Wanted | 27.00% | ~1,272 |
 | Infidel | 23.00% | ~1,083 |
 | GOLIATH | 21.00% | ~989 |
 | Firebug | 20.00% | ~942 |
 | I Choose You | 18.00% | ~848 |
 | Nothing to Lose | 18.00% | ~848 |
-| Big Sister | 16.00% | ~753 |
-| SENTINEL | 16.00% | ~753 |
+| Big Sister | 16.00% | ~754 |
+| SENTINEL | 16.00% | ~754 |
 | Gear Up | 15.00% | ~706 |
 | Core Power | 13.00% | ~612 |
 | The Black Cerberus | 12.00% | ~565 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Risk Assessment | 7.00% | ~330 |
 | Sunglasses at Night | 6.00% | ~283 |
 | Carbon Cat | 6.00% | ~283 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~235 |
-| Man of Steel | 5.00% | ~235 |
-| Jack of All Trades | 5.00% | ~235 |
-| 3-2-1 | 5.00% | ~235 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~236 |
+| Man of Steel | 5.00% | ~236 |
+| Jack of All Trades | 5.00% | ~236 |
+| 3-2-1 | 5.00% | ~236 |
 | For the Good of Mankind | 4.00% | ~188 |
 | Rusty Rat | 4.00% | ~188 |
 | Desecration | 4.00% | ~188 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,709 (Ranked 171)  
-Completed: 16 (0.34%) (Ranked 187)  
+Progressed: 4,710 (Ranked 171)  
+Completed: 16 (0.34%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,7 +209,7 @@ Completed: 16 (0.34%) (Ranked 187)
 | 2023-09-28 | 4,699 | 16 |
 | 2023-09-29 | 4,703 | 16 |
 | 2023-09-30 | 4,706 | 16 |
-| 2023-10-01 | 4,709 | 16 |
+| 2023-10-01 | 4,710 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 470)  
 Sum: 29 (Ranked 486)  

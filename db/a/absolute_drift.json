@@ -2,13 +2,13 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 697,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 7,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1542939,
+  "EOS_Progressed": 1542947,
   "EOS_Completed": 696,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1118,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -18929,6 +18929,11 @@
       "Time": "2023-10-01T10:09:19.347883+00:00",
       "NumProgressed": 1542939,
       "NumCompleted": 696
+    },
+    {
+      "Time": "2023-10-01T11:09:19.3074949+00:00",
+      "NumProgressed": 1542947,
+      "NumCompleted": 696
     }
   ],
   "TotalAchievements": 20,
@@ -19036,7 +19041,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154294
+      "UsersEstimate": 154295
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -19060,7 +19065,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13886
+      "UsersEstimate": 13887
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -19099,15 +19104,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1542939,
+      "Progressed": 1542947,
       "Completed": 696
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:09:19.3478825+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:09:19.3074945+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:39.8553991+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:03:12.1950788+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:09:19.3479803+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:02:27.7905827+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:09:19.3075915+00:00"
 }

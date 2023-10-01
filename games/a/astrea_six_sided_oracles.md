@@ -7,12 +7,12 @@
 | Meissa's Savior | 97.00% | ~33 |
 | Purification Pioneer | 97.00% | ~33 |
 | Mechanical Buddy | 94.00% | ~32 |
-| Dicesmithing Time! | 88.00% | ~30 |
+| Dicesmithing Time! | 91.00% | ~31 |
 | Wild's Keeper | 79.00% | ~27 |
 | Sanctuary Guardian | 74.00% | ~25 |
 | Endless Tricks | 68.00% | ~23 |
 | Mind Illuminator | 56.00% | ~19 |
-| Stellar Dismantler | 44.00% | ~15 |
+| Stellar Dismantler | 47.00% | ~16 |
 | Star Killer | 32.00% | ~11 |
 | Anomaly Destroyer | 29.00% | ~10 |
 | Astral Adventurer | 29.00% | ~10 |
@@ -32,6 +32,7 @@
 | Heavy Purger | 6.00% | ~2 |
 | Pocket Astrarium | 6.00% | ~2 |
 | Prestidigitation | 6.00% | ~2 |
+| The world goes round... | 6.00% | ~2 |
 | Unepic Hero | 6.00% | ~2 |
 | Arch-Oracle | 3.00% | ~1 |
 | Astral Seeker | 3.00% | ~1 |
@@ -40,9 +41,9 @@
 | Critical Twist | 3.00% | ~1 |
 | Favored by the Cosmos | 3.00% | ~1 |
 | Plague Doctor | 3.00% | ~1 |
+| Reflexive Mind | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
 | The Goddes Avatar | 3.00% | ~1 |
-| The world goes round... | 3.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -74,7 +75,6 @@
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
 | Purification Avatar | 0.00% | ~0 |
-| Reflexive Mind | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | The Abyssal Terror | 0.00% | ~0 |
@@ -86,7 +86,7 @@
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 34 (Ranked 456)  
-Completed: 0 (0.00%) (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

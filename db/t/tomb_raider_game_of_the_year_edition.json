@@ -2,11 +2,11 @@
   "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "ProductSlug": "tomb-raider",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 116,
-  "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -2683,10 +2683,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 6952,
       "NumberOfAwardsMax": 5899
+    },
+    {
+      "Time": "2023-10-01T11:01:44.6658016+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6953,
+      "NumberOfAwardsMax": 5899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6952,
+  "NumberOfAwards": 6953,
   "NumberOfAwardsMax": 5899,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2754,7 +2760,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 69
+      "Count": 70
     }
   ],
   "EOS_Progressed": 0,
@@ -2768,8 +2774,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2023-09-30T17:00:26.9793111+00:00",
+  "LastChanged": "2023-10-01T11:01:44.6658015+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:03.5226263+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:01:23.0073212+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:04:16.3673877+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:01:44.6658028+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:04:30.3865557+00:00"
 }

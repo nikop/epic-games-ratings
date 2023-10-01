@@ -5,28 +5,28 @@ Rating: 4.00 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 84.00% | ~38 |
-| Battlefields Have Memories | 82.00% | ~37 |
-| Enlisted | 82.00% | ~37 |
-| Maybe Engage a Little | 78.00% | ~35 |
-| No More Names | 69.00% | ~31 |
-| Initiate | 62.00% | ~28 |
-| Thrada-Kul | 60.00% | ~27 |
-| Gravity-Challenged Rocks | 47.00% | ~21 |
-| Soldier | 40.00% | ~18 |
-| All the Major Food Groups | 38.00% | ~17 |
-| Beggars Would Ride | 33.00% | ~15 |
-| Control is an Illusion | 31.00% | ~14 |
-| The Means to Save It | 29.00% | ~13 |
-| Resilience to Sin | 29.00% | ~13 |
-| Socialite | 29.00% | ~13 |
+| Unforeseen | 85.00% | ~39 |
+| Battlefields Have Memories | 85.00% | ~39 |
+| Enlisted | 83.00% | ~38 |
+| Maybe Engage a Little | 78.00% | ~36 |
+| No More Names | 70.00% | ~32 |
+| Initiate | 63.00% | ~29 |
+| Thrada-Kul | 61.00% | ~28 |
+| Gravity-Challenged Rocks | 48.00% | ~22 |
+| Soldier | 41.00% | ~19 |
+| All the Major Food Groups | 39.00% | ~18 |
+| Beggars Would Ride | 35.00% | ~16 |
+| Control is an Illusion | 33.00% | ~15 |
+| Socialite | 30.00% | ~14 |
+| The Means to Save It | 28.00% | ~13 |
+| Resilience to Sin | 28.00% | ~13 |
 | A Familiar Nest | 24.00% | ~11 |
 | Geas Aristeya | 24.00% | ~11 |
 | Armsman | 24.00% | ~11 |
 | Periapt Alizarin | 24.00% | ~11 |
 | A Perfect Cycle | 22.00% | ~10 |
 | Recruit | 22.00% | ~10 |
-| Lights Army | 16.00% | ~7 |
+| Lights Army | 15.00% | ~7 |
 | Armaments Gules | 13.00% | ~6 |
 | Periapt Cerulean | 13.00% | ~6 |
 | Shroudfane Explorer | 13.00% | ~6 |
@@ -53,8 +53,8 @@ Rating: 4.00 (Ranked 959)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 438)  
-Completed: 0 (0.00%) (Ranked 301)  
+Progressed: 46 (Ranked 436)  
+Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 301)
 | 2023-09-28 | 27 | 0 |
 | 2023-09-29 | 39 | 0 |
 | 2023-09-30 | 43 | 0 |
-| 2023-10-01 | 45 | 0 |
+| 2023-10-01 | 46 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

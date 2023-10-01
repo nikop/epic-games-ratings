@@ -18,7 +18,7 @@
 | Meritorious Service Medal | 54.00% | ~272 |
 | Charismatic | 54.00% | ~272 |
 | Medal of Honor | 53.00% | ~267 |
-| Soldier | 52.00% | ~262 |
+| Soldier | 53.00% | ~267 |
 | Asari Ally | 51.00% | ~257 |
 | Medal of Exploration III | 50.00% | ~252 |
 | Principled | 49.00% | ~247 |
@@ -46,13 +46,13 @@
 | Galactic Explorer | 33.00% | ~166 |
 | Ghost Ship | 32.00% | ~161 |
 | Broke, Blind, and Bedlam | 32.00% | ~161 |
+| The Assassin | 31.00% | ~156 |
 | The Quarian | 31.00% | ~156 |
 | The Prodigal | 31.00% | ~156 |
-| The Assassin | 30.00% | ~151 |
+| A Personal Touch | 30.00% | ~151 |
 | The Justicar | 30.00% | ~151 |
 | Battlemaster | 30.00% | ~151 |
 | Shopaholic | 30.00% | ~151 |
-| A Personal Touch | 29.00% | ~146 |
 | Ghost of the Father | 29.00% | ~146 |
 | The Cure | 29.00% | ~146 |
 | Big Game Hunter | 29.00% | ~146 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 504 (Ranked 269)  
-Completed: 0 (0.00%) (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

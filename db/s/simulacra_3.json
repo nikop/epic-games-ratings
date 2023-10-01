@@ -3,7 +3,7 @@
   "Name": "SIMULACRA 3",
   "ProductSlug": "simulacra-3-61a15e",
   "Ranking_EOS_Progress": 597,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -239,8 +239,8 @@
   ],
   "FirstSeen": "2023-05-11T13:05:49.8389666+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:54.4298666+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:01.599909+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:07:31.7307945+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.5233383+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:03:18.425946+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:01.5999222+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:03:05.2616488+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:07:31.730808+00:00"
 }

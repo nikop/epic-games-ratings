@@ -6,7 +6,7 @@
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -3798,9 +3798,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88588,
+  "EOS_Progressed": 88593,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20773,6 +20773,11 @@
       "Time": "2023-10-01T10:07:10.6110984+00:00",
       "NumProgressed": 88588,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-01T11:07:42.0434346+00:00",
+      "NumProgressed": 88593,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -21030,9 +21035,9 @@
       "ID": "ACH_0440",
       "SetID": "3kam13l",
       "Name": "True Player",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 266
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_0450",
@@ -21111,13 +21116,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88588,
+      "Progressed": 88593,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16935,
+      "Progressed": 16940,
       "Completed": 15537
     }
   ],
@@ -21125,8 +21130,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-30T15:00:59.7071806+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:10.6110977+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:07:42.0434343+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:01:48.9397947+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:10.6112078+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:02:15.0046673+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:07:42.0435388+00:00"
 }

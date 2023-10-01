@@ -2,9 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2023-09-30T19:04:27.9333483+00:00",
       "NumProgressed": 427,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-01T11:06:07.353279+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1433,7 +1438,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "completeact3",
@@ -1473,7 +1478,7 @@
       "Name": "Freedom",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "scoreminrankrf1",
@@ -1481,7 +1486,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "scoreminrankrf2",
@@ -1489,7 +1494,7 @@
       "Name": "Partners in Crime",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "scoreminrankrh1",
@@ -1529,7 +1534,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "scoreminrankrv2",
@@ -1544,7 +1549,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 2
     }
   ],
@@ -1552,8 +1557,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:05:44.7467624+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:06:07.3532786+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:43.1097332+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:59:45.3682494+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:05:44.7467787+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:59:53.9134983+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:06:07.3532952+00:00"
 }

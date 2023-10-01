@@ -3,7 +3,7 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3306,
+  "EOS_Progressed": 3307,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -7361,6 +7361,11 @@
       "Time": "2023-10-01T09:03:52.1227138+00:00",
       "NumProgressed": 3306,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-01T11:04:40.1147943+00:00",
+      "NumProgressed": 3307,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 16,
@@ -7444,7 +7449,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_food_completed",
@@ -7484,7 +7489,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "ach_tornado",
@@ -7499,14 +7504,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3306,
+      "Progressed": 3307,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:04:25.3979633+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:04:40.114794+00:00",
   "LastUpdate_AppInfo": "2023-09-29T15:57:16.8209985+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:57:49.7630481+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:04:25.3980071+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:57:40.2285989+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:04:40.1148369+00:00"
 }

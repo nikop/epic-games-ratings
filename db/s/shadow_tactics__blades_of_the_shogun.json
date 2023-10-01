@@ -2,11 +2,11 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -1687,9 +1687,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 205358,
+  "EOS_Progressed": 205363,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 1330,
+  "EOS_NewPlayers": 1320,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20217,6 +20217,11 @@
       "Time": "2023-10-01T10:04:51.1382344+00:00",
       "NumProgressed": 205358,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-10-01T11:05:08.7276776+00:00",
+      "NumProgressed": 205363,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 44,
@@ -20252,7 +20257,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "CompleteMastery",
@@ -20284,7 +20289,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "GearUp",
@@ -20292,7 +20297,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8214
+      "UsersEstimate": 8215
     },
     {
       "ID": "Genin",
@@ -20300,7 +20305,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22589
+      "UsersEstimate": 22590
     },
     {
       "ID": "HappyLittleAccidents",
@@ -20308,7 +20313,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8214
+      "UsersEstimate": 8215
     },
     {
       "ID": "HappyPlanning",
@@ -20316,7 +20321,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "HighFiveTheMoon",
@@ -20380,7 +20385,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "NoGimmicks",
@@ -20460,7 +20465,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8214
+      "UsersEstimate": 8215
     },
     {
       "ID": "Stoned",
@@ -20548,7 +20553,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -20579,15 +20584,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 205358,
+      "Progressed": 205363,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-30T18:58:50.0355426+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:04:51.1382336+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:05:08.7276771+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.8939779+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:59:56.6043257+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:04:51.1383524+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:00:06.2789906+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:05:08.7277935+00:00"
 }

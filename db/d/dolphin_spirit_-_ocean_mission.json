@@ -3,7 +3,7 @@
   "Name": "Dolphin Spirit - Ocean Mission",
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
   "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -89,9 +89,9 @@
       "ID": "ID_00",
       "SetID": "2bmd16d",
       "Name": "Amateur photographer",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ID_01",
@@ -113,9 +113,9 @@
       "ID": "ID_03",
       "SetID": "2bmd16d",
       "Name": "Recycling newbie",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ID_04",
@@ -201,9 +201,9 @@
       "ID": "ID_14",
       "SetID": "2bmd16d",
       "Name": "New recruit",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ID_15",
@@ -273,9 +273,9 @@
       "ID": "ID_23",
       "SetID": "2bmd16d",
       "Name": "Interesting",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ID_24",
@@ -329,9 +329,9 @@
       "ID": "ID_30",
       "SetID": "2bmd16d",
       "Name": "Welcome to Maupiroa",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ID_31",
@@ -351,8 +351,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:03:36.230001+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:03:26.2918913+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:53.7395326+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:03:25.3120513+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:03:36.2300238+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:03:13.1046639+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:03:26.2919144+00:00"
 }

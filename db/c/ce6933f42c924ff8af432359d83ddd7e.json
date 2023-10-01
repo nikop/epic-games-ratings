@@ -3,7 +3,7 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
@@ -354,9 +354,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -400,8 +400,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:34.0393574+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:08:08.0079379+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:58:10.8494003+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:34.0393667+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:58:02.4623317+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:08.0079514+00:00"
 }

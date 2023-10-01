@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~44,962 |
-| Get Busy Living | 16.00% | ~28,775 |
-| Samuel Norton | 9.00% | ~16,186 |
-| Spare The Rod | 5.00% | ~8,992 |
-| Don't Put Me In The Dark | 3.00% | ~5,395 |
-| Wait and Hope | 3.00% | ~5,395 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,395 |
+| Stone Walls | 25.00% | ~44,966 |
+| Get Busy Living | 16.00% | ~28,778 |
+| Samuel Norton | 9.00% | ~16,188 |
+| Spare The Rod | 5.00% | ~8,993 |
+| Don't Put Me In The Dark | 3.00% | ~5,396 |
+| Wait and Hope | 3.00% | ~5,396 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,396 |
 | Throw The Book At Them | 2.00% | ~3,597 |
 | Iron Bars | 2.00% | ~3,597 |
-| D.B. Cooper | 1.00% | ~1,798 |
+| D.B. Cooper | 1.00% | ~1,799 |
 | Reformation | 0.60% | ~1,079 |
 | Crowd Control | 0.50% | ~899 |
 | Freedom | 0.40% | ~719 |
@@ -23,8 +23,8 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~180 |
 | ... It's What You Can Prove | 0.10% | ~180 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,846 (Ranked 66)  
-Completed: 8 (0.00%) (Ranked 301)  
+Progressed: 179,865 (Ranked 66)  
+Completed: 8 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,19 +187,19 @@ Completed: 8 (0.00%) (Ranked 301)
 | 2023-09-28 | 178,993 | 8 |
 | 2023-09-29 | 179,313 | 8 |
 | 2023-09-30 | 179,714 | 8 |
-| 2023-10-01 | 179,846 | 8 |
+| 2023-10-01 | 179,865 | 8 |
 ## Awards
 Max (Extremely Fun): 516  (Ranked 200)  
-Sum: 4,443 (Ranked 141)  
+Sum: 4,447 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 516 |
 | This game is Great for Beginners | 503 |
-| This game is Highly Recommended | 489 |
+| This game is Highly Recommended | 491 |
 | This game has Quickly Understood Controls | 482 |
 | This game is Relaxing | 461 |
-| This game has Amazing Storytelling | 441 |
+| This game has Amazing Storytelling | 443 |
 | This game has Diverse Characters | 433 |
 | This game is Educational | 420 |
 | This game has Amazing Characters | 391 |
@@ -459,4 +459,4 @@ Diff (max vs sum): 59
 | 2023-09-28 | 4.61 | - | 515 | 4,421 |
 | 2023-09-29 | 4.61 | - | 515 | 4,428 |
 | 2023-09-30 | 4.61 | - | 516 | 4,440 |
-| 2023-10-01 | 4.61 | - | 516 | 4,443 |
+| 2023-10-01 | 4.61 | - | 516 | 4,447 |

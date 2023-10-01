@@ -3,8 +3,8 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 341,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1260,9 +1260,9 @@
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "ach_grime_2",
@@ -1629,8 +1629,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:08:00.4355213+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:08:37.0581533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:32.7979624+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:59:30.2699003+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:08:00.435612+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:59:35.9047362+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:37.058242+00:00"
 }

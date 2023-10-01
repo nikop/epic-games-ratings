@@ -2,8 +2,8 @@
   "ID": "8157b8921bc94f42aafecf98868124b2",
   "Name": "LEAP Mod Editor",
   "ProductSlug": "leap-mod-editor",
-  "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:58:32.2845506+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:00:40.3258209+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:05:24.896421+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:00:53.713098+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:05:45.4399017+00:00"
 }

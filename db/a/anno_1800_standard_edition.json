@@ -4,9 +4,9 @@
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 65,
   "Ranking_Popularity": 120,
-  "Ranking_PopularitySum": 74,
-  "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_PopularitySum": 73,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -8826,11 +8826,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 12839,
       "NumberOfAwardsMax": 1661
+    },
+    {
+      "Time": "2023-10-01T10:59:39.0444887+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12849,
+      "NumberOfAwardsMax": 1667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12839,
-  "NumberOfAwardsMax": 1661,
+  "NumberOfAwards": 12849,
+  "NumberOfAwardsMax": 1667,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -8843,7 +8849,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1558
+      "Count": 1562
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8873,7 +8879,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1661
+      "Count": 1667
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8911,8 +8917,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-10-01T02:58:24.5393894+00:00",
+  "LastChanged": "2023-10-01T10:59:39.0444885+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.5713046+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:59:33.2517226+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:53.6928786+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:59:39.0444895+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:29.5816984+00:00"
 }

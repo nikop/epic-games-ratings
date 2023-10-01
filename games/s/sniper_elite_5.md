@@ -9,8 +9,8 @@ Rating: 4.45 (Ranked 644)
 | Confirming Suspicions | 41.00% | ~1,512 |
 | The Kraken Wakes | 36.00% | ~1,328 |
 | It's Starting to Crack | 33.00% | ~1,217 |
+| Lord of War | 30.00% | ~1,106 |
 | Change the Channel | 30.00% | ~1,106 |
-| Lord of War | 29.00% | ~1,070 |
 | Taking it back | 28.00% | ~1,033 |
 | Resourceful | 26.00% | ~959 |
 | Target America | 26.00% | ~959 |
@@ -78,7 +78,7 @@ Rating: 4.45 (Ranked 644)
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,688 (Ranked 175)  
-Completed: 11 (0.30%) (Ranked 196)  
+Completed: 11 (0.30%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

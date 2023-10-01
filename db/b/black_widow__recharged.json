@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18500,
+  "EOS_Progressed": 18501,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -13532,6 +13532,11 @@
       "Time": "2023-10-01T10:04:40.5080664+00:00",
       "NumProgressed": 18500,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-10-01T11:04:57.2235962+00:00",
+      "NumProgressed": 18501,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 14,
@@ -13543,7 +13548,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14430
+      "UsersEstimate": 14431
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -13599,7 +13604,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9805
+      "UsersEstimate": 9806
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -13654,15 +13659,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18500,
+      "Progressed": 18501,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:04:40.508066+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:04:57.2235956+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:17.1558571+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:57:39.5230557+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:04:40.5081371+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:57:28.795722+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:04:57.2236658+00:00"
 }

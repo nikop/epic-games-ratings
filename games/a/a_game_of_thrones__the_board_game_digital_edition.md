@@ -6,31 +6,31 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~10,059 |
-| Battering Crew | 20.00% | ~5,030 |
-| The Kingsroad | 18.00% | ~4,527 |
+| Conqueror | 40.00% | ~10,061 |
+| Battering Crew | 20.00% | ~5,031 |
+| The Kingsroad | 18.00% | ~4,528 |
 | Well Stocked | 14.00% | ~3,521 |
-| Royal Fleet | 13.00% | ~3,269 |
-| The Kraken’s Grasp | 9.00% | ~2,263 |
+| Royal Fleet | 13.00% | ~3,270 |
+| The Kraken’s Grasp | 9.00% | ~2,264 |
 | Daggers in the Dark | 8.00% | ~2,012 |
 | Alliance | 8.00% | ~2,012 |
 | A Long Journey | 8.00% | ~2,012 |
-| Ours is the Fury | 7.00% | ~1,760 |
-| Winter is Coming | 7.00% | ~1,760 |
-| Oathkeeper | 7.00% | ~1,760 |
-| Influential | 7.00% | ~1,760 |
+| Ours is the Fury | 7.00% | ~1,761 |
+| Winter is Coming | 7.00% | ~1,761 |
+| Oathkeeper | 7.00% | ~1,761 |
+| Influential | 7.00% | ~1,761 |
 | We Do Not Sow | 6.00% | ~1,509 |
 | Hear me Roar! | 6.00% | ~1,509 |
 | Defender of the Wall | 6.00% | ~1,509 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,257 |
-| Growing Strong | 5.00% | ~1,257 |
-| What is Dead may Never Die | 3.00% | ~754 |
-| The Swift | 3.00% | ~754 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,258 |
+| Growing Strong | 5.00% | ~1,258 |
+| What is Dead may Never Die | 3.00% | ~755 |
+| The Swift | 3.00% | ~755 |
 | King in the North | 2.00% | ~503 |
-| War of the Five Kings | 1.00% | ~251 |
+| War of the Five Kings | 1.00% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,148 (Ranked 115)  
-Completed: 63 (0.25%) (Ranked 205)  
+Progressed: 25,153 (Ranked 115)  
+Completed: 63 (0.25%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 63 (0.25%) (Ranked 205)
 | 2023-09-28 | 24,949 | 61 |
 | 2023-09-29 | 25,021 | 62 |
 | 2023-09-30 | 25,125 | 63 |
-| 2023-10-01 | 25,148 | 63 |
+| 2023-10-01 | 25,153 | 63 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 321)  
 Sum: 786 (Ranked 271)  

@@ -3,8 +3,8 @@
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 456,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 88,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "EndlessTricks",
@@ -623,9 +623,9 @@
       "ID": "ReflexiveMind",
       "SetID": "1jeo1g7",
       "Name": "Reflexive Mind",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RoyalChoir",
@@ -695,9 +695,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "StellarHaste",
@@ -775,9 +775,9 @@
       "ID": "Theworldgoesround",
       "SetID": "1jeo1g7",
       "Name": "The world goes round...",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ThisisFine",
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:58.4363744+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:08:34.8724508+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:59:43.4168559+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:58.4364431+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:59:50.8156156+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:34.8725198+00:00"
 }

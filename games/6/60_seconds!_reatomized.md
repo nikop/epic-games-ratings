@@ -17,8 +17,8 @@ Rating: 4.61 (Ranked 370)
 | The Dark Side | 70.00% | ~3,723 |
 | Duck and cover! | 65.00% | ~3,457 |
 | Souper! | 64.00% | ~3,404 |
+| Pacifist | 59.00% | ~3,138 |
 | 2-1-6 | 58.00% | ~3,085 |
-| Pacifist | 58.00% | ~3,085 |
 | A gift | 53.00% | ~2,819 |
 | Girl Power | 48.00% | ~2,553 |
 | What goes around... | 44.00% | ~2,340 |
@@ -67,7 +67,7 @@ Rating: 4.61 (Ranked 370)
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,319 (Ranked 167)  
-Completed: 1 (0.02%) (Ranked 276)  
+Completed: 1 (0.02%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

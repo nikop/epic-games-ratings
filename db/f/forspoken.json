@@ -6,7 +6,7 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40880,
+  "EOS_Progressed": 40891,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9342,6 +9342,11 @@
       "Time": "2023-10-01T10:05:31.0379214+00:00",
       "NumProgressed": 40880,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T11:05:52.1687334+00:00",
+      "NumProgressed": 40891,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9369,7 +9374,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -9385,7 +9390,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9401,7 +9406,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9409,7 +9414,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9417,7 +9422,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -9513,7 +9518,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9529,7 +9534,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "JUSTCOUNTER",
@@ -9569,7 +9574,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9609,7 +9614,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "MAGIC_IVY",
@@ -9657,7 +9662,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "PARKOUR_TIME",
@@ -9689,7 +9694,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "SPRING_ALL",
@@ -9776,22 +9781,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40880,
+      "Progressed": 40891,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5717,
-      "Completed": 5717
+      "Progressed": 5728,
+      "Completed": 5728
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:05:31.0379209+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:05:52.1687329+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:00:09.6940644+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:05:31.0379997+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:00:20.5958023+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:05:52.1689132+00:00"
 }

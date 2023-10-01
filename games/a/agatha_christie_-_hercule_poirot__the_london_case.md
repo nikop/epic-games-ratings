@@ -16,11 +16,11 @@
 | The Missing Magdalene | 43.00% | ~6 |
 | Arthur Hastings | 43.00% | ~6 |
 | Everything matters | 36.00% | ~5 |
-| Order and method | 29.00% | ~4 |
-| An expert mediator | 21.00% | ~3 |
-| Betty Allen | 21.00% | ~3 |
-| DI Hardwicke | 21.00% | ~3 |
-| The Investigation Begins | 21.00% | ~3 |
+| Order and method | 36.00% | ~5 |
+| An expert mediator | 29.00% | ~4 |
+| Betty Allen | 29.00% | ~4 |
+| DI Hardwicke | 29.00% | ~4 |
+| The Investigation Begins | 29.00% | ~4 |
 | Well-acquainted | 14.00% | ~2 |
 | Truth from within | 14.00% | ~2 |
 | An odd series of events | 14.00% | ~2 |
@@ -52,7 +52,7 @@
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 496)  
-Completed: 0 (0.00%) (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

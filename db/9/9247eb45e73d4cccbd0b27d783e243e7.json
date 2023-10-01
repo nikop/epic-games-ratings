@@ -2,8 +2,8 @@
   "ID": "9247eb45e73d4cccbd0b27d783e243e7",
   "Name": "Hero Survival",
   "ProductSlug": "hero-survival-4de339",
-  "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-29T22:57:05.8171207+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:58:57.7435141+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:52.8301595+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:58:55.9999037+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:28.5891442+00:00"
 }

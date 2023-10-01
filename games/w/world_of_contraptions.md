@@ -36,7 +36,7 @@
 | Mountain master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 294 (Ranked 309)  
-Completed: 0 (0.00%) (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

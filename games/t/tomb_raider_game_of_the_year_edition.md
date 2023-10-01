@@ -1,11 +1,11 @@
 # Tomb Raider GAME OF THE YEAR EDITION
 [Store](https://store.epicgames.com/en-US/p/tomb-raider)  
 [View Rawdata](../../db/t/tomb_raider_game_of_the_year_edition.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 281)  
 Number of Ratings: 20,961  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 5,899  (Ranked 62)  
-Sum: 6,952 (Ranked 116)  
+Sum: 6,953 (Ranked 116)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -54
 | This game is Extremely Fun | 120 |
 | This game has Amazing Characters | 115 |
 | This game has Amazing Storytelling | 107 |
-| This game has a Creative Community | 69 |
+| This game has a Creative Community | 70 |
 | This game has Obsessive Gameplay | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -198,3 +198,4 @@ Diff (max vs sum): -54
 | 2023-09-26 | 4.66 | - | 5,895 | 6,946 |
 | 2023-09-28 | 4.66 | - | 5,898 | 6,951 |
 | 2023-09-30 | 4.66 | - | 5,899 | 6,952 |
+| 2023-10-01 | 4.66 | - | 5,899 | 6,953 |

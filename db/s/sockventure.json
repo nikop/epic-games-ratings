@@ -2,8 +2,8 @@
   "ID": "ec1789ed515c40ebad6e659559af2a19",
   "Name": "Sockventure",
   "ProductSlug": "sockventure",
-  "Ranking_EOS_Progress": 645,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.298935+00:00",
   "LastChanged": "2023-03-31T05:57:34.2989351+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:18.1154019+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:01:37.5685698+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:04:51.3627847+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:02:02.2481402+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:05:08.9058299+00:00"
 }

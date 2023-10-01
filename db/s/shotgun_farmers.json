@@ -3,7 +3,7 @@
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -1661,9 +1661,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_all_koth_points",
@@ -1861,9 +1861,9 @@
       "ID": "ach_x_victims_using_double_barrel",
       "SetID": "bf10c8p",
       "Name": "This Is My Boomstick",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_x_victims_using_grenade_launcher",
@@ -1924,8 +1924,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:05:21.4399413+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:05:41.6392985+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.2826731+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:00:29.8410288+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:05:21.4400071+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:00:42.391799+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:05:41.6393629+00:00"
 }

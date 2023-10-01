@@ -11,7 +11,7 @@
 | Grand Mason | 13.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47 (Ranked 433)  
-Completed: 6 (12.77%) (Ranked 20)  
+Completed: 6 (12.77%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

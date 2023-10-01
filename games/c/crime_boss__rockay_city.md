@@ -20,9 +20,9 @@ Rating: 3.94 (Ranked 975)
 | Hidden Sonata | 0.40% | ~354 |
 | Track Star | 0.40% | ~354 |
 | Case Closed | 0.40% | ~354 |
+| True Player | 0.40% | ~354 |
 | I Like Trains | 0.30% | ~266 |
 | Headhunter | 0.30% | ~266 |
-| True Player | 0.30% | ~266 |
 | Legend Looter | 0.20% | ~177 |
 | Imports and Exports | 0.20% | ~177 |
 | Savvy Seeker | 0.20% | ~177 |
@@ -47,8 +47,8 @@ Rating: 3.94 (Ranked 975)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,588 (Ranked 79)  
-Completed: 46 (0.05%) (Ranked 261)  
+Progressed: 88,593 (Ranked 79)  
+Completed: 46 (0.05%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 46 (0.05%) (Ranked 261)
 | 2023-09-28 | 88,457 | 46 |
 | 2023-09-29 | 88,513 | 46 |
 | 2023-09-30 | 88,572 | 46 |
-| 2023-10-01 | 88,588 | 46 |
+| 2023-10-01 | 88,593 | 46 |
 ## Awards
 Max (Diverse Characters): 469  (Ranked 205)  
 Sum: 2,235 (Ranked 194)  

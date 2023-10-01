@@ -3,7 +3,7 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -219,9 +219,9 @@
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -644,8 +644,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:08:03.6483864+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:08:40.8468003+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:12.157773+00:00",
-  "LastUpdate_Ratings": "2023-10-01T10:00:20.0426898+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:08:03.6484212+00:00"
+  "LastUpdate_Ratings": "2023-10-01T11:00:31.7366252+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:40.8468342+00:00"
 }

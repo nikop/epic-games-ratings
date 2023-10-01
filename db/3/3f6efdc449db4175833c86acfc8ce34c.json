@@ -3,7 +3,7 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -1596,6 +1596,11 @@
       "Time": "2023-10-01T10:04:25.7844166+00:00",
       "NumProgressed": 750,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-01T11:04:40.4886205+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -1608,7 +1613,7 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Mission2",
@@ -1624,7 +1629,7 @@
       "Name": "Mission 2 clear",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Mission4",
@@ -1647,14 +1652,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:04:25.7844163+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:04:40.4886201+00:00",
   "LastUpdate_AppInfo": "2023-09-25T10:57:14.1151943+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:58:19.0919116+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:04:25.7844299+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:58:12.7674671+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:04:40.4886331+00:00"
 }

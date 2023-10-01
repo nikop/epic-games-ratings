@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7264,
+  "EOS_Progressed": 7266,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4649,6 +4649,11 @@
       "Time": "2023-10-01T08:05:34.9227854+00:00",
       "NumProgressed": 7264,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-01T11:05:51.4149611+00:00",
+      "NumProgressed": 7266,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4676,7 +4681,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -4692,7 +4697,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4708,7 +4713,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -4732,7 +4737,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -4748,7 +4753,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "AK_ON_TOWN",
@@ -4772,7 +4777,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -4796,7 +4801,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -4804,7 +4809,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -4812,7 +4817,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4868,22 +4873,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7264,
+      "Progressed": 7266,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:05:30.3881343+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:05:51.4149607+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:02.0685585+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:58:35.9207762+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:05:30.3881695+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:58:30.9339372+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:05:51.4149959+00:00"
 }

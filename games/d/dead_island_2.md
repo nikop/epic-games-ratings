@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,671 |
-| Hotel California | 3.00% | ~20,671 |
-| Welcome To Hell-A | 3.00% | ~20,671 |
+| Break A Leg | 3.00% | ~20,672 |
+| Hotel California | 3.00% | ~20,672 |
+| Welcome To Hell-A | 3.00% | ~20,672 |
 | Dr. Reed, I Presume? | 2.00% | ~13,781 |
 | Git Gutte! | 2.00% | ~13,781 |
 | Bookworm | 2.00% | ~13,781 |
@@ -27,13 +27,13 @@ Rating: 4.54 (Ranked 511)
 | Personal Assistant Personally Assisted | 2.00% | ~13,781 |
 | Our True Nature | 2.00% | ~13,781 |
 | This is My Weapon | 2.00% | ~13,781 |
-| Making Your Mark | 1.00% | ~6,890 |
-| Anger Management | 1.00% | ~6,890 |
-| Perks of the Job | 1.00% | ~6,890 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,890 |
-| Humanity Distilled | 1.00% | ~6,890 |
-| Down with the Sickness | 1.00% | ~6,890 |
-| Max Headroom | 1.00% | ~6,890 |
+| Making Your Mark | 1.00% | ~6,891 |
+| Anger Management | 1.00% | ~6,891 |
+| Perks of the Job | 1.00% | ~6,891 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,891 |
+| Humanity Distilled | 1.00% | ~6,891 |
+| Down with the Sickness | 1.00% | ~6,891 |
+| Max Headroom | 1.00% | ~6,891 |
 | Go, Bobcats! | 0.90% | ~6,201 |
 | Jumbo Keyring | 0.80% | ~5,512 |
 | Rising Star | 0.80% | ~5,512 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,026 (Ranked 22)  
-Completed: 2,183 (0.32%) (Ranked 192)  
+Progressed: 689,053 (Ranked 22)  
+Completed: 2,183 (0.32%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 2,183 (0.32%) (Ranked 192)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 689,026 | 2,183 |
+| 2023-10-01 | 689,053 | 2,183 |
 ## Awards
 Max (Great Boss Battles): 6,270  (Ranked 58)  
 Sum: 9,343 (Ranked 91)  

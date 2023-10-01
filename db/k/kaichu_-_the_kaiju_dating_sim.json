@@ -3,7 +3,7 @@
   "Name": "Kaichu - The Kaiju Dating Sim",
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -260,8 +260,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-10-01T10:07:43.8900358+00:00",
+  "LastChanged_Achievements": "2023-10-01T11:08:19.004773+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.6764542+00:00",
-  "LastUpdate_Ratings": "2023-10-01T09:59:10.9424224+00:00",
-  "LastUpdate_Achievements": "2023-10-01T10:07:43.8900485+00:00"
+  "LastUpdate_Ratings": "2023-10-01T10:59:11.1110855+00:00",
+  "LastUpdate_Achievements": "2023-10-01T11:08:19.0047832+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 25.00% | ~2,862 |
 | A Spark | 18.00% | ~2,061 |
-| Burning City | 17.00% | ~1,946 |
+| Burning City | 17.00% | ~1,947 |
 | Mythic Choices | 14.00% | ~1,603 |
 | Defender's Heart | 14.00% | ~1,603 |
 | Banner over the Citadel | 13.00% | ~1,488 |
@@ -28,11 +28,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~458 |
 | A Flame | 4.00% | ~458 |
 | Get the Toad | 4.00% | ~458 |
-| Heart of the Fallen Land | 3.00% | ~343 |
-| Path of the Trickster | 3.00% | ~343 |
-| Heroic Victory | 3.00% | ~343 |
-| Core of the Riddle | 3.00% | ~343 |
-| Hey, I Know You! | 3.00% | ~343 |
+| Heart of the Fallen Land | 3.00% | ~344 |
+| Path of the Trickster | 3.00% | ~344 |
+| Heroic Victory | 3.00% | ~344 |
+| Core of the Riddle | 3.00% | ~344 |
+| Hey, I Know You! | 3.00% | ~344 |
 | Hanged Man's Notes | 3.00% | ~307 |
 | The Lady of the Forest | 3.00% | ~307 |
 | Beware Still Water | 3.00% | ~307 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,449 (Ranked 138)  
-Completed: 0 (0.00%) (Ranked 301)  
+Progressed: 11,450 (Ranked 138)  
+Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,7 +287,7 @@ Completed: 0 (0.00%) (Ranked 301)
 | 2023-09-28 | 11,429 | 0 |
 | 2023-09-29 | 11,437 | 0 |
 | 2023-09-30 | 11,444 | 0 |
-| 2023-10-01 | 11,449 | 0 |
+| 2023-10-01 | 11,450 | 0 |
 ## Awards
 Max (Character Customization): 1,718  (Ranked 119)  
 Sum: 6,969 (Ranked 114)  
