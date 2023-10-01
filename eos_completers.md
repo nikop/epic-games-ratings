@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 69.22% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 69.13% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.15% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -37,12 +37,12 @@
 | 35 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 36 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.00% |
 | 37 | [Sonic Origins](games/s/sonic_origins.md) | 7.98% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
-| 39 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
+| 38 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.48% |
 | 42 | [Time Loader](games/t/time_loader.md) | 7.26% |
-| 43 | [Scorn](games/s/scorn.md) | 7.07% |
+| 43 | [Scorn](games/s/scorn.md) | 7.06% |
 | 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.33% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -50,7 +50,7 @@
 | 48 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.00% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 50 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
-| 51 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.48% |
+| 51 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.44% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 53 | [JARS](games/j/jars.md) | 5.13% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.13% |
@@ -80,7 +80,7 @@
 | 78 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 78 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 80 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
-| 81 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.06% |
+| 81 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.05% |
 | 82 | [Mega City Police](games/m/mega_city_police.md) | 2.94% |
 | 83 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 84 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
@@ -88,7 +88,7 @@
 | 86 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.68% |
-| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.64% |
+| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.63% |
 | 90 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 91 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 92 | [Lamentum](games/l/lamentum.md) | 2.48% |
@@ -101,7 +101,7 @@
 | 98 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 100 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 101 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 102 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.08% |
+| 102 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.04% |
 | 103 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 103 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.00% |
 | 105 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.89% |

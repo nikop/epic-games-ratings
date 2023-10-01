@@ -122,7 +122,7 @@
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,460 | 24 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 525 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,347 | 92 |
-| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 977 | 148 |
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 981 | 148 |
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 802 | 161 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,160 | 17 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,619 | 74 |
@@ -477,7 +477,7 @@
 | 473 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46 | 419 |
 | 473 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 525 |
 | 473 | [Deceive Inc.](games/d/deceive_inc..md) | 4.56 | 0 | 525 |
-| 473 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 866 | 154 |
+| 473 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 870 | 154 |
 | 473 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 482 |
 | 473 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 322 | 237 |
 | 473 | [Hue](games/h/hue.md) | 4.56 | 0 | 525 |
@@ -587,26 +587,26 @@
 | 573 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 24 | 496 |
 | 573 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.50 | 0 | 525 |
 | 573 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 820 | 157 |
-| 588 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 29 | 470 |
-| 588 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 393 |
-| 588 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 525 |
-| 588 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,998 | 109 |
-| 588 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,932 | 14 |
-| 588 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 525 |
-| 588 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 525 |
-| 588 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 250 |
-| 588 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 132 | 312 |
-| 588 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 525 |
-| 588 | [Maneater](games/m/maneater.md) | 4.49 | 13,702 | 29 |
-| 588 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 344 |
-| 588 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 457 |
-| 588 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 525 |
-| 588 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 364 |
-| 588 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 525 |
-| 588 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,771 | 96 |
-| 588 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 525 |
-| 588 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 0 | 525 |
-| 588 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 441 |
+| 573 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 525 |
+| 589 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 29 | 470 |
+| 589 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 393 |
+| 589 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 525 |
+| 589 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,998 | 109 |
+| 589 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,968 | 14 |
+| 589 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 525 |
+| 589 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 525 |
+| 589 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 276 | 250 |
+| 589 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 132 | 312 |
+| 589 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 525 |
+| 589 | [Maneater](games/m/maneater.md) | 4.49 | 13,702 | 29 |
+| 589 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 344 |
+| 589 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 457 |
+| 589 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 525 |
+| 589 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 364 |
+| 589 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,771 | 96 |
+| 589 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 525 |
+| 589 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 0 | 525 |
+| 589 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 441 |
 | 608 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 525 |
 | 608 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 525 |
 | 608 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 0 | 525 |
@@ -867,10 +867,10 @@
 | 864 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 146 |
 | 864 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 525 |
 | 864 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 525 |
-| 864 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 215 | 272 |
-| 869 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 285 |
-| 869 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 525 |
-| 869 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.22 | 166 | 296 |
+| 868 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 285 |
+| 868 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 525 |
+| 868 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 215 | 272 |
+| 868 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.22 | 166 | 296 |
 | 872 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 321 |
 | 872 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 525 |
 | 872 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 464 |
