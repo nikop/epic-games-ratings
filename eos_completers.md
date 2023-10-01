@@ -1,17 +1,17 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 69.63% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 69.48% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.15% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.28% |
+| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.00% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.72% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
-| 8 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 25.00% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.91% |
-| 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.91% |
+| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 12 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
 | 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.00% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 19.75% |
@@ -50,11 +50,11 @@
 | 48 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.00% |
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 50 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
-| 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 52 | [JARS](games/j/jars.md) | 5.13% |
-| 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.13% |
-| 54 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
-| 55 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.93% |
+| 51 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.56% |
+| 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
+| 53 | [JARS](games/j/jars.md) | 5.13% |
+| 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.13% |
+| 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 57 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 58 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
@@ -88,13 +88,13 @@
 | 86 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.68% |
-| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.66% |
+| 89 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.65% |
 | 90 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 91 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 92 | [Lamentum](games/l/lamentum.md) | 2.48% |
-| 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.44% |
-| 94 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
-| 95 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
+| 93 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
+| 94 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
+| 94 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.41% |
 | 96 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
 | 97 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.33% |
@@ -185,12 +185,12 @@
 | 181 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 181 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 185 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
-| 186 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.34% |
 | 186 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.34% |
 | 186 | [The Surge](games/t/the_surge.md) | 0.34% |
-| 190 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
-| 190 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.33% |
+| 189 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
+| 189 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.33% |
+| 189 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.33% |
 | 192 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 193 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
@@ -216,10 +216,10 @@
 | 214 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.20% |
 | 215 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 215 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 215 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
 | 215 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 218 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 218 | [Remnant 2](games/r/remnant_2.md) | 0.18% |
-| 218 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
+| 219 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 219 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 221 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 221 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 221 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
