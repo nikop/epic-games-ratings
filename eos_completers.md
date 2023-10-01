@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 68.64% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.71% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 68.57% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.00% |
@@ -51,7 +51,7 @@
 | 49 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 50 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 52 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.26% |
+| 52 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.16% |
 | 53 | [JARS](games/j/jars.md) | 5.13% |
 | 54 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
@@ -60,13 +60,13 @@
 | 58 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 59 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.39% |
-| 61 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.12% |
-| 62 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
+| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
+| 61 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
-| 64 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 4.00% |
-| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.90% |
-| 66 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
-| 67 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 64 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.02% |
+| 65 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
+| 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 66 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.85% |
 | 68 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.69% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -128,8 +128,8 @@
 | 126 | [Chorus](games/c/chorus.md) | 1.30% |
 | 127 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 128 | [Infindustry](games/i/infindustry.md) | 1.10% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
 | 129 | [Trifox](games/t/trifox.md) | 1.09% |
-| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 131 | [Adios](games/a/adios.md) | 1.04% |
 | 132 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
 | 132 | [Sable](games/s/sable.md) | 1.01% |
