@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -7620,9 +7620,9 @@
       "ID": "SE_KILL_SNIPER_MID_AIR",
       "SetID": "49kdhbg",
       "Name": "Give me something to shoot!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20034
+      "UsersEstimate": 20470
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -7804,8 +7804,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-30T21:57:24.8495407+00:00",
-  "LastChanged_Achievements": "2023-09-30T23:03:54.11152+00:00",
+  "LastChanged_Achievements": "2023-10-01T00:04:26.9869769+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:14.6672036+00:00",
-  "LastUpdate_Ratings": "2023-09-30T22:57:20.4441021+00:00",
-  "LastUpdate_Achievements": "2023-09-30T23:03:54.1116191+00:00"
+  "LastUpdate_Ratings": "2023-09-30T23:57:08.268656+00:00",
+  "LastUpdate_Achievements": "2023-10-01T00:04:26.9870514+00:00"
 }

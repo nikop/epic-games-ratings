@@ -1,13 +1,13 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 333)  
+Rating: 4.63 (Ranked 334)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,593 |
-| Rough Landing | 3.00% | ~26,593 |
+| Ten out of Ten | 3.00% | ~26,594 |
+| Rough Landing | 3.00% | ~26,594 |
 | Full Body Conversion | 2.00% | ~17,729 |
 | Right Back At Ya | 2.00% | ~17,729 |
 | Gunslinger | 2.00% | ~17,729 |
@@ -18,23 +18,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 2.00% | ~17,729 |
 | Two Heads, One Bullet | 2.00% | ~17,729 |
 | V for Vendetta | 2.00% | ~17,729 |
-| To Bad Decisions! | 1.00% | ~8,864 |
-| Breathtaking | 1.00% | ~8,864 |
-| Stanislavski's Method | 1.00% | ~8,864 |
-| Temperance | 1.00% | ~8,864 |
-| The Fool | 1.00% | ~8,864 |
-| The Hermit | 1.00% | ~8,864 |
-| The Lovers | 1.00% | ~8,864 |
-| The Wheel of Fortune | 1.00% | ~8,864 |
-| True Warrior | 1.00% | ~8,864 |
-| Legend of The Afterlife | 1.00% | ~8,864 |
+| To Bad Decisions! | 1.00% | ~8,865 |
+| Breathtaking | 1.00% | ~8,865 |
+| Stanislavski's Method | 1.00% | ~8,865 |
+| Temperance | 1.00% | ~8,865 |
+| The Fool | 1.00% | ~8,865 |
+| The Hermit | 1.00% | ~8,865 |
+| The Lovers | 1.00% | ~8,865 |
+| The Wheel of Fortune | 1.00% | ~8,865 |
+| True Warrior | 1.00% | ~8,865 |
+| Legend of The Afterlife | 1.00% | ~8,865 |
 | The Quick and the Dead | 0.90% | ~7,978 |
 | The Devil | 0.90% | ~7,978 |
-| Gun Fu | 0.80% | ~7,091 |
-| Christmas Tree Attack | 0.80% | ~7,091 |
-| The World | 0.80% | ~7,091 |
-| Judy vs Night City | 0.80% | ~7,091 |
-| It's Elementary | 0.80% | ~7,091 |
+| Gun Fu | 0.80% | ~7,092 |
+| Christmas Tree Attack | 0.80% | ~7,092 |
+| The World | 0.80% | ~7,092 |
+| Judy vs Night City | 0.80% | ~7,092 |
+| It's Elementary | 0.80% | ~7,092 |
 | City Lights | 0.60% | ~5,319 |
 | Greetings from Pacifica! | 0.60% | ~5,319 |
 | Life of the Road | 0.50% | ~4,432 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,435 (Ranked 15)  
-Completed: 2,507 (0.28%) (Ranked 202)  
+Progressed: 886,467 (Ranked 15)  
+Completed: 2,508 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,6 +228,7 @@ Completed: 2,507 (0.28%) (Ranked 202)
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
+| 2023-10-01 | 886,467 | 2,508 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
 Sum: 245,194 (Ranked 13)  

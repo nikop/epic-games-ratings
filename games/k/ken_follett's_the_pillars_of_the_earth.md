@@ -6,10 +6,10 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,193 |
+| Tattletale | 40.00% | ~6,194 |
 | Man of politics | 35.00% | ~5,419 |
-| Friends of sorts | 33.00% | ~5,109 |
-| Yet another secret | 33.00% | ~5,109 |
+| Friends of sorts | 33.00% | ~5,110 |
+| Yet another secret | 33.00% | ~5,110 |
 | Let there be darkness | 32.00% | ~4,955 |
 | End of Book One | 30.00% | ~4,645 |
 | Wannabe knight | 24.00% | ~3,716 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 11.00% | ~1,703 |
 | First profit | 11.00% | ~1,703 |
 | Team player | 10.00% | ~1,548 |
-| Skilled merchant | 9.00% | ~1,393 |
-| Nothing but make-believe | 9.00% | ~1,393 |
-| Brother Marcus | 9.00% | ~1,393 |
-| The oath | 9.00% | ~1,393 |
-| The truth revealed | 9.00% | ~1,393 |
-| The End. | 9.00% | ~1,393 |
+| Skilled merchant | 9.00% | ~1,394 |
+| Nothing but make-believe | 9.00% | ~1,394 |
+| Brother Marcus | 9.00% | ~1,394 |
+| The oath | 9.00% | ~1,394 |
+| The truth revealed | 9.00% | ~1,394 |
+| The End. | 9.00% | ~1,394 |
 | A cry for help | 8.00% | ~1,239 |
 | Silentium est aureum | 7.00% | ~1,084 |
 | Rebel without a cause | 6.00% | ~929 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~619 |
 | Self-defense | 4.00% | ~619 |
 | Countess Aliena | 4.00% | ~619 |
-| Care, like a brother cares | 3.00% | ~464 |
-| A brush with death | 3.00% | ~464 |
+| Care, like a brother cares | 3.00% | ~465 |
+| A brush with death | 3.00% | ~465 |
 | Boy of mystery | 2.00% | ~310 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,483 (Ranked 132)  
+Progressed: 15,484 (Ranked 132)  
 Completed: 112 (0.72%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 112 (0.72%) (Ranked 146)
 | 2023-09-28 | 15,452 | 111 |
 | 2023-09-29 | 15,466 | 112 |
 | 2023-09-30 | 15,483 | 112 |
+| 2023-10-01 | 15,484 | 112 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 303)  
 Sum: 193 (Ranked 383)  

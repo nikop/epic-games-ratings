@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 1.00% | ~142 |
 | Pantheon | 1.00% | ~142 |
 | Via Recta Souk | 1.00% | ~142 |
+| Learn to Play 4 | 1.00% | ~142 |
 | Carthage | 1.00% | ~142 |
 | Power to the People | 1.00% | ~142 |
 | Assyrian Paganism | 1.00% | ~142 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.90% | ~128 |
 | Strong Difficulty | 0.90% | ~128 |
 | Hunters | 0.90% | ~128 |
-| Learn to Play 4 | 0.90% | ~128 |
 | Babylonia | 0.90% | ~128 |
 | Turreted Elephant | 0.90% | ~128 |
 | Clerics | 0.80% | ~114 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,243 (Ranked 133)  
+Progressed: 14,244 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,6 +467,7 @@ Completed: 5 (0.04%) (Ranked 265)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
+| 2023-10-01 | 14,244 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,824 (Ranked 207)  

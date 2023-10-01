@@ -12,9 +12,9 @@
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~88 |
 | Not so hip anymore! | 85.00% | ~88 |
 | Nerd | 85.00% | ~88 |
-| Blurry depth perception | 82.00% | ~85 |
-| Up and down | 79.00% | ~82 |
-| Rolling, Rolling, Rolling | 73.00% | ~76 |
+| Blurry depth perception | 83.00% | ~86 |
+| Up and down | 80.00% | ~83 |
+| Rolling, Rolling, Rolling | 74.00% | ~77 |
 | Fire-fighter! | 67.00% | ~70 |
 | Oh, you're up to no gouda! | 63.00% | ~66 |
 | Meat grinder | 61.00% | ~63 |
@@ -35,7 +35,7 @@
 | You can't stop me, bro! | 34.00% | ~35 |
 | You are no match for me, Billy! | 33.00% | ~34 |
 | Catch the bus with me! | 33.00% | ~34 |
-| Karaoke king | 32.00% | ~33 |
+| Karaoke king | 33.00% | ~34 |
 | Meatballs, coming up! | 30.00% | ~31 |
 | I'm going to get a concussion | 30.00% | ~31 |
 | Another one bites the iron | 29.00% | ~30 |

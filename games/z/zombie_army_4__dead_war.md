@@ -14,8 +14,8 @@ Number of Ratings: 743  (23.09.2022)
 | Cleanup on aisle 4! | 57.00% | ~24,825 |
 | Gold | 50.00% | ~21,776 |
 | The boat can leave now...tell the crew | 49.00% | ~21,341 |
+| Give me something to shoot! | 47.00% | ~20,470 |
 | Stand back boy! | 47.00% | ~20,470 |
-| Give me something to shoot! | 46.00% | ~20,034 |
 | Chain reaction | 45.00% | ~19,599 |
 | Weird science | 44.00% | ~19,163 |
 | What did you say, Blain? | 42.00% | ~18,292 |

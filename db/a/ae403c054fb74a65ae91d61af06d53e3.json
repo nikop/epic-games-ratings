@@ -2,9 +2,9 @@
   "ID": "ae403c054fb74a65ae91d61af06d53e3",
   "Name": "Super Adventure Hand",
   "ProductSlug": "super-adventure-hand-62ec9a",
-  "Ranking_EOS_Progress": 518,
-  "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 25,
+  "EOS_Completed_Percentage": 22.22,
   "EosHistory": [
     {
       "Time": "2023-09-06T00:03:02.9960632+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-09-30T20:04:45.3265206+00:00",
       "NumProgressed": 8,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-01T00:06:01.3205776+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-06T00:03:02.9964561+00:00",
@@ -81,7 +86,7 @@
       "ID": "ach_boss_defeated",
       "SetID": "8787m1a",
       "Name": "De-feet the Boss",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -89,7 +94,7 @@
       "ID": "ach_boss_defeated_nodeath",
       "SetID": "8787m1a",
       "Name": "Flawless Boss De-feet",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -97,15 +102,15 @@
       "ID": "ach_first_watch",
       "SetID": "8787m1a",
       "Name": "Look at the Time",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_flick_count",
       "SetID": "8787m1a",
       "Name": "Sir Flicksalot",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -113,7 +118,7 @@
       "ID": "ach_flick_key",
       "SetID": "8787m1a",
       "Name": "Key Flick",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -121,7 +126,7 @@
       "ID": "ach_flick_littleone",
       "SetID": "8787m1a",
       "Name": "An Embarrassing Mistake",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -129,7 +134,7 @@
       "ID": "ach_levelresult_10",
       "SetID": "8787m1a",
       "Name": "New Hand",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -137,7 +142,7 @@
       "ID": "ach_levelresult_25",
       "SetID": "8787m1a",
       "Name": "Apprentice Hand",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -145,7 +150,7 @@
       "ID": "ach_levelresult_50",
       "SetID": "8787m1a",
       "Name": "Master Hand",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -153,7 +158,7 @@
       "ID": "ach_save_littleone",
       "SetID": "8787m1a",
       "Name": "First Save",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -161,7 +166,7 @@
       "ID": "ach_stun_feet",
       "SetID": "8787m1a",
       "Name": "Take That!",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -169,7 +174,7 @@
       "ID": "ach_thimble_apprentice",
       "SetID": "8787m1a",
       "Name": "Thimble Apprentice",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -177,7 +182,7 @@
       "ID": "ach_thimble_beginner",
       "SetID": "8787m1a",
       "Name": "Thimble Beginner",
-      "Percentage": 75,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -185,7 +190,7 @@
       "ID": "ach_thimble_master",
       "SetID": "8787m1a",
       "Name": "Thimble Master",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -193,7 +198,7 @@
       "ID": "ach_watch_wear",
       "SetID": "8787m1a",
       "Name": "Watch Collector",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 3
     }
@@ -202,14 +207,14 @@
     {
       "ID": "8787m1a",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-09-30T23:05:00.8734221+00:00",
+  "LastChanged_Achievements": "2023-10-01T00:06:01.3205771+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:29.9094674+00:00",
-  "LastUpdate_Ratings": "2023-09-30T23:00:04.2161734+00:00",
-  "LastUpdate_Achievements": "2023-09-30T23:05:00.8734351+00:00"
+  "LastUpdate_Ratings": "2023-10-01T00:01:17.9722921+00:00",
+  "LastUpdate_Achievements": "2023-10-01T00:06:01.3205874+00:00"
 }

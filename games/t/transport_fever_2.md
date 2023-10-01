@@ -48,8 +48,8 @@ Number of Ratings: 180  (23.09.2022)
 | Penny pincher | 10.00% | ~170 |
 | Back to the future | 9.00% | ~153 |
 | Transport belt | 9.00% | ~153 |
+| E.P.E.C. | 6.00% | ~102 |
 | Campaign shark | 5.00% | ~85 |
-| E.P.E.C. | 5.00% | ~85 |
 | Transport shark (Hard mode) | 4.00% | ~68 |
 | Antique | 4.00% | ~68 |
 | Cannot get enough | 4.00% | ~68 |

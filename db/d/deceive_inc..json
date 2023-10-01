@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18212,
+  "EOS_Progressed": 18213,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10946,6 +10946,11 @@
       "Time": "2023-09-30T23:06:52.0309207+00:00",
       "NumProgressed": 18212,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T00:08:35.2653626+00:00",
+      "NumProgressed": 18213,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10957,7 +10962,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "0002",
@@ -11139,9 +11144,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3825
+      "UsersEstimate": 4007
     },
     {
       "ID": "0025",
@@ -11171,9 +11176,9 @@
       "ID": "0028",
       "SetID": "2n2feee",
       "Name": "The Spy who eliminated me",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4189
     },
     {
       "ID": "0029",
@@ -11197,7 +11202,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "0032",
@@ -11221,7 +11226,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "0035",
@@ -11244,7 +11249,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18212,
+      "Progressed": 18213,
       "Completed": 3
     }
   ],
@@ -11252,8 +11257,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-09-30T23:06:52.0309202+00:00",
+  "LastChanged_Achievements": "2023-10-01T00:08:35.2653621+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-09-30T23:00:13.6942876+00:00",
-  "LastUpdate_Achievements": "2023-09-30T23:06:52.0310025+00:00"
+  "LastUpdate_Ratings": "2023-10-01T00:01:30.4830952+00:00",
+  "LastUpdate_Achievements": "2023-10-01T00:08:35.2654323+00:00"
 }

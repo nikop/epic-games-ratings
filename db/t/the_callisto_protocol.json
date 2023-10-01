@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1228,7 +1228,7 @@
   ],
   "EOS_Progressed": 15977,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7213,9 +7213,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -7596,8 +7596,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-30T13:00:05.1662155+00:00",
-  "LastChanged_Achievements": "2023-09-30T23:09:04.2045248+00:00",
+  "LastChanged_Achievements": "2023-10-01T00:09:19.0454843+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:15.2729521+00:00",
-  "LastUpdate_Ratings": "2023-09-30T22:57:47.4666954+00:00",
-  "LastUpdate_Achievements": "2023-09-30T23:09:04.2046091+00:00"
+  "LastUpdate_Ratings": "2023-09-30T23:57:49.6310935+00:00",
+  "LastUpdate_Achievements": "2023-10-01T00:09:19.0455432+00:00"
 }

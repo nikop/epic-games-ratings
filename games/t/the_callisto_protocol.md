@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 888)
 | The Commonality | 2.00% | ~320 |
 | One Last Job | 2.00% | ~78 |
 | This Isn't About Escape | 1.00% | ~39 |
+| Armed to the Teeth | 0.70% | ~27 |
 | Information Overload | 0.70% | ~27 |
-| Armed to the Teeth | 0.60% | ~23 |
 | Grim Reaper | 0.60% | ~96 |
 | Parole Denied | 0.60% | ~23 |
 | Big Spender | 0.60% | ~23 |
