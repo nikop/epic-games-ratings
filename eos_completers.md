@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 67.11% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 66.92% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -42,7 +42,7 @@
 | 40 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.45% |
+| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.43% |
 | 44 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 45 | [Scorn](games/s/scorn.md) | 7.06% |
 | 46 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.30% |
@@ -53,9 +53,9 @@
 | 51 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 52 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
 | 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 54 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.14% |
-| 55 | [JARS](games/j/jars.md) | 5.13% |
-| 56 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
+| 54 | [JARS](games/j/jars.md) | 5.13% |
+| 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
+| 56 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 5.06% |
 | 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
 | 58 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
 | 59 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
@@ -65,10 +65,10 @@
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
-| 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.94% |
+| 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.93% |
 | 67 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 69 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.68% |
+| 69 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
 | 70 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 71 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -91,7 +91,7 @@
 | 89 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
 | 91 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
-| 92 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.59% |
+| 92 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.57% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.48% |
 | 95 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
@@ -101,7 +101,7 @@
 | 97 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 100 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 101 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 101 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.27% |
+| 102 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.25% |
 | 103 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 104 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 104 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.00% |
@@ -209,10 +209,10 @@
 | 207 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 207 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 207 | [Filament](games/f/filament.md) | 0.25% |
+| 210 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.24% |
 | 210 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
-| 211 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 211 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
-| 211 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.23% |
+| 212 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 212 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 214 | [Blanc](games/b/blanc.md) | 0.22% |
 | 214 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 216 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
@@ -231,13 +231,13 @@
 | 229 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 230 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 230 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
-| 232 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 232 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 232 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.12% |
-| 232 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 232 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 232 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 232 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.12% |
+| 230 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.13% |
+| 233 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 233 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 233 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.12% |
+| 233 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 233 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 233 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 239 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 239 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 239 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
