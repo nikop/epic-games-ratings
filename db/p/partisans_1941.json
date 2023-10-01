@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1465,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2935,6 +2935,11 @@
       "Time": "2023-10-01T07:07:54.1328716+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T14:06:49.1860525+00:00",
+      "NumProgressed": 1465,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2944,9 +2949,9 @@
       "ID": "Agent_47",
       "SetID": "85nb4h3",
       "Name": "Agent 47",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 381
     },
     {
       "ID": "Auditor",
@@ -2994,7 +2999,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Defense_Common",
@@ -3018,7 +3023,7 @@
       "Name": "Lock, Stock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "E1M1",
@@ -3026,7 +3031,7 @@
       "Name": "E1M1",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "Everyone_is_here",
@@ -3034,7 +3039,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Experienced_strategist",
@@ -3058,7 +3063,7 @@
       "Name": "Grenadier",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Hard_Serpent",
@@ -3082,7 +3087,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "How",
@@ -3098,7 +3103,7 @@
       "Name": "Spice It Up",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "KillAllM2",
@@ -3128,9 +3133,9 @@
       "ID": "Miner",
       "SetID": "85nb4h3",
       "Name": "Bomberman",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 381
     },
     {
       "ID": "MoskitoBite",
@@ -3138,7 +3143,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "Scout",
@@ -3162,7 +3167,7 @@
       "Name": "War Never Changes",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "We_were_not_here",
@@ -3185,15 +3190,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1465,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:10:18.8749007+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:06:49.186052+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:04.8175411+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:02:34.6423402+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:10:18.8749408+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:00:16.6689698+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:06:49.1860833+00:00"
 }

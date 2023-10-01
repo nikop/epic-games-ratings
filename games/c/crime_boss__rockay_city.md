@@ -6,8 +6,8 @@ Rating: 3.94 (Ranked 975)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First One’s Free | 1.00% | ~886 |
-| Downed but Not Outed | 0.90% | ~797 |
-| Neophyte Ninja | 0.80% | ~709 |
+| Downed but Not Outed | 1.00% | ~886 |
+| Neophyte Ninja | 0.90% | ~797 |
 | Underworld Initiate | 0.70% | ~620 |
 | Too Old for This | 0.70% | ~620 |
 | Fancy Pants | 0.60% | ~532 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 975)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,600 (Ranked 79)  
+Progressed: 88,604 (Ranked 79)  
 Completed: 46 (0.05%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,15 +211,15 @@ Completed: 46 (0.05%) (Ranked 262)
 | 2023-09-28 | 88,457 | 46 |
 | 2023-09-29 | 88,513 | 46 |
 | 2023-09-30 | 88,572 | 46 |
-| 2023-10-01 | 88,600 | 46 |
+| 2023-10-01 | 88,604 | 46 |
 ## Awards
 Max (Diverse Characters): 469  (Ranked 205)  
-Sum: 2,235 (Ranked 194)  
+Sum: 2,239 (Ranked 194)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 469 |
-| This game has Quickly Understood Controls | 455 |
+| This game has Quickly Understood Controls | 459 |
 | This game is Highly Recommended | 443 |
 | This game has Challenging Combat | 438 |
 | This game has Amazing Characters | 430 |
@@ -412,3 +412,4 @@ Diff (max vs sum): 11
 | 2023-09-28 | 3.94 | 466 | 2,222 |
 | 2023-09-29 | 3.94 | 466 | 2,226 |
 | 2023-09-30 | 3.94 | 469 | 2,235 |
+| 2023-10-01 | 3.94 | 469 | 2,239 |

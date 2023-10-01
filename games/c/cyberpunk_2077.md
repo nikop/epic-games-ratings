@@ -6,45 +6,45 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gunslinger | 3.00% | ~26,611 |
-| Ten out of Ten | 3.00% | ~26,611 |
-| Rough Landing | 3.00% | ~26,611 |
-| Full Body Conversion | 2.00% | ~17,741 |
-| Right Back At Ya | 2.00% | ~17,741 |
-| Master Crafter | 2.00% | ~17,741 |
-| Mean Streets | 2.00% | ~17,741 |
-| Breathtaking | 2.00% | ~17,741 |
-| Stanislavski's Method | 2.00% | ~17,741 |
-| The Hermit | 2.00% | ~17,741 |
-| The High Priestess | 2.00% | ~17,741 |
-| The Wheel of Fortune | 2.00% | ~17,741 |
-| The Jungle | 2.00% | ~17,741 |
-| True Soldier | 2.00% | ~17,741 |
-| Two Heads, One Bullet | 2.00% | ~17,741 |
-| V for Vendetta | 2.00% | ~17,741 |
-| To Bad Decisions! | 1.00% | ~8,870 |
-| The Quick and the Dead | 1.00% | ~8,870 |
-| Temperance | 1.00% | ~8,870 |
-| The Fool | 1.00% | ~8,870 |
-| The Lovers | 1.00% | ~8,870 |
-| True Warrior | 1.00% | ~8,870 |
-| Legend of The Afterlife | 1.00% | ~8,870 |
-| Gun Fu | 0.90% | ~7,983 |
-| Christmas Tree Attack | 0.90% | ~7,983 |
-| The Devil | 0.90% | ~7,983 |
-| The World | 0.90% | ~7,983 |
-| It's Elementary | 0.90% | ~7,983 |
-| Judy vs Night City | 0.80% | ~7,096 |
-| City Lights | 0.70% | ~6,209 |
-| Greetings from Pacifica! | 0.70% | ~6,209 |
+| Ten out of Ten | 4.00% | ~35,483 |
+| Gunslinger | 3.00% | ~26,613 |
+| Rough Landing | 3.00% | ~26,613 |
+| Full Body Conversion | 2.00% | ~17,742 |
+| Right Back At Ya | 2.00% | ~17,742 |
+| Master Crafter | 2.00% | ~17,742 |
+| Mean Streets | 2.00% | ~17,742 |
+| Breathtaking | 2.00% | ~17,742 |
+| Stanislavski's Method | 2.00% | ~17,742 |
+| The Hermit | 2.00% | ~17,742 |
+| The High Priestess | 2.00% | ~17,742 |
+| The Wheel of Fortune | 2.00% | ~17,742 |
+| The Jungle | 2.00% | ~17,742 |
+| True Soldier | 2.00% | ~17,742 |
+| Two Heads, One Bullet | 2.00% | ~17,742 |
+| V for Vendetta | 2.00% | ~17,742 |
+| To Bad Decisions! | 1.00% | ~8,871 |
+| The Quick and the Dead | 1.00% | ~8,871 |
+| Temperance | 1.00% | ~8,871 |
+| The Fool | 1.00% | ~8,871 |
+| The Lovers | 1.00% | ~8,871 |
+| True Warrior | 1.00% | ~8,871 |
+| Legend of The Afterlife | 1.00% | ~8,871 |
+| Gun Fu | 0.90% | ~7,984 |
+| Christmas Tree Attack | 0.90% | ~7,984 |
+| The Devil | 0.90% | ~7,984 |
+| The World | 0.90% | ~7,984 |
+| It's Elementary | 0.90% | ~7,984 |
+| Judy vs Night City | 0.80% | ~7,097 |
+| City Lights | 0.70% | ~6,210 |
+| Greetings from Pacifica! | 0.70% | ~6,210 |
 | Life of the Road | 0.50% | ~4,435 |
-| Spin Doctor | 0.50% | ~78 |
+| Spin Doctor | 0.50% | ~79 |
 | Bushido and Chill | 0.40% | ~3,548 |
+| The Wandering Fool | 0.40% | ~3,548 |
 | Autojock | 0.40% | ~3,548 |
 | I Am The Law | 0.40% | ~3,548 |
 | Must Be Rats | 0.40% | ~3,548 |
 | To Protect and Serve | 0.30% | ~2,661 |
-| The Wandering Fool | 0.30% | ~2,661 |
 | Frequent Flyer | 0.30% | ~2,661 |
 | The Sun | 0.30% | ~2,661 |
 | Little Tokyo | 0.20% | ~1,774 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,046 (Ranked 15)  
+Progressed: 887,084 (Ranked 15)  
 Completed: 2,520 (0.28%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,17 +228,17 @@ Completed: 2,520 (0.28%) (Ranked 203)
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
-| 2023-10-01 | 887,046 | 2,520 |
+| 2023-10-01 | 887,084 | 2,520 |
 ## Awards
-Max (Character Customization): 87,369  (Ranked 9)  
-Sum: 247,307 (Ranked 13)  
+Max (Character Customization): 88,536  (Ranked 9)  
+Sum: 248,852 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 87,369 |
+| This game has Inclusive Character Customization | 88,536 |
 | This game has Great Boss Battles | 59,074 |
+| This game has Diverse Characters | 12,319 |
 | This game is Great for Beginners | 12,195 |
-| This game has Diverse Characters | 11,941 |
 | This game is Extremely Fun | 11,783 |
 | This game has Amazing Storytelling | 11,741 |
 | This game is Highly Recommended | 11,707 |
@@ -504,4 +504,4 @@ Diff (max vs sum): -4
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
-| 2023-10-01 | 4.63 | - | 87,369 | 247,307 |
+| 2023-10-01 | 4.63 | - | 88,536 | 248,852 |

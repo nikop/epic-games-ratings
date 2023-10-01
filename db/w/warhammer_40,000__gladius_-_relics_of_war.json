@@ -4,10 +4,10 @@
   "ProductSlug": "warhammer-40000-gladius-relics-of-war",
   "Ranking_Rating": 714,
   "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-11-12T16:00:00+00:00",
@@ -1930,6 +1930,6 @@
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
   "LastChanged": "2023-10-01T02:59:14.8823458+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:28.68875+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:01:56.4528267+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:10:42.7972061+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:59:38.4516975+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:07:12.6038564+00:00"
 }

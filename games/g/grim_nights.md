@@ -13,9 +13,9 @@
 | Slaughter | 24.00% | ~11 |
 | Still alive! | 22.00% | ~10 |
 | Lives lost | 20.00% | ~9 |
-| Slay that one too! | 13.00% | ~6 |
+| Slay that one too! | 15.00% | ~7 |
+| Massive slaughter | 11.00% | ~5 |
 | ... And that one! | 9.00% | ~4 |
-| Massive slaughter | 9.00% | ~4 |
 | You monster! | 7.00% | ~3 |
 | Endurance test! | 4.00% | ~2 |
 | Are you still here? | 0.00% | ~0 |

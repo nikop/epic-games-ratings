@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "ach_boss2",
       "SetID": "c2c0fb6",
       "Name": "Slay that one too!",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_boss3",
@@ -379,9 +379,9 @@
       "ID": "ach_slay2000",
       "SetID": "c2c0fb6",
       "Name": "Massive slaughter",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -396,8 +396,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:06:43.4768973+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:04:24.2180057+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:05.6486423+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:01:36.9861854+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:06:43.4769117+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:59:21.4694731+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:04:24.2180212+00:00"
 }

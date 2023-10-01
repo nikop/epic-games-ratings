@@ -13,8 +13,8 @@
 | Endless Tricks | 71.00% | ~24 |
 | Mind Illuminator | 59.00% | ~20 |
 | Stellar Dismantler | 50.00% | ~17 |
-| Astral Adventurer | 32.00% | ~11 |
-| Star Killer | 32.00% | ~11 |
+| Astral Adventurer | 35.00% | ~12 |
+| Star Killer | 35.00% | ~12 |
 | Anomaly Destroyer | 29.00% | ~10 |
 | Unbeatable | 29.00% | ~10 |
 | Loyal Partner | 26.00% | ~9 |
@@ -38,6 +38,7 @@
 | Astral Seeker | 3.00% | ~1 |
 | Astral Tinkerer | 3.00% | ~1 |
 | Astrarium of Holding | 3.00% | ~1 |
+| Blazing Prince | 3.00% | ~1 |
 | Critical Twist | 3.00% | ~1 |
 | Favored by the Cosmos | 3.00% | ~1 |
 | Plague Doctor | 3.00% | ~1 |
@@ -60,7 +61,6 @@
 | Behenian Hero | 0.00% | ~0 |
 | Behenian Mastery | 0.00% | ~0 |
 | Betting High | 0.00% | ~0 |
-| Blazing Prince | 0.00% | ~0 |
 | Boundless as Ocean | 0.00% | ~0 |
 | Eridanian Champion | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |

@@ -14,8 +14,8 @@
 | Masochistic | 54.00% | ~52 |
 | Soft skin | 51.00% | ~49 |
 | Squid game | 44.00% | ~43 |
+| Rock Solid | 35.00% | ~34 |
 | Sensitive soul | 35.00% | ~34 |
-| Rock Solid | 34.00% | ~33 |
 | Hard Rock | 33.00% | ~32 |
 | The beast within | 32.00% | ~31 |
 | It's getting dark | 32.00% | ~31 |

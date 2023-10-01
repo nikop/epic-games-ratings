@@ -11,7 +11,7 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 52.00% | ~263 |
 | Power Glove | 50.00% | ~253 |
 | Forgotten Memories | 49.00% | ~248 |
-| Cogs in the Machine | 43.00% | ~218 |
+| Cogs in the Machine | 44.00% | ~223 |
 | Mission Success | 27.00% | ~137 |
 | There's No Place Like Home | 25.00% | ~126 |
 | Green Cube Killer | 22.00% | ~111 |
@@ -21,12 +21,12 @@ Number of Ratings: 94  (23.09.2022)
 | The Flawed Teacher | 16.00% | ~81 |
 | To Infinity and Beyond | 6.00% | ~30 |
 | The Truthful Enemy | 6.00% | ~30 |
+| True collector | 0.60% | ~3 |
 | Bronze collector | 0.60% | ~3 |
 | Home Stretch | 0.60% | ~3 |
-| True collector | 0.40% | ~2 |
-| Gold collector | 0.40% | ~2 |
-| Silver collector | 0.40% | ~2 |
-| Get me out of here | 0.40% | ~2 |
+| Gold collector | 0.60% | ~3 |
+| Silver collector | 0.60% | ~3 |
+| Get me out of here | 0.60% | ~3 |
 | Puzzle Master | 0.40% | ~2 |
 | Coming Home | 0.40% | ~2 |
 | King of the Collectables | 0.20% | ~1 |

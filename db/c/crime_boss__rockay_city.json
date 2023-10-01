@@ -3742,10 +3742,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2235,
       "NumberOfAwardsMax": 469
+    },
+    {
+      "Time": "2023-10-01T13:57:00.5351869+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2239,
+      "NumberOfAwardsMax": 469
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2235,
+  "NumberOfAwards": 2239,
   "NumberOfAwardsMax": 469,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3771,7 +3777,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 455
+      "Count": 459
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3798,9 +3804,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88600,
+  "EOS_Progressed": 88604,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20788,6 +20794,11 @@
       "Time": "2023-10-01T13:08:30.8191331+00:00",
       "NumProgressed": 88600,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-01T14:06:12.0899068+00:00",
+      "NumProgressed": 88604,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -20797,9 +20808,9 @@
       "ID": "ACH_0001",
       "SetID": "3kam13l",
       "Name": "Neophyte Ninja",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH_0011",
@@ -20949,9 +20960,9 @@
       "ID": "ACH_0210",
       "SetID": "3kam13l",
       "Name": "Downed but Not Outed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH_0211",
@@ -21126,22 +21137,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88600,
+      "Progressed": 88604,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16947,
+      "Progressed": 16951,
       "Completed": 15537
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-30T15:00:59.7071806+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:08:30.8191326+00:00",
+  "LastChanged": "2023-10-01T13:57:00.5351864+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:06:12.0899064+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-01T12:00:49.3633637+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:08:30.8192788+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:57:00.5351874+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:06:12.0900113+00:00"
 }

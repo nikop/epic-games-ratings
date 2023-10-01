@@ -332,25 +332,25 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 85,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 45,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -364,25 +364,25 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 85,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 55,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -396,9 +396,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 65,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
@@ -410,8 +410,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:08:50.3588193+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:06:31.3622875+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:00:00.8290068+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:08:50.3588302+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:57:42.2260909+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:06:31.3622966+00:00"
 }

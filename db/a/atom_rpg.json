@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -376,7 +376,7 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1261,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
@@ -2731,6 +2731,11 @@
       "Time": "2023-09-30T14:10:37.7161879+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T14:07:03.2904828+00:00",
+      "NumProgressed": 1261,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2798,7 +2803,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "EXPERT_1",
@@ -2838,7 +2843,7 @@
       "Name": "Head Burst",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "INDY_1",
@@ -3029,15 +3034,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1261,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:10:33.6119477+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:07:03.2904824+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.7315963+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:05:12.0885827+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:10:33.6119919+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:00:42.6783965+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:07:03.2905167+00:00"
 }

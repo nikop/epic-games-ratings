@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 506,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2147,9 +2147,9 @@
       "ID": "ACH_DLC1ALLCOLLECTABLES",
       "SetID": "232494e",
       "Name": "True collector",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DLC1BRONZE",
@@ -2171,25 +2171,25 @@
       "ID": "ACH_DLC1GOLD",
       "SetID": "232494e",
       "Name": "Gold collector",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DLC1SILVER",
       "SetID": "232494e",
       "Name": "Silver collector",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DLC1TELEPORTER",
       "SetID": "232494e",
       "Name": "Get me out of here",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DLC2ALLCOLLECTABLES",
@@ -2331,9 +2331,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2363,8 +2363,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:10:19.4978389+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:06:49.6400027+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:00:48.9839642+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:10:19.4978711+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:58:32.5794372+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:06:49.6400287+00:00"
 }

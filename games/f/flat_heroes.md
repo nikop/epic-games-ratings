@@ -9,8 +9,8 @@
 | Snake Eyes | 57.00% | ~295 |
 | Fireball | 45.00% | ~233 |
 | The King of Flat | 40.00% | ~207 |
+| Air Slash | 31.00% | ~161 |
 | Hit That Ball | 31.00% | ~161 |
-| Air Slash | 30.00% | ~155 |
 | Eat That Apple | 23.00% | ~119 |
 | Tornado Chaser | 13.00% | ~67 |
 | Bomberman | 9.00% | ~47 |

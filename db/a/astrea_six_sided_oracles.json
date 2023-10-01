@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AstralSeeker",
@@ -367,9 +367,9 @@
       "ID": "BlazingPrince",
       "SetID": "1jeo1g7",
       "Name": "Blazing Prince",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BoundlessasOcean",
@@ -687,9 +687,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "StellarDismantler",
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:10:20.2503073+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:06:50.4490232+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:01:12.4116324+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:10:20.2503987+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:58:58.8157125+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:06:50.4490975+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -11019,10 +11019,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 28676,
       "NumberOfAwardsMax": 3448
+    },
+    {
+      "Time": "2023-10-01T13:57:35.1700358+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 28687,
+      "NumberOfAwardsMax": 3448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28676,
+  "NumberOfAwards": 28687,
   "NumberOfAwardsMax": 3448,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -11048,7 +11054,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2803
+      "Count": 2814
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11110,8 +11116,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-10-01T02:19:45.1678331+00:00",
+  "LastChanged": "2023-10-01T13:57:35.1700356+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.6517268+00:00",
-  "LastUpdate_Ratings": "2023-10-01T12:59:53.2057623+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:06:54.171168+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:57:35.1700362+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:04:34.9443572+00:00"
 }

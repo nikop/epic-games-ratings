@@ -7,42 +7,42 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 66.00% | ~346 |
-| Cowardice | 60.00% | ~314 |
+| Cowardice | 60.00% | ~315 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~262 |
 | Eat Lead! | 48.00% | ~252 |
-| The Breaking Point | 46.00% | ~241 |
+| The Breaking Point | 46.00% | ~242 |
 | Here Comes the Boom | 44.00% | ~231 |
-| Prospector | 43.00% | ~225 |
-| Treasure Hunter | 40.00% | ~210 |
+| Prospector | 43.00% | ~226 |
+| Treasure Hunter | 41.00% | ~215 |
 | The Motivation | 40.00% | ~210 |
 | Sniper Wolf | 40.00% | ~210 |
-| Heroism | 38.00% | ~199 |
+| Heroism | 38.00% | ~200 |
 | Missing in Action | 36.00% | ~189 |
 | Collectibles of Chapter I | 34.00% | ~178 |
 | Consequences | 34.00% | ~178 |
 | King of Knives | 33.00% | ~173 |
 | Opportunities | 32.00% | ~168 |
-| The Horror | 30.00% | ~157 |
-| The Difference | 27.00% | ~141 |
+| The Horror | 30.00% | ~158 |
+| The Difference | 27.00% | ~142 |
 | Vengeance | 26.00% | ~136 |
 | Collectibles of Chapter II | 23.00% | ~121 |
 | Broken Hopes | 23.00% | ~121 |
-| It's Just an Accident | 23.00% | ~121 |
-| Bullseye! | 23.00% | ~121 |
+| It's Just an Accident | 22.00% | ~116 |
+| Bullseye! | 22.00% | ~116 |
 | Sorrow | 20.00% | ~105 |
 | Food Massacre | 19.00% | ~100 |
 | Atonement | 18.00% | ~94 |
 | Helping Hand | 16.00% | ~84 |
 | Without a Second Thought | 16.00% | ~84 |
 | Collectibles of Chapter III | 15.00% | ~79 |
-| Collectibles of Chapter IV | 15.00% | ~79 |
-| Collectibles of Chapter V | 10.00% | ~52 |
+| Collectibles of Chapter IV | 14.00% | ~74 |
+| Collectibles of Chapter V | 11.00% | ~58 |
 | Such is War! | 9.00% | ~47 |
 | Tiptoe Around | 9.00% | ~47 |
 | Collectibles of Chapter XII | 7.00% | ~37 |
 | Piece of Cake | 7.00% | ~37 |
-| Collectibles of Chapter VII | 6.00% | ~31 |
-| Not Spill a Drop | 6.00% | ~31 |
+| Collectibles of Chapter VII | 6.00% | ~32 |
+| Not Spill a Drop | 6.00% | ~32 |
 | Collectibles of Chapter VIII | 5.00% | ~26 |
 | The Good Samaritan | 5.00% | ~26 |
 | It Will Rain | 5.00% | ~26 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524 (Ranked 264)  
+Progressed: 525 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 517 | 0 |
 | 2023-09-29 | 519 | 0 |
 | 2023-09-30 | 521 | 0 |
-| 2023-10-01 | 524 | 0 |
+| 2023-10-01 | 525 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
 | Land of the Rising Sun | 99.00% | ~85 |
 | Hidden History | 81.00% | ~70 |
 | Budding Conjuror | 76.00% | ~65 |
-| Commencing of Quests | 72.00% | ~62 |
+| Commencing of Quests | 73.00% | ~63 |
 | Man-Machine Master | 64.00% | ~55 |
 | Mountain Splitter | 64.00% | ~55 |
 | Charmed by the Hunt | 64.00% | ~55 |
@@ -18,7 +18,7 @@
 | Kemono Hunter | 56.00% | ~48 |
 | Distance Devourer | 51.00% | ~44 |
 | Helpful Heart | 51.00% | ~44 |
-| Expert Conjuror | 50.00% | ~43 |
+| Expert Conjuror | 51.00% | ~44 |
 | Flawless Crystal | 49.00% | ~42 |
 | Bonds of Enmity | 44.00% | ~38 |
 | Counter Specialist | 42.00% | ~36 |

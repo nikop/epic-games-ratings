@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14259,
+  "EOS_Progressed": 14260,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12694,6 +12694,11 @@
       "Time": "2023-10-01T12:06:02.1720856+00:00",
       "NumProgressed": 14259,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-01T14:05:53.0418002+00:00",
+      "NumProgressed": 14260,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -12759,9 +12764,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -13095,9 +13100,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -13183,9 +13188,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -13527,9 +13532,9 @@
       "ID": "ACHIEVEMENT_EVENTLEVEL_HIGH",
       "SetID": "9201eeb",
       "Name": "Event Level High",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
@@ -13583,9 +13588,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -14063,9 +14068,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -14311,9 +14316,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -14343,9 +14348,9 @@
       "ID": "ACHIEVEMENT_NATION_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hatti",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -14743,9 +14748,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -14783,9 +14788,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -14799,9 +14804,9 @@
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Turreted Elephant",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -14879,9 +14884,9 @@
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
       "SetID": "9201eeb",
       "Name": "Randomized Families",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
@@ -14975,9 +14980,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -15440,21 +15445,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14259,
+      "Progressed": 14260,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14259,
+      "Progressed": 14260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T10:58:32.0066773+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:08:11.8026294+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:05:53.0417999+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:00:20.5072047+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:08:11.8039373+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:58:02.9120428+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:05:53.0428123+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 221,
   "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 165,
@@ -902,10 +902,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 474,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-10-01T13:59:58.2581548+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 510,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 474,
+  "NumberOfAwards": 510,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -977,9 +983,9 @@
     },
     {
       "Text": "This game is Educational",
-      "Prefix": "",
-      "Type": "",
-      "Count": 22
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 36
     }
   ],
   "EOS_Progressed": 2984,
@@ -5537,9 +5543,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-09-28T17:59:28.29898+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:07:59.8964839+00:00",
+  "LastChanged": "2023-10-01T13:59:58.2581546+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:05:41.2560238+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.4747001+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:02:16.9088536+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:07:59.8965525+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:59:58.2581551+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:05:41.256077+00:00"
 }

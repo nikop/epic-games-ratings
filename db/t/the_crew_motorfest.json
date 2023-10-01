@@ -2,12 +2,12 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 281,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -694,6 +694,6 @@
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
   "LastChanged": "2023-10-01T10:59:21.2599875+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:27.984683+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:00:53.2373165+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:06:25.8158105+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:58:36.1102845+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:04:06.5299716+00:00"
 }

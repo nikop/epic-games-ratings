@@ -382,9 +382,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 40909,
+  "EOS_Progressed": 40921,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 881,
+  "EOS_NewPlayers": 893,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9357,6 +9357,11 @@
       "Time": "2023-10-01T13:07:08.9214278+00:00",
       "NumProgressed": 40909,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T14:04:50.70843+00:00",
+      "NumProgressed": 40921,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9384,7 +9389,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -9400,7 +9405,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9416,7 +9421,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9424,7 +9429,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9432,7 +9437,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -9504,7 +9509,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CRAFT_ALL",
@@ -9528,7 +9533,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9544,7 +9549,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "JUSTCOUNTER",
@@ -9576,7 +9581,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "LOCATION_TEN",
@@ -9584,7 +9589,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9624,7 +9629,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "MAGIC_IVY",
@@ -9672,7 +9677,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "PARKOUR_TIME",
@@ -9704,7 +9709,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "SPRING_ALL",
@@ -9791,22 +9796,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 40909,
+      "Progressed": 40921,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5746,
-      "Completed": 5746
+      "Progressed": 5758,
+      "Completed": 5758
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-18T16:58:40.0432178+00:00",
-  "LastChanged_Achievements": "2023-10-01T13:07:08.9214274+00:00",
+  "LastChanged_Achievements": "2023-10-01T14:04:50.7084296+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:01:33.8979707+00:00",
-  "LastUpdate_Achievements": "2023-10-01T13:07:08.9215308+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:59:19.1124382+00:00",
+  "LastUpdate_Achievements": "2023-10-01T14:04:50.7085091+00:00"
 }

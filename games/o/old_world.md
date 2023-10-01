@@ -7,6 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Regicide | 0.10% | ~14 |
+| Bad Heir Day | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |
 | Ishtar Gate in Babylon | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
@@ -16,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 0.10% | ~14 |
 | Drillmaster | 0.10% | ~14 |
 | Brilliant | 0.10% | ~14 |
+| Capable | 0.10% | ~14 |
 | Conqueror | 0.10% | ~14 |
 | Devout | 0.10% | ~14 |
 | Enlightened | 0.10% | ~14 |
@@ -25,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.10% | ~14 |
 | Great | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
+| Intercessor | 0.10% | ~14 |
 | Intrepid | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
 | Just | 0.10% | ~14 |
@@ -50,11 +53,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.10% | ~14 |
 | Just Difficulty | 0.10% | ~14 |
 | Magnificent Difficulty | 0.10% | ~14 |
+| Event Level High | 0.10% | ~14 |
 | Artisans | 0.10% | ~14 |
 | Champions | 0.10% | ~14 |
 | Clerics | 0.10% | ~14 |
 | Landowners | 0.10% | ~14 |
 | Patrons | 0.10% | ~14 |
+| Riders | 0.10% | ~14 |
 | Sages | 0.10% | ~14 |
 | Statesmen | 0.10% | ~14 |
 | Traders | 0.10% | ~14 |
@@ -65,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.10% | ~14 |
 | Colossus | 0.10% | ~14 |
 | Great Ziggurat | 0.10% | ~14 |
+| Hagia Sophia | 0.10% | ~14 |
 | Hanging Gardens | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
 | Temple of Solomon | 0.10% | ~14 |
@@ -82,8 +88,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
 | Assyria | 0.10% | ~14 |
+| Babylonia | 0.10% | ~14 |
 | Carthage | 0.10% | ~14 |
 | Egypt | 0.10% | ~14 |
+| Hatti | 0.10% | ~14 |
 | Rome | 0.10% | ~14 |
 | Old World Order | 0.10% | ~14 |
 | One True Faith | 0.10% | ~14 |
@@ -116,22 +124,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.10% | ~14 |
 | Revelation | 0.10% | ~14 |
 | Trade Caravan | 0.10% | ~14 |
+| Cataphract Archer | 0.10% | ~14 |
 | Cimmerian Archer | 0.10% | ~14 |
 | Mounted Lancer | 0.10% | ~14 |
 | Legionary | 0.10% | ~14 |
+| Phalangite | 0.10% | ~14 |
 | Siege Tower | 0.10% | ~14 |
+| Turreted Elephant | 0.10% | ~14 |
 | All Nations | 0.10% | ~14 |
 | Ambition Victory | 0.10% | ~14 |
 | Conquest Victory | 0.10% | ~14 |
 | Double Victory | 0.10% | ~14 |
 | Points Victory | 0.10% | ~14 |
+| Randomized Families | 0.10% | ~14 |
+| Win a Single Player Game | 0.10% | ~14 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Lighthouse in Alexandria | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
-| Bad Heir Day | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
@@ -164,9 +176,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Beloved | 0.00% | ~0 |
-| Capable | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
-| Intercessor | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
@@ -184,9 +194,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
-| Event Level High | 0.00% | ~0 |
 | Hunters | 0.00% | ~0 |
-| Riders | 0.00% | ~0 |
 | Furious Family | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
@@ -236,7 +244,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Hittite Iron | 0.00% | ~0 |
-| Hagia Sophia | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
@@ -250,9 +257,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Babylonia | 0.00% | ~0 |
 | Greece | 0.00% | ~0 |
-| Hatti | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Pantheon of Gods | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
@@ -270,15 +275,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
-| Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
-| Phalangite | 0.00% | ~0 |
-| Turreted Elephant | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | No Undo | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
-| Randomized Families | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
@@ -290,7 +291,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Network Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
-| Win a Single Player Game | 0.00% | ~0 |
 | The Clergy | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.00% | ~0 |
 | Beja Archer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,259 (Ranked 133)  
+Progressed: 14,260 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 267)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,259 | 5 |
+| 2023-10-01 | 14,260 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,825 (Ranked 207)  
