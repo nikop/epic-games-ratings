@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 68.80% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 68.70% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.71% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -54,7 +54,7 @@
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 53 | [JARS](games/j/jars.md) | 5.13% |
 | 54 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
-| 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.06% |
+| 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
 | 56 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 57 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 58 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
@@ -64,10 +64,10 @@
 | 62 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 63 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
 | 64 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 4.00% |
-| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.92% |
+| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.91% |
 | 66 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 67 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 68 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.68% |
+| 68 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.69% |
 | 69 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 70 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -131,9 +131,9 @@
 | 129 | [Trifox](games/t/trifox.md) | 1.09% |
 | 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 131 | [Adios](games/a/adios.md) | 1.04% |
+| 132 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
 | 132 | [Sable](games/s/sable.md) | 1.01% |
-| 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
-| 133 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
+| 134 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
 | 135 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.99% |
 | 135 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 137 | [A Musical Story](games/a/a_musical_story.md) | 0.97% |
@@ -178,9 +178,9 @@
 | 175 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 177 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 177 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 177 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
 | 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 180 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 180 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
+| 181 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 182 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 182 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 182 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
@@ -234,10 +234,10 @@
 | 229 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 229 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 229 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 235 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 235 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 235 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
-| 235 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.11% |
+| 229 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.12% |
+| 236 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 236 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 236 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
 | 239 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 239 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 239 | [House Flipper](games/h/house_flipper.md) | 0.10% |
