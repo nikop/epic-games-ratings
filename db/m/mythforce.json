@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -725,9 +725,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3530,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6190,6 +6190,11 @@
       "Time": "2023-10-01T00:08:15.5878325+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-01T01:56:56.325487+00:00",
+      "NumProgressed": 3530,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6242,7 +6247,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -6258,7 +6263,7 @@
       "Name": "First Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -6298,7 +6303,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -6360,9 +6365,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 459
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -6385,15 +6390,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3530,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-30T22:00:05.9575238+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:08:15.587832+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:56:56.325486+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:04.2024158+00:00",
-  "LastUpdate_Ratings": "2023-09-30T23:59:46.883335+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:08:15.5878712+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:49:22.3120235+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:56:56.3255318+00:00"
 }

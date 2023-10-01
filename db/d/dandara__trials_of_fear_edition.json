@@ -3,11 +3,11 @@
   "Name": "Dandara: Trials of Fear Edition",
   "ProductSlug": "dandara",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 460,
+  "Ranking_Popularity": 407,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-28T16:00:00+00:00",
@@ -363,18 +363,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 50,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-10-01T01:50:05.5117353+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 51,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 50
+      "Count": 51
     }
   ],
   "EOS_Progressed": 0,
@@ -388,8 +394,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
-  "LastChanged": "2023-09-18T10:59:18.3868218+00:00",
+  "LastChanged": "2023-10-01T01:50:05.5117351+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:29.3389172+00:00",
-  "LastUpdate_Ratings": "2023-10-01T00:00:52.3423193+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:03:44.030864+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:50:05.5117357+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:53:42.6447818+00:00"
 }

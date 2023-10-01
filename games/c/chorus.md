@@ -31,7 +31,7 @@ Number of Ratings: 58  (23.09.2022)
 | Set in Motion | 38.00% | ~467 |
 | In the Eye of the Storm | 37.00% | ~455 |
 | The Crimson Void | 34.00% | ~418 |
-| The Nameless Dread | 33.00% | ~406 |
+| The Nameless Dread | 34.00% | ~418 |
 | Time to Spear | 31.00% | ~381 |
 | Mastery of Weapons | 30.00% | ~369 |
 | Disciple | 30.00% | ~369 |

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 83.00% | ~76 |
-| Gear Up | 71.00% | ~65 |
-| A Grand Show | 71.00% | ~65 |
-| Freshen Up | 60.00% | ~55 |
-| GG EZ | 59.00% | ~54 |
-| Hydrophobia | 45.00% | ~41 |
-| Ka-Ching! | 36.00% | ~33 |
-| Stop Right There | 32.00% | ~29 |
+| Iceberg Theory | 82.00% | ~76 |
+| Gear Up | 70.00% | ~65 |
+| A Grand Show | 70.00% | ~65 |
+| Freshen Up | 59.00% | ~55 |
+| GG EZ | 58.00% | ~54 |
+| Hydrophobia | 44.00% | ~41 |
+| Ka-Ching! | 35.00% | ~33 |
+| Stop Right There | 31.00% | ~29 |
 | Get to the Point | 29.00% | ~27 |
 | Mr. Want It All | 18.00% | ~17 |
 | The Hidden Secret | 16.00% | ~15 |
@@ -24,12 +24,12 @@
 | Keep it Up, rookie! | 9.00% | ~8 |
 | he Ultra Fortress Conqueror | 8.00% | ~7 |
 | Antaeus | 8.00% | ~7 |
-| The Deep Frozen Conqueror | 7.00% | ~6 |
-| The Infinite Train Conqueror | 7.00% | ~6 |
-| The Paradox Coordinate Conqueror | 7.00% | ~6 |
-| The Hypergravitational Abyss Conqueror | 7.00% | ~6 |
-| Hell of a Fight | 7.00% | ~6 |
-| Decapitation Strike | 7.00% | ~6 |
+| The Deep Frozen Conqueror | 6.00% | ~6 |
+| The Infinite Train Conqueror | 6.00% | ~6 |
+| The Paradox Coordinate Conqueror | 6.00% | ~6 |
+| The Hypergravitational Abyss Conqueror | 6.00% | ~6 |
+| Hell of a Fight | 6.00% | ~6 |
+| Decapitation Strike | 6.00% | ~6 |
 | The Sunken City Conqueror | 5.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 5.00% | ~5 |
 | The Inactivated Frozen Conqueror | 5.00% | ~5 |
@@ -55,7 +55,7 @@
 | Flawless | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 389)  
+Progressed: 93 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-23 | 89 | 0 |
 | 2023-09-24 | 90 | 0 |
 | 2023-09-30 | 92 | 0 |
+| 2023-10-01 | 93 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

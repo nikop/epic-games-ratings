@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -2116,6 +2116,11 @@
       "Time": "2023-09-30T12:03:53.9395505+00:00",
       "NumProgressed": 470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T01:53:47.241151+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -2165,9 +2170,9 @@
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 202
+      "UsersEstimate": 207
     },
     {
       "ID": "tea_100",
@@ -2183,21 +2188,21 @@
       "Name": "Tea Master",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:03:50.1170447+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:53:47.2411499+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:11.9921148+00:00",
-  "LastUpdate_Ratings": "2023-09-30T23:59:56.2535335+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:03:50.1170613+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:49:28.6168227+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:53:47.2411742+00:00"
 }

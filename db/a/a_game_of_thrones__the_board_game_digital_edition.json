@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25125,
+  "EOS_Progressed": 25127,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18825,6 +18825,11 @@
       "Time": "2023-09-30T23:08:22.2566539+00:00",
       "NumProgressed": 25125,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-01T01:58:29.6539197+00:00",
+      "NumProgressed": 25127,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 22,
@@ -18916,7 +18921,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "1026",
@@ -18940,7 +18945,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4523
     },
     {
       "ID": "1029",
@@ -18972,7 +18977,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10050
+      "UsersEstimate": 10051
     },
     {
       "ID": "1033",
@@ -18996,7 +19001,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "1036",
@@ -19011,15 +19016,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25125,
+      "Progressed": 25127,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:09:02.4788767+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:58:29.653919+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:05.1234295+00:00",
-  "LastUpdate_Ratings": "2023-09-30T23:57:27.3425588+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:09:02.4789695+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:47:43.0099023+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:58:29.6540415+00:00"
 }

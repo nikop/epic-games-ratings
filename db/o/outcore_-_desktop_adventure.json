@@ -4,7 +4,7 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "Creepy1",
       "SetID": "7ejh407",
       "Name": "H\u0334\u0344\u0358\u034A\u0344\u0341\u0303\u0344\u034A\u0302\u030F\u0305\u0344\u0306\u034A\u035B\u034B\u0360\u0303\u030D\u030A\u0313\u035B\u0314\u0306\u035DE\u0335\u031A\u0344\u030A\u034B\u0358\u0344\u0314\u030D\u0351\u0304\u031B\u0305\u0315\u0341\u0314\u035B\u0343\u0358\u033D\u030A\u0312\u0313\u0358\u031B\u0301\u035B\u0340\u0300\u0357\u035D\u0344\u0341\u0303\u0344\u0344\u0304\u0314\u0315\u0343\u0350\u0346\u0340\u0344\u0304\u0301\u0347\u0322\u032A\u031F\u0353\u031D\u033C\u0355\u031E\u0354\u033B\u034E\u0320\u0354\u0324\u0325\u033A\u0339\u0331\u033C\u0322\u032A\u0327\u033A\u032A\u0345\u033A\u0330\u0331L\u0338\u0360\u0340P\u0335\u0301\u030E\u0304\u033D\u031B\u0344\u0341\u034A\u0305\u035B\u0304 \u0336\u0303M\u0336\u030D\u030C\u034A\u0300\u0313\u0304\u030B\u034B\u0302\u034C\u030F\u0344\u033E\u035D\u0346\u030C\u0344\u0306\u0344\u035D\u0310\u0360\u033F\u0343\u0350\u0360\u033C\u032A\u031E\u0348\u032F\u032C\u0356\u0328\u0356\u034E\u031E\u034E\u033B\u0327\u0325E\u0335\u0352\u0313\u034A\u0358\u034B\u0304",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Creepy2",
@@ -177,9 +177,9 @@
       "ID": "FairyTest",
       "SetID": "7ejh407",
       "Name": "Pure hearted",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoodBoy",
@@ -297,9 +297,9 @@
       "ID": "TooGoodForThisRacingMiniGame",
       "SetID": "7ejh407",
       "Name": "Too good for this racing mini-game",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TutorialMaster",
@@ -320,8 +320,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:05:57.365765+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:55:14.1314762+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:18.1822063+00:00",
-  "LastUpdate_Ratings": "2023-10-01T00:01:21.866231+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:05:57.3657815+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:50:26.0235864+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:55:14.1314974+00:00"
 }

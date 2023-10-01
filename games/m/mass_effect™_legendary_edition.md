@@ -47,13 +47,13 @@
 | Ghost Ship | 32.00% | ~160 |
 | Broke, Blind, and Bedlam | 32.00% | ~160 |
 | The Quarian | 31.00% | ~155 |
+| A Personal Touch | 30.00% | ~150 |
 | The Assassin | 30.00% | ~150 |
 | The Justicar | 30.00% | ~150 |
 | Battlemaster | 30.00% | ~150 |
 | The Cure | 30.00% | ~150 |
 | The Prodigal | 30.00% | ~150 |
 | Shopaholic | 30.00% | ~150 |
-| A Personal Touch | 29.00% | ~145 |
 | Ghost of the Father | 29.00% | ~145 |
 | Big Game Hunter | 29.00% | ~145 |
 | Agent | 29.00% | ~145 |
@@ -104,9 +104,9 @@
 | Mail Slot | 13.00% | ~65 |
 | Master and Commander | 13.00% | ~65 |
 | Warp Mastery | 12.00% | ~60 |
+| Executioner | 12.00% | ~60 |
 | Barrier Mastery | 11.00% | ~55 |
 | Combined Arms | 11.00% | ~55 |
-| Executioner | 11.00% | ~55 |
 | Long Service Medal | 10.00% | ~50 |
 | Bruiser | 10.00% | ~50 |
 | Lift Mastery | 10.00% | ~50 |

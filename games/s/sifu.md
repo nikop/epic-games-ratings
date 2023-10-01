@@ -18,6 +18,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Lady's Blood in the Snow | 0.20% | ~1,431 |
 | Lady Wing Chun | 0.20% | ~1,431 |
 | Furious Fists | 0.20% | ~1,431 |
+| Scareless | 0.20% | ~1,431 |
 | Kill Nil | 0.20% | ~1,431 |
 | Stuntmaster | 0.20% | ~1,431 |
 | Street Fighting | 0.20% | ~1,431 |
@@ -37,7 +38,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.10% | ~715 |
 | Iron Money | 0.10% | ~715 |
 | Legendary Talismans of Wuxing | 0.10% | ~715 |
-| Scareless | 0.10% | ~715 |
 | Prodigal Child | 0.10% | ~715 |
 | Detective Story | 0.10% | ~715 |
 | Drunken Fighter | 0.10% | ~715 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,409 (Ranked 20)  
-Completed: 12,904 (1.80%) (Ranked 109)  
+Progressed: 715,412 (Ranked 20)  
+Completed: 12,905 (1.80%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,6 +231,7 @@ Completed: 12,904 (1.80%) (Ranked 109)
 | 2023-09-28 | 715,362 | 12,904 |
 | 2023-09-29 | 715,380 | 12,904 |
 | 2023-09-30 | 715,409 | 12,904 |
+| 2023-10-01 | 715,412 | 12,905 |
 ## Awards
 Max (Great Boss Battles): 6,615  (Ranked 54)  
 Sum: 11,448 (Ranked 82)  

@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,665 |
-| Hotel California | 3.00% | ~20,665 |
-| Welcome To Hell-A | 3.00% | ~20,665 |
+| Break A Leg | 3.00% | ~20,666 |
+| Hotel California | 3.00% | ~20,666 |
+| Welcome To Hell-A | 3.00% | ~20,666 |
 | Dr. Reed, I Presume? | 2.00% | ~13,777 |
 | Git Gutte! | 2.00% | ~13,777 |
 | Bookworm | 2.00% | ~13,777 |
@@ -27,14 +27,14 @@ Rating: 4.54 (Ranked 511)
 | Personal Assistant Personally Assisted | 2.00% | ~13,777 |
 | Our True Nature | 2.00% | ~13,777 |
 | This is My Weapon | 2.00% | ~13,777 |
-| Making Your Mark | 1.00% | ~6,888 |
-| Anger Management | 1.00% | ~6,888 |
-| Perks of the Job | 1.00% | ~6,888 |
-| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,888 |
-| Humanity Distilled | 1.00% | ~6,888 |
-| Down with the Sickness | 1.00% | ~6,888 |
-| Max Headroom | 1.00% | ~6,888 |
-| Go, Bobcats! | 0.90% | ~6,199 |
+| Making Your Mark | 1.00% | ~6,889 |
+| Anger Management | 1.00% | ~6,889 |
+| Perks of the Job | 1.00% | ~6,889 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,889 |
+| Humanity Distilled | 1.00% | ~6,889 |
+| Down with the Sickness | 1.00% | ~6,889 |
+| Max Headroom | 1.00% | ~6,889 |
+| Go, Bobcats! | 0.90% | ~6,200 |
 | Jumbo Keyring | 0.80% | ~5,511 |
 | Rising Star | 0.80% | ~5,511 |
 | Smorgasbord | 0.70% | ~4,822 |
@@ -45,14 +45,14 @@ Rating: 4.54 (Ranked 511)
 | Variety is the Spice of Death | 0.50% | ~3,444 |
 | LA Influential | 0.40% | ~2,755 |
 | Gore Horse | 0.40% | ~2,755 |
-| Sole Survivor | 0.30% | ~2,066 |
-| Sharpest Tool in the Box | 0.30% | ~2,066 |
-| Survival Skills | 0.30% | ~2,066 |
+| Sole Survivor | 0.30% | ~2,067 |
+| Sharpest Tool in the Box | 0.30% | ~2,067 |
+| Survival Skills | 0.30% | ~2,067 |
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,831 (Ranked 22)  
-Completed: 2,180 (0.32%) (Ranked 192)  
+Progressed: 688,852 (Ranked 22)  
+Completed: 2,180 (0.32%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,14 +215,14 @@ Completed: 2,180 (0.32%) (Ranked 192)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 688,831 | 2,180 |
+| 2023-10-01 | 688,852 | 2,180 |
 ## Awards
-Max (Great Boss Battles): 6,253  (Ranked 58)  
-Sum: 9,326 (Ranked 91)  
+Max (Great Boss Battles): 6,270  (Ranked 58)  
+Sum: 9,343 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,253 |
+| This game has Great Boss Battles | 6,270 |
 | This game is Great for Beginners | 437 |
 | This game has Diverse Characters | 431 |
 | This game has Quickly Understood Controls | 413 |
@@ -397,3 +397,4 @@ Diff (max vs sum): -33
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
+| 2023-10-01 | 4.54 | 6,270 | 9,343 |

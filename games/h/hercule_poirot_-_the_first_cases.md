@@ -47,8 +47,8 @@ Rating: 4.35 (Ranked 767)
 | What Else Did I Miss? | 18.00% | ~78 |
 | I Like an Audience | 18.00% | ~78 |
 | The Denouement | 17.00% | ~74 |
+| Take a Break | 12.00% | ~52 |
 | Probably the Greatest Detective in the World | 12.00% | ~52 |
-| Take a Break | 11.00% | ~48 |
 | Room with a View | 7.00% | ~30 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)

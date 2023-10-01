@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 5801,
+  "EOS_Progressed": 5818,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4752,6 +4752,11 @@
       "Time": "2023-10-01T00:04:58.5841715+00:00",
       "NumProgressed": 5801,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-01T01:54:30.5506788+00:00",
+      "NumProgressed": 5818,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4764,7 +4769,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 582
     },
     {
       "ID": "a_10",
@@ -4796,7 +4801,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "a_16",
@@ -4812,7 +4817,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2153
     },
     {
       "ID": "a_19",
@@ -4820,7 +4825,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "a_2",
@@ -4828,7 +4833,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "a_20",
@@ -4836,7 +4841,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "a_21",
@@ -4844,7 +4849,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "a_22",
@@ -4852,7 +4857,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "a_23",
@@ -4860,7 +4865,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "a_25",
@@ -4868,7 +4873,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "a_26",
@@ -4884,7 +4889,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "a_28",
@@ -4900,7 +4905,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "a_30",
@@ -4996,7 +5001,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "a_9",
@@ -5011,7 +5016,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 5801,
+      "Progressed": 5818,
       "Completed": 7
     }
   ],
@@ -5019,8 +5024,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:04:58.584171+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:54:30.550678+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-09-30T23:58:38.9718699+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:04:58.5842073+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:48:32.322088+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:54:30.5507239+00:00"
 }

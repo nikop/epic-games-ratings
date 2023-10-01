@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -8596,10 +8596,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 31303,
       "NumberOfAwardsMax": 5585
+    },
+    {
+      "Time": "2023-10-01T01:53:10.0981099+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 31373,
+      "NumberOfAwardsMax": 5585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31303,
+  "NumberOfAwards": 31373,
   "NumberOfAwardsMax": 5585,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8613,7 +8619,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4259
+      "Count": 4286
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8631,7 +8637,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3034
+      "Count": 3059
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8661,7 +8667,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2620
+      "Count": 2638
     },
     {
       "Text": "This game is Relaxing",
@@ -8694,8 +8700,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-09-30T21:03:15.5880921+00:00",
+  "LastChanged": "2023-10-01T01:53:10.0981098+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.3048532+00:00",
-  "LastUpdate_Ratings": "2023-10-01T00:02:19.6308635+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:06:21.6299189+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:53:10.0981107+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:55:31.8067727+00:00"
 }

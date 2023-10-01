@@ -13,8 +13,8 @@
 | Don't Cry Wolf | 26.00% | ~23 |
 | Freezing Cold | 20.00% | ~17 |
 | Expert | 18.00% | ~16 |
+| Searing Heat | 16.00% | ~14 |
 | Nothing but the Truth | 16.00% | ~14 |
-| Searing Heat | 15.00% | ~13 |
 | The Golden Flash | 14.00% | ~12 |
 | The Power of the Mountains | 14.00% | ~12 |
 | Changing the World | 11.00% | ~10 |
@@ -32,12 +32,12 @@
 | Ancient Powers | 6.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
+| Unveiling the Truth | 5.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wayseeker | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
 | The End | 3.00% | ~3 |
-| Unveiling the Truth | 3.00% | ~3 |
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |
 | Knowledge is King | 2.00% | ~2 |

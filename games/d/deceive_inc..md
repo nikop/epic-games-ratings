@@ -9,9 +9,9 @@ Rating: 4.56 (Ranked 473)
 | The Spy who eliminated me | 23.00% | ~4,189 |
 | Mainframe Hacker | 22.00% | ~4,007 |
 | Tomorrow Never Dyes | 22.00% | ~4,007 |
-| From the Vault with Love | 18.00% | ~3,278 |
-| Never Say Loser Again | 18.00% | ~3,278 |
-| For your Eyes only | 18.00% | ~3,278 |
+| From the Vault with Love | 18.00% | ~3,279 |
+| Never Say Loser Again | 18.00% | ~3,279 |
+| For your Eyes only | 18.00% | ~3,279 |
 | Assistant Accountant | 17.00% | ~3,096 |
 | Tailor-Made | 17.00% | ~3,096 |
 | You Only Live Twice | 16.00% | ~2,914 |
@@ -19,10 +19,10 @@ Rating: 4.56 (Ranked 473)
 | A view to Win | 13.00% | ~2,368 |
 | Private Collection | 12.00% | ~2,186 |
 | Smells Like Trouble | 12.00% | ~2,186 |
-| The Living Portrait | 11.00% | ~2,003 |
-| My Motto, My Creed | 11.00% | ~2,003 |
-| Killer Looks | 11.00% | ~2,003 |
-| Hostile Takeover | 11.00% | ~2,003 |
+| The Living Portrait | 11.00% | ~2,004 |
+| My Motto, My Creed | 11.00% | ~2,004 |
+| Killer Looks | 11.00% | ~2,004 |
+| Hostile Takeover | 11.00% | ~2,004 |
 | Keycards Royale | 10.00% | ~1,821 |
 | Dr. No Kill | 10.00% | ~1,821 |
 | In It to Win It | 9.00% | ~1,639 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 473)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,213 (Ranked 125)  
+Progressed: 18,214 (Ranked 125)  
 Completed: 3 (0.02%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 3 (0.02%) (Ranked 275)
 | 2023-09-28 | 18,180 | 3 |
 | 2023-09-29 | 18,191 | 3 |
 | 2023-09-30 | 18,212 | 3 |
-| 2023-10-01 | 18,213 | 3 |
+| 2023-10-01 | 18,214 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

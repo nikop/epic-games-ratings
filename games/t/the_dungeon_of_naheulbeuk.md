@@ -6,26 +6,26 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,897 |
-| Alt+F4 | 6.00% | ~13,668 |
-| Where's that freaking Dwarf? | 5.00% | ~11,390 |
-| Déjà vu | 4.00% | ~9,112 |
-| A beer, two curses, three companions | 3.00% | ~6,834 |
-| Sock! SOCK! | 3.00% | ~6,834 |
-| GG EZ | 3.00% | ~6,834 |
-| DM intervention | 3.00% | ~6,834 |
-| Speedrun | 3.00% | ~6,834 |
-| Fireproof Wizardess | 3.00% | ~6,834 |
-| Livin' in a dwarven paradise | 2.00% | ~4,556 |
-| Way of the Wimp | 2.00% | ~4,556 |
-| The plot thickens... At the tavern | 2.00% | ~4,556 |
-| The demons' feast | 2.00% | ~4,556 |
-| The Great Library | 2.00% | ~4,556 |
-| Torture and Sensibility | 2.00% | ~4,556 |
-| Urik's Depths | 2.00% | ~4,556 |
-| The Woman in the High Castle | 2.00% | ~4,556 |
-| Team Building Exercise | 2.00% | ~4,556 |
-| Oh, when I'll be level 10... | 2.00% | ~4,556 |
+| Sowwy! | 32.00% | ~72,904 |
+| Alt+F4 | 6.00% | ~13,670 |
+| Where's that freaking Dwarf? | 5.00% | ~11,391 |
+| Déjà vu | 4.00% | ~9,113 |
+| A beer, two curses, three companions | 3.00% | ~6,835 |
+| Sock! SOCK! | 3.00% | ~6,835 |
+| GG EZ | 3.00% | ~6,835 |
+| DM intervention | 3.00% | ~6,835 |
+| Speedrun | 3.00% | ~6,835 |
+| Fireproof Wizardess | 3.00% | ~6,835 |
+| Livin' in a dwarven paradise | 2.00% | ~4,557 |
+| Way of the Wimp | 2.00% | ~4,557 |
+| The plot thickens... At the tavern | 2.00% | ~4,557 |
+| The demons' feast | 2.00% | ~4,557 |
+| The Great Library | 2.00% | ~4,557 |
+| Torture and Sensibility | 2.00% | ~4,557 |
+| Urik's Depths | 2.00% | ~4,557 |
+| The Woman in the High Castle | 2.00% | ~4,557 |
+| Team Building Exercise | 2.00% | ~4,557 |
+| Oh, when I'll be level 10... | 2.00% | ~4,557 |
 | Shiny and Crôm | 1.00% | ~2,278 |
 | The Dungeon Master | 1.00% | ~2,278 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,278 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,278 |
 | Thieves' Guild Accreditation | 1.00% | ~2,278 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,050 |
-| Dead for good | 0.80% | ~1,822 |
-| Lust and Debauchery | 0.80% | ~1,822 |
-| Material Girl | 0.80% | ~1,822 |
+| Dead for good | 0.80% | ~1,823 |
+| Lust and Debauchery | 0.80% | ~1,823 |
+| Material Girl | 0.80% | ~1,823 |
 | Gargantua | 0.70% | ~1,595 |
 | In Navalu's footsteps | 0.60% | ~1,367 |
 | We come in peace | 0.50% | ~1,139 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,804 (Ranked 58)  
+Progressed: 227,826 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 5 (0.00%) (Ranked 300)
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
-| 2023-10-01 | 227,804 | 5 |
+| 2023-10-01 | 227,826 | 5 |
 ## Awards
 Max (Character Customization): 202  (Ranked 276)  
 Sum: 394 (Ranked 326)  

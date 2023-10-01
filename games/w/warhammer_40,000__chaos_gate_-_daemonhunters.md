@@ -31,11 +31,11 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
 | Long Distance Call | 0.90% | ~29 |
+| Tactical Sabotage | 0.90% | ~29 |
 | Mind Like a Fortress | 0.80% | ~26 |
 | Only in Death | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
-| Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~23 |
 | Patron of Deimos | 0.60% | ~19 |
 | For the Machine God | 0.60% | ~19 |
@@ -43,8 +43,8 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.60% | ~19 |
 | Death Comes For All | 0.60% | ~19 |
 | Harvest No More | 0.50% | ~16 |
+| Strike Force | 0.40% | ~13 |
 | Hands-On Research | 0.40% | ~13 |
-| Strike Force | 0.30% | ~10 |
 | True Mastery | 0.30% | ~10 |
 | Reign of Confusion | 0.30% | ~10 |
 | Suffer Not the Mutant | 0.30% | ~10 |

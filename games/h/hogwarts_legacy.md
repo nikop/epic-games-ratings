@@ -6,21 +6,21 @@ Rating: 4.76 (Ranked 119)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,644 |
-| First Class Student | 13.00% | ~38,691 |
-| Troll with the Punches | 13.00% | ~38,691 |
+| First Class Student | 13.00% | ~38,692 |
+| Troll with the Punches | 13.00% | ~38,692 |
 | A Keen Sense of Spell | 12.00% | ~35,715 |
 | That's a Keeper | 12.00% | ~35,715 |
 | The Defender of Dragons | 11.00% | ~32,739 |
+| Loom for Improvement | 11.00% | ~32,739 |
 | A Talent for Spending | 11.00% | ~32,739 |
 | Grappling with a Graphorn | 10.00% | ~29,763 |
 | The One Who Mastered Memories | 10.00% | ~29,763 |
 | The Hallowed Hero | 10.00% | ~29,763 |
 | The Hero of Hogwarts | 10.00% | ~29,763 |
 | Challenge Accepted | 10.00% | ~29,763 |
-| Loom for Improvement | 10.00% | ~29,763 |
 | Coasting Along | 10.00% | ~29,763 |
-| Followed the Butterflies | 9.00% | ~26,786 |
-| Rising From the Ashes | 9.00% | ~26,786 |
+| Followed the Butterflies | 9.00% | ~26,787 |
+| Rising From the Ashes | 9.00% | ~26,787 |
 | The Avenging Gazelle | 8.00% | ~23,810 |
 | A Sallow Grave | 8.00% | ~23,810 |
 | Flight the Good Flight | 8.00% | ~23,810 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,626 (Ranked 46)  
+Progressed: 297,629 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 479 (0.16%) (Ranked 221)
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
-| 2023-10-01 | 297,626 | 479 |
+| 2023-10-01 | 297,629 | 479 |
 ## Awards
 Max (Character Customization): 23,160  (Ranked 17)  
 Sum: 44,692 (Ranked 30)  

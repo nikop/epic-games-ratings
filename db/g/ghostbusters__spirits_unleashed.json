@@ -2232,9 +2232,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26122,
+  "EOS_Progressed": 26123,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13902,6 +13902,11 @@
       "Time": "2023-09-30T22:05:14.1299676+00:00",
       "NumProgressed": 26122,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-01T01:54:37.1362637+00:00",
+      "NumProgressed": 26123,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14199,9 +14204,9 @@
       "ID": "Solo_Capture",
       "SetID": "819popo",
       "Name": "Solo Capture",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 209
     },
     {
       "ID": "Stunner",
@@ -14320,7 +14325,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26122,
+      "Progressed": 26123,
       "Completed": 58
     }
   ],
@@ -14328,8 +14333,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-25T07:57:44.1399321+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:05:07.4884533+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:54:37.1362628+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-01T00:00:47.7561265+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:05:07.4885511+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:50:02.896816+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:54:37.1363771+00:00"
 }

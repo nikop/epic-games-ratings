@@ -8328,9 +8328,9 @@
       "Count": 677
     }
   ],
-  "EOS_Progressed": 297626,
+  "EOS_Progressed": 297629,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25978,6 +25978,11 @@
       "Time": "2023-10-01T00:04:30.0977855+00:00",
       "NumProgressed": 297626,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-01T01:54:09.3074683+00:00",
+      "NumProgressed": 297629,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26115,9 +26120,9 @@
       "ID": "PFA_24",
       "SetID": "1hf4dep",
       "Name": "Loom for Improvement",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 29763
+      "UsersEstimate": 32739
     },
     {
       "ID": "PFA_25",
@@ -26213,7 +26218,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26786
+      "UsersEstimate": 26787
     },
     {
       "ID": "PFA_36",
@@ -26317,7 +26322,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38691
+      "UsersEstimate": 38692
     },
     {
       "ID": "PFA_7",
@@ -26325,7 +26330,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38691
+      "UsersEstimate": 38692
     },
     {
       "ID": "PFA_8",
@@ -26341,14 +26346,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26786
+      "UsersEstimate": 26787
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297626,
+      "Progressed": 297629,
       "Completed": 479
     }
   ],
@@ -26356,8 +26361,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-30T22:58:21.7378388+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:04:30.097785+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:54:09.3074675+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-09-30T23:58:41.1832872+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:04:30.0978968+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:48:33.9058431+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:54:09.3076102+00:00"
 }

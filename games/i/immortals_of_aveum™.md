@@ -5,32 +5,32 @@ Rating: 4.00 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 84.00% | ~36 |
-| Battlefields Have Memories | 84.00% | ~36 |
-| Enlisted | 84.00% | ~36 |
-| Maybe Engage a Little | 79.00% | ~34 |
-| No More Names | 70.00% | ~30 |
-| Initiate | 63.00% | ~27 |
-| Thrada-Kul | 60.00% | ~26 |
-| Gravity-Challenged Rocks | 47.00% | ~20 |
-| Soldier | 42.00% | ~18 |
-| All the Major Food Groups | 37.00% | ~16 |
-| Beggars Would Ride | 35.00% | ~15 |
-| Control is an Illusion | 33.00% | ~14 |
+| Unforeseen | 84.00% | ~37 |
+| Battlefields Have Memories | 84.00% | ~37 |
+| Enlisted | 84.00% | ~37 |
+| Maybe Engage a Little | 80.00% | ~35 |
+| No More Names | 70.00% | ~31 |
+| Initiate | 64.00% | ~28 |
+| Thrada-Kul | 61.00% | ~27 |
+| Gravity-Challenged Rocks | 48.00% | ~21 |
+| Soldier | 41.00% | ~18 |
+| All the Major Food Groups | 39.00% | ~17 |
+| Beggars Would Ride | 34.00% | ~15 |
+| Control is an Illusion | 32.00% | ~14 |
 | The Means to Save It | 30.00% | ~13 |
 | Socialite | 30.00% | ~13 |
-| Resilience to Sin | 28.00% | ~12 |
-| A Familiar Nest | 26.00% | ~11 |
-| Geas Aristeya | 26.00% | ~11 |
-| Periapt Alizarin | 26.00% | ~11 |
-| Armsman | 23.00% | ~10 |
-| A Perfect Cycle | 21.00% | ~9 |
-| Recruit | 21.00% | ~9 |
+| Resilience to Sin | 27.00% | ~12 |
+| A Familiar Nest | 25.00% | ~11 |
+| Geas Aristeya | 25.00% | ~11 |
+| Armsman | 25.00% | ~11 |
+| Periapt Alizarin | 25.00% | ~11 |
+| A Perfect Cycle | 20.00% | ~9 |
+| Recruit | 20.00% | ~9 |
 | Lights Army | 14.00% | ~6 |
 | Armaments Gules | 14.00% | ~6 |
 | Periapt Cerulean | 14.00% | ~6 |
 | Good Boy | 14.00% | ~6 |
-| Shroudfane Explorer | 12.00% | ~5 |
+| Shroudfane Explorer | 11.00% | ~5 |
 | Scholar | 9.00% | ~4 |
 | Armaments Azure | 9.00% | ~4 |
 | Armaments Vert | 7.00% | ~3 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 959)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 439)  
+Progressed: 44 (Ranked 437)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 27 | 0 |
 | 2023-09-29 | 39 | 0 |
 | 2023-09-30 | 43 | 0 |
+| 2023-10-01 | 44 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

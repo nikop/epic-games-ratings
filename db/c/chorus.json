@@ -2352,9 +2352,9 @@
       "ID": "MissionFirstRiftBoss",
       "SetID": "a6c395p",
       "Name": "The Nameless Dread",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 406
+      "UsersEstimate": 418
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -2544,8 +2544,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:04:24.8329716+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:54:05.1304508+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:38.2609537+00:00",
-  "LastUpdate_Ratings": "2023-10-01T00:01:49.4840452+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:04:24.8330083+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:50:45.8704057+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:54:05.1304983+00:00"
 }

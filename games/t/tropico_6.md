@@ -8,9 +8,9 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,058 |
 | Un-Lonely Island | 47.00% | ~2,543 |
-| The Beginning of a Servantship | 45.00% | ~2,434 |
+| The Beginning of a Servantship | 45.00% | ~2,435 |
 | Trade Is My Trait | 37.00% | ~2,002 |
-| Number 18 | 24.00% | ~1,298 |
+| Number 18 | 24.00% | ~1,299 |
 | We Don't Have Time For That | 19.00% | ~1,028 |
 | The Legend of Langostino | 17.00% | ~920 |
 | The Governator | 17.00% | ~920 |
@@ -28,10 +28,10 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~379 |
 | Don't Panic! | 6.00% | ~325 |
 | Beware The Betman | 6.00% | ~325 |
-| Viva Tropico! | 5.00% | ~270 |
-| Computer Says "No" | 5.00% | ~270 |
-| Watch The World Burn | 5.00% | ~270 |
-| Fairy Tale Come True | 5.00% | ~270 |
+| Viva Tropico! | 5.00% | ~271 |
+| Computer Says "No" | 5.00% | ~271 |
+| Watch The World Burn | 5.00% | ~271 |
+| Fairy Tale Come True | 5.00% | ~271 |
 | Been there, Done That | 3.00% | ~162 |
 | Apocalypso | 3.00% | ~162 |
 | Narcissist | 3.00% | ~162 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,410 (Ranked 165)  
+Progressed: 5,411 (Ranked 165)  
 Completed: 2 (0.04%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 2 (0.04%) (Ranked 265)
 | 2023-09-28 | 5,388 | 2 |
 | 2023-09-29 | 5,397 | 2 |
 | 2023-09-30 | 5,410 | 2 |
+| 2023-10-01 | 5,411 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 344)  
 Sum: 696 (Ranked 283)  

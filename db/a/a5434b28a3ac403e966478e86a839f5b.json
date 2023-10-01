@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 114,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -622,6 +622,11 @@
       "Time": "2023-09-30T21:06:01.055139+00:00",
       "NumProgressed": 299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T01:55:11.3451081+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -642,15 +647,15 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_eou3",
@@ -688,9 +693,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_eou8",
@@ -737,14 +742,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 301,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-01T00:05:53.6259719+00:00",
+  "LastChanged_Achievements": "2023-10-01T01:55:11.3451073+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-01T00:02:11.703797+00:00",
-  "LastUpdate_Achievements": "2023-10-01T00:05:53.6259837+00:00"
+  "LastUpdate_Ratings": "2023-10-01T01:53:05.139796+00:00",
+  "LastUpdate_Achievements": "2023-10-01T01:55:11.345123+00:00"
 }

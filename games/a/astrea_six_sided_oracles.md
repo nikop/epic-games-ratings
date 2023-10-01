@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 97.00% | ~28 |
-| Meissa's Savior | 97.00% | ~28 |
-| Purification Pioneer | 97.00% | ~28 |
-| Dicesmithing Time! | 90.00% | ~26 |
-| Wild's Keeper | 83.00% | ~24 |
-| Endless Tricks | 79.00% | ~23 |
-| Sanctuary Guardian | 76.00% | ~22 |
-| Mind Illuminator | 62.00% | ~18 |
-| Stellar Dismantler | 48.00% | ~14 |
-| Anomaly Destroyer | 34.00% | ~10 |
-| Astral Adventurer | 34.00% | ~10 |
-| Star Killer | 34.00% | ~10 |
-| Loyal Partner | 31.00% | ~9 |
-| Unbeatable | 31.00% | ~9 |
-| Sentinelphobic | 21.00% | ~6 |
-| Stellar Haste | 21.00% | ~6 |
-| The Corruption Goddess | 21.00% | ~6 |
+| Mechanical Buddy | 97.00% | ~29 |
+| Meissa's Savior | 97.00% | ~29 |
+| Purification Pioneer | 97.00% | ~29 |
+| Dicesmithing Time! | 87.00% | ~26 |
+| Wild's Keeper | 80.00% | ~24 |
+| Endless Tricks | 77.00% | ~23 |
+| Sanctuary Guardian | 73.00% | ~22 |
+| Mind Illuminator | 60.00% | ~18 |
+| Stellar Dismantler | 47.00% | ~14 |
+| Anomaly Destroyer | 33.00% | ~10 |
+| Astral Adventurer | 33.00% | ~10 |
+| Star Killer | 33.00% | ~10 |
+| Loyal Partner | 30.00% | ~9 |
+| Unbeatable | 30.00% | ~9 |
+| Sentinelphobic | 20.00% | ~6 |
+| Stellar Haste | 20.00% | ~6 |
+| The Corruption Goddess | 20.00% | ~6 |
 | Sadistic Plan | 17.00% | ~5 |
 | Shard Spender | 17.00% | ~5 |
 | Skeptical | 17.00% | ~5 |
-| Dice Specialist | 14.00% | ~4 |
+| Dice Specialist | 13.00% | ~4 |
 | Wave Bender | 10.00% | ~3 |
 | Can't touch this | 7.00% | ~2 |
 | Denying Destiny | 7.00% | ~2 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 464)  
+Progressed: 30 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,3 +96,4 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 14 | 0 |
 | 2023-09-29 | 26 | 0 |
 | 2023-09-30 | 29 | 0 |
+| 2023-10-01 | 30 | 0 |
