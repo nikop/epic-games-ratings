@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 239,
-  "EOS_Completed": 15,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 30,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.28,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 6.69,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1119,6 +1119,11 @@
       "Time": "2023-10-01T21:03:32.9497506+00:00",
       "NumProgressed": 239,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-01T23:03:31.3560189+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 25,
@@ -1248,9 +1253,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1330,13 +1335,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 239,
-      "Completed": 15
+      "Completed": 16
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:03:12.8400123+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:03:31.3560183+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:00:45.0510864+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:03:12.8402258+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:00:38.4645131+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:03:31.3560499+00:00"
 }

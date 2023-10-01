@@ -2,7 +2,7 @@
   "ID": "308652d49c89470fbf45fe8696b9c1c1",
   "Name": "Geneforge 1 - Mutagen",
   "ProductSlug": "geneforge-1-mutagen",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 647,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "NumberOfRatings": 1102,
   "RatingHistory": [
     {
@@ -631,6 +631,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 166,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-10-01T23:00:39.6980153+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 166,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
@@ -686,8 +692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:43.0453732+00:00",
-  "LastChanged": "2023-05-06T21:00:10.5209341+00:00",
+  "LastChanged": "2023-10-01T23:00:39.6980152+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:37.0308066+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:00:46.4774384+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:06:10.2094772+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:00:39.6980159+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:06:16.5268977+00:00"
 }

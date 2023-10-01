@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 72.00% | ~383 |
-| Snake Eyes | 57.00% | ~303 |
-| Be water, my friend | 56.00% | ~298 |
-| Fireball | 45.00% | ~239 |
-| The King of Flat | 40.00% | ~213 |
-| Air Slash | 31.00% | ~165 |
-| Hit That Ball | 31.00% | ~165 |
-| Eat That Apple | 23.00% | ~122 |
+| Dash Crash | 72.00% | ~384 |
+| Snake Eyes | 57.00% | ~304 |
+| Be water, my friend | 56.00% | ~299 |
+| Fireball | 45.00% | ~240 |
+| The King of Flat | 40.00% | ~214 |
+| Air Slash | 31.00% | ~166 |
+| Hit That Ball | 31.00% | ~166 |
+| Eat That Apple | 22.00% | ~117 |
 | Tornado Chaser | 13.00% | ~69 |
 | Bomberman | 9.00% | ~48 |
 | Bubble Party | 7.00% | ~37 |
@@ -21,19 +21,19 @@
 | Dash Crash - Hero Edition | 4.00% | ~21 |
 | Ambush | 4.00% | ~21 |
 | Black Belt | 3.00% | ~16 |
-| Snake Eyes - Hero Edition | 2.00% | ~11 |
-| The King of Flat - Hero Edition | 2.00% | ~11 |
 | Quite The Hero | 2.00% | ~11 |
-| Rogue | 2.00% | ~11 |
 | Path of the Hero | 1.00% | ~5 |
+| Snake Eyes - Hero Edition | 1.00% | ~5 |
+| The King of Flat - Hero Edition | 1.00% | ~5 |
 | Eat That Apple - Hero Edition | 1.00% | ~5 |
 | Snakecharmer | 1.00% | ~5 |
 | Apprentice | 1.00% | ~5 |
 | Vertigo | 1.00% | ~5 |
+| Rogue | 1.00% | ~5 |
 | Hit That Ball - Hero Edition | 0.90% | ~5 |
-| Tornado Chaser - Hero Edition | 0.80% | ~4 |
-| Bomberman - Hero Edition | 0.80% | ~4 |
-| Oh, no | 0.80% | ~4 |
+| Tornado Chaser - Hero Edition | 0.70% | ~4 |
+| Bomberman - Hero Edition | 0.70% | ~4 |
+| Oh, no | 0.70% | ~4 |
 | The Colossus - Hero Edition | 0.60% | ~3 |
 | Killing Spree | 0.60% | ~3 |
 | Rogue - Hero Edition | 0.40% | ~2 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532 (Ranked 261)  
+Progressed: 534 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-28 | 416 | 0 |
 | 2023-09-29 | 450 | 0 |
 | 2023-09-30 | 494 | 0 |
-| 2023-10-01 | 532 | 0 |
+| 2023-10-01 | 534 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

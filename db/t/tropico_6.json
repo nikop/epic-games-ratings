@@ -1172,7 +1172,7 @@
   ],
   "EOS_Progressed": 5421,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10950,9 +10950,9 @@
       "ID": "ACH_THOUSANDPOPULATION",
       "SetID": "1p8ab95",
       "Name": "Un-Lonely Island",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2548
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11022,8 +11022,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-30T08:57:11.574779+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:05:37.4145081+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:05:46.165369+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.3728621+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:58:09.4948255+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:05:37.4145771+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:58:12.1703212+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:05:46.1654595+00:00"
 }

@@ -308,9 +308,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223051,
+  "EOS_Progressed": 223060,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1907,
+  "EOS_NewPlayers": 1906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8228,6 +8228,11 @@
       "Time": "2023-10-01T22:04:25.3540448+00:00",
       "NumProgressed": 223051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T23:04:38.8197267+00:00",
+      "NumProgressed": 223060,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8296,7 +8301,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46841
+      "UsersEstimate": 46843
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8424,7 +8429,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28997
+      "UsersEstimate": 28998
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8496,7 +8501,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55763
+      "UsersEstimate": 55765
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8511,7 +8516,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 223051,
+      "Progressed": 223060,
       "Completed": 0
     }
   ],
@@ -8519,8 +8524,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-01T11:57:44.325578+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:04:25.354044+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:04:38.8197261+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:57:54.6402524+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:04:25.3541053+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:57:58.3454994+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:04:38.8197928+00:00"
 }

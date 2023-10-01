@@ -377,9 +377,9 @@
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_cannon_sentinel",
@@ -505,9 +505,9 @@
       "ID": "_magnet",
       "SetID": "2d5739o",
       "Name": "Magnet",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "_minigun",
@@ -521,9 +521,9 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_mothership",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:07:16.5836391+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:07:17.791425+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:57:15.4574748+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:07:16.5836689+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:57:25.2897563+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:07:17.791463+00:00"
 }

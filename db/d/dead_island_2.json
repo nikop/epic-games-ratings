@@ -4930,10 +4930,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9354,
       "NumberOfAwardsMax": 6270
+    },
+    {
+      "Time": "2023-10-01T23:00:22.6345265+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9358,
+      "NumberOfAwardsMax": 6270
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9354,
+  "NumberOfAwards": 9358,
   "NumberOfAwardsMax": 6270,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4947,7 +4953,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 431
+      "Count": 435
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4992,9 +4998,9 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 689441,
+  "EOS_Progressed": 689460,
   "EOS_Completed": 2183,
-  "EOS_NewPlayers": 3613,
+  "EOS_NewPlayers": 3609,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23547,6 +23553,11 @@
       "Time": "2023-10-01T22:04:56.8525882+00:00",
       "NumProgressed": 689441,
       "NumCompleted": 2183
+    },
+    {
+      "Time": "2023-10-01T23:05:08.3984201+00:00",
+      "NumProgressed": 689460,
+      "NumCompleted": 2183
     }
   ],
   "TotalAchievements": 45,
@@ -23566,7 +23577,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "ach_ammo_ran",
@@ -23606,7 +23617,7 @@
       "Name": "Perks of the Job",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "ach_bookworm",
@@ -23622,15 +23633,15 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20683
+      "UsersEstimate": 20684
     },
     {
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3447
+      "UsersEstimate": 4137
     },
     {
       "ID": "ach_defensive",
@@ -23718,7 +23729,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20683
+      "UsersEstimate": 20684
     },
     {
       "ID": "ach_impressive_aim",
@@ -23798,7 +23809,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "ach_revival_tour",
@@ -23814,7 +23825,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "ach_secrets_of_la",
@@ -23854,7 +23865,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "ach_the_vcla",
@@ -23894,7 +23905,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20683
+      "UsersEstimate": 20684
     },
     {
       "ID": "ach_well_known_survivor",
@@ -23917,22 +23928,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 689441,
+      "Progressed": 689460,
       "Completed": 2183
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 14983,
-      "Completed": 14983
+      "Progressed": 15002,
+      "Completed": 15002
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-01T20:00:31.3741655+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:04:56.8525875+00:00",
+  "LastChanged": "2023-10-01T23:00:22.6345264+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:05:08.3984196+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:00:28.6145973+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:04:56.8527004+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:00:22.6345268+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:05:08.3985749+00:00"
 }

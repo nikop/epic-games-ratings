@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,683 |
-| Hotel California | 3.00% | ~20,683 |
-| Welcome To Hell-A | 3.00% | ~20,683 |
+| Break A Leg | 3.00% | ~20,684 |
+| Hotel California | 3.00% | ~20,684 |
+| Welcome To Hell-A | 3.00% | ~20,684 |
 | Dr. Reed, I Presume? | 2.00% | ~13,789 |
 | Git Gutte! | 2.00% | ~13,789 |
 | Anger Management | 2.00% | ~13,789 |
@@ -29,19 +29,19 @@ Rating: 4.54 (Ranked 511)
 | Personal Assistant Personally Assisted | 2.00% | ~13,789 |
 | Our True Nature | 2.00% | ~13,789 |
 | This is My Weapon | 2.00% | ~13,789 |
-| Making Your Mark | 1.00% | ~6,894 |
-| Perks of the Job | 1.00% | ~6,894 |
-| Humanity Distilled | 1.00% | ~6,894 |
-| Down with the Sickness | 1.00% | ~6,894 |
-| Max Headroom | 1.00% | ~6,894 |
+| Making Your Mark | 1.00% | ~6,895 |
+| Perks of the Job | 1.00% | ~6,895 |
+| Humanity Distilled | 1.00% | ~6,895 |
+| Down with the Sickness | 1.00% | ~6,895 |
+| Max Headroom | 1.00% | ~6,895 |
 | Go, Bobcats! | 0.90% | ~6,205 |
 | Rising Star | 0.90% | ~6,205 |
 | Jumbo Keyring | 0.80% | ~5,516 |
 | Smorgasbord | 0.70% | ~4,826 |
+| On Safari | 0.60% | ~4,137 |
 | Not Even My Final Form | 0.60% | ~4,137 |
 | Internet Famous | 0.60% | ~4,137 |
 | Make it So | 0.50% | ~3,447 |
-| On Safari | 0.50% | ~3,447 |
 | Variety is the Spice of Death | 0.50% | ~3,447 |
 | LA Influential | 0.40% | ~2,758 |
 | Gore Horse | 0.40% | ~2,758 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,441 (Ranked 22)  
+Progressed: 689,460 (Ranked 22)  
 Completed: 2,183 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,16 +215,16 @@ Completed: 2,183 (0.32%) (Ranked 194)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 689,441 | 2,183 |
+| 2023-10-01 | 689,460 | 2,183 |
 ## Awards
 Max (Great Boss Battles): 6,270  (Ranked 58)  
-Sum: 9,354 (Ranked 91)  
+Sum: 9,358 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,270 |
 | This game is Great for Beginners | 441 |
-| This game has Diverse Characters | 431 |
+| This game has Diverse Characters | 435 |
 | This game has Quickly Understood Controls | 413 |
 | This game is Relaxing | 392 |
 | This game has Amazing Storytelling | 362 |
@@ -397,4 +397,4 @@ Diff (max vs sum): -33
 | 2023-09-28 | 4.54 | 6,245 | 9,293 |
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
-| 2023-10-01 | 4.54 | 6,270 | 9,354 |
+| 2023-10-01 | 4.54 | 6,270 | 9,358 |

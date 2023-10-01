@@ -20,7 +20,7 @@
 | Changing the World | 11.00% | ~10 |
 | Locked and Loaded | 10.00% | ~9 |
 | Witch | 10.00% | ~9 |
-| The A-Team | 9.00% | ~8 |
+| The A-Team | 10.00% | ~9 |
 | Defeat Uskol | 8.00% | ~7 |
 | Through Dangers Untold | 8.00% | ~7 |
 | Finally! | 8.00% | ~7 |

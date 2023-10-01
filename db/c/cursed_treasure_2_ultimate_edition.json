@@ -355,9 +355,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT",
       "SetID": "ak6pfjk",
       "Name": "The Starry Night",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
@@ -644,8 +644,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:08:04.6930079+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:08:13.4186394+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:12.157773+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:00:18.9841391+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:08:04.693042+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:00:13.0249186+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:08:13.4186872+00:00"
 }

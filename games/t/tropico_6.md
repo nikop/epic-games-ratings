@@ -7,7 +7,7 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,066 |
-| Un-Lonely Island | 46.00% | ~2,494 |
+| Un-Lonely Island | 47.00% | ~2,548 |
 | The Beginning of a Servantship | 45.00% | ~2,439 |
 | Trade Is My Trait | 37.00% | ~2,006 |
 | Number 18 | 24.00% | ~1,301 |

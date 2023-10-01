@@ -4,7 +4,7 @@
   "ProductSlug": "cyberpunk-2077",
   "Ranking_Rating": 335,
   "Ranking_Popularity": 9,
-  "Ranking_PopularitySum": 13,
+  "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 19,
@@ -12723,10 +12723,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 249789,
       "NumberOfAwardsMax": 88536
+    },
+    {
+      "Time": "2023-10-01T22:59:53.5656877+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 250509,
+      "NumberOfAwardsMax": 88536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 249789,
+  "NumberOfAwards": 250509,
   "NumberOfAwardsMax": 88536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12770,7 +12776,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11707
+      "Count": 12090
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12788,7 +12794,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 11422
+      "Count": 11759
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12803,10 +12809,10 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887444,
-  "EOS_Completed": 2531,
-  "EOS_NewPlayers": 6664,
-  "EOS_NewCompleters": 185,
+  "EOS_Progressed": 887461,
+  "EOS_Completed": 2535,
+  "EOS_NewPlayers": 6651,
+  "EOS_NewCompleters": 189,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31298,6 +31304,11 @@
       "Time": "2023-10-01T22:08:05.4959804+00:00",
       "NumProgressed": 887444,
       "NumCompleted": 2531
+    },
+    {
+      "Time": "2023-10-01T23:08:14.1561274+00:00",
+      "NumProgressed": 887461,
+      "NumCompleted": 2535
     }
   ],
   "TotalAchievements": 57,
@@ -31317,7 +31328,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "BushidoAndChill",
@@ -31381,7 +31392,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "Gunslinger",
@@ -31389,7 +31400,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26623
+      "UsersEstimate": 26624
     },
     {
       "ID": "HandyMan",
@@ -31429,7 +31440,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "MaxPain",
@@ -31437,7 +31448,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "MustBeTheRats",
@@ -31501,7 +31512,7 @@
       "Name": "Temperance",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31517,7 +31528,7 @@
       "Name": "The Devil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "TheFool",
@@ -31525,7 +31536,7 @@
       "Name": "The Fool",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "TheHermit",
@@ -31549,7 +31560,7 @@
       "Name": "The Lovers",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "TheStar",
@@ -31581,7 +31592,7 @@
       "Name": "The World",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "ThisIsPacifica",
@@ -31613,7 +31624,7 @@
       "Name": "True Warrior",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31653,7 +31664,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31709,7 +31720,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Kingofcups",
@@ -31764,21 +31775,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887444,
-      "Completed": 2531
+      "Progressed": 887461,
+      "Completed": 2535
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16067,
+      "Progressed": 16084,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-01T21:00:14.2766919+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:08:05.4959794+00:00",
+  "LastChanged": "2023-10-01T22:59:53.5656876+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:08:14.1561267+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:59:57.0859032+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:08:05.4961157+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:59:53.5656881+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:08:14.1562908+00:00"
 }

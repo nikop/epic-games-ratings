@@ -1006,9 +1006,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256833,
+  "EOS_Progressed": 256837,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17371,6 +17371,11 @@
       "Time": "2023-10-01T20:05:10.3918695+00:00",
       "NumProgressed": 256833,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T23:05:11.5205145+00:00",
+      "NumProgressed": 256837,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17382,7 +17387,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17978
+      "UsersEstimate": 17979
     },
     {
       "ID": "Act2",
@@ -17430,7 +17435,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79618
+      "UsersEstimate": 79619
     },
     {
       "ID": "BackHomeNTimes",
@@ -17470,7 +17475,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "CompleteBestiary",
@@ -17486,7 +17491,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25683
+      "UsersEstimate": 25684
     },
     {
       "ID": "CreditLevel2",
@@ -17502,7 +17507,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "CreedsInBank1",
@@ -17670,7 +17675,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56503
+      "UsersEstimate": 56504
     },
     {
       "ID": "KillOthers2",
@@ -17774,7 +17779,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25683
+      "UsersEstimate": 25684
     },
     {
       "ID": "ReachNDays2",
@@ -17798,7 +17803,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "TakeHomeNHearts",
@@ -17806,7 +17811,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "UnlockAllAchievements",
@@ -17829,7 +17834,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256833,
+      "Progressed": 256837,
       "Completed": 3
     }
   ],
@@ -17837,8 +17842,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-25T11:59:20.3104585+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:05:00.2259423+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:05:11.5205141+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.0363814+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:02:20.0894163+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:05:00.2260595+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:03:19.1824495+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:05:11.5206685+00:00"
 }

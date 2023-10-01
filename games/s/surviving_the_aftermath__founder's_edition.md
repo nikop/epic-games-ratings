@@ -6,18 +6,18 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,718 |
+| First Step | 72.00% | ~6,719 |
 | Leader | 60.00% | ~5,599 |
-| Explorer | 53.00% | ~4,945 |
-| Healer | 52.00% | ~4,852 |
+| Explorer | 53.00% | ~4,946 |
+| Healer | 52.00% | ~4,853 |
 | Aspiring Inventor | 44.00% | ~4,106 |
 | Adventurer | 41.00% | ~3,826 |
 | Famous Healer | 38.00% | ~3,546 |
 | Local Leader | 35.00% | ~3,266 |
 | Famous Explorer | 34.00% | ~3,173 |
 | New Opportunities | 34.00% | ~3,173 |
-| Energized | 33.00% | ~3,079 |
-| The Long Haul | 33.00% | ~3,079 |
+| Energized | 33.00% | ~3,080 |
+| The Long Haul | 33.00% | ~3,080 |
 | The Great Healer | 31.00% | ~2,893 |
 | Survivor | 31.00% | ~2,893 |
 | Legendary Explorer | 28.00% | ~2,613 |
@@ -43,7 +43,7 @@ Number of Ratings: 836  (23.09.2022)
 | It's a Finnish Thing | 10.00% | ~933 |
 | Sky Burial | 10.00% | ~933 |
 | Trader | 9.00% | ~840 |
-| Bread and Circuses | 8.00% | ~746 |
+| Bread and Circuses | 8.00% | ~747 |
 | New Eden | 7.00% | ~653 |
 | Tailored to fit | 7.00% | ~653 |
 | Really Friendly | 6.00% | ~560 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,331 (Ranked 144)  
+Progressed: 9,332 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-28 | 9,271 | 0 |
 | 2023-09-29 | 9,290 | 0 |
 | 2023-09-30 | 9,313 | 0 |
-| 2023-10-01 | 9,331 | 0 |
+| 2023-10-01 | 9,332 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 338)  
 Sum: 706 (Ranked 282)  

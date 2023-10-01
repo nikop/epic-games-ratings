@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -348,6 +348,11 @@
       "Time": "2023-09-30T18:05:06.315311+00:00",
       "NumProgressed": 322,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-01T23:05:57.5836761+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -423,7 +428,7 @@
       "Name": "There is freedom in awakening",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_09",
@@ -431,7 +436,7 @@
       "Name": "Grau Hill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_10",
@@ -447,7 +452,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_12",
@@ -455,7 +460,7 @@
       "Name": "Lord Wesley",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_13",
@@ -510,7 +515,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 8
     }
   ],
@@ -518,8 +523,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:05:49.7454534+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:05:57.5836755+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:16.1445412+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:59:32.0357797+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:05:49.7454691+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:59:30.2200052+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:05:57.5836904+00:00"
 }

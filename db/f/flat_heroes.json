@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2023-10-01T21:07:14.289766+00:00",
       "NumProgressed": 532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T23:06:58.4116969+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -818,7 +823,7 @@
       "Name": "Fireball",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "DashDashDash",
@@ -826,7 +831,7 @@
       "Name": "Be water, my friend",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -864,17 +869,17 @@
       "ID": "HeroWorld2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes - Hero Edition",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "HeroWorld3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat - Hero Edition",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "HeroWorld4Boss",
@@ -896,7 +901,7 @@
       "ID": "HeroWorld6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser - Hero Edition",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -904,7 +909,7 @@
       "ID": "HeroWorld7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman - Hero Edition",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -954,13 +959,13 @@
       "Name": "Air Slash",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "OhNo",
       "SetID": "d9ekhim",
       "Name": "Oh, no",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -1072,9 +1077,9 @@
       "ID": "World10Boss",
       "SetID": "d9ekhim",
       "Name": "Rogue",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "World1Boss",
@@ -1082,7 +1087,7 @@
       "Name": "Dash Crash",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "World2Boss",
@@ -1090,7 +1095,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "World3Boss",
@@ -1098,7 +1103,7 @@
       "Name": "The King of Flat",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "World4Boss",
@@ -1106,15 +1111,15 @@
       "Name": "Hit That Ball",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 117
     },
     {
       "ID": "World6Boss",
@@ -1153,7 +1158,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 534,
       "Completed": 0
     }
   ],
@@ -1161,8 +1166,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:06:55.3319255+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:06:58.4116964+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:59:02.7922863+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:06:55.3319591+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:59:03.4740454+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:06:58.4117385+00:00"
 }

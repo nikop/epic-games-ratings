@@ -1,12 +1,12 @@
 # ARK: Survival Evolved
 [Store](https://store.epicgames.com/en-US/p/ark)  
 [View Rawdata](../../db/a/ark__survival_evolved.json)  
-Rating: 4.58 (Ranked 437)  
+Rating: 4.58 (Ranked 436)  
 Number of Ratings: 35,570  (23.09.2022)  
 ## Awards
 Max (Character Customization): 61,675  (Ranked 11)  
-Sum: 250,089 (Ranked 12)  
-Diff (max vs sum): -1  
+Sum: 250,089 (Ranked 13)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 61,675 |

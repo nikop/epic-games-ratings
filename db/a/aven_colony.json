@@ -3,7 +3,7 @@
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 882,
-  "Ranking_Popularity": 318,
+  "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 304,
@@ -1621,6 +1621,6 @@
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
   "LastChanged": "2023-09-27T17:57:10.568551+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.4284299+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:59:54.3683392+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:06:21.4181475+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:59:50.7347389+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:06:26.9285139+00:00"
 }

@@ -15,12 +15,12 @@
 | Memory Rouser | 62.00% | ~55 |
 | Subsistence Skills | 60.00% | ~53 |
 | Master of the Skies | 58.00% | ~52 |
-| Kemono Hunter | 57.00% | ~51 |
+| Kemono Hunter | 58.00% | ~52 |
 | Distance Devourer | 53.00% | ~47 |
 | Expert Conjuror | 53.00% | ~47 |
 | Helpful Heart | 52.00% | ~46 |
 | Flawless Crystal | 49.00% | ~44 |
-| Bonds of Enmity | 45.00% | ~40 |
+| Bonds of Enmity | 46.00% | ~41 |
 | Counter Specialist | 44.00% | ~39 |
 | Axer of Auspice | 40.00% | ~36 |
 | Karakuri Trail | 38.00% | ~34 |

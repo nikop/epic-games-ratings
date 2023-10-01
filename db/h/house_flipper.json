@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1902,7 +1902,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20872,
+  "EOS_Progressed": 20873,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -8832,6 +8832,11 @@
       "Time": "2023-10-01T21:03:32.1179472+00:00",
       "NumProgressed": 20872,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-01T23:03:30.4946984+00:00",
+      "NumProgressed": 20873,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -8891,7 +8896,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19828
+      "UsersEstimate": 19829
     },
     {
       "ID": "GameOver",
@@ -8979,7 +8984,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4175
     },
     {
       "ID": "SeniorEstateAgent",
@@ -9003,7 +9008,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6470
+      "UsersEstimate": 6471
     },
     {
       "ID": "VeronicaLiptson",
@@ -9026,15 +9031,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20872,
+      "Progressed": 20873,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-01T19:02:36.7409149+00:00",
-  "LastChanged_Achievements": "2023-10-01T22:03:11.9268421+00:00",
+  "LastChanged_Achievements": "2023-10-01T23:03:30.4946974+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:05.7418417+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:01:28.2297335+00:00",
-  "LastUpdate_Achievements": "2023-10-01T22:03:11.9268958+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:01:18.417626+00:00",
+  "LastUpdate_Achievements": "2023-10-01T23:03:30.4947771+00:00"
 }
