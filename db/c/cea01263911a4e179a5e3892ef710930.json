@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79149,
+  "EOS_Progressed": 79156,
   "EOS_Completed": 213,
-  "EOS_NewPlayers": 1706,
+  "EOS_NewPlayers": 1708,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5589,6 +5589,11 @@
       "Time": "2023-10-01T01:54:48.8762937+00:00",
       "NumProgressed": 79149,
       "NumCompleted": 213
+    },
+    {
+      "Time": "2023-10-01T02:27:04.8786701+00:00",
+      "NumProgressed": 79156,
+      "NumCompleted": 213
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -5601,7 +5606,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 63319
+      "UsersEstimate": 63325
     },
     {
       "ID": "grp_beet",
@@ -5609,7 +5614,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 15830
+      "UsersEstimate": 15831
     },
     {
       "ID": "grp_collect_ruby",
@@ -5617,7 +5622,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 60945
+      "UsersEstimate": 60950
     },
     {
       "ID": "grp_endless",
@@ -5625,7 +5630,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27702
+      "UsersEstimate": 27705
     },
     {
       "ID": "grp_finallevel",
@@ -5641,7 +5646,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 19787
+      "UsersEstimate": 19789
     },
     {
       "ID": "grp_level10",
@@ -5649,7 +5654,7 @@
       "Name": "Level 10!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "grp_level20",
@@ -5657,7 +5662,7 @@
       "Name": "Level 20!",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "grp_level30",
@@ -5689,7 +5694,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 41949
+      "UsersEstimate": 41953
     },
     {
       "ID": "grp_money_tree",
@@ -5697,7 +5702,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 58570
+      "UsersEstimate": 58575
     },
     {
       "ID": "grp_speed",
@@ -5705,7 +5710,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 37200
+      "UsersEstimate": 37203
     },
     {
       "ID": "grp_stone",
@@ -5713,7 +5718,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "grp_store_ftux",
@@ -5721,7 +5726,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 34034
+      "UsersEstimate": 34037
     },
     {
       "ID": "grp_weekly_beaten",
@@ -5729,14 +5734,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 7123
+      "UsersEstimate": 7124
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 79149,
+      "Progressed": 79156,
       "Completed": 213
     }
   ],
@@ -5744,8 +5749,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-09-30T07:57:12.8320274+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:54:48.8762932+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:27:04.8786697+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:12.8183356+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:47:53.7704713+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:54:48.8763395+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:19:57.1118471+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:27:04.8787165+00:00"
 }

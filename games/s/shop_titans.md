@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.60% | ~822 |
 | For the Hoard! | 0.60% | ~822 |
 | Scrapbooker | 0.60% | ~822 |
+| Flying off the Shelves | 0.60% | ~822 |
 | This Power Level...! | 0.60% | ~822 |
 | Expansion in Session | 0.60% | ~822 |
 | Trash to Treasure | 0.60% | ~822 |
@@ -68,7 +69,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.50% | ~685 |
 | Archivist | 0.50% | ~685 |
 | Locally Sourced | 0.50% | ~685 |
-| Flying off the Shelves | 0.50% | ~685 |
 | Omae wa Mou Shindeiru | 0.50% | ~685 |
 | Master of Transmutation | 0.50% | ~685 |
 | Hidden Potential | 0.50% | ~685 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,920 (Ranked 69)  
+Progressed: 136,921 (Ranked 69)  
 Completed: 158 (0.12%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 158 (0.12%) (Ranked 229)
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
-| 2023-10-01 | 136,920 | 158 |
+| 2023-10-01 | 136,921 | 158 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,314 (Ranked 49)  

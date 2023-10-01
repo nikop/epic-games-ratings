@@ -28,7 +28,7 @@ Rating: 3.83 (Ranked 989)
 | Sociable | 13.00% | ~210 |
 | Ablutomaniac | 13.00% | ~210 |
 | Line Cook | 12.00% | ~194 |
-| Production Sorter | 11.00% | ~178 |
+| Production Sorter | 12.00% | ~194 |
 | Good Samaritan | 10.00% | ~161 |
 | Acrobatic Adventurer | 9.00% | ~145 |
 | Animal Exterminator | 9.00% | ~145 |

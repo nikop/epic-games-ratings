@@ -10,7 +10,7 @@
 | A good start | 49.00% | ~56 |
 | Runes collector | 46.00% | ~52 |
 | Kind heart | 46.00% | ~52 |
-| Skilled rider | 43.00% | ~49 |
+| Skilled rider | 44.00% | ~50 |
 | Devil's dozen | 27.00% | ~31 |
 | It doesn't work like that | 23.00% | ~26 |
 | This is just the beginning... | 18.00% | ~21 |

@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,962 |
+| First of Many | 9.00% | ~16,963 |
 | The Killing Jar | 8.00% | ~15,078 |
-| Expanding Horizons | 7.00% | ~13,193 |
-| Quest for Survival | 7.00% | ~13,193 |
-| Not Your Average Trait | 7.00% | ~13,193 |
-| Gleaming the Cube | 6.00% | ~11,308 |
-| Not a Janitor | 6.00% | ~11,308 |
-| Familiar Face | 6.00% | ~11,308 |
-| Duality | 6.00% | ~11,308 |
-| Boss'n Up | 6.00% | ~11,308 |
-| Good, But Could Be Better! | 6.00% | ~11,308 |
-| Trait Chaser | 6.00% | ~11,308 |
+| Expanding Horizons | 7.00% | ~13,194 |
+| Quest for Survival | 7.00% | ~13,194 |
+| Not Your Average Trait | 7.00% | ~13,194 |
+| Gleaming the Cube | 6.00% | ~11,309 |
+| Not a Janitor | 6.00% | ~11,309 |
+| Familiar Face | 6.00% | ~11,309 |
+| Duality | 6.00% | ~11,309 |
+| Boss'n Up | 6.00% | ~11,309 |
+| Good, But Could Be Better! | 6.00% | ~11,309 |
+| Trait Chaser | 6.00% | ~11,309 |
 | Not So Special Now | 5.00% | ~9,424 |
 | Equal Measures | 5.00% | ~9,424 |
 | Blue Goddess | 5.00% | ~9,424 |
@@ -43,20 +43,20 @@ Rating: 4.76 (Ranked 119)
 | Edgelord | 3.00% | ~5,654 |
 | The Ultimate Weapon | 3.00% | ~5,654 |
 | No One Should Have All That Power | 3.00% | ~5,654 |
-| Crafty | 2.00% | ~3,769 |
-| Only Human | 2.00% | ~3,769 |
-| Red Room | 2.00% | ~3,769 |
-| The Collector | 2.00% | ~3,769 |
-| Scrap Hoarder | 2.00% | ~3,769 |
-| Carnage in C-Minor | 2.00% | ~3,769 |
-| Maxed Out! | 2.00% | ~3,769 |
-| Transmutate | 2.00% | ~3,769 |
+| Crafty | 2.00% | ~3,770 |
+| Only Human | 2.00% | ~3,770 |
+| Red Room | 2.00% | ~3,770 |
+| The Collector | 2.00% | ~3,770 |
+| Scrap Hoarder | 2.00% | ~3,770 |
+| Carnage in C-Minor | 2.00% | ~3,770 |
+| Maxed Out! | 2.00% | ~3,770 |
+| Transmutate | 2.00% | ~3,770 |
 | The Trigger | 1.00% | ~1,885 |
 | Cutting Edge | 1.00% | ~1,885 |
 | Proving Grounds | 1.00% | ~1,885 |
 | Ghost in the Machine | 0.90% | ~1,696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,472 (Ranked 65)  
+Progressed: 188,480 (Ranked 65)  
 Completed: 349 (0.19%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,11 +133,11 @@ Completed: 349 (0.19%) (Ranked 215)
 | 2023-09-28 | 187,507 | 342 |
 | 2023-09-29 | 187,917 | 345 |
 | 2023-09-30 | 188,435 | 348 |
-| 2023-10-01 | 188,472 | 349 |
+| 2023-10-01 | 188,480 | 349 |
 ## Awards
 Max (Great Boss Battles): 1,747  (Ranked 118)  
-Sum: 3,659 (Ranked 155)  
-Diff (max vs sum): -37  
+Sum: 3,662 (Ranked 154)  
+Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,747 |
@@ -150,7 +150,7 @@ Diff (max vs sum): -37
 | This game has Amazing Storytelling | 193 |
 | This game has Quickly Understood Controls | 181 |
 | This game has Unique Visuals | 167 |
-| This game has a Creative Community | 136 |
+| This game has a Creative Community | 139 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -221,4 +221,4 @@ Diff (max vs sum): -37
 | 2023-09-28 | 4.76 | 1,733 | 3,619 |
 | 2023-09-29 | 4.76 | 1,740 | 3,641 |
 | 2023-09-30 | 4.76 | 1,747 | 3,656 |
-| 2023-10-01 | 4.76 | 1,747 | 3,659 |
+| 2023-10-01 | 4.76 | 1,747 | 3,662 |

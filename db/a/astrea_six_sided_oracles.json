@@ -400,9 +400,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 87,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "EndlessTricks",
@@ -808,9 +808,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 80,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -823,8 +823,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:56:48.0469857+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:29:00.4901369+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:48:59.6567622+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:56:48.0470764+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:21:05.0346691+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:29:00.4902248+00:00"
 }

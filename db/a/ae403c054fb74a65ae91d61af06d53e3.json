@@ -182,9 +182,9 @@
       "ID": "ach_thimble_beginner",
       "SetID": "8787m1a",
       "Name": "Thimble Beginner",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_thimble_master",
@@ -213,8 +213,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:55:16.8924783+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:27:31.6242205+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:29.9094674+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:50:23.3653789+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:55:16.8924908+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:22:27.0377199+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:27:31.6242336+00:00"
 }

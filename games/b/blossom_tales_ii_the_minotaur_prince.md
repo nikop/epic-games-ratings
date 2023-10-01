@@ -9,10 +9,10 @@
 | Money Bags | 23.00% | ~3 |
 | Key Piece I | 15.00% | ~2 |
 | Completely Hooked | 15.00% | ~2 |
+| Key Piece II | 15.00% | ~2 |
 | Lily: Warrior Princess | 15.00% | ~2 |
 | Fruitful Offerings | 8.00% | ~1 |
 | Nice Display | 8.00% | ~1 |
-| Key Piece II | 8.00% | ~1 |
 | The Hero | 8.00% | ~1 |
 | Not All Who Wander | 0.00% | ~0 |
 | Walking Cookbook | 0.00% | ~0 |

@@ -12681,10 +12681,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 246267,
       "NumberOfAwardsMax": 87369
+    },
+    {
+      "Time": "2023-10-01T02:21:15.692018+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 246588,
+      "NumberOfAwardsMax": 87369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246267,
+  "NumberOfAwards": 246588,
   "NumberOfAwardsMax": 87369,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12710,7 +12716,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 11119
+      "Count": 11440
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12761,9 +12767,9 @@
       "Count": 7380
     }
   ],
-  "EOS_Progressed": 886537,
+  "EOS_Progressed": 886557,
   "EOS_Completed": 2508,
-  "EOS_NewPlayers": 6603,
+  "EOS_NewPlayers": 6613,
   "EOS_NewCompleters": 207,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -31151,6 +31157,11 @@
       "Time": "2023-10-01T01:56:53.7173999+00:00",
       "NumProgressed": 886537,
       "NumCompleted": 2508
+    },
+    {
+      "Time": "2023-10-01T02:29:05.9456896+00:00",
+      "NumProgressed": 886557,
+      "NumCompleted": 2508
     }
   ],
   "TotalAchievements": 57,
@@ -31170,7 +31181,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "BushidoAndChill",
@@ -31306,7 +31317,7 @@
       "Name": "Breathtaking",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "NoMansLand",
@@ -31338,7 +31349,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "Specialist",
@@ -31346,7 +31357,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26596
+      "UsersEstimate": 26597
     },
     {
       "ID": "Temperance",
@@ -31354,7 +31365,7 @@
       "Name": "Temperance",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31362,7 +31373,7 @@
       "Name": "Rough Landing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26596
+      "UsersEstimate": 26597
     },
     {
       "ID": "TheDevil",
@@ -31378,7 +31389,7 @@
       "Name": "The Fool",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "TheHermit",
@@ -31386,7 +31397,7 @@
       "Name": "The Hermit",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "TheHightPriestess",
@@ -31402,7 +31413,7 @@
       "Name": "The Lovers",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "TheStar",
@@ -31426,7 +31437,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "TheWorld",
@@ -31440,9 +31451,9 @@
       "ID": "ThisIsPacifica",
       "SetID": "47clieb",
       "Name": "Greetings from Pacifica!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5319
+      "UsersEstimate": 6206
     },
     {
       "ID": "TradeUnion",
@@ -31466,7 +31477,7 @@
       "Name": "True Warrior",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31506,7 +31517,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31617,21 +31628,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 886537,
+      "Progressed": 886557,
       "Completed": 2508
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 15160,
+      "Progressed": 15180,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-01T01:49:12.9094475+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:56:53.7173993+00:00",
+  "LastChanged": "2023-10-01T02:21:15.6920179+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:29:05.9456888+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:49:12.9094481+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:56:53.7175652+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:21:15.6920186+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:29:05.945854+00:00"
 }

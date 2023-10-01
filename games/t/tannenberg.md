@@ -6,30 +6,30 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~117,879 |
-| Comeback | 82.00% | ~108,607 |
-| Information is Key | 80.00% | ~105,958 |
-| Unlucky | 71.00% | ~94,038 |
+| Immovable Object | 89.00% | ~117,880 |
+| Comeback | 82.00% | ~108,608 |
+| Information is Key | 80.00% | ~105,959 |
+| Unlucky | 71.00% | ~94,039 |
 | Anarchist | 68.00% | ~90,065 |
-| Wallhack | 65.00% | ~86,091 |
+| Wallhack | 65.00% | ~86,092 |
 | Steady Supply | 60.00% | ~79,469 |
-| Lucky Shot | 53.00% | ~70,197 |
+| Lucky Shot | 53.00% | ~70,198 |
 | Forward Observer | 52.00% | ~68,873 |
 | Ring Ring! | 52.00% | ~68,873 |
 | Bossing Around | 45.00% | ~59,602 |
 | Frostbite | 45.00% | ~59,602 |
-| Night Owl | 44.00% | ~58,277 |
-| Strength in Numbers | 44.00% | ~58,277 |
+| Night Owl | 44.00% | ~58,278 |
+| Strength in Numbers | 44.00% | ~58,278 |
 | Fog of War | 41.00% | ~54,304 |
 | Anyone Else? | 39.00% | ~51,655 |
 | Rasputin | 39.00% | ~51,655 |
 | Stronghold Denied | 39.00% | ~51,655 |
-| Hydra | 36.00% | ~47,681 |
-| This Belongs to Us Now | 36.00% | ~47,681 |
+| Hydra | 36.00% | ~47,682 |
+| This Belongs to Us Now | 36.00% | ~47,682 |
 | Stronghold | 35.00% | ~46,357 |
 | Leeroy | 33.00% | ~43,708 |
 | Lost Batallion | 33.00% | ~43,708 |
-| This is MY Machine Gun! | 32.00% | ~42,383 |
+| This is MY Machine Gun! | 32.00% | ~42,384 |
 | Together As One | 31.00% | ~41,059 |
 | Gavrilo Princip | 27.00% | ~35,761 |
 | Lead Harvest | 25.00% | ~33,112 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,192 |
 | Road to Berlin | 0.60% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,448 (Ranked 70)  
+Progressed: 132,449 (Ranked 70)  
 Completed: 29 (0.02%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 29 (0.02%) (Ranked 275)
 | 2023-09-28 | 132,172 | 29 |
 | 2023-09-29 | 132,303 | 29 |
 | 2023-09-30 | 132,442 | 29 |
-| 2023-10-01 | 132,448 | 29 |
+| 2023-10-01 | 132,449 | 29 |
 ## Awards
 Max (Competitive Players): 333  (Ranked 234)  
 Sum: 2,900 (Ranked 173)  

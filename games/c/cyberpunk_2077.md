@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,596 |
-| Rough Landing | 3.00% | ~26,596 |
+| Ten out of Ten | 3.00% | ~26,597 |
+| Rough Landing | 3.00% | ~26,597 |
 | Full Body Conversion | 2.00% | ~17,731 |
 | Right Back At Ya | 2.00% | ~17,731 |
 | Gunslinger | 2.00% | ~17,731 |
@@ -18,16 +18,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 2.00% | ~17,731 |
 | Two Heads, One Bullet | 2.00% | ~17,731 |
 | V for Vendetta | 2.00% | ~17,731 |
-| To Bad Decisions! | 1.00% | ~8,865 |
-| Breathtaking | 1.00% | ~8,865 |
-| Stanislavski's Method | 1.00% | ~8,865 |
-| Temperance | 1.00% | ~8,865 |
-| The Fool | 1.00% | ~8,865 |
-| The Hermit | 1.00% | ~8,865 |
-| The Lovers | 1.00% | ~8,865 |
-| The Wheel of Fortune | 1.00% | ~8,865 |
-| True Warrior | 1.00% | ~8,865 |
-| Legend of The Afterlife | 1.00% | ~8,865 |
+| To Bad Decisions! | 1.00% | ~8,866 |
+| Breathtaking | 1.00% | ~8,866 |
+| Stanislavski's Method | 1.00% | ~8,866 |
+| Temperance | 1.00% | ~8,866 |
+| The Fool | 1.00% | ~8,866 |
+| The Hermit | 1.00% | ~8,866 |
+| The Lovers | 1.00% | ~8,866 |
+| The Wheel of Fortune | 1.00% | ~8,866 |
+| True Warrior | 1.00% | ~8,866 |
+| Legend of The Afterlife | 1.00% | ~8,866 |
 | The Quick and the Dead | 0.90% | ~7,979 |
 | The Devil | 0.90% | ~7,979 |
 | Gun Fu | 0.80% | ~7,092 |
@@ -35,8 +35,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.80% | ~7,092 |
 | Judy vs Night City | 0.80% | ~7,092 |
 | It's Elementary | 0.80% | ~7,092 |
+| Greetings from Pacifica! | 0.70% | ~6,206 |
 | City Lights | 0.60% | ~5,319 |
-| Greetings from Pacifica! | 0.60% | ~5,319 |
 | Life of the Road | 0.50% | ~4,433 |
 | Bushido and Chill | 0.40% | ~3,546 |
 | I Am The Law | 0.40% | ~3,546 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,537 (Ranked 15)  
+Progressed: 886,557 (Ranked 15)  
 Completed: 2,508 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 2,508 (0.28%) (Ranked 202)
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
-| 2023-10-01 | 886,537 | 2,508 |
+| 2023-10-01 | 886,557 | 2,508 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
-Sum: 246,267 (Ranked 13)  
+Sum: 246,588 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -242,9 +242,9 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 11,741 |
 | This game is Highly Recommended | 11,707 |
 | This game is Extremely Fun | 11,448 |
+| This game is Relaxing | 11,440 |
 | This game has Amazing Characters | 11,422 |
 | This game has Quickly Understood Controls | 11,255 |
-| This game is Relaxing | 11,119 |
 | This game has a Creative Community | 7,380 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -504,4 +504,4 @@ Diff (max vs sum): -4
 | 2023-09-28 | 4.63 | - | 85,114 | 235,282 |
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
-| 2023-10-01 | 4.63 | - | 87,369 | 246,267 |
+| 2023-10-01 | 4.63 | - | 87,369 | 246,588 |

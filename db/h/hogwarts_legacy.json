@@ -8248,10 +8248,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44692,
       "NumberOfAwardsMax": 23160
+    },
+    {
+      "Time": "2023-10-01T02:20:38.1824634+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44696,
+      "NumberOfAwardsMax": 23160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44692,
+  "NumberOfAwards": 44696,
   "NumberOfAwardsMax": 23160,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8325,12 +8331,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 677
+      "Count": 681
     }
   ],
-  "EOS_Progressed": 297629,
+  "EOS_Progressed": 297631,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25983,6 +25989,11 @@
       "Time": "2023-10-01T01:54:09.3074683+00:00",
       "NumProgressed": 297629,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-01T02:26:27.1318655+00:00",
+      "NumProgressed": 297631,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -25994,7 +26005,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44644
+      "UsersEstimate": 44645
     },
     {
       "ID": "PFA_10",
@@ -26114,7 +26125,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35715
+      "UsersEstimate": 35716
     },
     {
       "ID": "PFA_24",
@@ -26274,7 +26285,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14881
+      "UsersEstimate": 14882
     },
     {
       "ID": "PFA_42",
@@ -26338,7 +26349,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35715
+      "UsersEstimate": 35716
     },
     {
       "ID": "PFA_9",
@@ -26353,16 +26364,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297629,
+      "Progressed": 297631,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-30T22:58:21.7378388+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:54:09.3074675+00:00",
+  "LastChanged": "2023-10-01T02:20:38.1824633+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:26:27.131865+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:48:33.9058431+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:54:09.3076102+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:20:38.1824641+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:26:27.1320073+00:00"
 }

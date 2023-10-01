@@ -5178,9 +5178,9 @@
       "ID": "ScienceTroglodyte_29",
       "SetID": "c4hee28",
       "Name": "Science, Troglodyte!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 848
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5322,8 +5322,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:53:34.6413677+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:25:34.0796913+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:49:11.836918+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:53:34.6414325+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:21:15.0827155+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:25:34.0797517+00:00"
 }

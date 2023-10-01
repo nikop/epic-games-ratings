@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -383,17 +383,17 @@
       "ID": "MY_FIRST_PLANIMAL",
       "SetID": "ca3djk0",
       "Name": "My first Planimal!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 197
     },
     {
       "ID": "RED_SLIME_TIME",
       "SetID": "ca3djk0",
       "Name": "Red Slime Time",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 186
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -440,8 +440,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:53:39.4731654+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:25:38.7608709+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:30.8035696+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:48:46.2340048+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:53:39.4731796+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:20:51.9608947+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:25:38.7608831+00:00"
 }

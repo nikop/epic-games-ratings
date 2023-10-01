@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7495,10 +7495,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14658,
       "NumberOfAwardsMax": 7159
+    },
+    {
+      "Time": "2023-10-01T02:21:04.7829015+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14662,
+      "NumberOfAwardsMax": 7159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14658,
+  "NumberOfAwards": 14662,
   "NumberOfAwardsMax": 7159,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7560,13 +7566,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 815
+      "Count": 816
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 595
+      "Count": 598
     },
     {
       "Text": "This game has Competitive Players",
@@ -7575,9 +7581,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62455,
+  "EOS_Progressed": 62456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24955,6 +24961,11 @@
       "Time": "2023-10-01T01:56:08.7327736+00:00",
       "NumProgressed": 62455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T02:28:23.1243481+00:00",
+      "NumProgressed": 62456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25158,7 +25169,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10617
+      "UsersEstimate": 10618
     },
     {
       "ID": "Kingslayer",
@@ -25198,7 +25209,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24357
+      "UsersEstimate": 24358
     },
     {
       "ID": "Lawmaker",
@@ -25373,15 +25384,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62455,
+      "Progressed": 62456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-30T20:59:31.432878+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:56:08.7327726+00:00",
+  "LastChanged": "2023-10-01T02:21:04.7829014+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:28:23.1243476+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:48:59.146799+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:56:08.7329197+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:21:04.7829022+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:28:23.124494+00:00"
 }

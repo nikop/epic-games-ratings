@@ -2,9 +2,9 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1111,6 +1111,11 @@
       "Time": "2023-09-24T01:53:10.4897195+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T02:31:29.3889366+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1242,7 +1247,7 @@
       "Name": "Statue \u2714",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achVirus",
@@ -1265,14 +1270,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:59:09.4734975+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:31:29.3889362+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:05.1548579+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:48:14.3223448+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:59:09.4735166+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:20:18.9135219+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:31:29.388956+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,644 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,645 |
 | First Class Student | 13.00% | ~38,692 |
 | Troll with the Punches | 13.00% | ~38,692 |
-| A Keen Sense of Spell | 12.00% | ~35,715 |
-| That's a Keeper | 12.00% | ~35,715 |
+| A Keen Sense of Spell | 12.00% | ~35,716 |
+| That's a Keeper | 12.00% | ~35,716 |
 | The Defender of Dragons | 11.00% | ~32,739 |
 | Loom for Improvement | 11.00% | ~32,739 |
 | A Talent for Spending | 11.00% | ~32,739 |
@@ -30,7 +30,7 @@ Rating: 4.76 (Ranked 119)
 | The Root of the Problem | 6.00% | ~17,858 |
 | Third Time's a Charm | 6.00% | ~17,858 |
 | Raising Expectations | 6.00% | ~17,858 |
-| The Ends Petrify the Means | 5.00% | ~14,881 |
+| The Ends Petrify the Means | 5.00% | ~14,882 |
 | The Toast of the Town | 4.00% | ~11,905 |
 | Going Through the Potions | 4.00% | ~11,905 |
 | Room with a View | 4.00% | ~11,905 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,629 (Ranked 46)  
+Progressed: 297,631 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 479 (0.16%) (Ranked 221)
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
-| 2023-10-01 | 297,629 | 479 |
+| 2023-10-01 | 297,631 | 479 |
 ## Awards
 Max (Character Customization): 23,160  (Ranked 17)  
-Sum: 44,692 (Ranked 30)  
+Sum: 44,696 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,034 |
 | This game has Quickly Understood Controls | 964 |
 | This game has Beautiful Visuals | 900 |
-| This game has a Creative Community | 677 |
+| This game has a Creative Community | 681 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -428,3 +428,4 @@ Diff (max vs sum): -13
 | 2023-09-28 | 4.76 | 23,108 | 44,540 |
 | 2023-09-29 | 4.76 | 23,132 | 44,612 |
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
+| 2023-10-01 | 4.76 | 23,160 | 44,696 |

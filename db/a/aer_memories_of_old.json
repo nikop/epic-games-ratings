@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21193,
+  "EOS_Progressed": 21195,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -17945,6 +17945,11 @@
       "Time": "2023-10-01T01:56:33.7608514+00:00",
       "NumProgressed": 21193,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2023-10-01T02:28:47.3262754+00:00",
+      "NumProgressed": 21195,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 20,
@@ -17980,7 +17985,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -17996,7 +18001,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -18004,7 +18009,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -18076,7 +18081,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16319
+      "UsersEstimate": 16320
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18084,7 +18089,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5934
+      "UsersEstimate": 5935
     },
     {
       "ID": "NORTH_FINISHED",
@@ -18115,15 +18120,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21193,
+      "Progressed": 21195,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-01T01:56:33.7608509+00:00",
+  "LastChanged_Achievements": "2023-10-01T02:28:47.3262749+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-01T01:49:42.2092117+00:00",
-  "LastUpdate_Achievements": "2023-10-01T01:56:33.7609716+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:21:44.9857749+00:00",
+  "LastUpdate_Achievements": "2023-10-01T02:28:47.3263942+00:00"
 }

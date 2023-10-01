@@ -1,30 +1,30 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.32 (Ranked 791)  
+Rating: 4.32 (Ranked 792)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 66.00% | ~344 |
+| Explorer | 66.00% | ~345 |
 | Cowardice | 60.00% | ~313 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~260 |
-| Eat Lead! | 48.00% | ~250 |
+| NO LIFE IS WORTH SAVING... | 50.00% | ~261 |
+| Eat Lead! | 48.00% | ~251 |
 | The Breaking Point | 46.00% | ~240 |
-| Prospector | 44.00% | ~229 |
-| Here Comes the Boom | 44.00% | ~229 |
+| Here Comes the Boom | 44.00% | ~230 |
+| Prospector | 43.00% | ~224 |
 | Treasure Hunter | 41.00% | ~214 |
-| The Motivation | 40.00% | ~208 |
-| Sniper Wolf | 40.00% | ~208 |
+| The Motivation | 40.00% | ~209 |
+| Sniper Wolf | 40.00% | ~209 |
 | Heroism | 38.00% | ~198 |
 | Missing in Action | 36.00% | ~188 |
 | Collectibles of Chapter I | 34.00% | ~177 |
 | Consequences | 34.00% | ~177 |
 | King of Knives | 33.00% | ~172 |
 | Opportunities | 32.00% | ~167 |
-| The Horror | 30.00% | ~156 |
+| The Horror | 30.00% | ~157 |
 | The Difference | 27.00% | ~141 |
-| Vengeance | 26.00% | ~135 |
+| Vengeance | 26.00% | ~136 |
 | Collectibles of Chapter II | 23.00% | ~120 |
 | Broken Hopes | 23.00% | ~120 |
 | It's Just an Accident | 23.00% | ~120 |
@@ -32,15 +32,15 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 20.00% | ~104 |
 | Food Massacre | 19.00% | ~99 |
 | Atonement | 18.00% | ~94 |
-| Helping Hand | 16.00% | ~83 |
-| Without a Second Thought | 16.00% | ~83 |
+| Helping Hand | 16.00% | ~84 |
+| Without a Second Thought | 16.00% | ~84 |
 | Collectibles of Chapter III | 15.00% | ~78 |
 | Collectibles of Chapter IV | 15.00% | ~78 |
 | Collectibles of Chapter V | 10.00% | ~52 |
 | Such is War! | 9.00% | ~47 |
 | Tiptoe Around | 9.00% | ~47 |
-| Collectibles of Chapter XII | 7.00% | ~36 |
-| Piece of Cake | 7.00% | ~36 |
+| Collectibles of Chapter XII | 7.00% | ~37 |
+| Piece of Cake | 7.00% | ~37 |
 | Collectibles of Chapter VII | 6.00% | ~31 |
 | Collectibles of Chapter VIII | 5.00% | ~26 |
 | The Good Samaritan | 5.00% | ~26 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521 (Ranked 264)  
+Progressed: 522 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 0 (0.00%) (Ranked 300)
 | 2023-09-28 | 517 | 0 |
 | 2023-09-29 | 519 | 0 |
 | 2023-09-30 | 521 | 0 |
+| 2023-10-01 | 522 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
