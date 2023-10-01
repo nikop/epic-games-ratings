@@ -2572,9 +2572,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 1053771,
+  "EOS_Progressed": 1053783,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 4129,
+  "EOS_NewPlayers": 4125,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20967,6 +20967,11 @@
       "Time": "2023-10-01T02:28:17.0032946+00:00",
       "NumProgressed": 1053771,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-10-01T03:05:55.5253586+00:00",
+      "NumProgressed": 1053783,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 37,
@@ -20978,7 +20983,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 347744
+      "UsersEstimate": 347748
     },
     {
       "ID": "CompleteAustralia",
@@ -21002,7 +21007,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 73764
+      "UsersEstimate": 73765
     },
     {
       "ID": "CompleteChile",
@@ -21026,7 +21031,7 @@
       "Name": "God of Roads",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21075
+      "UsersEstimate": 21076
     },
     {
       "ID": "CompleteHawaii",
@@ -21066,7 +21071,7 @@
       "Name": "Pathfinder",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21075
+      "UsersEstimate": 21076
     },
     {
       "ID": "CompleteUAE",
@@ -21090,7 +21095,7 @@
       "Name": "Go-Kart Champion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21075
+      "UsersEstimate": 21076
     },
     {
       "ID": "FinishAllTournamentsGoldHard",
@@ -21170,7 +21175,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 115915
+      "UsersEstimate": 115916
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -21178,7 +21183,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 948394
+      "UsersEstimate": 948405
     },
     {
       "ID": "GetLotsOfScore",
@@ -21186,7 +21191,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 21075
+      "UsersEstimate": 21076
     },
     {
       "ID": "GetReallyFast",
@@ -21202,7 +21207,7 @@
       "Name": "Harder, Better, Faster, Stronger",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21075
+      "UsersEstimate": 21076
     },
     {
       "ID": "InstallOneUpgrade",
@@ -21210,7 +21215,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 495272
+      "UsersEstimate": 495278
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -21218,7 +21223,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 189679
+      "UsersEstimate": 189681
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -21242,7 +21247,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 663876
+      "UsersEstimate": 663883
     },
     {
       "ID": "WinBySmallDifference",
@@ -21250,7 +21255,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 189679
+      "UsersEstimate": 189681
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -21273,15 +21278,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1053771,
+      "Progressed": 1053783,
       "Completed": 441
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-09-25T09:01:29.6949482+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:28:17.003294+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:05:55.5253578+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.1875479+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:21:03.4239293+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:28:17.0034345+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:58:31.2230122+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:05:55.5254658+00:00"
 }

@@ -33,10 +33,10 @@ Rating: 4.19 (Ranked 888)
 | One Last Job | 2.00% | ~78 |
 | This Isn't About Escape | 1.00% | ~39 |
 | Armed to the Teeth | 0.70% | ~27 |
+| Big Spender | 0.70% | ~27 |
 | Information Overload | 0.70% | ~27 |
 | Grim Reaper | 0.60% | ~96 |
 | Parole Denied | 0.60% | ~23 |
-| Big Spender | 0.60% | ~23 |
 | Quick Pick | 0.50% | ~20 |
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~16 |
@@ -213,8 +213,8 @@ Completed: 73 (0.46%) (Ranked 168)
 | 2023-09-30 | 15,977 | 73 |
 ## Awards
 Max (Amazing Storytelling): 74  (Ranked 378)  
-Sum: 431 (Ranked 319)  
-Diff (max vs sum): 59  
+Sum: 431 (Ranked 320)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 74 |

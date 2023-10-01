@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43365,
+  "EOS_Progressed": 43366,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15881,6 +15881,11 @@
       "Time": "2023-09-30T22:07:54.8610317+00:00",
       "NumProgressed": 43365,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-10-01T03:06:25.3642623+00:00",
+      "NumProgressed": 43366,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -15892,7 +15897,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24718
+      "UsersEstimate": 24719
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15940,7 +15945,7 @@
       "Name": "Hatching",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4336
+      "UsersEstimate": 4337
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -16012,7 +16017,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34692
+      "UsersEstimate": 34693
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16052,7 +16057,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6938
+      "UsersEstimate": 6939
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -16068,7 +16073,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9540
+      "UsersEstimate": 9541
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -16076,7 +16081,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6938
+      "UsersEstimate": 6939
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -16132,7 +16137,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27320
+      "UsersEstimate": 27321
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -16156,7 +16161,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26019
+      "UsersEstimate": 26020
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -16196,7 +16201,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19514
+      "UsersEstimate": 19515
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -16228,7 +16233,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40329
+      "UsersEstimate": 40330
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16243,7 +16248,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43365,
+      "Progressed": 43366,
       "Completed": 238
     }
   ],
@@ -16251,8 +16256,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:28:45.7045844+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:06:25.3642617+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.9212531+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:21:05.4454014+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:28:45.7047168+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:58:33.188752+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:06:25.3643749+00:00"
 }

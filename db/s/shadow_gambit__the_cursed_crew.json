@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -92,11 +92,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 688,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.06,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1947,6 +1947,11 @@
       "Time": "2023-09-30T23:06:31.5291838+00:00",
       "NumProgressed": 686,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-01T03:06:43.2500803+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1967,15 +1972,15 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 468
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 372
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1983,7 +1988,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "_05_FinishAct2",
@@ -1991,7 +1996,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2007,15 +2012,15 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 289
     },
     {
       "ID": "_09_Completion_20",
@@ -2039,7 +2044,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "_12_Completion_50",
@@ -2047,7 +2052,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "_13_Completion_60",
@@ -2071,7 +2076,7 @@
       "Name": "Marauder",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -2079,7 +2084,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2087,7 +2092,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2103,7 +2108,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2119,7 +2124,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2151,7 +2156,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2159,14 +2164,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 688,
       "Completed": 21
     }
   ],
@@ -2174,8 +2179,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:29:02.7963623+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:06:43.2500798+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:21:33.1128737+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:29:02.7963932+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:59:02.6883331+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:06:43.2501051+00:00"
 }

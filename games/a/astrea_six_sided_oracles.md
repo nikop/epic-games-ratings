@@ -25,9 +25,9 @@
 | Shard Spender | 17.00% | ~5 |
 | Skeptical | 17.00% | ~5 |
 | Dice Specialist | 13.00% | ~4 |
+| Denying Destiny | 10.00% | ~3 |
 | Wave Bender | 10.00% | ~3 |
 | Can't touch this | 7.00% | ~2 |
-| Denying Destiny | 7.00% | ~2 |
 | Heart Gate | 7.00% | ~2 |
 | Heavy Purger | 7.00% | ~2 |
 | Pocket Astrarium | 7.00% | ~2 |

@@ -6,18 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 3.00% | ~26,597 |
-| Rough Landing | 3.00% | ~26,597 |
-| Full Body Conversion | 2.00% | ~17,731 |
-| Right Back At Ya | 2.00% | ~17,731 |
-| Gunslinger | 2.00% | ~17,731 |
-| Master Crafter | 2.00% | ~17,731 |
-| Mean Streets | 2.00% | ~17,731 |
-| The High Priestess | 2.00% | ~17,731 |
-| The Jungle | 2.00% | ~17,731 |
-| True Soldier | 2.00% | ~17,731 |
-| Two Heads, One Bullet | 2.00% | ~17,731 |
-| V for Vendetta | 2.00% | ~17,731 |
+| Ten out of Ten | 3.00% | ~26,598 |
+| Rough Landing | 3.00% | ~26,598 |
+| Full Body Conversion | 2.00% | ~17,732 |
+| Right Back At Ya | 2.00% | ~17,732 |
+| Gunslinger | 2.00% | ~17,732 |
+| Master Crafter | 2.00% | ~17,732 |
+| Mean Streets | 2.00% | ~17,732 |
+| The High Priestess | 2.00% | ~17,732 |
+| The Jungle | 2.00% | ~17,732 |
+| True Soldier | 2.00% | ~17,732 |
+| Two Heads, One Bullet | 2.00% | ~17,732 |
+| V for Vendetta | 2.00% | ~17,732 |
 | To Bad Decisions! | 1.00% | ~8,866 |
 | Breathtaking | 1.00% | ~8,866 |
 | Stanislavski's Method | 1.00% | ~8,866 |
@@ -30,13 +30,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 1.00% | ~8,866 |
 | The Quick and the Dead | 0.90% | ~7,979 |
 | The Devil | 0.90% | ~7,979 |
-| Gun Fu | 0.80% | ~7,092 |
-| Christmas Tree Attack | 0.80% | ~7,092 |
-| The World | 0.80% | ~7,092 |
-| Judy vs Night City | 0.80% | ~7,092 |
-| It's Elementary | 0.80% | ~7,092 |
+| Gun Fu | 0.80% | ~7,093 |
+| Christmas Tree Attack | 0.80% | ~7,093 |
+| The World | 0.80% | ~7,093 |
+| Judy vs Night City | 0.80% | ~7,093 |
+| It's Elementary | 0.80% | ~7,093 |
 | Greetings from Pacifica! | 0.70% | ~6,206 |
-| City Lights | 0.60% | ~5,319 |
+| City Lights | 0.60% | ~5,320 |
 | Life of the Road | 0.50% | ~4,433 |
 | Bushido and Chill | 0.40% | ~3,546 |
 | I Am The Law | 0.40% | ~3,546 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886,557 (Ranked 15)  
-Completed: 2,508 (0.28%) (Ranked 202)  
+Progressed: 886,586 (Ranked 15)  
+Completed: 2,509 (0.28%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 2,508 (0.28%) (Ranked 202)
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
-| 2023-10-01 | 886,557 | 2,508 |
+| 2023-10-01 | 886,586 | 2,509 |
 ## Awards
 Max (Character Customization): 87,369  (Ranked 9)  
 Sum: 246,588 (Ranked 13)  

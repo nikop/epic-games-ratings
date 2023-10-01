@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,906 |
+| Sowwy! | 32.00% | ~72,908 |
 | Alt+F4 | 6.00% | ~13,670 |
 | Where's that freaking Dwarf? | 5.00% | ~11,392 |
-| Déjà vu | 4.00% | ~9,113 |
+| Déjà vu | 4.00% | ~9,114 |
 | A beer, two curses, three companions | 3.00% | ~6,835 |
 | Sock! SOCK! | 3.00% | ~6,835 |
 | GG EZ | 3.00% | ~6,835 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~2,278 |
 | I am the night | 1.00% | ~2,278 |
 | Thieves' Guild Accreditation | 1.00% | ~2,278 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,050 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,051 |
 | Dead for good | 0.80% | ~1,823 |
 | Lust and Debauchery | 0.80% | ~1,823 |
 | Material Girl | 0.80% | ~1,823 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.40% | ~911 |
 | An old poacher makes the best gamekeeper | 0.40% | ~911 |
 | Law and Order | 0.40% | ~911 |
-| Scholar of the Lands of Fangh | 0.30% | ~683 |
-| It's been a hard day's night | 0.30% | ~683 |
+| Scholar of the Lands of Fangh | 0.30% | ~684 |
+| It's been a hard day's night | 0.30% | ~684 |
 | Friendly fire | 0.20% | ~456 |
 | I'd rather... Just... Sing! | 0.20% | ~456 |
 | The number of the counting shalt be 7 | 0.20% | ~456 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,832 (Ranked 58)  
+Progressed: 227,839 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 5 (0.00%) (Ranked 300)
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
-| 2023-10-01 | 227,832 | 5 |
+| 2023-10-01 | 227,839 | 5 |
 ## Awards
 Max (Character Customization): 202  (Ranked 276)  
 Sum: 394 (Ranked 326)  

@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,335 |
-| Powergamer | 27.00% | ~66,859 |
-| Barely scratched the surface | 25.00% | ~61,906 |
-| Write that down | 24.00% | ~59,430 |
-| Guns, lots of guns | 13.00% | ~32,191 |
+| I will finish what you started | 28.00% | ~69,336 |
+| Powergamer | 27.00% | ~66,860 |
+| Barely scratched the surface | 25.00% | ~61,907 |
+| Write that down | 24.00% | ~59,431 |
+| Guns, lots of guns | 13.00% | ~32,192 |
 | Collector | 12.00% | ~29,715 |
-| Elementary! | 9.00% | ~22,286 |
+| Elementary! | 9.00% | ~22,287 |
 | Pumpkin Jack | 8.00% | ~19,810 |
 | Wake up! | 8.00% | ~19,810 |
 | It's honest work | 7.00% | ~17,334 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,429 |
 | I like to sniff around | 3.00% | ~7,429 |
 | Mind reader | 3.00% | ~7,429 |
-| Catnip | 2.00% | ~4,952 |
-| Gentleman's classic | 2.00% | ~4,952 |
-| Is that a rift? | 2.00% | ~4,952 |
-| It's alive! | 2.00% | ~4,952 |
-| Enjoy the beach | 2.00% | ~4,952 |
-| Rinse and repeat | 2.00% | ~4,952 |
-| Mama, I'm a criminal | 2.00% | ~4,952 |
-| Never gonna give you up | 2.00% | ~4,952 |
+| Catnip | 2.00% | ~4,953 |
+| Gentleman's classic | 2.00% | ~4,953 |
+| Is that a rift? | 2.00% | ~4,953 |
+| It's alive! | 2.00% | ~4,953 |
+| Enjoy the beach | 2.00% | ~4,953 |
+| Rinse and repeat | 2.00% | ~4,953 |
+| Mama, I'm a criminal | 2.00% | ~4,953 |
+| Never gonna give you up | 2.00% | ~4,953 |
 | A muscle to rely on | 1.00% | ~2,476 |
 | A true blacksmith | 1.00% | ~2,476 |
 | I am in great pain, please help me | 1.00% | ~2,476 |
@@ -49,9 +49,9 @@ Number of Ratings: 33  (23.09.2022)
 | I have the high ground | 0.70% | ~1,733 |
 | Enjoy these little moments | 0.50% | ~1,238 |
 | Who wouldn't love a troll? | 0.50% | ~1,238 |
-| Irondec | 0.40% | ~990 |
-| LET ME OUT! | 0.40% | ~990 |
-| Un-bear-able | 0.40% | ~990 |
+| Irondec | 0.40% | ~991 |
+| LET ME OUT! | 0.40% | ~991 |
+| Un-bear-able | 0.40% | ~991 |
 | Well-deserved reunion | 0.30% | ~743 |
 | Breaking the chains | 0.20% | ~495 |
 | Aren't you overthinking? | 0.20% | ~495 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~495 |
 | Memory 5 | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,625 (Ranked 51)  
+Progressed: 247,629 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 7 (0.00%) (Ranked 300)
 | 2023-09-28 | 247,372 | 7 |
 | 2023-09-29 | 247,489 | 7 |
 | 2023-09-30 | 247,614 | 7 |
-| 2023-10-01 | 247,625 | 7 |
+| 2023-10-01 | 247,629 | 7 |
 ## Awards
 Max (Character Customization): 82  (Ranked 367)  
 Sum: 82 (Ranked 435)  

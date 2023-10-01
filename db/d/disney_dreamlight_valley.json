@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3838,11 +3838,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7631,
       "NumberOfAwardsMax": 977
+    },
+    {
+      "Time": "2023-10-01T02:58:39.6838594+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7635,
+      "NumberOfAwardsMax": 981
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7631,
-  "NumberOfAwardsMax": 977,
+  "NumberOfAwards": 7635,
+  "NumberOfAwardsMax": 981,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3855,7 +3861,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 977
+      "Count": 981
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3912,9 +3918,9 @@
       "Count": 507
     }
   ],
-  "EOS_Progressed": 10446,
+  "EOS_Progressed": 10447,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
@@ -14547,6 +14553,11 @@
       "Time": "2023-10-01T02:26:45.556428+00:00",
       "NumProgressed": 10446,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-10-01T03:04:23.0070372+00:00",
+      "NumProgressed": 10447,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 15,
@@ -14598,7 +14609,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5327
+      "UsersEstimate": 5328
     },
     {
       "ID": "Duty_Bound",
@@ -14614,7 +14625,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "Generous",
@@ -14630,7 +14641,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7312
+      "UsersEstimate": 7313
     },
     {
       "ID": "Miner",
@@ -14654,7 +14665,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5327
+      "UsersEstimate": 5328
     },
     {
       "ID": "Thorn_Cleaner",
@@ -14677,16 +14688,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10446,
+      "Progressed": 10447,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-09-30T18:58:46.7255814+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:26:45.5564275+00:00",
+  "LastChanged": "2023-10-01T02:58:39.6838593+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:04:23.0070366+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.6415358+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:21:10.8528898+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:26:45.5565044+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:58:39.6838599+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:04:23.0070974+00:00"
 }

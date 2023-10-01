@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -626,9 +626,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1886,6 +1886,11 @@
       "Time": "2023-10-01T02:28:00.5625516+00:00",
       "NumProgressed": 642,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T03:05:39.3960914+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -1898,7 +1903,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "achievement_10",
@@ -1906,7 +1911,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_11",
@@ -1970,7 +1975,7 @@
       "Name": "Full Arsenal",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_19",
@@ -1986,7 +1991,7 @@
       "Name": "Lab Rat",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "achievement_20",
@@ -1994,7 +1999,7 @@
       "Name": "Autofire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_21",
@@ -2010,15 +2015,15 @@
       "Name": "A Cut Above",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_23",
       "SetID": "222fo9l",
       "Name": "Pusher",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_24",
@@ -2034,7 +2039,7 @@
       "Name": "Full Contact",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_26",
@@ -2050,7 +2055,7 @@
       "Name": "Pack Rat",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_28",
@@ -2074,7 +2079,7 @@
       "Name": "All Systems Go",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_30",
@@ -2090,7 +2095,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "achievement_32",
@@ -2098,7 +2103,7 @@
       "Name": "Surgeon",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_33",
@@ -2122,7 +2127,7 @@
       "Name": "Freeze",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_36",
@@ -2186,7 +2191,7 @@
       "Name": "Brute Force",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_43",
@@ -2266,14 +2271,14 @@
       "Name": "Wreckage",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 3
     }
   ],
@@ -2281,8 +2286,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-09-28T18:01:12.2874889+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:28:00.5625511+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:05:39.3960909+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:19:37.2367596+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:28:00.5626024+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:57:02.9377308+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:05:39.3961307+00:00"
 }

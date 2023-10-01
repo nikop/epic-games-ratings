@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528351,
+  "EOS_Progressed": 528353,
   "EOS_Completed": 479,
   "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 1,
@@ -17964,6 +17964,11 @@
       "Time": "2023-10-01T02:28:43.1551963+00:00",
       "NumProgressed": 528351,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-01T03:06:22.6824217+00:00",
+      "NumProgressed": 528353,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 57,
@@ -17983,7 +17988,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237758
+      "UsersEstimate": 237759
     },
     {
       "ID": "11",
@@ -17991,7 +17996,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369846
+      "UsersEstimate": 369847
     },
     {
       "ID": "12",
@@ -17999,7 +18004,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116237
+      "UsersEstimate": 116238
     },
     {
       "ID": "13",
@@ -18055,7 +18060,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327578
+      "UsersEstimate": 327579
     },
     {
       "ID": "2",
@@ -18071,7 +18076,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126804
+      "UsersEstimate": 126805
     },
     {
       "ID": "21",
@@ -18231,7 +18236,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179639
+      "UsersEstimate": 179640
     },
     {
       "ID": "4",
@@ -18303,7 +18308,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327578
+      "UsersEstimate": 327579
     },
     {
       "ID": "48",
@@ -18311,7 +18316,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105670
+      "UsersEstimate": 105671
     },
     {
       "ID": "49",
@@ -18319,7 +18324,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179639
+      "UsersEstimate": 179640
     },
     {
       "ID": "5",
@@ -18351,7 +18356,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243041
+      "UsersEstimate": 243042
     },
     {
       "ID": "53",
@@ -18430,15 +18435,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528351,
+      "Progressed": 528353,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:28:43.1551957+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:06:22.6824213+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.5517072+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:20:32.1403148+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:28:43.1553529+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:58:00.0519817+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:06:22.6825478+00:00"
 }

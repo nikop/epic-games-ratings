@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70252,
+  "EOS_Progressed": 70255,
   "EOS_Completed": 371,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -18219,6 +18219,11 @@
       "Time": "2023-10-01T01:56:02.7490514+00:00",
       "NumProgressed": 70252,
       "NumCompleted": 371
+    },
+    {
+      "Time": "2023-10-01T03:05:55.8461837+00:00",
+      "NumProgressed": 70255,
+      "NumCompleted": 371
     }
   ],
   "TotalAchievements": 24,
@@ -18238,7 +18243,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15455
+      "UsersEstimate": 15456
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -18246,7 +18251,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47771
+      "UsersEstimate": 47773
     },
     {
       "ID": "BEST_FRIENDS",
@@ -18254,7 +18259,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15455
+      "UsersEstimate": 15456
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -18270,7 +18275,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "FETCH",
@@ -18278,7 +18283,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18968
+      "UsersEstimate": 18969
     },
     {
       "ID": "FOXIN_AROUND",
@@ -18286,7 +18291,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20373
+      "UsersEstimate": 20374
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -18302,7 +18307,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12645
+      "UsersEstimate": 12646
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -18310,7 +18315,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37234
+      "UsersEstimate": 37235
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -18374,7 +18379,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "SPIRIT_DASH",
@@ -18390,7 +18395,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11240
+      "UsersEstimate": 11241
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -18406,7 +18411,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -18414,14 +18419,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11240
+      "UsersEstimate": 11241
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70252,
+      "Progressed": 70255,
       "Completed": 371
     }
   ],
@@ -18429,8 +18434,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:28:17.1902417+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:05:55.8461833+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.2012891+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:21:48.044381+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:28:17.1903677+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:59:20.1851678+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:05:55.8462842+00:00"
 }

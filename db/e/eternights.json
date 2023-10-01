@@ -861,9 +861,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -988,8 +988,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-01T02:26:37.7082388+00:00",
+  "LastChanged_Achievements": "2023-10-01T03:04:14.8243873+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-01T02:22:03.1520307+00:00",
-  "LastUpdate_Achievements": "2023-10-01T02:26:37.7082619+00:00"
+  "LastUpdate_Ratings": "2023-10-01T02:59:34.9990004+00:00",
+  "LastUpdate_Achievements": "2023-10-01T03:04:14.8244047+00:00"
 }

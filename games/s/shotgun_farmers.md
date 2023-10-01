@@ -11,14 +11,14 @@
 | No Asperascope | 57.00% | ~173 |
 | Survivor | 56.00% | ~142 |
 | Cornivore | 52.00% | ~158 |
-| I Believe I Can Fly | 49.00% | ~148 |
+| I Believe I Can Fly | 50.00% | ~152 |
 | No Diggity | 43.00% | ~109 |
 | Early Survivor | 40.00% | ~101 |
 | Bouncemato | 32.00% | ~81 |
 | 10K | 30.00% | ~91 |
 | Amateur Survivor | 30.00% | ~76 |
 | 15K | 28.00% | ~85 |
-| Quick-Draw Pod | 23.00% | ~58 |
+| Quick-Draw Pod | 24.00% | ~61 |
 | Drinking Problem | 22.00% | ~67 |
 | Professional Survivor | 21.00% | ~53 |
 | Grave Digger | 21.00% | ~53 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 303)  
+Progressed: 303 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
