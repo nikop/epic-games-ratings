@@ -4,23 +4,23 @@
 Rating: 4.80 (Ranked 85)  
 Number of Ratings: 165  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 59  (Ranked 397)  
-Sum: 412 (Ranked 322)  
-Diff (max vs sum): 75  
+Max (Great for Beginners): 62  (Ranked 395)  
+Sum: 461 (Ranked 316)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 158 |
-| This game is Great for Beginners | 59 |
-| This game is Extremely Fun | 59 |
-| This game has Diverse Characters | 45 |
-| This game is Relaxing | 44 |
+| This game is Great for Beginners | 62 |
+| This game is Extremely Fun | 61 |
+| This game is Relaxing | 47 |
+| This game has Diverse Characters | 47 |
+| This game is Highly Recommended | 43 |
 | This game has Amazing Storytelling | 43 |
-| This game is Highly Recommended | 42 |
-| This game has Amazing Characters | 33 |
-| This game has Competitive Players | 33 |
-| This game has Quickly Understood Controls | 32 |
-| This game has Unique Visuals | 26 |
-| This game has a Creative Community | 22 |
+| This game has Amazing Characters | 34 |
+| This game has Competitive Players | 34 |
+| This game has Unique Visuals | 34 |
+| This game has Quickly Understood Controls | 33 |
+| This game has a Creative Community | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -206,3 +206,4 @@ Diff (max vs sum): 75
 | 2023-09-22 | 4.80 | - | 59 | 406 |
 | 2023-09-23 | 4.80 | - | 59 | 409 |
 | 2023-09-24 | 4.80 | - | 59 | 412 |
+| 2023-10-01 | 4.80 | - | 62 | 461 |

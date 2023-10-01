@@ -2,9 +2,9 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -61,6 +61,11 @@
       "Time": "2023-10-01T06:05:16.616919+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T18:06:22.44458+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T01:48:39.6492868+00:00",
@@ -71,7 +76,7 @@
       "ID": "bisont",
       "SetID": "40o2ndb",
       "Name": "The Good, the Bad and the Rooster",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -79,7 +84,7 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -97,7 +102,7 @@
       "Name": "Very clean, would recommend!",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "insane",
@@ -119,7 +124,7 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -127,7 +132,7 @@
       "ID": "mafia",
       "SetID": "40o2ndb",
       "Name": "Bye Gangrooster City",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -151,7 +156,7 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -159,7 +164,7 @@
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 85,
       "UsersEstimate": 4
     },
@@ -191,7 +196,7 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 85,
       "UsersEstimate": 3
     },
@@ -207,7 +212,7 @@
       "ID": "world4",
       "SetID": "40o2ndb",
       "Name": "Sleep well Mwamwa Princess",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 85,
       "UsersEstimate": 2
     },
@@ -223,7 +228,7 @@
       "ID": "world5",
       "SetID": "40o2ndb",
       "Name": "Rocky, the eye of the rooster",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 85,
       "UsersEstimate": 2
     },
@@ -239,7 +244,7 @@
       "ID": "world6",
       "SetID": "40o2ndb",
       "Name": "The tale is over and the mages come over",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 85,
       "UsersEstimate": 1
     }
@@ -248,14 +253,14 @@
     {
       "ID": "40o2ndb",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-01T17:05:19.871132+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:06:22.4445794+00:00",
   "LastUpdate_AppInfo": "2023-09-24T18:57:19.3549601+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:58:50.0485148+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:05:19.8711529+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:59:31.0747072+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:06:22.444603+00:00"
 }

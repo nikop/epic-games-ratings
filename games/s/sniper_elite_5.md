@@ -1,24 +1,24 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 647)  
+Rating: 4.45 (Ranked 648)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,696 |
+| Meeting Resistance | 46.00% | ~1,697 |
 | Confirming Suspicions | 41.00% | ~1,512 |
 | The Kraken Wakes | 36.00% | ~1,328 |
 | It's Starting to Crack | 33.00% | ~1,217 |
-| Lord of War | 30.00% | ~1,106 |
-| Change the Channel | 30.00% | ~1,106 |
+| Lord of War | 30.00% | ~1,107 |
+| Change the Channel | 30.00% | ~1,107 |
 | Taking it back | 28.00% | ~1,033 |
 | Resourceful | 27.00% | ~996 |
 | Target America | 26.00% | ~959 |
 | The Kraken Sleeps | 24.00% | ~885 |
-| Liberté | 22.00% | ~811 |
-| Organ Grinder | 22.00% | ~811 |
-| As Quiet as a Mouse | 22.00% | ~811 |
-| Sharpshooter | 21.00% | ~774 |
+| Liberté | 22.00% | ~812 |
+| Organ Grinder | 22.00% | ~812 |
+| As Quiet as a Mouse | 22.00% | ~812 |
+| Sharpshooter | 21.00% | ~775 |
 | Explosive Efficiency | 19.00% | ~701 |
 | Gunslinger | 18.00% | ~664 |
 | Just a Flesh Wound | 17.00% | ~627 |
@@ -32,8 +32,8 @@ Rating: 4.45 (Ranked 647)
 | Fields of Glory | 14.00% | ~516 |
 | Skirmisher | 14.00% | ~516 |
 | Die Nussknacker Sweet! | 14.00% | ~516 |
-| Opposing Force | 13.00% | ~479 |
-| Set Europe Ablaze | 13.00% | ~479 |
+| Opposing Force | 13.00% | ~480 |
+| Set Europe Ablaze | 13.00% | ~480 |
 | Precision Is Key | 9.00% | ~332 |
 | My Little Friend | 9.00% | ~332 |
 | Rigged to Blow | 8.00% | ~295 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 647)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,688 (Ranked 176)  
+Progressed: 3,689 (Ranked 176)  
 Completed: 11 (0.30%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 11 (0.30%) (Ranked 198)
 | 2023-09-28 | 3,679 | 11 |
 | 2023-09-29 | 3,683 | 11 |
 | 2023-09-30 | 3,688 | 11 |
+| 2023-10-01 | 3,689 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

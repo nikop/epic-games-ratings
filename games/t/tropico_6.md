@@ -1,13 +1,13 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,064 |
-| Un-Lonely Island | 47.00% | ~2,547 |
+| Just One...More...Term... | 75.00% | ~4,065 |
+| Un-Lonely Island | 46.00% | ~2,493 |
 | The Beginning of a Servantship | 45.00% | ~2,439 |
 | Trade Is My Trait | 37.00% | ~2,005 |
 | Number 18 | 24.00% | ~1,301 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,419 (Ranked 166)  
+Progressed: 5,420 (Ranked 166)  
 Completed: 2 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2 (0.04%) (Ranked 268)
 | 2023-09-28 | 5,388 | 2 |
 | 2023-09-29 | 5,397 | 2 |
 | 2023-09-30 | 5,410 | 2 |
-| 2023-10-01 | 5,419 | 2 |
+| 2023-10-01 | 5,420 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 344)  
 Sum: 696 (Ranked 283)  

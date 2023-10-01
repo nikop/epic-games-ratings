@@ -21,7 +21,7 @@
 | Hard Rock | 33.00% | ~32 |
 | Rooftop | 29.00% | ~28 |
 | Homeless | 29.00% | ~28 |
-| Big badaboom! | 26.00% | ~25 |
+| Big badaboom! | 27.00% | ~26 |
 | Magnitude 5 | 25.00% | ~24 |
 | Bookworm | 24.00% | ~23 |
 | Payback | 23.00% | ~22 |
@@ -29,8 +29,8 @@
 | Full power | 21.00% | ~20 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~20 |
 | Compulsive hoarder | 20.00% | ~19 |
-| GG EZ | 13.00% | ~13 |
-| Comeback | 13.00% | ~13 |
+| GG EZ | 14.00% | ~14 |
+| Comeback | 14.00% | ~14 |
 | MayDay! MayDay! | 11.00% | ~11 |
 | Gooooooaaaaal!!! | 8.00% | ~8 |
 | Sadistic | 2.00% | ~2 |

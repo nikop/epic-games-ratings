@@ -4,7 +4,7 @@
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -401,8 +401,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-01T17:05:01.55129+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:06:00.5518949+00:00",
   "LastUpdate_AppInfo": "2023-09-29T18:57:19.0074012+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:58:30.7024826+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:05:01.551331+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:59:07.0849574+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:06:00.5519407+00:00"
 }

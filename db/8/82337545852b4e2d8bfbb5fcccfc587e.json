@@ -298,9 +298,9 @@
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EpicACHV_14",
@@ -354,9 +354,9 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 70,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EpicACHV_5",
@@ -409,8 +409,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-01T17:04:43.2943183+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:05:38.3675274+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.4292457+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:59:24.9533866+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:04:43.2943329+00:00"
+  "LastUpdate_Ratings": "2023-10-01T18:00:14.8967477+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:05:38.3675437+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2070,
+  "EOS_Progressed": 2071,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2636,6 +2636,11 @@
       "Time": "2023-10-01T13:06:38.3847535+00:00",
       "NumProgressed": 2070,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-01T18:05:29.3833915+00:00",
+      "NumProgressed": 2071,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2655,7 +2660,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACHV_03",
@@ -2719,7 +2724,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHV_11",
@@ -2789,9 +2794,9 @@
       "ID": "ACHV_19",
       "SetID": "8p5mlmc",
       "Name": "Defense in Depth",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHV_20",
@@ -2799,7 +2804,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHV_21",
@@ -2847,7 +2852,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACHV_27",
@@ -2919,7 +2924,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACHV_36",
@@ -2927,7 +2932,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHV_37",
@@ -2935,7 +2940,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHV_38",
@@ -2949,9 +2954,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACHV_40",
@@ -2965,9 +2970,9 @@
       "ID": "ACHV_41",
       "SetID": "8p5mlmc",
       "Name": "Suited and Booted",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 807
+      "UsersEstimate": 787
     },
     {
       "ID": "ACHV_42",
@@ -2975,7 +2980,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHV_43",
@@ -2999,7 +3004,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHV_46",
@@ -3102,7 +3107,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2070,
+      "Progressed": 2071,
       "Completed": 12
     }
   ],
@@ -3110,8 +3115,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-01T17:04:35.7244099+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:05:29.3833911+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.8847367+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:57:29.334836+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:04:35.7244805+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:57:52.0365331+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:05:29.3834622+00:00"
 }

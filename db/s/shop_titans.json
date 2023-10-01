@@ -6,9 +6,9 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6260,10 +6260,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27315,
       "NumberOfAwardsMax": 4763
+    },
+    {
+      "Time": "2023-10-01T18:00:42.2986363+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27316,
+      "NumberOfAwardsMax": 4763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27315,
+  "NumberOfAwards": 27316,
   "NumberOfAwardsMax": 4763,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6313,12 +6319,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3753
+      "Count": 3754
     }
   ],
-  "EOS_Progressed": 136954,
+  "EOS_Progressed": 136957,
   "EOS_Completed": 160,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23161,6 +23167,11 @@
       "Time": "2023-10-01T16:08:13.3895748+00:00",
       "NumProgressed": 136954,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-10-01T18:09:29.7132924+00:00",
+      "NumProgressed": 136957,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 112,
@@ -23506,9 +23517,9 @@
       "ID": "enchant01",
       "SetID": "anfd17p",
       "Name": "Hidden Potential",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 822
     },
     {
       "ID": "enchant02",
@@ -24067,15 +24078,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136954,
+      "Progressed": 136957,
       "Completed": 160
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-01T16:59:49.0102062+00:00",
-  "LastChanged_Achievements": "2023-10-01T17:08:29.5901796+00:00",
+  "LastChanged": "2023-10-01T18:00:42.2986362+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:09:29.7132919+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:59:49.0102085+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:08:29.5905125+00:00"
+  "LastUpdate_Ratings": "2023-10-01T18:00:42.2986368+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:09:29.7135443+00:00"
 }

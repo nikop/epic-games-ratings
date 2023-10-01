@@ -37,6 +37,7 @@ Rating: 4.85 (Ranked 43)
 | There's such a thing as TOO helpful | 4.00% | ~165 |
 | Chip-tuned | 3.00% | ~123 |
 | We're Jammin' | 2.00% | ~82 |
+| I hit things with a guitar really well. | 2.00% | ~82 |
 | Wanna hear my playlist? | 2.00% | ~82 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~82 |
 | Check out my moves! | 2.00% | ~82 |
@@ -46,7 +47,6 @@ Rating: 4.85 (Ranked 43)
 | This is a breeze! | 1.00% | ~41 |
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
-| I hit things with a guitar really well. | 1.00% | ~41 |
 | You ever parry a volcano? | 0.90% | ~37 |
 | New bad guys? No problem! | 0.80% | ~21 |
 | OK, well THEY came after ME! | 0.60% | ~25 |

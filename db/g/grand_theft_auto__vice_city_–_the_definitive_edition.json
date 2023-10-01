@@ -718,9 +718,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 10502,
+  "EOS_Progressed": 10504,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10928,6 +10928,11 @@
       "Time": "2023-10-01T16:06:55.1155732+00:00",
       "NumProgressed": 10502,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-01T18:08:50.467145+00:00",
+      "NumProgressed": 10504,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -11043,7 +11048,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     },
     {
       "ID": "ACH15",
@@ -11099,7 +11104,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4831
+      "UsersEstimate": 4832
     },
     {
       "ID": "ACH22",
@@ -11107,7 +11112,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ACH23",
@@ -11123,7 +11128,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH25",
@@ -11131,7 +11136,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH26",
@@ -11139,7 +11144,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH27",
@@ -11210,7 +11215,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10502,
+      "Progressed": 10504,
       "Completed": 58
     }
   ],
@@ -11218,8 +11223,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-30T22:00:18.252534+00:00",
-  "LastChanged_Achievements": "2023-10-01T17:07:26.0458961+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:08:50.4671443+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-01T17:00:05.6551578+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:07:26.0459881+00:00"
+  "LastUpdate_Ratings": "2023-10-01T18:01:00.1569863+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:08:50.4672568+00:00"
 }

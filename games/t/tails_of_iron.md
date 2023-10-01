@@ -28,9 +28,9 @@ Rating: 4.54 (Ranked 511)
 | Return the Statues | 27.00% | ~524 |
 | Defeat Rattus Augustail | 27.00% | ~524 |
 | Complete the Chefs Book | 25.00% | ~485 |
-| Complete Ranger Faction | 21.00% | ~407 |
+| Complete Ranger Faction | 22.00% | ~427 |
 | Defeat Avor Warden of the Northern Wastes | 21.00% | ~407 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~369 |
+| Discover the mystery of the Kings Chambers | 20.00% | ~388 |
 | Complete Arena Faction | 16.00% | ~310 |
 | Complete Redgi's Armory | 8.00% | ~155 |
 | King of Kings | 8.00% | ~155 |

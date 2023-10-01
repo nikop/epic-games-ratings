@@ -12,7 +12,7 @@
 | Endless Tricks | 76.00% | ~26 |
 | Sanctuary Guardian | 76.00% | ~26 |
 | Mind Illuminator | 62.00% | ~21 |
-| Stellar Dismantler | 50.00% | ~17 |
+| Stellar Dismantler | 53.00% | ~18 |
 | Astral Adventurer | 35.00% | ~12 |
 | Star Killer | 35.00% | ~12 |
 | Anomaly Destroyer | 29.00% | ~10 |

@@ -5,44 +5,44 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,678 |
-| Hotel California | 3.00% | ~20,678 |
-| Welcome To Hell-A | 3.00% | ~20,678 |
-| Dr. Reed, I Presume? | 2.00% | ~13,785 |
-| Git Gutte! | 2.00% | ~13,785 |
-| Anger Management | 2.00% | ~13,785 |
-| Bookworm | 2.00% | ~13,785 |
-| But Doctor, I am Butcho | 2.00% | ~13,785 |
-| Slayer Squad | 2.00% | ~13,785 |
-| Can't Handle the Truth | 2.00% | ~13,785 |
-| Coup de Grâce | 2.00% | ~13,785 |
-| Like Riding a Bike | 2.00% | ~13,785 |
-| Hazardous Materials | 2.00% | ~13,785 |
-| Friends Like These | 2.00% | ~13,785 |
-| Apex Predator | 2.00% | ~13,785 |
-| Zombologist | 2.00% | ~13,785 |
-| Ooh, Shiny! | 2.00% | ~13,785 |
-| A Patton Emerges | 2.00% | ~13,785 |
-| I Am the Resurrection | 2.00% | ~13,785 |
-| Stacking the Deck | 2.00% | ~13,785 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,785 |
-| Our True Nature | 2.00% | ~13,785 |
-| This is My Weapon | 2.00% | ~13,785 |
+| Break A Leg | 3.00% | ~20,679 |
+| Hotel California | 3.00% | ~20,679 |
+| Welcome To Hell-A | 3.00% | ~20,679 |
+| Dr. Reed, I Presume? | 2.00% | ~13,786 |
+| Git Gutte! | 2.00% | ~13,786 |
+| Anger Management | 2.00% | ~13,786 |
+| Bookworm | 2.00% | ~13,786 |
+| But Doctor, I am Butcho | 2.00% | ~13,786 |
+| Slayer Squad | 2.00% | ~13,786 |
+| Can't Handle the Truth | 2.00% | ~13,786 |
+| Coup de Grâce | 2.00% | ~13,786 |
+| Like Riding a Bike | 2.00% | ~13,786 |
+| Hazardous Materials | 2.00% | ~13,786 |
+| Friends Like These | 2.00% | ~13,786 |
+| Apex Predator | 2.00% | ~13,786 |
+| Zombologist | 2.00% | ~13,786 |
+| Ooh, Shiny! | 2.00% | ~13,786 |
+| A Patton Emerges | 2.00% | ~13,786 |
+| I Am the Resurrection | 2.00% | ~13,786 |
+| Stacking the Deck | 2.00% | ~13,786 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,786 |
+| Our True Nature | 2.00% | ~13,786 |
+| This is My Weapon | 2.00% | ~13,786 |
 | Making Your Mark | 1.00% | ~6,893 |
 | Perks of the Job | 1.00% | ~6,893 |
 | I Got a Zombie Army and You Can't Harm Me | 1.00% | ~6,893 |
 | Humanity Distilled | 1.00% | ~6,893 |
 | Down with the Sickness | 1.00% | ~6,893 |
 | Max Headroom | 1.00% | ~6,893 |
-| Go, Bobcats! | 0.90% | ~6,203 |
-| Rising Star | 0.90% | ~6,203 |
-| Jumbo Keyring | 0.80% | ~5,514 |
+| Go, Bobcats! | 0.90% | ~6,204 |
+| Rising Star | 0.90% | ~6,204 |
+| Jumbo Keyring | 0.80% | ~5,515 |
 | Smorgasbord | 0.70% | ~4,825 |
 | Not Even My Final Form | 0.60% | ~4,136 |
 | Internet Famous | 0.60% | ~4,136 |
-| Make it So | 0.50% | ~3,446 |
-| On Safari | 0.50% | ~3,446 |
-| Variety is the Spice of Death | 0.50% | ~3,446 |
+| Make it So | 0.50% | ~3,447 |
+| On Safari | 0.50% | ~3,447 |
+| Variety is the Spice of Death | 0.50% | ~3,447 |
 | LA Influential | 0.40% | ~2,757 |
 | Gore Horse | 0.40% | ~2,757 |
 | Sharpest Tool in the Box | 0.40% | ~2,757 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~689 |
 | Bucket List | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,266 (Ranked 22)  
+Progressed: 689,314 (Ranked 22)  
 Completed: 2,183 (0.32%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 2,183 (0.32%) (Ranked 193)
 | 2023-09-28 | 687,692 | 2,177 |
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
-| 2023-10-01 | 689,266 | 2,183 |
+| 2023-10-01 | 689,314 | 2,183 |
 ## Awards
 Max (Great Boss Battles): 6,270  (Ranked 58)  
 Sum: 9,350 (Ranked 91)  

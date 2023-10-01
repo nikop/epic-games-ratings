@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 648,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3688,
+  "EOS_Progressed": 3689,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7010,6 +7010,11 @@
       "Time": "2023-09-30T23:05:27.6879891+00:00",
       "NumProgressed": 3688,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-01T18:07:32.2952536+00:00",
+      "NumProgressed": 3689,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7029,7 +7034,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7053,7 +7058,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -7085,7 +7090,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7101,7 +7106,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7157,7 +7162,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7173,7 +7178,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7229,7 +7234,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7261,7 +7266,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7357,7 +7362,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7588,13 +7593,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3639,
+      "Progressed": 3640,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3688,
+      "Progressed": 3689,
       "Completed": 11
     }
   ],
@@ -7602,8 +7607,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-01T17:06:19.9866853+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:07:32.2952533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:58:00.1221438+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:06:19.9868242+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:58:28.5946003+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:07:32.2953978+00:00"
 }

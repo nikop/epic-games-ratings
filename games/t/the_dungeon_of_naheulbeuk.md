@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,960 |
-| Alt+F4 | 6.00% | ~13,680 |
-| Where's that freaking Dwarf? | 5.00% | ~11,400 |
-| Déjà vu | 4.00% | ~9,120 |
+| Sowwy! | 32.00% | ~72,965 |
+| Alt+F4 | 6.00% | ~13,681 |
+| Where's that freaking Dwarf? | 5.00% | ~11,401 |
+| Déjà vu | 4.00% | ~9,121 |
 | A beer, two curses, three companions | 3.00% | ~6,840 |
 | Sock! SOCK! | 3.00% | ~6,840 |
 | GG EZ | 3.00% | ~6,840 |
@@ -36,10 +36,10 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 1.00% | ~2,280 |
 | Look but don't touch | 1.00% | ~2,280 |
 | The beards of change | 1.00% | ~2,280 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,280 |
 | The Ranger of Chaos | 1.00% | ~2,280 |
 | I am the night | 1.00% | ~2,280 |
 | Thieves' Guild Accreditation | 1.00% | ~2,280 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,052 |
 | Dead for good | 0.80% | ~1,824 |
 | Lust and Debauchery | 0.80% | ~1,824 |
 | Material Girl | 0.80% | ~1,824 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,001 (Ranked 58)  
+Progressed: 228,016 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 5 (0.00%) (Ranked 303)
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
-| 2023-10-01 | 228,001 | 5 |
+| 2023-10-01 | 228,016 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 397 (Ranked 326)  

@@ -8,7 +8,7 @@
 | Welcome to the Tower | 53.00% | ~126 |
 | The great escape | 47.00% | ~112 |
 | The Preacher's fate | 45.00% | ~107 |
-| A new dawn | 41.00% | ~98 |
+| A new dawn | 42.00% | ~100 |
 | Scholar | 40.00% | ~95 |
 | The darkness | 39.00% | ~93 |
 | A good beginning | 38.00% | ~90 |
@@ -19,15 +19,15 @@
 | Half the way | 32.00% | ~76 |
 | Peace walker | 31.00% | ~74 |
 | In this together | 30.00% | ~71 |
-| Open door | 26.00% | ~62 |
+| Open door | 27.00% | ~64 |
 | Feels like springtime | 25.00% | ~60 |
 | Rascal | 24.00% | ~57 |
 | Free at last | 23.00% | ~55 |
 | Alchemists Express | 23.00% | ~55 |
 | I did it | 21.00% | ~50 |
 | A Link to the Past | 19.00% | ~45 |
+| A great audience | 16.00% | ~38 |
 | For its own good | 16.00% | ~38 |
-| A great audience | 15.00% | ~36 |
 | Fashion victim | 12.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 238 (Ranked 327)  

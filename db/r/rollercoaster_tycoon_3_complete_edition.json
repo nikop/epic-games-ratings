@@ -2,12 +2,12 @@
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 318,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-09-24T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 687,
   "RatingHistory": [
     {
@@ -1043,10 +1043,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 439,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-10-01T17:57:24.3219438+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 440,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 439,
+  "NumberOfAwards": 440,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1090,7 +1096,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1134,8 +1140,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-09-30T23:00:27.9796776+00:00",
+  "LastChanged": "2023-10-01T17:57:24.3219437+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.1557229+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:57:04.8995211+00:00",
-  "LastUpdate_Achievements": "2023-10-01T17:09:03.7419357+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:57:24.3219442+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:09:46.5032281+00:00"
 }

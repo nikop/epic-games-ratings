@@ -5,19 +5,19 @@ Rating: 4.17 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,095 |
-| Unlocked Potential | 9.00% | ~3,686 |
-| Tinkerer | 7.00% | ~2,867 |
-| Knock 'Em Dead | 7.00% | ~2,867 |
-| Hell of a Run | 7.00% | ~2,867 |
-| Leapfrogger | 6.00% | ~2,457 |
-| Pilgrimage: Initiate | 6.00% | ~2,457 |
-| Call of the Fount: Baptized | 6.00% | ~2,457 |
+| Attachments | 10.00% | ~4,097 |
+| Unlocked Potential | 9.00% | ~3,687 |
+| Tinkerer | 7.00% | ~2,868 |
+| Knock 'Em Dead | 7.00% | ~2,868 |
+| Hell of a Run | 7.00% | ~2,868 |
+| Leapfrogger | 6.00% | ~2,458 |
+| Pilgrimage: Initiate | 6.00% | ~2,458 |
+| Call of the Fount: Baptized | 6.00% | ~2,458 |
 | No Mercy | 5.00% | ~2,048 |
 | Explorer: Seeker | 5.00% | ~2,048 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,638 |
-| Stuck | 4.00% | ~1,638 |
-| Help Me Out Here | 4.00% | ~1,638 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,639 |
+| Stuck | 4.00% | ~1,639 |
+| Help Me Out Here | 4.00% | ~1,639 |
 | Outdoorsperson | 3.00% | ~1,229 |
 | The Interloper | 3.00% | ~1,229 |
 | Hop, Step, Jump | 3.00% | ~1,229 |
@@ -59,7 +59,7 @@ Rating: 4.17 (Ranked 903)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,954 (Ranked 105)  
+Progressed: 40,968 (Ranked 105)  
 Completed: 3 (0.01%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 3 (0.01%) (Ranked 286)
 | 2023-09-28 | 40,097 | 3 |
 | 2023-09-29 | 40,425 | 3 |
 | 2023-09-30 | 40,800 | 3 |
-| 2023-10-01 | 40,954 | 3 |
+| 2023-10-01 | 40,968 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 494)  

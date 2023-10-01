@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 0.60% | ~822 |
 | Flying off the Shelves | 0.60% | ~822 |
 | This Power Level...! | 0.60% | ~822 |
+| Hidden Potential | 0.60% | ~822 |
 | Expansion in Session | 0.60% | ~822 |
 | Trash to Treasure | 0.60% | ~822 |
 | Miracle Alchemist | 0.60% | ~822 |
@@ -72,7 +73,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.50% | ~685 |
 | Omae wa Mou Shindeiru | 0.50% | ~685 |
 | Master of Transmutation | 0.50% | ~685 |
-| Hidden Potential | 0.50% | ~685 |
 | Supercharged | 0.50% | ~685 |
 | Ritualist | 0.50% | ~685 |
 | Cranked up to 11 | 0.50% | ~685 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,954 (Ranked 70)  
-Completed: 160 (0.12%) (Ranked 232)  
+Progressed: 136,957 (Ranked 70)  
+Completed: 160 (0.12%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,10 +283,10 @@ Completed: 160 (0.12%) (Ranked 232)
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
-| 2023-10-01 | 136,954 | 160 |
+| 2023-10-01 | 136,957 | 160 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
-Sum: 27,315 (Ranked 49)  
+Sum: 27,316 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): 22
 | This game is Relaxing | 4,018 |
 | This game has Quickly Understood Controls | 4,008 |
 | This game has Diverse Characters | 3,897 |
-| This game is Highly Recommended | 3,753 |
+| This game is Highly Recommended | 3,754 |
 | This game has Easy Combat | 3,695 |
 | This game has Playful Visuals | 3,181 |
 | This game has Inclusive Character Customization | 22 |
@@ -547,4 +547,4 @@ Diff (max vs sum): 22
 | 2023-09-27 | 3.99 | - | 4,760 | 27,301 |
 | 2023-09-28 | 3.99 | - | 4,761 | 27,304 |
 | 2023-09-30 | 3.99 | - | 4,763 | 27,314 |
-| 2023-10-01 | 3.99 | - | 4,763 | 27,315 |
+| 2023-10-01 | 3.99 | - | 4,763 | 27,316 |

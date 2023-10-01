@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
+| Defend Where? | 0.10% | ~14 |
 | Run, Pheidippides, Run! | 0.10% | ~14 |
 | Nenikekamen | 0.10% | ~14 |
 | A Good Start | 0.10% | ~14 |
@@ -265,7 +266,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Defend Where? | 0.00% | ~0 |
 | Get the Hellas Out | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | The Turning Point | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,267 (Ranked 133)  
+Progressed: 14,269 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 268)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,267 | 5 |
+| 2023-10-01 | 14,269 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,825 (Ranked 207)  

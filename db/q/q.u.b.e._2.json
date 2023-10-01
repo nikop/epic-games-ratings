@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 510,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -2123,6 +2123,11 @@
       "Time": "2023-10-01T16:07:01.6089393+00:00",
       "NumProgressed": 509,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T18:03:29.458231+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2143,15 +2148,15 @@
       "Name": "The Flawed Teacher",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2279,7 +2284,7 @@
       "Name": "Mission Success",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_HUB2",
@@ -2293,9 +2298,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_PEAK",
@@ -2303,7 +2308,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_PROPELL",
@@ -2327,7 +2332,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_S4",
@@ -2335,7 +2340,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_S5",
@@ -2359,22 +2364,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 510,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-01T16:07:01.6089389+00:00",
+  "LastChanged_Achievements": "2023-10-01T18:03:29.4582305+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-01T16:58:58.4280349+00:00",
-  "LastUpdate_Achievements": "2023-10-01T16:07:01.608963+00:00"
+  "LastUpdate_Ratings": "2023-10-01T17:59:40.5544472+00:00",
+  "LastUpdate_Achievements": "2023-10-01T18:03:29.4583076+00:00"
 }
