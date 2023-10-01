@@ -6,9 +6,9 @@
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -482,9 +482,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13427,
+  "EOS_Progressed": 13428,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9472,6 +9472,11 @@
       "Time": "2023-10-01T12:06:54.2411368+00:00",
       "NumProgressed": 13427,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-01T13:10:13.9885304+00:00",
+      "NumProgressed": 13428,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -9483,7 +9488,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12353
+      "UsersEstimate": 12354
     },
     {
       "ID": "ACH_02",
@@ -9491,7 +9496,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10607
+      "UsersEstimate": 10608
     },
     {
       "ID": "ACH_03",
@@ -9507,7 +9512,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9399
+      "UsersEstimate": 9400
     },
     {
       "ID": "ACH_05",
@@ -9515,7 +9520,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9130
+      "UsersEstimate": 9131
     },
     {
       "ID": "ACH_06",
@@ -9539,7 +9544,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "ACH_09",
@@ -9547,7 +9552,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7653
+      "UsersEstimate": 7654
     },
     {
       "ID": "ACH_10",
@@ -9555,7 +9560,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6982
+      "UsersEstimate": 6983
     },
     {
       "ID": "ACH_11",
@@ -9571,7 +9576,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6176
+      "UsersEstimate": 6177
     },
     {
       "ID": "ACH_13",
@@ -9611,7 +9616,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ACH_18",
@@ -9659,7 +9664,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "ACH_24",
@@ -9699,7 +9704,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9130
+      "UsersEstimate": 9131
     },
     {
       "ID": "ACH_29",
@@ -9755,14 +9760,14 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13427,
+      "Progressed": 13428,
       "Completed": 48
     }
   ],
@@ -9770,8 +9775,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-30T15:00:34.1300995+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:06:54.2411362+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:10:13.98853+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:02.3030751+00:00",
-  "LastUpdate_Ratings": "2023-10-01T12:00:29.094042+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:06:54.241199+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:02:32.6455431+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:10:13.9886195+00:00"
 }

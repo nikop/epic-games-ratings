@@ -6,13 +6,13 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~95,478 |
-| NATURAL BORN WINNER | 33.00% | ~76,848 |
-| CALLING HOUSTON | 28.00% | ~65,204 |
-| SNEAKY SNEAKY | 22.00% | ~51,232 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~51,232 |
-| GT9STRADALE | 20.00% | ~46,575 |
-| CHALLENGER | 11.00% | ~25,616 |
+| VANGUARD | 41.00% | ~95,480 |
+| NATURAL BORN WINNER | 33.00% | ~76,850 |
+| CALLING HOUSTON | 28.00% | ~65,206 |
+| SNEAKY SNEAKY | 22.00% | ~51,233 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~51,233 |
+| GT9STRADALE | 20.00% | ~46,576 |
+| CHALLENGER | 11.00% | ~25,617 |
 | ON A ROLL | 9.00% | ~20,959 |
 | CENTAUR | 8.00% | ~18,630 |
 | FASTER THAN EVER | 8.00% | ~18,630 |
@@ -22,17 +22,17 @@ Number of Ratings: 274  (23.09.2022)
 | SHOWOFF | 4.00% | ~9,315 |
 | TAKATORA | 4.00% | ~9,315 |
 | GILA | 3.00% | ~6,986 |
-| PRO | 2.00% | ~4,657 |
-| RESPWND | 2.00% | ~4,657 |
-| SHINY SHINY GOLD | 2.00% | ~4,657 |
+| PRO | 2.00% | ~4,658 |
+| RESPWND | 2.00% | ~4,658 |
+| SHINY SHINY GOLD | 2.00% | ~4,658 |
 | HARDCORE | 1.00% | ~2,329 |
 | ACE | 0.80% | ~1,863 |
 | TACTICIAN | 0.60% | ~1,397 |
 | GTX COMPETIZIONE | 0.50% | ~1,164 |
 | HIDDEN POWER | 0.50% | ~1,164 |
 | TUNING MANIAC | 0.50% | ~1,164 |
-| DRAGOON | 0.40% | ~931 |
-| FLAWLESS | 0.40% | ~931 |
+| DRAGOON | 0.40% | ~932 |
+| FLAWLESS | 0.40% | ~932 |
 | BETTER THAN EVER | 0.20% | ~466 |
 | IINI | 0.20% | ~466 |
 | MARID | 0.20% | ~466 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~466 |
 | ENLIGHTENED | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,873 (Ranked 55)  
+Progressed: 232,878 (Ranked 55)  
 Completed: 47 (0.02%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 47 (0.02%) (Ranked 277)
 | 2023-09-28 | 232,687 | 47 |
 | 2023-09-29 | 232,750 | 47 |
 | 2023-09-30 | 232,843 | 47 |
-| 2023-10-01 | 232,873 | 47 |
+| 2023-10-01 | 232,878 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

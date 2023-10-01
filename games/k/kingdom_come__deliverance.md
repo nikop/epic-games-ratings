@@ -1,40 +1,40 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 190)  
+Rating: 4.71 (Ranked 189)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,038 |
-| Cavalier | 25.00% | ~200,811 |
-| Fatso | 23.00% | ~184,746 |
-| Awakening | 21.00% | ~168,681 |
-| Ranger | 20.00% | ~160,649 |
-| Scrooge | 20.00% | ~160,649 |
-| Anorectic | 16.00% | ~128,519 |
-| Bookworm | 15.00% | ~120,487 |
-| Firestarter | 15.00% | ~120,487 |
-| Insomniac | 13.00% | ~104,422 |
-| Buddy | 12.00% | ~96,389 |
-| Thief | 12.00% | ~96,389 |
-| Sinner | 11.00% | ~88,357 |
-| Traveller | 11.00% | ~88,357 |
-| Convict | 10.00% | ~80,324 |
-| Haggler | 9.00% | ~72,292 |
-| McLovin | 7.00% | ~56,227 |
-| Runt | 7.00% | ~56,227 |
+| Blacksmith's Son | 32.00% | ~257,041 |
+| Cavalier | 25.00% | ~200,814 |
+| Fatso | 23.00% | ~184,748 |
+| Awakening | 21.00% | ~168,683 |
+| Ranger | 20.00% | ~160,651 |
+| Scrooge | 20.00% | ~160,651 |
+| Anorectic | 16.00% | ~128,521 |
+| Bookworm | 15.00% | ~120,488 |
+| Firestarter | 15.00% | ~120,488 |
+| Insomniac | 13.00% | ~104,423 |
+| Buddy | 12.00% | ~96,390 |
+| Thief | 12.00% | ~96,390 |
+| Sinner | 11.00% | ~88,358 |
+| Traveller | 11.00% | ~88,358 |
+| Convict | 10.00% | ~80,325 |
+| Haggler | 9.00% | ~72,293 |
+| McLovin | 7.00% | ~56,228 |
+| Runt | 7.00% | ~56,228 |
 | Casanova | 6.00% | ~48,195 |
-| Bad Trip | 5.00% | ~40,162 |
-| Monk | 5.00% | ~40,162 |
-| Serial Killer | 5.00% | ~40,162 |
+| Bad Trip | 5.00% | ~40,163 |
+| Monk | 5.00% | ~40,163 |
+| Serial Killer | 5.00% | ~40,163 |
 | Bastard | 4.00% | ~32,130 |
 | Hunter | 4.00% | ~32,130 |
 | Plague Doctor | 4.00% | ~32,130 |
-| Bard | 3.00% | ~24,097 |
-| Conqueror | 3.00% | ~24,097 |
-| Ginger in a Pickle | 3.00% | ~24,097 |
-| Kingdom did not come | 3.00% | ~24,097 |
+| Bard | 3.00% | ~24,098 |
+| Conqueror | 3.00% | ~24,098 |
+| Ginger in a Pickle | 3.00% | ~24,098 |
+| Kingdom did not come | 3.00% | ~24,098 |
 | Completionist | 2.00% | ~16,065 |
 | Death by splinter | 2.00% | ~16,065 |
 | King Charming | 2.00% | ~16,065 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,065 |
 | Talmberger | 2.00% | ~16,065 |
 | The End | 2.00% | ~16,065 |
-| Woman's Lot | 1.00% | ~8,032 |
-| Chivalrous Soul | 1.00% | ~8,032 |
-| Spoilsport | 1.00% | ~8,032 |
-| Freud | 1.00% | ~8,032 |
-| Gambler | 1.00% | ~8,032 |
-| Master Huntsman | 1.00% | ~8,032 |
-| Stealth Killer | 1.00% | ~8,032 |
+| Woman's Lot | 1.00% | ~8,033 |
+| Chivalrous Soul | 1.00% | ~8,033 |
+| Spoilsport | 1.00% | ~8,033 |
+| Freud | 1.00% | ~8,033 |
+| Gambler | 1.00% | ~8,033 |
+| Master Huntsman | 1.00% | ~8,033 |
+| Stealth Killer | 1.00% | ~8,033 |
 | Bailiff | 0.90% | ~7,229 |
 | Tracker | 0.90% | ~7,229 |
 | David Horak | 0.70% | ~5,623 |
 | Fighter | 0.70% | ~5,623 |
 | Mercenary's Honour | 0.70% | ~5,623 |
 | Saviour | 0.70% | ~5,623 |
-| Edward Kelly | 0.60% | ~4,819 |
+| Edward Kelly | 0.60% | ~4,820 |
 | I Can Quit Anytime | 0.50% | ~4,016 |
 | Perfectionist | 0.50% | ~4,016 |
 | Alcoholic | 0.30% | ~2,410 |
 | Sniper | 0.30% | ~2,410 |
-| Angel of Mercy | 0.20% | ~1,606 |
-| Christian Burial | 0.20% | ~1,606 |
-| Friends without benefits | 0.20% | ~1,606 |
-| Game Over | 0.20% | ~1,606 |
-| Not-so-Christian Burial | 0.20% | ~1,606 |
-| True Friend | 0.20% | ~1,606 |
+| Angel of Mercy | 0.20% | ~1,607 |
+| Christian Burial | 0.20% | ~1,607 |
+| Friends without benefits | 0.20% | ~1,607 |
+| Game Over | 0.20% | ~1,607 |
+| Not-so-Christian Burial | 0.20% | ~1,607 |
+| True Friend | 0.20% | ~1,607 |
 | Bad Girl | 0.10% | ~803 |
 | Cleric's pet | 0.10% | ~803 |
 | Full House Sinner | 0.10% | ~803 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,244 (Ranked 17)  
+Progressed: 803,254 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 49 (0.01%) (Ranked 285)
 | 2023-09-28 | 802,957 | 49 |
 | 2023-09-29 | 803,054 | 49 |
 | 2023-09-30 | 803,184 | 49 |
-| 2023-10-01 | 803,244 | 49 |
+| 2023-10-01 | 803,254 | 49 |
 ## Awards
 Max (Character Customization): 7,489  (Ranked 48)  
 Sum: 27,897 (Ranked 48)  

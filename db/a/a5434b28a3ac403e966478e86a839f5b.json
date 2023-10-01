@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -647,6 +647,11 @@
       "Time": "2023-10-01T12:05:23.4075315+00:00",
       "NumProgressed": 308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T13:07:32.2832895+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -665,9 +670,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_eou2",
@@ -723,7 +728,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_mg2",
@@ -762,14 +767,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:05:23.4075311+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:07:32.283289+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:57:22.4183956+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:05:23.4075427+00:00"
+  "LastUpdate_Ratings": "2023-10-01T12:59:31.7033398+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:07:32.2833042+00:00"
 }

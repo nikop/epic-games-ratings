@@ -10,10 +10,11 @@
 | Money Bags | 23.00% | ~3 |
 | Lily: Warrior Princess | 23.00% | ~3 |
 | Key Piece I | 15.00% | ~2 |
+| Fruitful Offerings | 15.00% | ~2 |
 | Key Piece II | 15.00% | ~2 |
-| Fruitful Offerings | 8.00% | ~1 |
 | Nice Display | 8.00% | ~1 |
 | The Hero | 8.00% | ~1 |
+| Combat Queen | 8.00% | ~1 |
 | Not All Who Wander | 0.00% | ~0 |
 | Walking Cookbook | 0.00% | ~0 |
 | The Musician | 0.00% | ~0 |
@@ -23,7 +24,6 @@
 | Key Piece III | 0.00% | ~0 |
 | The Ultimate Weapon | 0.00% | ~0 |
 | Postmaster | 0.00% | ~0 |
-| Combat Queen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13 (Ranked 500)  
 Completed: 0 (0.00%) (Ranked 302)  

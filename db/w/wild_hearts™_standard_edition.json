@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -17,8 +17,8 @@
   "Tags": [],
   "EOS_Progressed": 86,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 50,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 47,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
@@ -640,9 +640,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_38",
@@ -790,8 +790,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:05:57.4445045+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:08:06.6269872+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:58:32.0797392+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:05:57.4445483+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:00:38.7135639+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:08:06.6270312+00:00"
 }

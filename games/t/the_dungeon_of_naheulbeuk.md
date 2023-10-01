@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,940 |
-| Alt+F4 | 6.00% | ~13,676 |
+| Sowwy! | 32.00% | ~72,943 |
+| Alt+F4 | 6.00% | ~13,677 |
 | Where's that freaking Dwarf? | 5.00% | ~11,397 |
-| Déjà vu | 4.00% | ~9,117 |
+| Déjà vu | 4.00% | ~9,118 |
 | A beer, two curses, three companions | 3.00% | ~6,838 |
 | Sock! SOCK! | 3.00% | ~6,838 |
 | GG EZ | 3.00% | ~6,838 |
@@ -39,10 +39,10 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~2,279 |
 | I am the night | 1.00% | ~2,279 |
 | Thieves' Guild Accreditation | 1.00% | ~2,279 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,051 |
-| Dead for good | 0.80% | ~1,823 |
-| Lust and Debauchery | 0.80% | ~1,823 |
-| Material Girl | 0.80% | ~1,823 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,052 |
+| Dead for good | 0.80% | ~1,824 |
+| Lust and Debauchery | 0.80% | ~1,824 |
+| Material Girl | 0.80% | ~1,824 |
 | Gargantua | 0.70% | ~1,596 |
 | In Navalu's footsteps | 0.60% | ~1,368 |
 | Lëgal Legend | 0.60% | ~1,368 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,936 (Ranked 58)  
+Progressed: 227,948 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 5 (0.00%) (Ranked 302)
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
-| 2023-10-01 | 227,936 | 5 |
+| 2023-10-01 | 227,948 | 5 |
 ## Awards
 Max (Character Customization): 202  (Ranked 276)  
 Sum: 394 (Ranked 326)  

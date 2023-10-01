@@ -5,26 +5,26 @@ Rating: 4.24 (Ranked 852)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,654 |
-| Don't I Know You...? | 77.00% | ~1,592 |
-| Jailbreak | 66.00% | ~1,365 |
+| Rigged And Ready | 80.00% | ~1,656 |
+| Don't I Know You...? | 77.00% | ~1,594 |
+| Jailbreak | 66.00% | ~1,366 |
 | Suited and Booted | 39.00% | ~807 |
-| HEADSHOT! | 38.00% | ~786 |
-| Sleeping With The Fishes | 36.00% | ~744 |
-| Overheated | 30.00% | ~620 |
-| High Performance | 30.00% | ~620 |
-| Powered Up | 28.00% | ~579 |
-| Studied The Blade | 25.00% | ~517 |
+| HEADSHOT! | 38.00% | ~787 |
+| Sleeping With The Fishes | 36.00% | ~745 |
+| Overheated | 30.00% | ~621 |
+| High Performance | 30.00% | ~621 |
+| Powered Up | 28.00% | ~580 |
+| Studied The Blade | 25.00% | ~518 |
 | Home Invasion | 23.00% | ~476 |
 | Luminary | 22.00% | ~455 |
 | It's a Trap | 22.00% | ~455 |
-| True Survivor | 21.00% | ~434 |
+| True Survivor | 21.00% | ~435 |
 | Offensive Defense | 20.00% | ~414 |
 | Shocking | 20.00% | ~414 |
 | Court Martial | 19.00% | ~393 |
 | Clean Cut | 19.00% | ~393 |
 | Unforeseeable Consequences | 19.00% | ~393 |
-| Dead Again | 18.00% | ~372 |
+| Dead Again | 18.00% | ~373 |
 | Full Arsenal | 17.00% | ~352 |
 | Can't Trust Banks | 15.00% | ~310 |
 | Mommy Dearest | 14.00% | ~290 |
@@ -39,16 +39,16 @@ Rating: 4.24 (Ranked 852)
 | Triplets | 10.00% | ~207 |
 | Denying Prophecy | 9.00% | ~186 |
 | Defense in Depth | 9.00% | ~186 |
-| A Little Banged Up | 8.00% | ~165 |
-| Following In Their Footsteps | 8.00% | ~165 |
+| A Little Banged Up | 8.00% | ~166 |
+| Following In Their Footsteps | 8.00% | ~166 |
 | Reverse Engineering | 7.00% | ~145 |
 | Reborn | 6.00% | ~124 |
 | Remote Surgery | 6.00% | ~124 |
 | Turbo Booster | 6.00% | ~124 |
 | Juiced Up | 6.00% | ~124 |
 | Squid Pro Quo | 6.00% | ~124 |
-| Counter-Sniper | 5.00% | ~103 |
-| Shrimp Cocktail | 5.00% | ~103 |
+| Counter-Sniper | 5.00% | ~104 |
+| Shrimp Cocktail | 5.00% | ~104 |
 | Hello Darkness My Old Friend | 4.00% | ~83 |
 | Geronimo! | 4.00% | ~83 |
 | Homewrecker | 4.00% | ~83 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 852)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,068 (Ranked 198)  
+Progressed: 2,070 (Ranked 198)  
 Completed: 12 (0.58%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 12 (0.58%) (Ranked 157)
 | 2023-09-27 | 2,062 | 12 |
 | 2023-09-28 | 2,067 | 12 |
 | 2023-09-29 | 2,068 | 12 |
+| 2023-10-01 | 2,070 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

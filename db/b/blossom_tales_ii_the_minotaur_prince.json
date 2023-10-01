@@ -4,7 +4,7 @@
   "ProductSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
@@ -138,9 +138,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "2e4ldac",
       "Name": "Fruitful Offerings",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -218,9 +218,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "2e4ldac",
       "Name": "Combat Queen",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -235,8 +235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:05:35.7274371+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:07:44.6957849+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.5592087+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:59:28.7390251+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:05:35.7277092+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:01:34.117734+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:07:44.6958005+00:00"
 }

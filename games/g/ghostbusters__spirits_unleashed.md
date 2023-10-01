@@ -22,12 +22,12 @@ Rating: 4.50 (Ranked 573)
 | There you are! | 0.60% | ~157 |
 | Whoopsie | 0.60% | ~157 |
 | Animated | 0.50% | ~131 |
+| Ectoplasmic Entity | 0.50% | ~131 |
 | Ghostbuster In Training | 0.50% | ~131 |
 | Right back at ya | 0.50% | ~131 |
 | Terrifying | 0.50% | ~131 |
 | Welcome to the Crew | 0.50% | ~131 |
 | Daily Dose | 0.40% | ~105 |
-| Ectoplasmic Entity | 0.40% | ~105 |
 | Side Hustle | 0.40% | ~105 |
 | Skilled | 0.40% | ~105 |
 | Summoner | 0.40% | ~105 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,127 (Ranked 114)  
+Progressed: 26,129 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 58 (0.22%) (Ranked 213)
 | 2023-09-28 | 26,071 | 58 |
 | 2023-09-29 | 26,093 | 58 |
 | 2023-09-30 | 26,122 | 58 |
-| 2023-10-01 | 26,127 | 58 |
+| 2023-10-01 | 26,129 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
 Sum: 2,350 (Ranked 188)  

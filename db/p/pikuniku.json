@@ -2,12 +2,12 @@
   "ID": "c50f4a5c796e4abdbf8025cfbf5cff21",
   "Name": "Pikuniku",
   "ProductSlug": "pikuniku",
-  "Ranking_Rating": 177,
+  "Ranking_Rating": 189,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-10-01T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "NumberOfRatings": 450,
   "RatingHistory": [
     {
@@ -481,6 +481,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-01T13:01:34.8042047+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -498,8 +504,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:30.6223242+00:00",
-  "LastChanged": "2023-09-27T13:03:53.167702+00:00",
+  "LastChanged": "2023-10-01T13:01:34.8042045+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:03.1367009+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:59:29.1944689+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:06:47.0985785+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:01:34.8042051+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:10:06.8602698+00:00"
 }

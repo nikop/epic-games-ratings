@@ -506,9 +506,9 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Ach_BossFinal",
@@ -634,17 +634,17 @@
       "ID": "Ach_DiveDeath",
       "SetID": "4o5gjp0",
       "Name": "MayDay! MayDay!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:06:37.7688162+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:08:47.5390504+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:30.4063107+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:58:54.7949033+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:06:37.7688672+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:00:59.8934867+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:08:47.5390791+00:00"
 }

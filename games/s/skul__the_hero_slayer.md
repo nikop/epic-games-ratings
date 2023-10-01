@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~164 |
 | Cold-Blooded | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,212 (Ranked 149)  
+Progressed: 8,212 (Ranked 150)  
 Completed: 13 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |

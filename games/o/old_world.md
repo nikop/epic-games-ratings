@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~14 |
 | Pyramids | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
+| Learn to Play 4 | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
 | Assyria | 0.10% | ~14 |
@@ -245,7 +246,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.00% | ~0 |
 | Learn to Play 2 | 0.00% | ~0 |
 | Learn to Play 3 | 0.00% | ~0 |
-| Learn to Play 4 | 0.00% | ~0 |
 | Macedonian Wars | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |

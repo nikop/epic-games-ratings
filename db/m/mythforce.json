@@ -5,10 +5,10 @@
   "Ranking_Rating": 589,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 354,
-  "Ranking_EOS_Progress": 180,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -725,9 +725,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3560,
+  "EOS_Progressed": 3562,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6235,6 +6235,11 @@
       "Time": "2023-10-01T12:07:08.5036978+00:00",
       "NumProgressed": 3560,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-01T13:10:28.0706049+00:00",
+      "NumProgressed": 3562,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6247,7 +6252,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -6430,15 +6435,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3560,
+      "Progressed": 3562,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-30T22:00:05.9575238+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:07:08.5036975+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:10:28.070604+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:04.2024158+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:59:29.883365+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:07:08.5037342+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:01:35.3799158+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:10:28.0706563+00:00"
 }

@@ -21,9 +21,9 @@ Number of Ratings: 94  (23.09.2022)
 | The Flawed Teacher | 16.00% | ~81 |
 | To Infinity and Beyond | 6.00% | ~30 |
 | The Truthful Enemy | 6.00% | ~30 |
+| Bronze collector | 0.60% | ~3 |
+| Home Stretch | 0.60% | ~3 |
 | True collector | 0.40% | ~2 |
-| Bronze collector | 0.40% | ~2 |
-| Home Stretch | 0.40% | ~2 |
 | Gold collector | 0.40% | ~2 |
 | Silver collector | 0.40% | ~2 |
 | Get me out of here | 0.40% | ~2 |

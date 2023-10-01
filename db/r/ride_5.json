@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 116,
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2069,6 +2069,11 @@
       "Time": "2023-10-01T12:07:04.3394062+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T13:10:23.9702774+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2081,7 +2086,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2287,9 +2292,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 496
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2369,7 +2374,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2433,7 +2438,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2472,14 +2477,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:07:04.3394058+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:10:23.970277+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:59:42.3877268+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:07:04.3394501+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:01:49.1374656+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:10:23.9703338+00:00"
 }

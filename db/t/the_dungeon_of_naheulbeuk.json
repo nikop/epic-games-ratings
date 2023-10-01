@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1044,9 +1044,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 227936,
+  "EOS_Progressed": 227948,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1548,
+  "EOS_NewPlayers": 1547,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12989,6 +12989,11 @@
       "Time": "2023-10-01T12:06:13.2053173+00:00",
       "NumProgressed": 227936,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-01T13:08:22.6481784+00:00",
+      "NumProgressed": 227948,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13048,7 +13053,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9117
+      "UsersEstimate": 9118
     },
     {
       "ID": "Chapter2",
@@ -13448,7 +13453,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 72940
+      "UsersEstimate": 72943
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13496,7 +13501,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13676
+      "UsersEstimate": 13677
     },
     {
       "ID": "FollowBraztok",
@@ -13520,7 +13525,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "KillDungeonLich",
@@ -13528,7 +13533,7 @@
       "Name": "Dead for good",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "KillGolbargh",
@@ -13616,7 +13621,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "RangerEpic",
@@ -13688,7 +13693,7 @@
       "Name": "Material Girl",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "WizardResistBurn",
@@ -13703,21 +13708,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 227936,
+      "Progressed": 227948,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 227936,
+      "Progressed": 227948,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-30T15:58:43.5543494+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:06:13.2053169+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:08:22.6481779+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:59:28.9404686+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:06:13.2054554+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:01:34.2880769+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:08:22.6483642+00:00"
 }

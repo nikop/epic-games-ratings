@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 238,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.3,
   "EosHistory": [
@@ -1187,9 +1187,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1243,9 +1243,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1283,17 +1283,17 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "PROGRESS_N3",
@@ -1330,8 +1330,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:09:06.3596093+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:11:25.3883258+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:59:57.2563907+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:09:06.35963+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:02:03.2436296+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:11:25.3883493+00:00"
 }

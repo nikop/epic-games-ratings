@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 691,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
@@ -1962,6 +1962,11 @@
       "Time": "2023-10-01T06:07:33.955059+00:00",
       "NumProgressed": 690,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-01T13:10:22.4153842+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1982,7 +1987,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "_03_FinishAct1",
@@ -1998,7 +2003,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "_05_FinishAct2",
@@ -2046,7 +2051,7 @@
       "Name": "Buccaneer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "_11_Completion_40",
@@ -2078,7 +2083,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "_15_Completion_80",
@@ -2094,7 +2099,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2181,7 +2186,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 691,
       "Completed": 21
     }
   ],
@@ -2189,8 +2194,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-29T07:58:22.7153182+00:00",
-  "LastChanged_Achievements": "2023-10-01T12:07:02.770157+00:00",
+  "LastChanged_Achievements": "2023-10-01T13:10:22.4153837+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-10-01T11:59:38.1583119+00:00",
-  "LastUpdate_Achievements": "2023-10-01T12:07:02.7701805+00:00"
+  "LastUpdate_Ratings": "2023-10-01T13:01:44.4492677+00:00",
+  "LastUpdate_Achievements": "2023-10-01T13:10:22.4154146+00:00"
 }

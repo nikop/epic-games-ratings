@@ -16,7 +16,7 @@ Rating: 3.99 (Ranked 962)
 | Miner | 25.00% | ~409 |
 | Houston we have a problem | 22.00% | ~360 |
 | Detective | 19.00% | ~311 |
-| The Collector | 17.00% | ~278 |
+| The Collector | 18.00% | ~295 |
 | Get your hands dirty | 10.00% | ~164 |
 | Space Forest | 9.00% | ~147 |
 | All Wheel Trouble | 7.00% | ~115 |
