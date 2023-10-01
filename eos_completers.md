@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 67.91% |
-| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.62% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 67.72% |
+| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.63% |
@@ -38,8 +38,8 @@
 | 36 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 37 | [Sonic Origins](games/s/sonic_origins.md) | 7.98% |
 | 38 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.84% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.45% |
 | 43 | [Time Loader](games/t/time_loader.md) | 7.26% |
@@ -185,9 +185,9 @@
 | 183 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 183 | [It Takes Two](games/i/it_takes_two.md) | 0.36% |
 | 183 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
-| 183 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.36% |
 | 183 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 188 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
+| 187 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
+| 187 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.35% |
 | 189 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 189 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 191 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
@@ -251,16 +251,16 @@
 | 245 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 245 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 251 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 252 | [Black Book](games/b/black_book.md) | 0.07% |
 | 252 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
 | 252 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 252 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 252 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 252 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 257 | [Black Book](games/b/black_book.md) | 0.06% |
-| 257 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 257 | [MythForce](games/m/mythforce.md) | 0.06% |
-| 257 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 257 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 258 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 258 | [MythForce](games/m/mythforce.md) | 0.06% |
+| 258 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 258 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 262 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 262 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 262 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
