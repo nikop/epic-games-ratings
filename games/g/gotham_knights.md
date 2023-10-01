@@ -14,8 +14,8 @@ Rating: 4.18 (Ranked 897)
 | Whispered Words | 25.00% | ~18,253 |
 | The Batman Family | 23.00% | ~16,793 |
 | Lock and Key | 23.00% | ~16,793 |
-| Something in the Clay | 21.00% | ~15,332 |
-| Quartzer Life Crisis | 21.00% | ~15,332 |
+| Something in the Clay | 21.00% | ~15,333 |
+| Quartzer Life Crisis | 21.00% | ~15,333 |
 | Working Hard or Harley Working? | 20.00% | ~14,602 |
 | Unstoppable Force | 20.00% | ~14,602 |
 | Bad Apples in Every Orchard | 20.00% | ~14,602 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 897)
 | Rock and a Hard Place | 14.00% | ~10,222 |
 | Cooldown | 14.00% | ~10,222 |
 | Seeking Asylum | 14.00% | ~10,222 |
-| Not On My Watch | 13.00% | ~9,491 |
-| Shock Til They Drop | 13.00% | ~9,491 |
+| Not On My Watch | 13.00% | ~9,492 |
+| Shock Til They Drop | 13.00% | ~9,492 |
 | End of an Era | 12.00% | ~8,761 |
 | Bulldozed | 12.00% | ~8,761 |
 | Gotham Knight | 12.00% | ~8,761 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,011 (Ranked 87)  
+Progressed: 73,012 (Ranked 87)  
 Completed: 121 (0.17%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 121 (0.17%) (Ranked 223)
 | 2023-09-28 | 72,935 | 118 |
 | 2023-09-29 | 72,961 | 118 |
 | 2023-09-30 | 72,990 | 120 |
-| 2023-10-01 | 73,011 | 121 |
+| 2023-10-01 | 73,012 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,771  (Ranked 97)  
-Sum: 4,630 (Ranked 140)  
+Sum: 4,636 (Ranked 140)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -243,10 +243,10 @@ Diff (max vs sum): -43
 | This game has Quickly Understood Controls | 237 |
 | This game is Extremely Fun | 237 |
 | This game has Diverse Characters | 234 |
+| This game is Great for Beginners | 232 |
 | This game is Highly Recommended | 230 |
 | This game has Amazing Characters | 229 |
 | This game has Amazing Storytelling | 228 |
-| This game is Great for Beginners | 226 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -469,4 +469,4 @@ Diff (max vs sum): -43
 | 2023-09-28 | 4.19 | 2,761 | 4,605 |
 | 2023-09-29 | 4.18 | 2,768 | 4,624 |
 | 2023-09-30 | 4.18 | 2,771 | 4,629 |
-| 2023-10-01 | 4.18 | 2,771 | 4,630 |
+| 2023-10-01 | 4.18 | 2,771 | 4,636 |

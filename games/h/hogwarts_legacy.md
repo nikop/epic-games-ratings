@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 118)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,9 +10,9 @@ Rating: 4.76 (Ranked 119)
 | Troll with the Punches | 13.00% | ~38,696 |
 | A Keen Sense of Spell | 12.00% | ~35,719 |
 | That's a Keeper | 12.00% | ~35,719 |
-| The Defender of Dragons | 11.00% | ~32,742 |
-| Loom for Improvement | 11.00% | ~32,742 |
-| A Talent for Spending | 11.00% | ~32,742 |
+| The Defender of Dragons | 11.00% | ~32,743 |
+| Loom for Improvement | 11.00% | ~32,743 |
+| A Talent for Spending | 11.00% | ~32,743 |
 | Grappling with a Graphorn | 10.00% | ~29,766 |
 | The One Who Mastered Memories | 10.00% | ~29,766 |
 | The Hallowed Hero | 10.00% | ~29,766 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 119)
 | Flight the Good Flight | 8.00% | ~23,813 |
 | The Spell Master | 8.00% | ~23,813 |
 | Beast Friends | 7.00% | ~20,836 |
-| The Seeker of Knowledge | 6.00% | ~17,859 |
-| The Root of the Problem | 6.00% | ~17,859 |
-| Third Time's a Charm | 6.00% | ~17,859 |
-| Raising Expectations | 6.00% | ~17,859 |
+| The Seeker of Knowledge | 6.00% | ~17,860 |
+| The Root of the Problem | 6.00% | ~17,860 |
+| Third Time's a Charm | 6.00% | ~17,860 |
+| Raising Expectations | 6.00% | ~17,860 |
 | The Ends Petrify the Means | 5.00% | ~14,883 |
 | The Toast of the Town | 4.00% | ~11,906 |
 | Going Through the Potions | 4.00% | ~11,906 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,658 (Ranked 46)  
+Progressed: 297,660 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 479 (0.16%) (Ranked 224)
 | 2023-09-28 | 297,480 | 478 |
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
-| 2023-10-01 | 297,658 | 479 |
+| 2023-10-01 | 297,660 | 479 |
 ## Awards
 Max (Character Customization): 23,193  (Ranked 17)  
 Sum: 44,774 (Ranked 30)  

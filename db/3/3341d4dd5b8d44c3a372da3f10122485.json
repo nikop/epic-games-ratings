@@ -858,25 +858,25 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 75,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 80,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 75,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Tuleni",
@@ -897,8 +897,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:05:46.8113205+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:05:51.7238995+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:07.1504923+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:57:31.0622809+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:05:46.8113326+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:57:54.4996297+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:05:51.7239148+00:00"
 }

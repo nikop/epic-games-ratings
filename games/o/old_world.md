@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.10% | ~14 |
 | Ambitious | 0.10% | ~14 |
 | Architect | 0.10% | ~14 |
+| Beloved | 0.10% | ~14 |
 | Drillmaster | 0.10% | ~14 |
 | Brilliant | 0.10% | ~14 |
 | Capable | 0.10% | ~14 |
@@ -50,9 +51,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.10% | ~14 |
 | Strong Cities | 0.10% | ~14 |
 | Able Difficulty | 0.10% | ~14 |
+| Glorious Difficulty | 0.10% | ~14 |
 | Good Difficulty | 0.10% | ~14 |
 | Just Difficulty | 0.10% | ~14 |
 | Magnificent Difficulty | 0.10% | ~14 |
+| Noble Difficulty | 0.10% | ~14 |
+| Strong Difficulty | 0.10% | ~14 |
 | Event Level High | 0.10% | ~14 |
 | Artisans | 0.10% | ~14 |
 | Champions | 0.10% | ~14 |
@@ -64,7 +68,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.10% | ~14 |
 | Traders | 0.10% | ~14 |
 | Friendly Family | 0.10% | ~14 |
+| Furious Family | 0.10% | ~14 |
+| The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
+| Hittite Iron | 0.10% | ~14 |
 | Acropolis | 0.10% | ~14 |
 | Apadana | 0.10% | ~14 |
 | Circus Maximus | 0.10% | ~14 |
@@ -84,6 +91,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~14 |
 | Pyramids | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
+| Learn to Play 1 | 0.10% | ~14 |
+| Learn to Play 2 | 0.10% | ~14 |
+| Learn to Play 3 | 0.10% | ~14 |
 | Learn to Play 4 | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
@@ -91,10 +101,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.10% | ~14 |
 | Carthage | 0.10% | ~14 |
 | Egypt | 0.10% | ~14 |
+| Greece | 0.10% | ~14 |
 | Hatti | 0.10% | ~14 |
 | Rome | 0.10% | ~14 |
 | Old World Order | 0.10% | ~14 |
 | One True Faith | 0.10% | ~14 |
+| Apadana in Parsa | 0.10% | ~14 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
 | Play a Single Player Game | 0.10% | ~14 |
@@ -107,9 +119,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.10% | ~14 |
 | Egyptian Paganism | 0.10% | ~14 |
 | Greek Paganism | 0.10% | ~14 |
+| Hittite Paganism | 0.10% | ~14 |
 | Persian Paganism | 0.10% | ~14 |
 | Roman Paganism | 0.10% | ~14 |
 | Zoroastrianism | 0.10% | ~14 |
+| Pantheon in Roma | 0.10% | ~14 |
 | Building Wonders | 0.10% | ~14 |
 | Capturing Cities | 0.10% | ~14 |
 | Naming Landmarks | 0.10% | ~14 |
@@ -123,9 +137,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.10% | ~14 |
 | Redemption | 0.10% | ~14 |
 | Revelation | 0.10% | ~14 |
+| Veneration | 0.10% | ~14 |
 | Trade Caravan | 0.10% | ~14 |
 | Cataphract Archer | 0.10% | ~14 |
 | Cimmerian Archer | 0.10% | ~14 |
+| Three Man Chariot | 0.10% | ~14 |
 | Mounted Lancer | 0.10% | ~14 |
 | Legionary | 0.10% | ~14 |
 | Phalangite | 0.10% | ~14 |
@@ -137,7 +153,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.10% | ~14 |
 | Points Victory | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
+| Time Victory | 0.10% | ~14 |
 | Win a Single Player Game | 0.10% | ~14 |
+| The Great Mage | 0.10% | ~14 |
+| Poetic Leader | 0.10% | ~14 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -175,7 +194,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.00% | ~0 |
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
-| Beloved | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
@@ -187,17 +205,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Glorious Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
-| Noble Difficulty | 0.00% | ~0 |
-| Strong Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Hunters | 0.00% | ~0 |
-| Furious Family | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
-| The Eternal Treaty | 0.00% | ~0 |
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
@@ -243,46 +256,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Hittite Iron | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Learn to Play 1 | 0.00% | ~0 |
-| Learn to Play 2 | 0.00% | ~0 |
-| Learn to Play 3 | 0.00% | ~0 |
 | Macedonian Wars | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Greece | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Pantheon of Gods | 0.00% | ~0 |
-| Apadana in Parsa | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
-| Hittite Paganism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Circus Maximus in Roma | 0.00% | ~0 |
-| Pantheon in Roma | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
-| Three Man Chariot | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | No Undo | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
-| Time Victory | 0.00% | ~0 |
 | Necropolis in Waset | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
@@ -295,10 +297,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
-| The Great Mage | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Pilgrimage | 0.00% | ~0 |
-| Poetic Leader | 0.00% | ~0 |
 | Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.00% | ~0 |
 | Beja Archer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,260 (Ranked 133)  
+Progressed: 14,264 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 267)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,260 | 5 |
+| 2023-10-01 | 14,264 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,825 (Ranked 207)  

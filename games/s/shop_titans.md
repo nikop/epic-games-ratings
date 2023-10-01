@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 962)  
+Rating: 3.99 (Ranked 961)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,15 +28,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,370 |
 | Own the Means of Production | 1.00% | ~1,370 |
 | Gild-Gotten Goods | 0.90% | ~1,233 |
+| Accomplished Merchant | 0.90% | ~1,233 |
 | Did we pack lunch? | 0.90% | ~1,233 |
+| Arcane Industries | 0.90% | ~1,233 |
 | On the Path to Greatness | 0.80% | ~1,096 |
 | Ascended | 0.80% | ~1,096 |
 | Vanity, Verily | 0.80% | ~1,096 |
 | Blank Page Syndrome | 0.80% | ~1,096 |
 | Efficient Floor Space | 0.80% | ~1,096 |
 | Gem Expert | 0.80% | ~1,096 |
-| Accomplished Merchant | 0.80% | ~1,096 |
-| Arcane Industries | 0.80% | ~1,096 |
 | Research & Development | 0.70% | ~959 |
 | Fated Encounters | 0.70% | ~959 |
 | Power of Love | 0.70% | ~959 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,952 (Ranked 69)  
+Progressed: 136,953 (Ranked 69)  
 Completed: 160 (0.12%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 160 (0.12%) (Ranked 231)
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
-| 2023-10-01 | 136,952 | 160 |
+| 2023-10-01 | 136,953 | 160 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,314 (Ranked 49)  

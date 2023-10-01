@@ -2,9 +2,9 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 437,
-  "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.87,
+  "EOS_Completed_Percentage": 10.64,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -251,6 +251,11 @@
       "Time": "2023-09-28T15:04:13.4037804+00:00",
       "NumProgressed": 46,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-01T15:04:33.2376246+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -271,15 +276,15 @@
       "Name": "Counting Sheep",
       "Percentage": 83,
       "XP": 70,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 70,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "EpicACHV_12",
@@ -287,13 +292,13 @@
       "Name": "God Disguised as a Cow",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 70,
       "UsersEstimate": 31
     },
@@ -301,7 +306,7 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
       "UsersEstimate": 28
     },
@@ -309,15 +314,15 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -335,13 +340,13 @@
       "Name": "Self-sacrifice",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "EpicACHV_3",
       "SetID": "acn799d",
       "Name": "13th Deer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 70,
       "UsersEstimate": 15
     },
@@ -349,7 +354,7 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 70,
       "UsersEstimate": 15
     },
@@ -357,9 +362,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "EpicACHV_6",
@@ -367,13 +372,13 @@
       "Name": "Dunkleosteus",
       "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 70,
       "UsersEstimate": 36
     },
@@ -389,7 +394,7 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 30,
       "UsersEstimate": 38
     }
@@ -398,14 +403,14 @@
     {
       "ID": "acn799d",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:04:25.5215045+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:04:33.2376241+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.4292457+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:58:57.56196+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:04:25.5215169+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:59:17.5898174+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:04:33.2376402+00:00"
 }

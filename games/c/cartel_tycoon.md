@@ -14,7 +14,7 @@ Number of Ratings: 101  (23.09.2022)
 | Bad Trip | 46.00% | ~277 |
 | Spread | 41.00% | ~247 |
 | That was base | 40.00% | ~241 |
-| Safe Pair of Hands | 36.00% | ~217 |
+| Safe Pair of Hands | 37.00% | ~223 |
 | Don't Let Mom Know You're A Druglord | 31.00% | ~187 |
 | Architect of Fortunes | 27.00% | ~163 |
 | Bite the Blow | 23.00% | ~139 |

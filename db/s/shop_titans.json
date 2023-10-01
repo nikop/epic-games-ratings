@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 962,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 69,
@@ -6310,9 +6310,9 @@
       "Count": 3753
     }
   ],
-  "EOS_Progressed": 136952,
+  "EOS_Progressed": 136953,
   "EOS_Completed": 160,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23145,6 +23145,11 @@
       "Time": "2023-10-01T14:07:12.5645719+00:00",
       "NumProgressed": 136952,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-10-01T15:08:05.4634843+00:00",
+      "NumProgressed": 136953,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 112,
@@ -23746,9 +23751,9 @@
       "ID": "level02",
       "SetID": "anfd17p",
       "Name": "Accomplished Merchant",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1233
     },
     {
       "ID": "level03",
@@ -24026,9 +24031,9 @@
       "ID": "workers02",
       "SetID": "anfd17p",
       "Name": "Arcane Industries",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1233
     },
     {
       "ID": "workers03",
@@ -24051,15 +24056,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136952,
+      "Progressed": 136953,
       "Completed": 160
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-30T22:59:01.2642222+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:07:12.5645715+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:08:05.4634835+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:59:16.9036072+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:07:12.5647769+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:59:36.3606971+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:08:05.4637596+00:00"
 }

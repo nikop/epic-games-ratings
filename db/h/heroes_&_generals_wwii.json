@@ -4,7 +4,7 @@
   "ProductSlug": "heroes-and-generals-wwii",
   "Ranking_Rating": 862,
   "Ranking_Popularity": 146,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 407,
@@ -3472,6 +3472,6 @@
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
   "LastChanged": "2023-07-20T22:56:59.4131092+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:02.7259923+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:58:17.6744962+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:06:43.898116+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:58:39.9309544+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:06:47.4724209+00:00"
 }

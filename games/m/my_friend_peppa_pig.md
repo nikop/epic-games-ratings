@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The View From Windy Castle. | 58.00% | ~48 |
+| Rocket to the Moon! | 53.00% | ~44 |
 | Daddy’s Glasses | 52.00% | ~43 |
-| Rocket to the Moon! | 52.00% | ~43 |
 | Whose tracks are these? | 47.00% | ~39 |
 | The Best Snowman Ever! | 47.00% | ~39 |
 | Rounding Up the Chickens. | 46.00% | ~38 |

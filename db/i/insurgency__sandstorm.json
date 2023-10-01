@@ -3547,9 +3547,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 458027,
+  "EOS_Progressed": 458044,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2592,
+  "EOS_NewPlayers": 2585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22022,6 +22022,11 @@
       "Time": "2023-10-01T14:07:07.771181+00:00",
       "NumProgressed": 458027,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-01T15:07:11.0828762+00:00",
+      "NumProgressed": 458044,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -22089,7 +22094,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18321
+      "UsersEstimate": 18322
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -22137,7 +22142,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18321
+      "UsersEstimate": 18322
     },
     {
       "ID": "ACH_JR_50",
@@ -22201,7 +22206,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22901
+      "UsersEstimate": 22902
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -22297,7 +22302,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22901
+      "UsersEstimate": 22902
     },
     {
       "ID": "ACH_WET_FEET",
@@ -22305,22 +22310,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18321
+      "UsersEstimate": 18322
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 458027,
+      "Progressed": 458044,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-25T09:01:36.6056917+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:07:07.7711803+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:07:11.0828758+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:57.755638+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:59:16.7767612+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:07:07.7712865+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:59:36.2322461+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:07:11.0830277+00:00"
 }

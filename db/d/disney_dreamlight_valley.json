@@ -2,13 +2,13 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3918,9 +3918,9 @@
       "Count": 507
     }
   ],
-  "EOS_Progressed": 10454,
+  "EOS_Progressed": 10455,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
@@ -14598,6 +14598,11 @@
       "Time": "2023-10-01T14:04:30.0424797+00:00",
       "NumProgressed": 10454,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-10-01T15:04:37.6431876+00:00",
+      "NumProgressed": 10455,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 15,
@@ -14625,7 +14630,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 4913
+      "UsersEstimate": 4914
     },
     {
       "ID": "Chef_Cook",
@@ -14697,7 +14702,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7213
+      "UsersEstimate": 7214
     },
     {
       "ID": "Renovator",
@@ -14721,14 +14726,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6481
+      "UsersEstimate": 6482
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10454,
+      "Progressed": 10455,
       "Completed": 245
     }
   ],
@@ -14736,8 +14741,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-01T02:58:39.6838593+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:04:30.0424793+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:04:37.6431871+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.6415358+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:59:05.3803984+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:04:30.0425392+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:59:24.7994125+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:04:37.6432724+00:00"
 }

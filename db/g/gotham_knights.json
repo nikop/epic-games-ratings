@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3240,10 +3240,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4630,
       "NumberOfAwardsMax": 2771
+    },
+    {
+      "Time": "2023-10-01T15:00:13.2900199+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4636,
+      "NumberOfAwardsMax": 2771
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4630,
+  "NumberOfAwards": 4636,
   "NumberOfAwardsMax": 2771,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3269,7 +3275,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 226
+      "Count": 232
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3308,9 +3314,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73011,
+  "EOS_Progressed": 73012,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17253,6 +17259,11 @@
       "Time": "2023-10-01T14:03:59.2142386+00:00",
       "NumProgressed": 73011,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-01T15:04:07.9490207+00:00",
+      "NumProgressed": 73012,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -17368,7 +17379,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15332
+      "UsersEstimate": 15333
     },
     {
       "ID": "CLAYFACE_2",
@@ -17424,7 +17435,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9491
+      "UsersEstimate": 9492
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -17472,7 +17483,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9491
+      "UsersEstimate": 9492
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -17496,7 +17507,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15332
+      "UsersEstimate": 15333
     },
     {
       "ID": "FREEZE_2",
@@ -17751,22 +17762,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73011,
+      "Progressed": 73012,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43291,
+      "Progressed": 43292,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-01T04:59:41.4179919+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:03:59.2142383+00:00",
+  "LastChanged": "2023-10-01T15:00:13.2900197+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:04:07.9490201+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:59:53.3429531+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:03:59.2143514+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:00:13.2900204+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:04:07.949175+00:00"
 }

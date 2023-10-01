@@ -2,13 +2,13 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8364,7 +8364,7 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297658,
+  "EOS_Progressed": 297660,
   "EOS_Completed": 479,
   "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 3,
@@ -26069,6 +26069,11 @@
       "Time": "2023-10-01T14:04:11.3801501+00:00",
       "NumProgressed": 297658,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-01T15:04:19.1709248+00:00",
+      "NumProgressed": 297660,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26120,7 +26125,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17859
+      "UsersEstimate": 17860
     },
     {
       "ID": "PFA_15",
@@ -26136,7 +26141,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32742
+      "UsersEstimate": 32743
     },
     {
       "ID": "PFA_17",
@@ -26208,7 +26213,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32742
+      "UsersEstimate": 32743
     },
     {
       "ID": "PFA_25",
@@ -26216,7 +26221,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17859
+      "UsersEstimate": 17860
     },
     {
       "ID": "PFA_26",
@@ -26248,7 +26253,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17859
+      "UsersEstimate": 17860
     },
     {
       "ID": "PFA_3",
@@ -26264,7 +26269,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32742
+      "UsersEstimate": 32743
     },
     {
       "ID": "PFA_31",
@@ -26368,7 +26373,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17859
+      "UsersEstimate": 17860
     },
     {
       "ID": "PFA_43",
@@ -26439,7 +26444,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297658,
+      "Progressed": 297660,
       "Completed": 479
     }
   ],
@@ -26447,8 +26452,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-01T13:58:30.7492171+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:04:11.3801496+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:04:19.1709243+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:58:30.7492176+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:04:11.380265+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:58:52.5656921+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:04:19.1710835+00:00"
 }

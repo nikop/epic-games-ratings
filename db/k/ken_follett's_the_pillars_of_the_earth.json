@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15488,
+  "EOS_Progressed": 15489,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 1,
@@ -11170,6 +11170,11 @@
       "Time": "2023-10-01T14:04:44.3276028+00:00",
       "NumProgressed": 15488,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-01T15:04:50.5828717+00:00",
+      "NumProgressed": 15489,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11285,7 +11290,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "tpote_achievement_22",
@@ -11325,7 +11330,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "tpote_achievement_27",
@@ -11445,7 +11450,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6195
+      "UsersEstimate": 6196
     },
     {
       "ID": "tpote_achievement_40",
@@ -11493,7 +11498,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3407
+      "UsersEstimate": 3408
     },
     {
       "ID": "tpote_achievement_9",
@@ -11508,15 +11513,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15488,
+      "Progressed": 15489,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:04:44.3276024+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:04:50.5828711+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:57:15.733732+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:04:44.3276889+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:57:38.0183775+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:04:50.5829806+00:00"
 }

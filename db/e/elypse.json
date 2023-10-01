@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach_DeathXTime",
@@ -618,9 +618,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -682,9 +682,9 @@
       "ID": "Ach_HutLay",
       "SetID": "4o5gjp0",
       "Name": "Homeless",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Ach_IslandExplo",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:06:28.6176503+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:06:32.6169511+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:30.4063107+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:58:45.2709999+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:06:28.6176737+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:59:04.7737685+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:06:32.6169765+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~44,981 |
-| Get Busy Living | 16.00% | ~28,788 |
-| Samuel Norton | 9.00% | ~16,193 |
-| Spare The Rod | 5.00% | ~8,996 |
+| Stone Walls | 25.00% | ~44,987 |
+| Get Busy Living | 16.00% | ~28,792 |
+| Samuel Norton | 9.00% | ~16,195 |
+| Spare The Rod | 5.00% | ~8,997 |
 | Don't Put Me In The Dark | 3.00% | ~5,398 |
 | Wait and Hope | 3.00% | ~5,398 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,398 |
-| Throw The Book At Them | 2.00% | ~3,598 |
-| Iron Bars | 2.00% | ~3,598 |
+| Throw The Book At Them | 2.00% | ~3,599 |
+| Iron Bars | 2.00% | ~3,599 |
 | D.B. Cooper | 1.00% | ~1,799 |
 | Reformation | 0.60% | ~1,080 |
 | Crowd Control | 0.50% | ~900 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~180 |
 | ... It's What You Can Prove | 0.10% | ~180 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,925 (Ranked 66)  
+Progressed: 179,948 (Ranked 66)  
 Completed: 8 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,14 +187,14 @@ Completed: 8 (0.00%) (Ranked 302)
 | 2023-09-28 | 178,993 | 8 |
 | 2023-09-29 | 179,313 | 8 |
 | 2023-09-30 | 179,714 | 8 |
-| 2023-10-01 | 179,925 | 8 |
+| 2023-10-01 | 179,948 | 8 |
 ## Awards
-Max (Extremely Fun): 516  (Ranked 200)  
-Sum: 4,447 (Ranked 141)  
+Max (Extremely Fun): 517  (Ranked 200)  
+Sum: 4,448 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 516 |
+| This game is Extremely Fun | 517 |
 | This game is Great for Beginners | 503 |
 | This game is Highly Recommended | 491 |
 | This game has Quickly Understood Controls | 482 |
@@ -459,4 +459,4 @@ Diff (max vs sum): 59
 | 2023-09-28 | 4.61 | - | 515 | 4,421 |
 | 2023-09-29 | 4.61 | - | 515 | 4,428 |
 | 2023-09-30 | 4.61 | - | 516 | 4,440 |
-| 2023-10-01 | 4.61 | - | 516 | 4,447 |
+| 2023-10-01 | 4.61 | - | 517 | 4,448 |

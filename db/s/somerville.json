@@ -648,9 +648,9 @@
       "ID": "SomervilleResignationReprise",
       "SetID": "3mk3nll",
       "Name": "Resignation Reprise",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
@@ -705,8 +705,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:06:52.7387163+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:06:56.2949281+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:09.9411464+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:58:12.3584195+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:06:52.7387274+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:58:33.8559741+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:06:56.2949416+00:00"
 }

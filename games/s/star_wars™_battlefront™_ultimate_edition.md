@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~328 |
+| New Recruit | 91.00% | ~329 |
 | Off to a good start | 68.00% | ~245 |
-| Do... or do not. There is no try | 52.00% | ~187 |
-| A good blaster at your side | 33.00% | ~119 |
+| Do... or do not. There is no try | 52.00% | ~188 |
+| A good blaster at your side | 34.00% | ~123 |
 | Scrap collector | 21.00% | ~76 |
 | Great shot, kid! | 20.00% | ~72 |
-| All right, I'll give it a try | 19.00% | ~68 |
+| All right, I'll give it a try | 19.00% | ~69 |
 | Together we can rule the galaxy | 18.00% | ~65 |
 | I suggest a new strategy | 18.00% | ~65 |
 | The power of the Force | 17.00% | ~61 |
@@ -23,12 +23,12 @@
 | Impressive. Most impressive. | 11.00% | ~40 |
 | What's the cargo? | 10.00% | ~36 |
 | A cunning warrior | 10.00% | ~36 |
+| "Gonk? Gonk!" | 9.00% | ~32 |
 | A tremor in the Force | 9.00% | ~32 |
 | Judge me by my size, do you? | 9.00% | ~32 |
-| "Gonk? Gonk!" | 8.00% | ~29 |
-| Distinguished | 8.00% | ~29 |
-| Support the troops | 8.00% | ~29 |
+| Distinguished | 7.00% | ~25 |
 | Patience you must have | 7.00% | ~25 |
+| Support the troops | 7.00% | ~25 |
 | When 900 years old you reach... | 6.00% | ~22 |
 | Determined | 6.00% | ~22 |
 | On the ball | 6.00% | ~22 |
@@ -49,13 +49,13 @@
 | Hold the line! | 3.00% | ~11 |
 | Playing the objective | 3.00% | ~11 |
 | Ackbar's Elite | 3.00% | ~11 |
-| Do we take prisoners? | 3.00% | ~11 |
 | You have your moments | 3.00% | ~11 |
 | When surrounded by war... | 3.00% | ~11 |
-| Stop that Droid | 3.00% | ~11 |
 | Onwards! | 3.00% | ~11 |
 | No such thing as luck | 2.00% | ~7 |
+| Do we take prisoners? | 2.00% | ~7 |
 | I’ll take that bet | 2.00% | ~7 |
+| Stop that Droid | 2.00% | ~7 |
 | A New Hope | 1.00% | ~4 |
 | in a galaxy far, far away.... | 1.00% | ~4 |
 | That got him! | 0.80% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~1 |
 | Crush them with one swift stroke… | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360 (Ranked 293)  
+Progressed: 361 (Ranked 293)  
 Completed: 1 (0.28%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.28%) (Ranked 203)
 | 2023-09-28 | 289 | 1 |
 | 2023-09-29 | 314 | 1 |
 | 2023-09-30 | 345 | 1 |
-| 2023-10-01 | 360 | 1 |
+| 2023-10-01 | 361 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

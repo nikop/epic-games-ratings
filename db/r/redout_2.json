@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -985,6 +985,11 @@
       "Time": "2023-09-30T05:08:20.7985895+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T15:03:28.8398494+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1052,7 +1057,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -1220,7 +1225,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "FINISHSOUND",
@@ -1411,7 +1416,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 0
     }
   ],
@@ -1419,8 +1424,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:03:18.2472985+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:03:28.8398487+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:10.5162525+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:00:20.815169+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:03:18.2473511+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:00:43.0967774+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:03:28.8399035+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -532,7 +532,7 @@
   "Tags": [],
   "EOS_Progressed": 3688,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7243,9 +7243,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 996
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7602,8 +7602,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:05:47.6781232+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:05:52.5637854+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:57:42.4977906+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:05:47.6782124+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:58:05.7639645+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:05:52.5639103+00:00"
 }

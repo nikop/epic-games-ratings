@@ -7593,7 +7593,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62492,
+  "EOS_Progressed": 62496,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
@@ -25033,6 +25033,11 @@
       "Time": "2023-10-01T14:06:12.6199741+00:00",
       "NumProgressed": 62492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T15:06:16.8966648+00:00",
+      "NumProgressed": 62496,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25044,7 +25049,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "Apple of my eye",
@@ -25060,7 +25065,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14373
+      "UsersEstimate": 14374
     },
     {
       "ID": "Best served cold",
@@ -25084,7 +25089,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4999
+      "UsersEstimate": 5000
     },
     {
       "ID": "Catch",
@@ -25124,7 +25129,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "Dynasty",
@@ -25132,7 +25137,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "Entrepreneur",
@@ -25204,7 +25209,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14373
+      "UsersEstimate": 14374
     },
     {
       "ID": "I can do it",
@@ -25220,7 +25225,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "Jack of All Trades",
@@ -25252,7 +25257,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "Lance-a-lot",
@@ -25268,7 +25273,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20622
+      "UsersEstimate": 20624
     },
     {
       "ID": "Lawbringer",
@@ -25276,7 +25281,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24372
+      "UsersEstimate": 24373
     },
     {
       "ID": "Lawmaker",
@@ -25284,7 +25289,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14373
+      "UsersEstimate": 14374
     },
     {
       "ID": "Long live the Empire",
@@ -25300,7 +25305,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "Minor Clan",
@@ -25388,7 +25393,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "The king is pleased",
@@ -25404,7 +25409,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "This is Sparta",
@@ -25420,7 +25425,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14373
+      "UsersEstimate": 14374
     },
     {
       "ID": "Undercover",
@@ -25444,22 +25449,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62492,
+      "Progressed": 62496,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-01T10:59:50.7232929+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:06:12.6199737+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:06:16.896664+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:58:58.6991017+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:06:12.6200907+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:59:18.4582802+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:06:16.8968238+00:00"
 }

@@ -1,31 +1,31 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 418)  
+Rating: 4.59 (Ranked 417)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,947 |
-| Alt+F4 | 6.00% | ~13,678 |
-| Where's that freaking Dwarf? | 5.00% | ~11,398 |
-| Déjà vu | 4.00% | ~9,118 |
+| Sowwy! | 32.00% | ~72,953 |
+| Alt+F4 | 6.00% | ~13,679 |
+| Where's that freaking Dwarf? | 5.00% | ~11,399 |
+| Déjà vu | 4.00% | ~9,119 |
 | A beer, two curses, three companions | 3.00% | ~6,839 |
 | Sock! SOCK! | 3.00% | ~6,839 |
 | GG EZ | 3.00% | ~6,839 |
 | DM intervention | 3.00% | ~6,839 |
 | Speedrun | 3.00% | ~6,839 |
 | Fireproof Wizardess | 3.00% | ~6,839 |
-| Livin' in a dwarven paradise | 2.00% | ~4,559 |
-| Way of the Wimp | 2.00% | ~4,559 |
-| The plot thickens... At the tavern | 2.00% | ~4,559 |
-| The demons' feast | 2.00% | ~4,559 |
-| The Great Library | 2.00% | ~4,559 |
-| Torture and Sensibility | 2.00% | ~4,559 |
-| Urik's Depths | 2.00% | ~4,559 |
-| The Woman in the High Castle | 2.00% | ~4,559 |
-| Team Building Exercise | 2.00% | ~4,559 |
-| Oh, when I'll be level 10... | 2.00% | ~4,559 |
+| Livin' in a dwarven paradise | 2.00% | ~4,560 |
+| Way of the Wimp | 2.00% | ~4,560 |
+| The plot thickens... At the tavern | 2.00% | ~4,560 |
+| The demons' feast | 2.00% | ~4,560 |
+| The Great Library | 2.00% | ~4,560 |
+| Torture and Sensibility | 2.00% | ~4,560 |
+| Urik's Depths | 2.00% | ~4,560 |
+| The Woman in the High Castle | 2.00% | ~4,560 |
+| Team Building Exercise | 2.00% | ~4,560 |
+| Oh, when I'll be level 10... | 2.00% | ~4,560 |
 | Shiny and Crôm | 1.00% | ~2,280 |
 | The Dungeon Master | 1.00% | ~2,280 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,280 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,960 (Ranked 58)  
+Progressed: 227,977 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 5 (0.00%) (Ranked 302)
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
-| 2023-10-01 | 227,960 | 5 |
+| 2023-10-01 | 227,977 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 397 (Ranked 326)  

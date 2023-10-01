@@ -13,22 +13,22 @@
 | Dispel Rumors | 50.00% | ~1 |
 | Tour Guide | 50.00% | ~1 |
 | The Real O.G. | 50.00% | ~1 |
+| The End of an Outlaw | 50.00% | ~1 |
 | Hero Arrives | 50.00% | ~1 |
 | The Hero of the People | 50.00% | ~1 |
 | Demon Slayer | 50.00% | ~1 |
 | Urban Explorer | 50.00% | ~1 |
+| Steal Her Away | 50.00% | ~1 |
 | Captain Mustache | 50.00% | ~1 |
 | Sewer Rat | 50.00% | ~1 |
 | Coward | 50.00% | ~1 |
+| Tomb Raider | 50.00% | ~1 |
 | Big Eater | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| The End of an Outlaw | 0.00% | ~0 |
 | The Legend | 0.00% | ~0 |
 | Taoist | 0.00% | ~0 |
-| Steal Her Away | 0.00% | ~0 |
 | Not Today | 0.00% | ~0 |
 | Talk to the Fist | 0.00% | ~0 |
-| Tomb Raider | 0.00% | ~0 |
 | Fight Fire With Fire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 572)  

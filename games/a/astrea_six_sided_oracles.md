@@ -9,8 +9,8 @@
 | Mechanical Buddy | 94.00% | ~32 |
 | Dicesmithing Time! | 91.00% | ~31 |
 | Wild's Keeper | 82.00% | ~28 |
+| Endless Tricks | 74.00% | ~25 |
 | Sanctuary Guardian | 74.00% | ~25 |
-| Endless Tricks | 71.00% | ~24 |
 | Mind Illuminator | 59.00% | ~20 |
 | Stellar Dismantler | 50.00% | ~17 |
 | Astral Adventurer | 35.00% | ~12 |
@@ -18,8 +18,8 @@
 | Anomaly Destroyer | 29.00% | ~10 |
 | Unbeatable | 29.00% | ~10 |
 | Loyal Partner | 26.00% | ~9 |
+| Sadistic Plan | 21.00% | ~7 |
 | Stellar Haste | 21.00% | ~7 |
-| Sadistic Plan | 18.00% | ~6 |
 | Sentinelphobic | 18.00% | ~6 |
 | Shard Spender | 18.00% | ~6 |
 | The Corruption Goddess | 18.00% | ~6 |
@@ -28,14 +28,15 @@
 | Wave Bender | 12.00% | ~4 |
 | Denying Destiny | 9.00% | ~3 |
 | Heart Gate | 9.00% | ~3 |
+| Astral Seeker | 6.00% | ~2 |
 | Can't touch this | 6.00% | ~2 |
 | Heavy Purger | 6.00% | ~2 |
 | Pocket Astrarium | 6.00% | ~2 |
 | Prestidigitation | 6.00% | ~2 |
+| The Goddes Avatar | 6.00% | ~2 |
 | The world goes round... | 6.00% | ~2 |
 | Unepic Hero | 6.00% | ~2 |
 | Arch-Oracle | 3.00% | ~1 |
-| Astral Seeker | 3.00% | ~1 |
 | Astral Tinkerer | 3.00% | ~1 |
 | Astrarium of Holding | 3.00% | ~1 |
 | Blazing Prince | 3.00% | ~1 |
@@ -44,7 +45,7 @@
 | Plague Doctor | 3.00% | ~1 |
 | Reflexive Mind | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
-| The Goddes Avatar | 3.00% | ~1 |
+| The Distorted Sage | 3.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -80,7 +81,6 @@
 | The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
 | The Chaos Artisan | 0.00% | ~0 |
-| The Distorted Sage | 0.00% | ~0 |
 | The Raging Skies | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |

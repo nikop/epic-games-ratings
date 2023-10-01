@@ -37,13 +37,13 @@ Rating: 4.50 (Ranked 573)
 | Pesky Jerks | 0.30% | ~78 |
 | Seasoned | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
+| Tobin's Prodigy | 0.30% | ~78 |
 | Collector | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
 | Fragile Panes | 0.20% | ~52 |
 | Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |
-| Tobin's Prodigy | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |

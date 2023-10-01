@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -718,9 +718,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 10499,
+  "EOS_Progressed": 10500,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -10918,6 +10918,11 @@
       "Time": "2023-10-01T14:06:43.1235577+00:00",
       "NumProgressed": 10499,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-01T15:06:46.6283768+00:00",
+      "NumProgressed": 10500,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -11185,7 +11190,7 @@
       "Name": "Done it All",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH34",
@@ -11200,7 +11205,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10499,
+      "Progressed": 10500,
       "Completed": 58
     }
   ],
@@ -11208,8 +11213,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-30T22:00:18.252534+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:06:43.1235574+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:06:46.6283763+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:59:29.0956177+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:06:43.1236242+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:59:48.7188097+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:06:46.6284718+00:00"
 }

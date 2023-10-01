@@ -140,9 +140,9 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FinishTutorialStage",
@@ -196,9 +196,9 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SaveMatsumoto",
@@ -244,9 +244,9 @@
       "ID": "TombExplorer",
       "SetID": "123m9l1",
       "Name": "Tomb Raider",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TrickLiHong",
@@ -269,8 +269,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:03:46.7185932+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:03:56.107669+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:42.0638918+00:00",
   "LastUpdate_Ratings": "2023-10-01T14:00:44.4116628+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:03:46.7186092+00:00"
+  "LastUpdate_Achievements": "2023-10-01T15:03:56.1076876+00:00"
 }

@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.48 (Ranked 608)  
+Rating: 4.48 (Ranked 609)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,7 +26,7 @@ Number of Ratings: 28  (23.09.2022)
 | Russia | 19.00% | ~96 |
 | Missed it! | 19.00% | ~96 |
 | America | 18.00% | ~91 |
-| Sabotage | 16.00% | ~81 |
+| Sabotage | 17.00% | ~86 |
 | Japan | 11.00% | ~55 |
 | Engineer | 11.00% | ~55 |
 | Achtung! | 11.00% | ~55 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18226,
+  "EOS_Progressed": 18228,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10996,6 +10996,11 @@
       "Time": "2023-10-01T14:07:07.179793+00:00",
       "NumProgressed": 18226,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-01T15:07:10.5127472+00:00",
+      "NumProgressed": 18228,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -11023,7 +11028,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "0004",
@@ -11143,7 +11148,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "0019",
@@ -11191,7 +11196,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "0025",
@@ -11199,7 +11204,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "0026",
@@ -11231,7 +11236,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "0030",
@@ -11294,7 +11299,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18226,
+      "Progressed": 18228,
       "Completed": 3
     }
   ],
@@ -11302,8 +11307,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:07:07.1797926+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:07:10.5127465+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:00:33.4262725+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:07:07.1798646+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:00:54.9991438+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:07:10.5128484+00:00"
 }

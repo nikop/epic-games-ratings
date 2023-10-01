@@ -25,6 +25,7 @@
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | King of fish | 0.30% | ~1 |
+| Farming Frenzy | 0.30% | ~1 |
 | What would we do if we can't go out with friends? | 0.30% | ~1 |
 | Metropolurbek | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
@@ -54,7 +55,6 @@
 | Oh, I am sad | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
-| Farming Frenzy | 0.00% | ~0 |
 | Farming Frenzy Plus | 0.00% | ~0 |
 | Oh, I love parks, listening to birds! | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |

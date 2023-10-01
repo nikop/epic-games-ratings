@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.48 (Ranked 608)  
+Rating: 4.48 (Ranked 609)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,12 +14,12 @@ Rating: 4.48 (Ranked 608)
 | It's like an haircut | 17.00% | ~194 |
 | Ride in the rising sun | 16.00% | ~183 |
 | Suit up | 16.00% | ~183 |
-| Walked like an Egyptian | 15.00% | ~171 |
+| Walked like an Egyptian | 15.00% | ~172 |
 | Rookie No-No More | 13.00% | ~149 |
 | Running at the speed of sound | 13.00% | ~149 |
 | Martian explorer | 11.00% | ~126 |
 | To the core | 9.00% | ~103 |
-| Blurred photofinish | 8.00% | ~91 |
+| Blurred photofinish | 8.00% | ~92 |
 | EZ game EZ life | 7.00% | ~80 |
 | First step into a larger world | 7.00% | ~80 |
 | Over the clouds | 6.00% | ~69 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 608)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,143 (Ranked 224)  
+Progressed: 1,144 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,6 +165,7 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 1,141 | 0 |
 | 2023-09-29 | 1,142 | 0 |
 | 2023-09-30 | 1,143 | 0 |
+| 2023-10-01 | 1,144 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

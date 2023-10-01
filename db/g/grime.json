@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -10642,8 +10642,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-01T13:57:58.0426662+00:00",
-  "LastChanged_Achievements": "2023-10-01T14:07:17.4108605+00:00",
+  "LastChanged_Achievements": "2023-10-01T15:08:10.210745+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-01T13:57:58.0426671+00:00",
-  "LastUpdate_Achievements": "2023-10-01T14:07:17.41094+00:00"
+  "LastUpdate_Ratings": "2023-10-01T14:58:20.2301007+00:00",
+  "LastUpdate_Achievements": "2023-10-01T15:08:10.2108481+00:00"
 }
