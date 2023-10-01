@@ -3,9 +3,9 @@
   "Name": "ORB",
   "ProductSlug": "orb-bfdd17",
   "Ranking_EOS_Progress": 647,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-08T05:00:00+00:00",
     "PcReleaseDate": "2002-11-11T06:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.3037244+00:00",
   "LastChanged": "2023-03-31T05:58:47.3037245+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.2676206+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:01:28.8075046+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:03:56.026945+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:01:13.1782539+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:03:36.0473141+00:00"
 }

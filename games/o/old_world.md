@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.10% | ~14 |
 | Carthage - Ox Hide | 0.10% | ~14 |
 | Bronze Victory (Carthage 1) | 0.10% | ~14 |
+| Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Gold Victory (Carthage 1) | 0.10% | ~14 |
 | Silver Victory (Carthage 1) | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
@@ -180,6 +181,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.10% | ~14 |
 | Win a Single Player Game | 0.10% | ~14 |
 | The Clergy | 0.10% | ~14 |
+| Five Cults | 0.10% | ~14 |
 | The Great Mage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
 | Rmt n Kmt Buhen | 0.10% | ~14 |
@@ -238,7 +240,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Epic Victory (Carthage 1) | 0.00% | ~0 |
 | Carthage - Riches and Influence | 0.00% | ~0 |
 | Bronze Victory (Carthage 2) | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
@@ -338,7 +339,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
-| Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Pilgrimage | 0.00% | ~0 |
 | Patriarch St Paul | 0.00% | ~0 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,272 (Ranked 133)  
-Completed: 5 (0.04%) (Ranked 268)  
+Progressed: 14,274 (Ranked 133)  
+Completed: 5 (0.04%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 268)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,272 | 5 |
+| 2023-10-01 | 14,274 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

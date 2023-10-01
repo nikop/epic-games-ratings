@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,497 |
-| Rough Landing | 4.00% | ~35,497 |
+| Ten out of Ten | 4.00% | ~35,498 |
+| Rough Landing | 4.00% | ~35,498 |
 | Gunslinger | 3.00% | ~26,623 |
-| Full Body Conversion | 2.00% | ~17,748 |
-| Right Back At Ya | 2.00% | ~17,748 |
-| Master Crafter | 2.00% | ~17,748 |
-| Mean Streets | 2.00% | ~17,748 |
-| Breathtaking | 2.00% | ~17,748 |
-| Stanislavski's Method | 2.00% | ~17,748 |
-| The Hermit | 2.00% | ~17,748 |
-| The High Priestess | 2.00% | ~17,748 |
-| The Wheel of Fortune | 2.00% | ~17,748 |
-| The Jungle | 2.00% | ~17,748 |
-| True Soldier | 2.00% | ~17,748 |
-| Two Heads, One Bullet | 2.00% | ~17,748 |
-| V for Vendetta | 2.00% | ~17,748 |
+| Full Body Conversion | 2.00% | ~17,749 |
+| Right Back At Ya | 2.00% | ~17,749 |
+| Master Crafter | 2.00% | ~17,749 |
+| Mean Streets | 2.00% | ~17,749 |
+| Breathtaking | 2.00% | ~17,749 |
+| Stanislavski's Method | 2.00% | ~17,749 |
+| The Hermit | 2.00% | ~17,749 |
+| The High Priestess | 2.00% | ~17,749 |
+| The Wheel of Fortune | 2.00% | ~17,749 |
+| The Jungle | 2.00% | ~17,749 |
+| True Soldier | 2.00% | ~17,749 |
+| Two Heads, One Bullet | 2.00% | ~17,749 |
+| V for Vendetta | 2.00% | ~17,749 |
 | To Bad Decisions! | 1.00% | ~8,874 |
 | Gun Fu | 1.00% | ~8,874 |
 | Christmas Tree Attack | 1.00% | ~8,874 |
@@ -40,9 +40,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.60% | ~5,325 |
 | Spin Doctor | 0.60% | ~96 |
 | Bushido and Chill | 0.50% | ~4,437 |
+| I Am The Law | 0.50% | ~4,437 |
 | The Wandering Fool | 0.40% | ~3,550 |
 | Autojock | 0.40% | ~3,550 |
-| I Am The Law | 0.40% | ~3,550 |
 | Must Be Rats | 0.40% | ~3,550 |
 | To Protect and Serve | 0.30% | ~2,662 |
 | Frequent Flyer | 0.30% | ~2,662 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,422 (Ranked 15)  
-Completed: 2,530 (0.29%) (Ranked 200)  
+Progressed: 887,444 (Ranked 15)  
+Completed: 2,531 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 2,530 (0.29%) (Ranked 200)
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
-| 2023-10-01 | 887,422 | 2,530 |
+| 2023-10-01 | 887,444 | 2,531 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
 Sum: 249,789 (Ranked 13)  

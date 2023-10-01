@@ -3,9 +3,9 @@
   "Name": "Super BUFF HD",
   "ProductSlug": "buff-f1dc4f",
   "Ranking_EOS_Progress": 647,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-29T22:57:05.1578497+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:58:31.3712294+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:03:40.9871363+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:58:17.1814697+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:03:21.2570792+00:00"
 }

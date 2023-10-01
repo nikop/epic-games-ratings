@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18513,
+  "EOS_Progressed": 18514,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -13567,6 +13567,11 @@
       "Time": "2023-10-01T21:04:51.8358859+00:00",
       "NumProgressed": 18513,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-10-01T22:04:32.8131372+00:00",
+      "NumProgressed": 18514,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 14,
@@ -13578,7 +13583,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14440
+      "UsersEstimate": 14441
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -13610,7 +13615,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -13666,7 +13671,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -13689,15 +13694,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18513,
+      "Progressed": 18514,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:04:51.8358851+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:04:32.8131367+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:17.1558571+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:57:42.5754055+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:04:51.8359869+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:57:27.4693351+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:04:32.8132105+00:00"
 }

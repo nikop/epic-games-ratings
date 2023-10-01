@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5462,
+  "EOS_Progressed": 5463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3715,6 +3715,11 @@
       "Time": "2023-10-01T16:04:10.405592+00:00",
       "NumProgressed": 5462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T22:04:19.8334686+00:00",
+      "NumProgressed": 5463,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3838,7 +3843,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3982,7 +3987,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ach_campaign_special6",
@@ -4070,7 +4075,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ach_frp_high_networth",
@@ -4086,7 +4091,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -4333,15 +4338,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5462,
+      "Progressed": 5463,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:04:38.5969423+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:04:19.8334679+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:30.5000368+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:00:53.6648377+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:04:38.5970486+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:00:38.5622376+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:04:19.8335533+00:00"
 }

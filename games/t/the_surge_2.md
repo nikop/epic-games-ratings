@@ -6,8 +6,8 @@ Rating: 4.24 (Ranked 853)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,658 |
-| Don't I Know You...? | 76.00% | ~1,575 |
-| Jailbreak | 65.00% | ~1,347 |
+| Don't I Know You...? | 77.00% | ~1,596 |
+| Jailbreak | 66.00% | ~1,368 |
 | HEADSHOT! | 38.00% | ~788 |
 | Suited and Booted | 38.00% | ~788 |
 | Sleeping With The Fishes | 36.00% | ~746 |
@@ -64,7 +64,7 @@ Rating: 4.24 (Ranked 853)
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,073 (Ranked 198)  
-Completed: 12 (0.58%) (Ranked 158)  
+Completed: 12 (0.58%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 17296,
+  "EOS_Progressed": 17304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1856,
+  "EOS_NewPlayers": 1810,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3274,6 +3274,11 @@
       "Time": "2023-10-01T21:04:37.0555108+00:00",
       "NumProgressed": 17296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T22:04:18.572295+00:00",
+      "NumProgressed": 17304,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -3382,7 +3387,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7610
+      "UsersEstimate": 7614
     },
     {
       "ID": "kills_100",
@@ -3390,7 +3395,7 @@
       "Name": "Rookie Riot",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "kills_1000",
@@ -3533,13 +3538,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 17296,
+      "Progressed": 17304,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:04:37.0555099+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:04:18.5722942+00:00",
   "LastUpdate_AppInfo": "2023-09-27T11:57:09.2891413+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:01:25.9494741+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:04:37.0555531+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:01:10.8985338+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:04:18.572328+00:00"
 }

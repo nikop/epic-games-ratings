@@ -6,23 +6,23 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~22,077 |
-| The Evilest Evil | 58.00% | ~18,557 |
-| Twistram is devastated | 57.00% | ~18,237 |
-| The Gehenna Stones | 49.00% | ~15,678 |
-| No one has to die today! | 46.00% | ~14,718 |
-| Death and destruction! | 45.00% | ~14,398 |
-| The Swamplanders from the swamplands | 43.00% | ~13,758 |
-| Rusty Steel | 41.00% | ~13,118 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,798 |
-| The last burger | 37.00% | ~11,838 |
-| Braiiiiins! | 37.00% | ~11,838 |
-| Hands off the Dungeonheart! | 36.00% | ~11,518 |
-| A trip on sea, what fun it can be | 34.00% | ~10,878 |
-| Damned good | 33.00% | ~10,558 |
-| Stock Market Crash | 31.00% | ~9,918 |
-| Factory farming | 31.00% | ~9,918 |
-| Not-So-Overproud | 30.00% | ~9,598 |
+| The Shadow strikes | 69.00% | ~22,078 |
+| The Evilest Evil | 58.00% | ~18,558 |
+| Twistram is devastated | 57.00% | ~18,238 |
+| The Gehenna Stones | 49.00% | ~15,679 |
+| No one has to die today! | 46.00% | ~14,719 |
+| Death and destruction! | 45.00% | ~14,399 |
+| The Swamplanders from the swamplands | 43.00% | ~13,759 |
+| Rusty Steel | 41.00% | ~13,119 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,799 |
+| The last burger | 37.00% | ~11,839 |
+| Braiiiiins! | 37.00% | ~11,839 |
+| Hands off the Dungeonheart! | 36.00% | ~11,519 |
+| A trip on sea, what fun it can be | 34.00% | ~10,879 |
+| Damned good | 33.00% | ~10,559 |
+| Stock Market Crash | 31.00% | ~9,919 |
+| Factory farming | 31.00% | ~9,919 |
+| Not-So-Overproud | 30.00% | ~9,599 |
 | For a handfull of Catapults | 29.00% | ~9,279 |
 | Shadow hunter | 29.00% | ~9,279 |
 | Thirst quencher | 27.00% | ~8,639 |
@@ -42,9 +42,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~5,759 |
 | Flat as a pancake | 17.00% | ~5,439 |
 | Lifeguard | 17.00% | ~5,439 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,799 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~3,839 |
-| Then let them eat cake! | 12.00% | ~3,839 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,800 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~3,840 |
+| Then let them eat cake! | 12.00% | ~3,840 |
 | The White Knight | 10.00% | ~3,200 |
 | Please, no interruptions! | 10.00% | ~3,200 |
 | Use the terrain | 9.00% | ~2,880 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~640 |
 | Sacrifices! | 2.00% | ~640 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,995 (Ranked 111)  
-Completed: 261 (0.82%) (Ranked 145)  
+Progressed: 31,997 (Ranked 111)  
+Completed: 261 (0.82%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,7 +231,7 @@ Completed: 261 (0.82%) (Ranked 145)
 | 2023-09-28 | 31,584 | 260 |
 | 2023-09-29 | 31,694 | 260 |
 | 2023-09-30 | 31,859 | 261 |
-| 2023-10-01 | 31,995 | 261 |
+| 2023-10-01 | 31,997 | 261 |
 ## Awards
 Max (Great for Beginners): 355  (Ranked 229)  
 Sum: 2,662 (Ranked 175)  

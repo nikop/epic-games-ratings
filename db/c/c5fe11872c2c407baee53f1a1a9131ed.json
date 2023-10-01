@@ -3,9 +3,9 @@
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -772,9 +772,9 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_endless_60",
@@ -915,8 +915,8 @@
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:05:40.7543165+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:05:21.3216283+00:00",
   "LastUpdate_AppInfo": "2023-09-30T06:57:05.6685989+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:03:21.0722855+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:05:40.7543413+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:02:21.0543136+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:05:21.321648+00:00"
 }

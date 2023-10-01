@@ -3,9 +3,9 @@
   "Name": "Lysfanga: The Time Shift Warrior",
   "ProductSlug": "lysfanga-9608f2",
   "Ranking_EOS_Progress": 647,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-16T17:04:11.7793699+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:08:12.6859402+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:07:52.7958432+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.0571305+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:59:24.4567101+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:08:12.6859432+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:59:08.4021316+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:07:52.7958465+00:00"
 }

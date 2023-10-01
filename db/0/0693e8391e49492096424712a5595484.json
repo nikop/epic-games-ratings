@@ -3,8 +3,8 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_Completed": 44,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 472,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 7.42,
   "EosHistory": [
@@ -1997,9 +1997,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 321
     },
     {
       "ID": "HastrmanAcorn",
@@ -2212,8 +2212,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:04:58.5553182+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:04:39.5249873+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:58:39.3540461+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:04:58.555366+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:58:25.3754171+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:04:39.5250264+00:00"
 }

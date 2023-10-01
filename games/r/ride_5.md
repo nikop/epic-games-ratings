@@ -20,15 +20,15 @@
 | Go-Faster Stripes | 16.00% | ~200 |
 | We've Just Begun | 9.00% | ~112 |
 | Stamina Star | 8.00% | ~100 |
-| Is It the Right Size? | 7.00% | ~87 |
+| Is It the Right Size? | 7.00% | ~88 |
 | Evangelist | 5.00% | ~62 |
 | Make It Your Own! | 4.00% | ~50 |
 | I Make the Rules! | 4.00% | ~50 |
-| Cherry Blossom and Temples | 3.00% | ~37 |
-| La Dolce Vita | 3.00% | ~37 |
-| The Road to Liberty | 3.00% | ~37 |
-| Romantic Races | 3.00% | ~37 |
-| Still Here | 3.00% | ~37 |
+| Cherry Blossom and Temples | 3.00% | ~38 |
+| La Dolce Vita | 3.00% | ~38 |
+| The Road to Liberty | 3.00% | ~38 |
+| Romantic Races | 3.00% | ~38 |
+| Still Here | 3.00% | ~38 |
 | Iconic! | 2.00% | ~25 |
 | Spoilt for Choice | 2.00% | ~25 |
 | Back in Blighty | 2.00% | ~25 |
@@ -54,8 +54,8 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,249 (Ranked 221)  
-Completed: 0 (0.00%) (Ranked 303)  
+Progressed: 1,250 (Ranked 221)  
+Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 303)
 | 2023-09-28 | 1,192 | 0 |
 | 2023-09-29 | 1,209 | 0 |
 | 2023-09-30 | 1,231 | 0 |
-| 2023-10-01 | 1,249 | 0 |
+| 2023-10-01 | 1,250 | 0 |

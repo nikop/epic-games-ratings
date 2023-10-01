@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tour Guide Extraordinaire | 39.00% | ~22 |
-| Relight my Cannon | 35.00% | ~20 |
-| Glass Act | 33.00% | ~19 |
+| Relight my Cannon | 37.00% | ~21 |
+| Glass Act | 35.00% | ~20 |
 | Puzzle Prodigy | 26.00% | ~15 |
 | Snitch | 25.00% | ~14 |
 | Explosive End | 23.00% | ~13 |
@@ -17,14 +17,14 @@
 | Bathroom Brawler | 18.00% | ~10 |
 | Breathless End | 18.00% | ~10 |
 | Finger-Lickin' Bad | 18.00% | ~10 |
-| Flying High | 14.00% | ~8 |
+| Flying High | 16.00% | ~9 |
 | Key Keeper's Curse | 5.00% | ~3 |
 | Fool's Gold | 4.00% | ~2 |
 | Freedum Fighter | 4.00% | ~2 |
 | Escape Artist | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 57 (Ranked 418)  
-Completed: 1 (1.75%) (Ranked 113)  
+Completed: 1 (1.75%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -35,13 +35,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 3.00% | ~503 |
 | Cursed Lands | 3.00% | ~503 |
 | Like a Machine | 3.00% | ~503 |
+| Defying the Crown | 3.00% | ~503 |
 | Refinery | 2.00% | ~335 |
 | Dangerous Lands | 2.00% | ~335 |
 | Fishmen Ritual Site | 2.00% | ~335 |
 | Forbidden Lands | 2.00% | ~335 |
 | Forsaken Gods Temple | 2.00% | ~335 |
 | Victory through Prosperity | 2.00% | ~335 |
-| Defying the Crown | 2.00% | ~335 |
 | Into the Forest | 2.00% | ~335 |
 | Feeding The People | 1.00% | ~168 |
 | Efficient Explorer | 1.00% | ~168 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,772 (Ranked 129)  
-Completed: 52 (0.31%) (Ranked 195)  
+Completed: 52 (0.31%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

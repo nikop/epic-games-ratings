@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 843,
+  "EOS_Progressed": 844,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2006,6 +2006,11 @@
       "Time": "2023-10-01T21:05:48.8439507+00:00",
       "NumProgressed": 843,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T22:05:29.4339611+00:00",
+      "NumProgressed": 844,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2017,7 +2022,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2025,7 +2030,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2257,7 +2262,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2265,7 +2270,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2287,9 +2292,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 143
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2337,7 +2342,7 @@
       "Name": "And There We Go",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2345,7 +2350,7 @@
       "Name": "End the Infestation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -2393,7 +2398,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2407,9 +2412,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 211
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2465,7 +2470,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2544,14 +2549,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 843,
+      "Progressed": 844,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:05:48.8439499+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:05:29.4339604+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:59:07.8088186+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:05:48.8440307+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:58:51.4467586+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:05:29.4340332+00:00"
 }

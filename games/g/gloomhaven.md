@@ -6,46 +6,46 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~3,976 |
-| A normal day in Gloomhaven | 34.00% | ~3,144 |
-| Overkill | 32.00% | ~2,959 |
-| Vaccine Incoming | 31.00% | ~2,867 |
-| Spread the plague | 29.00% | ~2,682 |
-| Get over here! | 23.00% | ~2,127 |
-| Just when I thought I was out... | 18.00% | ~1,664 |
-| Mine... All Mine... | 17.00% | ~1,572 |
-| Light of my life | 15.00% | ~1,387 |
-| Anatomy Lesson | 14.00% | ~1,295 |
-| Precious! | 13.00% | ~1,202 |
-| You activated my trap card! | 13.00% | ~1,202 |
-| Augmented rat | 13.00% | ~1,202 |
-| Obstacle race | 13.00% | ~1,202 |
-| Doom and gloom | 12.00% | ~1,110 |
-| Grizzled veteran | 10.00% | ~925 |
-| Pain is your friend | 8.00% | ~740 |
-| Black death | 8.00% | ~740 |
-| Play it again, Sam | 8.00% | ~740 |
-| Pack leader | 7.00% | ~647 |
-| Dungeon Veteran | 6.00% | ~555 |
-| Who's the Boss? | 6.00% | ~555 |
-| Quad damage | 6.00% | ~555 |
-| Pretty lights! | 5.00% | ~462 |
-| Now you see me... | 5.00% | ~462 |
-| Power Up! | 4.00% | ~370 |
-| The Pro from Dover | 4.00% | ~370 |
-| Caught off guard | 3.00% | ~277 |
+| I'm not dead yet | 43.00% | ~3,987 |
+| A normal day in Gloomhaven | 34.00% | ~3,152 |
+| Overkill | 32.00% | ~2,967 |
+| Vaccine Incoming | 31.00% | ~2,874 |
+| Spread the plague | 29.00% | ~2,689 |
+| Get over here! | 23.00% | ~2,132 |
+| Just when I thought I was out... | 18.00% | ~1,669 |
+| Mine... All Mine... | 17.00% | ~1,576 |
+| Light of my life | 15.00% | ~1,391 |
+| Anatomy Lesson | 14.00% | ~1,298 |
+| Precious! | 13.00% | ~1,205 |
+| You activated my trap card! | 13.00% | ~1,205 |
+| Augmented rat | 13.00% | ~1,205 |
+| Obstacle race | 13.00% | ~1,205 |
+| Doom and gloom | 12.00% | ~1,113 |
+| Grizzled veteran | 10.00% | ~927 |
+| Pain is your friend | 8.00% | ~742 |
+| Black death | 8.00% | ~742 |
+| Play it again, Sam | 8.00% | ~742 |
+| Pack leader | 7.00% | ~649 |
+| Dungeon Veteran | 6.00% | ~556 |
+| Who's the Boss? | 6.00% | ~556 |
+| Quad damage | 6.00% | ~556 |
+| The Pro from Dover | 5.00% | ~464 |
+| Pretty lights! | 5.00% | ~464 |
+| Now you see me... | 5.00% | ~464 |
+| Power Up! | 4.00% | ~371 |
+| Caught off guard | 3.00% | ~278 |
 | I hate portals | 2.00% | ~185 |
 | Merchant of doom | 2.00% | ~185 |
 | Master Assassin | 2.00% | ~185 |
 | Grin and bear it | 2.00% | ~185 |
 | An axe to grind | 2.00% | ~185 |
-| From Gloom, only greed and death emerges | 1.00% | ~92 |
-| The Rat King | 1.00% | ~92 |
-| Down the hatch | 1.00% | ~92 |
-| An eye for an eye | 1.00% | ~92 |
-| The Cephalophore | 1.00% | ~92 |
-| The Sniper | 1.00% | ~92 |
+| From Gloom, only greed and death emerges | 1.00% | ~93 |
+| Down the hatch | 1.00% | ~93 |
+| An eye for an eye | 1.00% | ~93 |
+| The Cephalophore | 1.00% | ~93 |
+| The Sniper | 1.00% | ~93 |
 | Add a bit of colour | 0.90% | ~83 |
+| The Rat King | 0.90% | ~83 |
 | How to train your Drake | 0.90% | ~83 |
 | New Blood | 0.90% | ~83 |
 | Captain hooked | 0.70% | ~65 |
@@ -56,11 +56,11 @@ Number of Ratings: 68  (23.09.2022)
 | Born Support | 0.40% | ~37 |
 | Pull out the big guns | 0.30% | ~28 |
 | Crimson Tornado | 0.30% | ~28 |
-| The Cartographer | 0.20% | ~18 |
-| The evil that men do | 0.20% | ~18 |
-| MacReady Steady.. Go! | 0.20% | ~18 |
-| Beware my power | 0.20% | ~18 |
-| The Jaws of victory! | 0.20% | ~18 |
+| The Cartographer | 0.20% | ~19 |
+| The evil that men do | 0.20% | ~19 |
+| MacReady Steady.. Go! | 0.20% | ~19 |
+| Beware my power | 0.20% | ~19 |
+| The Jaws of victory! | 0.20% | ~19 |
 | A cult following | 0.10% | ~9 |
 | Over your dead body | 0.10% | ~9 |
 | The Guildmaster | 0.10% | ~9 |
@@ -68,8 +68,8 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~9 |
 | Murder Death Kill | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,247 (Ranked 145)  
-Completed: 1 (0.01%) (Ranked 286)  
+Progressed: 9,271 (Ranked 145)  
+Completed: 1 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,19 +86,19 @@ Completed: 1 (0.01%) (Ranked 286)
 | 2023-09-28 | 7,941 | 1 |
 | 2023-09-29 | 8,303 | 1 |
 | 2023-09-30 | 8,790 | 1 |
-| 2023-10-01 | 9,247 | 1 |
+| 2023-10-01 | 9,271 | 1 |
 ## Awards
 Max (Character Customization): 3,543  (Ranked 89)  
-Sum: 8,250 (Ranked 98)  
+Sum: 8,253 (Ranked 98)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,543 |
-| This game has Diverse Characters | 582 |
+| This game has Diverse Characters | 584 |
 | This game has Challenging Combat | 543 |
 | This game is Highly Recommended | 540 |
 | This game is Extremely Fun | 532 |
-| This game has Amazing Characters | 484 |
+| This game has Amazing Characters | 485 |
 | This game is Relaxing | 482 |
 | This game has Quickly Understood Controls | 480 |
 | This game has Amazing Storytelling | 480 |
@@ -285,4 +285,4 @@ Diff (max vs sum): -9
 | 2023-09-28 | 4.47 | - | 3,539 | 8,241 |
 | 2023-09-29 | 4.47 | - | 3,541 | 8,246 |
 | 2023-09-30 | 4.47 | - | 3,541 | 8,247 |
-| 2023-10-01 | 4.47 | - | 3,543 | 8,250 |
+| 2023-10-01 | 4.47 | - | 3,543 | 8,253 |

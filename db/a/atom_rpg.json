@@ -6,8 +6,8 @@
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1261,
+  "EOS_Progressed": 1262,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2736,6 +2736,11 @@
       "Time": "2023-10-01T14:07:03.2904828+00:00",
       "NumProgressed": 1261,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T22:08:14.9762378+00:00",
+      "NumProgressed": 1262,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2803,7 +2808,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "EXPERT_1",
@@ -2875,7 +2880,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -2899,7 +2904,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2971,7 +2976,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "SECRET_ROOM",
@@ -3003,7 +3008,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "VVE",
@@ -3019,7 +3024,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "WISHMASTER_1",
@@ -3034,15 +3039,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1261,
+      "Progressed": 1262,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:08:35.1639338+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:08:14.9762374+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.7315963+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:03:11.6723221+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:08:35.1639753+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:02:13.4539005+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:08:14.9762688+00:00"
 }

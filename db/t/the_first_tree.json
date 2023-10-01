@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -246,7 +246,7 @@
   "Tags": [],
   "EOS_Progressed": 36286,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14544,9 +14544,9 @@
       "ID": "completionist",
       "SetID": "8pjb9ak",
       "Name": "Completionist",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 145
+      "UsersEstimate": 109
     },
     {
       "ID": "dejaVu",
@@ -14608,8 +14608,8 @@
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:07:34.1307221+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:07:14.7079649+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:22.0828905+00:00",
-  "LastUpdate_Ratings": "2023-10-01T21:02:10.308093+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:07:34.1308119+00:00"
+  "LastUpdate_Ratings": "2023-10-01T22:01:43.2094374+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:07:14.7080388+00:00"
 }

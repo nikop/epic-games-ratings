@@ -4,11 +4,11 @@
   "ProductSlug": "detroit-become-human",
   "Ranking_Rating": 25,
   "Ranking_Popularity": 130,
-  "Ranking_PopularitySum": 215,
+  "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 647,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2019-12-12T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -1450,6 +1450,6 @@
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
   "LastChanged": "2023-09-29T21:02:13.6688896+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.3746811+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:58:18.2905371+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:06:01.943632+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:58:03.955634+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:05:42.5623608+00:00"
 }

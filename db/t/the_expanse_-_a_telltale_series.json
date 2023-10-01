@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13384,
+  "EOS_Progressed": 13387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7347,6 +7347,11 @@
       "Time": "2023-10-01T21:05:07.9727031+00:00",
       "NumProgressed": 13384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T22:04:48.8340902+00:00",
+      "NumProgressed": 13387,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7407,7 +7412,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "16",
@@ -7439,7 +7444,7 @@
       "Name": "Martian Music",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "2",
@@ -7455,7 +7460,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "21",
@@ -7463,7 +7468,7 @@
       "Name": "Drone Dodger",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     },
     {
       "ID": "22",
@@ -7535,7 +7540,7 @@
       "Name": "Captain Drummer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "30",
@@ -7567,7 +7572,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "7",
@@ -7591,14 +7596,14 @@
       "Name": "Impossible Objects",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13384,
+      "Progressed": 13387,
       "Completed": 0
     }
   ],
@@ -7606,8 +7611,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-01T21:05:07.9727023+00:00",
+  "LastChanged_Achievements": "2023-10-01T22:04:48.8340896+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:59:28.2916123+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:05:07.9727694+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:59:11.9401608+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:04:48.8341456+00:00"
 }

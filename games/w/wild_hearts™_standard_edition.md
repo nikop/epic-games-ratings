@@ -12,9 +12,9 @@
 | Man-Machine Master | 65.00% | ~58 |
 | Mountain Splitter | 65.00% | ~58 |
 | Fusion Conjuror | 63.00% | ~56 |
-| Memory Rouser | 61.00% | ~54 |
+| Memory Rouser | 62.00% | ~55 |
+| Subsistence Skills | 60.00% | ~53 |
 | Master of the Skies | 58.00% | ~52 |
-| Subsistence Skills | 58.00% | ~52 |
 | Kemono Hunter | 57.00% | ~51 |
 | Distance Devourer | 53.00% | ~47 |
 | Expert Conjuror | 53.00% | ~47 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89 (Ranked 394)  
-Completed: 2 (2.25%) (Ranked 102)  
+Completed: 2 (2.25%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

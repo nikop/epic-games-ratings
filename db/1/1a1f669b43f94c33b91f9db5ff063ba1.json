@@ -3,9 +3,9 @@
   "Name": "Kula",
   "ProductSlug": "kula-cacc6a",
   "Ranking_EOS_Progress": 647,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-20T22:00:00+00:00",
     "PcReleaseDate": "2021-07-20T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-01T20:57:10.6117009+00:00",
-  "LastUpdate_Ratings": "2023-10-01T20:57:54.55159+00:00",
-  "LastUpdate_Achievements": "2023-10-01T21:04:07.8085872+00:00"
+  "LastUpdate_Ratings": "2023-10-01T21:57:40.3091796+00:00",
+  "LastUpdate_Achievements": "2023-10-01T22:03:47.9419994+00:00"
 }
