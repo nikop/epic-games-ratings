@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197692,
+  "EOS_Progressed": 197696,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17967,6 +17967,11 @@
       "Time": "2023-10-01T15:05:58.6918349+00:00",
       "NumProgressed": 197692,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-01T16:06:06.1214367+00:00",
+      "NumProgressed": 197696,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -17978,7 +17983,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15815
+      "UsersEstimate": 15816
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -17986,7 +17991,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 140361
+      "UsersEstimate": 140364
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -18105,7 +18110,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197692,
+      "Progressed": 197696,
       "Completed": 4
     }
   ],
@@ -18113,8 +18118,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-09-24T20:58:16.0014057+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:05:58.6918344+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:06:06.1214364+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.8385746+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:57:23.7627775+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:05:58.6919651+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:57:16.48216+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:06:06.1215281+00:00"
 }

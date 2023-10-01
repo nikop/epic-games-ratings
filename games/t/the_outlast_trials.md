@@ -4,7 +4,7 @@
 Rating: 4.65 (Ranked 301)  
 ## Awards
 Max (Great for Beginners): 118  (Ranked 327)  
-Sum: 899 (Ranked 260)  
+Sum: 900 (Ranked 260)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 67
 | This game has Amazing Characters | 102 |
 | This game has Diverse Characters | 99 |
 | This game is Relaxing | 97 |
-| This game is Extremely Fun | 92 |
+| This game is Extremely Fun | 93 |
 | This game is Highly Recommended | 88 |
 | This game has Challenging Combat | 84 |
 | This game is Educational | 28 |
@@ -147,4 +147,4 @@ Diff (max vs sum): 67
 | 2023-09-28 | 4.65 | 117 | 887 |
 | 2023-09-29 | 4.65 | 117 | 890 |
 | 2023-09-30 | 4.65 | 118 | 897 |
-| 2023-10-01 | 4.65 | 118 | 899 |
+| 2023-10-01 | 4.65 | 118 | 900 |

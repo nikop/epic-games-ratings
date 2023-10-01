@@ -1,15 +1,15 @@
 # Control
 [Store](https://store.epicgames.com/en-US/p/control)  
 [View Rawdata](../../db/c/control.json)  
-Rating: 4.60 (Ranked 398)  
+Rating: 4.60 (Ranked 397)  
 Number of Ratings: 16,122  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 8,557  (Ranked 41)  
-Sum: 12,776 (Ranked 75)  
+Max (Great Boss Battles): 8,561  (Ranked 41)  
+Sum: 12,780 (Ranked 75)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 8,557 |
+| This game has Great Boss Battles | 8,561 |
 | This game is Highly Recommended | 517 |
 | This game has Amazing Storytelling | 507 |
 | This game has Challenging Combat | 506 |
@@ -248,3 +248,4 @@ Diff (max vs sum): -34
 | 2023-09-28 | 4.60 | - | 8,548 | 12,757 |
 | 2023-09-29 | 4.60 | - | 8,551 | 12,764 |
 | 2023-09-30 | 4.60 | - | 8,557 | 12,776 |
+| 2023-10-01 | 4.60 | - | 8,561 | 12,780 |

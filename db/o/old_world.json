@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14264,
+  "EOS_Progressed": 14265,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12704,6 +12704,11 @@
       "Time": "2023-10-01T15:05:57.9759441+00:00",
       "NumProgressed": 14264,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-01T16:06:05.6537266+00:00",
+      "NumProgressed": 14265,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14105,9 +14110,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -14921,9 +14926,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -15450,21 +15455,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14264,
+      "Progressed": 14265,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14264,
+      "Progressed": 14265,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T10:58:32.0066773+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:05:57.9759433+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:06:05.6537262+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:58:25.5834499+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:05:57.9772569+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:58:20.3421418+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:06:05.6546867+00:00"
 }

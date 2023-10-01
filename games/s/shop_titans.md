@@ -55,6 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.60% | ~822 |
 | Miracle Alchemist | 0.60% | ~822 |
 | Seasoned Journeyman | 0.60% | ~822 |
+| Scourge of the Seas | 0.60% | ~822 |
 | Black Friday Special | 0.60% | ~822 |
 | Magical Harmony | 0.60% | ~822 |
 | Special Ingredient | 0.60% | ~822 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.50% | ~685 |
 | Bountiful Harvest | 0.50% | ~685 |
 | Precision Engineering | 0.50% | ~685 |
-| Scourge of the Seas | 0.50% | ~685 |
 | Attrition Mission | 0.50% | ~685 |
 | Glittering Collection | 0.50% | ~685 |
 | Treasure Trove | 0.50% | ~685 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,953 (Ranked 69)  
+Progressed: 136,954 (Ranked 69)  
 Completed: 160 (0.12%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 160 (0.12%) (Ranked 231)
 | 2023-09-28 | 136,822 | 157 |
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
-| 2023-10-01 | 136,953 | 160 |
+| 2023-10-01 | 136,954 | 160 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,314 (Ranked 49)  

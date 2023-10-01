@@ -19,12 +19,12 @@
 | The beast within | 33.00% | ~32 |
 | It's getting dark | 33.00% | ~32 |
 | Hard Rock | 33.00% | ~32 |
-| Rooftop | 28.00% | ~27 |
-| Homeless | 28.00% | ~27 |
+| Rooftop | 29.00% | ~28 |
+| Homeless | 29.00% | ~28 |
+| Big badaboom! | 26.00% | ~25 |
 | Magnitude 5 | 25.00% | ~24 |
-| Big badaboom! | 25.00% | ~24 |
-| Bookworm | 23.00% | ~22 |
-| Payback | 22.00% | ~21 |
+| Bookworm | 24.00% | ~23 |
+| Payback | 23.00% | ~22 |
 | Nokron tower | 21.00% | ~20 |
 | Full power | 20.00% | ~19 |
 | "Ah sh*t... Here we go again!" | 20.00% | ~19 |

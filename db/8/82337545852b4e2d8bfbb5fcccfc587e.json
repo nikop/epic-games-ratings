@@ -306,9 +306,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "EpicACHV_15",
@@ -378,9 +378,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "EpicACHV_8",
@@ -394,9 +394,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
@@ -409,8 +409,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:04:33.2376241+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:04:37.9026829+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.4292457+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:59:17.5898174+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:04:33.2376402+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:59:12.0971974+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:04:37.902695+00:00"
 }

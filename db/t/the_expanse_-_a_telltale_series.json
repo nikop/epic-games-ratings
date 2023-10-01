@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13347,
+  "EOS_Progressed": 13352,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7317,6 +7317,11 @@
       "Time": "2023-10-01T15:04:28.3286084+00:00",
       "NumProgressed": 13347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T16:04:33.3053366+00:00",
+      "NumProgressed": 13352,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7329,7 +7334,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "10",
@@ -7345,7 +7350,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "12",
@@ -7369,7 +7374,7 @@
       "Name": "Doctor Approved",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "15",
@@ -7377,7 +7382,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "16",
@@ -7393,7 +7398,7 @@
       "Name": "Spore Taste",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "18",
@@ -7401,7 +7406,7 @@
       "Name": "Bottoms up!",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "19",
@@ -7409,7 +7414,7 @@
       "Name": "Martian Music",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "2",
@@ -7433,7 +7438,7 @@
       "Name": "Drone Dodger",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3472
     },
     {
       "ID": "22",
@@ -7449,7 +7454,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "24",
@@ -7473,7 +7478,7 @@
       "Name": "Call it Even",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "27",
@@ -7481,7 +7486,7 @@
       "Name": "Bosmang",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2803
+      "UsersEstimate": 2804
     },
     {
       "ID": "28",
@@ -7505,7 +7510,7 @@
       "Name": "Captain Drummer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "30",
@@ -7529,7 +7534,7 @@
       "Name": "Data Master",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "6",
@@ -7537,7 +7542,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "7",
@@ -7561,14 +7566,14 @@
       "Name": "Impossible Objects",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4805
+      "UsersEstimate": 4807
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13347,
+      "Progressed": 13352,
       "Completed": 0
     }
   ],
@@ -7576,8 +7581,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:04:28.328608+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:04:33.3053358+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:58:56.3871991+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:04:28.3286789+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:58:50.7343613+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:04:33.3053873+00:00"
 }

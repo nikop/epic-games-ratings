@@ -53,19 +53,19 @@
 | Seashell hunter | 38.00% | ~125 |
 | Gang wrangler | 37.00% | ~122 |
 | Undercover robot | 37.00% | ~122 |
+| Problems of cyborgs | 36.00% | ~119 |
 | Absolute Champion! | 36.00% | ~119 |
 | Your own way | 36.00% | ~119 |
-| Problems of cyborgs | 35.00% | ~115 |
 | The lonesome road | 35.00% | ~115 |
 | Key memories | 35.00% | ~115 |
 | Not little hacker | 35.00% | ~115 |
 | Anyone can resist | 35.00% | ~115 |
 | The heart of the Resistance | 35.00% | ~115 |
+| Trap disarmed | 34.00% | ~112 |
 | Another world | 34.00% | ~112 |
 | Keep nature safe | 34.00% | ~112 |
 | Family comes first | 34.00% | ~112 |
 | Careerist | 34.00% | ~112 |
-| Trap disarmed | 33.00% | ~109 |
 | The last bell ring | 33.00% | ~109 |
 | Better cooking at home | 31.00% | ~102 |
 | Silver’s past | 30.00% | ~99 |

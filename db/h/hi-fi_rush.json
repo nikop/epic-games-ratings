@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4114,
+  "EOS_Progressed": 4115,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6845,6 +6845,11 @@
       "Time": "2023-10-01T10:07:32.5387053+00:00",
       "NumProgressed": 4114,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-01T16:06:42.49651+00:00",
+      "NumProgressed": 4115,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7230,9 +7235,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 412
     },
     {
       "ID": "Ach049",
@@ -7344,7 +7349,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Ach063",
@@ -7423,13 +7428,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4114,
+      "Progressed": 4115,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2635,
+      "Progressed": 2636,
       "Completed": 1930
     }
   ],
@@ -7437,8 +7442,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:06:34.3819475+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:06:42.4965096+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.8155806+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:59:10.9574489+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:06:34.3820583+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:59:06.4551854+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:06:42.4966073+00:00"
 }

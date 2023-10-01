@@ -13,6 +13,7 @@ Rating: 4.50 (Ranked 573)
 | I collect Spores, Molds, and Fungi | 0.70% | ~183 |
 | Fully Upgraded | 0.70% | ~183 |
 | Vaporous Expansion | 0.70% | ~183 |
+| Whoopsie | 0.70% | ~183 |
 | Back Off | 0.60% | ~157 |
 | Clutch Capture | 0.60% | ~157 |
 | Cultured | 0.60% | ~157 |
@@ -20,30 +21,30 @@ Rating: 4.50 (Ranked 573)
 | Swift Rift Removers | 0.60% | ~157 |
 | Teamwork | 0.60% | ~157 |
 | There you are! | 0.60% | ~157 |
-| Whoopsie | 0.60% | ~157 |
 | Animated | 0.50% | ~131 |
 | Ectoplasmic Entity | 0.50% | ~131 |
 | Ghostbuster In Training | 0.50% | ~131 |
 | Right back at ya | 0.50% | ~131 |
+| Summoner | 0.50% | ~131 |
 | Terrifying | 0.50% | ~131 |
 | Welcome to the Crew | 0.50% | ~131 |
 | Daily Dose | 0.40% | ~105 |
 | Side Hustle | 0.40% | ~105 |
 | Skilled | 0.40% | ~105 |
-| Summoner | 0.40% | ~105 |
 | We have the best insurance | 0.30% | ~78 |
 | Diabolical | 0.30% | ~78 |
 | Legions | 0.30% | ~78 |
 | Pesky Jerks | 0.30% | ~78 |
+| Reckless | 0.30% | ~78 |
 | Seasoned | 0.30% | ~78 |
 | Stunner | 0.30% | ~78 |
 | Tobin's Prodigy | 0.30% | ~78 |
 | Collector | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
 | Fragile Panes | 0.20% | ~52 |
-| Reckless | 0.20% | ~52 |
 | Rift Destroyer | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |
+| Surprise! | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
@@ -53,11 +54,10 @@ Rating: 4.50 (Ranked 573)
 | Master Collector | 0.10% | ~26 |
 | Mycophile | 0.10% | ~26 |
 | Rift Seeker | 0.10% | ~26 |
-| Surprise! | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,130 (Ranked 114)  
+Progressed: 26,135 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 58 (0.22%) (Ranked 213)
 | 2023-09-28 | 26,071 | 58 |
 | 2023-09-29 | 26,093 | 58 |
 | 2023-09-30 | 26,122 | 58 |
-| 2023-10-01 | 26,130 | 58 |
+| 2023-10-01 | 26,135 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
 Sum: 2,350 (Ranked 188)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6734,
+  "EOS_Progressed": 6735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6572,6 +6572,11 @@
       "Time": "2023-10-01T15:03:21.8995144+00:00",
       "NumProgressed": 6734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-01T16:03:25.9802212+00:00",
+      "NumProgressed": 6735,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6623,7 +6628,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "Control_All_Relics",
@@ -6687,7 +6692,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5320
+      "UsersEstimate": 5321
     },
     {
       "ID": "First_Race_Met",
@@ -6695,7 +6700,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4917
     },
     {
       "ID": "First_Ship_Designed",
@@ -6903,7 +6908,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7071,7 +7076,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4444
+      "UsersEstimate": 4445
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7158,15 +7163,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6734,
+      "Progressed": 6735,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:03:21.8995136+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:03:25.9802206+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.8113415+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:59:03.6590285+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:03:21.8996288+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:58:58.8884303+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:03:25.9803031+00:00"
 }

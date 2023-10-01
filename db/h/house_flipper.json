@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1816,18 +1816,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2214,
       "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2023-10-01T16:00:31.3233619+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2215,
+      "NumberOfAwardsMax": 311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2214,
-  "NumberOfAwardsMax": 310,
+  "NumberOfAwards": 2215,
+  "NumberOfAwardsMax": 311,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1890,9 +1896,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20869,
+  "EOS_Progressed": 20870,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8805,6 +8811,11 @@
       "Time": "2023-09-30T20:08:28.2117975+00:00",
       "NumProgressed": 20869,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-01T16:03:18.9141179+00:00",
+      "NumProgressed": 20870,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -8856,7 +8867,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "FirstMoney",
@@ -8920,7 +8931,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "MrAndMrsJantart",
@@ -8944,7 +8955,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "RafaelErko",
@@ -8968,7 +8979,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3756
+      "UsersEstimate": 3757
     },
     {
       "ID": "Strongman",
@@ -8976,7 +8987,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6469
+      "UsersEstimate": 6470
     },
     {
       "ID": "VeronicaLiptson",
@@ -8999,15 +9010,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20869,
+      "Progressed": 20870,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-09-27T09:00:21.5843836+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:03:14.986191+00:00",
+  "LastChanged": "2023-10-01T16:00:31.3233618+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:03:18.9141175+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:05.7418417+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:00:39.250705+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:03:14.9862902+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:00:31.3233623+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:03:18.9141666+00:00"
 }

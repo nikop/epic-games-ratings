@@ -5,32 +5,32 @@ Rating: 4.00 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 83.00% | ~40 |
-| Battlefields Have Memories | 83.00% | ~40 |
-| Enlisted | 83.00% | ~40 |
-| Maybe Engage a Little | 77.00% | ~37 |
-| No More Names | 67.00% | ~32 |
-| Initiate | 60.00% | ~29 |
-| Thrada-Kul | 58.00% | ~28 |
-| Gravity-Challenged Rocks | 46.00% | ~22 |
-| Soldier | 40.00% | ~19 |
-| All the Major Food Groups | 38.00% | ~18 |
+| Unforeseen | 84.00% | ~41 |
+| Battlefields Have Memories | 84.00% | ~41 |
+| Enlisted | 84.00% | ~41 |
+| Maybe Engage a Little | 78.00% | ~38 |
+| No More Names | 67.00% | ~33 |
+| Initiate | 61.00% | ~30 |
+| Thrada-Kul | 59.00% | ~29 |
+| Gravity-Challenged Rocks | 47.00% | ~23 |
+| Soldier | 41.00% | ~20 |
+| All the Major Food Groups | 39.00% | ~19 |
 | Beggars Would Ride | 33.00% | ~16 |
 | Control is an Illusion | 31.00% | ~15 |
 | The Means to Save It | 29.00% | ~14 |
 | Socialite | 29.00% | ~14 |
 | Resilience to Sin | 27.00% | ~13 |
-| A Familiar Nest | 23.00% | ~11 |
-| Geas Aristeya | 23.00% | ~11 |
-| Armsman | 23.00% | ~11 |
-| Periapt Alizarin | 23.00% | ~11 |
-| A Perfect Cycle | 21.00% | ~10 |
-| Recruit | 21.00% | ~10 |
-| Lights Army | 15.00% | ~7 |
-| Armaments Gules | 13.00% | ~6 |
-| Periapt Cerulean | 13.00% | ~6 |
-| Shroudfane Explorer | 13.00% | ~6 |
-| Good Boy | 13.00% | ~6 |
+| Armsman | 24.00% | ~12 |
+| A Familiar Nest | 22.00% | ~11 |
+| Geas Aristeya | 22.00% | ~11 |
+| Periapt Alizarin | 22.00% | ~11 |
+| A Perfect Cycle | 20.00% | ~10 |
+| Recruit | 20.00% | ~10 |
+| Lights Army | 14.00% | ~7 |
+| Armaments Gules | 12.00% | ~6 |
+| Periapt Cerulean | 12.00% | ~6 |
+| Shroudfane Explorer | 12.00% | ~6 |
+| Good Boy | 12.00% | ~6 |
 | Scholar | 8.00% | ~4 |
 | Armaments Azure | 8.00% | ~4 |
 | Periapt Viridian | 8.00% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 958)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 431)  
+Progressed: 49 (Ranked 430)  
 Completed: 0 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 302)
 | 2023-09-28 | 27 | 0 |
 | 2023-09-29 | 39 | 0 |
 | 2023-09-30 | 43 | 0 |
-| 2023-10-01 | 48 | 0 |
+| 2023-10-01 | 49 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

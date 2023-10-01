@@ -10,6 +10,7 @@
 | Final Showdown | 50.00% | ~1 |
 | Divine Retribution | 50.00% | ~1 |
 | Eat the Rich | 50.00% | ~1 |
+| Big Eater | 50.00% | ~1 |
 | Dispel Rumors | 50.00% | ~1 |
 | Tour Guide | 50.00% | ~1 |
 | The Real O.G. | 50.00% | ~1 |
@@ -23,13 +24,12 @@
 | Sewer Rat | 50.00% | ~1 |
 | Coward | 50.00% | ~1 |
 | Tomb Raider | 50.00% | ~1 |
-| Big Eater | 0.00% | ~0 |
+| Fight Fire With Fire | 50.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | The Legend | 0.00% | ~0 |
 | Taoist | 0.00% | ~0 |
 | Not Today | 0.00% | ~0 |
 | Talk to the Fist | 0.00% | ~0 |
-| Fight Fire With Fire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 572)  
 Completed: 0 (0.00%) (Ranked 302)  

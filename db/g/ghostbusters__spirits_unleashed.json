@@ -2244,9 +2244,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26130,
+  "EOS_Progressed": 26135,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13949,6 +13949,11 @@
       "Time": "2023-10-01T14:04:39.5002269+00:00",
       "NumProgressed": 26130,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-01T16:04:51.5573295+00:00",
+      "NumProgressed": 26135,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14182,9 +14187,9 @@
       "ID": "Reckless",
       "SetID": "819popo",
       "Name": "Reckless",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Rift_Destroyer",
@@ -14270,17 +14275,17 @@
       "ID": "Summoner",
       "SetID": "819popo",
       "Name": "Summoner",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "Surprise",
       "SetID": "819popo",
       "Name": "Surprise!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     },
     {
       "ID": "Swift_Removers",
@@ -14358,16 +14363,16 @@
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26130,
+      "Progressed": 26135,
       "Completed": 58
     }
   ],
@@ -14375,8 +14380,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-01T09:00:07.21488+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:04:46.6713201+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:04:51.5573292+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:00:23.6555573+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:04:46.6714472+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:00:18.0915078+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:04:51.5574198+00:00"
 }

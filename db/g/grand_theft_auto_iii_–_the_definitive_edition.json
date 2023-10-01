@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -484,15 +484,21 @@
       "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-01T15:59:04.0978051+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8202,
+  "EOS_Progressed": 8203,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9600,6 +9606,11 @@
       "Time": "2023-10-01T12:06:53.5685166+00:00",
       "NumProgressed": 8202,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-01T16:06:55.4682852+00:00",
+      "NumProgressed": 8203,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9651,7 +9662,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "ACH07",
@@ -9715,7 +9726,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACH15",
@@ -9731,7 +9742,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ACH17",
@@ -9842,16 +9853,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8202,
+      "Progressed": 8203,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-09-29T15:58:31.362527+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:06:46.9709042+00:00",
+  "LastChanged": "2023-10-01T15:59:04.0978049+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:06:55.4682848+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.8186883+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:59:08.3426151+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:06:46.970988+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:59:04.0978054+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:06:55.4683424+00:00"
 }

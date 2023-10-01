@@ -2,12 +2,12 @@
   "ID": "d98b6c292e224a59b359372f4f5152df",
   "Name": "Tiny Tina\u0027s Assault on Dragon Keep: A Wonderlands One-shot Adventure",
   "ProductSlug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
-  "Ranking_Rating": 630,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-09T16:00:00+00:00",
@@ -712,6 +712,6 @@
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
   "LastChanged": "2023-09-22T17:03:12.6590232+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:42.4861759+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:00:11.0773895+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:08:16.3780317+00:00"
+  "LastUpdate_Ratings": "2023-10-01T16:00:04.6413982+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:09:04.2407951+00:00"
 }

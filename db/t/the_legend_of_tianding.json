@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -100,9 +100,9 @@
       "ID": "BigEater",
       "SetID": "123m9l1",
       "Name": "Big Eater",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ClarifyRumors",
@@ -252,9 +252,9 @@
       "ID": "TrickLiHong",
       "SetID": "123m9l1",
       "Name": "Fight Fire With Fire",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -269,8 +269,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:03:56.107669+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:04:00.2275321+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:42.0638918+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:00:44.4116628+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:03:56.1076876+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:57:13.9522179+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:04:00.2275488+00:00"
 }

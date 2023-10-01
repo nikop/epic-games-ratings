@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2118,6 +2118,11 @@
       "Time": "2023-10-01T15:06:53.0983149+00:00",
       "NumProgressed": 508,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-01T16:07:01.6089393+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2130,7 +2135,7 @@
       "Name": "Descendants",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2288,9 +2293,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_PEAK",
@@ -2306,7 +2311,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_REDEND",
@@ -2314,7 +2319,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_S1",
@@ -2336,9 +2341,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2346,7 +2351,7 @@
       "Name": "Lost in Space",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_STATUE",
@@ -2361,15 +2366,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:06:53.0983146+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:07:01.6089389+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:58:54.1645953+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:06:53.0983465+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:58:48.8933783+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:07:01.608963+00:00"
 }

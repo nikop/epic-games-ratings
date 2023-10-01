@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 417)  
+Rating: 4.59 (Ranked 416)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,953 |
+| Sowwy! | 32.00% | ~72,957 |
 | Alt+F4 | 6.00% | ~13,679 |
-| Where's that freaking Dwarf? | 5.00% | ~11,399 |
-| Déjà vu | 4.00% | ~9,119 |
-| A beer, two curses, three companions | 3.00% | ~6,839 |
-| Sock! SOCK! | 3.00% | ~6,839 |
-| GG EZ | 3.00% | ~6,839 |
-| DM intervention | 3.00% | ~6,839 |
-| Speedrun | 3.00% | ~6,839 |
-| Fireproof Wizardess | 3.00% | ~6,839 |
+| Where's that freaking Dwarf? | 5.00% | ~11,400 |
+| Déjà vu | 4.00% | ~9,120 |
+| A beer, two curses, three companions | 3.00% | ~6,840 |
+| Sock! SOCK! | 3.00% | ~6,840 |
+| GG EZ | 3.00% | ~6,840 |
+| DM intervention | 3.00% | ~6,840 |
+| Speedrun | 3.00% | ~6,840 |
+| Fireproof Wizardess | 3.00% | ~6,840 |
 | Livin' in a dwarven paradise | 2.00% | ~4,560 |
 | Way of the Wimp | 2.00% | ~4,560 |
 | The plot thickens... At the tavern | 2.00% | ~4,560 |
@@ -36,10 +36,10 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 1.00% | ~2,280 |
 | Look but don't touch | 1.00% | ~2,280 |
 | The beards of change | 1.00% | ~2,280 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,280 |
 | The Ranger of Chaos | 1.00% | ~2,280 |
 | I am the night | 1.00% | ~2,280 |
 | Thieves' Guild Accreditation | 1.00% | ~2,280 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~2,052 |
 | Dead for good | 0.80% | ~1,824 |
 | Lust and Debauchery | 0.80% | ~1,824 |
 | Material Girl | 0.80% | ~1,824 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,977 (Ranked 58)  
+Progressed: 227,990 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 5 (0.00%) (Ranked 302)
 | 2023-09-28 | 227,303 | 5 |
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
-| 2023-10-01 | 227,977 | 5 |
+| 2023-10-01 | 227,990 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 397 (Ranked 326)  

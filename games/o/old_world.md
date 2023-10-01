@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
 | Temple of Solomon | 0.10% | ~14 |
+| Cao'an | 0.10% | ~14 |
 | Adur Burzen-Mihr | 0.10% | ~14 |
 | Ishtar Gate | 0.10% | ~14 |
 | Lighthouse | 0.10% | ~14 |
@@ -154,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
+| Necropolis in Waset | 0.10% | ~14 |
 | Win a Single Player Game | 0.10% | ~14 |
 | The Great Mage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
@@ -256,7 +258,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Cao'an | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
@@ -285,7 +286,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One City Challenge | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
-| Necropolis in Waset | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.00% | ~0 |
 | Beja Archer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,264 (Ranked 133)  
+Progressed: 14,265 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 5 (0.04%) (Ranked 267)
 | 2023-09-28 | 14,185 | 5 |
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
-| 2023-10-01 | 14,264 | 5 |
+| 2023-10-01 | 14,265 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,825 (Ranked 207)  

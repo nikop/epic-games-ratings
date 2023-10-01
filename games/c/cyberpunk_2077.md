@@ -6,35 +6,35 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,486 |
-| Gunslinger | 3.00% | ~26,614 |
-| Rough Landing | 3.00% | ~26,614 |
-| Full Body Conversion | 2.00% | ~17,743 |
-| Right Back At Ya | 2.00% | ~17,743 |
-| Master Crafter | 2.00% | ~17,743 |
-| Mean Streets | 2.00% | ~17,743 |
-| Breathtaking | 2.00% | ~17,743 |
-| Stanislavski's Method | 2.00% | ~17,743 |
-| The Hermit | 2.00% | ~17,743 |
-| The High Priestess | 2.00% | ~17,743 |
-| The Wheel of Fortune | 2.00% | ~17,743 |
-| The Jungle | 2.00% | ~17,743 |
-| True Soldier | 2.00% | ~17,743 |
-| Two Heads, One Bullet | 2.00% | ~17,743 |
-| V for Vendetta | 2.00% | ~17,743 |
-| To Bad Decisions! | 1.00% | ~8,871 |
-| The Quick and the Dead | 1.00% | ~8,871 |
-| Temperance | 1.00% | ~8,871 |
-| The Fool | 1.00% | ~8,871 |
-| The Lovers | 1.00% | ~8,871 |
-| True Warrior | 1.00% | ~8,871 |
-| Legend of The Afterlife | 1.00% | ~8,871 |
-| Gun Fu | 0.90% | ~7,984 |
-| Christmas Tree Attack | 0.90% | ~7,984 |
-| The Devil | 0.90% | ~7,984 |
-| The World | 0.90% | ~7,984 |
-| It's Elementary | 0.90% | ~7,984 |
-| Judy vs Night City | 0.80% | ~7,097 |
+| Ten out of Ten | 4.00% | ~35,487 |
+| Rough Landing | 4.00% | ~35,487 |
+| Gunslinger | 3.00% | ~26,616 |
+| Full Body Conversion | 2.00% | ~17,744 |
+| Right Back At Ya | 2.00% | ~17,744 |
+| Master Crafter | 2.00% | ~17,744 |
+| Mean Streets | 2.00% | ~17,744 |
+| Breathtaking | 2.00% | ~17,744 |
+| Stanislavski's Method | 2.00% | ~17,744 |
+| The Hermit | 2.00% | ~17,744 |
+| The High Priestess | 2.00% | ~17,744 |
+| The Wheel of Fortune | 2.00% | ~17,744 |
+| The Jungle | 2.00% | ~17,744 |
+| True Soldier | 2.00% | ~17,744 |
+| Two Heads, One Bullet | 2.00% | ~17,744 |
+| V for Vendetta | 2.00% | ~17,744 |
+| To Bad Decisions! | 1.00% | ~8,872 |
+| The Quick and the Dead | 1.00% | ~8,872 |
+| Temperance | 1.00% | ~8,872 |
+| The Fool | 1.00% | ~8,872 |
+| The Lovers | 1.00% | ~8,872 |
+| True Warrior | 1.00% | ~8,872 |
+| Legend of The Afterlife | 1.00% | ~8,872 |
+| Gun Fu | 0.90% | ~7,985 |
+| Christmas Tree Attack | 0.90% | ~7,985 |
+| The Devil | 0.90% | ~7,985 |
+| The World | 0.90% | ~7,985 |
+| Judy vs Night City | 0.90% | ~7,985 |
+| It's Elementary | 0.90% | ~7,985 |
 | City Lights | 0.70% | ~6,210 |
 | Greetings from Pacifica! | 0.70% | ~6,210 |
 | Life of the Road | 0.60% | ~5,323 |
@@ -44,9 +44,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.40% | ~3,549 |
 | I Am The Law | 0.40% | ~3,549 |
 | Must Be Rats | 0.40% | ~3,549 |
-| To Protect and Serve | 0.30% | ~2,661 |
-| Frequent Flyer | 0.30% | ~2,661 |
-| The Sun | 0.30% | ~2,661 |
+| To Protect and Serve | 0.30% | ~2,662 |
+| Frequent Flyer | 0.30% | ~2,662 |
+| The Sun | 0.30% | ~2,662 |
 | Little Tokyo | 0.20% | ~1,774 |
 | The Wasteland | 0.20% | ~1,774 |
 | The Star | 0.20% | ~1,774 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,142 (Ranked 15)  
-Completed: 2,523 (0.28%) (Ranked 203)  
+Progressed: 887,187 (Ranked 15)  
+Completed: 2,524 (0.28%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 2,523 (0.28%) (Ranked 203)
 | 2023-09-28 | 884,364 | 2,461 |
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
-| 2023-10-01 | 887,142 | 2,523 |
+| 2023-10-01 | 887,187 | 2,524 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
 Sum: 248,852 (Ranked 13)  

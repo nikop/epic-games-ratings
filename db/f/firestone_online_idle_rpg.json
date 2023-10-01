@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6104,9 +6104,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 139
     },
     {
       "ID": "hunter",
@@ -6457,8 +6457,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-01T05:58:54.2611764+00:00",
-  "LastChanged_Achievements": "2023-10-01T15:03:55.0362644+00:00",
+  "LastChanged_Achievements": "2023-10-01T16:03:59.1473821+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:28.3446509+00:00",
-  "LastUpdate_Ratings": "2023-10-01T14:58:58.4713633+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:03:55.036381+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:58:53.2874129+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:03:59.1474664+00:00"
 }

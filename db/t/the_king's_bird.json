@@ -4,7 +4,7 @@
   "ProductSlug": "the-kings-bird-a5b589",
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-06-17T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.249333+00:00",
   "LastChanged": "2023-03-31T05:57:34.2493331+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:34.4723923+00:00",
-  "LastUpdate_Ratings": "2023-10-01T15:00:03.6719193+00:00",
-  "LastUpdate_Achievements": "2023-10-01T15:04:35.742131+00:00"
+  "LastUpdate_Ratings": "2023-10-01T15:59:57.5479067+00:00",
+  "LastUpdate_Achievements": "2023-10-01T16:04:40.1764599+00:00"
 }
