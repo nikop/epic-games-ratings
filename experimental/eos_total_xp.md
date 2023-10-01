@@ -558,6 +558,7 @@
 | [Stray Gods: The Roleplaying Musical](../games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 37 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
+| [Sunlight Scream](../games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 23 | 1,000 |
 | [Super Adventure Hand](../games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15 | 1,000 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |

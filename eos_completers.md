@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 66.78% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 66.57% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -42,7 +42,7 @@
 | 40 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.43% |
+| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.42% |
 | 44 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 45 | [Scorn](games/s/scorn.md) | 7.06% |
 | 46 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.30% |
@@ -56,9 +56,9 @@
 | 54 | [JARS](games/j/jars.md) | 5.13% |
 | 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 56 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
-| 57 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.89% |
-| 58 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
-| 59 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
+| 57 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
+| 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
+| 59 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.79% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.39% |
@@ -102,7 +102,7 @@
 | 100 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 101 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 102 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.25% |
-| 103 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
+| 103 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 104 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 104 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.00% |
 | 104 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.00% |
@@ -130,8 +130,8 @@
 | 128 | [Chorus](games/c/chorus.md) | 1.30% |
 | 129 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 130 | [Infindustry](games/i/infindustry.md) | 1.10% |
+| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
 | 131 | [Trifox](games/t/trifox.md) | 1.09% |
-| 132 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 133 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 134 | [Adios](games/a/adios.md) | 1.05% |
 | 135 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
@@ -151,8 +151,8 @@
 | 149 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 150 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 151 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 151 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.65% |
-| 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
+| 152 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.64% |
+| 152 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 154 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 154 | [Haven](games/h/haven.md) | 0.61% |
 | 154 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |

@@ -475,6 +475,7 @@
 | [Iron Danger](../games/i/iron_danger.md) | 23 | 1,000 |
 | [Lost Eidolons](../games/l/lost_eidolons.md) | 23 | 1,000 |
 | [MythForce](../games/m/mythforce.md) | 23 | 1,000 |
+| [Sunlight Scream](../games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 23 | 1,000 |
 | [The Galactic Junkers](../games/t/the_galactic_junkers.md) | 23 | 1,000 |
 | [The Unbeatable Path](../games/t/the_unbeatable_path.md) | 23 | 1,000 |
 | [Zombie Watch](../games/0/0843063034aa4b43bbc3114f19c6090f.md) | 23 | 1,000 |
