@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.67% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.62% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -56,7 +56,7 @@
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 55 | [JARS](games/j/jars.md) | 5.13% |
 | 56 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
-| 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
+| 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.94% |
 | 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 58 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
@@ -66,7 +66,7 @@
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.05% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.04% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
@@ -97,9 +97,9 @@
 | 94 | [Lamentum](games/l/lamentum.md) | 2.48% |
 | 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
-| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.34% |
-| 98 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.34% |
-| 98 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
+| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
+| 99 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.34% |
+| 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 101 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 103 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.25% |
@@ -115,8 +115,8 @@
 | 113 | [Frogun](games/f/frogun.md) | 1.79% |
 | 114 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.75% |
 | 115 | [Somerville](games/s/somerville.md) | 1.71% |
-| 116 | [Five Dates](games/f/five_dates.md) | 1.64% |
-| 117 | [Iron Danger](games/i/iron_danger.md) | 1.50% |
+| 116 | [Five Dates](games/f/five_dates.md) | 1.63% |
+| 117 | [Iron Danger](games/i/iron_danger.md) | 1.49% |
 | 118 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 119 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.41% |
 | 119 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.41% |
@@ -145,8 +145,8 @@
 | 143 | [Hades](games/h/hades.md) | 0.91% |
 | 144 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 145 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.83% |
-| 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 147 | [Eternights](games/e/eternights.md) | 0.81% |
+| 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 146 | [Eternights](games/e/eternights.md) | 0.81% |
 | 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.78% |
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -186,10 +186,10 @@
 | 183 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 183 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.37% |
 | 186 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
+| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.36% |
 | 186 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 186 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
-| 189 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
-| 189 | [It Takes Two](games/i/it_takes_two.md) | 0.35% |
+| 190 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
 | 191 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 191 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 193 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
