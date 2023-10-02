@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -354,7 +354,7 @@
   "Tags": [],
   "EOS_Progressed": 2864,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2013,9 +2013,9 @@
       "ID": "achievement_0008",
       "SetID": "9123ogc",
       "Name": "On the Top Step",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2520
     },
     {
       "ID": "achievement_0009",
@@ -2269,9 +2269,9 @@
       "ID": "achievement_0040",
       "SetID": "9123ogc",
       "Name": "One for the Book",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_0041",
@@ -2358,8 +2358,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-01T18:59:32.9006432+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:06:20.2388512+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:07:12.5593883+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:58:43.0189008+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:06:20.238906+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:59:12.7534497+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:07:12.5594536+00:00"
 }

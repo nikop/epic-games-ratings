@@ -14,14 +14,14 @@
 | Medal of Heroism | 65.00% | ~347 |
 | Medal of Exploration II | 59.00% | ~315 |
 | Council Legion of Merit | 58.00% | ~310 |
-| Turian Ally | 56.00% | ~299 |
+| Turian Ally | 57.00% | ~304 |
 | Medal of Honor | 55.00% | ~294 |
 | Meritorious Service Medal | 55.00% | ~294 |
 | Charismatic | 55.00% | ~294 |
 | Soldier | 53.00% | ~283 |
 | Asari Ally | 52.00% | ~278 |
+| Soldier Ally | 51.00% | ~272 |
 | Medal of Exploration III | 50.00% | ~267 |
-| Soldier Ally | 50.00% | ~267 |
 | Principled | 50.00% | ~267 |
 | Colonial Savior | 49.00% | ~262 |
 | Paramour I | 45.00% | ~240 |
@@ -31,10 +31,10 @@
 | Merciless | 43.00% | ~230 |
 | Head Hunter | 42.00% | ~224 |
 | Operative | 40.00% | ~214 |
+| Scholar | 40.00% | ~214 |
 | Veteran | 39.00% | ~208 |
 | Missing in Action | 39.00% | ~208 |
 | Very Elusive | 39.00% | ~208 |
-| Scholar | 39.00% | ~208 |
 | Power Full | 38.00% | ~203 |
 | The Professor | 36.00% | ~192 |
 | Archivist | 35.00% | ~187 |
@@ -44,11 +44,11 @@
 | Colony Defense | 34.00% | ~182 |
 | The Krogan | 34.00% | ~182 |
 | Galactic Explorer | 34.00% | ~182 |
+| Broke, Blind, and Bedlam | 33.00% | ~176 |
 | Ghost Ship | 32.00% | ~171 |
-| Broke, Blind, and Bedlam | 32.00% | ~171 |
+| The Justicar | 31.00% | ~166 |
 | The Quarian | 31.00% | ~166 |
 | The Assassin | 30.00% | ~160 |
-| The Justicar | 30.00% | ~160 |
 | Battlemaster | 30.00% | ~160 |
 | The Cure | 30.00% | ~160 |
 | The Prodigal | 30.00% | ~160 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~5 |
 | The One and Only | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534 (Ranked 262)  
+Progressed: 534 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |

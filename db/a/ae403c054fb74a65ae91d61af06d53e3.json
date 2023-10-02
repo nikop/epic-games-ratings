@@ -4,8 +4,8 @@
   "ProductSlug": "super-adventure-hand-62ec9a",
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
     "PcReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -190,17 +190,17 @@
       "ID": "ach_thimble_master",
       "SetID": "8787m1a",
       "Name": "Thimble Master",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_watch_wear",
       "SetID": "8787m1a",
       "Name": "Watch Collector",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -213,8 +213,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:05:37.1819828+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:06:19.8171123+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:29.9094674+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:57:13.3724716+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:05:37.1819942+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:57:24.6023746+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:06:19.8171263+00:00"
 }

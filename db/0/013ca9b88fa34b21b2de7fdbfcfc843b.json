@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5869,
+  "EOS_Progressed": 5870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3062,6 +3062,11 @@
       "Time": "2023-10-02T21:03:05.4112816+00:00",
       "NumProgressed": 5869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T22:03:08.4951991+00:00",
+      "NumProgressed": 5870,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3074,7 +3079,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4284
+      "UsersEstimate": 4285
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3082,7 +3087,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3090,7 +3095,7 @@
       "Name": "Calm Sailing",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3098,7 +3103,7 @@
       "Name": "Open the Gate!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3122,7 +3127,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -3130,7 +3135,7 @@
       "Name": "Fae Farmer",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -3152,9 +3157,9 @@
       "ID": "COLLECT_FISH",
       "SetID": "9eia0f5",
       "Name": "Angling Authority",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "COLLECT_LOGS",
@@ -3162,7 +3167,7 @@
       "Name": "Lumberjack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -3170,7 +3175,7 @@
       "Name": "Miner 49er",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3178,7 +3183,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2759
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3250,7 +3255,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3353,7 +3358,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5869,
+      "Progressed": 5870,
       "Completed": 0
     }
   ],
@@ -3361,8 +3366,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-01T19:03:20.1766393+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:03:05.4112808+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:03:08.4951985+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:57:08.4812876+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:03:05.4113281+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:57:18.394783+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:03:08.4952557+00:00"
 }

@@ -12863,10 +12863,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 887985,
-  "EOS_Completed": 2549,
-  "EOS_NewPlayers": 6511,
-  "EOS_NewCompleters": 172,
+  "EOS_Progressed": 888012,
+  "EOS_Completed": 2550,
+  "EOS_NewPlayers": 6501,
+  "EOS_NewCompleters": 168,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31473,6 +31473,11 @@
       "Time": "2023-10-02T21:08:17.8493714+00:00",
       "NumProgressed": 887985,
       "NumCompleted": 2549
+    },
+    {
+      "Time": "2023-10-02T22:08:05.2583176+00:00",
+      "NumProgressed": 888012,
+      "NumCompleted": 2550
     }
   ],
   "TotalAchievements": 57,
@@ -31668,7 +31673,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35519
+      "UsersEstimate": 35520
     },
     {
       "ID": "Temperance",
@@ -31684,7 +31689,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35519
+      "UsersEstimate": 35520
     },
     {
       "ID": "TheDevil",
@@ -31939,21 +31944,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887985,
-      "Completed": 2549
+      "Progressed": 888012,
+      "Completed": 2550
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16608,
+      "Progressed": 16635,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-02T20:59:34.1860559+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:08:17.8493709+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:08:05.2583169+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:59:34.1860567+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:08:17.8495488+00:00"
+  "LastUpdate_Ratings": "2023-10-02T22:00:16.5390846+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:08:05.2585746+00:00"
 }

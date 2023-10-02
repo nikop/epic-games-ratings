@@ -184,6 +184,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.10% | ~14 |
 | Conquest Victory | 0.10% | ~14 |
 | Double Victory | 0.10% | ~14 |
+| No Undo | 0.10% | ~14 |
 | Points Victory | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
@@ -331,7 +332,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
-| No Undo | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,299 (Ranked 133)  
+Progressed: 14,300 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 5 (0.03%) (Ranked 275)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
-| 2023-10-02 | 14,299 | 5 |
+| 2023-10-02 | 14,300 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 207)  

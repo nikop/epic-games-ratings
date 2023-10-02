@@ -2,7 +2,7 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 456,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 120,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -145,6 +145,11 @@
       "Time": "2023-10-02T19:04:28.2957212+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T22:05:07.0705161+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -155,7 +160,7 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -179,7 +184,7 @@
       "ID": "achMaxEngine",
       "SetID": "7ji07dj",
       "Name": "Firing on All Cylinders",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -211,7 +216,7 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -235,9 +240,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achSponsor10",
@@ -259,7 +264,7 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -380,13 +385,13 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:04:36.6803528+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:05:07.0705156+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:59:00.7298156+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:04:36.6803754+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:59:35.7388633+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:05:07.0705423+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 370,
+  "Ranking_Rating": 397,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 6460,
   "RatingHistory": [
     {
@@ -6256,10 +6256,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3562,
       "NumberOfAwardsMax": 470
+    },
+    {
+      "Time": "2023-10-02T21:57:03.1984203+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3571,
+      "NumberOfAwardsMax": 470
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3562,
+  "NumberOfAwards": 3571,
   "NumberOfAwardsMax": 470,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6267,7 +6273,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 437
+      "Count": 441
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6285,7 +6291,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 453
+      "Count": 458
     },
     {
       "Text": "This game is Relaxing",
@@ -6335,8 +6341,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-10-02T16:00:33.9928546+00:00",
+  "LastChanged": "2023-10-02T21:57:03.1984202+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.5027017+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:56:55.5124062+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:06:08.3464149+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:57:03.1984209+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:06:58.595023+00:00"
 }

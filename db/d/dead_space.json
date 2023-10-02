@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 717,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2106,9 +2106,9 @@
       "ID": "achievement_12",
       "SetID": "222fo9l",
       "Name": "Exodus",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_13",
@@ -2234,9 +2234,9 @@
       "ID": "achievement_27",
       "SetID": "222fo9l",
       "Name": "Pack Rat",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_28",
@@ -2258,9 +2258,9 @@
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_30",
@@ -2394,9 +2394,9 @@
       "ID": "achievement_45",
       "SetID": "222fo9l",
       "Name": "Mindless Prey",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_46",
@@ -2467,8 +2467,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:06:07.0086274+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:06:55.9386642+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:57:52.3192619+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:06:07.0086822+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:58:13.1836148+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:06:55.938722+00:00"
 }

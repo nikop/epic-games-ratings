@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1156,9 +1156,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 200,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "META_ALL_LINK",
@@ -1355,8 +1355,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:03:26.9951833+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:03:34.552048+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-02T21:00:07.6319575+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:03:26.9952102+00:00"
+  "LastUpdate_Ratings": "2023-10-02T22:00:58.8311268+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:03:34.5520783+00:00"
 }

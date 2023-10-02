@@ -2,7 +2,7 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 120,
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1427,9 +1427,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_25",
@@ -1451,9 +1451,9 @@
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_28",
@@ -1627,9 +1627,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_48",
@@ -1859,9 +1859,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_74",
@@ -1883,9 +1883,9 @@
       "ID": "achievement_76",
       "SetID": "d252ncf",
       "Name": "Broke, Blind, and Bedlam",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_77",
@@ -2103,8 +2103,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-02T21:03:28.3778873+00:00",
+  "LastChanged_Achievements": "2023-10-02T22:03:36.2834928+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:58:19.0289448+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:03:28.3780933+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:58:40.5958816+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:03:36.2837936+00:00"
 }

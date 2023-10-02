@@ -3,11 +3,11 @@
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 127,
+  "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -8647,11 +8647,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 11373,
       "NumberOfAwardsMax": 1470
+    },
+    {
+      "Time": "2023-10-02T21:59:35.5807313+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 11383,
+      "NumberOfAwardsMax": 1480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11373,
-  "NumberOfAwardsMax": 1470,
+  "NumberOfAwards": 11383,
+  "NumberOfAwardsMax": 1480,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8664,7 +8670,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1470
+      "Count": 1480
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8726,8 +8732,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-10-02T19:59:34.973529+00:00",
+  "LastChanged": "2023-10-02T21:59:35.5807312+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.8350367+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:59:00.6053081+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:05:51.4476801+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:59:35.5807318+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:06:37.1159778+00:00"
 }

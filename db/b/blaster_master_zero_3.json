@@ -4,7 +4,7 @@
   "ProductSlug": "blaster-master-zero-3",
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-26T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.4484772+00:00",
   "LastChanged": "2023-03-31T05:58:28.4484773+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:54.1372505+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:56:56.0527074+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:04:57.3335348+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:57:03.9929632+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:05:31.7148068+00:00"
 }

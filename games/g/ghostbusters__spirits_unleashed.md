@@ -8,7 +8,7 @@ Rating: 4.50 (Ranked 574)
 | Advancement | 1.00% | ~262 |
 | Meticulously Efficient | 1.00% | ~262 |
 | Stylish | 1.00% | ~262 |
-| Discovery | 0.90% | ~235 |
+| Discovery | 0.90% | ~236 |
 | I collect Spores, Molds, and Fungi | 0.80% | ~209 |
 | Fully Upgraded | 0.80% | ~209 |
 | Solo Capture | 0.80% | ~209 |
@@ -33,13 +33,13 @@ Rating: 4.50 (Ranked 574)
 | Side Hustle | 0.40% | ~105 |
 | Skilled | 0.40% | ~105 |
 | Stunner | 0.40% | ~105 |
-| We have the best insurance | 0.30% | ~78 |
-| Diabolical | 0.30% | ~78 |
-| Pesky Jerks | 0.30% | ~78 |
-| Reckless | 0.30% | ~78 |
-| Rift Destroyer | 0.30% | ~78 |
-| Seasoned | 0.30% | ~78 |
-| Tobin's Prodigy | 0.30% | ~78 |
+| We have the best insurance | 0.30% | ~79 |
+| Diabolical | 0.30% | ~79 |
+| Pesky Jerks | 0.30% | ~79 |
+| Reckless | 0.30% | ~79 |
+| Rift Destroyer | 0.30% | ~79 |
+| Seasoned | 0.30% | ~79 |
+| Tobin's Prodigy | 0.30% | ~79 |
 | Collector | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
 | Fragile Panes | 0.20% | ~52 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,166 (Ranked 114)  
+Progressed: 26,168 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 58 (0.22%) (Ranked 215)
 | 2023-09-29 | 26,093 | 58 |
 | 2023-09-30 | 26,122 | 58 |
 | 2023-10-01 | 26,144 | 58 |
-| 2023-10-02 | 26,166 | 58 |
+| 2023-10-02 | 26,168 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
 Sum: 2,354 (Ranked 188)  

@@ -8,7 +8,7 @@ Rating: 4.61 (Ranked 370)
 | Marksman | 95.00% | ~681 |
 | Welcome Aboard | 87.00% | ~624 |
 | Lab Rat | 75.00% | ~538 |
-| All Systems Go | 64.00% | ~459 |
+| All Systems Go | 65.00% | ~466 |
 | Brute Force | 64.00% | ~459 |
 | Cannon Fodder | 61.00% | ~437 |
 | Autofire | 58.00% | ~416 |
@@ -30,14 +30,14 @@ Rating: 4.61 (Ranked 370)
 | A Cut Above | 33.00% | ~237 |
 | Legend Teller | 32.00% | ~229 |
 | There's Always Peng! | 32.00% | ~229 |
-| Exodus | 30.00% | ~215 |
+| Exodus | 31.00% | ~222 |
+| Mindless Prey | 31.00% | ~222 |
 | Front Toward Enemy | 30.00% | ~215 |
-| Mindless Prey | 30.00% | ~215 |
 | Whole Again | 25.00% | ~179 |
 | Set A Benchmark | 24.00% | ~172 |
+| Pack Rat | 22.00% | ~158 |
 | Final Regeneration | 21.00% | ~151 |
 | Full Contact | 21.00% | ~151 |
-| Pack Rat | 21.00% | ~151 |
 | Pusher | 20.00% | ~143 |
 | Full Clearance | 20.00% | ~143 |
 | Z-Baller | 19.00% | ~136 |

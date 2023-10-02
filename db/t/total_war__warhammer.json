@@ -4,10 +4,10 @@
   "ProductSlug": "total-war-warhammer",
   "Ranking_Rating": 435,
   "Ranking_Popularity": 56,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
@@ -5986,66 +5986,72 @@
       "Rating": 4.58,
       "NumberOfAwards": 14669,
       "NumberOfAwardsMax": 6386
+    },
+    {
+      "Time": "2023-10-02T21:57:49.9827154+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 14707,
+      "NumberOfAwardsMax": 6400
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14669,
-  "NumberOfAwardsMax": 6386,
+  "NumberOfAwards": 14707,
+  "NumberOfAwardsMax": 6400,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6386
+      "Count": 6400
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1016
+      "Count": 1020
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 964
+      "Count": 967
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 922
+      "Count": 925
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1006
+      "Count": 1009
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 879
+      "Count": 882
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 899
+      "Count": 903
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 886
+      "Count": 887
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 857
+      "Count": 858
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6063,7 +6069,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 854
+      "Count": 856
     },
     {
       "Text": "This game has a Creative Community",
@@ -6083,8 +6089,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-09-25T20:01:29.0996898+00:00",
+  "LastChanged": "2023-10-02T21:57:49.9827152+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:53.0633221+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:57:33.7649319+00:00",
-  "LastUpdate_Achievements": "2023-10-02T21:05:25.8406069+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:57:49.9827162+00:00",
+  "LastUpdate_Achievements": "2023-10-02T22:06:06.0678934+00:00"
 }

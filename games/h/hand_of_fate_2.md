@@ -6,12 +6,12 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,251 |
-| Apprentice | 58.00% | ~384,452 |
+| The Fool | 72.00% | ~477,252 |
+| Apprentice | 58.00% | ~384,453 |
 | Close Shave | 25.00% | ~165,712 |
-| Mercenary | 23.00% | ~152,455 |
-| Ninja | 23.00% | ~152,455 |
-| Northern Scourge | 17.00% | ~112,684 |
+| Mercenary | 23.00% | ~152,456 |
+| Ninja | 23.00% | ~152,456 |
+| Northern Scourge | 17.00% | ~112,685 |
 | Thief Bane | 14.00% | ~92,799 |
 | Master of Arms | 12.00% | ~79,542 |
 | Gambler | 10.00% | ~66,285 |
@@ -21,16 +21,16 @@ Number of Ratings: 780  (23.09.2022)
 | Cure for Corruption | 8.00% | ~53,028 |
 | Focused | 8.00% | ~53,028 |
 | Flurry of Fury | 8.00% | ~53,028 |
-| Long Shot | 7.00% | ~46,399 |
-| Devil Dice | 7.00% | ~46,399 |
-| Broken Heart | 7.00% | ~46,399 |
+| Long Shot | 7.00% | ~46,400 |
+| Devil Dice | 7.00% | ~46,400 |
+| Broken Heart | 7.00% | ~46,400 |
 | Adventurer | 6.00% | ~39,771 |
 | Empire's Bane | 6.00% | ~39,771 |
 | Jack of all Trades | 5.00% | ~33,142 |
 | Smithy | 5.00% | ~33,142 |
-| Leap of Faith | 3.00% | ~19,885 |
-| Combat Ready | 3.00% | ~19,885 |
-| Stuffed Potato | 3.00% | ~19,885 |
+| Leap of Faith | 3.00% | ~19,886 |
+| Combat Ready | 3.00% | ~19,886 |
+| Stuffed Potato | 3.00% | ~19,886 |
 | Card Sharp | 2.00% | ~13,257 |
 | Magician | 2.00% | ~13,257 |
 | Draknar's Bane | 2.00% | ~13,257 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~663 |
 | Blood Pact | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662,849 (Ranked 25)  
+Progressed: 662,850 (Ranked 25)  
 Completed: 170 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 170 (0.03%) (Ranked 275)
 | 2023-09-29 | 662,705 | 170 |
 | 2023-09-30 | 662,742 | 170 |
 | 2023-10-01 | 662,800 | 170 |
-| 2023-10-02 | 662,849 | 170 |
+| 2023-10-02 | 662,850 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 450)  
 Sum: 186 (Ranked 385)  
