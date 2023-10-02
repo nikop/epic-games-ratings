@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,499 |
-| Rough Landing | 4.00% | ~35,499 |
-| Gunslinger | 3.00% | ~26,624 |
+| Ten out of Ten | 4.00% | ~35,501 |
+| Rough Landing | 4.00% | ~35,501 |
+| Gunslinger | 3.00% | ~26,625 |
 | Full Body Conversion | 2.00% | ~17,750 |
 | Right Back At Ya | 2.00% | ~17,750 |
 | Master Crafter | 2.00% | ~17,750 |
@@ -33,26 +33,26 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~8,875 |
 | True Warrior | 1.00% | ~8,875 |
 | Legend of The Afterlife | 1.00% | ~8,875 |
-| Judy vs Night City | 0.90% | ~7,987 |
-| It's Elementary | 0.90% | ~7,987 |
-| City Lights | 0.70% | ~6,212 |
-| Greetings from Pacifica! | 0.70% | ~6,212 |
+| Judy vs Night City | 0.90% | ~7,988 |
+| It's Elementary | 0.90% | ~7,988 |
+| City Lights | 0.70% | ~6,213 |
+| Greetings from Pacifica! | 0.70% | ~6,213 |
 | Life of the Road | 0.60% | ~5,325 |
 | Spin Doctor | 0.60% | ~97 |
-| Bushido and Chill | 0.50% | ~4,437 |
-| I Am The Law | 0.50% | ~4,437 |
+| Bushido and Chill | 0.50% | ~4,438 |
+| I Am The Law | 0.50% | ~4,438 |
 | The Wandering Fool | 0.40% | ~3,550 |
 | Autojock | 0.40% | ~3,550 |
 | Must Be Rats | 0.40% | ~3,550 |
-| To Protect and Serve | 0.30% | ~2,662 |
-| Frequent Flyer | 0.30% | ~2,662 |
-| The Star | 0.30% | ~2,662 |
-| The Sun | 0.30% | ~2,662 |
+| To Protect and Serve | 0.30% | ~2,663 |
+| Frequent Flyer | 0.30% | ~2,663 |
+| The Star | 0.30% | ~2,663 |
+| The Sun | 0.30% | ~2,663 |
 | Little Tokyo | 0.20% | ~1,775 |
 | The Wasteland | 0.20% | ~1,775 |
 | The APB is Not Enough | 0.20% | ~32 |
 | Relic Ruler | 0.20% | ~32 |
-| Daemon In The Shell | 0.10% | ~887 |
+| Daemon In The Shell | 0.10% | ~888 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,483 (Ranked 15)  
+Progressed: 887,515 (Ranked 15)  
 Completed: 2,535 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,15 +229,15 @@ Completed: 2,535 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,483 | 2,535 |
+| 2023-10-02 | 887,515 | 2,535 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
-Sum: 250,509 (Ranked 12)  
+Sum: 251,578 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88,536 |
-| This game has Great Boss Battles | 59,074 |
+| This game has Great Boss Battles | 60,143 |
 | This game has Diverse Characters | 12,319 |
 | This game is Great for Beginners | 12,195 |
 | This game has Amazing Storytelling | 12,110 |
@@ -506,3 +506,4 @@ Diff (max vs sum): -3
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
+| 2023-10-02 | 4.63 | - | 88,536 | 251,578 |

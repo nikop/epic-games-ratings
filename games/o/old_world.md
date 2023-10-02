@@ -184,6 +184,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.10% | ~14 |
 | The Great Mage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
+| Patriarch St Paul | 0.10% | ~14 |
 | Rmt n Kmt Buhen | 0.10% | ~14 |
 | Only Kem | 0.10% | ~14 |
 | Sepat Wase Forever | 0.10% | ~14 |
@@ -341,7 +342,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Pilgrimage | 0.00% | ~0 |
-| Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,274 (Ranked 133)  
+Progressed: 14,276 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,6 +514,7 @@ Completed: 5 (0.04%) (Ranked 269)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
+| 2023-10-02 | 14,276 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

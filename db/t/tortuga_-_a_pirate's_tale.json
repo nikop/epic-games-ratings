@@ -2,7 +2,7 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 999,
+  "Ranking_Rating": 1001,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 130,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.77,
+  "Rating": 3.76,
   "RatingHistory": [
     {
       "Time": "2023-01-26T03:57:13.5091099+00:00",
@@ -230,15 +230,21 @@
       "Rating": 3.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-02T01:40:27.0512475+00:00",
+      "Rating": 3.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16649,
+  "EOS_Progressed": 16651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5151,6 +5157,11 @@
       "Time": "2023-10-02T00:04:38.5037246+00:00",
       "NumProgressed": 16649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T01:46:54.9353649+00:00",
+      "NumProgressed": 16651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5162,7 +5173,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15817
+      "UsersEstimate": 15818
     },
     {
       "ID": "ACH001",
@@ -5170,7 +5181,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14318
+      "UsersEstimate": 14320
     },
     {
       "ID": "ACH0010",
@@ -5178,7 +5189,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACH0011",
@@ -5186,7 +5197,7 @@
       "Name": "After All, Why Shouldn\u0027t I Keep It?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH0012",
@@ -5202,7 +5213,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     },
     {
       "ID": "ACH0014",
@@ -5234,7 +5245,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH0018",
@@ -5258,7 +5269,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11987
+      "UsersEstimate": 11989
     },
     {
       "ID": "ACH0020",
@@ -5266,7 +5277,7 @@
       "Name": "A New Legend Awaits",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH0021",
@@ -5314,7 +5325,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "ACH004",
@@ -5322,7 +5333,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14485
+      "UsersEstimate": 14486
     },
     {
       "ID": "ACH005",
@@ -5369,16 +5380,16 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16649,
+      "Progressed": 16651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-01-19T15:57:46.7735502+00:00",
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
-  "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:04:38.5037239+00:00",
+  "LastChanged": "2023-10-02T01:40:27.0512474+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:46:54.9353644+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.9891298+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:57:41.5404887+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:04:38.5037821+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:40:27.0512479+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:46:54.9354021+00:00"
 }

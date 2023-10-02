@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202642,
+  "EOS_Progressed": 202644,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18000,6 +18000,11 @@
       "Time": "2023-10-02T00:05:38.4597672+00:00",
       "NumProgressed": 202642,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-10-02T01:47:38.5518217+00:00",
+      "NumProgressed": 202644,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 29,
@@ -18035,7 +18040,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190483
+      "UsersEstimate": 190485
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -18043,7 +18048,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -18107,7 +18112,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -18211,7 +18216,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16211
+      "UsersEstimate": 16212
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -18242,7 +18247,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202642,
+      "Progressed": 202644,
       "Completed": 512
     }
   ],
@@ -18250,8 +18255,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:05:38.4597666+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:47:38.5518212+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.6444699+00:00",
-  "LastUpdate_Ratings": "2023-10-02T00:01:28.3652423+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:05:38.4599235+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:43:00.5161389+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:47:38.5519192+00:00"
 }

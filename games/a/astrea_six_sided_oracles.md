@@ -13,16 +13,16 @@
 | Sanctuary Guardian | 76.00% | ~26 |
 | Mind Illuminator | 62.00% | ~21 |
 | Stellar Dismantler | 53.00% | ~18 |
-| Astral Adventurer | 35.00% | ~12 |
-| Star Killer | 35.00% | ~12 |
+| Astral Adventurer | 38.00% | ~13 |
+| Star Killer | 38.00% | ~13 |
 | Anomaly Destroyer | 32.00% | ~11 |
 | Unbeatable | 32.00% | ~11 |
 | Loyal Partner | 26.00% | ~9 |
 | Sadistic Plan | 21.00% | ~7 |
 | Stellar Haste | 21.00% | ~7 |
+| The Corruption Goddess | 21.00% | ~7 |
 | Sentinelphobic | 18.00% | ~6 |
 | Shard Spender | 18.00% | ~6 |
-| The Corruption Goddess | 18.00% | ~6 |
 | Skeptical | 15.00% | ~5 |
 | Dice Specialist | 12.00% | ~4 |
 | Wave Bender | 12.00% | ~4 |
@@ -36,6 +36,7 @@
 | The Goddes Avatar | 6.00% | ~2 |
 | The world goes round... | 6.00% | ~2 |
 | Unepic Hero | 6.00% | ~2 |
+| Anomaly Control | 3.00% | ~1 |
 | Arch-Oracle | 3.00% | ~1 |
 | Astral Tinkerer | 3.00% | ~1 |
 | Astrarium of Holding | 3.00% | ~1 |
@@ -44,10 +45,10 @@
 | Favored by the Cosmos | 3.00% | ~1 |
 | Plague Doctor | 3.00% | ~1 |
 | Reflexive Mind | 3.00% | ~1 |
+| The Abyssal Terror | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
 | The Distorted Sage | 3.00% | ~1 |
 | The Raging Skies | 3.00% | ~1 |
-| Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
@@ -79,7 +80,6 @@
 | Purification Avatar | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
-| The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
 | The Chaos Artisan | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |

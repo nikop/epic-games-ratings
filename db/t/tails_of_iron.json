@@ -2924,9 +2924,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 738
+      "UsersEstimate": 757
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -3067,8 +3067,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:07:08.1749201+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:48:42.9090855+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.1453887+00:00",
-  "LastUpdate_Ratings": "2023-10-02T00:00:28.306805+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:07:08.1749675+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:42:21.6465125+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:48:42.9091166+00:00"
 }

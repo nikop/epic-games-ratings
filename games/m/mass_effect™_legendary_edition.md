@@ -14,10 +14,10 @@
 | Medal of Heroism | 65.00% | ~341 |
 | Medal of Exploration II | 58.00% | ~304 |
 | Council Legion of Merit | 58.00% | ~304 |
-| Turian Ally | 56.00% | ~294 |
+| Turian Ally | 57.00% | ~299 |
+| Medal of Honor | 55.00% | ~289 |
 | Meritorious Service Medal | 55.00% | ~289 |
 | Charismatic | 55.00% | ~289 |
-| Medal of Honor | 54.00% | ~284 |
 | Soldier | 53.00% | ~278 |
 | Asari Ally | 52.00% | ~273 |
 | Medal of Exploration III | 50.00% | ~262 |
@@ -49,9 +49,9 @@
 | The Quarian | 31.00% | ~163 |
 | The Assassin | 30.00% | ~158 |
 | The Justicar | 30.00% | ~158 |
+| Battlemaster | 30.00% | ~158 |
 | The Prodigal | 30.00% | ~158 |
 | A Personal Touch | 29.00% | ~152 |
-| Battlemaster | 29.00% | ~152 |
 | Ghost of the Father | 29.00% | ~152 |
 | The Cure | 29.00% | ~152 |
 | Big Game Hunter | 29.00% | ~152 |

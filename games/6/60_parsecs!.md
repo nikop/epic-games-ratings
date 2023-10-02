@@ -38,9 +38,9 @@
 | 2018: A Soup Odyssey | 3.00% | ~23 |
 | Bovine Domain | 2.00% | ~15 |
 | That's No Moon! | 2.00% | ~15 |
+| AAARGH! | 1.00% | ~8 |
 | No Ticket | 1.00% | ~8 |
 | Feels like home | 1.00% | ~8 |
-| AAARGH! | 0.90% | ~7 |
 | Bingpot! | 0.90% | ~7 |
 | Space Selfie | 0.80% | ~6 |
 | Small Step | 0.50% | ~4 |

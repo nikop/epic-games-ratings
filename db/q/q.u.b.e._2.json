@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 520,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2143,6 +2143,11 @@
       "Time": "2023-10-02T00:03:18.0915948+00:00",
       "NumProgressed": 519,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T01:45:17.3224908+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2155,7 +2160,7 @@
       "Name": "Descendants",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2321,9 +2326,9 @@
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_PROPELL",
@@ -2361,9 +2366,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2371,7 +2376,7 @@
       "Name": "Lost in Space",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_STATUE",
@@ -2379,22 +2384,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 520,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:03:18.0915941+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:45:17.3224904+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:59:24.0319761+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:03:18.0916383+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:41:38.1100443+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:45:17.3225164+00:00"
 }

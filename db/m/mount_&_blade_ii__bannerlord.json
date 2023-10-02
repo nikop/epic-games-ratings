@@ -7605,7 +7605,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62524,
+  "EOS_Progressed": 62526,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
@@ -25090,6 +25090,11 @@
       "Time": "2023-10-02T00:07:39.5382803+00:00",
       "NumProgressed": 62524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T01:49:05.5044403+00:00",
+      "NumProgressed": 62526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25181,7 +25186,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "Dynasty",
@@ -25189,7 +25194,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "Entrepreneur",
@@ -25325,7 +25330,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20634
     },
     {
       "ID": "Lawbringer",
@@ -25333,7 +25338,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24384
+      "UsersEstimate": 24385
     },
     {
       "ID": "Lawmaker",
@@ -25445,7 +25450,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "The king is pleased",
@@ -25453,7 +25458,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11254
+      "UsersEstimate": 11255
     },
     {
       "ID": "This Is Our Land",
@@ -25501,22 +25506,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62524,
+      "Progressed": 62526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-01T23:59:59.253857+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:07:39.5382797+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:49:05.5044393+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:59:59.2538578+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:07:39.5384622+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:42:02.6439596+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:49:05.5045529+00:00"
 }

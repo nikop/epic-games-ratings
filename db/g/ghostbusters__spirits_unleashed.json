@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2256,9 +2256,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26146,
+  "EOS_Progressed": 26152,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -13991,6 +13991,11 @@
       "Time": "2023-10-02T00:05:32.6871336+00:00",
       "NumProgressed": 26146,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-02T01:47:34.4397586+00:00",
+      "NumProgressed": 26152,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14002,7 +14007,7 @@
       "Name": "Advancement",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Animated",
@@ -14072,9 +14077,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "Diabolical",
@@ -14114,7 +14119,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Escape_Artist",
@@ -14168,9 +14173,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 105
     },
     {
       "ID": "Liability",
@@ -14232,9 +14237,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "Rift_Seeker",
@@ -14296,9 +14301,9 @@
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 105
     },
     {
       "ID": "Stylish",
@@ -14306,7 +14311,7 @@
       "Name": "Stylish",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Summoner",
@@ -14336,17 +14341,17 @@
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Terrifying",
       "SetID": "819popo",
       "Name": "Terrifying",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Therapeutic",
@@ -14409,7 +14414,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26146,
+      "Progressed": 26152,
       "Completed": 58
     }
   ],
@@ -14417,8 +14422,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-01T22:01:08.073081+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:05:32.687133+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:47:34.439758+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-02T00:01:34.6738465+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:05:32.6872735+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:43:04.2754546+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:47:34.439852+00:00"
 }

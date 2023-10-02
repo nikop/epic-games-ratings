@@ -5,30 +5,30 @@ Rating: 4.83 (Ranked 57)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,234 |
-| A Thorny Situation | 70.00% | ~4,060 |
-| ... And Spit Back Out | 59.00% | ~3,422 |
-| Break-Net Speed | 47.00% | ~2,726 |
-| Bramble Breaker | 44.00% | ~2,552 |
-| Miner 49er | 41.00% | ~2,378 |
-| Humble Collector | 40.00% | ~2,320 |
-| Calm Sailing | 34.00% | ~1,972 |
-| Open the Gate! | 31.00% | ~1,798 |
-| Mist Walker | 29.00% | ~1,682 |
-| Lumberjack | 24.00% | ~1,392 |
-| Oui, Chef! | 22.00% | ~1,276 |
-| Clear the Air | 15.00% | ~870 |
-| Botanical Breakthrough | 15.00% | ~870 |
-| Beach Comber | 12.00% | ~696 |
-| Search for the Hairy Grell | 11.00% | ~638 |
-| Higher Tax Bracket | 11.00% | ~638 |
-| Got to Catch Them All | 6.00% | ~348 |
-| Rumble in the Jumble | 6.00% | ~348 |
-| Fanatical Farmer | 6.00% | ~348 |
-| Skilled | 6.00% | ~348 |
-| Flaming Hot Completos | 5.00% | ~290 |
-| Fae Farmer | 5.00% | ~290 |
-| Azorian Anniversary | 5.00% | ~290 |
+| Azoria Beckons | 73.00% | ~4,243 |
+| A Thorny Situation | 70.00% | ~4,068 |
+| ... And Spit Back Out | 59.00% | ~3,429 |
+| Break-Net Speed | 47.00% | ~2,732 |
+| Bramble Breaker | 44.00% | ~2,557 |
+| Miner 49er | 41.00% | ~2,383 |
+| Humble Collector | 40.00% | ~2,325 |
+| Calm Sailing | 34.00% | ~1,976 |
+| Open the Gate! | 31.00% | ~1,802 |
+| Mist Walker | 29.00% | ~1,685 |
+| Lumberjack | 24.00% | ~1,395 |
+| Oui, Chef! | 22.00% | ~1,279 |
+| Clear the Air | 15.00% | ~872 |
+| Botanical Breakthrough | 15.00% | ~872 |
+| Beach Comber | 12.00% | ~697 |
+| Search for the Hairy Grell | 11.00% | ~639 |
+| Higher Tax Bracket | 11.00% | ~639 |
+| Got to Catch Them All | 6.00% | ~349 |
+| Rumble in the Jumble | 6.00% | ~349 |
+| Fanatical Farmer | 6.00% | ~349 |
+| Skilled | 6.00% | ~349 |
+| Flaming Hot Completos | 5.00% | ~291 |
+| Fae Farmer | 5.00% | ~291 |
+| Azorian Anniversary | 5.00% | ~291 |
 | Scattered Scroll Scrounger | 4.00% | ~232 |
 | I Now Pronounce You... | 4.00% | ~232 |
 | Chatty Neighbor | 3.00% | ~174 |
@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 57)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,800 (Ranked 163)  
+Progressed: 5,812 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 5,524 | 0 |
 | 2023-09-30 | 5,660 | 0 |
 | 2023-10-01 | 5,796 | 0 |
-| 2023-10-02 | 5,800 | 0 |
+| 2023-10-02 | 5,812 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

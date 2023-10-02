@@ -7,7 +7,7 @@
 | Hat Unlocked | 83.00% | ~79 |
 | Accessory Unlocked | 82.00% | ~78 |
 | Character Unlocked | 76.00% | ~72 |
-| Homer | 74.00% | ~70 |
+| Homer | 75.00% | ~71 |
 | Butter Fingers | 74.00% | ~70 |
 | Settle Down | 71.00% | ~67 |
 | Have a good trip! | 71.00% | ~67 |
@@ -16,16 +16,16 @@
 | First Win | 63.00% | ~60 |
 | True Story! | 42.00% | ~40 |
 | Bedroom Secret Spot | 40.00% | ~38 |
-| Kick It | 32.00% | ~30 |
+| Kick It | 33.00% | ~31 |
 | Classroom Secret Spot | 31.00% | ~29 |
 | At least everyone still had fun | 29.00% | ~28 |
 | Spooky | 27.00% | ~26 |
-| Grand Slam! | 25.00% | ~24 |
+| Grand Slam! | 26.00% | ~25 |
 | Angry Dad | 24.00% | ~23 |
 | Save some water for the fishies | 23.00% | ~22 |
+| Have Mercy | 22.00% | ~21 |
 | Bathroom Secret Spot | 22.00% | ~21 |
-| Have Mercy | 21.00% | ~20 |
-| Living Room Secret Spot | 20.00% | ~19 |
+| Living Room Secret Spot | 21.00% | ~20 |
 | Angry Mom | 19.00% | ~18 |
 | Hi Hungry, I'm Dad | 18.00% | ~17 |
 | Just how we drew it up | 13.00% | ~12 |

@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~72,986 |
-| Alt+F4 | 6.00% | ~13,685 |
-| Where's that freaking Dwarf? | 5.00% | ~11,404 |
-| Déjà vu | 4.00% | ~9,123 |
-| A beer, two curses, three companions | 3.00% | ~6,842 |
-| Sock! SOCK! | 3.00% | ~6,842 |
-| GG EZ | 3.00% | ~6,842 |
-| DM intervention | 3.00% | ~6,842 |
-| Speedrun | 3.00% | ~6,842 |
-| Fireproof Wizardess | 3.00% | ~6,842 |
+| Sowwy! | 32.00% | ~72,991 |
+| Alt+F4 | 6.00% | ~13,686 |
+| Where's that freaking Dwarf? | 5.00% | ~11,405 |
+| Déjà vu | 4.00% | ~9,124 |
+| A beer, two curses, three companions | 3.00% | ~6,843 |
+| Sock! SOCK! | 3.00% | ~6,843 |
+| GG EZ | 3.00% | ~6,843 |
+| DM intervention | 3.00% | ~6,843 |
+| Speedrun | 3.00% | ~6,843 |
+| Fireproof Wizardess | 3.00% | ~6,843 |
 | Livin' in a dwarven paradise | 2.00% | ~4,562 |
 | Way of the Wimp | 2.00% | ~4,562 |
 | The plot thickens... At the tavern | 2.00% | ~4,562 |
@@ -44,8 +44,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 0.80% | ~1,825 |
 | Material Girl | 0.80% | ~1,825 |
 | Gargantua | 0.70% | ~1,597 |
-| In Navalu's footsteps | 0.60% | ~1,368 |
-| Lëgal Legend | 0.60% | ~1,368 |
+| In Navalu's footsteps | 0.60% | ~1,369 |
+| Lëgal Legend | 0.60% | ~1,369 |
 | We come in peace | 0.50% | ~1,140 |
 | Holistic Adventuring Party | 0.40% | ~912 |
 | An old poacher makes the best gamekeeper | 0.40% | ~912 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,081 (Ranked 58)  
+Progressed: 228,096 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,15 +219,15 @@ Completed: 5 (0.00%) (Ranked 304)
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
-| 2023-10-02 | 228,081 | 5 |
+| 2023-10-02 | 228,096 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
-Sum: 397 (Ranked 326)  
-Diff (max vs sum): -51  
+Sum: 398 (Ranked 325)  
+Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 205 |
-| This game is Relaxing | 30 |
+| This game is Relaxing | 31 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 23 |
@@ -384,3 +384,4 @@ Diff (max vs sum): -51
 | 2023-09-29 | 4.59 | - | 202 | 392 |
 | 2023-09-30 | 4.59 | - | 202 | 394 |
 | 2023-10-01 | 4.59 | - | 205 | 397 |
+| 2023-10-02 | 4.59 | - | 205 | 398 |

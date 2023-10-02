@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 28.33,
+  "EOS_Completed_Percentage": 28.1,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -651,6 +651,11 @@
       "Time": "2023-10-01T19:04:32.4882972+00:00",
       "NumProgressed": 120,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-02T01:46:20.2697063+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 10,
@@ -662,7 +667,7 @@
       "Name": "Beach",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_1",
@@ -670,23 +675,23 @@
       "Name": "Library",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "LEVEL_4",
@@ -716,7 +721,7 @@
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 44
     },
@@ -741,14 +746,14 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:03:50.6659301+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:46:20.2697058+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.7644505+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:59:13.6318997+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:03:50.6659564+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:41:30.9729924+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:46:20.2697168+00:00"
 }

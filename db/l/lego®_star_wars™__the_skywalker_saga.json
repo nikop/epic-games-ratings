@@ -3350,7 +3350,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51777,
+  "EOS_Progressed": 51778,
   "EOS_Completed": 235,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -12595,6 +12595,11 @@
       "Time": "2023-10-02T00:06:56.4373948+00:00",
       "NumProgressed": 51777,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-10-02T01:48:34.329461+00:00",
+      "NumProgressed": 51778,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12630,7 +12635,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40904
+      "UsersEstimate": 40905
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12718,7 +12723,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30548
+      "UsersEstimate": 30549
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -12726,7 +12731,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 23817
+      "UsersEstimate": 23818
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -12750,7 +12755,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19157
+      "UsersEstimate": 19158
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -12782,7 +12787,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10355
+      "UsersEstimate": 10356
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -12870,7 +12875,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50224
+      "UsersEstimate": 50225
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12926,7 +12931,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19157
+      "UsersEstimate": 19158
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -12958,22 +12963,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37279
+      "UsersEstimate": 37280
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51777,
+      "Progressed": 51778,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-01T22:57:56.5979734+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:06:56.4373941+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:48:34.3294604+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.0485089+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:58:00.3539359+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:06:56.4375057+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:40:39.7246705+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:48:34.3295334+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -229,7 +229,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37650,
+  "EOS_Progressed": 37655,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
@@ -18279,6 +18279,11 @@
       "Time": "2023-10-02T00:05:34.5930822+00:00",
       "NumProgressed": 37650,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-02T01:47:35.768725+00:00",
+      "NumProgressed": 37655,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18298,7 +18303,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7530
+      "UsersEstimate": 7531
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18320,9 +18325,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -18354,7 +18359,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -18362,7 +18367,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -18521,7 +18526,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37650,
+      "Progressed": 37655,
       "Completed": 25
     }
   ],
@@ -18529,8 +18534,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-01T23:03:10.2808495+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:05:34.5930812+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:47:35.7687246+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-02T00:02:20.3023174+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:05:34.5932381+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:45:04.818914+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:47:35.7688253+00:00"
 }

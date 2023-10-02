@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 95.00% | ~98 |
-| Rehearsal | 94.00% | ~97 |
-| Daily Life | 91.00% | ~94 |
-| Assembly Line Work | 88.00% | ~91 |
-| Solitude | 83.00% | ~85 |
-| Pinewood, Here we come! | 75.00% | ~77 |
-| The Van | 69.00% | ~71 |
-| Road-Trip | 62.00% | ~64 |
-| A Musical Pause | 60.00% | ~62 |
-| Briget's | 51.00% | ~53 |
+| ECG | 96.00% | ~99 |
+| Rehearsal | 95.00% | ~98 |
+| Daily Life | 92.00% | ~95 |
+| Assembly Line Work | 89.00% | ~92 |
+| Solitude | 84.00% | ~87 |
+| Pinewood, Here we come! | 76.00% | ~78 |
+| The Van | 70.00% | ~72 |
+| Road-Trip | 63.00% | ~65 |
+| A Musical Pause | 61.00% | ~63 |
+| Briget's | 52.00% | ~54 |
 | Big City Music | 49.00% | ~50 |
 | Sound of Noise | 49.00% | ~50 |
-| Love at First Sight | 43.00% | ~44 |
-| First Kiss | 37.00% | ~38 |
-| Symbiosis | 35.00% | ~36 |
-| A Bigger Band | 32.00% | ~33 |
+| Love at First Sight | 44.00% | ~45 |
+| First Kiss | 38.00% | ~39 |
+| Symbiosis | 36.00% | ~37 |
+| A Bigger Band | 33.00% | ~34 |
 | Fuel | 29.00% | ~30 |
 | Alone Together | 28.00% | ~29 |
 | Threatening Nature | 26.00% | ~27 |

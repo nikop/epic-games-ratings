@@ -23,9 +23,9 @@ Number of Ratings: 48  (23.09.2022)
 | The Go-To Girl | 37.00% | ~256 |
 | Scavenger's Honor | 37.00% | ~256 |
 | Natural Born Monster-Killer | 37.00% | ~256 |
+| The Great Forest...On Foot! | 37.00% | ~256 |
 | The Lava Mantor Wyrm | 36.00% | ~249 |
 | One Mean Merc | 36.00% | ~249 |
-| The Great Forest...On Foot! | 36.00% | ~249 |
 | Adept, for an Acting Mayor | 35.00% | ~242 |
 | Money, Money, Money | 35.00% | ~242 |
 | Rune Wall Master | 34.00% | ~235 |

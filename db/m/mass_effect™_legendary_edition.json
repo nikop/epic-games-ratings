@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1040,9 +1040,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 125,
-      "UsersEstimate": 284
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_10",
@@ -1416,9 +1416,9 @@
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_28",
@@ -1640,9 +1640,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_53",
@@ -2068,8 +2068,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:03:24.4911094+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:45:21.916971+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:58:22.3046743+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:03:24.4914141+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:40:55.8212994+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:45:21.9171656+00:00"
 }

@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 4.43,
+  "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -364,6 +364,11 @@
       "Time": "2023-10-02T00:08:04.6717122+00:00",
       "NumProgressed": 203,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-02T01:49:23.6525721+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -390,9 +395,9 @@
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 45,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -416,7 +421,7 @@
       "Name": "Evil plan",
       "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -432,7 +437,7 @@
       "Name": "Food lover",
       "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -455,13 +460,13 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:08:04.6717115+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:49:23.6525716+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:58:12.435838+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:08:04.6717232+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:40:48.7813315+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:49:23.6525812+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.55 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 100.00% | ~19,207 |
-| Before the Downfall | 95.00% | ~18,247 |
-| Money like Water | 93.00% | ~17,863 |
+| Trevithick's Legacy | 100.00% | ~19,206 |
+| Before the Downfall | 95.00% | ~18,246 |
+| Money like Water | 93.00% | ~17,862 |
 | Minimalist | 92.00% | ~17,670 |
-| Builder | 84.00% | ~16,134 |
-| Eraser | 71.00% | ~13,637 |
-| Pocket of Trains | 66.00% | ~12,677 |
+| Builder | 84.00% | ~16,133 |
+| Eraser | 71.00% | ~13,636 |
+| Pocket of Trains | 66.00% | ~12,676 |
 | Inspector | 60.00% | ~11,524 |
-| Going the Distance | 55.00% | ~10,564 |
+| Going the Distance | 55.00% | ~10,563 |
 | Oil Baron | 43.00% | ~8,259 |
 | Loads-a-Money | 43.00% | ~8,259 |
-| Helper of the People | 40.00% | ~7,683 |
+| Helper of the People | 40.00% | ~7,682 |
 | Simplification | 35.00% | ~6,722 |
 | Box of Trains | 34.00% | ~6,530 |
 | Let There be Light | 33.00% | ~6,338 |
@@ -24,9 +24,9 @@ Rating: 4.55 (Ranked 491)
 | Indecisive | 30.00% | ~5,762 |
 | The scenic route | 28.00% | ~5,378 |
 | Industrialist | 26.00% | ~4,994 |
-| Perfectionist | 24.00% | ~4,610 |
-| 8K is Enough for Everyone | 23.00% | ~4,418 |
-| Trains over Pipes | 23.00% | ~4,418 |
+| Perfectionist | 24.00% | ~4,609 |
+| 8K is Enough for Everyone | 23.00% | ~4,417 |
+| Trains over Pipes | 23.00% | ~4,417 |
 | Man of Steel | 17.00% | ~3,265 |
 | Room Full of Trains | 13.00% | ~2,497 |
 | Investor | 10.00% | ~1,921 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 491)
 | Overdeer | 0.60% | ~115 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,207 (Ranked 123)  
+Progressed: 19,206 (Ranked 123)  
 Completed: 35 (0.18%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,11 @@ Completed: 35 (0.18%) (Ranked 223)
 | 2023-09-29 | 19,245 | 35 |
 | 2023-09-30 | 19,231 | 35 |
 | 2023-10-01 | 19,217 | 35 |
+| 2023-10-02 | 19,206 | 35 |
 ## Awards
-Max (Great for Beginners): 89  (Ranked 360)  
+Max (Great for Beginners): 89  (Ranked 361)  
 Sum: 670 (Ranked 288)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 89 |

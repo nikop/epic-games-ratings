@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -388,9 +388,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41160,
+  "EOS_Progressed": 41189,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9418,6 +9418,11 @@
       "Time": "2023-10-02T00:05:46.9738544+00:00",
       "NumProgressed": 41160,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T01:47:44.5910282+00:00",
+      "NumProgressed": 41189,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9437,7 +9442,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "CAMP",
@@ -9445,7 +9450,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -9461,7 +9466,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1648
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9477,7 +9482,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4116
+      "UsersEstimate": 4119
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9485,7 +9490,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1648
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9493,7 +9498,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -9501,7 +9506,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -9509,7 +9514,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -9517,7 +9522,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -9573,7 +9578,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "CRAFT_FIRST",
@@ -9581,7 +9586,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2883
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9589,7 +9594,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9605,7 +9610,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "JUSTCOUNTER",
@@ -9613,7 +9618,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEAPFROG",
@@ -9621,7 +9626,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -9629,7 +9634,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -9645,7 +9650,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9669,7 +9674,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2883
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9677,7 +9682,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -9685,7 +9690,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1648
     },
     {
       "ID": "MAGIC_IVY",
@@ -9701,7 +9706,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "MONUMENT_ALL",
@@ -9717,7 +9722,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9733,7 +9738,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "PARKOUR_TIME",
@@ -9741,7 +9746,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9765,7 +9770,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3707
     },
     {
       "ID": "SPRING_ALL",
@@ -9781,7 +9786,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "STAYING_AIR",
@@ -9829,7 +9834,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -9837,7 +9842,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "TANTACAT_ALL",
@@ -9852,22 +9857,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41160,
+      "Progressed": 41189,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 5997,
-      "Completed": 5997
+      "Progressed": 6026,
+      "Completed": 6026
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-01T16:59:52.0327878+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:05:46.9738538+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:47:44.5910277+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-02T00:00:28.0830012+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:05:46.9739774+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:42:21.5114266+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:47:44.5911083+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.45 (Ranked 648)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,697 |
+| Meeting Resistance | 46.00% | ~1,698 |
 | Confirming Suspicions | 41.00% | ~1,513 |
-| The Kraken Wakes | 36.00% | ~1,328 |
+| The Kraken Wakes | 36.00% | ~1,329 |
 | It's Starting to Crack | 33.00% | ~1,218 |
 | Lord of War | 30.00% | ~1,107 |
 | Change the Channel | 30.00% | ~1,107 |
 | Taking it back | 28.00% | ~1,033 |
-| Resourceful | 27.00% | ~996 |
-| Target America | 26.00% | ~959 |
+| Resourceful | 27.00% | ~997 |
+| Target America | 26.00% | ~960 |
 | The Kraken Sleeps | 24.00% | ~886 |
 | Liberté | 22.00% | ~812 |
 | Organ Grinder | 22.00% | ~812 |
@@ -22,8 +22,8 @@ Rating: 4.45 (Ranked 648)
 | Explosive Efficiency | 19.00% | ~701 |
 | Gunslinger | 18.00% | ~664 |
 | Just a Flesh Wound | 17.00% | ~627 |
-| Climbing the Ladder | 16.00% | ~590 |
-| Der Geist | 16.00% | ~590 |
+| Climbing the Ladder | 16.00% | ~591 |
+| Der Geist | 16.00% | ~591 |
 | Close Quarters | 15.00% | ~554 |
 | Snake in the Grass | 15.00% | ~554 |
 | Brains of the Operation | 15.00% | ~554 |
@@ -37,10 +37,10 @@ Rating: 4.45 (Ranked 648)
 | Precision Is Key | 9.00% | ~332 |
 | My Little Friend | 9.00% | ~332 |
 | Rigged to Blow | 8.00% | ~295 |
-| Herr Today, Gone Tomorrow | 6.00% | ~218 |
-| The Long Game | 5.00% | ~184 |
-| It'll Buff Right Out | 5.00% | ~184 |
-| Don't hold your breath | 5.00% | ~184 |
+| Herr Today, Gone Tomorrow | 6.00% | ~219 |
+| The Long Game | 5.00% | ~185 |
+| It'll Buff Right Out | 5.00% | ~185 |
+| Don't hold your breath | 5.00% | ~185 |
 | Operation Foxley | 5.00% | ~182 |
 | Strategist | 4.00% | ~148 |
 | Tinkerer | 4.00% | ~148 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 648)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,690 (Ranked 176)  
+Progressed: 3,691 (Ranked 176)  
 Completed: 11 (0.30%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 11 (0.30%) (Ranked 199)
 | 2023-09-29 | 3,683 | 11 |
 | 2023-09-30 | 3,688 | 11 |
 | 2023-10-01 | 3,690 | 11 |
+| 2023-10-02 | 3,691 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

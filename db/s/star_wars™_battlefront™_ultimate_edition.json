@@ -3,8 +3,8 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380,
+  "EOS_Progressed": 381,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-10-02T00:04:01.5658879+00:00",
       "NumProgressed": 380,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T01:46:28.3814544+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1062,7 +1067,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_27",
@@ -1142,7 +1147,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_36",
@@ -1166,7 +1171,7 @@
       "Name": "Survivor",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_39",
@@ -1182,7 +1187,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_40",
@@ -1190,7 +1195,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_41",
@@ -1222,7 +1227,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_45",
@@ -1421,13 +1426,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 380,
+      "Progressed": 381,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 380,
+      "Progressed": 381,
       "Completed": 1
     }
   ],
@@ -1435,8 +1440,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:04:01.5658873+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:46:28.3814539+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-02T00:00:15.6646541+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:04:01.5659766+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:42:13.5590344+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:46:28.3815115+00:00"
 }

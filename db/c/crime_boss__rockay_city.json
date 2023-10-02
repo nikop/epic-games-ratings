@@ -3804,9 +3804,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88624,
+  "EOS_Progressed": 88628,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20844,6 +20844,11 @@
       "Time": "2023-10-01T23:07:12.1896268+00:00",
       "NumProgressed": 88624,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-02T01:49:04.7317956+00:00",
+      "NumProgressed": 88628,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -20879,7 +20884,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_0014",
@@ -20887,7 +20892,7 @@
       "Name": "Track Star",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_0015",
@@ -21071,7 +21076,7 @@
       "Name": "Case Closed",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_0420",
@@ -21103,7 +21108,7 @@
       "Name": "True Player",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_0450",
@@ -21182,13 +21187,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88624,
+      "Progressed": 88628,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16971,
+      "Progressed": 16975,
       "Completed": 15539
     }
   ],
@@ -21196,8 +21201,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-01T13:57:00.5351864+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:07:38.5816734+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:49:04.7317953+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:57:12.039721+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:07:38.581838+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:40:07.7626828+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:49:04.731897+00:00"
 }

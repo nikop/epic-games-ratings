@@ -2309,9 +2309,9 @@
       "ID": "MissionAncientRitual",
       "SetID": "a6c395p",
       "Name": "Power Chord",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 259
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -2485,9 +2485,9 @@
       "ID": "RiteOfControl",
       "SetID": "a6c395p",
       "Name": "Crash Test",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 259
     },
     {
       "ID": "RiteOfTheHunt",
@@ -2549,8 +2549,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-10-02T00:04:49.1138059+00:00",
+  "LastChanged_Achievements": "2023-10-02T01:47:02.5054394+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:38.2609537+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:57:24.2243175+00:00",
-  "LastUpdate_Achievements": "2023-10-02T00:04:49.113861+00:00"
+  "LastUpdate_Ratings": "2023-10-02T01:40:15.9623667+00:00",
+  "LastUpdate_Achievements": "2023-10-02T01:47:02.5054764+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,802 |
-| Until death do us apart | 4.00% | ~16,802 |
-| That is mine! | 3.00% | ~12,602 |
-| Victorious! | 3.00% | ~12,602 |
-| Brothers in Arms | 2.00% | ~8,401 |
-| For the Glory | 2.00% | ~8,401 |
-| That's a Grand Navy | 2.00% | ~8,401 |
-| Seriously?! | 2.00% | ~8,401 |
+| That's a Grand Army | 4.00% | ~16,803 |
+| Until death do us apart | 4.00% | ~16,803 |
+| That is mine! | 3.00% | ~12,603 |
+| Victorious! | 3.00% | ~12,603 |
+| Brothers in Arms | 2.00% | ~8,402 |
+| For the Glory | 2.00% | ~8,402 |
+| That's a Grand Navy | 2.00% | ~8,402 |
+| Seriously?! | 2.00% | ~8,402 |
 | Cold War | 1.00% | ~4,201 |
 | Defender of the Faith | 1.00% | ~4,201 |
 | It's all about the money | 1.00% | ~4,201 |
@@ -22,11 +22,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,781 |
 | Respected | 0.90% | ~3,781 |
 | Truly Divine Ruler | 0.90% | ~3,781 |
-| Blockader | 0.80% | ~3,360 |
-| Double the Love | 0.80% | ~3,360 |
-| Total Control | 0.80% | ~3,360 |
-| Royal Authority | 0.70% | ~2,940 |
-| My armies are invincible! | 0.60% | ~2,520 |
+| Blockader | 0.80% | ~3,361 |
+| Double the Love | 0.80% | ~3,361 |
+| Total Control | 0.80% | ~3,361 |
+| Royal Authority | 0.70% | ~2,941 |
+| My armies are invincible! | 0.60% | ~2,521 |
 | Agressive Expander | 0.50% | ~2,100 |
 | City of Cities | 0.50% | ~2,100 |
 | Combined Arms | 0.50% | ~2,100 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,057 (Ranked 41)  
+Progressed: 420,087 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 1 (0.00%) (Ranked 304)
 | 2023-09-29 | 417,709 | 1 |
 | 2023-09-30 | 418,938 | 1 |
 | 2023-10-01 | 420,043 | 1 |
-| 2023-10-02 | 420,057 | 1 |
+| 2023-10-02 | 420,087 | 1 |
 ## Awards
 Max (Educational): 6,349  (Ranked 57)  
 Sum: 52,207 (Ranked 24)  
