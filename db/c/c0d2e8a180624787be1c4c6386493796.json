@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -572,9 +572,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:08:10.2376324+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:06:25.4891816+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:57:32.7117919+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:08:10.2377807+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:57:21.6870155+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:06:25.4892541+00:00"
 }

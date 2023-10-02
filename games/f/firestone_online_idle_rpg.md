@@ -61,9 +61,9 @@ Rating: 4.05 (Ranked 950)
 | Arena Challenger | 5.00% | ~99 |
 | Background Story | 5.00% | ~99 |
 | Ebony Jungle Liberator | 5.00% | ~99 |
+| What lies behind the bush | 4.00% | ~79 |
 | Gear Enchanting | 3.00% | ~60 |
 | Mythic Power | 3.00% | ~60 |
-| What lies behind the bush | 3.00% | ~60 |
 | Cauldron Liberator | 2.00% | ~40 |
 | Enchanting skill x5 | 2.00% | ~40 |
 | Guardian Master | 2.00% | ~40 |

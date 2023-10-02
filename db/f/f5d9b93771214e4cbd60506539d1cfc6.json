@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146121,
+  "EOS_Progressed": 146123,
   "EOS_Completed": 285,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12957,6 +12957,11 @@
       "Time": "2023-10-02T08:03:18.3990427+00:00",
       "NumProgressed": 146121,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-10-02T09:03:13.8617775+00:00",
+      "NumProgressed": 146123,
+      "NumCompleted": 285
     }
   ],
   "TotalAchievements": 31,
@@ -12976,7 +12981,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 102285
+      "UsersEstimate": 102286
     },
     {
       "ID": "EAwards_10",
@@ -12992,7 +12997,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29224
+      "UsersEstimate": 29225
     },
     {
       "ID": "EAwards_12",
@@ -13016,7 +13021,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56987
+      "UsersEstimate": 56988
     },
     {
       "ID": "EAwards_15",
@@ -13080,7 +13085,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16073
+      "UsersEstimate": 16074
     },
     {
       "ID": "EAwards_22",
@@ -13176,7 +13181,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16073
+      "UsersEstimate": 16074
     },
     {
       "ID": "EAwards_6",
@@ -13184,7 +13189,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36530
+      "UsersEstimate": 36531
     },
     {
       "ID": "EAwards_7",
@@ -13200,7 +13205,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 54065
+      "UsersEstimate": 54066
     },
     {
       "ID": "EAwards_9",
@@ -13215,7 +13220,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 146121,
+      "Progressed": 146123,
       "Completed": 285
     }
   ],
@@ -13223,8 +13228,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-28T14:01:47.960468+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:03:18.3990422+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:03:13.8617769+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.0774295+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:59:22.4163497+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:03:18.3991565+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:58:36.6663762+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:03:13.8618758+00:00"
 }

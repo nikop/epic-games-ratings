@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14279,
+  "EOS_Progressed": 14280,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12765,6 +12765,11 @@
       "Time": "2023-10-02T08:07:41.7675919+00:00",
       "NumProgressed": 14279,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-02T09:06:05.766261+00:00",
+      "NumProgressed": 14280,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15478,25 +15483,25 @@
       "ID": "ACHIEVEMENT_KUSHITE_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Kushite Pyramids",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
       "SetID": "9201eeb",
       "Name": "Kush",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
       "SetID": "9201eeb",
       "Name": "Kushite Paganism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -15511,21 +15516,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14279,
+      "Progressed": 14280,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14279,
+      "Progressed": 14280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:07:41.7675912+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:06:05.7662605+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:59:00.1290371+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:07:41.7688985+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:58:22.7372175+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:06:05.7673892+00:00"
 }

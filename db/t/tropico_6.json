@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1170,9 +1170,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5423,
+  "EOS_Progressed": 5424,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10690,6 +10690,11 @@
       "Time": "2023-10-02T04:06:02.3443547+00:00",
       "NumProgressed": 5423,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-02T09:05:11.1959963+00:00",
+      "NumProgressed": 5424,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10773,7 +10778,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -10797,7 +10802,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10861,7 +10866,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -10885,7 +10890,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -11020,15 +11025,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5423,
+      "Progressed": 5424,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-30T08:57:11.574779+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:06:23.7950585+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:05:11.1959957+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.3728621+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:58:38.1656717+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:06:23.7951506+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:58:07.9694038+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:05:11.1960709+00:00"
 }

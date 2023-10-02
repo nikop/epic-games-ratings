@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6325,
+  "EOS_Progressed": 6327,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5593,6 +5593,11 @@
       "Time": "2023-10-02T06:05:06.5850616+00:00",
       "NumProgressed": 6325,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T09:05:16.7385232+00:00",
+      "NumProgressed": 6327,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5660,7 +5665,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Bride",
@@ -5690,9 +5695,9 @@
       "ID": "CaughtInAct",
       "SetID": "bmkn7o4",
       "Name": "Caught in the Act",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 190
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -5740,7 +5745,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "DoNotBurn",
@@ -5868,7 +5873,7 @@
       "Name": "Katherine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "LCA",
@@ -5924,7 +5929,7 @@
       "Name": "Relentless",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Penguinfucker",
@@ -6012,7 +6017,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "SuckerPunch",
@@ -6155,21 +6160,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3364,
+      "Progressed": 3366,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6325,
+      "Progressed": 6327,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:06:32.1270206+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:05:16.7385226+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:57.7051399+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:58:19.1054128+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:06:32.1271644+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:57:54.2879847+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:05:16.7386245+00:00"
 }

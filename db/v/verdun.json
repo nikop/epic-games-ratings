@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1748,7 +1748,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59770,
+  "EOS_Progressed": 59771,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
@@ -19803,6 +19803,11 @@
       "Time": "2023-10-02T08:07:54.1694373+00:00",
       "NumProgressed": 59770,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-02T09:06:14.2588137+00:00",
+      "NumProgressed": 59771,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -19854,7 +19859,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -19870,7 +19875,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -20038,7 +20043,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -20070,7 +20075,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19126
+      "UsersEstimate": 19127
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -20102,7 +20107,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37655
+      "UsersEstimate": 37656
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -20110,7 +20115,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -20158,7 +20163,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14942
+      "UsersEstimate": 14943
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -20285,15 +20290,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59770,
+      "Progressed": 59771,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:07:54.1694363+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:06:14.2588129+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.0197067+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:01:17.9669645+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:07:54.169682+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:59:58.9773516+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:06:14.2589759+00:00"
 }

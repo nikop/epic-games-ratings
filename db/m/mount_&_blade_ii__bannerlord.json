@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7537,10 +7537,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14680,
       "NumberOfAwardsMax": 7168
+    },
+    {
+      "Time": "2023-10-02T08:59:15.1902214+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14682,
+      "NumberOfAwardsMax": 7168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14680,
+  "NumberOfAwards": 14682,
   "NumberOfAwardsMax": 7168,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7584,7 +7590,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 816
+      "Count": 818
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7617,9 +7623,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62542,
+  "EOS_Progressed": 62543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25137,6 +25143,11 @@
       "Time": "2023-10-02T08:08:04.8279652+00:00",
       "NumProgressed": 62542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T09:06:21.6495369+00:00",
+      "NumProgressed": 62543,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25276,7 +25287,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8130
+      "UsersEstimate": 8131
     },
     {
       "ID": "Great Granny",
@@ -25380,7 +25391,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24391
+      "UsersEstimate": 24392
     },
     {
       "ID": "Lawmaker",
@@ -25555,15 +25566,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62542,
+      "Progressed": 62543,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-02T04:59:20.0548187+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:08:04.8279644+00:00",
+  "LastChanged": "2023-10-02T08:59:15.1902213+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:06:21.6495364+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:00:20.1619439+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:08:04.8282361+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:59:15.1902222+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:06:21.6496818+00:00"
 }

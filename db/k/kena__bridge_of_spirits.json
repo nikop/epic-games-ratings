@@ -1328,9 +1328,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428272,
+  "EOS_Progressed": 428273,
   "EOS_Completed": 534,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12433,6 +12433,11 @@
       "Time": "2023-10-02T06:05:43.6386387+00:00",
       "NumProgressed": 428272,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2023-10-02T09:05:53.7475985+00:00",
+      "NumProgressed": 428273,
+      "NumCompleted": 534
     }
   ],
   "TotalAchievements": 41,
@@ -12460,7 +12465,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256963
+      "UsersEstimate": 256964
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -12484,7 +12489,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179874
+      "UsersEstimate": 179875
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -12524,7 +12529,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256963
+      "UsersEstimate": 256964
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -12556,7 +12561,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132764
+      "UsersEstimate": 132765
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -12612,7 +12617,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406858
+      "UsersEstimate": 406859
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12628,7 +12633,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308356
+      "UsersEstimate": 308357
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -12692,7 +12697,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197005
+      "UsersEstimate": 197006
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -12708,7 +12713,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115633
+      "UsersEstimate": 115634
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -12716,7 +12721,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115633
+      "UsersEstimate": 115634
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -12724,7 +12729,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239832
+      "UsersEstimate": 239833
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -12740,7 +12745,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145612
+      "UsersEstimate": 145613
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -12748,7 +12753,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115633
+      "UsersEstimate": 115634
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -12756,7 +12761,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132764
+      "UsersEstimate": 132765
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -12771,15 +12776,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428272,
+      "Progressed": 428273,
       "Completed": 534
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-30T01:38:57.1543788+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:07:25.4987713+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:05:53.747598+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:38.1163954+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:01:33.83817+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:07:25.4990028+00:00"
+  "LastUpdate_Ratings": "2023-10-02T09:00:08.4990344+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:05:53.7476948+00:00"
 }

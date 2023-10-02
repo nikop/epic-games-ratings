@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.50% | ~1,153 |
+| A Brief Tour of the Realms | 0.50% | ~1,154 |
 | The Jungles of Doomspace | 0.40% | ~788 |
 | The Arena of Blood | 0.30% | ~591 |
 | Beast Intentions | 0.20% | ~461 |
@@ -531,8 +531,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~197 |
 | All's Well That Ends Well | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,695 (Ranked 56)  
-Completed: 2,321 (1.01%) (Ranked 136)  
+Progressed: 230,701 (Ranked 56)  
+Completed: 2,322 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -696,15 +696,15 @@ Completed: 2,321 (1.01%) (Ranked 136)
 | 2023-09-29 | 230,422 | 2,312 |
 | 2023-09-30 | 230,569 | 2,317 |
 | 2023-10-01 | 230,655 | 2,320 |
-| 2023-10-02 | 230,695 | 2,321 |
+| 2023-10-02 | 230,701 | 2,322 |
 ## Awards
 Max (Diverse Characters): 5,348  (Ranked 69)  
-Sum: 31,866 (Ranked 40)  
+Sum: 31,871 (Ranked 40)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,348 |
-| This game is Great for Beginners | 5,337 |
+| This game is Great for Beginners | 5,342 |
 | This game has Quickly Understood Controls | 4,783 |
 | This game is Relaxing | 4,668 |
 | This game has Amazing Characters | 4,139 |
@@ -962,4 +962,4 @@ Diff (max vs sum): 29
 | 2023-09-29 | 4.06 | - | 5,341 | 31,838 |
 | 2023-09-30 | 4.06 | - | 5,348 | 31,858 |
 | 2023-10-01 | 4.06 | - | 5,348 | 31,861 |
-| 2023-10-02 | 4.06 | - | 5,348 | 31,866 |
+| 2023-10-02 | 4.06 | - | 5,348 | 31,871 |

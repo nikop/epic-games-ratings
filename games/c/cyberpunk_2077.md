@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,505 |
-| Rough Landing | 4.00% | ~35,505 |
-| Gunslinger | 3.00% | ~26,629 |
-| The Jungle | 3.00% | ~26,629 |
+| Ten out of Ten | 4.00% | ~35,506 |
+| Rough Landing | 4.00% | ~35,506 |
+| Gunslinger | 3.00% | ~26,630 |
+| The Jungle | 3.00% | ~26,630 |
 | Full Body Conversion | 2.00% | ~17,753 |
 | Right Back At Ya | 2.00% | ~17,753 |
 | Master Crafter | 2.00% | ~17,753 |
@@ -23,20 +23,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 2.00% | ~17,753 |
 | Two Heads, One Bullet | 2.00% | ~17,753 |
 | V for Vendetta | 2.00% | ~17,753 |
-| To Bad Decisions! | 1.00% | ~8,876 |
-| Gun Fu | 1.00% | ~8,876 |
-| Christmas Tree Attack | 1.00% | ~8,876 |
-| The Quick and the Dead | 1.00% | ~8,876 |
-| Temperance | 1.00% | ~8,876 |
-| The Devil | 1.00% | ~8,876 |
-| The Fool | 1.00% | ~8,876 |
-| The Lovers | 1.00% | ~8,876 |
-| The World | 1.00% | ~8,876 |
-| It's Elementary | 1.00% | ~8,876 |
-| Legend of The Afterlife | 1.00% | ~8,876 |
+| Legend of The Afterlife | 2.00% | ~17,753 |
+| To Bad Decisions! | 1.00% | ~8,877 |
+| Gun Fu | 1.00% | ~8,877 |
+| Christmas Tree Attack | 1.00% | ~8,877 |
+| The Quick and the Dead | 1.00% | ~8,877 |
+| Temperance | 1.00% | ~8,877 |
+| The Devil | 1.00% | ~8,877 |
+| The Fool | 1.00% | ~8,877 |
+| The Lovers | 1.00% | ~8,877 |
+| The World | 1.00% | ~8,877 |
+| It's Elementary | 1.00% | ~8,877 |
 | Judy vs Night City | 0.90% | ~7,989 |
-| City Lights | 0.70% | ~6,213 |
-| Greetings from Pacifica! | 0.70% | ~6,213 |
+| City Lights | 0.70% | ~6,214 |
+| Greetings from Pacifica! | 0.70% | ~6,214 |
 | Life of the Road | 0.60% | ~5,326 |
 | Spin Doctor | 0.60% | ~98 |
 | Bushido and Chill | 0.50% | ~4,438 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,636 (Ranked 15)  
-Completed: 2,539 (0.29%) (Ranked 201)  
+Progressed: 887,660 (Ranked 15)  
+Completed: 2,540 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,10 +229,10 @@ Completed: 2,539 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,636 | 2,539 |
+| 2023-10-02 | 887,660 | 2,540 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
-Sum: 252,317 (Ranked 12)  
+Sum: 252,718 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -240,9 +240,9 @@ Diff (max vs sum): -3
 | This game has Great Boss Battles | 60,143 |
 | This game is Great for Beginners | 12,605 |
 | This game has Diverse Characters | 12,319 |
+| This game is Extremely Fun | 12,184 |
 | This game has Amazing Storytelling | 12,110 |
 | This game is Highly Recommended | 12,090 |
-| This game is Extremely Fun | 11,783 |
 | This game is Relaxing | 11,769 |
 | This game has Amazing Characters | 11,759 |
 | This game has Quickly Understood Controls | 11,574 |
@@ -506,4 +506,4 @@ Diff (max vs sum): -3
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
-| 2023-10-02 | 4.63 | - | 88,536 | 252,317 |
+| 2023-10-02 | 4.63 | - | 88,536 | 252,718 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1906,
+  "EOS_Progressed": 1907,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2036,6 +2036,11 @@
       "Time": "2023-10-02T08:06:15.3587521+00:00",
       "NumProgressed": 1906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T09:05:05.3144232+00:00",
+      "NumProgressed": 1907,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2056,7 +2061,7 @@
       "Name": "Bragging Rights",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "achievement_11",
@@ -2080,7 +2085,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "achievement_14",
@@ -2096,7 +2101,7 @@
       "Name": "MVP",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "achievement_16",
@@ -2215,7 +2220,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1906,
+      "Progressed": 1907,
       "Completed": 0
     }
   ],
@@ -2223,8 +2228,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:06:15.3587514+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:05:05.3144227+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.4729837+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:01:05.2742575+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:06:15.3588016+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:59:50.5821963+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:05:05.314446+00:00"
 }

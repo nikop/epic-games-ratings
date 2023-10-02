@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 524,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2153,6 +2153,11 @@
       "Time": "2023-10-02T08:03:23.6605108+00:00",
       "NumProgressed": 522,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T09:03:17.3352064+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2181,7 +2186,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2301,7 +2306,7 @@
       "Name": "Infinity Loop",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_HUB1",
@@ -2317,7 +2322,7 @@
       "Name": "Path to Salvation",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_OASIS",
@@ -2325,15 +2330,15 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_PROPELL",
@@ -2357,7 +2362,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_S4",
@@ -2365,7 +2370,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_S5",
@@ -2373,15 +2378,15 @@
       "Name": "Cogs in the Machine",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_SANDSTORM",
       "SetID": "232494e",
       "Name": "Lost in Space",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_STATUE",
@@ -2389,22 +2394,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 524,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:03:23.6605102+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:03:17.3352058+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:59:44.3241267+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:03:23.6605658+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:58:49.9869054+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:03:17.335239+00:00"
 }

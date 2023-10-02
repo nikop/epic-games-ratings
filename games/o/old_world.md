@@ -227,6 +227,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Greatest Pharaoh! | 0.10% | ~14 |
 | Pharaonic History Repeats | 0.10% | ~14 |
 | Egypt Campaign | 0.10% | ~14 |
+| Kushite Pyramids | 0.10% | ~14 |
+| Kush | 0.10% | ~14 |
+| Kushite Paganism | 0.10% | ~14 |
 | Beja Archer | 0.10% | ~14 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
@@ -345,11 +348,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
-| Kushite Pyramids | 0.00% | ~0 |
-| Kush | 0.00% | ~0 |
-| Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,279 (Ranked 133)  
+Progressed: 14,280 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 5 (0.04%) (Ranked 269)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
-| 2023-10-02 | 14,279 | 5 |
+| 2023-10-02 | 14,280 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

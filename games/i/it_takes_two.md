@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 87.00% | ~7,633 |
-| Struck A Pose | 87.00% | ~7,633 |
-| Look At Him Go | 75.00% | ~6,580 |
-| On Rails Experience | 53.00% | ~4,650 |
-| A Daring Devil | 49.00% | ~4,299 |
-| Break the Bank | 41.00% | ~3,597 |
-| It Took Two | 37.00% | ~3,246 |
-| Bug Sized Relaxation | 18.00% | ~1,579 |
-| Plastic Prison Breakers | 16.00% | ~1,404 |
-| Terror Of The Seven Seas | 14.00% | ~1,228 |
-| Realize Your Art | 11.00% | ~965 |
-| Force Triangulated | 11.00% | ~965 |
-| Meditation Maestro | 10.00% | ~877 |
-| Lost And Found | 9.00% | ~790 |
-| Something Fishy | 9.00% | ~790 |
-| Platforming Prodigy | 8.00% | ~702 |
-| Snackosaurus | 7.00% | ~614 |
-| Mood Swing | 6.00% | ~526 |
-| Faraway Frequencies | 4.00% | ~351 |
-| Minigame Megalomania | 3.00% | ~263 |
+| Fried Friendship | 87.00% | ~7,660 |
+| Struck A Pose | 87.00% | ~7,660 |
+| Look At Him Go | 75.00% | ~6,604 |
+| On Rails Experience | 53.00% | ~4,667 |
+| A Daring Devil | 50.00% | ~4,402 |
+| Break the Bank | 41.00% | ~3,610 |
+| It Took Two | 37.00% | ~3,258 |
+| Bug Sized Relaxation | 18.00% | ~1,585 |
+| Plastic Prison Breakers | 16.00% | ~1,409 |
+| Terror Of The Seven Seas | 14.00% | ~1,233 |
+| Realize Your Art | 11.00% | ~969 |
+| Force Triangulated | 11.00% | ~969 |
+| Meditation Maestro | 10.00% | ~880 |
+| Lost And Found | 9.00% | ~792 |
+| Something Fishy | 9.00% | ~792 |
+| Platforming Prodigy | 8.00% | ~704 |
+| Snackosaurus | 7.00% | ~616 |
+| Mood Swing | 6.00% | ~528 |
+| Faraway Frequencies | 4.00% | ~352 |
+| Minigame Megalomania | 3.00% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,774 (Ranked 148)  
+Progressed: 8,805 (Ranked 148)  
 Completed: 32 (0.36%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,4 +42,4 @@ Completed: 32 (0.36%) (Ranked 186)
 | 2023-09-29 | 6,976 | 26 |
 | 2023-09-30 | 7,791 | 28 |
 | 2023-10-01 | 8,554 | 31 |
-| 2023-10-02 | 8,774 | 32 |
+| 2023-10-02 | 8,805 | 32 |

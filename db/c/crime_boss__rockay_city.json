@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 976,
-  "Ranking_Popularity": 206,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3754,11 +3754,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 2240,
       "NumberOfAwardsMax": 469
+    },
+    {
+      "Time": "2023-10-02T08:57:22.0766336+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2244,
+      "NumberOfAwardsMax": 472
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2240,
-  "NumberOfAwardsMax": 469,
+  "NumberOfAwards": 2244,
+  "NumberOfAwardsMax": 472,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3771,13 +3777,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 469
+      "Count": 472
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 430
+      "Count": 431
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3810,9 +3816,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88643,
+  "EOS_Progressed": 88644,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20885,6 +20891,11 @@
       "Time": "2023-10-02T08:08:03.0372512+00:00",
       "NumProgressed": 88643,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-02T09:06:20.396223+00:00",
+      "NumProgressed": 88644,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -21223,22 +21234,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88643,
+      "Progressed": 88644,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16990,
+      "Progressed": 16991,
       "Completed": 15539
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-02T07:57:33.2800159+00:00",
-  "LastChanged_Achievements": "2023-10-02T08:08:03.0372506+00:00",
+  "LastChanged": "2023-10-02T08:57:22.0766335+00:00",
+  "LastChanged_Achievements": "2023-10-02T09:06:20.3962224+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:57:33.2800169+00:00",
-  "LastUpdate_Achievements": "2023-10-02T08:08:03.0374074+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:57:22.0766341+00:00",
+  "LastUpdate_Achievements": "2023-10-02T09:06:20.3963564+00:00"
 }
