@@ -1137,9 +1137,9 @@
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "World6Boss",
@@ -1186,8 +1186,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-02T04:07:12.7133184+00:00",
+  "LastChanged_Achievements": "2023-10-02T05:06:27.0521489+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-02T03:59:23.611953+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:07:12.7133856+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:58:52.8401392+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:06:27.0521932+00:00"
 }

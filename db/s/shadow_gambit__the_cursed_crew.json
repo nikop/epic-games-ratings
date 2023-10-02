@@ -2111,9 +2111,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 290
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2200,8 +2200,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-02T04:08:31.2340607+00:00",
+  "LastChanged_Achievements": "2023-10-02T05:09:15.6321929+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:00:35.1405421+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:08:31.2341231+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:59:49.6210627+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:09:15.6322263+00:00"
 }

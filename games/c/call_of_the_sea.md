@@ -8,9 +8,9 @@ Rating: 4.40 (Ranked 715)
 | A Family Heirloom | 79.00% | ~96,792 |
 | 74 miles East of Otaheité | 56.00% | ~68,612 |
 | Interesting... | 42.00% | ~51,459 |
-| The Everhart Expedition | 39.00% | ~47,783 |
-| The Vanishing of the Lady Shannon | 30.00% | ~36,756 |
-| Seaside Serenade | 30.00% | ~36,756 |
+| The Everhart Expedition | 39.00% | ~47,784 |
+| The Vanishing of the Lady Shannon | 30.00% | ~36,757 |
+| Seaside Serenade | 30.00% | ~36,757 |
 | Halfway there | 29.00% | ~35,531 |
 | A brigantine, a brig and a barque | 28.00% | ~34,306 |
 | 506 East Hampden Avenue | 28.00% | ~34,306 |
@@ -20,15 +20,15 @@ Rating: 4.40 (Ranked 715)
 | Sunken | 24.00% | ~29,405 |
 | Deep Cut | 24.00% | ~29,405 |
 | FHALGOF'N' | 22.00% | ~26,955 |
-| Marsh Cannery | 21.00% | ~25,729 |
+| Marsh Cannery | 21.00% | ~25,730 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~20,829 |
-| The only thing I have now | 16.00% | ~19,603 |
+| The only thing I have now | 16.00% | ~19,604 |
 | Not Another Boring Slideshow! | 15.00% | ~18,378 |
 | Naacalvision | 15.00% | ~18,378 |
 | I'll make a note of that... | 9.00% | ~11,027 |
 | The Norahnomicon | 9.00% | ~11,027 |
-| Play it again, Norah | 7.00% | ~8,576 |
-| Underwater Royalty | 7.00% | ~8,576 |
+| Play it again, Norah | 7.00% | ~8,577 |
+| Underwater Royalty | 7.00% | ~8,577 |
 | Written in Stone | 6.00% | ~7,351 |
 | Fawning Developers | 5.00% | ~6,126 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,901 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 715)
 | Gently down the stream... | 1.00% | ~1,225 |
 | Meta-reference | 1.00% | ~1,225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,521 (Ranked 74)  
+Progressed: 122,522 (Ranked 74)  
 Completed: 1,014 (0.83%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 1,014 (0.83%) (Ranked 145)
 | 2023-09-29 | 122,039 | 1,009 |
 | 2023-09-30 | 122,267 | 1,011 |
 | 2023-10-01 | 122,485 | 1,014 |
-| 2023-10-02 | 122,521 | 1,014 |
+| 2023-10-02 | 122,522 | 1,014 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

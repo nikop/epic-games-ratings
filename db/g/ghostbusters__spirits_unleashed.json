@@ -2258,7 +2258,7 @@
   ],
   "EOS_Progressed": 26154,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14055,9 +14055,9 @@
       "ID": "Clutch_Capture",
       "SetID": "819popo",
       "Name": "Clutch Capture",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Collect_Spores",
@@ -14432,8 +14432,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-01T22:01:08.073081+00:00",
-  "LastChanged_Achievements": "2023-10-02T04:05:39.5322944+00:00",
+  "LastChanged_Achievements": "2023-10-02T05:05:08.296353+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:01:16.6834857+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:05:39.5325016+00:00"
+  "LastUpdate_Ratings": "2023-10-02T05:00:25.2038393+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:05:08.2964866+00:00"
 }

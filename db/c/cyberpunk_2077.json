@@ -12827,9 +12827,9 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887561,
+  "EOS_Progressed": 887583,
   "EOS_Completed": 2537,
-  "EOS_NewPlayers": 6637,
+  "EOS_NewPlayers": 6634,
   "EOS_NewCompleters": 188,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -31352,6 +31352,11 @@
       "Time": "2023-10-02T04:09:04.6586889+00:00",
       "NumProgressed": 887561,
       "NumCompleted": 2537
+    },
+    {
+      "Time": "2023-10-02T05:09:18.2648657+00:00",
+      "NumProgressed": 887583,
+      "NumCompleted": 2537
     }
   ],
   "TotalAchievements": 57,
@@ -31387,7 +31392,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "Denied",
@@ -31395,7 +31400,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "FollowingTheRiver",
@@ -31451,7 +31456,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "IAmMaxTac",
@@ -31467,7 +31472,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "LittleTokyo",
@@ -31507,7 +31512,7 @@
       "Name": "Breathtaking",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "NoMansLand",
@@ -31539,7 +31544,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "Specialist",
@@ -31547,7 +31552,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35502
+      "UsersEstimate": 35503
     },
     {
       "ID": "Temperance",
@@ -31563,7 +31568,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35502
+      "UsersEstimate": 35503
     },
     {
       "ID": "TheDevil",
@@ -31587,7 +31592,7 @@
       "Name": "The Hermit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "TheHightPriestess",
@@ -31595,7 +31600,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "TheLovers",
@@ -31627,7 +31632,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "TheWorld",
@@ -31651,7 +31656,7 @@
       "Name": "The Jungle",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "TrueSoldier",
@@ -31659,7 +31664,7 @@
       "Name": "True Soldier",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "TrueWarrior",
@@ -31675,7 +31680,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "UnderPressure",
@@ -31691,15 +31696,15 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17751
+      "UsersEstimate": 17752
     },
     {
       "ID": "YipMan",
       "SetID": "47clieb",
       "Name": "It\u0027s Elementary",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 7988
+      "UsersEstimate": 8876
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -31801,9 +31806,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "UltimateSurvivor",
@@ -31818,21 +31823,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887561,
+      "Progressed": 887583,
       "Completed": 2537
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16184,
+      "Progressed": 16206,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-02T04:00:12.7887556+00:00",
-  "LastChanged_Achievements": "2023-10-02T04:09:04.658688+00:00",
+  "LastChanged_Achievements": "2023-10-02T05:09:18.2648646+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:00:12.7887566+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:09:04.6589793+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:59:33.0814662+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:09:18.2650525+00:00"
 }

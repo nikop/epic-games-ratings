@@ -1654,9 +1654,9 @@
       "ID": "FINISH_EPISODE_2",
       "SetID": "kakdpn",
       "Name": "Shard Snatchers",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 878
+      "UsersEstimate": 914
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1815,8 +1815,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-02T04:06:45.1388998+00:00",
+  "LastChanged_Achievements": "2023-10-02T05:06:03.5971891+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.506669+00:00",
-  "LastUpdate_Ratings": "2023-10-02T03:59:29.565+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:06:45.1389299+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:58:57.8835696+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:06:03.5972191+00:00"
 }

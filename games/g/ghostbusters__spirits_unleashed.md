@@ -11,12 +11,12 @@ Rating: 4.50 (Ranked 575)
 | Discovery | 0.80% | ~209 |
 | Fully Upgraded | 0.80% | ~209 |
 | Solo Capture | 0.80% | ~209 |
+| Clutch Capture | 0.70% | ~183 |
 | I collect Spores, Molds, and Fungi | 0.70% | ~183 |
 | Teamwork | 0.70% | ~183 |
 | Vaporous Expansion | 0.70% | ~183 |
 | Whoopsie | 0.70% | ~183 |
 | Back Off | 0.60% | ~157 |
-| Clutch Capture | 0.60% | ~157 |
 | Cultured | 0.60% | ~157 |
 | Icing on the Cake | 0.60% | ~157 |
 | Swift Rift Removers | 0.60% | ~157 |

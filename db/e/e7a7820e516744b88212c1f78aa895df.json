@@ -150,9 +150,9 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achMaxCage",
@@ -230,9 +230,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achSponsor10",
@@ -254,9 +254,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achSponsorMain1",
@@ -380,8 +380,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-02T04:05:14.2607708+00:00",
+  "LastChanged_Achievements": "2023-10-02T05:04:47.0930744+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-10-02T03:59:31.2890188+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:05:14.260799+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:58:59.3945162+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:04:47.0931006+00:00"
 }

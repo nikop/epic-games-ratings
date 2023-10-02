@@ -5,26 +5,26 @@ Rating: 4.73 (Ranked 163)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,364 |
-| Newcomers | 79.00% | ~10,617 |
-| A Burden of Blood | 74.00% | ~9,945 |
-| Protector's Duty | 70.00% | ~9,407 |
+| Under a New Sun | 92.00% | ~12,365 |
+| Newcomers | 79.00% | ~10,618 |
+| A Burden of Blood | 74.00% | ~9,946 |
+| Protector's Duty | 70.00% | ~9,408 |
 | In our Wake | 68.00% | ~9,139 |
 | Alchemist | 68.00% | ~9,139 |
-| Leaving all Behind | 65.00% | ~8,735 |
-| Felons | 62.00% | ~8,332 |
+| Leaving all Behind | 65.00% | ~8,736 |
+| Felons | 62.00% | ~8,333 |
 | A Sea of Promises | 61.00% | ~8,198 |
-| Tales and Revelations | 57.00% | ~7,660 |
-| Bloodline | 52.00% | ~6,988 |
+| Tales and Revelations | 57.00% | ~7,661 |
+| Bloodline | 52.00% | ~6,989 |
 | The Cradle of Centuries | 48.00% | ~6,451 |
 | The Life We Deserve | 46.00% | ~6,182 |
 | Night guard | 43.00% | ~5,779 |
-| Nothing Left | 39.00% | ~5,241 |
-| Healing our Wounds | 37.00% | ~4,972 |
+| Nothing Left | 39.00% | ~5,242 |
+| Healing our Wounds | 37.00% | ~4,973 |
 | Dying Sun | 33.00% | ~4,435 |
 | Improved crossbow | 27.00% | ~3,629 |
 | King Hugo | 25.00% | ~3,360 |
-| Mercy | 24.00% | ~3,225 |
+| Mercy | 24.00% | ~3,226 |
 | Effective instruments | 22.00% | ~2,957 |
 | Perfect shot | 22.00% | ~2,957 |
 | Perfect throw | 21.00% | ~2,822 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 163)
 | Old protector | 2.00% | ~269 |
 | Malignant | 1.00% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,439 (Ranked 134)  
+Progressed: 13,440 (Ranked 134)  
 Completed: 48 (0.36%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,10 +206,10 @@ Completed: 48 (0.36%) (Ranked 186)
 | 2023-09-29 | 13,394 | 47 |
 | 2023-09-30 | 13,421 | 48 |
 | 2023-10-01 | 13,438 | 48 |
-| 2023-10-02 | 13,439 | 48 |
+| 2023-10-02 | 13,440 | 48 |
 ## Awards
 Max (Great Boss Battles): 423  (Ranked 215)  
-Sum: 651 (Ranked 294)  
+Sum: 652 (Ranked 294)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -79
 | This game has Diverse Characters | 29 |
 | This game is Relaxing | 26 |
 | This game has Amazing Storytelling | 25 |
-| This game is Extremely Fun | 24 |
+| This game is Extremely Fun | 25 |
 | This game has Amazing Characters | 23 |
 | This game has a Creative Community | 21 |
 | This game has Quickly Understood Controls | 20 |
@@ -285,4 +285,4 @@ Diff (max vs sum): -79
 | 2023-09-26 | 4.73 | 422 | 647 |
 | 2023-09-27 | 4.73 | 422 | 649 |
 | 2023-09-30 | 4.73 | 423 | 650 |
-| 2023-10-02 | 4.73 | 423 | 651 |
+| 2023-10-02 | 4.73 | 423 | 652 |

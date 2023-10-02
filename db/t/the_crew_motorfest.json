@@ -4,7 +4,7 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 262,
   "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 410,
@@ -730,6 +730,6 @@
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
   "LastChanged": "2023-10-01T23:59:30.9322972+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:27.984683+00:00",
-  "LastUpdate_Ratings": "2023-10-02T03:59:33.3420583+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:05:00.832411+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:59:01.2555679+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:04:35.4662346+00:00"
 }

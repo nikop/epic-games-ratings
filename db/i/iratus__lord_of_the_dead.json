@@ -2,12 +2,12 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 749,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2164,7 +2164,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 41038,
+  "EOS_Progressed": 41039,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
@@ -19919,6 +19919,11 @@
       "Time": "2023-10-02T04:04:31.5603327+00:00",
       "NumProgressed": 41038,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-02T05:04:11.1936502+00:00",
+      "NumProgressed": 41039,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -19986,7 +19991,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14363
+      "UsersEstimate": 14364
     },
     {
       "ID": "achievements_19",
@@ -20002,7 +20007,7 @@
       "Name": "More Mortal Suffering!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "achievements_20",
@@ -20130,7 +20135,7 @@
       "Name": "Cannon Fodder - III",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "achievements_35",
@@ -20178,7 +20183,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 27085
+      "UsersEstimate": 27086
     },
     {
       "ID": "achievements_40",
@@ -20194,7 +20199,7 @@
       "Name": "Spiritual Attraction",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "achievements_42",
@@ -20202,7 +20207,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "achievements_43",
@@ -20234,7 +20239,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 34882
+      "UsersEstimate": 34883
     },
     {
       "ID": "achievements_47",
@@ -20266,7 +20271,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 20929
+      "UsersEstimate": 20930
     },
     {
       "ID": "achievements_50",
@@ -20282,7 +20287,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 16415
+      "UsersEstimate": 16416
     },
     {
       "ID": "achievements_52",
@@ -20306,7 +20311,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17646
+      "UsersEstimate": 17647
     },
     {
       "ID": "achievements_55",
@@ -20370,7 +20375,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11080
+      "UsersEstimate": 11081
     },
     {
       "ID": "achievements_63",
@@ -20394,7 +20399,7 @@
       "Name": "Nightmare of the Humanity - I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "achievements_66",
@@ -20402,7 +20407,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "achievements_67",
@@ -20434,7 +20439,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 15594
+      "UsersEstimate": 15595
     },
     {
       "ID": "achievements_70",
@@ -20466,7 +20471,7 @@
       "Name": "Live Operation",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "achievements_74",
@@ -20514,7 +20519,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 12311
+      "UsersEstimate": 12312
     },
     {
       "ID": "achievements_9",
@@ -20522,22 +20527,22 @@
       "Name": "Blood Mage",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6976
+      "UsersEstimate": 6977
     }
   ],
   "AchievementSets": [
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 41038,
+      "Progressed": 41039,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-30T15:58:47.7429993+00:00",
-  "LastChanged_Achievements": "2023-10-02T04:04:31.5603322+00:00",
+  "LastChanged_Achievements": "2023-10-02T05:04:11.1936495+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.3710119+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:00:29.0702178+00:00",
-  "LastUpdate_Achievements": "2023-10-02T04:04:31.5605377+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:59:45.6206459+00:00",
+  "LastUpdate_Achievements": "2023-10-02T05:04:11.1938729+00:00"
 }
