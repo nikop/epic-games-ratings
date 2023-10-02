@@ -1,12 +1,12 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.63% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.54% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.63% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.53% |
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 28.69% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -46,7 +46,7 @@
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.37% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
-| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.64% |
+| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.05% |
 | 48 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 49 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 49 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.25% |
@@ -65,11 +65,11 @@
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
-| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
+| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.01% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.68% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -81,9 +81,9 @@
 | 79 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
 | 80 | [Monster Harvest](games/m/monster_harvest.md) | 3.19% |
 | 81 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 81 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.12% |
 | 81 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
+| 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
+| 84 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.03% |
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
 | 87 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
