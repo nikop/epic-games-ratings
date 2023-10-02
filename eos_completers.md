@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.79% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.74% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -69,7 +69,7 @@
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.95% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -77,11 +77,11 @@
 | 75 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 76 | [Doodle God](games/d/doodle_god.md) | 3.33% |
 | 77 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.23% |
-| 77 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.23% |
-| 79 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
-| 80 | [Monster Harvest](games/m/monster_harvest.md) | 3.19% |
-| 81 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 81 | [Without Escape](games/w/without_escape.md) | 3.12% |
+| 78 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
+| 79 | [Monster Harvest](games/m/monster_harvest.md) | 3.19% |
+| 80 | [HordeCore](games/h/hordecore.md) | 3.12% |
+| 80 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.12% |
+| 80 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 83 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
