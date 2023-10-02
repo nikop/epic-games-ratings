@@ -22,12 +22,12 @@
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,699 | 4.57 | 455 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,811 | 4.89 | 12 |
 | 22 | [Warframe](games/w/warframe.md) | 17,426 | 4.60 | 398 |
-| 23 | [League of Legends](games/l/league_of_legends.md) | 16,392 | 4.21 | 873 |
+| 23 | [League of Legends](games/l/league_of_legends.md) | 16,416 | 4.21 | 873 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,470 | 4.76 | 118 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,509 | 4.58 | 436 |
 | 26 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,053 | 4.60 | 398 |
 | 27 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 13,963 | 4.74 | 149 |
-| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,792 | 4.60 | 398 |
+| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,796 | 4.60 | 398 |
 | 29 | [Maneater](games/m/maneater.md) | 13,705 | 4.49 | 590 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,089 | 4.43 | 675 |
 | 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,695 | 4.36 | 757 |
@@ -38,7 +38,7 @@
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,470 | 4.69 | 221 |
 | 37 | [SnowRunner](games/s/snowrunner.md) | 10,981 | 4.76 | 118 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,214 | 4.78 | 104 |
-| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,172 | 4.61 | 371 |
+| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,180 | 4.61 | 371 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,362 | 4.57 | 455 |
 | 41 | [Control](games/c/control.md) | 8,561 | 4.60 | 398 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,327 | 4.89 | 12 |
@@ -165,7 +165,7 @@
 | 163 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 771 | 4.79 | 93 |
 | 164 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 766 | 4.51 | 551 |
 | 165 | [Core](games/c/core.md) | 754 | 4.36 | 757 |
-| 166 | [Neverwinter](games/n/neverwinter.md) | 736 | 4.30 | 810 |
+| 166 | [Neverwinter](games/n/neverwinter.md) | 737 | 4.30 | 810 |
 | 167 | [MORDHAU](games/m/mordhau.md) | 734 | 4.39 | 728 |
 | 167 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 734 | 4.43 | 675 |
 | 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 733 | 4.75 | 140 |
@@ -231,7 +231,7 @@
 | 229 | [Dungeons 3](games/d/dungeons_3.md) | 355 | 4.66 | 283 |
 | 230 | [Brawlhalla](games/b/brawlhalla.md) | 349 | 4.59 | 417 |
 | 231 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 30 |
-| 232 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 337 | 4.59 | 417 |
+| 231 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 339 | 4.59 | 417 |
 | 233 | [The Messenger](games/t/the_messenger.md) | 334 | 4.81 | 79 |
 | 234 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 333 | 4.72 | 179 |
 | 234 | [Tannenberg](games/t/tannenberg.md) | 333 | 4.39 | 728 |
@@ -358,9 +358,9 @@
 | 355 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 93 | 4.83 | 57 |
 | 357 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 575 |
 | 358 | [Armored Warfare](games/a/armored_warfare.md) | 90 | 4.10 | 927 |
+| 358 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 90 | 4.54 | 511 |
 | 358 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 90 | 4.68 | 243 |
-| 360 | [RAILGRADE](games/r/railgrade.md) | 89 | 4.55 | 491 |
-| 361 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 87 | 4.54 | 511 |
+| 361 | [RAILGRADE](games/r/railgrade.md) | 89 | 4.55 | 491 |
 | 362 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 86 | 4.60 | 398 |
 | 363 | [Barony](games/b/barony.md) | 85 | 4.71 | 189 |
 | 364 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 84 | 4.62 | 355 |
