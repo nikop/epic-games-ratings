@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.87% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.83% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -34,7 +34,7 @@
 | 31 | [Smelter](games/s/smelter.md) | 10.00% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 9.84% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.17% |
+| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.21% |
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.95% |
@@ -66,7 +66,7 @@
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.06% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.98% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.96% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
@@ -204,10 +204,10 @@
 | 201 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 201 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 201 | [The Devil's Face](games/t/the_devil's_face.md) | 0.29% |
-| 205 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
-| 206 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.26% |
-| 206 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.26% |
-| 206 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.26% |
+| 205 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.28% |
+| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
+| 207 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.26% |
+| 207 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.26% |
 | 209 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 209 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 209 | [Filament](games/f/filament.md) | 0.25% |
@@ -645,4 +645,4 @@
 | 304 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 304 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 304 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,330 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,331 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
