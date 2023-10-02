@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.08% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.97% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -61,8 +61,8 @@
 | 58 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [ZZT!](games/z/zzt!.md) | 4.38% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.15% |
+| 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
@@ -97,8 +97,8 @@
 | 95 | [Lamentum](games/l/lamentum.md) | 2.47% |
 | 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
-| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
-| 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
+| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.34% |
+| 98 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 100 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
 | 100 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
@@ -184,11 +184,11 @@
 | 181 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 181 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 184 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
-| 186 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
-| 186 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
-| 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.36% |
-| 186 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 185 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
+| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.36% |
+| 185 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
+| 185 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.36% |
+| 185 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 190 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
 | 191 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 191 | [The Surge](games/t/the_surge.md) | 0.34% |
@@ -235,13 +235,13 @@
 | 231 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.13% |
 | 234 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 234 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 234 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.12% |
 | 234 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 234 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 234 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 240 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 240 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 240 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
+| 239 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.11% |
+| 239 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 239 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 239 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
 | 243 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 243 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 243 | [House Flipper](games/h/house_flipper.md) | 0.10% |
