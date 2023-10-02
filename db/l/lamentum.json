@@ -5,10 +5,10 @@
   "Ranking_Rating": 748,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.48,
+  "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -353,6 +353,11 @@
       "Time": "2023-10-01T23:05:57.5836761+00:00",
       "NumProgressed": 323,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-02T12:05:34.5398509+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -418,9 +423,9 @@
       "ID": "achievement_07",
       "SetID": "7881h0d",
       "Name": "True magic doesn\u0027t exist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_08",
@@ -444,7 +449,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_11",
@@ -452,7 +457,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_12",
@@ -500,7 +505,7 @@
       "Name": "Little Mary",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_18",
@@ -515,7 +520,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 8
     }
   ],
@@ -523,8 +528,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:05:50.665491+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:05:34.5398501+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:16.1445412+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:59:21.3143513+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:05:50.6655068+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:59:24.3833583+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:05:34.5398682+00:00"
 }

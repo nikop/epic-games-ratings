@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -334,17 +334,17 @@
       "ID": "_armor_v3",
       "SetID": "2d5739o",
       "Name": "Armor v3",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_battlecruiser",
       "SetID": "2d5739o",
       "Name": "Battlecruiser",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_beegun",
@@ -518,9 +518,9 @@
       "ID": "_minigun",
       "SetID": "2d5739o",
       "Name": "Minigun",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_missile",
@@ -566,9 +566,9 @@
       "ID": "_resistence",
       "SetID": "2d5739o",
       "Name": "Resistence",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "_riflegun",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:06:57.3405445+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:06:39.1754437+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:57:41.2181671+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:06:57.3405805+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:57:38.2248398+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:06:39.1754776+00:00"
 }

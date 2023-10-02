@@ -2,10 +2,10 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.25,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -400,6 +400,11 @@
       "Time": "2023-10-01T18:07:32.522308+00:00",
       "NumProgressed": 89,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-02T12:06:11.3485779+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -412,7 +417,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_10",
@@ -450,7 +455,7 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 56
     },
@@ -458,7 +463,7 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 55
     },
@@ -466,7 +471,7 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 47
     },
@@ -474,7 +479,7 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 53
     },
@@ -490,7 +495,7 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 39
     },
@@ -498,7 +503,7 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 58
     },
@@ -506,7 +511,7 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 53
     },
@@ -538,7 +543,7 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 31
     },
@@ -546,7 +551,7 @@
       "ID": "achievement_25",
       "SetID": "2cpn27e",
       "Name": "Volatile Vocation",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -610,7 +615,7 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -618,7 +623,7 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -650,7 +655,7 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 15,
       "UsersEstimate": 73
     },
@@ -722,7 +727,7 @@
       "ID": "achievement_45",
       "SetID": "2cpn27e",
       "Name": "Helpful Heart",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -738,7 +743,7 @@
       "ID": "achievement_47",
       "SetID": "2cpn27e",
       "Name": "Threaded Harmony",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -754,7 +759,7 @@
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 29
     },
@@ -762,7 +767,7 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
       "UsersEstimate": 65
     },
@@ -770,7 +775,7 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 69
     },
@@ -778,7 +783,7 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
       "UsersEstimate": 48
     },
@@ -786,7 +791,7 @@
       "ID": "achievement_9",
       "SetID": "2cpn27e",
       "Name": "Karakuri Minato",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 21
     }
@@ -795,13 +800,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:06:28.5253003+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:06:11.3485773+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:58:53.0309128+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:06:28.5253463+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:58:54.1020882+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:06:11.3486246+00:00"
 }

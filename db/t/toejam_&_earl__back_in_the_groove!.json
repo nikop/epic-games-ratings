@@ -2,13 +2,13 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 783,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -10618,8 +10618,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:05:08.5651992+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:04:54.0814705+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:19.6276448+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:58:40.2900309+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:05:08.5652968+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:58:39.6899041+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:04:54.0815739+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1508,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5786,8 +5786,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:05:02.9099411+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:04:48.7181419+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:58:00.3827683+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:05:02.9100003+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:57:57.2115135+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:04:48.7182052+00:00"
 }

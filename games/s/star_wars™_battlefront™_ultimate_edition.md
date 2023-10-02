@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~343 |
-| Off to a good start | 67.00% | ~255 |
+| New Recruit | 90.00% | ~344 |
+| Off to a good start | 67.00% | ~256 |
 | Do... or do not. There is no try | 53.00% | ~202 |
 | A good blaster at your side | 33.00% | ~126 |
 | Scrap collector | 21.00% | ~80 |
 | Great shot, kid! | 20.00% | ~76 |
-| All right, I'll give it a try | 19.00% | ~72 |
+| All right, I'll give it a try | 19.00% | ~73 |
 | Together we can rule the galaxy | 18.00% | ~69 |
 | I suggest a new strategy | 18.00% | ~69 |
 | The power of the Force | 17.00% | ~65 |
@@ -26,17 +26,17 @@
 | Judge me by my size, do you? | 10.00% | ~38 |
 | "Gonk? Gonk!" | 9.00% | ~34 |
 | A tremor in the Force | 9.00% | ~34 |
-| Distinguished | 8.00% | ~30 |
-| Support the troops | 8.00% | ~30 |
+| Distinguished | 8.00% | ~31 |
+| Support the troops | 8.00% | ~31 |
 | Patience you must have | 7.00% | ~27 |
 | When 900 years old you reach... | 6.00% | ~23 |
-| Determined | 6.00% | ~23 |
 | On the ball | 6.00% | ~23 |
 | Not bad for a little furball | 6.00% | ~23 |
-| That's no moon | 6.00% | ~23 |
 | Don't underestimate the Force | 6.00% | ~23 |
 | I've been waiting for you | 5.00% | ~19 |
+| Determined | 5.00% | ~19 |
 | Your journey has only started | 5.00% | ~19 |
+| That's no moon | 5.00% | ~19 |
 | The Force is strong with this one | 4.00% | ~15 |
 | Precision shot | 4.00% | ~15 |
 | Safety ain't the point of a joyride | 4.00% | ~15 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~1 |
 | Crush them with one swift stroke… | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381 (Ranked 291)  
+Progressed: 382 (Ranked 291)  
 Completed: 1 (0.26%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.26%) (Ranked 207)
 | 2023-09-29 | 314 | 1 |
 | 2023-09-30 | 345 | 1 |
 | 2023-10-01 | 379 | 1 |
-| 2023-10-02 | 381 | 1 |
+| 2023-10-02 | 382 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

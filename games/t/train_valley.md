@@ -31,7 +31,7 @@ Number of Ratings: 28  (23.09.2022)
 | Engineer | 11.00% | ~55 |
 | Achtung! | 11.00% | ~55 |
 | Woodcutter | 10.00% | ~50 |
-| Tycoon | 8.00% | ~40 |
+| Tycoon | 9.00% | ~45 |
 | Germany | 6.00% | ~30 |
 | Chuck Norris | 5.00% | ~25 |
 | Сhancellor | 4.00% | ~20 |

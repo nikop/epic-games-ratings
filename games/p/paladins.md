@@ -1,15 +1,15 @@
 # Paladins
 [Store](https://store.epicgames.com/en-US/p/paladins)  
 [View Rawdata](../../db/p/paladins.json)  
-Rating: 4.33 (Ranked 783)  
+Rating: 4.33 (Ranked 782)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 3,691  (Ranked 86)  
-Sum: 24,486 (Ranked 53)  
+Max (Diverse Characters): 3,694  (Ranked 86)  
+Sum: 24,489 (Ranked 53)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 3,691 |
+| This game has Diverse Characters | 3,694 |
 | This game is Great for Quick Sessions | 3,226 |
 | This game has Competitive Players | 3,196 |
 | This game is Extremely Fun | 3,154 |
@@ -272,4 +272,4 @@ Diff (max vs sum): 33
 | 2023-09-29 | 4.33 | - | 3,685 | 24,455 |
 | 2023-09-30 | 4.33 | - | 3,691 | 24,471 |
 | 2023-10-01 | 4.33 | - | 3,691 | 24,480 |
-| 2023-10-02 | 4.33 | - | 3,691 | 24,486 |
+| 2023-10-02 | 4.33 | - | 3,694 | 24,489 |

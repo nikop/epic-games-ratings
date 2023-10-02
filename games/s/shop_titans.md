@@ -77,6 +77,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.50% | ~685 |
 | Cranked up to 11 | 0.50% | ~685 |
 | Fit for a King | 0.50% | ~685 |
+| By Your Powers Combined... | 0.50% | ~685 |
 | Mammonite | 0.50% | ~685 |
 | Wealth Beyond Measure | 0.50% | ~685 |
 | Fat Cat Tag Team | 0.50% | ~685 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.40% | ~548 |
 | Fillin' the Bin | 0.40% | ~548 |
 | Industrial Evolution | 0.40% | ~548 |
-| By Your Powers Combined... | 0.40% | ~548 |
 | A Legend is Born | 0.40% | ~548 |
 | Jackpot! | 0.40% | ~548 |
 | Master Recycler | 0.40% | ~548 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,988 (Ranked 70)  
+Progressed: 136,990 (Ranked 70)  
 Completed: 160 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 160 (0.12%) (Ranked 234)
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
 | 2023-10-01 | 136,972 | 160 |
-| 2023-10-02 | 136,988 | 160 |
+| 2023-10-02 | 136,990 | 160 |
 ## Awards
 Max (Great for Beginners): 4,763  (Ranked 71)  
 Sum: 27,316 (Ranked 49)  

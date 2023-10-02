@@ -2,10 +2,10 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -547,9 +547,9 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -986,8 +986,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:08:22.7082875+00:00",
-  "LastUpdate_AppInfo": "2023-09-25T10:57:14.4018001+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:58:49.7746793+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:08:22.7083921+00:00"
+  "LastChanged_Achievements": "2023-10-02T12:08:22.4466122+00:00",
+  "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
+  "LastUpdate_Ratings": "2023-10-02T11:58:50.109524+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:08:22.4467312+00:00"
 }

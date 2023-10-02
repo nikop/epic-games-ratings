@@ -41,7 +41,7 @@ Rating: 4.83 (Ranked 56)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,828 (Ranked 163)  
+Progressed: 5,828 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -7941,9 +7941,9 @@
       "Count": 944
     }
   ],
-  "EOS_Progressed": 119346,
+  "EOS_Progressed": 119347,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24801,6 +24801,11 @@
       "Time": "2023-10-02T11:04:26.2555485+00:00",
       "NumProgressed": 119346,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T12:04:13.7608583+00:00",
+      "NumProgressed": 119347,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -24820,7 +24825,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 63253
+      "UsersEstimate": 63254
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -24852,7 +24857,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81155
+      "UsersEstimate": 81156
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -24868,7 +24873,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 78768
+      "UsersEstimate": 78769
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -24892,7 +24897,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81155
+      "UsersEstimate": 81156
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -24908,7 +24913,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 45351
+      "UsersEstimate": 45352
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -24916,7 +24921,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 59673
+      "UsersEstimate": 59674
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -24932,7 +24937,7 @@
       "Name": "Predator",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 29836
+      "UsersEstimate": 29837
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -24940,7 +24945,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19095
+      "UsersEstimate": 19096
     },
     {
       "ID": "combat_kill_cadavers",
@@ -24956,7 +24961,7 @@
       "Name": "Banishment",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 36997
+      "UsersEstimate": 36998
     },
     {
       "ID": "combat_kill_death",
@@ -24972,7 +24977,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 39384
+      "UsersEstimate": 39385
     },
     {
       "ID": "combat_kill_fanatics",
@@ -25028,7 +25033,7 @@
       "Name": "Catch and Decease",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 16708
+      "UsersEstimate": 16709
     },
     {
       "ID": "combat_kill_librarian",
@@ -25044,7 +25049,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 29836
+      "UsersEstimate": 29837
     },
     {
       "ID": "combat_kill_shambler",
@@ -25188,7 +25193,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36997
+      "UsersEstimate": 36998
     },
     {
       "ID": "hospital_full_service",
@@ -25204,7 +25209,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 110992
+      "UsersEstimate": 110993
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -25220,7 +25225,7 @@
       "Name": "FNG",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 34610
+      "UsersEstimate": 34611
     },
     {
       "ID": "inn_visit_all_variants",
@@ -25260,7 +25265,7 @@
       "Name": "Nope",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 57286
+      "UsersEstimate": 57287
     },
     {
       "ID": "run_victory_act01",
@@ -25292,7 +25297,7 @@
       "Name": "Handled",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 19095
+      "UsersEstimate": 19096
     },
     {
       "ID": "run_victory_act05",
@@ -25331,15 +25336,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 119346,
+      "Progressed": 119347,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-01T22:02:13.5895127+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:04:26.2555478+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:04:13.7608576+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.6803576+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:03:20.4984074+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:04:26.2557073+00:00"
+  "LastUpdate_Ratings": "2023-10-02T12:03:07.4006852+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:04:13.7610228+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -758,9 +758,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_eou8",
@@ -813,8 +813,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:05:54.7033926+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:05:38.4936458+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:57:49.1790945+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:05:54.7034088+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:57:45.924721+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:05:38.4936628+00:00"
 }

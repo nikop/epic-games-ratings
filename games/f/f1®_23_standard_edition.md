@@ -5,17 +5,17 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,680 |
-| On the Top Step | 87.00% | ~2,480 |
-| Setting up for Success | 76.00% | ~2,167 |
+| Getting on the Step | 94.00% | ~2,681 |
+| On the Top Step | 87.00% | ~2,481 |
+| Setting up for Success | 76.00% | ~2,168 |
 | Team Orders | 74.00% | ~2,110 |
 | Engineer | 54.00% | ~1,540 |
 | Familiar Faces | 47.00% | ~1,340 |
-| Going the Extra Mile | 42.00% | ~1,197 |
+| Going the Extra Mile | 42.00% | ~1,198 |
 | Sharing the Love | 39.00% | ~1,112 |
 | Hitting a Season | 33.00% | ~941 |
-| Challenge Yourself | 32.00% | ~912 |
-| Making History | 30.00% | ~855 |
+| Challenge Yourself | 32.00% | ~913 |
+| Making History | 30.00% | ~856 |
 | A Dozen Pieces | 29.00% | ~827 |
 | Network Success | 24.00% | ~684 |
 | Spring Cleaning | 23.00% | ~656 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 282)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,851 (Ranked 190)  
+Progressed: 2,852 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 2,695 | 0 |
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
-| 2023-10-02 | 2,851 | 0 |
+| 2023-10-02 | 2,852 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

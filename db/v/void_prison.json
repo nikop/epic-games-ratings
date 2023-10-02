@@ -4,8 +4,8 @@
   "ProductSlug": "void-prison-de816b",
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-31T09:00:00+00:00",
     "PcReleaseDate": "2022-05-18T21:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T11:57:20.3854688+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:59:21.5722851+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:06:07.8018816+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:59:23.7888144+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:05:51.1869585+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66762,
+  "EOS_Progressed": 66763,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16619,6 +16619,11 @@
       "Time": "2023-10-02T11:04:27.2893288+00:00",
       "NumProgressed": 66762,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-02T12:04:14.8220202+00:00",
+      "NumProgressed": 66763,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -16734,7 +16739,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "15",
@@ -16814,7 +16819,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "25",
@@ -16830,7 +16835,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "27",
@@ -16862,7 +16867,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "31",
@@ -16878,7 +16883,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22031
+      "UsersEstimate": 22032
     },
     {
       "ID": "33",
@@ -17165,21 +17170,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66762,
+      "Progressed": 66763,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30230,
+      "Progressed": 30231,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:04:27.2893285+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:04:14.8220197+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:59:20.6256735+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:04:27.2894908+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:59:22.6353319+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:04:14.8221708+00:00"
 }

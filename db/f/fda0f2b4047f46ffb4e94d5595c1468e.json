@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -562,10 +562,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1698,
       "NumberOfAwardsMax": 775
+    },
+    {
+      "Time": "2023-10-02T11:58:43.2139592+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1707,
+      "NumberOfAwardsMax": 775
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1698,
+  "NumberOfAwards": 1707,
   "NumberOfAwardsMax": 775,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -585,7 +591,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 95
+      "Count": 104
     },
     {
       "Text": "This game has Diverse Characters",
@@ -642,9 +648,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 6608,
+  "EOS_Progressed": 6609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2322,6 +2328,11 @@
       "Time": "2023-10-02T11:08:11.6809072+00:00",
       "NumProgressed": 6608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T12:08:12.0500956+00:00",
+      "NumProgressed": 6609,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -2350,7 +2361,7 @@
       "Name": "A New Timeline",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ach04",
@@ -2358,7 +2369,7 @@
       "Name": "What Just Happened??",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ach05",
@@ -2414,7 +2425,7 @@
       "Name": "Karnage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach12",
@@ -2518,7 +2529,7 @@
       "Name": "Ultimate Power",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "ach25",
@@ -2542,7 +2553,7 @@
       "Name": "So Krafty",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ach28",
@@ -2550,7 +2561,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ach29",
@@ -2598,7 +2609,7 @@
       "Name": "Always Accessorize",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ach35",
@@ -2622,7 +2633,7 @@
       "Name": "ABACABB",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "ach38",
@@ -2630,7 +2641,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ach39",
@@ -2670,7 +2681,7 @@
       "Name": "Working Overtime",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ach44",
@@ -2733,16 +2744,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 6608,
+      "Progressed": 6609,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-02T09:58:42.5660974+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:08:11.6809065+00:00",
+  "LastChanged": "2023-10-02T11:58:43.2139591+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:08:12.050095+00:00",
   "LastUpdate_AppInfo": "2023-09-30T06:57:05.2943961+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:58:43.3969844+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:08:11.6809601+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:58:43.21396+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:08:12.0501451+00:00"
 }

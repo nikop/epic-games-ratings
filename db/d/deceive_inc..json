@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18247,
+  "EOS_Progressed": 18248,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
@@ -11061,6 +11061,11 @@
       "Time": "2023-10-02T10:09:08.7570574+00:00",
       "NumProgressed": 18247,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-02T12:08:25.2819144+00:00",
+      "NumProgressed": 18248,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11128,7 +11133,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3285
     },
     {
       "ID": "0009",
@@ -11136,7 +11141,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "0010",
@@ -11200,7 +11205,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3285
     },
     {
       "ID": "0018",
@@ -11256,7 +11261,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "0025",
@@ -11304,7 +11309,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3285
     },
     {
       "ID": "0031",
@@ -11359,7 +11364,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18247,
+      "Progressed": 18248,
       "Completed": 4
     }
   ],
@@ -11367,8 +11372,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:09:06.0354304+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:08:25.2819139+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:57:26.0144541+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:09:06.0355213+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:57:23.6367544+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:08:25.2819999+00:00"
 }

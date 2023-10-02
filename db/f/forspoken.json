@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -388,9 +388,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41293,
+  "EOS_Progressed": 41303,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1249,
+  "EOS_NewPlayers": 1258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9473,6 +9473,11 @@
       "Time": "2023-10-02T11:05:32.3328813+00:00",
       "NumProgressed": 41293,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T12:05:16.8441416+00:00",
+      "NumProgressed": 41303,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9524,7 +9529,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -9532,7 +9537,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4129
+      "UsersEstimate": 4130
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9820,7 +9825,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "SPRING_ALL",
@@ -9907,22 +9912,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41293,
+      "Progressed": 41303,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6130,
-      "Completed": 6130
+      "Progressed": 6140,
+      "Completed": 6140
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-01T16:59:52.0327878+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:05:32.3328807+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:05:16.844141+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:59:49.9326997+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:05:32.3329786+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:59:49.8659745+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:05:16.844245+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 97.00% | ~33 |
-| Meissa's Savior | 97.00% | ~33 |
-| Purification Pioneer | 97.00% | ~33 |
-| Dicesmithing Time! | 91.00% | ~31 |
-| Wild's Keeper | 82.00% | ~28 |
-| Endless Tricks | 76.00% | ~26 |
-| Sanctuary Guardian | 76.00% | ~26 |
-| Mind Illuminator | 62.00% | ~21 |
-| Stellar Dismantler | 53.00% | ~18 |
-| Astral Adventurer | 38.00% | ~13 |
-| Star Killer | 38.00% | ~13 |
-| Anomaly Destroyer | 32.00% | ~11 |
-| Unbeatable | 32.00% | ~11 |
+| Mechanical Buddy | 97.00% | ~34 |
+| Meissa's Savior | 97.00% | ~34 |
+| Purification Pioneer | 97.00% | ~34 |
+| Dicesmithing Time! | 89.00% | ~31 |
+| Wild's Keeper | 83.00% | ~29 |
+| Endless Tricks | 74.00% | ~26 |
+| Sanctuary Guardian | 74.00% | ~26 |
+| Mind Illuminator | 60.00% | ~21 |
+| Stellar Dismantler | 51.00% | ~18 |
+| Astral Adventurer | 37.00% | ~13 |
+| Star Killer | 37.00% | ~13 |
+| Anomaly Destroyer | 31.00% | ~11 |
+| Unbeatable | 31.00% | ~11 |
 | Loyal Partner | 26.00% | ~9 |
 | Sadistic Plan | 26.00% | ~9 |
-| Stellar Haste | 21.00% | ~7 |
-| The Corruption Goddess | 21.00% | ~7 |
-| Sentinelphobic | 18.00% | ~6 |
-| Shard Spender | 18.00% | ~6 |
-| Skeptical | 15.00% | ~5 |
-| Dice Specialist | 12.00% | ~4 |
-| Wave Bender | 12.00% | ~4 |
+| Stellar Haste | 20.00% | ~7 |
+| The Corruption Goddess | 20.00% | ~7 |
+| Sentinelphobic | 17.00% | ~6 |
+| Shard Spender | 17.00% | ~6 |
+| Skeptical | 14.00% | ~5 |
+| Dice Specialist | 11.00% | ~4 |
+| Wave Bender | 11.00% | ~4 |
 | Denying Destiny | 9.00% | ~3 |
 | Heart Gate | 9.00% | ~3 |
 | Astral Seeker | 6.00% | ~2 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 457)  
+Progressed: 35 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,3 +97,4 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 26 | 0 |
 | 2023-09-30 | 29 | 0 |
 | 2023-10-01 | 34 | 0 |
+| 2023-10-02 | 35 | 0 |

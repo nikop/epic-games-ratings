@@ -49,10 +49,10 @@
 | The Assassin | 30.00% | ~158 |
 | The Justicar | 30.00% | ~158 |
 | The Quarian | 30.00% | ~158 |
+| Battlemaster | 30.00% | ~158 |
+| The Cure | 30.00% | ~158 |
 | The Prodigal | 30.00% | ~158 |
 | A Personal Touch | 29.00% | ~153 |
-| Battlemaster | 29.00% | ~153 |
-| The Cure | 29.00% | ~153 |
 | Big Game Hunter | 29.00% | ~153 |
 | Revenge! | 29.00% | ~153 |
 | Heart of Darkness | 29.00% | ~153 |
@@ -77,10 +77,10 @@
 | Mission Accomplished | 23.00% | ~121 |
 | Suicide Mission | 23.00% | ~121 |
 | Against All Odds | 23.00% | ~121 |
+| Weapon Specialist | 23.00% | ~121 |
 | World Shaker | 23.00% | ~121 |
 | Liberator | 23.00% | ~121 |
 | A House Divided | 22.00% | ~116 |
-| Weapon Specialist | 22.00% | ~116 |
 | Pathfinder | 21.00% | ~111 |
 | Savior | 20.00% | ~106 |
 | Paramour II | 20.00% | ~106 |

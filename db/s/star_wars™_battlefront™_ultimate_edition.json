@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
@@ -911,6 +911,11 @@
       "Time": "2023-10-02T01:46:28.3814544+00:00",
       "NumProgressed": 381,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T12:04:03.4332129+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1035,15 +1040,15 @@
       "Name": "Distinguished",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_23",
       "SetID": "271ol84",
       "Name": "Determined",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_24",
@@ -1123,7 +1128,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_33",
@@ -1147,7 +1152,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_36",
@@ -1163,7 +1168,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_38",
@@ -1313,9 +1318,9 @@
       "ID": "achievement_54",
       "SetID": "cemm4l8",
       "Name": "That\u0027s no moon",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_55",
@@ -1331,7 +1336,7 @@
       "Name": "Support the troops",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_57",
@@ -1426,13 +1431,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 1
     }
   ],
@@ -1440,8 +1445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-02T11:04:15.6725032+00:00",
+  "LastChanged_Achievements": "2023-10-02T12:04:03.4332123+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:59:41.0826901+00:00",
-  "LastUpdate_Achievements": "2023-10-02T11:04:15.6725743+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:59:41.6649898+00:00",
+  "LastUpdate_Achievements": "2023-10-02T12:04:03.4332895+00:00"
 }
