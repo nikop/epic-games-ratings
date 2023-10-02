@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 207,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 4.37,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -379,6 +379,11 @@
       "Time": "2023-10-02T04:07:48.1032094+00:00",
       "NumProgressed": 206,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-02T10:06:52.0727565+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -399,15 +404,15 @@
       "Name": "Brain-teaser",
       "Percentage": 52,
       "XP": 85,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 45,
-      "UsersEstimate": 161
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -429,9 +434,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -447,7 +452,7 @@
       "Name": "Food lover",
       "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -463,20 +468,20 @@
       "Name": "Exit",
       "Percentage": 57,
       "XP": 65,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-02T09:06:37.6557895+00:00",
+  "LastChanged_Achievements": "2023-10-02T10:06:52.072756+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:58:02.8206075+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:06:37.6557996+00:00"
+  "LastUpdate_Ratings": "2023-10-02T09:58:11.6608442+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:06:52.0727655+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,392 |
-| Landlord | 33.00% | ~20,639 |
+| Lawbringer | 39.00% | ~24,393 |
+| Landlord | 33.00% | ~20,640 |
 | Bannerlord | 23.00% | ~14,385 |
 | Horde breaker | 23.00% | ~14,385 |
 | Lawmaker | 23.00% | ~14,385 |
 | Trained | 23.00% | ~14,385 |
 | The king is pleased | 18.00% | ~11,258 |
-| King Solomon | 17.00% | ~10,632 |
+| King Solomon | 17.00% | ~10,633 |
 | I can do it | 16.00% | ~10,007 |
-| Apple of my eye | 15.00% | ~9,381 |
+| Apple of my eye | 15.00% | ~9,382 |
 | God of the Arena | 13.00% | ~8,131 |
 | Against all odds | 12.00% | ~7,505 |
 | This Is Our Land | 12.00% | ~7,505 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,254 |
 | What have the Romans ever done for us? | 10.00% | ~6,254 |
 | I spit on your grave | 9.00% | ~5,629 |
-| Butterlord | 8.00% | ~5,003 |
+| Butterlord | 8.00% | ~5,004 |
 | Know your enemy | 7.00% | ~4,378 |
 | Mastery | 7.00% | ~4,378 |
 | Crush your enemies | 5.00% | ~3,127 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,543 (Ranked 94)  
+Progressed: 62,545 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,14 +223,14 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 62,367 | 0 |
 | 2023-09-30 | 62,446 | 0 |
 | 2023-10-01 | 62,521 | 0 |
-| 2023-10-02 | 62,543 | 0 |
+| 2023-10-02 | 62,545 | 0 |
 ## Awards
-Max (Character Customization): 7,168  (Ranked 52)  
-Sum: 14,682 (Ranked 66)  
+Max (Character Customization): 7,170  (Ranked 52)  
+Sum: 14,684 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,168 |
+| This game has Inclusive Character Customization | 7,170 |
 | This game is Great for Beginners | 987 |
 | This game has Diverse Characters | 938 |
 | This game is Highly Recommended | 883 |
@@ -505,4 +505,4 @@ Diff (max vs sum): -14
 | 2023-09-29 | 4.74 | - | 7,155 | 14,646 |
 | 2023-09-30 | 4.74 | - | 7,159 | 14,658 |
 | 2023-10-01 | 4.74 | - | 7,168 | 14,678 |
-| 2023-10-02 | 4.74 | - | 7,168 | 14,682 |
+| 2023-10-02 | 4.74 | - | 7,170 | 14,684 |

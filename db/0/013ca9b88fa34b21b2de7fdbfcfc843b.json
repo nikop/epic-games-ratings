@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5825,
+  "EOS_Progressed": 5826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 868,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3007,6 +3007,11 @@
       "Time": "2023-10-02T08:08:30.5803639+00:00",
       "NumProgressed": 5825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T10:06:54.1664623+00:00",
+      "NumProgressed": 5826,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3019,7 +3024,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4252
+      "UsersEstimate": 4253
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3027,7 +3032,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4078
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3115,7 +3120,7 @@
       "Name": "Miner 49er",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3179,7 +3184,7 @@
       "Name": "Mist Walker",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -3267,7 +3272,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -3283,7 +3288,7 @@
       "Name": "House Proud",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -3298,7 +3303,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5825,
+      "Progressed": 5826,
       "Completed": 0
     }
   ],
@@ -3306,8 +3311,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-01T19:03:20.1766393+00:00",
-  "LastChanged_Achievements": "2023-10-02T09:06:39.6274068+00:00",
+  "LastChanged_Achievements": "2023-10-02T10:06:54.1664619+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:02:42.6309508+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:06:39.6274509+00:00"
+  "LastUpdate_Ratings": "2023-10-02T09:57:09.2103059+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:06:54.1664962+00:00"
 }

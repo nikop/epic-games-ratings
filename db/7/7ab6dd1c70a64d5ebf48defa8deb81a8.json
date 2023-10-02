@@ -204,9 +204,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_09",
@@ -260,9 +260,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": -6.5,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_16",
@@ -388,17 +388,17 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_34",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-02T09:06:25.0812882+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:00:51.0389765+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:06:25.0813131+00:00"
+  "LastChanged_Achievements": "2023-10-02T10:06:39.1572565+00:00",
+  "LastUpdate_Ratings": "2023-10-02T10:03:10.7795937+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:06:39.1572781+00:00"
 }

@@ -5,26 +5,28 @@
 | ---- | ---------- | ----- |
 | Powerful Allies | 19.00% | ~6 |
 | Find Allies | 13.00% | ~4 |
+| A Taste of Wrath | 13.00% | ~4 |
 | Trinity | 13.00% | ~4 |
 | Adventurer | 13.00% | ~4 |
 | Essence Blow | 13.00% | ~4 |
 | Shatter Them All | 13.00% | ~4 |
 | Scholar | 13.00% | ~4 |
 | The Collector | 13.00% | ~4 |
-| A Taste of Wrath | 10.00% | ~3 |
 | Geared Up | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
 | Calm before the Storm | 6.00% | ~2 |
 | To Battle | 6.00% | ~2 |
 | Godslayer | 6.00% | ~2 |
 | Fashion Victim | 6.00% | ~2 |
+| Miner | 6.00% | ~2 |
 | I Found It | 3.00% | ~1 |
 | Alchemist | 3.00% | ~1 |
-| Miner | 3.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
+| Tributes of Caladrias | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
+| Stone Collection | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 | Clear Sight | -3.20% | ~-1 |
 | Forgemaster | -3.20% | ~-1 |
@@ -34,10 +36,8 @@
 | Big Bazar | -3.20% | ~-1 |
 | All There Is | -3.20% | ~-1 |
 | All That Gold | -3.20% | ~-1 |
-| Stone Collection | -3.20% | ~-1 |
 | Feeling Fancy | -3.20% | ~-1 |
 | Summiter | -3.20% | ~-1 |
-| Tributes of Caladrias | -6.50% | ~-2 |
 | Flawless Victory | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 463)  

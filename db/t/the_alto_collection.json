@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 41256,
+  "EOS_Progressed": 41258,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19224,6 +19224,11 @@
       "Time": "2023-10-02T09:03:36.5478414+00:00",
       "NumProgressed": 41256,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-02T10:03:47.6307723+00:00",
+      "NumProgressed": 41258,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -19275,7 +19280,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11139
+      "UsersEstimate": 11140
     },
     {
       "ID": "goals180",
@@ -19387,7 +19392,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "playerPaz",
@@ -19499,7 +19504,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6188
+      "UsersEstimate": 6189
     },
     {
       "ID": "unlockpaz",
@@ -19507,7 +19512,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "vandal",
@@ -19531,7 +19536,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "windswept",
@@ -19546,15 +19551,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 41256,
+      "Progressed": 41258,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-10-02T09:03:36.5478409+00:00",
+  "LastChanged_Achievements": "2023-10-02T10:03:47.630772+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:40.5769869+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:00:09.8436117+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:03:36.5479769+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:00:23.9660136+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:03:47.6308812+00:00"
 }

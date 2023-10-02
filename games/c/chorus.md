@@ -6,7 +6,7 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,035 |
+| Another Life | 85.00% | ~1,047 |
 | Voices from the Past | 78.00% | ~961 |
 | Space Traveler | 78.00% | ~961 |
 | Demigod | 75.00% | ~924 |
@@ -22,7 +22,7 @@ Number of Ratings: 58  (23.09.2022)
 | Huntress | 52.00% | ~641 |
 | Born to Drift | 51.00% | ~628 |
 | Relentless | 48.00% | ~591 |
-| The Path Forward | 44.00% | ~542 |
+| The Path Forward | 45.00% | ~554 |
 | Disruption | 43.00% | ~530 |
 | Phoenix | 43.00% | ~530 |
 | Cult Slayer | 40.00% | ~493 |

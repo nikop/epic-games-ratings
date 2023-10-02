@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,004 |
-| Alt+F4 | 6.00% | ~13,688 |
+| Sowwy! | 32.00% | ~73,007 |
+| Alt+F4 | 6.00% | ~13,689 |
 | Where's that freaking Dwarf? | 5.00% | ~11,407 |
 | Déjà vu | 4.00% | ~9,126 |
 | A beer, two curses, three companions | 3.00% | ~6,844 |
@@ -23,11 +23,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Great Library | 2.00% | ~4,563 |
 | Torture and Sensibility | 2.00% | ~4,563 |
 | Urik's Depths | 2.00% | ~4,563 |
+| The Dungeon Master | 2.00% | ~4,563 |
 | The Woman in the High Castle | 2.00% | ~4,563 |
 | Team Building Exercise | 2.00% | ~4,563 |
 | Oh, when I'll be level 10... | 2.00% | ~4,563 |
 | Shiny and Crôm | 1.00% | ~2,281 |
-| The Dungeon Master | 1.00% | ~2,281 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,281 |
 | Res Judicata | 1.00% | ~2,281 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,281 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,139 (Ranked 58)  
+Progressed: 228,147 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 5 (0.00%) (Ranked 304)
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
-| 2023-10-02 | 228,139 | 5 |
+| 2023-10-02 | 228,147 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 398 (Ranked 325)  

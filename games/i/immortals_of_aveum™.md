@@ -1,11 +1,11 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.00 (Ranked 959)  
+Rating: 4.00 (Ranked 960)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 85.00% | ~45 |
+| Unforeseen | 87.00% | ~46 |
 | Battlefields Have Memories | 85.00% | ~45 |
 | Enlisted | 85.00% | ~45 |
 | Maybe Engage a Little | 81.00% | ~43 |

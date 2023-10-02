@@ -30,9 +30,9 @@
 | Scientist | 44.00% | ~232 |
 | Merciless | 43.00% | ~227 |
 | Head Hunter | 41.00% | ~216 |
+| Operative | 40.00% | ~211 |
 | Veteran | 39.00% | ~206 |
 | Very Elusive | 39.00% | ~206 |
-| Operative | 39.00% | ~206 |
 | Scholar | 39.00% | ~206 |
 | Missing in Action | 38.00% | ~201 |
 | Power Full | 38.00% | ~201 |
@@ -71,7 +71,7 @@
 | First Aid Specialist | 26.00% | ~137 |
 | Friend or Foe | 25.00% | ~132 |
 | Mobilizer | 25.00% | ~132 |
-| Untouchable | 23.00% | ~121 |
+| Untouchable | 24.00% | ~127 |
 | Eye of the Hurricane | 23.00% | ~121 |
 | Giant Killer | 23.00% | ~121 |
 | Mission Accomplished | 23.00% | ~121 |

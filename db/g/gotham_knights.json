@@ -3326,9 +3326,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73039,
+  "EOS_Progressed": 73040,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17351,6 +17351,11 @@
       "Time": "2023-10-02T09:04:13.5488697+00:00",
       "NumProgressed": 73039,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-02T10:04:25.6689472+00:00",
+      "NumProgressed": 73040,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -17482,7 +17487,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -17586,7 +17591,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21181
+      "UsersEstimate": 21182
     },
     {
       "ID": "FREEZE_1_5",
@@ -17602,7 +17607,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13877
+      "UsersEstimate": 13878
     },
     {
       "ID": "FREEZE_3",
@@ -17610,7 +17615,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -17706,7 +17711,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37980
+      "UsersEstimate": 37981
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17754,7 +17759,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24833
+      "UsersEstimate": 24834
     },
     {
       "ID": "MYSTERY_02",
@@ -17802,7 +17807,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "MYSTERY_08",
@@ -17849,13 +17854,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73039,
+      "Progressed": 73040,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43319,
+      "Progressed": 43320,
       "Completed": 2668
     }
   ],
@@ -17863,8 +17868,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-02T04:01:04.1815646+00:00",
-  "LastChanged_Achievements": "2023-10-02T09:04:13.5488692+00:00",
+  "LastChanged_Achievements": "2023-10-02T10:04:25.6689468+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:00:14.0046964+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:04:13.5490113+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:00:28.4888875+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:04:25.6690569+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1c83ea77e736438f9852b31aeb4f7a20",
   "Name": "Beacon Pines",
   "ProductSlug": "beacon-pines-629fc3",
-  "Ranking_EOS_Progress": 647,
+  "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 118,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.4407285+00:00",
   "LastChanged": "2023-03-31T05:58:13.4407287+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:17.167335+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:59:51.9183476+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:06:22.8739047+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:00:04.543597+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:06:36.8659154+00:00"
 }

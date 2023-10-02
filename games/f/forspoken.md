@@ -5,29 +5,29 @@ Rating: 4.17 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,127 |
-| Unlocked Potential | 9.00% | ~3,715 |
-| Tinkerer | 7.00% | ~2,889 |
-| Knock 'Em Dead | 7.00% | ~2,889 |
-| Leapfrogger | 6.00% | ~2,476 |
-| Pilgrimage: Initiate | 6.00% | ~2,476 |
-| Hell of a Run | 6.00% | ~2,476 |
-| Call of the Fount: Baptized | 6.00% | ~2,476 |
+| Attachments | 10.00% | ~4,128 |
+| Unlocked Potential | 9.00% | ~3,716 |
+| Tinkerer | 7.00% | ~2,890 |
+| Knock 'Em Dead | 7.00% | ~2,890 |
+| Leapfrogger | 6.00% | ~2,477 |
+| Pilgrimage: Initiate | 6.00% | ~2,477 |
+| Hell of a Run | 6.00% | ~2,477 |
+| Call of the Fount: Baptized | 6.00% | ~2,477 |
 | No Mercy | 5.00% | ~2,064 |
 | Explorer: Seeker | 5.00% | ~2,064 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,651 |
 | Stuck | 4.00% | ~1,651 |
 | Help Me Out Here | 4.00% | ~1,651 |
-| Outdoorsperson | 3.00% | ~1,238 |
-| The Interloper | 3.00% | ~1,238 |
-| Hop, Step, Jump | 3.00% | ~1,238 |
-| Endless Runner | 3.00% | ~1,238 |
-| What Must Be Done | 2.00% | ~825 |
-| Might and Main | 2.00% | ~825 |
-| Damned If You Do... | 2.00% | ~825 |
-| Explorer: Pathfinder | 2.00% | ~825 |
-| Shocker | 2.00% | ~825 |
-| From Every Angle | 2.00% | ~825 |
+| Outdoorsperson | 3.00% | ~1,239 |
+| The Interloper | 3.00% | ~1,239 |
+| Hop, Step, Jump | 3.00% | ~1,239 |
+| Endless Runner | 3.00% | ~1,239 |
+| What Must Be Done | 2.00% | ~826 |
+| Might and Main | 2.00% | ~826 |
+| Damned If You Do... | 2.00% | ~826 |
+| Explorer: Pathfinder | 2.00% | ~826 |
+| Shocker | 2.00% | ~826 |
+| From Every Angle | 2.00% | ~826 |
 | The Hue of Blue | 1.00% | ~413 |
 | The Truth Will Out | 1.00% | ~413 |
 | Breaking Point | 1.00% | ~413 |
@@ -59,7 +59,7 @@ Rating: 4.17 (Ranked 903)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,274 (Ranked 103)  
+Progressed: 41,285 (Ranked 103)  
 Completed: 3 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 3 (0.01%) (Ranked 287)
 | 2023-09-29 | 40,425 | 3 |
 | 2023-09-30 | 40,800 | 3 |
 | 2023-10-01 | 41,144 | 3 |
-| 2023-10-02 | 41,274 | 3 |
+| 2023-10-02 | 41,285 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 494)  

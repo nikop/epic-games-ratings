@@ -5,18 +5,18 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,679 |
+| Getting on the Step | 94.00% | ~2,680 |
 | On the Top Step | 87.00% | ~2,480 |
-| Setting up for Success | 76.00% | ~2,166 |
-| Team Orders | 74.00% | ~2,109 |
-| Engineer | 54.00% | ~1,539 |
+| Setting up for Success | 76.00% | ~2,167 |
+| Team Orders | 74.00% | ~2,110 |
+| Engineer | 54.00% | ~1,540 |
 | Familiar Faces | 47.00% | ~1,340 |
 | Going the Extra Mile | 42.00% | ~1,197 |
 | Sharing the Love | 39.00% | ~1,112 |
-| Hitting a Season | 33.00% | ~940 |
+| Hitting a Season | 33.00% | ~941 |
 | Challenge Yourself | 32.00% | ~912 |
 | Making History | 30.00% | ~855 |
-| A Dozen Pieces | 29.00% | ~826 |
+| A Dozen Pieces | 29.00% | ~827 |
 | Network Success | 24.00% | ~684 |
 | Spring Cleaning | 23.00% | ~656 |
 | Writing a new Chapter | 23.00% | ~656 |
@@ -36,26 +36,26 @@ Rating: 4.66 (Ranked 282)
 | Recycle | 11.00% | ~314 |
 | Tinkerer | 11.00% | ~314 |
 | Switcheroo | 10.00% | ~285 |
-| Friendly Competition | 9.00% | ~256 |
+| Friendly Competition | 9.00% | ~257 |
 | Undisputed Winner | 8.00% | ~228 |
 | For all Those Back at the Factory | 6.00% | ~171 |
 | Living up to Expectations | 6.00% | ~171 |
-| Loyal Bond | 5.00% | ~142 |
-| Smooth Operator | 5.00% | ~142 |
+| Loyal Bond | 5.00% | ~143 |
+| Smooth Operator | 5.00% | ~143 |
 | Peak Performance | 4.00% | ~114 |
 | Seasoned Rookie | 3.00% | ~86 |
 | Hitting a Century | 3.00% | ~86 |
 | Wait, I know you? | 3.00% | ~86 |
 | Filling in the Gaps | 2.00% | ~57 |
-| Under the Microscope | 1.00% | ~28 |
-| Saturday Night Drama | 1.00% | ~28 |
-| Media Darling | 1.00% | ~28 |
+| Under the Microscope | 1.00% | ~29 |
+| Saturday Night Drama | 1.00% | ~29 |
+| Media Darling | 1.00% | ~29 |
 | Ultimate Collector | 0.50% | ~14 |
 | Golden Touch | 0.40% | ~11 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,850 (Ranked 190)  
+Progressed: 2,851 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 2,695 | 0 |
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
-| 2023-10-02 | 2,850 | 0 |
+| 2023-10-02 | 2,851 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

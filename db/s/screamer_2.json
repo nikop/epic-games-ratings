@@ -2,7 +2,7 @@
   "ID": "f84a0a87954243bc8dc9ce567619613e",
   "Name": "Screamer 2",
   "ProductSlug": "screamer-2-ae0386",
-  "Ranking_EOS_Progress": 647,
+  "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 118,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.925249+00:00",
   "LastChanged": "2023-03-31T05:58:03.9252491+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:07.8821722+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:59:43.6370791+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:05:53.6011974+00:00"
+  "LastUpdate_Ratings": "2023-10-02T09:59:56.4073361+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:06:07.2818494+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.61 (Ranked 371)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 95.00% | ~667 |
-| Welcome Aboard | 86.00% | ~604 |
+| Welcome Aboard | 87.00% | ~611 |
 | Lab Rat | 75.00% | ~526 |
 | All Systems Go | 65.00% | ~456 |
 | Brute Force | 65.00% | ~456 |
@@ -26,8 +26,8 @@ Rating: 4.61 (Ranked 371)
 | Strange Transmissions | 37.00% | ~260 |
 | Wreckage | 36.00% | ~253 |
 | Keeper of the Faith | 34.00% | ~239 |
+| Betrayed | 33.00% | ~232 |
 | A Cut Above | 33.00% | ~232 |
-| Betrayed | 32.00% | ~225 |
 | There's Always Peng! | 32.00% | ~225 |
 | Legend Teller | 31.00% | ~218 |
 | Exodus | 30.00% | ~211 |

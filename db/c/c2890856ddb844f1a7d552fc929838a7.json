@@ -2095,9 +2095,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 349
     },
     {
       "ID": "AC27",
@@ -2264,8 +2264,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-10-02T09:04:55.5351391+00:00",
+  "LastChanged_Achievements": "2023-10-02T10:05:08.2830167+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:58:12.4665165+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:04:55.5351879+00:00"
+  "LastUpdate_Ratings": "2023-10-02T09:58:21.9382066+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:05:08.283054+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "23fa00605a734aadb3c6d5dd61544785",
   "Name": "Super Impossible Road",
   "ProductSlug": "super-impossible-road-912daa",
-  "Ranking_EOS_Progress": 647,
+  "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 118,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.9358575+00:00",
   "LastChanged": "2023-03-31T05:58:37.9358576+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:14.0383729+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:57:43.0511719+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:08:28.9789855+00:00"
+  "LastUpdate_Ratings": "2023-10-02T09:57:51.8523717+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:09:23.315336+00:00"
 }

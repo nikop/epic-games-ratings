@@ -2,7 +2,7 @@
   "ID": "05e091079c41495ab9df8b3200646085",
   "Name": "Ashwalkers",
   "ProductSlug": "ashwalkers",
-  "Ranking_EOS_Progress": 647,
+  "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 118,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.9767207+00:00",
   "LastChanged": "2023-03-31T05:58:45.9767208+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.800859+00:00",
-  "LastUpdate_Ratings": "2023-10-02T08:59:23.7380739+00:00",
-  "LastUpdate_Achievements": "2023-10-02T09:05:16.5739529+00:00"
+  "LastUpdate_Ratings": "2023-10-02T09:59:39.0642194+00:00",
+  "LastUpdate_Achievements": "2023-10-02T10:05:29.5138049+00:00"
 }
