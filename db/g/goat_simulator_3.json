@@ -3,7 +3,7 @@
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 220,
+  "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 191,
@@ -4058,11 +4058,17 @@
       "Rating": 4.84,
       "NumberOfAwards": 3493,
       "NumberOfAwardsMax": 407
+    },
+    {
+      "Time": "2023-10-02T07:58:30.2309284+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3495,
+      "NumberOfAwardsMax": 409
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3493,
-  "NumberOfAwardsMax": 407,
+  "NumberOfAwards": 3495,
+  "NumberOfAwardsMax": 409,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4093,7 +4099,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 407
+      "Count": 409
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4132,9 +4138,9 @@
       "Count": 296
     }
   ],
-  "EOS_Progressed": 245981,
+  "EOS_Progressed": 245982,
   "EOS_Completed": 843,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -22057,6 +22063,11 @@
       "Time": "2023-10-02T07:05:07.9100218+00:00",
       "NumProgressed": 245981,
       "NumCompleted": 843
+    },
+    {
+      "Time": "2023-10-02T08:05:47.5115441+00:00",
+      "NumProgressed": 245982,
+      "NumCompleted": 843
     }
   ],
   "TotalAchievements": 39,
@@ -22068,7 +22079,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61495
+      "UsersEstimate": 61496
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -22116,7 +22127,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73794
+      "UsersEstimate": 73795
     },
     {
       "ID": "AchievementBoulderID",
@@ -22132,7 +22143,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 223843
+      "UsersEstimate": 223844
     },
     {
       "ID": "AchievementClownID",
@@ -22148,7 +22159,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 19678
+      "UsersEstimate": 19679
     },
     {
       "ID": "AchievementCrashGameID",
@@ -22204,7 +22215,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46736
+      "UsersEstimate": 46737
     },
     {
       "ID": "AchievementINirvanaID",
@@ -22228,7 +22239,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 110691
+      "UsersEstimate": 110692
     },
     {
       "ID": "AchievementIntroID",
@@ -22236,7 +22247,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140209
+      "UsersEstimate": 140210
     },
     {
       "ID": "AchievementLootBoxID",
@@ -22300,7 +22311,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182026
+      "UsersEstimate": 182027
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -22308,7 +22319,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19678
+      "UsersEstimate": 19679
     },
     {
       "ID": "AchievementStratosphereID",
@@ -22316,7 +22327,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 122990
+      "UsersEstimate": 122991
     },
     {
       "ID": "AchievementStreakingID",
@@ -22348,7 +22359,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 115611
+      "UsersEstimate": 115612
     },
     {
       "ID": "AchievementTrinketID",
@@ -22379,16 +22390,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 245981,
+      "Progressed": 245982,
       "Completed": 843
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-10-01T19:58:02.0311499+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:05:07.9100211+00:00",
+  "LastChanged": "2023-10-02T07:58:30.230928+00:00",
+  "LastChanged_Achievements": "2023-10-02T08:05:47.5115435+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.2541754+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:57:56.6238066+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:05:07.9101613+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:58:30.230929+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:05:47.5117936+00:00"
 }

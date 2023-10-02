@@ -6,12 +6,12 @@
 | Powerful Allies | 19.00% | ~6 |
 | Find Allies | 13.00% | ~4 |
 | Trinity | 13.00% | ~4 |
+| Adventurer | 13.00% | ~4 |
 | Essence Blow | 13.00% | ~4 |
 | Shatter Them All | 13.00% | ~4 |
 | Scholar | 13.00% | ~4 |
 | The Collector | 13.00% | ~4 |
 | A Taste of Wrath | 10.00% | ~3 |
-| Adventurer | 10.00% | ~3 |
 | Geared Up | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
 | Calm before the Storm | 6.00% | ~2 |
@@ -34,11 +34,11 @@
 | Big Bazar | -3.20% | ~-1 |
 | All There Is | -3.20% | ~-1 |
 | All That Gold | -3.20% | ~-1 |
+| Stone Collection | -3.20% | ~-1 |
 | Feeling Fancy | -3.20% | ~-1 |
 | Summiter | -3.20% | ~-1 |
 | Tributes of Caladrias | -6.50% | ~-2 |
 | Flawless Victory | -6.50% | ~-2 |
-| Stone Collection | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 463)  
 Completed: 1 (3.23%) (Ranked 77)  

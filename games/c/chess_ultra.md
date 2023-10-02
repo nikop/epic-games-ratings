@@ -1,32 +1,32 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.30 (Ranked 810)  
+Rating: 4.29 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~147,291 |
-| Doubled Pawn | 56.00% | ~117,833 |
-| Check | 55.00% | ~115,729 |
+| Chop Wood | 70.00% | ~147,293 |
+| Doubled Pawn | 56.00% | ~117,834 |
+| Check | 55.00% | ~115,730 |
 | Absolute pin | 47.00% | ~98,896 |
-| Promotion | 31.00% | ~65,229 |
+| Promotion | 31.00% | ~65,230 |
 | Checkmate | 30.00% | ~63,125 |
 | O-O | 24.00% | ~50,500 |
-| Spanish Bishop | 21.00% | ~44,187 |
-| Queen Sacrifice | 20.00% | ~42,083 |
+| Spanish Bishop | 21.00% | ~44,188 |
+| Queen Sacrifice | 20.00% | ~42,084 |
 | Stalemate | 18.00% | ~37,875 |
 | O-O-O | 13.00% | ~27,354 |
 | Octopus | 13.00% | ~27,354 |
 | Stranger Danger | 12.00% | ~25,250 |
-| En Passant | 9.00% | ~18,937 |
+| En Passant | 9.00% | ~18,938 |
 | Double Check | 7.00% | ~14,729 |
 | Piece Collector | 6.00% | ~12,625 |
 | ELO | 5.00% | ~10,521 |
 | Family Fork | 5.00% | ~10,521 |
 | Friendly Fire | 5.00% | ~10,521 |
 | Underpromote | 4.00% | ~8,417 |
-| ELO ELO | 3.00% | ~6,312 |
-| Learner | 3.00% | ~6,312 |
+| ELO ELO | 3.00% | ~6,313 |
+| Learner | 3.00% | ~6,313 |
 | Blind Pigs | 2.00% | ~4,208 |
 | ELO ELO ELO | 2.00% | ~4,208 |
 | Bobby Time | 1.00% | ~2,104 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 810)
 | Tournament Master | 0.10% | ~210 |
 | Tournament Pro | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,416 (Ranked 61)  
+Progressed: 210,418 (Ranked 61)  
 Completed: 2 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 2 (0.00%) (Ranked 304)
 | 2023-09-29 | 209,911 | 2 |
 | 2023-09-30 | 210,152 | 2 |
 | 2023-10-01 | 210,358 | 2 |
-| 2023-10-02 | 210,416 | 2 |
+| 2023-10-02 | 210,418 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -268,3 +268,4 @@ Completed: 2 (0.00%) (Ranked 304)
 | 2023-08-18 | 4.28 | 0 | 0 |
 | 2023-08-26 | 4.29 | 0 | 0 |
 | 2023-09-10 | 4.30 | 0 | 0 |
+| 2023-10-02 | 4.29 | 0 | 0 |

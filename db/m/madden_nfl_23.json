@@ -676,7 +676,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1905,
+  "EOS_Progressed": 1906,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
@@ -2031,6 +2031,11 @@
       "Time": "2023-10-02T07:05:27.7316144+00:00",
       "NumProgressed": 1905,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T08:06:15.3587521+00:00",
+      "NumProgressed": 1906,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2067,7 +2072,7 @@
       "Name": "Stud Finder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "achievement_13",
@@ -2083,7 +2088,7 @@
       "Name": "Dealmaker",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "achievement_15",
@@ -2131,7 +2136,7 @@
       "Name": "Unblockable",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_20",
@@ -2193,9 +2198,9 @@
       "ID": "achievement_8",
       "SetID": "c8fif6p",
       "Name": "Pro Bowler",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_9",
@@ -2210,7 +2215,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1905,
+      "Progressed": 1906,
       "Completed": 0
     }
   ],
@@ -2218,8 +2223,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:05:27.7316137+00:00",
+  "LastChanged_Achievements": "2023-10-02T08:06:15.3587514+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.4729837+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:59:44.2115745+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:05:27.731638+00:00"
+  "LastUpdate_Ratings": "2023-10-02T08:01:05.2742575+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:06:15.3588016+00:00"
 }

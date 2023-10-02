@@ -2,9 +2,9 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5,
+  "EOS_Completed_Percentage": 4.94,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -426,6 +426,11 @@
       "Time": "2023-10-01T07:05:50.1122331+00:00",
       "NumProgressed": 80,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-02T08:06:43.6415492+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -444,7 +449,7 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -452,7 +457,7 @@
       "ID": "Destilat",
       "SetID": "ag48e8e",
       "Name": "Distilled Spirits",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -484,7 +489,7 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 31
     },
@@ -492,9 +497,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Kour",
@@ -518,7 +523,7 @@
       "Name": "Knife",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Kvitky",
@@ -556,7 +561,7 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -572,7 +577,7 @@
       "ID": "Poustevnik",
       "SetID": "ag48e8e",
       "Name": "Hermit Crabs",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -604,7 +609,7 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -636,7 +641,7 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -652,7 +657,7 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -668,7 +673,7 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 22
     }
@@ -677,14 +682,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:05:47.4260679+00:00",
+  "LastChanged_Achievements": "2023-10-02T08:06:43.6415488+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:58:02.3643812+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:05:47.4260902+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:58:37.8322734+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:06:43.6415902+00:00"
 }

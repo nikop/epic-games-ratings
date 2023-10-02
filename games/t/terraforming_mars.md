@@ -13,7 +13,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Sojourner | 26.00% | ~20,199 |
 | Beagle 2 | 24.00% | ~18,645 |
 | New Home | 23.00% | ~17,868 |
-| Winner Winner Terraformer | 21.00% | ~16,314 |
+| Winner Winner Terraformer | 21.00% | ~16,315 |
 | Project Manager | 19.00% | ~14,761 |
 | Curiosity | 19.00% | ~14,761 |
 | Collector | 19.00% | ~14,761 |
@@ -22,7 +22,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Self-sufficient | 18.00% | ~13,984 |
 | Money money | 15.00% | ~11,653 |
 | Biggest Reward | 14.00% | ~10,876 |
-| Acquired knowledge | 13.00% | ~10,099 |
+| Acquired knowledge | 13.00% | ~10,100 |
 | First Journey | 12.00% | ~9,323 |
 | Hellenic Elysium | 12.00% | ~9,323 |
 | Grand champion | 12.00% | ~9,323 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,331 |
 | Opportunity | 3.00% | ~2,331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,688 (Ranked 84)  
+Progressed: 77,689 (Ranked 84)  
 Completed: 141 (0.18%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 141 (0.18%) (Ranked 223)
 | 2023-09-29 | 77,365 | 138 |
 | 2023-09-30 | 77,520 | 139 |
 | 2023-10-01 | 77,668 | 141 |
-| 2023-10-02 | 77,688 | 141 |
+| 2023-10-02 | 77,689 | 141 |
 ## Awards
 Max (Relaxing): 516  (Ranked 201)  
 Sum: 3,174 (Ranked 165)  

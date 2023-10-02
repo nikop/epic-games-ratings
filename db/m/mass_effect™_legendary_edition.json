@@ -1482,9 +1482,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_34",
@@ -2078,8 +2078,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:03:43.0535382+00:00",
+  "LastChanged_Achievements": "2023-10-02T08:03:29.8190159+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:58:04.5547748+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:03:43.053763+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:58:41.2574893+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:03:29.8192588+00:00"
 }

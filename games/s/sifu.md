@@ -14,6 +14,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.30% | ~2,146 |
 | Lightning Hands | 0.30% | ~2,146 |
 | Project Arena | 0.30% | ~74 |
+| Martial Hub | 0.30% | ~74 |
 | Fight the way you practice | 0.30% | ~74 |
 | A Lady's Blood in the Snow | 0.20% | ~1,431 |
 | Lady Wing Chun | 0.20% | ~1,431 |
@@ -32,7 +33,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 0.20% | ~1,431 |
 | Take damage to save time | 0.20% | ~1,431 |
 | Bloody Sport | 0.20% | ~49 |
-| Martial Hub | 0.20% | ~49 |
 | Muk Yan Master | 0.10% | ~715 |
 | Tiger on Fire | 0.10% | ~715 |
 | Source of Flying Daggers | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,446 (Ranked 20)  
+Progressed: 715,447 (Ranked 20)  
 Completed: 12,905 (1.80%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 12,905 (1.80%) (Ranked 112)
 | 2023-09-29 | 715,380 | 12,904 |
 | 2023-09-30 | 715,409 | 12,904 |
 | 2023-10-01 | 715,440 | 12,905 |
-| 2023-10-02 | 715,446 | 12,905 |
+| 2023-10-02 | 715,447 | 12,905 |
 ## Awards
 Max (Great Boss Battles): 6,623  (Ranked 54)  
 Sum: 11,463 (Ranked 82)  

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -826,6 +826,11 @@
       "Time": "2023-10-02T07:06:33.2067852+00:00",
       "NumProgressed": 542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T08:07:47.6301525+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -851,9 +856,9 @@
       "ID": "DashAttack",
       "SetID": "d9ekhim",
       "Name": "Fireball",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 244
     },
     {
       "ID": "DashDashDash",
@@ -891,9 +896,9 @@
       "ID": "HeroWorld1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash - Hero Edition",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 16
     },
     {
       "ID": "HeroWorld2Boss",
@@ -1115,9 +1120,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 386
     },
     {
       "ID": "World2Boss",
@@ -1125,7 +1130,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "World3Boss",
@@ -1147,9 +1152,9 @@
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "World6Boss",
@@ -1188,7 +1193,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 0
     }
   ],
@@ -1196,8 +1201,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:06:33.2067846+00:00",
+  "LastChanged_Achievements": "2023-10-02T08:07:47.6301515+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:58:44.8670133+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:06:33.206821+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:59:37.351364+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:07:47.6302211+00:00"
 }

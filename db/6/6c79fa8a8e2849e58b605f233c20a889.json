@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2627,
+  "EOS_Progressed": 2628,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6256,6 +6256,11 @@
       "Time": "2023-10-02T04:06:14.3218524+00:00",
       "NumProgressed": 2627,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T08:06:38.2185053+00:00",
+      "NumProgressed": 2628,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6299,7 +6304,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6371,7 +6376,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "GUARD_MAKER",
@@ -6442,14 +6447,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2627,
+      "Progressed": 2628,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:05:43.5741078+00:00",
+  "LastChanged_Achievements": "2023-10-02T08:06:38.2185046+00:00",
   "LastUpdate_AppInfo": "2023-09-27T02:13:31.2628776+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:58:29.5786546+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:05:43.5741606+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:59:14.2972335+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:06:38.2186146+00:00"
 }

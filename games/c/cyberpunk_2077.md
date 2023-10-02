@@ -9,20 +9,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 4.00% | ~35,505 |
 | Rough Landing | 4.00% | ~35,505 |
 | Gunslinger | 3.00% | ~26,629 |
-| Full Body Conversion | 2.00% | ~17,752 |
-| Right Back At Ya | 2.00% | ~17,752 |
-| Master Crafter | 2.00% | ~17,752 |
-| Mean Streets | 2.00% | ~17,752 |
-| Breathtaking | 2.00% | ~17,752 |
-| Stanislavski's Method | 2.00% | ~17,752 |
-| The Hermit | 2.00% | ~17,752 |
-| The High Priestess | 2.00% | ~17,752 |
-| The Wheel of Fortune | 2.00% | ~17,752 |
-| The Jungle | 2.00% | ~17,752 |
-| True Soldier | 2.00% | ~17,752 |
-| True Warrior | 2.00% | ~17,752 |
-| Two Heads, One Bullet | 2.00% | ~17,752 |
-| V for Vendetta | 2.00% | ~17,752 |
+| The Jungle | 3.00% | ~26,629 |
+| Full Body Conversion | 2.00% | ~17,753 |
+| Right Back At Ya | 2.00% | ~17,753 |
+| Master Crafter | 2.00% | ~17,753 |
+| Mean Streets | 2.00% | ~17,753 |
+| Breathtaking | 2.00% | ~17,753 |
+| Stanislavski's Method | 2.00% | ~17,753 |
+| The Hermit | 2.00% | ~17,753 |
+| The High Priestess | 2.00% | ~17,753 |
+| The Wheel of Fortune | 2.00% | ~17,753 |
+| True Soldier | 2.00% | ~17,753 |
+| True Warrior | 2.00% | ~17,753 |
+| Two Heads, One Bullet | 2.00% | ~17,753 |
+| V for Vendetta | 2.00% | ~17,753 |
 | To Bad Decisions! | 1.00% | ~8,876 |
 | Gun Fu | 1.00% | ~8,876 |
 | Christmas Tree Attack | 1.00% | ~8,876 |
@@ -38,12 +38,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | City Lights | 0.70% | ~6,213 |
 | Greetings from Pacifica! | 0.70% | ~6,213 |
 | Life of the Road | 0.60% | ~5,326 |
-| Spin Doctor | 0.60% | ~97 |
+| Spin Doctor | 0.60% | ~98 |
 | Bushido and Chill | 0.50% | ~4,438 |
 | I Am The Law | 0.50% | ~4,438 |
-| The Wandering Fool | 0.40% | ~3,550 |
-| Autojock | 0.40% | ~3,550 |
-| Must Be Rats | 0.40% | ~3,550 |
+| The Wandering Fool | 0.40% | ~3,551 |
+| Autojock | 0.40% | ~3,551 |
+| Must Be Rats | 0.40% | ~3,551 |
 | To Protect and Serve | 0.30% | ~2,663 |
 | Frequent Flyer | 0.30% | ~2,663 |
 | The Star | 0.30% | ~2,663 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.30% | ~49 |
 | Little Tokyo | 0.20% | ~1,775 |
 | The Wasteland | 0.20% | ~1,775 |
-| The APB is Not Enough | 0.20% | ~32 |
+| The APB is Not Enough | 0.20% | ~33 |
 | Daemon In The Shell | 0.10% | ~888 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,618 (Ranked 15)  
-Completed: 2,538 (0.29%) (Ranked 201)  
+Progressed: 887,636 (Ranked 15)  
+Completed: 2,539 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 2,538 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,618 | 2,538 |
+| 2023-10-02 | 887,636 | 2,539 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
 Sum: 252,317 (Ranked 12)  

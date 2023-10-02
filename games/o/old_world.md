@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.10% | ~14 |
 | Learn to Play 4 | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
+| Medo-Babylonian Conquest | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
 | Assyria | 0.10% | ~14 |
 | Babylonia | 0.10% | ~14 |
@@ -314,7 +315,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Macedonian Wars | 0.00% | ~0 |
-| Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,278 (Ranked 133)  
+Progressed: 14,279 (Ranked 133)  
 Completed: 5 (0.04%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 5 (0.04%) (Ranked 269)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
-| 2023-10-02 | 14,278 | 5 |
+| 2023-10-02 | 14,279 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

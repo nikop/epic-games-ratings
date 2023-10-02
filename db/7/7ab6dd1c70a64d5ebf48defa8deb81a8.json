@@ -244,9 +244,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_14",
@@ -388,9 +388,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": -6.5,
+      "Percentage": -3.2,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_33",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:06:48.7173797+00:00",
-  "LastUpdate_Ratings": "2023-10-02T07:03:23.0203197+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:06:48.7174075+00:00"
+  "LastChanged_Achievements": "2023-10-02T08:08:09.7038489+00:00",
+  "LastUpdate_Ratings": "2023-10-02T08:02:40.1755251+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:08:09.7038975+00:00"
 }

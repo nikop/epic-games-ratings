@@ -5582,9 +5582,9 @@
       "Count": 872
     }
   ],
-  "EOS_Progressed": 807090,
+  "EOS_Progressed": 807109,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 5928,
+  "EOS_NewPlayers": 5929,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20732,6 +20732,11 @@
       "Time": "2023-10-02T07:09:24.6024299+00:00",
       "NumProgressed": 807090,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-10-02T08:09:11.4631668+00:00",
+      "NumProgressed": 807109,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 75,
@@ -20743,7 +20748,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185631
+      "UsersEstimate": 185635
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -20823,7 +20828,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40354
+      "UsersEstimate": 40355
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -20839,7 +20844,7 @@
       "Name": "Crafty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40354
+      "UsersEstimate": 40355
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -20975,7 +20980,7 @@
       "Name": "Little Wheel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ACHIEVEMENT_LOVE_THE_BOMB",
@@ -21039,7 +21044,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48425
+      "UsersEstimate": 48427
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -21079,7 +21084,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40354
+      "UsersEstimate": 40355
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -21151,7 +21156,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 40354
+      "UsersEstimate": 40355
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -21215,7 +21220,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 48425
+      "UsersEstimate": 48427
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -21239,7 +21244,7 @@
       "Name": "The House Always Wins",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ACHIEVEMENT_THE_LEGEND_OF_THE_STAR",
@@ -21247,7 +21252,7 @@
       "Name": "The Legend of the Star",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ACHIEVEMENT_THE_WHOLE_GANGS_HERE",
@@ -21255,7 +21260,7 @@
       "Name": "The Whole Gang\u0027s Here",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ACHIEVEMENT_UP_AND_COMER",
@@ -21342,13 +21347,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 807090,
+      "Progressed": 807109,
       "Completed": 208
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 807090,
+      "Progressed": 807109,
       "Completed": 174
     }
   ],
@@ -21356,8 +21361,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-02T04:58:38.9737322+00:00",
-  "LastChanged_Achievements": "2023-10-02T07:09:24.6024291+00:00",
+  "LastChanged_Achievements": "2023-10-02T08:09:11.4631663+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:58.0679026+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:58:31.7423613+00:00",
-  "LastUpdate_Achievements": "2023-10-02T07:09:24.6026013+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:59:17.5137278+00:00",
+  "LastUpdate_Achievements": "2023-10-02T08:09:11.4635047+00:00"
 }

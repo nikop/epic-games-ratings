@@ -6,25 +6,25 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,035 |
-| Let There Be Light | 34.00% | ~22,695 |
-| Float Like a Butterfly | 33.00% | ~22,028 |
-| Nordic Walking | 27.00% | ~18,023 |
-| Bright Falls' Finest | 26.00% | ~17,355 |
+| Follow the Light | 42.00% | ~28,037 |
+| Let There Be Light | 34.00% | ~22,696 |
+| Float Like a Butterfly | 33.00% | ~22,029 |
+| Nordic Walking | 27.00% | ~18,024 |
+| Bright Falls' Finest | 26.00% | ~17,356 |
 | Under a Thin Layer of Skin | 23.00% | ~15,353 |
 | Park Ranger | 19.00% | ~12,683 |
 | Paging Mr. Wake | 19.00% | ~12,683 |
-| Back! Back, I Say! | 18.00% | ~12,015 |
-| Finders Keepers | 18.00% | ~12,015 |
-| Sound and Fury | 16.00% | ~10,680 |
-| Missed by a Mile | 16.00% | ~10,680 |
-| Damn Good Cup of Coffee | 16.00% | ~10,680 |
+| Back! Back, I Say! | 18.00% | ~12,016 |
+| Finders Keepers | 18.00% | ~12,016 |
+| Sound and Fury | 16.00% | ~10,681 |
+| Missed by a Mile | 16.00% | ~10,681 |
+| Damn Good Cup of Coffee | 16.00% | ~10,681 |
 | Wheels Within Wheels | 15.00% | ~10,013 |
 | They're Heeeeeere! | 15.00% | ~10,013 |
 | The Six-Gun Scribe | 15.00% | ~10,013 |
-| Iron Horse | 14.00% | ~9,345 |
-| Collateral Carnage | 14.00% | ~9,345 |
-| Come One, Come All | 14.00% | ~9,345 |
+| Iron Horse | 14.00% | ~9,346 |
+| Collateral Carnage | 14.00% | ~9,346 |
+| Come One, Come All | 14.00% | ~9,346 |
 | Heavy Metal | 13.00% | ~8,678 |
 | Perchance to Dream | 13.00% | ~8,678 |
 | Gatekeeper | 12.00% | ~8,010 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,751 (Ranked 92)  
+Progressed: 66,754 (Ranked 92)  
 Completed: 66 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 66 (0.10%) (Ranked 243)
 | 2023-09-29 | 66,470 | 66 |
 | 2023-09-30 | 66,580 | 66 |
 | 2023-10-01 | 66,719 | 66 |
-| 2023-10-02 | 66,751 | 66 |
+| 2023-10-02 | 66,754 | 66 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
