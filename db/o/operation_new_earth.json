@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1507,
+  "EOS_Progressed": 1508,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5461,6 +5461,11 @@
       "Time": "2023-10-01T21:05:08.5596611+00:00",
       "NumProgressed": 1507,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T06:04:24.3890017+00:00",
+      "NumProgressed": 1508,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5480,7 +5485,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_defeat_players_10",
@@ -5775,14 +5780,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1507,
+      "Progressed": 1508,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-10-02T05:04:50.1825015+00:00",
+  "LastChanged_Achievements": "2023-10-02T06:04:24.3890001+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:57:51.1837304+00:00",
-  "LastUpdate_Achievements": "2023-10-02T05:04:50.1825729+00:00"
+  "LastUpdate_Ratings": "2023-10-02T05:57:33.1187775+00:00",
+  "LastUpdate_Achievements": "2023-10-02T06:04:24.3890627+00:00"
 }

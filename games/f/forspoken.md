@@ -5,50 +5,50 @@ Rating: 4.17 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,124 |
-| Unlocked Potential | 9.00% | ~3,712 |
-| Tinkerer | 7.00% | ~2,887 |
-| Knock 'Em Dead | 7.00% | ~2,887 |
+| Attachments | 10.00% | ~4,125 |
+| Unlocked Potential | 9.00% | ~3,713 |
+| Tinkerer | 7.00% | ~2,888 |
+| Knock 'Em Dead | 7.00% | ~2,888 |
 | Leapfrogger | 6.00% | ~2,475 |
 | Pilgrimage: Initiate | 6.00% | ~2,475 |
 | Hell of a Run | 6.00% | ~2,475 |
 | Call of the Fount: Baptized | 6.00% | ~2,475 |
-| No Mercy | 5.00% | ~2,062 |
-| Explorer: Seeker | 5.00% | ~2,062 |
+| No Mercy | 5.00% | ~2,063 |
+| Explorer: Seeker | 5.00% | ~2,063 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,650 |
 | Stuck | 4.00% | ~1,650 |
 | Help Me Out Here | 4.00% | ~1,650 |
-| Outdoorsperson | 3.00% | ~1,237 |
-| The Interloper | 3.00% | ~1,237 |
-| Hop, Step, Jump | 3.00% | ~1,237 |
-| Endless Runner | 3.00% | ~1,237 |
+| Outdoorsperson | 3.00% | ~1,238 |
+| The Interloper | 3.00% | ~1,238 |
+| Hop, Step, Jump | 3.00% | ~1,238 |
+| Endless Runner | 3.00% | ~1,238 |
 | What Must Be Done | 2.00% | ~825 |
 | Might and Main | 2.00% | ~825 |
 | Damned If You Do... | 2.00% | ~825 |
 | Explorer: Pathfinder | 2.00% | ~825 |
 | Shocker | 2.00% | ~825 |
 | From Every Angle | 2.00% | ~825 |
-| The Hue of Blue | 1.00% | ~412 |
-| The Truth Will Out | 1.00% | ~412 |
-| Breaking Point | 1.00% | ~412 |
-| None the Wiser | 1.00% | ~412 |
-| Forspoken | 1.00% | ~412 |
-| Pilgrimage: Novice | 1.00% | ~412 |
+| The Hue of Blue | 1.00% | ~413 |
+| The Truth Will Out | 1.00% | ~413 |
+| Breaking Point | 1.00% | ~413 |
+| None the Wiser | 1.00% | ~413 |
+| Forspoken | 1.00% | ~413 |
+| Pilgrimage: Novice | 1.00% | ~413 |
 | Wildfire | 0.70% | ~289 |
 | Realized Potential | 0.70% | ~289 |
-| Awakening | 0.60% | ~247 |
-| Explorer: Trailblazer | 0.60% | ~247 |
+| Awakening | 0.60% | ~248 |
+| Explorer: Trailblazer | 0.60% | ~248 |
 | Through the Eyes of Another: Seer | 0.50% | ~206 |
 | Archivist | 0.30% | ~124 |
 | Craftsperson | 0.30% | ~124 |
 | Tit for Tat | 0.30% | ~124 |
 | Promises | 0.30% | ~124 |
 | Rebirth | 0.30% | ~124 |
-| Paragon | 0.20% | ~82 |
-| Pilgrimage: Adept | 0.20% | ~82 |
-| Call of the Fount: Beatified | 0.20% | ~82 |
-| I Can Fly! | 0.20% | ~82 |
-| A Roaring Trade | 0.20% | ~82 |
+| Paragon | 0.20% | ~83 |
+| Pilgrimage: Adept | 0.20% | ~83 |
+| Call of the Fount: Beatified | 0.20% | ~83 |
+| I Can Fly! | 0.20% | ~83 |
+| A Roaring Trade | 0.20% | ~83 |
 | Abominizer | 0.10% | ~41 |
 | Through the Eyes of Another: Visionary | 0.10% | ~41 |
 | Kit and Caboodle | 0.10% | ~41 |
@@ -59,7 +59,7 @@ Rating: 4.17 (Ranked 903)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,244 (Ranked 103)  
+Progressed: 41,253 (Ranked 103)  
 Completed: 3 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 3 (0.01%) (Ranked 287)
 | 2023-09-29 | 40,425 | 3 |
 | 2023-09-30 | 40,800 | 3 |
 | 2023-10-01 | 41,144 | 3 |
-| 2023-10-02 | 41,244 | 3 |
+| 2023-10-02 | 41,253 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 494)  

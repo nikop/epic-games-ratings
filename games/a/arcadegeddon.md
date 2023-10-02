@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 90.00% | ~8,239 |
-| Photogenic | 86.00% | ~7,872 |
-| Surge Gauntlet Jockey | 83.00% | ~7,598 |
-| Plug It In | 82.00% | ~7,506 |
-| Adventure Time | 78.00% | ~7,140 |
-| Playing With Power | 76.00% | ~6,957 |
-| Coup d'Etat | 58.00% | ~5,309 |
-| You're Fired | 56.00% | ~5,126 |
+| Let's Get This Party Started | 90.00% | ~8,240 |
+| Photogenic | 86.00% | ~7,873 |
+| Surge Gauntlet Jockey | 83.00% | ~7,599 |
+| Plug It In | 82.00% | ~7,507 |
+| Adventure Time | 78.00% | ~7,141 |
+| Playing With Power | 76.00% | ~6,958 |
+| Coup d'Etat | 58.00% | ~5,310 |
+| You're Fired | 56.00% | ~5,127 |
 | Get Furious | 55.00% | ~5,035 |
 | Hacks In Stacks | 55.00% | ~5,035 |
-| Gunplay And Cosplay | 54.00% | ~4,943 |
+| Gunplay And Cosplay | 54.00% | ~4,944 |
 | Meching Enemies | 48.00% | ~4,394 |
 | Ticket Toddler | 44.00% | ~4,028 |
 | Booty Bashing | 39.00% | ~3,570 |
@@ -32,9 +32,9 @@ Number of Ratings: 801  (23.09.2022)
 | Boss of Bosses | 15.00% | ~1,373 |
 | The Final Blow | 14.00% | ~1,282 |
 | To Be Continued | 13.00% | ~1,190 |
-| Light My Fire | 12.00% | ~1,098 |
+| Light My Fire | 12.00% | ~1,099 |
 | Seasoned Adventurer | 11.00% | ~1,007 |
-| 1.21 Gigawatts | 10.00% | ~915 |
+| 1.21 Gigawatts | 10.00% | ~916 |
 | Get In The Ring! | 9.00% | ~824 |
 | This Is My Boomstick! | 9.00% | ~824 |
 | Rescue Ranger | 8.00% | ~732 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~37 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,154 (Ranked 146)  
+Progressed: 9,155 (Ranked 146)  
 Completed: 1 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 1 (0.01%) (Ranked 287)
 | 2023-09-29 | 9,130 | 1 |
 | 2023-09-30 | 9,138 | 1 |
 | 2023-10-01 | 9,150 | 1 |
-| 2023-10-02 | 9,154 | 1 |
+| 2023-10-02 | 9,155 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 393)  
 Sum: 462 (Ranked 315)  

@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -724,9 +724,9 @@
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_eou5",
@@ -803,8 +803,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-02T05:05:40.875718+00:00",
+  "LastChanged_Achievements": "2023-10-02T06:05:14.1414592+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:57:40.2184439+00:00",
-  "LastUpdate_Achievements": "2023-10-02T05:05:40.8757358+00:00"
+  "LastUpdate_Ratings": "2023-10-02T05:57:22.2721542+00:00",
+  "LastUpdate_Achievements": "2023-10-02T06:05:14.1414733+00:00"
 }

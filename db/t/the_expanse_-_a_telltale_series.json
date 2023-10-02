@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13411,
+  "EOS_Progressed": 13412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7387,6 +7387,11 @@
       "Time": "2023-10-02T05:04:49.5986411+00:00",
       "NumProgressed": 13411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T06:04:23.8499899+00:00",
+      "NumProgressed": 13412,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7447,7 +7452,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "16",
@@ -7519,7 +7524,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "24",
@@ -7551,7 +7556,7 @@
       "Name": "Bosmang",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "28",
@@ -7575,7 +7580,7 @@
       "Name": "Captain Drummer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "30",
@@ -7638,7 +7643,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13411,
+      "Progressed": 13412,
       "Completed": 0
     }
   ],
@@ -7646,8 +7651,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-02T05:04:49.5986404+00:00",
+  "LastChanged_Achievements": "2023-10-02T06:04:23.8499896+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:58:59.2558657+00:00",
-  "LastUpdate_Achievements": "2023-10-02T05:04:49.5987187+00:00"
+  "LastUpdate_Ratings": "2023-10-02T05:58:38.0759001+00:00",
+  "LastUpdate_Achievements": "2023-10-02T06:04:23.8500559+00:00"
 }

@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59761,
+  "EOS_Progressed": 59762,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19788,6 +19788,11 @@
       "Time": "2023-10-02T05:06:31.6219927+00:00",
       "NumProgressed": 59761,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-02T06:06:03.5553993+00:00",
+      "NumProgressed": 59762,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -19927,7 +19932,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -20063,7 +20068,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23904
+      "UsersEstimate": 23905
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -20087,7 +20092,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37649
+      "UsersEstimate": 37650
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -20175,7 +20180,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -20239,7 +20244,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -20255,7 +20260,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -20270,15 +20275,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59761,
+      "Progressed": 59762,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-02T05:06:31.6219917+00:00",
+  "LastChanged_Achievements": "2023-10-02T06:06:03.5553987+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.0197067+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:59:58.536875+00:00",
-  "LastUpdate_Achievements": "2023-10-02T05:06:31.6221713+00:00"
+  "LastUpdate_Ratings": "2023-10-02T05:59:39.602692+00:00",
+  "LastUpdate_Achievements": "2023-10-02T06:06:03.5555734+00:00"
 }

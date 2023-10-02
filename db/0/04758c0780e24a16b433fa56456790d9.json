@@ -4,7 +4,7 @@
   "ProductSlug": "xenion-ac02b0",
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-28T03:57:18.4511266+00:00",
-  "LastUpdate_Ratings": "2023-10-02T04:58:06.7936625+00:00",
-  "LastUpdate_Achievements": "2023-10-02T05:06:18.2570678+00:00"
+  "LastUpdate_Ratings": "2023-10-02T05:57:46.9635873+00:00",
+  "LastUpdate_Achievements": "2023-10-02T06:05:50.2726382+00:00"
 }

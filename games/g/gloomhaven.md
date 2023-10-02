@@ -6,14 +6,14 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~4,045 |
-| A normal day in Gloomhaven | 34.00% | ~3,198 |
-| Overkill | 32.00% | ~3,010 |
-| Vaccine Incoming | 31.00% | ~2,916 |
-| Spread the plague | 30.00% | ~2,822 |
+| I'm not dead yet | 43.00% | ~4,046 |
+| A normal day in Gloomhaven | 34.00% | ~3,199 |
+| Overkill | 32.00% | ~3,011 |
+| Vaccine Incoming | 31.00% | ~2,917 |
+| Spread the plague | 30.00% | ~2,823 |
 | Get over here! | 23.00% | ~2,164 |
-| Just when I thought I was out... | 18.00% | ~1,693 |
-| Mine... All Mine... | 17.00% | ~1,599 |
+| Just when I thought I was out... | 18.00% | ~1,694 |
+| Mine... All Mine... | 17.00% | ~1,600 |
 | Light of my life | 15.00% | ~1,411 |
 | Anatomy Lesson | 14.00% | ~1,317 |
 | Precious! | 13.00% | ~1,223 |
@@ -26,9 +26,9 @@ Number of Ratings: 68  (23.09.2022)
 | Pain is your friend | 8.00% | ~753 |
 | Black death | 8.00% | ~753 |
 | Play it again, Sam | 8.00% | ~753 |
-| Who's the Boss? | 7.00% | ~658 |
-| Dungeon Veteran | 6.00% | ~564 |
-| Quad damage | 6.00% | ~564 |
+| Who's the Boss? | 7.00% | ~659 |
+| Dungeon Veteran | 6.00% | ~565 |
+| Quad damage | 6.00% | ~565 |
 | Pretty lights! | 5.00% | ~470 |
 | Now you see me... | 5.00% | ~470 |
 | Power Up! | 4.00% | ~376 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~9 |
 | Murder Death Kill | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,407 (Ranked 144)  
+Progressed: 9,409 (Ranked 144)  
 Completed: 1 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.01%) (Ranked 287)
 | 2023-09-29 | 8,303 | 1 |
 | 2023-09-30 | 8,790 | 1 |
 | 2023-10-01 | 9,291 | 1 |
-| 2023-10-02 | 9,407 | 1 |
+| 2023-10-02 | 9,409 | 1 |
 ## Awards
 Max (Character Customization): 3,543  (Ranked 89)  
 Sum: 8,254 (Ranked 98)  

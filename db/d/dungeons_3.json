@@ -2,13 +2,13 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2734,9 +2734,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 32017,
+  "EOS_Progressed": 32018,
   "EOS_Completed": 261,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -20709,6 +20709,11 @@
       "Time": "2023-10-02T04:09:40.9243652+00:00",
       "NumProgressed": 32017,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2023-10-02T06:08:36.8854379+00:00",
+      "NumProgressed": 32018,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 60,
@@ -20832,7 +20837,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15688
+      "UsersEstimate": 15689
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -20856,7 +20861,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9925
+      "UsersEstimate": 9926
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -20880,7 +20885,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11846
+      "UsersEstimate": 11847
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -20912,7 +20917,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11846
+      "UsersEstimate": 11847
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -20928,7 +20933,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13767
+      "UsersEstimate": 13768
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -21000,7 +21005,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8324
+      "UsersEstimate": 8325
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -21080,7 +21085,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9925
+      "UsersEstimate": 9926
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -21144,7 +21149,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -21192,22 +21197,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8324
+      "UsersEstimate": 8325
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 32017,
+      "Progressed": 32018,
       "Completed": 261
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-02T01:42:51.8512469+00:00",
-  "LastChanged_Achievements": "2023-10-02T05:09:48.6809708+00:00",
+  "LastChanged_Achievements": "2023-10-02T06:08:36.8854375+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:41.4813131+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:00:10.6974458+00:00",
-  "LastUpdate_Achievements": "2023-10-02T05:09:48.6811535+00:00"
+  "LastUpdate_Ratings": "2023-10-02T05:59:50.5841689+00:00",
+  "LastUpdate_Achievements": "2023-10-02T06:08:36.8856042+00:00"
 }
