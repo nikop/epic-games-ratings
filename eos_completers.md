@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.74% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.63% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
-| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.75% |
+| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.63% |
@@ -29,7 +29,7 @@
 | 27 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 28 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.74% |
-| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.12% |
+| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.09% |
 | 31 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 31 | [Smelter](games/s/smelter.md) | 10.00% |
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -56,17 +56,17 @@
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 56 | [JARS](games/j/jars.md) | 5.06% |
-| 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.88% |
-| 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
-| 58 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
+| 57 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
+| 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.82% |
+| 57 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
-| 65 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.02% |
+| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.01% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
@@ -76,13 +76,13 @@
 | 74 | [The Complex](games/t/the_complex.md) | 3.38% |
 | 75 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 76 | [Doodle God](games/d/doodle_god.md) | 3.33% |
-| 77 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.23% |
-| 78 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
-| 79 | [Monster Harvest](games/m/monster_harvest.md) | 3.19% |
-| 80 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 80 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.12% |
-| 80 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 83 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
+| 77 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
+| 78 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.23% |
+| 79 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
+| 80 | [Monster Harvest](games/m/monster_harvest.md) | 3.19% |
+| 81 | [HordeCore](games/h/hordecore.md) | 3.12% |
+| 81 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.12% |
+| 81 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
@@ -153,8 +153,8 @@
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 154 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
-| 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 154 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 154 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.62% |
 | 156 | [Haven](games/h/haven.md) | 0.61% |
 | 156 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
 | 158 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
@@ -204,8 +204,8 @@
 | 202 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 202 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 202 | [The Devil's Face](games/t/the_devil's_face.md) | 0.29% |
-| 205 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.28% |
-| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
+| 205 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
+| 206 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.27% |
 | 207 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.26% |
 | 208 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 208 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |

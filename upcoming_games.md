@@ -55,7 +55,7 @@
 | [Lunar Axe](games/8/837d902a50ee4f9295d5f7d324306f1a.md) | 2023-10-31 | - |  | - | - |
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-31 | - |  | - | - |
 | [Revans](games/d/dc5c7673e02543d6b57e9579d970702f.md) | 2023-10-31 | 64 (1,000 XP) | 0 | - | - |
-| [Survivor - Castaway Island](games/f/f8cbf321729f439aae9c088cbbebe93e.md) | 2023-10-31 | 11 (1,000 XP) | 1 | - | - |
+| [Survivor - Castaway Island](games/f/f8cbf321729f439aae9c088cbbebe93e.md) | 2023-10-31 | 11 (1,000 XP) | 2 | - | - |
 | [Sweet Dreams Alex](games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 2023-10-31 | 32 (1,000 XP) | 0 | - | - |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-10-31 | - |  | - | - |
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | - |  | - | - |
@@ -164,6 +164,7 @@
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-12-31 | - |  | - | - |
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2023-12-31 | - |  | - | - |
 | [Tintin Reporter - Cigars of the Pharaoh](games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 2023-12-31 | - |  | - | - |
+| [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 2023-12-31 | 18 (1,000 XP) | 1 | - | 0 |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-12-31 | - |  | - | - |
 | [Uncontained](games/f/f997635f6f6a4d62b592943e93fe7931.md) | 2023-12-31 | - |  | - | - |
 | [VED](games/v/ved.md) | 2023-12-31 | - |  | - | - |
@@ -190,7 +191,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,367 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,372 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
