@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.38% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.32% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -33,7 +33,7 @@
 | 31 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 31 | [Smelter](games/s/smelter.md) | 10.00% |
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 9.38% |
+| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 9.23% |
 | 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
@@ -66,10 +66,10 @@
 | 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.01% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.98% |
+| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.95% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -93,8 +93,8 @@
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
 | 92 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 94 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.47% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.47% |
+| 95 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.46% |
 | 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.34% |
@@ -102,8 +102,8 @@
 | 100 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
 | 100 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
-| 103 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.17% |
-| 104 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
+| 103 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
+| 103 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.15% |
 | 105 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.00% |
 | 105 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.00% |
 | 107 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
@@ -210,10 +210,10 @@
 | 207 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 207 | [Filament](games/f/filament.md) | 0.25% |
 | 207 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.25% |
-| 211 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.24% |
 | 211 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
-| 213 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 213 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 212 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 212 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.23% |
+| 212 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 215 | [Blanc](games/b/blanc.md) | 0.22% |
 | 215 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 217 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
