@@ -6,35 +6,35 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,513 |
-| Rough Landing | 4.00% | ~35,513 |
-| Gunslinger | 3.00% | ~26,635 |
-| The Jungle | 3.00% | ~26,635 |
-| Full Body Conversion | 2.00% | ~17,756 |
-| Right Back At Ya | 2.00% | ~17,756 |
-| Master Crafter | 2.00% | ~17,756 |
-| Mean Streets | 2.00% | ~17,756 |
-| Breathtaking | 2.00% | ~17,756 |
-| Stanislavski's Method | 2.00% | ~17,756 |
-| The Hermit | 2.00% | ~17,756 |
-| The High Priestess | 2.00% | ~17,756 |
-| The Wheel of Fortune | 2.00% | ~17,756 |
-| True Soldier | 2.00% | ~17,756 |
-| True Warrior | 2.00% | ~17,756 |
-| Two Heads, One Bullet | 2.00% | ~17,756 |
-| V for Vendetta | 2.00% | ~17,756 |
-| Legend of The Afterlife | 2.00% | ~17,756 |
-| To Bad Decisions! | 1.00% | ~8,878 |
-| Gun Fu | 1.00% | ~8,878 |
-| Christmas Tree Attack | 1.00% | ~8,878 |
-| The Quick and the Dead | 1.00% | ~8,878 |
-| Temperance | 1.00% | ~8,878 |
-| The Devil | 1.00% | ~8,878 |
-| The Fool | 1.00% | ~8,878 |
-| The Lovers | 1.00% | ~8,878 |
-| The World | 1.00% | ~8,878 |
-| Judy vs Night City | 1.00% | ~8,878 |
-| It's Elementary | 1.00% | ~8,878 |
+| Ten out of Ten | 4.00% | ~35,514 |
+| Rough Landing | 4.00% | ~35,514 |
+| Gunslinger | 3.00% | ~26,636 |
+| The Jungle | 3.00% | ~26,636 |
+| Full Body Conversion | 2.00% | ~17,757 |
+| Right Back At Ya | 2.00% | ~17,757 |
+| Master Crafter | 2.00% | ~17,757 |
+| Mean Streets | 2.00% | ~17,757 |
+| Breathtaking | 2.00% | ~17,757 |
+| Stanislavski's Method | 2.00% | ~17,757 |
+| The Hermit | 2.00% | ~17,757 |
+| The High Priestess | 2.00% | ~17,757 |
+| The Wheel of Fortune | 2.00% | ~17,757 |
+| True Soldier | 2.00% | ~17,757 |
+| True Warrior | 2.00% | ~17,757 |
+| Two Heads, One Bullet | 2.00% | ~17,757 |
+| V for Vendetta | 2.00% | ~17,757 |
+| Legend of The Afterlife | 2.00% | ~17,757 |
+| To Bad Decisions! | 1.00% | ~8,879 |
+| Gun Fu | 1.00% | ~8,879 |
+| Christmas Tree Attack | 1.00% | ~8,879 |
+| The Quick and the Dead | 1.00% | ~8,879 |
+| Temperance | 1.00% | ~8,879 |
+| The Devil | 1.00% | ~8,879 |
+| The Fool | 1.00% | ~8,879 |
+| The Lovers | 1.00% | ~8,879 |
+| The World | 1.00% | ~8,879 |
+| Judy vs Night City | 1.00% | ~8,879 |
+| It's Elementary | 1.00% | ~8,879 |
 | Greetings from Pacifica! | 0.80% | ~7,103 |
 | City Lights | 0.70% | ~6,215 |
 | Life of the Road | 0.70% | ~6,215 |
@@ -44,10 +44,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.40% | ~3,551 |
 | Autojock | 0.40% | ~3,551 |
 | Must Be Rats | 0.40% | ~3,551 |
-| To Protect and Serve | 0.30% | ~2,663 |
-| Frequent Flyer | 0.30% | ~2,663 |
-| The Star | 0.30% | ~2,663 |
-| The Sun | 0.30% | ~2,663 |
+| To Protect and Serve | 0.30% | ~2,664 |
+| Frequent Flyer | 0.30% | ~2,664 |
+| The Star | 0.30% | ~2,664 |
+| The Sun | 0.30% | ~2,664 |
 | Relic Ruler | 0.30% | ~49 |
 | Little Tokyo | 0.20% | ~1,776 |
 | The Wasteland | 0.20% | ~1,776 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,823 (Ranked 15)  
-Completed: 2,545 (0.29%) (Ranked 201)  
+Progressed: 887,857 (Ranked 15)  
+Completed: 2,546 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 2,545 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,823 | 2,545 |
+| 2023-10-02 | 887,857 | 2,546 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
 Sum: 254,097 (Ranked 12)  

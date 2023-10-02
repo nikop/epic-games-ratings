@@ -18,26 +18,26 @@
 | Calm before the Storm | 6.00% | ~2 |
 | To Battle | 6.00% | ~2 |
 | Godslayer | 6.00% | ~2 |
+| The Mentor | 6.00% | ~2 |
 | Miner | 6.00% | ~2 |
-| The Mentor | 3.00% | ~1 |
+| A Queen's Tale | 6.00% | ~2 |
 | Airborne | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
 | Alchemist | 3.00% | ~1 |
 | Stone Collection | 3.00% | ~1 |
-| A Queen's Tale | 3.00% | ~1 |
+| Clear Sight | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
+| All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| Clear Sight | -3.20% | ~-1 |
+| All That Gold | 0.00% | ~0 |
+| Feeling Fancy | 0.00% | ~0 |
+| Summiter | 0.00% | ~0 |
 | Shatterer | -3.20% | ~-1 |
 | Big Bazar | -3.20% | ~-1 |
-| All There Is | -3.20% | ~-1 |
-| All That Gold | -3.20% | ~-1 |
-| Feeling Fancy | -3.20% | ~-1 |
-| Summiter | -3.20% | ~-1 |
 | Flawless Victory | -6.50% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 463)  

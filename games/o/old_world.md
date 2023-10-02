@@ -21,6 +21,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Gold Victory (Carthage 1) | 0.10% | ~14 |
 | Silver Victory (Carthage 1) | 0.10% | ~14 |
+| Carthage - Seizing Destiny | 0.10% | ~14 |
+| Bronze Victory (Carthage 4) | 0.10% | ~14 |
+| Carthage Campaign | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
 | Able | 0.10% | ~14 |
 | Ambitious | 0.10% | ~14 |
@@ -90,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.10% | ~14 |
 | Queen of Politics | 0.10% | ~14 |
 | Queen of Intrigue | 0.10% | ~14 |
+| Queen of Lies | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
 | Acropolis | 0.10% | ~14 |
 | Apadana | 0.10% | ~14 |
@@ -256,12 +260,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Gold Victory (Carthage 3) | 0.00% | ~0 |
 | Silver Victory (Carthage 3) | 0.00% | ~0 |
-| Carthage - Seizing Destiny | 0.00% | ~0 |
-| Bronze Victory (Carthage 4) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
-| Carthage Campaign | 0.00% | ~0 |
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
@@ -296,7 +297,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
 | Philip's Silver Crown | 0.00% | ~0 |
-| Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
 | Mighty Bucephalus | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,289 (Ranked 133)  
+Progressed: 14,291 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 5 (0.03%) (Ranked 275)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
-| 2023-10-02 | 14,289 | 5 |
+| 2023-10-02 | 14,291 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

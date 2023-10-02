@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1245,18 +1245,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1093,
       "NumberOfAwardsMax": 726
+    },
+    {
+      "Time": "2023-10-02T16:00:31.9424376+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1095,
+      "NumberOfAwardsMax": 728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1093,
-  "NumberOfAwardsMax": 726,
+  "NumberOfAwards": 1095,
+  "NumberOfAwardsMax": 728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 726
+      "Count": 728
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1331,9 +1337,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129230,
+  "EOS_Progressed": 129232,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17921,6 +17927,11 @@
       "Time": "2023-10-02T15:07:11.693504+00:00",
       "NumProgressed": 129230,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-02T16:06:18.3186639+00:00",
+      "NumProgressed": 129232,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -17964,7 +17975,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23261
+      "UsersEstimate": 23262
     },
     {
       "ID": "ACH_COP_BAD",
@@ -17988,7 +17999,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31015
+      "UsersEstimate": 31016
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -17996,7 +18007,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10338
+      "UsersEstimate": 10339
     },
     {
       "ID": "ACH_COP_DORK",
@@ -18012,7 +18023,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36184
+      "UsersEstimate": 36185
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -18044,7 +18055,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27138
+      "UsersEstimate": 27139
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -18076,7 +18087,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14215
+      "UsersEstimate": 14216
     },
     {
       "ID": "ACH_CUNO",
@@ -18251,15 +18262,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129230,
+      "Progressed": 129232,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-09-27T09:59:07.5046433+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:07:11.6935034+00:00",
+  "LastChanged": "2023-10-02T16:00:31.9424375+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:06:18.3186637+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:01:05.4782095+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:07:11.6936081+00:00"
+  "LastUpdate_Ratings": "2023-10-02T16:00:31.942438+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:06:18.3187678+00:00"
 }

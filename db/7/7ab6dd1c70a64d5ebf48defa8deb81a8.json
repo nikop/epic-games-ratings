@@ -196,9 +196,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_08",
@@ -212,9 +212,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_10",
@@ -332,9 +332,9 @@
       "ID": "ACH_24",
       "SetID": "efe2lj",
       "Name": "All There Is",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 60,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_25",
@@ -372,9 +372,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 60,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_30",
@@ -412,25 +412,25 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_38",
       "SetID": "efe2lj",
       "Name": "Summiter",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:07:27.4972869+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:02:22.6152103+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:07:27.4973138+00:00"
+  "LastChanged_Achievements": "2023-10-02T16:06:31.3234571+00:00",
+  "LastUpdate_Ratings": "2023-10-02T16:02:12.8870099+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:06:31.3234813+00:00"
 }

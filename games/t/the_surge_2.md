@@ -5,39 +5,39 @@ Rating: 4.24 (Ranked 852)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,658 |
-| Don't I Know You...? | 77.00% | ~1,596 |
-| Jailbreak | 66.00% | ~1,368 |
+| Rigged And Ready | 80.00% | ~1,660 |
+| Don't I Know You...? | 77.00% | ~1,598 |
+| Jailbreak | 66.00% | ~1,370 |
 | HEADSHOT! | 38.00% | ~788 |
 | Suited and Booted | 38.00% | ~788 |
-| Sleeping With The Fishes | 36.00% | ~746 |
+| Sleeping With The Fishes | 36.00% | ~747 |
 | Overheated | 30.00% | ~622 |
 | High Performance | 30.00% | ~622 |
-| Powered Up | 28.00% | ~580 |
-| Studied The Blade | 25.00% | ~518 |
+| Powered Up | 28.00% | ~581 |
+| Studied The Blade | 25.00% | ~519 |
 | Home Invasion | 23.00% | ~477 |
 | Luminary | 22.00% | ~456 |
 | It's a Trap | 22.00% | ~456 |
-| True Survivor | 21.00% | ~435 |
+| True Survivor | 21.00% | ~436 |
 | Offensive Defense | 20.00% | ~415 |
 | Shocking | 20.00% | ~415 |
 | Court Martial | 19.00% | ~394 |
 | Clean Cut | 19.00% | ~394 |
 | Unforeseeable Consequences | 19.00% | ~394 |
-| Dead Again | 18.00% | ~373 |
-| Full Arsenal | 17.00% | ~352 |
+| Dead Again | 18.00% | ~374 |
+| Full Arsenal | 17.00% | ~353 |
 | Can't Trust Banks | 15.00% | ~311 |
 | Mommy Dearest | 14.00% | ~290 |
-| Bad Dog | 13.00% | ~269 |
-| Where It All Began | 13.00% | ~269 |
-| Risk Tolerant | 13.00% | ~269 |
-| What A Catchy Song | 13.00% | ~269 |
+| Bad Dog | 13.00% | ~270 |
+| Where It All Began | 13.00% | ~270 |
+| Risk Tolerant | 13.00% | ~270 |
+| What A Catchy Song | 13.00% | ~270 |
 | Corrupted Beauty | 12.00% | ~249 |
 | Marked For Success | 12.00% | ~249 |
 | Sorry, Didn't See You There | 12.00% | ~249 |
-| Stimulating The Local Economy | 10.00% | ~207 |
-| Triplets | 10.00% | ~207 |
+| Triplets | 10.00% | ~208 |
 | Denying Prophecy | 9.00% | ~187 |
+| Stimulating The Local Economy | 9.00% | ~187 |
 | A Little Banged Up | 8.00% | ~166 |
 | Following In Their Footsteps | 8.00% | ~166 |
 | Defense in Depth | 8.00% | ~166 |
@@ -55,15 +55,15 @@ Rating: 4.24 (Ranked 852)
 | Plank of Wood | 4.00% | ~83 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~62 |
 | Gotta Craft 'em All | 3.00% | ~62 |
-| Own Medicine | 2.00% | ~41 |
-| Three Birds With One Stone | 2.00% | ~41 |
-| Box Office Smash | 2.00% | ~41 |
-| Going Postal | 2.00% | ~41 |
-| Loot, Pillage & Craft | 2.00% | ~41 |
+| Own Medicine | 2.00% | ~42 |
+| Three Birds With One Stone | 2.00% | ~42 |
+| Box Office Smash | 2.00% | ~42 |
+| Going Postal | 2.00% | ~42 |
+| Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,073 (Ranked 198)  
+Progressed: 2,075 (Ranked 198)  
 Completed: 12 (0.58%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 12 (0.58%) (Ranked 159)
 | 2023-09-28 | 2,067 | 12 |
 | 2023-09-29 | 2,068 | 12 |
 | 2023-10-01 | 2,073 | 12 |
+| 2023-10-02 | 2,075 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

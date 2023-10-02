@@ -10841,9 +10841,9 @@
       "Count": 25022
     }
   ],
-  "EOS_Progressed": 915102,
+  "EOS_Progressed": 915209,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13496,
+  "EOS_NewPlayers": 13483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29536,6 +29536,11 @@
       "Time": "2023-10-02T15:04:16.8555024+00:00",
       "NumProgressed": 915102,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-02T16:03:48.4425513+00:00",
+      "NumProgressed": 915209,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -31369,30 +31374,30 @@
       "ID": "ACH_232",
       "SetID": "16jml5b",
       "Name": "Adept Ripley",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 915
     }
   ],
   "AchievementSets": [
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 915102,
+      "Progressed": 915209,
       "Completed": 48
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 915102,
+      "Progressed": 915209,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-02T13:57:37.6142521+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:04:16.855502+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:03:48.4425508+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:57:26.6234532+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:04:16.856068+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:57:24.5368371+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:03:48.4431541+00:00"
 }

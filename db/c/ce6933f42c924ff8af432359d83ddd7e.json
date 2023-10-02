@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 4.15,
+  "EOS_Completed_Percentage": 4.13,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -409,6 +409,11 @@
       "Time": "2023-10-02T15:07:42.6765288+00:00",
       "NumProgressed": 217,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-02T16:06:44.6200106+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -437,7 +442,7 @@
       "Name": "Sweet tooth",
       "Percentage": 76,
       "XP": 45,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -477,7 +482,7 @@
       "Name": "Food lover",
       "Percentage": 66,
       "XP": 55,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -500,13 +505,13 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:07:42.6765284+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:06:44.6200101+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:58:23.5606727+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:07:42.6765391+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:58:10.4020968+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:06:44.6200221+00:00"
 }

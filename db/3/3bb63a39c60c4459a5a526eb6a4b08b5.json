@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 755,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2827,9 +2827,9 @@
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 257
     },
     {
       "ID": "Calculated",
@@ -3011,9 +3011,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 325
     },
     {
       "ID": "NotPlanned",
@@ -3067,9 +3067,9 @@
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 257
     },
     {
       "ID": "Restructuring",
@@ -3138,8 +3138,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:08:25.6864158+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:08:13.7089653+00:00",
   "LastUpdate_AppInfo": "2023-09-26T13:04:17.0353541+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:58:38.8292072+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:08:25.6864562+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:58:22.7070481+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:08:13.7090105+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1511,6 +1511,11 @@
       "Time": "2023-10-02T01:46:38.1237214+00:00",
       "NumProgressed": 343,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T16:03:58.0005595+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1528,9 +1533,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1608,9 +1613,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1633,14 +1638,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:04:28.3878921+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:03:58.0005591+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:58.5619697+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:58:23.0910853+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:04:28.3879093+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:58:10.0213198+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:03:58.0005783+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.05 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,845 |
-| World Map | 79.00% | ~1,567 |
+| Victor | 93.00% | ~1,846 |
+| World Map | 79.00% | ~1,568 |
 | Temple of Eternals | 57.00% | ~1,131 |
-| Prestigious | 54.00% | ~1,071 |
-| Fellowship Power | 42.00% | ~833 |
+| Prestigious | 54.00% | ~1,072 |
+| Fellowship Power | 42.00% | ~834 |
 | Guild Power | 26.00% | ~516 |
-| Prestigious x10 | 23.00% | ~456 |
+| Prestigious x10 | 23.00% | ~457 |
 | The game is on | 21.00% | ~417 |
 | Exotic Merchant | 19.00% | ~377 |
 | Dragon Clicker | 18.00% | ~357 |
 | Full Party | 17.00% | ~337 |
 | Inspection | 17.00% | ~337 |
 | Miner Clicker | 17.00% | ~337 |
-| Dragon Master | 16.00% | ~317 |
-| Enlightenment | 16.00% | ~317 |
+| Dragon Master | 16.00% | ~318 |
+| Enlightenment | 16.00% | ~318 |
 | Hero inspection | 15.00% | ~298 |
 | Lieutenant | 15.00% | ~298 |
 | Milestone collector | 14.00% | ~278 |
@@ -50,12 +50,12 @@ Rating: 4.05 (Ranked 950)
 | Engineer Mastery | 8.00% | ~159 |
 | The Expeditioner | 8.00% | ~159 |
 | Weekly Quest Completionist | 8.00% | ~159 |
-| How Do You Turn This On? | 7.00% | ~139 |
 | Lock And Load | 7.00% | ~139 |
 | Missions Dedication | 7.00% | ~139 |
 | Sailor | 7.00% | ~139 |
 | Active Member | 6.00% | ~119 |
 | Ancient Knowledge | 6.00% | ~119 |
+| How Do You Turn This On? | 6.00% | ~119 |
 | Legendary | 6.00% | ~119 |
 | The Alchemist | 6.00% | ~119 |
 | Arena Challenger | 5.00% | ~99 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 950)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,984 (Ranked 199)  
+Progressed: 1,985 (Ranked 199)  
 Completed: 2 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 2 (0.10%) (Ranked 243)
 | 2023-09-28 | 1,978 | 2 |
 | 2023-09-30 | 1,981 | 2 |
 | 2023-10-01 | 1,984 | 2 |
+| 2023-10-02 | 1,985 | 2 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 496)  
 Sum: 66 (Ranked 451)  

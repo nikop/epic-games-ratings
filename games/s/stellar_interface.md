@@ -84,6 +84,7 @@
 | Golden Alchemist | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
+| Rampage | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
@@ -123,7 +124,6 @@
 | Godlike | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
 | Usurper IV | 0.00% | ~0 |
-| Rampage | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |

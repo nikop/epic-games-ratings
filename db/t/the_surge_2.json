@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2073,
+  "EOS_Progressed": 2075,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2651,6 +2651,11 @@
       "Time": "2023-10-01T21:05:05.5935266+00:00",
       "NumProgressed": 2073,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-02T16:04:34.7177653+00:00",
+      "NumProgressed": 2075,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2670,7 +2675,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACHV_03",
@@ -2678,7 +2683,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHV_04",
@@ -2694,7 +2699,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACHV_06",
@@ -2726,7 +2731,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHV_10",
@@ -2758,7 +2763,7 @@
       "Name": "Own Medicine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHV_14",
@@ -2798,7 +2803,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHV_19",
@@ -2820,9 +2825,9 @@
       "ID": "ACHV_21",
       "SetID": "8p5mlmc",
       "Name": "Stimulating The Local Economy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHV_22",
@@ -2854,7 +2859,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACHV_26",
@@ -2862,7 +2867,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACHV_27",
@@ -2886,7 +2891,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHV_30",
@@ -2894,7 +2899,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACHV_31",
@@ -2902,7 +2907,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHV_32",
@@ -2934,7 +2939,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACHV_36",
@@ -2958,7 +2963,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHV_39",
@@ -2966,7 +2971,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1598
     },
     {
       "ID": "ACHV_40",
@@ -2974,7 +2979,7 @@
       "Name": "Three Birds With One Stone",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHV_41",
@@ -2998,7 +3003,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHV_44",
@@ -3046,7 +3051,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHV_50",
@@ -3078,7 +3083,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHV_54",
@@ -3110,14 +3115,14 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2073,
+      "Progressed": 2075,
       "Completed": 12
     }
   ],
@@ -3125,8 +3130,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:05:10.4430279+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:04:34.7177648+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.8847367+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:57:54.026039+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:05:10.4430799+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:57:46.6673799+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:04:34.7178231+00:00"
 }

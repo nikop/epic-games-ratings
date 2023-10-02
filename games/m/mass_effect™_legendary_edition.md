@@ -15,14 +15,14 @@
 | Medal of Exploration II | 59.00% | ~313 |
 | Council Legion of Merit | 58.00% | ~307 |
 | Turian Ally | 57.00% | ~302 |
+| Meritorious Service Medal | 56.00% | ~297 |
 | Medal of Honor | 55.00% | ~292 |
-| Meritorious Service Medal | 55.00% | ~292 |
 | Charismatic | 55.00% | ~292 |
-| Soldier | 53.00% | ~281 |
+| Soldier | 54.00% | ~286 |
 | Asari Ally | 52.00% | ~276 |
+| Principled | 51.00% | ~270 |
 | Medal of Exploration III | 50.00% | ~265 |
 | Soldier Ally | 50.00% | ~265 |
-| Principled | 50.00% | ~265 |
 | Colonial Savior | 49.00% | ~260 |
 | Paramour I | 45.00% | ~238 |
 | Sentinel Ally | 45.00% | ~238 |
@@ -32,9 +32,9 @@
 | Head Hunter | 42.00% | ~223 |
 | Operative | 40.00% | ~212 |
 | Veteran | 39.00% | ~207 |
+| Missing in Action | 39.00% | ~207 |
 | Very Elusive | 39.00% | ~207 |
 | Scholar | 39.00% | ~207 |
-| Missing in Action | 38.00% | ~201 |
 | Power Full | 38.00% | ~201 |
 | The Professor | 36.00% | ~191 |
 | Archivist | 35.00% | ~186 |
@@ -54,16 +54,16 @@
 | The Prodigal | 30.00% | ~159 |
 | A Personal Touch | 29.00% | ~154 |
 | Big Game Hunter | 29.00% | ~154 |
+| Agent | 29.00% | ~154 |
 | Revenge! | 29.00% | ~154 |
 | Heart of Darkness | 29.00% | ~154 |
 | Shopaholic | 29.00% | ~154 |
+| Cat's in the Cradle | 28.00% | ~148 |
 | Catharsis | 28.00% | ~148 |
 | Fade Away | 28.00% | ~148 |
 | Ghost of the Father | 28.00% | ~148 |
-| Agent | 28.00% | ~148 |
 | Driven | 28.00% | ~148 |
 | Focused | 27.00% | ~143 |
-| Cat's in the Cradle | 27.00% | ~143 |
 | Doppelganger | 27.00% | ~143 |
 | Treason | 27.00% | ~143 |
 | Digital Exorcist | 27.00% | ~143 |
@@ -77,10 +77,10 @@
 | Eye of the Hurricane | 23.00% | ~122 |
 | Mission Accomplished | 23.00% | ~122 |
 | Against All Odds | 23.00% | ~122 |
+| Weapon Specialist | 23.00% | ~122 |
 | World Shaker | 23.00% | ~122 |
 | Liberator | 23.00% | ~122 |
 | A House Divided | 22.00% | ~117 |
-| Weapon Specialist | 22.00% | ~117 |
 | Pathfinder | 21.00% | ~111 |
 | Savior | 20.00% | ~106 |
 | Paramour II | 20.00% | ~106 |

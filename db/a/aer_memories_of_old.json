@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21294,
+  "EOS_Progressed": 21296,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -18120,6 +18120,11 @@
       "Time": "2023-10-02T15:08:06.2658278+00:00",
       "NumProgressed": 21294,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2023-10-02T16:06:47.3860067+00:00",
+      "NumProgressed": 21296,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 20,
@@ -18155,7 +18160,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -18163,7 +18168,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -18171,7 +18176,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -18187,7 +18192,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -18243,7 +18248,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "INTRO_FINISHED",
@@ -18251,7 +18256,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16396
+      "UsersEstimate": 16398
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18259,7 +18264,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "NORTH_FINISHED",
@@ -18290,15 +18295,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21294,
+      "Progressed": 21296,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:08:06.2658274+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:06:47.3860061+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:00:37.950698+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:08:06.2659231+00:00"
+  "LastUpdate_Ratings": "2023-10-02T16:00:07.3738416+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:06:47.3861035+00:00"
 }

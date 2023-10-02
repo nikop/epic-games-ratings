@@ -462,9 +462,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "b36c5kb",
       "Name": "Unfortunate Consequence",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:07:33.1130055+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:06:36.1291243+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:09.1517337+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:58:06.3095954+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:07:33.1130459+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:57:56.6944408+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:06:36.1291652+00:00"
 }

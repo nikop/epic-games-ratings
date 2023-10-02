@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14289,
+  "EOS_Progressed": 14291,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12795,6 +12795,11 @@
       "Time": "2023-10-02T15:07:04.8926234+00:00",
       "NumProgressed": 14289,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-02T16:06:12.7307679+00:00",
+      "NumProgressed": 14291,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13076,17 +13081,17 @@
       "ID": "ACHIEVEMENT_CARTHAGE_4",
       "SetID": "9201eeb",
       "Name": "Carthage - Seizing Destiny",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 4)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_EPIC",
@@ -13116,9 +13121,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_CAMPAIGN",
       "SetID": "9201eeb",
       "Name": "Carthage Campaign",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CLEOPATRAS_LOVE",
@@ -13980,9 +13985,9 @@
       "ID": "ACHIEVEMENT_GREECE4_WIN_OLYMPIAS_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of Lies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_WIN_PAUSANIAS_STORYLINE",
@@ -15541,21 +15546,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14289,
+      "Progressed": 14291,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14289,
+      "Progressed": 14291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:07:04.8926229+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:06:12.7307675+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:58:47.7703151+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:07:04.8936448+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:58:31.0963081+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:06:12.7318217+00:00"
 }

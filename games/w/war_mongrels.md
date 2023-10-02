@@ -23,7 +23,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 33.00% | ~173 |
 | King of Knives | 33.00% | ~173 |
 | The Horror | 30.00% | ~158 |
-| The Difference | 27.00% | ~142 |
+| The Difference | 28.00% | ~147 |
 | Vengeance | 26.00% | ~136 |
 | Collectibles of Chapter II | 23.00% | ~121 |
 | Broken Hopes | 23.00% | ~121 |

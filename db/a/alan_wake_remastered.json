@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66772,
+  "EOS_Progressed": 66774,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16639,6 +16639,11 @@
       "Time": "2023-10-02T15:04:31.4397006+00:00",
       "NumProgressed": 66772,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-02T16:04:00.885203+00:00",
+      "NumProgressed": 66774,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -16650,7 +16655,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 28044
+      "UsersEstimate": 28045
     },
     {
       "ID": "02",
@@ -16658,7 +16663,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18028
+      "UsersEstimate": 18029
     },
     {
       "ID": "03",
@@ -16698,7 +16703,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8680
+      "UsersEstimate": 8681
     },
     {
       "ID": "08",
@@ -16738,7 +16743,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8680
+      "UsersEstimate": 8681
     },
     {
       "ID": "13",
@@ -16770,7 +16775,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "17",
@@ -16842,7 +16847,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "26",
@@ -16922,7 +16927,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22702
+      "UsersEstimate": 22703
     },
     {
       "ID": "36",
@@ -17058,7 +17063,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "53",
@@ -17114,7 +17119,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "60",
@@ -17185,21 +17190,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66772,
+      "Progressed": 66774,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30240,
+      "Progressed": 30242,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-02T15:04:31.4396999+00:00",
+  "LastChanged_Achievements": "2023-10-02T16:04:00.8852022+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:59:38.803781+00:00",
-  "LastUpdate_Achievements": "2023-10-02T15:04:31.439832+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:59:15.7010757+00:00",
+  "LastUpdate_Achievements": "2023-10-02T16:04:00.8853556+00:00"
 }
