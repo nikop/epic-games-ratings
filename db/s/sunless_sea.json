@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38191,
+  "EOS_Progressed": 38194,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17497,6 +17497,11 @@
       "Time": "2023-10-02T16:06:24.2579017+00:00",
       "NumProgressed": 38191,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T17:08:38.758156+00:00",
+      "NumProgressed": 38194,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17524,7 +17529,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6493
     },
     {
       "ID": "ach_antiquarian10",
@@ -17628,7 +17633,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13749
+      "UsersEstimate": 13750
     },
     {
       "ID": "ach_die10",
@@ -17708,7 +17713,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ach_legacyrival",
@@ -17724,7 +17729,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ach_legacyshipmate",
@@ -17740,7 +17745,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ach_portbell",
@@ -17852,7 +17857,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ach_sweetheart",
@@ -17860,7 +17865,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ach_terror100",
@@ -17916,7 +17921,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "ach_year10",
@@ -17939,15 +17944,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38191,
+      "Progressed": 38194,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:06:24.257901+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:08:38.758155+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:57:05.8847022+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:06:24.2580415+00:00"
+  "LastUpdate_Ratings": "2023-10-02T16:57:35.9511501+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:08:38.7583111+00:00"
 }

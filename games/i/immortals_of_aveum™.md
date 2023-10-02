@@ -31,9 +31,9 @@ Rating: 4.00 (Ranked 960)
 | Periapt Cerulean | 11.00% | ~6 |
 | Shroudfane Explorer | 11.00% | ~6 |
 | Good Boy | 11.00% | ~6 |
+| Periapt Viridian | 9.00% | ~5 |
 | Scholar | 7.00% | ~4 |
 | Armaments Azure | 7.00% | ~4 |
-| Periapt Viridian | 7.00% | ~4 |
 | Veteran | 7.00% | ~4 |
 | Armaments Vert | 5.00% | ~3 |
 | Kitted Out | 4.00% | ~2 |

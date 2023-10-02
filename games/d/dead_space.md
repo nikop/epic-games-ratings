@@ -10,15 +10,15 @@ Rating: 4.61 (Ranked 370)
 | Lab Rat | 75.00% | ~533 |
 | All Systems Go | 65.00% | ~462 |
 | Brute Force | 65.00% | ~462 |
-| Cannon Fodder | 60.00% | ~427 |
+| Cannon Fodder | 61.00% | ~434 |
 | Autofire | 59.00% | ~419 |
 | Raise the Stakes | 56.00% | ~398 |
 | True Believer | 55.00% | ~391 |
 | Story Teller | 54.00% | ~384 |
 | Surgeon | 50.00% | ~356 |
+| Freeze | 48.00% | ~341 |
 | Exterminator | 48.00% | ~341 |
 | Greenhouse Effect | 48.00% | ~341 |
-| Freeze | 47.00% | ~334 |
 | Full Arsenal | 42.00% | ~299 |
 | Live with the Hot Ones | 40.00% | ~284 |
 | S.O.S. | 40.00% | ~284 |
@@ -43,7 +43,7 @@ Rating: 4.61 (Ranked 370)
 | Z-Baller | 19.00% | ~135 |
 | Marked | 17.00% | ~121 |
 | Eviscerator | 16.00% | ~114 |
-| Backbreaker | 12.00% | ~85 |
+| Backbreaker | 13.00% | ~92 |
 | Wishbone | 7.00% | ~50 |
 | Trusted Contractor | 5.00% | ~36 |
 | Built To Order | 4.00% | ~28 |

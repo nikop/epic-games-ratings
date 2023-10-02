@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66774,
+  "EOS_Progressed": 66776,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
@@ -16644,6 +16644,11 @@
       "Time": "2023-10-02T16:04:00.885203+00:00",
       "NumProgressed": 66774,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-02T17:05:19.0317687+00:00",
+      "NumProgressed": 66776,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -16655,7 +16660,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 28045
+      "UsersEstimate": 28046
     },
     {
       "ID": "02",
@@ -16663,7 +16668,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18029
+      "UsersEstimate": 18030
     },
     {
       "ID": "03",
@@ -16671,7 +16676,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17361
+      "UsersEstimate": 17362
     },
     {
       "ID": "04",
@@ -16711,7 +16716,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9348
+      "UsersEstimate": 9349
     },
     {
       "ID": "09",
@@ -16727,7 +16732,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "11",
@@ -16735,7 +16740,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "12",
@@ -16751,7 +16756,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "14",
@@ -16791,7 +16796,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "19",
@@ -16831,7 +16836,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "24",
@@ -16863,7 +16868,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9348
+      "UsersEstimate": 9349
     },
     {
       "ID": "28",
@@ -16871,7 +16876,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9348
+      "UsersEstimate": 9349
     },
     {
       "ID": "29",
@@ -16895,7 +16900,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12019
+      "UsersEstimate": 12020
     },
     {
       "ID": "32",
@@ -16903,7 +16908,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22035
+      "UsersEstimate": 22036
     },
     {
       "ID": "33",
@@ -16927,7 +16932,7 @@
       "Name": "Let There Be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22703
+      "UsersEstimate": 22704
     },
     {
       "ID": "36",
@@ -16951,7 +16956,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "39",
@@ -16967,7 +16972,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6677
+      "UsersEstimate": 6678
     },
     {
       "ID": "41",
@@ -16975,7 +16980,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12019
+      "UsersEstimate": 12020
     },
     {
       "ID": "42",
@@ -17039,7 +17044,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "50",
@@ -17055,7 +17060,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "52",
@@ -17190,21 +17195,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66774,
+      "Progressed": 66776,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30242,
+      "Progressed": 30244,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:04:00.8852022+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:05:19.0317678+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:59:15.7010757+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:04:00.8853556+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:00:45.8031213+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:05:19.0320423+00:00"
 }

@@ -231,12 +231,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Cage | 0.10% | ~915 |
 | Terror of LV-426 | 0.10% | ~915 |
 | Disarm and Dismember | 0.10% | ~915 |
+| Adept Xenomorph | 0.10% | ~915 |
 | MU/TH/UR Dearest | 0.10% | ~915 |
 | Kitted Out | 0.10% | ~915 |
 | Adept Ripley | 0.10% | ~915 |
-| Adept Xenomorph | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,209 (Ranked 14)  
+Progressed: 915,301 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 49 (0.01%) (Ranked 287)
 | 2023-09-29 | 909,253 | 49 |
 | 2023-09-30 | 911,680 | 49 |
 | 2023-10-01 | 914,087 | 49 |
-| 2023-10-02 | 915,209 | 49 |
+| 2023-10-02 | 915,301 | 49 |
 ## Awards
 Max (Diverse Characters): 33,343  (Ranked 15)  
 Sum: 258,833 (Ranked 11)  

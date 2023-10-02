@@ -5,10 +5,10 @@
   "Ranking_Rating": 871,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -496,7 +496,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8212,
+  "EOS_Progressed": 8213,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -9656,6 +9656,11 @@
       "Time": "2023-10-02T15:08:11.4873251+00:00",
       "NumProgressed": 8212,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-02T17:09:16.8964036+00:00",
+      "NumProgressed": 8213,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9667,7 +9672,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6816
+      "UsersEstimate": 6817
     },
     {
       "ID": "ACH02",
@@ -9739,7 +9744,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "ACH11",
@@ -9779,7 +9784,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH16",
@@ -9851,7 +9856,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH25",
@@ -9898,7 +9903,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8212,
+      "Progressed": 8213,
       "Completed": 53
     }
   ],
@@ -9906,8 +9911,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-01T15:59:04.0978049+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:06:51.8382858+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:09:16.8964031+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.8186883+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:59:14.3173887+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:06:51.8383528+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:00:43.8239368+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:09:16.8964946+00:00"
 }

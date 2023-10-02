@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7117,9 +7117,9 @@
       "ID": "Ach032",
       "SetID": "12n4k20",
       "Name": "Perfecter Parry-er!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 288
     },
     {
       "ID": "Ach033",
@@ -7245,9 +7245,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 453
     },
     {
       "ID": "Ach049",
@@ -7452,8 +7452,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:02:15.644711+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:03:27.9903285+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.8155806+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:59:16.4665553+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:02:15.6448661+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:00:46.988256+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:03:27.9904961+00:00"
 }

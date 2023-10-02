@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2256,9 +2256,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26160,
+  "EOS_Progressed": 26161,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14026,6 +14026,11 @@
       "Time": "2023-10-02T14:05:19.540973+00:00",
       "NumProgressed": 26160,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-02T17:06:34.7075768+00:00",
+      "NumProgressed": 26161,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14099,9 +14104,9 @@
       "ID": "Cultured",
       "SetID": "819popo",
       "Name": "Cultured",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Daily_Dose",
@@ -14363,9 +14368,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Teamwork",
@@ -14419,9 +14424,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 209
     },
     {
       "ID": "Welcome_Crew",
@@ -14444,7 +14449,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26160,
+      "Progressed": 26161,
       "Completed": 58
     }
   ],
@@ -14452,8 +14457,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-01T22:01:08.073081+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:04:56.0666488+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:06:34.7075763+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:57:02.5816884+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:04:56.0667547+00:00"
+  "LastUpdate_Ratings": "2023-10-02T16:57:31.2058221+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:06:34.707715+00:00"
 }

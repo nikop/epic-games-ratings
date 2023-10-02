@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10841,9 +10841,9 @@
       "Count": 25022
     }
   ],
-  "EOS_Progressed": 915209,
+  "EOS_Progressed": 915301,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13483,
+  "EOS_NewPlayers": 13456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29541,6 +29541,11 @@
       "Time": "2023-10-02T16:03:48.4425513+00:00",
       "NumProgressed": 915209,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-02T17:05:01.7055313+00:00",
+      "NumProgressed": 915301,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -31350,9 +31355,9 @@
       "ID": "ACH_229",
       "SetID": "16jml5b",
       "Name": "Adept Xenomorph",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_230",
@@ -31383,21 +31388,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 915209,
+      "Progressed": 915301,
       "Completed": 48
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 915209,
+      "Progressed": 915301,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-02T13:57:37.6142521+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:03:48.4425508+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:05:01.7055308+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:57:24.5368371+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:03:48.4431541+00:00"
+  "LastUpdate_Ratings": "2023-10-02T16:58:00.7048432+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:05:01.7062963+00:00"
 }

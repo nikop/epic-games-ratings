@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -665,9 +665,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "ANNOYING",
@@ -930,8 +930,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:05:36.3658409+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:07:30.9281482+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:49.6305569+00:00",
-  "LastUpdate_Ratings": "2023-10-02T16:00:23.5519101+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:05:36.3658652+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:02:20.6448951+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:07:30.9281948+00:00"
 }

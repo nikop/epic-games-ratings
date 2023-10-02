@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 388,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -926,6 +926,11 @@
       "Time": "2023-10-02T16:03:49.2743426+00:00",
       "NumProgressed": 386,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T17:05:02.6907151+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -986,7 +991,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_16",
@@ -1042,7 +1047,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_22",
@@ -1082,7 +1087,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_27",
@@ -1114,7 +1119,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_30",
@@ -1122,7 +1127,7 @@
       "Name": "Precision shot",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_31",
@@ -1138,15 +1143,15 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_33",
       "SetID": "271ol84",
       "Name": "Safety ain\u0027t the point of a joyride",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_34",
@@ -1154,7 +1159,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_35",
@@ -1162,7 +1167,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_36",
@@ -1170,7 +1175,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_37",
@@ -1178,7 +1183,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_38",
@@ -1202,7 +1207,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_40",
@@ -1210,7 +1215,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_41",
@@ -1240,9 +1245,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_45",
@@ -1250,7 +1255,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_46",
@@ -1298,7 +1303,7 @@
       "Name": "City in the Clouds",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_51",
@@ -1362,7 +1367,7 @@
       "Name": "Alternative solution",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_59",
@@ -1376,9 +1381,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_60",
@@ -1386,7 +1391,7 @@
       "Name": "What will you become?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_61",
@@ -1394,7 +1399,7 @@
       "Name": "The circle is now complete",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_62",
@@ -1410,7 +1415,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_7",
@@ -1418,7 +1423,7 @@
       "Name": "A cunning warrior",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_8",
@@ -1441,13 +1446,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 388,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 386,
+      "Progressed": 388,
       "Completed": 1
     }
   ],
@@ -1455,8 +1460,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:03:49.2743421+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:05:02.6907144+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:59:34.1397732+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:03:49.2744007+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:01:12.8849644+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:05:02.6909294+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "27aa2ebdcda14b3bb8a669aab73ca55f",
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
-  "Ranking_Rating": 782,
+  "Ranking_Rating": 777,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-07-21T13:07:17.4893091+00:00",
@@ -2460,10 +2460,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 4888,
       "NumberOfAwardsMax": 2498
+    },
+    {
+      "Time": "2023-10-02T16:57:50.5931056+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 4893,
+      "NumberOfAwardsMax": 2498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4888,
+  "NumberOfAwards": 4893,
   "NumberOfAwardsMax": 2498,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2483,7 +2489,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 382
+      "Count": 387
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2540,8 +2546,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-10-02T10:57:19.3908943+00:00",
+  "LastChanged": "2023-10-02T16:57:50.5931054+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.7387245+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:57:17.4429666+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:08:18.8857909+00:00"
+  "LastUpdate_Ratings": "2023-10-02T16:57:50.593106+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:09:39.138759+00:00"
 }

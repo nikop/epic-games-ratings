@@ -21,10 +21,10 @@
 | Hacker | 19.00% | ~104 |
 | He is just a child | 19.00% | ~104 |
 | Uncertain | 18.00% | ~99 |
+| Ace | 17.00% | ~93 |
 | Concrete painting | 17.00% | ~93 |
 | Goody | 17.00% | ~93 |
 | Please oh pleeease! | 17.00% | ~93 |
-| Ace | 16.00% | ~88 |
 | Found it! | 16.00% | ~88 |
 | Hipster | 16.00% | ~88 |
 | Not what it seems | 16.00% | ~88 |

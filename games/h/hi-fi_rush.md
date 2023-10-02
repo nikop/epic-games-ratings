@@ -13,7 +13,7 @@ Rating: 4.85 (Ranked 42)
 | Thanks for the free chip, Peppermint! | 12.00% | ~494 |
 | You got this, Peppermint? | 11.00% | ~453 |
 | Perfect Parry | 11.00% | ~453 |
-| Alright, that felt AWESOME! | 10.00% | ~412 |
+| Alright, that felt AWESOME! | 11.00% | ~453 |
 | This will cost you big time | 9.00% | ~371 |
 | I play my own way! | 9.00% | ~371 |
 | Z-shielding's got nothing on us! | 9.00% | ~371 |
@@ -27,10 +27,10 @@ Rating: 4.85 (Ranked 42)
 | Time to pay up! | 7.00% | ~288 |
 | Who's the boss now? | 7.00% | ~288 |
 | You must like calling me in, Chai | 7.00% | ~288 |
+| Perfecter Parry-er! | 7.00% | ~288 |
 | Does that say weakpoint? | 7.00% | ~288 |
 | NOW we got a kickass hideout! | 7.00% | ~185 |
 | I have to read these things? | 6.00% | ~247 |
-| Perfecter Parry-er! | 6.00% | ~247 |
 | Well that was a rush! | 4.00% | ~165 |
 | Beat-hit mania | 4.00% | ~165 |
 | That's a lot of junk metal… | 4.00% | ~165 |

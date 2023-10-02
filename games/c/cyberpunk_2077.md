@@ -6,24 +6,24 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,514 |
-| Rough Landing | 4.00% | ~35,514 |
-| Gunslinger | 3.00% | ~26,636 |
-| The Jungle | 3.00% | ~26,636 |
-| Full Body Conversion | 2.00% | ~17,757 |
-| Right Back At Ya | 2.00% | ~17,757 |
-| Master Crafter | 2.00% | ~17,757 |
-| Mean Streets | 2.00% | ~17,757 |
-| Breathtaking | 2.00% | ~17,757 |
-| Stanislavski's Method | 2.00% | ~17,757 |
-| The Hermit | 2.00% | ~17,757 |
-| The High Priestess | 2.00% | ~17,757 |
-| The Wheel of Fortune | 2.00% | ~17,757 |
-| True Soldier | 2.00% | ~17,757 |
-| True Warrior | 2.00% | ~17,757 |
-| Two Heads, One Bullet | 2.00% | ~17,757 |
-| V for Vendetta | 2.00% | ~17,757 |
-| Legend of The Afterlife | 2.00% | ~17,757 |
+| Ten out of Ten | 4.00% | ~35,515 |
+| Rough Landing | 4.00% | ~35,515 |
+| Gunslinger | 3.00% | ~26,637 |
+| The Jungle | 3.00% | ~26,637 |
+| Full Body Conversion | 2.00% | ~17,758 |
+| Right Back At Ya | 2.00% | ~17,758 |
+| Master Crafter | 2.00% | ~17,758 |
+| Mean Streets | 2.00% | ~17,758 |
+| Breathtaking | 2.00% | ~17,758 |
+| Stanislavski's Method | 2.00% | ~17,758 |
+| The Hermit | 2.00% | ~17,758 |
+| The High Priestess | 2.00% | ~17,758 |
+| The Wheel of Fortune | 2.00% | ~17,758 |
+| True Soldier | 2.00% | ~17,758 |
+| True Warrior | 2.00% | ~17,758 |
+| Two Heads, One Bullet | 2.00% | ~17,758 |
+| V for Vendetta | 2.00% | ~17,758 |
+| Legend of The Afterlife | 2.00% | ~17,758 |
 | To Bad Decisions! | 1.00% | ~8,879 |
 | Gun Fu | 1.00% | ~8,879 |
 | Christmas Tree Attack | 1.00% | ~8,879 |
@@ -38,17 +38,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.80% | ~7,103 |
 | City Lights | 0.70% | ~6,215 |
 | Life of the Road | 0.70% | ~6,215 |
-| Spin Doctor | 0.70% | ~115 |
+| Spin Doctor | 0.70% | ~116 |
 | Bushido and Chill | 0.50% | ~4,439 |
 | I Am The Law | 0.50% | ~4,439 |
-| The Wandering Fool | 0.40% | ~3,551 |
-| Autojock | 0.40% | ~3,551 |
-| Must Be Rats | 0.40% | ~3,551 |
+| The Wandering Fool | 0.40% | ~3,552 |
+| Autojock | 0.40% | ~3,552 |
+| Must Be Rats | 0.40% | ~3,552 |
+| The Sun | 0.40% | ~3,552 |
 | To Protect and Serve | 0.30% | ~2,664 |
 | Frequent Flyer | 0.30% | ~2,664 |
 | The Star | 0.30% | ~2,664 |
-| The Sun | 0.30% | ~2,664 |
-| Relic Ruler | 0.30% | ~49 |
+| Relic Ruler | 0.30% | ~50 |
 | Little Tokyo | 0.20% | ~1,776 |
 | The Wasteland | 0.20% | ~1,776 |
 | The APB is Not Enough | 0.20% | ~33 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,857 (Ranked 15)  
-Completed: 2,546 (0.29%) (Ranked 201)  
+Progressed: 887,885 (Ranked 15)  
+Completed: 2,546 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,10 +229,10 @@ Completed: 2,546 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,857 | 2,546 |
+| 2023-10-02 | 887,885 | 2,546 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
-Sum: 254,097 (Ranked 12)  
+Sum: 254,315 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): -3
 | This game is Relaxing | 11,769 |
 | This game has Amazing Characters | 11,759 |
 | This game has Quickly Understood Controls | 11,574 |
-| This game has a Creative Community | 7,629 |
+| This game has a Creative Community | 7,847 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -506,4 +506,4 @@ Diff (max vs sum): -3
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
-| 2023-10-02 | 4.63 | - | 89,540 | 254,097 |
+| 2023-10-02 | 4.63 | - | 89,540 | 254,315 |

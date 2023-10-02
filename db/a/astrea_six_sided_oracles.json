@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AnomalyMaster",
@@ -848,8 +848,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:08:06.4389076+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:09:22.3352968+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:59:23.3440939+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:08:06.4389879+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:00:57.6090366+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:09:22.3354589+00:00"
 }

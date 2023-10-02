@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -2296,17 +2296,17 @@
       "ID": "achievement_35",
       "SetID": "222fo9l",
       "Name": "Freeze",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_36",
       "SetID": "222fo9l",
       "Name": "Backbreaker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_37",
@@ -2336,9 +2336,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_40",
@@ -2457,8 +2457,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:06:04.4563606+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:08:10.3714337+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:57:55.6990191+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:06:04.4564008+00:00"
+  "LastUpdate_Ratings": "2023-10-02T16:58:46.5622379+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:08:10.3714959+00:00"
 }

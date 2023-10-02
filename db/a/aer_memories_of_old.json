@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21296,
+  "EOS_Progressed": 21297,
   "EOS_Completed": 424,
   "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 4,
@@ -18125,6 +18125,11 @@
       "Time": "2023-10-02T16:06:47.3860067+00:00",
       "NumProgressed": 21296,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2023-10-02T17:09:10.6304317+00:00",
+      "NumProgressed": 21297,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 20,
@@ -18152,7 +18157,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -18200,7 +18205,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "FOUND_ERIN",
@@ -18232,7 +18237,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -18256,7 +18261,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16398
+      "UsersEstimate": 16399
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18272,7 +18277,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -18295,15 +18300,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21296,
+      "Progressed": 21297,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:06:47.3860061+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:09:10.6304312+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-02T16:00:07.3738416+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:06:47.3861035+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:01:57.1817258+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:09:10.6305559+00:00"
 }

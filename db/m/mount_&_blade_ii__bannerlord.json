@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7549,10 +7549,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14684,
       "NumberOfAwardsMax": 7170
+    },
+    {
+      "Time": "2023-10-02T17:00:56.7710873+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14685,
+      "NumberOfAwardsMax": 7170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14684,
+  "NumberOfAwards": 14685,
   "NumberOfAwardsMax": 7170,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7602,7 +7608,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 803
+      "Count": 804
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7629,9 +7635,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62564,
+  "EOS_Progressed": 62567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25189,6 +25195,11 @@
       "Time": "2023-10-02T16:06:28.023777+00:00",
       "NumProgressed": 62564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T17:08:44.1031438+00:00",
+      "NumProgressed": 62567,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25280,7 +25291,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "Dynasty",
@@ -25288,7 +25299,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "Entrepreneur",
@@ -25328,7 +25339,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8133
+      "UsersEstimate": 8134
     },
     {
       "ID": "Great Granny",
@@ -25368,7 +25379,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10010
+      "UsersEstimate": 10011
     },
     {
       "ID": "I spit on your grave",
@@ -25408,7 +25419,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Lance-a-lot",
@@ -25424,7 +25435,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20646
+      "UsersEstimate": 20647
     },
     {
       "ID": "Lawbringer",
@@ -25432,7 +25443,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24400
+      "UsersEstimate": 24401
     },
     {
       "ID": "Lawmaker",
@@ -25456,7 +25467,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Minor Clan",
@@ -25544,7 +25555,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "The king is pleased",
@@ -25600,22 +25611,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62564,
+      "Progressed": 62567,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-02T09:59:32.0062487+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:06:28.0237767+00:00",
+  "LastChanged": "2023-10-02T17:00:56.7710871+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:08:44.1031431+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:59:22.8370533+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:06:28.0238971+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:00:56.7710878+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:08:44.1034163+00:00"
 }

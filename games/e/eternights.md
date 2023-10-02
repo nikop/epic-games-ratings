@@ -19,7 +19,7 @@
 | Find myself | 25.00% | ~62 |
 | Truebro | 21.00% | ~52 |
 | Min's Promise | 19.00% | ~47 |
-| Sia's Promise | 17.00% | ~42 |
+| Sia's Promise | 18.00% | ~45 |
 | Romantic | 16.00% | ~40 |
 | TentacleMAN | 11.00% | ~27 |
 | Plushyboy | 5.00% | ~12 |

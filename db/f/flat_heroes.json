@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1169,9 +1169,9 @@
       "ID": "World4Boss",
       "SetID": "d9ekhim",
       "Name": "Hit That Ball",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 172
     },
     {
       "ID": "World5Boss",
@@ -1226,8 +1226,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:06:15.5290982+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:08:26.0949096+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-02T15:58:55.517423+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:06:15.5291335+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:00:13.6545739+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:08:26.0949593+00:00"
 }

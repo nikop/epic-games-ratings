@@ -4,11 +4,11 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 399,
   "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 247,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1206,10 +1206,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 986,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-10-02T17:03:04.5480535+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 987,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 986,
+  "NumberOfAwards": 987,
   "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1247,7 +1253,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 120
+      "Count": 121
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1286,7 +1292,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6062,
+  "EOS_Progressed": 6063,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -10286,6 +10292,11 @@
       "Time": "2023-10-02T16:06:05.0834401+00:00",
       "NumProgressed": 6062,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-02T17:08:11.0411679+00:00",
+      "NumProgressed": 6063,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10297,7 +10308,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -10329,7 +10340,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -10337,7 +10348,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -10401,7 +10412,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "KILL_RAIDER",
@@ -10409,7 +10420,7 @@
       "Name": "Retribution",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -10417,7 +10428,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -10425,7 +10436,7 @@
       "Name": "Feast or Famine",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -10433,7 +10444,7 @@
       "Name": "Fit For A King",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -10465,7 +10476,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -10489,7 +10500,7 @@
       "Name": "All Year Round",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -10497,7 +10508,7 @@
       "Name": "The First Week",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -10505,7 +10516,7 @@
       "Name": "Novice Researcher",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -10544,15 +10555,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6062,
+      "Progressed": 6063,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-09-30T01:39:28.6530868+00:00",
-  "LastChanged_Achievements": "2023-10-02T16:06:05.0834397+00:00",
+  "LastChanged": "2023-10-02T17:03:04.5480533+00:00",
+  "LastChanged_Achievements": "2023-10-02T17:08:11.041167+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:07.6193189+00:00",
-  "LastUpdate_Ratings": "2023-10-02T16:00:40.4290513+00:00",
-  "LastUpdate_Achievements": "2023-10-02T16:06:05.0835109+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:03:04.548054+00:00",
+  "LastUpdate_Achievements": "2023-10-02T17:08:11.0412662+00:00"
 }
