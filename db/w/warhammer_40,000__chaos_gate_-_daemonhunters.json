@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -732,9 +732,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3249,
+  "EOS_Progressed": 3250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3577,6 +3577,11 @@
       "Time": "2023-10-01T04:06:00.48822+00:00",
       "NumProgressed": 3249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T03:06:15.9280364+00:00",
+      "NumProgressed": 3250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3684,7 +3689,7 @@
       "Name": "Surgical Excision",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -3708,7 +3713,7 @@
       "Name": "For the Machine God",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FrequentWarpSurges",
@@ -3780,7 +3785,7 @@
       "Name": "Executioner",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Kills_Exterminator",
@@ -3796,7 +3801,7 @@
       "Name": "Friendly Fire",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Kills_Interactable",
@@ -3956,7 +3961,7 @@
       "Name": "A Foul Creche",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -3980,7 +3985,7 @@
       "Name": "Preservationist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -3988,7 +3993,7 @@
       "Name": "Engine Kill",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -4020,7 +4025,7 @@
       "Name": "Death Comes For All",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SacristaCompleted",
@@ -4131,21 +4136,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3249,
+      "Progressed": 3250,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3249,
+      "Progressed": 3250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:23:52.402627+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:06:15.9280359+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.5419722+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:17:12.9916776+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:23:52.4027234+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:59:50.1664635+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:06:15.9281276+00:00"
 }

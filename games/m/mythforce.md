@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~759 |
+| Faceroll the Bones | 21.00% | ~760 |
 | Debuff Dogpile | 20.00% | ~723 |
 | Hit 'Em Where It Hurts | 20.00% | ~723 |
 | Perk Shard Punch Card | 20.00% | ~723 |
@@ -14,23 +14,23 @@ Number of Ratings: 285  (23.09.2022)
 | Mushroom Madness! | 18.00% | ~651 |
 | First Strike | 16.00% | ~579 |
 | Spending Spree | 16.00% | ~579 |
-| Horder Better Faster Stronger | 15.00% | ~542 |
+| Horder Better Faster Stronger | 15.00% | ~543 |
 | Ten Steps from the Grave | 13.00% | ~470 |
 | Everything Must Go! | 12.00% | ~434 |
 | Next Time on MythForce... | 11.00% | ~398 |
-| Cold-Blooded Critters | 9.00% | ~325 |
+| Cold-Blooded Critters | 9.00% | ~326 |
 | Death Becomes You | 8.00% | ~289 |
 | Flawless Victory | 6.00% | ~217 |
 | The Harder They Fall | 5.00% | ~181 |
 | On this Episode! | 4.00% | ~145 |
-| Deadication | 3.00% | ~108 |
-| Season Finale | 3.00% | ~108 |
+| Deadication | 3.00% | ~109 |
+| Season Finale | 3.00% | ~109 |
 | We've Got a Kaiju on the Field | 2.00% | ~72 |
 | The Fourth Gate | 1.00% | ~36 |
 | Vexed Her | 0.40% | ~14 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,616 (Ranked 179)  
+Progressed: 3,617 (Ranked 179)  
 Completed: 2 (0.06%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,17 +109,17 @@ Completed: 2 (0.06%) (Ranked 260)
 | 2023-09-29 | 3,432 | 1 |
 | 2023-09-30 | 3,525 | 2 |
 | 2023-10-01 | 3,606 | 2 |
-| 2023-10-02 | 3,616 | 2 |
+| 2023-10-02 | 3,617 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 457)  
-Sum: 279 (Ranked 354)  
+Sum: 280 (Ranked 354)  
 Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 31 |
-| This game has Quickly Understood Controls | 29 |
+| This game has Quickly Understood Controls | 30 |
 | This game has Challenging Combat | 28 |
 | This game has Diverse Characters | 27 |
 | This game has Unique Visuals | 27 |
@@ -217,3 +217,4 @@ Diff (max vs sum): 103
 | 2023-09-26 | 4.49 | - | 34 | 275 |
 | 2023-09-29 | 4.49 | - | 34 | 278 |
 | 2023-09-30 | 4.49 | - | 34 | 279 |
+| 2023-10-02 | 4.49 | - | 34 | 280 |

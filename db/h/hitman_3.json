@@ -10111,9 +10111,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1340633,
+  "EOS_Progressed": 1340635,
   "EOS_Completed": 2152,
-  "EOS_NewPlayers": 2598,
+  "EOS_NewPlayers": 2592,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28691,6 +28691,11 @@
       "Time": "2023-10-02T02:25:26.5730957+00:00",
       "NumProgressed": 1340633,
       "NumCompleted": 2152
+    },
+    {
+      "Time": "2023-10-02T03:09:05.6222563+00:00",
+      "NumProgressed": 1340635,
+      "NumCompleted": 2152
     }
   ],
   "TotalAchievements": 47,
@@ -28702,7 +28707,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 375377
+      "UsersEstimate": 375378
     },
     {
       "ID": "ACH_001",
@@ -28766,7 +28771,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 375377
+      "UsersEstimate": 375378
     },
     {
       "ID": "ACH_009",
@@ -28774,7 +28779,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 616691
+      "UsersEstimate": 616692
     },
     {
       "ID": "ACH_010",
@@ -28798,7 +28803,7 @@
       "Name": "Death From Above",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 603285
+      "UsersEstimate": 603286
     },
     {
       "ID": "ACH_013",
@@ -28830,7 +28835,7 @@
       "Name": "Rise Up",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 174282
+      "UsersEstimate": 174283
     },
     {
       "ID": "ACH_017",
@@ -28894,7 +28899,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 482628
+      "UsersEstimate": 482629
     },
     {
       "ID": "ACH_025",
@@ -28942,7 +28947,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 442409
+      "UsersEstimate": 442410
     },
     {
       "ID": "ACH_031",
@@ -28966,7 +28971,7 @@
       "Name": "Console Cowboy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 134063
+      "UsersEstimate": 134064
     },
     {
       "ID": "ACH_034",
@@ -28990,7 +28995,7 @@
       "Name": "The Last Tango",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 415596
+      "UsersEstimate": 415597
     },
     {
       "ID": "ACH_037",
@@ -29070,22 +29075,22 @@
       "Name": "Last Stop",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 134063
+      "UsersEstimate": 134064
     }
   ],
   "AchievementSets": [
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1340633,
+      "Progressed": 1340635,
       "Completed": 2152
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-10-02T02:17:27.3716107+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:25:26.5730949+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:09:05.6222556+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:33.9103066+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:17:27.3716118+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:25:26.5733695+00:00"
+  "LastUpdate_Ratings": "2023-10-02T03:00:02.2972343+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:09:05.6224203+00:00"
 }

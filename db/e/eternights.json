@@ -827,9 +827,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -923,9 +923,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -1018,8 +1018,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:21:35.140959+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:04:23.5546616+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:17:49.1054467+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:21:35.1409834+00:00"
+  "LastUpdate_Ratings": "2023-10-02T03:00:18.8975259+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:04:23.5546895+00:00"
 }

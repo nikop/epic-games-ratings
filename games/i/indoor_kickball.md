@@ -8,7 +8,7 @@
 | Accessory Unlocked | 82.00% | ~78 |
 | Character Unlocked | 76.00% | ~72 |
 | Homer | 75.00% | ~71 |
-| Butter Fingers | 74.00% | ~70 |
+| Butter Fingers | 75.00% | ~71 |
 | Settle Down | 71.00% | ~67 |
 | Have a good trip! | 71.00% | ~67 |
 | Kickball Unlocked | 69.00% | ~66 |

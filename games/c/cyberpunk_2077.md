@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,501 |
-| Rough Landing | 4.00% | ~35,501 |
+| Ten out of Ten | 4.00% | ~35,502 |
+| Rough Landing | 4.00% | ~35,502 |
 | Gunslinger | 3.00% | ~26,626 |
-| Full Body Conversion | 2.00% | ~17,750 |
-| Right Back At Ya | 2.00% | ~17,750 |
-| Master Crafter | 2.00% | ~17,750 |
-| Mean Streets | 2.00% | ~17,750 |
-| Breathtaking | 2.00% | ~17,750 |
-| Stanislavski's Method | 2.00% | ~17,750 |
-| The Hermit | 2.00% | ~17,750 |
-| The High Priestess | 2.00% | ~17,750 |
-| The Wheel of Fortune | 2.00% | ~17,750 |
-| The Jungle | 2.00% | ~17,750 |
-| True Soldier | 2.00% | ~17,750 |
-| Two Heads, One Bullet | 2.00% | ~17,750 |
-| V for Vendetta | 2.00% | ~17,750 |
+| Full Body Conversion | 2.00% | ~17,751 |
+| Right Back At Ya | 2.00% | ~17,751 |
+| Master Crafter | 2.00% | ~17,751 |
+| Mean Streets | 2.00% | ~17,751 |
+| Breathtaking | 2.00% | ~17,751 |
+| Stanislavski's Method | 2.00% | ~17,751 |
+| The Hermit | 2.00% | ~17,751 |
+| The High Priestess | 2.00% | ~17,751 |
+| The Wheel of Fortune | 2.00% | ~17,751 |
+| The Jungle | 2.00% | ~17,751 |
+| True Soldier | 2.00% | ~17,751 |
+| Two Heads, One Bullet | 2.00% | ~17,751 |
+| V for Vendetta | 2.00% | ~17,751 |
 | To Bad Decisions! | 1.00% | ~8,875 |
 | Gun Fu | 1.00% | ~8,875 |
 | Christmas Tree Attack | 1.00% | ~8,875 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,524 (Ranked 15)  
+Progressed: 887,539 (Ranked 15)  
 Completed: 2,535 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 2,535 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,524 | 2,535 |
+| 2023-10-02 | 887,539 | 2,535 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
 Sum: 251,907 (Ranked 12)  

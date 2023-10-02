@@ -53,9 +53,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.90% | ~103 |
 | End of Eternal Guard | 0.90% | ~103 |
 | Truly Profane Gift | 0.90% | ~103 |
+| Masterful Charge | 0.70% | ~80 |
 | Playful Mood | 0.70% | ~80 |
 | Dreadful Dragon | 0.70% | ~80 |
-| Masterful Charge | 0.60% | ~69 |
 | Prelate's Nemesis | 0.50% | ~57 |
 | Ashes to Ashes | 0.40% | ~46 |
 | Masterful Dispel | 0.30% | ~34 |

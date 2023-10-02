@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21267,
+  "EOS_Progressed": 21269,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -18065,6 +18065,11 @@
       "Time": "2023-10-02T01:49:28.8245666+00:00",
       "NumProgressed": 21267,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2023-10-02T03:06:34.0530049+00:00",
+      "NumProgressed": 21269,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 20,
@@ -18076,7 +18081,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3615
+      "UsersEstimate": 3616
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -18092,7 +18097,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -18108,7 +18113,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -18124,7 +18129,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -18196,7 +18201,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16376
+      "UsersEstimate": 16377
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18235,15 +18240,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21267,
+      "Progressed": 21269,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:24:14.8056047+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:06:34.0530045+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:17:24.2290078+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:24:14.805742+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:59:59.5498725+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:06:34.0531382+00:00"
 }

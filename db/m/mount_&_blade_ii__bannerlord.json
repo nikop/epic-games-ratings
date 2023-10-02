@@ -7605,9 +7605,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62526,
+  "EOS_Progressed": 62528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25095,6 +25095,11 @@
       "Time": "2023-10-02T01:49:05.5044403+00:00",
       "NumProgressed": 62526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T03:06:11.1273297+00:00",
+      "NumProgressed": 62528,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25234,7 +25239,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8128
+      "UsersEstimate": 8129
     },
     {
       "ID": "Great Granny",
@@ -25282,7 +25287,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5627
+      "UsersEstimate": 5628
     },
     {
       "ID": "Jack of All Trades",
@@ -25298,7 +25303,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10629
+      "UsersEstimate": 10630
     },
     {
       "ID": "Kingslayer",
@@ -25338,7 +25343,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24385
+      "UsersEstimate": 24386
     },
     {
       "ID": "Lawmaker",
@@ -25513,15 +25518,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62526,
+      "Progressed": 62528,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-01T23:59:59.253857+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:23:46.6379383+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:06:11.1273292+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:16:29.4873921+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:23:46.6381808+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:59:14.4454265+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:06:11.1274949+00:00"
 }

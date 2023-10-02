@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shipwrecked! | 63.00% | ~5 |
-| Sea Legs | 38.00% | ~3 |
+| Sea Legs | 50.00% | ~4 |
 | Frogs Legs | 13.00% | ~1 |
 | Socialite | 13.00% | ~1 |
 | Who Even Needs Keys | 13.00% | ~1 |

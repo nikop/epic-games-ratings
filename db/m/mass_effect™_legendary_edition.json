@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,9 +1264,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_125",
@@ -1688,9 +1688,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_59",
@@ -2068,8 +2068,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:20:04.0628064+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:03:09.4181167+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:15:08.8347894+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:20:04.0630599+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:58:11.189693+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:03:09.4183673+00:00"
 }

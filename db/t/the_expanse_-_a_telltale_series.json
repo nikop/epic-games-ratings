@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13403,
+  "EOS_Progressed": 13404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7372,6 +7372,11 @@
       "Time": "2023-10-02T02:21:32.9608318+00:00",
       "NumProgressed": 13403,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T03:04:21.5228138+00:00",
+      "NumProgressed": 13404,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7408,7 +7413,7 @@
       "Name": "Data Archivist",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "13",
@@ -7456,7 +7461,7 @@
       "Name": "Bottoms up!",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "19",
@@ -7504,7 +7509,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "24",
@@ -7528,7 +7533,7 @@
       "Name": "Call it Even",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "27",
@@ -7623,7 +7628,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13403,
+      "Progressed": 13404,
       "Completed": 0
     }
   ],
@@ -7631,8 +7636,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:21:32.9608311+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:04:21.5228133+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:16:04.4545915+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:21:32.9609+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:58:53.7286221+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:04:21.5228887+00:00"
 }

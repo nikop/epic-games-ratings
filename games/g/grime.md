@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Intensify | 0.10% | ~149 |
 | The Nightmare | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,650 (Ranked 67)  
+Progressed: 149,650 (Ranked 68)  
 Completed: 1 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |

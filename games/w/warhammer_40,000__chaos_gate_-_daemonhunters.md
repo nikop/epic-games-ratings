@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 7.00% | ~227 |
+| Executioner | 7.00% | ~228 |
 | Look Over There! | 6.00% | ~195 |
 | Not So Fast... | 6.00% | ~195 |
 | Watch Where You Step... | 6.00% | ~195 |
@@ -14,9 +14,9 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 5.00% | ~162 |
 | Blood for the Blood God! | 4.00% | ~130 |
 | Bloodless | 4.00% | ~130 |
-| Surgical Excision | 3.00% | ~97 |
-| Friendly Fire | 3.00% | ~97 |
-| A Foul Creche | 3.00% | ~97 |
+| Surgical Excision | 3.00% | ~98 |
+| Friendly Fire | 3.00% | ~98 |
+| A Foul Creche | 3.00% | ~98 |
 | Honoured Battle-Brother | 2.00% | ~65 |
 | Hold Your Ground | 2.00% | ~65 |
 | Corruption Cleanser | 2.00% | ~65 |
@@ -38,10 +38,10 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
 | Fleetmaster | 0.70% | ~23 |
-| For the Machine God | 0.60% | ~19 |
-| Preservationist | 0.60% | ~19 |
-| Engine Kill | 0.60% | ~19 |
-| Death Comes For All | 0.60% | ~19 |
+| For the Machine God | 0.60% | ~20 |
+| Preservationist | 0.60% | ~20 |
+| Engine Kill | 0.60% | ~20 |
+| Death Comes For All | 0.60% | ~20 |
 | Harvest No More | 0.50% | ~16 |
 | Strike Force | 0.40% | ~13 |
 | Hands-On Research | 0.40% | ~13 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,249 (Ranked 186)  
+Progressed: 3,250 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 3,247 | 0 |
 | 2023-09-30 | 3,248 | 0 |
 | 2023-10-01 | 3,249 | 0 |
+| 2023-10-02 | 3,250 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 474 (Ranked 312)  

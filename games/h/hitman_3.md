@@ -6,24 +6,24 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~616,691 |
-| Death From Above | 45.00% | ~603,285 |
+| Unseen Assassin | 46.00% | ~616,692 |
+| Death From Above | 45.00% | ~603,286 |
 | Master of the Household | 38.00% | ~509,441 |
-| Death of the Party | 36.00% | ~482,628 |
-| NEXUS-47 | 33.00% | ~442,409 |
-| The Last Tango | 31.00% | ~415,596 |
+| Death of the Party | 36.00% | ~482,629 |
+| NEXUS-47 | 33.00% | ~442,410 |
+| The Last Tango | 31.00% | ~415,597 |
 | Nightmare Fuel | 30.00% | ~402,190 |
-| The Result of Previous Training | 28.00% | ~375,377 |
-| Tools of the Trade | 28.00% | ~375,377 |
+| The Result of Previous Training | 28.00% | ~375,378 |
+| Tools of the Trade | 28.00% | ~375,378 |
 | Cleared for Field Duty | 27.00% | ~361,971 |
 | Seizing the Opportunity | 26.00% | ~348,565 |
 | Bullet Train | 21.00% | ~281,533 |
 | Stylish Assassin | 20.00% | ~268,127 |
 | Silent Assassin | 14.00% | ~187,689 |
-| Rise Up | 13.00% | ~174,282 |
+| Rise Up | 13.00% | ~174,283 |
 | Evil Wine Club | 11.00% | ~147,470 |
-| Console Cowboy | 10.00% | ~134,063 |
-| Last Stop | 10.00% | ~134,063 |
+| Console Cowboy | 10.00% | ~134,064 |
+| Last Stop | 10.00% | ~134,064 |
 | A New Profile | 9.00% | ~120,657 |
 | Full House | 9.00% | ~120,657 |
 | Dune Raider | 8.00% | ~107,251 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,406 |
 | The Creative Assassin | 0.70% | ~9,384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,340,633 (Ranked 9)  
+Progressed: 1,340,635 (Ranked 9)  
 Completed: 2,152 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 2,152 (0.16%) (Ranked 226)
 | 2023-09-29 | 1,339,734 | 2,151 |
 | 2023-09-30 | 1,340,146 | 2,151 |
 | 2023-10-01 | 1,340,601 | 2,152 |
-| 2023-10-02 | 1,340,633 | 2,152 |
+| 2023-10-02 | 1,340,635 | 2,152 |
 ## Awards
 Max (Diverse Characters): 10,214  (Ranked 38)  
 Sum: 71,671 (Ranked 21)  

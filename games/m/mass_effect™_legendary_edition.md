@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 94.00% | ~494 |
 | Spectre Inductee | 84.00% | ~441 |
 | Medal of Exploration I | 75.00% | ~394 |
-| Recruit | 71.00% | ~373 |
+| Recruit | 72.00% | ~378 |
 | Search and Rescue | 71.00% | ~373 |
 | Quarian Ally | 70.00% | ~368 |
 | Honorarium of Corporate Service | 66.00% | ~346 |
@@ -50,10 +50,10 @@
 | The Assassin | 30.00% | ~158 |
 | The Justicar | 30.00% | ~158 |
 | Battlemaster | 30.00% | ~158 |
+| The Cure | 30.00% | ~158 |
 | The Prodigal | 30.00% | ~158 |
 | A Personal Touch | 29.00% | ~152 |
 | Ghost of the Father | 29.00% | ~152 |
-| The Cure | 29.00% | ~152 |
 | Big Game Hunter | 29.00% | ~152 |
 | Revenge! | 29.00% | ~152 |
 | Heart of Darkness | 29.00% | ~152 |

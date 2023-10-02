@@ -674,9 +674,9 @@
       "ID": "35",
       "SetID": "39djiaj",
       "Name": "Butter Fingers",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "37",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:23:56.4987237+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:06:19.2361376+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:49.9154975+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:17:44.9742375+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:23:56.4987827+00:00"
+  "LastUpdate_Ratings": "2023-10-02T03:00:15.2886352+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:06:19.2361707+00:00"
 }

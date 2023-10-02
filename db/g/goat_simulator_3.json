@@ -2,13 +2,13 @@
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
-  "Ranking_Rating": 50,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4132,9 +4132,9 @@
       "Count": 296
     }
   ],
-  "EOS_Progressed": 245973,
+  "EOS_Progressed": 245974,
   "EOS_Completed": 843,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -22032,6 +22032,11 @@
       "Time": "2023-10-02T01:47:28.0802435+00:00",
       "NumProgressed": 245973,
       "NumCompleted": 843
+    },
+    {
+      "Time": "2023-10-02T03:04:33.867738+00:00",
+      "NumProgressed": 245974,
+      "NumCompleted": 843
     }
   ],
   "TotalAchievements": 39,
@@ -22043,7 +22048,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61493
+      "UsersEstimate": 61494
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -22107,7 +22112,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 223835
+      "UsersEstimate": 223836
     },
     {
       "ID": "AchievementClownID",
@@ -22115,7 +22120,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 41815
+      "UsersEstimate": 41816
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -22131,7 +22136,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 68872
+      "UsersEstimate": 68873
     },
     {
       "ID": "AchievementEggID",
@@ -22275,7 +22280,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182020
+      "UsersEstimate": 182021
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -22291,7 +22296,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 122986
+      "UsersEstimate": 122987
     },
     {
       "ID": "AchievementStreakingID",
@@ -22315,7 +22320,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 135285
+      "UsersEstimate": 135286
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -22323,7 +22328,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 115607
+      "UsersEstimate": 115608
     },
     {
       "ID": "AchievementTrinketID",
@@ -22339,7 +22344,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 159882
+      "UsersEstimate": 159883
     },
     {
       "ID": "AchievementWhaleID",
@@ -22354,7 +22359,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 245973,
+      "Progressed": 245974,
       "Completed": 843
     }
   ],
@@ -22362,8 +22367,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-01T19:58:02.0311499+00:00",
-  "LastChanged_Achievements": "2023-10-02T02:21:47.6117565+00:00",
+  "LastChanged_Achievements": "2023-10-02T03:04:33.8677373+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.2541754+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:14:59.250295+00:00",
-  "LastUpdate_Achievements": "2023-10-02T02:21:47.6118983+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:58:03.8953611+00:00",
+  "LastUpdate_Achievements": "2023-10-02T03:04:33.867875+00:00"
 }
