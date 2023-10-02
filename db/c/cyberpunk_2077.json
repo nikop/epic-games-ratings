@@ -12827,10 +12827,10 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887595,
-  "EOS_Completed": 2537,
-  "EOS_NewPlayers": 6621,
-  "EOS_NewCompleters": 187,
+  "EOS_Progressed": 887618,
+  "EOS_Completed": 2538,
+  "EOS_NewPlayers": 6630,
+  "EOS_NewCompleters": 186,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31362,6 +31362,11 @@
       "Time": "2023-10-02T06:08:07.3086052+00:00",
       "NumProgressed": 887595,
       "NumCompleted": 2537
+    },
+    {
+      "Time": "2023-10-02T07:09:11.4656623+00:00",
+      "NumProgressed": 887618,
+      "NumCompleted": 2538
     }
   ],
   "TotalAchievements": 57,
@@ -31453,7 +31458,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26628
+      "UsersEstimate": 26629
     },
     {
       "ID": "HandyMan",
@@ -31557,7 +31562,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35504
+      "UsersEstimate": 35505
     },
     {
       "ID": "Temperance",
@@ -31573,7 +31578,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35504
+      "UsersEstimate": 35505
     },
     {
       "ID": "TheDevil",
@@ -31693,7 +31698,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7988
+      "UsersEstimate": 7989
     },
     {
       "ID": "VForVendetta",
@@ -31828,21 +31833,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887595,
-      "Completed": 2537
+      "Progressed": 887618,
+      "Completed": 2538
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16218,
+      "Progressed": 16241,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-02T04:00:12.7887556+00:00",
-  "LastChanged_Achievements": "2023-10-02T06:08:07.3086048+00:00",
+  "LastChanged_Achievements": "2023-10-02T07:09:11.4656617+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:59:11.1965645+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:08:07.3087753+00:00"
+  "LastUpdate_Ratings": "2023-10-02T06:59:23.9597295+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:09:11.4658279+00:00"
 }

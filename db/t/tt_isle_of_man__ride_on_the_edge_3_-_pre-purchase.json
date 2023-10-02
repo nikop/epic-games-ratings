@@ -2,9 +2,9 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.33,
+  "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -742,6 +742,11 @@
       "Time": "2023-09-29T22:06:11.2946222+00:00",
       "NumProgressed": 150,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-02T07:09:13.655296+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -785,7 +790,7 @@
       "Name": "POI Hunter",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -801,7 +806,7 @@
       "Name": "Seven-League Boots",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -817,7 +822,7 @@
       "Name": "Say My Name",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -833,7 +838,7 @@
       "Name": "Geek",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -841,7 +846,7 @@
       "Name": "Last One Standing",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -873,7 +878,7 @@
       "Name": "Time Lord",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -913,7 +918,7 @@
       "Name": "First Things First",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1015,9 +1020,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1033,7 +1038,7 @@
       "Name": "Tailor-Made for Two",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1041,7 +1046,7 @@
       "Name": "Tempus Fugit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -1064,14 +1069,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-10-02T06:08:09.4695354+00:00",
+  "LastChanged_Achievements": "2023-10-02T07:09:13.6552954+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:13.9983879+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:58:44.2702581+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:08:09.469573+00:00"
+  "LastUpdate_Ratings": "2023-10-02T06:58:57.9082813+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:09:13.6553337+00:00"
 }

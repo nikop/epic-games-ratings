@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 97.00% | ~146 |
+| You're Going Down! | 96.00% | ~145 |
 | To Each Their Own | 46.00% | ~69 |
 | You Get An Upgrade, You Get An Upgrade! | 22.00% | ~33 |
 | Like Phileas Fogg | 17.00% | ~26 |
@@ -22,15 +22,15 @@
 | Upgradeaholic | 5.00% | ~8 |
 | Tailor-Made | 5.00% | ~8 |
 | Gotta Go Fast! | 4.00% | ~6 |
-| POI Hunter | 3.00% | ~4 |
-| Seven-League Boots | 3.00% | ~4 |
-| Say My Name | 3.00% | ~4 |
-| Geek | 3.00% | ~4 |
-| Last One Standing | 3.00% | ~4 |
-| Time Lord | 3.00% | ~4 |
-| First Things First | 3.00% | ~4 |
-| Tailor-Made for Two | 3.00% | ~4 |
-| Tempus Fugit | 3.00% | ~4 |
+| POI Hunter | 3.00% | ~5 |
+| Seven-League Boots | 3.00% | ~5 |
+| Say My Name | 3.00% | ~5 |
+| Geek | 3.00% | ~5 |
+| Last One Standing | 3.00% | ~5 |
+| Time Lord | 3.00% | ~5 |
+| First Things First | 3.00% | ~5 |
+| Tailor-Made for Two | 3.00% | ~5 |
+| Tempus Fugit | 3.00% | ~5 |
 | Déjà-Vu | 2.00% | ~3 |
 | The Joy of Discovery | 2.00% | ~3 |
 | The Immortal One | 2.00% | ~3 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 1.00% | ~2 |
 | Playing Favourites | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 356)  
-Completed: 2 (1.33%) (Ranked 125)  
+Progressed: 151 (Ranked 354)  
+Completed: 2 (1.32%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,3 +125,4 @@ Completed: 2 (1.33%) (Ranked 125)
 | 2023-09-25 | 147 | 2 |
 | 2023-09-27 | 148 | 2 |
 | 2023-09-29 | 150 | 2 |
+| 2023-10-02 | 151 | 2 |

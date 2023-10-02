@@ -919,9 +919,9 @@
       "ID": "ACH_ACT13",
       "SetID": "2310cb1",
       "Name": "All Alone",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ACT14",
@@ -1112,8 +1112,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-10-02T06:03:25.0938928+00:00",
+  "LastChanged_Achievements": "2023-10-02T07:03:55.0092435+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:57.0209141+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:57:36.9689382+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:03:25.0939178+00:00"
+  "LastUpdate_Ratings": "2023-10-02T06:57:47.4556499+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:03:55.0092654+00:00"
 }

@@ -3804,9 +3804,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88637,
+  "EOS_Progressed": 88639,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -20869,6 +20869,11 @@
       "Time": "2023-10-02T06:06:09.6886407+00:00",
       "NumProgressed": 88637,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-02T07:06:44.0336145+00:00",
+      "NumProgressed": 88639,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -21134,9 +21139,9 @@
       "ID": "ACH_0450",
       "SetID": "3kam13l",
       "Name": "Off the Rocks",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_0451",
@@ -21207,13 +21212,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88637,
+      "Progressed": 88639,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 16984,
+      "Progressed": 16986,
       "Completed": 15539
     }
   ],
@@ -21221,8 +21226,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-01T13:57:00.5351864+00:00",
-  "LastChanged_Achievements": "2023-10-02T06:06:09.6886402+00:00",
+  "LastChanged_Achievements": "2023-10-02T07:06:44.0336137+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:57:09.4477133+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:06:09.6887822+00:00"
+  "LastUpdate_Ratings": "2023-10-02T06:57:17.1552503+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:06:44.0337538+00:00"
 }

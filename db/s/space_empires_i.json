@@ -4,7 +4,7 @@
   "ProductSlug": "space-empires-i-02f40b",
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-15T03:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.5665015+00:00",
   "LastChanged": "2023-03-31T05:57:08.5665016+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:37.8043074+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:59:47.7555136+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:04:07.853465+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:00:03.0740267+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:04:39.3664372+00:00"
 }

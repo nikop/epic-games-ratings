@@ -24,7 +24,7 @@ Number of Ratings: 76  (23.09.2022)
 | Mirrors | 1.00% | ~175 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,530 (Ranked 127)  
-Completed: 107 (0.61%) (Ranked 155)  
+Completed: 108 (0.62%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 107 (0.61%) (Ranked 155)
 | 2023-09-29 | 17,459 | 106 |
 | 2023-09-30 | 17,482 | 106 |
 | 2023-10-01 | 17,524 | 107 |
-| 2023-10-02 | 17,530 | 107 |
+| 2023-10-02 | 17,530 | 108 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,11 +3,11 @@
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 249,
+  "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
@@ -3493,11 +3493,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 1800,
       "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2023-10-02T06:59:10.3647013+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1805,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1800,
-  "NumberOfAwardsMax": 279,
+  "NumberOfAwards": 1805,
+  "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3534,7 +3540,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 202
+      "Count": 204
     },
     {
       "Text": "This game has a Creative Community",
@@ -3558,7 +3564,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 279
+      "Count": 282
     }
   ],
   "EOS_Progressed": 0,
@@ -3572,8 +3578,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-10-01T19:59:39.9547413+00:00",
+  "LastChanged": "2023-10-02T06:59:10.3647011+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:40.221139+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:58:58.7225062+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:08:32.9477182+00:00"
+  "LastUpdate_Ratings": "2023-10-02T06:59:10.3647017+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:09:37.7720251+00:00"
 }

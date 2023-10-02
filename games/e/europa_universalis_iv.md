@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,807 |
-| Until death do us apart | 4.00% | ~16,807 |
-| That is mine! | 3.00% | ~12,605 |
-| Victorious! | 3.00% | ~12,605 |
+| That's a Grand Army | 4.00% | ~16,808 |
+| Until death do us apart | 4.00% | ~16,808 |
+| That is mine! | 3.00% | ~12,606 |
+| Victorious! | 3.00% | ~12,606 |
 | Brothers in Arms | 2.00% | ~8,404 |
 | For the Glory | 2.00% | ~8,404 |
 | That's a Grand Navy | 2.00% | ~8,404 |
@@ -22,9 +22,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,782 |
 | Respected | 0.90% | ~3,782 |
 | Truly Divine Ruler | 0.90% | ~3,782 |
-| Blockader | 0.80% | ~3,361 |
-| Double the Love | 0.80% | ~3,361 |
-| Total Control | 0.80% | ~3,361 |
+| Blockader | 0.80% | ~3,362 |
+| Double the Love | 0.80% | ~3,362 |
+| Total Control | 0.80% | ~3,362 |
 | Royal Authority | 0.70% | ~2,941 |
 | My armies are invincible! | 0.60% | ~2,521 |
 | Agressive Expander | 0.50% | ~2,101 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,180 (Ranked 41)  
+Progressed: 420,209 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,10 +526,10 @@ Completed: 1 (0.00%) (Ranked 304)
 | 2023-09-29 | 417,709 | 1 |
 | 2023-09-30 | 418,938 | 1 |
 | 2023-10-01 | 420,043 | 1 |
-| 2023-10-02 | 420,180 | 1 |
+| 2023-10-02 | 420,209 | 1 |
 ## Awards
 Max (Educational): 6,368  (Ranked 57)  
-Sum: 52,226 (Ranked 24)  
+Sum: 52,236 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -541,7 +541,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 5,878 |
 | This game has Competitive Players | 5,670 |
 | This game has Amazing Storytelling | 5,313 |
-| This game has Amazing Characters | 4,924 |
+| This game has Amazing Characters | 4,934 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -804,4 +804,4 @@ Diff (max vs sum): 33
 | 2023-09-29 | 4.69 | - | 6,316 | 51,874 |
 | 2023-09-30 | 4.69 | - | 6,335 | 52,039 |
 | 2023-10-01 | 4.69 | - | 6,349 | 52,207 |
-| 2023-10-02 | 4.69 | - | 6,368 | 52,226 |
+| 2023-10-02 | 4.69 | - | 6,368 | 52,236 |

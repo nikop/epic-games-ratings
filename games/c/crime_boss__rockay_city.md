@@ -11,9 +11,9 @@ Rating: 3.94 (Ranked 976)
 | Underworld Initiate | 0.70% | ~620 |
 | Too Old for This | 0.70% | ~620 |
 | Fancy Pants | 0.60% | ~532 |
+| Off the Rocks | 0.60% | ~532 |
 | Roid Ranger | 0.50% | ~443 |
 | King of the Hill | 0.50% | ~443 |
-| Off the Rocks | 0.50% | ~443 |
 | Raider’s Ruin | 0.50% | ~443 |
 | Dragonslayer | 0.50% | ~443 |
 | Rockay Rex | 0.50% | ~443 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 976)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,637 (Ranked 79)  
+Progressed: 88,639 (Ranked 79)  
 Completed: 46 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 46 (0.05%) (Ranked 264)
 | 2023-09-29 | 88,513 | 46 |
 | 2023-09-30 | 88,572 | 46 |
 | 2023-10-01 | 88,624 | 46 |
-| 2023-10-02 | 88,637 | 46 |
+| 2023-10-02 | 88,639 | 46 |
 ## Awards
 Max (Diverse Characters): 469  (Ranked 206)  
 Sum: 2,239 (Ranked 193)  

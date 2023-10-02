@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 50,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249915,
+  "EOS_Progressed": 249916,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15519,6 +15519,11 @@
       "Time": "2023-10-02T06:06:22.0100244+00:00",
       "NumProgressed": 249915,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-02T07:08:06.3106625+00:00",
+      "NumProgressed": 249916,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15834,7 +15839,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54981
+      "UsersEstimate": 54982
     },
     {
       "ID": "thunderstruck",
@@ -15890,14 +15895,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39986
+      "UsersEstimate": 39987
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249915,
+      "Progressed": 249916,
       "Completed": 6
     }
   ],
@@ -15905,8 +15910,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-02T06:06:22.0100239+00:00",
+  "LastChanged_Achievements": "2023-10-02T07:08:06.3106618+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-02T06:00:06.6451538+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:06:22.0101584+00:00"
+  "LastUpdate_Ratings": "2023-10-02T07:00:24.5787806+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:08:06.3107939+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 898,
-  "Ranking_Popularity": 419,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 304,
@@ -370,18 +370,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 138,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-10-02T06:59:13.6904831+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 143,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 138,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 143,
+  "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game has a Competitive Community",
@@ -405,12 +411,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 28
     }
   ],
-  "EOS_Progressed": 59942,
+  "EOS_Progressed": 59950,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2892,
+  "EOS_NewPlayers": 2890,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3393,6 +3399,11 @@
       "Time": "2023-10-02T06:08:30.5251021+00:00",
       "NumProgressed": 59942,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-02T07:09:35.3119023+00:00",
+      "NumProgressed": 59950,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -3405,7 +3416,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 15585
+      "UsersEstimate": 15587
     },
     {
       "ID": "10",
@@ -3445,7 +3456,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "15",
@@ -3469,7 +3480,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8991
+      "UsersEstimate": 8992
     },
     {
       "ID": "3",
@@ -3485,7 +3496,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5395
+      "UsersEstimate": 5396
     },
     {
       "ID": "5",
@@ -3532,16 +3543,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 59942,
+      "Progressed": 59950,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-01T15:59:15.500375+00:00",
-  "LastChanged_Achievements": "2023-10-02T06:08:30.5251017+00:00",
+  "LastChanged": "2023-10-02T06:59:13.6904829+00:00",
+  "LastChanged_Achievements": "2023-10-02T07:09:35.3119017+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.2023742+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:59:02.0578724+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:08:30.5251309+00:00"
+  "LastUpdate_Ratings": "2023-10-02T06:59:13.6904835+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:09:35.3119325+00:00"
 }

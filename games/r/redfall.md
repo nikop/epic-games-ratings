@@ -19,11 +19,11 @@ Rating: 3.54 (Ranked 1,008)
 | ICU | 0.70% | ~12 |
 | Wounded Whispers | 0.70% | ~12 |
 | Heart Attack | 0.70% | ~12 |
+| Skin of Their Teeth | 0.70% | ~12 |
 | Neighborhood Revitalization | 0.60% | ~10 |
 | Home Is Where the Heart Is | 0.60% | ~10 |
 | Radio Silence | 0.60% | ~10 |
 | From the Shadows | 0.60% | ~10 |
-| Skin of Their Teeth | 0.60% | ~10 |
 | Bad Wiring | 0.50% | ~9 |
 | Sic Transit Umbra | 0.40% | ~7 |
 | Bell-ringer | 0.40% | ~7 |

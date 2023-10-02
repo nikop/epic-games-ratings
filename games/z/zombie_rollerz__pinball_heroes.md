@@ -80,7 +80,7 @@ Rating: 4.30 (Ranked 810)
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 165 (Ranked 350)  
-Completed: 1 (0.61%) (Ranked 155)  
+Completed: 1 (0.61%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

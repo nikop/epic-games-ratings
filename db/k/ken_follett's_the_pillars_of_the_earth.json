@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 132,
@@ -525,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15501,
+  "EOS_Progressed": 15502,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
@@ -11205,6 +11205,11 @@
       "Time": "2023-10-02T03:04:44.2477263+00:00",
       "NumProgressed": 15501,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-02T07:05:18.2020439+00:00",
+      "NumProgressed": 15502,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11256,7 +11261,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "tpote_achievement_15",
@@ -11304,7 +11309,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "tpote_achievement_20",
@@ -11320,7 +11325,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4650
+      "UsersEstimate": 4651
     },
     {
       "ID": "tpote_achievement_22",
@@ -11392,7 +11397,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4960
+      "UsersEstimate": 4961
     },
     {
       "ID": "tpote_achievement_30",
@@ -11480,7 +11485,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "tpote_achievement_40",
@@ -11536,22 +11541,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5425
+      "UsersEstimate": 5426
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15501,
+      "Progressed": 15502,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-02T06:04:45.9579571+00:00",
+  "LastChanged_Achievements": "2023-10-02T07:05:18.2020433+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-02T05:57:22.7581195+00:00",
-  "LastUpdate_Achievements": "2023-10-02T06:04:45.958057+00:00"
+  "LastUpdate_Ratings": "2023-10-02T06:57:32.4032579+00:00",
+  "LastUpdate_Achievements": "2023-10-02T07:05:18.2021441+00:00"
 }

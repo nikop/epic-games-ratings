@@ -22,7 +22,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Work Ethic | 23.00% | ~16,894 |
 | Power Players | 19.00% | ~13,956 |
 | Picking Fights | 19.00% | ~13,956 |
-| Quality Time | 18.00% | ~13,221 |
+| Quality Time | 18.00% | ~13,222 |
 | Et tu? | 17.00% | ~12,487 |
 | Showdown | 16.00% | ~11,752 |
 | Took It to The Limit | 16.00% | ~11,752 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~147 |
 | Fiesta Time | 0.20% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,452 (Ranked 86)  
+Progressed: 73,453 (Ranked 86)  
 Completed: 50 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 50 (0.07%) (Ranked 254)
 | 2023-09-29 | 73,080 | 50 |
 | 2023-09-30 | 73,245 | 50 |
 | 2023-10-01 | 73,412 | 50 |
-| 2023-10-02 | 73,452 | 50 |
+| 2023-10-02 | 73,453 | 50 |
 ## Awards
 Max (Extremely Fun): 1,068  (Ranked 142)  
 Sum: 8,663 (Ranked 97)  

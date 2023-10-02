@@ -31,7 +31,7 @@
 | Single Minded | 35.00% | ~31 |
 | Reincarnation Cycle Stopper | 33.00% | ~29 |
 | Team Hunter | 31.00% | ~28 |
-| Karakuri Isle | 29.00% | ~26 |
+| Karakuri Isle | 30.00% | ~27 |
 | Artful Assister | 28.00% | ~25 |
 | Left Arm Leverager | 27.00% | ~24 |
 | Unrivaled in Arms | 26.00% | ~23 |
