@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.18% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 65.08% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.18% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -38,12 +38,12 @@
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.95% |
-| 39 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.84% |
-| 40 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
-| 41 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 39 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
+| 40 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 40 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.69% |
 | 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.42% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.40% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.26% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
@@ -62,7 +62,7 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.38% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.15% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
@@ -130,7 +130,7 @@
 | 126 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
 | 129 | [Chorus](games/c/chorus.md) | 1.30% |
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.11% |
+| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.10% |
 | 132 | [Infindustry](games/i/infindustry.md) | 1.09% |
 | 132 | [Trifox](games/t/trifox.md) | 1.09% |
 | 134 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
@@ -260,14 +260,14 @@
 | 254 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 254 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 260 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 260 | [MythForce](games/m/mythforce.md) | 0.06% |
 | 260 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 260 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 264 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 264 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 264 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 264 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 264 | [House Party](games/h/house_party.md) | 0.05% |
+| 263 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 263 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 263 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 263 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 263 | [House Party](games/h/house_party.md) | 0.05% |
+| 263 | [MythForce](games/m/mythforce.md) | 0.05% |
 | 269 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 269 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 269 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
@@ -646,4 +646,4 @@
 | 304 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 304 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 304 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,332 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,334 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
