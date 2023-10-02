@@ -12,7 +12,7 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~23,053 |
 | Got Your Nose | 24.00% | ~22,131 |
 | The Gift of Gab | 24.00% | ~22,131 |
-| Wrapping Up | 22.00% | ~20,286 |
+| Wrapping Up | 22.00% | ~20,287 |
 | More Than A Box Of Sand | 18.00% | ~16,598 |
 | The Dunboyne | 17.00% | ~15,676 |
 | Badge Hobbyist | 17.00% | ~15,676 |
@@ -22,12 +22,12 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~14,754 |
 | Thread The Needle | 15.00% | ~13,832 |
 | Power to the People | 14.00% | ~12,910 |
-| Take That! | 13.00% | ~11,987 |
-| Nesting Giant | 13.00% | ~11,987 |
-| Treasure Tracker | 13.00% | ~11,987 |
-| Big Spender | 13.00% | ~11,987 |
-| Badge Collector | 12.00% | ~11,065 |
-| Quite The Catch | 12.00% | ~11,065 |
+| Take That! | 13.00% | ~11,988 |
+| Nesting Giant | 13.00% | ~11,988 |
+| Treasure Tracker | 13.00% | ~11,988 |
+| Big Spender | 13.00% | ~11,988 |
+| Badge Collector | 12.00% | ~11,066 |
+| Quite The Catch | 12.00% | ~11,066 |
 | Rowleys Way | 11.00% | ~10,143 |
 | The Machinist Mask | 10.00% | ~9,221 |
 | The Cartographer Mask | 10.00% | ~9,221 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,533 |
 | The Gliding | 5.00% | ~4,611 |
 | The Entertainer Mask | 5.00% | ~4,611 |
-| The Quick and the Curious | 4.00% | ~3,688 |
-| Bike Aficionado | 4.00% | ~3,688 |
+| The Quick and the Curious | 4.00% | ~3,689 |
+| Bike Aficionado | 4.00% | ~3,689 |
 | Chum Expert | 3.00% | ~2,766 |
 | Gastric Bypass | 3.00% | ~2,766 |
 | The Angler Mask | 3.00% | ~2,766 |
 | Vivacious Vivarium | 2.00% | ~1,844 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,211 (Ranked 78)  
+Progressed: 92,213 (Ranked 78)  
 Completed: 929 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 929 (1.01%) (Ranked 136)
 | 2023-09-29 | 91,760 | 927 |
 | 2023-09-30 | 91,972 | 927 |
 | 2023-10-01 | 92,199 | 929 |
-| 2023-10-02 | 92,211 | 929 |
+| 2023-10-02 | 92,213 | 929 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
 Sum: 88 (Ranked 431)  

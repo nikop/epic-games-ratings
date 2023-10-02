@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1638,
+  "EOS_Progressed": 1639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3816,6 +3816,11 @@
       "Time": "2023-10-01T16:04:22.771675+00:00",
       "NumProgressed": 1638,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T02:21:20.3446564+00:00",
+      "NumProgressed": 1639,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3907,7 +3912,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4051,7 +4056,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4099,7 +4104,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4163,7 +4168,7 @@
       "Name": "Space Forest",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -4187,7 +4192,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4210,7 +4215,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1638,
+      "Progressed": 1639,
       "Completed": 0
     }
   ],
@@ -4218,8 +4223,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-22T00:03:09.8944256+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:47:05.0963222+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:21:20.3446556+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.9222125+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:43:25.7462275+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:47:05.09637+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:18:21.2189213+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:21:20.3447193+00:00"
 }

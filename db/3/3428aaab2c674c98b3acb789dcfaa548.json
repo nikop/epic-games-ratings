@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -5576,9 +5576,9 @@
       "Count": 872
     }
   ],
-  "EOS_Progressed": 806964,
+  "EOS_Progressed": 806973,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 5940,
+  "EOS_NewPlayers": 5933,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20696,6 +20696,11 @@
       "Time": "2023-10-02T01:51:20.5325384+00:00",
       "NumProgressed": 806964,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-10-02T02:25:12.0491534+00:00",
+      "NumProgressed": 806973,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 75,
@@ -20707,7 +20712,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185602
+      "UsersEstimate": 185604
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -20787,7 +20792,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40348
+      "UsersEstimate": 40349
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -20803,7 +20808,7 @@
       "Name": "Crafty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40348
+      "UsersEstimate": 40349
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -21043,7 +21048,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40348
+      "UsersEstimate": 40349
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -21115,7 +21120,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 40348
+      "UsersEstimate": 40349
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -21306,13 +21311,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 806964,
+      "Progressed": 806973,
       "Completed": 208
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 806964,
+      "Progressed": 806973,
       "Completed": 174
     }
   ],
@@ -21320,8 +21325,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-01T23:58:58.6012591+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:51:20.5325379+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:25:12.0491524+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:58.0679026+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:41:21.4850126+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:51:20.5326688+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:15:39.4634403+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:25:12.0493292+00:00"
 }

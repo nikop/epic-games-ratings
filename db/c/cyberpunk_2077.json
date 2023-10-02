@@ -12735,10 +12735,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 251578,
       "NumberOfAwardsMax": 88536
+    },
+    {
+      "Time": "2023-10-02T02:16:45.0815092+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 251907,
+      "NumberOfAwardsMax": 88536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 251578,
+  "NumberOfAwards": 251907,
   "NumberOfAwardsMax": 88536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12764,7 +12770,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 11440
+      "Count": 11769
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12815,10 +12821,10 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887515,
+  "EOS_Progressed": 887524,
   "EOS_Completed": 2535,
-  "EOS_NewPlayers": 6640,
-  "EOS_NewCompleters": 187,
+  "EOS_NewPlayers": 6638,
+  "EOS_NewCompleters": 186,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31325,6 +31331,11 @@
       "Time": "2023-10-02T01:51:07.0113705+00:00",
       "NumProgressed": 887515,
       "NumCompleted": 2535
+    },
+    {
+      "Time": "2023-10-02T02:24:35.8074487+00:00",
+      "NumProgressed": 887524,
+      "NumCompleted": 2535
     }
   ],
   "TotalAchievements": 57,
@@ -31416,7 +31427,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26625
+      "UsersEstimate": 26626
     },
     {
       "ID": "HandyMan",
@@ -31791,21 +31802,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887515,
+      "Progressed": 887524,
       "Completed": 2535
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16138,
+      "Progressed": 16147,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-02T01:42:14.3189668+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:51:07.0113699+00:00",
+  "LastChanged": "2023-10-02T02:16:45.0815091+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:24:35.8074479+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:42:14.3189673+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:51:07.0115035+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:16:45.0815097+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:24:35.8077334+00:00"
 }

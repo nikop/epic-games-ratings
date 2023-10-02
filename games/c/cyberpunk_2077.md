@@ -8,7 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 4.00% | ~35,501 |
 | Rough Landing | 4.00% | ~35,501 |
-| Gunslinger | 3.00% | ~26,625 |
+| Gunslinger | 3.00% | ~26,626 |
 | Full Body Conversion | 2.00% | ~17,750 |
 | Right Back At Ya | 2.00% | ~17,750 |
 | Master Crafter | 2.00% | ~17,750 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,515 (Ranked 15)  
+Progressed: 887,524 (Ranked 15)  
 Completed: 2,535 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 2,535 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,515 | 2,535 |
+| 2023-10-02 | 887,524 | 2,535 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
-Sum: 251,578 (Ranked 12)  
+Sum: 251,907 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -243,9 +243,9 @@ Diff (max vs sum): -3
 | This game has Amazing Storytelling | 12,110 |
 | This game is Highly Recommended | 12,090 |
 | This game is Extremely Fun | 11,783 |
+| This game is Relaxing | 11,769 |
 | This game has Amazing Characters | 11,759 |
 | This game has Quickly Understood Controls | 11,574 |
-| This game is Relaxing | 11,440 |
 | This game has a Creative Community | 7,629 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -506,4 +506,4 @@ Diff (max vs sum): -3
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
-| 2023-10-02 | 4.63 | - | 88,536 | 251,578 |
+| 2023-10-02 | 4.63 | - | 88,536 | 251,907 |

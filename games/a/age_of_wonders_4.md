@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 398)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,196 (Ranked 169)  
+Progressed: 5,197 (Ranked 169)  
 Completed: 6 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 6 (0.12%) (Ranked 234)
 | 2023-09-27 | 5,194 | 6 |
 | 2023-09-29 | 5,195 | 6 |
 | 2023-09-30 | 5,196 | 6 |
+| 2023-10-02 | 5,197 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 493)  
 Sum: 25 (Ranked 501)  

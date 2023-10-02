@@ -4,7 +4,7 @@
   "ProductSlug": "redneck-rampage-653f04",
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-29T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.6552628+00:00",
   "LastChanged": "2023-03-31T05:57:27.6552629+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:46.3977149+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:42:54.9384442+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:51:27.0927047+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:17:41.4520998+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:25:19.7747717+00:00"
 }

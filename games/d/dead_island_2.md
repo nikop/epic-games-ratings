@@ -34,24 +34,24 @@ Rating: 4.54 (Ranked 511)
 | Humanity Distilled | 1.00% | ~6,895 |
 | Down with the Sickness | 1.00% | ~6,895 |
 | Max Headroom | 1.00% | ~6,895 |
-| Go, Bobcats! | 0.90% | ~6,205 |
-| Rising Star | 0.90% | ~6,205 |
+| Go, Bobcats! | 0.90% | ~6,206 |
+| Rising Star | 0.90% | ~6,206 |
 | Jumbo Keyring | 0.80% | ~5,516 |
-| Smorgasbord | 0.70% | ~4,826 |
+| Smorgasbord | 0.70% | ~4,827 |
 | On Safari | 0.60% | ~4,137 |
 | Not Even My Final Form | 0.60% | ~4,137 |
 | Internet Famous | 0.60% | ~4,137 |
-| Make it So | 0.50% | ~3,447 |
-| Variety is the Spice of Death | 0.50% | ~3,447 |
+| Make it So | 0.50% | ~3,448 |
+| Variety is the Spice of Death | 0.50% | ~3,448 |
 | LA Influential | 0.40% | ~2,758 |
 | Gore Horse | 0.40% | ~2,758 |
 | Sharpest Tool in the Box | 0.40% | ~2,758 |
-| Sole Survivor | 0.30% | ~2,068 |
-| Survival Skills | 0.30% | ~2,068 |
-| Donk! | 0.10% | ~689 |
-| Bucket List | 0.10% | ~689 |
+| Sole Survivor | 0.30% | ~2,069 |
+| Survival Skills | 0.30% | ~2,069 |
+| Donk! | 0.10% | ~690 |
+| Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,492 (Ranked 22)  
+Progressed: 689,503 (Ranked 22)  
 Completed: 2,184 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,14 +216,14 @@ Completed: 2,184 (0.32%) (Ranked 194)
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
-| 2023-10-02 | 689,492 | 2,184 |
+| 2023-10-02 | 689,503 | 2,184 |
 ## Awards
-Max (Great Boss Battles): 6,270  (Ranked 58)  
-Sum: 9,358 (Ranked 91)  
+Max (Great Boss Battles): 6,289  (Ranked 58)  
+Sum: 9,377 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,270 |
+| This game has Great Boss Battles | 6,289 |
 | This game is Great for Beginners | 441 |
 | This game has Diverse Characters | 435 |
 | This game has Quickly Understood Controls | 413 |
@@ -399,3 +399,4 @@ Diff (max vs sum): -33
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
 | 2023-10-01 | 4.54 | 6,270 | 9,358 |
+| 2023-10-02 | 4.54 | 6,289 | 9,377 |

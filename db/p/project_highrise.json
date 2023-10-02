@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1436,9 +1436,9 @@
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "ach_restaurants_4",
@@ -1629,8 +1629,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:51:04.3539373+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:24:32.6223185+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:32.7979624+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:41:52.0402543+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:51:04.3540305+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:16:17.1135271+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:24:32.6224371+00:00"
 }

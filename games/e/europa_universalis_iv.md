@@ -6,8 +6,8 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,803 |
-| Until death do us apart | 4.00% | ~16,803 |
+| That's a Grand Army | 4.00% | ~16,804 |
+| Until death do us apart | 4.00% | ~16,804 |
 | That is mine! | 3.00% | ~12,603 |
 | Victorious! | 3.00% | ~12,603 |
 | Brothers in Arms | 2.00% | ~8,402 |
@@ -27,10 +27,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Total Control | 0.80% | ~3,361 |
 | Royal Authority | 0.70% | ~2,941 |
 | My armies are invincible! | 0.60% | ~2,521 |
-| Agressive Expander | 0.50% | ~2,100 |
-| City of Cities | 0.50% | ~2,100 |
-| Combined Arms | 0.50% | ~2,100 |
-| This navy can take it all | 0.50% | ~2,100 |
+| Agressive Expander | 0.50% | ~2,101 |
+| City of Cities | 0.50% | ~2,101 |
+| Combined Arms | 0.50% | ~2,101 |
+| This navy can take it all | 0.50% | ~2,101 |
 | Azur semé de lis or | 0.40% | ~1,680 |
 | Factionalism | 0.40% | ~1,680 |
 | Gentle Persuasion | 0.40% | ~1,680 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,087 (Ranked 41)  
+Progressed: 420,102 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,14 +526,14 @@ Completed: 1 (0.00%) (Ranked 304)
 | 2023-09-29 | 417,709 | 1 |
 | 2023-09-30 | 418,938 | 1 |
 | 2023-10-01 | 420,043 | 1 |
-| 2023-10-02 | 420,087 | 1 |
+| 2023-10-02 | 420,102 | 1 |
 ## Awards
-Max (Educational): 6,349  (Ranked 57)  
-Sum: 52,207 (Ranked 24)  
+Max (Educational): 6,368  (Ranked 57)  
+Sum: 52,226 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,349 |
+| This game is Educational | 6,368 |
 | This game is Highly Recommended | 6,051 |
 | This game has Challenging Combat | 6,018 |
 | This game has Diverse Characters | 6,005 |
@@ -804,3 +804,4 @@ Diff (max vs sum): 33
 | 2023-09-29 | 4.69 | - | 6,316 | 51,874 |
 | 2023-09-30 | 4.69 | - | 6,335 | 52,039 |
 | 2023-10-01 | 4.69 | - | 6,349 | 52,207 |
+| 2023-10-02 | 4.69 | - | 6,368 | 52,226 |

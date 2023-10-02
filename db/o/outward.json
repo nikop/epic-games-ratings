@@ -5201,9 +5201,9 @@
       "ID": "ScourgeSlayer_26",
       "SetID": "c4hee28",
       "Name": "Scourge Slayer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 884
+      "UsersEstimate": 920
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -5337,8 +5337,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:46:30.7632336+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:20:38.8743461+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:42:13.4316128+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:46:30.7632825+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:16:44.1216535+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:20:38.8744115+00:00"
 }

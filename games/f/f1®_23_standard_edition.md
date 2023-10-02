@@ -5,19 +5,19 @@ Rating: 4.66 (Ranked 283)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,671 |
-| On the Top Step | 87.00% | ~2,473 |
-| Setting up for Success | 76.00% | ~2,160 |
-| Team Orders | 74.00% | ~2,103 |
-| Engineer | 54.00% | ~1,535 |
-| Familiar Faces | 47.00% | ~1,336 |
+| Getting on the Step | 94.00% | ~2,673 |
+| On the Top Step | 87.00% | ~2,474 |
+| Setting up for Success | 76.00% | ~2,161 |
+| Team Orders | 74.00% | ~2,105 |
+| Engineer | 54.00% | ~1,536 |
+| Familiar Faces | 47.00% | ~1,337 |
 | Going the Extra Mile | 42.00% | ~1,194 |
-| Sharing the Love | 39.00% | ~1,108 |
-| Hitting a Season | 33.00% | ~938 |
-| Challenge Yourself | 32.00% | ~909 |
+| Sharing the Love | 39.00% | ~1,109 |
+| Hitting a Season | 33.00% | ~939 |
+| Challenge Yourself | 32.00% | ~910 |
 | Making History | 30.00% | ~853 |
-| A Dozen Pieces | 29.00% | ~824 |
-| Network Success | 24.00% | ~682 |
+| A Dozen Pieces | 29.00% | ~825 |
+| Network Success | 24.00% | ~683 |
 | Spring Cleaning | 23.00% | ~654 |
 | Writing a new Chapter | 23.00% | ~654 |
 | Reduce | 19.00% | ~540 |
@@ -25,7 +25,7 @@ Rating: 4.66 (Ranked 283)
 | Crucial Combo | 17.00% | ~483 |
 | Reuse | 16.00% | ~455 |
 | One for the Book | 16.00% | ~455 |
-| Proving Them Wrong | 15.00% | ~426 |
+| Proving Them Wrong | 15.00% | ~427 |
 | Gathering Dust | 14.00% | ~398 |
 | Oil and Water | 14.00% | ~398 |
 | Eagle Eye | 12.00% | ~341 |
@@ -37,7 +37,7 @@ Rating: 4.66 (Ranked 283)
 | Tinkerer | 11.00% | ~313 |
 | Switcheroo | 10.00% | ~284 |
 | Friendly Competition | 9.00% | ~256 |
-| Undisputed Winner | 8.00% | ~227 |
+| Undisputed Winner | 8.00% | ~228 |
 | Living up to Expectations | 6.00% | ~171 |
 | For all Those Back at the Factory | 5.00% | ~142 |
 | Loyal Bond | 5.00% | ~142 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 283)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,842 (Ranked 190)  
+Progressed: 2,844 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 2,695 | 0 |
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
+| 2023-10-02 | 2,844 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

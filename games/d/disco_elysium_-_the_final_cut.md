@@ -7,7 +7,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,180 |
-| Biggest Communism Builder | 24.00% | ~31,011 |
+| Biggest Communism Builder | 24.00% | ~31,012 |
 | The World's Most Laughable Centrist | 21.00% | ~27,135 |
 | Il Coppo Del'Arte! | 18.00% | ~23,259 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,674 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Venture into the HARDCORE | 0.90% | ~1,163 |
 | Real Musor | 0.90% | ~1,163 |
 | Baddest Brow in Town | 0.80% | ~1,034 |
-| Networthy Individual | 0.70% | ~904 |
+| Networthy Individual | 0.70% | ~905 |
 | Leopard Mindset | 0.60% | ~775 |
 | Modus: Mullen | 0.30% | ~388 |
 | Palerunner | 0.30% | ~388 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,214 (Ranked 73)  
+Progressed: 129,215 (Ranked 73)  
 Completed: 28 (0.02%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 28 (0.02%) (Ranked 279)
 | 2023-09-29 | 129,095 | 28 |
 | 2023-09-30 | 129,168 | 28 |
 | 2023-10-01 | 129,212 | 28 |
-| 2023-10-02 | 129,214 | 28 |
+| 2023-10-02 | 129,215 | 28 |
 ## Awards
 Max (Character Customization): 726  (Ranked 170)  
 Sum: 1,093 (Ranked 240)  

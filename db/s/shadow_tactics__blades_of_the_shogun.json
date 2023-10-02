@@ -1693,9 +1693,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 205499,
+  "EOS_Progressed": 205500,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 1291,
+  "EOS_NewPlayers": 1285,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20298,6 +20298,11 @@
       "Time": "2023-10-02T01:47:12.2791596+00:00",
       "NumProgressed": 205499,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-10-02T02:21:28.6131528+00:00",
+      "NumProgressed": 205500,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 44,
@@ -20325,7 +20330,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Chunin",
@@ -20341,7 +20346,7 @@
       "Name": "Complete Mastery",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Disguised",
@@ -20437,7 +20442,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "Meticulous",
@@ -20453,7 +20458,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MugenUnchained",
@@ -20501,7 +20506,7 @@
       "Name": "Praise the Shogun",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Prisoners",
@@ -20517,7 +20522,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "RescueTakuma",
@@ -20605,7 +20610,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "UndeservedHonor",
@@ -20637,7 +20642,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "WinnerWinner",
@@ -20660,15 +20665,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 205499,
+      "Progressed": 205500,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-01T19:00:51.6484681+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:47:12.2791591+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:21:28.613152+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.8939779+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:42:12.4263978+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:47:12.2792733+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:16:42.8495527+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:21:28.6133031+00:00"
 }

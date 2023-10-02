@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6010,
+  "EOS_Progressed": 6011,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4877,6 +4877,11 @@
       "Time": "2023-10-02T01:47:26.703613+00:00",
       "NumProgressed": 6010,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-02T02:21:46.0234966+00:00",
+      "NumProgressed": 6011,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4953,7 +4958,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "a_20",
@@ -5136,7 +5141,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6010,
+      "Progressed": 6011,
       "Completed": 7
     }
   ],
@@ -5144,8 +5149,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:47:26.7036123+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:21:46.0234958+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:41:34.6444907+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:47:26.7036485+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:15:56.8095315+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:21:46.0235792+00:00"
 }

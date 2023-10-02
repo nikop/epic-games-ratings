@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,008 |
-| The Killing Jar | 8.00% | ~15,118 |
+| First of Many | 9.00% | ~17,009 |
+| The Killing Jar | 8.00% | ~15,119 |
 | Expanding Horizons | 7.00% | ~13,229 |
 | Quest for Survival | 7.00% | ~13,229 |
 | Not Your Average Trait | 7.00% | ~13,229 |
@@ -35,14 +35,14 @@ Rating: 4.76 (Ranked 118)
 | The Web | 4.00% | ~7,559 |
 | Scrap Collector | 4.00% | ~7,559 |
 | All These Traits� | 4.00% | ~7,559 |
-| Am I Seeing This? | 3.00% | ~5,669 |
-| The Agenda | 3.00% | ~5,669 |
-| Tall Tales | 3.00% | ~5,669 |
-| Bad Moon Rising | 3.00% | ~5,669 |
-| Strapped | 3.00% | ~5,669 |
-| Edgelord | 3.00% | ~5,669 |
-| The Ultimate Weapon | 3.00% | ~5,669 |
-| No One Should Have All That Power | 3.00% | ~5,669 |
+| Am I Seeing This? | 3.00% | ~5,670 |
+| The Agenda | 3.00% | ~5,670 |
+| Tall Tales | 3.00% | ~5,670 |
+| Bad Moon Rising | 3.00% | ~5,670 |
+| Strapped | 3.00% | ~5,670 |
+| Edgelord | 3.00% | ~5,670 |
+| The Ultimate Weapon | 3.00% | ~5,670 |
+| No One Should Have All That Power | 3.00% | ~5,670 |
 | Crafty | 2.00% | ~3,780 |
 | Only Human | 2.00% | ~3,780 |
 | Red Room | 2.00% | ~3,780 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,890 |
 | Ghost in the Machine | 0.90% | ~1,701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,981 (Ranked 65)  
+Progressed: 188,987 (Ranked 65)  
 Completed: 350 (0.19%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 350 (0.19%) (Ranked 219)
 | 2023-09-29 | 187,917 | 345 |
 | 2023-09-30 | 188,435 | 348 |
 | 2023-10-01 | 188,949 | 350 |
-| 2023-10-02 | 188,981 | 350 |
+| 2023-10-02 | 188,987 | 350 |
 ## Awards
 Max (Great Boss Battles): 1,756  (Ranked 117)  
 Sum: 3,687 (Ranked 154)  

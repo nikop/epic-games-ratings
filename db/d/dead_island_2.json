@@ -4936,18 +4936,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 9358,
       "NumberOfAwardsMax": 6270
+    },
+    {
+      "Time": "2023-10-02T02:17:15.51499+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9377,
+      "NumberOfAwardsMax": 6289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9358,
-  "NumberOfAwardsMax": 6270,
+  "NumberOfAwards": 9377,
+  "NumberOfAwardsMax": 6289,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6270
+      "Count": 6289
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4998,9 +5004,9 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 689492,
+  "EOS_Progressed": 689503,
   "EOS_Completed": 2184,
-  "EOS_NewPlayers": 3593,
+  "EOS_NewPlayers": 3592,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23568,6 +23574,11 @@
       "Time": "2023-10-02T01:47:22.2406686+00:00",
       "NumProgressed": 689492,
       "NumCompleted": 2184
+    },
+    {
+      "Time": "2023-10-02T02:21:40.8113526+00:00",
+      "NumProgressed": 689503,
+      "NumCompleted": 2184
     }
   ],
   "TotalAchievements": 45,
@@ -23611,7 +23622,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "ach_big_name_in_town",
@@ -23683,7 +23694,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4826
+      "UsersEstimate": 4827
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -23747,7 +23758,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ach_internet_famous",
@@ -23763,7 +23774,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -23867,7 +23878,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -23883,7 +23894,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "ach_thesacrifice",
@@ -23907,7 +23918,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -23923,7 +23934,7 @@
       "Name": "Rising Star",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "ach_well_trained",
@@ -23931,29 +23942,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 689492,
+      "Progressed": 689503,
       "Completed": 2184
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 15034,
-      "Completed": 15034
+      "Progressed": 15045,
+      "Completed": 15045
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-01T23:00:22.6345264+00:00",
-  "LastChanged_Achievements": "2023-10-02T01:47:22.240668+00:00",
+  "LastChanged": "2023-10-02T02:17:15.5149897+00:00",
+  "LastChanged_Achievements": "2023-10-02T02:21:40.8113517+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-02T01:42:36.0181595+00:00",
-  "LastUpdate_Achievements": "2023-10-02T01:47:22.2407832+00:00"
+  "LastUpdate_Ratings": "2023-10-02T02:17:15.5149905+00:00",
+  "LastUpdate_Achievements": "2023-10-02T02:21:40.8115067+00:00"
 }
