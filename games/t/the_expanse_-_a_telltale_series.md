@@ -5,25 +5,25 @@ Rating: 4.53 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 36.00% | ~4,831 |
-| Captain Drummer | 31.00% | ~4,160 |
-| Stogie for Fogey | 30.00% | ~4,026 |
-| Martian Music | 29.00% | ~3,892 |
-| Celebrations are in Order | 29.00% | ~3,892 |
-| The Pit and the Pirates | 27.00% | ~3,623 |
-| Spore Taste | 27.00% | ~3,623 |
-| Drone Dodger | 26.00% | ~3,489 |
-| Bosmang | 21.00% | ~2,818 |
-| Doctor Approved | 20.00% | ~2,684 |
-| Thorston Mayer | 17.00% | ~2,281 |
+| Impossible Objects | 36.00% | ~4,832 |
+| Captain Drummer | 31.00% | ~4,161 |
+| Stogie for Fogey | 30.00% | ~4,027 |
+| Martian Music | 29.00% | ~3,893 |
+| Celebrations are in Order | 29.00% | ~3,893 |
+| The Pit and the Pirates | 27.00% | ~3,624 |
+| Spore Taste | 27.00% | ~3,624 |
+| Drone Dodger | 26.00% | ~3,490 |
+| Bosmang | 21.00% | ~2,819 |
+| Doctor Approved | 20.00% | ~2,685 |
+| Thorston Mayer | 17.00% | ~2,282 |
 | Call it Even | 15.00% | ~2,013 |
 | Data Archivist | 14.00% | ~1,879 |
 | Bottoms up! | 14.00% | ~1,879 |
 | Heal Thy Medic | 13.00% | ~1,745 |
-| Khan's Revenge | 12.00% | ~1,610 |
+| Khan's Revenge | 12.00% | ~1,611 |
 | Data Logger | 8.00% | ~1,074 |
 | Miraculous Maya | 8.00% | ~1,074 |
-| Data Master | 7.00% | ~939 |
+| Data Master | 7.00% | ~940 |
 | Data Recoverer | 6.00% | ~805 |
 | Brother's Reaper | 4.00% | ~537 |
 | No Belter Left Behind | 4.00% | ~537 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 524)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,420 (Ranked 135)  
+Progressed: 13,423 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 13,208 | 0 |
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
-| 2023-10-02 | 13,420 | 0 |
+| 2023-10-02 | 13,423 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 228179,
+  "EOS_Progressed": 228189,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1544,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13126,6 +13126,11 @@
       "Time": "2023-10-02T13:12:04.5374215+00:00",
       "NumProgressed": 228179,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-02T14:06:44.7520463+00:00",
+      "NumProgressed": 228189,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13185,7 +13190,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9127
+      "UsersEstimate": 9128
     },
     {
       "ID": "Chapter2",
@@ -13193,7 +13198,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "Chapter3",
@@ -13567,9 +13572,9 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6845
+      "UsersEstimate": 9128
     },
     {
       "ID": "ElfEpic",
@@ -13585,7 +13590,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73017
+      "UsersEstimate": 73020
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13601,7 +13606,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "EndCombatOneHp",
@@ -13609,7 +13614,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "EndGameCursed",
@@ -13665,7 +13670,7 @@
       "Name": "Dead for good",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "KillGolbargh",
@@ -13785,7 +13790,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "SupportCount4",
@@ -13825,7 +13830,7 @@
       "Name": "Material Girl",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "WizardResistBurn",
@@ -13833,28 +13838,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 228179,
+      "Progressed": 228189,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 228179,
+      "Progressed": 228189,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-02T01:42:21.767817+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:12:04.5374209+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:06:44.7520459+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:05:18.7372312+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:12:04.5375834+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:00:03.7190068+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:06:44.7522974+00:00"
 }

@@ -1,29 +1,29 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.63 (Ranked 335)  
+Rating: 4.63 (Ranked 336)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,510 |
-| Rough Landing | 4.00% | ~35,510 |
-| Gunslinger | 3.00% | ~26,633 |
-| The Jungle | 3.00% | ~26,633 |
-| Full Body Conversion | 2.00% | ~17,755 |
-| Right Back At Ya | 2.00% | ~17,755 |
-| Master Crafter | 2.00% | ~17,755 |
-| Mean Streets | 2.00% | ~17,755 |
-| Breathtaking | 2.00% | ~17,755 |
-| Stanislavski's Method | 2.00% | ~17,755 |
-| The Hermit | 2.00% | ~17,755 |
-| The High Priestess | 2.00% | ~17,755 |
-| The Wheel of Fortune | 2.00% | ~17,755 |
-| True Soldier | 2.00% | ~17,755 |
-| True Warrior | 2.00% | ~17,755 |
-| Two Heads, One Bullet | 2.00% | ~17,755 |
-| V for Vendetta | 2.00% | ~17,755 |
-| Legend of The Afterlife | 2.00% | ~17,755 |
+| Ten out of Ten | 4.00% | ~35,512 |
+| Rough Landing | 4.00% | ~35,512 |
+| Gunslinger | 3.00% | ~26,634 |
+| The Jungle | 3.00% | ~26,634 |
+| Full Body Conversion | 2.00% | ~17,756 |
+| Right Back At Ya | 2.00% | ~17,756 |
+| Master Crafter | 2.00% | ~17,756 |
+| Mean Streets | 2.00% | ~17,756 |
+| Breathtaking | 2.00% | ~17,756 |
+| Stanislavski's Method | 2.00% | ~17,756 |
+| The Hermit | 2.00% | ~17,756 |
+| The High Priestess | 2.00% | ~17,756 |
+| The Wheel of Fortune | 2.00% | ~17,756 |
+| True Soldier | 2.00% | ~17,756 |
+| True Warrior | 2.00% | ~17,756 |
+| Two Heads, One Bullet | 2.00% | ~17,756 |
+| V for Vendetta | 2.00% | ~17,756 |
+| Legend of The Afterlife | 2.00% | ~17,756 |
 | To Bad Decisions! | 1.00% | ~8,878 |
 | Gun Fu | 1.00% | ~8,878 |
 | Christmas Tree Attack | 1.00% | ~8,878 |
@@ -33,12 +33,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 1.00% | ~8,878 |
 | The Lovers | 1.00% | ~8,878 |
 | The World | 1.00% | ~8,878 |
+| Judy vs Night City | 1.00% | ~8,878 |
 | It's Elementary | 1.00% | ~8,878 |
-| Judy vs Night City | 0.90% | ~7,990 |
 | Greetings from Pacifica! | 0.80% | ~7,102 |
-| City Lights | 0.70% | ~6,214 |
+| City Lights | 0.70% | ~6,215 |
+| Life of the Road | 0.70% | ~6,215 |
 | Spin Doctor | 0.70% | ~115 |
-| Life of the Road | 0.60% | ~5,327 |
 | Bushido and Chill | 0.50% | ~4,439 |
 | I Am The Law | 0.50% | ~4,439 |
 | The Wandering Fool | 0.40% | ~3,551 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,761 (Ranked 15)  
+Progressed: 887,790 (Ranked 15)  
 Completed: 2,543 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,17 +229,17 @@ Completed: 2,543 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,761 | 2,543 |
+| 2023-10-02 | 887,790 | 2,543 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
-Sum: 252,718 (Ranked 12)  
+Sum: 253,093 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88,536 |
 | This game has Great Boss Battles | 60,143 |
+| This game has Diverse Characters | 12,694 |
 | This game is Great for Beginners | 12,605 |
-| This game has Diverse Characters | 12,319 |
 | This game is Extremely Fun | 12,184 |
 | This game has Amazing Storytelling | 12,110 |
 | This game is Highly Recommended | 12,090 |
@@ -506,4 +506,4 @@ Diff (max vs sum): -3
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
-| 2023-10-02 | 4.63 | - | 88,536 | 252,718 |
+| 2023-10-02 | 4.63 | - | 88,536 | 253,093 |

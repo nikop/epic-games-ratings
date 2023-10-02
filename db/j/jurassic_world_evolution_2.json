@@ -4,7 +4,7 @@
   "ProductSlug": "jurassic-world-evolution-2",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 122,
+  "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 407,
@@ -5462,10 +5462,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 6179,
       "NumberOfAwardsMax": 705
+    },
+    {
+      "Time": "2023-10-02T13:59:45.5053105+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6181,
+      "NumberOfAwardsMax": 705
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6179,
+  "NumberOfAwards": 6181,
   "NumberOfAwardsMax": 705,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5473,7 +5479,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 607
+      "Count": 609
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5547,8 +5553,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-10-02T05:59:03.1356483+00:00",
+  "LastChanged": "2023-10-02T13:59:45.5053098+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:44.740818+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:05:00.8572167+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:10:04.9904866+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:59:45.5053111+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:04:43.1284731+00:00"
 }

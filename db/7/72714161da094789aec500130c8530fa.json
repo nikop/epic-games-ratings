@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -430,9 +430,9 @@
       "ID": "_forcefield",
       "SetID": "2d5739o",
       "Name": "Forcefield",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_grenade",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:12:15.7909381+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:06:55.8838404+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:03:03.1921892+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:12:15.7909769+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:57:51.0081936+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:06:55.8839034+00:00"
 }

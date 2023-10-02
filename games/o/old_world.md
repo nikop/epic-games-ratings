@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
 | Noble | 0.10% | ~14 |
+| Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
 | Pioneer | 0.10% | ~14 |
 | Ready | 0.10% | ~14 |
@@ -265,7 +266,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
-| Old | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |

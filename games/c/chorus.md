@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.47 (Ranked 620)  
+Rating: 4.47 (Ranked 619)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,7 +26,7 @@ Number of Ratings: 58  (23.09.2022)
 | Disruption | 43.00% | ~530 |
 | Phoenix | 43.00% | ~530 |
 | Cult Slayer | 40.00% | ~493 |
-| Origin | 39.00% | ~480 |
+| Origin | 40.00% | ~493 |
 | It Was An Accident | 39.00% | ~480 |
 | Set in Motion | 38.00% | ~468 |
 | In the Eye of the Storm | 37.00% | ~456 |

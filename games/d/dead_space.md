@@ -5,26 +5,26 @@ Rating: 4.61 (Ranked 370)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~671 |
-| Welcome Aboard | 87.00% | ~614 |
+| Marksman | 95.00% | ~672 |
+| Welcome Aboard | 87.00% | ~615 |
 | Lab Rat | 75.00% | ~530 |
-| All Systems Go | 65.00% | ~459 |
-| Brute Force | 65.00% | ~459 |
+| All Systems Go | 65.00% | ~460 |
+| Brute Force | 64.00% | ~452 |
 | Cannon Fodder | 60.00% | ~424 |
 | Autofire | 59.00% | ~417 |
-| Raise the Stakes | 56.00% | ~395 |
-| Story Teller | 54.00% | ~381 |
-| True Believer | 54.00% | ~381 |
-| Surgeon | 50.00% | ~353 |
+| Raise the Stakes | 56.00% | ~396 |
+| Story Teller | 54.00% | ~382 |
+| True Believer | 54.00% | ~382 |
+| Surgeon | 50.00% | ~354 |
+| Exterminator | 48.00% | ~339 |
 | Greenhouse Effect | 48.00% | ~339 |
 | Freeze | 47.00% | ~332 |
-| Exterminator | 47.00% | ~332 |
 | Full Arsenal | 42.00% | ~297 |
-| S.O.S. | 40.00% | ~282 |
-| Live with the Hot Ones | 39.00% | ~275 |
-| Get Off My Ship! | 38.00% | ~268 |
-| Strange Transmissions | 38.00% | ~268 |
-| Wreckage | 36.00% | ~254 |
+| S.O.S. | 40.00% | ~283 |
+| Live with the Hot Ones | 39.00% | ~276 |
+| Get Off My Ship! | 38.00% | ~269 |
+| Strange Transmissions | 38.00% | ~269 |
+| Wreckage | 36.00% | ~255 |
 | Keeper of the Faith | 34.00% | ~240 |
 | Betrayed | 33.00% | ~233 |
 | A Cut Above | 33.00% | ~233 |
@@ -33,8 +33,8 @@ Rating: 4.61 (Ranked 370)
 | Exodus | 30.00% | ~212 |
 | Mindless Prey | 30.00% | ~212 |
 | Front Toward Enemy | 29.00% | ~205 |
-| Whole Again | 24.00% | ~169 |
-| Set A Benchmark | 24.00% | ~169 |
+| Whole Again | 24.00% | ~170 |
+| Set A Benchmark | 24.00% | ~170 |
 | Final Regeneration | 21.00% | ~148 |
 | Full Contact | 21.00% | ~148 |
 | Pack Rat | 21.00% | ~148 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 370)
 | Reunion | 2.00% | ~14 |
 | Untouchable | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706 (Ranked 246)  
+Progressed: 707 (Ranked 246)  
 Completed: 3 (0.42%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 3 (0.42%) (Ranked 178)
 | 2023-09-29 | 589 | 3 |
 | 2023-09-30 | 637 | 3 |
 | 2023-10-01 | 686 | 3 |
-| 2023-10-02 | 706 | 3 |
+| 2023-10-02 | 707 | 3 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 344)  
 Sum: 99 (Ranked 425)  

@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 510)
 | On Safari | 0.60% | ~4,138 |
 | Not Even My Final Form | 0.60% | ~4,138 |
 | Internet Famous | 0.60% | ~4,138 |
-| Make it So | 0.50% | ~3,448 |
-| Variety is the Spice of Death | 0.50% | ~3,448 |
+| Make it So | 0.50% | ~3,449 |
+| Variety is the Spice of Death | 0.50% | ~3,449 |
 | LA Influential | 0.40% | ~2,759 |
 | Gore Horse | 0.40% | ~2,759 |
 | Sharpest Tool in the Box | 0.40% | ~2,759 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,689 (Ranked 22)  
+Progressed: 689,715 (Ranked 22)  
 Completed: 2,184 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 2,184 (0.32%) (Ranked 194)
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
-| 2023-10-02 | 689,689 | 2,184 |
+| 2023-10-02 | 689,715 | 2,184 |
 ## Awards
 Max (Great Boss Battles): 6,289  (Ranked 58)  
-Sum: 9,377 (Ranked 91)  
+Sum: 9,380 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 392 |
 | This game has Amazing Storytelling | 362 |
 | This game is Extremely Fun | 353 |
-| This game is Highly Recommended | 348 |
+| This game is Highly Recommended | 351 |
 | This game has Amazing Characters | 344 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -399,4 +399,4 @@ Diff (max vs sum): -33
 | 2023-09-29 | 4.54 | 6,253 | 9,312 |
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
 | 2023-10-01 | 4.54 | 6,270 | 9,358 |
-| 2023-10-02 | 4.54 | 6,289 | 9,377 |
+| 2023-10-02 | 4.54 | 6,289 | 9,380 |

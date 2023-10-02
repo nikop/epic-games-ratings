@@ -3921,9 +3921,9 @@
       "ID": "achAccumulate1M",
       "SetID": "dgl390n",
       "Name": "Transport millionaire",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 955
     },
     {
       "ID": "achAircraftEarnings",
@@ -4377,8 +4377,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-30T15:00:58.833984+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:09:24.7377485+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:03:52.4860523+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:26.3484503+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:02:56.9840289+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:09:24.7378259+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:57:44.9785506+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:03:52.4861313+00:00"
 }

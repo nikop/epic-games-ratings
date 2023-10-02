@@ -2,12 +2,12 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -2466,9 +2466,9 @@
       "ID": "MissionTheiaStep1",
       "SetID": "a6c395p",
       "Name": "Origin",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 493
     },
     {
       "ID": "Overcharge",
@@ -2554,8 +2554,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:10:09.2271248+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:04:47.3538395+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:38.2609537+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:03:05.3880401+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:10:09.2271768+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:57:53.7530426+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:04:47.3539182+00:00"
 }

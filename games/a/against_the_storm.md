@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,776 (Ranked 129)  
+Progressed: 16,779 (Ranked 129)  
 Completed: 52 (0.31%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,10 +222,10 @@ Completed: 52 (0.31%) (Ranked 195)
 | 2023-09-29 | 16,749 | 52 |
 | 2023-09-30 | 16,757 | 52 |
 | 2023-10-01 | 16,772 | 52 |
-| 2023-10-02 | 16,776 | 52 |
+| 2023-10-02 | 16,779 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 433  (Ranked 212)  
-Sum: 3,171 (Ranked 166)  
+Sum: 3,172 (Ranked 166)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): 46
 | This game is Great for Beginners | 404 |
 | This game is Extremely Fun | 402 |
 | This game is Highly Recommended | 386 |
-| This game has Unique Visuals | 320 |
+| This game has Unique Visuals | 321 |
 | This game has Amazing Storytelling | 314 |
 | This game has Amazing Characters | 282 |
 | This game has Obsessive Gameplay | 254 |
@@ -445,4 +445,4 @@ Diff (max vs sum): 46
 | 2023-09-28 | 4.81 | - | 431 | 3,161 |
 | 2023-09-30 | 4.81 | - | 433 | 3,169 |
 | 2023-10-01 | 4.81 | - | 433 | 3,170 |
-| 2023-10-02 | 4.81 | - | 433 | 3,171 |
+| 2023-10-02 | 4.81 | - | 433 | 3,172 |

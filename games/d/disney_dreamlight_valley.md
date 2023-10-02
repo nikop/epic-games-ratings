@@ -140,12 +140,12 @@ Completed: 246 (2.35%) (Ranked 98)
 | 2023-10-01 | 10,472 | 245 |
 | 2023-10-02 | 10,489 | 246 |
 ## Awards
-Max (Great for Beginners): 981  (Ranked 148)  
-Sum: 7,636 (Ranked 106)  
+Max (Great for Beginners): 983  (Ranked 148)  
+Sum: 7,638 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 981 |
+| This game is Great for Beginners | 983 |
 | This game has Diverse Characters | 838 |
 | This game is Relaxing | 804 |
 | This game is Highly Recommended | 803 |
@@ -362,3 +362,4 @@ Diff (max vs sum): 42
 | 2023-09-29 | 4.76 | - | 977 | 7,624 |
 | 2023-09-30 | 4.76 | - | 977 | 7,631 |
 | 2023-10-01 | 4.76 | - | 981 | 7,636 |
+| 2023-10-02 | 4.76 | - | 983 | 7,638 |

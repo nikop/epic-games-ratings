@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 699,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1925,6 +1925,11 @@
       "Time": "2023-10-01T21:08:45.7548344+00:00",
       "NumProgressed": 697,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T14:08:25.2275012+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1960,7 +1965,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "DevilDetail",
@@ -2152,7 +2157,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Toxic",
@@ -2191,7 +2196,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 699,
       "Completed": 1
     }
   ],
@@ -2199,8 +2204,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:14:05.9900535+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:08:25.2275007+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:52.2848972+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:02:35.8420599+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:14:05.9900913+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:57:24.2574594+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:08:25.2275598+00:00"
 }

@@ -1,27 +1,27 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.17 (Ranked 903)  
+Rating: 4.17 (Ranked 902)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,131 |
-| Unlocked Potential | 9.00% | ~3,718 |
-| Tinkerer | 7.00% | ~2,892 |
-| Knock 'Em Dead | 7.00% | ~2,892 |
+| Attachments | 10.00% | ~4,132 |
+| Unlocked Potential | 9.00% | ~3,719 |
+| Tinkerer | 7.00% | ~2,893 |
+| Knock 'Em Dead | 7.00% | ~2,893 |
 | Leapfrogger | 6.00% | ~2,479 |
 | Pilgrimage: Initiate | 6.00% | ~2,479 |
 | Hell of a Run | 6.00% | ~2,479 |
 | Call of the Fount: Baptized | 6.00% | ~2,479 |
-| No Mercy | 5.00% | ~2,065 |
-| Explorer: Seeker | 5.00% | ~2,065 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,652 |
-| Stuck | 4.00% | ~1,652 |
-| Help Me Out Here | 4.00% | ~1,652 |
-| Outdoorsperson | 3.00% | ~1,239 |
-| The Interloper | 3.00% | ~1,239 |
-| Hop, Step, Jump | 3.00% | ~1,239 |
-| Endless Runner | 3.00% | ~1,239 |
+| No Mercy | 5.00% | ~2,066 |
+| Explorer: Seeker | 5.00% | ~2,066 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,653 |
+| Stuck | 4.00% | ~1,653 |
+| Help Me Out Here | 4.00% | ~1,653 |
+| Outdoorsperson | 3.00% | ~1,240 |
+| The Interloper | 3.00% | ~1,240 |
+| Hop, Step, Jump | 3.00% | ~1,240 |
+| Endless Runner | 3.00% | ~1,240 |
 | What Must Be Done | 2.00% | ~826 |
 | Might and Main | 2.00% | ~826 |
 | Damned If You Do... | 2.00% | ~826 |
@@ -59,7 +59,7 @@ Rating: 4.17 (Ranked 903)
 | Remembrance | 0.10% | ~41 |
 | Cat Person | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,309 (Ranked 103)  
+Progressed: 41,323 (Ranked 103)  
 Completed: 3 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 3 (0.01%) (Ranked 287)
 | 2023-09-29 | 40,425 | 3 |
 | 2023-09-30 | 40,800 | 3 |
 | 2023-10-01 | 41,144 | 3 |
-| 2023-10-02 | 41,309 | 3 |
+| 2023-10-02 | 41,323 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 494)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -720,6 +720,11 @@
       "Time": "2023-09-28T15:06:58.3235244+00:00",
       "NumProgressed": 529,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-02T14:06:55.8988201+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -739,7 +744,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Butterfly",
@@ -811,7 +816,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Healthy_Child",
@@ -851,7 +856,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Leisurely_Strol",
@@ -962,7 +967,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 6
     }
   ],
@@ -970,8 +975,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:12:15.8642796+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:06:55.8988198+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.4453152+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:08:20.4805976+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:12:15.8643063+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:03:07.2071932+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:06:55.8988439+00:00"
 }

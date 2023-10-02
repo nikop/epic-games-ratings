@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6438,
+  "EOS_Progressed": 6439,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10946,6 +10946,11 @@
       "Time": "2023-10-02T12:04:34.1495117+00:00",
       "NumProgressed": 6438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T14:04:45.1726145+00:00",
+      "NumProgressed": 6439,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -10957,7 +10962,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "10",
@@ -10973,7 +10978,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "12",
@@ -11076,7 +11081,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6438,
+      "Progressed": 6439,
       "Completed": 0
     }
   ],
@@ -11084,8 +11089,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:10:07.0547224+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:04:45.1726139+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.5763334+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:05:09.2758203+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:10:07.0548018+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:59:53.598601+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:04:45.172749+00:00"
 }

@@ -7,10 +7,10 @@ Rating: 4.00 (Ranked 960)
 | ---- | ---------- | ----- |
 | Unforeseen | 87.00% | ~47 |
 | Battlefields Have Memories | 87.00% | ~47 |
-| Enlisted | 85.00% | ~46 |
+| Enlisted | 87.00% | ~47 |
 | Maybe Engage a Little | 80.00% | ~43 |
 | No More Names | 69.00% | ~37 |
-| Initiate | 59.00% | ~32 |
+| Initiate | 61.00% | ~33 |
 | Thrada-Kul | 57.00% | ~31 |
 | Gravity-Challenged Rocks | 46.00% | ~25 |
 | Soldier | 37.00% | ~20 |

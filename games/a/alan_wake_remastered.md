@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,042 |
-| Let There Be Light | 34.00% | ~22,700 |
-| Float Like a Butterfly | 33.00% | ~22,033 |
-| Nordic Walking | 27.00% | ~18,027 |
-| Bright Falls' Finest | 26.00% | ~17,359 |
-| Under a Thin Layer of Skin | 23.00% | ~15,356 |
+| Follow the Light | 42.00% | ~28,043 |
+| Let There Be Light | 34.00% | ~22,701 |
+| Float Like a Butterfly | 33.00% | ~22,034 |
+| Nordic Walking | 27.00% | ~18,028 |
+| Bright Falls' Finest | 26.00% | ~17,360 |
+| Under a Thin Layer of Skin | 23.00% | ~15,357 |
 | Park Ranger | 19.00% | ~12,686 |
 | Paging Mr. Wake | 19.00% | ~12,686 |
 | Back! Back, I Say! | 18.00% | ~12,018 |
@@ -22,21 +22,21 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 15.00% | ~10,015 |
 | They're Heeeeeere! | 15.00% | ~10,015 |
 | The Six-Gun Scribe | 15.00% | ~10,015 |
-| Iron Horse | 14.00% | ~9,347 |
-| Collateral Carnage | 14.00% | ~9,347 |
-| Come One, Come All | 14.00% | ~9,347 |
+| Iron Horse | 14.00% | ~9,348 |
+| Collateral Carnage | 14.00% | ~9,348 |
+| Come One, Come All | 14.00% | ~9,348 |
 | Heavy Metal | 13.00% | ~8,680 |
 | Perchance to Dream | 13.00% | ~8,680 |
 | Gatekeeper | 12.00% | ~8,012 |
 | It's Not Just a Typewriter Brand | 12.00% | ~8,012 |
 | Thunder and Lightning | 12.00% | ~8,012 |
 | Two For the Price of One | 12.00% | ~8,012 |
-| The Lady of the Light | 11.00% | ~7,344 |
-| Energized! | 11.00% | ~7,344 |
+| The Lady of the Light | 11.00% | ~7,345 |
+| Energized! | 11.00% | ~7,345 |
 | Right of Way | 10.00% | ~6,677 |
 | What Light Through Yonder Window | 9.00% | ~6,009 |
-| Tornado Wrangler | 8.00% | ~5,341 |
-| Departure | 8.00% | ~5,341 |
+| Tornado Wrangler | 8.00% | ~5,342 |
+| Departure | 8.00% | ~5,342 |
 | A Friend in Need | 8.00% | ~2,419 |
 | Drink 'Em Both Up | 6.00% | ~4,006 |
 | Hardboiled Writer | 6.00% | ~4,006 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,766 (Ranked 92)  
+Progressed: 66,769 (Ranked 92)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-09-29 | 66,470 | 66 |
 | 2023-09-30 | 66,580 | 66 |
 | 2023-10-01 | 66,719 | 66 |
-| 2023-10-02 | 66,766 | 67 |
+| 2023-10-02 | 66,769 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

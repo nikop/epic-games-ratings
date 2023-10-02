@@ -4942,10 +4942,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9377,
       "NumberOfAwardsMax": 6289
+    },
+    {
+      "Time": "2023-10-02T14:00:20.9854621+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9380,
+      "NumberOfAwardsMax": 6289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9377,
+  "NumberOfAwards": 9380,
   "NumberOfAwardsMax": 6289,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4977,7 +4983,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 348
+      "Count": 351
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5004,7 +5010,7 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 689689,
+  "EOS_Progressed": 689715,
   "EOS_Completed": 2184,
   "EOS_NewPlayers": 3626,
   "EOS_NewCompleters": 11,
@@ -23634,6 +23640,11 @@
       "Time": "2023-10-02T13:10:28.928297+00:00",
       "NumProgressed": 689689,
       "NumCompleted": 2184
+    },
+    {
+      "Time": "2023-10-02T14:05:07.1322205+00:00",
+      "NumProgressed": 689715,
+      "NumCompleted": 2184
     }
   ],
   "TotalAchievements": 45,
@@ -23677,7 +23688,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3448
+      "UsersEstimate": 3449
     },
     {
       "ID": "ach_big_name_in_town",
@@ -23973,7 +23984,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3448
+      "UsersEstimate": 3449
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -24004,22 +24015,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 689689,
+      "Progressed": 689715,
       "Completed": 2184
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 15231,
-      "Completed": 15231
+      "Progressed": 15257,
+      "Completed": 15257
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-02T02:17:15.5149897+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:10:28.9282963+00:00",
+  "LastChanged": "2023-10-02T14:00:20.9854615+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:05:07.1322201+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:05:32.9617176+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:10:28.9284497+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:00:20.985463+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:05:07.1324333+00:00"
 }

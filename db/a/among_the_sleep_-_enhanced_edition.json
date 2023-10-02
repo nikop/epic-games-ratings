@@ -5,7 +5,7 @@
   "Ranking_Rating": 810,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 80,
+  "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 61,
@@ -467,9 +467,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87487,
+  "EOS_Progressed": 87491,
   "EOS_Completed": 402,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -18657,6 +18657,11 @@
       "Time": "2023-10-02T13:09:59.8366952+00:00",
       "NumProgressed": 87487,
       "NumCompleted": 402
+    },
+    {
+      "Time": "2023-10-02T14:04:37.4589179+00:00",
+      "NumProgressed": 87491,
+      "NumCompleted": 402
     }
   ],
   "TotalAchievements": 10,
@@ -18668,7 +18673,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "Drawings01",
@@ -18732,7 +18737,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30620
+      "UsersEstimate": 30622
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -18747,15 +18752,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 87487,
+      "Progressed": 87491,
       "Completed": 402
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-09-29T00:00:07.252338+00:00",
-  "LastChanged_Achievements": "2023-10-02T13:09:59.836693+00:00",
+  "LastChanged_Achievements": "2023-10-02T14:04:37.4589173+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:48.6321829+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:02:59.4617926+00:00",
-  "LastUpdate_Achievements": "2023-10-02T13:09:59.836822+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:57:47.4290104+00:00",
+  "LastUpdate_Achievements": "2023-10-02T14:04:37.459134+00:00"
 }

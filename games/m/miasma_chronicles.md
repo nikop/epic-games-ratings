@@ -25,7 +25,7 @@ Rating: 4.42 (Ranked 689)
 | Are you not entertained? | 35.00% | ~514 |
 | Ganglord | 35.00% | ~514 |
 | Jarhead | 35.00% | ~514 |
-| Infiltrator | 34.00% | ~499 |
+| Infiltrator | 35.00% | ~514 |
 | Pushing Daisy | 33.00% | ~485 |
 | Experienced | 32.00% | ~470 |
 | Hold The Line | 31.00% | ~455 |
