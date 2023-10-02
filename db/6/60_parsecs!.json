@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -908,6 +908,11 @@
       "Time": "2023-10-02T04:05:00.6662299+00:00",
       "NumProgressed": 757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T13:10:07.49106+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -925,9 +930,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 357
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -983,7 +988,7 @@
       "Name": "Crafty",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Achievement_DontPanic",
@@ -991,7 +996,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 736
     },
     {
       "ID": "Achievement_DustToDust",
@@ -999,7 +1004,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 433
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1055,7 +1060,7 @@
       "Name": "For Science!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Achievement_Friendzone",
@@ -1063,7 +1068,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1087,7 +1092,7 @@
       "Name": "Hands Full",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Achievement_HelloWorld",
@@ -1095,7 +1100,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 562
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1207,7 +1212,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1215,7 +1220,7 @@
       "Name": "Space Engineer",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 486
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1255,7 +1260,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "Achievement_Traitor",
@@ -1270,7 +1275,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 759,
       "Completed": 1
     }
   ],
@@ -1278,8 +1283,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:04:34.5527623+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:10:07.4910596+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.722648+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:58:19.3138098+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:04:34.5528052+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:03:44.0375098+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:10:07.4911082+00:00"
 }

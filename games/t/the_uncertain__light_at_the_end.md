@@ -24,8 +24,8 @@ Rating: 3.82 (Ranked 992)
 | Between the Covers | 5.00% | ~26 |
 | Antisocial Club | 5.00% | ~26 |
 | You Had One Job... | 5.00% | ~26 |
+| Smart cookie | 5.00% | ~26 |
 | Everything Must Go! | 4.00% | ~21 |
-| Smart cookie | 4.00% | ~21 |
 | Paparazzi | 3.00% | ~16 |
 | Life of the Party | 3.00% | ~16 |
 | The Butterfly Effect | 2.00% | ~11 |

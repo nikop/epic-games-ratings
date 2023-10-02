@@ -12,22 +12,22 @@
 | Shatter Them All | 13.00% | ~4 |
 | Scholar | 13.00% | ~4 |
 | The Collector | 13.00% | ~4 |
+| Break Out | 10.00% | ~3 |
 | Geared Up | 10.00% | ~3 |
 | Fashion Victim | 10.00% | ~3 |
-| Break Out | 6.00% | ~2 |
 | Calm before the Storm | 6.00% | ~2 |
 | To Battle | 6.00% | ~2 |
 | Godslayer | 6.00% | ~2 |
 | Miner | 6.00% | ~2 |
 | I Found It | 3.00% | ~1 |
 | Alchemist | 3.00% | ~1 |
+| A Queen's Tale | 3.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |
-| A Queen's Tale | 0.00% | ~0 |
 | Clear Sight | -3.20% | ~-1 |
 | Forgemaster | -3.20% | ~-1 |
 | Shardbearer | -3.20% | ~-1 |

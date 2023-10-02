@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,012 |
-| Alt+F4 | 6.00% | ~13,690 |
-| Where's that freaking Dwarf? | 5.00% | ~11,408 |
+| Sowwy! | 32.00% | ~73,017 |
+| Alt+F4 | 6.00% | ~13,691 |
+| Where's that freaking Dwarf? | 5.00% | ~11,409 |
 | Déjà vu | 4.00% | ~9,127 |
 | A beer, two curses, three companions | 3.00% | ~6,845 |
 | Sock! SOCK! | 3.00% | ~6,845 |
@@ -16,17 +16,17 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 3.00% | ~6,845 |
 | Speedrun | 3.00% | ~6,845 |
 | Fireproof Wizardess | 3.00% | ~6,845 |
-| Livin' in a dwarven paradise | 2.00% | ~4,563 |
-| Way of the Wimp | 2.00% | ~4,563 |
-| The plot thickens... At the tavern | 2.00% | ~4,563 |
-| The demons' feast | 2.00% | ~4,563 |
-| The Great Library | 2.00% | ~4,563 |
-| Torture and Sensibility | 2.00% | ~4,563 |
-| Urik's Depths | 2.00% | ~4,563 |
-| The Dungeon Master | 2.00% | ~4,563 |
-| The Woman in the High Castle | 2.00% | ~4,563 |
-| Team Building Exercise | 2.00% | ~4,563 |
-| Oh, when I'll be level 10... | 2.00% | ~4,563 |
+| Livin' in a dwarven paradise | 2.00% | ~4,564 |
+| Way of the Wimp | 2.00% | ~4,564 |
+| The plot thickens... At the tavern | 2.00% | ~4,564 |
+| The demons' feast | 2.00% | ~4,564 |
+| The Great Library | 2.00% | ~4,564 |
+| Torture and Sensibility | 2.00% | ~4,564 |
+| Urik's Depths | 2.00% | ~4,564 |
+| The Dungeon Master | 2.00% | ~4,564 |
+| The Woman in the High Castle | 2.00% | ~4,564 |
+| Team Building Exercise | 2.00% | ~4,564 |
+| Oh, when I'll be level 10... | 2.00% | ~4,564 |
 | Shiny and Crôm | 1.00% | ~2,282 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,282 |
 | Res Judicata | 1.00% | ~2,282 |
@@ -40,7 +40,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~2,282 |
 | I am the night | 1.00% | ~2,282 |
 | Thieves' Guild Accreditation | 1.00% | ~2,282 |
-| Lust and Debauchery | 0.90% | ~2,053 |
+| Lust and Debauchery | 0.90% | ~2,054 |
 | Dead for good | 0.80% | ~1,825 |
 | Material Girl | 0.80% | ~1,825 |
 | Gargantua | 0.70% | ~1,597 |
@@ -50,9 +50,9 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.40% | ~913 |
 | An old poacher makes the best gamekeeper | 0.40% | ~913 |
 | Law and Order | 0.40% | ~913 |
-| Scholar of the Lands of Fangh | 0.30% | ~684 |
-| I'd rather... Just... Sing! | 0.30% | ~684 |
-| It's been a hard day's night | 0.30% | ~684 |
+| Scholar of the Lands of Fangh | 0.30% | ~685 |
+| I'd rather... Just... Sing! | 0.30% | ~685 |
+| It's been a hard day's night | 0.30% | ~685 |
 | Friendly fire | 0.20% | ~456 |
 | The number of the counting shalt be 7 | 0.20% | ~456 |
 | 100% satisfaction guarantee | 0.20% | ~456 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,164 (Ranked 58)  
+Progressed: 228,179 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 5 (0.00%) (Ranked 304)
 | 2023-09-29 | 227,509 | 5 |
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
-| 2023-10-02 | 228,164 | 5 |
+| 2023-10-02 | 228,179 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 398 (Ranked 325)  

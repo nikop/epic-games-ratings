@@ -3,8 +3,8 @@
   "Name": null,
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -148,9 +148,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_02",
@@ -420,9 +420,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_38",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:06:39.6539881+00:00",
-  "LastUpdate_Ratings": "2023-10-02T12:03:13.3893345+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:06:39.6540169+00:00"
+  "LastChanged_Achievements": "2023-10-02T13:12:16.2907688+00:00",
+  "LastUpdate_Ratings": "2023-10-02T13:08:20.9326251+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:12:16.2908005+00:00"
 }

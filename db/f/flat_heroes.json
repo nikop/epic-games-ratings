@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 544,
+  "EOS_Progressed": 546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -836,6 +836,11 @@
       "Time": "2023-10-02T10:06:23.5980649+00:00",
       "NumProgressed": 544,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T13:12:00.5515513+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -861,9 +866,9 @@
       "ID": "DashAttack",
       "SetID": "d9ekhim",
       "Name": "Fireball",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 246
     },
     {
       "ID": "DashDashDash",
@@ -871,7 +876,7 @@
       "Name": "Be water, my friend",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -957,17 +962,17 @@
       "ID": "HeroWorld8Boss",
       "SetID": "d9ekhim",
       "Name": "The Colossus - Hero Edition",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HeroWorld9Boss",
       "SetID": "d9ekhim",
       "Name": "Pim Pam Pum - Hero Edition",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KillArrowsAtOnce",
@@ -1093,7 +1098,7 @@
       "ID": "TripleTriple",
       "SetID": "d9ekhim",
       "Name": "Killing Spree",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1127,7 +1132,7 @@
       "Name": "Dash Crash",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "World2Boss",
@@ -1135,7 +1140,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "World3Boss",
@@ -1165,9 +1170,9 @@
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 66
     },
     {
       "ID": "World7Boss",
@@ -1198,7 +1203,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 544,
+      "Progressed": 546,
       "Completed": 0
     }
   ],
@@ -1206,8 +1211,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:06:24.444021+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:12:00.5515508+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:58:59.4554223+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:06:24.4440596+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:04:28.1865212+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:12:00.5515917+00:00"
 }

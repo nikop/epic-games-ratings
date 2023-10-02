@@ -12,10 +12,10 @@
 | Path of Corruption | 26.00% | ~11 |
 | Hope | 21.00% | ~9 |
 | Rage | 14.00% | ~6 |
+| Path of Pain | 9.00% | ~4 |
 | An act of courage | 7.00% | ~3 |
 | Health | 7.00% | ~3 |
 | Lost | 7.00% | ~3 |
-| Path of Pain | 7.00% | ~3 |
 | Reflections | 7.00% | ~3 |
 | The shining | 7.00% | ~3 |
 | Art critic | 5.00% | ~2 |
@@ -24,13 +24,13 @@
 | An act of mercy | 2.00% | ~1 |
 | Ad Infinitum | 2.00% | ~1 |
 | Clarity | 2.00% | ~1 |
+| Corruption | 2.00% | ~1 |
 | Despair | 2.00% | ~1 |
 | Jigsaw | 2.00% | ~1 |
 | Pain | 2.00% | ~1 |
 | Peace | 2.00% | ~1 |
 | All knowing | 0.00% | ~0 |
 | Awaiting orders | 0.00% | ~0 |
-| Corruption | 0.00% | ~0 |
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38180,
+  "EOS_Progressed": 38182,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17477,6 +17477,11 @@
       "Time": "2023-10-02T12:06:32.7355211+00:00",
       "NumProgressed": 38180,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T13:12:09.0913589+00:00",
+      "NumProgressed": 38182,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17608,7 +17613,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13745
+      "UsersEstimate": 13746
     },
     {
       "ID": "ach_die10",
@@ -17840,7 +17845,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6872
+      "UsersEstimate": 6873
     },
     {
       "ID": "ach_terror100",
@@ -17896,7 +17901,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "ach_year10",
@@ -17919,15 +17924,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38180,
+      "Progressed": 38182,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:06:32.7355195+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:12:09.0913583+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:03:17.2459257+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:06:32.7356743+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:02:30.4299143+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:12:09.0915106+00:00"
 }

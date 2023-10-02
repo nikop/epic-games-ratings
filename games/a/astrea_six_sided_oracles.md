@@ -9,13 +9,13 @@
 | Purification Pioneer | 97.00% | ~34 |
 | Dicesmithing Time! | 89.00% | ~31 |
 | Wild's Keeper | 83.00% | ~29 |
-| Endless Tricks | 74.00% | ~26 |
-| Sanctuary Guardian | 74.00% | ~26 |
-| Mind Illuminator | 60.00% | ~21 |
+| Endless Tricks | 77.00% | ~27 |
+| Sanctuary Guardian | 77.00% | ~27 |
+| Mind Illuminator | 66.00% | ~23 |
 | Stellar Dismantler | 51.00% | ~18 |
 | Astral Adventurer | 37.00% | ~13 |
 | Star Killer | 37.00% | ~13 |
-| Anomaly Destroyer | 31.00% | ~11 |
+| Anomaly Destroyer | 34.00% | ~12 |
 | Unbeatable | 31.00% | ~11 |
 | Loyal Partner | 26.00% | ~9 |
 | Sadistic Plan | 26.00% | ~9 |

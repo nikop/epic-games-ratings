@@ -8400,9 +8400,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297711,
+  "EOS_Progressed": 297712,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26205,6 +26205,11 @@
       "Time": "2023-10-02T12:04:40.060232+00:00",
       "NumProgressed": 297711,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-02T13:10:13.1025646+00:00",
+      "NumProgressed": 297712,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26544,7 +26549,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38702
+      "UsersEstimate": 38703
     },
     {
       "ID": "PFA_7",
@@ -26552,7 +26557,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38702
+      "UsersEstimate": 38703
     },
     {
       "ID": "PFA_8",
@@ -26575,7 +26580,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297711,
+      "Progressed": 297712,
       "Completed": 479
     }
   ],
@@ -26583,8 +26588,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-02T09:59:04.0343557+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:04:40.0602315+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:10:13.102564+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:59:02.45533+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:04:40.0603787+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:04:30.5261673+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:10:13.1027137+00:00"
 }

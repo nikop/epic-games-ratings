@@ -5,10 +5,10 @@
   "Ranking_Rating": 609,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 505,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1214,6 +1214,11 @@
       "Time": "2023-09-28T17:06:07.4173561+00:00",
       "NumProgressed": 504,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-02T13:11:59.1816231+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1225,7 +1230,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "02_collector",
@@ -1271,9 +1276,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 157
     },
     {
       "ID": "08_america",
@@ -1297,7 +1302,7 @@
       "Name": "Japan",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "11_germany",
@@ -1321,7 +1326,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "14_woodcutter",
@@ -1353,7 +1358,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "18_foreman",
@@ -1369,7 +1374,7 @@
       "Name": "Just in time!",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "20_sabotage",
@@ -1401,7 +1406,7 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "24_mega",
@@ -1471,9 +1476,9 @@
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 50
     },
     {
       "ID": "33_peacemaker",
@@ -1497,7 +1502,7 @@
       "Name": "Achtung!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "36_supercrash",
@@ -1536,15 +1541,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:06:23.1883665+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:11:59.1816225+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:13.62206+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:59:11.7881214+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:06:23.1884005+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:04:39.3720445+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:11:59.1816609+00:00"
 }

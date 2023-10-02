@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 768,
+  "Ranking_Rating": 769,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 160,
@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6060,
+  "EOS_Progressed": 6064,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4932,6 +4932,11 @@
       "Time": "2023-10-02T12:04:58.9291352+00:00",
       "NumProgressed": 6060,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-02T13:10:32.790377+00:00",
+      "NumProgressed": 6064,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4992,7 +4997,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2244
     },
     {
       "ID": "a_19",
@@ -5032,7 +5037,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "a_23",
@@ -5048,7 +5053,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "a_26",
@@ -5191,7 +5196,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6060,
+      "Progressed": 6064,
       "Completed": 7
     }
   ],
@@ -5199,8 +5204,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:04:58.9291345+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:10:32.7903766+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:59:00.186056+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:04:58.929181+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:04:28.8730928+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:10:32.7904252+00:00"
 }

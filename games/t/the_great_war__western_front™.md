@@ -12,7 +12,7 @@ Rating: 3.87 (Ranked 984)
 | The Chemists' War | 6.00% | ~29 |
 | War with Friends | 3.00% | ~15 |
 | Nothing Can Stop Us! | 2.00% | ~10 |
-| A Student of History | 0.80% | ~4 |
+| A Student of History | 1.00% | ~5 |
 | That's Not What Happened | 0.80% | ~4 |
 | Bombs Away! | 0.20% | ~1 |
 | Eventful | 0.00% | ~0 |

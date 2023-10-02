@@ -7,7 +7,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 0.20% | ~29 |
+| Intrepid | 0.20% | ~29 |
 | Settler | 0.20% | ~29 |
+| Friendly Family | 0.20% | ~29 |
 | Play a Single Player Game | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
@@ -36,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
 | Intercessor | 0.10% | ~14 |
-| Intrepid | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
 | Just | 0.10% | ~14 |
 | Keystone | 0.10% | ~14 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.10% | ~14 |
 | Statesmen | 0.10% | ~14 |
 | Traders | 0.10% | ~14 |
-| Friendly Family | 0.10% | ~14 |
 | Furious Family | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,284 (Ranked 133)  
-Completed: 5 (0.04%) (Ranked 269)  
+Progressed: 14,288 (Ranked 133)  
+Completed: 5 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,7 +514,7 @@ Completed: 5 (0.04%) (Ranked 269)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
-| 2023-10-02 | 14,284 | 5 |
+| 2023-10-02 | 14,288 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3514,
+  "EOS_Progressed": 3515,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3143,6 +3143,11 @@
       "Time": "2023-10-01T21:05:29.8211101+00:00",
       "NumProgressed": 3514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T13:10:38.8020058+00:00",
+      "NumProgressed": 3515,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3368,9 +3373,9 @@
       "ID": "ACH_OB_BB",
       "SetID": "b3fep3o",
       "Name": "Symbols of Heresy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_OB_BR",
@@ -3657,7 +3662,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3514,
+      "Progressed": 3515,
       "Completed": 0
     }
   ],
@@ -3665,8 +3670,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:05:04.8749788+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:10:38.8020053+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.1316358+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:57:31.2290678+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:05:04.8750605+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:02:56.5982525+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:10:38.8020848+00:00"
 }

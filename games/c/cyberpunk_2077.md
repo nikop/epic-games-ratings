@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,509 |
-| Rough Landing | 4.00% | ~35,509 |
-| Gunslinger | 3.00% | ~26,632 |
-| The Jungle | 3.00% | ~26,632 |
+| Ten out of Ten | 4.00% | ~35,510 |
+| Rough Landing | 4.00% | ~35,510 |
+| Gunslinger | 3.00% | ~26,633 |
+| The Jungle | 3.00% | ~26,633 |
 | Full Body Conversion | 2.00% | ~17,755 |
 | Right Back At Ya | 2.00% | ~17,755 |
 | Master Crafter | 2.00% | ~17,755 |
@@ -24,21 +24,21 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 2.00% | ~17,755 |
 | V for Vendetta | 2.00% | ~17,755 |
 | Legend of The Afterlife | 2.00% | ~17,755 |
-| To Bad Decisions! | 1.00% | ~8,877 |
-| Gun Fu | 1.00% | ~8,877 |
-| Christmas Tree Attack | 1.00% | ~8,877 |
-| The Quick and the Dead | 1.00% | ~8,877 |
-| Temperance | 1.00% | ~8,877 |
-| The Devil | 1.00% | ~8,877 |
-| The Fool | 1.00% | ~8,877 |
-| The Lovers | 1.00% | ~8,877 |
-| The World | 1.00% | ~8,877 |
-| It's Elementary | 1.00% | ~8,877 |
+| To Bad Decisions! | 1.00% | ~8,878 |
+| Gun Fu | 1.00% | ~8,878 |
+| Christmas Tree Attack | 1.00% | ~8,878 |
+| The Quick and the Dead | 1.00% | ~8,878 |
+| Temperance | 1.00% | ~8,878 |
+| The Devil | 1.00% | ~8,878 |
+| The Fool | 1.00% | ~8,878 |
+| The Lovers | 1.00% | ~8,878 |
+| The World | 1.00% | ~8,878 |
+| It's Elementary | 1.00% | ~8,878 |
 | Judy vs Night City | 0.90% | ~7,990 |
 | Greetings from Pacifica! | 0.80% | ~7,102 |
 | City Lights | 0.70% | ~6,214 |
 | Spin Doctor | 0.70% | ~115 |
-| Life of the Road | 0.60% | ~5,326 |
+| Life of the Road | 0.60% | ~5,327 |
 | Bushido and Chill | 0.50% | ~4,439 |
 | I Am The Law | 0.50% | ~4,439 |
 | The Wandering Fool | 0.40% | ~3,551 |
@@ -49,8 +49,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.30% | ~2,663 |
 | The Sun | 0.30% | ~2,663 |
 | Relic Ruler | 0.30% | ~49 |
-| Little Tokyo | 0.20% | ~1,775 |
-| The Wasteland | 0.20% | ~1,775 |
+| Little Tokyo | 0.20% | ~1,776 |
+| The Wasteland | 0.20% | ~1,776 |
 | The APB is Not Enough | 0.20% | ~33 |
 | Daemon In The Shell | 0.10% | ~888 |
 | All the President's Men | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,735 (Ranked 15)  
-Completed: 2,542 (0.29%) (Ranked 201)  
+Progressed: 887,761 (Ranked 15)  
+Completed: 2,543 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 2,542 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,735 | 2,542 |
+| 2023-10-02 | 887,761 | 2,543 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
 Sum: 252,718 (Ranked 12)  

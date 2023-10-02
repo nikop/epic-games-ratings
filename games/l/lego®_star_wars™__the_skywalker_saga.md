@@ -15,7 +15,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''I can fly anything'' | 57.00% | ~29,515 |
 | ''And who gave you permission...?'' | 53.00% | ~27,443 |
 | A New Hope | 48.00% | ~24,854 |
-| Attack of the Clones | 46.00% | ~23,819 |
+| Attack of the Clones | 47.00% | ~24,337 |
 | Revenge of the Sith | 40.00% | ~20,712 |
 | The Empire Strikes Back | 37.00% | ~19,159 |
 | ''A fine addition to my collection'' | 37.00% | ~19,159 |

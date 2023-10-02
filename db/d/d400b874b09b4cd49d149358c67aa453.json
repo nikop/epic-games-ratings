@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -973,9 +973,9 @@
       "ID": "ACH_END_ALL_TUTORIALS",
       "SetID": "al4k4nh",
       "Name": "Virtual Electrician",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -1021,9 +1021,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1156,8 +1156,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-02T12:03:49.0550784+00:00",
+  "LastChanged_Achievements": "2023-10-02T13:09:20.4434615+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:10.2505114+00:00",
-  "LastUpdate_Ratings": "2023-10-02T11:58:41.9980799+00:00",
-  "LastUpdate_Achievements": "2023-10-02T12:03:49.0551068+00:00"
+  "LastUpdate_Ratings": "2023-10-02T13:04:07.5302036+00:00",
+  "LastUpdate_Achievements": "2023-10-02T13:09:20.4434913+00:00"
 }
