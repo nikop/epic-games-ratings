@@ -223,7 +223,7 @@
 | 221 | [Black Book](games/b/black_book.md) | 4.69 | 65 | 392 |
 | 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 117,781 | 8 |
 | 221 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 525 |
-| 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,349 | 57 |
+| 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,368 | 57 |
 | 221 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,081 | 70 |
 | 221 | [House Flipper](games/h/house_flipper.md) | 4.69 | 311 | 239 |
 | 221 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 525 |
@@ -249,7 +249,7 @@
 | 243 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 525 |
 | 243 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 525 |
 | 243 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,432 | 49 |
-| 243 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,962 | 83 |
+| 243 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,964 | 83 |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,531 | 78 |
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 308,486 | 3 |
 | 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 235,111 | 4 |
@@ -377,7 +377,7 @@
 | 371 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 773 | 162 |
 | 371 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 525 |
 | 371 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 220 | 267 |
-| 371 | [Darkwood](games/d/darkwood.md) | 4.61 | 324 | 236 |
+| 371 | [Darkwood](games/d/darkwood.md) | 4.61 | 324 | 237 |
 | 371 | [Dead Space](games/d/dead_space.md) | 4.61 | 97 | 348 |
 | 371 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 45,809 | 12 |
 | 371 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 28 | 475 |
@@ -477,10 +477,10 @@
 | 474 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.56 | 0 | 525 |
 | 474 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46 | 419 |
 | 474 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 525 |
+| 474 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 51 | 407 |
 | 474 | [Deceive Inc.](games/d/deceive_inc..md) | 4.56 | 0 | 525 |
 | 474 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 870 | 154 |
 | 474 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 482 |
-| 474 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 322 | 237 |
 | 474 | [Hue](games/h/hue.md) | 4.56 | 0 | 525 |
 | 474 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 448 |
 | 474 | [IXION](games/i/ixion.md) | 4.56 | 0 | 525 |
@@ -492,9 +492,9 @@
 | 474 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 468 |
 | 491 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 525 |
 | 491 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 525 |
-| 491 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 51 | 407 |
 | 491 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 525 |
 | 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,470 | 126 |
+| 491 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 325 | 236 |
 | 491 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 450 |
 | 491 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 279 | 249 |
 | 491 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 22 | 508 |
@@ -512,7 +512,7 @@
 | 491 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,289 | 134 |
 | 511 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 525 |
 | 511 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,468 | 127 |
-| 511 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,270 | 58 |
+| 511 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,289 | 58 |
 | 511 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 450 |
 | 511 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 90 | 358 |
 | 511 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 73 | 382 |
@@ -793,6 +793,7 @@
 | 783 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 508 |
 | 783 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 525 |
 | 793 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 362 | 227 |
+| 793 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.32 | 0 | 525 |
 | 793 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 61 | 396 |
 | 793 | [Filament](games/f/filament.md) | 4.32 | 562 | 195 |
 | 793 | [House Party](games/h/house_party.md) | 4.32 | 0 | 525 |
@@ -802,13 +803,12 @@
 | 793 | [Vampyr](games/v/vampyr.md) | 4.32 | 562 | 195 |
 | 793 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 525 |
 | 793 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 525 |
-| 803 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 525 |
-| 803 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 0 | 525 |
-| 803 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 525 |
-| 803 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 525 |
-| 803 | [Dark Light](games/d/dark_light.md) | 4.31 | 0 | 525 |
-| 803 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 970 | 150 |
-| 803 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 525 |
+| 804 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 525 |
+| 804 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 0 | 525 |
+| 804 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 525 |
+| 804 | [Dark Light](games/d/dark_light.md) | 4.31 | 0 | 525 |
+| 804 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 970 | 150 |
+| 804 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 525 |
 | 810 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 525 |
 | 810 | [Chess Ultra](games/c/chess_ultra.md) | 4.30 | 0 | 525 |
 | 810 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 82 | 367 |
