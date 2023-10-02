@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,698 |
-| Hotel California | 3.00% | ~20,698 |
-| Welcome To Hell-A | 3.00% | ~20,698 |
+| Break A Leg | 3.00% | ~20,699 |
+| Hotel California | 3.00% | ~20,699 |
+| Welcome To Hell-A | 3.00% | ~20,699 |
 | Dr. Reed, I Presume? | 2.00% | ~13,799 |
 | Git Gutte! | 2.00% | ~13,799 |
 | Anger Management | 2.00% | ~13,799 |
@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 510)
 | Personal Assistant Personally Assisted | 2.00% | ~13,799 |
 | Our True Nature | 2.00% | ~13,799 |
 | This is My Weapon | 2.00% | ~13,799 |
-| Making Your Mark | 1.00% | ~6,899 |
-| Humanity Distilled | 1.00% | ~6,899 |
-| Down with the Sickness | 1.00% | ~6,899 |
-| Max Headroom | 1.00% | ~6,899 |
+| Making Your Mark | 1.00% | ~6,900 |
+| Humanity Distilled | 1.00% | ~6,900 |
+| Down with the Sickness | 1.00% | ~6,900 |
+| Max Headroom | 1.00% | ~6,900 |
 | Go, Bobcats! | 0.90% | ~6,210 |
 | Rising Star | 0.90% | ~6,210 |
 | Jumbo Keyring | 0.80% | ~5,520 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,948 (Ranked 22)  
+Progressed: 689,963 (Ranked 22)  
 Completed: 2,187 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 2,187 (0.32%) (Ranked 194)
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
-| 2023-10-02 | 689,948 | 2,187 |
+| 2023-10-02 | 689,963 | 2,187 |
 ## Awards
 Max (Great Boss Battles): 6,289  (Ranked 58)  
 Sum: 9,380 (Ranked 91)  

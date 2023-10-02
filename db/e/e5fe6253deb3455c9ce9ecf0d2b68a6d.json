@@ -2,9 +2,9 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -916,6 +916,11 @@
       "Time": "2023-10-01T17:05:12.7004773+00:00",
       "NumProgressed": 256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T23:06:30.9144693+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -968,7 +973,7 @@
       "Name": "In the last second",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Master",
@@ -1024,7 +1029,7 @@
       "Name": "Back to USSR",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Upgrades",
@@ -1039,14 +1044,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:05:46.1403227+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:06:30.9144682+00:00",
   "LastUpdate_AppInfo": "2023-10-02T21:57:00.0077411+00:00",
-  "LastUpdate_Ratings": "2023-10-02T21:58:00.4835066+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:05:46.1403432+00:00"
+  "LastUpdate_Ratings": "2023-10-02T22:58:15.6712618+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:06:30.9144856+00:00"
 }

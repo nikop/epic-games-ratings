@@ -25,7 +25,7 @@ Rating: 4.76 (Ranked 118)
 | A Sallow Grave | 8.00% | ~23,819 |
 | Flight the Good Flight | 8.00% | ~23,819 |
 | The Spell Master | 8.00% | ~23,819 |
-| Beast Friends | 7.00% | ~20,841 |
+| Beast Friends | 7.00% | ~20,842 |
 | The Seeker of Knowledge | 6.00% | ~17,864 |
 | The Root of the Problem | 6.00% | ~17,864 |
 | Third Time's a Charm | 6.00% | ~17,864 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,735 (Ranked 46)  
+Progressed: 297,736 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 479 (0.16%) (Ranked 226)
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
 | 2023-10-01 | 297,684 | 479 |
-| 2023-10-02 | 297,735 | 479 |
+| 2023-10-02 | 297,736 | 479 |
 ## Awards
 Max (Character Customization): 23,221  (Ranked 17)  
-Sum: 44,867 (Ranked 31)  
+Sum: 44,874 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -228,11 +228,11 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 1,129 |
 | This game has Amazing Storytelling | 1,100 |
 | This game has Diverse Characters | 1,086 |
-| This game is Relaxing | 1,081 |
+| This game is Relaxing | 1,086 |
 | This game is Extremely Fun | 1,078 |
 | This game has Amazing Characters | 1,049 |
 | This game is Highly Recommended | 1,044 |
-| This game has Quickly Understood Controls | 974 |
+| This game has Quickly Understood Controls | 976 |
 | This game has Beautiful Visuals | 905 |
 | This game has a Creative Community | 681 |
 ## Ratings History
@@ -430,4 +430,4 @@ Diff (max vs sum): -14
 | 2023-09-29 | 4.76 | 23,132 | 44,612 |
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
-| 2023-10-02 | 4.76 | 23,221 | 44,867 |
+| 2023-10-02 | 4.76 | 23,221 | 44,874 |

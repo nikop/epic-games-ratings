@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2768,
+  "EOS_Progressed": 2769,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3563,6 +3563,11 @@
       "Time": "2023-10-02T18:06:59.8981868+00:00",
       "NumProgressed": 2768,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-02T23:07:20.4189415+00:00",
+      "NumProgressed": 2769,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3582,7 +3587,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "FALLEN_TREE",
@@ -3614,7 +3619,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "SLIDERS",
@@ -3677,7 +3682,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2768,
+      "Progressed": 2769,
       "Completed": 6
     }
   ],
@@ -3685,8 +3690,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:06:28.1784251+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:07:20.418941+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:53.5890664+00:00",
-  "LastUpdate_Ratings": "2023-10-02T21:57:03.5066254+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:06:28.178466+00:00"
+  "LastUpdate_Ratings": "2023-10-02T22:57:08.9741218+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:07:20.4189748+00:00"
 }

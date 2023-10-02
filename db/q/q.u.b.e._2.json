@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 535,
+  "EOS_Progressed": 536,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2193,6 +2193,11 @@
       "Time": "2023-10-02T22:03:29.3400467+00:00",
       "NumProgressed": 535,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T23:04:03.7475163+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2349,7 +2354,7 @@
       "Name": "Mission Success",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_HUB2",
@@ -2397,7 +2402,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_S4",
@@ -2413,7 +2418,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2421,7 +2426,7 @@
       "Name": "Lost in Space",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_STATUE",
@@ -2436,15 +2441,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 535,
+      "Progressed": 536,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:03:29.3400458+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:04:03.7475157+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-02T21:59:31.9783836+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:03:29.3400842+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:00:05.704635+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:04:03.7475484+00:00"
 }

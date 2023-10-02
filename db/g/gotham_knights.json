@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3270,10 +3270,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4648,
       "NumberOfAwardsMax": 2778
+    },
+    {
+      "Time": "2023-10-02T23:02:02.8557953+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4650,
+      "NumberOfAwardsMax": 2778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4648,
+  "NumberOfAwards": 4650,
   "NumberOfAwardsMax": 2778,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3317,7 +3323,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 238
+      "Count": 240
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3338,10 +3344,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73058,
+  "EOS_Progressed": 73059,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 232,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 233,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -17413,6 +17419,11 @@
       "Time": "2023-10-02T22:04:44.7397104+00:00",
       "NumProgressed": 73058,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-02T23:05:19.6410469+00:00",
+      "NumProgressed": 73059,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -17472,7 +17483,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17536,7 +17547,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13150
+      "UsersEstimate": 13151
     },
     {
       "ID": "CLAYFACE_3",
@@ -17624,7 +17635,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -17728,7 +17739,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25570
+      "UsersEstimate": 25571
     },
     {
       "ID": "HARLEY_2",
@@ -17736,7 +17747,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18264
+      "UsersEstimate": 18265
     },
     {
       "ID": "HARLEY_3",
@@ -17768,7 +17779,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37990
+      "UsersEstimate": 37991
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17800,7 +17811,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20456
+      "UsersEstimate": 20457
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17808,7 +17819,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "MYSTERY_01",
@@ -17824,7 +17835,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18264
+      "UsersEstimate": 18265
     },
     {
       "ID": "MYSTERY_03",
@@ -17832,7 +17843,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     },
     {
       "ID": "MYSTERY_04",
@@ -17848,7 +17859,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13150
+      "UsersEstimate": 13151
     },
     {
       "ID": "MYSTERY_06",
@@ -17911,22 +17922,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73058,
+      "Progressed": 73059,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43338,
+      "Progressed": 43339,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-02T20:01:06.6111817+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:04:44.7397099+00:00",
+  "LastChanged": "2023-10-02T23:02:02.8557951+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:05:19.6410465+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:01:10.0094219+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:04:44.7398909+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:02:02.8557956+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:05:19.6411905+00:00"
 }

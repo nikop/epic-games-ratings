@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,520 |
-| Rough Landing | 4.00% | ~35,520 |
-| Gunslinger | 3.00% | ~26,640 |
-| Master Crafter | 3.00% | ~26,640 |
-| The Jungle | 3.00% | ~26,640 |
+| Ten out of Ten | 4.00% | ~35,521 |
+| Rough Landing | 4.00% | ~35,521 |
+| Gunslinger | 3.00% | ~26,641 |
+| Master Crafter | 3.00% | ~26,641 |
+| The Jungle | 3.00% | ~26,641 |
 | Full Body Conversion | 2.00% | ~17,760 |
 | Right Back At Ya | 2.00% | ~17,760 |
 | Mean Streets | 2.00% | ~17,760 |
@@ -18,6 +18,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 2.00% | ~17,760 |
 | The Hermit | 2.00% | ~17,760 |
 | The High Priestess | 2.00% | ~17,760 |
+| The Lovers | 2.00% | ~17,760 |
 | The Wheel of Fortune | 2.00% | ~17,760 |
 | True Soldier | 2.00% | ~17,760 |
 | True Warrior | 2.00% | ~17,760 |
@@ -31,14 +32,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 1.00% | ~8,880 |
 | The Devil | 1.00% | ~8,880 |
 | The Fool | 1.00% | ~8,880 |
-| The Lovers | 1.00% | ~8,880 |
 | The World | 1.00% | ~8,880 |
 | Judy vs Night City | 1.00% | ~8,880 |
 | It's Elementary | 1.00% | ~8,880 |
 | Greetings from Pacifica! | 0.80% | ~7,104 |
 | City Lights | 0.70% | ~6,216 |
 | Life of the Road | 0.70% | ~6,216 |
-| Spin Doctor | 0.70% | ~116 |
+| Spin Doctor | 0.70% | ~117 |
 | Bushido and Chill | 0.50% | ~4,440 |
 | I Am The Law | 0.50% | ~4,440 |
 | Must Be Rats | 0.50% | ~4,440 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,012 (Ranked 15)  
+Progressed: 888,024 (Ranked 15)  
 Completed: 2,550 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 2,550 (0.29%) (Ranked 202)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 888,012 | 2,550 |
+| 2023-10-02 | 888,024 | 2,550 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
-Sum: 254,926 (Ranked 12)  
+Sum: 255,580 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -241,11 +241,11 @@ Diff (max vs sum): -3
 | This game has Diverse Characters | 12,694 |
 | This game is Great for Beginners | 12,605 |
 | This game has Amazing Storytelling | 12,425 |
+| This game is Highly Recommended | 12,417 |
 | This game is Extremely Fun | 12,184 |
-| This game is Highly Recommended | 12,090 |
+| This game has Amazing Characters | 12,086 |
 | This game has Quickly Understood Controls | 11,870 |
 | This game is Relaxing | 11,769 |
-| This game has Amazing Characters | 11,759 |
 | This game has a Creative Community | 7,847 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -506,4 +506,4 @@ Diff (max vs sum): -3
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
-| 2023-10-02 | 4.63 | - | 89,540 | 254,926 |
+| 2023-10-02 | 4.63 | - | 89,540 | 255,580 |

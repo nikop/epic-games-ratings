@@ -394,9 +394,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41460,
+  "EOS_Progressed": 41468,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1401,
+  "EOS_NewPlayers": 1408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9534,6 +9534,11 @@
       "Time": "2023-10-02T22:05:46.216478+00:00",
       "NumProgressed": 41460,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T23:06:30.9574528+00:00",
+      "NumProgressed": 41468,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9577,7 +9582,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9593,7 +9598,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9601,7 +9606,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9697,7 +9702,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2903
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9785,7 +9790,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2903
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9801,7 +9806,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "MAGIC_IVY",
@@ -9881,7 +9886,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "SPRING_ALL",
@@ -9968,22 +9973,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41460,
+      "Progressed": 41468,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6297,
-      "Completed": 6297
+      "Progressed": 6305,
+      "Completed": 6305
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-02T17:01:25.0087272+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:05:46.2164776+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:06:30.9574521+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:00:27.133906+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:05:46.2165997+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:01:12.4096546+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:06:30.9575552+00:00"
 }

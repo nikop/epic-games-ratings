@@ -30,11 +30,11 @@
 | Scientist | 44.00% | ~235 |
 | Merciless | 43.00% | ~230 |
 | Head Hunter | 42.00% | ~224 |
+| Missing in Action | 40.00% | ~214 |
+| Very Elusive | 40.00% | ~214 |
 | Operative | 40.00% | ~214 |
 | Scholar | 40.00% | ~214 |
 | Veteran | 39.00% | ~208 |
-| Missing in Action | 39.00% | ~208 |
-| Very Elusive | 39.00% | ~208 |
 | Power Full | 38.00% | ~203 |
 | The Professor | 36.00% | ~192 |
 | Archivist | 35.00% | ~187 |
@@ -48,10 +48,10 @@
 | Ghost Ship | 32.00% | ~171 |
 | The Justicar | 31.00% | ~166 |
 | The Quarian | 31.00% | ~166 |
+| The Prodigal | 31.00% | ~166 |
 | The Assassin | 30.00% | ~160 |
 | Battlemaster | 30.00% | ~160 |
 | The Cure | 30.00% | ~160 |
-| The Prodigal | 30.00% | ~160 |
 | A Personal Touch | 29.00% | ~155 |
 | Catharsis | 29.00% | ~155 |
 | Fade Away | 29.00% | ~155 |
@@ -86,8 +86,8 @@
 | Paramour II | 20.00% | ~107 |
 | Tunnel Rat | 20.00% | ~107 |
 | Arbiter | 20.00% | ~107 |
+| Electronics Specialist | 19.00% | ~101 |
 | Lost and Found | 19.00% | ~101 |
-| Electronics Specialist | 18.00% | ~96 |
 | Sabotage Specialist | 18.00% | ~96 |
 | No One Left Behind | 18.00% | ~96 |
 | Party Crasher | 18.00% | ~96 |
@@ -105,9 +105,9 @@
 | Mail Slot | 12.00% | ~64 |
 | Warp Mastery | 12.00% | ~64 |
 | Executioner | 12.00% | ~64 |
+| Patriot | 12.00% | ~64 |
 | Barrier Mastery | 11.00% | ~59 |
 | Combined Arms | 11.00% | ~59 |
-| Patriot | 11.00% | ~59 |
 | Legend | 11.00% | ~59 |
 | Long Service Medal | 10.00% | ~53 |
 | Bruiser | 10.00% | ~53 |

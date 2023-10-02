@@ -16,6 +16,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 5.00% | ~839 |
 | Homesick | 4.00% | ~671 |
 | Bandit Camp | 4.00% | ~671 |
+| Barren Lands | 4.00% | ~671 |
 | Ancient Battleground | 4.00% | ~671 |
 | Sparkdew Crystals | 4.00% | ~671 |
 | Royal Outpost | 4.00% | ~671 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 3.00% | ~503 |
 | Against All Odds | 3.00% | ~503 |
 | Ruined Armory | 3.00% | ~503 |
-| Barren Lands | 3.00% | ~503 |
 | Haunted Forest | 3.00% | ~503 |
 | Levitating Monument | 3.00% | ~503 |
 | Flooded Mines | 3.00% | ~503 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,781 (Ranked 129)  
+Progressed: 16,782 (Ranked 129)  
 Completed: 52 (0.31%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 52 (0.31%) (Ranked 195)
 | 2023-09-29 | 16,749 | 52 |
 | 2023-09-30 | 16,757 | 52 |
 | 2023-10-01 | 16,772 | 52 |
-| 2023-10-02 | 16,781 | 52 |
+| 2023-10-02 | 16,782 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 433  (Ranked 212)  
 Sum: 3,173 (Ranked 166)  

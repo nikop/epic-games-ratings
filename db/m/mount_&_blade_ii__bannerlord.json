@@ -7641,9 +7641,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62586,
+  "EOS_Progressed": 62589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25231,6 +25231,11 @@
       "Time": "2023-10-02T22:07:24.7579755+00:00",
       "NumProgressed": 62586,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T23:08:26.7749505+00:00",
+      "NumProgressed": 62589,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25242,7 +25247,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7510
+      "UsersEstimate": 7511
     },
     {
       "ID": "Apple of my eye",
@@ -25298,7 +25303,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "Crackshot",
@@ -25370,7 +25375,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8136
+      "UsersEstimate": 8137
     },
     {
       "ID": "Great Granny",
@@ -25466,7 +25471,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20653
+      "UsersEstimate": 20654
     },
     {
       "ID": "Lawbringer",
@@ -25474,7 +25479,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24409
+      "UsersEstimate": 24410
     },
     {
       "ID": "Lawmaker",
@@ -25594,7 +25599,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11265
+      "UsersEstimate": 11266
     },
     {
       "ID": "This Is Our Land",
@@ -25602,7 +25607,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7510
+      "UsersEstimate": 7511
     },
     {
       "ID": "This is Sparta",
@@ -25634,7 +25639,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -25649,15 +25654,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62586,
+      "Progressed": 62589,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-02T18:59:17.1569655+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:07:24.7579747+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:08:26.7749501+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:00:02.2103554+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:07:24.7581687+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:00:40.2846582+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:08:26.7750716+00:00"
 }

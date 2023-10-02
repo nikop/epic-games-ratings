@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8344,10 +8344,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44867,
       "NumberOfAwardsMax": 23221
+    },
+    {
+      "Time": "2023-10-02T23:00:03.5143939+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44874,
+      "NumberOfAwardsMax": 23221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44867,
+  "NumberOfAwards": 44874,
   "NumberOfAwardsMax": 23221,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8397,7 +8403,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1081
+      "Count": 1086
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8415,7 +8421,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 974
+      "Count": 976
     },
     {
       "Text": "This game has a Creative Community",
@@ -8424,9 +8430,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297735,
+  "EOS_Progressed": 297736,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26279,6 +26285,11 @@
       "Time": "2023-10-02T22:05:00.4842394+00:00",
       "NumProgressed": 297735,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-02T23:05:37.9440977+00:00",
+      "NumProgressed": 297736,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26354,7 +26365,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20841
+      "UsersEstimate": 20842
     },
     {
       "ID": "PFA_18",
@@ -26649,16 +26660,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297735,
+      "Progressed": 297736,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-02T18:58:53.7511992+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:05:00.4842387+00:00",
+  "LastChanged": "2023-10-02T23:00:03.5143938+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:05:37.9440971+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-02T21:59:30.208326+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:05:00.4844315+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:00:03.5143944+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:05:37.9442454+00:00"
 }

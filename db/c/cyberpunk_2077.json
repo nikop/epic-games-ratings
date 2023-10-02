@@ -12783,10 +12783,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 254926,
       "NumberOfAwardsMax": 89540
+    },
+    {
+      "Time": "2023-10-02T23:00:57.1590215+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 255580,
+      "NumberOfAwardsMax": 89540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254926,
+  "NumberOfAwards": 255580,
   "NumberOfAwardsMax": 89540,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12830,7 +12836,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12090
+      "Count": 12417
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12848,7 +12854,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 11759
+      "Count": 12086
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12863,10 +12869,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888012,
+  "EOS_Progressed": 888024,
   "EOS_Completed": 2550,
-  "EOS_NewPlayers": 6501,
-  "EOS_NewCompleters": 168,
+  "EOS_NewPlayers": 6483,
+  "EOS_NewCompleters": 166,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31478,6 +31484,11 @@
       "Time": "2023-10-02T22:08:05.2583176+00:00",
       "NumProgressed": 888012,
       "NumCompleted": 2550
+    },
+    {
+      "Time": "2023-10-02T23:09:02.6742336+00:00",
+      "NumProgressed": 888024,
+      "NumCompleted": 2550
     }
   ],
   "TotalAchievements": 57,
@@ -31569,7 +31580,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26640
+      "UsersEstimate": 26641
     },
     {
       "ID": "HandyMan",
@@ -31577,7 +31588,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26640
+      "UsersEstimate": 26641
     },
     {
       "ID": "IAmMaxTac",
@@ -31673,7 +31684,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35520
+      "UsersEstimate": 35521
     },
     {
       "ID": "Temperance",
@@ -31689,7 +31700,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35520
+      "UsersEstimate": 35521
     },
     {
       "ID": "TheDevil",
@@ -31727,9 +31738,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8880
+      "UsersEstimate": 17760
     },
     {
       "ID": "TheStar",
@@ -31777,7 +31788,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26640
+      "UsersEstimate": 26641
     },
     {
       "ID": "TrueSoldier",
@@ -31889,7 +31900,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Kingofcups",
@@ -31944,21 +31955,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888012,
+      "Progressed": 888024,
       "Completed": 2550
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16635,
+      "Progressed": 16647,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-02T20:59:34.1860559+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:08:05.2583169+00:00",
+  "LastChanged": "2023-10-02T23:00:57.1590214+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:09:02.6742327+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:00:16.5390846+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:08:05.2585746+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:00:57.1590222+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:09:02.6744018+00:00"
 }

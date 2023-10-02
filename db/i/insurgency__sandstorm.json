@@ -3473,66 +3473,72 @@
       "Rating": 4.62,
       "NumberOfAwards": 3010,
       "NumberOfAwardsMax": 383
+    },
+    {
+      "Time": "2023-10-02T23:01:08.5472801+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3035,
+      "NumberOfAwardsMax": 385
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3010,
-  "NumberOfAwardsMax": 383,
+  "NumberOfAwards": 3035,
+  "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 383
+      "Count": 385
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 315
+      "Count": 318
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 345
+      "Count": 346
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 316
+      "Count": 318
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 366
+      "Count": 370
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 330
+      "Count": 335
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 321
+      "Count": 324
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 352
+      "Count": 354
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 282
+      "Count": 285
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3547,9 +3553,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 458483,
+  "EOS_Progressed": 458498,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2386,
+  "EOS_NewPlayers": 2384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22182,6 +22188,11 @@
       "Time": "2023-10-02T22:08:14.4278603+00:00",
       "NumProgressed": 458483,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-02T23:09:13.4201234+00:00",
+      "NumProgressed": 458498,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -22217,7 +22228,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13754
+      "UsersEstimate": 13755
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -22249,7 +22260,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18339
+      "UsersEstimate": 18340
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -22297,7 +22308,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18339
+      "UsersEstimate": 18340
     },
     {
       "ID": "ACH_JR_50",
@@ -22321,7 +22332,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13754
+      "UsersEstimate": 13755
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -22361,7 +22372,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22924
+      "UsersEstimate": 22925
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -22425,7 +22436,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13754
+      "UsersEstimate": 13755
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -22449,7 +22460,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13754
+      "UsersEstimate": 13755
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -22457,7 +22468,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22924
+      "UsersEstimate": 22925
     },
     {
       "ID": "ACH_WET_FEET",
@@ -22465,22 +22476,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18339
+      "UsersEstimate": 18340
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 458483,
+      "Progressed": 458498,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-09-25T09:01:36.6056917+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:08:14.4278597+00:00",
+  "LastChanged": "2023-10-02T23:01:08.54728+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:09:13.4201225+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:57.755638+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:00:24.2507912+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:08:14.4280176+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:01:08.5472805+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:09:13.4202468+00:00"
 }

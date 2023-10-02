@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -274,10 +274,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122645,
+  "EOS_Progressed": 122646,
   "EOS_Completed": 1016,
-  "EOS_NewPlayers": 1222,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1218,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
     {
@@ -18879,6 +18879,11 @@
       "Time": "2023-10-02T22:06:21.6070832+00:00",
       "NumProgressed": 122645,
       "NumCompleted": 1016
+    },
+    {
+      "Time": "2023-10-02T23:07:12.749365+00:00",
+      "NumProgressed": 122646,
+      "NumCompleted": 1016
     }
   ],
   "TotalAchievements": 34,
@@ -18962,7 +18967,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 68681
+      "UsersEstimate": 68682
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -19010,7 +19015,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 25755
+      "UsersEstimate": 25756
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -19161,7 +19166,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 122645,
+      "Progressed": 122646,
       "Completed": 1016
     }
   ],
@@ -19169,8 +19174,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:06:21.6070825+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:07:12.7493645+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:49.9411208+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:01:13.1201995+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:06:21.6072622+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:02:06.588874+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:07:12.7495023+00:00"
 }

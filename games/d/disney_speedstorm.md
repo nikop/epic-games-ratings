@@ -5,33 +5,33 @@ Rating: 4.32 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~5,714 |
-| IT MAKES BOOM! | 3.00% | ~2,857 |
-| EXTRA BOOST | 2.00% | ~1,905 |
-| PROTECTED | 2.00% | ~1,905 |
-| A TIGER'S FEAR | 1.00% | ~952 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~952 |
-| AGGRESSIVE RACER | 1.00% | ~952 |
-| PRO | 1.00% | ~952 |
-| ACE SPEEDSTER | 0.90% | ~857 |
-| IT'S A LONG WAY TO THE TOP | 0.80% | ~762 |
-| BE OUR GUEST | 0.70% | ~667 |
-| ACE BRAWLER | 0.70% | ~667 |
-| MASTER | 0.70% | ~667 |
-| TRAINING HARD | 0.60% | ~571 |
-| RELEASE THE KRAKEN | 0.60% | ~571 |
-| DEFEAT OUR CHAMPION | 0.60% | ~571 |
-| ACE DEFENDER | 0.60% | ~571 |
-| FRIENDLY | 0.60% | ~571 |
-| LEGENDARY HERO | 0.60% | ~571 |
-| PERFECTLY POISED | 0.50% | ~476 |
-| THE EYE OF THE HUNTER | 0.50% | ~476 |
-| ACE TRICKSTER | 0.50% | ~476 |
-| EXPERIENCED CREW | 0.30% | ~286 |
-| FRAMED! | 0.30% | ~286 |
+| ROOKIE | 6.00% | ~5,864 |
+| IT MAKES BOOM! | 3.00% | ~2,932 |
+| EXTRA BOOST | 2.00% | ~1,955 |
+| PROTECTED | 2.00% | ~1,955 |
+| A TIGER'S FEAR | 1.00% | ~977 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~977 |
+| AGGRESSIVE RACER | 1.00% | ~977 |
+| PRO | 1.00% | ~977 |
+| ACE SPEEDSTER | 0.90% | ~880 |
+| IT'S A LONG WAY TO THE TOP | 0.80% | ~782 |
+| ACE BRAWLER | 0.70% | ~684 |
+| MASTER | 0.70% | ~684 |
+| TRAINING HARD | 0.60% | ~586 |
+| BE OUR GUEST | 0.60% | ~586 |
+| DEFEAT OUR CHAMPION | 0.60% | ~586 |
+| ACE DEFENDER | 0.60% | ~586 |
+| FRIENDLY | 0.60% | ~586 |
+| LEGENDARY HERO | 0.60% | ~586 |
+| PERFECTLY POISED | 0.50% | ~489 |
+| RELEASE THE KRAKEN | 0.50% | ~489 |
+| THE EYE OF THE HUNTER | 0.50% | ~489 |
+| ACE TRICKSTER | 0.50% | ~489 |
+| EXPERIENCED CREW | 0.30% | ~293 |
+| FRAMED! | 0.30% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,239 (Ranked 78)  
-Completed: 224 (0.24%) (Ranked 211)  
+Progressed: 97,731 (Ranked 78)  
+Completed: 224 (0.23%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 224 (0.24%) (Ranked 211)
 | 2023-09-29 | 44,201 | 220 |
 | 2023-09-30 | 65,657 | 220 |
 | 2023-10-01 | 82,172 | 223 |
-| 2023-10-02 | 95,239 | 224 |
+| 2023-10-02 | 97,731 | 224 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

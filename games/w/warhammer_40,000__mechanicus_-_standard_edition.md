@@ -1,12 +1,12 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 676)  
+Rating: 4.43 (Ranked 677)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~58,193 |
-| This is only the beginning | 19.00% | ~42,525 |
+| This is only the beginning | 19.00% | ~42,526 |
 | Knowledge is power | 12.00% | ~26,858 |
 | Power Ranger | 9.00% | ~20,144 |
 | Galvanic Rifle | 9.00% | ~20,144 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 676)
 | Perma-live | 0.10% | ~224 |
 | Purge the Heretek | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,818 (Ranked 59)  
+Progressed: 223,819 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 5 (0.00%) (Ranked 304)
 | 2023-09-29 | 223,563 | 5 |
 | 2023-09-30 | 223,654 | 5 |
 | 2023-10-01 | 223,745 | 5 |
-| 2023-10-02 | 223,818 | 5 |
+| 2023-10-02 | 223,819 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 246)  
-Sum: 2,153 (Ranked 197)  
+Sum: 2,154 (Ranked 197)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -220,7 +220,7 @@ Diff (max vs sum): 49
 | This game has Amazing Storytelling | 245 |
 | This game is Relaxing | 241 |
 | This game has Unique Visuals | 210 |
-| This game has a Creative Community | 97 |
+| This game has a Creative Community | 98 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -292,3 +292,4 @@ Diff (max vs sum): 49
 | 2023-09-23 | 4.43 | 283 | 2,150 |
 | 2023-09-25 | 4.43 | 283 | 2,151 |
 | 2023-09-29 | 4.43 | 283 | 2,153 |
+| 2023-10-02 | 4.43 | 283 | 2,154 |

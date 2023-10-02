@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 0.30% | ~43 |
 | Explorer | 0.20% | ~29 |
 | Intrepid | 0.20% | ~29 |
 | Settler | 0.20% | ~29 |
 | Friendly Family | 0.20% | ~29 |
-| Play a Single Player Game | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |

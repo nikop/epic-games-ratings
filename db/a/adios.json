@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74835,
+  "EOS_Progressed": 74836,
   "EOS_Completed": 782,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18549,6 +18549,11 @@
       "Time": "2023-10-02T22:06:48.343854+00:00",
       "NumProgressed": 74835,
       "NumCompleted": 782
+    },
+    {
+      "Time": "2023-10-02T23:07:44.4892029+00:00",
+      "NumProgressed": 74836,
+      "NumCompleted": 782
     }
   ],
   "TotalAchievements": 25,
@@ -18696,7 +18701,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "Piano Man",
@@ -18720,7 +18725,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "Spicy",
@@ -18759,7 +18764,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74835,
+      "Progressed": 74836,
       "Completed": 782
     }
   ],
@@ -18767,8 +18772,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-02T22:06:48.3438518+00:00",
+  "LastChanged_Achievements": "2023-10-02T23:07:44.4892021+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.9504793+00:00",
-  "LastUpdate_Ratings": "2023-10-02T21:58:13.3448386+00:00",
-  "LastUpdate_Achievements": "2023-10-02T22:06:48.344002+00:00"
+  "LastUpdate_Ratings": "2023-10-02T22:58:30.1074844+00:00",
+  "LastUpdate_Achievements": "2023-10-02T23:07:44.4893341+00:00"
 }

@@ -43,12 +43,12 @@ Rating: 4.50 (Ranked 574)
 | Collector | 0.20% | ~52 |
 | Escape Artist | 0.20% | ~52 |
 | Fragile Panes | 0.20% | ~52 |
+| Liability | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |
 | Surprise! | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
-| Liability | 0.10% | ~26 |
 | Line em' up | 0.10% | ~26 |
 | Little Help Here | 0.10% | ~26 |
 | Master Collector | 0.10% | ~26 |

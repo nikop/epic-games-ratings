@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,924 |
-| Wallbanger | 5.00% | ~22,924 |
-| Exploitative | 4.00% | ~18,339 |
-| High Speed Low Drag | 4.00% | ~18,339 |
-| Wet Feet | 4.00% | ~18,339 |
-| Checkpoint Victory | 3.00% | ~13,754 |
-| Lucky | 3.00% | ~13,754 |
-| Stylin' | 3.00% | ~13,754 |
-| Turf War | 3.00% | ~13,754 |
+| Point Shooting | 5.00% | ~22,925 |
+| Wallbanger | 5.00% | ~22,925 |
+| Exploitative | 4.00% | ~18,340 |
+| High Speed Low Drag | 4.00% | ~18,340 |
+| Wet Feet | 4.00% | ~18,340 |
+| Checkpoint Victory | 3.00% | ~13,755 |
+| Lucky | 3.00% | ~13,755 |
+| Stylin' | 3.00% | ~13,755 |
+| Turf War | 3.00% | ~13,755 |
 | Banged | 2.00% | ~9,170 |
 | First Blood | 2.00% | ~9,170 |
 | Flaccid Paralysis | 2.00% | ~9,170 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~458 |
 | Road Hazard | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,483 (Ranked 38)  
+Progressed: 458,498 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,22 +207,22 @@ Completed: 2 (0.00%) (Ranked 304)
 | 2023-09-29 | 457,447 | 2 |
 | 2023-09-30 | 457,822 | 2 |
 | 2023-10-01 | 458,203 | 2 |
-| 2023-10-02 | 458,483 | 2 |
+| 2023-10-02 | 458,498 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 383  (Ranked 224)  
-Sum: 3,010 (Ranked 169)  
+Max (Quickly Understood Controls): 385  (Ranked 224)  
+Sum: 3,035 (Ranked 169)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 383 |
-| This game has Challenging Combat | 366 |
-| This game is Extremely Fun | 352 |
-| This game has Competitive Players | 345 |
-| This game is Highly Recommended | 330 |
-| This game has Realistic Visuals | 321 |
-| This game has Amazing Storytelling | 316 |
-| This game has Amazing Characters | 315 |
-| This game has a Competitive Community | 282 |
+| This game has Quickly Understood Controls | 385 |
+| This game has Challenging Combat | 370 |
+| This game is Extremely Fun | 354 |
+| This game has Competitive Players | 346 |
+| This game is Highly Recommended | 335 |
+| This game has Realistic Visuals | 324 |
+| This game has Amazing Characters | 318 |
+| This game has Amazing Storytelling | 318 |
+| This game has a Competitive Community | 285 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -472,3 +472,4 @@ Diff (max vs sum): 55
 | 2023-09-23 | 4.62 | - | 383 | 3,006 |
 | 2023-09-24 | 4.62 | - | 383 | 3,008 |
 | 2023-09-25 | 4.62 | - | 383 | 3,010 |
+| 2023-10-02 | 4.62 | - | 385 | 3,035 |
