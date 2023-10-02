@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -11663,10 +11663,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 93547,
       "NumberOfAwardsMax": 11744
+    },
+    {
+      "Time": "2023-10-02T21:00:29.6986533+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 93565,
+      "NumberOfAwardsMax": 11744
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93547,
+  "NumberOfAwards": 93565,
   "NumberOfAwardsMax": 11744,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -11686,7 +11692,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9296
+      "Count": 9300
     },
     {
       "Text": "This game is Relaxing",
@@ -11704,7 +11710,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 9250
+      "Count": 9259
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11722,7 +11728,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6724
+      "Count": 6729
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11748,8 +11754,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-10-02T18:02:15.5064915+00:00",
+  "LastChanged": "2023-10-02T21:00:29.6986531+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:58.6936912+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:02:12.9936678+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:07:08.541702+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:00:29.6986617+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:06:17.76257+00:00"
 }

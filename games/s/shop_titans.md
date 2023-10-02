@@ -92,6 +92,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.50% | ~685 |
 | Moment of Respite | 0.50% | ~685 |
 | King's Shadow | 0.50% | ~685 |
+| Master Recycler | 0.50% | ~685 |
 | Exotic Commodities | 0.50% | ~685 |
 | King's Blade | 0.50% | ~685 |
 | Constellated | 0.40% | ~548 |
@@ -99,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.40% | ~548 |
 | A Legend is Born | 0.40% | ~548 |
 | Jackpot! | 0.40% | ~548 |
-| Master Recycler | 0.40% | ~548 |
 | Economy of Scarce | 0.40% | ~548 |
 | The Free Encyclopedia | 0.30% | ~411 |
 | Thank You Tom Nook | 0.30% | ~411 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,012 (Ranked 70)  
+Progressed: 137,013 (Ranked 70)  
 Completed: 160 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 160 (0.12%) (Ranked 234)
 | 2023-09-29 | 136,873 | 158 |
 | 2023-09-30 | 136,919 | 158 |
 | 2023-10-01 | 136,972 | 160 |
-| 2023-10-02 | 137,012 | 160 |
+| 2023-10-02 | 137,013 | 160 |
 ## Awards
 Max (Great for Beginners): 4,765  (Ranked 71)  
 Sum: 27,320 (Ranked 49)  

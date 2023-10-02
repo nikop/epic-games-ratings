@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12777,10 +12777,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 254630,
       "NumberOfAwardsMax": 89540
+    },
+    {
+      "Time": "2023-10-02T20:59:34.1860561+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 254926,
+      "NumberOfAwardsMax": 89540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254630,
+  "NumberOfAwards": 254926,
   "NumberOfAwardsMax": 89540,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12836,7 +12842,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 11574
+      "Count": 11870
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12857,10 +12863,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 887968,
+  "EOS_Progressed": 887985,
   "EOS_Completed": 2549,
-  "EOS_NewPlayers": 6528,
-  "EOS_NewCompleters": 173,
+  "EOS_NewPlayers": 6511,
+  "EOS_NewCompleters": 172,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31462,6 +31468,11 @@
       "Time": "2023-10-02T20:08:15.8237612+00:00",
       "NumProgressed": 887968,
       "NumCompleted": 2549
+    },
+    {
+      "Time": "2023-10-02T21:08:17.8493714+00:00",
+      "NumProgressed": 887985,
+      "NumCompleted": 2549
     }
   ],
   "TotalAchievements": 57,
@@ -31497,7 +31508,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "Denied",
@@ -31505,7 +31516,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "FollowingTheRiver",
@@ -31553,7 +31564,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26639
+      "UsersEstimate": 26640
     },
     {
       "ID": "HandyMan",
@@ -31561,7 +31572,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26639
+      "UsersEstimate": 26640
     },
     {
       "ID": "IAmMaxTac",
@@ -31577,7 +31588,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "LittleTokyo",
@@ -31617,7 +31628,7 @@
       "Name": "Breathtaking",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "NoMansLand",
@@ -31649,7 +31660,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "Specialist",
@@ -31697,7 +31708,7 @@
       "Name": "The Hermit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "TheHightPriestess",
@@ -31705,7 +31716,7 @@
       "Name": "The High Priestess",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "TheLovers",
@@ -31737,7 +31748,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "TheWorld",
@@ -31761,7 +31772,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26639
+      "UsersEstimate": 26640
     },
     {
       "ID": "TrueSoldier",
@@ -31769,7 +31780,7 @@
       "Name": "True Soldier",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "TrueWarrior",
@@ -31777,7 +31788,7 @@
       "Name": "True Warrior",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31785,7 +31796,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "UnderPressure",
@@ -31801,7 +31812,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "YipMan",
@@ -31817,7 +31828,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31928,21 +31939,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887968,
+      "Progressed": 887985,
       "Completed": 2549
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16591,
+      "Progressed": 16608,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-02T18:59:29.8519511+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:08:15.8237607+00:00",
+  "LastChanged": "2023-10-02T20:59:34.1860559+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:08:17.8493709+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:00:14.9423257+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:08:15.8238934+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:59:34.1860567+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:08:17.8495488+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 1002,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16690,
+  "EOS_Progressed": 16691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5237,6 +5237,11 @@
       "Time": "2023-10-02T20:04:45.9996275+00:00",
       "NumProgressed": 16690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T21:04:16.9090283+00:00",
+      "NumProgressed": 16691,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5256,7 +5261,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14353
+      "UsersEstimate": 14354
     },
     {
       "ID": "ACH0010",
@@ -5280,7 +5285,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "ACH0013",
@@ -5320,7 +5325,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH0018",
@@ -5344,7 +5349,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12017
+      "UsersEstimate": 12018
     },
     {
       "ID": "ACH0020",
@@ -5408,7 +5413,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14520
+      "UsersEstimate": 14521
     },
     {
       "ID": "ACH005",
@@ -5416,7 +5421,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "ACH006",
@@ -5455,7 +5460,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16690,
+      "Progressed": 16691,
       "Completed": 0
     }
   ],
@@ -5463,8 +5468,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-02T01:40:27.0512474+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:04:45.999627+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:04:16.9090279+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.9891298+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:58:13.9434636+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:04:45.999672+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:57:47.1835005+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:04:16.9090788+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,854 |
-| keep it tidy | 77.00% | ~7,904 |
-| podium | 72.00% | ~7,391 |
-| medium attack | 60.00% | ~6,159 |
-| brail | 57.00% | ~5,851 |
+| light attack | 96.00% | ~9,855 |
+| keep it tidy | 77.00% | ~7,905 |
+| podium | 72.00% | ~7,392 |
+| medium attack | 60.00% | ~6,160 |
+| brail | 57.00% | ~5,852 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,414 |
 | grocery-getter | 40.00% | ~4,106 |
 | rwd only | 26.00% | ~2,669 |
@@ -19,18 +19,18 @@ Number of Ratings: 56  (23.09.2022)
 | autopilot | 21.00% | ~2,156 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,156 |
 | turbo | 20.00% | ~2,053 |
-| food tour: pretzel | 19.00% | ~1,950 |
+| food tour: pretzel | 19.00% | ~1,951 |
 | bicycle race | 15.00% | ~1,540 |
 | car wash | 15.00% | ~1,540 |
 | monster | 14.00% | ~1,437 |
 | the artist | 14.00% | ~1,437 |
-| perkele | 13.00% | ~1,334 |
-| night ride | 13.00% | ~1,334 |
-| snorkel | 13.00% | ~1,334 |
+| perkele | 13.00% | ~1,335 |
+| night ride | 13.00% | ~1,335 |
+| snorkel | 13.00% | ~1,335 |
 | where is the stage? | 12.00% | ~1,232 |
 | maximum attack | 11.00% | ~1,129 |
-| espresso | 10.00% | ~1,026 |
-| parallel universe | 10.00% | ~1,026 |
+| espresso | 10.00% | ~1,027 |
+| parallel universe | 10.00% | ~1,027 |
 | mittens | 8.00% | ~821 |
 | samir | 8.00% | ~821 |
 | eurobeat | 7.00% | ~719 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,265 (Ranked 142)  
+Progressed: 10,266 (Ranked 142)  
 Completed: 9 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 9 (0.09%) (Ranked 247)
 | 2023-09-28 | 10,262 | 9 |
 | 2023-09-29 | 10,264 | 9 |
 | 2023-09-30 | 10,265 | 9 |
+| 2023-10-02 | 10,266 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

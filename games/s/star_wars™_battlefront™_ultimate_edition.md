@@ -8,7 +8,7 @@
 | Off to a good start | 67.00% | ~262 |
 | Do... or do not. There is no try | 53.00% | ~207 |
 | A good blaster at your side | 34.00% | ~133 |
-| Scrap collector | 21.00% | ~82 |
+| Scrap collector | 22.00% | ~86 |
 | All right, I'll give it a try | 19.00% | ~74 |
 | Great shot, kid! | 19.00% | ~74 |
 | Together we can rule the galaxy | 18.00% | ~70 |

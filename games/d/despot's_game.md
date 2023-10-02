@@ -15,18 +15,18 @@ Rating: 4.50 (Ranked 574)
 | The Return of a Rat | 42.00% | ~180 |
 | Fat of the Earth | 36.00% | ~154 |
 | Last Man Standing | 32.00% | ~137 |
+| He's Seen It All | 28.00% | ~120 |
 | Catch Jonathan_tostar | 27.00% | ~116 |
-| He's Seen It All | 27.00% | ~116 |
 | Great Hero | 27.00% | ~116 |
+| Rookie | 27.00% | ~116 |
 | Campaigning | 26.00% | ~111 |
-| Rookie | 26.00% | ~111 |
 | Assemble a Meganewbie | 25.00% | ~107 |
 | Frugal | 22.00% | ~94 |
 | Feed a God | 21.00% | ~90 |
 | To the Moon and Back | 20.00% | ~86 |
 | Great Flight | 18.00% | ~77 |
 | Holy Vengeance | 16.00% | ~68 |
-| Honorary Cultist | 12.00% | ~51 |
+| Honorary Cultist | 13.00% | ~56 |
 | Brain and Brawn | 11.00% | ~47 |
 | Strength and Sorcery | 10.00% | ~43 |
 | Omae Wa Mou Shindeiru | 8.00% | ~34 |

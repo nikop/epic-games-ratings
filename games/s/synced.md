@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 26.00% | ~15,634 |
-| As Far Away As Possible | 15.00% | ~9,020 |
-| A Most Unstable Organism | 11.00% | ~6,614 |
-| No Time to Follow Protocol | 9.00% | ~5,412 |
-| Float Like a Butterfly... | 7.00% | ~4,209 |
-| In Two Places At Once | 6.00% | ~3,608 |
-| Nano Connoisseur | 5.00% | ~3,006 |
+| Your Lucky Day | 26.00% | ~15,637 |
+| As Far Away As Possible | 15.00% | ~9,022 |
+| A Most Unstable Organism | 11.00% | ~6,616 |
+| No Time to Follow Protocol | 9.00% | ~5,413 |
+| Float Like a Butterfly... | 7.00% | ~4,210 |
+| In Two Places At Once | 6.00% | ~3,609 |
+| Nano Connoisseur | 5.00% | ~3,007 |
 | Pulling Your Weight | 2.00% | ~1,203 |
 | Reaping Rivals | 2.00% | ~1,203 |
 | fifteenth Time's the Charm | 0.80% | ~481 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 896)
 | Runs for Your Money | 0.10% | ~60 |
 | Past Master | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,130 (Ranked 95)  
+Progressed: 60,144 (Ranked 95)  
 Completed: 2 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,11 +58,11 @@ Completed: 2 (0.00%) (Ranked 304)
 | 2023-09-29 | 58,939 | 1 |
 | 2023-09-30 | 59,406 | 1 |
 | 2023-10-01 | 59,874 | 2 |
-| 2023-10-02 | 60,130 | 2 |
+| 2023-10-02 | 60,144 | 2 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 414)  
-Sum: 145 (Ranked 407)  
-Diff (max vs sum): 7  
+Sum: 165 (Ranked 399)  
+Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 48 |
@@ -70,6 +70,7 @@ Diff (max vs sum): 7
 | This game is Highly Recommended | 26 |
 | This game has a Competitive Community | 23 |
 | This game has Unique Visuals | 20 |
+| This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -96,4 +97,4 @@ Diff (max vs sum): 7
 | 2023-09-29 | 4.18 | 38 | 82 |
 | 2023-09-30 | 4.18 | 43 | 134 |
 | 2023-10-01 | 4.18 | 46 | 138 |
-| 2023-10-02 | 4.18 | 48 | 145 |
+| 2023-10-02 | 4.18 | 48 | 165 |

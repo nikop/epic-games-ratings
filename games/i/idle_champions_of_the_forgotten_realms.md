@@ -9,9 +9,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 0.50% | ~1,154 |
 | The Jungles of Doomspace | 0.40% | ~788 |
 | The Arena of Blood | 0.30% | ~591 |
-| Beast Intentions | 0.20% | ~461 |
-| The Cursed Farmer | 0.20% | ~461 |
-| The Mad Wizard | 0.20% | ~461 |
+| Beast Intentions | 0.20% | ~462 |
+| The Cursed Farmer | 0.20% | ~462 |
+| The Mad Wizard | 0.20% | ~462 |
 | Slow Down Showdown | 0.20% | ~394 |
 | Entrance of the Gladiators | 0.20% | ~394 |
 | Maddening | 0.10% | ~231 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~197 |
 | All's Well That Ends Well | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,748 (Ranked 56)  
+Progressed: 230,750 (Ranked 56)  
 Completed: 2,324 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -696,14 +696,14 @@ Completed: 2,324 (1.01%) (Ranked 136)
 | 2023-09-29 | 230,422 | 2,312 |
 | 2023-09-30 | 230,569 | 2,317 |
 | 2023-10-01 | 230,655 | 2,320 |
-| 2023-10-02 | 230,748 | 2,324 |
+| 2023-10-02 | 230,750 | 2,324 |
 ## Awards
-Max (Diverse Characters): 5,348  (Ranked 69)  
-Sum: 31,876 (Ranked 40)  
+Max (Diverse Characters): 5,354  (Ranked 69)  
+Sum: 31,882 (Ranked 40)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,348 |
+| This game has Diverse Characters | 5,354 |
 | This game is Great for Beginners | 5,342 |
 | This game has Quickly Understood Controls | 4,783 |
 | This game is Relaxing | 4,668 |
@@ -962,4 +962,4 @@ Diff (max vs sum): 29
 | 2023-09-29 | 4.06 | - | 5,341 | 31,838 |
 | 2023-09-30 | 4.06 | - | 5,348 | 31,858 |
 | 2023-10-01 | 4.06 | - | 5,348 | 31,861 |
-| 2023-10-02 | 4.06 | - | 5,348 | 31,876 |
+| 2023-10-02 | 4.06 | - | 5,354 | 31,882 |

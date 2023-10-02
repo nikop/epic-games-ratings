@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 391,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1148,9 +1148,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_32",
@@ -1475,8 +1475,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:04:16.8741468+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:03:52.1234194+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:00:13.9293929+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:04:16.8742075+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:59:33.3704669+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:03:52.1234955+00:00"
 }

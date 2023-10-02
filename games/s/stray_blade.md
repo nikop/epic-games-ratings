@@ -21,11 +21,11 @@
 | Locked and Loaded | 10.00% | ~9 |
 | Witch | 10.00% | ~9 |
 | The A-Team | 10.00% | ~9 |
+| Craftsmen | 8.00% | ~7 |
 | Defeat Uskol | 8.00% | ~7 |
 | Through Dangers Untold | 8.00% | ~7 |
 | Finally! | 8.00% | ~7 |
 | Mirror, Mirror on the Wall | 7.00% | ~6 |
-| Craftsmen | 7.00% | ~6 |
 | Defeat Tezuth | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
 | Bringing guns to a sword fight | 6.00% | ~5 |

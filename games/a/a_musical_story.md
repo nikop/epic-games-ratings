@@ -16,13 +16,13 @@
 | Briget's | 52.00% | ~54 |
 | Big City Music | 49.00% | ~50 |
 | Sound of Noise | 49.00% | ~50 |
-| Love at First Sight | 44.00% | ~45 |
-| First Kiss | 38.00% | ~39 |
+| Love at First Sight | 45.00% | ~46 |
+| First Kiss | 39.00% | ~40 |
 | Symbiosis | 36.00% | ~37 |
-| A Bigger Band | 33.00% | ~34 |
-| Fuel | 29.00% | ~30 |
-| Alone Together | 28.00% | ~29 |
-| Threatening Nature | 26.00% | ~27 |
+| A Bigger Band | 34.00% | ~35 |
+| Fuel | 30.00% | ~31 |
+| Alone Together | 29.00% | ~30 |
+| Threatening Nature | 27.00% | ~28 |
 | Flat Tire | 24.00% | ~25 |
 | TV Dreams | 22.00% | ~23 |
 | The Clash | 21.00% | ~22 |

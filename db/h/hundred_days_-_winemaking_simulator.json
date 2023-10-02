@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6142,
+  "EOS_Progressed": 6148,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1166,
+  "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4972,6 +4972,11 @@
       "Time": "2023-10-02T20:05:24.9452525+00:00",
       "NumProgressed": 6142,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-02T21:04:50.3349103+00:00",
+      "NumProgressed": 6148,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -4984,7 +4989,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "a_10",
@@ -5032,7 +5037,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2275
     },
     {
       "ID": "a_19",
@@ -5231,7 +5236,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6142,
+      "Progressed": 6148,
       "Completed": 7
     }
   ],
@@ -5239,8 +5244,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:05:24.9452521+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:04:50.3349099+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:59:28.6468205+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:05:24.9452909+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:58:55.3634451+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:04:50.33496+00:00"
 }

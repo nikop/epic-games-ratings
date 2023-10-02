@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1090,9 +1090,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13087,
+  "EOS_Progressed": 13088,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12200,6 +12200,11 @@
       "Time": "2023-10-02T20:05:47.4223922+00:00",
       "NumProgressed": 13087,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-02T21:05:09.6878813+00:00",
+      "NumProgressed": 13088,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12211,7 +12216,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10600
+      "UsersEstimate": 10601
     },
     {
       "ID": "ACH02",
@@ -12267,7 +12272,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "ACH09",
@@ -12403,7 +12408,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH26",
@@ -12490,7 +12495,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13087,
+      "Progressed": 13088,
       "Completed": 49
     }
   ],
@@ -12498,8 +12503,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-02T14:02:09.5824686+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:05:47.4223917+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:05:09.6878808+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:02:11.9243393+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:05:47.4224669+00:00"
+  "LastUpdate_Ratings": "2023-10-02T21:00:28.8285033+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:05:09.6879771+00:00"
 }

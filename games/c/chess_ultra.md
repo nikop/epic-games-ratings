@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 818)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~147,363 |
-| Doubled Pawn | 56.00% | ~117,891 |
-| Check | 55.00% | ~115,785 |
-| Absolute pin | 47.00% | ~98,944 |
-| Promotion | 31.00% | ~65,261 |
-| Checkmate | 30.00% | ~63,156 |
-| O-O | 24.00% | ~50,525 |
-| Spanish Bishop | 21.00% | ~44,209 |
-| Queen Sacrifice | 20.00% | ~42,104 |
-| Stalemate | 18.00% | ~37,893 |
-| O-O-O | 13.00% | ~27,367 |
-| Octopus | 13.00% | ~27,367 |
-| Stranger Danger | 12.00% | ~25,262 |
-| En Passant | 9.00% | ~18,947 |
-| Double Check | 7.00% | ~14,736 |
-| Piece Collector | 6.00% | ~12,631 |
+| Chop Wood | 70.00% | ~147,370 |
+| Doubled Pawn | 56.00% | ~117,896 |
+| Check | 55.00% | ~115,791 |
+| Absolute pin | 47.00% | ~98,949 |
+| Promotion | 31.00% | ~65,264 |
+| Checkmate | 30.00% | ~63,159 |
+| O-O | 24.00% | ~50,527 |
+| Spanish Bishop | 21.00% | ~44,211 |
+| Queen Sacrifice | 20.00% | ~42,106 |
+| Stalemate | 18.00% | ~37,895 |
+| O-O-O | 13.00% | ~27,369 |
+| Octopus | 13.00% | ~27,369 |
+| Stranger Danger | 12.00% | ~25,263 |
+| En Passant | 9.00% | ~18,948 |
+| Double Check | 7.00% | ~14,737 |
+| Piece Collector | 6.00% | ~12,632 |
 | ELO | 5.00% | ~10,526 |
 | Family Fork | 5.00% | ~10,526 |
 | Friendly Fire | 5.00% | ~10,526 |
 | Underpromote | 4.00% | ~8,421 |
 | ELO ELO | 3.00% | ~6,316 |
 | Learner | 3.00% | ~6,316 |
-| Blind Pigs | 2.00% | ~4,210 |
-| ELO ELO ELO | 2.00% | ~4,210 |
+| Blind Pigs | 2.00% | ~4,211 |
+| ELO ELO ELO | 2.00% | ~4,211 |
 | Bobby Time | 1.00% | ~2,105 |
 | Back-rank Mate | 0.90% | ~1,895 |
 | Chess Champion | 0.30% | ~632 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 818)
 | Tournament Master | 0.10% | ~211 |
 | Tournament Pro | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,519 (Ranked 61)  
+Progressed: 210,529 (Ranked 61)  
 Completed: 2 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 2 (0.00%) (Ranked 304)
 | 2023-09-29 | 209,911 | 2 |
 | 2023-09-30 | 210,152 | 2 |
 | 2023-10-01 | 210,358 | 2 |
-| 2023-10-02 | 210,519 | 2 |
+| 2023-10-02 | 210,529 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

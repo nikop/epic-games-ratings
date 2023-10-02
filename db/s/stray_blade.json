@@ -456,9 +456,9 @@
       "ID": "ACH_CRAFT_15_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Craftsmen",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CRAFT_ALL_ARMOR",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:03:37.5430577+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:03:27.2931841+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:13.2497483+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:58:39.5535589+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:03:37.5430915+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:58:14.9469167+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:03:27.2932257+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 221,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 120,
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1261,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2144,6 +2144,11 @@
       "Time": "2023-10-02T19:03:04.257369+00:00",
       "NumProgressed": 1261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T21:03:09.7291528+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2164,7 +2169,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2196,7 +2201,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -2228,7 +2233,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2332,7 +2337,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2364,7 +2369,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2380,7 +2385,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -2412,7 +2417,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2450,9 +2455,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 480
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2508,7 +2513,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2547,14 +2552,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1261,
+      "Progressed": 1263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:03:16.9022422+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:03:09.7291524+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-02T20:00:39.6108955+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:03:16.9022892+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:59:54.2640674+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:03:09.7292158+00:00"
 }

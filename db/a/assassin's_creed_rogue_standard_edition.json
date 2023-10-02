@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-rogue",
   "Ranking_Rating": 416,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-03-25T15:00:00+00:00",
@@ -703,6 +703,6 @@
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
   "LastChanged": "2023-10-02T15:58:11.8917806+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:08.2349215+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:58:38.178682+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:06:46.9490395+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:58:13.8087947+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:05:59.646332+00:00"
 }

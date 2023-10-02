@@ -7,11 +7,11 @@ Rating: 4.56 (Ranked 473)
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 29.00% | ~5,293 |
 | The Spy who eliminated me | 23.00% | ~4,198 |
-| Mainframe Hacker | 22.00% | ~4,015 |
-| Tomorrow Never Dyes | 22.00% | ~4,015 |
-| From the Vault with Love | 18.00% | ~3,285 |
-| Never Say Loser Again | 18.00% | ~3,285 |
-| For your Eyes only | 18.00% | ~3,285 |
+| Mainframe Hacker | 22.00% | ~4,016 |
+| Tomorrow Never Dyes | 22.00% | ~4,016 |
+| From the Vault with Love | 18.00% | ~3,286 |
+| Never Say Loser Again | 18.00% | ~3,286 |
+| For your Eyes only | 18.00% | ~3,286 |
 | Assistant Accountant | 17.00% | ~3,103 |
 | Tailor-Made | 17.00% | ~3,103 |
 | You Only Live Twice | 16.00% | ~2,920 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 473)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,251 (Ranked 125)  
+Progressed: 18,253 (Ranked 125)  
 Completed: 4 (0.02%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 4 (0.02%) (Ranked 279)
 | 2023-09-29 | 18,191 | 3 |
 | 2023-09-30 | 18,212 | 3 |
 | 2023-10-01 | 18,240 | 4 |
-| 2023-10-02 | 18,251 | 4 |
+| 2023-10-02 | 18,253 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

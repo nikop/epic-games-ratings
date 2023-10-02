@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 82.00% | ~203 |
-| Shelter Escape | 81.00% | ~201 |
+| New arm | 82.00% | ~204 |
+| Shelter Escape | 81.00% | ~202 |
 | The First Bond | 72.00% | ~179 |
 | Novice Scavenger | 64.00% | ~159 |
-| Master Craftsman | 51.00% | ~126 |
+| Master Craftsman | 51.00% | ~127 |
 | First wall | 50.00% | ~124 |
-| Piggyback Expert | 48.00% | ~119 |
-| Second wall | 38.00% | ~94 |
-| Expert Scavenger | 34.00% | ~84 |
+| Piggyback Expert | 48.00% | ~120 |
+| Second wall | 37.00% | ~92 |
+| Expert Scavenger | 34.00% | ~85 |
 | Their Rock | 29.00% | ~72 |
 | Yuna's Promise | 29.00% | ~72 |
-| Stone Retriever | 26.00% | ~64 |
+| Stone Retriever | 26.00% | ~65 |
 | Find myself | 25.00% | ~62 |
 | Truebro | 21.00% | ~52 |
 | Min's Promise | 19.00% | ~47 |
@@ -30,8 +30,8 @@
 | True Player | 1.00% | ~2 |
 | Bond Lord | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 325)  
-Completed: 2 (0.81%) (Ranked 146)  
+Progressed: 249 (Ranked 324)  
+Completed: 2 (0.80%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,4 +57,4 @@ Completed: 2 (0.81%) (Ranked 146)
 | 2023-09-29 | 237 | 2 |
 | 2023-09-30 | 239 | 2 |
 | 2023-10-01 | 245 | 2 |
-| 2023-10-02 | 248 | 2 |
+| 2023-10-02 | 249 | 2 |

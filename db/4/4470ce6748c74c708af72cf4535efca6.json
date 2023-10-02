@@ -2,7 +2,7 @@
   "ID": "4470ce6748c74c708af72cf4535efca6",
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
-  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 120,
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-02T20:06:13.2321434+00:00",
+  "LastChanged_Achievements": "2023-10-02T21:05:31.2223698+00:00",
   "LastUpdate_AppInfo": "2023-09-30T01:37:01.546408+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:58:44.1823734+00:00",
-  "LastUpdate_Achievements": "2023-10-02T20:06:13.2322016+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:58:18.5014885+00:00",
+  "LastUpdate_Achievements": "2023-10-02T21:05:31.222443+00:00"
 }

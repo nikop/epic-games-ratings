@@ -20,7 +20,7 @@
 | Giant Lizard Killer | 45.00% | ~44 |
 | Nosebleeder | 44.00% | ~43 |
 | Guardian | 43.00% | ~42 |
-| Trader | 40.00% | ~39 |
+| Trader | 41.00% | ~40 |
 | Weapon Boost | 39.00% | ~38 |
 | Flying Kobold Killer | 35.00% | ~34 |
 | Youth Magnet | 35.00% | ~34 |
@@ -31,12 +31,12 @@
 | Kind Adventurer | 30.00% | ~29 |
 | Mermaid Killer | 28.00% | ~27 |
 | Cave Master | 27.00% | ~26 |
-| Face Slapper | 26.00% | ~25 |
+| Face Slapper | 27.00% | ~26 |
 | Master Cook | 19.00% | ~19 |
 | Berserker Slayer | 14.00% | ~14 |
 | Warden Slayer | 13.00% | ~13 |
+| Boss challenge | 12.00% | ~12 |
 | Giantess Slayer | 12.00% | ~12 |
-| Boss challenge | 11.00% | ~11 |
 | Big Face Goalkeeper Challenge | 4.00% | ~4 |
 | Silver Moon Wolf King Challenge | 4.00% | ~4 |
 | Blade Mantis Challenge | 3.00% | ~3 |

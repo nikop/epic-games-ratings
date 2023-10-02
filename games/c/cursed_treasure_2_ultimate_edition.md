@@ -25,7 +25,7 @@
 | Top of the World | 69.00% | ~117 |
 | Sharpshooter | 69.00% | ~117 |
 | The Apotheosis of War | 68.00% | ~116 |
-| Stasis Alcatraz | 67.00% | ~114 |
+| Stasis Alcatraz | 68.00% | ~116 |
 | Tastes Like Chicken | 63.00% | ~107 |
 | Brilliant: Holy Mountain | 62.00% | ~105 |
 | Combo Breaker | 62.00% | ~105 |
