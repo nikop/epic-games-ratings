@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
@@ -1097,6 +1097,11 @@
       "Time": "2023-10-01T10:03:54.0143442+00:00",
       "NumProgressed": 549,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-02T00:03:56.4956687+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1108,7 +1113,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "booty_call",
@@ -1132,15 +1137,15 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 358
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1188,7 +1193,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "planting_the_seed",
@@ -1196,7 +1201,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "smooth_criminal",
@@ -1212,7 +1217,7 @@
       "Name": "Sore Loser",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "we_go_again",
@@ -1227,7 +1232,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 9
     }
   ],
@@ -1235,8 +1240,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-10-01T23:03:58.75002+00:00",
+  "LastChanged_Achievements": "2023-10-02T00:03:56.4956678+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.0520608+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:59:55.2863755+00:00",
-  "LastUpdate_Achievements": "2023-10-01T23:03:58.7500405+00:00"
+  "LastUpdate_Ratings": "2023-10-02T00:00:18.7050646+00:00",
+  "LastUpdate_Achievements": "2023-10-02T00:03:56.4956882+00:00"
 }

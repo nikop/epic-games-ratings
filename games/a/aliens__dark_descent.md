@@ -6,8 +6,8 @@ Rating: 4.48 (Ranked 609)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,786 |
+| Keep 'Em Coming | 74.00% | ~2,546 |
 | Snatched Out | 74.00% | ~2,546 |
-| Keep 'Em Coming | 73.00% | ~2,511 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,305 |
 | Call Me Snake | 63.00% | ~2,167 |
 | Something Lurks Under The Hills | 61.00% | ~2,098 |
@@ -19,7 +19,7 @@ Rating: 4.48 (Ranked 609)
 | Colonial Barrels | 51.00% | ~1,754 |
 | Harper's Hell | 45.00% | ~1,548 |
 | Making a Stand | 44.00% | ~1,514 |
-| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,410 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,445 |
 | Where It All Begun | 40.00% | ~1,376 |
 | Recouped Investment | 39.00% | ~1,342 |
 | The More The Merrier | 34.00% | ~1,170 |

@@ -23,9 +23,9 @@
 | Self-sufficient | 7.00% | ~12 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~10 |
 | Overpopulation | 6.00% | ~10 |
+| Pathfinder | 6.00% | ~10 |
 | Medicine Tycoon | 6.00% | ~10 |
 | Property Bro | 5.00% | ~9 |
-| Pathfinder | 5.00% | ~9 |
 | Supersoldier | 4.00% | ~7 |
 | Tear Down the Wall! | 3.00% | ~5 |
 | Outdoor Decorator | 3.00% | ~5 |

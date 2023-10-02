@@ -5,7 +5,7 @@ Rating: 4.37 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 87.00% | ~1,961 |
+| On the Shoulders of Giants | 88.00% | ~1,984 |
 | A Ribbiting Performance | 77.00% | ~1,736 |
 | At Least We Have Each Other... | 75.00% | ~1,690 |
 | Frogbot | 72.00% | ~1,623 |

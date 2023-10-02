@@ -46,6 +46,7 @@
 | Reflexive Mind | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
 | The Distorted Sage | 3.00% | ~1 |
+| The Raging Skies | 3.00% | ~1 |
 | Anomaly Control | 0.00% | ~0 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -81,7 +82,6 @@
 | The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
 | The Chaos Artisan | 0.00% | ~0 |
-| The Raging Skies | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

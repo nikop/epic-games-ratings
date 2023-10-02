@@ -443,9 +443,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -531,9 +531,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -644,8 +644,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-01T23:08:13.4186394+00:00",
+  "LastChanged_Achievements": "2023-10-02T00:08:36.6368435+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:12.157773+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:00:13.0249186+00:00",
-  "LastUpdate_Achievements": "2023-10-01T23:08:13.4186872+00:00"
+  "LastUpdate_Ratings": "2023-10-02T00:00:38.6904102+00:00",
+  "LastUpdate_Achievements": "2023-10-02T00:08:36.6368987+00:00"
 }

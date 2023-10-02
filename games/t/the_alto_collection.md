@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,129 |
-| Finding Your Footing | 26.00% | ~10,717 |
-| Nomad | 17.00% | ~7,007 |
-| Picking Up Speed | 16.00% | ~6,595 |
-| Welcome Maya | 15.00% | ~6,183 |
-| Scout | 11.00% | ~4,534 |
-| Sightseer | 11.00% | ~4,534 |
-| Amateur | 9.00% | ~3,710 |
+| Rookie | 27.00% | ~11,132 |
+| Finding Your Footing | 26.00% | ~10,719 |
+| Nomad | 17.00% | ~7,009 |
+| Picking Up Speed | 16.00% | ~6,596 |
+| Welcome Maya | 15.00% | ~6,184 |
+| Scout | 11.00% | ~4,535 |
+| Sightseer | 11.00% | ~4,535 |
+| Amateur | 9.00% | ~3,711 |
 | Unlock Maya | 8.00% | ~3,298 |
 | Enter Paz | 8.00% | ~3,298 |
 | Wanderer | 8.00% | ~3,298 |
-| Aviator | 6.00% | ~2,473 |
+| Aviator | 6.00% | ~2,474 |
 | My Little Friend | 5.00% | ~2,061 |
 | One With The Board | 5.00% | ~2,061 |
 | Voyager | 5.00% | ~2,061 |
@@ -28,10 +28,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,237 |
 | Human Flight | 3.00% | ~1,237 |
 | Sandboarder | 3.00% | ~1,237 |
-| Explorer | 2.00% | ~824 |
-| Pro | 2.00% | ~824 |
-| Unlock Izel | 2.00% | ~824 |
-| Here Comes Felipe | 2.00% | ~824 |
+| Explorer | 2.00% | ~825 |
+| Pro | 2.00% | ~825 |
+| Unlock Izel | 2.00% | ~825 |
+| Here Comes Felipe | 2.00% | ~825 |
 | Hoist the Mainsail | 1.00% | ~412 |
 | Daredevil | 1.00% | ~412 |
 | Introducing Sumara | 1.00% | ~412 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~41 |
 | Windswept | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,220 (Ranked 103)  
+Progressed: 41,228 (Ranked 103)  
 Completed: 5 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 5 (0.01%) (Ranked 287)
 | 2023-09-29 | 40,929 | 5 |
 | 2023-09-30 | 41,076 | 5 |
 | 2023-10-01 | 41,220 | 5 |
+| 2023-10-02 | 41,228 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 414)  
 Sum: 364 (Ranked 333)  

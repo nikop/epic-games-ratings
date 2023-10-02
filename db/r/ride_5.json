@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -2337,9 +2337,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 501
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2528,8 +2528,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-01T23:08:12.4664162+00:00",
+  "LastChanged_Achievements": "2023-10-02T00:08:35.4970263+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:00:20.1767817+00:00",
-  "LastUpdate_Achievements": "2023-10-01T23:08:12.4664744+00:00"
+  "LastUpdate_Ratings": "2023-10-02T00:00:46.6162231+00:00",
+  "LastUpdate_Achievements": "2023-10-02T00:08:35.4970921+00:00"
 }

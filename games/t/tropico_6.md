@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~271 |
 | Watch The World Burn | 5.00% | ~271 |
 | Fairy Tale Come True | 5.00% | ~271 |
+| Apocalypso | 4.00% | ~217 |
 | Been there, Done That | 3.00% | ~163 |
-| Apocalypso | 3.00% | ~163 |
 | Narcissist | 3.00% | ~163 |
 | Promising Endeavors | 3.00% | ~163 |
 | The Time For Wonders | 3.00% | ~163 |

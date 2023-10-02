@@ -208,7 +208,7 @@ Completed: 48 (0.36%) (Ranked 186)
 | 2023-10-01 | 13,438 | 48 |
 ## Awards
 Max (Great Boss Battles): 423  (Ranked 215)  
-Sum: 650 (Ranked 294)  
+Sum: 651 (Ranked 294)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
@@ -220,8 +220,8 @@ Diff (max vs sum): -79
 | This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 24 |
 | This game has Amazing Characters | 23 |
+| This game has a Creative Community | 21 |
 | This game has Quickly Understood Controls | 20 |
-| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -284,3 +284,4 @@ Diff (max vs sum): -79
 | 2023-09-26 | 4.73 | 422 | 647 |
 | 2023-09-27 | 4.73 | 422 | 649 |
 | 2023-09-30 | 4.73 | 423 | 650 |
+| 2023-10-02 | 4.73 | 423 | 651 |

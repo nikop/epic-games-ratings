@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -408,9 +408,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 59874,
+  "EOS_Progressed": 59886,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2936,
+  "EOS_NewPlayers": 2922,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3358,6 +3358,11 @@
       "Time": "2023-10-01T23:09:25.9007287+00:00",
       "NumProgressed": 59874,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-02T00:09:13.723752+00:00",
+      "NumProgressed": 59886,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -3370,7 +3375,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 14968
+      "UsersEstimate": 14972
     },
     {
       "ID": "10",
@@ -3386,7 +3391,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "12",
@@ -3394,7 +3399,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "13",
@@ -3434,7 +3439,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8981
+      "UsersEstimate": 8983
     },
     {
       "ID": "3",
@@ -3442,7 +3447,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "4",
@@ -3450,7 +3455,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "5",
@@ -3458,7 +3463,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "6",
@@ -3466,7 +3471,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3592
+      "UsersEstimate": 3593
     },
     {
       "ID": "7",
@@ -3497,7 +3502,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 59874,
+      "Progressed": 59886,
       "Completed": 2
     }
   ],
@@ -3505,8 +3510,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-01T15:59:15.500375+00:00",
-  "LastChanged_Achievements": "2023-10-01T23:09:25.9007276+00:00",
+  "LastChanged_Achievements": "2023-10-02T00:09:13.7237514+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.2023742+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:59:41.2827645+00:00",
-  "LastUpdate_Achievements": "2023-10-01T23:09:25.9007733+00:00"
+  "LastUpdate_Ratings": "2023-10-02T00:00:02.282731+00:00",
+  "LastUpdate_Achievements": "2023-10-02T00:09:13.7237875+00:00"
 }

@@ -229,7 +229,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37647,
+  "EOS_Progressed": 37650,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
@@ -18274,6 +18274,11 @@
       "Time": "2023-10-01T23:05:24.6451905+00:00",
       "NumProgressed": 37647,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-02T00:05:34.5930822+00:00",
+      "NumProgressed": 37650,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18285,7 +18290,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5647
+      "UsersEstimate": 5648
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -18293,7 +18298,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7530
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18315,9 +18320,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -18516,7 +18521,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37647,
+      "Progressed": 37650,
       "Completed": 25
     }
   ],
@@ -18524,8 +18529,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-01T23:03:10.2808495+00:00",
-  "LastChanged_Achievements": "2023-10-01T23:05:24.6451896+00:00",
+  "LastChanged_Achievements": "2023-10-02T00:05:34.5930812+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-01T23:03:10.2808499+00:00",
-  "LastUpdate_Achievements": "2023-10-01T23:05:24.645308+00:00"
+  "LastUpdate_Ratings": "2023-10-02T00:02:20.3023174+00:00",
+  "LastUpdate_Achievements": "2023-10-02T00:05:34.5932381+00:00"
 }

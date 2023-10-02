@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -10830,9 +10830,9 @@
       "ID": "ACH_EP_THEREFERENDUM",
       "SetID": "1p8ab95",
       "Name": "Apocalypso",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -11022,8 +11022,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-30T08:57:11.574779+00:00",
-  "LastChanged_Achievements": "2023-10-01T23:05:46.165369+00:00",
+  "LastChanged_Achievements": "2023-10-02T00:05:59.5873787+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.3728621+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:58:12.1703212+00:00",
-  "LastUpdate_Achievements": "2023-10-01T23:05:46.1654595+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:58:19.1974158+00:00",
+  "LastUpdate_Achievements": "2023-10-02T00:05:59.5874867+00:00"
 }

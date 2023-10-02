@@ -200,7 +200,7 @@
   "Tags": [],
   "EOS_Progressed": 5332,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5981,9 +5981,9 @@
       "ID": "ACH_DEFEND",
       "SetID": "5nj1ea3",
       "Name": "Pacifist",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3146
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -6326,8 +6326,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-01T15:57:28.5549707+00:00",
-  "LastChanged_Achievements": "2023-10-01T23:04:36.8738962+00:00",
+  "LastChanged_Achievements": "2023-10-02T00:04:40.1564922+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:17.5027493+00:00",
-  "LastUpdate_Ratings": "2023-10-01T22:57:30.721182+00:00",
-  "LastUpdate_Achievements": "2023-10-01T23:04:36.8739892+00:00"
+  "LastUpdate_Ratings": "2023-10-01T23:57:27.6284935+00:00",
+  "LastUpdate_Achievements": "2023-10-02T00:04:40.1566011+00:00"
 }
