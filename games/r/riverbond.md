@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,900 |
-| Now You're Talking | 62.00% | ~327,626 |
-| Steel Yourself | 62.00% | ~327,626 |
-| Window Dressing | 50.00% | ~264,214 |
-| Trigger Happy | 46.00% | ~243,077 |
-| Riverborn | 45.00% | ~237,793 |
-| Starry Eyed | 34.00% | ~179,666 |
-| Poking Around | 34.00% | ~179,666 |
+| First Step | 70.00% | ~369,902 |
+| Now You're Talking | 62.00% | ~327,627 |
+| Steel Yourself | 62.00% | ~327,627 |
+| Window Dressing | 50.00% | ~264,216 |
+| Trigger Happy | 46.00% | ~243,078 |
+| Riverborn | 45.00% | ~237,794 |
+| Starry Eyed | 34.00% | ~179,667 |
+| Poking Around | 34.00% | ~179,667 |
 | Talk of the Town | 24.00% | ~126,823 |
 | AAARR! | 23.00% | ~121,539 |
 | Hello Darkness | 23.00% | ~121,539 |
-| Wind At Our Backs | 22.00% | ~116,254 |
+| Wind At Our Backs | 22.00% | ~116,255 |
 | To the Beat | 20.00% | ~105,686 |
 | Sunny Shores | 17.00% | ~89,833 |
 | Sunday Best | 16.00% | ~84,549 |
-| To Victory! | 15.00% | ~79,264 |
+| To Victory! | 15.00% | ~79,265 |
 | Two of a Kind | 14.00% | ~73,980 |
 | Keep On Trucking | 13.00% | ~68,696 |
 | Going on an Adventure | 11.00% | ~58,127 |
@@ -39,9 +39,9 @@ Number of Ratings: 617  (23.09.2022)
 | Oh, Romeo! | 6.00% | ~31,706 |
 | Dressed to Kill | 6.00% | ~31,706 |
 | Beast Mode | 6.00% | ~31,706 |
-| Noble Intentions | 5.00% | ~26,421 |
-| Rising Star | 5.00% | ~26,421 |
-| Slime Slayer | 5.00% | ~26,421 |
+| Noble Intentions | 5.00% | ~26,422 |
+| Rising Star | 5.00% | ~26,422 |
+| Slime Slayer | 5.00% | ~26,422 |
 | Privacy, Please! | 4.00% | ~21,137 |
 | Silky Smooth | 4.00% | ~21,137 |
 | Hash It Over | 4.00% | ~21,137 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,585 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,429 (Ranked 33)  
+Progressed: 528,431 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 479 (0.09%) (Ranked 247)
 | 2023-09-29 | 528,266 | 479 |
 | 2023-09-30 | 528,345 | 479 |
 | 2023-10-01 | 528,418 | 479 |
-| 2023-10-02 | 528,429 | 479 |
+| 2023-10-02 | 528,431 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

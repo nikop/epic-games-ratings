@@ -2033,9 +2033,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 389
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2425,9 +2425,9 @@
       "ID": "MEAT_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "To Get Stronger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 101
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2560,8 +2560,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-02T03:04:53.8719912+00:00",
+  "LastChanged_Achievements": "2023-10-02T04:05:55.3192851+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:58:40.4264146+00:00",
-  "LastUpdate_Achievements": "2023-10-02T03:04:53.8720769+00:00"
+  "LastUpdate_Ratings": "2023-10-02T03:59:13.245385+00:00",
+  "LastUpdate_Achievements": "2023-10-02T04:05:55.3193675+00:00"
 }

@@ -12741,10 +12741,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 251907,
       "NumberOfAwardsMax": 88536
+    },
+    {
+      "Time": "2023-10-02T04:00:12.7887559+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 252317,
+      "NumberOfAwardsMax": 88536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 251907,
+  "NumberOfAwards": 252317,
   "NumberOfAwardsMax": 88536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12794,7 +12800,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 12195
+      "Count": 12605
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12821,10 +12827,10 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887539,
-  "EOS_Completed": 2535,
-  "EOS_NewPlayers": 6641,
-  "EOS_NewCompleters": 186,
+  "EOS_Progressed": 887561,
+  "EOS_Completed": 2537,
+  "EOS_NewPlayers": 6637,
+  "EOS_NewCompleters": 188,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31341,6 +31347,11 @@
       "Time": "2023-10-02T03:06:51.4679851+00:00",
       "NumProgressed": 887539,
       "NumCompleted": 2535
+    },
+    {
+      "Time": "2023-10-02T04:09:04.6586889+00:00",
+      "NumProgressed": 887561,
+      "NumCompleted": 2537
     }
   ],
   "TotalAchievements": 57,
@@ -31360,7 +31371,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "BushidoAndChill",
@@ -31424,7 +31435,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "Gunslinger",
@@ -31432,7 +31443,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26626
+      "UsersEstimate": 26627
     },
     {
       "ID": "HandyMan",
@@ -31472,7 +31483,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "MaxPain",
@@ -31480,7 +31491,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "MustBeTheRats",
@@ -31544,7 +31555,7 @@
       "Name": "Temperance",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31560,7 +31571,7 @@
       "Name": "The Devil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "TheFool",
@@ -31568,7 +31579,7 @@
       "Name": "The Fool",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "TheHermit",
@@ -31592,7 +31603,7 @@
       "Name": "The Lovers",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "TheStar",
@@ -31624,7 +31635,7 @@
       "Name": "The World",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "ThisIsPacifica",
@@ -31656,7 +31667,7 @@
       "Name": "True Warrior",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -31696,7 +31707,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "All the President\u0027s Men",
@@ -31807,21 +31818,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887539,
-      "Completed": 2535
+      "Progressed": 887561,
+      "Completed": 2537
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16162,
+      "Progressed": 16184,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-02T02:16:45.0815091+00:00",
-  "LastChanged_Achievements": "2023-10-02T03:06:51.4679846+00:00",
+  "LastChanged": "2023-10-02T04:00:12.7887556+00:00",
+  "LastChanged_Achievements": "2023-10-02T04:09:04.658688+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:59:27.6009927+00:00",
-  "LastUpdate_Achievements": "2023-10-02T03:06:51.4681641+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:00:12.7887566+00:00",
+  "LastUpdate_Achievements": "2023-10-02T04:09:04.6589793+00:00"
 }

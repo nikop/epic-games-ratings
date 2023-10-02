@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 271,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 24.72,
   "EosHistory": [
@@ -1401,9 +1401,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "Batteries",
@@ -1441,9 +1441,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "Fusses",
@@ -1481,9 +1481,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 70,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "Screwdriver",
@@ -1497,9 +1497,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "Synthesis",
@@ -1520,8 +1520,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-10-02T03:06:12.8109161+00:00",
+  "LastChanged_Achievements": "2023-10-02T04:07:29.0365149+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.4954104+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:58:08.3707389+00:00",
-  "LastUpdate_Achievements": "2023-10-02T03:06:12.8109384+00:00"
+  "LastUpdate_Ratings": "2023-10-02T03:58:34.003142+00:00",
+  "LastUpdate_Achievements": "2023-10-02T04:07:29.0365372+00:00"
 }

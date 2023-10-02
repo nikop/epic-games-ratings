@@ -8,12 +8,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | That's a Grand Army | 4.00% | ~16,805 |
 | Until death do us apart | 4.00% | ~16,805 |
-| That is mine! | 3.00% | ~12,603 |
-| Victorious! | 3.00% | ~12,603 |
-| Brothers in Arms | 2.00% | ~8,402 |
-| For the Glory | 2.00% | ~8,402 |
-| That's a Grand Navy | 2.00% | ~8,402 |
-| Seriously?! | 2.00% | ~8,402 |
+| That is mine! | 3.00% | ~12,604 |
+| Victorious! | 3.00% | ~12,604 |
+| Brothers in Arms | 2.00% | ~8,403 |
+| For the Glory | 2.00% | ~8,403 |
+| That's a Grand Navy | 2.00% | ~8,403 |
+| Seriously?! | 2.00% | ~8,403 |
 | Cold War | 1.00% | ~4,201 |
 | Defender of the Faith | 1.00% | ~4,201 |
 | It's all about the money | 1.00% | ~4,201 |
@@ -31,11 +31,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,101 |
 | Combined Arms | 0.50% | ~2,101 |
 | This navy can take it all | 0.50% | ~2,101 |
-| Azur semé de lis or | 0.40% | ~1,680 |
-| Factionalism | 0.40% | ~1,680 |
-| Gentle Persuasion | 0.40% | ~1,680 |
-| Isn't this the way to India? | 0.40% | ~1,680 |
-| Queen of Conquest | 0.40% | ~1,680 |
+| Azur semé de lis or | 0.40% | ~1,681 |
+| Factionalism | 0.40% | ~1,681 |
+| Gentle Persuasion | 0.40% | ~1,681 |
+| Isn't this the way to India? | 0.40% | ~1,681 |
+| Queen of Conquest | 0.40% | ~1,681 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,260 |
 | Bright Spark | 0.30% | ~1,260 |
 | Down Under | 0.30% | ~1,260 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,115 (Ranked 41)  
+Progressed: 420,137 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -526,7 +526,7 @@ Completed: 1 (0.00%) (Ranked 304)
 | 2023-09-29 | 417,709 | 1 |
 | 2023-09-30 | 418,938 | 1 |
 | 2023-10-01 | 420,043 | 1 |
-| 2023-10-02 | 420,115 | 1 |
+| 2023-10-02 | 420,137 | 1 |
 ## Awards
 Max (Educational): 6,368  (Ranked 57)  
 Sum: 52,226 (Ranked 24)  

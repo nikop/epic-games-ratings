@@ -5682,9 +5682,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 180134,
+  "EOS_Progressed": 180142,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2210,
+  "EOS_NewPlayers": 2213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24167,6 +24167,11 @@
       "Time": "2023-10-02T03:03:54.8700281+00:00",
       "NumProgressed": 180134,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-02T04:04:45.7740362+00:00",
+      "NumProgressed": 180142,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -24210,7 +24215,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28821
+      "UsersEstimate": 28823
     },
     {
       "ID": "Achievement_13",
@@ -24258,7 +24263,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 45034
+      "UsersEstimate": 45036
     },
     {
       "ID": "Achievement_5",
@@ -24290,7 +24295,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16212
+      "UsersEstimate": 16213
     },
     {
       "ID": "Achievement_9",
@@ -24305,15 +24310,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 180134,
+      "Progressed": 180142,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-01T19:00:39.821864+00:00",
-  "LastChanged_Achievements": "2023-10-02T03:03:54.8700275+00:00",
+  "LastChanged_Achievements": "2023-10-02T04:04:45.7740349+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:44.2536696+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:59:17.6012716+00:00",
-  "LastUpdate_Achievements": "2023-10-02T03:03:54.8701664+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:00:00.1571647+00:00",
+  "LastUpdate_Achievements": "2023-10-02T04:04:45.7742537+00:00"
 }

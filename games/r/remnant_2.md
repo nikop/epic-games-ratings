@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,009 |
+| First of Many | 9.00% | ~17,010 |
 | The Killing Jar | 8.00% | ~15,120 |
 | Expanding Horizons | 7.00% | ~13,230 |
 | Quest for Survival | 7.00% | ~13,230 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,890 |
 | Ghost in the Machine | 0.90% | ~1,701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,994 (Ranked 65)  
+Progressed: 189,002 (Ranked 65)  
 Completed: 350 (0.19%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 350 (0.19%) (Ranked 219)
 | 2023-09-29 | 187,917 | 345 |
 | 2023-09-30 | 188,435 | 348 |
 | 2023-10-01 | 188,949 | 350 |
-| 2023-10-02 | 188,994 | 350 |
+| 2023-10-02 | 189,002 | 350 |
 ## Awards
 Max (Great Boss Battles): 1,756  (Ranked 117)  
 Sum: 3,687 (Ranked 154)  

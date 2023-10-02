@@ -4,7 +4,7 @@
   "ProductSlug": "encased",
   "Ranking_Rating": 778,
   "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 647,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 410,
@@ -498,6 +498,6 @@
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
   "LastChanged": "2023-09-29T17:59:45.0833708+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:24.0391832+00:00",
-  "LastUpdate_Ratings": "2023-10-02T03:00:19.8459997+00:00",
-  "LastUpdate_Achievements": "2023-10-02T03:04:22.6881326+00:00"
+  "LastUpdate_Ratings": "2023-10-02T04:01:14.0828867+00:00",
+  "LastUpdate_Achievements": "2023-10-02T04:05:18.0947772+00:00"
 }

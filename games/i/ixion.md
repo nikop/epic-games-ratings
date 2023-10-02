@@ -54,7 +54,7 @@ Rating: 4.56 (Ranked 474)
 | Tiqqun Unchained | 1.00% | ~32 |
 | Scientifically Accurate | 1.00% | ~32 |
 | Work Harder | 0.50% | ~16 |
-| Crunch Culture | 0.30% | ~10 |
+| Crunch Culture | 0.40% | ~13 |
 | Soylent Green | 0.30% | ~10 |
 | A Junker's Dream | 0.20% | ~6 |
 | This is Fine | 0.10% | ~3 |

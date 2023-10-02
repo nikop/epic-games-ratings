@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -2652,9 +2652,9 @@
       "Count": 203
     }
   ],
-  "EOS_Progressed": 188994,
+  "EOS_Progressed": 189002,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 2920,
+  "EOS_NewPlayers": 2915,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11272,6 +11272,11 @@
       "Time": "2023-10-02T03:07:13.2688165+00:00",
       "NumProgressed": 188994,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-10-02T04:09:30.910352+00:00",
+      "NumProgressed": 189002,
+      "NumCompleted": 350
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -11468,7 +11473,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17009
+      "UsersEstimate": 17010
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -11683,7 +11688,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 188994,
+      "Progressed": 189002,
       "Completed": 350
     }
   ],
@@ -11691,8 +11696,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-02T01:40:45.2086177+00:00",
-  "LastChanged_Achievements": "2023-10-02T03:07:13.2688161+00:00",
+  "LastChanged_Achievements": "2023-10-02T04:09:30.9103514+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:11.7554102+00:00",
-  "LastUpdate_Ratings": "2023-10-02T02:58:01.1477429+00:00",
-  "LastUpdate_Achievements": "2023-10-02T03:07:13.2689405+00:00"
+  "LastUpdate_Ratings": "2023-10-02T03:58:25.432108+00:00",
+  "LastUpdate_Achievements": "2023-10-02T04:09:30.9105203+00:00"
 }

@@ -18,7 +18,7 @@
 | Anomaly Destroyer | 32.00% | ~11 |
 | Unbeatable | 32.00% | ~11 |
 | Loyal Partner | 26.00% | ~9 |
-| Sadistic Plan | 21.00% | ~7 |
+| Sadistic Plan | 24.00% | ~8 |
 | Stellar Haste | 21.00% | ~7 |
 | The Corruption Goddess | 21.00% | ~7 |
 | Sentinelphobic | 18.00% | ~6 |
