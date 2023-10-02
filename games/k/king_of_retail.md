@@ -1,7 +1,7 @@
 # King of Retail
 [Store](https://store.epicgames.com/en-US/p/king-of-retail-c3ad3e)  
 [View Rawdata](../../db/k/king_of_retail.json)  
-Rating: 4.69 (Ranked 221)  
+Rating: 4.67 (Ranked 261)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.69 (Ranked 221)
 | 2023-08-08 | 4.67 | 0 | 0 |
 | 2023-08-09 | 4.68 | 0 | 0 |
 | 2023-08-30 | 4.69 | 0 | 0 |
+| 2023-10-02 | 4.67 | 0 | 0 |

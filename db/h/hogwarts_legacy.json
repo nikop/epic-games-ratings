@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8326,10 +8326,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44831,
       "NumberOfAwardsMax": 23221
+    },
+    {
+      "Time": "2023-10-02T14:59:18.6753601+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44841,
+      "NumberOfAwardsMax": 23221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44831,
+  "NumberOfAwards": 44841,
   "NumberOfAwardsMax": 23221,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8385,13 +8391,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1039
+      "Count": 1044
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1095
+      "Count": 1100
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8406,7 +8412,7 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297715,
+  "EOS_Progressed": 297717,
   "EOS_Completed": 479,
   "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 2,
@@ -26221,6 +26227,11 @@
       "Time": "2023-10-02T14:04:51.3084127+00:00",
       "NumProgressed": 297715,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-02T15:05:01.567668+00:00",
+      "NumProgressed": 297717,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26232,7 +26243,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44657
+      "UsersEstimate": 44658
     },
     {
       "ID": "PFA_10",
@@ -26392,7 +26403,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8931
+      "UsersEstimate": 8932
     },
     {
       "ID": "PFA_29",
@@ -26408,7 +26419,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8931
+      "UsersEstimate": 8932
     },
     {
       "ID": "PFA_30",
@@ -26448,7 +26459,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8931
+      "UsersEstimate": 8932
     },
     {
       "ID": "PFA_35",
@@ -26456,7 +26467,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26794
+      "UsersEstimate": 26795
     },
     {
       "ID": "PFA_36",
@@ -26584,23 +26595,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26794
+      "UsersEstimate": 26795
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297715,
+      "Progressed": 297717,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-02T13:59:13.6391794+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:04:51.3084121+00:00",
+  "LastChanged": "2023-10-02T14:59:18.67536+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:05:01.5676674+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:13.6391804+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:04:51.3085651+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:59:18.6753605+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:05:01.5677832+00:00"
 }

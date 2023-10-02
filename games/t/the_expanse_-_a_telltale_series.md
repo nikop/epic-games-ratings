@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 36.00% | ~4,832 |
+| Impossible Objects | 36.00% | ~4,833 |
 | Captain Drummer | 31.00% | ~4,161 |
 | Stogie for Fogey | 30.00% | ~4,027 |
 | Martian Music | 29.00% | ~3,893 |
@@ -16,7 +16,7 @@ Rating: 4.53 (Ranked 524)
 | Bosmang | 21.00% | ~2,819 |
 | Doctor Approved | 20.00% | ~2,685 |
 | Thorston Mayer | 17.00% | ~2,282 |
-| Call it Even | 15.00% | ~2,013 |
+| Call it Even | 15.00% | ~2,014 |
 | Data Archivist | 14.00% | ~1,879 |
 | Bottoms up! | 14.00% | ~1,879 |
 | Heal Thy Medic | 13.00% | ~1,745 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 524)
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,423 (Ranked 135)  
+Progressed: 13,424 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 13,208 | 0 |
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
-| 2023-10-02 | 13,423 | 0 |
+| 2023-10-02 | 13,424 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

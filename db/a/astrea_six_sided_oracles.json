@@ -420,9 +420,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EndlessTricks",
@@ -556,9 +556,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 66,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -612,9 +612,9 @@
       "ID": "PurificationAvatar",
       "SetID": "1jeo1g7",
       "Name": "Purification Avatar",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PurificationPioneer",
@@ -652,9 +652,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 77,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Sentinelphobic",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:08:12.6646953+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:08:17.2853987+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:43.0516717+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:08:12.6648497+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:59:48.3816512+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:08:17.2854839+00:00"
 }

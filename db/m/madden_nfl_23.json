@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1911,
+  "EOS_Progressed": 1915,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2046,6 +2046,11 @@
       "Time": "2023-10-02T14:05:32.6687112+00:00",
       "NumProgressed": 1911,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T15:05:50.4377156+00:00",
+      "NumProgressed": 1915,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2066,7 +2071,7 @@
       "Name": "Bragging Rights",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1092
     },
     {
       "ID": "achievement_11",
@@ -2074,7 +2079,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_12",
@@ -2082,7 +2087,7 @@
       "Name": "Stud Finder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "achievement_13",
@@ -2090,7 +2095,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_14",
@@ -2098,7 +2103,7 @@
       "Name": "Dealmaker",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "achievement_15",
@@ -2106,7 +2111,7 @@
       "Name": "MVP",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1053
     },
     {
       "ID": "achievement_16",
@@ -2114,7 +2119,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "achievement_17",
@@ -2146,7 +2151,7 @@
       "Name": "Unblockable",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_20",
@@ -2170,7 +2175,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_4",
@@ -2178,7 +2183,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_5",
@@ -2194,7 +2199,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_7",
@@ -2202,7 +2207,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_8",
@@ -2225,7 +2230,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 1911,
+      "Progressed": 1915,
       "Completed": 0
     }
   ],
@@ -2233,8 +2238,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-09-27T01:40:43.014654+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:05:32.6687106+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:05:50.4377152+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.4729837+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:00:16.8223045+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:05:32.6687519+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:00:24.4376928+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:05:50.4377358+00:00"
 }

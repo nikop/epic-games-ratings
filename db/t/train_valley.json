@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -131,7 +131,7 @@
   "Tags": [],
   "EOS_Progressed": 505,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1276,9 +1276,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 162
     },
     {
       "ID": "08_america",
@@ -1548,8 +1548,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:06:39.2580974+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:07:07.0014598+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:13.62206+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:23.5552194+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:06:39.2581622+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:59:27.8478548+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:07:07.0015137+00:00"
 }

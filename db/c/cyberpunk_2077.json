@@ -12759,18 +12759,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 253093,
       "NumberOfAwardsMax": 88536
+    },
+    {
+      "Time": "2023-10-02T15:00:02.2434896+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 254097,
+      "NumberOfAwardsMax": 89540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 253093,
-  "NumberOfAwardsMax": 88536,
+  "NumberOfAwards": 254097,
+  "NumberOfAwardsMax": 89540,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 88536
+      "Count": 89540
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12839,9 +12845,9 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887790,
-  "EOS_Completed": 2543,
-  "EOS_NewPlayers": 6598,
+  "EOS_Progressed": 887823,
+  "EOS_Completed": 2545,
+  "EOS_NewPlayers": 6589,
   "EOS_NewCompleters": 181,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -31414,6 +31420,11 @@
       "Time": "2023-10-02T14:08:14.5853615+00:00",
       "NumProgressed": 887790,
       "NumCompleted": 2543
+    },
+    {
+      "Time": "2023-10-02T15:08:19.3517735+00:00",
+      "NumProgressed": 887823,
+      "NumCompleted": 2545
     }
   ],
   "TotalAchievements": 57,
@@ -31505,7 +31516,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26634
+      "UsersEstimate": 26635
     },
     {
       "ID": "HandyMan",
@@ -31609,7 +31620,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35512
+      "UsersEstimate": 35513
     },
     {
       "ID": "Temperance",
@@ -31625,7 +31636,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35512
+      "UsersEstimate": 35513
     },
     {
       "ID": "TheDevil",
@@ -31705,7 +31716,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7102
+      "UsersEstimate": 7103
     },
     {
       "ID": "TradeUnion",
@@ -31713,7 +31724,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26634
+      "UsersEstimate": 26635
     },
     {
       "ID": "TrueSoldier",
@@ -31880,21 +31891,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887790,
-      "Completed": 2543
+      "Progressed": 887823,
+      "Completed": 2545
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16413,
+      "Progressed": 16446,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-02T13:59:54.7284302+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:08:14.5853609+00:00",
+  "LastChanged": "2023-10-02T15:00:02.2434894+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:08:19.351773+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:54.7284314+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:08:14.585659+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:00:02.2434899+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:08:19.3519037+00:00"
 }

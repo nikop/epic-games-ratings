@@ -298,7 +298,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1939,
+  "EOS_Progressed": 1940,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
@@ -1398,6 +1398,11 @@
       "Time": "2023-10-02T13:09:29.9422237+00:00",
       "NumProgressed": 1939,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T15:03:52.341771+00:00",
+      "NumProgressed": 1940,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1426,7 +1431,7 @@
       "Name": "Big Spender",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_12",
@@ -1506,7 +1511,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "achievement_21",
@@ -1538,7 +1543,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "achievement_6",
@@ -1570,14 +1575,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1939,
+      "Progressed": 1940,
       "Completed": 0
     }
   ],
@@ -1585,8 +1590,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-30T01:37:55.9131562+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:04:07.6583038+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:03:52.3417705+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:24.6785119+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:04:07.6583268+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:59:29.2106015+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:03:52.341787+00:00"
 }

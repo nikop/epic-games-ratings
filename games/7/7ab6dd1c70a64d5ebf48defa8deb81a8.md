@@ -20,19 +20,19 @@
 | Godslayer | 6.00% | ~2 |
 | Miner | 6.00% | ~2 |
 | The Mentor | 3.00% | ~1 |
+| Airborne | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
 | Alchemist | 3.00% | ~1 |
+| Stone Collection | 3.00% | ~1 |
 | A Queen's Tale | 3.00% | ~1 |
-| Airborne | 0.00% | ~0 |
+| Forgemaster | 0.00% | ~0 |
+| Shardbearer | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
+| Slayer | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| Stone Collection | 0.00% | ~0 |
 | Clear Sight | -3.20% | ~-1 |
-| Forgemaster | -3.20% | ~-1 |
-| Shardbearer | -3.20% | ~-1 |
 | Shatterer | -3.20% | ~-1 |
-| Slayer | -3.20% | ~-1 |
 | Big Bazar | -3.20% | ~-1 |
 | All There Is | -3.20% | ~-1 |
 | All That Gold | -3.20% | ~-1 |

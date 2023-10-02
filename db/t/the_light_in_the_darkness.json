@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2467,
+  "EOS_Progressed": 2468,
   "EOS_Completed": 227,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 9.2,
   "EosHistory": [
@@ -6368,6 +6368,11 @@
       "Time": "2023-10-02T11:05:24.7420984+00:00",
       "NumProgressed": 2467,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-10-02T15:05:37.9272852+00:00",
+      "NumProgressed": 2468,
+      "NumCompleted": 227
     }
   ],
   "TotalAchievements": 12,
@@ -6419,7 +6424,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "Jude",
@@ -6435,7 +6440,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "Little Helper",
@@ -6459,7 +6464,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "Nuremberg Laws",
@@ -6474,7 +6479,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2467,
+      "Progressed": 2468,
       "Completed": 227
     }
   ],
@@ -6482,8 +6487,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:05:22.2081621+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:05:37.9272848+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.0820452+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:43.4500492+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:05:22.2082467+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:59:48.8964691+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:05:37.927322+00:00"
 }

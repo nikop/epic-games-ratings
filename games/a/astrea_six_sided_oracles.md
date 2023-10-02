@@ -7,11 +7,11 @@
 | Mechanical Buddy | 97.00% | ~34 |
 | Meissa's Savior | 97.00% | ~34 |
 | Purification Pioneer | 97.00% | ~34 |
-| Dicesmithing Time! | 89.00% | ~31 |
+| Dicesmithing Time! | 91.00% | ~32 |
 | Wild's Keeper | 83.00% | ~29 |
+| Sanctuary Guardian | 80.00% | ~28 |
 | Endless Tricks | 77.00% | ~27 |
-| Sanctuary Guardian | 77.00% | ~27 |
-| Mind Illuminator | 66.00% | ~23 |
+| Mind Illuminator | 69.00% | ~24 |
 | Stellar Dismantler | 51.00% | ~18 |
 | Astral Adventurer | 40.00% | ~14 |
 | Star Killer | 37.00% | ~13 |
@@ -44,6 +44,7 @@
 | Critical Twist | 3.00% | ~1 |
 | Favored by the Cosmos | 3.00% | ~1 |
 | Plague Doctor | 3.00% | ~1 |
+| Purification Avatar | 3.00% | ~1 |
 | Reflexive Mind | 3.00% | ~1 |
 | The Abyssal Terror | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
@@ -77,7 +78,6 @@
 | Noctuan Champion | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
-| Purification Avatar | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |

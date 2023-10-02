@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": null,
@@ -228,17 +228,17 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_13",
@@ -252,9 +252,9 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_15",
@@ -292,9 +292,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": -3.2,
+      "Percentage": 0,
       "XP": 60,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_20",
@@ -388,9 +388,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_33",
@@ -442,7 +442,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:06:56.4129672+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:03:08.5374784+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:06:56.413015+00:00"
+  "LastChanged_Achievements": "2023-10-02T15:07:27.4972869+00:00",
+  "LastUpdate_Ratings": "2023-10-02T15:02:22.6152103+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:07:27.4973138+00:00"
 }

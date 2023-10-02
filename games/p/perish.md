@@ -16,13 +16,13 @@
 | Go For the Head | 4.00% | ~141 |
 | Spartan Sandal | 4.00% | ~141 |
 | Modest Earnings | 4.00% | ~141 |
+| Symbols of Heresy | 4.00% | ~141 |
 | The Sons of Minos | 4.00% | ~141 |
 | Eidola | 4.00% | ~141 |
 | Comedy and Tragedy | 3.00% | ~106 |
 | Pillars of Eternity | 3.00% | ~106 |
 | War Chest | 3.00% | ~106 |
 | Chthonic Investor | 3.00% | ~106 |
-| Symbols of Heresy | 3.00% | ~106 |
 | First Fragment | 3.00% | ~106 |
 | Sisters of the Pantheon | 3.00% | ~106 |
 | Labour of Apollo | 3.00% | ~106 |

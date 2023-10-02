@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,657 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,658 |
 | First Class Student | 13.00% | ~38,703 |
 | Troll with the Punches | 13.00% | ~38,703 |
 | A Keen Sense of Spell | 12.00% | ~35,726 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 118)
 | The Hero of Hogwarts | 10.00% | ~29,772 |
 | Challenge Accepted | 10.00% | ~29,772 |
 | Coasting Along | 10.00% | ~29,772 |
-| Followed the Butterflies | 9.00% | ~26,794 |
-| Rising From the Ashes | 9.00% | ~26,794 |
+| Followed the Butterflies | 9.00% | ~26,795 |
+| Rising From the Ashes | 9.00% | ~26,795 |
 | The Avenging Gazelle | 8.00% | ~23,817 |
 | A Sallow Grave | 8.00% | ~23,817 |
 | Flight the Good Flight | 8.00% | ~23,817 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 118)
 | The Intrepid Explorer | 4.00% | ~11,909 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,909 |
 | The Wise Owl | 4.00% | ~11,909 |
-| Put Down Roots | 3.00% | ~8,931 |
-| The Auror's Apprentice | 3.00% | ~8,931 |
-| Floo Around the World | 3.00% | ~8,931 |
+| Put Down Roots | 3.00% | ~8,932 |
+| The Auror's Apprentice | 3.00% | ~8,932 |
+| Floo Around the World | 3.00% | ~8,932 |
 | The Good Samaritan | 2.00% | ~5,954 |
 | Rise to the Challenges | 2.00% | ~5,954 |
 | Finishing Touches | 2.00% | ~5,954 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,715 (Ranked 46)  
+Progressed: 297,717 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,22 +216,22 @@ Completed: 479 (0.16%) (Ranked 226)
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
 | 2023-10-01 | 297,684 | 479 |
-| 2023-10-02 | 297,715 | 479 |
+| 2023-10-02 | 297,717 | 479 |
 ## Awards
 Max (Character Customization): 23,221  (Ranked 17)  
-Sum: 44,831 (Ranked 31)  
+Sum: 44,841 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,221 |
 | This game has Great Boss Battles | 11,501 |
 | This game is Great for Beginners | 1,124 |
-| This game has Amazing Storytelling | 1,095 |
+| This game has Amazing Storytelling | 1,100 |
 | This game has Diverse Characters | 1,086 |
 | This game is Relaxing | 1,081 |
 | This game is Extremely Fun | 1,075 |
 | This game has Amazing Characters | 1,049 |
-| This game is Highly Recommended | 1,039 |
+| This game is Highly Recommended | 1,044 |
 | This game has Quickly Understood Controls | 974 |
 | This game has Beautiful Visuals | 905 |
 | This game has a Creative Community | 681 |
@@ -430,4 +430,4 @@ Diff (max vs sum): -14
 | 2023-09-29 | 4.76 | 23,132 | 44,612 |
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
-| 2023-10-02 | 4.76 | 23,221 | 44,831 |
+| 2023-10-02 | 4.76 | 23,221 | 44,841 |

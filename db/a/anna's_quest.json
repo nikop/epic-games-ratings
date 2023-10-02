@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "aq_achievement_13",
       "SetID": "7jh86ne",
       "Name": "Honey, honey, honey\u2026",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_14",
@@ -325,9 +325,9 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "aq_achievement_25",
@@ -373,9 +373,9 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_30",
@@ -437,9 +437,9 @@
       "ID": "aq_achievement_37",
       "SetID": "7jh86ne",
       "Name": "Guilty conscience",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_38",
@@ -477,25 +477,25 @@
       "ID": "aq_achievement_6",
       "SetID": "7jh86ne",
       "Name": "Kekekeke...",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "aq_achievement_7",
       "SetID": "7jh86ne",
       "Name": "NOW GO AWAY!",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_9",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:05:55.8037924+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:06:17.1594535+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:43.6753242+00:00",
-  "LastUpdate_Ratings": "2023-10-02T14:00:42.2272845+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:05:55.8038478+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:00:52.6983028+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:06:17.1594801+00:00"
 }

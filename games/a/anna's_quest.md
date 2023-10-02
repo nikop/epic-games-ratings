@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escape artist | 84.00% | ~42 |
-| Book Worm | 64.00% | ~32 |
+| Book Worm | 66.00% | ~33 |
 | Ooh, it's shiny! | 62.00% | ~31 |
-| My lost nightingale | 54.00% | ~27 |
+| My lost nightingale | 56.00% | ~28 |
 | Through the woods | 52.00% | ~26 |
 | Back to the anvil | 46.00% | ~23 |
 | Fussy eater | 44.00% | ~22 |
 | So soothing... | 44.00% | ~22 |
+| Kekekeke... | 44.00% | ~22 |
 | Mystery solved | 42.00% | ~21 |
-| Kekekeke... | 42.00% | ~21 |
+| Honey, honey, honey… | 42.00% | ~21 |
+| Sorry Grandpa | 42.00% | ~21 |
 | Roostwig has entered the building | 42.00% | ~21 |
-| Honey, honey, honey… | 40.00% | ~20 |
 | Far away from home | 40.00% | ~20 |
-| Sorry Grandpa | 40.00% | ~20 |
+| NOW GO AWAY! | 40.00% | ~20 |
 | Game Over! | 38.00% | ~19 |
 | A very special drink | 38.00% | ~19 |
 | Little genius | 38.00% | ~19 |
-| NOW GO AWAY! | 38.00% | ~19 |
 | Show me your true self | 36.00% | ~18 |
 | No posters allowed | 36.00% | ~18 |
 | Shattered | 34.00% | ~17 |
@@ -38,8 +38,8 @@
 | Makeover | 26.00% | ~13 |
 | Bahahahaha... | 24.00% | ~12 |
 | Kill it! KILL IT! | 24.00% | ~12 |
+| Guilty conscience | 22.00% | ~11 |
 | Cameodalic | 20.00% | ~10 |
-| Guilty conscience | 20.00% | ~10 |
 | Clever reference #451 | 16.00% | ~8 |
 | What a mess | 14.00% | ~7 |
 | Posterboy! | 12.00% | ~6 |

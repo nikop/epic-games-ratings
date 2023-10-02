@@ -94,7 +94,7 @@
 | Fact Finder | 18.00% | ~95 |
 | Problem Solver | 18.00% | ~95 |
 | Pyromaniac | 17.00% | ~90 |
-| Under Pressure | 16.00% | ~85 |
+| Under Pressure | 17.00% | ~90 |
 | Last Resort | 16.00% | ~85 |
 | Hard Target | 16.00% | ~85 |
 | Saboteur | 16.00% | ~85 |

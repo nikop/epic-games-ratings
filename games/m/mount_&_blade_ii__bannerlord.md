@@ -6,38 +6,38 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,399 |
-| Landlord | 33.00% | ~20,645 |
+| Lawbringer | 39.00% | ~24,400 |
+| Landlord | 33.00% | ~20,646 |
 | Bannerlord | 23.00% | ~14,389 |
 | Horde breaker | 23.00% | ~14,389 |
 | Lawmaker | 23.00% | ~14,389 |
 | Trained | 23.00% | ~14,389 |
 | The king is pleased | 18.00% | ~11,261 |
-| King Solomon | 17.00% | ~10,635 |
+| King Solomon | 17.00% | ~10,636 |
 | I can do it | 16.00% | ~10,010 |
 | Apple of my eye | 15.00% | ~9,384 |
 | God of the Arena | 13.00% | ~8,133 |
-| Against all odds | 12.00% | ~7,507 |
-| This Is Our Land | 12.00% | ~7,507 |
+| Against all odds | 12.00% | ~7,508 |
+| This Is Our Land | 12.00% | ~7,508 |
 | Duelist | 10.00% | ~6,256 |
 | Dynasty | 10.00% | ~6,256 |
 | Swordbearer | 10.00% | ~6,256 |
 | What have the Romans ever done for us? | 10.00% | ~6,256 |
-| I spit on your grave | 9.00% | ~5,630 |
+| I spit on your grave | 9.00% | ~5,631 |
 | Butterlord | 8.00% | ~5,005 |
 | Know your enemy | 7.00% | ~4,379 |
 | Mastery | 7.00% | ~4,379 |
 | Crush your enemies | 5.00% | ~3,128 |
 | My way | 5.00% | ~3,128 |
-| Crowdfunded | 4.00% | ~2,502 |
-| Veni vidi vici | 4.00% | ~2,502 |
+| Crowdfunded | 4.00% | ~2,503 |
+| Veni vidi vici | 4.00% | ~2,503 |
 | Freedom! | 3.00% | ~1,877 |
 | Long live the Empire! | 3.00% | ~1,877 |
 | Real Estate | 3.00% | ~1,877 |
 | Entrepreneur | 1.00% | ~626 |
 | Supreme Emperor | 1.00% | ~626 |
-| Crackshot | 0.80% | ~500 |
-| Undercover | 0.80% | ~500 |
+| Crackshot | 0.80% | ~501 |
+| Undercover | 0.80% | ~501 |
 | Fat Cat | 0.70% | ~438 |
 | Catch | 0.60% | ~375 |
 | Slice 'n dice | 0.50% | ~313 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,561 (Ranked 94)  
+Progressed: 62,563 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-29 | 62,367 | 0 |
 | 2023-09-30 | 62,446 | 0 |
 | 2023-10-01 | 62,521 | 0 |
-| 2023-10-02 | 62,561 | 0 |
+| 2023-10-02 | 62,563 | 0 |
 ## Awards
 Max (Character Customization): 7,170  (Ranked 52)  
 Sum: 14,684 (Ranked 66)  

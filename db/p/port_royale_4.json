@@ -240,7 +240,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -2265,6 +2265,11 @@
       "Time": "2023-10-01T13:06:04.2978147+00:00",
       "NumProgressed": 941,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T15:04:30.058657+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2276,7 +2281,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH001",
@@ -2284,7 +2289,7 @@
       "Name": "Seafarer",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH002",
@@ -2332,7 +2337,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH008",
@@ -2346,7 +2351,7 @@
       "ID": "ACH009",
       "SetID": "69nfp41",
       "Name": "Capitalist",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -2356,7 +2361,7 @@
       "Name": "Conglomerate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH011",
@@ -2364,7 +2369,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH012",
@@ -2388,7 +2393,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH015",
@@ -2396,7 +2401,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH016",
@@ -2412,7 +2417,7 @@
       "Name": "Pearly gates",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH018",
@@ -2420,7 +2425,7 @@
       "Name": "The Grande Bouffe",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH019",
@@ -2444,7 +2449,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH022",
@@ -2460,7 +2465,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH024",
@@ -2508,21 +2513,21 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH030",
       "SetID": "69nfp41",
       "Name": "Walk the plank",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH031",
       "SetID": "69nfp41",
       "Name": "Parlay?",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -2580,7 +2585,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH039",
@@ -2660,7 +2665,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH049",
@@ -2675,15 +2680,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:04:23.2688733+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:04:30.0586565+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.0354085+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:56.2260101+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:04:23.2689402+00:00"
+  "LastUpdate_Ratings": "2023-10-02T15:00:03.9650225+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:04:30.0587009+00:00"
 }

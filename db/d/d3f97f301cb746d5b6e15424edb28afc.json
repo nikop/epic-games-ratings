@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 119,
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -267,9 +267,9 @@
       "ID": "ACH_CAR_WASH_03",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 3",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_CAR_WASH_04",
@@ -323,9 +323,9 @@
       "ID": "ACH_WASHCAR_03",
       "SetID": "5fn8ia4",
       "Name": "Sand? Not a problem",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "GSS_ACH_01_SHOP_01",
@@ -419,9 +419,9 @@
       "ID": "GSS_ACH_12_RACE_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "RC Car Racer!",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
@@ -507,9 +507,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -715,9 +715,9 @@
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 5",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
@@ -739,17 +739,17 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 4",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
@@ -763,9 +763,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -787,17 +787,17 @@
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 5",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GSS_ACH_61_POPULARITY_01",
@@ -891,9 +891,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -986,8 +986,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:08:19.2314835+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:08:24.9342318+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:59:00.3683547+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:08:19.2316771+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:59:05.013714+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:08:24.9343153+00:00"
 }

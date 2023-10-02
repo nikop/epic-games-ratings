@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1615,
+  "EOS_Progressed": 1616,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2208,6 +2208,11 @@
       "Time": "2023-10-01T12:08:15.4606749+00:00",
       "NumProgressed": 1615,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-02T15:08:33.0687103+00:00",
+      "NumProgressed": 1616,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -2219,7 +2224,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2275,7 +2280,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2283,7 +2288,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2291,7 +2296,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2307,7 +2312,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -2331,7 +2336,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2345,9 +2350,9 @@
       "ID": "ACHIEVEMENTS_17",
       "SetID": "d4o538a",
       "Name": "Kind-hearted",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 420
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2522,7 +2527,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1615,
+      "Progressed": 1616,
       "Completed": 9
     }
   ],
@@ -2530,8 +2535,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-10-02T14:08:26.3162625+00:00",
+  "LastChanged_Achievements": "2023-10-02T15:08:33.0687099+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:09.4171148+00:00",
-  "LastUpdate_Ratings": "2023-10-02T13:58:33.8175141+00:00",
-  "LastUpdate_Achievements": "2023-10-02T14:08:26.3163371+00:00"
+  "LastUpdate_Ratings": "2023-10-02T14:58:34.1980577+00:00",
+  "LastUpdate_Achievements": "2023-10-02T15:08:33.0687423+00:00"
 }

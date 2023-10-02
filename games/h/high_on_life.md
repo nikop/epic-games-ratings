@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 314)
 | Meet Frasier from Frasier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,106 (Ranked 116)  
-Completed: 12 (0.05%) (Ranked 264)  
+Completed: 12 (0.05%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
