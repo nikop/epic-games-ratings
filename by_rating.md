@@ -154,7 +154,7 @@
 | 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,963 | 27 |
 | 149 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 705 | 174 |
 | 149 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 525 |
-| 149 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,168 | 52 |
+| 149 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,170 | 52 |
 | 149 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 525 |
 | 149 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 38,949 | 13 |
 | 149 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 525 |
@@ -228,7 +228,7 @@
 | 221 | [House Flipper](games/h/house_flipper.md) | 4.69 | 311 | 239 |
 | 221 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 525 |
 | 221 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 525 |
-| 221 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,200 | 137 |
+| 221 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,202 | 137 |
 | 221 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 525 |
 | 221 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 525 |
 | 221 | [Revita](games/r/revita.md) | 4.69 | 0 | 525 |
@@ -252,7 +252,7 @@
 | 243 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,964 | 83 |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,531 | 78 |
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 308,486 | 3 |
-| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 235,111 | 4 |
+| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 235,609 | 4 |
 | 243 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 525 |
 | 243 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 525 |
 | 243 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 568 | 192 |
@@ -956,21 +956,21 @@
 | 950 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 525 |
 | 955 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.04 | 0 | 525 |
 | 955 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 525 |
-| 957 | [Lake](games/l/lake.md) | 4.03 | 0 | 525 |
-| 957 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 525 |
-| 959 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.00 | 0 | 525 |
-| 959 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 525 |
-| 959 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 525 |
-| 962 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 226 |
-| 962 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.99 | 0 | 525 |
-| 962 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.99 | 0 | 525 |
-| 962 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,763 | 71 |
-| 966 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 525 |
-| 966 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.98 | 0 | 525 |
-| 966 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,855 | 84 |
-| 966 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 525 |
-| 970 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 525 |
-| 970 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 3.97 | 0 | 525 |
+| 955 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.04 | 0 | 525 |
+| 958 | [Lake](games/l/lake.md) | 4.03 | 0 | 525 |
+| 958 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 525 |
+| 960 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.00 | 0 | 525 |
+| 960 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 525 |
+| 960 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 525 |
+| 963 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 226 |
+| 963 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.99 | 0 | 525 |
+| 963 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.99 | 0 | 525 |
+| 963 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,763 | 71 |
+| 967 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 525 |
+| 967 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.98 | 0 | 525 |
+| 967 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,855 | 84 |
+| 967 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 525 |
+| 971 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 525 |
 | 972 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 422 |
 | 972 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 3.95 | 0 | 525 |
 | 972 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.95 | 0 | 525 |
